@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_418-1_Slave.png
 portrait: images/fffv1/FFF_418-1_Slave.jpg
 tokenImg: images/fffv1/token/FFF_418-1_Slave.png
 type: being
-package: harnensemble
 social:
   occupation: Slave
   class: slave

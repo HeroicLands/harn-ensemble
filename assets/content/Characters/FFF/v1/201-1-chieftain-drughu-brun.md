@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_201-1_Chieftain_Drughu.png
 portrait: images/fffv1/FFF_201-1_Chieftain_Drughu.jpg
 tokenImg: images/fffv1/token/FFF_201-1_Chieftain_Drughu.png
 type: being
-package: harnensemble
 social:
   occupation: Chieftain
   class: tribesman

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_607-2_Priest_Peoni.png
 portrait: images/fffv1/FFF_607-2_Priest_Peoni.jpg
 tokenImg: images/fffv1/token/FFF_607-2_Priest_Peoni.png
 type: being
-package: harnensemble
 social:
   occupation: Peonian Acolyte
   class: freeman

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_503-1_Page.png
 portrait: images/fffv1/FFF_503-1_Page.jpg
 tokenImg: images/fffv1/token/FFF_503-1_Page.png
 type: being
-package: harnensemble
 social:
   occupation: Page
   class: freeman

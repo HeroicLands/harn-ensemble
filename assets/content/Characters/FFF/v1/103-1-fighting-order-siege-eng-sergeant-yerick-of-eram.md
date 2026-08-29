@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_103-1_Fighting_Order_Siege_Eng.png
 portrait: images/fffv1/FFF_103-1_Fighting_Order_Siege_Eng.jpg
 tokenImg: images/fffv1/token/FFF_103-1_Fighting_Order_Siege_Eng.png
 type: being
-package: harnensemble
 social:
   occupation: Fighting Order (MF)
   class: freeman

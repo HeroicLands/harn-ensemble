@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_707-1_Shek_Pvar_Grey.png
 portrait: images/fffv1/FFF_707-1_Shek_Pvar_Grey.jpg
 tokenImg: images/fffv1/token/FFF_707-1_Shek_Pvar_Grey.png
 type: being
-package: harnensemble
 social:
   occupation: Gray Mage
   class: freeman

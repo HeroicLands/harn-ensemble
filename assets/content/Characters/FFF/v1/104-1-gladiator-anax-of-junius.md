@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_104-1_Gladiator.png
 portrait: images/fffv1/FFF_104-1_Gladiator.jpg
 tokenImg: images/fffv1/token/FFF_104-1_Gladiator.png
 type: being
-package: harnensemble
 social:
   occupation: Manservant
   class: freeman ex-slave

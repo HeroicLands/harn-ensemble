@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_605-1_Priest_Morgath.png
 portrait: images/fffv1/FFF_605-1_Priest_Morgath.jpg
 tokenImg: images/fffv1/token/FFF_605-1_Priest_Morgath.png
 type: being
-package: harnensemble
 social:
   occupation: Priest of Morgath
   class: freeman

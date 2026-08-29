@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_506-3_Feudal_Knight_MH.png
 portrait: images/fffv1/FFF_506-3_Feudal_Knight_MH.jpg
 tokenImg: images/fffv1/token/FFF_506-3_Feudal_Knight_MH.png
 type: being
-package: harnensemble
 social:
   occupation: Knight Bachelor (MH)
   class: noble

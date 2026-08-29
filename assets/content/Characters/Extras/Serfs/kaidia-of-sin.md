@@ -13,7 +13,6 @@ folder: iDDaFg6xn9T7tb0L
 shortcode: kaidiaofsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Farmer
   class: unguilded

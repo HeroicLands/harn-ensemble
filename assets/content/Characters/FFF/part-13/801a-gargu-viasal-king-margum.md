@@ -16,7 +16,6 @@ img: images/fff-13/FFF_801a_Gargu-Viasal_King-headshot.webp
 portrait: images/fff-13/FFF_801a_Gargu-Viasal_King.webp
 tokenImg: images/fff-13/FFF_801a_Gargu-Viasal_King-token.webp
 type: being
-package: harnensemble
 social:
   occupation: King
   class: king

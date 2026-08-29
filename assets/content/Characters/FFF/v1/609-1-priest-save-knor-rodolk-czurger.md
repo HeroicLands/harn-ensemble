@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_609-1_Priest_Save_Knor.png
 portrait: images/fffv1/FFF_609-1_Priest_Save_Knor.jpg
 tokenImg: images/fffv1/token/FFF_609-1_Priest_Save_Knor.png
 type: being
-package: harnensemble
 social:
   occupation: Priest of Save K'nor
   class: freeman

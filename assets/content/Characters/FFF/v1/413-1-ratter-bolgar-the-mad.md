@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_413-1_Ratter.png
 portrait: images/fffv1/FFF_413-1_Ratter.jpg
 tokenImg: images/fffv1/token/FFF_413-1_Ratter.png
 type: being
-package: harnensemble
 social:
   occupation: Ratter
   class: freeman ex-serf

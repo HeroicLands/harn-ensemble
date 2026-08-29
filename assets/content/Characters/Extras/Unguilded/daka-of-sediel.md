@@ -13,7 +13,6 @@ folder: wqZxeSsm1ABX2AGx
 shortcode: dakaofsediel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Hunter/Trapper
   class: serf

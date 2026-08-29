@@ -13,7 +13,6 @@ folder: wYO4XEaOHdLCVUM0
 shortcode: baeofway
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Viking Huscarl, Medium Foot
   class: serf

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_206-2_Hunter_Anoa.png
 portrait: images/fffv1/FFF_206-2_Hunter_Anoa.jpg
 tokenImg: images/fffv1/token/FFF_206-2_Hunter_Anoa.png
 type: being
-package: harnensemble
 social:
   occupation: Hunter
   class: tribesman

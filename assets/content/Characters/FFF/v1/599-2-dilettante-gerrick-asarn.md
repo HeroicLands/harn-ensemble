@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_599-2_Dilettante.png
 portrait: images/fffv1/FFF_599-2_Dilettante.jpg
 tokenImg: images/fffv1/token/FFF_599-2_Dilettante.png
 type: being
-package: harnensemble
 social:
   occupation: Patrician
   class: noble

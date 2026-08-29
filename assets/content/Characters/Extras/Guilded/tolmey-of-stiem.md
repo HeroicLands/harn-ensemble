@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: tolmeyofstiem
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Miner
   class: serf

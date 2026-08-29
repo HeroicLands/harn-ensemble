@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_420-1_Tenant_Officer.png
 portrait: images/fffv1/FFF_420-1_Tenant_Officer.jpg
 tokenImg: images/fffv1/token/FFF_420-1_Tenant_Officer.png
 type: being
-package: harnensemble
 social:
   occupation: Reeve
   class: serf

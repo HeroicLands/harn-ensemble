@@ -4,7 +4,6 @@ aliases:
 tags: []
 id: PeEqzUUEjeOJRTQu
 type: affiliation
-package: harnensemble
 shortcode: fffchybisans
 img: ""
 name:

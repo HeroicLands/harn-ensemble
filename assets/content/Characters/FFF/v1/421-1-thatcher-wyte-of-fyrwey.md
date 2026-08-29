@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_421-1_Thatcher.png
 portrait: images/fffv1/FFF_421-1_Thatcher.jpg
 tokenImg: images/fffv1/token/FFF_421-1_Thatcher.png
 type: being
-package: harnensemble
 social:
   occupation: Thatcher
   class: freeman

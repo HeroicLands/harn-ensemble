@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_606-2_Priest_Naveh.png
 portrait: images/fffv1/FFF_606-2_Priest_Naveh.jpg
 tokenImg: images/fffv1/token/FFF_606-2_Priest_Naveh.png
 type: being
-package: harnensemble
 social:
   occupation: Priest of Naveh
   class: freeman

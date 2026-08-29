@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_506-1_Feudal_Knight_HH.png
 portrait: images/fffv1/FFF_506-1_Feudal_Knight_HH.jpg
 tokenImg: images/fffv1/token/FFF_506-1_Feudal_Knight_HH.png
 type: being
-package: harnensemble
 social:
   occupation: Tournament knight
   class: noble

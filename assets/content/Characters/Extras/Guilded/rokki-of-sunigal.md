@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: rokkiofsunigal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Lexigrapher
   class: serf

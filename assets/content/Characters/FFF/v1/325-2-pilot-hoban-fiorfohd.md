@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_325-2_Pilot.png
 portrait: images/fffv1/FFF_325-2_Pilot.jpg
 tokenImg: images/fffv1/token/FFF_325-2_Pilot.png
 type: being
-package: harnensemble
 social:
   occupation: Pilot
   class: freeman

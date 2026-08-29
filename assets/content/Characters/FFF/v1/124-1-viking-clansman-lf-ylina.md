@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_124-1_Viking_Clansman_LF.png
 portrait: images/fffv1/FFF_124-1_Viking_Clansman_LF.jpg
 tokenImg: images/fffv1/token/FFF_124-1_Viking_Clansman_LF.png
 type: being
-package: harnensemble
 social:
   occupation: Shieldmaiden
   class: freeman

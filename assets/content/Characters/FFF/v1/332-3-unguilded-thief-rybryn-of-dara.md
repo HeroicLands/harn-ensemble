@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_332-3_Unguilded_Thief.png
 portrait: images/fffv1/FFF_332-3_Unguilded_Thief.jpg
 tokenImg: images/fffv1/token/FFF_332-3_Unguilded_Thief.png
 type: being
-package: harnensemble
 social:
   occupation: Unguilded thief
   class: freeman

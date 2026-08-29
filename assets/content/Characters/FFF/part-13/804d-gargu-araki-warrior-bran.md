@@ -16,7 +16,6 @@ img: images/fff-13/FFF_804d_Gargu-Araki_Warrior-headshot.webp
 portrait: images/fff-13/FFF_804d_Gargu-Araki_Warrior.webp
 tokenImg: images/fff-13/FFF_804d_Gargu-Araki_Warrior-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Warrior
   class: slave

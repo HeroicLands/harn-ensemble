@@ -16,7 +16,6 @@ img: images/fff-13/FFF_803b_Gargu-Kyani_Princess-headshot.webp
 portrait: images/fff-13/FFF_803b_Gargu-Kyani_Princess.webp
 tokenImg: images/fff-13/FFF_803b_Gargu-Kyani_Princess-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Princess
   class: princess

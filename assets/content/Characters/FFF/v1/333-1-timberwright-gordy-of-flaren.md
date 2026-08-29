@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_333-1_Timberwright.png
 portrait: images/fffv1/FFF_333-1_Timberwright.jpg
 tokenImg: images/fffv1/token/FFF_333-1_Timberwright.png
 type: being
-package: harnensemble
 social:
   occupation: Timberwright
   class: freeman

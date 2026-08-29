@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_504-1_Squire.png
 portrait: images/fffv1/FFF_504-1_Squire.jpg
 tokenImg: images/fffv1/token/FFF_504-1_Squire.png
 type: being
-package: harnensemble
 social:
   occupation: Squire
   class: noble

@@ -16,7 +16,6 @@ img: images/fff-13/FFF_704a_Fyvrian_Shek-Pvar-headshot.webp
 portrait: images/fff-13/FFF_704a_Fyvrian_Shek-Pvar.webp
 tokenImg: images/fff-13/FFF_704a_Fyvrian_Shek-Pvar-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Shek-Pvar
   class: freeman

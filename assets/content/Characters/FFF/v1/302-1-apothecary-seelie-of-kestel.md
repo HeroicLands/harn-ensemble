@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_302-1_Apothecary.png
 portrait: images/fffv1/FFF_302-1_Apothecary.jpg
 tokenImg: images/fffv1/token/FFF_302-1_Apothecary.png
 type: being
-package: harnensemble
 social:
   occupation: Apothecary
   class: freeman

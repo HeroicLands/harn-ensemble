@@ -13,7 +13,6 @@ folder: lJ4R58L7PULmhYxr
 shortcode: dourilofbela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: "Shek-Pvar/Odivshe****"
   class: serf

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_106-1_Khuzdul_MF.png
 portrait: images/fffv1/FFF_106-1_Khuzdul_MF.jpg
 tokenImg: images/fffv1/token/FFF_106-1_Khuzdul_MF.png
 type: being
-package: harnensemble
 social:
   occupation: Clansman (MF)
   class: freeman

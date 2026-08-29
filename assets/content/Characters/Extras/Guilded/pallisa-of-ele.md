@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: pallisaofele
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Ostler
   class: serf

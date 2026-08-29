@@ -13,7 +13,6 @@ folder: ZVUcnWpJEJxXzWw6
 shortcode: lysatofsarnesku
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Cleric/Peoni
   class: unguilded

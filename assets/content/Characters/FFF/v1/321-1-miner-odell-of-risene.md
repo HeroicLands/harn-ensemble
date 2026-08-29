@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_321-1_Miner.png
 portrait: images/fffv1/FFF_321-1_Miner.jpg
 tokenImg: images/fffv1/token/FFF_321-1_Miner.png
 type: being
-package: harnensemble
 social:
   occupation: Miner
   class: freeman

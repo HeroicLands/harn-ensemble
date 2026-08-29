@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_207-1_Shaman_Kath.png
 portrait: images/fffv1/FFF_207-1_Shaman_Kath.jpg
 tokenImg: images/fffv1/token/FFF_207-1_Shaman_Kath.png
 type: being
-package: harnensemble
 social:
   occupation: Shaman
   class: tribesman

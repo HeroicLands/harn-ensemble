@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_320-1_Miller.png
 portrait: images/fffv1/FFF_320-1_Miller.jpg
 tokenImg: images/fffv1/token/FFF_320-1_Miller.png
 type: being
-package: harnensemble
 social:
   occupation: Miller
   class: freeman

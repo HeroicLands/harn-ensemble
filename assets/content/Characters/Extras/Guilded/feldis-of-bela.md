@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: feldisofbela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Miner
   class: serf

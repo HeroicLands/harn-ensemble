@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_127-5_Yeoman_LB.png
 portrait: images/fffv1/FFF_127-5_Yeoman_LB.jpg
 tokenImg: images/fffv1/token/FFF_127-5_Yeoman_LB.png
 type: being
-package: harnensemble
 social:
   occupation: Yeoman (LB)
   class: freeman

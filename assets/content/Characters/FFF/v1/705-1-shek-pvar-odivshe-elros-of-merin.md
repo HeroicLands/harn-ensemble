@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_705-1_Shek_Pvar_Odivshe.png
 portrait: images/fffv1/FFF_705-1_Shek_Pvar_Odivshe.jpg
 tokenImg: images/fffv1/token/FFF_705-1_Shek_Pvar_Odivshe.png
 type: being
-package: harnensemble
 social:
   occupation: Ship Captain
   class: freeman

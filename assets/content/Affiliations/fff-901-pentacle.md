@@ -4,7 +4,6 @@ aliases:
 tags: []
 id: iQzDh13KVsOrpbqc
 type: affiliation
-package: harnensemble
 shortcode: fffpentacle
 img: ""
 name:

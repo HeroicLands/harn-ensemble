@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: bresynofibine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Thief
   class: serf

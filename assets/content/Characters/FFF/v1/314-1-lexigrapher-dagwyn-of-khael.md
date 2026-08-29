@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_314-1_Lexigrapher.png
 portrait: images/fffv1/FFF_314-1_Lexigrapher.jpg
 tokenImg: images/fffv1/token/FFF_314-1_Lexigrapher.png
 type: being
-package: harnensemble
 social:
   occupation: Lexigrapher
   class: freeman

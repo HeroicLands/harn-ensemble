@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_324-2_Physician.png
 portrait: images/fffv1/FFF_324-2_Physician.jpg
 tokenImg: images/fffv1/token/FFF_324-2_Physician.png
 type: being
-package: harnensemble
 social:
   occupation: Physician
   class: freeman

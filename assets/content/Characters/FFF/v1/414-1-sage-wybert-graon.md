@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_414-1_Sage.png
 portrait: images/fffv1/FFF_414-1_Sage.jpg
 tokenImg: images/fffv1/token/FFF_414-1_Sage.png
 type: being
-package: harnensemble
 social:
   occupation: Sage/Tutor
   class: freeman

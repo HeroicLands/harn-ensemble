@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_508-1_Knight_Patrician_HH.png
 portrait: images/fffv1/FFF_508-1_Knight_Patrician_HH.jpg
 tokenImg: images/fffv1/token/FFF_508-1_Knight_Patrician_HH.png
 type: being
-package: harnensemble
 social:
   occupation: Patrician Knight
   class: noble

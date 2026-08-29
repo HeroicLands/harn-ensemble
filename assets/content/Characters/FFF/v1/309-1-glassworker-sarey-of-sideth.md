@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_309-1_Glassworker.png
 portrait: images/fffv1/FFF_309-1_Glassworker.jpg
 tokenImg: images/fffv1/token/FFF_309-1_Glassworker.png
 type: being
-package: harnensemble
 social:
   occupation: Glassworker
   class: freeman

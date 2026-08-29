@@ -13,7 +13,6 @@ folder: wqZxeSsm1ABX2AGx
 shortcode: baranofcellenamluger
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Sindarin Ranger, Light
   class: serf

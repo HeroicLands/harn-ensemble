@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_417-2_Servant.png
 portrait: images/fffv1/FFF_417-2_Servant.jpg
 tokenImg: images/fffv1/token/FFF_417-2_Servant.png
 type: being
-package: harnensemble
 social:
   occupation: Household Cook
   class: freeman

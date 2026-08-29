@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_108-1_Siege_Engineer.png
 portrait: images/fffv1/FFF_108-1_Siege_Engineer.jpg
 tokenImg: images/fffv1/token/FFF_108-1_Siege_Engineer.png
 type: being
-package: harnensemble
 social:
   occupation: Siege Engineer
   class: freeman

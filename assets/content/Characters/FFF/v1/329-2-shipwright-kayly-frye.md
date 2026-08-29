@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_329-2_Shipwright.png
 portrait: images/fffv1/FFF_329-2_Shipwright.jpg
 tokenImg: images/fffv1/token/FFF_329-2_Shipwright.png
 type: being
-package: harnensemble
 social:
   occupation: Shipwright
   class: freeman

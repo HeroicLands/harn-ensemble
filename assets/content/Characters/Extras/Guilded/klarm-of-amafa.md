@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: klarmofamafa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Courtesan
   class: serf

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_307-1_Courtesan.png
 portrait: images/fffv1/FFF_307-1_Courtesan.jpg
 tokenImg: images/fffv1/token/FFF_307-1_Courtesan.png
 type: being
-package: harnensemble
 social:
   occupation: Courtesan
   class: freeman

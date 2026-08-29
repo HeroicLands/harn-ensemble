@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_411-1_Prostitute.png
 portrait: images/fffv1/FFF_411-1_Prostitute.jpg
 tokenImg: images/fffv1/token/FFF_411-1_Prostitute.png
 type: being
-package: harnensemble
 social:
   occupation: Prostitute
   class: freeman

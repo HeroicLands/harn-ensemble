@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_116-1_Mercenary_MH.png
 portrait: images/fffv1/FFF_116-1_Mercenary_MH.jpg
 tokenImg: images/fffv1/token/FFF_116-1_Mercenary_MH.png
 type: being
-package: harnensemble
 social:
   occupation: Mercenary (MH)
   class: noble

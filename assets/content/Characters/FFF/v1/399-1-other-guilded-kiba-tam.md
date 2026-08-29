@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_399-1_Other_Guilded.png
 portrait: images/fffv1/FFF_399-1_Other_Guilded.jpg
 tokenImg: images/fffv1/token/FFF_399-1_Other_Guilded.png
 type: being
-package: harnensemble
 social:
   occupation: Guildsman's offspring
   class: freeman

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_115-1_Mercenary_MF.png
 portrait: images/fffv1/FFF_115-1_Mercenary_MF.jpg
 tokenImg: images/fffv1/token/FFF_115-1_Mercenary_MF.png
 type: being
-package: harnensemble
 social:
   occupation: Mercenary (MF)
   class: freeman

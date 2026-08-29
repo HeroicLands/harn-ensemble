@@ -13,7 +13,6 @@ folder: ZVUcnWpJEJxXzWw6
 shortcode: arvaofchels
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Cleric/Naveh
   class: serf

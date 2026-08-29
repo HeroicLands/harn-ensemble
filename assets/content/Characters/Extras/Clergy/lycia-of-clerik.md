@@ -13,7 +13,6 @@ folder: ZVUcnWpJEJxXzWw6
 shortcode: lyciaofclerik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Cleric/Morgath
   class: serf

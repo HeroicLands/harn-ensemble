@@ -16,7 +16,6 @@ img: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess-headshot.webp
 portrait: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess.webp
 tokenImg: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Warrior
   class: princess

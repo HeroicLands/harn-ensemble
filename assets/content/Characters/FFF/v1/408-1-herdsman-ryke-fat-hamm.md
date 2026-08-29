@@ -17,7 +17,6 @@ img: images/fffv1/token/FFF_408-1_Herdsman.png
 portrait: images/fffv1/FFF_408-1_Herdsman.jpg
 tokenImg: images/fffv1/token/FFF_408-1_Herdsman.png
 type: being
-package: harnensemble
 social:
   occupation: Herdsman/Beggar
   class: freeman

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_109-1_Legionnaire_LF.png
 portrait: images/fffv1/FFF_109-1_Legionnaire_LF.jpg
 tokenImg: images/fffv1/token/FFF_109-1_Legionnaire_LF.png
 type: being
-package: harnensemble
 social:
   occupation: Legionnaire (LF)
   class: freeman

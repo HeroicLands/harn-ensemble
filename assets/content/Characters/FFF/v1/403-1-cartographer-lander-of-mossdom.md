@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_403-1_Cartographer.png
 portrait: images/fffv1/FFF_403-1_Cartographer.jpg
 tokenImg: images/fffv1/token/FFF_403-1_Cartographer.png
 type: being
-package: harnensemble
 social:
   occupation: Cartographer
   class: freeman

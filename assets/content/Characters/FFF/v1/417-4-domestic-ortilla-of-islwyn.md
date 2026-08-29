@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_417-4_Domestic.png
 portrait: images/fffv1/FFF_417-4_Domestic.jpg
 tokenImg: images/fffv1/token/FFF_417-4_Domestic.png
 type: being
-package: harnensemble
 social:
   occupation: Chief domestic
   class: freeman

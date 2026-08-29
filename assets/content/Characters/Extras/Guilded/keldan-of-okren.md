@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: keldanofokren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Tentmaker
   class: guilded

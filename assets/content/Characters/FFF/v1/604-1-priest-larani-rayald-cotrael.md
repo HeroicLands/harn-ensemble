@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_604-1_Priest_Larani.png
 portrait: images/fffv1/FFF_604-1_Priest_Larani.jpg
 tokenImg: images/fffv1/token/FFF_604-1_Priest_Larani.png
 type: being
-package: harnensemble
 social:
   occupation: Laranian Priest
   class: noble

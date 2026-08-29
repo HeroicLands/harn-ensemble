@@ -17,7 +17,6 @@ img: images/fffv1/token/FFF_702-1_Shek_Pvar_Peleahn.png
 portrait: images/fffv1/FFF_702-1_Shek_Pvar_Peleahn.jpg
 tokenImg: images/fffv1/token/FFF_702-1_Shek_Pvar_Peleahn.png
 type: being
-package: harnensemble
 social:
   occupation: Peleahn Shek-Pvar
   class: freeman

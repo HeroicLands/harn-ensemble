@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: erechofamafa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Jeweler
   class: unguilded

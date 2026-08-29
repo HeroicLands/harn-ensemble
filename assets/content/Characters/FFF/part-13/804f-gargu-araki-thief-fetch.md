@@ -16,7 +16,6 @@ img: images/fff-13/FFF_804f_Gargu-Araki_Thief-headshot.webp
 portrait: images/fff-13/FFF_804f_Gargu-Araki_Thief.webp
 tokenImg: images/fff-13/FFF_804f_Gargu-Araki_Thief-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Thief
   class: warrior

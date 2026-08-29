@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_112-1_Man_at_Arms_LF.png
 portrait: images/fffv1/FFF_112-1_Man_at_Arms_LF.jpg
 tokenImg: images/fffv1/token/FFF_112-1_Man_at_Arms_LF.png
 type: being
-package: harnensemble
 social:
   occupation: Man-at-Arms (LF)
   class: freeman

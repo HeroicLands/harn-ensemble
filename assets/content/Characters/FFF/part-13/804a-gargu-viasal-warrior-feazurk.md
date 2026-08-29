@@ -16,7 +16,6 @@ img: images/fff-13/FFF_804a_Gargu-Viasal_Warrior-headshot.webp
 portrait: images/fff-13/FFF_804a_Gargu-Viasal_Warrior.webp
 tokenImg: images/fff-13/FFF_804a_Gargu-Viasal_Warrior-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Warrior
   class: warrior

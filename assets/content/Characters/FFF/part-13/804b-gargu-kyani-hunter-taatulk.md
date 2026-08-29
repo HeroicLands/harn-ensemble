@@ -16,7 +16,6 @@ img: images/fff-13/FFF_804b_Gargu-Kyani_Hunter-headshot.webp
 portrait: images/fff-13/FFF_804b_Gargu-Kyani_Hunter.webp
 tokenImg: images/fff-13/FFF_804b_Gargu-Kyani_Hunter-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Warrior
   class: hunter

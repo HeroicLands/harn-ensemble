@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_610-1_Priest_Siem.png
 portrait: images/fffv1/FFF_610-1_Priest_Siem.jpg
 tokenImg: images/fffv1/token/FFF_610-1_Priest_Siem.png
 type: being
-package: harnensemble
 social:
   occupation: Priest of Siem
   class: freeman

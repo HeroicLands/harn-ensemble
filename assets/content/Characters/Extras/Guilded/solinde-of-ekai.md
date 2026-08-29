@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: solindeofekai
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Potter
   class: unguilded

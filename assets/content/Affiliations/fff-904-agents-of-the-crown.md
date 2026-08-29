@@ -4,7 +4,6 @@ aliases:
 tags: []
 id: tcM3VLVYfSXzCDFd
 type: affiliation
-package: harnensemble
 shortcode: fffagntscrwn
 img: ""
 name:

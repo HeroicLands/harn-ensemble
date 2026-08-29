@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_317-1_Mason.png
 portrait: images/fffv1/FFF_317-1_Mason.jpg
 tokenImg: images/fffv1/token/FFF_317-1_Mason.png
 type: being
-package: harnensemble
 social:
   occupation: Mason
   class: freeman

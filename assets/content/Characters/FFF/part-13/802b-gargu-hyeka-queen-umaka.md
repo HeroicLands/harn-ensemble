@@ -16,7 +16,6 @@ img: images/fff-13/FFF_802b_Gargu-Hyeka_Queen-headshot.webp
 portrait: images/fff-13/FFF_802b_Gargu-Hyeka_Queen.webp
 tokenImg: images/fff-13/FFF_802b_Gargu-Hyeka_Queen-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Queen
   class: queen

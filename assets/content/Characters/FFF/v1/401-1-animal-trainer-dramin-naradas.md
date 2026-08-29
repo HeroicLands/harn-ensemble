@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_401-1_Animal_Trainer.png
 portrait: images/fffv1/FFF_401-1_Animal_Trainer.jpg
 tokenImg: images/fffv1/token/FFF_401-1_Animal_Trainer.png
 type: being
-package: harnensemble
 social:
   occupation: Animal Trainer
   class: freeman
