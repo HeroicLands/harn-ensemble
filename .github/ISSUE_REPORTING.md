@@ -1,19 +1,36 @@
-# Issue Reporting — sohl-kethira-basic
+# Issue Reporting — harn-ensemble
 
 This document defines how issues are created and classified in the
-**`sohl-kethira-basic`** repository, which ships the `kethira` package: unofficial
-Hârn fan material, as Foundry compendium packs and nothing else.
+**`harn-ensemble`** repository, which ships the Hârn Ensemble module: over a
+thousand ready-made NPCs for the Hârn setting, as Foundry compendium packs and
+the one page announcing them.
 
-**This repository is its own tracker.** File Kethira work here, not in the system
-repository. See §9 for where a given piece of work belongs.
+**This repository is its own tracker.** File Hârn Ensemble work here, not in a
+system repository. Every repository in the project tracks its own work. See §9
+for where a given piece of work belongs.
 
 > **This repository is a carve-out.** It is unofficial Hârn fan material under
-> Keléstia's Fan Material Guidelines, licensed separately from SoHL, and nothing
-> elsewhere in the project may depend on it — it must stay withdrawable without
-> affecting the system or any other package. Keep that in view when scoping an
-> issue: work that would create a dependency **on** this repository from another one
-> is out of scope here, and belongs as a discussion before it becomes an issue
-> anywhere.
+> [Keléstia's Fan Material Guidelines](https://www.kelestia.com/faq#n86),
+> released under CC BY-NC-SA 4.0 — licensed separately from SoHL, and from both
+> of the game systems its packs target. Nothing elsewhere in the project may
+> depend on it: it must stay withdrawable without affecting any system or
+> package. Its **content** is never published to heroiclands.org — no character
+> entries, journal text or artwork, and no site or knowledgebase pages generated
+> from any of it.
+>
+> That is not a rule against the module being _named_ on the site. Every package
+> has a top-level, human-authored homepage announcing it, and this one's is at
+> `https://www.heroiclands.org/harnensemble/` — an address that derives from the
+> package name rather than the repository name. Such a page says what the module
+> is, which systems it serves, where the source lives, and carries the licence
+> notice: it discloses nothing licensed, and it creates no dependency, because
+> nothing has to resolve through it — withdrawing the module costs a page. The
+> **link manifest** is where the dependency edge would be, and it stays
+> unpublished in both directions for that reason. A homepage is not that edge.
+>
+> An issue proposing a dependency **on** this repository, or publication of its
+> **content**, is out of scope, and belongs as a discussion before it becomes an
+> issue anywhere.
 
 The core discipline is simple — four axes, each answering a different question:
 
@@ -93,23 +110,28 @@ priority answers "when I next sit down, what deserves my time?" not "what is due
 Labels are for **categorization only**. The table below is the **complete,
 authoritative set for this repository**. Its machine-readable twin is
 `.github/labels.yml`, which the `labels-sync` workflow reconciles onto GitHub (the
-set is _closed_ — a label not in the registry is deleted on sync). `npm run
-lint:labels` fails if the two disagree (`check-labels`), so they cannot drift.
+set is _closed_ — a label not in the registry is deleted on sync). Nothing checks
+the table below against that file, so the two are kept in step by hand.
 
 > **MUST NOT invent, rename, or improvise labels.** If no existing label fits, add
 > none and (if it matters) note the gap in the issue body for a maintainer to decide.
 > Extending this registry is a deliberate decision made by editing **both** this
 > table and `.github/labels.yml`, not something done at filing time.
 
-**This registry is the narrowest in the project, on purpose.** Each repository's
-registry describes only what that repository can hold. `system`, `tests`, `site`,
-and `thalorna` are absent here: this repository ships no system code, no test
-suite, and no website, and every issue in it is Kethira by definition.
+**This registry is narrow, because the repository is.** Each repository's registry
+describes only what that repository can hold. `system`, `tests`, and `thalorna`
+are absent here: this repository ships no system code and no test suite, and the
+`thalorna` package tracks its own work. `site` **is** present — the package
+publishes a homepage at `https://www.heroiclands.org/harnensemble/`, built and
+deployed from this repository, so that work is delivered here and needs a label
+of its own. It does not extend to the module's content: that is never published
+(see the carve-out note above).
 
 | Label             | Scope                                                                                                                         |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| `content`         | Kethira material — notes, compendium packs, actors, items, journals, scenes, artwork.                                         |
-| `documentation`   | Documentation about this repository — README, CLAUDE.md, process, authoring guides.                                           |
+| `content`         | Hârn Ensemble material — character notes, affiliations, compendium packs, actors, journals, artwork.                          |
+| `documentation`   | Documentation about this repository — README, process, authoring guides.                                                      |
+| `site`            | The package homepage at `/harnensemble/` — its content, the Hugo build, the Cloudflare Pages deployment.                      |
 | `devops`          | Build, tooling, pack pipeline, release, repo config.                                                                          |
 | `security`        | Touches an attack surface: data integrity, macro/script execution, injection, or anything warranting private disclosure (§7). |
 | `tech-debt`       | Restructuring or cleanup of working content or tooling; refactors.                                                            |
@@ -226,7 +248,8 @@ Actual: …
 - [ ] Observable condition 2
 
 ## Environment
-Foundry version · SoHL system version · module version · browser/OS if relevant
+Foundry version · game system and version (`hm3` or `sohl`) · module version ·
+browser/OS if relevant
 
 ## Notes
 Stack traces, console output, suspected cause.
@@ -308,27 +331,27 @@ file it as a public `bug`.
 
 **Bug, Urgent**
 
-> **Title:** Replace the Keléstia deity sigils still shipped in the pantheon pack
+> **Title:** Remove the third-party portrait art still shipped with the Gargun characters
 > **Type:** bug · **Priority:** Urgent · **Labels:** `content` · **Milestone:** _(unset)_
 > Body: third-party art is shipping in a released pack — a licence breach with active exposure → Urgent.
 
 **Bug, Medium, regression**
 
-> **Title:** Fix the bestiary pack failing to compile after the shortcode charset change
+> **Title:** Fix the `sohl` actor pack failing to compile after the shortcode charset change
 > **Type:** bug · **Priority:** Medium · **Labels:** `content`, `devops`, `regression` · **Milestone:** _(unset)_
 > Body: compiled before, does not now; a local workaround exists → Medium.
 
 **Feature, Medium**
 
-> **Title:** Add the western kingdoms regional entries
+> **Title:** Add the guilded craftsmen missing from the `hm3` actor pack
 > **Type:** feature · **Priority:** Medium · **Labels:** `content` · **Milestone:** _(unset)_
 > Body: material that does not exist yet, shippable as one unit → Medium.
 
 **Epic, Medium**
 
-> **Title:** Cover the core bestiary
+> **Title:** Give every character an `hm3` and a `sohl` actor
 > **Type:** epic · **Priority:** Medium · **Labels:** `content`
-> Body: coordinates a tree of sub-issues (one per creature family), each filed separately and linked.
+> Body: coordinates a tree of sub-issues (one per occupation group), each filed separately and linked.
 
 **Task, Low**
 
@@ -336,9 +359,15 @@ file it as a public `bug`.
 > **Type:** task · **Priority:** Low · **Labels:** `devops` · **Milestone:** _(unset)_
 > Body: routine maintenance, deferrable → Low.
 
+**Task, Medium, site**
+
+> **Title:** State the two supported systems on the module homepage
+> **Type:** task · **Priority:** Medium · **Labels:** `site`, `documentation` · **Milestone:** _(unset)_
+> Body: the published page under-describes what the module serves; the fix is an edit to the homepage note → Medium.
+
 **Spike, Medium**
 
-> **Title:** Decide how far this module may reference sohl package content
+> **Title:** Decide how far this module may reference `sohl` package content
 > **Type:** spike · **Priority:** Medium · **Labels:** `content`
 > Body: **Question** — which cross-package references keep the carve-out withdrawable? **Timebox** — 4 hours. **Deliverable** — a written rule. Follow-up issues filed from the finding.
 
@@ -348,19 +377,23 @@ The project spans several repositories in the `HeroicLands` organization, and �
 of the process split — **each one tracks its own work.** There is no central
 tracker.
 
-| Repository                        | Tracks                                                                      |
-| --------------------------------- | --------------------------------------------------------------------------- |
-| `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build |
-| `sohl-thalorna`                   | The `thalorna` package — original setting content and the `/thalorna` site  |
-| `sohl-kethira-basic`              | **This repository** — the `kethira` package, Foundry compendium packs only  |
-| `heroiclands-site`                | heroiclands.org — its content, Cloudflare Pages, the CDN                    |
-| `heroiclands-hugo-theme`          | The shared Hugo theme the project's sites render through                    |
+| Repository                        | Tracks                                                                       |
+| --------------------------------- | ---------------------------------------------------------------------------- |
+| `harn-ensemble`                   | **This repository** — the Hârn Ensemble module and its `/harnensemble/` page |
+| `harn-adventures`                 | The Hârn Adventures module — Foundry compendium packs only                   |
+| `HarnMaster-3-FoundryVTT`         | The HârnMaster 3 (`hm3`) Foundry system                                      |
+| `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build  |
+| `sohl-thalorna`                   | The `thalorna` package — original setting content and the `/thalorna` site   |
+| `sohl-kethira-basic`              | The `kethira` package — Foundry compendium packs only                        |
+| `heroiclands-site`                | heroiclands.org — its content, Cloudflare Pages, the CDN                     |
+| `heroiclands-hugo-theme`          | The shared Hugo theme the project's sites render through                     |
 
 **File the issue where the work will be done.** The rule is delivery, not subject: if
 the fix is an edit to a file in this repository, the issue belongs here, even when the
-symptom shows up elsewhere. A Kethira item that loads wrong because the **system**
-mishandles its data model is a system issue; the same item loading wrong because its
-own frontmatter is malformed is an issue here.
+symptom shows up elsewhere. A character whose actor loads wrong because `hm3` or
+`sohl` mishandles the data model is a system issue; the same actor loading wrong
+because this repository's note is malformed, or its pack declares the wrong
+`system`, is an issue here.
 
 **Nothing outside this repository may depend on it.** If an issue here would require a
 change in the system or another package to land first, that is a signal the carve-out
@@ -374,9 +407,6 @@ references work fine (`HeroicLands/<repo>#123`); what does **not** work is closi
 > **does not close** that issue — GitHub only auto-closes within the same repository.
 > A cross-repository issue is **closed by hand**, with a comment linking the delivering
 > commit or pull request. Never assume the keyword did it; check.
-
-**Historical note.** Until 2026-08-20 this repository's work was tracked informally in
-`Song-of-Heroic-Lands-FoundryVTT`. It now tracks its own.
 
 ## Self-check before filing
 
