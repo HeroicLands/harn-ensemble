@@ -1,0 +1,42 @@
+# Build and deploy /harnensemble — this package's homepage (#10).
+#
+# The runner, the completeness guard, the hosting project, the custom domain and
+# the upload are identical for every package that publishes a subtree of
+# www.heroiclands.org, and they are exactly the parts that must not drift. So
+# they live once in HeroicLands/.github and this repository calls them. What
+# stays here is the build: `npm run build:site`, which the shared workflow runs
+# and knows nothing else about.
+#
+# No `min-pages` / `max-pages`. This package's `publish.site` is `homepage`, and
+# in that mode the shared workflow reads the bound from
+# `package-build.config.yaml` and fixes it at exactly one — then fails the run if
+# a caller passes either input. The bound is a property of what the package
+# publishes, not a knob the caller sets.
+#
+# No `_headers` either: HeroicLands/.github#7 is making the shared workflow
+# supply the default, rather than four repositories each carrying the same six
+# lines.
+name: Deploy the Hârn Ensemble site to Cloudflare Pages
+
+on:
+    # Every push to `main` republishes the page. No path filter: a rebuild is
+    # cheap next to how quietly a hand-maintained path list goes stale, and a
+    # push that changes nothing the site serves merely republishes the same
+    # bytes.
+    push:
+        branches: [main]
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    deploy:
+        uses: HeroicLands/.github/.github/workflows/deploy-package-site.yml@main
+        with:
+            # Not derived from the package name: a Pages project's name is its
+            # deployment history, so it is stated rather than computed.
+            project: harn-ensemble
+        secrets:
+            CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+            CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
