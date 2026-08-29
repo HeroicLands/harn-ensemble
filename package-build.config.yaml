@@ -12,12 +12,6 @@ compatibility:
     verified: "14.367"
 
 packs:
-    # The affiliation notes. Declared first because the actors pass resolves each
-    # being's embedded items against the generated JSON of every Item pack.
-    - name: items
-      label: Items
-      type: Item
-      system: sohl
     - name: actors-hm3
       label: Actors
       type: Actor
