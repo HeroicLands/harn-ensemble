@@ -39,5 +39,10 @@ Material Guidelines, CC BY-NC-SA 4.0 — and now distinguishes the content, whic
 never published, from the homepage, which is. The worked examples are re-cast in
 this repository's material.
 
+The registry's header also now records GitHub's 100-character cap on a label
+description. The labels action checks it in `check` mode, so an over-long one
+fails the pull request rather than the sync — a fact worth writing down where
+the next person editing a description will read it.
+
 The four-axis standard itself is untouched: types, priorities, milestones and the
 label-registry mechanism are org-wide and were already correct.
