@@ -1,0 +1,1054 @@
+---
+aliases:
+  - Tokis Valgerdsson
+  - 124-2 Clansman UF
+tags: []
+name:
+  full: Tokis Valgerdsson
+  title: ""
+  given: Tokis
+  clan: Valgerdsson
+  aliases: []
+id: sthqPBiIzMN0umog
+folder: KtIatREwSUSBQ1vy
+shortcode: tokisvalgerdsson
+img: images/fffv1/token/FFF_124-2_Clansman_UF.png
+portrait: images/fffv1/FFF_124-2_Clansman_UF.jpg
+tokenImg: images/fffv1/token/FFF_124-2_Clansman_UF.png
+type: being
+package: harnensemble
+social:
+  occupation: Clansman (UF)
+  class: freeman
+  society: viking
+  organizations: []
+harnworld:
+  realm: ""
+  ritual:
+    - sarajin
+traits:
+  species: human
+  gender: male
+  age: 24
+  birthday: 695/7/27
+  height:
+    m: 1.68
+  weight:
+    kg: 65.77
+  build:
+    frame: medium
+  appearance:
+    eye_color: blue
+    hair_color: blonde
+    skin_color: fair
+    complexion: attractive
+    extra_features: []
+hm3:
+  species: human
+  sunsign: hirin
+  attributes:
+    str: 14
+    sta: 12
+    dex: 15
+    agl: 14
+    int: 11
+    aur: 13
+    wil: 13
+    eye: 16
+    hrg: 10
+    sml: 8
+    voi: 10
+    cml: 14
+    mor: 12
+    end: 13
+  move: 14
+  items:
+    - shortcode: skull
+      type: armorlocation
+    - shortcode: face
+      type: armorlocation
+    - shortcode: neck
+      type: armorlocation
+    - shortcode: lshoulder
+      type: armorlocation
+    - shortcode: rshoulder
+      type: armorlocation
+    - shortcode: luparm
+      type: armorlocation
+    - shortcode: ruparm
+      type: armorlocation
+    - shortcode: lelb
+      type: armorlocation
+    - shortcode: relb
+      type: armorlocation
+    - shortcode: lhand
+      type: armorlocation
+    - shortcode: rhand
+      type: armorlocation
+    - shortcode: thorax
+      type: armorlocation
+    - shortcode: abdm
+      type: armorlocation
+    - shortcode: groin
+      type: armorlocation
+    - shortcode: lhip
+      type: armorlocation
+    - shortcode: rhip
+      type: armorlocation
+    - shortcode: lthigh
+      type: armorlocation
+    - shortcode: rthigh
+      type: armorlocation
+    - shortcode: lknee
+      type: armorlocation
+    - shortcode: rknee
+      type: armorlocation
+    - shortcode: lcalf
+      type: armorlocation
+    - shortcode: rcalf
+      type: armorlocation
+    - shortcode: lfoot
+      type: armorlocation
+    - shortcode: rfoot
+      type: armorlocation
+    - shortcode: climbing
+      type: skill
+      system:
+        masteryLevel: 62
+        skillBase:
+          value: 14
+    - shortcode: condition
+      type: skill
+      system:
+        masteryLevel: 76
+        skillBase:
+          value: 13
+    - shortcode: jumping
+      type: skill
+      system:
+        masteryLevel: 68
+        skillBase:
+          value: 16
+    - shortcode: stealth
+      type: skill
+      system:
+        masteryLevel: 45
+        skillBase:
+          value: 14
+    - shortcode: swimming
+      type: skill
+      system:
+        masteryLevel: 14
+        skillBase:
+          value: 14
+    - shortcode: throwing
+      type: skill
+      system:
+        masteryLevel: 80
+        skillBase:
+          value: 17
+    - shortcode: awareness
+      type: skill
+      system:
+        masteryLevel: 65
+        skillBase:
+          value: 13
+    - shortcode: intrigue
+      type: skill
+      system:
+        masteryLevel: 48
+        skillBase:
+          value: 12
+    - shortcode: oratory
+      type: skill
+      system:
+        masteryLevel: 24
+        skillBase:
+          value: 12
+    - shortcode: rhetoric
+      type: skill
+      system:
+        masteryLevel: 42
+        skillBase:
+          value: 11
+    - shortcode: singing
+      type: skill
+      system:
+        masteryLevel: 30
+        skillBase:
+          value: 10
+    - shortcode: language
+      type: skill
+      name: "Language: Ivinian"
+      system:
+        masteryLevel: 61
+        skillBase:
+          value: 11
+    - shortcode: sarajin
+      type: skill
+      system:
+        masteryLevel: 12
+        skillBase:
+          value: 12
+    - shortcode: initiative
+      type: skill
+      system:
+        masteryLevel: 84
+        skillBase:
+          value: 13
+    - shortcode: unarmed
+      type: skill
+      system:
+        masteryLevel: 52
+        skillBase:
+          value: 14
+    - shortcode: dodge
+      type: skill
+      system:
+        masteryLevel: 85
+        skillBase:
+          value: 14
+    - shortcode: bow
+      type: skill
+      system:
+        masteryLevel: 65
+        skillBase:
+          value: 16
+    - shortcode: bow
+      type: skill
+      name: Shortbow (Bow)
+      system:
+        masteryLevel: 90
+        skillBase:
+          value: 16
+    - shortcode: dagger
+      type: skill
+      system:
+        masteryLevel: 58
+        skillBase:
+          value: 15
+    - shortcode: dagger
+      type: skill
+      name: Keltan (Dagger)
+      system:
+        masteryLevel: 76
+        skillBase:
+          value: 15
+    - shortcode: shield
+      type: skill
+      system:
+        masteryLevel: 55
+        skillBase:
+          value: 15
+    - shortcode: shield
+      type: skill
+      name: Round (Shield)
+      system:
+        masteryLevel: 70
+        skillBase:
+          value: 15
+    - shortcode: spear
+      type: skill
+      system:
+        masteryLevel: 68
+        skillBase:
+          value: 14
+    - shortcode: fishing
+      type: skill
+      system:
+        masteryLevel: 46
+        skillBase:
+          value: 15
+    - shortcode: fletching
+      type: skill
+      system:
+        masteryLevel: 51
+        skillBase:
+          value: 17
+    - shortcode: fletching
+      type: skill
+      name: "Fletching: Shortbow"
+      system:
+        masteryLevel: 62
+        skillBase:
+          value: 17
+    - shortcode: foraging
+      type: skill
+      system:
+        masteryLevel: 48
+        skillBase:
+          value: 11
+    - shortcode: heraldry
+      type: skill
+      system:
+        masteryLevel: 28
+        skillBase:
+          value: 15
+    - shortcode: physician
+      type: skill
+      system:
+        masteryLevel: 42
+        skillBase:
+          value: 14
+    - shortcode: piloting
+      type: skill
+      system:
+        masteryLevel: 35
+        skillBase:
+          value: 14
+    - shortcode: seamanship
+      type: skill
+      system:
+        masteryLevel: 70
+        skillBase:
+          value: 14
+    - shortcode: survival
+      type: skill
+      system:
+        masteryLevel: 61
+        skillBase:
+          value: 13
+    - shortcode: weaponcraft
+      type: skill
+      system:
+        masteryLevel: 28
+        skillBase:
+          value: 14
+    - shortcode: weatherlore
+      type: skill
+      system:
+        masteryLevel: 45
+        skillBase:
+          value: 13
+    - shortcode: pursebuckram
+      type: containergear
+    - shortcode: SprThr
+      type: missilegear
+      name: Spear (thrown)
+    - shortcode: Spr
+      type: weapongear
+      system:
+        quantity: 0
+    - shortcode: Keltan
+      type: weapongear
+    - shortcode: RndSh
+      type: weapongear
+    - shortcode: SBw
+      type: weapongear
+    - shortcode: ArwSbw
+      type: missilegear
+      name: Arrow (Shortbow)
+      system:
+        quantity: 20
+    - shortcode: quiverlgsh
+      type: miscgear
+    - shortcode: LTunic
+      type: armorgear
+    - shortcode: LLeg
+      type: armorgear
+    - shortcode: LtShoe
+      type: armorgear
+    - shortcode: LtVest
+      type: armorgear
+    - shortcode: pence
+      type: miscgear
+      system:
+        quantity: 7
+sohl:
+  kbcat: archetype
+  archetype: 1
+  attributes:
+    str: 14
+    end: 12
+    dex: 15
+    agl: 14
+    per: 11
+    snt: 8
+    cml: 14
+    aur: 13
+    wil: 13
+    rea: 11
+    cre: 9
+    emp: 11
+    elo: 11
+    mor: 12
+    voi: 10
+  body:
+    structure:
+      zones:
+        - name: Head
+          shortcode: headzone
+          probWeight: 1
+        - name: Arms
+          shortcode: armszone
+          probWeight: 4
+        - name: Torso
+          shortcode: torsozone
+          probWeight: 4
+        - name: Legs
+          shortcode: legszone
+          probWeight: 6
+      parts:
+        - name: Head
+          shortcode: headpart
+          bodyZoneCode: headzone
+          roles:
+            - vital
+          canHoldItem: false
+          probWeight: 1
+        - name: Right Arm
+          shortcode: rarmpart
+          bodyZoneCode: armszone
+          roles:
+            - manipulator
+          canHoldItem: true
+          probWeight: 2
+        - name: Left Arm
+          shortcode: larmpart
+          bodyZoneCode: armszone
+          roles:
+            - manipulator
+          canHoldItem: true
+          probWeight: 2
+        - name: Torso
+          shortcode: torsopart
+          bodyZoneCode: torsozone
+          roles:
+            - core
+          canHoldItem: false
+          probWeight: 4
+        - name: Right Leg
+          shortcode: rlegpart
+          bodyZoneCode: legszone
+          roles:
+            - locomotor
+          canHoldItem: false
+          probWeight: 3
+        - name: Left Leg
+          shortcode: llegpart
+          bodyZoneCode: legszone
+          roles:
+            - locomotor
+          canHoldItem: false
+          probWeight: 3
+      locations:
+        - name: Skull
+          shortcode: skullloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: low
+          amputability: none
+          shockValue: 5
+          probWeight: 500
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Eye
+          shortcode: leyeloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 5
+          probWeight: 15
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Eye
+          shortcode: reyeloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 5
+          probWeight: 15
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Nose
+          shortcode: noseloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 5
+          probWeight: 30
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Cheek
+          shortcode: lcheekloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 4
+          probWeight: 60
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Cheek
+          shortcode: rcheekloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 4
+          probWeight: 60
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Ear
+          shortcode: learloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 4
+          probWeight: 15
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Ear
+          shortcode: rearloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 4
+          probWeight: 15
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Mouth
+          shortcode: mouthloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 4
+          probWeight: 30
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Jaw
+          shortcode: jawloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 4
+          probWeight: 60
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Neck
+          shortcode: neckloc
+          bodyPartCode: headpart
+          bleedingSusceptibility: high
+          amputability: low
+          shockValue: 5
+          probWeight: 200
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Shoulder
+          shortcode: rshldloc
+          bodyPartCode: rarmpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 3
+          probWeight: 30
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Upper Arm
+          shortcode: rupaloc
+          bodyPartCode: rarmpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 1
+          probWeight: 30
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Elbow
+          shortcode: relbloc
+          bodyPartCode: rarmpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 2
+          probWeight: 10
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Forearm
+          shortcode: rfraloc
+          bodyPartCode: rarmpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 1
+          probWeight: 20
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Hand
+          shortcode: rhandloc
+          bodyPartCode: rarmpart
+          bleedingSusceptibility: none
+          amputability: high
+          shockValue: 2
+          probWeight: 10
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Shoulder
+          shortcode: lshldloc
+          bodyPartCode: larmpart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 3
+          probWeight: 30
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Upper Arm
+          shortcode: lupaloc
+          bodyPartCode: larmpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 1
+          probWeight: 30
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Elbow
+          shortcode: lelbloc
+          bodyPartCode: larmpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 2
+          probWeight: 10
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Forearm
+          shortcode: lfraloc
+          bodyPartCode: larmpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 1
+          probWeight: 20
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Hand
+          shortcode: lhandloc
+          bodyPartCode: larmpart
+          bleedingSusceptibility: none
+          amputability: high
+          shockValue: 2
+          probWeight: 10
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Thorax
+          shortcode: thrxloc
+          bodyPartCode: torsopart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 4
+          probWeight: 40
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Abdomen
+          shortcode: abdmnloc
+          bodyPartCode: torsopart
+          bleedingSusceptibility: high
+          amputability: none
+          shockValue: 4
+          probWeight: 40
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Pelvis
+          shortcode: plvisloc
+          bodyPartCode: torsopart
+          bleedingSusceptibility: medium
+          amputability: none
+          shockValue: 4
+          probWeight: 20
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Thigh
+          shortcode: rthghloc
+          bodyPartCode: rlegpart
+          bleedingSusceptibility: medium
+          amputability: low
+          shockValue: 3
+          probWeight: 40
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Knee
+          shortcode: rkneeloc
+          bodyPartCode: rlegpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 2
+          probWeight: 10
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Calf
+          shortcode: rcalfloc
+          bodyPartCode: rlegpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 1
+          probWeight: 30
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Right Foot
+          shortcode: rfootloc
+          bodyPartCode: rlegpart
+          bleedingSusceptibility: none
+          amputability: medium
+          shockValue: 2
+          probWeight: 20
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Thigh
+          shortcode: lthghloc
+          bodyPartCode: llegpart
+          bleedingSusceptibility: medium
+          amputability: low
+          shockValue: 3
+          probWeight: 40
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Knee
+          shortcode: lkneeloc
+          bodyPartCode: llegpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 2
+          probWeight: 10
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Calf
+          shortcode: lcalfloc
+          bodyPartCode: llegpart
+          bleedingSusceptibility: low
+          amputability: medium
+          shockValue: 1
+          probWeight: 30
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+        - name: Left Foot
+          shortcode: lfootloc
+          bodyPartCode: llegpart
+          bleedingSusceptibility: none
+          amputability: medium
+          shockValue: 2
+          probWeight: 20
+          protectionBase:
+            blunt: 0
+            edged: 0
+            piercing: 0
+            fire: 0
+    weight:
+      base: null
+      calc: (9 * str) + 50
+    reachBase: 0
+    bodyScaleBase: 1
+    personalFatigue: enc + 5
+  currentMoveMedium: terrestrial
+  movementProfiles:
+    - medium: terrestrial
+      feetPerRound: 50
+      leaguesPerWatch: 5
+      encumbrance: floor(wt/4)
+      strMod: -5 * floor((str - 10) / 2)
+      disabled: false
+  defaultCombatGroup: null
+  items:
+    - shortcode: archery
+      type: skill
+      name: Shortbow (Bow)
+      system:
+        masteryLevelBase: 90
+    - shortcode: awar
+      type: skill
+      system:
+        masteryLevelBase: 65
+    - shortcode: chrm
+      type: skill
+    - shortcode: clmb
+      type: skill
+      system:
+        masteryLevelBase: 62
+    - shortcode: cmd
+      type: skill
+    - shortcode: cook
+      type: skill
+    - shortcode: dnce
+      type: skill
+    - shortcode: dscr
+      type: skill
+    - shortcode: draw
+      type: skill
+    - shortcode: folklr
+      type: skill
+    - shortcode: guil
+      type: skill
+    - shortcode: init
+      type: skill
+      system:
+        masteryLevelBase: 84
+    - shortcode: shok
+      type: skill
+    - shortcode: intr
+      type: skill
+      system:
+        masteryLevelBase: 48
+    - shortcode: jump
+      type: skill
+      system:
+        masteryLevelBase: 68
+    - shortcode: melee
+      type: skill
+      system:
+        masteryLevelBase: 65
+    - shortcode: dge
+      type: skill
+      system:
+        masteryLevelBase: 85
+    - shortcode: pysn
+      type: skill
+      system:
+        masteryLevelBase: 42
+    - shortcode: ridg
+      type: skill
+    - shortcode: sing
+      type: skill
+      system:
+        masteryLevelBase: 30
+    - shortcode: stlth
+      type: skill
+      system:
+        masteryLevelBase: 45
+    - shortcode: srvl
+      type: skill
+      system:
+        masteryLevelBase: 61
+    - shortcode: spirit
+      type: skill
+    - shortcode: swim
+      type: skill
+      system:
+        masteryLevelBase: 14
+    - shortcode: thtcs
+      type: skill
+    - shortcode: thro
+      type: skill
+      system:
+        masteryLevelBase: 80
+    - shortcode: bflkbite
+      type: skill
+    - shortcode: bflkgrab
+      type: skill
+    - shortcode: bflkheadbutt
+      type: skill
+    - shortcode: bflkkick
+      type: skill
+    - shortcode: limbblock
+      type: skill
+    - shortcode: press
+      type: skill
+    - shortcode: bflkpunch
+      type: skill
+    - shortcode: trip
+      type: skill
+    - shortcode: sprt
+      type: mysticalability
+    - shortcode: lang
+      type: skill
+      name: "Language: Ivinian"
+      system:
+        masteryLevelBase: 61
+    - shortcode: fish
+      type: skill
+      system:
+        masteryLevelBase: 46
+    - shortcode: fltch
+      type: skill
+      name: "Fletching: Shortbow"
+      system:
+        masteryLevelBase: 62
+    - shortcode: hrld
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: pilt
+      type: skill
+      system:
+        masteryLevelBase: 35
+    - shortcode: smsh
+      type: skill
+      system:
+        masteryLevelBase: 70
+    - shortcode: wpnc
+      type: skill
+      system:
+        masteryLevelBase: 28
+    - shortcode: pouchbuckram
+      type: containergear
+    - shortcode: Spr
+      type: weapongear
+      system:
+        quantity: 0
+    - shortcode: RndSh
+      type: weapongear
+    - shortcode: quiverlgsh
+      type: containergear
+    - shortcode: LTunic
+      type: armorgear
+    - shortcode: LLeg
+      type: armorgear
+    - shortcode: LtShoe
+      type: armorgear
+    - shortcode: LtVest
+      type: armorgear
+    - shortcode: pence
+      type: miscgear
+      system:
+        quantity: 7
+    - name: Sarajin
+      type: affiliation
+      system:
+        shortcode: sarajin
+        subType: divine
+    - name: Sarajin
+      type: skill
+      system:
+        subType: mystical
+        shortcode: sarajin
+        skillBaseFormula: "sb(attr.wil, attr.rea)"
+        masteryLevelBase: 12
+---
+
+# Appearance {#appearance}
+
+**Apparent Age**: Adult
+**Culture**: Viking
+**Social Class**: Freeman (unguilded)
+**Height**: 5 ft 6 in
+**Frame**: Medium
+**Weight**: 145 lb
+**Appearance**: Attractive
+**Hair Colour**: Blond
+**Eye Colour**: Blue
+**Voice**: Average
+**Obvious Medical Traits**: None
+**Apparent Occupation**: Clansman
+**Apparent Wealth**: Little
+**Weapons**: Short bow, keltan, spear
+**Armour**: None
+**Companions**: Other vikings
+**Other obvious features**: None
+
+# Dossier {#dossier}
+
+**Title**: FFF 124-2 Clansman UF
+**Birthday**: 27 Azura 695
+**Appearance**: Age 24, height 5' 6", medium frame, weight 145 lb, attractive appearance, fair complexion, blond hair, blue eyes
+**Medical/Psyche**: None
+**Size**: 6
+**Armor**: Cloth tunic and leggings, leather shoes, add a fur lined leather vest in cold weather. Keltan dagger, short bow and quiver with 20 arrows. Add spear and round shield if combat is expected.
+**Other Equipment**: Belt pouch
+**Valuables**: 7d in silver in a money pouch
+**Notes**:
+
+## Biography
+
+Tokis was raised by his mother after his father and two older brothers were lost at sea. She eked out a living for her son and herself raising vegetables and acting as a midwife and physician to the poorer members of the thran. When Tokis was old enough, he provided for the two of them by working on the fishing boats of other clan members.
+
+Like most members of the clan, Tokis learned to use a spear and round shield at an early age. It was not until he was in his late teens that he had the chance to learn the short bow. The huscarl instructing him was so impressed with his ability he gave him a bow and quiver of arrows to practice with. Since then, Tokis has become the best archer in the clan.
+
+Blessed with good looks, Tokis has been the object of affection for many young girls, but there is only one woman that has captured his heart. Tokis has pledged his love to Erska Stutgar, but did not have nearly enough to meet her family's bride price. In hopes of earning her bride price, Tokis signed on as a sailor on a trading ship bound for Chelemby. He asked Erska to wait for him. If he did not have enough for the bride price when he returned, he would release her from her pledge. It took him three years and a lot of hard work to earn her bride price.
+
+When he returned, he discovered that Erska had married the year before. His own mother acted as midwife to Erska's first child just weeks before his return. Heartbroken, Tokis gave his hard earned coin to his mother and returned to the sea. Since then he has drifted, never staying with one ship or crew for long.
+
+## Adventure Hooks
+
+Unlucky. Tokis is a crewmember on the ship the PCs are on. A series of unlucky events occur. The other crewmen believe that Tokis' bad luck has cursed the voyage and is causing the events. The mood of the crew turns ugly. What will the PCs do?
+
+Bad Company. Tokis has fallen in with a band of evil men. When the group attacks the PCs something about them makes Tokis decide to change his fortunes, and turns on his erstwhile companions. Afterwards, he asks to join with the PCs. Will they trust him?
+
+A New Love. Tokis is in love with a female PC or a female relative of a male PC. He wishes to pursue her hand in marriage. He has amassed a decent bride price with his recent voyages.
+
+The Archer. A cutpurse steals his captain's purse. The PCs witness Tokis make an impressive bowshot from the ship, dropping the thief in his tracks.
+
+## Credits
+
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

@@ -1,0 +1,97 @@
+# This file is part of the Song of Heroic Lands (SoHL) system for Foundry VTT.
+# Copyright (c) 2024-2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
+#
+# This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+# International License (CC BY-SA 4.0). You are free to share and adapt this
+# material for any purpose, even commercially, under the terms of that license.
+#
+# For full terms, see the LICENSE.md file in the project root or visit:
+# https://creativecommons.org/licenses/by-sa/4.0/
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+# Folder hierarchy for the "items" compendium.
+#
+# Each entry declares one folder:
+#   name            (required) display name
+#   id              (required) stable 16-char Foundry ID
+#   parentFolderId  (required) id of the parent folder, or "" for top-level
+#   color           (optional) folder color (CSS hex)
+#
+# Sibling folders (same parentFolderId) must have unique names. Cousins
+# (different parents) may share a name; vault frontmatter references the
+# specific folder's id, so name collisions across the tree are fine.
+#
+# Vault notes link to folders via `sohl.folder: <id>` in frontmatter,
+# where <id> is the target folder's id from this file. Unknown ids fail
+# the export loudly.
+# ---- Possessions tree ----------------------------------------------------
+- name: Friends, Foes, and Followers
+  id: EJXGDixEeSypl4iO
+  parentFolderId: ""
+  color: "#8B4513"
+- name: Military
+  id: KtIatREwSUSBQ1vy
+  parentFolderId: EJXGDixEeSypl4iO
+  color: "#D8625C"
+- name: Barbarians
+  id: 7Xwu1hTIGLl30Unj
+  parentFolderId: EJXGDixEeSypl4iO
+  color: "#965802"
+- name: Guilded
+  id: dbDLVOgUtgVgjgnJ
+  parentFolderId: EJXGDixEeSypl4iO
+  color: "#999008"
+- name: Unguilded
+  id: i4hECpF8Vz6XJURd
+  parentFolderId: EJXGDixEeSypl4iO
+  color: "#1B7E2A"
+- name: Nobles
+  id: lu83pb6NNFEwAs5L
+  parentFolderId: EJXGDixEeSypl4iO
+  color: "#06A295"
+- name: Clergy
+  id: wImf2q5VxvhF7Ed4
+  parentFolderId: EJXGDixEeSypl4iO
+  color: "#027493"
+- name: Mages
+  id: 04kLAsFXMI0eqqgT
+  parentFolderId: EJXGDixEeSypl4iO
+  color: "#5F87E7"
+- name: Non-Humans
+  id: gO37pwFIr5B44hdV
+  parentFolderId: EJXGDixEeSypl4iO
+  color: "#7D4DAD"
+
+- name: Extras
+  id: f6QSkXsiJzV2kaFG
+  parentFolderId: ""
+  color: "#2193E0"
+- name: Clergy
+  id: ZVUcnWpJEJxXzWw6
+  parentFolderId: f6QSkXsiJzV2kaFG
+  color: "#027493"
+- name: Mages
+  id: lJ4R58L7PULmhYxr
+  parentFolderId: f6QSkXsiJzV2kaFG
+  color: "#5F87E7"
+- name: Guards
+  id: ZMLVnTuUb85MUQMD
+  parentFolderId: f6QSkXsiJzV2kaFG
+  color: "#A83442"
+- name: Guilded
+  id: GNynVWgIrKPK50Ca
+  parentFolderId: f6QSkXsiJzV2kaFG
+  color: "#999008"
+- name: Nobles
+  id: wYO4XEaOHdLCVUM0
+  parentFolderId: f6QSkXsiJzV2kaFG
+  color: "#06A295"
+- name: Serfs, Thraals, and Slaves
+  id: iDDaFg6xn9T7tb0L
+  parentFolderId: f6QSkXsiJzV2kaFG
+  color: "#CE69AC"
+- name: Unguilded
+  id: wqZxeSsm1ABX2AGx
+  parentFolderId: f6QSkXsiJzV2kaFG
+  color: "#1B7E2A"
