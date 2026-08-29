@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_334-1_Weaponcrafter.png
 portrait: images/fffv1/FFF_334-1_Weaponcrafter.jpg
 tokenImg: images/fffv1/token/FFF_334-1_Weaponcrafter.png
 type: being
-package: harnensemble
 social:
   occupation: Weaponcrafter
   class: freeman

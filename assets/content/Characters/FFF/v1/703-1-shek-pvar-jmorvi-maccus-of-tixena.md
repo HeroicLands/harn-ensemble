@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_703-1_Shek_Pvar_Jmorvi.png
 portrait: images/fffv1/FFF_703-1_Shek_Pvar_Jmorvi.jpg
 tokenImg: images/fffv1/token/FFF_703-1_Shek_Pvar_Jmorvi.png
 type: being
-package: harnensemble
 social:
   occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)
   class: freeman

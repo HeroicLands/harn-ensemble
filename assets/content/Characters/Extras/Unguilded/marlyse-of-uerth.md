@@ -13,7 +13,6 @@ folder: wqZxeSsm1ABX2AGx
 shortcode: marlyseofuerth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Feudal Guardsman, Light
   class: serf

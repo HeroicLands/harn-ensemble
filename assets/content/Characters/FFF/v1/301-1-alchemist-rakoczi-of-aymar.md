@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_301-1_Alchemist.png
 portrait: images/fffv1/FFF_301-1_Alchemist.jpg
 tokenImg: images/fffv1/token/FFF_301-1_Alchemist.png
 type: being
-package: harnensemble
 social:
   occupation: Alchemist
   class: freeman

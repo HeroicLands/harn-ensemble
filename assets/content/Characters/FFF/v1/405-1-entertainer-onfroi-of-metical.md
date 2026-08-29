@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_405-1_Entertainer.png
 portrait: images/fffv1/FFF_405-1_Entertainer.jpg
 tokenImg: images/fffv1/token/FFF_405-1_Entertainer.png
 type: being
-package: harnensemble
 social:
   occupation: Entertainer
   class: freeman

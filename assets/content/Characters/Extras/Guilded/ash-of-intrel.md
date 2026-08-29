@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: ashofintrel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Thief
   class: serf

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_310-2_Harper.png
 portrait: images/fffv1/FFF_310-2_Harper.jpg
 tokenImg: images/fffv1/token/FFF_310-2_Harper.png
 type: being
-package: harnensemble
 social:
   occupation: Harper
   class: freeman

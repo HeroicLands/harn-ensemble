@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_410-1_Labourer.png
 portrait: images/fffv1/FFF_410-1_Labourer.jpg
 tokenImg: images/fffv1/token/FFF_410-1_Labourer.png
 type: being
-package: harnensemble
 social:
   occupation: Labourer
   class: freeman

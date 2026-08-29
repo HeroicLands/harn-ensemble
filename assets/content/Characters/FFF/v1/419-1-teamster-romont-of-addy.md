@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_419-1_Teamster.png
 portrait: images/fffv1/FFF_419-1_Teamster.jpg
 tokenImg: images/fffv1/token/FFF_419-1_Teamster.png
 type: being
-package: harnensemble
 social:
   occupation: Teamster
   class: freeman

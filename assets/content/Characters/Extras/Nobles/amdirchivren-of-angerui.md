@@ -13,7 +13,6 @@ folder: wYO4XEaOHdLCVUM0
 shortcode: amdirchivrenofangerui
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Sindarin Knight
   class: unguilded

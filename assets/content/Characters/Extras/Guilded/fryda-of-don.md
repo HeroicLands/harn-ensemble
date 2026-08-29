@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: frydaofdon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Mason
   class: unguilded

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_308-1_Embalmer.png
 portrait: images/fffv1/FFF_308-1_Embalmer.jpg
 tokenImg: images/fffv1/token/FFF_308-1_Embalmer.png
 type: being
-package: harnensemble
 social:
   occupation: Embalmer
   class: freeman

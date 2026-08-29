@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: tomusofvaben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Glassworker
   class: serf

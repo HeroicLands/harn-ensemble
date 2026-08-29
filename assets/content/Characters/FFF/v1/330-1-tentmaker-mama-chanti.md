@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_330-1_Tentmaker.png
 portrait: images/fffv1/FFF_330-1_Tentmaker.jpg
 tokenImg: images/fffv1/token/FFF_330-1_Tentmaker.png
 type: being
-package: harnensemble
 social:
   occupation: Tentmaker
   class: freeman

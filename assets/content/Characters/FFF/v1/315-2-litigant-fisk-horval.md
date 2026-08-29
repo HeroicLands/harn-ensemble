@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_315-2_Litigant.png
 portrait: images/fffv1/FFF_315-2_Litigant.jpg
 tokenImg: images/fffv1/token/FFF_315-2_Litigant.png
 type: being
-package: harnensemble
 social:
   occupation: Lawspeaker
   class: noble

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_312-1_Innkeeper.png
 portrait: images/fffv1/FFF_312-1_Innkeeper.jpg
 tokenImg: images/fffv1/token/FFF_312-1_Innkeeper.png
 type: being
-package: harnensemble
 social:
   occupation: Innkeeper
   class: freeman

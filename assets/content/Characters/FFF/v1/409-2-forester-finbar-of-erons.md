@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_409-2_Forester.png
 portrait: images/fffv1/FFF_409-2_Forester.jpg
 tokenImg: images/fffv1/token/FFF_409-2_Forester.png
 type: being
-package: harnensemble
 social:
   occupation: Forester
   class: freeman

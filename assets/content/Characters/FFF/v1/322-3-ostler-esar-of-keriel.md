@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_322-3_Ostler.png
 portrait: images/fffv1/FFF_322-3_Ostler.jpg
 tokenImg: images/fffv1/token/FFF_322-3_Ostler.png
 type: being
-package: harnensemble
 social:
   occupation: Apprentice Ostler
   class: freeman

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_401-2_Falconer.png
 portrait: images/fffv1/FFF_401-2_Falconer.jpg
 tokenImg: images/fffv1/token/FFF_401-2_Falconer.png
 type: being
-package: harnensemble
 social:
   occupation: Falconer
   class: freeman

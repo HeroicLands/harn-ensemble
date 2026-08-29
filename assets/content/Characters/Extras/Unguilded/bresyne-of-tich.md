@@ -13,7 +13,6 @@ folder: wqZxeSsm1ABX2AGx
 shortcode: bresyneoftich
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Herdsman
   class: serf

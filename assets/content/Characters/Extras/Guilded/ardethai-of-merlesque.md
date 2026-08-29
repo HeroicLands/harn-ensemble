@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: ardethaiofmerlesque
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Physician
   class: serf

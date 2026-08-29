@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_406-1_Farmer.png
 portrait: images/fffv1/FFF_406-1_Farmer.jpg
 tokenImg: images/fffv1/token/FFF_406-1_Farmer.png
 type: being
-package: harnensemble
 social:
   occupation: Farmer
   class: freeman

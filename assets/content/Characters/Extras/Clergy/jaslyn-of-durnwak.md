@@ -13,7 +13,6 @@ folder: ZVUcnWpJEJxXzWw6
 shortcode: jaslynofdurnwak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Cleric/Halea
   class: serf

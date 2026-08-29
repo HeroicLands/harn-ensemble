@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_412-1_Pimp.png
 portrait: images/fffv1/FFF_412-1_Pimp.jpg
 tokenImg: images/fffv1/token/FFF_412-1_Pimp.png
 type: being
-package: harnensemble
 social:
   occupation: Pimp
   class: freeman

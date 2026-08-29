@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_505-1_Herald.png
 portrait: images/fffv1/FFF_505-1_Herald.jpg
 tokenImg: images/fffv1/token/FFF_505-1_Herald.png
 type: being
-package: harnensemble
 social:
   occupation: Herald
   class: noble

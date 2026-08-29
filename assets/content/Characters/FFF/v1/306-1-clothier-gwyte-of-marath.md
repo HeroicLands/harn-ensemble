@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_306-1_Clothier.png
 portrait: images/fffv1/FFF_306-1_Clothier.jpg
 tokenImg: images/fffv1/token/FFF_306-1_Clothier.png
 type: being
-package: harnensemble
 social:
   occupation: Clothier
   class: freeman

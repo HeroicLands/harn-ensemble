@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_206-3_Hunter_Bujoc.png
 portrait: images/fffv1/FFF_206-3_Hunter_Bujoc.jpg
 tokenImg: images/fffv1/token/FFF_206-3_Hunter_Bujoc.png
 type: being
-package: harnensemble
 social:
   occupation: Hunter
   class: tribesman

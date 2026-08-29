@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_501-1_Noble_Bailiff.png
 portrait: images/fffv1/FFF_501-1_Noble_Bailiff.jpg
 tokenImg: images/fffv1/token/FFF_501-1_Noble_Bailiff.png
 type: being
-package: harnensemble
 social:
   occupation: Bailiff
   class: noble

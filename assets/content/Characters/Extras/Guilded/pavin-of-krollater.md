@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: pavinofkrollater
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Clothier
   class: serf

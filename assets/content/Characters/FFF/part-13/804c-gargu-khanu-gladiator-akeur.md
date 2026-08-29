@@ -16,7 +16,6 @@ img: images/fff-13/FFF_804c_Gargu-Khanu_Gladiator-headshot.webp
 portrait: images/fff-13/FFF_804c_Gargu-Khanu_Gladiator.webp
 tokenImg: images/fff-13/FFF_804c_Gargu-Khanu_Gladiator-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Gladiator
   class: warrior

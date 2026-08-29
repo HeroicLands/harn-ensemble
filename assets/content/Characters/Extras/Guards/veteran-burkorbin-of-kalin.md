@@ -13,7 +13,6 @@ folder: ZMLVnTuUb85MUQMD
 shortcode: veteranburkorbinofkalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Feudal Guardsman, Light
   class: unguilded

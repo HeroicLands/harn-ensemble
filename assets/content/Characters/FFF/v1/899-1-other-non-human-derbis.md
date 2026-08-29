@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_899-1_Other_Non_Human.png
 portrait: images/fffv1/FFF_899-1_Other_Non_Human.jpg
 tokenImg: images/fffv1/token/FFF_899-1_Other_Non_Human.png
 type: being
-package: harnensemble
 social:
   occupation: Hunter
   class: n/a

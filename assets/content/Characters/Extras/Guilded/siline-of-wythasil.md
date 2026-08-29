@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: silineofwythasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Glassworker
   class: serf

@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: aeraofcrani
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Mercantyler
   class: serf

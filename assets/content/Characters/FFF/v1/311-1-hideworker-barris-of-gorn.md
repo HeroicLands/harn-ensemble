@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_311-1_Hideworker.png
 portrait: images/fffv1/FFF_311-1_Hideworker.jpg
 tokenImg: images/fffv1/token/FFF_311-1_Hideworker.png
 type: being
-package: harnensemble
 social:
   occupation: Hideworker
   class: freeman

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_507-1_Fighting_Order_HH.png
 portrait: images/fffv1/FFF_507-1_Fighting_Order_HH.jpg
 tokenImg: images/fffv1/token/FFF_507-1_Fighting_Order_HH.png
 type: being
-package: harnensemble
 social:
   occupation: Fighting order knight
   class: noble

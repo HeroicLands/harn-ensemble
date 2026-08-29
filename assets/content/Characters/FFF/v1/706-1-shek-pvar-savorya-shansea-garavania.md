@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_706-1_Shek_Pvar_Savorya.png
 portrait: images/fffv1/FFF_706-1_Shek_Pvar_Savorya.jpg
 tokenImg: images/fffv1/token/FFF_706-1_Shek_Pvar_Savorya.png
 type: being
-package: harnensemble
 social:
   occupation: Savoryan Shek-Pvar
   class: noble

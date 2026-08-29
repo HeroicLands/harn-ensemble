@@ -13,7 +13,6 @@ folder: lJ4R58L7PULmhYxr
 shortcode: tarckofyisgaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: "Shek-Pvar/Fyvria**"
   class: serf

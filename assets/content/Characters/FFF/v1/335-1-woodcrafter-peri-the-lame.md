@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_335-1_Woodcrafter.png
 portrait: images/fffv1/FFF_335-1_Woodcrafter.jpg
 tokenImg: images/fffv1/token/FFF_335-1_Woodcrafter.png
 type: being
-package: harnensemble
 social:
   occupation: Woodcrafter
   class: freeman

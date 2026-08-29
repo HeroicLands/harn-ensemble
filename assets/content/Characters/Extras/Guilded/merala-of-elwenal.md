@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: meralaofelwenal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Shipwright
   class: serf

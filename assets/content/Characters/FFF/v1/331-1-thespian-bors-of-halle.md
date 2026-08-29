@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_331-1_Thespian.png
 portrait: images/fffv1/FFF_331-1_Thespian.jpg
 tokenImg: images/fffv1/token/FFF_331-1_Thespian.png
 type: being
-package: harnensemble
 social:
   occupation: Thespian
   class: freeman

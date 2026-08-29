@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_124-2_Clansman_UF.png
 portrait: images/fffv1/FFF_124-2_Clansman_UF.jpg
 tokenImg: images/fffv1/token/FFF_124-2_Clansman_UF.png
 type: being
-package: harnensemble
 social:
   occupation: Clansman (UF)
   class: freeman

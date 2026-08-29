@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_206-4_Hunter_Hodiri.png
 portrait: images/fffv1/FFF_206-4_Hunter_Hodiri.jpg
 tokenImg: images/fffv1/token/FFF_206-4_Hunter_Hodiri.png
 type: being
-package: harnensemble
 social:
   occupation: Hunter
   class: tribesman

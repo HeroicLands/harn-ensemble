@@ -16,7 +16,6 @@ img: images/fff-13/FFF_804e_Gargu-Khanu_Warrior-headshot.webp
 portrait: images/fff-13/FFF_804e_Gargu-Khanu_Warrior.webp
 tokenImg: images/fff-13/FFF_804e_Gargu-Khanu_Warrior-token.webp
 type: being
-package: harnensemble
 social:
   occupation: Warrior
   class: warrior

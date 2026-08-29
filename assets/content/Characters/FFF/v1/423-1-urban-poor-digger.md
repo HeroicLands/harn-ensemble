@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_423-1_Urban_Poor.png
 portrait: images/fffv1/FFF_423-1_Urban_Poor.jpg
 tokenImg: images/fffv1/token/FFF_423-1_Urban_Poor.png
 type: being
-package: harnensemble
 social:
   occupation: Day labourer
   class: freeman

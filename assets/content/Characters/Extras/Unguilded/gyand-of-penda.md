@@ -13,7 +13,6 @@ folder: wqZxeSsm1ABX2AGx
 shortcode: gyandofpenda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Imperial Militia
   class: serf

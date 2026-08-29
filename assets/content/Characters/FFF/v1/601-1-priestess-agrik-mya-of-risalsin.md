@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_601-1_Priestess_Agrik.png
 portrait: images/fffv1/FFF_601-1_Priestess_Agrik.jpg
 tokenImg: images/fffv1/token/FFF_601-1_Priestess_Agrik.png
 type: being
-package: harnensemble
 social:
   occupation: Agrikan Priestess
   class: noble

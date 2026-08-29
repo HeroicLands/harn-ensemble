@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_122-1_Sindarin_Ranger_LF.png
 portrait: images/fffv1/FFF_122-1_Sindarin_Ranger_LF.jpg
 tokenImg: images/fffv1/token/FFF_122-1_Sindarin_Ranger_LF.png
 type: being
-package: harnensemble
 social:
   occupation: Ranger
   class: freeman

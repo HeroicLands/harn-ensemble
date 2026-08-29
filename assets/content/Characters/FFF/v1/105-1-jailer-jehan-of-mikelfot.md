@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_105-1_Jailer.png
 portrait: images/fffv1/FFF_105-1_Jailer.jpg
 tokenImg: images/fffv1/token/FFF_105-1_Jailer.png
 type: being
-package: harnensemble
 social:
   occupation: Jailer
   class: freeman

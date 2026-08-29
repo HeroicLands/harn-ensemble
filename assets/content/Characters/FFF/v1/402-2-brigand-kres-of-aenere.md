@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_402-2_Brigand.png
 portrait: images/fffv1/FFF_402-2_Brigand.jpg
 tokenImg: images/fffv1/token/FFF_402-2_Brigand.png
 type: being
-package: harnensemble
 social:
   occupation: Brigand
   class: serf

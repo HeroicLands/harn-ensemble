@@ -13,7 +13,6 @@ folder: wYO4XEaOHdLCVUM0
 shortcode: arandyoflaplacka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Herald
   class: unguilded

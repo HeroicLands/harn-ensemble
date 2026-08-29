@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_303-1_Astrologer.png
 portrait: images/fffv1/FFF_303-1_Astrologer.jpg
 tokenImg: images/fffv1/token/FFF_303-1_Astrologer.png
 type: being
-package: harnensemble
 social:
   occupation: Astrologer
   class: freeman

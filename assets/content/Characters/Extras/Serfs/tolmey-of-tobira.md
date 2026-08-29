@@ -13,7 +13,6 @@ folder: iDDaFg6xn9T7tb0L
 shortcode: tolmeyoftobira
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Servant
   class: serf

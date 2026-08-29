@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_304-1_Chandler.png
 portrait: images/fffv1/FFF_304-1_Chandler.jpg
 tokenImg: images/fffv1/token/FFF_304-1_Chandler.png
 type: being
-package: harnensemble
 social:
   occupation: Chandler
   class: freeman

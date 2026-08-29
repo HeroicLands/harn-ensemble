@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_206-1_Hunter_Ymodi.png
 portrait: images/fffv1/FFF_206-1_Hunter_Ymodi.jpg
 tokenImg: images/fffv1/token/FFF_206-1_Hunter_Ymodi.png
 type: being
-package: harnensemble
 social:
   occupation: Hunter
   class: tribesman

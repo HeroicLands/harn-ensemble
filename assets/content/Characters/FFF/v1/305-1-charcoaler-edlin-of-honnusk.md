@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_305-1_Charcoaler.png
 portrait: images/fffv1/FFF_305-1_Charcoaler.jpg
 tokenImg: images/fffv1/token/FFF_305-1_Charcoaler.png
 type: being
-package: harnensemble
 social:
   occupation: Charcoaler
   class: freeman

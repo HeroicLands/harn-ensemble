@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_409-1_Huntsman.png
 portrait: images/fffv1/FFF_409-1_Huntsman.jpg
 tokenImg: images/fffv1/token/FFF_409-1_Huntsman.png
 type: being
-package: harnensemble
 social:
   occupation: Huntsman
   class: freeman

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_318-3_Mercantyler.png
 portrait: images/fffv1/FFF_318-3_Mercantyler.jpg
 tokenImg: images/fffv1/token/FFF_318-3_Mercantyler.png
 type: being
-package: harnensemble
 social:
   occupation: Caravan Master
   class: freeman

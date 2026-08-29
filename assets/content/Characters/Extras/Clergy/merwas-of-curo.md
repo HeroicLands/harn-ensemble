@@ -13,7 +13,6 @@ folder: ZVUcnWpJEJxXzWw6
 shortcode: merwasofcuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Cleric/Siem
   class: unguilded

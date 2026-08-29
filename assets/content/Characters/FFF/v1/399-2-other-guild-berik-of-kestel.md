@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_399-2_Other_Guild.png
 portrait: images/fffv1/FFF_399-2_Other_Guild.jpg
 tokenImg: images/fffv1/token/FFF_399-2_Other_Guild.png
 type: being
-package: harnensemble
 social:
   occupation: Other (Guild) - Child
   class: freeman

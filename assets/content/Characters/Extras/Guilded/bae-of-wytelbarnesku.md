@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: baeofwytelbarnesku
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Weaponcrafter
   class: serf

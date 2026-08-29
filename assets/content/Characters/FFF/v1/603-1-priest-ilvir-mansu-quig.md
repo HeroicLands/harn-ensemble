@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_603-1_Priest_Ilvir.png
 portrait: images/fffv1/FFF_603-1_Priest_Ilvir.jpg
 tokenImg: images/fffv1/token/FFF_603-1_Priest_Ilvir.png
 type: being
-package: harnensemble
 social:
   occupation: Ilviran Priest
   class: freeman

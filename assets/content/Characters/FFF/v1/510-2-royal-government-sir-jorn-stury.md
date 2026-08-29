@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_510-2_Royal_Government.png
 portrait: images/fffv1/FFF_510-2_Royal_Government.jpg
 tokenImg: images/fffv1/token/FFF_510-2_Royal_Government.png
 type: being
-package: harnensemble
 social:
   occupation: Royal Agent
   class: noble

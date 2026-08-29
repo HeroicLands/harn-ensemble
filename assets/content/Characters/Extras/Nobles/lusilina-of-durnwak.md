@@ -13,7 +13,6 @@ folder: wYO4XEaOHdLCVUM0
 shortcode: lusilinaofdurnwak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Feudal Knight, Medium
   class: unguilded

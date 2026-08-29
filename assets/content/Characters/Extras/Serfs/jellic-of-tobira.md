@@ -13,7 +13,6 @@ folder: iDDaFg6xn9T7tb0L
 shortcode: jellicoftobira
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Herdsman
   class: serf

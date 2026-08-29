@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_602-1_Priestess_Halea.png
 portrait: images/fffv1/FFF_602-1_Priestess_Halea.jpg
 tokenImg: images/fffv1/token/FFF_602-1_Priestess_Halea.png
 type: being
-package: harnensemble
 social:
   occupation: Shenasene
   class: freeman

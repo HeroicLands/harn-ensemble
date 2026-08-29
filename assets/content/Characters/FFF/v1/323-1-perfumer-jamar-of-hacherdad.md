@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_323-1_Perfumer.png
 portrait: images/fffv1/FFF_323-1_Perfumer.jpg
 tokenImg: images/fffv1/token/FFF_323-1_Perfumer.png
 type: being
-package: harnensemble
 social:
   occupation: Perfumer
   class: freeman

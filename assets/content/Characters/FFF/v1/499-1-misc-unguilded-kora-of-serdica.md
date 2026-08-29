@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_499-1_Misc_Unguilded.png
 portrait: images/fffv1/FFF_499-1_Misc_Unguilded.jpg
 tokenImg: images/fffv1/token/FFF_499-1_Misc_Unguilded.png
 type: being
-package: harnensemble
 social:
   occupation: Wise Woman
   class: freeman

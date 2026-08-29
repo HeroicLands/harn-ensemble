@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_125-1_Huscarl_MF.png
 portrait: images/fffv1/FFF_125-1_Huscarl_MF.jpg
 tokenImg: images/fffv1/token/FFF_125-1_Huscarl_MF.png
 type: being
-package: harnensemble
 social:
   occupation: Huscarl (MF)
   class: freeman

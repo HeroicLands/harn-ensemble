@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: gwenaofvarsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Metalsmith
   class: serf

@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_606-1_Priestess_Naveh.png
 portrait: images/fffv1/FFF_606-1_Priestess_Naveh.jpg
 tokenImg: images/fffv1/token/FFF_606-1_Priestess_Naveh.png
 type: being
-package: harnensemble
 social:
   occupation: Navehan Priestess
   class: freeman

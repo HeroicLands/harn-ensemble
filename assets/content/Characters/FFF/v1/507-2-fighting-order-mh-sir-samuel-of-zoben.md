@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_507-2_Fighting_Order_MH.png
 portrait: images/fffv1/FFF_507-2_Fighting_Order_MH.jpg
 tokenImg: images/fffv1/token/FFF_507-2_Fighting_Order_MH.png
 type: being
-package: harnensemble
 social:
   occupation: Knight/Spy
   class: freeman

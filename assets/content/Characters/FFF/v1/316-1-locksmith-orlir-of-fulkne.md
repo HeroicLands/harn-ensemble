@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_316-1_Locksmith.png
 portrait: images/fffv1/FFF_316-1_Locksmith.jpg
 tokenImg: images/fffv1/token/FFF_316-1_Locksmith.png
 type: being
-package: harnensemble
 social:
   occupation: Locksmith
   class: freeman

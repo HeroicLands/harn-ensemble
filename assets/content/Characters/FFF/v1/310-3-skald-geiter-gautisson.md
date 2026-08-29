@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_310-3_Skald.png
 portrait: images/fffv1/FFF_310-3_Skald.jpg
 tokenImg: images/fffv1/token/FFF_310-3_Skald.png
 type: being
-package: harnensemble
 social:
   occupation: Skald
   class: freeman

@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: alaredofiaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Lexigrapher
   class: serf

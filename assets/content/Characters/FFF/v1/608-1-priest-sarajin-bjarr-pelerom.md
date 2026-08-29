@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_608-1_Priest_Sarajin.png
 portrait: images/fffv1/FFF_608-1_Priest_Sarajin.jpg
 tokenImg: images/fffv1/token/FFF_608-1_Priest_Sarajin.png
 type: being
-package: harnensemble
 social:
   occupation: Runemaster
   class: freeman

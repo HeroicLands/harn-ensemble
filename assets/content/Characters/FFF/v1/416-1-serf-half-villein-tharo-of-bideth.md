@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_416-1_Serf_Half_Villein.png
 portrait: images/fffv1/FFF_416-1_Serf_Half_Villein.jpg
 tokenImg: images/fffv1/token/FFF_416-1_Serf_Half_Villein.png
 type: being
-package: harnensemble
 social:
   occupation: Half-Villein
   class: serf

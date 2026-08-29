@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_313-1_Jeweller.png
 portrait: images/fffv1/FFF_313-1_Jeweller.jpg
 tokenImg: images/fffv1/token/FFF_313-1_Jeweller.png
 type: being
-package: harnensemble
 social:
   occupation: Jeweller
   class: freeman

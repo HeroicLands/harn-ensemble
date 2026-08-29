@@ -13,7 +13,6 @@ folder: GNynVWgIrKPK50Ca
 shortcode: ewenaofcosel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
-package: harnensemble
 social:
   occupation: Locksmith
   class: unguilded

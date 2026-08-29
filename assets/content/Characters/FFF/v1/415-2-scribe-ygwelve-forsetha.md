@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_415-2_Scribe.png
 portrait: images/fffv1/FFF_415-2_Scribe.jpg
 tokenImg: images/fffv1/token/FFF_415-2_Scribe.png
 type: being
-package: harnensemble
 social:
   occupation: Scribe
   class: freeman

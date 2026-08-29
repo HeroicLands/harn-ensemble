@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_502-1_Stewart.png
 portrait: images/fffv1/FFF_502-1_Stewart.jpg
 tokenImg: images/fffv1/token/FFF_502-1_Stewart.png
 type: being
-package: harnensemble
 social:
   occupation: Steward
   class: freeman

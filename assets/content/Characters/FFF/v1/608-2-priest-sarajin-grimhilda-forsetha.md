@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_608-2_Priest_Sarajin.png
 portrait: images/fffv1/FFF_608-2_Priest_Sarajin.jpg
 tokenImg: images/fffv1/token/FFF_608-2_Priest_Sarajin.png
 type: being
-package: harnensemble
 social:
   occupation: Priestess of Sarajin
   class: noble

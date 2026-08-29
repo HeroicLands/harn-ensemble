@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_599-1_Noble_Offspring.png
 portrait: images/fffv1/FFF_599-1_Noble_Offspring.jpg
 tokenImg: images/fffv1/token/FFF_599-1_Noble_Offspring.png
 type: being
-package: harnensemble
 social:
   occupation: Noble Offspring
   class: noble

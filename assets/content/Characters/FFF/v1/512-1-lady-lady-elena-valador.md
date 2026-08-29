@@ -16,7 +16,6 @@ img: images/fffv1/token/FFF_512-1_Lady.png
 portrait: images/fffv1/FFF_512-1_Lady.jpg
 tokenImg: images/fffv1/token/FFF_512-1_Lady.png
 type: being
-package: harnensemble
 social:
   occupation: Chatelaine
   class: noble
