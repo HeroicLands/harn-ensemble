@@ -40,6 +40,10 @@ AI.md
 build/
 _source/
 venv/
+# The site build's output root (`site.out` in package-build.config.yaml). It is
+# a build artifact and is wiped on every run, so nothing in it is authored — the
+# homepage it holds is generated from `assets/content/homepage.md`.
+/site/content/
 # Legacy: the compiled LevelDB packs landed at the repository root until the
 # packs moved into the build stage (#26). Kept so a checkout that still carries
 # the old directory does not report it as untracked.
