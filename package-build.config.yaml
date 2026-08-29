@@ -24,9 +24,29 @@ packs:
       label: Journals
       type: JournalEntry
 
+# `site` is a mode, not a switch: every package publishes an authored homepage at
+# https://www.heroiclands.org/<contentPackage>/ — here /harnensemble/, an address
+# that derives from `contentPackage` above and not from the repository name — and
+# the mode says how much *else* is published. `homepage` publishes that one page
+# and nothing beneath it; `content` would publish every page the content tree
+# compiles to. Nothing in this tree is meant for the web: the module is what
+# ships, and a page announcing it discloses none of the material.
+#
+# `manifests` stays off in both directions for a separate reason. A link manifest
+# is the dependency edge — emitting one would let other packages cite these
+# addresses and make the module something the project has to keep. A homepage is
+# one row in a routing table and creates no such edge.
 publish:
-    site: false
+    site: homepage
     manifests: { publish: false, consume: false }
+
+# Where the site build writes. Required in *both* modes and deliberately not
+# defaulted: the output root is wiped on every run, and an unset value would
+# resolve to the repository root. In `homepage` mode this directory is the whole
+# of the output — the homepage is written to its root, one level above the
+# content mount that only `content` mode has.
+site:
+    out: site/content
 
 packageBuild:
     assets:
