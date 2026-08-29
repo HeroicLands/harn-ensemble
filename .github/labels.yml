@@ -8,7 +8,9 @@
 # GitHub's labels are reconciled to this file by the org-wide labels action, run by
 # .github/workflows/labels-sync.yml. The set is CLOSED: any label on GitHub that
 # is not listed here is deleted on sync. Do not invent labels — extending the
-# registry is a deliberate edit to this file and §3.
+# registry is a deliberate edit to this file and §3. A description must be 100
+# characters or fewer — GitHub's own limit, which that action checks in both
+# modes, so an over-long one fails the pull request rather than the sync.
 #
 # The registry is narrow, because the repository is: it ships Foundry compendium
 # packs and the one page announcing them, and nothing else. `system` and `tests`
@@ -18,7 +20,7 @@
 
 - name: content
   color: "58ec8d"
-  description: Hârn Ensemble material — character notes, affiliations, compendium packs, actors, journals, artwork.
+  description: Hârn Ensemble material — character notes, affiliations, actors, journals, packs, artwork.
 
 - name: documentation
   color: "0075ca"
@@ -26,7 +28,7 @@
 
 - name: site
   color: "24bdb0"
-  description: The package homepage at /harnensemble/ — its content, the Hugo build, the Cloudflare Pages deployment.
+  description: The /harnensemble/ homepage — its content, the Hugo build, the Cloudflare Pages deployment.
 
 - name: devops
   color: "e07b31"

@@ -129,9 +129,9 @@ of its own. It does not extend to the module's content: that is never published
 
 | Label             | Scope                                                                                                                         |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| `content`         | Hârn Ensemble material — character notes, affiliations, compendium packs, actors, journals, artwork.                          |
+| `content`         | Hârn Ensemble material — character notes, affiliations, actors, journals, packs, artwork.                                     |
 | `documentation`   | Documentation about this repository — README, process, authoring guides.                                                      |
-| `site`            | The package homepage at `/harnensemble/` — its content, the Hugo build, the Cloudflare Pages deployment.                      |
+| `site`            | The `/harnensemble/` homepage — its content, the Hugo build, the Cloudflare Pages deployment.                                 |
 | `devops`          | Build, tooling, pack pipeline, release, repo config.                                                                          |
 | `security`        | Touches an attack surface: data integrity, macro/script execution, injection, or anything warranting private disclosure (§7). |
 | `tech-debt`       | Restructuring or cleanup of working content or tooling; refactors.                                                            |
