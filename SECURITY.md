@@ -17,9 +17,9 @@ The latest released version receives security fixes; older versions do not.
 ## Scope
 
 This repository ships a Foundry VTT content module — compendium packs of
-journals and actors. There is no application code, so the relevant concerns
-are content-borne: text rendered into other users' clients (actor names, item
-names and descriptions, journal bodies).
+actors. There is no application code, so the relevant concerns are
+content-borne: text rendered into other users' clients (actor names, item
+names and descriptions, biography prose).
 
 The module ships actors for two game systems, and a weakness in either system
 that this content merely exercises belongs in that system's advisories, not

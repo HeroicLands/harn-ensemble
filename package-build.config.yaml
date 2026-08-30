@@ -11,6 +11,18 @@ compatibility:
     minimum: "14.359"
     verified: "14.367"
 
+# A `journals` pack was declared here from the initial commit and never had a
+# source. The journals pass compiles a note whose `type` is `doc`, or one of the
+# doc-carrying types (every item type, plus `macro` and the map types); this tree
+# holds 2,512 `being`, 5 `affiliation` and one `homepage` note and has never held
+# a `doc` one. So the pass walked all 2,518 notes, rejected every one, emitted
+# nothing and failed the build.
+#
+# Nothing is lost by dropping it. A being's `{#appearance}` and `{#dossier}`
+# sections are rendered into the Actor itself, so the character prose ships in
+# the Actor packs where a reader meets the character — it was never going to
+# appear in a JournalEntry. If this module ever ships journal prose of its own,
+# the pack comes back with notes to fill it, the way the items pack will.
 packs:
     - name: actors-hm3
       label: Actors
@@ -20,9 +32,6 @@ packs:
       label: Actors
       type: Actor
       system: sohl
-    - name: journals
-      label: Journals
-      type: JournalEntry
 
 # `site` is a mode, not a switch: every package publishes an authored homepage at
 # https://www.heroiclands.org/<contentPackage>/ — here /harnensemble/, an address
@@ -72,6 +81,5 @@ packageBuild:
               packs:
                   - actors-hm3
                   - actors-sohl
-                  - journals
         flags:
             allowBugReporter: true
