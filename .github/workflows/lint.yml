@@ -1,0 +1,57 @@
+# Lint the content tree on every pull request (#4).
+#
+# This runs **two** of the four checks `npm run lint` chains, not the chain
+# itself, and the omission is deliberate rather than an oversight.
+#
+# Nothing had ever linted this tree, so turning the whole chain on at once would
+# have made every pull request red on a backlog nobody in the pull request put
+# there: 5 unformatted notes and 170 markdown findings, measured on the commit
+# that added the scripts. A gate that cannot go green is worse than no gate —
+# it trains people to merge past a red check.
+#
+# `lint:addresses` and `lint:content-links` pass clean today, across all 2,518
+# notes, and they are the two that guard what this repository actually *is*: the
+# 2,517 addresses its documents are cited by, and the links between them. Those
+# are the failures that corrupt a build silently; the two left out are
+# whitespace and bare URLs, which are ugly and harmless.
+#
+# So the gate is green from the day it lands and protects the invariants that
+# matter. When the format and markdown backlogs are cleared, replace both steps
+# below with a single `npm run lint` — the chain already includes these two.
+name: Lint
+
+on:
+    pull_request:
+        types: [opened, reopened, synchronize]
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    lint:
+        name: Content addresses and links
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v7
+
+            - name: Setup Node
+              uses: actions/setup-node@v7
+              with:
+                  node-version: 24
+                  cache: npm
+
+            # The checks read the content tree and need only the toolchain;
+            # nothing here builds or compiles a pack.
+            - name: Install dependencies
+              run: npm ci
+
+            # Every note's address and frontmatter are well-formed.
+            - name: Check addresses and frontmatter
+              run: npm run lint:addresses
+
+            # Every anchor link lands and every qualified address resolves.
+            - name: Check content links
+              run: npm run lint:content-links
