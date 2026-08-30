@@ -1,26 +1,34 @@
-# Authoritative label registry for the sohl-kethira-basic repository.
+# Authoritative label registry for the harn-ensemble repository.
 #
 # This file is the machine-readable source of truth for §3 of
-# .github/ISSUE_REPORTING.md — the two are kept in sync by
-# `utils/check-labels.mjs` (run as `npm run lint:labels`). Editing the registry
-# means editing BOTH: this file (name/color/description) and the §3 table.
+# .github/ISSUE_REPORTING.md. Editing the registry means editing BOTH: this file
+# (name/color/description) and the §3 table. Nothing checks that the two agree —
+# this repository has no label-lint script — so they are kept in step by hand.
 #
 # GitHub's labels are reconciled to this file by the org-wide labels action, run by
 # .github/workflows/labels-sync.yml. The set is CLOSED: any label on GitHub that
 # is not listed here is deleted on sync. Do not invent labels — extending the
-# registry is a deliberate edit to this file and §3.
+# registry is a deliberate edit to this file and §3. A description must be 100
+# characters or fewer — GitHub's own limit, which that action checks in both
+# modes, so an over-long one fails the pull request rather than the sync.
 #
-# The registry is deliberately the NARROWEST in the project: this repository
-# ships Foundry compendium packs and nothing else — no system code, no test
-# suite, and no site — so `system`, `tests`, and `site` are absent.
+# The registry is narrow, because the repository is: it ships Foundry compendium
+# packs and the one page announcing them, and nothing else. `system` and `tests`
+# are absent — there is no system code and no test suite here. `site` is present:
+# the package publishes a homepage at https://www.heroiclands.org/harnensemble/,
+# built and deployed from this repository, so that work is delivered here.
 
 - name: content
   color: "58ec8d"
-  description: Kethira material — notes, compendium packs, actors, items, journals, scenes, artwork.
+  description: Hârn Ensemble material — character notes, affiliations, actors, journals, packs, artwork.
 
 - name: documentation
   color: "0075ca"
-  description: Documentation about this repository — README, CLAUDE.md, process, authoring guides.
+  description: Documentation about this repository — README, process, authoring guides.
+
+- name: site
+  color: "24bdb0"
+  description: The /harnensemble/ homepage — its content, the Hugo build, the Cloudflare Pages deployment.
 
 - name: devops
   color: "e07b31"
