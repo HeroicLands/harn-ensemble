@@ -12,9 +12,10 @@ name: Version and Release
 #      builds the module, packages it, and cuts the `v<version>` tag and the
 #      GitHub Release that Foundry installs from.
 #
-# Releases up to v0.5.3 were cut by hand. The tags they left follow the same
-# `v<version>` convention this workflow reads, so it picks up where they
-# stopped: an existing tag is skipped rather than re-cut.
+# This repository has never released: no tags, no Releases, and `package.json`
+# still at 0.0.0. The first run to reach step 3 therefore cuts the first tag,
+# and the tag check in that step has never once executed — which is why it is
+# written to fail loudly rather than guess when it cannot reach the remote.
 #
 # This repository ships a **module**, not an npm package, so there is no
 # `publish:` step and no registry credential. The release *is* the tag and its
@@ -65,7 +66,7 @@ jobs:
 
             # With changesets pending: opens or updates the Version Packages
             # pull request and stops. With none pending — the state right after
-            # that pull request merges — `hasChangesets` is false, which is the
+            # that pull request merges — `has-changesets` is false, which is the
             # signal that a freshly-versioned commit just landed.
             #
             # This package is `private: true`, so `.changeset/config.json`
@@ -92,22 +93,52 @@ jobs:
             # changesets remain AND this version has not already been tagged.
             # Both halves are needed — the first says a bump just landed, the
             # second keeps an ordinary push (or a re-run) from cutting the same
-            # release twice, and is what makes the hand-cut tags up to v0.5.3
-            # safe to inherit.
+            # release twice. An ordinary push to `main` also leaves no
+            # changesets behind, so the tag check is the only thing that tells
+            # "the version bump just landed" apart from "someone merged a
+            # README fix".
+            #
+            # The output is `has-changesets`, kebab-case: changesets/action v2
+            # renamed every output from v1's camelCase — `hasChangesets` →
+            # `has-changesets`, `publishedPackages` → `published-packages`,
+            # `pullRequestNumber` → `pr-number`; only `published` is unchanged.
+            # Reading a name the action does not emit is not an error: GitHub
+            # evaluates a nonexistent property to the empty string, `'' ==
+            # 'false'` is false, and every release step below is skipped
+            # forever — the workflow runs green and cuts nothing.
+            #
+            # Index syntax, to match the sibling release workflows. Dot notation
+            # would work too (property dereference permits `-`), so this is
+            # consistency rather than necessity.
             - name: Decide whether to release
               id: decide
-              if: steps.changesets.outputs.hasChangesets == 'false'
+              if: steps.changesets.outputs['has-changesets'] == 'false'
               run: |
                   VERSION=$(node -p "require('./package.json').version")
                   TAG="v$VERSION"
-                  if git ls-remote --exit-code --tags origin "refs/tags/$TAG" >/dev/null 2>&1; then
-                      echo "Tag $TAG already exists — nothing to release."
-                      echo "release=false" >> "$GITHUB_OUTPUT"
-                  else
-                      echo "Version $VERSION is untagged — releasing $TAG."
-                      echo "release=true" >> "$GITHUB_OUTPUT"
-                      echo "tag=$TAG" >> "$GITHUB_OUTPUT"
-                  fi
+                  # `--exit-code` reports 0 for a match and 2 for no match; any
+                  # other status is a failed lookup (128 for an unreachable or
+                  # unauthenticated remote). Treating every non-zero status as
+                  # "no such tag" would turn a transient network failure into a
+                  # release of a version that is already released, so only 2 is
+                  # allowed to mean the tag is absent.
+                  status=0
+                  git ls-remote --exit-code --tags origin "refs/tags/$TAG" >/dev/null 2>&1 || status=$?
+                  case "$status" in
+                      0)
+                          echo "Tag $TAG already exists — nothing to release."
+                          echo "release=false" >> "$GITHUB_OUTPUT"
+                          ;;
+                      2)
+                          echo "Version $VERSION is untagged — releasing $TAG."
+                          echo "release=true" >> "$GITHUB_OUTPUT"
+                          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+                          ;;
+                      *)
+                          echo "::error::git ls-remote failed for refs/tags/$TAG (exit $status). Refusing to guess whether the tag exists."
+                          exit 1
+                          ;;
+                  esac
 
             # `build:noci` rather than `build`, which begins with its own
             # `npm ci` — the dependencies are already installed above. It runs
