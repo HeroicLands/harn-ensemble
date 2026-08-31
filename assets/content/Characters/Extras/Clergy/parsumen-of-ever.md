@@ -57,7 +57,6 @@ hm3:
     voi: 14
     cml: 9
     mor: 6
-    end: 13
   move: 16
   items:
     - shortcode: skull
