@@ -58,180 +58,70 @@ hm3:
     mor: 10
   move: 8
   items:
-    - shortcode: skull
-      type: armorlocation
-    - shortcode: face
-      type: armorlocation
-    - shortcode: neck
-      type: armorlocation
-    - shortcode: lshoulder
-      type: armorlocation
-    - shortcode: rshoulder
-      type: armorlocation
-    - shortcode: luparm
-      type: armorlocation
-    - shortcode: ruparm
-      type: armorlocation
-    - shortcode: lelb
-      type: armorlocation
-    - shortcode: relb
-      type: armorlocation
-    - shortcode: lhand
-      type: armorlocation
-    - shortcode: rhand
-      type: armorlocation
-    - shortcode: thorax
-      type: armorlocation
-    - shortcode: abdm
-      type: armorlocation
-    - shortcode: groin
-      type: armorlocation
-    - shortcode: lhip
-      type: armorlocation
-    - shortcode: rhip
-      type: armorlocation
-    - shortcode: lthigh
-      type: armorlocation
-    - shortcode: rthigh
-      type: armorlocation
-    - shortcode: lknee
-      type: armorlocation
-    - shortcode: rknee
-      type: armorlocation
-    - shortcode: lcalf
-      type: armorlocation
-    - shortcode: rcalf
-      type: armorlocation
-    - shortcode: lfoot
-      type: armorlocation
-    - shortcode: rfoot
-      type: armorlocation
-    - shortcode: climbing
-      type: skill
-      system:
-        masteryLevel: 50
-    - shortcode: condition
-      type: skill
-      system:
-        masteryLevel: 72
-    - shortcode: jumping
-      type: skill
-      system:
-        masteryLevel: 44
-    - shortcode: stealth
-      type: skill
-      system:
-        masteryLevel: 36
-    - shortcode: throwing
-      type: skill
-      system:
-        masteryLevel: 44
-    - shortcode: awareness
-      type: skill
-      system:
-        masteryLevel: 56
-    - shortcode: intrigue
-      type: skill
-      system:
-        masteryLevel: 48
-    - shortcode: language
-      type: skill
-      name: Language, Guilded
-      system:
-        masteryLevel: 73
-    - shortcode: oratory
-      type: skill
-      system:
-        masteryLevel: 28
-    - shortcode: rhetoric
-      type: skill
-      system:
-        masteryLevel: 39
-    - shortcode: singing
-      type: skill
-      system:
-        masteryLevel: 42
-    - shortcode: initiative
-      type: skill
-      system:
-        masteryLevel: 65
-    - shortcode: unarmed
-      type: skill
-      system:
-        masteryLevel: 48
-    - shortcode: fishing
-      type: skill
-      system:
-        masteryLevel: 98
-    - shortcode: piloting
-      type: skill
-      system:
-        masteryLevel: 26
-    - shortcode: seamanship
-      type: skill
-      system:
-        masteryLevel: 77
-    - shortcode: shipwright
-      type: skill
-      system:
-        masteryLevel: 24
-    - shortcode: weatherlore
-      type: skill
-      system:
-        masteryLevel: 75
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 563
-    - shortcode: pursebuckram
-      type: containergear
-    - shortcode: LtCBoot
-      type: armorgear
-    - shortcode: WxCvCloak
-      type: armorgear
-    - shortcode: BLeg
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: CTunic
-      type: armorgear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: backbagmed
-      type: containergear
-    - shortcode: fishingkitportable
-      type: miscgear
+    - { shortcode: skull, type: armorlocation }
+    - { shortcode: face, type: armorlocation }
+    - { shortcode: neck, type: armorlocation }
+    - { shortcode: lshoulder, type: armorlocation }
+    - { shortcode: rshoulder, type: armorlocation }
+    - { shortcode: luparm, type: armorlocation }
+    - { shortcode: ruparm, type: armorlocation }
+    - { shortcode: lelb, type: armorlocation }
+    - { shortcode: relb, type: armorlocation }
+    - { shortcode: lhand, type: armorlocation }
+    - { shortcode: rhand, type: armorlocation }
+    - { shortcode: thorax, type: armorlocation }
+    - { shortcode: abdm, type: armorlocation }
+    - { shortcode: groin, type: armorlocation }
+    - { shortcode: lhip, type: armorlocation }
+    - { shortcode: rhip, type: armorlocation }
+    - { shortcode: lthigh, type: armorlocation }
+    - { shortcode: rthigh, type: armorlocation }
+    - { shortcode: lknee, type: armorlocation }
+    - { shortcode: rknee, type: armorlocation }
+    - { shortcode: lcalf, type: armorlocation }
+    - { shortcode: rcalf, type: armorlocation }
+    - { shortcode: lfoot, type: armorlocation }
+    - { shortcode: rfoot, type: armorlocation }
+    - { shortcode: climbing, type: skill, system: { masteryLevel: 50 } }
+    - { shortcode: condition, type: skill, system: { masteryLevel: 72 } }
+    - { shortcode: jumping, type: skill, system: { masteryLevel: 44 } }
+    - { shortcode: stealth, type: skill, system: { masteryLevel: 36 } }
+    - { shortcode: throwing, type: skill, system: { masteryLevel: 44 } }
+    - { shortcode: awareness, type: skill, system: { masteryLevel: 56 } }
+    - { shortcode: intrigue, type: skill, system: { masteryLevel: 48 } }
+    - { shortcode: language, type: skill, name: "Language, Guilded", system: { masteryLevel: 73 } }
+    - { shortcode: oratory, type: skill, system: { masteryLevel: 28 } }
+    - { shortcode: rhetoric, type: skill, system: { masteryLevel: 39 } }
+    - { shortcode: singing, type: skill, system: { masteryLevel: 42 } }
+    - { shortcode: initiative, type: skill, system: { masteryLevel: 65 } }
+    - { shortcode: unarmed, type: skill, system: { masteryLevel: 48 } }
+    - { shortcode: fishing, type: skill, system: { masteryLevel: 98 } }
+    - { shortcode: piloting, type: skill, system: { masteryLevel: 26 } }
+    - { shortcode: seamanship, type: skill, system: { masteryLevel: 77 } }
+    - { shortcode: shipwright, type: skill, system: { masteryLevel: 24 } }
+    - { shortcode: weatherlore, type: skill, system: { masteryLevel: 75 } }
+    - { shortcode: pence, type: miscgear, system: { quantity: 563 } }
+    - { shortcode: pursebuckram, type: containergear }
+    - { shortcode: LtCBoot, type: armorgear }
+    - { shortcode: WxCvCloak, type: armorgear }
+    - { shortcode: BLeg, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: CTunic, type: armorgear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: backbagmed, type: containergear }
+    - { shortcode: fishingkitportable, type: miscgear }
     - name: Fishing line, 50'
       type: miscgear
       img: systems/hm3/images/icons/svg/miscgear.svg
       system:
         value: 10
         weight: 0.5
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: RCap
-      type: armorgear
-    - shortcode: spoonpewte
-      type: miscgear
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: RCap, type: armorgear }
+    - { shortcode: spoonpewte, type: miscgear }
 sohl:
   kbcat: archetype
   archetype: 1
-  attributes:
-    str: 12
-    end: 10
-    dex: 8
-    agl: 11
-    per: 16
-    snt: 14
-    cml: 15
-    aur: 10
-    wil: 14
-    rea: 14
-    cre: 13
-    emp: 10
-    elo: 14
-    mor: 10
-    voi: 13
   body:
     structure:
       zones:
@@ -691,141 +581,74 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: archery
-      type: skill
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: chrm
-      type: skill
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: cmd
-      type: skill
-    - shortcode: cook
-      type: skill
-    - shortcode: dnce
-      type: skill
-    - shortcode: dscr
-      type: skill
-    - shortcode: draw
-      type: skill
-    - shortcode: folklr
-      type: skill
-    - shortcode: guil
-      type: skill
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 65
-    - shortcode: shok
-      type: skill
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: melee
-      type: skill
-    - shortcode: dge
-      type: skill
-    - shortcode: pysn
-      type: skill
-    - shortcode: ridg
-      type: skill
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 42
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 36
-    - shortcode: srvl
-      type: skill
-    - shortcode: spirit
-      type: skill
-    - shortcode: swim
-      type: skill
-    - shortcode: thtcs
-      type: skill
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: bflkbite
-      type: skill
-    - shortcode: bflkgrab
-      type: skill
-    - shortcode: bflkheadbutt
-      type: skill
-    - shortcode: bflkkick
-      type: skill
-    - shortcode: limbblock
-      type: skill
-    - shortcode: press
-      type: skill
-    - shortcode: bflkpunch
-      type: skill
-    - shortcode: trip
-      type: skill
-    - shortcode: sprt
-      type: mysticalability
-    - shortcode: lang
-      type: skill
-      name: Language, Guilded
-      system:
-        masteryLevelBase: 73
-    - shortcode: fish
-      type: skill
-      system:
-        masteryLevelBase: 98
-    - shortcode: pilt
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: smsh
-      type: skill
-      system:
-        masteryLevelBase: 77
-    - shortcode: shpw
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 563
-    - shortcode: pouchbuckram
-      type: containergear
-    - shortcode: LtCBoot
-      type: armorgear
-    - shortcode: WxCvCloak
-      type: armorgear
-    - shortcode: BLeg
-      type: armorgear
-    - shortcode: LtShoe
-      type: armorgear
-    - shortcode: CTunic
-      type: armorgear
-    - shortcode: Dgr
-      type: weapongear
-    - shortcode: backbagmed
-      type: containergear
-    - shortcode: fishgkit
-      type: miscgear
-    - shortcode: tndrbx
-      type: miscgear
-    - shortcode: RCap
-      type: armorgear
-    - shortcode: spoonpewte
-      type: miscgear
+    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: snt, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: archery, type: skill }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: chrm, type: skill }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: cmd, type: skill }
+    - { shortcode: cook, type: skill }
+    - { shortcode: dnce, type: skill }
+    - { shortcode: dscr, type: skill }
+    - { shortcode: draw, type: skill }
+    - { shortcode: folklr, type: skill }
+    - { shortcode: guil, type: skill }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 65 } }
+    - { shortcode: shok, type: skill }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: melee, type: skill }
+    - { shortcode: dge, type: skill }
+    - { shortcode: pysn, type: skill }
+    - { shortcode: ridg, type: skill }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
+    - { shortcode: srvl, type: skill }
+    - { shortcode: spirit, type: skill }
+    - { shortcode: swim, type: skill }
+    - { shortcode: thtcs, type: skill }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: bflkbite, type: skill }
+    - { shortcode: bflkgrab, type: skill }
+    - { shortcode: bflkheadbutt, type: skill }
+    - { shortcode: bflkkick, type: skill }
+    - { shortcode: limbblock, type: skill }
+    - { shortcode: press, type: skill }
+    - { shortcode: bflkpunch, type: skill }
+    - { shortcode: trip, type: skill }
+    - { shortcode: sprt, type: mysticalability }
+    - { shortcode: lang, type: skill, name: "Language, Guilded", system: { masteryLevelBase: 73 } }
+    - { shortcode: fish, type: skill, system: { masteryLevelBase: 98 } }
+    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 77 } }
+    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: pence, type: miscgear, system: { quantity: 563 } }
+    - { shortcode: pouchbuckram, type: containergear }
+    - { shortcode: LtCBoot, type: armorgear }
+    - { shortcode: WxCvCloak, type: armorgear }
+    - { shortcode: BLeg, type: armorgear }
+    - { shortcode: LtShoe, type: armorgear }
+    - { shortcode: CTunic, type: armorgear }
+    - { shortcode: Dgr, type: weapongear }
+    - { shortcode: backbagmed, type: containergear }
+    - { shortcode: fishgkit, type: miscgear }
+    - { shortcode: tndrbx, type: miscgear }
+    - { shortcode: RCap, type: armorgear }
+    - { shortcode: spoonpewte, type: miscgear }
 ---
 
 # Appearance {#appearance}

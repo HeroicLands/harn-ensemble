@@ -61,182 +61,71 @@ hm3:
     mor: 13
   move: 13
   items:
-    - shortcode: skull
-      type: armorlocation
-    - shortcode: face
-      type: armorlocation
-    - shortcode: neck
-      type: armorlocation
-    - shortcode: lshoulder
-      type: armorlocation
-    - shortcode: rshoulder
-      type: armorlocation
-    - shortcode: luparm
-      type: armorlocation
-    - shortcode: ruparm
-      type: armorlocation
-    - shortcode: lelb
-      type: armorlocation
-    - shortcode: relb
-      type: armorlocation
-    - shortcode: lhand
-      type: armorlocation
-    - shortcode: rhand
-      type: armorlocation
-    - shortcode: thorax
-      type: armorlocation
-    - shortcode: abdm
-      type: armorlocation
-    - shortcode: groin
-      type: armorlocation
-    - shortcode: lhip
-      type: armorlocation
-    - shortcode: rhip
-      type: armorlocation
-    - shortcode: lthigh
-      type: armorlocation
-    - shortcode: rthigh
-      type: armorlocation
-    - shortcode: lknee
-      type: armorlocation
-    - shortcode: rknee
-      type: armorlocation
-    - shortcode: lcalf
-      type: armorlocation
-    - shortcode: rcalf
-      type: armorlocation
-    - shortcode: lfoot
-      type: armorlocation
-    - shortcode: rfoot
-      type: armorlocation
-    - shortcode: acrobatics
-      type: skill
-      system:
-        masteryLevel: 98
-    - shortcode: climbing
-      type: skill
-      system:
-        masteryLevel: 66
-    - shortcode: condition
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: jumping
-      type: skill
-      system:
-        masteryLevel: 56
-    - shortcode: swimming
-      type: skill
-      system:
-        masteryLevel: 32
-    - shortcode: stealth
-      type: skill
-      system:
-        masteryLevel: 42
-    - shortcode: throwing
-      type: skill
-      system:
-        masteryLevel: 80
-    - shortcode: awareness
-      type: skill
-      system:
-        masteryLevel: 48
-    - shortcode: intrigue
-      type: skill
-      system:
-        masteryLevel: 24
-    - shortcode: oratory
-      type: skill
-      system:
-        masteryLevel: 28
+    - { shortcode: skull, type: armorlocation }
+    - { shortcode: face, type: armorlocation }
+    - { shortcode: neck, type: armorlocation }
+    - { shortcode: lshoulder, type: armorlocation }
+    - { shortcode: rshoulder, type: armorlocation }
+    - { shortcode: luparm, type: armorlocation }
+    - { shortcode: ruparm, type: armorlocation }
+    - { shortcode: lelb, type: armorlocation }
+    - { shortcode: relb, type: armorlocation }
+    - { shortcode: lhand, type: armorlocation }
+    - { shortcode: rhand, type: armorlocation }
+    - { shortcode: thorax, type: armorlocation }
+    - { shortcode: abdm, type: armorlocation }
+    - { shortcode: groin, type: armorlocation }
+    - { shortcode: lhip, type: armorlocation }
+    - { shortcode: rhip, type: armorlocation }
+    - { shortcode: lthigh, type: armorlocation }
+    - { shortcode: rthigh, type: armorlocation }
+    - { shortcode: lknee, type: armorlocation }
+    - { shortcode: rknee, type: armorlocation }
+    - { shortcode: lcalf, type: armorlocation }
+    - { shortcode: rcalf, type: armorlocation }
+    - { shortcode: lfoot, type: armorlocation }
+    - { shortcode: rfoot, type: armorlocation }
+    - { shortcode: acrobatics, type: skill, system: { masteryLevel: 98 } }
+    - { shortcode: climbing, type: skill, system: { masteryLevel: 66 } }
+    - { shortcode: condition, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: jumping, type: skill, system: { masteryLevel: 56 } }
+    - { shortcode: swimming, type: skill, system: { masteryLevel: 32 } }
+    - { shortcode: stealth, type: skill, system: { masteryLevel: 42 } }
+    - { shortcode: throwing, type: skill, system: { masteryLevel: 80 } }
+    - { shortcode: awareness, type: skill, system: { masteryLevel: 48 } }
+    - { shortcode: intrigue, type: skill, system: { masteryLevel: 24 } }
+    - { shortcode: oratory, type: skill, system: { masteryLevel: 28 } }
     - shortcode: rhetoric
       type: skill
       name: Intimidation (Rhetoric)
       system:
         masteryLevel: 90
-    - shortcode: singing
-      type: skill
-      system:
-        masteryLevel: 27
-    - shortcode: language
-      type: skill
-      name: "Language: Kyani"
-      system:
-        masteryLevel: 75
-    - shortcode: initiative
-      type: skill
-      system:
-        masteryLevel: 117
-    - shortcode: unarmed
-      type: skill
-      system:
-        masteryLevel: 90
-    - shortcode: dodge
-      type: skill
-      system:
-        masteryLevel: 96
-    - shortcode: dagger
-      type: skill
-      system:
-        masteryLevel: 67
-    - shortcode: shield
-      type: skill
-      name: Round (Shield)
-      system:
-        masteryLevel: 96
-    - shortcode: spear
-      type: skill
-      system:
-        masteryLevel: 90
-    - shortcode: sword
-      type: skill
-      name: Mankar (Sword)
-      system:
-        masteryLevel: 85
+    - { shortcode: singing, type: skill, system: { masteryLevel: 27 } }
+    - { shortcode: language, type: skill, name: "Language: Kyani", system: { masteryLevel: 75 } }
+    - { shortcode: initiative, type: skill, system: { masteryLevel: 117 } }
+    - { shortcode: unarmed, type: skill, system: { masteryLevel: 90 } }
+    - { shortcode: dodge, type: skill, system: { masteryLevel: 96 } }
+    - { shortcode: dagger, type: skill, system: { masteryLevel: 67 } }
+    - { shortcode: shield, type: skill, name: Round (Shield), system: { masteryLevel: 96 } }
+    - { shortcode: spear, type: skill, system: { masteryLevel: 90 } }
+    - { shortcode: sword, type: skill, name: Mankar (Sword), system: { masteryLevel: 85 } }
     - shortcode: animalcraft
       type: skill
       name: Goatcraft (Animalcraft)
       system:
         masteryLevel: 53
-    - shortcode: ceramics
-      type: skill
-      system:
-        masteryLevel: 30
-    - shortcode: folklore
-      type: skill
-      system:
-        masteryLevel: 42
-    - shortcode: jewelcraft
-      type: skill
-      system:
-        masteryLevel: 55
-    - shortcode: survival
-      type: skill
-      system:
-        masteryLevel: 67
-    - shortcode: textilecraft
-      type: skill
-      system:
-        masteryLevel: 30
-    - shortcode: tracking
-      type: skill
-      system:
-        masteryLevel: 55
-    - shortcode: RndSh
-      type: weapongear
-    - shortcode: Mankar
-      type: weapongear
-    - shortcode: SprThr
-      type: missilegear
-      name: Spear (thrown)
-    - shortcode: Spr
-      type: weapongear
-      system:
-        quantity: 0
-    - shortcode: HndArm
-      type: weapongear
-    - shortcode: FtLgKn
-      type: weapongear
+    - { shortcode: ceramics, type: skill, system: { masteryLevel: 30 } }
+    - { shortcode: folklore, type: skill, system: { masteryLevel: 42 } }
+    - { shortcode: jewelcraft, type: skill, system: { masteryLevel: 55 } }
+    - { shortcode: survival, type: skill, system: { masteryLevel: 67 } }
+    - { shortcode: textilecraft, type: skill, system: { masteryLevel: 30 } }
+    - { shortcode: tracking, type: skill, system: { masteryLevel: 55 } }
+    - { shortcode: RndSh, type: weapongear }
+    - { shortcode: Mankar, type: weapongear }
+    - { shortcode: SprThr, type: missilegear, name: Spear (thrown) }
+    - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
+    - { shortcode: HndArm, type: weapongear }
+    - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
       img: systems/hm3/images/icons/svg/armor.svg
@@ -261,22 +150,16 @@ hm3:
         quantity: 2
         value: 15
         weight: 0.01
-    - shortcode: LSkirt
-      type: armorgear
-    - shortcode: beltwaist
-      type: miscgear
+    - { shortcode: LSkirt, type: armorgear }
+    - { shortcode: beltwaist, type: miscgear }
     - name: Sandals, leather
       type: miscgear
       img: systems/hm3/images/icons/svg/sack.svg
       system:
         value: 8
         weight: 1
-    - shortcode: PlAil
-      type: armorgear
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 180
+    - { shortcode: PlAil, type: armorgear }
+    - { shortcode: pence, type: miscgear, system: { quantity: 180 } }
 ---
 
 # Appearance {#appearance}
