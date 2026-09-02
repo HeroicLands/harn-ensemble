@@ -4,13 +4,13 @@ aliases:
 tags: []
 id: iQzDh13KVsOrpbqc
 type: affiliation
+subType: venture
 shortcode: fffpentacle
 img: ""
 name:
   full: The Pentacle
   aliases: []
 sohl:
-  subType: social
   society: null
   office: null
   title: null

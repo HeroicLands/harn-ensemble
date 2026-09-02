@@ -4,13 +4,13 @@ aliases:
 tags: []
 id: tcM3VLVYfSXzCDFd
 type: affiliation
+subType: venture
 shortcode: fffagntscrwn
 img: ""
 name:
   full: Agents of the Crown
   aliases: []
 sohl:
-  subType: social
   society: null
   office: null
   title: null
