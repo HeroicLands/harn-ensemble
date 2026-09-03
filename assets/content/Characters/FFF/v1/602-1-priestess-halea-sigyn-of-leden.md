@@ -61,96 +61,37 @@ hm3:
     mor: 12
   move: 14
   items:
-    - shortcode: skull
-      type: armorlocation
-    - shortcode: face
-      type: armorlocation
-    - shortcode: neck
-      type: armorlocation
-    - shortcode: lshoulder
-      type: armorlocation
-    - shortcode: rshoulder
-      type: armorlocation
-    - shortcode: luparm
-      type: armorlocation
-    - shortcode: ruparm
-      type: armorlocation
-    - shortcode: lelb
-      type: armorlocation
-    - shortcode: relb
-      type: armorlocation
-    - shortcode: lhand
-      type: armorlocation
-    - shortcode: rhand
-      type: armorlocation
-    - shortcode: thorax
-      type: armorlocation
-    - shortcode: abdm
-      type: armorlocation
-    - shortcode: groin
-      type: armorlocation
-    - shortcode: lhip
-      type: armorlocation
-    - shortcode: rhip
-      type: armorlocation
-    - shortcode: lthigh
-      type: armorlocation
-    - shortcode: rthigh
-      type: armorlocation
-    - shortcode: lknee
-      type: armorlocation
-    - shortcode: rknee
-      type: armorlocation
-    - shortcode: lcalf
-      type: armorlocation
-    - shortcode: rcalf
-      type: armorlocation
-    - shortcode: lfoot
-      type: armorlocation
-    - shortcode: rfoot
-      type: armorlocation
-    - shortcode: climbing
-      type: skill
-      system:
-        masteryLevel: 54
-        skillBase:
-          value: 12
-    - shortcode: condition
-      type: skill
-      system:
-        masteryLevel: 68
-        skillBase:
-          value: 12
-    - shortcode: dancing
-      type: skill
-      system:
-        masteryLevel: 48
-        skillBase:
-          value: 16
-    - shortcode: jumping
-      type: skill
-      system:
-        masteryLevel: 52
-        skillBase:
-          value: 12
-    - shortcode: stealth
-      type: skill
-      system:
-        masteryLevel: 50
-        skillBase:
-          value: 15
-    - shortcode: throwing
-      type: skill
-      system:
-        masteryLevel: 44
-        skillBase:
-          value: 10
-    - shortcode: awareness
-      type: skill
-      system:
-        masteryLevel: 55
-        skillBase:
-          value: 13
+    - { shortcode: skull, type: armorlocation }
+    - { shortcode: face, type: armorlocation }
+    - { shortcode: neck, type: armorlocation }
+    - { shortcode: lshoulder, type: armorlocation }
+    - { shortcode: rshoulder, type: armorlocation }
+    - { shortcode: luparm, type: armorlocation }
+    - { shortcode: ruparm, type: armorlocation }
+    - { shortcode: lelb, type: armorlocation }
+    - { shortcode: relb, type: armorlocation }
+    - { shortcode: lhand, type: armorlocation }
+    - { shortcode: rhand, type: armorlocation }
+    - { shortcode: thorax, type: armorlocation }
+    - { shortcode: abdm, type: armorlocation }
+    - { shortcode: groin, type: armorlocation }
+    - { shortcode: lhip, type: armorlocation }
+    - { shortcode: rhip, type: armorlocation }
+    - { shortcode: lthigh, type: armorlocation }
+    - { shortcode: rthigh, type: armorlocation }
+    - { shortcode: lknee, type: armorlocation }
+    - { shortcode: rknee, type: armorlocation }
+    - { shortcode: lcalf, type: armorlocation }
+    - { shortcode: rcalf, type: armorlocation }
+    - { shortcode: lfoot, type: armorlocation }
+    - { shortcode: rfoot, type: armorlocation }
+    - { shortcode: climbing, type: skill, system: { masteryLevel: 54, skillBase: { value: 12 } } }
+    - { shortcode: condition, type: skill, system: { masteryLevel: 68, skillBase: { value: 12 } } }
+    - { shortcode: dancing, type: skill, system: { masteryLevel: 48, skillBase: { value: 16 } } }
+    - { shortcode: jumping, type: skill, system: { masteryLevel: 52, skillBase: { value: 12 } } }
+    - { shortcode: stealth, type: skill, system: { masteryLevel: 50, skillBase: { value: 15 } } }
+    - { shortcode: throwing, type: skill, system: { masteryLevel: 44, skillBase: { value: 10 } } }
+    - { shortcode: awareness, type: skill, system: { masteryLevel: 55, skillBase: { value: 13 } } }
     - shortcode: musician
       type: skill
       name: Flute (Musician)
@@ -158,42 +99,17 @@ hm3:
         masteryLevel: 48
         skillBase:
           value: 12
-    - shortcode: intrigue
-      type: skill
-      system:
-        masteryLevel: 56
-        skillBase:
-          value: 14
-    - shortcode: lovecraft
-      type: skill
-      system:
-        masteryLevel: 75
-        skillBase:
-          value: 15
+    - { shortcode: intrigue, type: skill, system: { masteryLevel: 56, skillBase: { value: 14 } } }
+    - { shortcode: lovecraft, type: skill, system: { masteryLevel: 75, skillBase: { value: 15 } } }
     - shortcode: mentalconflict
       type: skill
       system:
         masteryLevel: 52
         skillBase:
           value: 13
-    - shortcode: oratory
-      type: skill
-      system:
-        masteryLevel: 48
-        skillBase:
-          value: 16
-    - shortcode: rhetoric
-      type: skill
-      system:
-        masteryLevel: 60
-        skillBase:
-          value: 15
-    - shortcode: singing
-      type: skill
-      system:
-        masteryLevel: 70
-        skillBase:
-          value: 14
+    - { shortcode: oratory, type: skill, system: { masteryLevel: 48, skillBase: { value: 16 } } }
+    - { shortcode: rhetoric, type: skill, system: { masteryLevel: 60, skillBase: { value: 15 } } }
+    - { shortcode: singing, type: skill, system: { masteryLevel: 70, skillBase: { value: 14 } } }
     - shortcode: language
       type: skill
       name: "Language: Harnic"
@@ -243,131 +159,46 @@ hm3:
         masteryLevel: 83
         skillBase:
           value: 13
-    - shortcode: halea
-      type: skill
-      system:
-        masteryLevel: 72
-        skillBase:
-          value: 17
-    - shortcode: initiative
-      type: skill
-      system:
-        masteryLevel: 56
-        skillBase:
-          value: 14
-    - shortcode: unarmed
-      type: skill
-      system:
-        masteryLevel: 48
-        skillBase:
-          value: 12
-    - shortcode: dodge
-      type: skill
-      system:
-        masteryLevel: 70
-        skillBase:
-          value: 14
-    - shortcode: dagger
-      type: skill
-      system:
-        masteryLevel: 48
-        skillBase:
-          value: 12
-    - shortcode: cookery
-      type: skill
-      system:
-        masteryLevel: 48
-        skillBase:
-          value: 12
-    - shortcode: folklore
-      type: skill
-      system:
-        masteryLevel: 48
-        skillBase:
-          value: 16
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevel: 30
-        skillBase:
-          value: 15
+    - { shortcode: halea, type: skill, system: { masteryLevel: 72, skillBase: { value: 17 } } }
+    - { shortcode: initiative, type: skill, system: { masteryLevel: 56, skillBase: { value: 14 } } }
+    - { shortcode: unarmed, type: skill, system: { masteryLevel: 48, skillBase: { value: 12 } } }
+    - { shortcode: dodge, type: skill, system: { masteryLevel: 70, skillBase: { value: 14 } } }
+    - { shortcode: dagger, type: skill, system: { masteryLevel: 48, skillBase: { value: 12 } } }
+    - { shortcode: cookery, type: skill, system: { masteryLevel: 48, skillBase: { value: 12 } } }
+    - { shortcode: folklore, type: skill, system: { masteryLevel: 48, skillBase: { value: 16 } } }
+    - { shortcode: law, type: skill, system: { masteryLevel: 30, skillBase: { value: 15 } } }
     - shortcode: mathematics
       type: skill
       system:
         masteryLevel: 51
         skillBase:
           value: 17
-    - shortcode: perfumery
-      type: skill
-      system:
-        masteryLevel: 28
-        skillBase:
-          value: 14
-    - shortcode: physician
-      type: skill
-      system:
-        masteryLevel: 26
-        skillBase:
-          value: 13
-    - shortcode: beltpouchl3
-      type: containergear
+    - { shortcode: perfumery, type: skill, system: { masteryLevel: 28, skillBase: { value: 14 } } }
+    - { shortcode: physician, type: skill, system: { masteryLevel: 26, skillBase: { value: 13 } } }
+    - { shortcode: beltpouchl3, type: containergear }
     - name: Exquisite clothes
       type: miscgear
       img: systems/hm3/images/icons/svg/miscgear.svg
       system:
         notes: No armor value
         weight: 1
-    - shortcode: haleabaptism
-      type: invocation
-    - shortcode: haleablessing
-      type: invocation
-    - shortcode: haleacommune
-      type: invocation
-    - shortcode: halealiturgy
-      type: invocation
-    - shortcode: haleamarriage
-      type: invocation
-    - shortcode: haleapassageofthesoul
-      type: invocation
-    - shortcode: sardurasvision
-      type: invocation
-    - shortcode: ecstacy
-      type: invocation
-    - shortcode: silvertongue
-      type: invocation
-    - shortcode: enhancesense
-      type: invocation
-    - shortcode: thaliasluck
-      type: invocation
-    - shortcode: haleasapple
-      type: invocation
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 79
-    - shortcode: gldcrwn
-      type: miscgear
-      system:
-        quantity: 2
+    - { shortcode: haleabaptism, type: invocation }
+    - { shortcode: haleablessing, type: invocation }
+    - { shortcode: haleacommune, type: invocation }
+    - { shortcode: halealiturgy, type: invocation }
+    - { shortcode: haleamarriage, type: invocation }
+    - { shortcode: haleapassageofthesoul, type: invocation }
+    - { shortcode: sardurasvision, type: invocation }
+    - { shortcode: ecstacy, type: invocation }
+    - { shortcode: silvertongue, type: invocation }
+    - { shortcode: enhancesense, type: invocation }
+    - { shortcode: thaliasluck, type: invocation }
+    - { shortcode: haleasapple, type: invocation }
+    - { shortcode: pence, type: miscgear, system: { quantity: 79 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
 sohl:
   kbcat: archetype
   archetype: 1
-  attributes:
-    str: 9
-    end: 13
-    dex: 13
-    agl: 14
-    per: 10
-    snt: 12
-    cml: 17
-    aur: 12
-    wil: 14
-    rea: 14
-    cre: 18
-    emp: 14
-    elo: 16
-    mor: 12
-    voi: 15
   body:
     structure:
       zones:
@@ -827,152 +658,72 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: archery
-      type: skill
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 55
-    - shortcode: chrm
-      type: skill
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 54
-    - shortcode: cmd
-      type: skill
-    - shortcode: cook
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dnce
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dscr
-      type: skill
-    - shortcode: draw
-      type: skill
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: guil
-      type: skill
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: shok
-      type: skill
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 56
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: dge
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 26
-    - shortcode: ridg
-      type: skill
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 70
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 50
-    - shortcode: srvl
-      type: skill
-    - shortcode: spirit
-      type: skill
-    - shortcode: swim
-      type: skill
-    - shortcode: thtcs
-      type: skill
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: bflkbite
-      type: skill
-    - shortcode: bflkgrab
-      type: skill
-    - shortcode: bflkheadbutt
-      type: skill
-    - shortcode: bflkkick
-      type: skill
-    - shortcode: limbblock
-      type: skill
-    - shortcode: press
-      type: skill
-    - shortcode: bflkpunch
-      type: skill
-    - shortcode: trip
-      type: skill
-    - shortcode: sprt
-      type: mysticalability
-    - shortcode: musc
-      type: skill
-      name: Flute (Musician)
-      system:
-        masteryLevelBase: 48
-    - shortcode: lang
-      type: skill
-      name: "Language: Trierzi"
-      system:
-        masteryLevelBase: 60
-    - shortcode: script
-      type: skill
-      name: "Script: Runic"
-      system:
-        masteryLevelBase: 83
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: math
-      type: skill
-      system:
-        masteryLevelBase: 51
-    - shortcode: pfmy
-      type: skill
-      system:
-        masteryLevelBase: 28
-    - shortcode: beltpouchl3
-      type: containergear
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 79
-    - shortcode: gldcrwn
-      type: miscgear
-      system:
-        quantity: 2
-    - name: Halea
-      type: affiliation
-      system:
-        shortcode: halea
-        subType: divine
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: snt, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: archery, type: skill }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
+    - { shortcode: chrm, type: skill }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 54 } }
+    - { shortcode: cmd, type: skill }
+    - { shortcode: cook, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dscr, type: skill }
+    - { shortcode: draw, type: skill }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: guil, type: skill }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: shok, type: skill }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 56 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: dge, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 26 } }
+    - { shortcode: ridg, type: skill }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 70 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 50 } }
+    - { shortcode: srvl, type: skill }
+    - { shortcode: spirit, type: skill }
+    - { shortcode: swim, type: skill }
+    - { shortcode: thtcs, type: skill }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: bflkbite, type: skill }
+    - { shortcode: bflkgrab, type: skill }
+    - { shortcode: bflkheadbutt, type: skill }
+    - { shortcode: bflkkick, type: skill }
+    - { shortcode: limbblock, type: skill }
+    - { shortcode: press, type: skill }
+    - { shortcode: bflkpunch, type: skill }
+    - { shortcode: trip, type: skill }
+    - { shortcode: sprt, type: mysticalability }
+    - { shortcode: musc, type: skill, name: Flute (Musician), system: { masteryLevelBase: 48 } }
+    - { shortcode: lang, type: skill, name: "Language: Trierzi", system: { masteryLevelBase: 60 } }
+    - { shortcode: script, type: skill, name: "Script: Runic", system: { masteryLevelBase: 83 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: math, type: skill, system: { masteryLevelBase: 51 } }
+    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 28 } }
+    - { shortcode: beltpouchl3, type: containergear }
+    - { shortcode: pence, type: miscgear, system: { quantity: 79 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+    - { name: Halea, type: affiliation, system: { shortcode: halea, subType: divine } }
     - name: Halea
       type: skill
       system:
         subType: mystical
         shortcode: halea
-        skillBaseFormula: "sb(attr.wil, attr.rea)"
+        skillBaseFormula: sb(attr.wil, attr.rea)
         masteryLevelBase: 72
     - name: Baptism
       type: mysticalability

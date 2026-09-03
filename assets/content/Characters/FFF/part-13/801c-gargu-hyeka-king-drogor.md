@@ -63,173 +63,65 @@ hm3:
     mor: 6
   move: 11
   items:
-    - shortcode: skull
-      type: armorlocation
-    - shortcode: face
-      type: armorlocation
-    - shortcode: neck
-      type: armorlocation
-    - shortcode: lshoulder
-      type: armorlocation
-    - shortcode: rshoulder
-      type: armorlocation
-    - shortcode: luparm
-      type: armorlocation
-    - shortcode: ruparm
-      type: armorlocation
-    - shortcode: lelb
-      type: armorlocation
-    - shortcode: relb
-      type: armorlocation
-    - shortcode: lhand
-      type: armorlocation
-    - shortcode: rhand
-      type: armorlocation
-    - shortcode: thorax
-      type: armorlocation
-    - shortcode: abdm
-      type: armorlocation
-    - shortcode: groin
-      type: armorlocation
-    - shortcode: lhip
-      type: armorlocation
-    - shortcode: rhip
-      type: armorlocation
-    - shortcode: lthigh
-      type: armorlocation
-    - shortcode: rthigh
-      type: armorlocation
-    - shortcode: lknee
-      type: armorlocation
-    - shortcode: rknee
-      type: armorlocation
-    - shortcode: lcalf
-      type: armorlocation
-    - shortcode: rcalf
-      type: armorlocation
-    - shortcode: lfoot
-      type: armorlocation
-    - shortcode: rfoot
-      type: armorlocation
-    - shortcode: climbing
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: condition
-      type: skill
-      system:
-        masteryLevel: 75
-    - shortcode: jumping
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: stealth
-      type: skill
-      system:
-        masteryLevel: 38
-    - shortcode: throwing
-      type: skill
-      system:
-        masteryLevel: 56
-    - shortcode: awareness
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: intrigue
-      type: skill
-      system:
-        masteryLevel: 71
-    - shortcode: oratory
-      type: skill
-      system:
-        masteryLevel: 20
+    - { shortcode: skull, type: armorlocation }
+    - { shortcode: face, type: armorlocation }
+    - { shortcode: neck, type: armorlocation }
+    - { shortcode: lshoulder, type: armorlocation }
+    - { shortcode: rshoulder, type: armorlocation }
+    - { shortcode: luparm, type: armorlocation }
+    - { shortcode: ruparm, type: armorlocation }
+    - { shortcode: lelb, type: armorlocation }
+    - { shortcode: relb, type: armorlocation }
+    - { shortcode: lhand, type: armorlocation }
+    - { shortcode: rhand, type: armorlocation }
+    - { shortcode: thorax, type: armorlocation }
+    - { shortcode: abdm, type: armorlocation }
+    - { shortcode: groin, type: armorlocation }
+    - { shortcode: lhip, type: armorlocation }
+    - { shortcode: rhip, type: armorlocation }
+    - { shortcode: lthigh, type: armorlocation }
+    - { shortcode: rthigh, type: armorlocation }
+    - { shortcode: lknee, type: armorlocation }
+    - { shortcode: rknee, type: armorlocation }
+    - { shortcode: lcalf, type: armorlocation }
+    - { shortcode: rcalf, type: armorlocation }
+    - { shortcode: lfoot, type: armorlocation }
+    - { shortcode: rfoot, type: armorlocation }
+    - { shortcode: climbing, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: condition, type: skill, system: { masteryLevel: 75 } }
+    - { shortcode: jumping, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: stealth, type: skill, system: { masteryLevel: 38 } }
+    - { shortcode: throwing, type: skill, system: { masteryLevel: 56 } }
+    - { shortcode: awareness, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: intrigue, type: skill, system: { masteryLevel: 71 } }
+    - { shortcode: oratory, type: skill, system: { masteryLevel: 20 } }
     - shortcode: rhetoric
       type: skill
       name: Intimidation (Rhetoric)
       system:
         masteryLevel: 100
-    - shortcode: singing
-      type: skill
-      system:
-        masteryLevel: 30
-    - shortcode: language
-      type: skill
-      name: "Language: Hyeka"
-      system:
-        masteryLevel: 62
-    - shortcode: language
-      type: skill
-      name: "Language: Harnic"
-      system:
-        masteryLevel: 18
-    - shortcode: agrik
-      type: skill
-      system:
-        masteryLevel: 39
-    - shortcode: larani
-      type: skill
-      system:
-        masteryLevel: 12
-    - shortcode: initiative
-      type: skill
-      system:
-        masteryLevel: 72
-    - shortcode: unarmed
-      type: skill
-      system:
-        masteryLevel: 79
-    - shortcode: dodge
-      type: skill
-      system:
-        masteryLevel: 69
-    - shortcode: axe
-      type: skill
-      name: Battleaxe (Axe)
-      system:
-        masteryLevel: 85
-    - shortcode: dagger
-      type: skill
-      system:
-        masteryLevel: 70
-    - shortcode: sword
-      type: skill
-      name: Mankar (Sword)
-      system:
-        masteryLevel: 85
-    - shortcode: animalcraft
-      type: skill
-      system:
-        masteryLevel: 24
-    - shortcode: brewing
-      type: skill
-      system:
-        masteryLevel: 16
-    - shortcode: metalcraft
-      type: skill
-      system:
-        masteryLevel: 75
-    - shortcode: mining
-      type: skill
-      system:
-        masteryLevel: 91
-    - shortcode: survival
-      type: skill
-      system:
-        masteryLevel: 48
-    - shortcode: timbercraft
-      type: skill
-      system:
-        masteryLevel: 20
-    - shortcode: BAxe
-      type: weapongear
-    - shortcode: Mankar
-      type: weapongear
-    - shortcode: HndArm
-      type: weapongear
-    - shortcode: Head
-      type: weapongear
-    - shortcode: FtLgKn
-      type: weapongear
+    - { shortcode: singing, type: skill, system: { masteryLevel: 30 } }
+    - { shortcode: language, type: skill, name: "Language: Hyeka", system: { masteryLevel: 62 } }
+    - { shortcode: language, type: skill, name: "Language: Harnic", system: { masteryLevel: 18 } }
+    - { shortcode: agrik, type: skill, system: { masteryLevel: 39 } }
+    - { shortcode: larani, type: skill, system: { masteryLevel: 12 } }
+    - { shortcode: initiative, type: skill, system: { masteryLevel: 72 } }
+    - { shortcode: unarmed, type: skill, system: { masteryLevel: 79 } }
+    - { shortcode: dodge, type: skill, system: { masteryLevel: 69 } }
+    - { shortcode: axe, type: skill, name: Battleaxe (Axe), system: { masteryLevel: 85 } }
+    - { shortcode: dagger, type: skill, system: { masteryLevel: 70 } }
+    - { shortcode: sword, type: skill, name: Mankar (Sword), system: { masteryLevel: 85 } }
+    - { shortcode: animalcraft, type: skill, system: { masteryLevel: 24 } }
+    - { shortcode: brewing, type: skill, system: { masteryLevel: 16 } }
+    - { shortcode: metalcraft, type: skill, system: { masteryLevel: 75 } }
+    - { shortcode: mining, type: skill, system: { masteryLevel: 91 } }
+    - { shortcode: survival, type: skill, system: { masteryLevel: 48 } }
+    - { shortcode: timbercraft, type: skill, system: { masteryLevel: 20 } }
+    - { shortcode: BAxe, type: weapongear }
+    - { shortcode: Mankar, type: weapongear }
+    - { shortcode: HndArm, type: weapongear }
+    - { shortcode: Head, type: weapongear }
+    - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
       img: systems/hm3/images/icons/svg/armor.svg
@@ -240,8 +132,7 @@ hm3:
         protection.edged: 3
         protection.piercing: 1
         protection.fire: 3
-    - shortcode: CLoin
-      type: armorgear
+    - { shortcode: CLoin, type: armorgear }
     - name: Kurbul Girdle
       type: armorgear
       img: systems/hm3/images/icons/svg/armor.svg
@@ -255,16 +146,10 @@ hm3:
         protection.edged: 5
         protection.piercing: 4
         protection.fire: 3
-    - shortcode: LtCBoot
-      type: armorgear
-    - shortcode: KAil
-      type: armorgear
-    - shortcode: KVamb
-      type: armorgear
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 36
+    - { shortcode: LtCBoot, type: armorgear }
+    - { shortcode: KAil, type: armorgear }
+    - { shortcode: KVamb, type: armorgear }
+    - { shortcode: pence, type: miscgear, system: { quantity: 36 } }
 ---
 
 # Appearance {#appearance}
