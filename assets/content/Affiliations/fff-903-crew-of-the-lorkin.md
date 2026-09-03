@@ -4,13 +4,13 @@ aliases:
 tags: []
 id: mdK3o95SY1otZiLK
 type: affiliation
+subType: venture
 shortcode: fffcrewlorkin
 img: ""
 name:
   full: Crew of the Lorkin
   aliases: []
 sohl:
-  subType: social
   society: null
   office: null
   title: null

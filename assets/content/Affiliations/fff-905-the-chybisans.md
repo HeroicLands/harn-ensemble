@@ -4,13 +4,13 @@ aliases:
 tags: []
 id: PeEqzUUEjeOJRTQu
 type: affiliation
+subType: venture
 shortcode: fffchybisans
 img: ""
 name:
   full: The Chybisans
   aliases: []
 sohl:
-  subType: social
   society: null
   office: null
   title: null
