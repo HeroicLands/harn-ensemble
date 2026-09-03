@@ -63,95 +63,42 @@ hm3:
     mor: 10
   move: 13
   items:
-    - shortcode: skull
-      type: armorlocation
-    - shortcode: face
-      type: armorlocation
-    - shortcode: neck
-      type: armorlocation
-    - shortcode: lshoulder
-      type: armorlocation
-    - shortcode: rshoulder
-      type: armorlocation
-    - shortcode: luparm
-      type: armorlocation
-    - shortcode: ruparm
-      type: armorlocation
-    - shortcode: lelb
-      type: armorlocation
-    - shortcode: relb
-      type: armorlocation
-    - shortcode: lhand
-      type: armorlocation
-    - shortcode: rhand
-      type: armorlocation
-    - shortcode: thorax
-      type: armorlocation
-    - shortcode: abdm
-      type: armorlocation
-    - shortcode: groin
-      type: armorlocation
-    - shortcode: lhip
-      type: armorlocation
-    - shortcode: rhip
-      type: armorlocation
-    - shortcode: lthigh
-      type: armorlocation
-    - shortcode: rthigh
-      type: armorlocation
-    - shortcode: lknee
-      type: armorlocation
-    - shortcode: rknee
-      type: armorlocation
-    - shortcode: lcalf
-      type: armorlocation
-    - shortcode: rcalf
-      type: armorlocation
-    - shortcode: lfoot
-      type: armorlocation
-    - shortcode: rfoot
-      type: armorlocation
-    - shortcode: climbing
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: condition
-      type: skill
-      system:
-        masteryLevel: 98
-    - shortcode: jumping
-      type: skill
-      system:
-        masteryLevel: 56
-    - shortcode: awareness
-      type: skill
-      system:
-        masteryLevel: 28
-    - shortcode: initiative
-      type: skill
-      system:
-        masteryLevel: 35
-    - shortcode: unarmed
-      type: skill
-      system:
-        masteryLevel: 90
-    - shortcode: dodge
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: axe
-      type: skill
-      name: Battleaxe (Axe)
-      system:
-        masteryLevel: 112
-    - shortcode: BAxe
-      type: weapongear
-    - shortcode: FtLgKn
-      type: weapongear
-    - shortcode: HndArm
-      type: weapongear
-    - shortcode: Head
-      type: weapongear
+    - { shortcode: skull, type: armorlocation }
+    - { shortcode: face, type: armorlocation }
+    - { shortcode: neck, type: armorlocation }
+    - { shortcode: lshoulder, type: armorlocation }
+    - { shortcode: rshoulder, type: armorlocation }
+    - { shortcode: luparm, type: armorlocation }
+    - { shortcode: ruparm, type: armorlocation }
+    - { shortcode: lelb, type: armorlocation }
+    - { shortcode: relb, type: armorlocation }
+    - { shortcode: lhand, type: armorlocation }
+    - { shortcode: rhand, type: armorlocation }
+    - { shortcode: thorax, type: armorlocation }
+    - { shortcode: abdm, type: armorlocation }
+    - { shortcode: groin, type: armorlocation }
+    - { shortcode: lhip, type: armorlocation }
+    - { shortcode: rhip, type: armorlocation }
+    - { shortcode: lthigh, type: armorlocation }
+    - { shortcode: rthigh, type: armorlocation }
+    - { shortcode: lknee, type: armorlocation }
+    - { shortcode: rknee, type: armorlocation }
+    - { shortcode: lcalf, type: armorlocation }
+    - { shortcode: rcalf, type: armorlocation }
+    - { shortcode: lfoot, type: armorlocation }
+    - { shortcode: rfoot, type: armorlocation }
+    - { shortcode: climbing, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: condition, type: skill, system: { masteryLevel: 98 } }
+    - { shortcode: jumping, type: skill, system: { masteryLevel: 56 } }
+    - { shortcode: awareness, type: skill, system: { masteryLevel: 28 } }
+    - { shortcode: initiative, type: skill, system: { masteryLevel: 35 } }
+    - { shortcode: unarmed, type: skill, system: { masteryLevel: 90 } }
+    - { shortcode: dodge, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: axe, type: skill, name: Battleaxe (Axe), system: { masteryLevel: 112 } }
+    - { shortcode: BAxe, type: weapongear }
+    - { shortcode: FtLgKn, type: weapongear }
+    - { shortcode: HndArm, type: weapongear }
+    - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
       img: systems/hm3/images/icons/svg/armor.svg
@@ -174,8 +121,7 @@ hm3:
         protection.edged: 5
         protection.piercing: 4
         protection.fire: 3
-    - shortcode: KHlfHelm
-      type: armorgear
+    - { shortcode: KHlfHelm, type: armorgear }
     - name: Necklace, Bone/Horn
       type: miscgear
       img: systems/hm3/images/icons/svg/sack.svg

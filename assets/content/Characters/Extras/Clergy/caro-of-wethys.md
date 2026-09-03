@@ -59,233 +59,82 @@ hm3:
     mor: 5
   move: 14
   items:
-    - shortcode: skull
-      type: armorlocation
-    - shortcode: face
-      type: armorlocation
-    - shortcode: neck
-      type: armorlocation
-    - shortcode: lshoulder
-      type: armorlocation
-    - shortcode: rshoulder
-      type: armorlocation
-    - shortcode: luparm
-      type: armorlocation
-    - shortcode: ruparm
-      type: armorlocation
-    - shortcode: lelb
-      type: armorlocation
-    - shortcode: relb
-      type: armorlocation
-    - shortcode: lhand
-      type: armorlocation
-    - shortcode: rhand
-      type: armorlocation
-    - shortcode: thorax
-      type: armorlocation
-    - shortcode: abdm
-      type: armorlocation
-    - shortcode: groin
-      type: armorlocation
-    - shortcode: lhip
-      type: armorlocation
-    - shortcode: rhip
-      type: armorlocation
-    - shortcode: lthigh
-      type: armorlocation
-    - shortcode: rthigh
-      type: armorlocation
-    - shortcode: lknee
-      type: armorlocation
-    - shortcode: rknee
-      type: armorlocation
-    - shortcode: lcalf
-      type: armorlocation
-    - shortcode: rcalf
-      type: armorlocation
-    - shortcode: lfoot
-      type: armorlocation
-    - shortcode: rfoot
-      type: armorlocation
-    - shortcode: acrobatics
-      type: skill
-      system:
-        masteryLevel: 51
-    - shortcode: climbing
-      type: skill
-      system:
-        masteryLevel: 72
-    - shortcode: condition
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: jumping
-      type: skill
-      system:
-        masteryLevel: 68
-    - shortcode: legerdemain
-      type: skill
-      system:
-        masteryLevel: 33
-    - shortcode: stealth
-      type: skill
-      system:
-        masteryLevel: 80
-    - shortcode: throwing
-      type: skill
-      system:
-        masteryLevel: 44
-    - shortcode: awareness
-      type: skill
-      system:
-        masteryLevel: 52
-    - shortcode: intrigue
-      type: skill
-      system:
-        masteryLevel: 52
-    - shortcode: language
-      type: skill
-      name: Language(Besha)
-      system:
-        masteryLevel: 45
-    - shortcode: language
-      type: skill
-      name: Language, Serf
-      system:
-        masteryLevel: 65
-    - shortcode: mentalconflict
-      type: skill
-      system:
-        masteryLevel: 48
-    - shortcode: oratory
-      type: skill
-      system:
-        masteryLevel: 45
-    - shortcode: rhetoric
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: singing
-      type: skill
-      system:
-        masteryLevel: 48
-    - shortcode: script
-      type: skill
-      name: Script(Lakaise)
-      system:
-        masteryLevel: 82
-    - shortcode: script
-      type: skill
-      name: Script(Neramic)
-      system:
-        masteryLevel: 82
-    - shortcode: dagger
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: initiative
-      type: skill
-      system:
-        masteryLevel: 90
-    - shortcode: unarmed
-      type: skill
-      system:
-        masteryLevel: 72
-    - shortcode: drawing
-      type: skill
-      system:
-        masteryLevel: 20
-    - shortcode: embalming
-      type: skill
-      system:
-        masteryLevel: 22
-    - shortcode: folklore
-      type: skill
-      system:
-        masteryLevel: 64
-    - shortcode: heraldry
-      type: skill
-      system:
-        masteryLevel: 22
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevel: 30
-    - shortcode: lockcraft
-      type: skill
-      system:
-        masteryLevel: 22
-    - shortcode: physician
-      type: skill
-      system:
-        masteryLevel: 24
-    - shortcode: naveh
-      type: skill
-      system:
-        masteryLevel: 60
-    - shortcode: navehbaptism
-      type: invocation
-    - shortcode: navehblessing
-      type: invocation
-    - shortcode: navehcommune
-      type: invocation
-    - shortcode: navehliturgy
-      type: invocation
-    - shortcode: navehmarriage
-      type: invocation
-    - shortcode: navehpassageofthesoul
-      type: invocation
-    - shortcode: navehscloak
-      type: invocation
-    - shortcode: krasulaswhisper
-      type: invocation
-    - shortcode: veshastale
-      type: invocation
-    - shortcode: gytevshaspassage
-      type: invocation
-    - shortcode: dekejisgift
-      type: invocation
-    - shortcode: navehawe
-      type: invocation
-    - shortcode: navehendure
-      type: invocation
-    - shortcode: gekrishssong
-      type: invocation
-    - shortcode: navehtongues
-      type: invocation
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 211
-    - shortcode: pursebuckram
-      type: containergear
-    - shortcode: LLeg
-      type: armorgear
-    - shortcode: CShoe
-      type: armorgear
-    - shortcode: LTunic
-      type: armorgear
-    - shortcode: Kni
-      type: weapongear
+    - { shortcode: skull, type: armorlocation }
+    - { shortcode: face, type: armorlocation }
+    - { shortcode: neck, type: armorlocation }
+    - { shortcode: lshoulder, type: armorlocation }
+    - { shortcode: rshoulder, type: armorlocation }
+    - { shortcode: luparm, type: armorlocation }
+    - { shortcode: ruparm, type: armorlocation }
+    - { shortcode: lelb, type: armorlocation }
+    - { shortcode: relb, type: armorlocation }
+    - { shortcode: lhand, type: armorlocation }
+    - { shortcode: rhand, type: armorlocation }
+    - { shortcode: thorax, type: armorlocation }
+    - { shortcode: abdm, type: armorlocation }
+    - { shortcode: groin, type: armorlocation }
+    - { shortcode: lhip, type: armorlocation }
+    - { shortcode: rhip, type: armorlocation }
+    - { shortcode: lthigh, type: armorlocation }
+    - { shortcode: rthigh, type: armorlocation }
+    - { shortcode: lknee, type: armorlocation }
+    - { shortcode: rknee, type: armorlocation }
+    - { shortcode: lcalf, type: armorlocation }
+    - { shortcode: rcalf, type: armorlocation }
+    - { shortcode: lfoot, type: armorlocation }
+    - { shortcode: rfoot, type: armorlocation }
+    - { shortcode: acrobatics, type: skill, system: { masteryLevel: 51 } }
+    - { shortcode: climbing, type: skill, system: { masteryLevel: 72 } }
+    - { shortcode: condition, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: jumping, type: skill, system: { masteryLevel: 68 } }
+    - { shortcode: legerdemain, type: skill, system: { masteryLevel: 33 } }
+    - { shortcode: stealth, type: skill, system: { masteryLevel: 80 } }
+    - { shortcode: throwing, type: skill, system: { masteryLevel: 44 } }
+    - { shortcode: awareness, type: skill, system: { masteryLevel: 52 } }
+    - { shortcode: intrigue, type: skill, system: { masteryLevel: 52 } }
+    - { shortcode: language, type: skill, name: Language(Besha), system: { masteryLevel: 45 } }
+    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 65 } }
+    - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 48 } }
+    - { shortcode: oratory, type: skill, system: { masteryLevel: 45 } }
+    - { shortcode: rhetoric, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: singing, type: skill, system: { masteryLevel: 48 } }
+    - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 82 } }
+    - { shortcode: script, type: skill, name: Script(Neramic), system: { masteryLevel: 82 } }
+    - { shortcode: dagger, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: initiative, type: skill, system: { masteryLevel: 90 } }
+    - { shortcode: unarmed, type: skill, system: { masteryLevel: 72 } }
+    - { shortcode: drawing, type: skill, system: { masteryLevel: 20 } }
+    - { shortcode: embalming, type: skill, system: { masteryLevel: 22 } }
+    - { shortcode: folklore, type: skill, system: { masteryLevel: 64 } }
+    - { shortcode: heraldry, type: skill, system: { masteryLevel: 22 } }
+    - { shortcode: law, type: skill, system: { masteryLevel: 30 } }
+    - { shortcode: lockcraft, type: skill, system: { masteryLevel: 22 } }
+    - { shortcode: physician, type: skill, system: { masteryLevel: 24 } }
+    - { shortcode: naveh, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: navehbaptism, type: invocation }
+    - { shortcode: navehblessing, type: invocation }
+    - { shortcode: navehcommune, type: invocation }
+    - { shortcode: navehliturgy, type: invocation }
+    - { shortcode: navehmarriage, type: invocation }
+    - { shortcode: navehpassageofthesoul, type: invocation }
+    - { shortcode: navehscloak, type: invocation }
+    - { shortcode: krasulaswhisper, type: invocation }
+    - { shortcode: veshastale, type: invocation }
+    - { shortcode: gytevshaspassage, type: invocation }
+    - { shortcode: dekejisgift, type: invocation }
+    - { shortcode: navehawe, type: invocation }
+    - { shortcode: navehendure, type: invocation }
+    - { shortcode: gekrishssong, type: invocation }
+    - { shortcode: navehtongues, type: invocation }
+    - { shortcode: pence, type: miscgear, system: { quantity: 211 } }
+    - { shortcode: pursebuckram, type: containergear }
+    - { shortcode: LLeg, type: armorgear }
+    - { shortcode: CShoe, type: armorgear }
+    - { shortcode: LTunic, type: armorgear }
+    - { shortcode: Kni, type: weapongear }
 sohl:
   kbcat: archetype
   archetype: 1
-  attributes:
-    str: 9
-    end: 14
-    dex: 10
-    agl: 18
-    per: 14
-    snt: 12
-    cml: 14
-    aur: 9
-    wil: 14
-    rea: 16
-    cre: 15
-    emp: 8
-    elo: 16
-    mor: 5
-    voi: 17
   body:
     structure:
       zones:
@@ -745,159 +594,77 @@ sohl:
       disabled: false
   defaultCombatGroup: null
   items:
-    - shortcode: archery
-      type: skill
-    - shortcode: awar
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: chrm
-      type: skill
-    - shortcode: clmb
-      type: skill
-      system:
-        masteryLevelBase: 72
-    - shortcode: cmd
-      type: skill
-    - shortcode: cook
-      type: skill
-    - shortcode: dnce
-      type: skill
-    - shortcode: dscr
-      type: skill
-    - shortcode: draw
-      type: skill
-      system:
-        masteryLevelBase: 20
-    - shortcode: folklr
-      type: skill
-      system:
-        masteryLevelBase: 64
-    - shortcode: guil
-      type: skill
-    - shortcode: init
-      type: skill
-      system:
-        masteryLevelBase: 90
-    - shortcode: shok
-      type: skill
-    - shortcode: intr
-      type: skill
-      system:
-        masteryLevelBase: 52
-    - shortcode: jump
-      type: skill
-      system:
-        masteryLevelBase: 68
-    - shortcode: melee
-      type: skill
-      system:
-        masteryLevelBase: 60
-    - shortcode: dge
-      type: skill
-    - shortcode: pysn
-      type: skill
-      system:
-        masteryLevelBase: 24
-    - shortcode: ridg
-      type: skill
-    - shortcode: sing
-      type: skill
-      system:
-        masteryLevelBase: 48
-    - shortcode: stlth
-      type: skill
-      system:
-        masteryLevelBase: 80
-    - shortcode: srvl
-      type: skill
-    - shortcode: spirit
-      type: skill
-    - shortcode: swim
-      type: skill
-    - shortcode: thtcs
-      type: skill
-    - shortcode: thro
-      type: skill
-      system:
-        masteryLevelBase: 44
-    - shortcode: bflkbite
-      type: skill
-    - shortcode: bflkgrab
-      type: skill
-    - shortcode: bflkheadbutt
-      type: skill
-    - shortcode: bflkkick
-      type: skill
-    - shortcode: limbblock
-      type: skill
-    - shortcode: press
-      type: skill
-    - shortcode: bflkpunch
-      type: skill
-    - shortcode: trip
-      type: skill
-    - shortcode: sprt
-      type: mysticalability
-    - shortcode: acro
-      type: skill
-      system:
-        masteryLevelBase: 51
-    - shortcode: lgdm
-      type: skill
-      system:
-        masteryLevelBase: 33
-    - shortcode: lang
-      type: skill
-      name: Language, Serf
-      system:
-        masteryLevelBase: 65
-    - shortcode: script
-      type: skill
-      name: Script(Neramic)
-      system:
-        masteryLevelBase: 82
-    - shortcode: embl
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: hrld
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: law
-      type: skill
-      system:
-        masteryLevelBase: 30
-    - shortcode: lock
-      type: skill
-      system:
-        masteryLevelBase: 22
-    - shortcode: pence
-      type: miscgear
-      system:
-        quantity: 211
-    - shortcode: pouchbuckram
-      type: containergear
-    - shortcode: LLeg
-      type: armorgear
-    - shortcode: CShoe
-      type: armorgear
-    - shortcode: LTunic
-      type: armorgear
-    - shortcode: Kni
-      type: weapongear
-    - name: Naveh
-      type: affiliation
-      system:
-        shortcode: naveh
-        subType: divine
+    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
+    - { shortcode: agl, type: attribute, system: { scoreBase: 18 } }
+    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: snt, type: attribute, system: { scoreBase: 12 } }
+    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
+    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
+    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
+    - { shortcode: emp, type: attribute, system: { scoreBase: 8 } }
+    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
+    - { shortcode: mor, type: attribute, system: { scoreBase: 5 } }
+    - { shortcode: voi, type: attribute, system: { scoreBase: 17 } }
+    - { shortcode: archery, type: skill }
+    - { shortcode: awar, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: chrm, type: skill }
+    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 72 } }
+    - { shortcode: cmd, type: skill }
+    - { shortcode: cook, type: skill }
+    - { shortcode: dnce, type: skill }
+    - { shortcode: dscr, type: skill }
+    - { shortcode: draw, type: skill, system: { masteryLevelBase: 20 } }
+    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 64 } }
+    - { shortcode: guil, type: skill }
+    - { shortcode: init, type: skill, system: { masteryLevelBase: 90 } }
+    - { shortcode: shok, type: skill }
+    - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
+    - { shortcode: jump, type: skill, system: { masteryLevelBase: 68 } }
+    - { shortcode: melee, type: skill, system: { masteryLevelBase: 60 } }
+    - { shortcode: dge, type: skill }
+    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 24 } }
+    - { shortcode: ridg, type: skill }
+    - { shortcode: sing, type: skill, system: { masteryLevelBase: 48 } }
+    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 80 } }
+    - { shortcode: srvl, type: skill }
+    - { shortcode: spirit, type: skill }
+    - { shortcode: swim, type: skill }
+    - { shortcode: thtcs, type: skill }
+    - { shortcode: thro, type: skill, system: { masteryLevelBase: 44 } }
+    - { shortcode: bflkbite, type: skill }
+    - { shortcode: bflkgrab, type: skill }
+    - { shortcode: bflkheadbutt, type: skill }
+    - { shortcode: bflkkick, type: skill }
+    - { shortcode: limbblock, type: skill }
+    - { shortcode: press, type: skill }
+    - { shortcode: bflkpunch, type: skill }
+    - { shortcode: trip, type: skill }
+    - { shortcode: sprt, type: mysticalability }
+    - { shortcode: acro, type: skill, system: { masteryLevelBase: 51 } }
+    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 33 } }
+    - { shortcode: lang, type: skill, name: "Language, Serf", system: { masteryLevelBase: 65 } }
+    - { shortcode: script, type: skill, name: Script(Neramic), system: { masteryLevelBase: 82 } }
+    - { shortcode: embl, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: law, type: skill, system: { masteryLevelBase: 30 } }
+    - { shortcode: lock, type: skill, system: { masteryLevelBase: 22 } }
+    - { shortcode: pence, type: miscgear, system: { quantity: 211 } }
+    - { shortcode: pouchbuckram, type: containergear }
+    - { shortcode: LLeg, type: armorgear }
+    - { shortcode: CShoe, type: armorgear }
+    - { shortcode: LTunic, type: armorgear }
+    - { shortcode: Kni, type: weapongear }
+    - { name: Naveh, type: affiliation, system: { shortcode: naveh, subType: divine } }
     - name: Naveh
       type: skill
       system:
         subType: mystical
         shortcode: naveh
-        skillBaseFormula: "sb(attr.wil, attr.rea)"
+        skillBaseFormula: sb(attr.wil, attr.rea)
         masteryLevelBase: 60
     - name: Baptism
       type: mysticalability
