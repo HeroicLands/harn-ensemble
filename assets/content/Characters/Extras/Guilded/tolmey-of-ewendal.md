@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Ewendal
 tags: []
 name:
   full: Tolmey of Ewendal

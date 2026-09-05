@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Ubelaradas
 tags: []
 name:
   full: Tolmey of Ubelaradas

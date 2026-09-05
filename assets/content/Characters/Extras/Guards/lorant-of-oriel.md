@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorant of Oriel
 tags: []
 name:
   full: Lorant of Oriel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shotro of Valain
 tags: []
 name:
   full: Shotro of Valain

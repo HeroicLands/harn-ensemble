@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanishe of Deth
 tags: []
 name:
   full: Chanishe of Deth

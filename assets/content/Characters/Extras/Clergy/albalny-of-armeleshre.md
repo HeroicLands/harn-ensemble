@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Armeleshre
 tags: []
 name:
   full: Albalny of Armeleshre

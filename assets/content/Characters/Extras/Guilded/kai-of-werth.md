@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kai of Werth
 tags: []
 name:
   full: Kai of Werth

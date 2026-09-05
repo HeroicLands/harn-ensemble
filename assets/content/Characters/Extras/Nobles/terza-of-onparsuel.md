@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Onparsuel
 tags: []
 name:
   full: Terza of Onparsuel

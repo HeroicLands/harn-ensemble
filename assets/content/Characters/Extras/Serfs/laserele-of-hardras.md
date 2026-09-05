@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Laserele of Hardras
 tags: []
 name:
   full: Laserele of Hardras

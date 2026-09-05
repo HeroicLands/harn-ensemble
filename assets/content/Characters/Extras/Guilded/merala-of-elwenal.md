@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merala of Elwenal
 tags: []
 name:
   full: Merala of Elwenal

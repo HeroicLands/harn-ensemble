@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Cranchi
 tags: []
 name:
   full: Terza of Cranchi

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piris of Yorlis
 tags: []
 name:
   full: Piris of Yorlis

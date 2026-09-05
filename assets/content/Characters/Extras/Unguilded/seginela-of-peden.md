@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Seginela of Peden
 tags: []
 name:
   full: Seginela of Peden

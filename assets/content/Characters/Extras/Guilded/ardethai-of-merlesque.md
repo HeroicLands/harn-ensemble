@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ardethai of Merlesque
 tags: []
 name:
   full: Ardethai of Merlesque

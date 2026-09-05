@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Talvail
 tags: []
 name:
   full: Segina of Talvail

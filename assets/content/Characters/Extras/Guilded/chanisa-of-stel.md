@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanisa of Stel
 tags: []
 name:
   full: Chanisa of Stel

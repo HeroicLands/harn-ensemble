@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorana of Gel
 tags: []
 name:
   full: Dorana of Gel

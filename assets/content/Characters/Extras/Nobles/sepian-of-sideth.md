@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sepian of Sideth
 tags: []
 name:
   full: Sepian of Sideth

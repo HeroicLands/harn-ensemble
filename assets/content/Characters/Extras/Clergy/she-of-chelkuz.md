@@ -1,6 +1,4 @@
 ---
-aliases:
-  - She of Chelkuz
 tags: []
 name:
   full: She of Chelkuz

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makalwis of Cinbaren
 tags: []
 name:
   full: Makalwis of Cinbaren

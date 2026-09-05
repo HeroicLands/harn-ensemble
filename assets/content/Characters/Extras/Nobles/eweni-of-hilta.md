@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eweni of Hilta
 tags: []
 name:
   full: Eweni of Hilta

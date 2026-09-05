@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dir of Chuzyn
 tags: []
 name:
   full: Dir of Chuzyn

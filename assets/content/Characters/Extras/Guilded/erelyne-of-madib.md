@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erelyne of Madib
 tags: []
 name:
   full: Erelyne of Madib

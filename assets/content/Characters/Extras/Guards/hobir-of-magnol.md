@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hobir of Magnol
 tags: []
 name:
   full: Hobir of Magnol

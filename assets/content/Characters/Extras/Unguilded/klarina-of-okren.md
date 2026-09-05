@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarina of Okren
 tags: []
 name:
   full: Klarina of Okren

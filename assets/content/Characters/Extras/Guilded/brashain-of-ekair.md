@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brashain of Ekair
 tags: []
 name:
   full: Brashain of Ekair

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Yale
 tags: []
 name:
   full: Kes of Yale

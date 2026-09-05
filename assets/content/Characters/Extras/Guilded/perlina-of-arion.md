@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perlina of Arion
 tags: []
 name:
   full: Perlina of Arion

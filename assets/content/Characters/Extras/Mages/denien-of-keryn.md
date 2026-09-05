@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Denien of Keryn
 tags: []
 name:
   full: Denien of Keryn

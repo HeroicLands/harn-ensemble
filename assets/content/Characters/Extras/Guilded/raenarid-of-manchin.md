@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raenarid of Manchin
 tags: []
 name:
   full: Raenarid of Manchin

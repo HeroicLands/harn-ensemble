@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Itis of Haclern
 tags: []
 name:
   full: Itis of Haclern

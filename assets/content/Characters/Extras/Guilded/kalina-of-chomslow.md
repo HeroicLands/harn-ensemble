@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalina of Chomslow
 tags: []
 name:
   full: Kalina of Chomslow

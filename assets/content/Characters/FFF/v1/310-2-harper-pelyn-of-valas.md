@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pelyn of Valas
-  - 310-2 Harper
 tags: []
 name:
   full: Pelyn of Valas

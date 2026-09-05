@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Laplaemen
 tags: []
 name:
   full: Raeda of Laplaemen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zabith of Guindan
 tags: []
 name:
   full: Zabith of Guindan

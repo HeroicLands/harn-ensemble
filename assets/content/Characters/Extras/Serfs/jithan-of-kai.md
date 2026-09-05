@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jithan of Kai
 tags: []
 name:
   full: Jithan of Kai

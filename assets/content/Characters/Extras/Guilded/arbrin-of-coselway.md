@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbrin of Coselway
 tags: []
 name:
   full: Arbrin of Coselway

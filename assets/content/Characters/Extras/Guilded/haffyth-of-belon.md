@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haffyth of Belon
 tags: []
 name:
   full: Haffyth of Belon

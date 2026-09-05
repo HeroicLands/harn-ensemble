@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thasis of Tarsindan
 tags: []
 name:
   full: Thasis of Tarsindan

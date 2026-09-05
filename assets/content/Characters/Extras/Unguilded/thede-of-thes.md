@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thede of Thes
 tags: []
 name:
   full: Thede of Thes

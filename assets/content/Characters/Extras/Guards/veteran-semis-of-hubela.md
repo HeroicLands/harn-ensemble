@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Semis of Hubela
 tags: []
 name:
   full: Veteran Semis of Hubela

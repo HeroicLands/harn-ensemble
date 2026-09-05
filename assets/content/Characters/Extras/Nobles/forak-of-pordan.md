@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forak of Pordan
 tags: []
 name:
   full: Forak of Pordan

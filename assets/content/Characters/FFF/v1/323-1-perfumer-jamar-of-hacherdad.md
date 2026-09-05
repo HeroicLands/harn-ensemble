@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Jamar of Hacherdad
-  - 323-1 Perfumer
 tags: []
 name:
   full: Jamar of Hacherdad

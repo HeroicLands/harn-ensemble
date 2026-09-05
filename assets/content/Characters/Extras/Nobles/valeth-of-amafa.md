@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valeth of Amafa
 tags: []
 name:
   full: Valeth of Amafa

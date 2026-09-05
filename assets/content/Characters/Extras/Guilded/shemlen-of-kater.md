@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlen of Kater
 tags: []
 name:
   full: Shemlen of Kater

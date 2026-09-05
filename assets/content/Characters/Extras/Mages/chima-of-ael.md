@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chima of Ael
 tags: []
 name:
   full: Chima of Ael

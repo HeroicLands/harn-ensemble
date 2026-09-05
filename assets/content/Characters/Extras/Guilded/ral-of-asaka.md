@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ral of Asaka
 tags: []
 name:
   full: Ral of Asaka

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drigh of Dysel
 tags: []
 name:
   full: Drigh of Dysel

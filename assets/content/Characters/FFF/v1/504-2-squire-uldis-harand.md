@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Uldis Harand
-  - 504-2 Squire
 tags: []
 name:
   full: Uldis Harand

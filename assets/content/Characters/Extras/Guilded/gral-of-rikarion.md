@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gral of Rikarion
 tags: []
 name:
   full: Gral of Rikarion

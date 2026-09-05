@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Andel & Entourage
 tags: []
 id: FVtjQWpvGL7OiPki
 type: affiliation

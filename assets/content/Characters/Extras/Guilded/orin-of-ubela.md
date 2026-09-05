@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orin of Ubela
 tags: []
 name:
   full: Orin of Ubela

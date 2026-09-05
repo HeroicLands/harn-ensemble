@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Semisen of Tar
 tags: []
 name:
   full: Semisen of Tar

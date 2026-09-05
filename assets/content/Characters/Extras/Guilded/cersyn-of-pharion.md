@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyn of Pharion
 tags: []
 name:
   full: Cersyn of Pharion

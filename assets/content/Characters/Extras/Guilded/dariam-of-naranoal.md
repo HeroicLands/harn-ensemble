@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dariam of Naranoal
 tags: []
 name:
   full: Dariam of Naranoal

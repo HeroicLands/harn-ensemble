@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghelime of Clean
 tags: []
 name:
   full: Maeghelime of Clean

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwenien of Mykanth
 tags: []
 name:
   full: Gwenien of Mykanth

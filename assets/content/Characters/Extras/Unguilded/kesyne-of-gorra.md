@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kesyne of Gorra
 tags: []
 name:
   full: Kesyne of Gorra

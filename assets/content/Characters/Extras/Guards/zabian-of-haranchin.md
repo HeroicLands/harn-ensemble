@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zabian of Haranchin
 tags: []
 name:
   full: Zabian of Haranchin

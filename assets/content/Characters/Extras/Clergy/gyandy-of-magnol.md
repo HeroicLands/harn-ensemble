@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gyandy of Magnol
 tags: []
 name:
   full: Gyandy of Magnol

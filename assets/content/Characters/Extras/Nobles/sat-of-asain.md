@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sat of Asain
 tags: []
 name:
   full: Sat of Asain

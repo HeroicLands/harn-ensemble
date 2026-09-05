@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Don
 tags: []
 name:
   full: Fryda of Don

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Illin of Hubellyr
 tags: []
 name:
   full: Illin of Hubellyr

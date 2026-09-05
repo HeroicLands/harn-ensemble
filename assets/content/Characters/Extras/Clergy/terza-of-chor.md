@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Chor
 tags: []
 name:
   full: Terza of Chor

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yeline of Lund
 tags: []
 name:
   full: Yeline of Lund

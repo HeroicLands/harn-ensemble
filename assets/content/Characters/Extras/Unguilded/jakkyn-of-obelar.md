@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakkyn of Obelar
 tags: []
 name:
   full: Jakkyn of Obelar

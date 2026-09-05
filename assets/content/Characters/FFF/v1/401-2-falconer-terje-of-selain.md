@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Terje of Selain
-  - 401-2 Falconer
 tags: []
 name:
   full: Terje of Selain

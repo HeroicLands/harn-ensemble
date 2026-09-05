@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Orlyme
 tags: []
 name:
   full: Daka of Orlyme

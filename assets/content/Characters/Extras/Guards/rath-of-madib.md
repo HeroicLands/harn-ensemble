@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rath of Madib
 tags: []
 name:
   full: Rath of Madib

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Aelin
 tags: []
 name:
   full: Fryda of Aelin

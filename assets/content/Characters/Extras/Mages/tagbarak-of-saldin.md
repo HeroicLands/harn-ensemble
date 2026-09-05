@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tagbarak of Saldin
 tags: []
 name:
   full: Tagbarak of Saldin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Indrostarga of Dythan
 tags: []
 name:
   full: Indrostarga of Dythan

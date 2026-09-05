@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masyn of Etane
 tags: []
 name:
   full: Masyn of Etane

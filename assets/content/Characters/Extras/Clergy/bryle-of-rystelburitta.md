@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bryle of Rystelburitta
 tags: []
 name:
   full: Bryle of Rystelburitta

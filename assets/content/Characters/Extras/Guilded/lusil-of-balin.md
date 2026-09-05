@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusil of Balin
 tags: []
 name:
   full: Lusil of Balin

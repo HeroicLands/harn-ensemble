@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lanazir of Mariborin
 tags: []
 name:
   full: Lanazir of Mariborin

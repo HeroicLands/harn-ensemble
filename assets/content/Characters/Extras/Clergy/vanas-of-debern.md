@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vanas of Debern
 tags: []
 name:
   full: Vanas of Debern

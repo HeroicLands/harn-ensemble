@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Goselemas
 tags: []
 name:
   full: Aramia of Goselemas

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merene of Karine
 tags: []
 name:
   full: Merene of Karine

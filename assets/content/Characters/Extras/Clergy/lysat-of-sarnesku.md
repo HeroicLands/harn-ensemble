@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lysat of Sarnesku
 tags: []
 name:
   full: Lysat of Sarnesku

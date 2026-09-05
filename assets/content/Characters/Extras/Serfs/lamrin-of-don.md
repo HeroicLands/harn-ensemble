@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lamrin of Don
 tags: []
 name:
   full: Lamrin of Don

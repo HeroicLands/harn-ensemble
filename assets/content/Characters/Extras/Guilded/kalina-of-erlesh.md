@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalina of Erlesh
 tags: []
 name:
   full: Kalina of Erlesh

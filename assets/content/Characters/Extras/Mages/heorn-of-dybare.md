@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heorn of Dybare
 tags: []
 name:
   full: Heorn of Dybare

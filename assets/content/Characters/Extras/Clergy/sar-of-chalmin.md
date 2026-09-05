@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Chalmin
 tags: []
 name:
   full: Sar of Chalmin

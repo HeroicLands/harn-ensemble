@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Geacelshin of Kar
 tags: []
 name:
   full: Geacelshin of Kar

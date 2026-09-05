@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herom of Iesh
 tags: []
 name:
   full: Herom of Iesh

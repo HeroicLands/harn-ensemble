@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashain of Tal
 tags: []
 name:
   full: Ashain of Tal

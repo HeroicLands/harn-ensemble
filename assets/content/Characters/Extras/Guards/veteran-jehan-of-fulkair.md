@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Jehan of Fulkair
 tags: []
 name:
   full: Veteran Jehan of Fulkair

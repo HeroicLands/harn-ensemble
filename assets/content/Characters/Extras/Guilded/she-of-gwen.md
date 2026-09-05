@@ -1,6 +1,4 @@
 ---
-aliases:
-  - She of Gwen
 tags: []
 name:
   full: She of Gwen

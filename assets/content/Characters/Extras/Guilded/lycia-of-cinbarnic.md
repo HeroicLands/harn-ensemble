@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Cinbarnic
 tags: []
 name:
   full: Lycia of Cinbarnic

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angol of Stiem
 tags: []
 name:
   full: Angol of Stiem

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tokis Valgerdsson
-  - 124-2 Clansman UF
 tags: []
 name:
   full: Tokis Valgerdsson

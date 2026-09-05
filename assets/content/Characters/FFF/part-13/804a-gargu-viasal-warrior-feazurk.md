@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Feazurk
-  - 804a Gargu-Viasal Warrior
 tags: []
 name:
   full: Feazurk

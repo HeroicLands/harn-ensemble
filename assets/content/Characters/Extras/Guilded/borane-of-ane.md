@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Ane
 tags: []
 name:
   full: Borane of Ane

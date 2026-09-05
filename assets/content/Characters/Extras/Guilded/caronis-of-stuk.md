@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caronis of Stuk
 tags: []
 name:
   full: Caronis of Stuk

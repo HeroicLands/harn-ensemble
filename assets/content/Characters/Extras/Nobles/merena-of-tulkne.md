@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merena of Tulkne
 tags: []
 name:
   full: Merena of Tulkne

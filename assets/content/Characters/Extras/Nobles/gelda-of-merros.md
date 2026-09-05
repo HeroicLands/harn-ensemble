@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gelda of Merros
 tags: []
 name:
   full: Gelda of Merros

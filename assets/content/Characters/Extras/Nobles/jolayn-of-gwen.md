@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jolayn of Gwen
 tags: []
 name:
   full: Jolayn of Gwen

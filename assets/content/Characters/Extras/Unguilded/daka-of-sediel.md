@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Sediel
 tags: []
 name:
   full: Daka of Sediel

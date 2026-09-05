@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasyne of Katerien
 tags: []
 name:
   full: Lasyne of Katerien

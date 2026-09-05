@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Onparin
 tags: []
 name:
   full: Segina of Onparin

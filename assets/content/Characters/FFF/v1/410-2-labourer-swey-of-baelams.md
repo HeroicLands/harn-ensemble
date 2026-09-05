@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Swey of Baelams
-  - 410-2 Labourer
 tags: []
 name:
   full: Swey of Baelams

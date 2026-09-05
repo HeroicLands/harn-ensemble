@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaladez of Khonan
 tags: []
 name:
   full: Kaladez of Khonan

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwele of Meral
 tags: []
 name:
   full: Gwele of Meral

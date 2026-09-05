@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kora of Serdica
-  - 499-1 Misc Unguilded
 tags: []
 name:
   full: Kora of Serdica

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gyand of Narani
 tags: []
 name:
   full: Gyand of Narani

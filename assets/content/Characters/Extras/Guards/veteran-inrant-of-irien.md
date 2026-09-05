@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Inrant of Irien
 tags: []
 name:
   full: Veteran Inrant of Irien

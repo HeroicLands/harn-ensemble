@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashain of Chorlon
 tags: []
 name:
   full: Ashain of Chorlon

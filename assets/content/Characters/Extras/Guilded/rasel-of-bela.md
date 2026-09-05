@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rasel of Bela
 tags: []
 name:
   full: Rasel of Bela

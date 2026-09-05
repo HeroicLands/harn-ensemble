@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hermas of Esarl
 tags: []
 name:
   full: Hermas of Esarl

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cararn of Amarthor
 tags: []
 name:
   full: Cararn of Amarthor

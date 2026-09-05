@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Moskil of Charas
 tags: []
 name:
   full: Moskil of Charas

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlen of Barn
 tags: []
 name:
   full: Shemlen of Barn

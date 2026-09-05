@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mardenyl of Lune
 tags: []
 name:
   full: Mardenyl of Lune

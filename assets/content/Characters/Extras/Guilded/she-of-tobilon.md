@@ -1,6 +1,4 @@
 ---
-aliases:
-  - She of Tobilon
 tags: []
 name:
   full: She of Tobilon

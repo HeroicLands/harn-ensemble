@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yigal of Orta
 tags: []
 name:
   full: Yigal of Orta

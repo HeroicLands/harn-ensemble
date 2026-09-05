@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solinela of Chorlym
 tags: []
 name:
   full: Solinela of Chorlym

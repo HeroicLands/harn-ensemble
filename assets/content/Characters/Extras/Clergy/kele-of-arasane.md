@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kele of Arasane
 tags: []
 name:
   full: Kele of Arasane

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yaelicia of Ekai
 tags: []
 name:
   full: Yaelicia of Ekai

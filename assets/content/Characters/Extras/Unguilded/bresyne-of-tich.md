@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyne of Tich
 tags: []
 name:
   full: Bresyne of Tich

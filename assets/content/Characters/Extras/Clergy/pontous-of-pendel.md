@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Pendel
 tags: []
 name:
   full: Pontous of Pendel

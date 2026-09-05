@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Thoff
 tags: []
 name:
   full: Forena of Thoff

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Jerebal of Aeb
 tags: []
 name:
   full: Captain Jerebal of Aeb

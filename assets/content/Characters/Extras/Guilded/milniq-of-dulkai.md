@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Dulkai
 tags: []
 name:
   full: Milniq of Dulkai

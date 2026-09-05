@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Bela
 tags: []
 name:
   full: Forena of Bela

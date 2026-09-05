@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jend of Manchin
 tags: []
 name:
   full: Jend of Manchin

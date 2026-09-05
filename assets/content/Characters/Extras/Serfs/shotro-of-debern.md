@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shotro of Debern
 tags: []
 name:
   full: Shotro of Debern

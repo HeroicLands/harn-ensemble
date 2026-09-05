@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Tallim
 tags: []
 name:
   full: Raeda of Tallim

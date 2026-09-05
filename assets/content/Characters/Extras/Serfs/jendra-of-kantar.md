@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jendra of Kantar
 tags: []
 name:
   full: Jendra of Kantar

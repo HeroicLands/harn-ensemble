@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Sosora
 tags: []
 name:
   full: Lycia of Sosora

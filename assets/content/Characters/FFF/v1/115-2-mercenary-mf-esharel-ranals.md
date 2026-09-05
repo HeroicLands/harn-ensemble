@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Esharel Ranals
-  - 115-2 Mercenary MF
 tags: []
 name:
   full: Esharel Ranals

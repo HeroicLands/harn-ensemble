@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorid of Eylosathasil
 tags: []
 name:
   full: Lorid of Eylosathasil

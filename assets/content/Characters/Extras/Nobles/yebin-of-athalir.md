@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yebin of Athalir
 tags: []
 name:
   full: Yebin of Athalir

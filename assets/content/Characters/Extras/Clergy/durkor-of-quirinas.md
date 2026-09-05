@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Durkor of Quirinas
 tags: []
 name:
   full: Durkor of Quirinas

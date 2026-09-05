@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erech of Amafa
 tags: []
 name:
   full: Erech of Amafa

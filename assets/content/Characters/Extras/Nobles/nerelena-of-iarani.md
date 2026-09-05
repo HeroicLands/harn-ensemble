@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nerelena of Iarani
 tags: []
 name:
   full: Nerelena of Iarani

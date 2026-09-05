@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Adah of Dethalmin
 tags: []
 name:
   full: Adah of Dethalmin

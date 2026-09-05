@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Halime of Yisgaras
 tags: []
 name:
   full: Halime of Yisgaras

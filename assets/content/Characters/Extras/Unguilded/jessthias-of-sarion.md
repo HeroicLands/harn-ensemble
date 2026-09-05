@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jessthias of Sarion
 tags: []
 name:
   full: Jessthias of Sarion

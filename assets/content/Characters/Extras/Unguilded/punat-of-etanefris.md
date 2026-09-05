@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Punat of Etanefris
 tags: []
 name:
   full: Punat of Etanefris

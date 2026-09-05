@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbrin of Parina
 tags: []
 name:
   full: Arbrin of Parina

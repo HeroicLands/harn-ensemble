@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eldel of Asain
 tags: []
 name:
   full: Eldel of Asain

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mansu Quig
-  - 603-1 Priest Ilvir
 tags: []
 name:
   full: Mansu Quig

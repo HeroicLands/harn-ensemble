@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ealfric Defard
-  - 127-1 Yeoman LB
 tags: []
 name:
   full: Ealfric Defard

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Vaber of Neris
 tags: []
 name:
   full: Veteran Vaber of Neris

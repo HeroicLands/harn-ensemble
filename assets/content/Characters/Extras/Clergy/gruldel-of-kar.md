@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gruldel of Kar
 tags: []
 name:
   full: Gruldel of Kar

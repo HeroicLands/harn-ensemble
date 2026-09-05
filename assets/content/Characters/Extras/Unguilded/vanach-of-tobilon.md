@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vanach of Tobilon
 tags: []
 name:
   full: Vanach of Tobilon

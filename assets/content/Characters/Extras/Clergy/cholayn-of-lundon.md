@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cholayn of Lundon
 tags: []
 name:
   full: Cholayn of Lundon

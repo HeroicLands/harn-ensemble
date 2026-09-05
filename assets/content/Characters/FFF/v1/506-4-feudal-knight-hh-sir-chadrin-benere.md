@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sir Chadrin Benere
-  - 506-4 Feudal Knight HH
 tags: []
 name:
   full: Sir Chadrin Benere

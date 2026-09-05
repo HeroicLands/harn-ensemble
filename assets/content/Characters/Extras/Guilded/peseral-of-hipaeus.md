@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Peseral of Hipaeus
 tags: []
 name:
   full: Peseral of Hipaeus

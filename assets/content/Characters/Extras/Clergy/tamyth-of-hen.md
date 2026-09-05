@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Hen
 tags: []
 name:
   full: Tamyth of Hen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mereda of Orlon
 tags: []
 name:
   full: Mereda of Orlon

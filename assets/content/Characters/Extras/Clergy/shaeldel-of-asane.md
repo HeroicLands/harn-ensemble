@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaeldel of Asane
 tags: []
 name:
   full: Shaeldel of Asane

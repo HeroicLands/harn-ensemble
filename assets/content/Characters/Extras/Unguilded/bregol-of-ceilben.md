@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bregol of Ceilben
 tags: []
 name:
   full: Bregol of Ceilben

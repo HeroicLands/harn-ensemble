@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghel of Cilta
 tags: []
 name:
   full: Maeghel of Cilta

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borana of Erlim
 tags: []
 name:
   full: Borana of Erlim

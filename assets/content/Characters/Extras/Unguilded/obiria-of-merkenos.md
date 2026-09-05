@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obiria of Merkenos
 tags: []
 name:
   full: Obiria of Merkenos

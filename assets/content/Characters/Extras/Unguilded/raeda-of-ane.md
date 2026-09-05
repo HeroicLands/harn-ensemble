@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Ane
 tags: []
 name:
   full: Raeda of Ane

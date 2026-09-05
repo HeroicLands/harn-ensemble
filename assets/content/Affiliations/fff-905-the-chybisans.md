@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The Chybisans
 tags: []
 id: PeEqzUUEjeOJRTQu
 type: affiliation

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Poldoel of Sediel
 tags: []
 name:
   full: Poldoel of Sediel

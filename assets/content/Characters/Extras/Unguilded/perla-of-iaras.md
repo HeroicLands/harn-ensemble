@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perla of Iaras
 tags: []
 name:
   full: Perla of Iaras

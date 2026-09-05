@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Naras
 tags: []
 name:
   full: Piria of Naras

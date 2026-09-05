@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallisa of Kass
 tags: []
 name:
   full: Pallisa of Kass

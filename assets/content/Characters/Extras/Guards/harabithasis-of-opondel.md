@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harabithasis of Opondel
 tags: []
 name:
   full: Harabithasis of Opondel

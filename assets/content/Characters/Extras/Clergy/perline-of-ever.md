@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perline of Ever
 tags: []
 name:
   full: Perline of Ever

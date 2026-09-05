@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Embrand of Dondech
 tags: []
 name:
   full: Embrand of Dondech

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Derrial Cyeen
-  - 610-1 Priest Siem
 tags: []
 name:
   full: Derrial Cyeen

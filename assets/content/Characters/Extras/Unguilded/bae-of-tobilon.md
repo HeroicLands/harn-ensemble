@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Tobilon
 tags: []
 name:
   full: Bae of Tobilon

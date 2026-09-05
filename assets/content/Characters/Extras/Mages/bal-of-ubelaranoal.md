@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bal of Ubelaranoal
 tags: []
 name:
   full: Bal of Ubelaranoal

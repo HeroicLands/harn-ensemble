@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chend of Amafa
 tags: []
 name:
   full: Chend of Amafa

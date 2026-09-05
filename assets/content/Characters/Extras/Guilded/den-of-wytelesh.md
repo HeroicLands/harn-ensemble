@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Den of Wytelesh
 tags: []
 name:
   full: Den of Wytelesh

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ciramdirvelu of Amarther
 tags: []
 name:
   full: Ciramdirvelu of Amarther

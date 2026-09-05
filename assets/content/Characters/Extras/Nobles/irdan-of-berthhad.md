@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Irdan of Berthhad
 tags: []
 name:
   full: Irdan of Berthhad

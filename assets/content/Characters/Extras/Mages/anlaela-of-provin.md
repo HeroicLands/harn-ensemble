@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaela of Provin
 tags: []
 name:
   full: Anlaela of Provin

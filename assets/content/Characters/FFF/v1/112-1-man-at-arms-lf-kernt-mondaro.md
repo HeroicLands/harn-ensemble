@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kernt Mondaro
-  - 112-1 Man at Arms LF
 tags: []
 name:
   full: Kernt Mondaro

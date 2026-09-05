@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Melas Renier
-  - 122-1 Sindarin Ranger LF
 tags: []
 name:
   full: Melas Renier

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lir of Saldir
 tags: []
 name:
   full: Lir of Saldir

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Queda of Merkenos
 tags: []
 name:
   full: Queda of Merkenos

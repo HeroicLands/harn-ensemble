@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Llawaur Tam
-  - 324-2 Physician
 tags: []
 name:
   full: Llawaur Tam

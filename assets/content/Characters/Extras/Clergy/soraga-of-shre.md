@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Soraga of Shre
 tags: []
 name:
   full: Soraga of Shre

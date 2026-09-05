@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryn of Don
 tags: []
 name:
   full: Saryn of Don

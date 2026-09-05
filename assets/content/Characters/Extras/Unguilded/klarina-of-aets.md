@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarina of Aets
 tags: []
 name:
   full: Klarina of Aets

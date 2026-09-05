@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Genor of Obyne
 tags: []
 name:
   full: Genor of Obyne

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Salared of Ena
 tags: []
 name:
   full: Salared of Ena

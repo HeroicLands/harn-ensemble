@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Keryn
 tags: []
 name:
   full: Telsa of Keryn

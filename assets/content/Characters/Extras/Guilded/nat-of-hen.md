@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nat of Hen
 tags: []
 name:
   full: Nat of Hen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uvien of Duckill
 tags: []
 name:
   full: Uvien of Duckill

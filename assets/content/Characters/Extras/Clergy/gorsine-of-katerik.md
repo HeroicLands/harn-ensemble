@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Katerik
 tags: []
 name:
   full: Gorsine of Katerik

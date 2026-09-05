@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Wejik
 tags: []
 name:
   full: Piria of Wejik

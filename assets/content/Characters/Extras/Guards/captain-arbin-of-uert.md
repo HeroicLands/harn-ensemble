@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Arbin of Uert
 tags: []
 name:
   full: Captain Arbin of Uert

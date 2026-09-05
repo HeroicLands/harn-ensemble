@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Theric of Pharion
 tags: []
 name:
   full: Theric of Pharion

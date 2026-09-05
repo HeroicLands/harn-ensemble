@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Semis of Debern
 tags: []
 name:
   full: Semis of Debern

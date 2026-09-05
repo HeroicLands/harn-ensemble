@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalarosta of Cybellyr
 tags: []
 name:
   full: Kalarosta of Cybellyr

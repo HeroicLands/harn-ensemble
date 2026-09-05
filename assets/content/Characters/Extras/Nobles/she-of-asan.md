@@ -1,6 +1,4 @@
 ---
-aliases:
-  - She of Asan
 tags: []
 name:
   full: She of Asan

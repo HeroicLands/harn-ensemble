@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Habin of Tabralgurty
 tags: []
 name:
   full: Habin of Tabralgurty

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dalton of Sidethaen
 tags: []
 name:
   full: Dalton of Sidethaen

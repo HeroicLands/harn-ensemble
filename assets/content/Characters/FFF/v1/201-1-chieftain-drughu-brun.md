@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brun
-  - 201-1 Chieftain Drughu
 tags: []
 name:
   full: Brun

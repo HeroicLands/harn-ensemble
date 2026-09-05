@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Inrandy of Buritta
 tags: []
 name:
   full: Inrandy of Buritta

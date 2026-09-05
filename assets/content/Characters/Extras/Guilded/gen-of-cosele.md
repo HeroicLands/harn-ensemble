@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gen of Cosele
 tags: []
 name:
   full: Gen of Cosele

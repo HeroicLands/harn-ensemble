@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drunanof of Thodukr
 tags: []
 name:
   full: Drunanof of Thodukr

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaelda of Jorwynn
 tags: []
 name:
   full: Shaelda of Jorwynn

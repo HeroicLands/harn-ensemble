@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Dythias
 tags: []
 name:
   full: Merelyn of Dythias

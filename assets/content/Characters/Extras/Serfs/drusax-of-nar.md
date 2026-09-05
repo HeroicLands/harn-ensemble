@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drusax of Nar
 tags: []
 name:
   full: Drusax of Nar

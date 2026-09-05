@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyne of Sethys
 tags: []
 name:
   full: Jaslyne of Sethys

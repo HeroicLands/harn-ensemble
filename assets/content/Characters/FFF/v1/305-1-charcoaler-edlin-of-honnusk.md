@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Edlin of Honnusk
-  - 305-1 Charcoaler
 tags: []
 name:
   full: Edlin of Honnusk

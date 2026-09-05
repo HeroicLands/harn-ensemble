@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hond of Ane
 tags: []
 name:
   full: Hond of Ane

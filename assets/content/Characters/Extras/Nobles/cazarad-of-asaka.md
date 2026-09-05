@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cazarad of Asaka
 tags: []
 name:
   full: Cazarad of Asaka

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Betts
 tags: []
 name:
   full: Makan of Betts

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shylirian of Bel
 tags: []
 name:
   full: Shylirian of Bel

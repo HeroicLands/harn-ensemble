@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Chaklyn of Matlimundon
 tags: []
 name:
   full: Veteran Chaklyn of Matlimundon

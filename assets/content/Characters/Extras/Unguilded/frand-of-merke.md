@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Frand of Merke
 tags: []
 name:
   full: Frand of Merke

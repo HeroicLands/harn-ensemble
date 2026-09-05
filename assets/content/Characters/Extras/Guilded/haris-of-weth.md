@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haris of Weth
 tags: []
 name:
   full: Haris of Weth

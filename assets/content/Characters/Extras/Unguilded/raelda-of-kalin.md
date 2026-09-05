@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raelda of Kalin
 tags: []
 name:
   full: Raelda of Kalin

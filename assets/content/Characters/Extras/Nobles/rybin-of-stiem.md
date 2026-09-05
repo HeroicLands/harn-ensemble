@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rybin of Stiem
 tags: []
 name:
   full: Rybin of Stiem

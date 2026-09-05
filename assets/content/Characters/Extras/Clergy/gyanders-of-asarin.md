@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gyanders of Asarin
 tags: []
 name:
   full: Gyanders of Asarin

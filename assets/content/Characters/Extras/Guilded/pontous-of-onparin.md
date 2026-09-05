@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Onparin
 tags: []
 name:
   full: Pontous of Onparin

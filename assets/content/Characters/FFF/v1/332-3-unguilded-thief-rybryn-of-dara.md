@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rybryn of Dara
-  - 332-3 Unguilded Thief
 tags: []
 name:
   full: Rybryn of Dara

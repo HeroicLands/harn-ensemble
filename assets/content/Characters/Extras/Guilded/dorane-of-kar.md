@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorane of Kar
 tags: []
 name:
   full: Dorane of Kar

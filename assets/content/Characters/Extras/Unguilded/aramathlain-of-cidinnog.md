@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramathlain of Cidinnog
 tags: []
 name:
   full: Aramathlain of Cidinnog

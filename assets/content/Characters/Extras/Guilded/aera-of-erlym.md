@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aera of Erlym
 tags: []
 name:
   full: Aera of Erlym

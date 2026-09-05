@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piris of Bela
 tags: []
 name:
   full: Piris of Bela

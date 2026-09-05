@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarn of Mar
 tags: []
 name:
   full: Jarn of Mar

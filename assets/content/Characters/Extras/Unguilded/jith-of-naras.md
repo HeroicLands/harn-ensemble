@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jith of Naras
 tags: []
 name:
   full: Jith of Naras

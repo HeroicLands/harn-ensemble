@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Varas
 tags: []
 name:
   full: Chola of Varas

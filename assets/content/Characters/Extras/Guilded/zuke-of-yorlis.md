@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuke of Yorlis
 tags: []
 name:
   full: Zuke of Yorlis

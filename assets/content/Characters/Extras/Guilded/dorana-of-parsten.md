@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorana of Parsten
 tags: []
 name:
   full: Dorana of Parsten

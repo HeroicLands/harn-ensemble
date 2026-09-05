@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herala of Drel
 tags: []
 name:
   full: Herala of Drel

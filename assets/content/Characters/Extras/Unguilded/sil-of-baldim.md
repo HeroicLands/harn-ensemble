@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sil of Baldim
 tags: []
 name:
   full: Sil of Baldim

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garit of Quardan
 tags: []
 name:
   full: Garit of Quardan

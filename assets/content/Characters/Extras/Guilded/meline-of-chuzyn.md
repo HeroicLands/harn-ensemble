@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meline of Chuzyn
 tags: []
 name:
   full: Meline of Chuzyn

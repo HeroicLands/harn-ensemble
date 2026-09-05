@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kalas of Aralsar
-  - 304-1 Chandler
 tags: []
 name:
   full: Kalas of Aralsar

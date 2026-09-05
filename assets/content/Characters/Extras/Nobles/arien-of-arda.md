@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arien of Arda
 tags: []
 name:
   full: Arien of Arda

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jellic of Tobira
 tags: []
 name:
   full: Jellic of Tobira

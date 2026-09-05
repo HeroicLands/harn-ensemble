@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Payensen
 tags: []
 name:
   full: Pontous of Payensen

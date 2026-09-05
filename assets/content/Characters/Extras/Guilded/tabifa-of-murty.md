@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Murty
 tags: []
 name:
   full: Tabifa of Murty

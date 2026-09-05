@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Opondech
 tags: []
 name:
   full: Aramia of Opondech

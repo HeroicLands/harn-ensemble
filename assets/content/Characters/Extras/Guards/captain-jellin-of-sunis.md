@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Jellin of Sunis
 tags: []
 name:
   full: Captain Jellin of Sunis

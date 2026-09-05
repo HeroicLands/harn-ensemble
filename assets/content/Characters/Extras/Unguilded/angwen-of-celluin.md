@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angwen of Celluin
 tags: []
 name:
   full: Angwen of Celluin

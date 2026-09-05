@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Artun of Parsuel
 tags: []
 name:
   full: Artun of Parsuel

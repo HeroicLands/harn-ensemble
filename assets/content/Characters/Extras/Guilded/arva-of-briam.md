@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arva of Briam
 tags: []
 name:
   full: Arva of Briam

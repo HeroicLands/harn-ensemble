@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghela of Arda
 tags: []
 name:
   full: Maeghela of Arda

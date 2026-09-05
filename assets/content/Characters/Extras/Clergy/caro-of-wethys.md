@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caro of Wethys
 tags: []
 name:
   full: Caro of Wethys

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kezel of Elwethasil
 tags: []
 name:
   full: Kezel of Elwethasil

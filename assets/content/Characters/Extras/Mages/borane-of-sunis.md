@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Sunis
 tags: []
 name:
   full: Borane of Sunis

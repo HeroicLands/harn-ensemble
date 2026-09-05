@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kelen of Yorlym
 tags: []
 name:
   full: Kelen of Yorlym

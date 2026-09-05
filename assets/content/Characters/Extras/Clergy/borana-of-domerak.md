@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borana of Domerak
 tags: []
 name:
   full: Borana of Domerak

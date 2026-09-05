@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakan of Charcaradas
 tags: []
 name:
   full: Jakan of Charcaradas

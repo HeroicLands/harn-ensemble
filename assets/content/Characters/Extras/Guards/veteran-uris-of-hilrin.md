@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Uris of Hilrin
 tags: []
 name:
   full: Veteran Uris of Hilrin

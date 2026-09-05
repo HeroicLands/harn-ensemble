@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Andy of Kroll
 tags: []
 name:
   full: Andy of Kroll

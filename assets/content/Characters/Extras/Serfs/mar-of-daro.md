@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mar of Daro
 tags: []
 name:
   full: Mar of Daro

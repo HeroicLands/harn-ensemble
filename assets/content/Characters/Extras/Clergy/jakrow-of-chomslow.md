@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakrow of Chomslow
 tags: []
 name:
   full: Jakrow of Chomslow

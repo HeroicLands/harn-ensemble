@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arn of Cadwar
 tags: []
 name:
   full: Arn of Cadwar

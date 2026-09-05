@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Deth
 tags: []
 name:
   full: Kistyne of Deth

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obiria of Kansen
 tags: []
 name:
   full: Obiria of Kansen

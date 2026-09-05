@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryse of Varass
 tags: []
 name:
   full: Saryse of Varass

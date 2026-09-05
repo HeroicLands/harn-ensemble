@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hollo of Ara
 tags: []
 name:
   full: Hollo of Ara

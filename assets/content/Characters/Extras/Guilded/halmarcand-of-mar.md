@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Halmarcand of Mar
 tags: []
 name:
   full: Halmarcand of Mar

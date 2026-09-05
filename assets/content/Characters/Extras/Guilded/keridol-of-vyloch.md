@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keridol of Vyloch
 tags: []
 name:
   full: Keridol of Vyloch

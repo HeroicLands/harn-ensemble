@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorane of Dybardas
 tags: []
 name:
   full: Dorane of Dybardas

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obrant of Orlon
 tags: []
 name:
   full: Obrant of Orlon

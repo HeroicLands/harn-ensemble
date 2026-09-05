@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Petin Muldabel
-  - 109-1 Legionnaire LF
 tags: []
 name:
   full: Petin Muldabel

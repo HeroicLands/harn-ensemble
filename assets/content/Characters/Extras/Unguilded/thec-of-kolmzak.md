@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thec of Kolmzak
 tags: []
 name:
   full: Thec of Kolmzak

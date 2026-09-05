@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrelyne of Wen
 tags: []
 name:
   full: Myrelyne of Wen

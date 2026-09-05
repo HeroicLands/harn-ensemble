@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Vanthen
 tags: []
 name:
   full: Raeda of Vanthen

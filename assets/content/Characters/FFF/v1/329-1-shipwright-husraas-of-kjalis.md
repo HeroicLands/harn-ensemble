@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Husraas of Kjalis
-  - 329-1 Shipwright
 tags: []
 name:
   full: Husraas of Kjalis

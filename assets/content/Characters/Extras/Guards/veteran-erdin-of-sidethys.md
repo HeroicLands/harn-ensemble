@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Erdin of Sidethys
 tags: []
 name:
   full: Veteran Erdin of Sidethys

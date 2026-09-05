@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vadiryn of Intrel
 tags: []
 name:
   full: Vadiryn of Intrel

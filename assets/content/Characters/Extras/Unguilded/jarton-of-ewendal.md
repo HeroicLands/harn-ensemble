@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarton of Ewendal
 tags: []
 name:
   full: Jarton of Ewendal

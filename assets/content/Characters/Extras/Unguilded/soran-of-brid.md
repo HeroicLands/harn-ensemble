@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Soran of Brid
 tags: []
 name:
   full: Soran of Brid

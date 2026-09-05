@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werelyne of Stiem
 tags: []
 name:
   full: Werelyne of Stiem

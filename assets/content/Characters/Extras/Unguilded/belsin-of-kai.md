@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Belsin of Kai
 tags: []
 name:
   full: Belsin of Kai

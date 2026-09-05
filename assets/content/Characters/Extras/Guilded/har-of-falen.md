@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Har of Falen
 tags: []
 name:
   full: Har of Falen

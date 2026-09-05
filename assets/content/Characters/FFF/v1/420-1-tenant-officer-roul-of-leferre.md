@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Roul of Leferre
-  - 420-1 Tenant Officer
 tags: []
 name:
   full: Roul of Leferre

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hondasaravis of Veris
 tags: []
 name:
   full: Hondasaravis of Veris

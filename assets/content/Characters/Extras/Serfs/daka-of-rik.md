@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Rik
 tags: []
 name:
   full: Daka of Rik

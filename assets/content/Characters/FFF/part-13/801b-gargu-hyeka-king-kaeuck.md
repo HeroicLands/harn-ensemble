@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kaeuck
-  - 801b Gargu-Hyeka King
 tags: []
 name:
   full: Kaeuck

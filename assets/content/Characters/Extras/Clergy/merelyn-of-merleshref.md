@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Merleshref
 tags: []
 name:
   full: Merelyn of Merleshref

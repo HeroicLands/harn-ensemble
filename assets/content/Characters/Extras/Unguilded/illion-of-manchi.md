@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Illion of Manchi
 tags: []
 name:
   full: Illion of Manchi

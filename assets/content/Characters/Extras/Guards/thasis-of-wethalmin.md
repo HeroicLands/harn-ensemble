@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thasis of Wethalmin
 tags: []
 name:
   full: Thasis of Wethalmin

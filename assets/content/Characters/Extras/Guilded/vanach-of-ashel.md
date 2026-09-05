@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vanach of Ashel
 tags: []
 name:
   full: Vanach of Ashel

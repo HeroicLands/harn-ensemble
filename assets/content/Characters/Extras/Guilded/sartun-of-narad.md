@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sartun of Narad
 tags: []
 name:
   full: Sartun of Narad

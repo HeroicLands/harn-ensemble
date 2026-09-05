@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erery of Obel
 tags: []
 name:
   full: Erery of Obel

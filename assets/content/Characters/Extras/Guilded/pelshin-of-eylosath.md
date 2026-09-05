@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelshin of Eylosath
 tags: []
 name:
   full: Pelshin of Eylosath

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ferebalorel of Gwen
 tags: []
 name:
   full: Ferebalorel of Gwen

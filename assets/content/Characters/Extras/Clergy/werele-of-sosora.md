@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werele of Sosora
 tags: []
 name:
   full: Werele of Sosora

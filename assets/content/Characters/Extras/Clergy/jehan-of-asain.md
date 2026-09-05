@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jehan of Asain
 tags: []
 name:
   full: Jehan of Asain

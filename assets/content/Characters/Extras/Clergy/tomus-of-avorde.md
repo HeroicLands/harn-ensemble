@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tomus of Avorde
 tags: []
 name:
   full: Tomus of Avorde

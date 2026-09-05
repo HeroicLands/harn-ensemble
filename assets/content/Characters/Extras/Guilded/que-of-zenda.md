@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Que of Zenda
 tags: []
 name:
   full: Que of Zenda

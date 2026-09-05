@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Clavro of Theiast
 tags: []
 name:
   full: Clavro of Theiast

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ephis of Briam
 tags: []
 name:
   full: Ephis of Briam

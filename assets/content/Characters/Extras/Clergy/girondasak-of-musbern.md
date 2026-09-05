@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Girondasak of Musbern
 tags: []
 name:
   full: Girondasak of Musbern

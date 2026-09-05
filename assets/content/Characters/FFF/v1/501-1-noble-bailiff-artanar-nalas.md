@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Artanar Nalas
-  - 501-1 Noble Bailiff
 tags: []
 name:
   full: Artanar Nalas

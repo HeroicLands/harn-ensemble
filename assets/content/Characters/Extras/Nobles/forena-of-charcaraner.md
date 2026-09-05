@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Charcaraner
 tags: []
 name:
   full: Forena of Charcaraner

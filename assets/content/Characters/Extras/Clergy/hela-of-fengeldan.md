@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hela of Fengeldan
 tags: []
 name:
   full: Hela of Fengeldan

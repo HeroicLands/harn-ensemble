@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Calen of Esseren
 tags: []
 name:
   full: Calen of Esseren

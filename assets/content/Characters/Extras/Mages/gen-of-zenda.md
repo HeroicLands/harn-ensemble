@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gen of Zenda
 tags: []
 name:
   full: Gen of Zenda

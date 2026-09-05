@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karn of Sediel
 tags: []
 name:
   full: Karn of Sediel

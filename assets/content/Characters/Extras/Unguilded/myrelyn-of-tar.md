@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrelyn of Tar
 tags: []
 name:
   full: Myrelyn of Tar

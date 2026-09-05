@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cunanchan of Anc
 tags: []
 name:
   full: Cunanchan of Anc

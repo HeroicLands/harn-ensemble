@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Shref
 tags: []
 name:
   full: Kistyne of Shref

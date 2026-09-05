@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gwyte of Marath
-  - 306-1 Clothier
 tags: []
 name:
   full: Gwyte of Marath

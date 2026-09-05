@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Elwen
 tags: []
 name:
   full: Terba of Elwen

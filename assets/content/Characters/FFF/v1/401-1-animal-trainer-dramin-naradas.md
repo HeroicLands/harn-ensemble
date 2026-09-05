@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dramin Naradas
-  - 401-1 Animal Trainer
 tags: []
 name:
   full: Dramin Naradas

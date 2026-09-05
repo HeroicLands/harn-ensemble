@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urbain of Bellyr
 tags: []
 name:
   full: Urbain of Bellyr

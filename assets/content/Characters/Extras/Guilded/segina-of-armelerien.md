@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Armelerien
 tags: []
 name:
   full: Segina of Armelerien

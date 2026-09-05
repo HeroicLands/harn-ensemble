@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arkot of Quirinsen
 tags: []
 name:
   full: Arkot of Quirinsen

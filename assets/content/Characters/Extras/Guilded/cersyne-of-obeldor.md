@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyne of Obeldor
 tags: []
 name:
   full: Cersyne of Obeldor

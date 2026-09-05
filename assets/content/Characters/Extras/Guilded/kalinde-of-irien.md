@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalinde of Irien
 tags: []
 name:
   full: Kalinde of Irien

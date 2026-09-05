@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borid of Chel
 tags: []
 name:
   full: Borid of Chel

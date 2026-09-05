@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kai of Stokos
 tags: []
 name:
   full: Kai of Stokos

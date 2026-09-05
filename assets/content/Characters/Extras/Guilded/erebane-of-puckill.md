@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erebane of Puckill
 tags: []
 name:
   full: Erebane of Puckill

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Moskil of Parion
 tags: []
 name:
   full: Moskil of Parion

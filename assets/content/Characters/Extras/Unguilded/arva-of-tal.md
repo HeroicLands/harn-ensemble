@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arva of Tal
 tags: []
 name:
   full: Arva of Tal

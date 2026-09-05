@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hollo of Sarlis
 tags: []
 name:
   full: Hollo of Sarlis

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jesa of Duck
 tags: []
 name:
   full: Jesa of Duck

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerthede of Veriel
 tags: []
 name:
   full: Kerthede of Veriel

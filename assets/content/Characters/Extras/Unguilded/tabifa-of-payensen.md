@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Payensen
 tags: []
 name:
   full: Tabifa of Payensen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heorn of Esarlin
 tags: []
 name:
   full: Heorn of Esarlin

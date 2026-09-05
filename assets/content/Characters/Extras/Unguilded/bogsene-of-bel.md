@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bogsene of Bel
 tags: []
 name:
   full: Bogsene of Bel

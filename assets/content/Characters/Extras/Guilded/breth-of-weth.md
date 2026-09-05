@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breth of Weth
 tags: []
 name:
   full: Breth of Weth

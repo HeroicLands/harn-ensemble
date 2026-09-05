@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brylwe of Pasen
 tags: []
 name:
   full: Brylwe of Pasen

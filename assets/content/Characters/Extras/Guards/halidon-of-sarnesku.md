@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Halidon of Sarnesku
 tags: []
 name:
   full: Halidon of Sarnesku

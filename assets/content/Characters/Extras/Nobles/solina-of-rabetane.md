@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solina of Rabetane
 tags: []
 name:
   full: Solina of Rabetane

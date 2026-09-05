@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vadulf of Gesper
-  - 410-1 Labourer
 tags: []
 name:
   full: Vadulf of Gesper

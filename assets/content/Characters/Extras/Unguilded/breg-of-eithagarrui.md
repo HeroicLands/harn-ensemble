@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breg of Eithagarrui
 tags: []
 name:
   full: Breg of Eithagarrui

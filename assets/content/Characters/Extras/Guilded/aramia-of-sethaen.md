@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Sethaen
 tags: []
 name:
   full: Aramia of Sethaen

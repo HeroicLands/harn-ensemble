@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lanas of Pordan
 tags: []
 name:
   full: Lanas of Pordan

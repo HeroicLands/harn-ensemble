@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Burkorbin of Kalin
 tags: []
 name:
   full: Veteran Burkorbin of Kalin

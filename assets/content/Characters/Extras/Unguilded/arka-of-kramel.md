@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arka of Kramel
 tags: []
 name:
   full: Arka of Kramel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Sar
 tags: []
 name:
   full: Marlyse of Sar

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mysilena of Kramel
 tags: []
 name:
   full: Mysilena of Kramel

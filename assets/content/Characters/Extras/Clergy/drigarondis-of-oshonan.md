@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drigarondis of Oshonan
 tags: []
 name:
   full: Drigarondis of Oshonan

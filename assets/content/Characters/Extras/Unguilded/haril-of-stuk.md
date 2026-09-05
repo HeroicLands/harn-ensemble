@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haril of Stuk
 tags: []
 name:
   full: Haril of Stuk

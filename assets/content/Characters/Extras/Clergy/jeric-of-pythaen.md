@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jeric of Pythaen
 tags: []
 name:
   full: Jeric of Pythaen

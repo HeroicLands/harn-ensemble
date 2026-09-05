@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tulah of Quirin
 tags: []
 name:
   full: Tulah of Quirin

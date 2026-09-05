@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Matilda of Verl
-  - 417-2 Servant
 tags: []
 name:
   full: Matilda of Verl

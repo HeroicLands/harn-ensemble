@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Sunigal
 tags: []
 name:
   full: Terza of Sunigal

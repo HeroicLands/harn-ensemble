@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amath of Ancharnamathrodh
 tags: []
 name:
   full: Amath of Ancharnamathrodh

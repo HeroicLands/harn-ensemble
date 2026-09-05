@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Tallis
 tags: []
 name:
   full: Terba of Tallis

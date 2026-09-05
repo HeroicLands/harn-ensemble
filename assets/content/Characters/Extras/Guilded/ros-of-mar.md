@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ros of Mar
 tags: []
 name:
   full: Ros of Mar

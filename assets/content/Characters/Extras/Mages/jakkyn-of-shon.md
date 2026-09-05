@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakkyn of Shon
 tags: []
 name:
   full: Jakkyn of Shon

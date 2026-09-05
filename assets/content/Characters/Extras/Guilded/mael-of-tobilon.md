@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mael of Tobilon
 tags: []
 name:
   full: Mael of Tobilon

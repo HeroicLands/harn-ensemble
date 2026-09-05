@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chendra of Arasaka
 tags: []
 name:
   full: Chendra of Arasaka

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Artun of Partuna
 tags: []
 name:
   full: Artun of Partuna

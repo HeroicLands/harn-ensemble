@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uviene of Merlesh
 tags: []
 name:
   full: Uviene of Merlesh

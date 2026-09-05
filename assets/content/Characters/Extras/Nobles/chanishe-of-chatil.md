@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanishe of Chatil
 tags: []
 name:
   full: Chanishe of Chatil

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marwin of Darine
 tags: []
 name:
   full: Marwin of Darine

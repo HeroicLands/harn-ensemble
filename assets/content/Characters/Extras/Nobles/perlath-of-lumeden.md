@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perlath of Lumeden
 tags: []
 name:
   full: Perlath of Lumeden

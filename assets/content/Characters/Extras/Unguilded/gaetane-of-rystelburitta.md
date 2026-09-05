@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gaetane of Rystelburitta
 tags: []
 name:
   full: Gaetane of Rystelburitta

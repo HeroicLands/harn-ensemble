@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arkael of Jorwynn
 tags: []
 name:
   full: Arkael of Jorwynn

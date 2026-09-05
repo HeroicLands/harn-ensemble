@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gina of Unis
 tags: []
 name:
   full: Gina of Unis

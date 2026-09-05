@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jith of Kater
 tags: []
 name:
   full: Jith of Kater

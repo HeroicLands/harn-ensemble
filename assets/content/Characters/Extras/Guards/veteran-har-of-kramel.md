@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Har of Kramel
 tags: []
 name:
   full: Veteran Har of Kramel

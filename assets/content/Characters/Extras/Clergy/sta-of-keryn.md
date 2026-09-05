@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sta of Keryn
 tags: []
 name:
   full: Sta of Keryn

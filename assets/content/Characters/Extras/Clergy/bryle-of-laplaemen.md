@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bryle of Laplaemen
 tags: []
 name:
   full: Bryle of Laplaemen

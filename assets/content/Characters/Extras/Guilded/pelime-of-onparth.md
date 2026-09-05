@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelime of Onparth
 tags: []
 name:
   full: Pelime of Onparth

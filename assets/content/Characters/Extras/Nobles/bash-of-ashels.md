@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bash of Ashels
 tags: []
 name:
   full: Bash of Ashels

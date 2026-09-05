@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorana of Onparion
 tags: []
 name:
   full: Dorana of Onparion

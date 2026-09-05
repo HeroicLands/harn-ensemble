@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyne of Hosane
 tags: []
 name:
   full: Cheselyne of Hosane

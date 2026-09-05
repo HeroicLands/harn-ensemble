@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gaetane of Parsten
 tags: []
 name:
   full: Gaetane of Parsten

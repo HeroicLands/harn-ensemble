@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borana of Armel
 tags: []
 name:
   full: Borana of Armel

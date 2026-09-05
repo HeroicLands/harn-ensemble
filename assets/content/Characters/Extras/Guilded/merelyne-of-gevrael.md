@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyne of Gevrael
 tags: []
 name:
   full: Merelyne of Gevrael

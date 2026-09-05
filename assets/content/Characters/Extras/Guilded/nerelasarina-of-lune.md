@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nerelasarina of Lune
 tags: []
 name:
   full: Nerelasarina of Lune

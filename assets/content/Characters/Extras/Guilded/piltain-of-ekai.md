@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piltain of Ekai
 tags: []
 name:
   full: Piltain of Ekai

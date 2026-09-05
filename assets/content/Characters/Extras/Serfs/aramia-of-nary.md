@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Nary
 tags: []
 name:
   full: Aramia of Nary

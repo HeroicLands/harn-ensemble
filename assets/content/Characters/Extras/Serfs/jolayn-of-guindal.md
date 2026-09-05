@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jolayn of Guindal
 tags: []
 name:
   full: Jolayn of Guindal

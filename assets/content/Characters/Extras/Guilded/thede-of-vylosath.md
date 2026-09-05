@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thede of Vylosath
 tags: []
 name:
   full: Thede of Vylosath

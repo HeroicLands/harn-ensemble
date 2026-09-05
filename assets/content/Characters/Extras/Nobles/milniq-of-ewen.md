@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Ewen
 tags: []
 name:
   full: Milniq of Ewen

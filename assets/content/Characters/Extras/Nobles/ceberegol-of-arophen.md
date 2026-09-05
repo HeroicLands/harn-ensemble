@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ceberegol of Arophen
 tags: []
 name:
   full: Ceberegol of Arophen

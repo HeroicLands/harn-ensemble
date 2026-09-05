@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Evenodelarondash of Valain
 tags: []
 name:
   full: Evenodelarondash of Valain

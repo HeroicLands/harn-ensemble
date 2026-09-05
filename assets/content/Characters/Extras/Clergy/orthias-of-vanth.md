@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthias of Vanth
 tags: []
 name:
   full: Orthias of Vanth

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Yisgaradas
 tags: []
 name:
   full: Albalny of Yisgaradas

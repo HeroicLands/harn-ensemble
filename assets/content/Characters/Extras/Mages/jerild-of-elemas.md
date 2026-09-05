@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jerild of Elemas
 tags: []
 name:
   full: Jerild of Elemas

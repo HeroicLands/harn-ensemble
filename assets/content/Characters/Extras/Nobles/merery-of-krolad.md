@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Krolad
 tags: []
 name:
   full: Merery of Krolad

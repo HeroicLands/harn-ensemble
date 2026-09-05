@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryn of Armel
 tags: []
 name:
   full: Saryn of Armel

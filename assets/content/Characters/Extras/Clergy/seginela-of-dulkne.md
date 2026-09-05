@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Seginela of Dulkne
 tags: []
 name:
   full: Seginela of Dulkne

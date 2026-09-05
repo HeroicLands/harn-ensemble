@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Agarchiphen of Bain
 tags: []
 name:
   full: Agarchiphen of Bain

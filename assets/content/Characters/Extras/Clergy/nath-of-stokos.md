@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nath of Stokos
 tags: []
 name:
   full: Nath of Stokos

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ras of Thorekast
 tags: []
 name:
   full: Ras of Thorekast

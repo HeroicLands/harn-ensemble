@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sarey of Sideth
-  - 309-1 Glassworker
 tags: []
 name:
   full: Sarey of Sideth

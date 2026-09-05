@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aera of Armel
 tags: []
 name:
   full: Aera of Armel

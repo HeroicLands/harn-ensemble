@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Queda of Hipaeus
 tags: []
 name:
   full: Queda of Hipaeus

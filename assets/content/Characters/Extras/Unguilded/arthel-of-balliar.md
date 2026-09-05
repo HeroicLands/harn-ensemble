@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arthel of Balliar
 tags: []
 name:
   full: Arthel of Balliar

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Canutulachama
-  - 207-1 Shaman Kath
 tags: []
 name:
   full: Canutulachama

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Borskin
 tags: []
 name:
   full: Fryda of Borskin

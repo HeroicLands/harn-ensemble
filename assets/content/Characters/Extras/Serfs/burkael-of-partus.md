@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Burkael of Partus
 tags: []
 name:
   full: Burkael of Partus

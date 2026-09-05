@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Avordan
 tags: []
 name:
   full: Borane of Avordan

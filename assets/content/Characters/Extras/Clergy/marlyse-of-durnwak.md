@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Durnwak
 tags: []
 name:
   full: Marlyse of Durnwak

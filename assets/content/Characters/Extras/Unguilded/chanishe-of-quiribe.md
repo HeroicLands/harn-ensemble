@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanishe of Quiribe
 tags: []
 name:
   full: Chanishe of Quiribe

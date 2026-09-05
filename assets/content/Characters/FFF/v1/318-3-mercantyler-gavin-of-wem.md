@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gavin of Wem
-  - 318-3 Mercantyler
 tags: []
 name:
   full: Gavin of Wem

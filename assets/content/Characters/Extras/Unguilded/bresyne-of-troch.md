@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyne of Troch
 tags: []
 name:
   full: Bresyne of Troch

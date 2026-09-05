@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cyzor of Elwen
 tags: []
 name:
   full: Cyzor of Elwen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyne of Ver
 tags: []
 name:
   full: Cheselyne of Ver

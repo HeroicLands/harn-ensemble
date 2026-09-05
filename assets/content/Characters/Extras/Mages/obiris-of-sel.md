@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obiris of Sel
 tags: []
 name:
   full: Obiris of Sel

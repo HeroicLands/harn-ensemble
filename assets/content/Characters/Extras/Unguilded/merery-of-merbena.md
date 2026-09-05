@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Merbena
 tags: []
 name:
   full: Merery of Merbena

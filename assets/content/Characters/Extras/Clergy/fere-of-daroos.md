@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fere of Daroos
 tags: []
 name:
   full: Fere of Daroos

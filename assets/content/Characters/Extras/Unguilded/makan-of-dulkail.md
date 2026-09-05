@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Dulkail
 tags: []
 name:
   full: Makan of Dulkail

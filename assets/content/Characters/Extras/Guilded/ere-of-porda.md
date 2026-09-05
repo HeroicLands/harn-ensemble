@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ere of Porda
 tags: []
 name:
   full: Ere of Porda

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tabeas
-  - 803b Gargu-Kyani Princess
 tags: []
 name:
   full: Tabeas

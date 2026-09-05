@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusilen of Uerthaen
 tags: []
 name:
   full: Lusilen of Uerthaen

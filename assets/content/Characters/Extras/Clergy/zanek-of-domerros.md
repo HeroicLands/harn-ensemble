@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zanek of Domerros
 tags: []
 name:
   full: Zanek of Domerros

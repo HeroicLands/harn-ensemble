@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthil of Wejik
 tags: []
 name:
   full: Orthil of Wejik

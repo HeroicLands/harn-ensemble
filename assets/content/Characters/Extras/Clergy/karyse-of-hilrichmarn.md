@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyse of Hilrichmarn
 tags: []
 name:
   full: Karyse of Hilrichmarn

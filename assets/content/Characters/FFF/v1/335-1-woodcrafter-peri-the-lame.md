@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Peri the Lame
-  - 335-1 Woodcrafter
 tags: []
 name:
   full: Peri the Lame

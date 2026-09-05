@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uvien of Valain
 tags: []
 name:
   full: Uvien of Valain

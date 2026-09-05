@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keptin of Krollater
 tags: []
 name:
   full: Keptin of Krollater

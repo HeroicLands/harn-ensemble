@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Areen of Serien
 tags: []
 name:
   full: Areen of Serien

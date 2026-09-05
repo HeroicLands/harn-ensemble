@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Byrgat of Partus
 tags: []
 name:
   full: Byrgat of Partus

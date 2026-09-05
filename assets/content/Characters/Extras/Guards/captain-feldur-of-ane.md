@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Feldur of Ane
 tags: []
 name:
   full: Captain Feldur of Ane

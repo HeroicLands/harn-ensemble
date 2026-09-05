@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlena of Arine
 tags: []
 name:
   full: Shemlena of Arine

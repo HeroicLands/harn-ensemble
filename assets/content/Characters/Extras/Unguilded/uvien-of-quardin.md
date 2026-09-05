@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uvien of Quardin
 tags: []
 name:
   full: Uvien of Quardin

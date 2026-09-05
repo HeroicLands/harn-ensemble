@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ald of Ren
 tags: []
 name:
   full: Ald of Ren

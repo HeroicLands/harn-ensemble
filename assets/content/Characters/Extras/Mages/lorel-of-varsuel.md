@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorel of Varsuel
 tags: []
 name:
   full: Lorel of Varsuel

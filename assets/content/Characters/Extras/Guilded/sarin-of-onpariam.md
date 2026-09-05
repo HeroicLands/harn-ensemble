@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Onpariam
 tags: []
 name:
   full: Sarin of Onpariam

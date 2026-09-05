@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ters of Veris
 tags: []
 name:
   full: Ters of Veris

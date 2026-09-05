@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chendra of Erlesh
 tags: []
 name:
   full: Chendra of Erlesh

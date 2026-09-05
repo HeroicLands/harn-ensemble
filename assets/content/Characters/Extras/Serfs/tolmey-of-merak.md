@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Merak
 tags: []
 name:
   full: Tolmey of Merak

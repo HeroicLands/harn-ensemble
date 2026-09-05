@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyn of Anefris
 tags: []
 name:
   full: Cheselyn of Anefris

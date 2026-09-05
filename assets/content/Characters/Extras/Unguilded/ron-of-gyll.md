@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ron of Gyll
 tags: []
 name:
   full: Ron of Gyll

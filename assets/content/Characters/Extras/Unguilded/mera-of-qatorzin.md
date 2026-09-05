@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mera of Qatorzin
 tags: []
 name:
   full: Mera of Qatorzin

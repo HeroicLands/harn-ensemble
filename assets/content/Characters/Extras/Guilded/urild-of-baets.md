@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urild of Baets
 tags: []
 name:
   full: Urild of Baets

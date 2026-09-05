@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Silas Marchant
-  - 605-1 Priest Morgath
 tags: []
 name:
   full: Silas Marchant

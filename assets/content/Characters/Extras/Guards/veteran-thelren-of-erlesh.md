@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Thelren of Erlesh
 tags: []
 name:
   full: Veteran Thelren of Erlesh

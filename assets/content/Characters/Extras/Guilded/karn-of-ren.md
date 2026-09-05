@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karn of Ren
 tags: []
 name:
   full: Karn of Ren

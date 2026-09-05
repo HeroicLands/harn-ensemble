@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Ewel
 tags: []
 name:
   full: Lajana of Ewel

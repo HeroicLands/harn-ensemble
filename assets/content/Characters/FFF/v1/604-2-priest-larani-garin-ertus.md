@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Garin Ertus
-  - 604-2 Priest Larani
 tags: []
 name:
   full: Garin Ertus

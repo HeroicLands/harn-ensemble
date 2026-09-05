@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Larin of Kass
 tags: []
 name:
   full: Larin of Kass

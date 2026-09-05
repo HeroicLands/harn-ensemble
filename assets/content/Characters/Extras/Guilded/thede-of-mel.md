@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thede of Mel
 tags: []
 name:
   full: Thede of Mel

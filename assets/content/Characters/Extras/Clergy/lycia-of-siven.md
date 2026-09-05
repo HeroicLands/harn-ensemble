@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Siven
 tags: []
 name:
   full: Lycia of Siven

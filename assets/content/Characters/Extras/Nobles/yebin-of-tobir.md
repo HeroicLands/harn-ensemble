@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yebin of Tobir
 tags: []
 name:
   full: Yebin of Tobir

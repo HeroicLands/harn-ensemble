@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uone of Rytus
 tags: []
 name:
   full: Uone of Rytus

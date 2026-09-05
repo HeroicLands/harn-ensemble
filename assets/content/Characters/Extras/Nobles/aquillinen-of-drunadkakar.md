@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aquillinen of Drunadkakar
 tags: []
 name:
   full: Aquillinen of Drunadkakar

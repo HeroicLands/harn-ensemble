@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Inara Serra
-  - 307-1 Courtesan
 tags: []
 name:
   full: Inara Serra

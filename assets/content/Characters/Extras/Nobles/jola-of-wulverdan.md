@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jola of Wulverdan
 tags: []
 name:
   full: Jola of Wulverdan

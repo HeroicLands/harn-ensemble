@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nerele of Sosora
 tags: []
 name:
   full: Nerele of Sosora

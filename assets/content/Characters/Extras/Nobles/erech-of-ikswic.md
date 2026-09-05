@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erech of Ikswic
 tags: []
 name:
   full: Erech of Ikswic

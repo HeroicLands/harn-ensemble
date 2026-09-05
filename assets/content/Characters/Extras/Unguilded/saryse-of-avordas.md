@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryse of Avordas
 tags: []
 name:
   full: Saryse of Avordas

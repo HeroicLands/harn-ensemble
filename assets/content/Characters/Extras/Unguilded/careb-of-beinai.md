@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Careb of Beinai
 tags: []
 name:
   full: Careb of Beinai

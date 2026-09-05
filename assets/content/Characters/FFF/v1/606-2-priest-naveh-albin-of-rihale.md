@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Albin of Rihale
-  - 606-2 Priest Naveh
 tags: []
 name:
   full: Albin of Rihale

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Peshmuga of Mykansenalis
 tags: []
 name:
   full: Peshmuga of Mykansenalis

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kit'tiara Wampusha
-  - 206-3 Hunter Bujoc
 tags: []
 name:
   full: Kit'tiara Wampusha

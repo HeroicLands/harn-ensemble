@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uril of Kuldukr
 tags: []
 name:
   full: Uril of Kuldukr

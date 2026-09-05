@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Halmarton of Hosathaen
 tags: []
 name:
   full: Halmarton of Hosathaen

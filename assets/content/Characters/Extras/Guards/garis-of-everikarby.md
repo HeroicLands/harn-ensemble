@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garis of Everikarby
 tags: []
 name:
   full: Garis of Everikarby

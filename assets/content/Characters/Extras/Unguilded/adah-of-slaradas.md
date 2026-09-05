@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Adah of Slaradas
 tags: []
 name:
   full: Adah of Slaradas

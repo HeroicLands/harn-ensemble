@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merala of Quarlis
 tags: []
 name:
   full: Merala of Quarlis

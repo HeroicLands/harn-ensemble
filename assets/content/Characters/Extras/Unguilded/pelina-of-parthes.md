@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelina of Parthes
 tags: []
 name:
   full: Pelina of Parthes

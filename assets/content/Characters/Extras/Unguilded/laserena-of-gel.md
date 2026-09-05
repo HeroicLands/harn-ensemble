@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Laserena of Gel
 tags: []
 name:
   full: Laserena of Gel

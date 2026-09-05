@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Serelyn of Fulkyia
 tags: []
 name:
   full: Serelyn of Fulkyia

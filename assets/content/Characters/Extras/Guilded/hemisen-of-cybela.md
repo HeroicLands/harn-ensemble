@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hemisen of Cybela
 tags: []
 name:
   full: Hemisen of Cybela

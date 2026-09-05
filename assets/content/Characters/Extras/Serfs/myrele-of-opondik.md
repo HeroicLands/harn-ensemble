@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrele of Opondik
 tags: []
 name:
   full: Myrele of Opondik

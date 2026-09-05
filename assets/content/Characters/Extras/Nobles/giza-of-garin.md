@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giza of Garin
 tags: []
 name:
   full: Giza of Garin

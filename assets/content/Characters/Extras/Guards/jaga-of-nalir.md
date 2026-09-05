@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaga of Nalir
 tags: []
 name:
   full: Jaga of Nalir

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breth of Bantarkoff
 tags: []
 name:
   full: Breth of Bantarkoff

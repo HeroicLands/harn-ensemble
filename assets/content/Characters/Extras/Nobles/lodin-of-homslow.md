@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lodin of Homslow
 tags: []
 name:
   full: Lodin of Homslow

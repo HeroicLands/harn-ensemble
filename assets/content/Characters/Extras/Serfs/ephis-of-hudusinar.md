@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ephis of Hudusinar
 tags: []
 name:
   full: Ephis of Hudusinar

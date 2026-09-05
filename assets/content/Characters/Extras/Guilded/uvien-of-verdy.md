@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uvien of Verdy
 tags: []
 name:
   full: Uvien of Verdy

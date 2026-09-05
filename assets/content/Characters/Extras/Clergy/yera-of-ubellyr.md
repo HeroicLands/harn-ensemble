@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yera of Ubellyr
 tags: []
 name:
   full: Yera of Ubellyr

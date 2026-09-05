@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sorabain of Onparsuel
 tags: []
 name:
   full: Sorabain of Onparsuel

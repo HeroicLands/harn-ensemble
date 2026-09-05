@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Penda
 tags: []
 name:
   full: Kistyne of Penda

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amarth of Amath
 tags: []
 name:
   full: Amarth of Amath

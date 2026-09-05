@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gen of Ubers
 tags: []
 name:
   full: Gen of Ubers

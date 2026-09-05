@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kirlinen of Charcaras
 tags: []
 name:
   full: Kirlinen of Charcaras

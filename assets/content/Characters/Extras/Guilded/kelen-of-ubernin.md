@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kelen of Ubernin
 tags: []
 name:
   full: Kelen of Ubernin

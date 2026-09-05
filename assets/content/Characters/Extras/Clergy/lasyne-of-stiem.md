@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasyne of Stiem
 tags: []
 name:
   full: Lasyne of Stiem

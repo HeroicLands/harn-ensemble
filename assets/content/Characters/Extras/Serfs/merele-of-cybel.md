@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merele of Cybel
 tags: []
 name:
   full: Merele of Cybel

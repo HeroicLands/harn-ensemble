@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breg of Amath
 tags: []
 name:
   full: Breg of Amath

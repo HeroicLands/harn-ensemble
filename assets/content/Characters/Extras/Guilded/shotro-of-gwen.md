@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shotro of Gwen
 tags: []
 name:
   full: Shotro of Gwen

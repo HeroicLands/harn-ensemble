@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gina of Mund
 tags: []
 name:
   full: Gina of Mund

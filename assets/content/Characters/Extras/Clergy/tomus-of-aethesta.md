@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tomus of Aethesta
 tags: []
 name:
   full: Tomus of Aethesta

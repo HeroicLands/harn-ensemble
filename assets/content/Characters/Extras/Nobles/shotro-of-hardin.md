@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shotro of Hardin
 tags: []
 name:
   full: Shotro of Hardin

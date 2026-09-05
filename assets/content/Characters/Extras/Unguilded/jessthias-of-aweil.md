@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jessthias of Aweil
 tags: []
 name:
   full: Jessthias of Aweil

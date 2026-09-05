@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herva of Quirien
 tags: []
 name:
   full: Herva of Quirien

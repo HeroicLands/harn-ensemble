@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Koraxa of Iarad
 tags: []
 name:
   full: Veteran Koraxa of Iarad

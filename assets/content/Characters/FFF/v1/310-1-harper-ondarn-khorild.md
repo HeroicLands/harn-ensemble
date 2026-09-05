@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ondarn Khorild
-  - 310-1 Harper
 tags: []
 name:
   full: Ondarn Khorild

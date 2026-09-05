@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Maccus of Tixena
-  - 703-1 Shek Pvar Jmorvi
 tags: []
 name:
   full: Maccus of Tixena

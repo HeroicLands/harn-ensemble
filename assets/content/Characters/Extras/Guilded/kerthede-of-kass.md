@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerthede of Kass
 tags: []
 name:
   full: Kerthede of Kass

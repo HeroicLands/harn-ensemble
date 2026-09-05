@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Anerien
 tags: []
 name:
   full: Telsa of Anerien

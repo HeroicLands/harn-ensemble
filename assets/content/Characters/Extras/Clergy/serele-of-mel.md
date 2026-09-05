@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Serele of Mel
 tags: []
 name:
   full: Serele of Mel

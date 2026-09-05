@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sta of Partus
 tags: []
 name:
   full: Sta of Partus

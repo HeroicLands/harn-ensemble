@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chaklyn of Domel
 tags: []
 name:
   full: Chaklyn of Domel

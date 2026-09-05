@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Esarl
 tags: []
 name:
   full: Tamyth of Esarl

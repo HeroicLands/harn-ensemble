@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rae of Sarlin
 tags: []
 name:
   full: Rae of Sarlin

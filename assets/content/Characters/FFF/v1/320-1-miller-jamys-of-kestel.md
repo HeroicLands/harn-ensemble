@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Jamys of Kestel
-  - 320-1 Miller
 tags: []
 name:
   full: Jamys of Kestel

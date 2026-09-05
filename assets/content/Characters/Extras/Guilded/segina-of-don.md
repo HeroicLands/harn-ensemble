@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Don
 tags: []
 name:
   full: Segina of Don

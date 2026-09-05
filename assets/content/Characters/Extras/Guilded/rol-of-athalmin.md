@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rol of Athalmin
 tags: []
 name:
   full: Rol of Athalmin

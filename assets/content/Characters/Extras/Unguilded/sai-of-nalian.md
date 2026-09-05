@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sai of Nalian
 tags: []
 name:
   full: Sai of Nalian

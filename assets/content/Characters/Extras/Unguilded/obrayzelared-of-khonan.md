@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obrayzelared of Khonan
 tags: []
 name:
   full: Obrayzelared of Khonan

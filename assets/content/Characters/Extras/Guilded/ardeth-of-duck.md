@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ardeth of Duck
 tags: []
 name:
   full: Ardeth of Duck

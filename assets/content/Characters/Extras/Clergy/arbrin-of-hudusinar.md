@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbrin of Hudusinar
 tags: []
 name:
   full: Arbrin of Hudusinar

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crasha of Vaben
 tags: []
 name:
   full: Crasha of Vaben

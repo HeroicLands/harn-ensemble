@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Cadrunen
 tags: []
 name:
   full: Tabifa of Cadrunen

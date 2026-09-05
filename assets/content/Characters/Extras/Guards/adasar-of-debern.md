@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Adasar of Debern
 tags: []
 name:
   full: Adasar of Debern

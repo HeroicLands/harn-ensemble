@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Hilrichmarbeda
 tags: []
 name:
   full: Kes of Hilrichmarbeda

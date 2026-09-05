@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gelda of Kare
 tags: []
 name:
   full: Gelda of Kare

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Owain of Gevrael
 tags: []
 name:
   full: Owain of Gevrael

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marant of Merros
 tags: []
 name:
   full: Marant of Merros

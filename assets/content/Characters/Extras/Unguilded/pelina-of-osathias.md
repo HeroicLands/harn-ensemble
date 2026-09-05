@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelina of Osathias
 tags: []
 name:
   full: Pelina of Osathias

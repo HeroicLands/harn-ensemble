@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bras of Harass
 tags: []
 name:
   full: Bras of Harass

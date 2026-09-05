@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gruldel of Ibin
 tags: []
 name:
   full: Gruldel of Ibin

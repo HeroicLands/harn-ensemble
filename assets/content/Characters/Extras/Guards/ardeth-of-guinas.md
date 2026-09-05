@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ardeth of Guinas
 tags: []
 name:
   full: Ardeth of Guinas

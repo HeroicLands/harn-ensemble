@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Symdal
 tags: []
 name:
   full: Raeda of Symdal

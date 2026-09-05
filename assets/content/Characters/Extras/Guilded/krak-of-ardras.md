@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Krak of Ardras
 tags: []
 name:
   full: Krak of Ardras

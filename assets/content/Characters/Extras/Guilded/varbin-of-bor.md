@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Varbin of Bor
 tags: []
 name:
   full: Varbin of Bor

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusil of Dysel
 tags: []
 name:
   full: Lusil of Dysel

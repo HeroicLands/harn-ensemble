@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Narik of Koruarr
 tags: []
 name:
   full: Narik of Koruarr

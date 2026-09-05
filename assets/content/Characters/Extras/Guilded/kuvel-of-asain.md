@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kuvel of Asain
 tags: []
 name:
   full: Kuvel of Asain

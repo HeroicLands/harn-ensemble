@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Daroos
 tags: []
 name:
   full: Tabifa of Daroos

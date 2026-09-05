@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Varadas
 tags: []
 name:
   full: Sarin of Varadas

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raena of Sethen
 tags: []
 name:
   full: Raena of Sethen

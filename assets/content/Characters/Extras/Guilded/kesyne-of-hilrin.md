@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kesyne of Hilrin
 tags: []
 name:
   full: Kesyne of Hilrin

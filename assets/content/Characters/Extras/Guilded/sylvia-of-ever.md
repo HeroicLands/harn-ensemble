@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Ever
 tags: []
 name:
   full: Sylvia of Ever

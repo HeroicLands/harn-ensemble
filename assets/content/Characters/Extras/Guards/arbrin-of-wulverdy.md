@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbrin of Wulverdy
 tags: []
 name:
   full: Arbrin of Wulverdy

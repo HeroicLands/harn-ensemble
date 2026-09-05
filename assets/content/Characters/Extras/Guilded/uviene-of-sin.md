@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uviene of Sin
 tags: []
 name:
   full: Uviene of Sin

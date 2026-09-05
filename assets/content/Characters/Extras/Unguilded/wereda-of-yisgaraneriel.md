@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wereda of Yisgaraneriel
 tags: []
 name:
   full: Wereda of Yisgaraneriel

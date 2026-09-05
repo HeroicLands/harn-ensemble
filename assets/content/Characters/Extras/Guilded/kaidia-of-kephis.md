@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Kephis
 tags: []
 name:
   full: Kaidia of Kephis

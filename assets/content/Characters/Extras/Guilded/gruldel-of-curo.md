@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gruldel of Curo
 tags: []
 name:
   full: Gruldel of Curo

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Hylin
 tags: []
 name:
   full: Piria of Hylin

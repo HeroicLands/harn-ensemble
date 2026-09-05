@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jend of Kapirethan
 tags: []
 name:
   full: Jend of Kapirethan

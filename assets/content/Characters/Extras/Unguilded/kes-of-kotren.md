@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Kotren
 tags: []
 name:
   full: Kes of Kotren

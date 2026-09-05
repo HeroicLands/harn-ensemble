@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gruldel of Wytelburitta
 tags: []
 name:
   full: Gruldel of Wytelburitta

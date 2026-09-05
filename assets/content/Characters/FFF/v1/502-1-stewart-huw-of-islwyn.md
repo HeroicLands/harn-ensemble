@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Huw of Islwyn
-  - 502-1 Stewart
 tags: []
 name:
   full: Huw of Islwyn

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Melical of Weth
 tags: []
 name:
   full: Melical of Weth

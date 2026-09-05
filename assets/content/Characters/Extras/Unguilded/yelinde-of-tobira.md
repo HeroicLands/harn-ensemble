@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yelinde of Tobira
 tags: []
 name:
   full: Yelinde of Tobira

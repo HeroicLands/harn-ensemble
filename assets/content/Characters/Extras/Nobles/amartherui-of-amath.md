@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amartherui of Amath
 tags: []
 name:
   full: Amartherui of Amath

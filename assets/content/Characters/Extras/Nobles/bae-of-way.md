@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Way
 tags: []
 name:
   full: Bae of Way

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pasun of Dybarn
 tags: []
 name:
   full: Pasun of Dybarn

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jesa of Sidethasil
 tags: []
 name:
   full: Jesa of Sidethasil

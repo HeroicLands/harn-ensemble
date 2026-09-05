@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garil of Intrenalir
 tags: []
 name:
   full: Garil of Intrenalir

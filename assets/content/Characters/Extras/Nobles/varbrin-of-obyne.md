@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Varbrin of Obyne
 tags: []
 name:
   full: Varbrin of Obyne

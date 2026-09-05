@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Lundondik
 tags: []
 name:
   full: Terba of Lundondik

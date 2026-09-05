@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cholayn of Varo
 tags: []
 name:
   full: Cholayn of Varo

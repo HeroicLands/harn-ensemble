@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rokki of Obyne
 tags: []
 name:
   full: Rokki of Obyne

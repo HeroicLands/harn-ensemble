@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerthede of Geldan
 tags: []
 name:
   full: Kerthede of Geldan

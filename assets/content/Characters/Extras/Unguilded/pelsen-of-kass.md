@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelsen of Kass
 tags: []
 name:
   full: Pelsen of Kass

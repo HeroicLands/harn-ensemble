@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jeril of Dybarn
 tags: []
 name:
   full: Jeril of Dybarn

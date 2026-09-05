@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Kephis
 tags: []
 name:
   full: Bae of Kephis

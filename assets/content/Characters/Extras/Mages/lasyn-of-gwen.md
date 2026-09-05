@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasyn of Gwen
 tags: []
 name:
   full: Lasyn of Gwen

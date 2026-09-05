@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meral of Lorin
 tags: []
 name:
   full: Meral of Lorin

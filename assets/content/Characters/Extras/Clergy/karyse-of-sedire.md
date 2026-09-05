@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyse of Sedire
 tags: []
 name:
   full: Karyse of Sedire

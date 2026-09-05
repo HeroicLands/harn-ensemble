@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raenar of Ordas
 tags: []
 name:
   full: Raenar of Ordas

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yeral of Ren
 tags: []
 name:
   full: Yeral of Ren

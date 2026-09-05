@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Clern
 tags: []
 name:
   full: Segina of Clern

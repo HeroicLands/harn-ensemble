@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lobir of Hipaeus
 tags: []
 name:
   full: Lobir of Hipaeus

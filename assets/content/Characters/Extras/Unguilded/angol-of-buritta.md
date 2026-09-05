@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angol of Buritta
 tags: []
 name:
   full: Angol of Buritta

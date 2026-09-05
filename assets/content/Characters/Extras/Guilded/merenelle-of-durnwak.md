@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merenelle of Durnwak
 tags: []
 name:
   full: Merenelle of Durnwak

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallis of Armelen
 tags: []
 name:
   full: Pallis of Armelen

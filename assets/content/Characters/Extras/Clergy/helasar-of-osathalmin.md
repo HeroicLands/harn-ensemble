@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helasar of Osathalmin
 tags: []
 name:
   full: Helasar of Osathalmin

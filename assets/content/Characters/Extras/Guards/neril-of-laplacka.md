@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Neril of Laplacka
 tags: []
 name:
   full: Neril of Laplacka

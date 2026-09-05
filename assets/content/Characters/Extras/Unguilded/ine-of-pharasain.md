@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ine of Pharasain
 tags: []
 name:
   full: Ine of Pharasain

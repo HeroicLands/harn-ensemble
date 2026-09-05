@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sir Egar Olandau
-  - 507-1 Fighting Order HH
 tags: []
 name:
   full: Sir Egar Olandau

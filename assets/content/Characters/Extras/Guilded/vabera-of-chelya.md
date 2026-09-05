@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vabera of Chelya
 tags: []
 name:
   full: Vabera of Chelya

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Murty
 tags: []
 name:
   full: Kaidia of Murty

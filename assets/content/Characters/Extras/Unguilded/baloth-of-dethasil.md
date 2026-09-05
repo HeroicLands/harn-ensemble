@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Baloth of Dethasil
 tags: []
 name:
   full: Baloth of Dethasil

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Umaka
-  - 802b Gargu-Hyeka Queen
 tags: []
 name:
   full: Umaka

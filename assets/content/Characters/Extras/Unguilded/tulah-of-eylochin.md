@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tulah of Eylochin
 tags: []
 name:
   full: Tulah of Eylochin

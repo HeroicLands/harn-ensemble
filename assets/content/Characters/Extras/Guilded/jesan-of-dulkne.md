@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jesan of Dulkne
 tags: []
 name:
   full: Jesan of Dulkne

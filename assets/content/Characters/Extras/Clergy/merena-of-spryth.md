@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merena of Spryth
 tags: []
 name:
   full: Merena of Spryth

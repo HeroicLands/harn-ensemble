@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallis of Vanthesta
 tags: []
 name:
   full: Pallis of Vanthesta

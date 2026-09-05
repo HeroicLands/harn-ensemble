@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Bor
 tags: []
 name:
   full: Daka of Bor

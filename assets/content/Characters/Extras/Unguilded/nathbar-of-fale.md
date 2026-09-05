@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nathbar of Fale
 tags: []
 name:
   full: Nathbar of Fale

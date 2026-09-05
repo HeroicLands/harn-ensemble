@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Tixenary
 tags: []
 name:
   full: Sylvia of Tixenary

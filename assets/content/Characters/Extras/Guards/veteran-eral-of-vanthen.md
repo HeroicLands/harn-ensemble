@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Eral of Vanthen
 tags: []
 name:
   full: Veteran Eral of Vanthen

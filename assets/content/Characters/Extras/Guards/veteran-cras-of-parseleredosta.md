@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Cras of Parseleredosta
 tags: []
 name:
   full: Veteran Cras of Parseleredosta

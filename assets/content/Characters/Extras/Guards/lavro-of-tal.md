@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lavro of Tal
 tags: []
 name:
   full: Lavro of Tal

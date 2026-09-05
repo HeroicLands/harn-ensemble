@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarina of Tabralgurth
 tags: []
 name:
   full: Sarina of Tabralgurth

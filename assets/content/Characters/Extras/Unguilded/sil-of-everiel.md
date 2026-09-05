@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sil of Everiel
 tags: []
 name:
   full: Sil of Everiel

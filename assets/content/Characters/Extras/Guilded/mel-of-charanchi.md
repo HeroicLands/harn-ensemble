@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mel of Charanchi
 tags: []
 name:
   full: Mel of Charanchi

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Soline of Dethaen
 tags: []
 name:
   full: Soline of Dethaen

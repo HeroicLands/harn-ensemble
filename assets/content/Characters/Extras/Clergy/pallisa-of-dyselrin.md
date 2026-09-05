@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallisa of Dyselrin
 tags: []
 name:
   full: Pallisa of Dyselrin

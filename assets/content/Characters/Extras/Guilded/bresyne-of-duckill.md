@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyne of Duckill
 tags: []
 name:
   full: Bresyne of Duckill

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewena of Stokos
 tags: []
 name:
   full: Ewena of Stokos

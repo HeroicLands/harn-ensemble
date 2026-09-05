@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rybin of Provin
 tags: []
 name:
   full: Rybin of Provin

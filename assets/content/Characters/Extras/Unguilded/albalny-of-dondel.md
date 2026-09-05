@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Dondel
 tags: []
 name:
   full: Albalny of Dondel

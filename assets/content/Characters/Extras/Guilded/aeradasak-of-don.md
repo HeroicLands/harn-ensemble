@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aeradasak of Don
 tags: []
 name:
   full: Aeradasak of Don

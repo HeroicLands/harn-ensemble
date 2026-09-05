@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cholayn of Varsten
 tags: []
 name:
   full: Cholayn of Varsten

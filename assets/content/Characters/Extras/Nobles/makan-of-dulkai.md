@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Dulkai
 tags: []
 name:
   full: Makan of Dulkai

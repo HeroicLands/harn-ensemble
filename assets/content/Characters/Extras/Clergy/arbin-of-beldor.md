@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbin of Beldor
 tags: []
 name:
   full: Arbin of Beldor

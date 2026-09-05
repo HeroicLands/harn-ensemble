@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Durkot of Asain
 tags: []
 name:
   full: Durkot of Asain

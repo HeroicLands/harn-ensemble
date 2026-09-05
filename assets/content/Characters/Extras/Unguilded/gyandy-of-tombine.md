@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gyandy of Tombine
 tags: []
 name:
   full: Gyandy of Tombine

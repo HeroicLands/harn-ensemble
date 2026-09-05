@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanishel of Ikswic
 tags: []
 name:
   full: Chanishel of Ikswic

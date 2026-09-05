@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quey of Chorlon
 tags: []
 name:
   full: Quey of Chorlon

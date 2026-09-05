@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Indros of Musbern
 tags: []
 name:
   full: Indros of Musbern

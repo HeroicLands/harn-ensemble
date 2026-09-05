@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Rathasil
 tags: []
 name:
   full: Makan of Rathasil

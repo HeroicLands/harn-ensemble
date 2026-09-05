@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ral of Baldir
 tags: []
 name:
   full: Ral of Baldir

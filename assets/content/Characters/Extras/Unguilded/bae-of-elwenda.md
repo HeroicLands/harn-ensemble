@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Elwenda
 tags: []
 name:
   full: Bae of Elwenda

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Sin
 tags: []
 name:
   full: Kaidia of Sin

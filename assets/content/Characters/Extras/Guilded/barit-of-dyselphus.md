@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Barit of Dyselphus
 tags: []
 name:
   full: Barit of Dyselphus

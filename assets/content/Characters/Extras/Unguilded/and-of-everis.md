@@ -1,6 +1,4 @@
 ---
-aliases:
-  - And of Everis
 tags: []
 name:
   full: And of Everis

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Parmen of Tich
 tags: []
 name:
   full: Parmen of Tich

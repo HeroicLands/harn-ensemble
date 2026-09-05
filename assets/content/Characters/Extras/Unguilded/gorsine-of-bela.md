@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Bela
 tags: []
 name:
   full: Gorsine of Bela

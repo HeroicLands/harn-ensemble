@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solina of Sedirethalesh
 tags: []
 name:
   full: Solina of Sedirethalesh

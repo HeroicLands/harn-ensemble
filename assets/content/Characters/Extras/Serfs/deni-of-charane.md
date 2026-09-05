@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Deni of Charane
 tags: []
 name:
   full: Deni of Charane

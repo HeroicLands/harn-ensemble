@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Lam of Dondech
 tags: []
 name:
   full: Captain Lam of Dondech

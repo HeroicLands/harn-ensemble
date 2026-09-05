@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerila of Charin
 tags: []
 name:
   full: Kerila of Charin

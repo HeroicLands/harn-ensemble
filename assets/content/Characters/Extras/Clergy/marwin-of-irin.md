@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marwin of Irin
 tags: []
 name:
   full: Marwin of Irin

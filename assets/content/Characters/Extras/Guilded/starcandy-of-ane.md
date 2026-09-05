@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Starcandy of Ane
 tags: []
 name:
   full: Starcandy of Ane

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kuvel of Ewel
 tags: []
 name:
   full: Kuvel of Ewel

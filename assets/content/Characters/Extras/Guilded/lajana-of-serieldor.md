@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Serieldor
 tags: []
 name:
   full: Lajana of Serieldor

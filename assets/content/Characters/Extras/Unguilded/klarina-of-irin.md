@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarina of Irin
 tags: []
 name:
   full: Klarina of Irin

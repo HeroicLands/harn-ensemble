@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyn of Tichmarnesku
 tags: []
 name:
   full: Cersyn of Tichmarnesku

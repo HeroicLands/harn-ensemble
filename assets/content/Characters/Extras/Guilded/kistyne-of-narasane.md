@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Narasane
 tags: []
 name:
   full: Kistyne of Narasane

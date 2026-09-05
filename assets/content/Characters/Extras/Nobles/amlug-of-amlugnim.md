@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amlug of Amlugnim
 tags: []
 name:
   full: Amlug of Amlugnim

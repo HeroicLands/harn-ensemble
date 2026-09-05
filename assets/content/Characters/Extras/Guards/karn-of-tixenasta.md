@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karn of Tixenasta
 tags: []
 name:
   full: Karn of Tixenasta

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwena of Varsuel
 tags: []
 name:
   full: Gwena of Varsuel

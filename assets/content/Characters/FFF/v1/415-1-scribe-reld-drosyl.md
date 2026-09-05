@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Reld Drosyl
-  - 415-1 Scribe
 tags: []
 name:
   full: Reld Drosyl

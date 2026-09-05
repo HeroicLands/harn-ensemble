@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Boris of Borskin
 tags: []
 name:
   full: Boris of Borskin

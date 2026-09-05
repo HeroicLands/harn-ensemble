@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sorol of Obelon
 tags: []
 name:
   full: Sorol of Obelon

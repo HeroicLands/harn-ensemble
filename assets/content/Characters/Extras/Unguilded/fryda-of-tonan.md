@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Tonan
 tags: []
 name:
   full: Fryda of Tonan

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Adain of Whyce
 tags: []
 name:
   full: Adain of Whyce

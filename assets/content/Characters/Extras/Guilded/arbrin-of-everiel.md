@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbrin of Everiel
 tags: []
 name:
   full: Arbrin of Everiel

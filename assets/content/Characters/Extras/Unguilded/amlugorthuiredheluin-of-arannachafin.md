@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amlugorthuiredheluin of Arannachafin
 tags: []
 name:
   full: Amlugorthuiredheluin of Arannachafin

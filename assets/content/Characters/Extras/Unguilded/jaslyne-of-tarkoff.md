@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyne of Tarkoff
 tags: []
 name:
   full: Jaslyne of Tarkoff

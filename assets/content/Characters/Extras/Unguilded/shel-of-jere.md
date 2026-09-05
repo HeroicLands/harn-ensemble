@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shel of Jere
 tags: []
 name:
   full: Shel of Jere

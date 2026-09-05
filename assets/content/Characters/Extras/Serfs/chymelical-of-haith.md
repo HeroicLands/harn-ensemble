@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chymelical of Haith
 tags: []
 name:
   full: Chymelical of Haith

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerthede of Ardras
 tags: []
 name:
   full: Kerthede of Ardras

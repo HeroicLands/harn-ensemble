@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chaklyn of Oshon
 tags: []
 name:
   full: Chaklyn of Oshon

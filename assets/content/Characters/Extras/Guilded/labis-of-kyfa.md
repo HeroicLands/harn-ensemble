@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Labis of Kyfa
 tags: []
 name:
   full: Labis of Kyfa

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Payensen
 tags: []
 name:
   full: Borane of Payensen

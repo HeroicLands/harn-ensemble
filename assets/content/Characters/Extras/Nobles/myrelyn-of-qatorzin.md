@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrelyn of Qatorzin
 tags: []
 name:
   full: Myrelyn of Qatorzin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Magnol
 tags: []
 name:
   full: Terba of Magnol

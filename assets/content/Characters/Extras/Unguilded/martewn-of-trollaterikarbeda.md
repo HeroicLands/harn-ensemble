@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Martewn of Trollaterikarbeda
 tags: []
 name:
   full: Martewn of Trollaterikarbeda

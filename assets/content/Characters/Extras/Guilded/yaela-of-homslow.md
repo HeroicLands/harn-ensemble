@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yaela of Homslow
 tags: []
 name:
   full: Yaela of Homslow

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obrayzel of Debern
 tags: []
 name:
   full: Obrayzel of Debern

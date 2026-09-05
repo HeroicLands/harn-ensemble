@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Giron of Tabralen
 tags: []
 name:
   full: Giron of Tabralen

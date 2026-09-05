@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Burkor of Kramel
 tags: []
 name:
   full: Burkor of Kramel

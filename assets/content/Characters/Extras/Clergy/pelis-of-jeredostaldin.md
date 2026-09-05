@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelis of Jeredostaldin
 tags: []
 name:
   full: Pelis of Jeredostaldin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jond of Jaesinda
 tags: []
 name:
   full: Jond of Jaesinda

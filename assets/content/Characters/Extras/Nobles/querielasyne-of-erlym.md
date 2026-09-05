@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Querielasyne of Erlym
 tags: []
 name:
   full: Querielasyne of Erlym

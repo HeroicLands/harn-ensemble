@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ral of Weth
 tags: []
 name:
   full: Ral of Weth

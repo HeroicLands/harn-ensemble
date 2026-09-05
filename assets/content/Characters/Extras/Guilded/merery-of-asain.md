@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Asain
 tags: []
 name:
   full: Merery of Asain

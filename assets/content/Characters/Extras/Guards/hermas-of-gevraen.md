@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hermas of Gevraen
 tags: []
 name:
   full: Hermas of Gevraen

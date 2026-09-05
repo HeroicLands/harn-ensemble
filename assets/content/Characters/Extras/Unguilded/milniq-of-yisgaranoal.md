@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Yisgaranoal
 tags: []
 name:
   full: Milniq of Yisgaranoal

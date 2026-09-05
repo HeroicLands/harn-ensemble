@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Donkey
-  - 418-1 Slave
 tags: []
 name:
   full: Donkey

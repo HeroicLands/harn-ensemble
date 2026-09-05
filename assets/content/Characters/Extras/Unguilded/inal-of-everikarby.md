@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Inal of Everikarby
 tags: []
 name:
   full: Inal of Everikarby

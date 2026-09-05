@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Arad of Valasain
 tags: []
 name:
   full: Veteran Arad of Valasain

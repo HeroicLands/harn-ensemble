@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dir of Amafa
 tags: []
 name:
   full: Dir of Amafa

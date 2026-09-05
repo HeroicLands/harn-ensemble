@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quey of Chelya
 tags: []
 name:
   full: Quey of Chelya

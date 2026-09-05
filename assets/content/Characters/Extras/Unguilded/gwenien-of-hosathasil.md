@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwenien of Hosathasil
 tags: []
 name:
   full: Gwenien of Hosathasil

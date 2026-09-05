@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Serelen of Merak
 tags: []
 name:
   full: Serelen of Merak

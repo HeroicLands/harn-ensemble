@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Tichmar
 tags: []
 name:
   full: Pontous of Tichmar

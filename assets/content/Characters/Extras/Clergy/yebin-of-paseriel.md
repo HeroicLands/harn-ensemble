@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yebin of Paseriel
 tags: []
 name:
   full: Yebin of Paseriel

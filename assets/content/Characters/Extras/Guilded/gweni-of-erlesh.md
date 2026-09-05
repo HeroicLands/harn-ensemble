@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gweni of Erlesh
 tags: []
 name:
   full: Gweni of Erlesh

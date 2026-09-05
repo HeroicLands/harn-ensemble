@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Dybardras
 tags: []
 name:
   full: Kaidia of Dybardras

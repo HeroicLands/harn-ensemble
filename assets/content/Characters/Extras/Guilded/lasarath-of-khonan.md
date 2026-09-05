@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasarath of Khonan
 tags: []
 name:
   full: Lasarath of Khonan

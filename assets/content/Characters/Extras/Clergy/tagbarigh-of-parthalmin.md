@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tagbarigh of Parthalmin
 tags: []
 name:
   full: Tagbarigh of Parthalmin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helis of Krollater
 tags: []
 name:
   full: Helis of Krollater

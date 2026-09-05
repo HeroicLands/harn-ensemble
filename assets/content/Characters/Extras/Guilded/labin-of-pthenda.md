@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Labin of Pthenda
 tags: []
 name:
   full: Labin of Pthenda

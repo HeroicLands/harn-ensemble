@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thasis of Quirien
 tags: []
 name:
   full: Thasis of Quirien

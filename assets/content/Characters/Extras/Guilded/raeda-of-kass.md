@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Kass
 tags: []
 name:
   full: Raeda of Kass

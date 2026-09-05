@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tarlak of Arion
 tags: []
 name:
   full: Tarlak of Arion

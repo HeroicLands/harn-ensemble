@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yagor of Matlim
 tags: []
 name:
   full: Yagor of Matlim

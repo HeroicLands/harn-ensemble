@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Loyril
 tags: []
 name:
   full: Albalny of Loyril

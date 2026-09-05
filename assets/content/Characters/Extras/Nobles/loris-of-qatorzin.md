@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Loris of Qatorzin
 tags: []
 name:
   full: Loris of Qatorzin

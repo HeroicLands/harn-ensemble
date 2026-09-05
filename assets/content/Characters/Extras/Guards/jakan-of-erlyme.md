@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakan of Erlyme
 tags: []
 name:
   full: Jakan of Erlyme

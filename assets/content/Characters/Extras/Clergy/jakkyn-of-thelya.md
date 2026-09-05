@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakkyn of Thelya
 tags: []
 name:
   full: Jakkyn of Thelya

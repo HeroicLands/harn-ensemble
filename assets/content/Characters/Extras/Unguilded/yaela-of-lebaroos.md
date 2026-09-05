@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yaela of Lebaroos
 tags: []
 name:
   full: Yaela of Lebaroos

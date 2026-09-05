@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rond of Keryn
 tags: []
 name:
   full: Rond of Keryn

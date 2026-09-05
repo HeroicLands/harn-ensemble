@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harian of Ardras
 tags: []
 name:
   full: Harian of Ardras

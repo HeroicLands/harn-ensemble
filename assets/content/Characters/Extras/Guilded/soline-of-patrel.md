@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Soline of Patrel
 tags: []
 name:
   full: Soline of Patrel

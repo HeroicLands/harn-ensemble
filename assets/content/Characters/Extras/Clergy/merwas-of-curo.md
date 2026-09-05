@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merwas of Curo
 tags: []
 name:
   full: Merwas of Curo

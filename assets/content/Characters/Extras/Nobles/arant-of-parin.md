@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arant of Parin
 tags: []
 name:
   full: Arant of Parin

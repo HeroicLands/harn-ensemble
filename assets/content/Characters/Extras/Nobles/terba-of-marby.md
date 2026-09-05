@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Marby
 tags: []
 name:
   full: Terba of Marby

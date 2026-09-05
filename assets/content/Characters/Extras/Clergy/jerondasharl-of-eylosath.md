@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jerondasharl of Eylosath
 tags: []
 name:
   full: Jerondasharl of Eylosath

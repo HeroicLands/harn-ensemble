@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Diryn of Slar
 tags: []
 name:
   full: Diryn of Slar

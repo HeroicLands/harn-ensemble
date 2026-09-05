@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sil of Duckill
 tags: []
 name:
   full: Sil of Duckill

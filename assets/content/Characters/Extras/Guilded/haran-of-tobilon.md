@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haran of Tobilon
 tags: []
 name:
   full: Haran of Tobilon

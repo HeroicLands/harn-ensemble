@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Oeif of Turamek
 tags: []
 name:
   full: Oeif of Turamek

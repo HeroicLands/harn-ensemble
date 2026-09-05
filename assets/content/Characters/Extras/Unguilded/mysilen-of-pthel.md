@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mysilen of Pthel
 tags: []
 name:
   full: Mysilen of Pthel

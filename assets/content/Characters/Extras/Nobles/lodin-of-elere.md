@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lodin of Elere
 tags: []
 name:
   full: Lodin of Elere

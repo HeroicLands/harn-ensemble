@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Gorra
 tags: []
 name:
   full: Kistyne of Gorra

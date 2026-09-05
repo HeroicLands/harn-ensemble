@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marwin of Charin
 tags: []
 name:
   full: Marwin of Charin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tarkot of Nar
 tags: []
 name:
   full: Tarkot of Nar

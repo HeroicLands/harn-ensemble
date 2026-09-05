@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lam of Provin
 tags: []
 name:
   full: Lam of Provin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jend of Orlon
 tags: []
 name:
   full: Jend of Orlon

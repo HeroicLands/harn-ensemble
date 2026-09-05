@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angol of Gurmal
 tags: []
 name:
   full: Angol of Gurmal

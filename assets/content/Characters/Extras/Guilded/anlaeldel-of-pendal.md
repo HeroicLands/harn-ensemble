@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaeldel of Pendal
 tags: []
 name:
   full: Anlaeldel of Pendal

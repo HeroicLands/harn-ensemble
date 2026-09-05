@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jasyn of Selesque
 tags: []
 name:
   full: Jasyn of Selesque

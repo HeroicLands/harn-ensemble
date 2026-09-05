@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Ath
 tags: []
 name:
   full: Terba of Ath

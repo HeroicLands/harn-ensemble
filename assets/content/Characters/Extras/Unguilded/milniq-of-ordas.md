@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Ordas
 tags: []
 name:
   full: Milniq of Ordas

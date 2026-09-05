@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lanazir of Onparsel
 tags: []
 name:
   full: Lanazir of Onparsel

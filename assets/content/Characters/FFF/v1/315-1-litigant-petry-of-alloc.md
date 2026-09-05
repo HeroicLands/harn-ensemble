@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Petry of Alloc
-  - 315-1 Litigant
 tags: []
 name:
   full: Petry of Alloc

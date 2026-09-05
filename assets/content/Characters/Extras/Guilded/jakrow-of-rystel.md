@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakrow of Rystel
 tags: []
 name:
   full: Jakrow of Rystel

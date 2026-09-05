@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chaklyn of Gwyffidd
 tags: []
 name:
   full: Chaklyn of Gwyffidd

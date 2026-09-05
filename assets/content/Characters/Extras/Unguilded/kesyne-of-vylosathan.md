@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kesyne of Vylosathan
 tags: []
 name:
   full: Kesyne of Vylosathan

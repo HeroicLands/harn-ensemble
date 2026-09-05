@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crolyn of Sarin
 tags: []
 name:
   full: Crolyn of Sarin

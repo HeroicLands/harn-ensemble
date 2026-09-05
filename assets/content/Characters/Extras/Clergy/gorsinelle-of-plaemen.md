@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsinelle of Plaemen
 tags: []
 name:
   full: Gorsinelle of Plaemen

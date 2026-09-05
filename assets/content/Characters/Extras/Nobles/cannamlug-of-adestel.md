@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cannamlug of Adestel
 tags: []
 name:
   full: Cannamlug of Adestel

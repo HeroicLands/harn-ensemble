@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Brid
 tags: []
 name:
   full: Milniq of Brid

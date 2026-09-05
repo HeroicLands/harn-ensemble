@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Deni of Kariam
 tags: []
 name:
   full: Deni of Kariam

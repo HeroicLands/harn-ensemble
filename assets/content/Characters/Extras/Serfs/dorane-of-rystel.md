@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorane of Rystel
 tags: []
 name:
   full: Dorane of Rystel

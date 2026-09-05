@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Danishemlen of Arad
 tags: []
 name:
   full: Danishemlen of Arad

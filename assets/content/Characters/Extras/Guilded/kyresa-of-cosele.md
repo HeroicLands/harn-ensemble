@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kyresa of Cosele
 tags: []
 name:
   full: Kyresa of Cosele

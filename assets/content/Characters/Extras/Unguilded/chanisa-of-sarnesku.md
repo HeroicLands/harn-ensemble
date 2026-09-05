@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanisa of Sarnesku
 tags: []
 name:
   full: Chanisa of Sarnesku

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalina of Cinbaren
 tags: []
 name:
   full: Kalina of Cinbaren

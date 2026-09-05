@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silen of Merkenos
 tags: []
 name:
   full: Silen of Merkenos

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grallax of Siven
 tags: []
 name:
   full: Grallax of Siven

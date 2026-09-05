@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Ashelya
 tags: []
 name:
   full: Telsa of Ashelya

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Kair
 tags: []
 name:
   full: Telsa of Kair

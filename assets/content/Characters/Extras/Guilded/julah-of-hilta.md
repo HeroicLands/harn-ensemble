@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Julah of Hilta
 tags: []
 name:
   full: Julah of Hilta

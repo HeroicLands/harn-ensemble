@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jeronis of Agarak
 tags: []
 name:
   full: Jeronis of Agarak

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heril of Osanefris
 tags: []
 name:
   full: Heril of Osanefris

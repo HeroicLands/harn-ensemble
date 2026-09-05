@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sir Letos Lamrend
-  - 508-1 Knight Patrician HH
 tags: []
 name:
   full: Sir Letos Lamrend

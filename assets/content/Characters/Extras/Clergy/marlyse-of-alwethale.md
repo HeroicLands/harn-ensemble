@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Alwethale
 tags: []
 name:
   full: Marlyse of Alwethale

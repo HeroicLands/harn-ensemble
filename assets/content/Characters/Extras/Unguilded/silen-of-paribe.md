@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silen of Paribe
 tags: []
 name:
   full: Silen of Paribe

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rakoczi of Aymar
-  - 301-1 Alchemist
 tags: []
 name:
   full: Rakoczi of Aymar

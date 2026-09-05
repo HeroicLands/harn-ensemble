@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mel of Sunis
 tags: []
 name:
   full: Mel of Sunis

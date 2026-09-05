@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaelda of Kater
 tags: []
 name:
   full: Anlaelda of Kater

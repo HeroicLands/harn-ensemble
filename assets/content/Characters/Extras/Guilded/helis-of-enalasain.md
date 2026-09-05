@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helis of Enalasain
 tags: []
 name:
   full: Helis of Enalasain

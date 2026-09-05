@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Utheric of Otek
 tags: []
 name:
   full: Utheric of Otek

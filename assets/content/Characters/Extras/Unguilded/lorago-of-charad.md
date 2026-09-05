@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorago of Charad
 tags: []
 name:
   full: Lorago of Charad

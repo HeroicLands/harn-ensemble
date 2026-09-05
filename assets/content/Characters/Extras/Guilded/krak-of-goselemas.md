@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Krak of Goselemas
 tags: []
 name:
   full: Krak of Goselemas

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mysiline of Melvoen
 tags: []
 name:
   full: Mysiline of Melvoen

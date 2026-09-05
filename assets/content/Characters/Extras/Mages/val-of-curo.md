@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Val of Curo
 tags: []
 name:
   full: Val of Curo

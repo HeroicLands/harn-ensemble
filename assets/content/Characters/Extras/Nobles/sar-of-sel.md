@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Sel
 tags: []
 name:
   full: Sar of Sel

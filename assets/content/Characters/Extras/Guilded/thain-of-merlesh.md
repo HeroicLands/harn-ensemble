@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thain of Merlesh
 tags: []
 name:
   full: Thain of Merlesh

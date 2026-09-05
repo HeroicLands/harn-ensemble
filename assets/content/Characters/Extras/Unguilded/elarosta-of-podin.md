@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elarosta of Podin
 tags: []
 name:
   full: Elarosta of Podin

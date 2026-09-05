@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaela of Obel
 tags: []
 name:
   full: Anlaela of Obel

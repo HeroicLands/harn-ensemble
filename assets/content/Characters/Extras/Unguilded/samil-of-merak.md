@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Samil of Merak
 tags: []
 name:
   full: Samil of Merak

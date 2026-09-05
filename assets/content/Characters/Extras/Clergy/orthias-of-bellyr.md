@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthias of Bellyr
 tags: []
 name:
   full: Orthias of Bellyr

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perline of Quardras
 tags: []
 name:
   full: Perline of Quardras

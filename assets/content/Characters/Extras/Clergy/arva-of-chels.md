@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arva of Chels
 tags: []
 name:
   full: Arva of Chels

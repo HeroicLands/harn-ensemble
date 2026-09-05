@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hadah of Slarad
 tags: []
 name:
   full: Hadah of Slarad

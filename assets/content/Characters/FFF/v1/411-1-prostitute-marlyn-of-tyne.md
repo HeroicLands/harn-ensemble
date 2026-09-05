@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Marlyn of Tyne
-  - 411-1 Prostitute
 tags: []
 name:
   full: Marlyn of Tyne

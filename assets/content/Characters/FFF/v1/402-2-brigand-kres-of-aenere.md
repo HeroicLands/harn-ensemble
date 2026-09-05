@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kres of Aenere
-  - 402-2 Brigand
 tags: []
 name:
   full: Kres of Aenere

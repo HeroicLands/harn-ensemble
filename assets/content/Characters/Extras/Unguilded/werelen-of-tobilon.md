@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werelen of Tobilon
 tags: []
 name:
   full: Werelen of Tobilon

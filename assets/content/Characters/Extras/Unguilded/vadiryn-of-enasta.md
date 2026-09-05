@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vadiryn of Enasta
 tags: []
 name:
   full: Vadiryn of Enasta

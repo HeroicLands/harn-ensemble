@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sat of Dulkai
 tags: []
 name:
   full: Sat of Dulkai

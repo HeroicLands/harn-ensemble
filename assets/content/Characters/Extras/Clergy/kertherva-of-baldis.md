@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kertherva of Baldis
 tags: []
 name:
   full: Kertherva of Baldis

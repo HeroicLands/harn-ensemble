@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jondasharqueline of Sprythsen
 tags: []
 name:
   full: Jondasharqueline of Sprythsen

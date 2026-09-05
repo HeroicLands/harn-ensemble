@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyn of Balin
 tags: []
 name:
   full: Jaslyn of Balin

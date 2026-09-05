@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gine of Sar
 tags: []
 name:
   full: Gine of Sar

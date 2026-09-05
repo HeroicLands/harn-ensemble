@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyne of Elwen
 tags: []
 name:
   full: Cheselyne of Elwen

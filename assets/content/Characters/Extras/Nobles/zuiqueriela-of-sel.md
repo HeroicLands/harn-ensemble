@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuiqueriela of Sel
 tags: []
 name:
   full: Zuiqueriela of Sel

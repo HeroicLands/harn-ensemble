@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Semis of Okren
 tags: []
 name:
   full: Semis of Okren

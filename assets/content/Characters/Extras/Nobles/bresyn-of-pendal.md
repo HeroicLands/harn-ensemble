@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyn of Pendal
 tags: []
 name:
   full: Bresyn of Pendal

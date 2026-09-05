@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elda of Dethes
 tags: []
 name:
   full: Elda of Dethes

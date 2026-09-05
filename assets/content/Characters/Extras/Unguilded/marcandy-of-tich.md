@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marcandy of Tich
 tags: []
 name:
   full: Marcandy of Tich

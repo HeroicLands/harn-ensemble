@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breth of Merlesh
 tags: []
 name:
   full: Breth of Merlesh

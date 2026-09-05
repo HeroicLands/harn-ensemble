@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Horis of Gwenda
 tags: []
 name:
   full: Horis of Gwenda

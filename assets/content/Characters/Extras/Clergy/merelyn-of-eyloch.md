@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Eyloch
 tags: []
 name:
   full: Merelyn of Eyloch

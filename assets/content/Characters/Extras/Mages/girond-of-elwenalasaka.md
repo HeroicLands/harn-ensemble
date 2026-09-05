@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Girond of Elwenalasaka
 tags: []
 name:
   full: Girond of Elwenalasaka

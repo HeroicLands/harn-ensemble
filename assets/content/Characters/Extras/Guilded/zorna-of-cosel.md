@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Cosel
 tags: []
 name:
   full: Zorna of Cosel

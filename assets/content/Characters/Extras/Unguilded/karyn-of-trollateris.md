@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyn of Trollateris
 tags: []
 name:
   full: Karyn of Trollateris

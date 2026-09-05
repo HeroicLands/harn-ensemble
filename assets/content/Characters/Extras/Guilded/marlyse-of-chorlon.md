@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Chorlon
 tags: []
 name:
   full: Marlyse of Chorlon

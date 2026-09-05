@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamisene of Kyfa
 tags: []
 name:
   full: Tamisene of Kyfa

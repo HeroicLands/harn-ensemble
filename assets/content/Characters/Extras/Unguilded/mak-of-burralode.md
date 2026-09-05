@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mak of Burralode
 tags: []
 name:
   full: Mak of Burralode

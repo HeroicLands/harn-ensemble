@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelinde of Gevraelin
 tags: []
 name:
   full: Pelinde of Gevraelin

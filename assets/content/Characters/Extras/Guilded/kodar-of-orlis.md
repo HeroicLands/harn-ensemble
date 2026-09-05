@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kodar of Orlis
 tags: []
 name:
   full: Kodar of Orlis

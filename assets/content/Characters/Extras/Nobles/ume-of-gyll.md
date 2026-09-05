@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ume of Gyll
 tags: []
 name:
   full: Ume of Gyll

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Molanas of Loyril
 tags: []
 name:
   full: Molanas of Loyril

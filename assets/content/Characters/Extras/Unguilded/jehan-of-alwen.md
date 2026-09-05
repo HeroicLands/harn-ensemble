@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jehan of Alwen
 tags: []
 name:
   full: Jehan of Alwen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Larm of Domerak
 tags: []
 name:
   full: Larm of Domerak

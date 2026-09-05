@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breth of Mar
 tags: []
 name:
   full: Breth of Mar

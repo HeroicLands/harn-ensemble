@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amarthor of Bronadui
 tags: []
 name:
   full: Amarthor of Bronadui

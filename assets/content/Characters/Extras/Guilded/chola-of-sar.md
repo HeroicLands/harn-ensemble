@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Sar
 tags: []
 name:
   full: Chola of Sar

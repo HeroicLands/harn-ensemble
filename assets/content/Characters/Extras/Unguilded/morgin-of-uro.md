@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Morgin of Uro
 tags: []
 name:
   full: Morgin of Uro

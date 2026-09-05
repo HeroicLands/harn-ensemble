@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Akeur
-  - 804c Gargu-Khanu Gladiator
 tags: []
 name:
   full: Akeur

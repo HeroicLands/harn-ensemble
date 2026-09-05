@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ryle of Zenda
 tags: []
 name:
   full: Ryle of Zenda

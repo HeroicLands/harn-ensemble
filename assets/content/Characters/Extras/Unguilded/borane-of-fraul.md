@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Fraul
 tags: []
 name:
   full: Borane of Fraul

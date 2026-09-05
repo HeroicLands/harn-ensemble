@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Fran of Kramelesque
 tags: []
 name:
   full: Captain Fran of Kramelesque

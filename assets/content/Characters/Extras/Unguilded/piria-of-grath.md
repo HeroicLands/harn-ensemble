@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Grath
 tags: []
 name:
   full: Piria of Grath

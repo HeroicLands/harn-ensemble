@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piltain of Asain
 tags: []
 name:
   full: Piltain of Asain

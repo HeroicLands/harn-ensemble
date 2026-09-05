@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hobir of Esaan
 tags: []
 name:
   full: Hobir of Esaan

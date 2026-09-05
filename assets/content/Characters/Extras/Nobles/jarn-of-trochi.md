@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarn of Trochi
 tags: []
 name:
   full: Jarn of Trochi

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Rolanazir of Then
 tags: []
 name:
   full: Veteran Rolanazir of Then

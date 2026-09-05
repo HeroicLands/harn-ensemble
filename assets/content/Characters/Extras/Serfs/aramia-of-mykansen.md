@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Mykansen
 tags: []
 name:
   full: Aramia of Mykansen

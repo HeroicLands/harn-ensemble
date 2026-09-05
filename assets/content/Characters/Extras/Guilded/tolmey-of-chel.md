@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Chel
 tags: []
 name:
   full: Tolmey of Chel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Parsumen of Gwen
 tags: []
 name:
   full: Captain Parsumen of Gwen

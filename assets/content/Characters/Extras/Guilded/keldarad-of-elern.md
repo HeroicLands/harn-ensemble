@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keldarad of Elern
 tags: []
 name:
   full: Keldarad of Elern

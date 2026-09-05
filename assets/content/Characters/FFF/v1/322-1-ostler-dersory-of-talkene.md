@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dersory of Talkene
-  - 322-1 Ostler
 tags: []
 name:
   full: Dersory of Talkene

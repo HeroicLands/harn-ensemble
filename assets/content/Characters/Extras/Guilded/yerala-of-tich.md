@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yerala of Tich
 tags: []
 name:
   full: Yerala of Tich

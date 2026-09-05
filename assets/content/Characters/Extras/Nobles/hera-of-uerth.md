@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hera of Uerth
 tags: []
 name:
   full: Hera of Uerth

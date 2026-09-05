@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyn of Harass
 tags: []
 name:
   full: Karyn of Harass

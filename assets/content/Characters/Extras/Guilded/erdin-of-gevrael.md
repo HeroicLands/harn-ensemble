@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erdin of Gevrael
 tags: []
 name:
   full: Erdin of Gevrael

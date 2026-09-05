@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kelen of Neris
 tags: []
 name:
   full: Kelen of Neris

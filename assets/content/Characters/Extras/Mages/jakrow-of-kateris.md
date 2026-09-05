@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakrow of Kateris
 tags: []
 name:
   full: Jakrow of Kateris

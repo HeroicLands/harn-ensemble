@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ginelle of Elen
 tags: []
 name:
   full: Ginelle of Elen

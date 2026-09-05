@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bras of Arin
 tags: []
 name:
   full: Bras of Arin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jithin of Ubern
 tags: []
 name:
   full: Jithin of Ubern

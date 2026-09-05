@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amlug of Amdir
 tags: []
 name:
   full: Amlug of Amdir

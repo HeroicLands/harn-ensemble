@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Querenelle of Gorra
 tags: []
 name:
   full: Querenelle of Gorra

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Feldarad of Leredostaldim
 tags: []
 name:
   full: Veteran Feldarad of Leredostaldim

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelen of Plaemen
 tags: []
 name:
   full: Merelen of Plaemen

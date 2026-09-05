@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dickon of Kephis
 tags: []
 name:
   full: Dickon of Kephis

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelen of Ane
 tags: []
 name:
   full: Merelen of Ane

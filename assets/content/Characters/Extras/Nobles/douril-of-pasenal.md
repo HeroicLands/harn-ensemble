@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Douril of Pasenal
 tags: []
 name:
   full: Douril of Pasenal

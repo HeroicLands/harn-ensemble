@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Ena
 tags: []
 name:
   full: Tolmey of Ena

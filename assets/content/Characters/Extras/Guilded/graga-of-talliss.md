@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Graga of Talliss
 tags: []
 name:
   full: Graga of Talliss

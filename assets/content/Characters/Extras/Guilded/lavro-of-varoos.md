@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lavro of Varoos
 tags: []
 name:
   full: Lavro of Varoos

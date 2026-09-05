@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amruphen of Calen
 tags: []
 name:
   full: Amruphen of Calen

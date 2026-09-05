@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyne of Lumeden
 tags: []
 name:
   full: Cersyne of Lumeden

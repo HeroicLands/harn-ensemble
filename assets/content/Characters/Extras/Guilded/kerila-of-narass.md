@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerila of Narass
 tags: []
 name:
   full: Kerila of Narass

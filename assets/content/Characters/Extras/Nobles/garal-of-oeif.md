@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garal of Oeif
 tags: []
 name:
   full: Garal of Oeif

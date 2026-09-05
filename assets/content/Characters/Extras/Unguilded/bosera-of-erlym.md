@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bosera of Erlym
 tags: []
 name:
   full: Bosera of Erlym

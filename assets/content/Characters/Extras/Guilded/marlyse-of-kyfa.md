@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Kyfa
 tags: []
 name:
   full: Marlyse of Kyfa

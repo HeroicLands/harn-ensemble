@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kiba Tam
-  - 399-1 Other Guilded
 tags: []
 name:
   full: Kiba Tam

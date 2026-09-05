@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Stiem
 tags: []
 name:
   full: Tabifa of Stiem

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sergeant Yerick of Eram
-  - 103-1 Fighting Order Siege Eng
 tags: []
 name:
   full: Sergeant Yerick of Eram

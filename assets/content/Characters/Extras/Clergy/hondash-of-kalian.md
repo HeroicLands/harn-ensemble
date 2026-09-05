@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hondash of Kalian
 tags: []
 name:
   full: Hondash of Kalian

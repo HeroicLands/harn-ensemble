@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Areen of Yorlon
 tags: []
 name:
   full: Areen of Yorlon

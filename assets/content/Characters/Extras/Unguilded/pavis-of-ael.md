@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pavis of Ael
 tags: []
 name:
   full: Pavis of Ael

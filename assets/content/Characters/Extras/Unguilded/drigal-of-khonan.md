@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drigal of Khonan
 tags: []
 name:
   full: Drigal of Khonan

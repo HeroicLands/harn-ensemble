@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Curo
 tags: []
 name:
   full: Zorna of Curo

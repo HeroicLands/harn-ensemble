@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyne of Obeldim
 tags: []
 name:
   full: Merelyne of Obeldim

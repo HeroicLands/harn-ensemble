@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarton of Paseralesh
 tags: []
 name:
   full: Sarton of Paseralesh

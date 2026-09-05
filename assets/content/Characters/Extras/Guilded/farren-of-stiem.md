@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Farren of Stiem
 tags: []
 name:
   full: Farren of Stiem

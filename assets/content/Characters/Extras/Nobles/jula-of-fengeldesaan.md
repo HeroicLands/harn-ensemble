@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jula of Fengeldesaan
 tags: []
 name:
   full: Jula of Fengeldesaan

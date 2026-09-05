@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mereda of Meral
 tags: []
 name:
   full: Mereda of Meral

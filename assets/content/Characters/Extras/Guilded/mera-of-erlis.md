@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mera of Erlis
 tags: []
 name:
   full: Mera of Erlis

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanisa of Fellim
 tags: []
 name:
   full: Chanisa of Fellim

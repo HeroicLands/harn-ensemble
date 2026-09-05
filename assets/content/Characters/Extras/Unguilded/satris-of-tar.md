@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Satris of Tar
 tags: []
 name:
   full: Satris of Tar

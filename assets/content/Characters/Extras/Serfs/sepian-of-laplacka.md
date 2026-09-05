@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sepian of Laplacka
 tags: []
 name:
   full: Sepian of Laplacka

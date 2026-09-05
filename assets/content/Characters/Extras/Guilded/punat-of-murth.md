@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Punat of Murth
 tags: []
 name:
   full: Punat of Murth

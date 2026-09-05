@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Rikarien of Wert
 tags: []
 name:
   full: Veteran Rikarien of Wert

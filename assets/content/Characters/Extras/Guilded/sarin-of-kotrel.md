@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Kotrel
 tags: []
 name:
   full: Sarin of Kotrel

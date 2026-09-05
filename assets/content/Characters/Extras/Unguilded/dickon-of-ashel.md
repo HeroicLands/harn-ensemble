@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dickon of Ashel
 tags: []
 name:
   full: Dickon of Ashel

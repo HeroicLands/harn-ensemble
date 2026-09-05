@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shotro of Iesh
 tags: []
 name:
   full: Shotro of Iesh

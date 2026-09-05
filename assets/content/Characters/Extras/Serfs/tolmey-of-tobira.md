@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Tobira
 tags: []
 name:
   full: Tolmey of Tobira

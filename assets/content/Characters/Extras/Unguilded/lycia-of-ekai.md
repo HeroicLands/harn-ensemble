@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Ekai
 tags: []
 name:
   full: Lycia of Ekai

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Habis of Hudusin
 tags: []
 name:
   full: Habis of Hudusin

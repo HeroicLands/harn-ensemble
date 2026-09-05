@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rackne of Thortul
 tags: []
 name:
   full: Rackne of Thortul

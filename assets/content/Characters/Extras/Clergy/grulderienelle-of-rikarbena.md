@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grulderienelle of Rikarbena
 tags: []
 name:
   full: Grulderienelle of Rikarbena

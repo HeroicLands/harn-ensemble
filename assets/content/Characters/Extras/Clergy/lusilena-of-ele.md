@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusilena of Ele
 tags: []
 name:
   full: Lusilena of Ele

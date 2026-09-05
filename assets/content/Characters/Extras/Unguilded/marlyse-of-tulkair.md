@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Tulkair
 tags: []
 name:
   full: Marlyse of Tulkair

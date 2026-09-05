@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryn of Fraul
 tags: []
 name:
   full: Saryn of Fraul

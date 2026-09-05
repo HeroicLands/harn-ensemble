@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karn of Karin
 tags: []
 name:
   full: Karn of Karin

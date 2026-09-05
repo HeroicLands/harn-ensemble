@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perline of Kai
 tags: []
 name:
   full: Perline of Kai

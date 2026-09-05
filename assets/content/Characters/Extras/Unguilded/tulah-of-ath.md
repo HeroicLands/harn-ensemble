@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tulah of Ath
 tags: []
 name:
   full: Tulah of Ath

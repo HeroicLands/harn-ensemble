@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Mun
 tags: []
 name:
   full: Terba of Mun

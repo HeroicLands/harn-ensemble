@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aloth of Kyfa
 tags: []
 name:
   full: Aloth of Kyfa

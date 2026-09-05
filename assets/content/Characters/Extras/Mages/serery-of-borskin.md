@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Serery of Borskin
 tags: []
 name:
   full: Serery of Borskin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Soline of Kyfa
 tags: []
 name:
   full: Soline of Kyfa

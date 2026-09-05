@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Val of Grath
 tags: []
 name:
   full: Val of Grath

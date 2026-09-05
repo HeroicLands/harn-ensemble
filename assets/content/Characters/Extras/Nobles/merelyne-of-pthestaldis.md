@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyne of Pthestaldis
 tags: []
 name:
   full: Merelyne of Pthestaldis

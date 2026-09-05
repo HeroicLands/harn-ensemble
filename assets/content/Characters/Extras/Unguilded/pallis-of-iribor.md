@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallis of Iribor
 tags: []
 name:
   full: Pallis of Iribor

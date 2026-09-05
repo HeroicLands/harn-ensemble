@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sepian of Arad
 tags: []
 name:
   full: Sepian of Arad

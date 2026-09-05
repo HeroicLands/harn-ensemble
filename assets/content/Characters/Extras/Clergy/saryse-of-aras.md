@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryse of Aras
 tags: []
 name:
   full: Saryse of Aras

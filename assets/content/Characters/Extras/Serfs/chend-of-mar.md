@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chend of Mar
 tags: []
 name:
   full: Chend of Mar

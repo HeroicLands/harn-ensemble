@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silina of Tal
 tags: []
 name:
   full: Silina of Tal

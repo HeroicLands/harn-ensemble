@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Peser of Hosathasil
 tags: []
 name:
   full: Peser of Hosathasil

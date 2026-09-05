@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Parsume of Magarak
 tags: []
 name:
   full: Parsume of Magarak

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marcand of Thorlon
 tags: []
 name:
   full: Marcand of Thorlon

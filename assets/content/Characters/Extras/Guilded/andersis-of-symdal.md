@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Andersis of Symdal
 tags: []
 name:
   full: Andersis of Symdal

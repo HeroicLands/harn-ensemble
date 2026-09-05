@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Elwethade
 tags: []
 name:
   full: Terza of Elwethade

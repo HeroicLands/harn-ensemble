@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Artona of Debern
 tags: []
 name:
   full: Artona of Debern

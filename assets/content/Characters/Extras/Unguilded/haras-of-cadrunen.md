@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haras of Cadrunen
 tags: []
 name:
   full: Haras of Cadrunen

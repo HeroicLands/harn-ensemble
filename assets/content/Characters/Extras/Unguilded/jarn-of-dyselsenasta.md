@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarn of Dyselsenasta
 tags: []
 name:
   full: Jarn of Dyselsenasta

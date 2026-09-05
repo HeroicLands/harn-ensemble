@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Chomel
 tags: []
 name:
   full: Zorna of Chomel

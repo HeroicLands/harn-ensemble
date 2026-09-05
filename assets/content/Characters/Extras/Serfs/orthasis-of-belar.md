@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthasis of Belar
 tags: []
 name:
   full: Orthasis of Belar

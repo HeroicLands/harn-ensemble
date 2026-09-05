@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ashain of Sethsenas
 tags: []
 name:
   full: Ashain of Sethsenas

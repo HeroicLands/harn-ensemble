@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Era of Parselrin
 tags: []
 name:
   full: Era of Parselrin

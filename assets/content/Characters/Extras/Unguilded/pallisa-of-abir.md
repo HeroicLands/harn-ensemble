@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallisa of Abir
 tags: []
 name:
   full: Pallisa of Abir

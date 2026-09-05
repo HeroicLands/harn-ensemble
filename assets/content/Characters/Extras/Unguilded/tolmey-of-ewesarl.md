@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Ewesarl
 tags: []
 name:
   full: Tolmey of Ewesarl

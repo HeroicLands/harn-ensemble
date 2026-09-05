@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Daro
 tags: []
 name:
   full: Makan of Daro

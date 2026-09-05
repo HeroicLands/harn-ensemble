@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarn of Intren
 tags: []
 name:
   full: Jarn of Intren

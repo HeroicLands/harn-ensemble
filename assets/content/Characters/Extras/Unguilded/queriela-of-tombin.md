@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Queriela of Tombin
 tags: []
 name:
   full: Queriela of Tombin

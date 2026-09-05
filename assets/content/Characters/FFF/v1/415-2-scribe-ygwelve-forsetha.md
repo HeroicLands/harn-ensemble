@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ygwelve Forsetha
-  - 415-2 Scribe
 tags: []
 name:
   full: Ygwelve Forsetha

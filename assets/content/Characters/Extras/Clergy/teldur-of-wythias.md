@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Teldur of Wythias
 tags: []
 name:
   full: Teldur of Wythias

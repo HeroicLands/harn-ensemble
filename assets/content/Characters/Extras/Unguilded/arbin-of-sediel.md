@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbin of Sediel
 tags: []
 name:
   full: Arbin of Sediel

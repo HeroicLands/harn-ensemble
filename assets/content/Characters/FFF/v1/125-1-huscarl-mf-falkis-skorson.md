@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Falkis Skorson
-  - 125-1 Huscarl MF
 tags: []
 name:
   full: Falkis Skorson

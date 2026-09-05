@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pamjul of Patren
 tags: []
 name:
   full: Pamjul of Patren

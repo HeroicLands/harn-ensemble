@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ash of Patren
 tags: []
 name:
   full: Ash of Patren

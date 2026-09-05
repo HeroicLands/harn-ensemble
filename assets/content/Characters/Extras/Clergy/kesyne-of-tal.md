@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kesyne of Tal
 tags: []
 name:
   full: Kesyne of Tal

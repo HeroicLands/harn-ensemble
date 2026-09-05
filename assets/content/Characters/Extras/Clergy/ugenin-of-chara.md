@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ugenin of Chara
 tags: []
 name:
   full: Ugenin of Chara

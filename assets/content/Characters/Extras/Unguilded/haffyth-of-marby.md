@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haffyth of Marby
 tags: []
 name:
   full: Haffyth of Marby

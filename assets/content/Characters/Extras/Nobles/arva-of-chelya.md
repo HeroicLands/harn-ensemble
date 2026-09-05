@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arva of Chelya
 tags: []
 name:
   full: Arva of Chelya

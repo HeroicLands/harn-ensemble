@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mya of Risalsin
-  - 601-1 Priestess Agrik
 tags: []
 name:
   full: Mya of Risalsin

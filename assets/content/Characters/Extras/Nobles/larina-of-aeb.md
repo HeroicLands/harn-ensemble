@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Larina of Aeb
 tags: []
 name:
   full: Larina of Aeb

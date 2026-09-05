@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lobir of Orin
 tags: []
 name:
   full: Lobir of Orin

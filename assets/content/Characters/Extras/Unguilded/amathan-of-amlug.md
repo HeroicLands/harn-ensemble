@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amathan of Amlug
 tags: []
 name:
   full: Amathan of Amlug

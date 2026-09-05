@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Queriela of Payensen
 tags: []
 name:
   full: Queriela of Payensen

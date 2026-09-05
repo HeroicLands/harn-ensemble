@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Quarlim
 tags: []
 name:
   full: Forena of Quarlim

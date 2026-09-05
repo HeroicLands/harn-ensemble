@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korak of Kramelvoen
 tags: []
 name:
   full: Korak of Kramelvoen

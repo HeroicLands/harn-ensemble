@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbrin of Placka
 tags: []
 name:
   full: Arbrin of Placka

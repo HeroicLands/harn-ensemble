@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hemis of Aets
 tags: []
 name:
   full: Hemis of Aets

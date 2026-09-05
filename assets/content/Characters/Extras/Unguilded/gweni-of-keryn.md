@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gweni of Keryn
 tags: []
 name:
   full: Gweni of Keryn

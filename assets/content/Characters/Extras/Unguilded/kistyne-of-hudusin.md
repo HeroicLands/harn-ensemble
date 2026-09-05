@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Hudusin
 tags: []
 name:
   full: Kistyne of Hudusin

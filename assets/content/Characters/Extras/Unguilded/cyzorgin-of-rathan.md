@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cyzorgin of Rathan
 tags: []
 name:
   full: Cyzorgin of Rathan

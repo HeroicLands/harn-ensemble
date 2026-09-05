@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Ikswic
 tags: []
 name:
   full: Lajana of Ikswic

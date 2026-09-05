@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwelen of Charass
 tags: []
 name:
   full: Gwelen of Charass

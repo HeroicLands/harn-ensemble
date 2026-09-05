@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerid of Chomelvoen
 tags: []
 name:
   full: Kerid of Chomelvoen

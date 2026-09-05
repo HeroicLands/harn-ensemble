@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Stiem
 tags: []
 name:
   full: Tolmey of Stiem

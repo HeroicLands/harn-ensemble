@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cidinnamarth of Breigancheth
 tags: []
 name:
   full: Cidinnamarth of Breigancheth

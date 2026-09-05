@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piltain of Roll
 tags: []
 name:
   full: Piltain of Roll

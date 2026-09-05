@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwelen of Sel
 tags: []
 name:
   full: Gwelen of Sel

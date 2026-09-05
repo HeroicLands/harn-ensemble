@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Haith
 tags: []
 name:
   full: Kes of Haith

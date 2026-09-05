@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hoban Fiorfohd
-  - 325-2 Pilot
 tags: []
 name:
   full: Hoban Fiorfohd

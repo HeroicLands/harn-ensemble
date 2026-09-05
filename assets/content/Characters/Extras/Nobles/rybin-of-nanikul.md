@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rybin of Nanikul
 tags: []
 name:
   full: Rybin of Nanikul

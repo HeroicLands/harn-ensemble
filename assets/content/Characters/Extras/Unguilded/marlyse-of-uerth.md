@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Uerth
 tags: []
 name:
   full: Marlyse of Uerth

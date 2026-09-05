@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herva of Gwen
 tags: []
 name:
   full: Herva of Gwen

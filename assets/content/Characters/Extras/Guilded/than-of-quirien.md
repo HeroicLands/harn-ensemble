@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Than of Quirien
 tags: []
 name:
   full: Than of Quirien

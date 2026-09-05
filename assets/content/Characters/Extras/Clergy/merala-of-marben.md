@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merala of Marben
 tags: []
 name:
   full: Merala of Marben

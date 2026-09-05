@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarak of Orda
 tags: []
 name:
   full: Sarak of Orda

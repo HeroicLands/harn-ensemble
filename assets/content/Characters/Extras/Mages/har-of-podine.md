@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Har of Podine
 tags: []
 name:
   full: Har of Podine

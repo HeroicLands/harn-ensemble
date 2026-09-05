@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakkyn of Beldan
 tags: []
 name:
   full: Jakkyn of Beldan

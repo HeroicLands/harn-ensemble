@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tarkot of Erlesh
 tags: []
 name:
   full: Tarkot of Erlesh

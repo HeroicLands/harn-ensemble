@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyne of Jurbosq
 tags: []
 name:
   full: Cersyne of Jurbosq

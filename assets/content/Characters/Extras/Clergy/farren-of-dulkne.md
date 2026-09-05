@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Farren of Dulkne
 tags: []
 name:
   full: Farren of Dulkne

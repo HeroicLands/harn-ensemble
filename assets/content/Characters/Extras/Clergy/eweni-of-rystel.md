@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eweni of Rystel
 tags: []
 name:
   full: Eweni of Rystel

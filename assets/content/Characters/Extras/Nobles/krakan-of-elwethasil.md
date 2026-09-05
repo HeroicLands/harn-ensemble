@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Krakan of Elwethasil
 tags: []
 name:
   full: Krakan of Elwethasil

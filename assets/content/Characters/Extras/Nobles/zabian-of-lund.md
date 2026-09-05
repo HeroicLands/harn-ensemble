@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zabian of Lund
 tags: []
 name:
   full: Zabian of Lund

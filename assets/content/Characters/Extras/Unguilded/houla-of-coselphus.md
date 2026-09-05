@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Houla of Coselphus
 tags: []
 name:
   full: Houla of Coselphus

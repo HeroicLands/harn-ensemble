@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helisa of Lorieldesaan
 tags: []
 name:
   full: Helisa of Lorieldesaan

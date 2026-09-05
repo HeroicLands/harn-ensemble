@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Usel of Arthen
 tags: []
 name:
   full: Usel of Arthen

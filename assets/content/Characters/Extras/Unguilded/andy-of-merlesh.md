@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Andy of Merlesh
 tags: []
 name:
   full: Andy of Merlesh

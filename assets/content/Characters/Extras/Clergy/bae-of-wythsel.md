@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Wythsel
 tags: []
 name:
   full: Bae of Wythsel

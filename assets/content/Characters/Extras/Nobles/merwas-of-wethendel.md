@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merwas of Wethendel
 tags: []
 name:
   full: Merwas of Wethendel

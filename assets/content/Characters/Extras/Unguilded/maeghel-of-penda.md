@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghel of Penda
 tags: []
 name:
   full: Maeghel of Penda

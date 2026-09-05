@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arka of Gorra
 tags: []
 name:
   full: Arka of Gorra

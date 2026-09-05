@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kelena of Homelvoen
 tags: []
 name:
   full: Kelena of Homelvoen

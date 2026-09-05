@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Baranchir of Baramathor
 tags: []
 name:
   full: Baranchir of Baramathor

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanisa of Wert
 tags: []
 name:
   full: Chanisa of Wert

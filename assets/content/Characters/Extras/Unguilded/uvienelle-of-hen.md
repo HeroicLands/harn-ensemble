@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uvienelle of Hen
 tags: []
 name:
   full: Uvienelle of Hen

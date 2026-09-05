@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Oshornic
 tags: []
 name:
   full: Tamyth of Oshornic

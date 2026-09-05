@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urbain of Sprythsen
 tags: []
 name:
   full: Urbain of Sprythsen

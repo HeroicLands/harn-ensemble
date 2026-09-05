@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Varbrin of Asarnil
 tags: []
 name:
   full: Varbrin of Asarnil

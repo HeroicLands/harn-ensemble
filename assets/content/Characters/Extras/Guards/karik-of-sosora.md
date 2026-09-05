@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karik of Sosora
 tags: []
 name:
   full: Karik of Sosora

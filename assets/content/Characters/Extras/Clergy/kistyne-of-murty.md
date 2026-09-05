@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Murty
 tags: []
 name:
   full: Kistyne of Murty

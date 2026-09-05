@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tes of Jurbosq
 tags: []
 name:
   full: Tes of Jurbosq

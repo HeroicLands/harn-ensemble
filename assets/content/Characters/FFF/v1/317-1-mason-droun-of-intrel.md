@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Droun of Intrel
-  - 317-1 Mason
 tags: []
 name:
   full: Droun of Intrel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Narael
 tags: []
 name:
   full: Tolmey of Narael

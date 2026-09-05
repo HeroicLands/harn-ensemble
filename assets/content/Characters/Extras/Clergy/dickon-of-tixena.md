@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dickon of Tixena
 tags: []
 name:
   full: Dickon of Tixena

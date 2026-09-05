@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chaklyne of Lebarsin
 tags: []
 name:
   full: Chaklyne of Lebarsin

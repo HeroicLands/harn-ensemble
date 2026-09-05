@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kirlin of Iaradas
 tags: []
 name:
   full: Kirlin of Iaradas

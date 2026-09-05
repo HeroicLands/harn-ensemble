@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sai of Clean
 tags: []
 name:
   full: Sai of Clean

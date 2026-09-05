@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Elros of Merin
-  - 705-1 Shek Pvar Odivshe
 tags: []
 name:
   full: Elros of Merin

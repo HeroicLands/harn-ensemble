@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Charcarad
 tags: []
 name:
   full: Kes of Charcarad

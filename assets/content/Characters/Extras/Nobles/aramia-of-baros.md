@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Baros
 tags: []
 name:
   full: Aramia of Baros

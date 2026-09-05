@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Meral of Dysel
 tags: []
 name:
   full: Meral of Dysel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Houla of Wesaldim
 tags: []
 name:
   full: Houla of Wesaldim

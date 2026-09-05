@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Andy of Uro
 tags: []
 name:
   full: Andy of Uro

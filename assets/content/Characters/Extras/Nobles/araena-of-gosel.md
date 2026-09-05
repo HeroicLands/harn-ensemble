@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Araena of Gosel
 tags: []
 name:
   full: Araena of Gosel

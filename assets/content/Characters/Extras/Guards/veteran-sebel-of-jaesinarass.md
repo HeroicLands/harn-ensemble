@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Sebel of Jaesinarass
 tags: []
 name:
   full: Veteran Sebel of Jaesinarass

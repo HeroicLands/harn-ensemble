@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herild of Fraul
 tags: []
 name:
   full: Herild of Fraul

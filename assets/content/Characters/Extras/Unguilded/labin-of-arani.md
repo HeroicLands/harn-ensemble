@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Labin of Arani
 tags: []
 name:
   full: Labin of Arani

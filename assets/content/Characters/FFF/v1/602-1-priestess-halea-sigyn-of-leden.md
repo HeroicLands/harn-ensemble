@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sigyn of Leden
-  - 602-1 Priestess Halea
 tags: []
 name:
   full: Sigyn of Leden

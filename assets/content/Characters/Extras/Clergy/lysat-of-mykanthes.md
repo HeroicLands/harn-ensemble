@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lysat of Mykanthes
 tags: []
 name:
   full: Lysat of Mykanthes

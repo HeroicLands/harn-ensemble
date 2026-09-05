@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Varaner
 tags: []
 name:
   full: Piria of Varaner

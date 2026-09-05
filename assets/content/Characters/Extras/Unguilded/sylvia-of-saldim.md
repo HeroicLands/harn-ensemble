@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Saldim
 tags: []
 name:
   full: Sylvia of Saldim

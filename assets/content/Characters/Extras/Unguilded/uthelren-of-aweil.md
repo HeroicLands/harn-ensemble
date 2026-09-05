@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uthelren of Aweil
 tags: []
 name:
   full: Uthelren of Aweil

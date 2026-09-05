@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Avord
 tags: []
 name:
   full: Segina of Avord

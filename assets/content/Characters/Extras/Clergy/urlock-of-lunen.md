@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urlock of Lunen
 tags: []
 name:
   full: Urlock of Lunen

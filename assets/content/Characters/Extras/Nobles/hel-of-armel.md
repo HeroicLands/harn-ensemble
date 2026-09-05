@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hel of Armel
 tags: []
 name:
   full: Hel of Armel

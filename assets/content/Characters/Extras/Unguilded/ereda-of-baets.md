@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ereda of Baets
 tags: []
 name:
   full: Ereda of Baets

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hennigal of Charcaras
 tags: []
 name:
   full: Hennigal of Charcaras

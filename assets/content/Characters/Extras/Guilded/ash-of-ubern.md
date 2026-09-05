@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ash of Ubern
 tags: []
 name:
   full: Ash of Ubern

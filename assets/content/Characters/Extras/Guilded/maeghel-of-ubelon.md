@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghel of Ubelon
 tags: []
 name:
   full: Maeghel of Ubelon

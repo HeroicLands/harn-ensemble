@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gordy of Flaren
-  - 333-1 Timberwright
 tags: []
 name:
   full: Gordy of Flaren

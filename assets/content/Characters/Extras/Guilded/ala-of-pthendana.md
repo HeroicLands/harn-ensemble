@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ala of Pthendana
 tags: []
 name:
   full: Ala of Pthendana

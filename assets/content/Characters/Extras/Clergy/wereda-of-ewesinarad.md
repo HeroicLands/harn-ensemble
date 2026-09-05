@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Wereda of Ewesinarad
 tags: []
 name:
   full: Wereda of Ewesinarad

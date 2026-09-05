@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kele of Wejik
 tags: []
 name:
   full: Kele of Wejik

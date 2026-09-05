@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cugum of Ciramath
 tags: []
 name:
   full: Cugum of Ciramath

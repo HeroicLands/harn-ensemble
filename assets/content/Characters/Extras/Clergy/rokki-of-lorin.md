@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rokki of Lorin
 tags: []
 name:
   full: Rokki of Lorin

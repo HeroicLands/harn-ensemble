@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyne of Merlesh
 tags: []
 name:
   full: Bresyne of Merlesh

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorane of Chuzyn
 tags: []
 name:
   full: Dorane of Chuzyn

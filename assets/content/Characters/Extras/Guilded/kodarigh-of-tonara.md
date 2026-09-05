@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kodarigh of Tonara
 tags: []
 name:
   full: Kodarigh of Tonara

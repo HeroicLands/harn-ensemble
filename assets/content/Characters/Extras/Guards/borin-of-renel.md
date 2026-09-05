@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borin of Renel
 tags: []
 name:
   full: Borin of Renel

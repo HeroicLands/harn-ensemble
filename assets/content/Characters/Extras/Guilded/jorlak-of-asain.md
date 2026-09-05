@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jorlak of Asain
 tags: []
 name:
   full: Jorlak of Asain

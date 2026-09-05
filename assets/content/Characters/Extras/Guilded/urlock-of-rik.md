@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urlock of Rik
 tags: []
 name:
   full: Urlock of Rik

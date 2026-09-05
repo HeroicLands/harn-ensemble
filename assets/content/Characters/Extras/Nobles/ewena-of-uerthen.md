@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewena of Uerthen
 tags: []
 name:
   full: Ewena of Uerthen

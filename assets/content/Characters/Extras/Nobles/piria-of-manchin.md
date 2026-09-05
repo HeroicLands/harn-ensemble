@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Manchin
 tags: []
 name:
   full: Piria of Manchin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorane of Musbernic
 tags: []
 name:
   full: Dorane of Musbernic

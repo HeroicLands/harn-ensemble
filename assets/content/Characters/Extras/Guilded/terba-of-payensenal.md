@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Payensenal
 tags: []
 name:
   full: Terba of Payensenal

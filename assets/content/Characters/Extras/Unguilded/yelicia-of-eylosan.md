@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yelicia of Eylosan
 tags: []
 name:
   full: Yelicia of Eylosan

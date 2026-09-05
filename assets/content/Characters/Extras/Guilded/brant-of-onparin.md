@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brant of Onparin
 tags: []
 name:
   full: Brant of Onparin

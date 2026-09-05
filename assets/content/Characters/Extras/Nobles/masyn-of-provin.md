@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masyn of Provin
 tags: []
 name:
   full: Masyn of Provin

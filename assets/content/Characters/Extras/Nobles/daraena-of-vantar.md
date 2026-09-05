@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daraena of Vantar
 tags: []
 name:
   full: Daraena of Vantar

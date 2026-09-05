@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sorolyd of Fengel
 tags: []
 name:
   full: Sorolyd of Fengel

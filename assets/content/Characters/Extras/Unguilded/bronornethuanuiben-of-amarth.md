@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bronornethuanuiben of Amarth
 tags: []
 name:
   full: Bronornethuanuiben of Amarth

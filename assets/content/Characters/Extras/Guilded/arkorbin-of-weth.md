@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arkorbin of Weth
 tags: []
 name:
   full: Arkorbin of Weth

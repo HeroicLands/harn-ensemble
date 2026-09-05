@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yera of Parsindalin
 tags: []
 name:
   full: Yera of Parsindalin

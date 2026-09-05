@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Taatulk
-  - 804b Gargu-Kyani Hunter
 tags: []
 name:
   full: Taatulk

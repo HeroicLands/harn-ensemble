@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Geldan of Kalin
 tags: []
 name:
   full: Geldan of Kalin

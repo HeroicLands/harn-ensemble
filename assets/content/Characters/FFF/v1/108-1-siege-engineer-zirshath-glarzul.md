@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zirshath Glarzul
-  - 108-1 Siege Engineer
 tags: []
 name:
   full: Zirshath Glarzul

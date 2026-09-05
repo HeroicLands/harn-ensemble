@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yaela of Loyril
 tags: []
 name:
   full: Yaela of Loyril

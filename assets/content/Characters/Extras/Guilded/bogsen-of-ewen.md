@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bogsen of Ewen
 tags: []
 name:
   full: Bogsen of Ewen

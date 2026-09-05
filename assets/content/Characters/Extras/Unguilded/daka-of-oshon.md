@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Oshon
 tags: []
 name:
   full: Daka of Oshon

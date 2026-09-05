@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Dythsel
 tags: []
 name:
   full: Aramia of Dythsel

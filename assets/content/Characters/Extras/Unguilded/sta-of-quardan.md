@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sta of Quardan
 tags: []
 name:
   full: Sta of Quardan

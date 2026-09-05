@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perlath of Pordas
 tags: []
 name:
   full: Perlath of Pordas

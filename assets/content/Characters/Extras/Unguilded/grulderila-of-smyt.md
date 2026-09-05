@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grulderila of Smyt
 tags: []
 name:
   full: Grulderila of Smyt

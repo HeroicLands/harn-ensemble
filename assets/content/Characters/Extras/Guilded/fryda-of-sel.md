@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Sel
 tags: []
 name:
   full: Fryda of Sel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amathlangrispen of Careb
 tags: []
 name:
   full: Amathlangrispen of Careb

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nat of Karkak
 tags: []
 name:
   full: Nat of Karkak

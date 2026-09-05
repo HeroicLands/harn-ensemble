@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lobir of Cinbardin
 tags: []
 name:
   full: Lobir of Cinbardin

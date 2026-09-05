@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thelren of Lere
 tags: []
 name:
   full: Thelren of Lere

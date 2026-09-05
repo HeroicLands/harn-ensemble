@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Uthelren of Ane
 tags: []
 name:
   full: Veteran Uthelren of Ane

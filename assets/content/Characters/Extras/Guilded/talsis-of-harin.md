@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Talsis of Harin
 tags: []
 name:
   full: Talsis of Harin

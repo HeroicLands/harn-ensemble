@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werena of Wejik
 tags: []
 name:
   full: Werena of Wejik

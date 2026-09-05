@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Karithan of Wesin
 tags: []
 name:
   full: Veteran Karithan of Wesin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakkyn of Dybarsin
 tags: []
 name:
   full: Jakkyn of Dybarsin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Semis of Turathec
 tags: []
 name:
   full: Semis of Turathec

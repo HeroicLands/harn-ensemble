@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Larina of Hubern
 tags: []
 name:
   full: Larina of Hubern

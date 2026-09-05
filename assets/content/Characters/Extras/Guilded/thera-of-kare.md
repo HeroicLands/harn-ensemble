@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thera of Kare
 tags: []
 name:
   full: Thera of Kare

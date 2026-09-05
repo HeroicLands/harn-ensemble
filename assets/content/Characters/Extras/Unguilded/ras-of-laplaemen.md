@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ras of Laplaemen
 tags: []
 name:
   full: Ras of Laplaemen

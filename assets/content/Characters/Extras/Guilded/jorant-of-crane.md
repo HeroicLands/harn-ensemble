@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jorant of Crane
 tags: []
 name:
   full: Jorant of Crane

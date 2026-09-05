@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bar of Charin
 tags: []
 name:
   full: Bar of Charin

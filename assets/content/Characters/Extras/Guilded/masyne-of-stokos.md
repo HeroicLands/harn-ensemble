@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masyne of Stokos
 tags: []
 name:
   full: Masyne of Stokos

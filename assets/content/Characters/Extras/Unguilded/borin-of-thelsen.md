@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borin of Thelsen
 tags: []
 name:
   full: Borin of Thelsen

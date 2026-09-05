@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chaklyn of Armel
 tags: []
 name:
   full: Chaklyn of Armel

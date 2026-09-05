@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Wejik
 tags: []
 name:
   full: Kes of Wejik

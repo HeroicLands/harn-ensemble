@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lamnar of Kapire
 tags: []
 name:
   full: Lamnar of Kapire

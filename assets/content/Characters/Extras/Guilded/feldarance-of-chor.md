@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Feldarance of Chor
 tags: []
 name:
   full: Feldarance of Chor

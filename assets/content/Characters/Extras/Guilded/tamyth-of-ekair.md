@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Ekair
 tags: []
 name:
   full: Tamyth of Ekair

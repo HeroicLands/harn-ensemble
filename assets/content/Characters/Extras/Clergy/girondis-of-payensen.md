@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Girondis of Payensen
 tags: []
 name:
   full: Girondis of Payensen

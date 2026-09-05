@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Byrga of Chel
 tags: []
 name:
   full: Byrga of Chel

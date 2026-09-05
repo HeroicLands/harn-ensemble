@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raela of Varoos
 tags: []
 name:
   full: Raela of Varoos

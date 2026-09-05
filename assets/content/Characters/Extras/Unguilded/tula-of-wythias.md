@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tula of Wythias
 tags: []
 name:
   full: Tula of Wythias

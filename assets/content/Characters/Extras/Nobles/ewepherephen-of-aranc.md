@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewepherephen of Aranc
 tags: []
 name:
   full: Ewepherephen of Aranc

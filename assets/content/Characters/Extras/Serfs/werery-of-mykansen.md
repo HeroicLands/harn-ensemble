@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werery of Mykansen
 tags: []
 name:
   full: Werery of Mykansen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Querela of Symdal
 tags: []
 name:
   full: Querela of Symdal

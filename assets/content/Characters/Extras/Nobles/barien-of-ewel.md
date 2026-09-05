@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Barien of Ewel
 tags: []
 name:
   full: Barien of Ewel

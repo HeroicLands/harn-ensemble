@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quey of Pariam
 tags: []
 name:
   full: Quey of Pariam

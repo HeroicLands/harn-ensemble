@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shotro of Yorlon
 tags: []
 name:
   full: Shotro of Yorlon

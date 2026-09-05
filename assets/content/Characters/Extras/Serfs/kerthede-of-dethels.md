@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerthede of Dethels
 tags: []
 name:
   full: Kerthede of Dethels

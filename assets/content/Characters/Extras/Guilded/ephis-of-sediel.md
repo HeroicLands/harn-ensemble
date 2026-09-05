@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ephis of Sediel
 tags: []
 name:
   full: Ephis of Sediel

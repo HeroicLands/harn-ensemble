@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Theikak of Agamapel
 tags: []
 name:
   full: Theikak of Agamapel

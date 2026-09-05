@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaela of Kail
 tags: []
 name:
   full: Anlaela of Kail

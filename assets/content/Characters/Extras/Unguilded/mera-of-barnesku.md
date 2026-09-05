@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mera of Barnesku
 tags: []
 name:
   full: Mera of Barnesku

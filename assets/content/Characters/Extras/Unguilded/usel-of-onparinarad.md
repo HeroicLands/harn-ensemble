@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Usel of Onparinarad
 tags: []
 name:
   full: Usel of Onparinarad

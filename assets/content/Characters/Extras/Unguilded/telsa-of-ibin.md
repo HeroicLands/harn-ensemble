@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Ibin
 tags: []
 name:
   full: Telsa of Ibin

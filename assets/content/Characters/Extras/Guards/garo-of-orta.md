@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garo of Orta
 tags: []
 name:
   full: Garo of Orta

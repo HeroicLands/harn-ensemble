@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tula of Jorwynn
 tags: []
 name:
   full: Tula of Jorwynn

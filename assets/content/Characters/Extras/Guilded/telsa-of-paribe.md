@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Paribe
 tags: []
 name:
   full: Telsa of Paribe

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdirvereg of Enamarthedherenamlugnarumuiben
 tags: []
 name:
   full: Amdirvereg of Enamarthedherenamlugnarumuiben

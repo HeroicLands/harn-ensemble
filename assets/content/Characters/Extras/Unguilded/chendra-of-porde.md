@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chendra of Porde
 tags: []
 name:
   full: Chendra of Porde

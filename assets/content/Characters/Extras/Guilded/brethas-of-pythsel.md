@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brethas of Pythsel
 tags: []
 name:
   full: Brethas of Pythsel

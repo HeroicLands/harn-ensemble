@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hobir of Tobir
 tags: []
 name:
   full: Hobir of Tobir

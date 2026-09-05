@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gine of Erlesh
 tags: []
 name:
   full: Gine of Erlesh

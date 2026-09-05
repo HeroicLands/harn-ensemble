@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Umen of Raben
 tags: []
 name:
   full: Umen of Raben

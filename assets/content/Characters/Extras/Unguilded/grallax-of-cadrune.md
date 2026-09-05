@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grallax of Cadrune
 tags: []
 name:
   full: Grallax of Cadrune

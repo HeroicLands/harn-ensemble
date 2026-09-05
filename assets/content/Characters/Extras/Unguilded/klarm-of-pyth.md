@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarm of Pyth
 tags: []
 name:
   full: Klarm of Pyth

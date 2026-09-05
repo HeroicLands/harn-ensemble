@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heric of Eylosath
 tags: []
 name:
   full: Heric of Eylosath

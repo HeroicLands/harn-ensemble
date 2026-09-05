@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Melson of Don
 tags: []
 name:
   full: Melson of Don

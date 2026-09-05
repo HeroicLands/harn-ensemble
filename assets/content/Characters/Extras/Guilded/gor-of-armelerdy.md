@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gor of Armelerdy
 tags: []
 name:
   full: Gor of Armelerdy

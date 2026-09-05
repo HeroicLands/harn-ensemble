@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borana of Nemirin
 tags: []
 name:
   full: Borana of Nemirin

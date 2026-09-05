@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eral of Fulkne
 tags: []
 name:
   full: Eral of Fulkne

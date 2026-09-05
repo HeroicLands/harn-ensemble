@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marak of Mykanthelkuz
 tags: []
 name:
   full: Marak of Mykanthelkuz

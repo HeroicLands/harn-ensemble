@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cidin of Amath
 tags: []
 name:
   full: Cidin of Amath

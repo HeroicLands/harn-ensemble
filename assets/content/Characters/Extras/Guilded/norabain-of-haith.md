@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Norabain of Haith
 tags: []
 name:
   full: Norabain of Haith

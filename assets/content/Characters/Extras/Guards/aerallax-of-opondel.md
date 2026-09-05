@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aerallax of Opondel
 tags: []
 name:
   full: Aerallax of Opondel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Telda of Yisgarad
 tags: []
 name:
   full: Captain Telda of Yisgarad

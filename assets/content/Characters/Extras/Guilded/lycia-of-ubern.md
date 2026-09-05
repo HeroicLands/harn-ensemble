@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Ubern
 tags: []
 name:
   full: Lycia of Ubern

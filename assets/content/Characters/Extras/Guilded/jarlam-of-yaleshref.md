@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarlam of Yaleshref
 tags: []
 name:
   full: Jarlam of Yaleshref

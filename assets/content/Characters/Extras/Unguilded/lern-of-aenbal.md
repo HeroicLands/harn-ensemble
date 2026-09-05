@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lern of Aenbal
 tags: []
 name:
   full: Lern of Aenbal

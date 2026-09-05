@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Que of Brid
 tags: []
 name:
   full: Que of Brid

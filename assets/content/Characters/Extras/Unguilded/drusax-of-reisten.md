@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drusax of Reisten
 tags: []
 name:
   full: Drusax of Reisten

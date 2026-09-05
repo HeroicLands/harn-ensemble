@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Krik of Asanerik
 tags: []
 name:
   full: Krik of Asanerik

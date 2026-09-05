@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cras of Erlesh
 tags: []
 name:
   full: Cras of Erlesh

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Quarliss
 tags: []
 name:
   full: Borane of Quarliss

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gina of Patren
 tags: []
 name:
   full: Gina of Patren

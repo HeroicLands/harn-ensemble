@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Rabetts
 tags: []
 name:
   full: Merelyn of Rabetts

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jend of Kanthen
 tags: []
 name:
   full: Jend of Kanthen

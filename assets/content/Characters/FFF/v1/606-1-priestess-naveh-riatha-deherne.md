@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Riatha Deherne
-  - 606-1 Priestess Naveh
 tags: []
 name:
   full: Riatha Deherne

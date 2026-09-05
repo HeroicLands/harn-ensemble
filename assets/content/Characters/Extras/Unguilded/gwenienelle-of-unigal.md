@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwenienelle of Unigal
 tags: []
 name:
   full: Gwenienelle of Unigal

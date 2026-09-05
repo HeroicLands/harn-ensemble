@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keril of Wert
 tags: []
 name:
   full: Keril of Wert

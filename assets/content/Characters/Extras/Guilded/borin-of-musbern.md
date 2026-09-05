@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borin of Musbern
 tags: []
 name:
   full: Borin of Musbern

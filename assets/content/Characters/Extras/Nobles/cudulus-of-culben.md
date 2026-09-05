@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cudulus of Culben
 tags: []
 name:
   full: Cudulus of Culben

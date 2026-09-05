@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Iame of Vanth
 tags: []
 name:
   full: Iame of Vanth

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Sosora
 tags: []
 name:
   full: Pontous of Sosora

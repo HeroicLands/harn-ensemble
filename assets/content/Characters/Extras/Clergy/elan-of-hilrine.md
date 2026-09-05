@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elan of Hilrine
 tags: []
 name:
   full: Elan of Hilrine

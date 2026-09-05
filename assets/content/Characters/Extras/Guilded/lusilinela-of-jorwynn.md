@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusilinela of Jorwynn
 tags: []
 name:
   full: Lusilinela of Jorwynn

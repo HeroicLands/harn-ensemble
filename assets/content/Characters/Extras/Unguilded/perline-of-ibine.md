@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perline of Ibine
 tags: []
 name:
   full: Perline of Ibine

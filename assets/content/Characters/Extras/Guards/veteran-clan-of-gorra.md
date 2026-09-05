@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Clan of Gorra
 tags: []
 name:
   full: Veteran Clan of Gorra

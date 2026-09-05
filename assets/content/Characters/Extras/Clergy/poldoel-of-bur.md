@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Poldoel of Bur
 tags: []
 name:
   full: Poldoel of Bur

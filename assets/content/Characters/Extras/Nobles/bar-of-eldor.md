@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bar of Eldor
 tags: []
 name:
   full: Bar of Eldor

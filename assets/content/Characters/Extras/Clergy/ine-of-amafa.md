@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ine of Amafa
 tags: []
 name:
   full: Ine of Amafa

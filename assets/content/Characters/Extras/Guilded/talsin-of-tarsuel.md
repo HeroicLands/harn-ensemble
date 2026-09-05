@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Talsin of Tarsuel
 tags: []
 name:
   full: Talsin of Tarsuel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Daroos
 tags: []
 name:
   full: Aramia of Daroos

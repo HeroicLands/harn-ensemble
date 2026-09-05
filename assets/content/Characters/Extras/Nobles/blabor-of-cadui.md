@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Blabor of Cadui
 tags: []
 name:
   full: Blabor of Cadui

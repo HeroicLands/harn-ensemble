@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Laserery of Marn
 tags: []
 name:
   full: Laserery of Marn

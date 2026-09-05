@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Wyte of Fyrwey
-  - 421-1 Thatcher
 tags: []
 name:
   full: Wyte of Fyrwey

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arant of Marin
 tags: []
 name:
   full: Arant of Marin

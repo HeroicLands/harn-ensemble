@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Neridol of Kai
 tags: []
 name:
   full: Neridol of Kai

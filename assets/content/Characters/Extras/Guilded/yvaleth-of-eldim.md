@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yvaleth of Eldim
 tags: []
 name:
   full: Yvaleth of Eldim

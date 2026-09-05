@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Commander Perlin of Debernic
 tags: []
 name:
   full: Commander Perlin of Debernic

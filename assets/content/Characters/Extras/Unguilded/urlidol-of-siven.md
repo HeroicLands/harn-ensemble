@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urlidol of Siven
 tags: []
 name:
   full: Urlidol of Siven

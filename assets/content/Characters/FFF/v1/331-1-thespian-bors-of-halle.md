@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bors of Halle
-  - 331-1 Thespian
 tags: []
 name:
   full: Bors of Halle

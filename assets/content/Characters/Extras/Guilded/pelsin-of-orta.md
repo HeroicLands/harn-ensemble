@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelsin of Orta
 tags: []
 name:
   full: Pelsin of Orta

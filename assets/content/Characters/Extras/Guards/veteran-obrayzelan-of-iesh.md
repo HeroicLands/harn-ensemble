@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Obrayzelan of Iesh
 tags: []
 name:
   full: Veteran Obrayzelan of Iesh

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kayly Frye
-  - 329-2 Shipwright
 tags: []
 name:
   full: Kayly Frye

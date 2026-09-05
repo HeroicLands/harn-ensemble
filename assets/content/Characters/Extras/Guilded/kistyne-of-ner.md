@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Ner
 tags: []
 name:
   full: Kistyne of Ner

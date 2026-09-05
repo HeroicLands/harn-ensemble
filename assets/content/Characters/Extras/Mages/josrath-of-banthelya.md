@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Josrath of Banthelya
 tags: []
 name:
   full: Josrath of Banthelya

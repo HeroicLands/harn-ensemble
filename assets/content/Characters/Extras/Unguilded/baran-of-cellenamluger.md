@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Baran of Cellenamluger
 tags: []
 name:
   full: Baran of Cellenamluger

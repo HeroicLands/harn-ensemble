@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Danishemlen of Kotren
 tags: []
 name:
   full: Danishemlen of Kotren

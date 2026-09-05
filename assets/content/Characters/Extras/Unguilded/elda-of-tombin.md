@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elda of Tombin
 tags: []
 name:
   full: Elda of Tombin

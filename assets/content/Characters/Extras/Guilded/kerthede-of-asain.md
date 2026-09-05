@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerthede of Asain
 tags: []
 name:
   full: Kerthede of Asain

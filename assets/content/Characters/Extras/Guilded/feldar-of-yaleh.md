@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Feldar of Yaleh
 tags: []
 name:
   full: Feldar of Yaleh

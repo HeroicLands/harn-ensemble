@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gar of Taldis
 tags: []
 name:
   full: Gar of Taldis

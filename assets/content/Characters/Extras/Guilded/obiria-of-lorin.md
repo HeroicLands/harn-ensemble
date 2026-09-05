@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obiria of Lorin
 tags: []
 name:
   full: Obiria of Lorin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yigal of Dyselweth
 tags: []
 name:
   full: Yigal of Dyselweth

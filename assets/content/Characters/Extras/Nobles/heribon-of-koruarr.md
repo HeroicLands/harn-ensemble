@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heribon of Koruarr
 tags: []
 name:
   full: Heribon of Koruarr

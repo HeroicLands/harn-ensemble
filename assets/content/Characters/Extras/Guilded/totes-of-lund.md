@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Totes of Lund
 tags: []
 name:
   full: Totes of Lund

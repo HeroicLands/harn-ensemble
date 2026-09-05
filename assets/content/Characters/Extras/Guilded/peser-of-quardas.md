@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Peser of Quardas
 tags: []
 name:
   full: Peser of Quardas

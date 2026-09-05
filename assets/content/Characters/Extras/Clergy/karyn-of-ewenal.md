@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyn of Ewenal
 tags: []
 name:
   full: Karyn of Ewenal

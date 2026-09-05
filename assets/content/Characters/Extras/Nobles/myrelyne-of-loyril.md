@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrelyne of Loyril
 tags: []
 name:
   full: Myrelyne of Loyril

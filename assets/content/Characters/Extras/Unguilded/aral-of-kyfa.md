@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aral of Kyfa
 tags: []
 name:
   full: Aral of Kyfa

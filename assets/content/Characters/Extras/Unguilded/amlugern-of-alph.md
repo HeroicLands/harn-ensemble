@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amlugern of Alph
 tags: []
 name:
   full: Amlugern of Alph

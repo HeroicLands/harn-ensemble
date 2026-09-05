@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Stuk
 tags: []
 name:
   full: Segina of Stuk

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drigh of Verdy
 tags: []
 name:
   full: Drigh of Verdy

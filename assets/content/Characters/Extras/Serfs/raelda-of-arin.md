@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raelda of Arin
 tags: []
 name:
   full: Raelda of Arin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Gral of Thelkuz
 tags: []
 name:
   full: Captain Gral of Thelkuz

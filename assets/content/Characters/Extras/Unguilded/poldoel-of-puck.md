@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Poldoel of Puck
 tags: []
 name:
   full: Poldoel of Puck

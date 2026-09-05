@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Julah of Armelerieldan
 tags: []
 name:
   full: Julah of Armelerieldan

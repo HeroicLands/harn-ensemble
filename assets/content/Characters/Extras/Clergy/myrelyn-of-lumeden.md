@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrelyn of Lumeden
 tags: []
 name:
   full: Myrelyn of Lumeden

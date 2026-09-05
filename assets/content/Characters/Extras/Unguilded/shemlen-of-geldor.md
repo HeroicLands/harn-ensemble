@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlen of Geldor
 tags: []
 name:
   full: Shemlen of Geldor

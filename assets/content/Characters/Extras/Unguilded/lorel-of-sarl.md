@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorel of Sarl
 tags: []
 name:
   full: Lorel of Sarl

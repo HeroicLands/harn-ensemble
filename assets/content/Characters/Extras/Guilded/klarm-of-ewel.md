@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarm of Ewel
 tags: []
 name:
   full: Klarm of Ewel

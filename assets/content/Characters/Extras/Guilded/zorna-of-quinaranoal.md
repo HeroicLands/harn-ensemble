@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Quinaranoal
 tags: []
 name:
   full: Zorna of Quinaranoal

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Targat of Krollateriel
 tags: []
 name:
   full: Targat of Krollateriel

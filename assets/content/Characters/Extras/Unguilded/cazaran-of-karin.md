@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cazaran of Karin
 tags: []
 name:
   full: Cazaran of Karin

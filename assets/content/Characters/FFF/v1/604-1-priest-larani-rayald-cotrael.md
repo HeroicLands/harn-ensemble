@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rayald Cotrael
-  - 604-1 Priest Larani
 tags: []
 name:
   full: Rayald Cotrael

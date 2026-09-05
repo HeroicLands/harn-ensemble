@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crolazel of Dulkne
 tags: []
 name:
   full: Crolazel of Dulkne

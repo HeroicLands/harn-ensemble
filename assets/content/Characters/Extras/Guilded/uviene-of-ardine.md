@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uviene of Ardine
 tags: []
 name:
   full: Uviene of Ardine

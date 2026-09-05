@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perline of Naras
 tags: []
 name:
   full: Perline of Naras

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Varsuel
 tags: []
 name:
   full: Sarin of Varsuel

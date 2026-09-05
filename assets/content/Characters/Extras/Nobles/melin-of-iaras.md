@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Melin of Iaras
 tags: []
 name:
   full: Melin of Iaras

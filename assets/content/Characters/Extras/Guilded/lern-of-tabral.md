@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lern of Tabral
 tags: []
 name:
   full: Lern of Tabral

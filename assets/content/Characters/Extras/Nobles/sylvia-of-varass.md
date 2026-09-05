@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Varass
 tags: []
 name:
   full: Sylvia of Varass

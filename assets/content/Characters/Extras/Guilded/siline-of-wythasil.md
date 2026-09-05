@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Siline of Wythasil
 tags: []
 name:
   full: Siline of Wythasil

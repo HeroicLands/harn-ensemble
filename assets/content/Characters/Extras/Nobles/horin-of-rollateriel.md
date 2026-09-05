@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Horin of Rollateriel
 tags: []
 name:
   full: Horin of Rollateriel

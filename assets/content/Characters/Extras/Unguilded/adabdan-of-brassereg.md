@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Adabdan of Brassereg
 tags: []
 name:
   full: Adabdan of Brassereg

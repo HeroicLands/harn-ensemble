@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jith of Ikswic
 tags: []
 name:
   full: Jith of Ikswic

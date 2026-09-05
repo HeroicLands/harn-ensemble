@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alared of Iaras
 tags: []
 name:
   full: Alared of Iaras

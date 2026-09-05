@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gina of Hosathias
 tags: []
 name:
   full: Gina of Hosathias

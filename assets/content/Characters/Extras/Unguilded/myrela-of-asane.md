@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrela of Asane
 tags: []
 name:
   full: Myrela of Asane

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kelen of Wythselrin
 tags: []
 name:
   full: Kelen of Wythselrin

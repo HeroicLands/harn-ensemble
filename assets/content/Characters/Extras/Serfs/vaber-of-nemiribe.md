@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vaber of Nemiribe
 tags: []
 name:
   full: Vaber of Nemiribe

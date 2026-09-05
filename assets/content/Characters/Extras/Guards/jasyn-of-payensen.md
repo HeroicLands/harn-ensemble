@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jasyn of Payensen
 tags: []
 name:
   full: Jasyn of Payensen

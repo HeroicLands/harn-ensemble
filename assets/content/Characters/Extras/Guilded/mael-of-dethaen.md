@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mael of Dethaen
 tags: []
 name:
   full: Mael of Dethaen

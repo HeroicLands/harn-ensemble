@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Merros
 tags: []
 name:
   full: Terba of Merros

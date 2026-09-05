@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Denien of Dyselerik
 tags: []
 name:
   full: Denien of Dyselerik

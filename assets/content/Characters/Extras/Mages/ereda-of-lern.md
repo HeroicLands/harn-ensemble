@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ereda of Lern
 tags: []
 name:
   full: Ereda of Lern

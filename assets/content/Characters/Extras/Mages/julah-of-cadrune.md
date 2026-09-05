@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Julah of Cadrune
 tags: []
 name:
   full: Julah of Cadrune

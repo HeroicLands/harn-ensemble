@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Dondel
 tags: []
 name:
   full: Fryda of Dondel

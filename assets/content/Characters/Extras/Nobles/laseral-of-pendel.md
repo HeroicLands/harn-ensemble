@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Laseral of Pendel
 tags: []
 name:
   full: Laseral of Pendel

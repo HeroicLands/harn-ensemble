@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hadah of Hosanerikaren
 tags: []
 name:
   full: Hadah of Hosanerikaren

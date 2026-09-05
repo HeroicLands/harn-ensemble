@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuke of Hudusinda
 tags: []
 name:
   full: Zuke of Hudusinda

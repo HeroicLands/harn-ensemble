@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Hilrin
 tags: []
 name:
   full: Aramia of Hilrin

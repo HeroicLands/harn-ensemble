@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Martona of Gimrum
 tags: []
 name:
   full: Martona of Gimrum

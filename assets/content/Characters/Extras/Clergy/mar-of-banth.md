@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mar of Banth
 tags: []
 name:
   full: Mar of Banth

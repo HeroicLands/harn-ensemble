@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarn of Bulbakar
 tags: []
 name:
   full: Jarn of Bulbakar

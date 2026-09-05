@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chaklyn of Loyril
 tags: []
 name:
   full: Chaklyn of Loyril

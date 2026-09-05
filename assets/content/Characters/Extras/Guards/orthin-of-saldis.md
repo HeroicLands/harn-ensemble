@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthin of Saldis
 tags: []
 name:
   full: Orthin of Saldis

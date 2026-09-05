@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerid of Bor
 tags: []
 name:
   full: Kerid of Bor

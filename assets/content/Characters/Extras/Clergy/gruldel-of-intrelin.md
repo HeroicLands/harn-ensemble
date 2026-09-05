@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gruldel of Intrelin
 tags: []
 name:
   full: Gruldel of Intrelin

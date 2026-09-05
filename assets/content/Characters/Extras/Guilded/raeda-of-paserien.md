@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Paserien
 tags: []
 name:
   full: Raeda of Paserien

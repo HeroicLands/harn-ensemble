@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bar of Lern
 tags: []
 name:
   full: Bar of Lern

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jithai of Wulverik
 tags: []
 name:
   full: Jithai of Wulverik

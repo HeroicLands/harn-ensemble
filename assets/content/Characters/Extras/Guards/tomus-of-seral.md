@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tomus of Seral
 tags: []
 name:
   full: Tomus of Seral

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alda of Madib
 tags: []
 name:
   full: Alda of Madib

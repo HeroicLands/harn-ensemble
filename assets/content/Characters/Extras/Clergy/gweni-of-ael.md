@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gweni of Ael
 tags: []
 name:
   full: Gweni of Ael

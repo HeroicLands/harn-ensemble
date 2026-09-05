@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lysatris of Payensen
 tags: []
 name:
   full: Lysatris of Payensen

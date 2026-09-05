@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Taldim
 tags: []
 name:
   full: Lycia of Taldim

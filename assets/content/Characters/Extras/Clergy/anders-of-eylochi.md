@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anders of Eylochi
 tags: []
 name:
   full: Anders of Eylochi

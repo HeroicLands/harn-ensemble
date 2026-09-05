@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Rosta of Dybarn
 tags: []
 name:
   full: Veteran Rosta of Dybarn

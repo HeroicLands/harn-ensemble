@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Koraxa of Kapire
 tags: []
 name:
   full: Koraxa of Kapire

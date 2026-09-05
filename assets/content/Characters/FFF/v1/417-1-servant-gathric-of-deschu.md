@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gathric of Deschu
-  - 417-1 Servant
 tags: []
 name:
   full: Gathric of Deschu

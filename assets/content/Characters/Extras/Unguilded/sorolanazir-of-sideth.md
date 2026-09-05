@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sorolanazir of Sideth
 tags: []
 name:
   full: Sorolanazir of Sideth

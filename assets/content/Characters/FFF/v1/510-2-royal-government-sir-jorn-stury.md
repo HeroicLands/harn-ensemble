@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sir Jorn Stury
-  - 510-2 Royal Government
 tags: []
 name:
   full: Sir Jorn Stury

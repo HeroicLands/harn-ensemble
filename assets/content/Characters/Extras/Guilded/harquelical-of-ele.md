@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harquelical of Ele
 tags: []
 name:
   full: Harquelical of Ele

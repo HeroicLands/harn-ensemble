@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bel of Arass
 tags: []
 name:
   full: Bel of Arass

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ursis of Hylin
 tags: []
 name:
   full: Ursis of Hylin

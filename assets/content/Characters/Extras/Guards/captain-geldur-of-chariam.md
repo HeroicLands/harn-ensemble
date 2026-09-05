@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Geldur of Chariam
 tags: []
 name:
   full: Captain Geldur of Chariam

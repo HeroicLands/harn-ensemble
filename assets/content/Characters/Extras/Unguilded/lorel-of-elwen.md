@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorel of Elwen
 tags: []
 name:
   full: Lorel of Elwen

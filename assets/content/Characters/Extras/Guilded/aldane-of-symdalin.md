@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aldane of Symdalin
 tags: []
 name:
   full: Aldane of Symdalin

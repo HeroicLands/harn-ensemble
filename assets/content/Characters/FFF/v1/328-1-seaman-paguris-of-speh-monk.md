@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Paguris of Speh (Monk)
-  - 328-1 Seaman
 tags: []
 name:
   full: Paguris of Speh (Monk)

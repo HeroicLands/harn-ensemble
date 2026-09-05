@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Ewen
 tags: []
 name:
   full: Lajana of Ewen

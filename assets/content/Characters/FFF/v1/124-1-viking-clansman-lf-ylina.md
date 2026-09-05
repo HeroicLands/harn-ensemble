@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ylina
-  - 124-1 Viking Clansman LF
 tags: []
 name:
   full: Ylina

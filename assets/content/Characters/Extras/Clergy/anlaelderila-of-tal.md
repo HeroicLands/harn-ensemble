@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaelderila of Tal
 tags: []
 name:
   full: Anlaelderila of Tal

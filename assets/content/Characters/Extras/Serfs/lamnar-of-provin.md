@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lamnar of Provin
 tags: []
 name:
   full: Lamnar of Provin

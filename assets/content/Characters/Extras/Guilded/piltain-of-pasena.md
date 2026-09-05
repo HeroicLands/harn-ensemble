@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piltain of Pasena
 tags: []
 name:
   full: Piltain of Pasena

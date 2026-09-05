@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gen of Gimbek
 tags: []
 name:
   full: Gen of Gimbek

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hel of Kar
 tags: []
 name:
   full: Hel of Kar

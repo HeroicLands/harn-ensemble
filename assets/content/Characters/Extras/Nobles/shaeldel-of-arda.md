@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaeldel of Arda
 tags: []
 name:
   full: Shaeldel of Arda

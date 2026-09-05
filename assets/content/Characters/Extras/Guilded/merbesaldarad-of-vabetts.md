@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merbesaldarad of Vabetts
 tags: []
 name:
   full: Merbesaldarad of Vabetts

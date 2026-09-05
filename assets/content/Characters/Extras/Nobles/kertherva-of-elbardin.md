@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kertherva of Elbardin
 tags: []
 name:
   full: Kertherva of Elbardin

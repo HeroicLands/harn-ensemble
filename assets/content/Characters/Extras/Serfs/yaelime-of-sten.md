@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yaelime of Sten
 tags: []
 name:
   full: Yaelime of Sten

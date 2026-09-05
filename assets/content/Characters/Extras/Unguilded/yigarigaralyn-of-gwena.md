@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yigarigaralyn of Gwena
 tags: []
 name:
   full: Yigarigaralyn of Gwena

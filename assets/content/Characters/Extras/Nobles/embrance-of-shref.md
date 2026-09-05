@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Embrance of Shref
 tags: []
 name:
   full: Embrance of Shref

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Drogor
-  - 801c Gargu-Hyeka King
 tags: []
 name:
   full: Drogor

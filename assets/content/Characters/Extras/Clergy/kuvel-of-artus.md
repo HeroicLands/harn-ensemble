@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kuvel of Artus
 tags: []
 name:
   full: Kuvel of Artus

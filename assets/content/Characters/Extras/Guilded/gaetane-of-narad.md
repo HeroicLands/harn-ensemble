@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gaetane of Narad
 tags: []
 name:
   full: Gaetane of Narad

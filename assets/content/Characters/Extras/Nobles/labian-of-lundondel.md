@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Labian of Lundondel
 tags: []
 name:
   full: Labian of Lundondel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryn of Asan
 tags: []
 name:
   full: Saryn of Asan

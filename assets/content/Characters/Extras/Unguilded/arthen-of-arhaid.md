@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arthen of Arhaid
 tags: []
 name:
   full: Arthen of Arhaid

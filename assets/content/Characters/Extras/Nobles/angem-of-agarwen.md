@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angem of Agarwen
 tags: []
 name:
   full: Angem of Agarwen

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Ortilla of Islwyn
-  - 417-4 Domestic
 tags: []
 name:
   full: Ortilla of Islwyn

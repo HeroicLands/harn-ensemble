@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gaetane of Hiltex
 tags: []
 name:
   full: Gaetane of Hiltex

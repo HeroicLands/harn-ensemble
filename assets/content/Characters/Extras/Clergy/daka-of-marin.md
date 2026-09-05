@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Marin
 tags: []
 name:
   full: Daka of Marin

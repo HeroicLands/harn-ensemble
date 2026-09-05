@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Marn
 tags: []
 name:
   full: Lajana of Marn

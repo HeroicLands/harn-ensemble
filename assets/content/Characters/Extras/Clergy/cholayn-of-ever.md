@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cholayn of Ever
 tags: []
 name:
   full: Cholayn of Ever

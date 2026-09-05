@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erdin of Fulkai
 tags: []
 name:
   full: Erdin of Fulkai

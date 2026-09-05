@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forabain of Asaka
 tags: []
 name:
   full: Forabain of Asaka

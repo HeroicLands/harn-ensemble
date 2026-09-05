@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Brid
 tags: []
 name:
   full: Terba of Brid

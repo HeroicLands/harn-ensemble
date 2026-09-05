@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mak of Theikak
 tags: []
 name:
   full: Mak of Theikak

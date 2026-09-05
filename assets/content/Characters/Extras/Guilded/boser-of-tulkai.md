@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Boser of Tulkai
 tags: []
 name:
   full: Boser of Tulkai

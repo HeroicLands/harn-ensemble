@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bjarr Pelerom
-  - 608-1 Priest Sarajin
 tags: []
 name:
   full: Bjarr Pelerom

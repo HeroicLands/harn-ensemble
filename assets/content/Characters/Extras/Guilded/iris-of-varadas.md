@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Iris of Varadas
 tags: []
 name:
   full: Iris of Varadas

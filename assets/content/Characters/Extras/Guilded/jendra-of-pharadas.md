@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jendra of Pharadas
 tags: []
 name:
   full: Jendra of Pharadas

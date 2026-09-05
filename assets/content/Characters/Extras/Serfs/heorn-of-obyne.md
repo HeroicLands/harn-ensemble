@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heorn of Obyne
 tags: []
 name:
   full: Heorn of Obyne

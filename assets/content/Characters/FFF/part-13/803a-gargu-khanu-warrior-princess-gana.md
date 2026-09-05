@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gana
-  - 803a Gargu-Khanu Warrior Princess
 tags: []
 name:
   full: Gana

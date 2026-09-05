@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Karen
 tags: []
 name:
   full: Tabifa of Karen

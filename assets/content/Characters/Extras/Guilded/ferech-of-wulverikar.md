@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ferech of Wulverikar
 tags: []
 name:
   full: Ferech of Wulverikar

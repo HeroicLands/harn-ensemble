@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Habin of Gevrael
 tags: []
 name:
   full: Habin of Gevrael

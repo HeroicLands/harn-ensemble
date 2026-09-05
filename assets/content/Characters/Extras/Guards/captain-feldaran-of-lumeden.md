@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Feldaran of Lumeden
 tags: []
 name:
   full: Captain Feldaran of Lumeden

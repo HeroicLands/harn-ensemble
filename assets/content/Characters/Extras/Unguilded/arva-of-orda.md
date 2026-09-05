@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arva of Orda
 tags: []
 name:
   full: Arva of Orda

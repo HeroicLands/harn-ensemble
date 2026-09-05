@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Querenela of Rystelesh
 tags: []
 name:
   full: Querenela of Rystelesh

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ediryn of Uerthen
 tags: []
 name:
   full: Ediryn of Uerthen

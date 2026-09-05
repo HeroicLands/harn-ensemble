@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gine of Osathade
 tags: []
 name:
   full: Gine of Osathade

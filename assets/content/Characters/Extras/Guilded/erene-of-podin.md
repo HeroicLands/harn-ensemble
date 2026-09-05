@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erene of Podin
 tags: []
 name:
   full: Erene of Podin

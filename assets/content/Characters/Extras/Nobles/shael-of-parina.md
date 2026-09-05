@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shael of Parina
 tags: []
 name:
   full: Shael of Parina

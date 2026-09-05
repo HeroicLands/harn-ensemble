@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Balin
 tags: []
 name:
   full: Tamyth of Balin

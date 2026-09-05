@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crolaz of Yisgaras
 tags: []
 name:
   full: Crolaz of Yisgaras

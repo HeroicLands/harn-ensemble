@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Tixenal
 tags: []
 name:
   full: Albalny of Tixenal

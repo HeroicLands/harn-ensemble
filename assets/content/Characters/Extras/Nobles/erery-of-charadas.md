@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erery of Charadas
 tags: []
 name:
   full: Erery of Charadas

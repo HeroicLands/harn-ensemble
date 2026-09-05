@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lamnar of Merlym
 tags: []
 name:
   full: Lamnar of Merlym

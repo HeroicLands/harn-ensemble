@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arton of Lebare
 tags: []
 name:
   full: Arton of Lebare

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haraenar of Qatorzin
 tags: []
 name:
   full: Haraenar of Qatorzin

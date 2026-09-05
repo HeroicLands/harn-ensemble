@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aera of Armelvoen
 tags: []
 name:
   full: Aera of Armelvoen

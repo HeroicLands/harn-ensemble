@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hadain of Kar
 tags: []
 name:
   full: Hadain of Kar

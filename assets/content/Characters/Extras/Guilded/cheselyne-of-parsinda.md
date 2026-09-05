@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyne of Parsinda
 tags: []
 name:
   full: Cheselyne of Parsinda

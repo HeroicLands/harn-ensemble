@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dickon of Durnwak
 tags: []
 name:
   full: Dickon of Durnwak

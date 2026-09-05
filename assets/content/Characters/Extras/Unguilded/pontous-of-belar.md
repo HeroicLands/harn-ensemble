@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Belar
 tags: []
 name:
   full: Pontous of Belar

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eldel of Hen
 tags: []
 name:
   full: Eldel of Hen

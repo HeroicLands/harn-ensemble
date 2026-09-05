@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Indros of Tulkne
 tags: []
 name:
   full: Indros of Tulkne

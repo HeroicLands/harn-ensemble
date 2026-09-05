@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Mael of Asar
 tags: []
 name:
   full: Veteran Mael of Asar

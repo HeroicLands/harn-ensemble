@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Burkot of Aets
 tags: []
 name:
   full: Burkot of Aets

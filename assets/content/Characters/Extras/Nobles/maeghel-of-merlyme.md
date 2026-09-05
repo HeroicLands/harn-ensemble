@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghel of Merlyme
 tags: []
 name:
   full: Maeghel of Merlyme

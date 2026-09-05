@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Dythin
 tags: []
 name:
   full: Sylvia of Dythin

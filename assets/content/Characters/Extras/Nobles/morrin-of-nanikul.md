@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Morrin of Nanikul
 tags: []
 name:
   full: Morrin of Nanikul

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Asgar of Carafin
 tags: []
 name:
   full: Asgar of Carafin

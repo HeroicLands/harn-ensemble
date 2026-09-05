@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jola of Chatil
 tags: []
 name:
   full: Jola of Chatil

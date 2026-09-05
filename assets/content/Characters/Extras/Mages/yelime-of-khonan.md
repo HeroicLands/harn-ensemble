@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yelime of Khonan
 tags: []
 name:
   full: Yelime of Khonan

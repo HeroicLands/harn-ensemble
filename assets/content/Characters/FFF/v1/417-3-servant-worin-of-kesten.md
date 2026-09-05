@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Worin of Kesten
-  - 417-3 Servant
 tags: []
 name:
   full: Worin of Kesten

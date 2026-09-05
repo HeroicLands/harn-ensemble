@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aquillin of Renal
 tags: []
 name:
   full: Aquillin of Renal

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eweni of Iribe
 tags: []
 name:
   full: Eweni of Iribe

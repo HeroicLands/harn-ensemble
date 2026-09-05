@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Kotrenel
 tags: []
 name:
   full: Sar of Kotrenel

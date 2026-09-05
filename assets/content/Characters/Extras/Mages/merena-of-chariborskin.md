@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merena of Chariborskin
 tags: []
 name:
   full: Merena of Chariborskin

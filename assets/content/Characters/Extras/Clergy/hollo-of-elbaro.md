@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hollo of Elbaro
 tags: []
 name:
   full: Hollo of Elbaro

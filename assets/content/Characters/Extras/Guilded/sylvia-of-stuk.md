@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Stuk
 tags: []
 name:
   full: Sylvia of Stuk

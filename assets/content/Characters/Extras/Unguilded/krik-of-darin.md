@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Krik of Darin
 tags: []
 name:
   full: Krik of Darin
