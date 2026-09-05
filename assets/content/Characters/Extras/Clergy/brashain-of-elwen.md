@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brashain of Elwen
 tags: []
 name:
   full: Brashain of Elwen

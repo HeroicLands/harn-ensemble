@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caro of Bantarkoff
 tags: []
 name:
   full: Caro of Bantarkoff

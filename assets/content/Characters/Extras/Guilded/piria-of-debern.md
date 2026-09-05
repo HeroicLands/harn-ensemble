@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Debern
 tags: []
 name:
   full: Piria of Debern

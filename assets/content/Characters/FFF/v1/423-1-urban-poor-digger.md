@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Digger
-  - 423-1 Urban Poor
 tags: []
 name:
   full: Digger

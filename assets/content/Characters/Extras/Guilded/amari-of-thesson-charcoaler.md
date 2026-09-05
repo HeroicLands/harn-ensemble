@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amari of Thesson
 tags: []
 name:
   full: Amari of Thesson

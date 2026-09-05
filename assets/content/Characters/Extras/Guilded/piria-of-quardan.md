@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Quardan
 tags: []
 name:
   full: Piria of Quardan

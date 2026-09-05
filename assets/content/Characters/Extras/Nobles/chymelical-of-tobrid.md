@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chymelical of Tobrid
 tags: []
 name:
   full: Chymelical of Tobrid

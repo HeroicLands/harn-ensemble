@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rosak of Tabral
 tags: []
 name:
   full: Rosak of Tabral

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Paserien
 tags: []
 name:
   full: Zorna of Paserien

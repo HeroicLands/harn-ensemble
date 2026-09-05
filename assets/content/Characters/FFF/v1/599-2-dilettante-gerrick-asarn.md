@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gerrick Asarn
-  - 599-2 Dilettante
 tags: []
 name:
   full: Gerrick Asarn

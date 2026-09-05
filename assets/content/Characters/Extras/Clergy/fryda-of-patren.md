@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Patren
 tags: []
 name:
   full: Fryda of Patren

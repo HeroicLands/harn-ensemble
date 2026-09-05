@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Durka of Obel
 tags: []
 name:
   full: Durka of Obel

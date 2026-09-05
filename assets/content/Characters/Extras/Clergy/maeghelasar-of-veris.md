@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghelasar of Veris
 tags: []
 name:
   full: Maeghelasar of Veris

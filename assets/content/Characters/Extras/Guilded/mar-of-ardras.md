@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mar of Ardras
 tags: []
 name:
   full: Mar of Ardras

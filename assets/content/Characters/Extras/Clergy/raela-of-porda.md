@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raela of Porda
 tags: []
 name:
   full: Raela of Porda

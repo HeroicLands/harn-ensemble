@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Lorel of Armel
 tags: []
 name:
   full: Veteran Lorel of Armel

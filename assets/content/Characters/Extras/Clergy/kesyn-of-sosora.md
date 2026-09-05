@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kesyn of Sosora
 tags: []
 name:
   full: Kesyn of Sosora

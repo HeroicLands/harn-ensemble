@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kertherva of Don
 tags: []
 name:
   full: Kertherva of Don

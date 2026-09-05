@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Domerben
 tags: []
 name:
   full: Merelyn of Domerben

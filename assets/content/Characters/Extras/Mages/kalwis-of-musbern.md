@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalwis of Musbern
 tags: []
 name:
   full: Kalwis of Musbern

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Lern of Barsuel
 tags: []
 name:
   full: Veteran Lern of Barsuel

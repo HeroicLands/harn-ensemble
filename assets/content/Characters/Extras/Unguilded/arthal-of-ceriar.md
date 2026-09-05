@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arthal of Ceriar
 tags: []
 name:
   full: Arthal of Ceriar

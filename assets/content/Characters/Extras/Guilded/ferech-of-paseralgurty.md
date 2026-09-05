@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ferech of Paseralgurty
 tags: []
 name:
   full: Ferech of Paseralgurty

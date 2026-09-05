@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silas of Wen
 tags: []
 name:
   full: Silas of Wen

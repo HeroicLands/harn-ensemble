@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erand of Asain
 tags: []
 name:
   full: Erand of Asain

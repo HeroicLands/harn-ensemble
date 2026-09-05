@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Parmen of Dulkyia
 tags: []
 name:
   full: Parmen of Dulkyia

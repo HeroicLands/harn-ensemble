@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyse of Asarlis
 tags: []
 name:
   full: Karyse of Asarlis

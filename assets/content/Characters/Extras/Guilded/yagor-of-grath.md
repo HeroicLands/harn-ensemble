@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yagor of Grath
 tags: []
 name:
   full: Yagor of Grath

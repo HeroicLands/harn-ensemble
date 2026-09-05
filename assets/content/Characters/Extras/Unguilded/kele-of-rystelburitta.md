@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kele of Rystelburitta
 tags: []
 name:
   full: Kele of Rystelburitta

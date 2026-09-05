@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Punatgen of Kalir
 tags: []
 name:
   full: Punatgen of Kalir

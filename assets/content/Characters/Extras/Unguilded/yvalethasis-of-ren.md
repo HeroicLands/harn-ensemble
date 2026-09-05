@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yvalethasis of Ren
 tags: []
 name:
   full: Yvalethasis of Ren

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Tulkai
 tags: []
 name:
   full: Telsa of Tulkai

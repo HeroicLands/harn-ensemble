@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Itis of Aethal
 tags: []
 name:
   full: Itis of Aethal

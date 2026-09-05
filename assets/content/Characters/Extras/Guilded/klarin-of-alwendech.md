@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarin of Alwendech
 tags: []
 name:
   full: Klarin of Alwendech

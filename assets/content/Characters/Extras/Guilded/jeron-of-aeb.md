@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jeron of Aeb
 tags: []
 name:
   full: Jeron of Aeb

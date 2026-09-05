@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Murlidon of Marn
 tags: []
 name:
   full: Murlidon of Marn

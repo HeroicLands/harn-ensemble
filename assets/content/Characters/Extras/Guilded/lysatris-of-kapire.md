@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lysatris of Kapire
 tags: []
 name:
   full: Lysatris of Kapire

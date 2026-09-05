@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lan of Rytus
 tags: []
 name:
   full: Lan of Rytus

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Kirill of Vetus
-  - 707-1 Shek Pvar Grey
 tags: []
 name:
   full: Kirill of Vetus

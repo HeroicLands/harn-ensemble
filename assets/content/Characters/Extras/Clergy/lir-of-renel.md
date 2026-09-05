@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lir of Renel
 tags: []
 name:
   full: Lir of Renel

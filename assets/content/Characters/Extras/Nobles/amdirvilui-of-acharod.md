@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdirvilui of Acharod
 tags: []
 name:
   full: Amdirvilui of Acharod

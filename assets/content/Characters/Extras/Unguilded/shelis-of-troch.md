@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shelis of Troch
 tags: []
 name:
   full: Shelis of Troch

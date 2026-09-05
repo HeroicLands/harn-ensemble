@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garith of Marn
 tags: []
 name:
   full: Garith of Marn

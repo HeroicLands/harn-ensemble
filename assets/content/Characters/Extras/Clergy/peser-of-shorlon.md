@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Peser of Shorlon
 tags: []
 name:
   full: Peser of Shorlon

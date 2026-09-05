@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vaber of Nalis
 tags: []
 name:
   full: Vaber of Nalis

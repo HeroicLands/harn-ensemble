@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarn of Way
 tags: []
 name:
   full: Jarn of Way

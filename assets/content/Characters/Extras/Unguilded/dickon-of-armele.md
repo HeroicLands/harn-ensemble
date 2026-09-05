@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dickon of Armele
 tags: []
 name:
   full: Dickon of Armele

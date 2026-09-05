@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Barton of Gelram
-  - 312-1 Innkeeper
 tags: []
 name:
   full: Barton of Gelram

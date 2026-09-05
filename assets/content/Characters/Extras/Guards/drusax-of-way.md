@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drusax of Way
 tags: []
 name:
   full: Drusax of Way

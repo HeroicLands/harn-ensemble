@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Corfyn of Cybela
 tags: []
 name:
   full: Corfyn of Cybela

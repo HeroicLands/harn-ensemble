@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marwin of Tobira
 tags: []
 name:
   full: Marwin of Tobira

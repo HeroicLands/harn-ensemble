@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obran of Kass
 tags: []
 name:
   full: Obran of Kass

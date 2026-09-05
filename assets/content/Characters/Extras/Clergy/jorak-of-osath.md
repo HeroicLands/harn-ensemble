@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jorak of Osath
 tags: []
 name:
   full: Jorak of Osath

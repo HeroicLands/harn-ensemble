@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Romont of Addy
-  - 419-1 Teamster
 tags: []
 name:
   full: Romont of Addy

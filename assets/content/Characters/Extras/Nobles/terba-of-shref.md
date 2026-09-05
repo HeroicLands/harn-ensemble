@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Shref
 tags: []
 name:
   full: Terba of Shref

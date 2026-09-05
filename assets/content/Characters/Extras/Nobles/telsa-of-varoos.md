@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Varoos
 tags: []
 name:
   full: Telsa of Varoos

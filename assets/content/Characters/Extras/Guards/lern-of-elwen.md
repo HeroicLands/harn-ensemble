@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lern of Elwen
 tags: []
 name:
   full: Lern of Elwen

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Barris of Gorn
-  - 311-1 Hideworker
 tags: []
 name:
   full: Barris of Gorn

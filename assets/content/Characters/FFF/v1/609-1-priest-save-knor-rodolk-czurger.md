@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Rodolk Czurger
-  - 609-1 Priest Save Knor
 tags: []
 name:
   full: Rodolk Czurger

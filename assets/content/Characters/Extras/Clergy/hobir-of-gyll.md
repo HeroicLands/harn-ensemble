@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hobir of Gyll
 tags: []
 name:
   full: Hobir of Gyll

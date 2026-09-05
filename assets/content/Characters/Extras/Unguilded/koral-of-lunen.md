@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Koral of Lunen
 tags: []
 name:
   full: Koral of Lunen

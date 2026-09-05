@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarm of Amafa
 tags: []
 name:
   full: Klarm of Amafa

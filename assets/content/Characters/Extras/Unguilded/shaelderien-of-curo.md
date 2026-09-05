@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaelderien of Curo
 tags: []
 name:
   full: Shaelderien of Curo

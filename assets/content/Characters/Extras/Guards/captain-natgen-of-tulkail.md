@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Natgen of Tulkail
 tags: []
 name:
   full: Captain Natgen of Tulkail

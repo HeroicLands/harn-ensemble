@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hera of Irin
 tags: []
 name:
   full: Hera of Irin

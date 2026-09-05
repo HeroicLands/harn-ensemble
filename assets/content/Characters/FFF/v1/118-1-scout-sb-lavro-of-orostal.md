@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lavro of Orostal
-  - 118-1 Scout SB
 tags: []
 name:
   full: Lavro of Orostal

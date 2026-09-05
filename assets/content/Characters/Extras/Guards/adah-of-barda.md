@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Adah of Barda
 tags: []
 name:
   full: Adah of Barda

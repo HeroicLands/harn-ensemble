@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obiria of Keryn
 tags: []
 name:
   full: Obiria of Keryn

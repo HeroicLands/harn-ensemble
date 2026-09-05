@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Agar of Caramdirphen
 tags: []
 name:
   full: Agar of Caramdirphen

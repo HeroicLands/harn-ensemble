@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lamrin of Pythade
 tags: []
 name:
   full: Lamrin of Pythade

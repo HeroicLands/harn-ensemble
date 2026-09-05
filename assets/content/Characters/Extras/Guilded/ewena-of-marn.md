@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewena of Marn
 tags: []
 name:
   full: Ewena of Marn

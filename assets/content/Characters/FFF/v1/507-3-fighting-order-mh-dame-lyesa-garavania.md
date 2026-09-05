@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dame Lyesa Garavania
-  - 507-3 Fighting Order MH
 tags: []
 name:
   full: Dame Lyesa Garavania

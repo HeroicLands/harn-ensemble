@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vuril of Grath
 tags: []
 name:
   full: Vuril of Grath

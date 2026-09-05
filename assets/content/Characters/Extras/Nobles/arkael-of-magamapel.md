@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arkael of Magamapel
 tags: []
 name:
   full: Arkael of Magamapel

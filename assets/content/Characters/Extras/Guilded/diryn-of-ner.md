@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Diryn of Ner
 tags: []
 name:
   full: Diryn of Ner

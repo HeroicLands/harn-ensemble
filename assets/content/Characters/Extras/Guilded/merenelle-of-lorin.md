@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merenelle of Lorin
 tags: []
 name:
   full: Merenelle of Lorin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Laseral of Opondik
 tags: []
 name:
   full: Laseral of Opondik

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Celeg of Annamath
 tags: []
 name:
   full: Celeg of Annamath

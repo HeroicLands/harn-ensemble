@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelime of Sten
 tags: []
 name:
   full: Pelime of Sten

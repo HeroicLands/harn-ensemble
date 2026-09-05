@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Odell of Risene
-  - 321-1 Miner
 tags: []
 name:
   full: Odell of Risene

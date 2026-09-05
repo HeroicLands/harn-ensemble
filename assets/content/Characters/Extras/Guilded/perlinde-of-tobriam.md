@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perlinde of Tobriam
 tags: []
 name:
   full: Perlinde of Tobriam

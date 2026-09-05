@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Gevraen
 tags: []
 name:
   full: Sarin of Gevraen

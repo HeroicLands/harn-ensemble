@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bran
-  - 804d Gargu-Araki Warrior
 tags: []
 name:
   full: Bran

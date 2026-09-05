@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Iame of Thornin
 tags: []
 name:
   full: Iame of Thornin

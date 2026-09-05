@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piria of Fengeldor
 tags: []
 name:
   full: Piria of Fengeldor

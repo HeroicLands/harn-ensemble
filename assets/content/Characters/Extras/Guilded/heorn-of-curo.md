@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heorn of Curo
 tags: []
 name:
   full: Heorn of Curo

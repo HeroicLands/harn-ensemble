@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Evenodel of Hen
 tags: []
 name:
   full: Evenodel of Hen

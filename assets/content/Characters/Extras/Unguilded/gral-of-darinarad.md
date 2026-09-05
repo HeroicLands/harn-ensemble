@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gral of Darinarad
 tags: []
 name:
   full: Gral of Darinarad

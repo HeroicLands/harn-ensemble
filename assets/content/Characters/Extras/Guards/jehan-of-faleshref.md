@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jehan of Faleshref
 tags: []
 name:
   full: Jehan of Faleshref

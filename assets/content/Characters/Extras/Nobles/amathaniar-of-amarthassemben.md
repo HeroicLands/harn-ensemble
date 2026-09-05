@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amathaniar of Amarthassemben
 tags: []
 name:
   full: Amathaniar of Amarthassemben

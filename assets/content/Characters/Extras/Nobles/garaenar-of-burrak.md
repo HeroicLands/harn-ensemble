@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garaenar of Burrak
 tags: []
 name:
   full: Garaenar of Burrak

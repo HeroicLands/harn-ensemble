@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jeric of Ashelya
 tags: []
 name:
   full: Jeric of Ashelya

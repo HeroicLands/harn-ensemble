@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalinelle of Sediel
 tags: []
 name:
   full: Kalinelle of Sediel

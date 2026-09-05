@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bryle of Tarkoff
 tags: []
 name:
   full: Bryle of Tarkoff

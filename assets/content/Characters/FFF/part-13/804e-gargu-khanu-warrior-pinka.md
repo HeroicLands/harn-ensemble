@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Pinka
-  - 804e Gargu-Khanu Warrior
 tags: []
 name:
   full: Pinka

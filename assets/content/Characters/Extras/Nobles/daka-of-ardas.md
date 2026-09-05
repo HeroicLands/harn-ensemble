@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Ardas
 tags: []
 name:
   full: Daka of Ardas

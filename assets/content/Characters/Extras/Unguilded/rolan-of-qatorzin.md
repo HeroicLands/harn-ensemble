@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rolan of Qatorzin
 tags: []
 name:
   full: Rolan of Qatorzin

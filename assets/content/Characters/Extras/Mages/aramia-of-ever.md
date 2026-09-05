@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Ever
 tags: []
 name:
   full: Aramia of Ever

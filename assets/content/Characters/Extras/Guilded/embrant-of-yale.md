@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Embrant of Yale
 tags: []
 name:
   full: Embrant of Yale

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Noragor of Erlesh
 tags: []
 name:
   full: Noragor of Erlesh

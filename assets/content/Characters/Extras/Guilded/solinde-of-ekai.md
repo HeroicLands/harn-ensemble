@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solinde of Ekai
 tags: []
 name:
   full: Solinde of Ekai

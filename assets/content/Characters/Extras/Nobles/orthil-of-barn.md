@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthil of Barn
 tags: []
 name:
   full: Orthil of Barn

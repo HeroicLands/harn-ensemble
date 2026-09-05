@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlena of Sunis
 tags: []
 name:
   full: Shemlena of Sunis

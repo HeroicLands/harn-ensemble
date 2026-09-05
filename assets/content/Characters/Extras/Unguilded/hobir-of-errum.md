@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hobir of Errum
 tags: []
 name:
   full: Hobir of Errum

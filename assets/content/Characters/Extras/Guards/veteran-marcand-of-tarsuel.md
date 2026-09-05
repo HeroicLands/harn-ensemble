@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Marcand of Tarsuel
 tags: []
 name:
   full: Veteran Marcand of Tarsuel

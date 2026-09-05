@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merbesalareen of Cybelliss
 tags: []
 name:
   full: Merbesalareen of Cybelliss

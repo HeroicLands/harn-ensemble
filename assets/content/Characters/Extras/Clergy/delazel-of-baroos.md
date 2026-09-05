@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Delazel of Baroos
 tags: []
 name:
   full: Delazel of Baroos

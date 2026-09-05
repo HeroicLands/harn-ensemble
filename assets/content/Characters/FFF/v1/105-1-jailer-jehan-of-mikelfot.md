@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Jehan of Mikelfot
-  - 105-1 Jailer
 tags: []
 name:
   full: Jehan of Mikelfot

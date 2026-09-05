@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Vakon Lemetyer
-  - 332-1 Thief
 tags: []
 name:
   full: Vakon Lemetyer

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Charallax of Lundondel
 tags: []
 name:
   full: Captain Charallax of Lundondel

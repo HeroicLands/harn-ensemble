@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uone of Tichmarnic
 tags: []
 name:
   full: Uone of Tichmarnic

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tomus of Varo
 tags: []
 name:
   full: Tomus of Varo

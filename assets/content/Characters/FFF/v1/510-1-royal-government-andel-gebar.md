@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Andel Gebar
-  - 510-1 Royal Government
 tags: []
 name:
   full: Andel Gebar

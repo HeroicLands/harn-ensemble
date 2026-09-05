@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kolyn of Guinarass
 tags: []
 name:
   full: Kolyn of Guinarass

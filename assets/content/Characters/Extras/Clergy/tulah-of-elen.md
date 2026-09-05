@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tulah of Elen
 tags: []
 name:
   full: Tulah of Elen

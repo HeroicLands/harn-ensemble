@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gar of Armel
 tags: []
 name:
   full: Gar of Armel

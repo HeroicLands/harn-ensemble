@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalwis of Orta
 tags: []
 name:
   full: Kalwis of Orta

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Siven
 tags: []
 name:
   full: Zorna of Siven

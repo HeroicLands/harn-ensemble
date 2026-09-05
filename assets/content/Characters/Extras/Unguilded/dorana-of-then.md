@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorana of Then
 tags: []
 name:
   full: Dorana of Then

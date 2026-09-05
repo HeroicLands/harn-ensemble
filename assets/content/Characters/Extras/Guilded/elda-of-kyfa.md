@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elda of Kyfa
 tags: []
 name:
   full: Elda of Kyfa

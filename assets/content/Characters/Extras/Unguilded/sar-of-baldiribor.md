@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Baldiribor
 tags: []
 name:
   full: Sar of Baldiribor

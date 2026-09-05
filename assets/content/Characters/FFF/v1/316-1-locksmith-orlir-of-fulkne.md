@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Orlir of Fulkne
-  - 316-1 Locksmith
 tags: []
 name:
   full: Orlir of Fulkne

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Quardan
 tags: []
 name:
   full: Pontous of Quardan

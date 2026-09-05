@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Chelkuz
 tags: []
 name:
   full: Sar of Chelkuz

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gaeffel of Thola
-  - 318-2 Mercantyler
 tags: []
 name:
   full: Gaeffel of Thola

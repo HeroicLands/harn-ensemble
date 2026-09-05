@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Liriam of Sar
 tags: []
 name:
   full: Liriam of Sar

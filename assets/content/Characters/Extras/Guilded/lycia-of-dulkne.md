@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Dulkne
 tags: []
 name:
   full: Lycia of Dulkne

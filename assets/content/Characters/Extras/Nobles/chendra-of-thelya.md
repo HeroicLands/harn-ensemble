@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chendra of Thelya
 tags: []
 name:
   full: Chendra of Thelya

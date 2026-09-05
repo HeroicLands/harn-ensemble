@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ith of Aeb
 tags: []
 name:
   full: Ith of Aeb

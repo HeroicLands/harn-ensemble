@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pavin of Krollater
 tags: []
 name:
   full: Pavin of Krollater

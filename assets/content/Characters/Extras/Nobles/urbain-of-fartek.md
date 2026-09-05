@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urbain of Fartek
 tags: []
 name:
   full: Urbain of Fartek

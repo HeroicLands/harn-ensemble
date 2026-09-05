@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Satris of Plaemen
 tags: []
 name:
   full: Satris of Plaemen

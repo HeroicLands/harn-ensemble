@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Que of Ikswic
 tags: []
 name:
   full: Que of Ikswic

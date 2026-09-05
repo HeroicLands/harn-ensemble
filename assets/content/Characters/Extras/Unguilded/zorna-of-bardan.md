@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Bardan
 tags: []
 name:
   full: Zorna of Bardan

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amarth of Berphen
 tags: []
 name:
   full: Amarth of Berphen

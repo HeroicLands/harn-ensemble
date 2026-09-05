@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakkyn of Buratheikak
 tags: []
 name:
   full: Jakkyn of Buratheikak

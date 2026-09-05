@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harlabal of Harlabal
 tags: []
 name:
   full: Harlabal of Harlabal

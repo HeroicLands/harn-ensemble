@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aera of Crani
 tags: []
 name:
   full: Aera of Crani

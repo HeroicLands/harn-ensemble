@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rath of Haith
 tags: []
 name:
   full: Rath of Haith

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obiria of Okren
 tags: []
 name:
   full: Obiria of Okren

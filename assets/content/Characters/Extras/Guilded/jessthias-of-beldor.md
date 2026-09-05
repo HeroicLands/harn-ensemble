@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jessthias of Beldor
 tags: []
 name:
   full: Jessthias of Beldor

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nar of Eldan
 tags: []
 name:
   full: Nar of Eldan

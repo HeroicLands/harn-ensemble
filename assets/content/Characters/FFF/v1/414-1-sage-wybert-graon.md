@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Wybert Graon
-  - 414-1 Sage
 tags: []
 name:
   full: Wybert Graon

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tagbar of Tombine
 tags: []
 name:
   full: Tagbar of Tombine

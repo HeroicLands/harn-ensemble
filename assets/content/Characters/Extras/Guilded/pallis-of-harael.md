@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallis of Harael
 tags: []
 name:
   full: Pallis of Harael

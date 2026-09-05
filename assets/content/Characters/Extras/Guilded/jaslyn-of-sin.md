@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyn of Sin
 tags: []
 name:
   full: Jaslyn of Sin

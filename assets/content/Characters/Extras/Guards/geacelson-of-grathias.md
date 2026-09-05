@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Geacelson of Grathias
 tags: []
 name:
   full: Geacelson of Grathias

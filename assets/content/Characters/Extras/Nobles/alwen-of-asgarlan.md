@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alwen of Asgarlan
 tags: []
 name:
   full: Alwen of Asgarlan

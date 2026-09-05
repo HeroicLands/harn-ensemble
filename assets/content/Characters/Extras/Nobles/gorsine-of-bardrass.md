@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Bardrass
 tags: []
 name:
   full: Gorsine of Bardrass

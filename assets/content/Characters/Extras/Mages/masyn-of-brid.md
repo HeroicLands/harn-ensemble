@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masyn of Brid
 tags: []
 name:
   full: Masyn of Brid

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Buior of Angruiamdirvar
 tags: []
 name:
   full: Buior of Angruiamdirvar

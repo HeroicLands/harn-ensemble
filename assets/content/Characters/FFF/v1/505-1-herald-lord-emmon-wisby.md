@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lord Emmon Wisby
-  - 505-1 Herald
 tags: []
 name:
   full: Lord Emmon Wisby

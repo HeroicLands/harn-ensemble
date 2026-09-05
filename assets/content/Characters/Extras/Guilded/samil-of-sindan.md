@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Samil of Sindan
 tags: []
 name:
   full: Samil of Sindan

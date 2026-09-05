@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forenela of Merak
 tags: []
 name:
   full: Forenela of Merak

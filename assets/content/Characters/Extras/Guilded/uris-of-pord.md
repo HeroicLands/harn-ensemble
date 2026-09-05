@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uris of Pord
 tags: []
 name:
   full: Uris of Pord

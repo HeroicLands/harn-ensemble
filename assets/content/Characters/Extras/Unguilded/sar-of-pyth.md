@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Pyth
 tags: []
 name:
   full: Sar of Pyth

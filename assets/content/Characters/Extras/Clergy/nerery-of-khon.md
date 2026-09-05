@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nerery of Khon
 tags: []
 name:
   full: Nerery of Khon

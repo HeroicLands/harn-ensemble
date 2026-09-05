@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thokrapal of Aethaldron
 tags: []
 name:
   full: Thokrapal of Aethaldron

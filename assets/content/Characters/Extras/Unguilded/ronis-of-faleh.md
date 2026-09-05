@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ronis of Faleh
 tags: []
 name:
   full: Ronis of Faleh

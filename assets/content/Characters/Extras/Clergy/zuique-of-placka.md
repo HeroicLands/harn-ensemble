@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuique of Placka
 tags: []
 name:
   full: Zuique of Placka

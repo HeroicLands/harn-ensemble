@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aquillion of Ardine
 tags: []
 name:
   full: Aquillion of Ardine

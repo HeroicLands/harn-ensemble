@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jula of Vanth
 tags: []
 name:
   full: Jula of Vanth

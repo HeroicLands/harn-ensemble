@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quertewn of Hilta
 tags: []
 name:
   full: Quertewn of Hilta

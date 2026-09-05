@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Asharlath of Eylosan
 tags: []
 name:
   full: Asharlath of Eylosan

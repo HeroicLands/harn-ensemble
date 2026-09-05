@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bel of Hilrich
 tags: []
 name:
   full: Bel of Hilrich

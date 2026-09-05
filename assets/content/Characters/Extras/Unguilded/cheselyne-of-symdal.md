@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyne of Symdal
 tags: []
 name:
   full: Cheselyne of Symdal

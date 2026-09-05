@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makalareen of Chardan
 tags: []
 name:
   full: Makalareen of Chardan

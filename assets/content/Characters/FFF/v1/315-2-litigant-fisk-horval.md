@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Fisk Horval
-  - 315-2 Litigant
 tags: []
 name:
   full: Fisk Horval

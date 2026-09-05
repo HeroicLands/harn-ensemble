@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amathem of Alwamarth
 tags: []
 name:
   full: Amathem of Alwamarth

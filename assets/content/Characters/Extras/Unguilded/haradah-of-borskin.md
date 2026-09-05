@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haradah of Borskin
 tags: []
 name:
   full: Haradah of Borskin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghelime of Charion
 tags: []
 name:
   full: Maeghelime of Charion

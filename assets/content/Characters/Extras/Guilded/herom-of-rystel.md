@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herom of Rystel
 tags: []
 name:
   full: Herom of Rystel

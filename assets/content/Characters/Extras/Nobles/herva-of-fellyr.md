@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herva of Fellyr
 tags: []
 name:
   full: Herva of Fellyr

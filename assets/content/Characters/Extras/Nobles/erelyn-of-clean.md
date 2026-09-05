@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erelyn of Clean
 tags: []
 name:
   full: Erelyn of Clean

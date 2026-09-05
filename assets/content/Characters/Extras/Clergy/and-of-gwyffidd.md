@@ -1,6 +1,4 @@
 ---
-aliases:
-  - And of Gwyffidd
 tags: []
 name:
   full: And of Gwyffidd

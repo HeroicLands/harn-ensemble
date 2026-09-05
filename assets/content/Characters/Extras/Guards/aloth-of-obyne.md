@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aloth of Obyne
 tags: []
 name:
   full: Aloth of Obyne

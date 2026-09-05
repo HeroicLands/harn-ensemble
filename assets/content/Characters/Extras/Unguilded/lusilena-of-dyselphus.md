@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusilena of Dyselphus
 tags: []
 name:
   full: Lusilena of Dyselphus

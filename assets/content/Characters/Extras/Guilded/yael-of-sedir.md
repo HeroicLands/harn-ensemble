@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yael of Sedir
 tags: []
 name:
   full: Yael of Sedir

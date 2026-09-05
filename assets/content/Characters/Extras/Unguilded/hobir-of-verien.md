@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hobir of Verien
 tags: []
 name:
   full: Hobir of Verien

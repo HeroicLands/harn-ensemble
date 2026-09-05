@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Placka
 tags: []
 name:
   full: Makan of Placka

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gaetane of Guinda
 tags: []
 name:
   full: Gaetane of Guinda

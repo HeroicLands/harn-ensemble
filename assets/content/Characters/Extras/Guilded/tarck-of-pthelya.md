@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tarck of Pthelya
 tags: []
 name:
   full: Tarck of Pthelya

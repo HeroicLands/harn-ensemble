@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Totes of Wythin
 tags: []
 name:
   full: Totes of Wythin

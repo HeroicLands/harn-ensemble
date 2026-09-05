@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garisir of Don
 tags: []
 name:
   full: Garisir of Don

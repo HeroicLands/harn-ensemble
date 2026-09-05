@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Koril Kalymsen Aemon
-  - 318-1 Mercantyler
 tags: []
 name:
   full: Koril Kalymsen Aemon

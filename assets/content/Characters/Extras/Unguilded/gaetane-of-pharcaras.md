@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gaetane of Pharcaras
 tags: []
 name:
   full: Gaetane of Pharcaras

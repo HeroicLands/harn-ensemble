@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dir of Karin
 tags: []
 name:
   full: Dir of Karin

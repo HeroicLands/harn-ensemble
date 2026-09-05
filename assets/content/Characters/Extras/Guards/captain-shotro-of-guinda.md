@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Shotro of Guinda
 tags: []
 name:
   full: Captain Shotro of Guinda

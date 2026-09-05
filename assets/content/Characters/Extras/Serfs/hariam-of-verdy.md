@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hariam of Verdy
 tags: []
 name:
   full: Hariam of Verdy

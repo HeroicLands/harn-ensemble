@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Celheren of Branor
 tags: []
 name:
   full: Celheren of Branor

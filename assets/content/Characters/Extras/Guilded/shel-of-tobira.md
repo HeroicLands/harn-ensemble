@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shel of Tobira
 tags: []
 name:
   full: Shel of Tobira

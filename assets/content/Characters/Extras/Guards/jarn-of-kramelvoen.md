@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarn of Kramelvoen
 tags: []
 name:
   full: Jarn of Kramelvoen

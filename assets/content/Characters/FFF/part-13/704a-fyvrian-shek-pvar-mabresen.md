@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mabresen
-  - 704a Fyvrian Shek-Pvar
 tags: []
 name:
   full: Mabresen

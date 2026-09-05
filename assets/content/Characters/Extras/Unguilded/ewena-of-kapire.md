@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewena of Kapire
 tags: []
 name:
   full: Ewena of Kapire

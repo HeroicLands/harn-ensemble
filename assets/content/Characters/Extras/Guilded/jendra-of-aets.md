@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jendra of Aets
 tags: []
 name:
   full: Jendra of Aets

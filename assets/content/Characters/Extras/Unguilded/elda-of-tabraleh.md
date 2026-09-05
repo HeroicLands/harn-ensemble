@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elda of Tabraleh
 tags: []
 name:
   full: Elda of Tabraleh

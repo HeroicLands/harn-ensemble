@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyne of Chornil
 tags: []
 name:
   full: Bresyne of Chornil

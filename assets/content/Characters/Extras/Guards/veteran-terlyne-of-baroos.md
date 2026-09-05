@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Terlyne of Baroos
 tags: []
 name:
   full: Veteran Terlyne of Baroos

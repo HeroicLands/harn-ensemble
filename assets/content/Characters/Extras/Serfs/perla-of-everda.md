@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perla of Everda
 tags: []
 name:
   full: Perla of Everda

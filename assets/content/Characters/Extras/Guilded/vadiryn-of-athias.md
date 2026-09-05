@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vadiryn of Athias
 tags: []
 name:
   full: Vadiryn of Athias

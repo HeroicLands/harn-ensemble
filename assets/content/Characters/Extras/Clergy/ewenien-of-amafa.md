@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewenien of Amafa
 tags: []
 name:
   full: Ewenien of Amafa

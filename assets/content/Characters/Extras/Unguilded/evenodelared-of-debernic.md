@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Evenodelared of Debernic
 tags: []
 name:
   full: Evenodelared of Debernic

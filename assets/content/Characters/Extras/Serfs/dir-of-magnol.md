@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dir of Magnol
 tags: []
 name:
   full: Dir of Magnol

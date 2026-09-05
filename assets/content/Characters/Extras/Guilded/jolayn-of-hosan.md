@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jolayn of Hosan
 tags: []
 name:
   full: Jolayn of Hosan

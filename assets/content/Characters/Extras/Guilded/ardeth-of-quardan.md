@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ardeth of Quardan
 tags: []
 name:
   full: Ardeth of Quardan

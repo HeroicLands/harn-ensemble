@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Jorg Beitis
-  - 334-1 Weaponcrafter
 tags: []
 name:
   full: Jorg Beitis

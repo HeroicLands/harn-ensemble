@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sorol of Bela
 tags: []
 name:
   full: Sorol of Bela

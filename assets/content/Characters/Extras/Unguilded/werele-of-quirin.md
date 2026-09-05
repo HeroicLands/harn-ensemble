@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werele of Quirin
 tags: []
 name:
   full: Werele of Quirin

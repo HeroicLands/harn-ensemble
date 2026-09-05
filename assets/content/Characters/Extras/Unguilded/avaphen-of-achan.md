@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Avaphen of Achan
 tags: []
 name:
   full: Avaphen of Achan

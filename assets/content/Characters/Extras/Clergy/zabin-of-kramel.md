@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zabin of Kramel
 tags: []
 name:
   full: Zabin of Kramel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Hylin
 tags: []
 name:
   full: Terza of Hylin

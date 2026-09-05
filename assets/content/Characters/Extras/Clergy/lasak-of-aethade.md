@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasak of Aethade
 tags: []
 name:
   full: Lasak of Aethade

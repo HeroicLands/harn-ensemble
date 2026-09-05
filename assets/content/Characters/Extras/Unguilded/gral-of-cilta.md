@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gral of Cilta
 tags: []
 name:
   full: Gral of Cilta

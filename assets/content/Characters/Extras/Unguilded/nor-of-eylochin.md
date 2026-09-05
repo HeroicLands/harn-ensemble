@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nor of Eylochin
 tags: []
 name:
   full: Nor of Eylochin

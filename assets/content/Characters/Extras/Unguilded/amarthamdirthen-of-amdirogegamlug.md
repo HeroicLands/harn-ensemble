@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amarthamdirthen of Amdirogegamlug
 tags: []
 name:
   full: Amarthamdirthen of Amdirogegamlug

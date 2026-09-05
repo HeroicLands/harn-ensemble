@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Varos
 tags: []
 name:
   full: Zorna of Varos

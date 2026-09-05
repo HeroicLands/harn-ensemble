@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusil of Asa
 tags: []
 name:
   full: Lusil of Asa

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piris of Eldesaldir
 tags: []
 name:
   full: Piris of Eldesaldir

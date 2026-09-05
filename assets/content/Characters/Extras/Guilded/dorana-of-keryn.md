@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorana of Keryn
 tags: []
 name:
   full: Dorana of Keryn

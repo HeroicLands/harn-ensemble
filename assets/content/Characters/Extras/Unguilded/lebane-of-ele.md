@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lebane of Ele
 tags: []
 name:
   full: Lebane of Ele

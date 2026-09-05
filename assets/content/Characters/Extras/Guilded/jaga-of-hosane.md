@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaga of Hosane
 tags: []
 name:
   full: Jaga of Hosane

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuiquerila of Rollateriel
 tags: []
 name:
   full: Zuiquerila of Rollateriel

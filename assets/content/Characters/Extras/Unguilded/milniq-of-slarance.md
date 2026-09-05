@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Slarance
 tags: []
 name:
   full: Milniq of Slarance

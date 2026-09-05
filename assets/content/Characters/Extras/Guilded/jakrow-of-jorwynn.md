@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakrow of Jorwynn
 tags: []
 name:
   full: Jakrow of Jorwynn

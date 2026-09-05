@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vadir of Athias
 tags: []
 name:
   full: Vadir of Athias

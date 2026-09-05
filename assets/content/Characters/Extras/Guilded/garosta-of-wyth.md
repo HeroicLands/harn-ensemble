@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garosta of Wyth
 tags: []
 name:
   full: Garosta of Wyth

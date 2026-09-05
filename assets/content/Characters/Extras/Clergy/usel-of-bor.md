@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Usel of Bor
 tags: []
 name:
   full: Usel of Bor

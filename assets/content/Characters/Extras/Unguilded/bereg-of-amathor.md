@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bereg of Amathor
 tags: []
 name:
   full: Bereg of Amathor

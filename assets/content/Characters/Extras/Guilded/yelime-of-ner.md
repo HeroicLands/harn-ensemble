@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yelime of Ner
 tags: []
 name:
   full: Yelime of Ner

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helasarina of Loyril
 tags: []
 name:
   full: Helasarina of Loyril

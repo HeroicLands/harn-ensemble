@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Danishela of Marnesku
 tags: []
 name:
   full: Danishela of Marnesku

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nerelyne of Athaen
 tags: []
 name:
   full: Nerelyne of Athaen

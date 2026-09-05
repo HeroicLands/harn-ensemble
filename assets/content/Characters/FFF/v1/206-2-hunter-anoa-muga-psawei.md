@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Muga Psawei
-  - 206-2 Hunter Anoa
 tags: []
 name:
   full: Muga Psawei

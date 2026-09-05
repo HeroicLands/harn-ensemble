@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merena of Debernin
 tags: []
 name:
   full: Merena of Debernin

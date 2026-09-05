@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Trunethas of Tarsel
 tags: []
 name:
   full: Trunethas of Tarsel

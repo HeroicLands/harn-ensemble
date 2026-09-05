@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yelina of Sar
 tags: []
 name:
   full: Yelina of Sar

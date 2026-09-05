@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Indros of Theiast
 tags: []
 name:
   full: Indros of Theiast

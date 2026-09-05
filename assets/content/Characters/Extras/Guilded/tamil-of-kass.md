@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamil of Kass
 tags: []
 name:
   full: Tamil of Kass

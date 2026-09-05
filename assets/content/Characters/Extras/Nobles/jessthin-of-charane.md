@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jessthin of Charane
 tags: []
 name:
   full: Jessthin of Charane

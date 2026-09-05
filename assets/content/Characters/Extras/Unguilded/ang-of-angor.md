@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ang of Angor
 tags: []
 name:
   full: Ang of Angor

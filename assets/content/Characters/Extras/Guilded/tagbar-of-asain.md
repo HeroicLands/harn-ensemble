@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tagbar of Asain
 tags: []
 name:
   full: Tagbar of Asain

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karik of Mykanthes
 tags: []
 name:
   full: Karik of Mykanthes

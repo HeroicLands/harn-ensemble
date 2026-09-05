@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jula of Cinbarnin
 tags: []
 name:
   full: Jula of Cinbarnin

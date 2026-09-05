@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rosak of Shornic
 tags: []
 name:
   full: Rosak of Shornic

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Melvid of Chelya
 tags: []
 name:
   full: Melvid of Chelya

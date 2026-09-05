@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uone of Tarkoff
 tags: []
 name:
   full: Uone of Tarkoff

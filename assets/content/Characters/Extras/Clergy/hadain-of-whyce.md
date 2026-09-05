@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hadain of Whyce
 tags: []
 name:
   full: Hadain of Whyce

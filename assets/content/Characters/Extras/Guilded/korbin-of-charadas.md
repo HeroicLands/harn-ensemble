@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korbin of Charadas
 tags: []
 name:
   full: Korbin of Charadas

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Sosora
 tags: []
 name:
   full: Terba of Sosora

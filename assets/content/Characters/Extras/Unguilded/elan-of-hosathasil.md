@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elan of Hosathasil
 tags: []
 name:
   full: Elan of Hosathasil

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arkael of Cranefris
 tags: []
 name:
   full: Arkael of Cranefris

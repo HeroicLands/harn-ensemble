@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keldan of Okren
 tags: []
 name:
   full: Keldan of Okren

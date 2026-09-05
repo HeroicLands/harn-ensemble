@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Cranoal
 tags: []
 name:
   full: Zorna of Cranoal

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Wethale
 tags: []
 name:
   full: Fryda of Wethale

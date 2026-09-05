@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyn of Dyselwenastallim
 tags: []
 name:
   full: Bresyn of Dyselwenastallim

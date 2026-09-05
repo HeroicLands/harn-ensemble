@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Magnol
 tags: []
 name:
   full: Sylvia of Magnol

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arian of Naras
 tags: []
 name:
   full: Arian of Naras

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Parmen of Domeralgurthalin
 tags: []
 name:
   full: Parmen of Domeralgurthalin

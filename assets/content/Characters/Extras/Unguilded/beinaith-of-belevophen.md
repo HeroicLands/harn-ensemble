@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Beinaith of Belevophen
 tags: []
 name:
   full: Beinaith of Belevophen

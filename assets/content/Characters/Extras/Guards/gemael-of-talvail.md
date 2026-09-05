@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gemael of Talvail
 tags: []
 name:
   full: Gemael of Talvail

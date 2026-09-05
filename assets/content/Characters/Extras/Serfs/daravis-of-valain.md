@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daravis of Valain
 tags: []
 name:
   full: Daravis of Valain

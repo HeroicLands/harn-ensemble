@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaelasar of Chomerros
 tags: []
 name:
   full: Shaelasar of Chomerros

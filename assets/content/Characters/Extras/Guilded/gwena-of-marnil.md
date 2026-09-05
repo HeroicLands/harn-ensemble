@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwena of Marnil
 tags: []
 name:
   full: Gwena of Marnil

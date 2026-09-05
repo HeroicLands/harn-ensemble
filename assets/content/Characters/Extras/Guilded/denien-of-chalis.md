@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Denien of Chalis
 tags: []
 name:
   full: Denien of Chalis

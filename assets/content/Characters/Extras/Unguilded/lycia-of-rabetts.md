@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Rabetts
 tags: []
 name:
   full: Lycia of Rabetts

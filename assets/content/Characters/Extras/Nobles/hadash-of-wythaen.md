@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hadash of Wythaen
 tags: []
 name:
   full: Hadash of Wythaen

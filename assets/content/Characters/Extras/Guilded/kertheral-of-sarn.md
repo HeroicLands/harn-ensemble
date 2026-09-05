@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kertheral of Sarn
 tags: []
 name:
   full: Kertheral of Sarn

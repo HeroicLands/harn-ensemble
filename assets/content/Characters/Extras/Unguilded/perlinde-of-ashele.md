@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perlinde of Ashele
 tags: []
 name:
   full: Perlinde of Ashele

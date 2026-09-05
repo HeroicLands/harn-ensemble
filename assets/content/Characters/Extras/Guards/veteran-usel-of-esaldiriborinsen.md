@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Usel of Esaldiriborinsen
 tags: []
 name:
   full: Veteran Usel of Esaldiriborinsen

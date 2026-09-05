@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Peshmuga of Dulkyia
 tags: []
 name:
   full: Peshmuga of Dulkyia

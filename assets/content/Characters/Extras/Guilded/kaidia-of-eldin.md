@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Eldin
 tags: []
 name:
   full: Kaidia of Eldin

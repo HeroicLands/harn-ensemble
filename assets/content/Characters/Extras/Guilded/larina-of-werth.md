@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Larina of Werth
 tags: []
 name:
   full: Larina of Werth

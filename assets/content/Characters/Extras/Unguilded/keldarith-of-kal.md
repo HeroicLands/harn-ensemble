@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keldarith of Kal
 tags: []
 name:
   full: Keldarith of Kal

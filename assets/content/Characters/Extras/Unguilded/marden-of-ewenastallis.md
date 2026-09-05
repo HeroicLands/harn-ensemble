@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marden of Ewenastallis
 tags: []
 name:
   full: Marden of Ewenastallis

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rondasar of Clean
 tags: []
 name:
   full: Rondasar of Clean

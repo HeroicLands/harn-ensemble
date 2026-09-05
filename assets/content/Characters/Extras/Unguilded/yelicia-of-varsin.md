@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yelicia of Varsin
 tags: []
 name:
   full: Yelicia of Varsin

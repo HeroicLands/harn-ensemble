@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Obrant of Alwen
 tags: []
 name:
   full: Veteran Obrant of Alwen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chend of Chusselsen
 tags: []
 name:
   full: Chend of Chusselsen

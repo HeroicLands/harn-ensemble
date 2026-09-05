@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rackne of Arthalesh
 tags: []
 name:
   full: Rackne of Arthalesh

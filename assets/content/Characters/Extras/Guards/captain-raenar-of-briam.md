@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Raenar of Briam
 tags: []
 name:
   full: Captain Raenar of Briam

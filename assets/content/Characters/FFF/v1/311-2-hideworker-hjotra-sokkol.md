@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hjotra Sokkol
-  - 311-2 Hideworker
 tags: []
 name:
   full: Hjotra Sokkol

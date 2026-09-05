@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raelda of Jaesin
 tags: []
 name:
   full: Raelda of Jaesin

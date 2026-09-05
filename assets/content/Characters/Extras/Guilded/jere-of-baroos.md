@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jere of Baroos
 tags: []
 name:
   full: Jere of Baroos

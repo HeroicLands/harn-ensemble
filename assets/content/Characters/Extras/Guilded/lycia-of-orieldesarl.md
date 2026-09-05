@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Orieldesarl
 tags: []
 name:
   full: Lycia of Orieldesarl

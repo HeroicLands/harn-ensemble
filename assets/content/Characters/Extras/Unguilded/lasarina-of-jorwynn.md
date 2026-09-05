@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasarina of Jorwynn
 tags: []
 name:
   full: Lasarina of Jorwynn

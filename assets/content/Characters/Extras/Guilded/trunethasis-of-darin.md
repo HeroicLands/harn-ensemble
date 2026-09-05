@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Trunethasis of Darin
 tags: []
 name:
   full: Trunethasis of Darin

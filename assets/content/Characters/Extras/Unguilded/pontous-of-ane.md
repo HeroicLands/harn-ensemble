@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Ane
 tags: []
 name:
   full: Pontous of Ane

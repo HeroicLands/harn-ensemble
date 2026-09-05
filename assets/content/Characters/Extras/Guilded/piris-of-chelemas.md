@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piris of Chelemas
 tags: []
 name:
   full: Piris of Chelemas

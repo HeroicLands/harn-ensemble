@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Poldoel of Kapireth
 tags: []
 name:
   full: Veteran Poldoel of Kapireth

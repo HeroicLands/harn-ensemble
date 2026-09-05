@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sebelson of Hiltex
 tags: []
 name:
   full: Sebelson of Hiltex

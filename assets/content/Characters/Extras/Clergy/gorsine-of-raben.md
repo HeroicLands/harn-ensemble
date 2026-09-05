@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Raben
 tags: []
 name:
   full: Gorsine of Raben

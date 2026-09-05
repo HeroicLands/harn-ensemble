@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Lamrin of Ael
 tags: []
 name:
   full: Veteran Lamrin of Ael

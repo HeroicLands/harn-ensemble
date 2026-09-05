@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Magnol
 tags: []
 name:
   full: Sar of Magnol

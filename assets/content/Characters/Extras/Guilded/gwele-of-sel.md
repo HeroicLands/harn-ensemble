@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwele of Sel
 tags: []
 name:
   full: Gwele of Sel

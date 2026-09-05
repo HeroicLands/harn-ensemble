@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwele of Kapireth
 tags: []
 name:
   full: Gwele of Kapireth

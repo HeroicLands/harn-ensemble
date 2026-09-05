@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Molazel of Wesin
 tags: []
 name:
   full: Molazel of Wesin

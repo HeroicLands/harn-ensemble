@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Kar
 tags: []
 name:
   full: Borane of Kar

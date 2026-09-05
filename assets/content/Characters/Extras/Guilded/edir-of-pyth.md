@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edir of Pyth
 tags: []
 name:
   full: Edir of Pyth

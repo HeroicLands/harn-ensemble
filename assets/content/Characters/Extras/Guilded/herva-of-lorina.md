@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herva of Lorina
 tags: []
 name:
   full: Herva of Lorina

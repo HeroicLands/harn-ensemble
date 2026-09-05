@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalina of Hendal
 tags: []
 name:
   full: Kalina of Hendal

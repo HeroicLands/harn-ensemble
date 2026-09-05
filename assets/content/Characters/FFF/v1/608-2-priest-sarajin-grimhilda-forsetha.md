@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Grimhilda Forsetha
-  - 608-2 Priest Sarajin
 tags: []
 name:
   full: Grimhilda Forsetha

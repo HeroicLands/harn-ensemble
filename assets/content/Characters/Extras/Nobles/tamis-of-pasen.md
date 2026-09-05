@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamis of Pasen
 tags: []
 name:
   full: Tamis of Pasen

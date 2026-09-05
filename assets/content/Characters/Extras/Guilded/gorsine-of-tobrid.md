@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Tobrid
 tags: []
 name:
   full: Gorsine of Tobrid

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Elesh
 tags: []
 name:
   full: Kistyne of Elesh

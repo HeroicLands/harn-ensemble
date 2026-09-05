@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwena of Geldis
 tags: []
 name:
   full: Gwena of Geldis

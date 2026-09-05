@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Eryla Cobb
-  - 115-3 Mercenary MF
 tags: []
 name:
   full: Eryla Cobb

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Sabin of Ubern
 tags: []
 name:
   full: Veteran Sabin of Ubern

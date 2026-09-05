@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghela of Loriel
 tags: []
 name:
   full: Maeghela of Loriel

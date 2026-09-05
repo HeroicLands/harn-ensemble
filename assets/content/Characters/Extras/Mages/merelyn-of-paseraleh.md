@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Paseraleh
 tags: []
 name:
   full: Merelyn of Paseraleh

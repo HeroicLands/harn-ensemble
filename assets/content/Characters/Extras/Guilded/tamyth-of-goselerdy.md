@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Goselerdy
 tags: []
 name:
   full: Tamyth of Goselerdy

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Boseral of Hosanefris
 tags: []
 name:
   full: Boseral of Hosanefris

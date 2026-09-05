@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarlam of Gamalkalddan
 tags: []
 name:
   full: Jarlam of Gamalkalddan

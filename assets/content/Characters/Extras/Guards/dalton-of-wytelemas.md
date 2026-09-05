@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dalton of Wytelemas
 tags: []
 name:
   full: Dalton of Wytelemas

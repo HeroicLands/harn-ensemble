@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yago of Wulver
 tags: []
 name:
   full: Yago of Wulver

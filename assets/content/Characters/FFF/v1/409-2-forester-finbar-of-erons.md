@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Finbar of Erons
-  - 409-2 Forester
 tags: []
 name:
   full: Finbar of Erons

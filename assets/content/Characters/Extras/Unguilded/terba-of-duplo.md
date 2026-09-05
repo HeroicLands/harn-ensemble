@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Duplo
 tags: []
 name:
   full: Terba of Duplo

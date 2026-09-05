@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thera of Zendalin
 tags: []
 name:
   full: Thera of Zendalin

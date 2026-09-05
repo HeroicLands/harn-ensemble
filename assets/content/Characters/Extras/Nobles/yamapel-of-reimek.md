@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yamapel of Reimek
 tags: []
 name:
   full: Yamapel of Reimek

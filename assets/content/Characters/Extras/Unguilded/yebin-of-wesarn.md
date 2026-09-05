@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yebin of Wesarn
 tags: []
 name:
   full: Yebin of Wesarn

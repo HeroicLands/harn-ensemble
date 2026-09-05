@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kyresaldis of Chornin
 tags: []
 name:
   full: Kyresaldis of Chornin

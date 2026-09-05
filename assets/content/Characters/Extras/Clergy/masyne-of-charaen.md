@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masyne of Charaen
 tags: []
 name:
   full: Masyne of Charaen

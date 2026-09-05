@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyne of Nal
 tags: []
 name:
   full: Jaslyne of Nal

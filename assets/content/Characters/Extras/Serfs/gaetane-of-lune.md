@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gaetane of Lune
 tags: []
 name:
   full: Gaetane of Lune

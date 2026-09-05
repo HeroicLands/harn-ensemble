@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gyandy of Hylin
 tags: []
 name:
   full: Gyandy of Hylin

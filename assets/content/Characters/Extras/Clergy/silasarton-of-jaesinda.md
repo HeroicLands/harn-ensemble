@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silasarton of Jaesinda
 tags: []
 name:
   full: Silasarton of Jaesinda

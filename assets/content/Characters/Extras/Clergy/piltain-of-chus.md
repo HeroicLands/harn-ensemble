@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piltain of Chus
 tags: []
 name:
   full: Piltain of Chus

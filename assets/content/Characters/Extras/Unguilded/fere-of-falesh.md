@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fere of Falesh
 tags: []
 name:
   full: Fere of Falesh

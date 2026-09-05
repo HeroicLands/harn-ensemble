@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solina of Gel
 tags: []
 name:
   full: Solina of Gel

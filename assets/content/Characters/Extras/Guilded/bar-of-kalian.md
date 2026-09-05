@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bar of Kalian
 tags: []
 name:
   full: Bar of Kalian

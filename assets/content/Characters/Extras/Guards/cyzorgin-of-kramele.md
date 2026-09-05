@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cyzorgin of Kramele
 tags: []
 name:
   full: Cyzorgin of Kramele

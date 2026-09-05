@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merele of Wesaldis
 tags: []
 name:
   full: Merele of Wesaldis

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urlin of Sarl
 tags: []
 name:
   full: Urlin of Sarl

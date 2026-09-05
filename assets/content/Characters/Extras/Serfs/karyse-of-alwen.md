@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyse of Alwen
 tags: []
 name:
   full: Karyse of Alwen

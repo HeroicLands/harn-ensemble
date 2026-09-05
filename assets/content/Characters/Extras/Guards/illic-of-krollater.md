@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Illic of Krollater
 tags: []
 name:
   full: Illic of Krollater

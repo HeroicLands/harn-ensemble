@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kai of Dythaen
 tags: []
 name:
   full: Kai of Dythaen

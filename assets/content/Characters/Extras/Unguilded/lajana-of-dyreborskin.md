@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Dyreborskin
 tags: []
 name:
   full: Lajana of Dyreborskin

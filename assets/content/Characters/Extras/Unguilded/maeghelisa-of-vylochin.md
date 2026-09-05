@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghelisa of Vylochin
 tags: []
 name:
   full: Maeghelisa of Vylochin

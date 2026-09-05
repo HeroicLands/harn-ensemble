@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aradah of Kanthen
 tags: []
 name:
   full: Aradah of Kanthen

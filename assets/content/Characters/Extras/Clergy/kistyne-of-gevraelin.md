@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Gevraelin
 tags: []
 name:
   full: Kistyne of Gevraelin

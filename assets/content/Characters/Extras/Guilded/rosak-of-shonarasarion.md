@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rosak of Shonarasarion
 tags: []
 name:
   full: Rosak of Shonarasarion

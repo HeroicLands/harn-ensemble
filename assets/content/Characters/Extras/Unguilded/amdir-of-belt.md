@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdir of Belt
 tags: []
 name:
   full: Amdir of Belt

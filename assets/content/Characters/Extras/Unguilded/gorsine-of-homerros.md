@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Homerros
 tags: []
 name:
   full: Gorsine of Homerros

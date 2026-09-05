@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rasha of Coselrin
 tags: []
 name:
   full: Rasha of Coselrin

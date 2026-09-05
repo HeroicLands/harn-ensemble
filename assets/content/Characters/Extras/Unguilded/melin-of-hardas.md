@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Melin of Hardas
 tags: []
 name:
   full: Melin of Hardas

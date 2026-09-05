@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewena of Cosel
 tags: []
 name:
   full: Ewena of Cosel

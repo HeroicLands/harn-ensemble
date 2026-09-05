@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorane of Tulkne
 tags: []
 name:
   full: Dorane of Tulkne

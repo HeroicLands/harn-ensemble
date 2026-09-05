@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cholayn of Asain
 tags: []
 name:
   full: Cholayn of Asain

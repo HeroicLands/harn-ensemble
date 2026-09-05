@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Holik of Aethys
 tags: []
 name:
   full: Holik of Aethys

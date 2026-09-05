@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Pyth
 tags: []
 name:
   full: Fryda of Pyth

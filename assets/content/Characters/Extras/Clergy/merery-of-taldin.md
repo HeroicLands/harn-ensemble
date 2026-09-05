@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Taldin
 tags: []
 name:
   full: Merery of Taldin

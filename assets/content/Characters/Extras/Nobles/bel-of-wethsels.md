@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bel of Wethsels
 tags: []
 name:
   full: Bel of Wethsels

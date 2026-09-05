@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gragor of Obyne
 tags: []
 name:
   full: Gragor of Obyne

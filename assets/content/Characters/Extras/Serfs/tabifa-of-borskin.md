@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Borskin
 tags: []
 name:
   full: Tabifa of Borskin

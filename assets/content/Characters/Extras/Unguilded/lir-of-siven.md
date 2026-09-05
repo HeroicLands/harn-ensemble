@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lir of Siven
 tags: []
 name:
   full: Lir of Siven

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erela of Sethade
 tags: []
 name:
   full: Erela of Sethade

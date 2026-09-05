@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Renel
 tags: []
 name:
   full: Merery of Renel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Koridol of Lumede
 tags: []
 name:
   full: Koridol of Lumede

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Wethsel
 tags: []
 name:
   full: Forena of Wethsel

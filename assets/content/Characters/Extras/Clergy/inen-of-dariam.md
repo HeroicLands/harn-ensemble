@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Inen of Dariam
 tags: []
 name:
   full: Inen of Dariam

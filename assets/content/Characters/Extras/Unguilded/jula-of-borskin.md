@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jula of Borskin
 tags: []
 name:
   full: Jula of Borskin

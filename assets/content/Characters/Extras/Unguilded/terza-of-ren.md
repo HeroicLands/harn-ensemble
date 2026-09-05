@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Ren
 tags: []
 name:
   full: Terza of Ren

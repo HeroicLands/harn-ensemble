@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borana of Parin
 tags: []
 name:
   full: Borana of Parin

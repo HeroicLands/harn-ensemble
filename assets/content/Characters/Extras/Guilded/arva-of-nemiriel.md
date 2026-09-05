@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arva of Nemiriel
 tags: []
 name:
   full: Arva of Nemiriel

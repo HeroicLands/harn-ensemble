@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Cinbarn
 tags: []
 name:
   full: Marlyse of Cinbarn

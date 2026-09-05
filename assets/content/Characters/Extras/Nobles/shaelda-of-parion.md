@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaelda of Parion
 tags: []
 name:
   full: Shaelda of Parion

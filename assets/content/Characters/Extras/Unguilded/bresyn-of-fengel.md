@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyn of Fengel
 tags: []
 name:
   full: Bresyn of Fengel

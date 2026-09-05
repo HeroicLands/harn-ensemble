@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lady Elena Valador
-  - 512-1 Lady
 tags: []
 name:
   full: Lady Elena Valador

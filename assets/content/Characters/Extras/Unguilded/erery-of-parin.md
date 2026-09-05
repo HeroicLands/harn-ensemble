@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erery of Parin
 tags: []
 name:
   full: Erery of Parin

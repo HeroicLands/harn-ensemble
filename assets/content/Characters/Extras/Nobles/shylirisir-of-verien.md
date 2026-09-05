@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shylirisir of Verien
 tags: []
 name:
   full: Shylirisir of Verien

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yebin of Peden
 tags: []
 name:
   full: Yebin of Peden

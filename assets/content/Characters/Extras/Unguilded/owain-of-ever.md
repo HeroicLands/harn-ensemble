@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Owain of Ever
 tags: []
 name:
   full: Owain of Ever

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erelyn of Zendana
 tags: []
 name:
   full: Erelyn of Zendana

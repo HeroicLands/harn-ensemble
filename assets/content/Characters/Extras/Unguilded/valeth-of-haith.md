@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Valeth of Haith
 tags: []
 name:
   full: Valeth of Haith

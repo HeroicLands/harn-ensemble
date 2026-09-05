@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Sta of Kapirethes
 tags: []
 name:
   full: Veteran Sta of Kapirethes

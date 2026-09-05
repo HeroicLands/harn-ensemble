@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Tich
 tags: []
 name:
   full: Tolmey of Tich

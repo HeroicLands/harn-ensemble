@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gine of Sel
 tags: []
 name:
   full: Gine of Sel

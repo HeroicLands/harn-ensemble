@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Zoe Fiorfohd
-  - 127-3 Yeoman SB
 tags: []
 name:
   full: Zoe Fiorfohd

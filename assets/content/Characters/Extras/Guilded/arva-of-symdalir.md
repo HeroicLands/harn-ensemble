@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arva of Symdalir
 tags: []
 name:
   full: Arva of Symdalir

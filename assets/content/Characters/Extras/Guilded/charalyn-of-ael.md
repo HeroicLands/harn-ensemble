@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charalyn of Ael
 tags: []
 name:
   full: Charalyn of Ael

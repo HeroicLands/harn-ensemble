@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Owain of Thel
 tags: []
 name:
   full: Owain of Thel

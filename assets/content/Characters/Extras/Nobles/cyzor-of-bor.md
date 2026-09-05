@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cyzor of Bor
 tags: []
 name:
   full: Cyzor of Bor

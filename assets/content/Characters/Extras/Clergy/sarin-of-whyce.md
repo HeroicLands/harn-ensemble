@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Whyce
 tags: []
 name:
   full: Sarin of Whyce

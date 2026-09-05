@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zor of Kansen
 tags: []
 name:
   full: Zor of Kansen

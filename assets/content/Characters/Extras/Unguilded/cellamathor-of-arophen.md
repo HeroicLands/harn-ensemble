@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cellamathor of Arophen
 tags: []
 name:
   full: Cellamathor of Arophen

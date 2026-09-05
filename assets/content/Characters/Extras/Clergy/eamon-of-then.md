@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eamon of Then
 tags: []
 name:
   full: Eamon of Then

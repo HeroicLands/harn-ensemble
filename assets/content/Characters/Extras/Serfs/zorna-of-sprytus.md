@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Sprytus
 tags: []
 name:
   full: Zorna of Sprytus

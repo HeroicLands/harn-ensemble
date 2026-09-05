@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dar of Aeb
 tags: []
 name:
   full: Dar of Aeb

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Meral
 tags: []
 name:
   full: Borane of Meral

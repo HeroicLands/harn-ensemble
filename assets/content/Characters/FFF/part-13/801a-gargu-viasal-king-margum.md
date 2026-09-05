@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Margum
-  - 801a Gargu-Viasal King
 tags: []
 name:
   full: Margum

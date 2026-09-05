@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaldis of Partuna
 tags: []
 name:
   full: Kaldis of Partuna

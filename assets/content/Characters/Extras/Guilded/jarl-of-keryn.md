@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarl of Keryn
 tags: []
 name:
   full: Jarl of Keryn

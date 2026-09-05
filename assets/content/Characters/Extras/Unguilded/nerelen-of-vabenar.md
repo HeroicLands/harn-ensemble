@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nerelen of Vabenar
 tags: []
 name:
   full: Nerelen of Vabenar

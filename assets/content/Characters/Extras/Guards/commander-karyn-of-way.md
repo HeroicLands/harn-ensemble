@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Commander Karyn of Way
 tags: []
 name:
   full: Commander Karyn of Way

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Halid of Aikarin
 tags: []
 name:
   full: Halid of Aikarin

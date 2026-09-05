@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Achafin of Beltharaninior
 tags: []
 name:
   full: Achafin of Beltharaninior

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sta of Chatil
 tags: []
 name:
   full: Sta of Chatil

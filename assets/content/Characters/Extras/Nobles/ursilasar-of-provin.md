@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ursilasar of Provin
 tags: []
 name:
   full: Ursilasar of Provin

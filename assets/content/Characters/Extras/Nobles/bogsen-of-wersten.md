@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bogsen of Wersten
 tags: []
 name:
   full: Bogsen of Wersten

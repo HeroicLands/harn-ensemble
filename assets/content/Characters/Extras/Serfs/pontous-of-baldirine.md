@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Baldirine
 tags: []
 name:
   full: Pontous of Baldirine

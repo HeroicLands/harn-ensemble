@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arandy of Laplacka
 tags: []
 name:
   full: Arandy of Laplacka

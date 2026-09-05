@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haffyth of Placka
 tags: []
 name:
   full: Haffyth of Placka

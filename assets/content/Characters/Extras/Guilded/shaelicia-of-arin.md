@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaelicia of Arin
 tags: []
 name:
   full: Shaelicia of Arin

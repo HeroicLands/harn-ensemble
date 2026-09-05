@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shael of Balin
 tags: []
 name:
   full: Shael of Balin

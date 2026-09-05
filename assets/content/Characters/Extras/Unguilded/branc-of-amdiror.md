@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Branc of Amdiror
 tags: []
 name:
   full: Branc of Amdiror

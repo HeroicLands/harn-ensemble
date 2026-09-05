@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Andy of Vanthes
 tags: []
 name:
   full: Andy of Vanthes

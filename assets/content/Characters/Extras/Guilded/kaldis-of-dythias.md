@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaldis of Dythias
 tags: []
 name:
   full: Kaldis of Dythias

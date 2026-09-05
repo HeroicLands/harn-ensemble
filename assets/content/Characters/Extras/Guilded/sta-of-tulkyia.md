@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sta of Tulkyia
 tags: []
 name:
   full: Sta of Tulkyia

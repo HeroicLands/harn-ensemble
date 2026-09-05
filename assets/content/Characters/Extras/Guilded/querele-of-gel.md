@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Querele of Gel
 tags: []
 name:
   full: Querele of Gel

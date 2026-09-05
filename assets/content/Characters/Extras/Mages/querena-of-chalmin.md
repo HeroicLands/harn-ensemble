@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Querena of Chalmin
 tags: []
 name:
   full: Querena of Chalmin

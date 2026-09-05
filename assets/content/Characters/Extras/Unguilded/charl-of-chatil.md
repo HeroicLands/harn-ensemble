@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charl of Chatil
 tags: []
 name:
   full: Charl of Chatil

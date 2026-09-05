@@ -1,6 +1,4 @@
 ---
-aliases:
-  - The Pentacle
 tags: []
 id: iQzDh13KVsOrpbqc
 type: affiliation

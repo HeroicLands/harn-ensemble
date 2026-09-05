@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Varas
 tags: []
 name:
   full: Kaidia of Varas

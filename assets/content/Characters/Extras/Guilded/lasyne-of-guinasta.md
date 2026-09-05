@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasyne of Guinasta
 tags: []
 name:
   full: Lasyne of Guinasta

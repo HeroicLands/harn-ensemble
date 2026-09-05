@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Hilrin
 tags: []
 name:
   full: Chola of Hilrin

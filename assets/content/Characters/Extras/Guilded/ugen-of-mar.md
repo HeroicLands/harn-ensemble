@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ugen of Mar
 tags: []
 name:
   full: Ugen of Mar

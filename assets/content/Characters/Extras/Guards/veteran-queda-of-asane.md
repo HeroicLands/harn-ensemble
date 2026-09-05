@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Queda of Asane
 tags: []
 name:
   full: Veteran Queda of Asane

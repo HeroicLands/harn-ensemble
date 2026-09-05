@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dar of Karion
 tags: []
 name:
   full: Dar of Karion

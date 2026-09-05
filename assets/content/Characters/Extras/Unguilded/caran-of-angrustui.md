@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caran of Angrustui
 tags: []
 name:
   full: Caran of Angrustui

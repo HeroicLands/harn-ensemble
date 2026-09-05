@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aquillic of Debernil
 tags: []
 name:
   full: Aquillic of Debernil

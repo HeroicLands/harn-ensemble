@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Feldin of Dulkne
 tags: []
 name:
   full: Feldin of Dulkne

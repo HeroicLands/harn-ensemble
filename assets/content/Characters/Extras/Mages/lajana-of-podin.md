@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Podin
 tags: []
 name:
   full: Lajana of Podin

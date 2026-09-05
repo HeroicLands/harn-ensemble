@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terlyn of Gwyffidd
 tags: []
 name:
   full: Terlyn of Gwyffidd

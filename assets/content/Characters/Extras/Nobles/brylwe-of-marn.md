@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brylwe of Marn
 tags: []
 name:
   full: Brylwe of Marn

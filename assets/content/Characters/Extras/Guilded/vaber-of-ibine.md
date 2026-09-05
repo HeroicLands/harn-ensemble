@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vaber of Ibine
 tags: []
 name:
   full: Vaber of Ibine

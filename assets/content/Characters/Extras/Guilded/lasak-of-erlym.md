@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasak of Erlym
 tags: []
 name:
   full: Lasak of Erlym

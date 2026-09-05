@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lysat of Thoff
 tags: []
 name:
   full: Lysat of Thoff

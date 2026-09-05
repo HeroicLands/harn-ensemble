@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merena of Pariborin
 tags: []
 name:
   full: Merena of Pariborin

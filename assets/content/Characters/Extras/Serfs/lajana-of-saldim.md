@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Saldim
 tags: []
 name:
   full: Lajana of Saldim

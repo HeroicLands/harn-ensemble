@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gemael of Stelesh
 tags: []
 name:
   full: Gemael of Stelesh

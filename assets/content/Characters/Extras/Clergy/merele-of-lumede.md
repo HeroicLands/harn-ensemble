@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merele of Lumede
 tags: []
 name:
   full: Merele of Lumede

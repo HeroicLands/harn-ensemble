@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwena of Asain
 tags: []
 name:
   full: Gwena of Asain

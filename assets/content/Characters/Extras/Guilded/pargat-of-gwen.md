@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pargat of Gwen
 tags: []
 name:
   full: Pargat of Gwen

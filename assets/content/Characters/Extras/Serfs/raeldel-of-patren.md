@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeldel of Patren
 tags: []
 name:
   full: Raeldel of Patren

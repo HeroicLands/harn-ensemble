@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harqueda of Kalddan
 tags: []
 name:
   full: Harqueda of Kalddan

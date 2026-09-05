@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Cadrune
 tags: []
 name:
   full: Lajana of Cadrune

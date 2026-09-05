@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shel of Banth
 tags: []
 name:
   full: Shel of Banth

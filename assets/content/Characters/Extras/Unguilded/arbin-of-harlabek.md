@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbin of Harlabek
 tags: []
 name:
   full: Arbin of Harlabek

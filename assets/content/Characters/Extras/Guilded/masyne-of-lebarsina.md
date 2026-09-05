@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masyne of Lebarsina
 tags: []
 name:
   full: Masyne of Lebarsina

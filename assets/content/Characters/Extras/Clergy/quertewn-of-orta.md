@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quertewn of Orta
 tags: []
 name:
   full: Quertewn of Orta

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elderien of Siven
 tags: []
 name:
   full: Elderien of Siven

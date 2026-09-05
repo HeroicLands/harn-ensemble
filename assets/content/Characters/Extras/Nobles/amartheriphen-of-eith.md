@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amartheriphen of Eith
 tags: []
 name:
   full: Amartheriphen of Eith

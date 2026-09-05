@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Chatil
 tags: []
 name:
   full: Zorna of Chatil

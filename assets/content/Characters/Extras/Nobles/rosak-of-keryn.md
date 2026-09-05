@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rosak of Keryn
 tags: []
 name:
   full: Rosak of Keryn

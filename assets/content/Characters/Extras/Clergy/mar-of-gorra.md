@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mar of Gorra
 tags: []
 name:
   full: Mar of Gorra

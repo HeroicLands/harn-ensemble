@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Natgenin of Ewen
 tags: []
 name:
   full: Natgenin of Ewen

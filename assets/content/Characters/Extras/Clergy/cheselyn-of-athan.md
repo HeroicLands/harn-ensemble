@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyn of Athan
 tags: []
 name:
   full: Cheselyn of Athan

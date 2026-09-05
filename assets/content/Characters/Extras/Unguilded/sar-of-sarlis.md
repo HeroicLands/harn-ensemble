@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Sarlis
 tags: []
 name:
   full: Sar of Sarlis

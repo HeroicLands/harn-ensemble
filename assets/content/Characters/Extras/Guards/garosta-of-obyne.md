@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garosta of Obyne
 tags: []
 name:
   full: Garosta of Obyne

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bolgar the Mad
-  - 413-1 Ratter
 tags: []
 name:
   full: Bolgar the Mad

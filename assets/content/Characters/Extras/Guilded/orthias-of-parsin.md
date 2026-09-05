@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthias of Parsin
 tags: []
 name:
   full: Orthias of Parsin

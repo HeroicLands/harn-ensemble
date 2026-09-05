@@ -1,6 +1,4 @@
 ---
-aliases:
-  - She of Onparin
 tags: []
 name:
   full: She of Onparin

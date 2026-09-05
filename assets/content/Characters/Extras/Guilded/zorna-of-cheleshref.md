@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Cheleshref
 tags: []
 name:
   full: Zorna of Cheleshref

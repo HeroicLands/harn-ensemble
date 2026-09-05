@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Molanas of Qatorzin
 tags: []
 name:
   full: Molanas of Qatorzin

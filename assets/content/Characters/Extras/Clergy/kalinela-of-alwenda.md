@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalinela of Alwenda
 tags: []
 name:
   full: Kalinela of Alwenda

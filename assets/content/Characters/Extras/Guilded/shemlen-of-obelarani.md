@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlen of Obelarani
 tags: []
 name:
   full: Shemlen of Obelarani

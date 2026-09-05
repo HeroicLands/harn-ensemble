@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ith of Merkenos
 tags: []
 name:
   full: Ith of Merkenos

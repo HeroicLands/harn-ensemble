@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuke of Everdy
 tags: []
 name:
   full: Zuke of Everdy

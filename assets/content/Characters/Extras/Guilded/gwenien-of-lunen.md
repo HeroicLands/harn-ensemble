@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwenien of Lunen
 tags: []
 name:
   full: Gwenien of Lunen

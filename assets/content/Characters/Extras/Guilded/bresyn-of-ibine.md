@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bresyn of Ibine
 tags: []
 name:
   full: Bresyn of Ibine

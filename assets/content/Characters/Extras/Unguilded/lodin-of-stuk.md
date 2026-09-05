@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lodin of Stuk
 tags: []
 name:
   full: Lodin of Stuk

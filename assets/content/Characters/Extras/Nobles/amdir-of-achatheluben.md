@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdir of Achatheluben
 tags: []
 name:
   full: Amdir of Achatheluben

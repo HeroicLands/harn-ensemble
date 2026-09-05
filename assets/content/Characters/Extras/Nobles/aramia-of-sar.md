@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Sar
 tags: []
 name:
   full: Aramia of Sar

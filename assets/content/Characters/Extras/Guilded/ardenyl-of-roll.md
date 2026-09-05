@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ardenyl of Roll
 tags: []
 name:
   full: Ardenyl of Roll

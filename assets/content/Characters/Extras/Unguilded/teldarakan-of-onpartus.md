@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Teldarakan of Onpartus
 tags: []
 name:
   full: Teldarakan of Onpartus

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gina of Troch
 tags: []
 name:
   full: Gina of Troch

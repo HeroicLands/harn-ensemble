@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mereda of Vanth
 tags: []
 name:
   full: Mereda of Vanth

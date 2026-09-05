@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Amafa
 tags: []
 name:
   full: Milniq of Amafa

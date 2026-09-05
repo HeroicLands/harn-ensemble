@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakan of Quarliss
 tags: []
 name:
   full: Jakan of Quarliss

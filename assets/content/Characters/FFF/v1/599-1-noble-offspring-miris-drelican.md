@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Miris Drelican
-  - 599-1 Noble Offspring
 tags: []
 name:
   full: Miris Drelican

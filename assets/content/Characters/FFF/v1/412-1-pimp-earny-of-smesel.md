@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Earny of Smesel
-  - 412-1 Pimp
 tags: []
 name:
   full: Earny of Smesel

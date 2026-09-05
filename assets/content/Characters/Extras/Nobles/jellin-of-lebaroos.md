@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jellin of Lebaroos
 tags: []
 name:
   full: Jellin of Lebaroos

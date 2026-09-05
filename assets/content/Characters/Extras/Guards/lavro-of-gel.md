@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lavro of Gel
 tags: []
 name:
   full: Lavro of Gel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mar of Chus
 tags: []
 name:
   full: Mar of Chus

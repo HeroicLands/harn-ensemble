@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Seelie of Kestel
-  - 302-1 Apothecary
 tags: []
 name:
   full: Seelie of Kestel

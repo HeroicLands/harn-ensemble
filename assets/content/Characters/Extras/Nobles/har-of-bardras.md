@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Har of Bardras
 tags: []
 name:
   full: Har of Bardras

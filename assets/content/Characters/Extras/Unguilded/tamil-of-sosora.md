@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamil of Sosora
 tags: []
 name:
   full: Tamil of Sosora

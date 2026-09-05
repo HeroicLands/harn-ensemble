@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Taran Ensal
-  - 504-1 Squire
 tags: []
 name:
   full: Taran Ensal

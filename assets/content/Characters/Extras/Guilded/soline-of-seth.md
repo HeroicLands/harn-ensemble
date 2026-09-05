@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Soline of Seth
 tags: []
 name:
   full: Soline of Seth

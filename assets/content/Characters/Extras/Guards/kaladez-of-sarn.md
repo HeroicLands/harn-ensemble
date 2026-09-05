@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaladez of Sarn
 tags: []
 name:
   full: Kaladez of Sarn

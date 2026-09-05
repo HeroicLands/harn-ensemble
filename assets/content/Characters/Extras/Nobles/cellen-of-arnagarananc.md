@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cellen of Arnagarananc
 tags: []
 name:
   full: Cellen of Arnagarananc

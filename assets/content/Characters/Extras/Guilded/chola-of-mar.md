@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Mar
 tags: []
 name:
   full: Chola of Mar

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Elwethendan
 tags: []
 name:
   full: Kistyne of Elwethendan

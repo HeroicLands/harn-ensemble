@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Kantarkoff
 tags: []
 name:
   full: Kaidia of Kantarkoff

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ryle of Asain
 tags: []
 name:
   full: Ryle of Asain

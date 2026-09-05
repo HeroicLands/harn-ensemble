@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Narien of Asarnesku
 tags: []
 name:
   full: Narien of Asarnesku

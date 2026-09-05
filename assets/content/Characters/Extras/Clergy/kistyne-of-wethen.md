@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Wethen
 tags: []
 name:
   full: Kistyne of Wethen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlael of Aelin
 tags: []
 name:
   full: Anlael of Aelin

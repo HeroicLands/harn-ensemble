@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jered of Kalian
 tags: []
 name:
   full: Jered of Kalian

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kuvel of Chariam
 tags: []
 name:
   full: Kuvel of Chariam

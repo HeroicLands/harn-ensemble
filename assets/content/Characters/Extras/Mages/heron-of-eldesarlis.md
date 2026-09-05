@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heron of Eldesarlis
 tags: []
 name:
   full: Heron of Eldesarlis

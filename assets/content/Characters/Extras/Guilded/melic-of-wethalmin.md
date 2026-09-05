@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Melic of Wethalmin
 tags: []
 name:
   full: Melic of Wethalmin

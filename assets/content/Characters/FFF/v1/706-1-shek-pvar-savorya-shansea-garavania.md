@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Shansea Garavania
-  - 706-1 Shek Pvar Savorya
 tags: []
 name:
   full: Shansea Garavania

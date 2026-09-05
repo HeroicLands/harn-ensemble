@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Wen
 tags: []
 name:
   full: Makan of Wen

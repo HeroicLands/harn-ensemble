@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Inrant of Tabralgurty
 tags: []
 name:
   full: Inrant of Tabralgurty

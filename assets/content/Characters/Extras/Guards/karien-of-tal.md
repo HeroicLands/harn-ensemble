@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karien of Tal
 tags: []
 name:
   full: Karien of Tal

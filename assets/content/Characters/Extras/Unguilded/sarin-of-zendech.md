@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Zendech
 tags: []
 name:
   full: Sarin of Zendech

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Krak of Valasain
 tags: []
 name:
   full: Krak of Valasain

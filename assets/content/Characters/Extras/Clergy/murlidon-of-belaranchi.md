@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Murlidon of Belaranchi
 tags: []
 name:
   full: Murlidon of Belaranchi

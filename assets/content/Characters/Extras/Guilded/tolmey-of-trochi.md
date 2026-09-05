@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Trochi
 tags: []
 name:
   full: Tolmey of Trochi

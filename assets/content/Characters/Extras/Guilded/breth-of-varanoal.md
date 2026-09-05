@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breth of Varanoal
 tags: []
 name:
   full: Breth of Varanoal

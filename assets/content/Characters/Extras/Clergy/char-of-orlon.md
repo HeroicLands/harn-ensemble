@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Char of Orlon
 tags: []
 name:
   full: Char of Orlon

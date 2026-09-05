@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bogsen of Crane
 tags: []
 name:
   full: Bogsen of Crane

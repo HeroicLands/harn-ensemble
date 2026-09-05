@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Siven
 tags: []
 name:
   full: Merery of Siven

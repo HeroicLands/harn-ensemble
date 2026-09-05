@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alarondis of Darin
 tags: []
 name:
   full: Alarondis of Darin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Chomslow
 tags: []
 name:
   full: Forena of Chomslow

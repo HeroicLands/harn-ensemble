@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaelis of Matlim
 tags: []
 name:
   full: Shaelis of Matlim

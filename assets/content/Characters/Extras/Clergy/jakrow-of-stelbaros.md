@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakrow of Stelbaros
 tags: []
 name:
   full: Jakrow of Stelbaros

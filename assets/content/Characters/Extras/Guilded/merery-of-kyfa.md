@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Kyfa
 tags: []
 name:
   full: Merery of Kyfa

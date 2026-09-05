@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Parsumen of Ever
 tags: []
 name:
   full: Parsumen of Ever

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrelyne of Mykantar
 tags: []
 name:
   full: Myrelyne of Mykantar

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyn of Merlesh
 tags: []
 name:
   full: Cheselyn of Merlesh

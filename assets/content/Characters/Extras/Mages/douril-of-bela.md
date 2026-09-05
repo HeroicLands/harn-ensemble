@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Douril of Bela
 tags: []
 name:
   full: Douril of Bela

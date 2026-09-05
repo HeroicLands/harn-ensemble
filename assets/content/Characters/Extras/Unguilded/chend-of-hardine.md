@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chend of Hardine
 tags: []
 name:
   full: Chend of Hardine

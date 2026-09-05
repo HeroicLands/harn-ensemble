@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werery of Coselen
 tags: []
 name:
   full: Werery of Coselen

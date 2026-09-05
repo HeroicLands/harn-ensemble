@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arkot of Lundondech
 tags: []
 name:
   full: Arkot of Lundondech

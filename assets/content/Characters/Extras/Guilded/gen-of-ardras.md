@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gen of Ardras
 tags: []
 name:
   full: Gen of Ardras

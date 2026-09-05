@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Eitri Terrika
-  - 106-1 Khuzdul MF
 tags: []
 name:
   full: Eitri Terrika

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanisa of Dulkyia
 tags: []
 name:
   full: Chanisa of Dulkyia

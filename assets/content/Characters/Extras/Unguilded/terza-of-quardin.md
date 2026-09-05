@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Quardin
 tags: []
 name:
   full: Terza of Quardin

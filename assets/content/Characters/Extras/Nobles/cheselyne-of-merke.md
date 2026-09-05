@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyne of Merke
 tags: []
 name:
   full: Cheselyne of Merke

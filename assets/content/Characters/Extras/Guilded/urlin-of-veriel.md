@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urlin of Veriel
 tags: []
 name:
   full: Urlin of Veriel

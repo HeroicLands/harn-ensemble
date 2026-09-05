@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mera of Banth
 tags: []
 name:
   full: Mera of Banth

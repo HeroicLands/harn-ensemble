@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Corfyn of Deth
 tags: []
 name:
   full: Corfyn of Deth

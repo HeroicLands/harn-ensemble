@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyn of Ardrass
 tags: []
 name:
   full: Cheselyn of Ardrass

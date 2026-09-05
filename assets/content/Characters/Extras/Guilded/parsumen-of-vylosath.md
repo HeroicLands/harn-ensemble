@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Parsumen of Vylosath
 tags: []
 name:
   full: Parsumen of Vylosath

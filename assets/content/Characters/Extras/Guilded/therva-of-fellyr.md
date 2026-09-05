@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Therva of Fellyr
 tags: []
 name:
   full: Therva of Fellyr

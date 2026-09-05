@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tarlen of Belarass
 tags: []
 name:
   full: Tarlen of Belarass

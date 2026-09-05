@@ -1,6 +1,4 @@
 ---
-aliases:
-  - And of Yalesh
 tags: []
 name:
   full: And of Yalesh

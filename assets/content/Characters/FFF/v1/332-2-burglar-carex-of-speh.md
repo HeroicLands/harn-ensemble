@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Carex of Speh
-  - 332-2 Burglar
 tags: []
 name:
   full: Carex of Speh

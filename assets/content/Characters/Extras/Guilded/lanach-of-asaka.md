@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lanach of Asaka
 tags: []
 name:
   full: Lanach of Asaka

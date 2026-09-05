@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orin of Bantarsuel
 tags: []
 name:
   full: Orin of Bantarsuel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kele of Jere
 tags: []
 name:
   full: Kele of Jere

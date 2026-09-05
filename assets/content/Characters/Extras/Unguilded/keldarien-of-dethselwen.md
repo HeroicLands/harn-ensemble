@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keldarien of Dethselwen
 tags: []
 name:
   full: Keldarien of Dethselwen

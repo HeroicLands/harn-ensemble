@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Varsuel
 tags: []
 name:
   full: Tolmey of Varsuel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Irdan of Burralode
 tags: []
 name:
   full: Irdan of Burralode

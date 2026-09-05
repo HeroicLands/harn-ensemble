@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obrayzelanas of Hosane
 tags: []
 name:
   full: Obrayzelanas of Hosane

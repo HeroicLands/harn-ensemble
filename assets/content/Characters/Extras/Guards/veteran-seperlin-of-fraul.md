@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Seperlin of Fraul
 tags: []
 name:
   full: Veteran Seperlin of Fraul

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuldagmek of Agarin
 tags: []
 name:
   full: Zuldagmek of Agarin

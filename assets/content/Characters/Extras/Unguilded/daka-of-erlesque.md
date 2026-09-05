@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Erlesque
 tags: []
 name:
   full: Daka of Erlesque

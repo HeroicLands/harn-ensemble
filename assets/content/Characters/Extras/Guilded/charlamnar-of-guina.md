@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charlamnar of Guina
 tags: []
 name:
   full: Charlamnar of Guina

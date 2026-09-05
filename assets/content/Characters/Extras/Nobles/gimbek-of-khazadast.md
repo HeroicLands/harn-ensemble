@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gimbek of Khazadast
 tags: []
 name:
   full: Gimbek of Khazadast

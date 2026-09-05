@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyn of Narad
 tags: []
 name:
   full: Jaslyn of Narad

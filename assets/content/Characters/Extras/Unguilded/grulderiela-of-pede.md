@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grulderiela of Pede
 tags: []
 name:
   full: Grulderiela of Pede

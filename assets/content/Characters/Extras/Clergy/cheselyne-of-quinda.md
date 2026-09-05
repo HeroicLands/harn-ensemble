@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyne of Quinda
 tags: []
 name:
   full: Cheselyne of Quinda

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hennigarasha of Elwethen
 tags: []
 name:
   full: Hennigarasha of Elwethen

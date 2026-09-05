@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Semis of Tal
 tags: []
 name:
   full: Semis of Tal

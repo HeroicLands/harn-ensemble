@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obiria of Lunen
 tags: []
 name:
   full: Obiria of Lunen

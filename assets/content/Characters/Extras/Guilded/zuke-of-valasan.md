@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuke of Valasan
 tags: []
 name:
   full: Zuke of Valasan

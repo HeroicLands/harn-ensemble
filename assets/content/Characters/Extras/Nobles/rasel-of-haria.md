@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rasel of Haria
 tags: []
 name:
   full: Rasel of Haria

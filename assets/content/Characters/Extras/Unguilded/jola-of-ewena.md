@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jola of Ewena
 tags: []
 name:
   full: Jola of Ewena

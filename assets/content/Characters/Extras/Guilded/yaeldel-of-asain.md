@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yaeldel of Asain
 tags: []
 name:
   full: Yaeldel of Asain

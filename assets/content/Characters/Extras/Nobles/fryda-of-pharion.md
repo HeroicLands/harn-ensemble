@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Pharion
 tags: []
 name:
   full: Fryda of Pharion

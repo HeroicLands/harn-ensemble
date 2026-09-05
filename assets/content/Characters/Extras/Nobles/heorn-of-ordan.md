@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heorn of Ordan
 tags: []
 name:
   full: Heorn of Ordan

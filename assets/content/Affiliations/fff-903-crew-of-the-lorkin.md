@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crew of the Lorkin
 tags: []
 id: mdK3o95SY1otZiLK
 type: affiliation

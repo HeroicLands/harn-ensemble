@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lavro of Sedir
 tags: []
 name:
   full: Lavro of Sedir

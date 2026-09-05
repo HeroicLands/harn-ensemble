@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lamnar of Madib
 tags: []
 name:
   full: Lamnar of Madib

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lam of Duplo
 tags: []
 name:
   full: Lam of Duplo

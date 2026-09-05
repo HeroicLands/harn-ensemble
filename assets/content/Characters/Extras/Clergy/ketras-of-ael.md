@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ketras of Ael
 tags: []
 name:
   full: Ketras of Ael

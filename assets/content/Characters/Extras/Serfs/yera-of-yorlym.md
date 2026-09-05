@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yera of Yorlym
 tags: []
 name:
   full: Yera of Yorlym

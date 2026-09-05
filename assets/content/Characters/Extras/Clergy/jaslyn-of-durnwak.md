@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyn of Durnwak
 tags: []
 name:
   full: Jaslyn of Durnwak

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Opondik
 tags: []
 name:
   full: Sylvia of Opondik

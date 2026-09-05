@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarm of Ael
 tags: []
 name:
   full: Klarm of Ael

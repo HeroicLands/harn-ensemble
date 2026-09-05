@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdir of Amatheben
 tags: []
 name:
   full: Amdir of Amatheben

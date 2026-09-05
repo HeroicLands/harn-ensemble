@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kyresa of Dyrebor
 tags: []
 name:
   full: Kyresa of Dyrebor

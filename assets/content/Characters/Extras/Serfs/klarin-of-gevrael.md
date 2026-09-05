@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarin of Gevrael
 tags: []
 name:
   full: Klarin of Gevrael

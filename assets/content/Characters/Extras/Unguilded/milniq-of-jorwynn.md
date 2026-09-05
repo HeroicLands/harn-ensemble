@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Jorwynn
 tags: []
 name:
   full: Milniq of Jorwynn

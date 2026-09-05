@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sir Morhgan Cade
-  - 506-3 Feudal Knight MH
 tags: []
 name:
   full: Sir Morhgan Cade

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Lere
 tags: []
 name:
   full: Tolmey of Lere

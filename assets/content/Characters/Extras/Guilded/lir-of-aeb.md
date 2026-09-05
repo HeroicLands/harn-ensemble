@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lir of Aeb
 tags: []
 name:
   full: Lir of Aeb

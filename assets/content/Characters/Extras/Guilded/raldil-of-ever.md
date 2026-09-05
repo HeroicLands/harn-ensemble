@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raldil of Ever
 tags: []
 name:
   full: Raldil of Ever

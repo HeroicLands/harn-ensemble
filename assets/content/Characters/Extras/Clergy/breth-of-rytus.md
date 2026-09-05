@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breth of Rytus
 tags: []
 name:
   full: Breth of Rytus

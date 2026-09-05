@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Ath
 tags: []
 name:
   full: Raeda of Ath

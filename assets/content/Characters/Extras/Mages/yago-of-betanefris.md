@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yago of Betanefris
 tags: []
 name:
   full: Yago of Betanefris

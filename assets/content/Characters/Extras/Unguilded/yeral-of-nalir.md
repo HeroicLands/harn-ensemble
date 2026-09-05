@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yeral of Nalir
 tags: []
 name:
   full: Yeral of Nalir

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gillis of Thoff
 tags: []
 name:
   full: Gillis of Thoff

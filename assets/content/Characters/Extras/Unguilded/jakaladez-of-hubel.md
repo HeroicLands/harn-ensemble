@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakaladez of Hubel
 tags: []
 name:
   full: Jakaladez of Hubel

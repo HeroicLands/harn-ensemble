@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ereda of Grath
 tags: []
 name:
   full: Ereda of Grath

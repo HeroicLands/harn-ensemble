@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelime of Sarin
 tags: []
 name:
   full: Pelime of Sarin

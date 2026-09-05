@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyn of Pendech
 tags: []
 name:
   full: Cersyn of Pendech

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Alwamarthior of Blabonthaluben
 tags: []
 name:
   full: Alwamarthior of Blabonthaluben

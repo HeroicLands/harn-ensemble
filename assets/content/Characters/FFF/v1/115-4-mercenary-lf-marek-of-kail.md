@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Marek of Kail
-  - 115-4 Mercenary LF
 tags: []
 name:
   full: Marek of Kail

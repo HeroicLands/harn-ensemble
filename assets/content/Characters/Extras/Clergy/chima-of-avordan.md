@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chima of Avordan
 tags: []
 name:
   full: Chima of Avordan

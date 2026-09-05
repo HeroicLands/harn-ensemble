@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalared of Lebarsuel
 tags: []
 name:
   full: Kalared of Lebarsuel

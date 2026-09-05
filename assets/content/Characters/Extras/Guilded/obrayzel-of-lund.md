@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obrayzel of Lund
 tags: []
 name:
   full: Obrayzel of Lund

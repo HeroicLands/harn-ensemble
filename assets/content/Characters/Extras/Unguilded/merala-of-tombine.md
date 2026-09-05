@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merala of Tombine
 tags: []
 name:
   full: Merala of Tombine

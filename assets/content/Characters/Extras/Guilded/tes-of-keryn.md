@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tes of Keryn
 tags: []
 name:
   full: Tes of Keryn

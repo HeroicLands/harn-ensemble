@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Agaru of Agarwenedrilph
 tags: []
 name:
   full: Agaru of Agarwenedrilph

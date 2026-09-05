@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yebin of Merbenalasane
 tags: []
 name:
   full: Yebin of Merbenalasane

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ginelle of Arthaleh
 tags: []
 name:
   full: Ginelle of Arthaleh

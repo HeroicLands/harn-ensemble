@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorel of Sediribe
 tags: []
 name:
   full: Lorel of Sediribe

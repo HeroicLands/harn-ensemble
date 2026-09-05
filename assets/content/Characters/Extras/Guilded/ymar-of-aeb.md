@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ymar of Aeb
 tags: []
 name:
   full: Ymar of Aeb

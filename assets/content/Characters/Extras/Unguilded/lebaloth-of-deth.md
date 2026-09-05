@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lebaloth of Deth
 tags: []
 name:
   full: Lebaloth of Deth

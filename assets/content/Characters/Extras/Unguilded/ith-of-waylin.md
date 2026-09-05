@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ith of Waylin
 tags: []
 name:
   full: Ith of Waylin

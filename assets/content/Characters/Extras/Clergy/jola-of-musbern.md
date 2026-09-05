@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jola of Musbern
 tags: []
 name:
   full: Jola of Musbern

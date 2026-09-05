@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Brynn
-  - 206-4 Hunter Hodiri
 tags: []
 name:
   full: Brynn

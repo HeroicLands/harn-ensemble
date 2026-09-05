@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lern of Jorwynn
 tags: []
 name:
   full: Lern of Jorwynn

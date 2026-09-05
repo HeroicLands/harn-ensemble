@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jeridol of Vylochi
 tags: []
 name:
   full: Jeridol of Vylochi

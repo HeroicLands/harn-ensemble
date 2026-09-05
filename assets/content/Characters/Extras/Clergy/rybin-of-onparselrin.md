@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rybin of Onparselrin
 tags: []
 name:
   full: Rybin of Onparselrin

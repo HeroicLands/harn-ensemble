@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Elemas
 tags: []
 name:
   full: Tamyth of Elemas

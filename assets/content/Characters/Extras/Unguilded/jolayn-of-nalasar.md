@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jolayn of Nalasar
 tags: []
 name:
   full: Jolayn of Nalasar

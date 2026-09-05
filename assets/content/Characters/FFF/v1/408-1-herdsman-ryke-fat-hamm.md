@@ -1,7 +1,4 @@
 ---
-aliases:
-  - 'Ryke "Fat" Hamm'
-  - 408-1 Herdsman
 tags: []
 name:
   full: 'Ryke "Fat" Hamm'

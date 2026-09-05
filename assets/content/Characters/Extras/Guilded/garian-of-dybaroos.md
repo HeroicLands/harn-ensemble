@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garian of Dybaroos
 tags: []
 name:
   full: Garian of Dybaroos

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helicia of Shre
 tags: []
 name:
   full: Helicia of Shre

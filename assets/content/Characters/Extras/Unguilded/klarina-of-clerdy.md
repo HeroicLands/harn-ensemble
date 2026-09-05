@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarina of Clerdy
 tags: []
 name:
   full: Klarina of Clerdy

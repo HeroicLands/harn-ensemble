@@ -1,6 +1,4 @@
 ---
-aliases:
-  - She of Pord
 tags: []
 name:
   full: She of Pord

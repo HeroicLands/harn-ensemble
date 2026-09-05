@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urlock of Irinara
 tags: []
 name:
   full: Urlock of Irinara

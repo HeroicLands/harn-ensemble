@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlen of Hosathaen
 tags: []
 name:
   full: Shemlen of Hosathaen

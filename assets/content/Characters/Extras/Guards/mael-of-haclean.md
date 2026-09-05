@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mael of Haclean
 tags: []
 name:
   full: Mael of Haclean

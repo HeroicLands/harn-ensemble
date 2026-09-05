@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Feldis of Bela
 tags: []
 name:
   full: Feldis of Bela

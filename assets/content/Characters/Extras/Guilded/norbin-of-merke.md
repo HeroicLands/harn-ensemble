@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Norbin of Merke
 tags: []
 name:
   full: Norbin of Merke

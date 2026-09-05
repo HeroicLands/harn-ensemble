@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vadir of Arasaner
 tags: []
 name:
   full: Vadir of Arasaner

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Chariborskin
 tags: []
 name:
   full: Raeda of Chariborskin

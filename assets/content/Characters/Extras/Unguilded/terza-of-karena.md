@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Karena
 tags: []
 name:
   full: Terza of Karena

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Orta
 tags: []
 name:
   full: Lycia of Orta

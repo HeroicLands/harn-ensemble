@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haber of Thoff
 tags: []
 name:
   full: Haber of Thoff

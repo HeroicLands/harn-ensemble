@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hel of Ardras
 tags: []
 name:
   full: Hel of Ardras

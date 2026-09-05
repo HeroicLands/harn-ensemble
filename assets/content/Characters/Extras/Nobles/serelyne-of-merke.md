@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Serelyne of Merke
 tags: []
 name:
   full: Serelyne of Merke

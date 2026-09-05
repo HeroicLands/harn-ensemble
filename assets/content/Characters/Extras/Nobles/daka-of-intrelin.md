@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Intrelin
 tags: []
 name:
   full: Daka of Intrelin

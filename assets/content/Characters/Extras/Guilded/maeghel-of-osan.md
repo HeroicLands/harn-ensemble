@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghel of Osan
 tags: []
 name:
   full: Maeghel of Osan

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyne of Naras
 tags: []
 name:
   full: Cersyne of Naras

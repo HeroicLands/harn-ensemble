@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwelena of Yaleh
 tags: []
 name:
   full: Gwelena of Yaleh

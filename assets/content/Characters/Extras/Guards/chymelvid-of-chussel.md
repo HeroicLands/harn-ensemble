@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chymelvid of Chussel
 tags: []
 name:
   full: Chymelvid of Chussel

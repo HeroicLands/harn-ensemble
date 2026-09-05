@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lodin of Fraul
 tags: []
 name:
   full: Lodin of Fraul

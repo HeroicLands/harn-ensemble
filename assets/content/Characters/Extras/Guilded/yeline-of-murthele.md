@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yeline of Murthele
 tags: []
 name:
   full: Yeline of Murthele

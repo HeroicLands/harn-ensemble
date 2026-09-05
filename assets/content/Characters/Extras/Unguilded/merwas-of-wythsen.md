@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merwas of Wythsen
 tags: []
 name:
   full: Merwas of Wythsen

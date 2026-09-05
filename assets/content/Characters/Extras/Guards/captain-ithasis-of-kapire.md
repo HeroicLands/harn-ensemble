@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Ithasis of Kapire
 tags: []
 name:
   full: Captain Ithasis of Kapire

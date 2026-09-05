@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Bascal Ryke
-  - 324-1 Physician
 tags: []
 name:
   full: Bascal Ryke

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Val of Tar
 tags: []
 name:
   full: Val of Tar

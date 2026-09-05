@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlen of Chusselrichmarn
 tags: []
 name:
   full: Shemlen of Chusselrichmarn

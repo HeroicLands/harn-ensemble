@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghelisa of Rythsena
 tags: []
 name:
   full: Maeghelisa of Rythsena

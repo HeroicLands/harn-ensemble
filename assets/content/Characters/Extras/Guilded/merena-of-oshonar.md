@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merena of Oshonar
 tags: []
 name:
   full: Merena of Oshonar

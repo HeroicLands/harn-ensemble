@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rosta of Duck
 tags: []
 name:
   full: Rosta of Duck

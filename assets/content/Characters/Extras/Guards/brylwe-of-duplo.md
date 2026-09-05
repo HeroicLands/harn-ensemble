@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brylwe of Duplo
 tags: []
 name:
   full: Brylwe of Duplo

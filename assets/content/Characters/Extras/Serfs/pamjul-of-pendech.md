@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pamjul of Pendech
 tags: []
 name:
   full: Pamjul of Pendech

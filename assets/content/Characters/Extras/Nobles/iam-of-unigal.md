@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Iam of Unigal
 tags: []
 name:
   full: Iam of Unigal

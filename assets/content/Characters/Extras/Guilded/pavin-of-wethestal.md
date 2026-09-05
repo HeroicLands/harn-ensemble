@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pavin of Wethestal
 tags: []
 name:
   full: Pavin of Wethestal

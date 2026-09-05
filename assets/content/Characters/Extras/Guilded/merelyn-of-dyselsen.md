@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Dyselsen
 tags: []
 name:
   full: Merelyn of Dyselsen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Punatgen of Don
 tags: []
 name:
   full: Punatgen of Don

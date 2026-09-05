@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perla of Marnesku
 tags: []
 name:
   full: Perla of Marnesku

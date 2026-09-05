@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quertena of Veriel
 tags: []
 name:
   full: Quertena of Veriel

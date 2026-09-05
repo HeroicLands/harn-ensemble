@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tagbar of Hilrichmarion
 tags: []
 name:
   full: Tagbar of Hilrichmarion

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Clanas of Bela
 tags: []
 name:
   full: Clanas of Bela

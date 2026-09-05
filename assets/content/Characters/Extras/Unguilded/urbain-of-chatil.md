@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urbain of Chatil
 tags: []
 name:
   full: Urbain of Chatil

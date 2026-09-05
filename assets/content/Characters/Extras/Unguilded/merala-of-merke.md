@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merala of Merke
 tags: []
 name:
   full: Merala of Merke

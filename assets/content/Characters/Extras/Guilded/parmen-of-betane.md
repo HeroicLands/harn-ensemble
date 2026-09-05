@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Parmen of Betane
 tags: []
 name:
   full: Parmen of Betane

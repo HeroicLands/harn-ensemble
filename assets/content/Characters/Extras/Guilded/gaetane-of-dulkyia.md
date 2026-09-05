@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gaetane of Dulkyia
 tags: []
 name:
   full: Gaetane of Dulkyia

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aramia of Kalian
 tags: []
 name:
   full: Aramia of Kalian

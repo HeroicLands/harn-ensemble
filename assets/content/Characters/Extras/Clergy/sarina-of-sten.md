@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarina of Sten
 tags: []
 name:
   full: Sarina of Sten

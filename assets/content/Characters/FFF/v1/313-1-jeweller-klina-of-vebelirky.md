@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Klina of Vebelirky
-  - 313-1 Jeweller
 tags: []
 name:
   full: Klina of Vebelirky

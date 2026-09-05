@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Deni of Hosath
 tags: []
 name:
   full: Deni of Hosath

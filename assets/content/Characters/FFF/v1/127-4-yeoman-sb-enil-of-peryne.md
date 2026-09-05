@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Enil of Peryne
-  - 127-4 Yeoman SB
 tags: []
 name:
   full: Enil of Peryne

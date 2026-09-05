@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorid of Ashelya
 tags: []
 name:
   full: Lorid of Ashelya

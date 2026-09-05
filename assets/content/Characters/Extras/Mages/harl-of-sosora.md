@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harl of Sosora
 tags: []
 name:
   full: Harl of Sosora

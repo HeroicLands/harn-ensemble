@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Madib
 tags: []
 name:
   full: Tolmey of Madib

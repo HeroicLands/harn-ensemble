@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Haith
 tags: []
 name:
   full: Chola of Haith

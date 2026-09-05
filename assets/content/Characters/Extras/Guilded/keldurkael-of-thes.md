@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keldurkael of Thes
 tags: []
 name:
   full: Keldurkael of Thes

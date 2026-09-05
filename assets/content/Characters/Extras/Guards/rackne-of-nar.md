@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rackne of Nar
 tags: []
 name:
   full: Rackne of Nar

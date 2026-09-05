@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arain of Unigal
 tags: []
 name:
   full: Arain of Unigal

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Tobira
 tags: []
 name:
   full: Sylvia of Tobira

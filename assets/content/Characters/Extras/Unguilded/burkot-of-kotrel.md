@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Burkot of Kotrel
 tags: []
 name:
   full: Burkot of Kotrel

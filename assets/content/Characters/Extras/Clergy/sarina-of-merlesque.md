@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarina of Merlesque
 tags: []
 name:
   full: Sarina of Merlesque

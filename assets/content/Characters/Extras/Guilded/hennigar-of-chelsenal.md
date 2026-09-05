@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hennigar of Chelsenal
 tags: []
 name:
   full: Hennigar of Chelsenal

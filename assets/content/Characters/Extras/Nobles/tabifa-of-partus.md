@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Partus
 tags: []
 name:
   full: Tabifa of Partus

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakkyn of Pythade
 tags: []
 name:
   full: Jakkyn of Pythade

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Esar of Keriel
-  - 322-3 Ostler
 tags: []
 name:
   full: Esar of Keriel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elda of Debern
 tags: []
 name:
   full: Elda of Debern

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kalwis of Homslow
 tags: []
 name:
   full: Kalwis of Homslow

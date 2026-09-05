@@ -1,7 +1,4 @@
 ---
-aliases:
-  - 'Tobas "Wick" of Sharvan'
-  - 702-1 Shek Pvar Peleahn
 tags: []
 name:
   full: 'Tobas "Wick" of Sharvan'

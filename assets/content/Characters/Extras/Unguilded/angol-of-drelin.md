@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angol of Drelin
 tags: []
 name:
   full: Angol of Drelin

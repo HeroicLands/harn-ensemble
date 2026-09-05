@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusiline of Amafa
 tags: []
 name:
   full: Lusiline of Amafa

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Shref
 tags: []
 name:
   full: Sylvia of Shref

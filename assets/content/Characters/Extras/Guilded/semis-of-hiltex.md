@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Semis of Hiltex
 tags: []
 name:
   full: Semis of Hiltex

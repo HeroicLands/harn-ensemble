@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arallax of Koruarr
 tags: []
 name:
   full: Arallax of Koruarr

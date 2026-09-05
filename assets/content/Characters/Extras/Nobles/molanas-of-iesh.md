@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Molanas of Iesh
 tags: []
 name:
   full: Molanas of Iesh

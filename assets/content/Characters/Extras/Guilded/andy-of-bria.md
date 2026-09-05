@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Andy of Bria
 tags: []
 name:
   full: Andy of Bria

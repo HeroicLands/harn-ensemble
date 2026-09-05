@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Malhbera of Dythasil
 tags: []
 name:
   full: Malhbera of Dythasil

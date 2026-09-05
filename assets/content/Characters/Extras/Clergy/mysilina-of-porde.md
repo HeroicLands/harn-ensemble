@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mysilina of Porde
 tags: []
 name:
   full: Mysilina of Porde

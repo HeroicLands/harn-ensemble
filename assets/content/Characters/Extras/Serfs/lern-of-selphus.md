@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lern of Selphus
 tags: []
 name:
   full: Lern of Selphus

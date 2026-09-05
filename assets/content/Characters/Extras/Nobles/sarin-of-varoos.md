@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Varoos
 tags: []
 name:
   full: Sarin of Varoos

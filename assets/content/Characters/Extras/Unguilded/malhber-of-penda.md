@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Malhber of Penda
 tags: []
 name:
   full: Malhber of Penda

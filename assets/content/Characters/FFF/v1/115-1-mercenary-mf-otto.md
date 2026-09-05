@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Otto
-  - 115-1 Mercenary MF
 tags: []
 name:
   full: Otto

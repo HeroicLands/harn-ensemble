@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Inrant of Chornin
 tags: []
 name:
   full: Inrant of Chornin

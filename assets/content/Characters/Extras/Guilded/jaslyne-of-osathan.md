@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyne of Osathan
 tags: []
 name:
   full: Jaslyne of Osathan

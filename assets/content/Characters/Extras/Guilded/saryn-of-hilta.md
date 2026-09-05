@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryn of Hilta
 tags: []
 name:
   full: Saryn of Hilta

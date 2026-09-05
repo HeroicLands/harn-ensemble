@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Serala of Onparsuel
 tags: []
 name:
   full: Serala of Onparsuel

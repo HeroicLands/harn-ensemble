@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bronaduiben of Amdirarod
 tags: []
 name:
   full: Bronaduiben of Amdirarod

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tersis of Harass
 tags: []
 name:
   full: Tersis of Harass

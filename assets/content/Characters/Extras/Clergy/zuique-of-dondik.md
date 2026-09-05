@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuique of Dondik
 tags: []
 name:
   full: Zuique of Dondik

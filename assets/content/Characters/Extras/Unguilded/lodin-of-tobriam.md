@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lodin of Tobriam
 tags: []
 name:
   full: Lodin of Tobriam

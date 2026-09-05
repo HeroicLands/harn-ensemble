@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Crol of Matlimun
 tags: []
 name:
   full: Crol of Matlimun

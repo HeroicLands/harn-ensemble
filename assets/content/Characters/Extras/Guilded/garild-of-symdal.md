@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garild of Symdal
 tags: []
 name:
   full: Garild of Symdal

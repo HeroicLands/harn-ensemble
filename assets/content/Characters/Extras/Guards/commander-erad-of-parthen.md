@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Commander Erad of Parthen
 tags: []
 name:
   full: Commander Erad of Parthen

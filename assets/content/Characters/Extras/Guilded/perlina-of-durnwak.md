@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perlina of Durnwak
 tags: []
 name:
   full: Perlina of Durnwak

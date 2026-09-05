@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dame Afaewynn Barthy
-  - 506-2 Feudal Knight MH
 tags: []
 name:
   full: Dame Afaewynn Barthy

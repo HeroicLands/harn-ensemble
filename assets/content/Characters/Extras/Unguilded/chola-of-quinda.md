@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Quinda
 tags: []
 name:
   full: Chola of Quinda

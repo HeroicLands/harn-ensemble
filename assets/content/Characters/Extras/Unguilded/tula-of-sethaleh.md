@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tula of Sethaleh
 tags: []
 name:
   full: Tula of Sethaleh

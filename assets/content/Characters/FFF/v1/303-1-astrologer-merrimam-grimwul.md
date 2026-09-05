@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Merrimam Grimwul
-  - 303-1 Astrologer
 tags: []
 name:
   full: Merrimam Grimwul

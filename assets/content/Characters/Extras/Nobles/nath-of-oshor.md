@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nath of Oshor
 tags: []
 name:
   full: Nath of Oshor

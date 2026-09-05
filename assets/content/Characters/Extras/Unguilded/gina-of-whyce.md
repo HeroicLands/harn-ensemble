@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gina of Whyce
 tags: []
 name:
   full: Gina of Whyce

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Asar
 tags: []
 name:
   full: Makan of Asar

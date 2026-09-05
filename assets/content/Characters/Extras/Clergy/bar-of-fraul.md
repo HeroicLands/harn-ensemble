@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bar of Fraul
 tags: []
 name:
   full: Bar of Fraul

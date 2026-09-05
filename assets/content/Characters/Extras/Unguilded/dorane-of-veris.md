@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorane of Veris
 tags: []
 name:
   full: Dorane of Veris

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kolyd of Thornic
 tags: []
 name:
   full: Kolyd of Thornic

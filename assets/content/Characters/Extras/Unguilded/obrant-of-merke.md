@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obrant of Merke
 tags: []
 name:
   full: Obrant of Merke

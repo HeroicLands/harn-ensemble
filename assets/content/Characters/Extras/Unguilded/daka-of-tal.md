@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Tal
 tags: []
 name:
   full: Daka of Tal

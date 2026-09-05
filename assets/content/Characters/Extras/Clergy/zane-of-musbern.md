@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zane of Musbern
 tags: []
 name:
   full: Zane of Musbern

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tulah of Tombine
 tags: []
 name:
   full: Tulah of Tombine

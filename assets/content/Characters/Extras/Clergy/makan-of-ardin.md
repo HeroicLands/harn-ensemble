@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Ardin
 tags: []
 name:
   full: Makan of Ardin

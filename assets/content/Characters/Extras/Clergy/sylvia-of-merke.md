@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Merke
 tags: []
 name:
   full: Sylvia of Merke

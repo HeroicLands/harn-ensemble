@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mar of Uerth
 tags: []
 name:
   full: Mar of Uerth

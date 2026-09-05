@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyn of Fraul
 tags: []
 name:
   full: Karyn of Fraul

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Pord
 tags: []
 name:
   full: Zorna of Pord

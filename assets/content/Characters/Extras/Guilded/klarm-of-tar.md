@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarm of Tar
 tags: []
 name:
   full: Klarm of Tar

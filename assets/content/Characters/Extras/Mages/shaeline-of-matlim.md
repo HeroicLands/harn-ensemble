@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaeline of Matlim
 tags: []
 name:
   full: Shaeline of Matlim

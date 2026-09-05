@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yebin of Quarlim
 tags: []
 name:
   full: Yebin of Quarlim

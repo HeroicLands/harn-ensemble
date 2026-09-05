@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarina of Borskin
 tags: []
 name:
   full: Sarina of Borskin

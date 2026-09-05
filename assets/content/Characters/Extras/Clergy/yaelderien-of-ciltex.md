@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yaelderien of Ciltex
 tags: []
 name:
   full: Yaelderien of Ciltex

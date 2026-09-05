@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Tichmarn
 tags: []
 name:
   full: Merelyn of Tichmarn

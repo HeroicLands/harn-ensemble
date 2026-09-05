@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drusax of Aweil
 tags: []
 name:
   full: Drusax of Aweil

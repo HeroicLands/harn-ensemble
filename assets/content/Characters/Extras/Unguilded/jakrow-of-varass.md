@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakrow of Varass
 tags: []
 name:
   full: Jakrow of Varass

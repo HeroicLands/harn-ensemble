@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shotro of Patren
 tags: []
 name:
   full: Shotro of Patren

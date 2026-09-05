@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rybin of Lebarsel
 tags: []
 name:
   full: Rybin of Lebarsel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Elere
 tags: []
 name:
   full: Milniq of Elere

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zane of Kansenalasanefris
 tags: []
 name:
   full: Zane of Kansenalasanefris

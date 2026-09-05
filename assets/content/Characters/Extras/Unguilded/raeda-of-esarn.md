@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Esarn
 tags: []
 name:
   full: Raeda of Esarn

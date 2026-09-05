@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jartun of Balin
 tags: []
 name:
   full: Jartun of Balin

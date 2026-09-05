@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eglim of Amlugion
 tags: []
 name:
   full: Eglim of Amlugion

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eamon of Gwyffidd
 tags: []
 name:
   full: Eamon of Gwyffidd

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pamjul of Zuldhad
 tags: []
 name:
   full: Pamjul of Zuldhad

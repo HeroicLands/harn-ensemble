@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Seperlid of Barsuel
 tags: []
 name:
   full: Seperlid of Barsuel

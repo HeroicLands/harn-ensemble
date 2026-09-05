@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdirvelchan of Alphadassen
 tags: []
 name:
   full: Amdirvelchan of Alphadassen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sai of Varos
 tags: []
 name:
   full: Sai of Varos

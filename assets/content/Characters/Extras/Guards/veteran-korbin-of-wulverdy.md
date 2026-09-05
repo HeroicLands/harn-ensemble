@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Korbin of Wulverdy
 tags: []
 name:
   full: Veteran Korbin of Wulverdy

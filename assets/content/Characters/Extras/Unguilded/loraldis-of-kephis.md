@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Loraldis of Kephis
 tags: []
 name:
   full: Loraldis of Kephis

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - '"Fetch"'
-  - 804f Gargu-Araki Thief
 tags: []
 name:
   full: '"Fetch"'

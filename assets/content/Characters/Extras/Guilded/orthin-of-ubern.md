@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthin of Ubern
 tags: []
 name:
   full: Orthin of Ubern

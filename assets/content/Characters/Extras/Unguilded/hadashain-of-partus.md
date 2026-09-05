@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hadashain of Partus
 tags: []
 name:
   full: Hadashain of Partus

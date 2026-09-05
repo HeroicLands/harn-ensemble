@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyn of Bor
 tags: []
 name:
   full: Jaslyn of Bor

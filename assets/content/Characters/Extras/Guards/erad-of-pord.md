@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erad of Pord
 tags: []
 name:
   full: Erad of Pord

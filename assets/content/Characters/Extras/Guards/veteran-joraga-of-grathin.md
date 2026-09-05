@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Joraga of Grathin
 tags: []
 name:
   full: Veteran Joraga of Grathin

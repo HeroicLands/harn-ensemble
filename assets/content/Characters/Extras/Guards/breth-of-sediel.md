@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breth of Sediel
 tags: []
 name:
   full: Breth of Sediel

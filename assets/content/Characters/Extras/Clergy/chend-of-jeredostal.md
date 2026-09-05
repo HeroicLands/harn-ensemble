@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chend of Jeredostal
 tags: []
 name:
   full: Chend of Jeredostal

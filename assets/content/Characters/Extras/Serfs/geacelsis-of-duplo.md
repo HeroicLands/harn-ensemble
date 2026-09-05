@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Geacelsis of Duplo
 tags: []
 name:
   full: Geacelsis of Duplo

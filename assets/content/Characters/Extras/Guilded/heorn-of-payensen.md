@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heorn of Payensen
 tags: []
 name:
   full: Heorn of Payensen

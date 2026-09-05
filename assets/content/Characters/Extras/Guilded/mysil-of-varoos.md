@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mysil of Varoos
 tags: []
 name:
   full: Mysil of Varoos

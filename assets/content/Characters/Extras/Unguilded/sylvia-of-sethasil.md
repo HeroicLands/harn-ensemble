@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Sethasil
 tags: []
 name:
   full: Sylvia of Sethasil

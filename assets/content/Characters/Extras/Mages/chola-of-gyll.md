@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Gyll
 tags: []
 name:
   full: Chola of Gyll

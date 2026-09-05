@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chymel of Ubela
 tags: []
 name:
   full: Chymel of Ubela

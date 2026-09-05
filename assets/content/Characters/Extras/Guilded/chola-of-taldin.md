@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Taldin
 tags: []
 name:
   full: Chola of Taldin

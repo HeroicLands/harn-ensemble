@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanisa of Asarn
 tags: []
 name:
   full: Chanisa of Asarn

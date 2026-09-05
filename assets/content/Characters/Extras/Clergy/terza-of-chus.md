@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Chus
 tags: []
 name:
   full: Terza of Chus

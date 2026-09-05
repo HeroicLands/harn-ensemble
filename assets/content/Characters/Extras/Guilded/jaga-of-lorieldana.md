@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaga of Lorieldana
 tags: []
 name:
   full: Jaga of Lorieldana

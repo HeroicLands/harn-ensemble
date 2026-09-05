@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korbin of Ograzgban
 tags: []
 name:
   full: Korbin of Ograzgban

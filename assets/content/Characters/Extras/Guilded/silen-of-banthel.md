@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Silen of Banthel
 tags: []
 name:
   full: Silen of Banthel

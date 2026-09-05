@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chola of Debernin
 tags: []
 name:
   full: Chola of Debernin

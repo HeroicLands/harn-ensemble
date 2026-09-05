@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cabornagarchalphalu of Cidimben
 tags: []
 name:
   full: Cabornagarchalphalu of Cidimben

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwenien of Abir
 tags: []
 name:
   full: Gwenien of Abir

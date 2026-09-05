@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erery of Kalin
 tags: []
 name:
   full: Erery of Kalin

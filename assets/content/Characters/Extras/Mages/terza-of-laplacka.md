@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Laplacka
 tags: []
 name:
   full: Terza of Laplacka

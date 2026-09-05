@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chendra of Murthalis
 tags: []
 name:
   full: Chendra of Murthalis

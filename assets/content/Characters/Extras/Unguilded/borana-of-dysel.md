@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borana of Dysel
 tags: []
 name:
   full: Borana of Dysel

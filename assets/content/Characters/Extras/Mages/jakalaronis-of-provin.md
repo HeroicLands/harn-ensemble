@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakalaronis of Provin
 tags: []
 name:
   full: Jakalaronis of Provin

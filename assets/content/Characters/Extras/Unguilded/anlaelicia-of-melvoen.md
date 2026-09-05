@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaelicia of Melvoen
 tags: []
 name:
   full: Anlaelicia of Melvoen

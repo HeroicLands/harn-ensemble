@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karpan of Ath
 tags: []
 name:
   full: Karpan of Ath

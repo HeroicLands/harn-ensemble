@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ron of Fraul
 tags: []
 name:
   full: Ron of Fraul

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaelderila of Chelya
 tags: []
 name:
   full: Anlaelderila of Chelya

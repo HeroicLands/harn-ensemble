@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallisa of Kyfa
 tags: []
 name:
   full: Pallisa of Kyfa

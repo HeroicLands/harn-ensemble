@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbrin of Artuna
 tags: []
 name:
   full: Arbrin of Artuna

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ras of Mykansen
 tags: []
 name:
   full: Ras of Mykansen

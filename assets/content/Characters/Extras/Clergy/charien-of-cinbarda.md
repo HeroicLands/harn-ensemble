@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charien of Cinbarda
 tags: []
 name:
   full: Charien of Cinbarda

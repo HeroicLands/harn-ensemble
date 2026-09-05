@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ron of Provin
 tags: []
 name:
   full: Ron of Provin

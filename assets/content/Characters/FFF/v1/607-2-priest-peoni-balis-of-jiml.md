@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Balis of Jiml
-  - 607-2 Priest Peoni
 tags: []
 name:
   full: Balis of Jiml

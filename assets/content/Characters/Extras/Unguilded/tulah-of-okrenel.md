@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tulah of Okrenel
 tags: []
 name:
   full: Tulah of Okrenel

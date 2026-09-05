@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Belson of Khurud
 tags: []
 name:
   full: Belson of Khurud

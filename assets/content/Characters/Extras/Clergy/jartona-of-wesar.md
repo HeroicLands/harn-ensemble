@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jartona of Wesar
 tags: []
 name:
   full: Jartona of Wesar

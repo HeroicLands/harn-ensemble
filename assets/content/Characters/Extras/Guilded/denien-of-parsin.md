@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Denien of Parsin
 tags: []
 name:
   full: Denien of Parsin

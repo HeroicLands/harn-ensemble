@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Chelya
 tags: []
 name:
   full: Sylvia of Chelya

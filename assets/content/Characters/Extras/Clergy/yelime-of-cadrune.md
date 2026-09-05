@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yelime of Cadrune
 tags: []
 name:
   full: Yelime of Cadrune

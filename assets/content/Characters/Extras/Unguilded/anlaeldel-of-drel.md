@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaeldel of Drel
 tags: []
 name:
   full: Anlaeldel of Drel

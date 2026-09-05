@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Ekai
 tags: []
 name:
   full: Gorsine of Ekai

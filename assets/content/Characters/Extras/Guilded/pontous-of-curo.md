@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Curo
 tags: []
 name:
   full: Pontous of Curo

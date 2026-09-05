@@ -1,6 +1,4 @@
 ---
-aliases:
-  - She of Payensen
 tags: []
 name:
   full: She of Payensen

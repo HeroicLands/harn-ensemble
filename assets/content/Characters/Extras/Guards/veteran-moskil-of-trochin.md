@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Moskil of Trochin
 tags: []
 name:
   full: Veteran Moskil of Trochin

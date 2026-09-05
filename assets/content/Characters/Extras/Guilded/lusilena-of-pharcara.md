@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusilena of Pharcara
 tags: []
 name:
   full: Lusilena of Pharcara

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merena of Banth
 tags: []
 name:
   full: Merena of Banth

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lirian of Agarin
 tags: []
 name:
   full: Lirian of Agarin

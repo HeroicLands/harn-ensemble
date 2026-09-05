@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuique of Wethale
 tags: []
 name:
   full: Zuique of Wethale

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Que of Aeb
 tags: []
 name:
   full: Que of Aeb

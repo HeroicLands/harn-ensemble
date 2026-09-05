@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Varbin of Quarl
 tags: []
 name:
   full: Varbin of Quarl

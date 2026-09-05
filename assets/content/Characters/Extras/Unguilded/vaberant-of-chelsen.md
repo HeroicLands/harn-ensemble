@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vaberant of Chelsen
 tags: []
 name:
   full: Vaberant of Chelsen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Aweil
 tags: []
 name:
   full: Gorsine of Aweil

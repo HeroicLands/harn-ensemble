@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gar of Sin
 tags: []
 name:
   full: Gar of Sin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Neridon of Reimek
 tags: []
 name:
   full: Neridon of Reimek

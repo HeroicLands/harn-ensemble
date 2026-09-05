@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Martun of Ubela
 tags: []
 name:
   full: Martun of Ubela

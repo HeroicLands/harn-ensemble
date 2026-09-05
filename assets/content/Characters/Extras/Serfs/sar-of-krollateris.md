@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Krollateris
 tags: []
 name:
   full: Sar of Krollateris

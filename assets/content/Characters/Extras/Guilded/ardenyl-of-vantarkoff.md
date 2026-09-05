@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ardenyl of Vantarkoff
 tags: []
 name:
   full: Ardenyl of Vantarkoff

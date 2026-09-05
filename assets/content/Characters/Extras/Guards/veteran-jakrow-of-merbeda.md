@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Jakrow of Merbeda
 tags: []
 name:
   full: Veteran Jakrow of Merbeda

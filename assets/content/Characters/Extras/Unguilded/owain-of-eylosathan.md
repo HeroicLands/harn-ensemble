@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Owain of Eylosathan
 tags: []
 name:
   full: Owain of Eylosathan

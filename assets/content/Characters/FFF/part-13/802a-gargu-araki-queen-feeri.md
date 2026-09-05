@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Feeri
-  - 802a Gargu-Araki Queen
 tags: []
 name:
   full: Feeri

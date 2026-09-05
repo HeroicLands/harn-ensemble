@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Farren of Marbeda
 tags: []
 name:
   full: Farren of Marbeda

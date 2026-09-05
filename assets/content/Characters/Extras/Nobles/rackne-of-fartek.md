@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rackne of Fartek
 tags: []
 name:
   full: Rackne of Fartek

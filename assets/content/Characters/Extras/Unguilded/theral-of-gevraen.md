@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Theral of Gevraen
 tags: []
 name:
   full: Theral of Gevraen

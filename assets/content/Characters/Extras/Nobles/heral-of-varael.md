@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heral of Varael
 tags: []
 name:
   full: Heral of Varael

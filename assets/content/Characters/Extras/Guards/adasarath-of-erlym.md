@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Adasarath of Erlym
 tags: []
 name:
   full: Adasarath of Erlym

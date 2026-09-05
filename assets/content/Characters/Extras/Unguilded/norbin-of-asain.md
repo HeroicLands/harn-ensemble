@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Norbin of Asain
 tags: []
 name:
   full: Norbin of Asain

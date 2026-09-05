@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Starkot of Erlesh
 tags: []
 name:
   full: Starkot of Erlesh

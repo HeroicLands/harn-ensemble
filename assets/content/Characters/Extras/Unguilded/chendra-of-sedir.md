@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chendra of Sedir
 tags: []
 name:
   full: Chendra of Sedir

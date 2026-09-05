@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harild of Drelin
 tags: []
 name:
   full: Harild of Drelin

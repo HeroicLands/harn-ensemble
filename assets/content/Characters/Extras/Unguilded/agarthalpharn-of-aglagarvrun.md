@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Agarthalpharn of Aglagarvrun
 tags: []
 name:
   full: Agarthalpharn of Aglagarvrun

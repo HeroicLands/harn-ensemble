@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sartus of Ane
 tags: []
 name:
   full: Sartus of Ane

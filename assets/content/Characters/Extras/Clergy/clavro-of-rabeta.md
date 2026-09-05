@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Clavro of Rabeta
 tags: []
 name:
   full: Clavro of Rabeta

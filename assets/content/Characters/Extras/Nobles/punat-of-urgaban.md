@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Punat of Urgaban
 tags: []
 name:
   full: Punat of Urgaban

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solina of Sidethsel
 tags: []
 name:
   full: Solina of Sidethsel

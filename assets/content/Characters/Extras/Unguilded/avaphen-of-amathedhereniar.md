@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Avaphen of Amathedhereniar
 tags: []
 name:
   full: Avaphen of Amathedhereniar

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Cyzor of Daroos
 tags: []
 name:
   full: Veteran Cyzor of Daroos

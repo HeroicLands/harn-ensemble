@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Orthias of Avorda
 tags: []
 name:
   full: Orthias of Avorda

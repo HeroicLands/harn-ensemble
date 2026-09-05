@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grulderiela of Hubelliss
 tags: []
 name:
   full: Grulderiela of Hubelliss

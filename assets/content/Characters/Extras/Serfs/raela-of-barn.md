@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raela of Barn
 tags: []
 name:
   full: Raela of Barn

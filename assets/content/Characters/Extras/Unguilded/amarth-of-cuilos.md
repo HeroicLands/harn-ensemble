@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amarth of Cuilos
 tags: []
 name:
   full: Amarth of Cuilos

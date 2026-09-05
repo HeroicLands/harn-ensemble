@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Teldane of Varadas
 tags: []
 name:
   full: Teldane of Varadas

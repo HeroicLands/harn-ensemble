@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallisa of Veris
 tags: []
 name:
   full: Pallisa of Veris

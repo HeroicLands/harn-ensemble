@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Chelen
 tags: []
 name:
   full: Sar of Chelen

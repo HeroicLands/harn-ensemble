@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mysil of Bur
 tags: []
 name:
   full: Mysil of Bur

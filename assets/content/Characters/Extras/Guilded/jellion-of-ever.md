@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jellion of Ever
 tags: []
 name:
   full: Jellion of Ever

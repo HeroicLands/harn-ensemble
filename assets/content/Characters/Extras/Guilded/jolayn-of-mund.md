@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jolayn of Mund
 tags: []
 name:
   full: Jolayn of Mund

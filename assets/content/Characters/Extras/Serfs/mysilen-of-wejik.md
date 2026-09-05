@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mysilen of Wejik
 tags: []
 name:
   full: Mysilen of Wejik

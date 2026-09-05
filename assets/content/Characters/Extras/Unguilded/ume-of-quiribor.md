@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ume of Quiribor
 tags: []
 name:
   full: Ume of Quiribor

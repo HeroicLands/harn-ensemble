@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yago of Kair
 tags: []
 name:
   full: Yago of Kair

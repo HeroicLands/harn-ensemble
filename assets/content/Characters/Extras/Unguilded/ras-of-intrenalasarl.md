@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ras of Intrenalasarl
 tags: []
 name:
   full: Ras of Intrenalasarl

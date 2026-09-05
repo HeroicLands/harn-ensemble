@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Then
 tags: []
 name:
   full: Segina of Then

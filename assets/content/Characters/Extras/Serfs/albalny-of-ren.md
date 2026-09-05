@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Ren
 tags: []
 name:
   full: Albalny of Ren

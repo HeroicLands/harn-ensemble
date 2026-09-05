@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaelderien of Bellis
 tags: []
 name:
   full: Shaelderien of Bellis

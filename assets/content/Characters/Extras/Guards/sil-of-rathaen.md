@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sil of Rathaen
 tags: []
 name:
   full: Sil of Rathaen

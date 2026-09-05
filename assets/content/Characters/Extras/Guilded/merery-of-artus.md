@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Artus
 tags: []
 name:
   full: Merery of Artus

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Renel
 tags: []
 name:
   full: Gorsine of Renel

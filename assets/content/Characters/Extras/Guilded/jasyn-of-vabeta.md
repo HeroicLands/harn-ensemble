@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jasyn of Vabeta
 tags: []
 name:
   full: Jasyn of Vabeta

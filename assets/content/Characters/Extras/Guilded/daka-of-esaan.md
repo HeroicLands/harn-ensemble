@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Esaan
 tags: []
 name:
   full: Daka of Esaan

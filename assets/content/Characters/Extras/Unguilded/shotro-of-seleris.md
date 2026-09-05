@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shotro of Seleris
 tags: []
 name:
   full: Shotro of Seleris

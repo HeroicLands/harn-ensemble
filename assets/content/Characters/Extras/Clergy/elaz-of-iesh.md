@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elaz of Iesh
 tags: []
 name:
   full: Elaz of Iesh

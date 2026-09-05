@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nor of Lorinsen
 tags: []
 name:
   full: Nor of Lorinsen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terlin of Mel
 tags: []
 name:
   full: Terlin of Mel

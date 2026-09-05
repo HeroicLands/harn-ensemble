@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Pasen
 tags: []
 name:
   full: Segina of Pasen

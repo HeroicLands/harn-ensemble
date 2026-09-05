@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Artona of Musbern
 tags: []
 name:
   full: Artona of Musbern

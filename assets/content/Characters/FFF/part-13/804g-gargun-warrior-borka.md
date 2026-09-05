@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Borka
-  - 804g Gargun Warrior
 tags: []
 name:
   full: Borka

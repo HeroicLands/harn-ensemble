@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaladez of Rik
 tags: []
 name:
   full: Kaladez of Rik

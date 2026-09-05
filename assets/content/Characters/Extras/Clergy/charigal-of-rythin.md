@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charigal of Rythin
 tags: []
 name:
   full: Charigal of Rythin

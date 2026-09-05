@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Laplaemen
 tags: []
 name:
   full: Tamyth of Laplaemen

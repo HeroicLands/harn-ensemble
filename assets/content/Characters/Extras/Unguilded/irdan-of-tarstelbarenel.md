@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Irdan of Tarstelbarenel
 tags: []
 name:
   full: Irdan of Tarstelbarenel

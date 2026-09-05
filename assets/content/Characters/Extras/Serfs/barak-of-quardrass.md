@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Barak of Quardrass
 tags: []
 name:
   full: Barak of Quardrass

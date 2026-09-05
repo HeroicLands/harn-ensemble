@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Stel
 tags: []
 name:
   full: Kes of Stel

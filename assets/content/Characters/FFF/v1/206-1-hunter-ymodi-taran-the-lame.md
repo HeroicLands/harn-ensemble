@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Taran the Lame
-  - 206-1 Hunter Ymodi
 tags: []
 name:
   full: Taran the Lame

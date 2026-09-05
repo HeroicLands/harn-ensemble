@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Nemirin
 tags: []
 name:
   full: Pontous of Nemirin

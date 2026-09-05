@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorna of Pendal
 tags: []
 name:
   full: Zorna of Pendal

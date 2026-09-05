@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tulah of Merben
 tags: []
 name:
   full: Tulah of Merben

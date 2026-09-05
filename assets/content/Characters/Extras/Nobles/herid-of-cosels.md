@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herid of Cosels
 tags: []
 name:
   full: Herid of Cosels

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tagbarak of Brid
 tags: []
 name:
   full: Tagbarak of Brid

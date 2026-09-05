@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haridon of Curo
 tags: []
 name:
   full: Haridon of Curo

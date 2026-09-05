@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sorago of Rikar
 tags: []
 name:
   full: Sorago of Rikar

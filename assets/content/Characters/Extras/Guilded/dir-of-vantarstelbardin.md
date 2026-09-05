@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dir of Vantarstelbardin
 tags: []
 name:
   full: Dir of Vantarstelbardin

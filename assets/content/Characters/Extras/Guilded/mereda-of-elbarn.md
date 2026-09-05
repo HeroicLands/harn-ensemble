@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mereda of Elbarn
 tags: []
 name:
   full: Mereda of Elbarn

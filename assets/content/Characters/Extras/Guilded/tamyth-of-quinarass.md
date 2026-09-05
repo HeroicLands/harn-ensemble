@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamyth of Quinarass
 tags: []
 name:
   full: Tamyth of Quinarass

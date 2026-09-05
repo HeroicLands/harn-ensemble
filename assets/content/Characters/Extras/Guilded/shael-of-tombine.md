@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shael of Tombine
 tags: []
 name:
   full: Shael of Tombine

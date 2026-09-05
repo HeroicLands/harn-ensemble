@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urbain of Morrin
 tags: []
 name:
   full: Urbain of Morrin

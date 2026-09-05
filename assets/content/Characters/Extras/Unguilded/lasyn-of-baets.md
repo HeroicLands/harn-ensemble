@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasyn of Baets
 tags: []
 name:
   full: Lasyn of Baets

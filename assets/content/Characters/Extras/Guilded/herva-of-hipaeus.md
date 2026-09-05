@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herva of Hipaeus
 tags: []
 name:
   full: Herva of Hipaeus

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Anax of Junius
-  - 104-1 Gladiator
 tags: []
 name:
   full: Anax of Junius

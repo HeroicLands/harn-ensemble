@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Serenelle of Gevrael
 tags: []
 name:
   full: Serenelle of Gevrael

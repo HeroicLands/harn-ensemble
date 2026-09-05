@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasaryse of Fulkne
 tags: []
 name:
   full: Lasaryse of Fulkne

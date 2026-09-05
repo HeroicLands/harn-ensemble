@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uone of Kalin
 tags: []
 name:
   full: Uone of Kalin

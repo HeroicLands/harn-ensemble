@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Utherom of Wesaldire
 tags: []
 name:
   full: Utherom of Wesaldire

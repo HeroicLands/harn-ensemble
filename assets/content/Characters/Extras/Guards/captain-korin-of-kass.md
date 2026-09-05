@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Korin of Kass
 tags: []
 name:
   full: Captain Korin of Kass

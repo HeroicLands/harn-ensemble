@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lorel of Sidethys
 tags: []
 name:
   full: Lorel of Sidethys

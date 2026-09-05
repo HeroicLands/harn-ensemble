@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aloth of Merke
 tags: []
 name:
   full: Aloth of Merke

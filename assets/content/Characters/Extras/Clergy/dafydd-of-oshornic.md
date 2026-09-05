@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dafydd of Oshornic
 tags: []
 name:
   full: Dafydd of Oshornic

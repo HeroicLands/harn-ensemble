@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Teldur of Erleshre
 tags: []
 name:
   full: Teldur of Erleshre

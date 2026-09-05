@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Borskin
 tags: []
 name:
   full: Kes of Borskin

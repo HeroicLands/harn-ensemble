@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rikarpan of Yalesh
 tags: []
 name:
   full: Rikarpan of Yalesh

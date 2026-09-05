@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaelda of Mance
 tags: []
 name:
   full: Shaelda of Mance

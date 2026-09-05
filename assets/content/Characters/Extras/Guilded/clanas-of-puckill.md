@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Clanas of Puckill
 tags: []
 name:
   full: Clanas of Puckill

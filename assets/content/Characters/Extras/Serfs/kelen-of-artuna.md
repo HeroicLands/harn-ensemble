@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kelen of Artuna
 tags: []
 name:
   full: Kelen of Artuna

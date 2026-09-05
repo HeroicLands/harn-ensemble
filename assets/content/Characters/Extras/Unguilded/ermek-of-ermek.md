@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ermek of Ermek
 tags: []
 name:
   full: Ermek of Ermek

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harisir of Paserak
 tags: []
 name:
   full: Harisir of Paserak

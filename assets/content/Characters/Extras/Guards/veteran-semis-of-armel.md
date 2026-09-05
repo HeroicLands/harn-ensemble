@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Semis of Armel
 tags: []
 name:
   full: Veteran Semis of Armel

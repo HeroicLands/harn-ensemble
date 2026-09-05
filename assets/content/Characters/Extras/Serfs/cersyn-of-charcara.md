@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyn of Charcara
 tags: []
 name:
   full: Cersyn of Charcara

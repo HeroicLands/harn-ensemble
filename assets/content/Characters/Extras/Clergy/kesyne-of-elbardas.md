@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kesyne of Elbardas
 tags: []
 name:
   full: Kesyne of Elbardas

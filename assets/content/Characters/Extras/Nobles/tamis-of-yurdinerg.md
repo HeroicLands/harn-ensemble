@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamis of Yurdinerg
 tags: []
 name:
   full: Tamis of Yurdinerg

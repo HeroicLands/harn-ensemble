@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Geiter Gautisson
-  - 310-3 Skald
 tags: []
 name:
   full: Geiter Gautisson

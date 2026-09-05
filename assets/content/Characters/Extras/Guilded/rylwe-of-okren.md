@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rylwe of Okren
 tags: []
 name:
   full: Rylwe of Okren

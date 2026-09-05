@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Danishelasyn of Chuzyn
 tags: []
 name:
   full: Danishelasyn of Chuzyn

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyne of Wyth
 tags: []
 name:
   full: Jaslyne of Wyth

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korance of Bellyr
 tags: []
 name:
   full: Korance of Bellyr

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jorlak of Dethes
 tags: []
 name:
   full: Jorlak of Dethes

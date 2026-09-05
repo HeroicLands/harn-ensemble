@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makan of Durnwak
 tags: []
 name:
   full: Makan of Durnwak

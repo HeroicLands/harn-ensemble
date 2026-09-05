@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amath of Balch
 tags: []
 name:
   full: Amath of Balch

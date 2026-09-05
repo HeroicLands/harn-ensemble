@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Toris of Peyne
-  - 607-1 Priest Peoni
 tags: []
 name:
   full: Toris of Peyne

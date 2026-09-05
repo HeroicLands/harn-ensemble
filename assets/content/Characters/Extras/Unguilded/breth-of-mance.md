@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Breth of Mance
 tags: []
 name:
   full: Breth of Mance

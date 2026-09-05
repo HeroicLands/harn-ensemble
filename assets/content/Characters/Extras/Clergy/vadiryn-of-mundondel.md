@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Vadiryn of Mundondel
 tags: []
 name:
   full: Vadiryn of Mundondel

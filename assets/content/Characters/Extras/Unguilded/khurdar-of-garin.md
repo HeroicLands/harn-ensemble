@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Khurdar of Garin
 tags: []
 name:
   full: Khurdar of Garin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Musbers
 tags: []
 name:
   full: Terza of Musbers

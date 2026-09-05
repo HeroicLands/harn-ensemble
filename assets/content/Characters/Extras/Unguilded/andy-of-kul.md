@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Andy of Kul
 tags: []
 name:
   full: Andy of Kul

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Telsa of Mykanth
 tags: []
 name:
   full: Telsa of Mykanth

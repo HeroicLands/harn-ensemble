@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Commander Tarcandy of Fraul
 tags: []
 name:
   full: Commander Tarcandy of Fraul

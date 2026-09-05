@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tulah of Aras
 tags: []
 name:
   full: Tulah of Aras

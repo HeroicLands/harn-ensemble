@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Deni of Ane
 tags: []
 name:
   full: Deni of Ane

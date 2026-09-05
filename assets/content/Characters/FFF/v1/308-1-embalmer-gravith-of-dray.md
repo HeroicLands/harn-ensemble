@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gravith of Dray
-  - 308-1 Embalmer
 tags: []
 name:
   full: Gravith of Dray

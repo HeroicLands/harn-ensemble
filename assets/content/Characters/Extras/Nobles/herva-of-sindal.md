@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herva of Sindal
 tags: []
 name:
   full: Herva of Sindal

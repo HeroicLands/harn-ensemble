@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rokki of Sunigal
 tags: []
 name:
   full: Rokki of Sunigal

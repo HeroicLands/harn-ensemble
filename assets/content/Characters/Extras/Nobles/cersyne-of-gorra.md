@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cersyne of Gorra
 tags: []
 name:
   full: Cersyne of Gorra

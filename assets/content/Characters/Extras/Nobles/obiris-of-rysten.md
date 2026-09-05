@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obiris of Rysten
 tags: []
 name:
   full: Obiris of Rysten

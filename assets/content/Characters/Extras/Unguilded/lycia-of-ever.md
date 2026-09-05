@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Ever
 tags: []
 name:
   full: Lycia of Ever

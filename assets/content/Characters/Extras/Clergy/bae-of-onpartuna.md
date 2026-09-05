@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Onpartuna
 tags: []
 name:
   full: Bae of Onpartuna

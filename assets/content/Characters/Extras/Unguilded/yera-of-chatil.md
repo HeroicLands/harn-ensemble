@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yera of Chatil
 tags: []
 name:
   full: Yera of Chatil

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Garond of Sarn
 tags: []
 name:
   full: Garond of Sarn

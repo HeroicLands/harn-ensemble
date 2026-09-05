@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Josrathbarain of Bel
 tags: []
 name:
   full: Josrathbarain of Bel

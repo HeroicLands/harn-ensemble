@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Norbin of Bardrass
 tags: []
 name:
   full: Norbin of Bardrass

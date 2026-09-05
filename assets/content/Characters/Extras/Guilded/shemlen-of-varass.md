@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shemlen of Varass
 tags: []
 name:
   full: Shemlen of Varass

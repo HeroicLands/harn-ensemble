@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Parsel
 tags: []
 name:
   full: Segina of Parsel

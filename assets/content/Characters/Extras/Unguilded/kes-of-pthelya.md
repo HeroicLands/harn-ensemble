@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Pthelya
 tags: []
 name:
   full: Kes of Pthelya

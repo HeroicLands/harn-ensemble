@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bryle of Sedirin
 tags: []
 name:
   full: Bryle of Sedirin

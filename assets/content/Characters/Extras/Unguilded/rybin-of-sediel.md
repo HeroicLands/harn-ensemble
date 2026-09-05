@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rybin of Sediel
 tags: []
 name:
   full: Rybin of Sediel

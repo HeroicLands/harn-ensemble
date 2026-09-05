@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eamon of Obyne
 tags: []
 name:
   full: Eamon of Obyne

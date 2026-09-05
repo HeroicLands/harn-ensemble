@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Thelren of Esaldim
 tags: []
 name:
   full: Thelren of Esaldim

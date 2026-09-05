@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uvien of Arass
 tags: []
 name:
   full: Uvien of Arass

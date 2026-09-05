@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tarck of Yisgaradas
 tags: []
 name:
   full: Tarck of Yisgaradas

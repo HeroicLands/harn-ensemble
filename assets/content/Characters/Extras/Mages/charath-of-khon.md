@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charath of Khon
 tags: []
 name:
   full: Charath of Khon

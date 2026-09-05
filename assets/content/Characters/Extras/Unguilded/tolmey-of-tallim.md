@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Tallim
 tags: []
 name:
   full: Tolmey of Tallim

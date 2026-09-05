@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urlin of Barak
 tags: []
 name:
   full: Urlin of Barak

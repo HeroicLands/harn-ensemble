@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Chus
 tags: []
 name:
   full: Bae of Chus

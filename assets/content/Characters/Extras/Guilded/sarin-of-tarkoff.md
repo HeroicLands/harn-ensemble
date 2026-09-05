@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sarin of Tarkoff
 tags: []
 name:
   full: Sarin of Tarkoff

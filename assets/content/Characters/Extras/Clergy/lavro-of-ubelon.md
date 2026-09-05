@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lavro of Ubelon
 tags: []
 name:
   full: Lavro of Ubelon

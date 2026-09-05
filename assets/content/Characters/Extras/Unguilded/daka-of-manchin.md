@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Daka of Manchin
 tags: []
 name:
   full: Daka of Manchin

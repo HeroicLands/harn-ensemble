@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Wytelbarnesku
 tags: []
 name:
   full: Bae of Wytelbarnesku

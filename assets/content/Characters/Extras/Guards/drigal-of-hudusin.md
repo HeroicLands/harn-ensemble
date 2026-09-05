@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Drigal of Hudusin
 tags: []
 name:
   full: Drigal of Hudusin

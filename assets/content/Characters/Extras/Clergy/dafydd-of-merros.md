@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dafydd of Merros
 tags: []
 name:
   full: Dafydd of Merros

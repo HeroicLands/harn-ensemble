@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jesan of Puckill
 tags: []
 name:
   full: Jesan of Puckill

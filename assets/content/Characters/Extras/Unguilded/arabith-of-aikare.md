@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arabith of Aikare
 tags: []
 name:
   full: Arabith of Aikare

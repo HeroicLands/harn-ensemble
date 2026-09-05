@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heril of Garin
 tags: []
 name:
   full: Heril of Garin

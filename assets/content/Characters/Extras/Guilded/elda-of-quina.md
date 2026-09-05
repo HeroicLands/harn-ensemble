@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elda of Quina
 tags: []
 name:
   full: Elda of Quina

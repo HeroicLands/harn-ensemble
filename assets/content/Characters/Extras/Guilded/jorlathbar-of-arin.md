@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jorlathbar of Arin
 tags: []
 name:
   full: Jorlathbar of Arin

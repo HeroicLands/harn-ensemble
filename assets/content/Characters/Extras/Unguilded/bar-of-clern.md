@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bar of Clern
 tags: []
 name:
   full: Bar of Clern

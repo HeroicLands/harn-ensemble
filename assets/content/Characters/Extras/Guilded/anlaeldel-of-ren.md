@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaeldel of Ren
 tags: []
 name:
   full: Anlaeldel of Ren

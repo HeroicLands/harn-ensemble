@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Wyrin of Varross
-  - 127-5 Yeoman LB
 tags: []
 name:
   full: Wyrin of Varross

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kele of Gevraelin
 tags: []
 name:
   full: Kele of Gevraelin

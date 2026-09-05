@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aladez of Kass
 tags: []
 name:
   full: Aladez of Kass

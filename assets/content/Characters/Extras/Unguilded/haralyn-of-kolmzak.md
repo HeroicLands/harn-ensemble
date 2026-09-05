@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haralyn of Kolmzak
 tags: []
 name:
   full: Haralyn of Kolmzak

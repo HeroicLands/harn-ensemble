@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Parmen of Hipaeus
 tags: []
 name:
   full: Parmen of Hipaeus

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Yaleh
 tags: []
 name:
   full: Terza of Yaleh

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urikarn of Penda
 tags: []
 name:
   full: Urikarn of Penda

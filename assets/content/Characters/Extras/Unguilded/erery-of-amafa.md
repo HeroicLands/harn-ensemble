@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erery of Amafa
 tags: []
 name:
   full: Erery of Amafa

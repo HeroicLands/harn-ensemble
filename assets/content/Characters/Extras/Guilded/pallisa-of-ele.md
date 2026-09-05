@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallisa of Ele
 tags: []
 name:
   full: Pallisa of Ele

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bae of Manchi
 tags: []
 name:
   full: Bae of Manchi

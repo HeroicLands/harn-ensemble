@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusiline of Kotrelin
 tags: []
 name:
   full: Lusiline of Kotrelin

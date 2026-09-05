@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tamil of Dethasil
 tags: []
 name:
   full: Tamil of Dethasil

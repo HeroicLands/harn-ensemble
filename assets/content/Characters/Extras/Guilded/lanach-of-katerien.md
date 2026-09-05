@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lanach of Katerien
 tags: []
 name:
   full: Lanach of Katerien

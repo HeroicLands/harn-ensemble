@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aloth of Seth
 tags: []
 name:
   full: Aloth of Seth

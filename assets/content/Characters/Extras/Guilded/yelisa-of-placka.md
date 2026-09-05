@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yelisa of Placka
 tags: []
 name:
   full: Yelisa of Placka

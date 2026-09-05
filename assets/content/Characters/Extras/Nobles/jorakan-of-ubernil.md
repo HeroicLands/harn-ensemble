@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jorakan of Ubernil
 tags: []
 name:
   full: Jorakan of Ubernil

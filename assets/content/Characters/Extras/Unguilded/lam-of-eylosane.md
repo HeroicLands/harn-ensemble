@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lam of Eylosane
 tags: []
 name:
   full: Lam of Eylosane

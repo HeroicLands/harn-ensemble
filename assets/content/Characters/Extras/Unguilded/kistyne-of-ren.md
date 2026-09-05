@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Ren
 tags: []
 name:
   full: Kistyne of Ren

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gor of Thes
 tags: []
 name:
   full: Gor of Thes

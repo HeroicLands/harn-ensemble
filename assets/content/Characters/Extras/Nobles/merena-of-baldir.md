@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merena of Baldir
 tags: []
 name:
   full: Merena of Baldir

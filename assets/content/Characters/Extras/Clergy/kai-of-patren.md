@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kai of Patren
 tags: []
 name:
   full: Kai of Patren

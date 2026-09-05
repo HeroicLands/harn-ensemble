@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Que of Orien
 tags: []
 name:
   full: Que of Orien

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angern of Angoeol
 tags: []
 name:
   full: Angern of Angoeol

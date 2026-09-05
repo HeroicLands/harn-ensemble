@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewenien of Matlim
 tags: []
 name:
   full: Ewenien of Matlim

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jarlen of Osathias
 tags: []
 name:
   full: Jarlen of Osathias

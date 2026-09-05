@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pontous of Ewen
 tags: []
 name:
   full: Pontous of Ewen

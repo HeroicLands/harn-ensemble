@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aril of Cinbarn
 tags: []
 name:
   full: Aril of Cinbarn

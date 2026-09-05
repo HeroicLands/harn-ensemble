@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Sprythias
 tags: []
 name:
   full: Albalny of Sprythias

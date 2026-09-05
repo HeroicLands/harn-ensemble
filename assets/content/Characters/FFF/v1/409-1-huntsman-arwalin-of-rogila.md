@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Arwalin of Rogila
-  - 409-1 Huntsman
 tags: []
 name:
   full: Arwalin of Rogila

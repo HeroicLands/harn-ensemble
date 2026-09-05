@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Derbis
-  - 899-1 Other Non Human
 tags: []
 name:
   full: Derbis

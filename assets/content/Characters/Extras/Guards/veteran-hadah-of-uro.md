@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Hadah of Uro
 tags: []
 name:
   full: Veteran Hadah of Uro

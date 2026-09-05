@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jola of Bor
 tags: []
 name:
   full: Jola of Bor

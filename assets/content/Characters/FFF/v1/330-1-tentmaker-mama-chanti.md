@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Mama Chanti
-  - 330-1 Tentmaker
 tags: []
 name:
   full: Mama Chanti

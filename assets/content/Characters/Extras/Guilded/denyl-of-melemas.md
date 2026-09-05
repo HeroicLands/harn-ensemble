@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Denyl of Melemas
 tags: []
 name:
   full: Denyl of Melemas

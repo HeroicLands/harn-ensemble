@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ewenien of Wulveriel
 tags: []
 name:
   full: Ewenien of Wulveriel

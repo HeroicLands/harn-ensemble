@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Nalin
 tags: []
 name:
   full: Gorsine of Nalin

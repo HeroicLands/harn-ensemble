@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusil of Obyne
 tags: []
 name:
   full: Lusil of Obyne

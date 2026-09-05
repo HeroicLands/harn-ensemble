@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dalton of Beldana
 tags: []
 name:
   full: Dalton of Beldana

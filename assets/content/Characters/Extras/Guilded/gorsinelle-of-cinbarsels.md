@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsinelle of Cinbarsels
 tags: []
 name:
   full: Gorsinelle of Cinbarsels

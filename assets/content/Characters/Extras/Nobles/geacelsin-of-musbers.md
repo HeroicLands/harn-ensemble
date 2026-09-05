@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Geacelsin of Musbers
 tags: []
 name:
   full: Geacelsin of Musbers

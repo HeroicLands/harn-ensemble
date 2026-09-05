@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zorgin of Wyth
 tags: []
 name:
   full: Zorgin of Wyth

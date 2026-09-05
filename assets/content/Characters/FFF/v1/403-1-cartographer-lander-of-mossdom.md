@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Lander of Mossdom
-  - 403-1 Cartographer
 tags: []
 name:
   full: Lander of Mossdom

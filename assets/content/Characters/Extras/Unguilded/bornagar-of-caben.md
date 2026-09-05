@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bornagar of Caben
 tags: []
 name:
   full: Bornagar of Caben

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kyresaldin of Stiem
 tags: []
 name:
   full: Kyresaldin of Stiem

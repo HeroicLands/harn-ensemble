@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kai of Everik
 tags: []
 name:
   full: Kai of Everik

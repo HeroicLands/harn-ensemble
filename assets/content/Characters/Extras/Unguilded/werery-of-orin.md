@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werery of Orin
 tags: []
 name:
   full: Werery of Orin

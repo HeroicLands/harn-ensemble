@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forenelle of Kephis
 tags: []
 name:
   full: Forenelle of Kephis

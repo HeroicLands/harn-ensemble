@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dir of Jorwynn
 tags: []
 name:
   full: Dir of Jorwynn

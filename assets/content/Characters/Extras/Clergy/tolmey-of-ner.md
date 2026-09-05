@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Ner
 tags: []
 name:
   full: Tolmey of Ner

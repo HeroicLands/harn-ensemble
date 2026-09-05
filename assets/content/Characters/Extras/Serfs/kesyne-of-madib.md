@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kesyne of Madib
 tags: []
 name:
   full: Kesyne of Madib

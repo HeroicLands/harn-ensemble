@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rik of Kroll
 tags: []
 name:
   full: Rik of Kroll

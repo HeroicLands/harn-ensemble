@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Malhberance of Baeth
 tags: []
 name:
   full: Malhberance of Baeth

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Myrelyn of Erlesque
 tags: []
 name:
   full: Myrelyn of Erlesque

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Chel
 tags: []
 name:
   full: Albalny of Chel

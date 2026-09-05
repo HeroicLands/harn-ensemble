@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bulbadul of Ermek
 tags: []
 name:
   full: Bulbadul of Ermek

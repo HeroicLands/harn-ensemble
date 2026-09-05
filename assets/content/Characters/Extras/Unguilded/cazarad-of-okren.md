@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cazarad of Okren
 tags: []
 name:
   full: Cazarad of Okren

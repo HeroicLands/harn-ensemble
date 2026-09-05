@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Ciltex
 tags: []
 name:
   full: Lycia of Ciltex

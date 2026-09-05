@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Clerik
 tags: []
 name:
   full: Lycia of Clerik

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusilina of Durnwak
 tags: []
 name:
   full: Lusilina of Durnwak

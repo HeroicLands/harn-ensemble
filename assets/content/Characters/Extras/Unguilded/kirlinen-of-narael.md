@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kirlinen of Narael
 tags: []
 name:
   full: Kirlinen of Narael

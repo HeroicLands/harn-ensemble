@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rybin of Aradas
 tags: []
 name:
   full: Rybin of Aradas

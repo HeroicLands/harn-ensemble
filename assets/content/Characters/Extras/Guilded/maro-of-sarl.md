@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maro of Sarl
 tags: []
 name:
   full: Maro of Sarl

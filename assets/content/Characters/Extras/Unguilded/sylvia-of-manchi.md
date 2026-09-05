@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Manchi
 tags: []
 name:
   full: Sylvia of Manchi

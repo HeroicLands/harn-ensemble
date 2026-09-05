@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Grulderiela of Amafa
 tags: []
 name:
   full: Grulderiela of Amafa

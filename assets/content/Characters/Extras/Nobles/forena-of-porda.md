@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Porda
 tags: []
 name:
   full: Forena of Porda

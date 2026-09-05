@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlael of Chalin
 tags: []
 name:
   full: Anlael of Chalin

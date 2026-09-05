@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdirchivren of Angerui
 tags: []
 name:
   full: Amdirchivren of Angerui

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herva of Erlesque
 tags: []
 name:
   full: Herva of Erlesque

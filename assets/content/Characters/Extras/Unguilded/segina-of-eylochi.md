@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segina of Eylochi
 tags: []
 name:
   full: Segina of Eylochi

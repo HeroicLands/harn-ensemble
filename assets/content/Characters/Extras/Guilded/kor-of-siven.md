@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kor of Siven
 tags: []
 name:
   full: Kor of Siven

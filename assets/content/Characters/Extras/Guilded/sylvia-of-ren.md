@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sylvia of Ren
 tags: []
 name:
   full: Sylvia of Ren

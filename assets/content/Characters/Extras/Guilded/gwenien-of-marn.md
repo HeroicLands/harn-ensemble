@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwenien of Marn
 tags: []
 name:
   full: Gwenien of Marn

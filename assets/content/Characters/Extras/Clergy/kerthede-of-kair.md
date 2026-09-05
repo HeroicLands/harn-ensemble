@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kerthede of Kair
 tags: []
 name:
   full: Kerthede of Kair

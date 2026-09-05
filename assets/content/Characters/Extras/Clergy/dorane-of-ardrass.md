@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorane of Ardrass
 tags: []
 name:
   full: Dorane of Ardrass

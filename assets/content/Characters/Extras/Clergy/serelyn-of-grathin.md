@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Serelyn of Grathin
 tags: []
 name:
   full: Serelyn of Grathin

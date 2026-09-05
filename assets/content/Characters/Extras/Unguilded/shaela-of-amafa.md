@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaela of Amafa
 tags: []
 name:
   full: Shaela of Amafa

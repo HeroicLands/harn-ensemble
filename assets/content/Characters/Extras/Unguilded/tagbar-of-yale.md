@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tagbar of Yale
 tags: []
 name:
   full: Tagbar of Yale

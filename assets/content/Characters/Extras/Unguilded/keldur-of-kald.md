@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keldur of Kald
 tags: []
 name:
   full: Keldur of Kald

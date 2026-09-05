@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gyand of Penda
 tags: []
 name:
   full: Gyand of Penda

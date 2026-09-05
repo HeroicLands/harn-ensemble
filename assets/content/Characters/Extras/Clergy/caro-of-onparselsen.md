@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Caro of Onparselsen
 tags: []
 name:
   full: Caro of Onparselsen

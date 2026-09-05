@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bash of Hendal
 tags: []
 name:
   full: Bash of Hendal

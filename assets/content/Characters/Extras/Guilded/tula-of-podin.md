@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tula of Podin
 tags: []
 name:
   full: Tula of Podin

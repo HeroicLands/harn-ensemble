@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charild of Marnin
 tags: []
 name:
   full: Charild of Marnin

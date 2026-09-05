@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Obrant of Sarn
 tags: []
 name:
   full: Obrant of Sarn

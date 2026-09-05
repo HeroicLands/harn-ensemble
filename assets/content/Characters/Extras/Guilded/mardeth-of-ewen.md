@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mardeth of Ewen
 tags: []
 name:
   full: Mardeth of Ewen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwelena of Daroos
 tags: []
 name:
   full: Gwelena of Daroos

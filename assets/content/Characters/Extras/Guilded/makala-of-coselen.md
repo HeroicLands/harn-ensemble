@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Makala of Coselen
 tags: []
 name:
   full: Makala of Coselen

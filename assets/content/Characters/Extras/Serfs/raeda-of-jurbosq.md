@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Jurbosq
 tags: []
 name:
   full: Raeda of Jurbosq

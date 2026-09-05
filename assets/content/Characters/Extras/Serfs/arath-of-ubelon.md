@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arath of Ubelon
 tags: []
 name:
   full: Arath of Ubelon

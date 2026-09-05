@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaelda of Amafa
 tags: []
 name:
   full: Anlaelda of Amafa

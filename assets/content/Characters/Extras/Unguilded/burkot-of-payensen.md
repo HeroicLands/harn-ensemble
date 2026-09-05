@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Burkot of Payensen
 tags: []
 name:
   full: Burkot of Payensen

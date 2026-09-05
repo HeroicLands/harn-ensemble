@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Edir of Marby
 tags: []
 name:
   full: Edir of Marby

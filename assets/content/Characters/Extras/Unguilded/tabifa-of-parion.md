@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Parion
 tags: []
 name:
   full: Tabifa of Parion

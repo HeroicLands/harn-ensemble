@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Owain of Aradas
 tags: []
 name:
   full: Owain of Aradas

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwelena of Kapire
 tags: []
 name:
   full: Gwelena of Kapire

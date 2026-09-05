@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nath of Yisgarael
 tags: []
 name:
   full: Nath of Yisgarael

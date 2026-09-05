@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hemis of Bor
 tags: []
 name:
   full: Hemis of Bor

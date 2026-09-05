@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uviene of Waylin
 tags: []
 name:
   full: Uviene of Waylin

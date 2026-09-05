@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eradah of Sel
 tags: []
 name:
   full: Eradah of Sel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Murlock of Karenel
 tags: []
 name:
   full: Murlock of Karenel

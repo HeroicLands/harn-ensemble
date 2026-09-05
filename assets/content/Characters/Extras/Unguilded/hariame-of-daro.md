@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hariame of Daro
 tags: []
 name:
   full: Hariame of Daro

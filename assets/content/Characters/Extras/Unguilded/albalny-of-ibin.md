@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Albalny of Ibin
 tags: []
 name:
   full: Albalny of Ibin

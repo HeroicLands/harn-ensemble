@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kor of Elemas
 tags: []
 name:
   full: Kor of Elemas

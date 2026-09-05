@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Danishemlena of Kramel
 tags: []
 name:
   full: Danishemlena of Kramel

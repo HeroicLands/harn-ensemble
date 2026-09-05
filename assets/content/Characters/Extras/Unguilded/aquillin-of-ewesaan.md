@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aquillin of Ewesaan
 tags: []
 name:
   full: Aquillin of Ewesaan

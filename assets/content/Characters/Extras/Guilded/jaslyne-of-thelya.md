@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jaslyne of Thelya
 tags: []
 name:
   full: Jaslyne of Thelya

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Perlina of Athias
 tags: []
 name:
   full: Perlina of Athias

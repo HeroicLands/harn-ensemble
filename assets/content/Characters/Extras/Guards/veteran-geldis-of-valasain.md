@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Geldis of Valasain
 tags: []
 name:
   full: Veteran Geldis of Valasain

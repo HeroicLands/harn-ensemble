@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Harlabek of Burrak
 tags: []
 name:
   full: Harlabek of Burrak

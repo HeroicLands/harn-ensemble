@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Tharo of Bideth
-  - 416-1 Serf Half Villein
 tags: []
 name:
   full: Tharo of Bideth

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zane of Onparsuel
 tags: []
 name:
   full: Zane of Onparsuel

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Norbin of Marbenalin
 tags: []
 name:
   full: Veteran Norbin of Marbenalin

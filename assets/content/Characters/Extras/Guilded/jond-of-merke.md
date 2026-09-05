@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jond of Merke
 tags: []
 name:
   full: Jond of Merke

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jessthias of Parion
 tags: []
 name:
   full: Jessthias of Parion

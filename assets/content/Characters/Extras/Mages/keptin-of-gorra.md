@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keptin of Gorra
 tags: []
 name:
   full: Keptin of Gorra

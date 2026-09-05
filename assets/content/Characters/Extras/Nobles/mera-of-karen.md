@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mera of Karen
 tags: []
 name:
   full: Mera of Karen

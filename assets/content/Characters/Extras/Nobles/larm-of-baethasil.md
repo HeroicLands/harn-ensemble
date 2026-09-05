@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Larm of Baethasil
 tags: []
 name:
   full: Larm of Baethasil

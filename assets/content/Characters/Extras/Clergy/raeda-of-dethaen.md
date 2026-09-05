@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Dethaen
 tags: []
 name:
   full: Raeda of Dethaen

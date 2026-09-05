@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lycia of Hubellyr
 tags: []
 name:
   full: Lycia of Hubellyr

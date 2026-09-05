@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Gwyn of Polruan
-  - 127-2 Yeoman LF
 tags: []
 name:
   full: Gwyn of Polruan

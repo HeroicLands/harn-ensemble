@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aquillical of Armelern
 tags: []
 name:
   full: Aquillical of Armelern

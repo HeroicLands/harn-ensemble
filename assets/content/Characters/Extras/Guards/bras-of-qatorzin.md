@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bras of Qatorzin
 tags: []
 name:
   full: Bras of Qatorzin

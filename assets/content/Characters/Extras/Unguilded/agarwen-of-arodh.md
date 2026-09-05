@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Agarwen of Arodh
 tags: []
 name:
   full: Agarwen of Arodh

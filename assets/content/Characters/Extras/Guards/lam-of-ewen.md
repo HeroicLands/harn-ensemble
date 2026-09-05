@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lam of Ewen
 tags: []
 name:
   full: Lam of Ewen

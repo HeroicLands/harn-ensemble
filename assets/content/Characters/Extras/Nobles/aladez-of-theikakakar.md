@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Aladez of Theikakakar
 tags: []
 name:
   full: Aladez of Theikakakar

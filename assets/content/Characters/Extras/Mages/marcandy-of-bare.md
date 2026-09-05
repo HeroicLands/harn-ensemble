@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marcandy of Bare
 tags: []
 name:
   full: Marcandy of Bare

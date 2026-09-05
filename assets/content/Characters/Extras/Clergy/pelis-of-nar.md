@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pelis of Nar
 tags: []
 name:
   full: Pelis of Nar

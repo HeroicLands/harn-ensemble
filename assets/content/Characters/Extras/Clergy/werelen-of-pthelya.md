@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Werelen of Pthelya
 tags: []
 name:
   full: Werelen of Pthelya

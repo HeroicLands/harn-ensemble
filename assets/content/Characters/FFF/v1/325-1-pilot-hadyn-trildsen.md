@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Hadyn Trildsen
-  - 325-1 Pilot
 tags: []
 name:
   full: Hadyn Trildsen

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cholayn of Wythsena
 tags: []
 name:
   full: Cholayn of Wythsena

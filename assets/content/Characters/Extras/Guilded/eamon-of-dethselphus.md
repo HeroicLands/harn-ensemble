@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eamon of Dethselphus
 tags: []
 name:
   full: Eamon of Dethselphus

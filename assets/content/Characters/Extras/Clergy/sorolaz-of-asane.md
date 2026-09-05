@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sorolaz of Asane
 tags: []
 name:
   full: Sorolaz of Asane

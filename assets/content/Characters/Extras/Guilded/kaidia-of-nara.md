@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Nara
 tags: []
 name:
   full: Kaidia of Nara

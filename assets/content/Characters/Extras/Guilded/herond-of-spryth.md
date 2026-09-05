@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Herond of Spryth
 tags: []
 name:
   full: Herond of Spryth

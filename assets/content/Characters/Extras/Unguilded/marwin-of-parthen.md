@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marwin of Parthen
 tags: []
 name:
   full: Marwin of Parthen

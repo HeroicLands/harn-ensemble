@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tabifa of Saldim
 tags: []
 name:
   full: Tabifa of Saldim

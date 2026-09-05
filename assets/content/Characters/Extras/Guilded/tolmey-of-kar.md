@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Kar
 tags: []
 name:
   full: Tolmey of Kar

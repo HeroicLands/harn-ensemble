@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ralda of Wulverda
 tags: []
 name:
   full: Ralda of Wulverda

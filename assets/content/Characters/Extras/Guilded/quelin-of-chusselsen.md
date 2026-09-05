@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quelin of Chusselsen
 tags: []
 name:
   full: Quelin of Chusselsen

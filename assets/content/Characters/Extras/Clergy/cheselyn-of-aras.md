@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cheselyn of Aras
 tags: []
 name:
   full: Cheselyn of Aras

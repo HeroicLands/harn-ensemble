@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sir Armand of Gimon
-  - 507-4 Fighting Order MH
 tags: []
 name:
   full: Sir Armand of Gimon

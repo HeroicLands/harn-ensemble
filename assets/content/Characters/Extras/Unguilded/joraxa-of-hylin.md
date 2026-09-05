@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Joraxa of Hylin
 tags: []
 name:
   full: Joraxa of Hylin

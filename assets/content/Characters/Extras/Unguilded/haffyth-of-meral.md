@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Haffyth of Meral
 tags: []
 name:
   full: Haffyth of Meral

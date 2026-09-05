@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nathbar of Paserien
 tags: []
 name:
   full: Nathbar of Paserien

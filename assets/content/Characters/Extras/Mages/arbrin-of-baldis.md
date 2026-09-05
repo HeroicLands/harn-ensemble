@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Arbrin of Baldis
 tags: []
 name:
   full: Arbrin of Baldis

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merwas of Chornic
 tags: []
 name:
   full: Merwas of Chornic

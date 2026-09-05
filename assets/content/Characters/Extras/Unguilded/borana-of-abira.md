@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borana of Abira
 tags: []
 name:
   full: Borana of Abira

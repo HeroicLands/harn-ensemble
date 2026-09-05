@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gwelen of Ubernic
 tags: []
 name:
   full: Gwelen of Ubernic

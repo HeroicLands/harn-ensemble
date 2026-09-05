@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chaklyn of Varas
 tags: []
 name:
   full: Chaklyn of Varas

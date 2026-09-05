@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Vylosath
 tags: []
 name:
   full: Borane of Vylosath

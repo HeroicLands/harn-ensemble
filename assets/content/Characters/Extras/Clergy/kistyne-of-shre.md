@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kistyne of Shre
 tags: []
 name:
   full: Kistyne of Shre

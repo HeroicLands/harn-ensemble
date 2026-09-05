@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Clavro of Podin
 tags: []
 name:
   full: Clavro of Podin

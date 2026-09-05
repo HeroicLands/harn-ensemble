@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merery of Roll
 tags: []
 name:
   full: Merery of Roll

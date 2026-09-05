@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Urik of Chuzyn
 tags: []
 name:
   full: Urik of Chuzyn

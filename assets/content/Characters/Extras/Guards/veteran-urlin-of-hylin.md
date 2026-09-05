@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Urlin of Hylin
 tags: []
 name:
   full: Veteran Urlin of Hylin

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Corfyn of Barsel
 tags: []
 name:
   full: Corfyn of Barsel

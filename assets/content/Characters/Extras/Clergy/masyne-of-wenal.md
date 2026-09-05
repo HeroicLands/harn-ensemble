@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Masyne of Wenal
 tags: []
 name:
   full: Masyne of Wenal

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Semis of Irin
 tags: []
 name:
   full: Semis of Irin

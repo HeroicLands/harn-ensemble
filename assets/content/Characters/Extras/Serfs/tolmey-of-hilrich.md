@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Hilrich
 tags: []
 name:
   full: Tolmey of Hilrich

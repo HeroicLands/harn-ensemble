@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ral of Burrak
 tags: []
 name:
   full: Ral of Burrak

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uvien of Sidethaen
 tags: []
 name:
   full: Uvien of Sidethaen

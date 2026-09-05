@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Quiribor
 tags: []
 name:
   full: Sar of Quiribor

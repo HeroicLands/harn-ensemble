@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Dorana of Provin
 tags: []
 name:
   full: Dorana of Provin

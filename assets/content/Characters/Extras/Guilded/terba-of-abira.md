@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Abira
 tags: []
 name:
   full: Terba of Abira

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Areen of Irin
 tags: []
 name:
   full: Areen of Irin

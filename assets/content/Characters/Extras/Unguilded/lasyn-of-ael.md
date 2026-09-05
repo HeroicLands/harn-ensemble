@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lasyn of Ael
 tags: []
 name:
   full: Lasyn of Ael

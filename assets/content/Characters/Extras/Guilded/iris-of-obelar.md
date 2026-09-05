@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Iris of Obelar
 tags: []
 name:
   full: Iris of Obelar

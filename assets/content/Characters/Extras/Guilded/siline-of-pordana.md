@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Siline of Pordana
 tags: []
 name:
   full: Siline of Pordana

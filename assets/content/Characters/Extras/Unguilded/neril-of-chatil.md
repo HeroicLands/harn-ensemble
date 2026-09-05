@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Neril of Chatil
 tags: []
 name:
   full: Neril of Chatil

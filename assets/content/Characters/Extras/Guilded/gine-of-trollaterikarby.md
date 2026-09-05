@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gine of Trollaterikarby
 tags: []
 name:
   full: Gine of Trollaterikarby

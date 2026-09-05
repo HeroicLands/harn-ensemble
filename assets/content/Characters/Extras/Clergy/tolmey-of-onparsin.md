@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Onparsin
 tags: []
 name:
   full: Tolmey of Onparsin

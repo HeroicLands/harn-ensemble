@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Bel of Vylosane
 tags: []
 name:
   full: Veteran Bel of Vylosane

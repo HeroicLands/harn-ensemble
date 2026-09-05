@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Charin of Hylin
 tags: []
 name:
   full: Charin of Hylin

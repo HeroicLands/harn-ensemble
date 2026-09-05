@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarm of Ryth
 tags: []
 name:
   full: Klarm of Ryth

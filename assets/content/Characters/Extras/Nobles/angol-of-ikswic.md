@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angol of Ikswic
 tags: []
 name:
   full: Angol of Ikswic

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Erelyn of Irien
 tags: []
 name:
   full: Erelyn of Irien

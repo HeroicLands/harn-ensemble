@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Braspen of Amlugior
 tags: []
 name:
   full: Braspen of Amlugior

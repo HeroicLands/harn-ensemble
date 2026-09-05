@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Keribon of Kapire
 tags: []
 name:
   full: Keribon of Kapire

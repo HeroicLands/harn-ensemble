@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Harath of Troll
 tags: []
 name:
   full: Veteran Harath of Troll

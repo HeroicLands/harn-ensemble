@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zuiquerena of Aikarin
 tags: []
 name:
   full: Zuiquerena of Aikarin

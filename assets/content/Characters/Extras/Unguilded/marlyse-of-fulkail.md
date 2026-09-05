@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Fulkail
 tags: []
 name:
   full: Marlyse of Fulkail

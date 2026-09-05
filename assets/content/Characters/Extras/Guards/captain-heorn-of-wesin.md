@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Heorn of Wesin
 tags: []
 name:
   full: Captain Heorn of Wesin

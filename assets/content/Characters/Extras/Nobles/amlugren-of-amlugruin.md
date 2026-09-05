@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amlugren of Amlugruin
 tags: []
 name:
   full: Amlugren of Amlugruin

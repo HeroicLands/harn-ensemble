@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sir Rollard d'Audrieu
-  - 506-1 Feudal Knight HH
 tags: []
 name:
   full: Sir Rollard d'Audrieu

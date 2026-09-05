@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chanisa of Dybarnesku
 tags: []
 name:
   full: Chanisa of Dybarnesku

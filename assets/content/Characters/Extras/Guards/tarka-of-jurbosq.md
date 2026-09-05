@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tarka of Jurbosq
 tags: []
 name:
   full: Tarka of Jurbosq

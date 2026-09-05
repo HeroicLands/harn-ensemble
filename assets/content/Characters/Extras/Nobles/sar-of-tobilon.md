@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sar of Tobilon
 tags: []
 name:
   full: Sar of Tobilon

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Brasak of Sarn
 tags: []
 name:
   full: Brasak of Sarn

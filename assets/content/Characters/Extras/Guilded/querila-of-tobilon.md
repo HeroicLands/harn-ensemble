@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Querila of Tobilon
 tags: []
 name:
   full: Querila of Tobilon

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sebelshin of Pythasil
 tags: []
 name:
   full: Sebelshin of Pythasil

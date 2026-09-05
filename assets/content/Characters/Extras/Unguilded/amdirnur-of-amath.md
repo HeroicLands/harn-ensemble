@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdirnur of Amath
 tags: []
 name:
   full: Amdirnur of Amath

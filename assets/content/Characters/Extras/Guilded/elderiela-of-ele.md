@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Elderiela of Ele
 tags: []
 name:
   full: Elderiela of Ele

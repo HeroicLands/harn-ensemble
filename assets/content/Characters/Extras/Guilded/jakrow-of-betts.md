@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakrow of Betts
 tags: []
 name:
   full: Jakrow of Betts

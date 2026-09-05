@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rael of Baldiribor
 tags: []
 name:
   full: Rael of Baldiribor

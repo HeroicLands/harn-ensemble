@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Onfroi of Metical
-  - 405-1 Entertainer
 tags: []
 name:
   full: Onfroi of Metical

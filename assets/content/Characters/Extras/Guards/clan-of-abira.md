@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Clan of Abira
 tags: []
 name:
   full: Clan of Abira

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karn of Aweil
 tags: []
 name:
   full: Karn of Aweil

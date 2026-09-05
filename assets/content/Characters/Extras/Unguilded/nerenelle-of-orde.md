@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nerenelle of Orde
 tags: []
 name:
   full: Nerenelle of Orde

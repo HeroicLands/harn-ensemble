@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Angem of Ceriar
 tags: []
 name:
   full: Angem of Ceriar

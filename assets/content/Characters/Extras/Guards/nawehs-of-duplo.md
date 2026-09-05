@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nawehs of Duplo
 tags: []
 name:
   full: Nawehs of Duplo

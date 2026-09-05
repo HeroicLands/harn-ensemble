@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Orta
 tags: []
 name:
   full: Terba of Orta

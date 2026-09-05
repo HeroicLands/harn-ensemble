@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veradain of Eldire
 tags: []
 name:
   full: Veradain of Eldire

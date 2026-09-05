@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Julah of Varas
 tags: []
 name:
   full: Julah of Varas

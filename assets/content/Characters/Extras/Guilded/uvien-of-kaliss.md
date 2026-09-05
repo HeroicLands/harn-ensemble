@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Uvien of Kaliss
 tags: []
 name:
   full: Uvien of Kaliss

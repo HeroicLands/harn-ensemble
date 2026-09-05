@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lysatris of Quiriel
 tags: []
 name:
   full: Lysatris of Quiriel

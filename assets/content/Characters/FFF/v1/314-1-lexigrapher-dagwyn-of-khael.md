@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dagwyn of Khael
-  - 314-1 Lexigrapher
 tags: []
 name:
   full: Dagwyn of Khael

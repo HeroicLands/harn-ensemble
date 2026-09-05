@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Erech of Domel
 tags: []
 name:
   full: Veteran Erech of Domel

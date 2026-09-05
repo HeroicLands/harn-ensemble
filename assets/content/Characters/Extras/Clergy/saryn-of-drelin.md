@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Saryn of Drelin
 tags: []
 name:
   full: Saryn of Drelin

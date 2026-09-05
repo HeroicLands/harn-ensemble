@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Berik of Kestel
-  - 399-2 Other Guild
 tags: []
 name:
   full: Berik of Kestel

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Giles of Gilam
-  - 322-2 Ostler
 tags: []
 name:
   full: Giles of Gilam

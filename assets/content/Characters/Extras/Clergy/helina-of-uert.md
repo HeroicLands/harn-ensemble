@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Helina of Uert
 tags: []
 name:
   full: Helina of Uert

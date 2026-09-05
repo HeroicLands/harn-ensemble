@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Magnol
 tags: []
 name:
   full: Fryda of Magnol

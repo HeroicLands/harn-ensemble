@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Warorel Iasen
-  - 402-1 Brigand
 tags: []
 name:
   full: Warorel Iasen

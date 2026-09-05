@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ith of Intrenel
 tags: []
 name:
   full: Ith of Intrenel

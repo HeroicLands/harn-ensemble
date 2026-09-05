@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mael of Talliss
 tags: []
 name:
   full: Mael of Talliss

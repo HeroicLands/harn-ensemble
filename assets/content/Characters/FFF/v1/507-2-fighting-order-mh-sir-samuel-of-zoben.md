@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Sir Samuel of Zoben
-  - 507-2 Fighting Order MH
 tags: []
 name:
   full: Sir Samuel of Zoben

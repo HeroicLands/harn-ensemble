@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eweniene of Aras
 tags: []
 name:
   full: Eweniene of Aras

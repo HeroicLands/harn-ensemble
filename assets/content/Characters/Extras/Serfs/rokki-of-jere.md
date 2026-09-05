@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rokki of Jere
 tags: []
 name:
   full: Rokki of Jere

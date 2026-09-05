@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terza of Stuk
 tags: []
 name:
   full: Terza of Stuk

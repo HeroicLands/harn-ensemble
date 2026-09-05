@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merwas of Paseris
 tags: []
 name:
   full: Merwas of Paseris

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Korbin of Smyt
 tags: []
 name:
   full: Korbin of Smyt

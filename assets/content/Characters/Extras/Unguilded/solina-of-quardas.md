@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Solina of Quardas
 tags: []
 name:
   full: Solina of Quardas

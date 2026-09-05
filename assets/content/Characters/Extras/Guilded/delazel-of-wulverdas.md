@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Delazel of Wulverdas
 tags: []
 name:
   full: Delazel of Wulverdas

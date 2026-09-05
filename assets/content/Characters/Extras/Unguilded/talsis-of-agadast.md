@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Talsis of Agadast
 tags: []
 name:
   full: Talsis of Agadast

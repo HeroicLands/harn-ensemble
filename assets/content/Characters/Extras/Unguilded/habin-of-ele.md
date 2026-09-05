@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Habin of Ele
 tags: []
 name:
   full: Habin of Ele

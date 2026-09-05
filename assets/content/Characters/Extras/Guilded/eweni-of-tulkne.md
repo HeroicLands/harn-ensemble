@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eweni of Tulkne
 tags: []
 name:
   full: Eweni of Tulkne

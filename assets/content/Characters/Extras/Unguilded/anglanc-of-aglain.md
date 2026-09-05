@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anglanc of Aglain
 tags: []
 name:
   full: Anglanc of Aglain

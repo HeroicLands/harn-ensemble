@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Segine of Puckill
 tags: []
 name:
   full: Segine of Puckill

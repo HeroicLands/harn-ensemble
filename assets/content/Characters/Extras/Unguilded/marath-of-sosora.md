@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marath of Sosora
 tags: []
 name:
   full: Marath of Sosora

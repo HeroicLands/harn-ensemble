@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lavro of Quiribor
 tags: []
 name:
   full: Lavro of Quiribor

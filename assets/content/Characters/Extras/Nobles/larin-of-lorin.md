@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Larin of Lorin
 tags: []
 name:
   full: Larin of Lorin

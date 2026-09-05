@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Feldar of Rollater
 tags: []
 name:
   full: Feldar of Rollater

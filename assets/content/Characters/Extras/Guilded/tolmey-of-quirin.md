@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tolmey of Quirin
 tags: []
 name:
   full: Tolmey of Quirin

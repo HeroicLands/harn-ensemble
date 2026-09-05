@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Eradashai of Borin
 tags: []
 name:
   full: Eradashai of Borin

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Fil the Flutist
-  - 406-1 Farmer
 tags: []
 name:
   full: Fil the Flutist

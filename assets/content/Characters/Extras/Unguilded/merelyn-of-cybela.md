@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merelyn of Cybela
 tags: []
 name:
   full: Merelyn of Cybela

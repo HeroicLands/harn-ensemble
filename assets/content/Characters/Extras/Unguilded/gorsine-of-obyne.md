@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsine of Obyne
 tags: []
 name:
   full: Gorsine of Obyne

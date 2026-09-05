@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Dafyd Stahlman
-  - 116-1 Mercenary MH
 tags: []
 name:
   full: Dafyd Stahlman

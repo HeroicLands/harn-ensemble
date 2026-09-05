@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Klarina of Parsuel
 tags: []
 name:
   full: Klarina of Parsuel

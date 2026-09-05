@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Poldoel of Homeleris
 tags: []
 name:
   full: Poldoel of Homeleris

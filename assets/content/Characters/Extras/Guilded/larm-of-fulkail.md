@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Larm of Fulkail
 tags: []
 name:
   full: Larm of Fulkail

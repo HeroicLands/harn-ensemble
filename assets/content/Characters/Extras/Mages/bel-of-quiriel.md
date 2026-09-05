@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Bel of Quiriel
 tags: []
 name:
   full: Bel of Quiriel

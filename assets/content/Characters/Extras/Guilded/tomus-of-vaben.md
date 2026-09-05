@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tomus of Vaben
 tags: []
 name:
   full: Tomus of Vaben

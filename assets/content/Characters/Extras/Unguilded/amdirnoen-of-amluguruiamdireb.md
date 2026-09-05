@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdirnoen of Amluguruiamdireb
 tags: []
 name:
   full: Amdirnoen of Amluguruiamdireb

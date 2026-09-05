@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Chima of Ibin
 tags: []
 name:
   full: Chima of Ibin

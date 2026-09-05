@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Evenodelareen of Jurbosq
 tags: []
 name:
   full: Evenodelareen of Jurbosq

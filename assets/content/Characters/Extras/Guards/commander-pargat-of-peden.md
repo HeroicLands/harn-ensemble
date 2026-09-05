@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Commander Pargat of Peden
 tags: []
 name:
   full: Commander Pargat of Peden

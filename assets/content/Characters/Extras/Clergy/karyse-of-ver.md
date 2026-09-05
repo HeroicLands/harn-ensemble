@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Karyse of Ver
 tags: []
 name:
   full: Karyse of Ver

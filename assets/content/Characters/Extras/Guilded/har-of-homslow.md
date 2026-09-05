@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Har of Homslow
 tags: []
 name:
   full: Har of Homslow

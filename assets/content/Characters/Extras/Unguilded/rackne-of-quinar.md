@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rackne of Quinar
 tags: []
 name:
   full: Rackne of Quinar

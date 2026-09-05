@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Diryn of Kass
 tags: []
 name:
   full: Diryn of Kass

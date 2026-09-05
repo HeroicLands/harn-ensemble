@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Seral of Madib
 tags: []
 name:
   full: Seral of Madib

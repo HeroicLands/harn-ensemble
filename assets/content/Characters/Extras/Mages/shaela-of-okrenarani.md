@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Shaela of Okrenarani
 tags: []
 name:
   full: Shaela of Okrenarani

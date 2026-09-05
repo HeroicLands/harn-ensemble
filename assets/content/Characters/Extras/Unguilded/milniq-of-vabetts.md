@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Milniq of Vabetts
 tags: []
 name:
   full: Milniq of Vabetts

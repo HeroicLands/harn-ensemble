@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Piris of Lunen
 tags: []
 name:
   full: Piris of Lunen

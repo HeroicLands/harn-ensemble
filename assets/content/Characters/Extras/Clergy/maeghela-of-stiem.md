@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghela of Stiem
 tags: []
 name:
   full: Maeghela of Stiem

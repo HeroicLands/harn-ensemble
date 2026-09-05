@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gine of Debern
 tags: []
 name:
   full: Gine of Debern

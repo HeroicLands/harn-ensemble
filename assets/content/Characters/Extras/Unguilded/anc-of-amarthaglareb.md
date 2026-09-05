@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anc of Amarthaglareb
 tags: []
 name:
   full: Anc of Amarthaglareb

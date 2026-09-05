@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kirlin of Renel
 tags: []
 name:
   full: Kirlin of Renel

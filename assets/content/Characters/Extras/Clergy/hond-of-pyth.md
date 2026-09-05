@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hond of Pyth
 tags: []
 name:
   full: Hond of Pyth

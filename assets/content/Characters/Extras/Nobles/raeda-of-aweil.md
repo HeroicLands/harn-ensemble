@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Raeda of Aweil
 tags: []
 name:
   full: Raeda of Aweil

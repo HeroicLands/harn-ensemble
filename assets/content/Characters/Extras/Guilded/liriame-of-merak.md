@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Liriame of Merak
 tags: []
 name:
   full: Liriame of Merak

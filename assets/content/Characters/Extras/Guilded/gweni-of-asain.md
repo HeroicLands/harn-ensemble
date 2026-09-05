@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gweni of Asain
 tags: []
 name:
   full: Gweni of Asain

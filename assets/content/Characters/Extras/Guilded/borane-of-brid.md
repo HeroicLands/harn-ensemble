@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Borane of Brid
 tags: []
 name:
   full: Borane of Brid

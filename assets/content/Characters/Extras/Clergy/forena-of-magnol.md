@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Magnol
 tags: []
 name:
   full: Forena of Magnol

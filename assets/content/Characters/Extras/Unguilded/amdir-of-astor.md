@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Amdir of Astor
 tags: []
 name:
   full: Amdir of Astor

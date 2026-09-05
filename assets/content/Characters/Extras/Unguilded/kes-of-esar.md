@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kes of Esar
 tags: []
 name:
   full: Kes of Esar

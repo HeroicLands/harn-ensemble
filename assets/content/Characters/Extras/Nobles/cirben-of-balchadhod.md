@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Cirben of Balchadhod
 tags: []
 name:
   full: Cirben of Balchadhod

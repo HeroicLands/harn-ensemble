@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Maeghelasera of Cadrune
 tags: []
 name:
   full: Maeghelasera of Cadrune

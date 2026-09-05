@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ymarosta of Abir
 tags: []
 name:
   full: Ymarosta of Abir

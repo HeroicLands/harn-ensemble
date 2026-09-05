@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ithan of Pythselwethen
 tags: []
 name:
   full: Ithan of Pythselwethen

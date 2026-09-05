@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Sat of Charass
 tags: []
 name:
   full: Sat of Charass

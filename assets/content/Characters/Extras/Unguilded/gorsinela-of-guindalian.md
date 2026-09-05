@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gorsinela of Guindalian
 tags: []
 name:
   full: Gorsinela of Guindalian

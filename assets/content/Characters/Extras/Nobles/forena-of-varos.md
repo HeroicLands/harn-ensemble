@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Forena of Varos
 tags: []
 name:
   full: Forena of Varos

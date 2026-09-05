@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Halmar of Ciltex
 tags: []
 name:
   full: Halmar of Ciltex

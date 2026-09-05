@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lajana of Tar
 tags: []
 name:
   full: Lajana of Tar

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Terba of Kass
 tags: []
 name:
   full: Terba of Kass

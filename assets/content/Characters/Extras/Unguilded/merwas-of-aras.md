@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merwas of Aras
 tags: []
 name:
   full: Merwas of Aras

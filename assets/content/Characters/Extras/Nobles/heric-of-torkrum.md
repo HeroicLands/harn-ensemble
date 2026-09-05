@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Heric of Torkrum
 tags: []
 name:
   full: Heric of Torkrum

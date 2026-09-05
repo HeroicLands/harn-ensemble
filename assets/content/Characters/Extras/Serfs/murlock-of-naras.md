@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Murlock of Naras
 tags: []
 name:
   full: Murlock of Naras

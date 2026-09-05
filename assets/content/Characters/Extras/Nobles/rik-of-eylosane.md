@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Rik of Eylosane
 tags: []
 name:
   full: Rik of Eylosane

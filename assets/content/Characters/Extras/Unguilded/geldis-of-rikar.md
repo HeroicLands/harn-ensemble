@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Geldis of Rikar
 tags: []
 name:
   full: Geldis of Rikar

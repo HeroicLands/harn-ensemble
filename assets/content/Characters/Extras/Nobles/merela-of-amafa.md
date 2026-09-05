@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merela of Amafa
 tags: []
 name:
   full: Merela of Amafa

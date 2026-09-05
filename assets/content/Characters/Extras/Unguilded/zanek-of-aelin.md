@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Zanek of Aelin
 tags: []
 name:
   full: Zanek of Aelin

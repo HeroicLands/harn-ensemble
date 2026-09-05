@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jakkyn of Tar
 tags: []
 name:
   full: Jakkyn of Tar

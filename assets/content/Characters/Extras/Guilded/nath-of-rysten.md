@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nath of Rysten
 tags: []
 name:
   full: Nath of Rysten

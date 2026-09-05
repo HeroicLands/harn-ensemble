@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Ash of Intrel
 tags: []
 name:
   full: Ash of Intrel

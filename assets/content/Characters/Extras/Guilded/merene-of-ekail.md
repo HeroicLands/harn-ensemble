@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Merene of Ekail
 tags: []
 name:
   full: Merene of Ekail

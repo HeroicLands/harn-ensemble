@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Kaidia of Pede
 tags: []
 name:
   full: Kaidia of Pede

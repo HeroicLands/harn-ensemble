@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Yaelinelle of Balin
 tags: []
 name:
   full: Yaelinelle of Balin

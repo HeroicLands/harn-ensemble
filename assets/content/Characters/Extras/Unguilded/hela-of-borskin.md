@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hela of Borskin
 tags: []
 name:
   full: Hela of Borskin

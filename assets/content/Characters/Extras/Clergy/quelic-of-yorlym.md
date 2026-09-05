@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Quelic of Yorlym
 tags: []
 name:
   full: Quelic of Yorlym

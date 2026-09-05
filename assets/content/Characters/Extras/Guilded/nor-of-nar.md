@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Nor of Nar
 tags: []
 name:
   full: Nor of Nar

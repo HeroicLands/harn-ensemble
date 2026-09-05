@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Mael of Mariam
 tags: []
 name:
   full: Mael of Mariam

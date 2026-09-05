@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Deni of Saldim
 tags: []
 name:
   full: Deni of Saldim

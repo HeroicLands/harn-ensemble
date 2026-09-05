@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Oren of Kestel
-  - 503-1 Page
 tags: []
 name:
   full: Oren of Kestel

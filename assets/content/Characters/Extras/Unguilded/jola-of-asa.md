@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jola of Asa
 tags: []
 name:
   full: Jola of Asa

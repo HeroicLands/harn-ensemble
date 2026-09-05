@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Hadash of Lumede
 tags: []
 name:
   full: Hadash of Lumede

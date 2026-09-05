@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Anlaela of Iaras
 tags: []
 name:
   full: Anlaela of Iaras

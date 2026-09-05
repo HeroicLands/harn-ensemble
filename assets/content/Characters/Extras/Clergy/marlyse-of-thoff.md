@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Marlyse of Thoff
 tags: []
 name:
   full: Marlyse of Thoff

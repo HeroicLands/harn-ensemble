@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Pallis of Marn
 tags: []
 name:
   full: Pallis of Marn

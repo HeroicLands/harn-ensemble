@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Gine of Aeb
 tags: []
 name:
   full: Gine of Aeb

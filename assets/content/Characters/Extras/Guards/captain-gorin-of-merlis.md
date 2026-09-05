@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Captain Gorin of Merlis
 tags: []
 name:
   full: Captain Gorin of Merlis

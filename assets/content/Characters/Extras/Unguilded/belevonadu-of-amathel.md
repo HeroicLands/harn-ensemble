@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Belevonadu of Amathel
 tags: []
 name:
   full: Belevonadu of Amathel

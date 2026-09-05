@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Veteran Eral of Balin
 tags: []
 name:
   full: Veteran Eral of Balin

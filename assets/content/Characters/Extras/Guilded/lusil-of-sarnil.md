@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Lusil of Sarnil
 tags: []
 name:
   full: Lusil of Sarnil

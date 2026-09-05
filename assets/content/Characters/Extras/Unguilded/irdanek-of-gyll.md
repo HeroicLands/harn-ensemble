@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Irdanek of Gyll
 tags: []
 name:
   full: Irdanek of Gyll

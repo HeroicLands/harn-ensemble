@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Fryda of Uert
 tags: []
 name:
   full: Fryda of Uert

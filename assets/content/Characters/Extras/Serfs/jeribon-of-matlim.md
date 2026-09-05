@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Jeribon of Matlim
 tags: []
 name:
   full: Jeribon of Matlim

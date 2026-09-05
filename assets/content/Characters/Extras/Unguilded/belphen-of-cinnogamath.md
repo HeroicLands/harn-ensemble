@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Belphen of Cinnogamath
 tags: []
 name:
   full: Belphen of Cinnogamath
