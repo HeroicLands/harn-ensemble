@@ -7,7 +7,7 @@ name:
   clan: Karen
   aliases: []
 id: 8EpYTvg3gnA51kjz
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: meraofkaren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

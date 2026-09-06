@@ -7,7 +7,7 @@ name:
   clan: Chara
   aliases: []
 id: QcB9yNJrivSewCLq
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: ugeninofchara
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

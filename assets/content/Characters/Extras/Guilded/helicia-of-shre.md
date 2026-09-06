@@ -7,7 +7,7 @@ name:
   clan: Shre
   aliases: []
 id: UKtDGvrDc804qjJv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: heliciaofshre
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

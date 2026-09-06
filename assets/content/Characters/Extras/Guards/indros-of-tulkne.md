@@ -7,7 +7,7 @@ name:
   clan: Tulkne
   aliases: []
 id: TgsqBWc3EM8tWRpm
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: indrosoftulkne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

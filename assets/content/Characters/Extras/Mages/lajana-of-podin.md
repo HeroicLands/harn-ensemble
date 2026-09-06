@@ -7,7 +7,7 @@ name:
   clan: Podin
   aliases: []
 id: RtyGK74wMhVH9tVM
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: lajanaofpodin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

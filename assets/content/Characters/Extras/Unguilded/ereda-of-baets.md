@@ -7,7 +7,7 @@ name:
   clan: Baets
   aliases: []
 id: xmFX7gOtcarDy4Nn
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: eredaofbaets
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

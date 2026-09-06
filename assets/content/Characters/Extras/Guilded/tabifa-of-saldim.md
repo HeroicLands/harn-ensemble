@@ -7,7 +7,7 @@ name:
   clan: Saldim
   aliases: []
 id: tBU8HHkeWgmGmDbi
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tabifaofsaldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

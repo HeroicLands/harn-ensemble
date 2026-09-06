@@ -7,7 +7,7 @@ name:
   clan: Reimek
   aliases: []
 id: T6DmN7zesMk4S468
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: neridonofreimek
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

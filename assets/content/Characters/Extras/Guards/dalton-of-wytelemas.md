@@ -7,7 +7,7 @@ name:
   clan: Wytelemas
   aliases: []
 id: y52xjLfqimHS0WLV
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: daltonofwytelemas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

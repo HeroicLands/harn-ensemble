@@ -7,7 +7,7 @@ name:
   clan: Curo
   aliases: []
 id: 4PwQmwzqHyAjJhDJ
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: valofcuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

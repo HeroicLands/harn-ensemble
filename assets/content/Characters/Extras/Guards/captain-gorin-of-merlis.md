@@ -7,7 +7,7 @@ name:
   clan: Merlis
   aliases: []
 id: pDZvr3qdmafIvNCp
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captaingorinofmerlis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

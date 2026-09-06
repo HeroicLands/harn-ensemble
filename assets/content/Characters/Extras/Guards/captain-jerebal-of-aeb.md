@@ -7,7 +7,7 @@ name:
   clan: Aeb
   aliases: []
 id: eKK9KQX0ir448tBN
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captainjerebalofaeb
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

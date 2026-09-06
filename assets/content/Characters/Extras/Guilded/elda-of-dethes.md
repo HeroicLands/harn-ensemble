@@ -7,7 +7,7 @@ name:
   clan: Dethes
   aliases: []
 id: pRd1ZULSkixFXc9Y
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: eldaofdethes
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Grathin
   aliases: []
 id: xQhlJXB8HM8YUwWv
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranjoragaofgrathin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

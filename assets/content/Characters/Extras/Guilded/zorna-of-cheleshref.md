@@ -7,7 +7,7 @@ name:
   clan: Cheleshref
   aliases: []
 id: nAUvDtscaEVJLTSe
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: zornaofcheleshref
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

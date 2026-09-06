@@ -7,7 +7,7 @@ name:
   clan: Mykantar
   aliases: []
 id: LmdAA2iYVTHNc9ul
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: myrelyneofmykantar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

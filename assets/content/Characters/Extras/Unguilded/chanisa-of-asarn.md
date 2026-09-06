@@ -7,7 +7,7 @@ name:
   clan: Asarn
   aliases: []
 id: I8307YIRJDIckP2W
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: chanisaofasarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

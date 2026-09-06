@@ -7,7 +7,7 @@ name:
   clan: Osathalmin
   aliases: []
 id: 2QobfI8V2g0BRzqn
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: helasarofosathalmin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

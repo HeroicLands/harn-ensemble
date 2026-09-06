@@ -7,7 +7,7 @@ name:
   clan: Goselrin
   aliases: []
 id: vTEOxEAIoTz8n07O
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jehanofgoselrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

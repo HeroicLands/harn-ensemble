@@ -7,7 +7,7 @@ name:
   clan: Eylosane
   aliases: []
 id: siObBkcsRlGG7MWf
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: rikofeylosane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

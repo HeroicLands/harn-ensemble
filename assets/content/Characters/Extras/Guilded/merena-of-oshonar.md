@@ -7,7 +7,7 @@ name:
   clan: Oshonar
   aliases: []
 id: boBuKBVPjyVeLz4J
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merenaofoshonar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

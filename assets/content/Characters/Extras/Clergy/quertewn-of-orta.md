@@ -7,7 +7,7 @@ name:
   clan: Orta
   aliases: []
 id: HWHvhlmItgpycvxv
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: quertewnoforta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

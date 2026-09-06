@@ -7,7 +7,7 @@ name:
   clan: Orostal
   aliases: []
 id: ssnt13YqynwruYqK
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: lavrooforostal
 img: images/fffv1/token/FFF_118-1_Scout_SB.png
 portrait: images/fffv1/FFF_118-1_Scout_SB.jpg

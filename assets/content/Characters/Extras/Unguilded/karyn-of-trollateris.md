@@ -7,7 +7,7 @@ name:
   clan: Trollateris
   aliases: []
 id: zi5kEzFaO7yQ6xpf
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: karynoftrollateris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

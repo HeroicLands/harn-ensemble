@@ -7,7 +7,7 @@ name:
   clan: Pord
   aliases: []
 id: vhWShf4w2fgf8gtd
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: zornaofpord
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

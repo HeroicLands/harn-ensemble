@@ -7,7 +7,7 @@ name:
   clan: Baeth
   aliases: []
 id: 0Yf6TDrZLUiVpuEU
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: malhberanceofbaeth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Sidethaen
   aliases: []
 id: sa6nbor6Oi0Ihpl9
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: daltonofsidethaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

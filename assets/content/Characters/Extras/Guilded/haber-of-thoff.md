@@ -7,7 +7,7 @@ name:
   clan: Thoff
   aliases: []
 id: V0aueT4LxMCOydee
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: haberofthoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

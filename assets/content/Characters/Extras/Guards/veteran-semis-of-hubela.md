@@ -7,7 +7,7 @@ name:
   clan: Hubela
   aliases: []
 id: 7gdyJMlLagAiXL88
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteransemisofhubela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

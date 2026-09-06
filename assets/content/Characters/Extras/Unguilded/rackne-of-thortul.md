@@ -7,7 +7,7 @@ name:
   clan: Thortul
   aliases: []
 id: 9ekWap2PJJFfVZgT
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: rackneofthortul
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

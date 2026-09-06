@@ -7,7 +7,7 @@ name:
   clan: Gurmal
   aliases: []
 id: YPPJhIhpL9Tmqn5l
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: angolofgurmal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

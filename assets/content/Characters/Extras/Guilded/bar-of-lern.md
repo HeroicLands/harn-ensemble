@@ -7,7 +7,7 @@ name:
   clan: Lern
   aliases: []
 id: 0nliWW9eZzH2Yaa3
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: baroflern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

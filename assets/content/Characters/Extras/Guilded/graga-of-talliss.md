@@ -7,7 +7,7 @@ name:
   clan: Talliss
   aliases: []
 id: ti7bQPT9mey2cEvS
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gragaoftalliss
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

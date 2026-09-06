@@ -7,7 +7,7 @@ name:
   clan: Paseriel
   aliases: []
 id: ECkY3xpCC3jWNqbe
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: yebinofpaseriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

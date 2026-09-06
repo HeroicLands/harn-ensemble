@@ -7,7 +7,7 @@ name:
   clan: Jaesin
   aliases: []
 id: aBkLlRSO16skpNK1
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: raeldaofjaesin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

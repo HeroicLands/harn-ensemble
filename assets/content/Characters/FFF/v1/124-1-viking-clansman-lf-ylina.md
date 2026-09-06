@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: 3NhXGurVjakRvw5J
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: ylina
 img: images/fffv1/token/FFF_124-1_Viking_Clansman_LF.png
 portrait: images/fffv1/FFF_124-1_Viking_Clansman_LF.jpg

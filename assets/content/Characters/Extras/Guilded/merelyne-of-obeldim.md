@@ -7,7 +7,7 @@ name:
   clan: Obeldim
   aliases: []
 id: A8TJxTGn1K3gOLhv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merelyneofobeldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

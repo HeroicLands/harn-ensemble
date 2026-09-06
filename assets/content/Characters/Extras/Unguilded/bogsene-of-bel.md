@@ -7,7 +7,7 @@ name:
   clan: Bel
   aliases: []
 id: aMRVNbo8FNeVgsPm
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bogseneofbel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

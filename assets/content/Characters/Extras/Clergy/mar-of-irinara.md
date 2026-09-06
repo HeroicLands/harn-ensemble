@@ -7,7 +7,7 @@ name:
   clan: Irinara
   aliases: []
 id: BpxWy5FaIN0PwXuI
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: marofirinara
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

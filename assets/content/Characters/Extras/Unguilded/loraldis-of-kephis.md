@@ -7,7 +7,7 @@ name:
   clan: Kephis
   aliases: []
 id: 66iS82CyzdXH2usU
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: loraldisofkephis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

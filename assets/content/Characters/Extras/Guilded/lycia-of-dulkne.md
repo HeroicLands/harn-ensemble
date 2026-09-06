@@ -7,7 +7,7 @@ name:
   clan: Dulkne
   aliases: []
 id: s6IWtVynMRJwi9mM
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lyciaofdulkne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Karion
   aliases: []
 id: Rh544ocXGASkoZPN
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: darofkarion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

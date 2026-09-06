@@ -7,7 +7,7 @@ name:
   clan: Domeralgurthalin
   aliases: []
 id: c57Ao4DRnfjLHGrp
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: parmenofdomeralgurthalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

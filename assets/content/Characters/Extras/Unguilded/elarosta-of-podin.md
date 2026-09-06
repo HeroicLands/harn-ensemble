@@ -7,7 +7,7 @@ name:
   clan: Podin
   aliases: []
 id: RK1oN9H1eMD7NptU
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: elarostaofpodin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

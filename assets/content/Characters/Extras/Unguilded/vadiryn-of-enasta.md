@@ -7,7 +7,7 @@ name:
   clan: Enasta
   aliases: []
 id: FnoUiCXjoQ8UqSHT
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: vadirynofenasta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Onparinarad
   aliases: []
 id: qCNAwXM0DvEFTdcS
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: uselofonparinarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

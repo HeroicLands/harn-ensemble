@@ -7,7 +7,7 @@ name:
   clan: Aralsar
   aliases: []
 id: eBYgq5F1jBQfU1Tj
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: kalasofaralsar
 img: images/fffv1/token/FFF_304-1_Chandler.png
 portrait: images/fffv1/FFF_304-1_Chandler.jpg

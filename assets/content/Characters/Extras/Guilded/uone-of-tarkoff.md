@@ -7,7 +7,7 @@ name:
   clan: Tarkoff
   aliases: []
 id: VKA4NvMwG1XcHGqL
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: uoneoftarkoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

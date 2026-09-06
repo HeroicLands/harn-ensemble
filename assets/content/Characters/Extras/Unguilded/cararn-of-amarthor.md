@@ -7,7 +7,7 @@ name:
   clan: Amarthor
   aliases: []
 id: NFhjnxMK789ifacp
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: cararnofamarthor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

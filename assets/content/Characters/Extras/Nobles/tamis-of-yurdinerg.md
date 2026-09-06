@@ -7,7 +7,7 @@ name:
   clan: Yurdinerg
   aliases: []
 id: ESlMe9kpoTgX60xg
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: tamisofyurdinerg
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

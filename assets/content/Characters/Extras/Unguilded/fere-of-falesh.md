@@ -7,7 +7,7 @@ name:
   clan: Falesh
   aliases: []
 id: ZVtKXJbAsYq2MZjr
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: fereoffalesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

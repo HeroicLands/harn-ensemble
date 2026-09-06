@@ -7,7 +7,7 @@ name:
   clan: Seral
   aliases: []
 id: lq3cvfiP3nUtnpir
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: tomusofseral
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

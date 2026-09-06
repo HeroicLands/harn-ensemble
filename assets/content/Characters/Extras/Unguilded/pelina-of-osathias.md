@@ -7,7 +7,7 @@ name:
   clan: Osathias
   aliases: []
 id: hZQYQEUgUSj4638Y
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: pelinaofosathias
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

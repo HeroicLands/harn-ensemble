@@ -7,7 +7,7 @@ name:
   clan: Parsinda
   aliases: []
 id: TgbsAqGudw9mHSH3
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cheselyneofparsinda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

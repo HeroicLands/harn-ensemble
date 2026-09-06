@@ -7,7 +7,7 @@ name:
   clan: Sarin
   aliases: []
 id: XXIKlDL7sNzTmWhm
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: crolynofsarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

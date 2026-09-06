@@ -7,7 +7,7 @@ name:
   clan: Ubelaradas
   aliases: []
 id: SEehwh1Kifj4zLQv
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: tolmeyofubelaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

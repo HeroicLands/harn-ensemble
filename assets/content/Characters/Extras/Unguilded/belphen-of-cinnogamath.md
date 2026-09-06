@@ -7,7 +7,7 @@ name:
   clan: Cinnogamath
   aliases: []
 id: ek8HNZJeTLOAYLoT
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: belphenofcinnogamath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

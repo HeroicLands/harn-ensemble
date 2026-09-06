@@ -7,7 +7,7 @@ name:
   clan: Karyn Way
   aliases: []
 id: KfFmOVVv6xs0kOgU
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: commanderkarynofway
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

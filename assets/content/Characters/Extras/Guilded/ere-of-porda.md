@@ -7,7 +7,7 @@ name:
   clan: Porda
   aliases: []
 id: muetTM4Ka2Zgli02
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ereofporda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

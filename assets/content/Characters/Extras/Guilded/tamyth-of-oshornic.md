@@ -7,7 +7,7 @@ name:
   clan: Oshornic
   aliases: []
 id: oVl6LGYUbuy8jpL3
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tamythofoshornic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

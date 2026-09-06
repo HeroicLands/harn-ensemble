@@ -7,7 +7,7 @@ name:
   clan: Iarani
   aliases: []
 id: ELjrTTrAaNhs5SzL
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: nerelenaofiarani
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

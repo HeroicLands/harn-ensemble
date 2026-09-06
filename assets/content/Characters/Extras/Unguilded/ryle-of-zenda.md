@@ -7,7 +7,7 @@ name:
   clan: Zenda
   aliases: []
 id: WkpeCxdqGjkxZObD
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ryleofzenda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

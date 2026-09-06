@@ -7,7 +7,7 @@ name:
   clan: Cranchi
   aliases: []
 id: 1CjxkvVVK5MA6zGQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: terzaofcranchi
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

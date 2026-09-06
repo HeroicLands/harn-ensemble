@@ -7,7 +7,7 @@ name:
   clan: Pordana
   aliases: []
 id: jykvi1dEWaWyu0gJ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: silineofpordana
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

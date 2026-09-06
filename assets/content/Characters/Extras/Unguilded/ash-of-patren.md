@@ -7,7 +7,7 @@ name:
   clan: Patren
   aliases: []
 id: eYqAdNNVfd5k78gu
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ashofpatren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

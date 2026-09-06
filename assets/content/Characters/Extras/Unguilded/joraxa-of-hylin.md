@@ -7,7 +7,7 @@ name:
   clan: Hylin
   aliases: []
 id: tBSaWgeV8l2xf6JL
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: joraxaofhylin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

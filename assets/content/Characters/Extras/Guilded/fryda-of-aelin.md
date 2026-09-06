@@ -7,7 +7,7 @@ name:
   clan: Aelin
   aliases: []
 id: ZSw6XuFIMqNWLIfO
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: frydaofaelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

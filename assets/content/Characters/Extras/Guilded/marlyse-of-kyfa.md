@@ -7,7 +7,7 @@ name:
   clan: Kyfa
   aliases: []
 id: GxYEXAjUUThZ0uJn
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: marlyseofkyfa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

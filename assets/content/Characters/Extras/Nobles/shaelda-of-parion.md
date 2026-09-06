@@ -7,7 +7,7 @@ name:
   clan: Parion
   aliases: []
 id: MMRxSfw744rbllV2
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: shaeldaofparion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

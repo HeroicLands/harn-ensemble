@@ -7,7 +7,7 @@ name:
   clan: Ryke
   aliases: []
 id: EH1Rs3rQVVy0oBAt
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: bascalryke
 img: images/fffv1/token/FFF_324-1_Physician.png
 portrait: images/fffv1/FFF_324-1_Physician.jpg

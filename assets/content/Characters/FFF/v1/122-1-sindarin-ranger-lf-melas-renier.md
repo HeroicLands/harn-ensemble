@@ -7,7 +7,7 @@ name:
   clan: Renier
   aliases: []
 id: fmub4svRhzTqgHvi
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: melasrenier
 img: images/fffv1/token/FFF_122-1_Sindarin_Ranger_LF.png
 portrait: images/fffv1/FFF_122-1_Sindarin_Ranger_LF.jpg

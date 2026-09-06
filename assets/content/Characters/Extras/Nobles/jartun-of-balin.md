@@ -7,7 +7,7 @@ name:
   clan: Balin
   aliases: []
 id: zeLa0rIKYtdn9Tb7
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: jartunofbalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Daroos
   aliases: []
 id: OrXQMvzoIiJ78O9h
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veterancyzorofdaroos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

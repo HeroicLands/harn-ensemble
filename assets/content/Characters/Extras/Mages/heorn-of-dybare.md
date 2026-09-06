@@ -7,7 +7,7 @@ name:
   clan: Dybare
   aliases: []
 id: lHRYHtAkgBhmIFzB
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: heornofdybare
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Gwyffidd
   aliases: []
 id: EbULUgSqrh8W8c7X
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: eamonofgwyffidd
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

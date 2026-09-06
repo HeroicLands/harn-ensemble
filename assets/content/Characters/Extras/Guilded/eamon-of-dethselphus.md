@@ -7,7 +7,7 @@ name:
   clan: Dethselphus
   aliases: []
 id: aYgE64ARa8Wjy8YN
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: eamonofdethselphus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

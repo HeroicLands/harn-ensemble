@@ -7,7 +7,7 @@ name:
   clan: Everda
   aliases: []
 id: ia5OOEXd67uI3yCx
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: perlaofeverda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Tombin
   aliases: []
 id: da1GRkcJAL4R6Onx
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: eldaoftombin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

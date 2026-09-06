@@ -7,7 +7,7 @@ name:
   clan: Wesaldis
   aliases: []
 id: 4t8fs8c1x1wFiieG
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: mereleofwesaldis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

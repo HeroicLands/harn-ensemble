@@ -7,7 +7,7 @@ name:
   clan: Domerros
   aliases: []
 id: Gxlu7PjYKNXyAkuO
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: zanekofdomerros
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

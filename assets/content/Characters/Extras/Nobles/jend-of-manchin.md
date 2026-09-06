@@ -7,7 +7,7 @@ name:
   clan: Manchin
   aliases: []
 id: N2lOTkbGDaaHNsOf
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: jendofmanchin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

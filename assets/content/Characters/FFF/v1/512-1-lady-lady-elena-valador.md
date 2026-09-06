@@ -7,7 +7,7 @@ name:
   clan: Valador
   aliases: []
 id: BlophomZelxk7f6x
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: ladyelenavalador
 img: images/fffv1/token/FFF_512-1_Lady.png
 portrait: images/fffv1/FFF_512-1_Lady.jpg

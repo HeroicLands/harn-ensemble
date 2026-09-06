@@ -7,7 +7,7 @@ name:
   clan: Intren
   aliases: []
 id: lby0K9GfU0kgrSCE
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jarnofintren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

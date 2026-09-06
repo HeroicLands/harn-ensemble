@@ -7,7 +7,7 @@ name:
   clan: Morrin
   aliases: []
 id: T3X70Ucw6IVEZlrW
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: urbainofmorrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

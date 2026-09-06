@@ -7,7 +7,7 @@ name:
   clan: Ikswic
   aliases: []
 id: yPuwqFQCCzkKRX7T
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jithofikswic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

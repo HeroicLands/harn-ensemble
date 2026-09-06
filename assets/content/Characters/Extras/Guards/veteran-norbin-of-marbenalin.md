@@ -7,7 +7,7 @@ name:
   clan: Marbenalin
   aliases: []
 id: eltMColrMoOk4JZg
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veterannorbinofmarbenalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

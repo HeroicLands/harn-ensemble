@@ -7,7 +7,7 @@ name:
   clan: Wythselrin
   aliases: []
 id: Ji0KbJppKzCgVL06
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kelenofwythselrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Sindal
   aliases: []
 id: efJLtx71D7OyZcnm
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: hervaofsindal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Osathias
   aliases: []
 id: b9C5fbTrpNpoEgU1
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: jarlenofosathias
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

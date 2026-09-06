@@ -7,7 +7,7 @@ name:
   clan: Placka
   aliases: []
 id: GyXMXNj9HtonAOUH
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: zuiqueofplacka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

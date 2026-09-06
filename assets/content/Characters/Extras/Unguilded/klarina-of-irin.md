@@ -7,7 +7,7 @@ name:
   clan: Irin
   aliases: []
 id: k4NiLU8ubM4APZdu
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: klarinaofirin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: yHTXrQJNtmgOTo45
-folder: gO37pwFIr5B44hdV
+packFolder: fffnonhumans
 shortcode: taatulk
 img: images/fff-13/FFF_804b_Gargu-Kyani_Hunter-headshot.webp
 portrait: images/fff-13/FFF_804b_Gargu-Kyani_Hunter.webp

@@ -7,7 +7,7 @@ name:
   clan: Erlesh
   aliases: []
 id: gJR690IF0qyd2t5I
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kalinaoferlesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Hosane
   aliases: []
 id: xHbkACwUHj7LCXIo
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jagaofhosane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

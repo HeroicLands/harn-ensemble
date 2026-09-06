@@ -7,7 +7,7 @@ name:
   clan: Hubelliss
   aliases: []
 id: 5H6qGoQJCgGPMGqB
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: grulderielaofhubelliss
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

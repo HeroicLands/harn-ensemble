@@ -7,7 +7,7 @@ name:
   clan: Narasane
   aliases: []
 id: DHyQJQf2mBl1lYHf
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kistyneofnarasane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

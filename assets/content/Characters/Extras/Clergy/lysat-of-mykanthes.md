@@ -7,7 +7,7 @@ name:
   clan: Mykanthes
   aliases: []
 id: tP9RyYCMlsUhd3Dj
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lysatofmykanthes
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

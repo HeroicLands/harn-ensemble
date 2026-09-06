@@ -7,7 +7,7 @@ name:
   clan: Balliar
   aliases: []
 id: JGFDiEmahtpO1PbL
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: arthelofballiar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Wethes
   aliases: []
 id: tx1Ngf2GlihQsy3L
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: forenaofwethes
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

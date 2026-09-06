@@ -7,7 +7,7 @@ name:
   clan: Saldir
   aliases: []
 id: 76sXJKzuZu6wSP2a
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tabifaofsaldir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

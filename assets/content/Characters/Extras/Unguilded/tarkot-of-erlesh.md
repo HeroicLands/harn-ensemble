@@ -7,7 +7,7 @@ name:
   clan: Erlesh
   aliases: []
 id: kTqj5AXh2rXH4176
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: tarkotoferlesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

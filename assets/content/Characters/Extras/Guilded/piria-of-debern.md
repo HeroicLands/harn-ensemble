@@ -7,7 +7,7 @@ name:
   clan: Debern
   aliases: []
 id: laEFZgIFE9VcRKJT
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: piriaofdebern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ewel
   aliases: []
 id: ehFPs7Cd4tI5EDs5
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lernofewel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

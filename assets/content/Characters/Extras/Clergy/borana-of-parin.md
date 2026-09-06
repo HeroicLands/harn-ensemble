@@ -7,7 +7,7 @@ name:
   clan: Parin
   aliases: []
 id: ZvDEPwo6X2fi4Cgc
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: boranaofparin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

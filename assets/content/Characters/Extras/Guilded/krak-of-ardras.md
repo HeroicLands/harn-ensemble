@@ -7,7 +7,7 @@ name:
   clan: Ardras
   aliases: []
 id: 1IXsil5obs11ElDO
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: krakofardras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Fellyr
   aliases: []
 id: liS3ExXdAmCk0xiw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: thervaoffellyr
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

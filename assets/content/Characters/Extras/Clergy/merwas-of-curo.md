@@ -7,7 +7,7 @@ name:
   clan: Curo
   aliases: []
 id: 1JRa3xYjOLTAzyzv
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: merwasofcuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

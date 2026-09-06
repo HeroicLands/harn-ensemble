@@ -7,7 +7,7 @@ name:
   clan: Elemas
   aliases: []
 id: VaCiVbL0zV7QkIvv
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: tamythofelemas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

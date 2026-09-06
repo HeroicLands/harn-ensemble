@@ -7,7 +7,7 @@ name:
   clan: Kar
   aliases: []
 id: LAvtALPUuavA88Sb
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gruldelofkar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

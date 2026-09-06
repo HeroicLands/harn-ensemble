@@ -7,7 +7,7 @@ name:
   clan: Uerthen
   aliases: []
 id: 5LNpPbiLKGh0Gp0s
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: ewenaofuerthen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

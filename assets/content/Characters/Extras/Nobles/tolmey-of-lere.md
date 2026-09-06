@@ -7,7 +7,7 @@ name:
   clan: Lere
   aliases: []
 id: diVMdXyU62HCzgSN
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: tolmeyoflere
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

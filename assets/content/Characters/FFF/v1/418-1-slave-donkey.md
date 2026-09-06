@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: X9QMQDMRJ2tSGvPK
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: donkey
 img: images/fffv1/token/FFF_418-1_Slave.png
 portrait: images/fffv1/FFF_418-1_Slave.jpg

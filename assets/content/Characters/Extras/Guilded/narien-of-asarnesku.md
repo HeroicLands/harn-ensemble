@@ -7,7 +7,7 @@ name:
   clan: Asarnesku
   aliases: []
 id: xUiWPvoHJtackjkp
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: narienofasarnesku
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

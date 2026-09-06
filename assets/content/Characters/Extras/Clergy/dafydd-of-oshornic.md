@@ -7,7 +7,7 @@ name:
   clan: Oshornic
   aliases: []
 id: jcS6laq25cq72QYA
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: dafyddofoshornic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

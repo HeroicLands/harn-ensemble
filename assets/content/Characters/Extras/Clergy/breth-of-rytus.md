@@ -7,7 +7,7 @@ name:
   clan: Rytus
   aliases: []
 id: lFThn0KpjBQrtRLN
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: brethofrytus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

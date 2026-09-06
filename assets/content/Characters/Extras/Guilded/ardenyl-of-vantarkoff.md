@@ -7,7 +7,7 @@ name:
   clan: Vantarkoff
   aliases: []
 id: 3PD4g0W7CtoK22Q0
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ardenylofvantarkoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

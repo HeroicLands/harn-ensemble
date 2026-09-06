@@ -7,7 +7,7 @@ name:
   clan: Sarl
   aliases: []
 id: WasKcGuYRBPpcIqg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: maroofsarl
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

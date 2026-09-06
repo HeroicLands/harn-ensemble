@@ -7,7 +7,7 @@ name:
   clan: Haranchin
   aliases: []
 id: cEnK83HvO55drABd
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: zabianofharanchin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kair
   aliases: []
 id: z9Yts8yOrB2ySeXj
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yagoofkair
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

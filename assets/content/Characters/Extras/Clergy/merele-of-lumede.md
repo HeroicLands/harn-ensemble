@@ -7,7 +7,7 @@ name:
   clan: Lumede
   aliases: []
 id: CkfRC1LslLnAXRAT
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: mereleoflumede
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

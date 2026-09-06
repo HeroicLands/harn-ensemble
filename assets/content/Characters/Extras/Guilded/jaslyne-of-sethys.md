@@ -7,7 +7,7 @@ name:
   clan: Sethys
   aliases: []
 id: XnUyV36g1kiFcHGy
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jaslyneofsethys
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

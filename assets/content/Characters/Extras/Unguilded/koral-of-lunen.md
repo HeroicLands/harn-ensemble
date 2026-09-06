@@ -7,7 +7,7 @@ name:
   clan: Lunen
   aliases: []
 id: iul5JmYiaA6dYs2M
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: koraloflunen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

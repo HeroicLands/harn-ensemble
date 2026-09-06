@@ -7,7 +7,7 @@ name:
   clan: Athalir
   aliases: []
 id: 5QqQGdWcSeK2tR8K
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: yebinofathalir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

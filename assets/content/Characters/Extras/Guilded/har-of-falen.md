@@ -7,7 +7,7 @@ name:
   clan: Falen
   aliases: []
 id: OLPN22chtsfG34OT
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: haroffalen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

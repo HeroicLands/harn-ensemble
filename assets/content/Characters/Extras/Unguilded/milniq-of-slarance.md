@@ -7,7 +7,7 @@ name:
   clan: Slarance
   aliases: []
 id: KgvvdfTe767P8jH2
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: milniqofslarance
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

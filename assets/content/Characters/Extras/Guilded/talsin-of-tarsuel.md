@@ -7,7 +7,7 @@ name:
   clan: Tarsuel
   aliases: []
 id: OJMuRRox48A7478D
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: talsinoftarsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

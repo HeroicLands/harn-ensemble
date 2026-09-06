@@ -7,7 +7,7 @@ name:
   clan: Artus
   aliases: []
 id: W5t6hyiDQsr3tQnj
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: mereryofartus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

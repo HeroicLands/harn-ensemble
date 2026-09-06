@@ -7,7 +7,7 @@ name:
   clan: Irin
   aliases: []
 id: mG6YuH5X4CExDGuG
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: areenofirin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

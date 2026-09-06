@@ -7,7 +7,7 @@ name:
   clan: Tobira
   aliases: []
 id: EKHsdMLY3sDaFKAA
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: marwinoftobira
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

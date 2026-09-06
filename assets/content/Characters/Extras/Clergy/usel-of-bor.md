@@ -7,7 +7,7 @@ name:
   clan: Bor
   aliases: []
 id: LSSbylLpDPNojR0l
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: uselofbor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

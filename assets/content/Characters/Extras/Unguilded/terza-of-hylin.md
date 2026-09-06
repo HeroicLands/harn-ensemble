@@ -7,7 +7,7 @@ name:
   clan: Hylin
   aliases: []
 id: RDSJTw9wFeDsRItA
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: terzaofhylin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

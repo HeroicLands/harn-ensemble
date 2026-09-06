@@ -7,7 +7,7 @@ name:
   clan: Bor
   aliases: []
 id: w4kMSNcOteqwyag7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: varbinofbor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

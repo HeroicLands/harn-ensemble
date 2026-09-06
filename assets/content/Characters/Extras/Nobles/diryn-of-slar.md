@@ -7,7 +7,7 @@ name:
   clan: Slar
   aliases: []
 id: bY2YOu3WdHXDDG77
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: dirynofslar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

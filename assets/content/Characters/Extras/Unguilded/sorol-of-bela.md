@@ -7,7 +7,7 @@ name:
   clan: Bela
   aliases: []
 id: JZtADE58cbrf8AFx
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: sorolofbela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

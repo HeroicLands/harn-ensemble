@@ -7,7 +7,7 @@ name:
   clan: Ner
   aliases: []
 id: Qbz9TaI3zPfaeCQ3
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yelimeofner
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

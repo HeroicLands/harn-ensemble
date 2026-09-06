@@ -7,7 +7,7 @@ name:
   clan: Arasane
   aliases: []
 id: X0GqnI3cBJfSYKz5
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: keleofarasane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

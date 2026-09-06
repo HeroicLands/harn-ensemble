@@ -7,7 +7,7 @@ name:
   clan: Orlis
   aliases: []
 id: ypvjV2wOBjl3VVjX
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kodaroforlis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

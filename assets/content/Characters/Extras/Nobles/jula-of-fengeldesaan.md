@@ -7,7 +7,7 @@ name:
   clan: Fengeldesaan
   aliases: []
 id: 6Bpk0WpKGKCZ2FsJ
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: julaoffengeldesaan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

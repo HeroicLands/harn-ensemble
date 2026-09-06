@@ -7,7 +7,7 @@ name:
   clan: Bantarkoff
   aliases: []
 id: NhqeDVirC02PvCCi
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: brethofbantarkoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

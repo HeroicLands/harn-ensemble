@@ -7,7 +7,7 @@ name:
   clan: Dybardas
   aliases: []
 id: 0YZiT9KFprpRNFP4
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: doraneofdybardas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

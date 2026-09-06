@@ -7,7 +7,7 @@ name:
   clan: Kapire
   aliases: []
 id: bov8MxmfG50TbLYb
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ewenaofkapire
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

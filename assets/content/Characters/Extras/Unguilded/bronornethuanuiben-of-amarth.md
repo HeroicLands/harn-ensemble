@@ -7,7 +7,7 @@ name:
   clan: Amarth
   aliases: []
 id: DgI3TSwPIZGXrefQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bronornethuanuibenofamarth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

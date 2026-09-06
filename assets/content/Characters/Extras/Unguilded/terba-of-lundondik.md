@@ -7,7 +7,7 @@ name:
   clan: Lundondik
   aliases: []
 id: 1vRlA9jG46ez82VW
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: terbaoflundondik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

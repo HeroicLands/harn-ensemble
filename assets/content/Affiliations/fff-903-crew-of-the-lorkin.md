@@ -15,7 +15,6 @@ sohl:
   level: null
   relation: []
   archetype: null
-folder:
 ---
 
 This company of adventurers consists of the small group of rogues and misfits that make up the officers and passengers aboard the Dak-class merchant vessel, Lorkin. Led by Captain Esharel Ranals, who fought on the losing side of the Jarin Rebellion against the Ivinian invaders, this eclectic crew makes a marginal living by taking transport jobs, legal or illegal, among the ports of Harn and western Lythia.

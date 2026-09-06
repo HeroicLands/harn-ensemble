@@ -7,7 +7,7 @@ name:
   clan: Hilrin
   aliases: []
 id: DiIrz0p5vSjEw8im
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kesyneofhilrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

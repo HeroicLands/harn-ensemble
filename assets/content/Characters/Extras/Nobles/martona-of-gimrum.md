@@ -7,7 +7,7 @@ name:
   clan: Gimrum
   aliases: []
 id: lHufJK5hi0lyFlXD
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: martonaofgimrum
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

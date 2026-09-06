@@ -7,7 +7,7 @@ name:
   clan: Asar
   aliases: []
 id: S341gsYcDhixWT7n
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: makanofasar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

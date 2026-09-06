@@ -7,7 +7,7 @@ name:
   clan: Trollaterikarby
   aliases: []
 id: uzPl15fVCXttaNbt
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gineoftrollaterikarby
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

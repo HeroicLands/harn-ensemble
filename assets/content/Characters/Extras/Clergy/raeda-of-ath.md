@@ -7,7 +7,7 @@ name:
   clan: Ath
   aliases: []
 id: 4XIdzo2rAmLmWweq
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: raedaofath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

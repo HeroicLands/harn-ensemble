@@ -7,7 +7,7 @@ name:
   clan: Armel
   aliases: []
 id: XZ0v0U0aae5EvpnY
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: sarynofarmel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

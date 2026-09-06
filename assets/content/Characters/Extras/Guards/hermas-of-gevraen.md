@@ -7,7 +7,7 @@ name:
   clan: Gevraen
   aliases: []
 id: qZymIrMfEUCiddd2
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: hermasofgevraen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Wesarn
   aliases: []
 id: 0z2AppmS7xndyGGV
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: yebinofwesarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

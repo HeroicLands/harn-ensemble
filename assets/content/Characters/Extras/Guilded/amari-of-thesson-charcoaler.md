@@ -7,7 +7,7 @@ name:
   clan: Thesson
   aliases: []
 id: kkcD7Aq5akr7KCez
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: amarithesson
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

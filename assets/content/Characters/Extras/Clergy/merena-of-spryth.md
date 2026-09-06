@@ -7,7 +7,7 @@ name:
   clan: Spryth
   aliases: []
 id: Ri4rTIgwdwNFaCD7
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: merenaofspryth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

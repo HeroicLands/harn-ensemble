@@ -7,7 +7,7 @@ name:
   clan: Barda
   aliases: []
 id: 0zI4orrG9wxQe0SD
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: adahofbarda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

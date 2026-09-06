@@ -7,7 +7,7 @@ name:
   clan: Charadas
   aliases: []
 id: IpBfN8UWCZkOpQhS
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: korbinofcharadas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

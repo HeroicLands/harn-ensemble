@@ -7,7 +7,7 @@ name:
   clan: Aethesta
   aliases: []
 id: Xap0PBjSCXqCIsf3
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: tomusofaethesta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

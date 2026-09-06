@@ -7,7 +7,7 @@ name:
   clan: Ubern
   aliases: []
 id: gUcWGmuncrME23Wl
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lyciaofubern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

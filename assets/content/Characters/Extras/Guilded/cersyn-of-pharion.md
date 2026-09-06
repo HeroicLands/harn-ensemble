@@ -7,7 +7,7 @@ name:
   clan: Pharion
   aliases: []
 id: oXe6d93blMQR3tO1
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cersynofpharion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

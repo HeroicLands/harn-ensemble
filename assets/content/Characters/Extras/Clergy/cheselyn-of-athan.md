@@ -7,7 +7,7 @@ name:
   clan: Athan
   aliases: []
 id: 6jH2rttASPaJ3uze
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: cheselynofathan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

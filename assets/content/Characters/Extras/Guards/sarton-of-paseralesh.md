@@ -7,7 +7,7 @@ name:
   clan: Paseralesh
   aliases: []
 id: UgyOrYF3xVaMMnQj
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: sartonofpaseralesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

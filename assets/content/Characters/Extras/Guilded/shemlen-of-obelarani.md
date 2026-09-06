@@ -7,7 +7,7 @@ name:
   clan: Obelarani
   aliases: []
 id: 1ZdgIVie0AYDaKen
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: shemlenofobelarani
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Tal
   aliases: []
 id: TFpZmzsyx4J3TWKQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: dakaoftal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

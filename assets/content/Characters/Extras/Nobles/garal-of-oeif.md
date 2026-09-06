@@ -7,7 +7,7 @@ name:
   clan: Oeif
   aliases: []
 id: 4xrn7HD8STwBLxrR
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: garalofoeif
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

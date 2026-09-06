@@ -7,7 +7,7 @@ name:
   clan: Iesh
   aliases: []
 id: 2C7XhUPGznfPBSOn
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: molanasofiesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

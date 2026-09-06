@@ -7,7 +7,7 @@ name:
   clan: Hiltex
   aliases: []
 id: XQlm4TtLQQXdx9dJ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gaetaneofhiltex
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

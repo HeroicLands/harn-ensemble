@@ -7,7 +7,7 @@ name:
   clan: Alwethale
   aliases: []
 id: BQ62VXibfTIXxj5e
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: marlyseofalwethale
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

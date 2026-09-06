@@ -7,7 +7,7 @@ name:
   clan: Esar
   aliases: []
 id: wXt3H29tWxa5LKrB
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kesofesar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

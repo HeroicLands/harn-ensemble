@@ -7,7 +7,7 @@ name:
   clan: Partus
   aliases: []
 id: 9ln6np43wuzA42qD
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: hadashainofpartus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

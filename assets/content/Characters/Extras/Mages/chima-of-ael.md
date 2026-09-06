@@ -7,7 +7,7 @@ name:
   clan: Ael
   aliases: []
 id: IGGSh5n56U88s0Jl
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: chimaofael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

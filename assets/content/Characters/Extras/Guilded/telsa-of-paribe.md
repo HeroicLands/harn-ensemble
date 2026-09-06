@@ -7,7 +7,7 @@ name:
   clan: Paribe
   aliases: []
 id: b3t6y6hX1XAKZerA
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: telsaofparibe
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

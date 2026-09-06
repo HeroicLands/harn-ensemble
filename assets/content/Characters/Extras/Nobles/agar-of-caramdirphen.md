@@ -7,7 +7,7 @@ name:
   clan: Caramdirphen
   aliases: []
 id: IaQj6Ut2wVhZmNl7
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: agarofcaramdirphen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

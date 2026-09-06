@@ -7,7 +7,7 @@ name:
   clan: Stel
   aliases: []
 id: jYJz9z14hPRtUB2a
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kesofstel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

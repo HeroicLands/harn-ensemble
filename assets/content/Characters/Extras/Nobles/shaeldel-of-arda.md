@@ -7,7 +7,7 @@ name:
   clan: Arda
   aliases: []
 id: HljUuYJFAW6uYaxg
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: shaeldelofarda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

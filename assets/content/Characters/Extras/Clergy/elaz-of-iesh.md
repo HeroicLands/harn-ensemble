@@ -7,7 +7,7 @@ name:
   clan: Iesh
   aliases: []
 id: Si5mP67W1pRtwyqD
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: elazofiesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ibine
   aliases: []
 id: b9ZcHWPXXxZHGM1m
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: bresynofibine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

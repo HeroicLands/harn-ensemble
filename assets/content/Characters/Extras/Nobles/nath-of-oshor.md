@@ -7,7 +7,7 @@ name:
   clan: Oshor
   aliases: []
 id: O2xw6s6BcZia76YK
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: nathofoshor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

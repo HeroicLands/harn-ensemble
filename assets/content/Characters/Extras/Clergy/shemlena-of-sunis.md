@@ -7,7 +7,7 @@ name:
   clan: Sunis
   aliases: []
 id: lMLAZy7c8fD3zvD9
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: shemlenaofsunis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

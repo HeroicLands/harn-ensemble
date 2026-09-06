@@ -7,7 +7,7 @@ name:
   clan: Quirin
   aliases: []
 id: JdEblvot6YJiElaT
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tolmeyofquirin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

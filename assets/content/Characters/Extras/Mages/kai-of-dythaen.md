@@ -7,7 +7,7 @@ name:
   clan: Dythaen
   aliases: []
 id: inpKrZhSWOCOz66D
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: kaiofdythaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

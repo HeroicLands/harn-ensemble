@@ -7,7 +7,7 @@ name:
   clan: Sarn
   aliases: []
 id: Kz6iAknbvw5uflfq
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: garondofsarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

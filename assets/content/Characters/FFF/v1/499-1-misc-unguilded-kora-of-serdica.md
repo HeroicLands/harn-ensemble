@@ -7,7 +7,7 @@ name:
   clan: Serdica
   aliases: []
 id: jW8F24E2EwEro9xh
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: koraofserdica
 img: images/fffv1/token/FFF_499-1_Misc_Unguilded.png
 portrait: images/fffv1/FFF_499-1_Misc_Unguilded.jpg

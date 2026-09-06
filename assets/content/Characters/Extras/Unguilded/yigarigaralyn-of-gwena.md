@@ -7,7 +7,7 @@ name:
   clan: Gwena
   aliases: []
 id: X7MNuUxZtnGI1fOy
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: yigarigaralynofgwena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: 4s2kMbsyAnjadFUk
-folder: gO37pwFIr5B44hdV
+packFolder: fffnonhumans
 shortcode: feazurk
 img: images/fff-13/FFF_804a_Gargu-Viasal_Warrior-headshot.webp
 portrait: images/fff-13/FFF_804a_Gargu-Viasal_Warrior.webp

@@ -7,7 +7,7 @@ name:
   clan: Quardin
   aliases: []
 id: hq53x3WwP5dQVRhq
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: uvienofquardin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

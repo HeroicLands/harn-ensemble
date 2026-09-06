@@ -7,7 +7,7 @@ name:
   clan: Ane
   aliases: []
 id: Sdl2sLfewZrbnKxj
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: sartusofane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

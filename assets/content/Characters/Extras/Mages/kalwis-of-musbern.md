@@ -7,7 +7,7 @@ name:
   clan: Musbern
   aliases: []
 id: QfDeF3PyxmpRdgzk
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: kalwisofmusbern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

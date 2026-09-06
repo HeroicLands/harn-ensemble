@@ -7,7 +7,7 @@ name:
   clan: Then
   aliases: []
 id: L6GUTgHsHmIXE3Ib
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: doranaofthen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

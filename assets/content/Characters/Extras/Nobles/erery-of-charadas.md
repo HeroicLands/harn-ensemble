@@ -7,7 +7,7 @@ name:
   clan: Charadas
   aliases: []
 id: 7Z900tnxiMe6bcS8
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: ereryofcharadas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

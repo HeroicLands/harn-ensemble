@@ -7,7 +7,7 @@ name:
   clan: Stiem
   aliases: []
 id: 6wW2foYluG1NhDNR
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lasyneofstiem
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

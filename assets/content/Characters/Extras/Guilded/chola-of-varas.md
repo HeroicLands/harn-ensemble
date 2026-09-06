@@ -7,7 +7,7 @@ name:
   clan: Varas
   aliases: []
 id: bK0Ymcc4k9lbS8QL
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cholaofvaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

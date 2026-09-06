@@ -7,7 +7,7 @@ name:
   clan: Partuna
   aliases: []
 id: bkUySi7K2XcwCJoM
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: artunofpartuna
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

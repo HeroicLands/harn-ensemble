@@ -7,7 +7,7 @@ name:
   clan: Patrel
   aliases: []
 id: avcFq3C90Xe8DUSd
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: solineofpatrel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

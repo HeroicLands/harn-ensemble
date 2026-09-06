@@ -7,7 +7,7 @@ name:
   clan: Symdal
   aliases: []
 id: MTjBJXUrSlSvgulO
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: garildofsymdal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

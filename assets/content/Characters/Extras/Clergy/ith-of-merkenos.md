@@ -7,7 +7,7 @@ name:
   clan: Merkenos
   aliases: []
 id: eTBFQgHugTKcqiK3
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: ithofmerkenos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

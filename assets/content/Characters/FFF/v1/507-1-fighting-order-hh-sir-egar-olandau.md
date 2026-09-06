@@ -7,7 +7,7 @@ name:
   clan: Olandau
   aliases: []
 id: fT3OK3pjLfcN9riV
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: siregarolandau
 img: images/fffv1/token/FFF_507-1_Fighting_Order_HH.png
 portrait: images/fffv1/FFF_507-1_Fighting_Order_HH.jpg

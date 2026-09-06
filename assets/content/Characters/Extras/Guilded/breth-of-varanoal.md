@@ -7,7 +7,7 @@ name:
   clan: Varanoal
   aliases: []
 id: XAetsqafK28MkAy1
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: brethofvaranoal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

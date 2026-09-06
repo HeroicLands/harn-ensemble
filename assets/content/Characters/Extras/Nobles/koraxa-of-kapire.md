@@ -7,7 +7,7 @@ name:
   clan: Kapire
   aliases: []
 id: ovL2jGyD4OGm9nFX
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: koraxaofkapire
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Enamarthedherenamlugnarumuiben
   aliases: []
 id: ExLZJnoZiGJWCiyE
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: amdirveregofenamarthedherenamlugnarumuiben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

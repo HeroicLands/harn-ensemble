@@ -7,7 +7,7 @@ name:
   clan: Erlesh
   aliases: []
 id: PTHWv9X54fm5Rfvg
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: noragoroferlesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

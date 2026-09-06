@@ -7,7 +7,7 @@ name:
   clan: Chalmin
   aliases: []
 id: Pm4bGPvFuiR0msqv
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: querenaofchalmin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

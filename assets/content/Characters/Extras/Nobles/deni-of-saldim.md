@@ -7,7 +7,7 @@ name:
   clan: Saldim
   aliases: []
 id: Oelv7aIgP045wNLG
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: deniofsaldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

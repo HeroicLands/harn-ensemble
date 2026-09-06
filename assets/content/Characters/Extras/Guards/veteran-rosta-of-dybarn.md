@@ -7,7 +7,7 @@ name:
   clan: Dybarn
   aliases: []
 id: 1bNm0PTUz66Hv76D
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranrostaofdybarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

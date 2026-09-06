@@ -7,7 +7,7 @@ name:
   clan: Hilrin
   aliases: []
 id: y6KZbUYdO2fQoRxS
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: aramiaofhilrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

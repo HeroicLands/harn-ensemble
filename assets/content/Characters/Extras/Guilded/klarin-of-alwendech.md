@@ -7,7 +7,7 @@ name:
   clan: Alwendech
   aliases: []
 id: tHJ5djjwnp8XCAkb
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: klarinofalwendech
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

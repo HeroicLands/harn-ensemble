@@ -7,7 +7,7 @@ name:
   clan: Mykanth
   aliases: []
 id: bKvxY1lV5mfABmWa
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: telsaofmykanth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

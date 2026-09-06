@@ -7,7 +7,7 @@ name:
   clan: Porde
   aliases: []
 id: Xio5qWf5kL0ZdUb9
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: mysilinaofporde
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

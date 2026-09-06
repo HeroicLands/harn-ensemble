@@ -7,7 +7,7 @@ name:
   clan: Daro
   aliases: []
 id: nJTMjkls9URWlBiA
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: marofdaro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

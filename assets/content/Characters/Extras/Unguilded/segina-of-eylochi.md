@@ -7,7 +7,7 @@ name:
   clan: Eylochi
   aliases: []
 id: 1e76hgLO1i0q77vB
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: seginaofeylochi
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

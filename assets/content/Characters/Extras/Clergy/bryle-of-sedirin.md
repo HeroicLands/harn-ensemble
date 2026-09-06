@@ -7,7 +7,7 @@ name:
   clan: Sedirin
   aliases: []
 id: fREx2tYjGtFlF6kg
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: bryleofsedirin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

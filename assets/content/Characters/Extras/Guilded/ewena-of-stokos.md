@@ -7,7 +7,7 @@ name:
   clan: Stokos
   aliases: []
 id: 3F7kvXJXnLnYIJ9O
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ewenaofstokos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

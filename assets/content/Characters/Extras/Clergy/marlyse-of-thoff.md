@@ -7,7 +7,7 @@ name:
   clan: Thoff
   aliases: []
 id: asNtD4RXhnNPYGXD
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: marlyseofthoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

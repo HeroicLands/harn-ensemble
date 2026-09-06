@@ -7,7 +7,7 @@ name:
   clan: Crani
   aliases: []
 id: pPRaMBnWmOv6jBBV
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: aeraofcrani
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

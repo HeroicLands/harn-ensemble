@@ -7,7 +7,7 @@ name:
   clan: Hosathias
   aliases: []
 id: 0ot8Cojs5E2OYg8m
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ginaofhosathias
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

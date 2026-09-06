@@ -7,7 +7,7 @@ name:
   clan: Reisten
   aliases: []
 id: sQbrcal4pPdxzBy6
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: drusaxofreisten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

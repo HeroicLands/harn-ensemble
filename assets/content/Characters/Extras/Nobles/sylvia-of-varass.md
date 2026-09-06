@@ -7,7 +7,7 @@ name:
   clan: Varass
   aliases: []
 id: tYbveIPLMKMGsu4s
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: sylviaofvarass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

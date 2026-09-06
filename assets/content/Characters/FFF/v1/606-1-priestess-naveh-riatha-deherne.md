@@ -7,7 +7,7 @@ name:
   clan: Deherne
   aliases: []
 id: 78QD3CkEWFGwFie3
-folder: wImf2q5VxvhF7Ed4
+packFolder: fffclergy
 shortcode: riathadeherne
 img: images/fffv1/token/FFF_606-1_Priestess_Naveh.png
 portrait: images/fffv1/FFF_606-1_Priestess_Naveh.jpg

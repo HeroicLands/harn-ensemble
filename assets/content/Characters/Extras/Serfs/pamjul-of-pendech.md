@@ -7,7 +7,7 @@ name:
   clan: Pendech
   aliases: []
 id: MYajmOR41XiQYXeV
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: pamjulofpendech
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

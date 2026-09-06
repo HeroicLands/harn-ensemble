@@ -7,7 +7,7 @@ name:
   clan: Duckill
   aliases: []
 id: 6uyEFMq1OcK5K8H0
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: bresyneofduckill
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

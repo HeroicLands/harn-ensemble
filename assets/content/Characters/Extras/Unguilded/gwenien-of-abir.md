@@ -7,7 +7,7 @@ name:
   clan: Abir
   aliases: []
 id: R1SgydlC9jQ3U0ZV
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gwenienofabir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

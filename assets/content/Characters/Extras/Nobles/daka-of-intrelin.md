@@ -7,7 +7,7 @@ name:
   clan: Intrelin
   aliases: []
 id: VtficWuPQ9JiZCk2
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: dakaofintrelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

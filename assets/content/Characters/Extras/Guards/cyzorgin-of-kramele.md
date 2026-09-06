@@ -7,7 +7,7 @@ name:
   clan: Kramele
   aliases: []
 id: CTa9tfwRjXbADVmH
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: cyzorginofkramele
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

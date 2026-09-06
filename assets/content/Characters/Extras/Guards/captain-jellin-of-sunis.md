@@ -7,7 +7,7 @@ name:
   clan: Sunis
   aliases: []
 id: YaFYlqo7spPM98jG
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captainjellinofsunis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

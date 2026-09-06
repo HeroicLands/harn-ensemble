@@ -7,7 +7,7 @@ name:
   clan: Uerth
   aliases: []
 id: 07oDmVhqZCS6Jhi2
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: marlyseofuerth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

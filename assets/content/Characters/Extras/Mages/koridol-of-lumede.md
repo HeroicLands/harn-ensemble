@@ -7,7 +7,7 @@ name:
   clan: Lumede
   aliases: []
 id: rtZ1uVrOzKAurpfy
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: koridoloflumede
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

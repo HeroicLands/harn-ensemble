@@ -7,7 +7,7 @@ name:
   clan: Lamrend
   aliases: []
 id: bAMzqD5qntz3i3Em
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: sirletoslamrend
 img: images/fffv1/token/FFF_508-1_Knight_Patrician_HH.png
 portrait: images/fffv1/FFF_508-1_Knight_Patrician_HH.jpg

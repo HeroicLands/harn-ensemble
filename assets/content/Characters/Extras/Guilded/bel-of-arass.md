@@ -7,7 +7,7 @@ name:
   clan: Arass
   aliases: []
 id: DPJ9LK3XBQE3OfzP
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: belofarass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

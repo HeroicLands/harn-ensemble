@@ -7,7 +7,7 @@ name:
   clan: Pharasain
   aliases: []
 id: B9VZE1c9QMXHSoxZ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ineofpharasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

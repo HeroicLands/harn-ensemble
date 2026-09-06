@@ -7,7 +7,7 @@ name:
   clan: Eylochi
   aliases: []
 id: keV3cuAw1MMALalJ
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: andersofeylochi
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

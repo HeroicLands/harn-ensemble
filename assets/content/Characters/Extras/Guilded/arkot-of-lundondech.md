@@ -7,7 +7,7 @@ name:
   clan: Lundondech
   aliases: []
 id: gt8WA96S0xFsD9B8
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arkotoflundondech
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

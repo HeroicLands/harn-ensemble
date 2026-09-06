@@ -7,7 +7,7 @@ name:
   clan: Rikarion
   aliases: []
 id: X9zEaOVeLyU7qAba
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gralofrikarion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

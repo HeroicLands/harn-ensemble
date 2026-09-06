@@ -7,7 +7,7 @@ name:
   clan: Sprythsen
   aliases: []
 id: L4mGxCYUzZFwUWyn
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: urbainofsprythsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

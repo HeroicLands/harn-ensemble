@@ -7,7 +7,7 @@ name:
   clan: Nalin
   aliases: []
 id: X03WaXjfaRKmVQ42
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gorsineofnalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

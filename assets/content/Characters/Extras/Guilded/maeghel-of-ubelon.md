@@ -7,7 +7,7 @@ name:
   clan: Ubelon
   aliases: []
 id: JsWhZndBZJAUb6jn
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: maeghelofubelon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

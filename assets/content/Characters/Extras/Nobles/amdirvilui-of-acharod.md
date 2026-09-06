@@ -7,7 +7,7 @@ name:
   clan: Acharod
   aliases: []
 id: jYJ8XrctrjE3M8l4
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: amdirviluiofacharod
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Briam
   aliases: []
 id: MqRt3eYrPMYXZHs1
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ephisofbriam
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

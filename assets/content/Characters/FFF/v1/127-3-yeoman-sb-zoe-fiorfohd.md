@@ -7,7 +7,7 @@ name:
   clan: Fiorfohd
   aliases: []
 id: RVwOS24RmbplzdmD
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: zoefiorfohd
 img: images/fffv1/token/FFF_127-3_Yeoman_SB.png
 portrait: images/fffv1/FFF_127-3_Yeoman_SB.jpg

@@ -7,7 +7,7 @@ name:
   clan: Ubela
   aliases: []
 id: BW4Wcl5ricFI7kiq
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: orinofubela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

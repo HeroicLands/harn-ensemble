@@ -7,7 +7,7 @@ name:
   clan: Balin
   aliases: []
 id: CW1MrNeR3LdtnBhi
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lusilofbalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Amlugion
   aliases: []
 id: RAtXWoiSzDVI0WUA
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: eglimofamlugion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

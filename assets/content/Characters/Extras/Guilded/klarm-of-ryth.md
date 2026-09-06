@@ -7,7 +7,7 @@ name:
   clan: Ryth
   aliases: []
 id: LH7xr1zHVw9r0cF7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: klarmofryth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

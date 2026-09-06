@@ -7,7 +7,7 @@ name:
   clan: Ewena
   aliases: []
 id: G7srEnIlE4R6dmJk
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jolaofewena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

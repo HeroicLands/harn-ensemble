@@ -7,7 +7,7 @@ name:
   clan: Lund
   aliases: []
 id: 4eGgTwqnMQ5zd1q2
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: zabianoflund
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Chariam
   aliases: []
 id: fa7Teq9QtJlzNLhG
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captaingeldurofchariam
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

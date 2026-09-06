@@ -7,7 +7,7 @@ name:
   clan: Thelsen
   aliases: []
 id: PKtr9LFsHZ3AbCrG
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: borinofthelsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

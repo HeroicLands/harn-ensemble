@@ -7,7 +7,7 @@ name:
   clan: Everiel
   aliases: []
 id: Vi5f5Y8gfgXq6Fy5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: silofeveriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

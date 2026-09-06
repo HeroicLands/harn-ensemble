@@ -7,7 +7,7 @@ name:
   clan: Eylosath
   aliases: []
 id: F4wVkg218c13C9Cl
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: hericofeylosath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

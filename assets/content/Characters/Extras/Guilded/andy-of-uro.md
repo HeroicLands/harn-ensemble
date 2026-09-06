@@ -7,7 +7,7 @@ name:
   clan: Uro
   aliases: []
 id: QSqzXqci12X4V0sf
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: andyofuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

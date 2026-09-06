@@ -7,7 +7,7 @@ name:
   clan: Don
   aliases: []
 id: pGUHpD7wnFMGBbX6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: seginaofdon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

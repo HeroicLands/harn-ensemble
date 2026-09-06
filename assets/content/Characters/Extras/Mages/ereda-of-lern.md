@@ -7,7 +7,7 @@ name:
   clan: Lern
   aliases: []
 id: V6OI70lvQR5Fidlq
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: eredaoflern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

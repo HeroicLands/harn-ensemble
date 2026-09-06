@@ -7,7 +7,7 @@ name:
   clan: Torkrum
   aliases: []
 id: GYJ5O7I6doCZQYem
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: hericoftorkrum
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

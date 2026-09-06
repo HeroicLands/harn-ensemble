@@ -7,7 +7,7 @@ name:
   clan: Shref
   aliases: []
 id: zuqnpHhDMJVE45lg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sylviaofshref
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Cadwar
   aliases: []
 id: NiKUx6RyTIx8YPVI
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: arnofcadwar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

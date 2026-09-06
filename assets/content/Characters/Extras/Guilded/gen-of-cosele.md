@@ -7,7 +7,7 @@ name:
   clan: Cosele
   aliases: []
 id: TUftJq3NoKSjkQyZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: genofcosele
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

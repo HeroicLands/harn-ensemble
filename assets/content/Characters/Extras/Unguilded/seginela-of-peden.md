@@ -7,7 +7,7 @@ name:
   clan: Peden
   aliases: []
 id: 4ZwB2fGPwdoyholo
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: seginelaofpeden
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Merke
   aliases: []
 id: WjAAvmIpmCFEDr1s
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: norbinofmerke
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

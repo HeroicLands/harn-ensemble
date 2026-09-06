@@ -7,7 +7,7 @@ name:
   clan: Cadrune
   aliases: []
 id: 2QTo1rU1sZI5YlR6
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: grallaxofcadrune
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Valasain
   aliases: []
 id: J4zxxrqkXLkX3F9j
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veterangeldisofvalasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

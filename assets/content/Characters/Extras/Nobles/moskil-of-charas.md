@@ -7,7 +7,7 @@ name:
   clan: Charas
   aliases: []
 id: WnCpTogsKPTJJ8Jt
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: moskilofcharas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

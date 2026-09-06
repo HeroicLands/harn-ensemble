@@ -7,7 +7,7 @@ name:
   clan: Oshonan
   aliases: []
 id: rzLWaBaEx1nlx3Ns
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: drigarondisofoshonan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

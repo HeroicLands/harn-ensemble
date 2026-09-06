@@ -7,7 +7,7 @@ name:
   clan: Keryn
   aliases: []
 id: 69qUQ4XK4mk8GBSF
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: rosakofkeryn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

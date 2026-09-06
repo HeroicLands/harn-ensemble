@@ -7,7 +7,7 @@ name:
   clan: Gebar
   aliases: []
 id: xHdUwDJj30SyHfyL
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: andelgebar
 img: images/fffv1/token/FFF_510-1_Royal_Government.png
 portrait: images/fffv1/FFF_510-1_Royal_Government.jpg

@@ -7,7 +7,7 @@ name:
   clan: Chelkuz
   aliases: []
 id: 0U52ERl0SjKNEE1q
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: sheofchelkuz
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

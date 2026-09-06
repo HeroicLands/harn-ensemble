@@ -7,7 +7,7 @@ name:
   clan: Lebarsina
   aliases: []
 id: 5EqOWHn9pt6kOkio
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: masyneoflebarsina
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

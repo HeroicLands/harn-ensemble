@@ -7,7 +7,7 @@ name:
   clan: Quarlis
   aliases: []
 id: mtnDVQV8nwf4Vw0b
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: meralaofquarlis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

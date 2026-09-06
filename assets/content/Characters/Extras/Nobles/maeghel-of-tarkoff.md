@@ -7,7 +7,7 @@ name:
   clan: Tarkoff
   aliases: []
 id: jZCnPXLZLl2LyCVL
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: maegheloftarkoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

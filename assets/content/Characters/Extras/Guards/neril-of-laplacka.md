@@ -7,7 +7,7 @@ name:
   clan: Laplacka
   aliases: []
 id: g6OX7YuymFOpzCWL
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: neriloflaplacka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

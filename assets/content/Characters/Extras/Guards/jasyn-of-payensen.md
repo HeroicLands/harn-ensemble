@@ -7,7 +7,7 @@ name:
   clan: Payensen
   aliases: []
 id: lPIvVXsXgVZJ7Doa
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: jasynofpayensen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

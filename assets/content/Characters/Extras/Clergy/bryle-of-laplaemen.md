@@ -7,7 +7,7 @@ name:
   clan: Laplaemen
   aliases: []
 id: BfWvDzoAwhh2pqJR
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: bryleoflaplaemen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

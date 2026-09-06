@@ -7,7 +7,7 @@ name:
   clan: Opondech
   aliases: []
 id: GZka9ctxplMI6nwM
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: aramiaofopondech
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

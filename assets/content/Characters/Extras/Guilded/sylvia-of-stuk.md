@@ -7,7 +7,7 @@ name:
   clan: Stuk
   aliases: []
 id: vIQZOf7LtvIMx3jm
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sylviaofstuk
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
