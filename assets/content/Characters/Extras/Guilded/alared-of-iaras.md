@@ -7,7 +7,7 @@ name:
   clan: Iaras
   aliases: []
 id: 0ufKeOCu9iv14ZvZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: alaredofiaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

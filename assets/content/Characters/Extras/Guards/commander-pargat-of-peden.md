@@ -7,7 +7,7 @@ name:
   clan: Pargat Peden
   aliases: []
 id: p8JEeLesKGZP7Kb7
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: commanderpargatofpeden
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

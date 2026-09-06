@@ -7,7 +7,7 @@ name:
   clan: Krollater
   aliases: []
 id: mAazF8OB1jrJdr9Q
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: keptinofkrollater
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

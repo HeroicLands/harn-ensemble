@@ -7,7 +7,7 @@ name:
   clan: Sosora
   aliases: []
 id: nHN4E2L610hOX26v
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: karikofsosora
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

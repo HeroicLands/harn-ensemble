@@ -7,7 +7,7 @@ name:
   clan: Coselway
   aliases: []
 id: Tds0GGei2BaUl4hR
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arbrinofcoselway
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Gamalkalddan
   aliases: []
 id: Z84OS0ezrdwOCivT
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jarlamofgamalkalddan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

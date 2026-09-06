@@ -7,7 +7,7 @@ name:
   clan: Grath
   aliases: []
 id: fY1Ose92rTPdkPVI
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: valofgrath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

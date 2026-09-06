@@ -7,7 +7,7 @@ name:
   clan: Charcara
   aliases: []
 id: HqJJUxoLw8KGOvNf
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: cersynofcharcara
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

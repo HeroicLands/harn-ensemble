@@ -7,7 +7,7 @@ name:
   clan: Irien
   aliases: []
 id: tRcxnJAEOi4pSuX8
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: erelynofirien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

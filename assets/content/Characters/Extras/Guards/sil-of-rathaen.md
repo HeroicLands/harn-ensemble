@@ -7,7 +7,7 @@ name:
   clan: Rathaen
   aliases: []
 id: nIsHPfKSlwwda4eV
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: silofrathaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

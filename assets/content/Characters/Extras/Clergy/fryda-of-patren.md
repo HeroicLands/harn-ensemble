@@ -7,7 +7,7 @@ name:
   clan: Patren
   aliases: []
 id: AVp3IgYnn7JRsyGB
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: frydaofpatren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

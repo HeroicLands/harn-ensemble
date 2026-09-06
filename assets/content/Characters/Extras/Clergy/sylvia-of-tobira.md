@@ -7,7 +7,7 @@ name:
   clan: Tobira
   aliases: []
 id: l2o34oU7qUbaN0UN
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: sylviaoftobira
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

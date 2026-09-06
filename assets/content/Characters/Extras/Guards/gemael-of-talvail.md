@@ -7,7 +7,7 @@ name:
   clan: Talvail
   aliases: []
 id: gBDsTSm5m2eEZjGd
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: gemaeloftalvail
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

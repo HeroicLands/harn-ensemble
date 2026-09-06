@@ -7,7 +7,7 @@ name:
   clan: Hardine
   aliases: []
 id: NR4twBysMynutQfy
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: chendofhardine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

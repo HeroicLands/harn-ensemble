@@ -7,7 +7,7 @@ name:
   clan: Ane
   aliases: []
 id: LcxZjCHgcI184pxB
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: raedaofane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

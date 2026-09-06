@@ -7,7 +7,7 @@ name:
   clan: Sar
   aliases: []
 id: 4a6MZQiIiWwrTjfR
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gineofsar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

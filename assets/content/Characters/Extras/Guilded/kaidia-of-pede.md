@@ -7,7 +7,7 @@ name:
   clan: Pede
   aliases: []
 id: xbnX5XrfiGSK4p2n
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kaidiaofpede
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

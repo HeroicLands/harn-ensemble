@@ -7,7 +7,7 @@ name:
   clan: Tarcandy Fraul
   aliases: []
 id: C4m0SFlOStdomSCD
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: commandertarcandyoffraul
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Renel
   aliases: []
 id: hw9l4BGqXzrDHxVt
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gorsineofrenel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

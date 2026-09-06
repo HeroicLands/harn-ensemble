@@ -7,7 +7,7 @@ name:
   clan: Bulbakar
   aliases: []
 id: ymmT6lj89BQ9Pmna
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jarnofbulbakar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

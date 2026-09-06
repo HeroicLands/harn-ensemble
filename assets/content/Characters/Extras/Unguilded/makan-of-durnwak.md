@@ -7,7 +7,7 @@ name:
   clan: Durnwak
   aliases: []
 id: fFzcbwPT3EaQIEWN
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: makanofdurnwak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

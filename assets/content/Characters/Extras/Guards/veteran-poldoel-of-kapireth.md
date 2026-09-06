@@ -7,7 +7,7 @@ name:
   clan: Kapireth
   aliases: []
 id: ai4AAeZfsRWJ9WYh
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteranpoldoelofkapireth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

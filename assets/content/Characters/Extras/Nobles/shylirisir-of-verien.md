@@ -7,7 +7,7 @@ name:
   clan: Verien
   aliases: []
 id: oVmnCshuAhJn9eyn
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: shylirisirofverien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

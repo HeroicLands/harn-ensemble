@@ -7,7 +7,7 @@ name:
   clan: Stiem
   aliases: []
 id: 9iwqIzO4486qSrzP
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: werelyneofstiem
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

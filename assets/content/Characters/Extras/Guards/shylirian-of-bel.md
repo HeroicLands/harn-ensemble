@@ -7,7 +7,7 @@ name:
   clan: Bel
   aliases: []
 id: 0jnmgL8LTN9GtObp
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: shylirianofbel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

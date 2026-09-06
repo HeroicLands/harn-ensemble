@@ -7,7 +7,7 @@ name:
   clan: Ael
   aliases: []
 id: xxaYqwYfcibggNan
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gweniofael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

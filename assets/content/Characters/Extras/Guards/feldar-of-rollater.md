@@ -7,7 +7,7 @@ name:
   clan: Rollater
   aliases: []
 id: YePSsBYYYyJvkyl7
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: feldarofrollater
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

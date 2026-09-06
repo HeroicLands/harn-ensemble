@@ -7,7 +7,7 @@ name:
   clan: Eram
   aliases: []
 id: o1TBjF89VeUt8Gxh
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: sergeantyerickoferam
 img: images/fffv1/token/FFF_103-1_Fighting_Order_Siege_Eng.png
 portrait: images/fffv1/FFF_103-1_Fighting_Order_Siege_Eng.jpg

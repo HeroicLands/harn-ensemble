@@ -7,7 +7,7 @@ name:
   clan: Wethale
   aliases: []
 id: HK3Fytl3kpJ1sJBL
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: zuiqueofwethale
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

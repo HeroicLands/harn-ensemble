@@ -7,7 +7,7 @@ name:
   clan: Wulverdan
   aliases: []
 id: NzXHkIhaKRNYO0j9
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: jolaofwulverdan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

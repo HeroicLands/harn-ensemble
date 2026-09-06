@@ -7,7 +7,7 @@ name:
   clan: Homslow
   aliases: []
 id: POlT5xZhMpk9fwNb
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: harofhomslow
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

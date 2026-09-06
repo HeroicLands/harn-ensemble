@@ -7,7 +7,7 @@ name:
   clan: Sosora
   aliases: []
 id: GilWb2F5NYlbwxFy
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: harlofsosora
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

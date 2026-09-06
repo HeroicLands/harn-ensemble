@@ -7,7 +7,7 @@ name:
   clan: Sidethys
   aliases: []
 id: IYWQ0J4hRp08Qlmx
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteranerdinofsidethys
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

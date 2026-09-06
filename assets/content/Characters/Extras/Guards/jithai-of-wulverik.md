@@ -7,7 +7,7 @@ name:
   clan: Wulverik
   aliases: []
 id: 7l5fiosFRERQRH8L
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: jithaiofwulverik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

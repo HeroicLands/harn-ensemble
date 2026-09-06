@@ -7,7 +7,7 @@ name:
   clan: Junius
   aliases: []
 id: uqI4EAEZSpu2tj3v
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: anaxofjunius
 img: images/fffv1/token/FFF_104-1_Gladiator.png
 portrait: images/fffv1/FFF_104-1_Gladiator.jpg

@@ -7,7 +7,7 @@ name:
   clan: Belar
   aliases: []
 id: gRimrD9xTZdFem3I
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: pontousofbelar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

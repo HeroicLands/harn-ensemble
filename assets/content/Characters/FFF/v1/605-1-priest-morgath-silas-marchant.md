@@ -7,7 +7,7 @@ name:
   clan: Marchant
   aliases: []
 id: rN8CITlJzwED2WvW
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: silasmarchant
 img: images/fffv1/token/FFF_605-1_Priest_Morgath.png
 portrait: images/fffv1/FFF_605-1_Priest_Morgath.jpg

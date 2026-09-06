@@ -7,7 +7,7 @@ name:
   clan: Lund
   aliases: []
 id: CU7YAsrMM09Y0cj7
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: yelineoflund
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

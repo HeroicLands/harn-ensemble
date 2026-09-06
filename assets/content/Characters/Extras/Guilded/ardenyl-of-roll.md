@@ -7,7 +7,7 @@ name:
   clan: Roll
   aliases: []
 id: UQNGANsmTX4VdmL7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ardenylofroll
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

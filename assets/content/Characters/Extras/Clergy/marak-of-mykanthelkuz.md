@@ -7,7 +7,7 @@ name:
   clan: Mykanthelkuz
   aliases: []
 id: H3jn3bI0V7lfhNZS
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: marakofmykanthelkuz
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

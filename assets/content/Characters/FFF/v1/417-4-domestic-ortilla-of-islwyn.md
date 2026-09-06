@@ -7,7 +7,7 @@ name:
   clan: Islwyn
   aliases: []
 id: 4JcndVkB4LNsvkyY
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: ortillaofislwyn
 img: images/fffv1/token/FFF_417-4_Domestic.png
 portrait: images/fffv1/FFF_417-4_Domestic.jpg

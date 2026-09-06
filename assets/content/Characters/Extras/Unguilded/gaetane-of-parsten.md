@@ -7,7 +7,7 @@ name:
   clan: Parsten
   aliases: []
 id: J5AxEyNFZfiKxLqk
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gaetaneofparsten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

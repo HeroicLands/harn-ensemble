@@ -7,7 +7,7 @@ name:
   clan: Chuzyn
   aliases: []
 id: YhW27mNuFNKz64vu
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: danishelasynofchuzyn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

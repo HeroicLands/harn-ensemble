@@ -7,7 +7,7 @@ name:
   clan: Ubelon
   aliases: []
 id: ytNQgqlvHeyd69i5
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: arathofubelon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

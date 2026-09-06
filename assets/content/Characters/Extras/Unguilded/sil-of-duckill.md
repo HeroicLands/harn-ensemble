@@ -7,7 +7,7 @@ name:
   clan: Duckill
   aliases: []
 id: YvEMglfAJ4hFX9SQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: silofduckill
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

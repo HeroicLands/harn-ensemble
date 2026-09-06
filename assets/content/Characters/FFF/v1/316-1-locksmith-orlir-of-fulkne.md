@@ -7,7 +7,7 @@ name:
   clan: Fulkne
   aliases: []
 id: haxul5DyGPaSevm2
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: orliroffulkne
 img: images/fffv1/token/FFF_316-1_Locksmith.png
 portrait: images/fffv1/FFF_316-1_Locksmith.jpg

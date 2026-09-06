@@ -7,7 +7,7 @@ name:
   clan: Asgarlan
   aliases: []
 id: 1fP2c6Q87lLDgP7K
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: alwenofasgarlan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

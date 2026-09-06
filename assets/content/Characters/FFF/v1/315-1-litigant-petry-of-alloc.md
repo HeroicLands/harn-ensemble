@@ -7,7 +7,7 @@ name:
   clan: Alloc
   aliases: []
 id: NTpfBJMBRsq9IrV9
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: petryofalloc
 img: images/fffv1/token/FFF_315-1_Litigant.png
 portrait: images/fffv1/FFF_315-1_Litigant.jpg

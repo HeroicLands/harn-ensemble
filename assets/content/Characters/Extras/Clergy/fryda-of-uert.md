@@ -7,7 +7,7 @@ name:
   clan: Uert
   aliases: []
 id: 5tj87gYOU0v8mZev
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: frydaofuert
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

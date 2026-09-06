@@ -7,7 +7,7 @@ name:
   clan: Narani
   aliases: []
 id: aXIAnxIDdjLWh5kj
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gyandofnarani
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

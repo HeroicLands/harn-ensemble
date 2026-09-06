@@ -7,7 +7,7 @@ name:
   clan: Fellyr
   aliases: []
 id: HUyozPBoqrFYT9CG
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: hervaoffellyr
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

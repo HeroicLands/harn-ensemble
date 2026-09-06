@@ -7,7 +7,7 @@ name:
   clan: Horval
   aliases: []
 id: FFlbxLmRBPnYXtRh
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: fiskhorval
 img: images/fffv1/token/FFF_315-2_Litigant.png
 portrait: images/fffv1/FFF_315-2_Litigant.jpg

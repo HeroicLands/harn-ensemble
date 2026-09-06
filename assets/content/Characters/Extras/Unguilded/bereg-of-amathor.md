@@ -7,7 +7,7 @@ name:
   clan: Amathor
   aliases: []
 id: Tj8WciratY8Lyyap
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: beregofamathor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

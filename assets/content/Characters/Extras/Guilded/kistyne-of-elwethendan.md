@@ -7,7 +7,7 @@ name:
   clan: Elwethendan
   aliases: []
 id: WWpTMnlthUWINYD8
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kistyneofelwethendan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

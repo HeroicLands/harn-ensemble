@@ -7,7 +7,7 @@ name:
   clan: Khorild
   aliases: []
 id: UHhx7MSVKR5Zszng
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: ondarnkhorild
 img: images/fffv1/token/FFF_310-1_Harper.png
 portrait: images/fffv1/FFF_310-1_Harper.jpg

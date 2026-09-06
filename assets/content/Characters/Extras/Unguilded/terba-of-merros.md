@@ -7,7 +7,7 @@ name:
   clan: Merros
   aliases: []
 id: WXse7loX1Y4aJc4N
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: terbaofmerros
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

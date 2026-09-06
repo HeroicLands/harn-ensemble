@@ -7,7 +7,7 @@ name:
   clan: Tich
   aliases: []
 id: 96x3XXWubDsGwsCV
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: parmenoftich
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kail
   aliases: []
 id: aRJme3GFrpfTgRe6
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: marekofkail
 img: images/fffv1/token/FFF_115-4_Mercenary_LF.png
 portrait: images/fffv1/FFF_115-4_Mercenary_LF.jpg

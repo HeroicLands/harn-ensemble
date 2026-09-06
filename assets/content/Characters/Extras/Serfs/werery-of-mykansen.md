@@ -7,7 +7,7 @@ name:
   clan: Mykansen
   aliases: []
 id: SOlnTNHlUC58bdbL
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: wereryofmykansen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

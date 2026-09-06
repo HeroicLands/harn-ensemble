@@ -7,7 +7,7 @@ name:
   clan: Jurbosq
   aliases: []
 id: NoIDJttPdzZvHlRC
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: tarkaofjurbosq
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

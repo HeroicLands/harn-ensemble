@@ -7,7 +7,7 @@ name:
   clan: Talkene
   aliases: []
 id: OTri8XJRvBsWZT3S
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: dersoryoftalkene
 img: images/fffv1/token/FFF_322-1_Ostler.png
 portrait: images/fffv1/FFF_322-1_Ostler.jpg

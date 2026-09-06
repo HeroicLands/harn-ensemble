@@ -7,7 +7,7 @@ name:
   clan: Werth
   aliases: []
 id: 8djuziaqwX3XGcyU
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kaiofwerth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

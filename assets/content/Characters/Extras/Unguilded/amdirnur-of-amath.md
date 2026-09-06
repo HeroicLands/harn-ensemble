@@ -7,7 +7,7 @@ name:
   clan: Amath
   aliases: []
 id: 4rM5t9V3eHQfSTMe
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amdirnurofamath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

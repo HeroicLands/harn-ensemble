@@ -7,7 +7,7 @@ name:
   clan: Dethaen
   aliases: []
 id: df04DNrQMnMQ7zHR
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: raedaofdethaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

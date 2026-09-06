@@ -7,7 +7,7 @@ name:
   clan: Patren
   aliases: []
 id: EOTEzIhFpIAutMHM
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: raeldelofpatren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

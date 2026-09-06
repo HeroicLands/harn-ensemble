@@ -7,7 +7,7 @@ name:
   clan: Wen
   aliases: []
 id: QeR8rc1yMd0Jc9WS
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: silasofwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

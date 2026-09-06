@@ -7,7 +7,7 @@ name:
   clan: Valasain
   aliases: []
 id: DtkKtjY4XgkdCGdG
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: krakofvalasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

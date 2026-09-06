@@ -7,7 +7,7 @@ name:
   clan: Gorra
   aliases: []
 id: O0plpn2EPURscRXZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: querenelleofgorra
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

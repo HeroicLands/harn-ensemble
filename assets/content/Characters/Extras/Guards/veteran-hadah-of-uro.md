@@ -7,7 +7,7 @@ name:
   clan: Uro
   aliases: []
 id: yaWfSBZOB4UqGpIB
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteranhadahofuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

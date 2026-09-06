@@ -7,7 +7,7 @@ name:
   clan: Cinbarn
   aliases: []
 id: Srt4sq2RKzBN2VDu
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arilofcinbarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

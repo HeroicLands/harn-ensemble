@@ -7,7 +7,7 @@ name:
   clan: Valgerdsson
   aliases: []
 id: sthqPBiIzMN0umog
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: tokisvalgerdsson
 img: images/fffv1/token/FFF_124-2_Clansman_UF.png
 portrait: images/fffv1/FFF_124-2_Clansman_UF.jpg

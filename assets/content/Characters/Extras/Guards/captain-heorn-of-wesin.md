@@ -7,7 +7,7 @@ name:
   clan: Wesin
   aliases: []
 id: Uj3CL9U0CnrJYvJL
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: captainheornofwesin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

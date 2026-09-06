@@ -7,7 +7,7 @@ name:
   clan: Rik
   aliases: []
 id: djSaUuFRrjSdY5mf
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kaladezofrik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

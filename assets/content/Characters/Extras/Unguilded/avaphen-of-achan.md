@@ -7,7 +7,7 @@ name:
   clan: Achan
   aliases: []
 id: Hww2stQh92wivLpr
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: avaphenofachan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Symdalin
   aliases: []
 id: SwaFaLydCR9uo3eB
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: aldaneofsymdalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

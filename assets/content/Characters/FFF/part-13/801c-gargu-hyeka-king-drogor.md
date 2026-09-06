@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: Rh0S96u4K4HWf1BO
-folder: gO37pwFIr5B44hdV
+packFolder: nonhumans
 shortcode: drogor
 img: images/fff-13/FFF_801c_Gargu-Hyeka_King-headshot.webp
 portrait: images/fff-13/FFF_801c_Gargu-Hyeka_King.webp

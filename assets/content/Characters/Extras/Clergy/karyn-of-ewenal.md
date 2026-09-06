@@ -7,7 +7,7 @@ name:
   clan: Ewenal
   aliases: []
 id: 0YfFmfDdwzN6IQKp
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: karynofewenal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

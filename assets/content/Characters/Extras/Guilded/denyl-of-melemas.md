@@ -7,7 +7,7 @@ name:
   clan: Melemas
   aliases: []
 id: SvFNVwCqVwzrBOGI
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: denylofmelemas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

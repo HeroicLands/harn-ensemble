@@ -7,7 +7,7 @@ name:
   clan: Vylochin
   aliases: []
 id: rMCaHGRGHmMkuuSr
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: maeghelisaofvylochin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

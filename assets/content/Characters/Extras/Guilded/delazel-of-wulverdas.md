@@ -7,7 +7,7 @@ name:
   clan: Wulverdas
   aliases: []
 id: 2JdDpt9sxdQ9wooa
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: delazelofwulverdas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

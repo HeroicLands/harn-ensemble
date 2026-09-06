@@ -7,7 +7,7 @@ name:
   clan: Yisgaras
   aliases: []
 id: E1xaY2VHybPabsrf
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: halimeofyisgaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

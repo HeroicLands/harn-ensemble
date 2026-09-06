@@ -7,7 +7,7 @@ name:
   clan: Domerben
   aliases: []
 id: qnLVoo73zwc3dRav
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: merelynofdomerben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

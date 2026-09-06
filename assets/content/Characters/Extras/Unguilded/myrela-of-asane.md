@@ -7,7 +7,7 @@ name:
   clan: Asane
   aliases: []
 id: FeKPnUGxwxjFaZLJ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: myrelaofasane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Harand
   aliases: []
 id: mjXgbj1zV1ay1LZW
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: uldisharand
 img: images/fffv1/token/FFF_504-2_Squire.png
 portrait: images/fffv1/FFF_504-2_Squire.jpg

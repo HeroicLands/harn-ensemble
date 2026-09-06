@@ -7,7 +7,7 @@ name:
   clan: Curo
   aliases: []
 id: 8YdFSZKQYXB5tRxC
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: forenaofcuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

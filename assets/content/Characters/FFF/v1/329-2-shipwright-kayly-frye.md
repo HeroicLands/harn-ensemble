@@ -7,7 +7,7 @@ name:
   clan: Frye
   aliases: []
 id: iXr9ICXqiaPxI71J
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: kaylyfrye
 img: images/fffv1/token/FFF_329-2_Shipwright.png
 portrait: images/fffv1/FFF_329-2_Shipwright.jpg

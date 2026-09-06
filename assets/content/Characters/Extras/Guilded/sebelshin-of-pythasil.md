@@ -7,7 +7,7 @@ name:
   clan: Pythasil
   aliases: []
 id: FPTXZ0Da2zAE7agf
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sebelshinofpythasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

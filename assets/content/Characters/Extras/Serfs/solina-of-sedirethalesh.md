@@ -7,7 +7,7 @@ name:
   clan: Sedirethalesh
   aliases: []
 id: PdfpAnyT8W6r4VeI
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: solinaofsedirethalesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

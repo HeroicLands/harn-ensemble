@@ -7,7 +7,7 @@ name:
   clan: Stokos
   aliases: []
 id: 9b4JO4LMMW4EUmLk
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: nathofstokos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Weth
   aliases: []
 id: MgLakr2pCpx6NbFz
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arkorbinofweth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

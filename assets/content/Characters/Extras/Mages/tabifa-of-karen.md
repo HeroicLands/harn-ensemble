@@ -7,7 +7,7 @@ name:
   clan: Karen
   aliases: []
 id: Ty4tXhfu22BvK8eT
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: tabifaofkaren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

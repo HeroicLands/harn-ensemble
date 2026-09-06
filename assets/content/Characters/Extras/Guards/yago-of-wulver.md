@@ -7,7 +7,7 @@ name:
   clan: Wulver
   aliases: []
 id: CcHMtORE2Qu104CA
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: yagoofwulver
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

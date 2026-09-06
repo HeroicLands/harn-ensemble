@@ -7,7 +7,7 @@ name:
   clan: Nalasar
   aliases: []
 id: f37wXZpoATrdgRBT
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jolaynofnalasar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

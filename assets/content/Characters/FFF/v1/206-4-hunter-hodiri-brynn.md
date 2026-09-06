@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: xXKM2CAPcBrSpgks
-folder: 7Xwu1hTIGLl30Unj
+packFolder: barbarians
 shortcode: brynn
 img: images/fffv1/token/FFF_206-4_Hunter_Hodiri.png
 portrait: images/fffv1/FFF_206-4_Hunter_Hodiri.jpg

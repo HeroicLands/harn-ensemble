@@ -7,7 +7,7 @@ name:
   clan: Pythade
   aliases: []
 id: Je9vTyNNnwsrPHfH
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: jakkynofpythade
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

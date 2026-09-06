@@ -7,7 +7,7 @@ name:
   clan: the Flutist
   aliases: []
 id: 57qWk1toAOdwLZ27
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: filtheflutist
 img: images/fffv1/token/FFF_406-1_Farmer.png
 portrait: images/fffv1/FFF_406-1_Farmer.jpg

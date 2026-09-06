@@ -7,7 +7,7 @@ name:
   clan: Guina
   aliases: []
 id: ey9sB4kk08y9y5WF
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: charlamnarofguina
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Quirien
   aliases: []
 id: vy4Rf0Cgzc5rMJuE
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: hervaofquirien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

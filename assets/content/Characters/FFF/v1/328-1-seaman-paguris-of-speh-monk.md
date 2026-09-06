@@ -7,7 +7,7 @@ name:
   clan: Speh
   aliases: []
 id: vqAkD6vWfrDHgzDH
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: pagurisofspehmonk
 img: images/fffv1/token/FFF_328-1_Seaman.png
 portrait: images/fffv1/FFF_328-1_Seaman.jpg

@@ -7,7 +7,7 @@ name:
   clan: Mance
   aliases: []
 id: RjrCXxx53I0odGyj
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: shaeldaofmance
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

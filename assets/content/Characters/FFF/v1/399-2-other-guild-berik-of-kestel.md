@@ -7,7 +7,7 @@ name:
   clan: Kestel
   aliases: []
 id: tdj4wiuYXKyinfOG
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: berikofkestel
 img: images/fffv1/token/FFF_399-2_Other_Guild.png
 portrait: images/fffv1/FFF_399-2_Other_Guild.jpg

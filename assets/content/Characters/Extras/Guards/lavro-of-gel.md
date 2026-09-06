@@ -7,7 +7,7 @@ name:
   clan: Gel
   aliases: []
 id: YDVzUbGZNdnrEFrc
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: lavroofgel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

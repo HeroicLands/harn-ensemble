@@ -7,7 +7,7 @@ name:
   clan: Quig
   aliases: []
 id: a77bAdISmJuD2xNf
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: mansuquig
 img: images/fffv1/token/FFF_603-1_Priest_Ilvir.png
 portrait: images/fffv1/FFF_603-1_Priest_Ilvir.jpg

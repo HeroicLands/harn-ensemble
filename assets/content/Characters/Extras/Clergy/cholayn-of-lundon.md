@@ -7,7 +7,7 @@ name:
   clan: Lundon
   aliases: []
 id: LDAbEajVwlWh07Bw
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: cholaynoflundon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

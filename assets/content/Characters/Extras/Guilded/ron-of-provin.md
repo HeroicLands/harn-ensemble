@@ -7,7 +7,7 @@ name:
   clan: Provin
   aliases: []
 id: 1u0NccWajJogNic1
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ronofprovin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

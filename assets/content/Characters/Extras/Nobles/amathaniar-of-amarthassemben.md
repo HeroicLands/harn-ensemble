@@ -7,7 +7,7 @@ name:
   clan: Amarthassemben
   aliases: []
 id: i5zNOcZdL27wnZSJ
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: amathaniarofamarthassemben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

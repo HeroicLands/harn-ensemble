@@ -7,7 +7,7 @@ name:
   clan: Rihale
   aliases: []
 id: AaGuFCouBtmrPRdj
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: albinofrihale
 img: images/fffv1/token/FFF_606-2_Priest_Naveh.png
 portrait: images/fffv1/FFF_606-2_Priest_Naveh.jpg

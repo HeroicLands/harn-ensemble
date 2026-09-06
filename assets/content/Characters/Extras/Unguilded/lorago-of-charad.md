@@ -7,7 +7,7 @@ name:
   clan: Charad
   aliases: []
 id: QzCl3S9gHsE33xxv
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: loragoofcharad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

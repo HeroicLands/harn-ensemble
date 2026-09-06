@@ -7,7 +7,7 @@ name:
   clan: Dara
   aliases: []
 id: wTSGybbTCUf7Xdgi
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: rybrynofdara
 img: images/fffv1/token/FFF_332-3_Unguilded_Thief.png
 portrait: images/fffv1/FFF_332-3_Unguilded_Thief.jpg

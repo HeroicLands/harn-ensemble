@@ -7,7 +7,7 @@ name:
   clan: Guinasta
   aliases: []
 id: vWMV17tJRyCgdBfR
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lasyneofguinasta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

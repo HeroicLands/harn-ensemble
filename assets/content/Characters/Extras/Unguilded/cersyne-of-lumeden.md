@@ -7,7 +7,7 @@ name:
   clan: Lumeden
   aliases: []
 id: urEV82T3snkPOT3M
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: cersyneoflumeden
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

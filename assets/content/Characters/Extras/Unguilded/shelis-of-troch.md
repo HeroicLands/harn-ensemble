@@ -7,7 +7,7 @@ name:
   clan: Troch
   aliases: []
 id: 6UNH27eqndOv41eF
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: shelisoftroch
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

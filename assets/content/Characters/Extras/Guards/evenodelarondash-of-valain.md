@@ -7,7 +7,7 @@ name:
   clan: Valain
   aliases: []
 id: NKhpu8nbiwgkBvas
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: evenodelarondashofvalain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

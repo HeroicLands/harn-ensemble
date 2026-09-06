@@ -7,7 +7,7 @@ name:
   clan: Quarl
   aliases: []
 id: sdJ3XMqUO1MpNj0P
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: varbinofquarl
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

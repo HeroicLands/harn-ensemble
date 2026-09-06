@@ -7,7 +7,7 @@ name:
   clan: Coselen
   aliases: []
 id: iRHsE3WiGs6QWNN1
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: makalaofcoselen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Irin
   aliases: []
 id: mPNo94KHvuPqaqxD
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: semisofirin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

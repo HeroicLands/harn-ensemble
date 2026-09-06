@@ -7,7 +7,7 @@ name:
   clan: Guinas
   aliases: []
 id: PZsHqwBhLXpoTQpE
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: ardethofguinas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Wesaldim
   aliases: []
 id: Aytei0IiRyLDaQsy
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: houlaofwesaldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

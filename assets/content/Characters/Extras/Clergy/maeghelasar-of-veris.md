@@ -7,7 +7,7 @@ name:
   clan: Veris
   aliases: []
 id: TFSAetsa7CXRt0Hj
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: maeghelasarofveris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

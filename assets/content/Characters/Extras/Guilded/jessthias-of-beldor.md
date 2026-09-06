@@ -7,7 +7,7 @@ name:
   clan: Beldor
   aliases: []
 id: bMATLu7vEzGluvqb
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jessthiasofbeldor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

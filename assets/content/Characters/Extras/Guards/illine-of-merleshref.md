@@ -7,7 +7,7 @@ name:
   clan: Merleshref
   aliases: []
 id: hg6ZwGegBkyaTBR0
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: illineofmerleshref
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

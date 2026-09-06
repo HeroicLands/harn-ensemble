@@ -7,7 +7,7 @@ name:
   clan: Tal
   aliases: []
 id: HN32jkQzu96TVUr3
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: lavrooftal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

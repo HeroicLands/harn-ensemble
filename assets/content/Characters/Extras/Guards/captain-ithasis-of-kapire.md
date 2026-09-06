@@ -7,7 +7,7 @@ name:
   clan: Kapire
   aliases: []
 id: FsZ5JuQWQbUg8sM8
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: captainithasisofkapire
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

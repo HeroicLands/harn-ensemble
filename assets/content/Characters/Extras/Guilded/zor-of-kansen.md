@@ -7,7 +7,7 @@ name:
   clan: Kansen
   aliases: []
 id: EjwKy9nxGHX4KbJO
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: zorofkansen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

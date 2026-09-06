@@ -7,7 +7,7 @@ name:
   clan: Loriel
   aliases: []
 id: 6XRLwwabXEhk0A5F
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: maeghelaofloriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

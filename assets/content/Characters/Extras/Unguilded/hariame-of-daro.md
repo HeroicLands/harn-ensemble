@@ -7,7 +7,7 @@ name:
   clan: Daro
   aliases: []
 id: GQz7Ee67ItcB3GdL
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: hariameofdaro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

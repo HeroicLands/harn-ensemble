@@ -7,7 +7,7 @@ name:
   clan: Elesh
   aliases: []
 id: eyf3UPB4t4pKrFdd
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: kistyneofelesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

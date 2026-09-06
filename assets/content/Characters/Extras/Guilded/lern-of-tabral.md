@@ -7,7 +7,7 @@ name:
   clan: Tabral
   aliases: []
 id: sYegmJcMsUAAompg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lernoftabral
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: KBHuaBINAwJLOyIT
-folder: gO37pwFIr5B44hdV
+packFolder: nonhumans
 shortcode: tabeas
 img: images/fff-13/FFF_803b_Gargu-Kyani_Princess-headshot.webp
 portrait: images/fff-13/FFF_803b_Gargu-Kyani_Princess.webp

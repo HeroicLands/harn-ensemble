@@ -7,7 +7,7 @@ name:
   clan: Czurger
   aliases: []
 id: za7GGGs1Aubj6oLi
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: rodolkczurger
 img: images/fffv1/token/FFF_609-1_Priest_Save_Knor.png
 portrait: images/fffv1/FFF_609-1_Priest_Save_Knor.jpg

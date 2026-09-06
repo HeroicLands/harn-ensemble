@@ -7,7 +7,7 @@ name:
   clan: Sosora
   aliases: []
 id: Jeuh7ALxQdj1IMCs
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lyciaofsosora
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

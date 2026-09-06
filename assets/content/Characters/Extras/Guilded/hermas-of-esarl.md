@@ -7,7 +7,7 @@ name:
   clan: Esarl
   aliases: []
 id: YxdyY4RTfLYzUWqO
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: hermasofesarl
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

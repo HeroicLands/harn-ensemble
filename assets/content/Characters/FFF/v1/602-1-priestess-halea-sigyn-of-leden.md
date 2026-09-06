@@ -7,7 +7,7 @@ name:
   clan: Leden
   aliases: []
 id: cHaUpTHhhkvOD5XM
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: sigynofleden
 img: images/fffv1/token/FFF_602-1_Priestess_Halea.png
 portrait: images/fffv1/FFF_602-1_Priestess_Halea.jpg

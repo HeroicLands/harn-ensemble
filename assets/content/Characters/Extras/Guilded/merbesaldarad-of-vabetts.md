@@ -7,7 +7,7 @@ name:
   clan: Vabetts
   aliases: []
 id: 9rPJcrOnpenC0p7Y
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merbesaldaradofvabetts
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

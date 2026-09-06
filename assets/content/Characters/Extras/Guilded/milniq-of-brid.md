@@ -7,7 +7,7 @@ name:
   clan: Brid
   aliases: []
 id: 9XNPvopMnGzsqIqg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: milniqofbrid
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

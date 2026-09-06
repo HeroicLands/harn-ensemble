@@ -7,7 +7,7 @@ name:
   clan: Cranoal
   aliases: []
 id: ISKBWgoSl5wARRSf
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: zornaofcranoal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

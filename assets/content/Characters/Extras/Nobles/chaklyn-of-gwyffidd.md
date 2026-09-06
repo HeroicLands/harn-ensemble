@@ -7,7 +7,7 @@ name:
   clan: Gwyffidd
   aliases: []
 id: jQjjaEtGJGJr27XH
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: chaklynofgwyffidd
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Garin
   aliases: []
 id: 3h5liYi46TWj2tyU
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: herilofgarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

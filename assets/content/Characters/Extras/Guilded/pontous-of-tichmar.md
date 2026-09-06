@@ -7,7 +7,7 @@ name:
   clan: Tichmar
   aliases: []
 id: yBmD79ZQdE3QG35F
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pontousoftichmar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Alwen
   aliases: []
 id: z890aoDNMpGy53y5
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: karyseofalwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

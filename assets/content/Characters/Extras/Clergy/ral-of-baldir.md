@@ -7,7 +7,7 @@ name:
   clan: Baldir
   aliases: []
 id: 05qrNRov8EvB9JxL
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: ralofbaldir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

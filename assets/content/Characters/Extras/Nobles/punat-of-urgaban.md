@@ -7,7 +7,7 @@ name:
   clan: Urgaban
   aliases: []
 id: IrIYd2njUxgH4J8F
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: punatofurgaban
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

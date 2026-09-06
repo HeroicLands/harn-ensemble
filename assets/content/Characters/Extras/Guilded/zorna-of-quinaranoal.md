@@ -7,7 +7,7 @@ name:
   clan: Quinaranoal
   aliases: []
 id: 1K39tpfOHWwKp3qk
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: zornaofquinaranoal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

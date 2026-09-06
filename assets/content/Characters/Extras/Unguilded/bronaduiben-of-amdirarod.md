@@ -7,7 +7,7 @@ name:
   clan: Amdirarod
   aliases: []
 id: G89bxfBeewMBqrBm
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bronaduibenofamdirarod
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

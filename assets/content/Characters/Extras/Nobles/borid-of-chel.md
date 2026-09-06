@@ -7,7 +7,7 @@ name:
   clan: Chel
   aliases: []
 id: YKwrld6QM7Jjie8P
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: boridofchel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

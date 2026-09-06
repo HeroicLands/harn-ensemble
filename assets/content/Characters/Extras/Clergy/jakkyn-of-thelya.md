@@ -7,7 +7,7 @@ name:
   clan: Thelya
   aliases: []
 id: kaFWjXeR2UtSh3nw
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: jakkynofthelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

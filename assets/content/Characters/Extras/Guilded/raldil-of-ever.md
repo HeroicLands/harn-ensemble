@@ -7,7 +7,7 @@ name:
   clan: Ever
   aliases: []
 id: qxzHcjQI0gkkA99j
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: raldilofever
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

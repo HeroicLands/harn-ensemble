@@ -7,7 +7,7 @@ name:
   clan: Asaka
   aliases: []
 id: 2eMn2IPa8K9eTQ8u
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cazaradofasaka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

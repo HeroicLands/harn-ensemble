@@ -7,7 +7,7 @@ name:
   clan: Thelkuz
   aliases: []
 id: bF5cHFBhbXAULuSx
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: captaingralofthelkuz
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

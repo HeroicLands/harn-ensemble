@@ -7,7 +7,7 @@ name:
   clan: Ver
   aliases: []
 id: D2OtulC9Wpdhropi
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cheselyneofver
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

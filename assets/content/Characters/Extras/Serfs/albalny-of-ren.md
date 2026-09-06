@@ -7,7 +7,7 @@ name:
   clan: Ren
   aliases: []
 id: AlDyMOeoHFDH6cNy
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: albalnyofren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

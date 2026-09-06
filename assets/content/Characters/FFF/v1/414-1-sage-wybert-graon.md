@@ -7,7 +7,7 @@ name:
   clan: Graon
   aliases: []
 id: DNQtPuSTCANb2wPN
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: wybertgraon
 img: images/fffv1/token/FFF_414-1_Sage.png
 portrait: images/fffv1/FFF_414-1_Sage.jpg

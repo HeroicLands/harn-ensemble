@@ -7,7 +7,7 @@ name:
   clan: Kotren
   aliases: []
 id: Di7KE2nh9F7tvBYb
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: danishemlenofkotren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

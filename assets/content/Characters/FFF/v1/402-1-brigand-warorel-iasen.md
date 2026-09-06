@@ -7,7 +7,7 @@ name:
   clan: Iasen
   aliases: []
 id: 0wZyta0rVtXJ1YDp
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: waroreliasen
 img: images/fffv1/token/FFF_402-1_Brigand.png
 portrait: images/fffv1/FFF_402-1_Brigand.jpg

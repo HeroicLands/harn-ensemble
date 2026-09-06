@@ -7,7 +7,7 @@ name:
   clan: Gesper
   aliases: []
 id: bA9xc7ZXJEJdXRha
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: vadulfofgesper
 img: images/fffv1/token/FFF_410-1_Labourer.png
 portrait: images/fffv1/FFF_410-1_Labourer.jpg

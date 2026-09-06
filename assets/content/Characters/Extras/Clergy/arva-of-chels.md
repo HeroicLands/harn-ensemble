@@ -7,7 +7,7 @@ name:
   clan: Chels
   aliases: []
 id: fDTsko2O0ezZVxYV
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: arvaofchels
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

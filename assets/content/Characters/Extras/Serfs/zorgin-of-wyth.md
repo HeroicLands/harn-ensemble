@@ -7,7 +7,7 @@ name:
   clan: Wyth
   aliases: []
 id: AHsLQJIIk5tWEqgr
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: zorginofwyth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Shref
   aliases: []
 id: QNKNfhHp38dJHTw4
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: embranceofshref
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Duplo
   aliases: []
 id: HPlkITS9Sl2MOeNS
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: brylweofduplo
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

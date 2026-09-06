@@ -7,7 +7,7 @@ name:
   clan: Guinda
   aliases: []
 id: t2gUt5qsF9PTaUbQ
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: captainshotroofguinda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

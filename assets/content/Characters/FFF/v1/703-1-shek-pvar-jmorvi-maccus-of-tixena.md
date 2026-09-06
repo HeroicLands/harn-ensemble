@@ -7,7 +7,7 @@ name:
   clan: Tixena
   aliases: []
 id: cNLfCZnFAc0oKHjd
-folder: 04kLAsFXMI0eqqgT
+packFolder: mages
 shortcode: maccusoftixena
 img: images/fffv1/token/FFF_703-1_Shek_Pvar_Jmorvi.png
 portrait: images/fffv1/FFF_703-1_Shek_Pvar_Jmorvi.jpg

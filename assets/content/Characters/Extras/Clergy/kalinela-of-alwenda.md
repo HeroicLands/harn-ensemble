@@ -7,7 +7,7 @@ name:
   clan: Alwenda
   aliases: []
 id: KRYQlry9WppdrShb
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kalinelaofalwenda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Borskin
   aliases: []
 id: X6zPINxnhCeOSIM9
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: kesofborskin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

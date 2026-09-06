@@ -7,7 +7,7 @@ name:
   clan: Chanti
   aliases: []
 id: DXII1oXhOLZBU8FB
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: mamachanti
 img: images/fffv1/token/FFF_330-1_Tentmaker.png
 portrait: images/fffv1/FFF_330-1_Tentmaker.jpg

@@ -7,7 +7,7 @@ name:
   clan: Wisby
   aliases: []
 id: 19nAFdKfLgGHbkzx
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: lordemmonwisby
 img: images/fffv1/token/FFF_505-1_Herald.png
 portrait: images/fffv1/FFF_505-1_Herald.jpg

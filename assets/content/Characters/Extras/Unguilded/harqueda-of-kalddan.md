@@ -7,7 +7,7 @@ name:
   clan: Kalddan
   aliases: []
 id: Fe4NlS4m6YYo6xv9
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: harquedaofkalddan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

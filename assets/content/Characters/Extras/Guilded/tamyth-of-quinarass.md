@@ -7,7 +7,7 @@ name:
   clan: Quinarass
   aliases: []
 id: Fcg4Hg9k1rWX7zEw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tamythofquinarass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

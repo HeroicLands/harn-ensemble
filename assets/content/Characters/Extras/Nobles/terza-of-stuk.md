@@ -7,7 +7,7 @@ name:
   clan: Stuk
   aliases: []
 id: RpR8Rdqgt8oGOZGo
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: terzaofstuk
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

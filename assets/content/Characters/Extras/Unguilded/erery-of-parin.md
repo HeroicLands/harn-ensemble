@@ -7,7 +7,7 @@ name:
   clan: Parin
   aliases: []
 id: HeKMRmkjhA08cTDD
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ereryofparin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

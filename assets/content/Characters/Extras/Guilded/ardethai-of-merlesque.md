@@ -7,7 +7,7 @@ name:
   clan: Merlesque
   aliases: []
 id: qGL9pOftY774BXYP
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ardethaiofmerlesque
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

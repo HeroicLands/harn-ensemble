@@ -7,7 +7,7 @@ name:
   clan: Barthy
   aliases: []
 id: Tw7v46qDPFLQrmPJ
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: dameafaewynnbarthy
 img: images/fffv1/token/FFF_506-2_Feudal_Knight_MH.png
 portrait: images/fffv1/FFF_506-2_Feudal_Knight_MH.jpg

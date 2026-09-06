@@ -7,7 +7,7 @@ name:
   clan: Debern
   aliases: []
 id: lZeyO1tgXJXd3kQI
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: vanasofdebern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

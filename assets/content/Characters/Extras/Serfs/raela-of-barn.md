@@ -7,7 +7,7 @@ name:
   clan: Barn
   aliases: []
 id: IGshwkqkZzqkiMdP
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: raelaofbarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

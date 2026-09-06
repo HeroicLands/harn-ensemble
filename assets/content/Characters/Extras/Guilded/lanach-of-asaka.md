@@ -7,7 +7,7 @@ name:
   clan: Asaka
   aliases: []
 id: vuv7TcTW1wT2fOxw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lanachofasaka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

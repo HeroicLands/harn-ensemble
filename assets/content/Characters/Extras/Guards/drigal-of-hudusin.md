@@ -7,7 +7,7 @@ name:
   clan: Hudusin
   aliases: []
 id: 9uI2okJXH9VkTEgy
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: drigalofhudusin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

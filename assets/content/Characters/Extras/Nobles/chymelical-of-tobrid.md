@@ -7,7 +7,7 @@ name:
   clan: Tobrid
   aliases: []
 id: wgFL4svcwrEOuduu
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: chymelicaloftobrid
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

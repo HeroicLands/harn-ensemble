@@ -7,7 +7,7 @@ name:
   clan: Psawei
   aliases: []
 id: wxCq5wuoFDXB55JX
-folder: 7Xwu1hTIGLl30Unj
+packFolder: barbarians
 shortcode: mugapsawei
 img: images/fffv1/token/FFF_206-2_Hunter_Anoa.png
 portrait: images/fffv1/FFF_206-2_Hunter_Anoa.jpg

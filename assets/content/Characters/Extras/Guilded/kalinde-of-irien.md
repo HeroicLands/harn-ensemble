@@ -7,7 +7,7 @@ name:
   clan: Irien
   aliases: []
 id: sBJHPJNm4zoRwWhG
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kalindeofirien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

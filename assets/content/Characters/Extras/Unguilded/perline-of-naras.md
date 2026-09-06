@@ -7,7 +7,7 @@ name:
   clan: Naras
   aliases: []
 id: XHRVcn8xv23hVSq9
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: perlineofnaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

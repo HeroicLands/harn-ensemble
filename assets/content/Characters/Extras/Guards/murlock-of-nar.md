@@ -7,7 +7,7 @@ name:
   clan: Nar
   aliases: []
 id: cBSDP0dLO2keAb5v
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: murlockofnar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

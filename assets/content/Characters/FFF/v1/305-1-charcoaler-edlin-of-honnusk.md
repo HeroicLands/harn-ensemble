@@ -7,7 +7,7 @@ name:
   clan: Honnusk
   aliases: []
 id: IABsoOo9Wrvq3gef
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: edlinofhonnusk
 img: images/fffv1/token/FFF_305-1_Charcoaler.png
 portrait: images/fffv1/FFF_305-1_Charcoaler.jpg

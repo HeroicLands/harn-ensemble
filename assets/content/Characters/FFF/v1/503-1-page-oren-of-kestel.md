@@ -7,7 +7,7 @@ name:
   clan: Kestel
   aliases: []
 id: RWymnuimvX4tvFSL
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: orenofkestel
 img: images/fffv1/token/FFF_503-1_Page.png
 portrait: images/fffv1/FFF_503-1_Page.jpg

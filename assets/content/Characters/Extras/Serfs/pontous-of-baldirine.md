@@ -7,7 +7,7 @@ name:
   clan: Baldirine
   aliases: []
 id: XSXPb9FCdfDGAq66
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: pontousofbaldirine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

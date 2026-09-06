@@ -7,7 +7,7 @@ name:
   clan: Borskin
   aliases: []
 id: pa4wQpD8WxAMh2oc
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: tabifaofborskin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

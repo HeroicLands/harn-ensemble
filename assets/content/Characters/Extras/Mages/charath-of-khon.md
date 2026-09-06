@@ -7,7 +7,7 @@ name:
   clan: Khon
   aliases: []
 id: 7pkyVyZKab62OLn6
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: charathofkhon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Uerthaen
   aliases: []
 id: Wau8c4I1ou8v3p3e
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: lusilenofuerthaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

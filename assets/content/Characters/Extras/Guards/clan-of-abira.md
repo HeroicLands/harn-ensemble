@@ -7,7 +7,7 @@ name:
   clan: Abira
   aliases: []
 id: 6BJgZfzbeZzUUDB3
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: clanofabira
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

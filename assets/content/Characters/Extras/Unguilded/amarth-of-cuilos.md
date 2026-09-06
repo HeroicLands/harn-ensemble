@@ -7,7 +7,7 @@ name:
   clan: Cuilos
   aliases: []
 id: YSnPgG6pE6HQahg6
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amarthofcuilos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Hudusin
   aliases: []
 id: 1KB3fjFxxvK9xhQ8
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kistyneofhudusin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

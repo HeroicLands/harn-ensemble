@@ -7,7 +7,7 @@ name:
   clan: Karenel
   aliases: []
 id: j3Bmzd7BXRjmnPSC
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: murlockofkarenel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

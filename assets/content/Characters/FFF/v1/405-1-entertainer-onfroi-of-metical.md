@@ -7,7 +7,7 @@ name:
   clan: Metical
   aliases: []
 id: zGz4dPoGVKfmdnUR
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: onfroiofmetical
 img: images/fffv1/token/FFF_405-1_Entertainer.png
 portrait: images/fffv1/FFF_405-1_Entertainer.jpg

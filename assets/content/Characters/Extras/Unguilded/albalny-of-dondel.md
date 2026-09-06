@@ -7,7 +7,7 @@ name:
   clan: Dondel
   aliases: []
 id: hhNCCErup9v7FmXG
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: albalnyofdondel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

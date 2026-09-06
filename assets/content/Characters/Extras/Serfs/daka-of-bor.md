@@ -7,7 +7,7 @@ name:
   clan: Bor
   aliases: []
 id: AanuATq6CGNq4LVA
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: dakaofbor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Jeredostal
   aliases: []
 id: uvdD8Isazk8bBrfs
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: chendofjeredostal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

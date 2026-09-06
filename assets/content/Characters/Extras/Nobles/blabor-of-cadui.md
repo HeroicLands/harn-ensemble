@@ -7,7 +7,7 @@ name:
   clan: Cadui
   aliases: []
 id: iPzNMqt7MWLkgOf7
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: blaborofcadui
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

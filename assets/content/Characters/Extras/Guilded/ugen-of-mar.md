@@ -7,7 +7,7 @@ name:
   clan: Mar
   aliases: []
 id: dkyp8W8HvNk6pDMD
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ugenofmar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

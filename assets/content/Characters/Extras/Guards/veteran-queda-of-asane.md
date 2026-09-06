@@ -7,7 +7,7 @@ name:
   clan: Asane
   aliases: []
 id: QZo1LlxuSGoM1VAr
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteranquedaofasane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

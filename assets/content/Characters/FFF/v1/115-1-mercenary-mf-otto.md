@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: HDRSNCscXIBC8Rxv
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: otto
 img: images/fffv1/token/FFF_115-1_Mercenary_MF.png
 portrait: images/fffv1/FFF_115-1_Mercenary_MF.jpg

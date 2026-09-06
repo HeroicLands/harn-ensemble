@@ -7,7 +7,7 @@ name:
   clan: Aweil
   aliases: []
 id: Jq9rcwyFPRV6wUZD
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gorsineofaweil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

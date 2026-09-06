@@ -7,7 +7,7 @@ name:
   clan: Lundondel
   aliases: []
 id: uMSPAhz9SL6YJ3kw
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: captaincharallaxoflundondel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

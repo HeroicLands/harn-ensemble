@@ -7,7 +7,7 @@ name:
   clan: Uerth
   aliases: []
 id: lkRXwcAGaz36Zqvb
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: heraofuerth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

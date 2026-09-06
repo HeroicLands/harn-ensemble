@@ -7,7 +7,7 @@ name:
   clan: Wejik
   aliases: []
 id: uwEYHkuJz7PXT4dH
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: piriaofwejik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

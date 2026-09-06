@@ -7,7 +7,7 @@ name:
   clan: Jurbosq
   aliases: []
 id: EiCHMmXOe8FVvllO
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: raedaofjurbosq
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

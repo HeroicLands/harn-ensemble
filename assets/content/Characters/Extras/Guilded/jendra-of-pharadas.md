@@ -7,7 +7,7 @@ name:
   clan: Pharadas
   aliases: []
 id: kyF01cwGjh58yodZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jendraofpharadas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

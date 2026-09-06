@@ -7,7 +7,7 @@ name:
   clan: Krollater
   aliases: []
 id: 97TYUOdt0RVruHZ4
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: illicofkrollater
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

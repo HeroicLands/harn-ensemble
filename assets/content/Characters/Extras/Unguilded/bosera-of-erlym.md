@@ -7,7 +7,7 @@ name:
   clan: Erlym
   aliases: []
 id: 5YdC1Uk2EhS9NBXQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: boseraoferlym
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

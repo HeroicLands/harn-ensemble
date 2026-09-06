@@ -7,7 +7,7 @@ name:
   clan: Orieldesarl
   aliases: []
 id: SLkz73mYnt047IJw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lyciaoforieldesarl
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

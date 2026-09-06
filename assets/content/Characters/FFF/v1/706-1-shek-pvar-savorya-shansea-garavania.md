@@ -7,7 +7,7 @@ name:
   clan: Garavania
   aliases: []
 id: HArxJjxZFXt5sqO8
-folder: 04kLAsFXMI0eqqgT
+packFolder: mages
 shortcode: shanseagaravania
 img: images/fffv1/token/FFF_706-1_Shek_Pvar_Savorya.png
 portrait: images/fffv1/FFF_706-1_Shek_Pvar_Savorya.jpg

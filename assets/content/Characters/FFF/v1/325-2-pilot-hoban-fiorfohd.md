@@ -7,7 +7,7 @@ name:
   clan: Fiorfohd
   aliases: []
 id: dB9zMBkQJSKNOVu4
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: hobanfiorfohd
 img: images/fffv1/token/FFF_325-2_Pilot.png
 portrait: images/fffv1/FFF_325-2_Pilot.jpg

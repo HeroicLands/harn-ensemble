@@ -7,7 +7,7 @@ name:
   clan: Beitis
   aliases: []
 id: xCn0clbStVq5JJZh
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: jorgbeitis
 img: images/fffv1/token/FFF_334-1_Weaponcrafter.png
 portrait: images/fffv1/FFF_334-1_Weaponcrafter.jpg

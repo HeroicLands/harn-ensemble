@@ -7,7 +7,7 @@ name:
   clan: Belon
   aliases: []
 id: 9aMg8Wx1yKqyXrhs
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: haffythofbelon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

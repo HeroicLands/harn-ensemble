@@ -7,7 +7,7 @@ name:
   clan: Osathade
   aliases: []
 id: J2BfVVgk8dOTn8BK
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gineofosathade
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Daroos
   aliases: []
 id: qzQY1UdTJIGOuVYz
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: aramiaofdaroos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

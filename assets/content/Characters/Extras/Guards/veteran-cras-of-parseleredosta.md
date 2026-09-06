@@ -7,7 +7,7 @@ name:
   clan: Parseleredosta
   aliases: []
 id: 6EAeWehWoC2WdfAK
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veterancrasofparseleredosta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

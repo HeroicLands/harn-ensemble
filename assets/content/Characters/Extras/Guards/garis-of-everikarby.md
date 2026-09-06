@@ -7,7 +7,7 @@ name:
   clan: Everikarby
   aliases: []
 id: bAunArBk2MOFfxfU
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: garisofeverikarby
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

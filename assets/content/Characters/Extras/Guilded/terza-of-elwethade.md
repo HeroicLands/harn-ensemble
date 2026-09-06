@@ -7,7 +7,7 @@ name:
   clan: Elwethade
   aliases: []
 id: anlVa3Dtluoyqyoo
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: terzaofelwethade
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

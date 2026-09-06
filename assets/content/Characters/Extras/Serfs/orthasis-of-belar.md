@@ -7,7 +7,7 @@ name:
   clan: Belar
   aliases: []
 id: TFVH42wNn04bY970
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: orthasisofbelar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

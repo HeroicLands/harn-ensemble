@@ -7,7 +7,7 @@ name:
   clan: Hipaeus
   aliases: []
 id: LsjIlgkTeOQp4Ww4
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: lobirofhipaeus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Unigal
   aliases: []
 id: HpzyFvBVxT5Mh5JH
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: arainofunigal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

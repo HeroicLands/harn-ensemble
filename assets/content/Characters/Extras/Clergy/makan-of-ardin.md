@@ -7,7 +7,7 @@ name:
   clan: Ardin
   aliases: []
 id: eVWW7mrVM0dtTiVV
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: makanofardin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

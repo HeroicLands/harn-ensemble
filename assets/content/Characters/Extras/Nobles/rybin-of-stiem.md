@@ -7,7 +7,7 @@ name:
   clan: Stiem
   aliases: []
 id: ZehF6RbJOY5RSqrk
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: rybinofstiem
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

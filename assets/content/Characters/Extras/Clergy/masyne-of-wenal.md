@@ -7,7 +7,7 @@ name:
   clan: Wenal
   aliases: []
 id: a6aZnWh70L5NaXe8
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: masyneofwenal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Erad Parthen
   aliases: []
 id: lu8Wt40epajvr1lZ
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: commandereradofparthen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

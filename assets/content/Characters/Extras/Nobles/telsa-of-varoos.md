@@ -7,7 +7,7 @@ name:
   clan: Varoos
   aliases: []
 id: bTcklGbl92EUIrIC
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: telsaofvaroos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Jaesinarass
   aliases: []
 id: wUgAXWKePie3xhm7
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteransebelofjaesinarass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

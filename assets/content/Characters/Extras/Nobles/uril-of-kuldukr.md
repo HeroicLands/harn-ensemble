@@ -7,7 +7,7 @@ name:
   clan: Kuldukr
   aliases: []
 id: WC6BtOn4G8dSDiN3
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: urilofkuldukr
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

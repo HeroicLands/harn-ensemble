@@ -7,7 +7,7 @@ name:
   clan: Matlimun
   aliases: []
 id: abX2g9NIjMH7BhoF
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: crolofmatlimun
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

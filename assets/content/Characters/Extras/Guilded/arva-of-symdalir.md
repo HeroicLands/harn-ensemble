@@ -7,7 +7,7 @@ name:
   clan: Symdalir
   aliases: []
 id: neEvgBQ0nVgJyagD
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arvaofsymdalir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

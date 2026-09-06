@@ -7,7 +7,7 @@ name:
   clan: Cade
   aliases: []
 id: q4Dsf9m89eR2J6oj
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: sirmorhgancade
 img: images/fffv1/token/FFF_506-3_Feudal_Knight_MH.png
 portrait: images/fffv1/FFF_506-3_Feudal_Knight_MH.jpg

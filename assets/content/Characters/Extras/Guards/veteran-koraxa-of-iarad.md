@@ -7,7 +7,7 @@ name:
   clan: Iarad
   aliases: []
 id: 6N3lgLVvEwxwIvbp
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veterankoraxaofiarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

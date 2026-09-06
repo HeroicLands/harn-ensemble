@@ -7,7 +7,7 @@ name:
   clan: Ardrass
   aliases: []
 id: pvWMyXCZfRVzxmx1
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: cheselynofardrass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Payensenal
   aliases: []
 id: F7sN398EZHonSVRA
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: terbaofpayensenal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

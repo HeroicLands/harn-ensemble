@@ -7,7 +7,7 @@ name:
   clan: Tulkail
   aliases: []
 id: 0x97Kc6HHcUdO9lX
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: captainnatgenoftulkail
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

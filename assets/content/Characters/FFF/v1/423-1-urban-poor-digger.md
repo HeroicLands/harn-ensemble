@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: UChsLQBJKBQG7CpD
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: digger
 img: images/fffv1/token/FFF_423-1_Urban_Poor.png
 portrait: images/fffv1/FFF_423-1_Urban_Poor.jpg

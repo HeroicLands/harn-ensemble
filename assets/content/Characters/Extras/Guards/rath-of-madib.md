@@ -7,7 +7,7 @@ name:
   clan: Madib
   aliases: []
 id: StCJR8ySR6WXk9S1
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: rathofmadib
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

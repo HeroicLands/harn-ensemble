@@ -7,7 +7,7 @@ name:
   clan: Uerth
   aliases: []
 id: cWnzSJM3M4D9H2wJ
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: marofuerth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

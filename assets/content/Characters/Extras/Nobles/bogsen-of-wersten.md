@@ -7,7 +7,7 @@ name:
   clan: Wersten
   aliases: []
 id: 7minxHSvOwhzHFvo
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: bogsenofwersten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

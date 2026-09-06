@@ -7,7 +7,7 @@ name:
   clan: Iaradas
   aliases: []
 id: bvTAh7Uvv4xQfwif
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: kirlinofiaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

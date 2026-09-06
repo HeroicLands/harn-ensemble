@@ -7,7 +7,7 @@ name:
   clan: Dyselrin
   aliases: []
 id: FIsWSwzlbCK0bjzC
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: pallisaofdyselrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

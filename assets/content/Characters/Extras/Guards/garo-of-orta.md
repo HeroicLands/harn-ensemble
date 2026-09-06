@@ -7,7 +7,7 @@ name:
   clan: Orta
   aliases: []
 id: xxtFISekTDDbOodz
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: garooforta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

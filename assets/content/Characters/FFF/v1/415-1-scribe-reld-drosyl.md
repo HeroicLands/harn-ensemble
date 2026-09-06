@@ -7,7 +7,7 @@ name:
   clan: Drosyl
   aliases: []
 id: LYy6wNzmc4QK0GiL
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: relddrosyl
 img: images/fffv1/token/FFF_415-1_Scribe.png
 portrait: images/fffv1/FFF_415-1_Scribe.jpg

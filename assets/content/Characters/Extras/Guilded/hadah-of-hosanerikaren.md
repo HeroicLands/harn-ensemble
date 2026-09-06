@@ -7,7 +7,7 @@ name:
   clan: Hosanerikaren
   aliases: []
 id: aMjJ0vyE5IWdnuyE
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: hadahofhosanerikaren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Iribe
   aliases: []
 id: HME5NKRmK67ErZRD
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: eweniofiribe
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Dythias
   aliases: []
 id: i9AtrTBRjsDCWnxE
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merelynofdythias
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

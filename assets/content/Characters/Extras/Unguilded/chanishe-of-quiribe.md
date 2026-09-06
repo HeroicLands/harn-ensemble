@@ -7,7 +7,7 @@ name:
   clan: Quiribe
   aliases: []
 id: kZZLysXzrF04hwZm
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: chanisheofquiribe
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

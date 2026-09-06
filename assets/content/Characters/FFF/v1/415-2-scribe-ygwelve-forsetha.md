@@ -7,7 +7,7 @@ name:
   clan: Forsetha
   aliases: []
 id: 2MzjJhA8lpULDhlf
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: ygwelveforsetha
 img: images/fffv1/token/FFF_415-2_Scribe.png
 portrait: images/fffv1/FFF_415-2_Scribe.jpg

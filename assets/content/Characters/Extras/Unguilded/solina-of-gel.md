@@ -7,7 +7,7 @@ name:
   clan: Gel
   aliases: []
 id: 93qwnFgdOyIsh4uo
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: solinaofgel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ensal
   aliases: []
 id: SyAnstLAXUJg1mNZ
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: taranensal
 img: images/fffv1/token/FFF_504-1_Squire.png
 portrait: images/fffv1/FFF_504-1_Squire.jpg

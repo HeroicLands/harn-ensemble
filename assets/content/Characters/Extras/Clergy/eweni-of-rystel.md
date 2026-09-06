@@ -7,7 +7,7 @@ name:
   clan: Rystel
   aliases: []
 id: iVSPZT0jFMlE9ees
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: eweniofrystel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

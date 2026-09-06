@@ -7,7 +7,7 @@ name:
   clan: Ren
   aliases: []
 id: gG23B2qR7DefX59N
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: aldofren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

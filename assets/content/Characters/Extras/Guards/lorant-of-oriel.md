@@ -7,7 +7,7 @@ name:
   clan: Oriel
   aliases: []
 id: aVU49cIzSoWlGAPp
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: lorantoforiel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ewendal
   aliases: []
 id: 7Ss5sAIShofZGYFZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tolmeyofewendal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

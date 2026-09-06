@@ -7,7 +7,7 @@ name:
   clan: Benere
   aliases: []
 id: TJDHmy9dazsUhB7b
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: sirchadrinbenere
 img: images/fffv1/token/FFF_506-4_Feudal_Knight_HH.png
 portrait: images/fffv1/FFF_506-4_Feudal_Knight_HH.jpg

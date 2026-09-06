@@ -7,7 +7,7 @@ name:
   clan: Grathias
   aliases: []
 id: oaLKzP4Bu1tJLLia
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: geacelsonofgrathias
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

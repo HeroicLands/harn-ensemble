@@ -7,7 +7,7 @@ name:
   clan: Provin
   aliases: []
 id: 5SUSvrH7D7Cy4Omc
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: lamnarofprovin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

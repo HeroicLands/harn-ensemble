@@ -7,7 +7,7 @@ name:
   clan: Intrel
   aliases: []
 id: LichuZPDbvMhBsKm
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: drounofintrel
 img: images/fffv1/token/FFF_317-1_Mason.png
 portrait: images/fffv1/FFF_317-1_Mason.jpg

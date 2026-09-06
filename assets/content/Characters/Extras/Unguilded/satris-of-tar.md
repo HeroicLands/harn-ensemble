@@ -7,7 +7,7 @@ name:
   clan: Tar
   aliases: []
 id: YCKiFhtPo0nEiSbz
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: satrisoftar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

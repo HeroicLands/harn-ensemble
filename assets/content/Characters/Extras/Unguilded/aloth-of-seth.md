@@ -7,7 +7,7 @@ name:
   clan: Seth
   aliases: []
 id: Kwt05ZHb5t6KMkKp
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: alothofseth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

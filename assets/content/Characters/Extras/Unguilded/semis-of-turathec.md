@@ -7,7 +7,7 @@ name:
   clan: Turathec
   aliases: []
 id: FwUrZnrR9FvcUvV8
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: semisofturathec
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

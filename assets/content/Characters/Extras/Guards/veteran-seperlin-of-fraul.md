@@ -7,7 +7,7 @@ name:
   clan: Fraul
   aliases: []
 id: btSIF5T3vagmX217
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteranseperlinoffraul
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

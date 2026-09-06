@@ -7,7 +7,7 @@ name:
   clan: Lere
   aliases: []
 id: smQzwW3olMyviJPb
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: thelrenoflere
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

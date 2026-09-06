@@ -7,7 +7,7 @@ name:
   clan: Chussel
   aliases: []
 id: 8sBfhamqtk1BV3K7
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: chymelvidofchussel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

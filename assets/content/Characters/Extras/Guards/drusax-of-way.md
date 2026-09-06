@@ -7,7 +7,7 @@ name:
   clan: Way
   aliases: []
 id: O1YIJKGMHgwXLahR
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: drusaxofway
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

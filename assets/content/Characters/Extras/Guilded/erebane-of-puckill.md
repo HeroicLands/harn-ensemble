@@ -7,7 +7,7 @@ name:
   clan: Puckill
   aliases: []
 id: D0Vb3C6MyysrUlcH
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: erebaneofpuckill
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

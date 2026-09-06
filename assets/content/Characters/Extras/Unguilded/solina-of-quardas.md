@@ -7,7 +7,7 @@ name:
   clan: Quardas
   aliases: []
 id: QL37tftlcYbh5a63
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: solinaofquardas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

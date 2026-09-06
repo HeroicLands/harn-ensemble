@@ -7,7 +7,7 @@ name:
   clan: Don
   aliases: []
 id: FLtrpr6i4tuBtobS
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: punatgenofdon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

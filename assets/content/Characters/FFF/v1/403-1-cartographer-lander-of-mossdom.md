@@ -7,7 +7,7 @@ name:
   clan: Mossdom
   aliases: []
 id: UZY4fDaKJLgDoyKQ
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: landerofmossdom
 img: images/fffv1/token/FFF_403-1_Cartographer.png
 portrait: images/fffv1/FFF_403-1_Cartographer.jpg

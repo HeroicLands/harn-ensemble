@@ -7,7 +7,7 @@ name:
   clan: Chorlon
   aliases: []
 id: TPqvtKhSh0nxHLjB
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: marlyseofchorlon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

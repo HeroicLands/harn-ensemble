@@ -7,7 +7,7 @@ name:
   clan: Aethade
   aliases: []
 id: K4Nz8jmfPGsdDiYa
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lasakofaethade
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

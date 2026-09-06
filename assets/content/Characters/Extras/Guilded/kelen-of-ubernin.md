@@ -7,7 +7,7 @@ name:
   clan: Ubernin
   aliases: []
 id: bJCzEUvA1BINDDZw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kelenofubernin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

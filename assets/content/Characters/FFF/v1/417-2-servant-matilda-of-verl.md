@@ -7,7 +7,7 @@ name:
   clan: Verl
   aliases: []
 id: PGB2gBNjPVucIFKf
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: matildaofverl
 img: images/fffv1/token/FFF_417-2_Servant.png
 portrait: images/fffv1/FFF_417-2_Servant.jpg

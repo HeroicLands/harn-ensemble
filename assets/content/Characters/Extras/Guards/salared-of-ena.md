@@ -7,7 +7,7 @@ name:
   clan: Ena
   aliases: []
 id: ShesruLeqOZnnz8x
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: salaredofena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

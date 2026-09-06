@@ -7,7 +7,7 @@ name:
   clan: Onparion
   aliases: []
 id: vBOgdkql1FTO9OIu
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: doranaofonparion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

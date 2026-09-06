@@ -7,7 +7,7 @@ name:
   clan: Obelon
   aliases: []
 id: vss1P51dpUdOvzbR
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: sorolofobelon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

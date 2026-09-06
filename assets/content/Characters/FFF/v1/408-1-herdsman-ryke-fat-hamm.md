@@ -8,7 +8,7 @@ name:
   aliases:
     - Fat
 id: eINyh83Kik2WzPWJ
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: rykefathamm
 img: images/fffv1/token/FFF_408-1_Herdsman.png
 portrait: images/fffv1/FFF_408-1_Herdsman.jpg

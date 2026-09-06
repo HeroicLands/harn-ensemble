@@ -7,7 +7,7 @@ name:
   clan: Wethalmin
   aliases: []
 id: RLphetKuoPqt8Cex
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: thasisofwethalmin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

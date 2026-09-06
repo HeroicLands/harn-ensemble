@@ -7,7 +7,7 @@ name:
   clan: Ane
   aliases: []
 id: j8ObsrmNKU67g4GH
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteranuthelrenofane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

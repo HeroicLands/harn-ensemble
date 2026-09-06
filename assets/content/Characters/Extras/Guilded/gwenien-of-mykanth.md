@@ -7,7 +7,7 @@ name:
   clan: Mykanth
   aliases: []
 id: DiWAyyJl6ZRsDzjQ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gwenienofmykanth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

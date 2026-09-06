@@ -7,7 +7,7 @@ name:
   clan: Tyne
   aliases: []
 id: 6aFAjW9NHXMcKepf
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: marlynoftyne
 img: images/fffv1/token/FFF_411-1_Prostitute.png
 portrait: images/fffv1/FFF_411-1_Prostitute.jpg

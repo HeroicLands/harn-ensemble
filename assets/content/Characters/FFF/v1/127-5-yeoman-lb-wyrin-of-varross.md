@@ -7,7 +7,7 @@ name:
   clan: Varross
   aliases: []
 id: P3R0iAgl7VVSTJzh
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: wyrinofvarross
 img: images/fffv1/token/FFF_127-5_Yeoman_LB.png
 portrait: images/fffv1/FFF_127-5_Yeoman_LB.jpg

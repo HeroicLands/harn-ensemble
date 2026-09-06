@@ -7,7 +7,7 @@ name:
   clan: Dondech
   aliases: []
 id: 0wIAqhWDcSSWXQKi
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: captainlamofdondech
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

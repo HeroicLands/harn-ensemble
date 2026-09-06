@@ -7,7 +7,7 @@ name:
   clan: Mar
   aliases: []
 id: 3hrEKM4q37FRBWZx
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: brethofmar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

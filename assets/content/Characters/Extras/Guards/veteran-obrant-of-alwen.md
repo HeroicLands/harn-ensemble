@@ -7,7 +7,7 @@ name:
   clan: Alwen
   aliases: []
 id: PRILqS6obJL3b9MS
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteranobrantofalwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

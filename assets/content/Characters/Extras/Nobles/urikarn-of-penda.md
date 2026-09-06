@@ -7,7 +7,7 @@ name:
   clan: Penda
   aliases: []
 id: HxdkilWP3FXBY6e3
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: urikarnofpenda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

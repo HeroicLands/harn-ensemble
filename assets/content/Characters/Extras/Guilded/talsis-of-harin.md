@@ -7,7 +7,7 @@ name:
   clan: Harin
   aliases: []
 id: hqbFH0q1KgkD1x1C
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: talsisofharin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

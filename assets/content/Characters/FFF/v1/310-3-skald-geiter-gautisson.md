@@ -7,7 +7,7 @@ name:
   clan: Gautisson
   aliases: []
 id: ia2zjJrUeoSAxFzi
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: geitergautisson
 img: images/fffv1/token/FFF_310-3_Skald.png
 portrait: images/fffv1/FFF_310-3_Skald.jpg

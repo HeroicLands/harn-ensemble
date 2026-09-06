@@ -7,7 +7,7 @@ name:
   clan: Wethsels
   aliases: []
 id: DPHFYmg0q4llFXU4
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: belofwethsels
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Yaleshref
   aliases: []
 id: BHzI8tvQXXfZyfij
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jarlamofyaleshref
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

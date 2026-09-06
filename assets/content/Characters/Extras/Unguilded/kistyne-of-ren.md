@@ -7,7 +7,7 @@ name:
   clan: Ren
   aliases: []
 id: qy8hxqSaTgAZ0FPO
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kistyneofren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

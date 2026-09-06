@@ -7,7 +7,7 @@ name:
   clan: Wyth
   aliases: []
 id: mEdZXKYJF7QMCotL
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: garostaofwyth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

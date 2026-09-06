@@ -7,7 +7,7 @@ name:
   clan: Gelram
   aliases: []
 id: sJ8YQArkYr9NyWD7
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: bartonofgelram
 img: images/fffv1/token/FFF_312-1_Innkeeper.png
 portrait: images/fffv1/FFF_312-1_Innkeeper.jpg

@@ -7,7 +7,7 @@ name:
   clan: Garin
   aliases: []
 id: X2BvyRKMP4UOk3b4
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: gizaofgarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

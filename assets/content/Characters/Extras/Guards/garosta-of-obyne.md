@@ -7,7 +7,7 @@ name:
   clan: Obyne
   aliases: []
 id: PsnFioDNhOWujQhI
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: garostaofobyne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

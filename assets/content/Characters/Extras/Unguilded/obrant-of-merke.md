@@ -7,7 +7,7 @@ name:
   clan: Merke
   aliases: []
 id: irCLRCsP3N34kGt3
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: obrantofmerke
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kramelvoen
   aliases: []
 id: ElPk8IZbspDhi8GK
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: jarnofkramelvoen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

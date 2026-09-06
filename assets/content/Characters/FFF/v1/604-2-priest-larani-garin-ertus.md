@@ -7,7 +7,7 @@ name:
   clan: Ertus
   aliases: []
 id: lotJIbkkci8IzCN8
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: garinertus
 img: images/fffv1/token/FFF_604-2_Priest_Larani.png
 portrait: images/fffv1/FFF_604-2_Priest_Larani.jpg

@@ -7,7 +7,7 @@ name:
   clan: Musbers
   aliases: []
 id: NMeHuFs736GQHPTR
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: geacelsinofmusbers
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

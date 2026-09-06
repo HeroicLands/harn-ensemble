@@ -7,7 +7,7 @@ name:
   clan: Sarnesku
   aliases: []
 id: g8QOEGSBfSBKqbLJ
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lysatofsarnesku
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

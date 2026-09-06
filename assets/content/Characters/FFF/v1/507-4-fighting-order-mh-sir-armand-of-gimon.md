@@ -7,7 +7,7 @@ name:
   clan: Gimon
   aliases: []
 id: nMhBtTtcebFzVawZ
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: sirarmandofgimon
 img: images/fffv1/token/FFF_507-4_Fighting_Order_MH.png
 portrait: images/fffv1/FFF_507-4_Fighting_Order_MH.jpg

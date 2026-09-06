@@ -7,7 +7,7 @@ name:
   clan: Chardan
   aliases: []
 id: LDs2hh6ga4fjxniJ
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: makalareenofchardan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

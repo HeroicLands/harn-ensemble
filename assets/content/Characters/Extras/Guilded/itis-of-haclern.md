@@ -7,7 +7,7 @@ name:
   clan: Haclern
   aliases: []
 id: 3N1mvbuzhQMKaH0S
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: itisofhaclern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Betts
   aliases: []
 id: zaaq4VI2nnjYjA8Q
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jakrowofbetts
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Varo
   aliases: []
 id: FKDExocAb2BYbYZr
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cholaynofvaro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

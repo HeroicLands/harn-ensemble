@@ -7,7 +7,7 @@ name:
   clan: Esarn
   aliases: []
 id: HvgNXt1IWsqBrc8s
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: raedaofesarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

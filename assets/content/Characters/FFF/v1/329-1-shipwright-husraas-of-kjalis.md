@@ -7,7 +7,7 @@ name:
   clan: Kjalis
   aliases: []
 id: Dgri4vubIECwxvd7
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: husraasofkjalis
 img: images/fffv1/token/FFF_329-1_Shipwright.png
 portrait: images/fffv1/FFF_329-1_Shipwright.jpg

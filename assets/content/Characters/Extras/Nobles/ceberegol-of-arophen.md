@@ -7,7 +7,7 @@ name:
   clan: Arophen
   aliases: []
 id: QT0HuqAuhTGyq82s
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: ceberegolofarophen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

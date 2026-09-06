@@ -7,7 +7,7 @@ name:
   clan: Nemiribe
   aliases: []
 id: 38xB6UdFVZfivd5Y
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: vaberofnemiribe
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

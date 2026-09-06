@@ -7,7 +7,7 @@ name:
   clan: Avordan
   aliases: []
 id: f7som2cPUFTmdBPq
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: boraneofavordan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

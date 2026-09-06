@@ -7,7 +7,7 @@ name:
   clan: Ranals
   aliases: []
 id: cLnhyY4QXQWraFxa
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: esharelranals
 img: images/fffv1/token/FFF_115-2_Mercenary_MF.png
 portrait: images/fffv1/FFF_115-2_Mercenary_MF.jpg

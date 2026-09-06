@@ -7,7 +7,7 @@ name:
   clan: Intrenalasarl
   aliases: []
 id: cyUzhLoB1wCnFtVh
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: rasofintrenalasarl
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

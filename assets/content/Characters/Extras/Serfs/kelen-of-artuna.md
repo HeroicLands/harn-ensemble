@@ -7,7 +7,7 @@ name:
   clan: Artuna
   aliases: []
 id: YQHrhH126BF6vQtt
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: kelenofartuna
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

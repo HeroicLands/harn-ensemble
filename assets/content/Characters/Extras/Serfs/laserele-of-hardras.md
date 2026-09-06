@@ -7,7 +7,7 @@ name:
   clan: Hardras
   aliases: []
 id: sY1tirPHWSNyCkqI
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: lasereleofhardras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

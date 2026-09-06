@@ -7,7 +7,7 @@ name:
   clan: Lune
   aliases: []
 id: BLH3QiV0M5JX1z7d
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: nerelasarinaoflune
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

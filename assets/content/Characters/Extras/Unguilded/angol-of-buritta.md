@@ -7,7 +7,7 @@ name:
   clan: Buritta
   aliases: []
 id: BoUl7sW8Metk48Vx
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: angolofburitta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

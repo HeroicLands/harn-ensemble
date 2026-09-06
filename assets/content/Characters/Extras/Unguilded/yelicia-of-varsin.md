@@ -7,7 +7,7 @@ name:
   clan: Varsin
   aliases: []
 id: Z4iBxrNmZbnDb4nE
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: yeliciaofvarsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Hacherdad
   aliases: []
 id: HA20lpK82ZkXFWXH
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: jamarofhacherdad
 img: images/fffv1/token/FFF_323-1_Perfumer.png
 portrait: images/fffv1/FFF_323-1_Perfumer.jpg

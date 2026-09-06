@@ -7,7 +7,7 @@ name:
   clan: Stury
   aliases: []
 id: aghrGYgVl3ACbIz7
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: sirjornstury
 img: images/fffv1/token/FFF_510-2_Royal_Government.png
 portrait: images/fffv1/FFF_510-2_Royal_Government.jpg

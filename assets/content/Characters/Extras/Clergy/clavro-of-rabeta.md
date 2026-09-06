@@ -7,7 +7,7 @@ name:
   clan: Rabeta
   aliases: []
 id: j4ByXiX1Y6CNU2Bg
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: clavroofrabeta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Sunis
   aliases: []
 id: AgcMGgEuvXcdSE7x
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: melofsunis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

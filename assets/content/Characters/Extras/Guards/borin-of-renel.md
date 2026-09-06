@@ -7,7 +7,7 @@ name:
   clan: Renel
   aliases: []
 id: MWK0qmjNwdbYYYpZ
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: borinofrenel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

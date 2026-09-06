@@ -7,7 +7,7 @@ name:
   clan: Tixenal
   aliases: []
 id: SoX0YlV2waYQw5p9
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: albalnyoftixenal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

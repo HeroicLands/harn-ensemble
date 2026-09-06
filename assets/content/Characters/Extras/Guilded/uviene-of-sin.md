@@ -7,7 +7,7 @@ name:
   clan: Sin
   aliases: []
 id: uPOXX9fNKQmndsap
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: uvieneofsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

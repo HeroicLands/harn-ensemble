@@ -7,7 +7,7 @@ name:
   clan: Erlesh
   aliases: []
 id: Y5TsVBVkQPK2wcFN
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: chendraoferlesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

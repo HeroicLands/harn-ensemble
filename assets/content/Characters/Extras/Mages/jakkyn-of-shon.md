@@ -7,7 +7,7 @@ name:
   clan: Shon
   aliases: []
 id: gRVAxTgqKBxsseGj
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: jakkynofshon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

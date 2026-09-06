@@ -7,7 +7,7 @@ name:
   clan: Forsetha
   aliases: []
 id: RKgUGKh2miBd4DxZ
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: grimhildaforsetha
 img: images/fffv1/token/FFF_608-2_Priest_Sarajin.png
 portrait: images/fffv1/FFF_608-2_Priest_Sarajin.jpg

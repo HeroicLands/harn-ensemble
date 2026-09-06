@@ -7,7 +7,7 @@ name:
   clan: Kapire
   aliases: []
 id: PlgIW2RSOGDLW9KK
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lysatrisofkapire
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

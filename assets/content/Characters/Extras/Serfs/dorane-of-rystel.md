@@ -7,7 +7,7 @@ name:
   clan: Rystel
   aliases: []
 id: 5bxuHJqBqCvJENwa
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: doraneofrystel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

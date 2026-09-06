@@ -7,7 +7,7 @@ name:
   clan: Pelerom
   aliases: []
 id: k7q33nHXUCmbrB3b
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: bjarrpelerom
 img: images/fffv1/token/FFF_608-1_Priest_Sarajin.png
 portrait: images/fffv1/FFF_608-1_Priest_Sarajin.jpg

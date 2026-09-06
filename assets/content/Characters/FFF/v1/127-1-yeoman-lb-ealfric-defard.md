@@ -7,7 +7,7 @@ name:
   clan: Defard
   aliases: []
 id: oRNGkprsEqxEhkDw
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: ealfricdefard
 img: images/fffv1/token/FFF_127-1_Yeoman_LB.png
 portrait: images/fffv1/FFF_127-1_Yeoman_LB.jpg

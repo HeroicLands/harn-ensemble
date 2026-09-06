@@ -7,7 +7,7 @@ name:
   clan: Lebarsuel
   aliases: []
 id: F2p8EWfZFiI7YeL5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kalaredoflebarsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

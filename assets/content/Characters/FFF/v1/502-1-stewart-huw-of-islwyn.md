@@ -7,7 +7,7 @@ name:
   clan: Islwyn
   aliases: []
 id: LrbNBVZPSC528SpZ
-folder: lu83pb6NNFEwAs5L
+packFolder: nobles
 shortcode: huwofislwyn
 img: images/fffv1/token/FFF_502-1_Stewart.png
 portrait: images/fffv1/FFF_502-1_Stewart.jpg

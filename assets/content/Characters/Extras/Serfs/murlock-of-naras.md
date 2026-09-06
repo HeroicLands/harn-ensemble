@@ -7,7 +7,7 @@ name:
   clan: Naras
   aliases: []
 id: ldadZoZ3Oh8LreHX
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: murlockofnaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Raben
   aliases: []
 id: 7nBkORvHR1HKOKFb
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: umenofraben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

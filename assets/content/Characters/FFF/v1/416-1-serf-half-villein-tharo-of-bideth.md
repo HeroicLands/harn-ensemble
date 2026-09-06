@@ -7,7 +7,7 @@ name:
   clan: Bideth
   aliases: []
 id: zfHZeMOSxVjH1jmT
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: tharoofbideth
 img: images/fffv1/token/FFF_416-1_Serf_Half_Villein.png
 portrait: images/fffv1/FFF_416-1_Serf_Half_Villein.jpg

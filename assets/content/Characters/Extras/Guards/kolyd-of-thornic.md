@@ -7,7 +7,7 @@ name:
   clan: Thornic
   aliases: []
 id: 1O43ggAOW981ZZQO
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: kolydofthornic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

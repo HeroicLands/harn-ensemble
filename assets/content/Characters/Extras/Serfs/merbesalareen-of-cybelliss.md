@@ -7,7 +7,7 @@ name:
   clan: Cybelliss
   aliases: []
 id: xbtdpJODXafTeE4j
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: merbesalareenofcybelliss
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

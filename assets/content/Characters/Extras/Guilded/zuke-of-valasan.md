@@ -7,7 +7,7 @@ name:
   clan: Valasan
   aliases: []
 id: 0ngS2ZEU3w7AnRsn
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: zukeofvalasan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

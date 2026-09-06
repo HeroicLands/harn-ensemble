@@ -7,7 +7,7 @@ name:
   clan: Madib
   aliases: []
 id: VFjtgIhiS8GnNaFJ
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: kesyneofmadib
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

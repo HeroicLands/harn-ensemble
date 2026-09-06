@@ -7,7 +7,7 @@ name:
   clan: Trochi
   aliases: []
 id: qpgHHKybL0bqOAxk
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tolmeyoftrochi
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Murthele
   aliases: []
 id: IegpiR0E8ApJw3od
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yelineofmurthele
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

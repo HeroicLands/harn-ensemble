@@ -7,7 +7,7 @@ name:
   clan: Elen
   aliases: []
 id: mUbccL4t5Dv0XDRw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ginelleofelen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

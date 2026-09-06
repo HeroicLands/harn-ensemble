@@ -7,7 +7,7 @@ name:
   clan: Merin
   aliases: []
 id: jqxwcglOWSbmKmea
-folder: 04kLAsFXMI0eqqgT
+packFolder: mages
 shortcode: elrosofmerin
 img: images/fffv1/token/FFF_705-1_Shek_Pvar_Odivshe.png
 portrait: images/fffv1/FFF_705-1_Shek_Pvar_Odivshe.jpg

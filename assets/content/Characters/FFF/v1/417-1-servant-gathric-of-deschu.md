@@ -7,7 +7,7 @@ name:
   clan: Deschu
   aliases: []
 id: p0Fuj2jIfStY3daR
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: gathricofdeschu
 img: images/fffv1/token/FFF_417-1_Servant.png
 portrait: images/fffv1/FFF_417-1_Servant.jpg

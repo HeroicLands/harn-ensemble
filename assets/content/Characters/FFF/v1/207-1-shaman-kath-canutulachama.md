@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: jAo8s9jZuqDYS5uE
-folder: 7Xwu1hTIGLl30Unj
+packFolder: barbarians
 shortcode: canutulachama
 img: images/fffv1/token/FFF_207-1_Shaman_Kath.png
 portrait: images/fffv1/FFF_207-1_Shaman_Kath.jpg

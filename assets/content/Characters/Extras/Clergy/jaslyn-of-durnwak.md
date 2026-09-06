@@ -7,7 +7,7 @@ name:
   clan: Durnwak
   aliases: []
 id: mSIvZoi6epchtNf0
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: jaslynofdurnwak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Armelvoen
   aliases: []
 id: R6g9IOdcJhDeqoU6
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: aeraofarmelvoen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

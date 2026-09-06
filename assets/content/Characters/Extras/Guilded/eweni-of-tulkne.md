@@ -7,7 +7,7 @@ name:
   clan: Tulkne
   aliases: []
 id: ovGjrmsPKDBFIH3s
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ewenioftulkne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

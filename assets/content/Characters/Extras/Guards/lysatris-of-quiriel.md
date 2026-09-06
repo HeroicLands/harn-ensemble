@@ -7,7 +7,7 @@ name:
   clan: Quiriel
   aliases: []
 id: OzPhqEQ4e8u0fk8n
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: lysatrisofquiriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

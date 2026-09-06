@@ -7,7 +7,7 @@ name:
   clan: Wytelesh
   aliases: []
 id: yfJLsbJ0NbMYGQDV
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: denofwytelesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Opondel
   aliases: []
 id: 6HgzAcnZENngUJpt
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: aerallaxofopondel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

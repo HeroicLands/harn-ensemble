@@ -7,7 +7,7 @@ name:
   clan: Sideth
   aliases: []
 id: 75cCiClOM8WKxeBm
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: sareyofsideth
 img: images/fffv1/token/FFF_309-1_Glassworker.png
 portrait: images/fffv1/FFF_309-1_Glassworker.jpg

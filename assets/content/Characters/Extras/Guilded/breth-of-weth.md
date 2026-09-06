@@ -7,7 +7,7 @@ name:
   clan: Weth
   aliases: []
 id: YlbeFSrbemgKv84p
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: brethofweth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

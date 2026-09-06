@@ -7,7 +7,7 @@ name:
   clan: Asan
   aliases: []
 id: yrZUSqIm5pLmNgJ0
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sarynofasan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

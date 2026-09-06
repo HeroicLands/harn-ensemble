@@ -7,7 +7,7 @@ name:
   clan: Sarnesku
   aliases: []
 id: 7b10qiTtD7x7vZ5O
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: chanisaofsarnesku
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

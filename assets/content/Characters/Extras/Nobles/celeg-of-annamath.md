@@ -7,7 +7,7 @@ name:
   clan: Annamath
   aliases: []
 id: fEBVMmAVJES3NhUX
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: celegofannamath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

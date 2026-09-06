@@ -7,7 +7,7 @@ name:
   clan: Haclean
   aliases: []
 id: yAY51RxHzCGRGGUa
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: maelofhaclean
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

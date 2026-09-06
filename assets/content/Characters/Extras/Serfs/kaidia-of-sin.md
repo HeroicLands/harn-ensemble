@@ -7,7 +7,7 @@ name:
   clan: Sin
   aliases: []
 id: DF9KXnKU4aE44COp
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: kaidiaofsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

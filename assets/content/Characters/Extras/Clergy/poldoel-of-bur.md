@@ -7,7 +7,7 @@ name:
   clan: Bur
   aliases: []
 id: QpirEHWB4ozQ2Blj
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: poldoelofbur
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

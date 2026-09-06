@@ -7,7 +7,7 @@ name:
   clan: Lorin
   aliases: []
 id: MgctVN3M9WIpmzrZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: obiriaoflorin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Mar
   aliases: []
 id: tzFsnd9nwV0qNIzG
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: jarnofmar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

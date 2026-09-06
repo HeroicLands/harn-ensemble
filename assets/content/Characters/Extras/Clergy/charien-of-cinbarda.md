@@ -7,7 +7,7 @@ name:
   clan: Cinbarda
   aliases: []
 id: HYXFX13nTAJcpSU6
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: charienofcinbarda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

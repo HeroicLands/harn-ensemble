@@ -7,7 +7,7 @@ name:
   clan: Then
   aliases: []
 id: BZSAJpUdCyDvlgiD
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteranrolanazirofthen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

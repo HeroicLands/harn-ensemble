@@ -7,7 +7,7 @@ name:
   clan: Kesten
   aliases: []
 id: vLZajD1ySS1AoUHR
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: worinofkesten
 img: images/fffv1/token/FFF_417-3_Servant.png
 portrait: images/fffv1/FFF_417-3_Servant.jpg

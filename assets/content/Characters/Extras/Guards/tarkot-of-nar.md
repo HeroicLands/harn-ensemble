@@ -7,7 +7,7 @@ name:
   clan: Nar
   aliases: []
 id: 8YKhPXL7wTJmjzB2
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: tarkotofnar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

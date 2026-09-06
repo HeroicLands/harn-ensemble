@@ -7,7 +7,7 @@ name:
   clan: Cotrael
   aliases: []
 id: CKvwdB1vq5rOrGta
-folder: wImf2q5VxvhF7Ed4
+packFolder: clergy
 shortcode: rayaldcotrael
 img: images/fffv1/token/FFF_604-1_Priest_Larani.png
 portrait: images/fffv1/FFF_604-1_Priest_Larani.jpg

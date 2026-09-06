@@ -7,7 +7,7 @@ name:
   clan: Yisgaradas
   aliases: []
 id: 6LOT55Hwg8nHzL1Q
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: albalnyofyisgaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Speh
   aliases: []
 id: nxSFrUyBX8xu7U3X
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: carexofspeh
 img: images/fffv1/token/FFF_332-2_Burglar.png
 portrait: images/fffv1/FFF_332-2_Burglar.jpg

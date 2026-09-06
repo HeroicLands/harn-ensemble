@@ -7,7 +7,7 @@ name:
   clan: Lebare
   aliases: []
 id: V3irfcUPu9tbSH3H
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: artonoflebare
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

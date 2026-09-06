@@ -7,7 +7,7 @@ name:
   clan: Yisgaraneriel
   aliases: []
 id: pDZL3zLkd6gc8zBy
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: weredaofyisgaraneriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

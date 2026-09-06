@@ -7,7 +7,7 @@ name:
   clan: Ibine
   aliases: []
 id: CRD95sSfo34sMD8P
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: perlineofibine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

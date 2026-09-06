@@ -7,7 +7,7 @@ name:
   clan: Partus
   aliases: []
 id: 4KYHomSwAB1UNHAr
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: burkaelofpartus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

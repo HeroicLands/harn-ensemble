@@ -7,7 +7,7 @@ name:
   clan: Sethen
   aliases: []
 id: Q0RPb6SlAX5sD5JB
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: raenaofsethen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

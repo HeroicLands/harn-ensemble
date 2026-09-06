@@ -7,7 +7,7 @@ name:
   clan: Ral
   aliases: []
 id: z1gR19SzKkp8emVX
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: captainneridofral
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

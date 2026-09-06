@@ -7,7 +7,7 @@ name:
   clan: Tobrid
   aliases: []
 id: 7BtEx6jw8I6b9617
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jehanoftobrid
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

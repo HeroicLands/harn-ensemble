@@ -7,7 +7,7 @@ name:
   clan: Homslow
   aliases: []
 id: m98jbQvdLVom37qO
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kalwisofhomslow
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

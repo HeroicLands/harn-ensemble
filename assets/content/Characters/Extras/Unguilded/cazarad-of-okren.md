@@ -7,7 +7,7 @@ name:
   clan: Okren
   aliases: []
 id: 9jQSmMWruJdGG9xR
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: cazaradofokren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Erlyme
   aliases: []
 id: FOWvUUwtrX7kqbcP
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: jakanoferlyme
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

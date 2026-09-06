@@ -7,7 +7,7 @@ name:
   clan: Fengeldan
   aliases: []
 id: RKqZc9uuT96CCV4t
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: helaoffengeldan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

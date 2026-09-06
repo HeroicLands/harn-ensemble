@@ -7,7 +7,7 @@ name:
   clan: Guindan
   aliases: []
 id: h4xTwmKDxMA1latK
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: zabithofguindan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

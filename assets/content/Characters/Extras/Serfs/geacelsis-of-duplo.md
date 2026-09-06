@@ -7,7 +7,7 @@ name:
   clan: Duplo
   aliases: []
 id: 9kn0HDiIv5iOG5fq
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: geacelsisofduplo
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: VMA4xMJkwXQPk7DM
-folder: gO37pwFIr5B44hdV
+packFolder: nonhumans
 shortcode: gana
 img: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess-headshot.webp
 portrait: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess.webp

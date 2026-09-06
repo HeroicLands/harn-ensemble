@@ -7,7 +7,7 @@ name:
   clan: Jere
   aliases: []
 id: ZpIexom3uc9SJEIF
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: rokkiofjere
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

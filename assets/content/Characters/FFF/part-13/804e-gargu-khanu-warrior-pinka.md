@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: hFoale7BdhL9OV3F
-folder: gO37pwFIr5B44hdV
+packFolder: nonhumans
 shortcode: pinka
 img: images/fff-13/FFF_804e_Gargu-Khanu_Warrior-headshot.webp
 portrait: images/fff-13/FFF_804e_Gargu-Khanu_Warrior.webp

@@ -7,7 +7,7 @@ name:
   clan: Bellyr
   aliases: []
 id: ZaZSRYYBc7o05yq1
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: urbainofbellyr
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

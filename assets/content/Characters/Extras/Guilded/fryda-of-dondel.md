@@ -7,7 +7,7 @@ name:
   clan: Dondel
   aliases: []
 id: N9HJy46GBMTYSwNw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: frydaofdondel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

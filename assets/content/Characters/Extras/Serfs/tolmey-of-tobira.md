@@ -7,7 +7,7 @@ name:
   clan: Tobira
   aliases: []
 id: kA6VBcGqUNkfHzgd
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: tolmeyoftobira
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

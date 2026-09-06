@@ -7,7 +7,7 @@ name:
   clan: Waylin
   aliases: []
 id: D6zKkp3dJtcuuVf0
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ithofwaylin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

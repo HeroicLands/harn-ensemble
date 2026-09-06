@@ -7,7 +7,7 @@ name:
   clan: Plaemen
   aliases: []
 id: zCTNFdes4gEJRtn5
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: satrisofplaemen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

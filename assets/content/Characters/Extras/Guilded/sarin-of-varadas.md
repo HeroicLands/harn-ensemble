@@ -7,7 +7,7 @@ name:
   clan: Varadas
   aliases: []
 id: iLS0MQAlsVKGshyg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sarinofvaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

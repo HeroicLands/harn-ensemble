@@ -7,7 +7,7 @@ name:
   clan: Obel
   aliases: []
 id: 61zqzkx06TlBaTbV
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: durkaofobel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

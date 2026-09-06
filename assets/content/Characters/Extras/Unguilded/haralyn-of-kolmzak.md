@@ -7,7 +7,7 @@ name:
   clan: Kolmzak
   aliases: []
 id: ij40UBRiUQisZQXy
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: haralynofkolmzak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

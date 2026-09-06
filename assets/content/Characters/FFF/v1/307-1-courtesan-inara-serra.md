@@ -7,7 +7,7 @@ name:
   clan: Serra
   aliases: []
 id: HWc0GmXxH3cKR2B4
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: inaraserra
 img: images/fffv1/token/FFF_307-1_Courtesan.png
 portrait: images/fffv1/FFF_307-1_Courtesan.jpg

@@ -7,7 +7,7 @@ name:
   clan: Banth
   aliases: []
 id: JOWx5qi7ciPbbxfE
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: merenaofbanth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

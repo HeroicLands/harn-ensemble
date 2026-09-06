@@ -7,7 +7,7 @@ name:
   clan: Glarzul
   aliases: []
 id: W22UXBOpDZqnS5oe
-folder: KtIatREwSUSBQ1vy
+packFolder: military
 shortcode: zirshathglarzul
 img: images/fffv1/token/FFF_108-1_Siege_Engineer.png
 portrait: images/fffv1/FFF_108-1_Siege_Engineer.jpg

@@ -7,7 +7,7 @@ name:
   clan: Arthalesh
   aliases: []
 id: vvIY5CPe7oPoGezx
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: rackneofarthalesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

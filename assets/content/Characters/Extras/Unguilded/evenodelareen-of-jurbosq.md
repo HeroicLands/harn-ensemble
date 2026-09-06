@@ -7,7 +7,7 @@ name:
   clan: Jurbosq
   aliases: []
 id: dKNMSQEoK8llpqyV
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: evenodelareenofjurbosq
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Dybardras
   aliases: []
 id: CE4eSJDwQrKMcazP
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kaidiaofdybardras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

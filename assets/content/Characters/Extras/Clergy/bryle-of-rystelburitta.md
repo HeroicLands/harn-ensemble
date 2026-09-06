@@ -7,7 +7,7 @@ name:
   clan: Rystelburitta
   aliases: []
 id: BYWAyPUrLarQlBDG
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: bryleofrystelburitta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

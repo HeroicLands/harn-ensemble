@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: B3o2Cu05ziblcSXY
-folder: 7Xwu1hTIGLl30Unj
+packFolder: barbarians
 shortcode: brun
 img: images/fffv1/token/FFF_201-1_Chieftain_Drughu.png
 portrait: images/fffv1/FFF_201-1_Chieftain_Drughu.jpg

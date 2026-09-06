@@ -7,7 +7,7 @@ name:
   clan: Hudusinda
   aliases: []
 id: oFSLtxlijpRafg7G
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: zukeofhudusinda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Sar
   aliases: []
 id: r22uqcD8TWBPCVwj
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: marlyseofsar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Selphus
   aliases: []
 id: Q6uN822qUUAzNP2F
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: lernofselphus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

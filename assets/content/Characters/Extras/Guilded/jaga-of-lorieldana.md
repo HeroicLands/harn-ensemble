@@ -7,7 +7,7 @@ name:
   clan: Lorieldana
   aliases: []
 id: UuxZ1w0lG3VAlA8D
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jagaoflorieldana
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

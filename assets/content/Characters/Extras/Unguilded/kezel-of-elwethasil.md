@@ -7,7 +7,7 @@ name:
   clan: Elwethasil
   aliases: []
 id: sZwqC7rv13cpno6k
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kezelofelwethasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

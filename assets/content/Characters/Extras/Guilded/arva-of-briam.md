@@ -7,7 +7,7 @@ name:
   clan: Briam
   aliases: []
 id: qOGBR8EJHJPI1W2k
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arvaofbriam
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

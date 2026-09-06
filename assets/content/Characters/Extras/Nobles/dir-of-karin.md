@@ -7,7 +7,7 @@ name:
   clan: Karin
   aliases: []
 id: 4vP7txbgYLngpNn8
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: dirofkarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

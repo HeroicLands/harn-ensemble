@@ -7,7 +7,7 @@ name:
   clan: Merleshref
   aliases: []
 id: 29InOJBIv1yoFphi
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: merelynofmerleshref
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

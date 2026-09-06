@@ -7,7 +7,7 @@ name:
   clan: Merlym
   aliases: []
 id: fXnTEqUmzl5b5QCv
-folder: iDDaFg6xn9T7tb0L
+packFolder: serfsthraalsandslaves
 shortcode: lamnarofmerlym
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

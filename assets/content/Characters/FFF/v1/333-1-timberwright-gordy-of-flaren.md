@@ -7,7 +7,7 @@ name:
   clan: Flaren
   aliases: []
 id: rbMRdFECTlSZuiP7
-folder: dbDLVOgUtgVgjgnJ
+packFolder: guilded
 shortcode: gordyofflaren
 img: images/fffv1/token/FFF_333-1_Timberwright.png
 portrait: images/fffv1/FFF_333-1_Timberwright.jpg

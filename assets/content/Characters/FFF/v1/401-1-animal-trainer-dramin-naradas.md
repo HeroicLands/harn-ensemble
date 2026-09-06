@@ -7,7 +7,7 @@ name:
   clan: Naradas
   aliases: []
 id: h6AmrO8QAYJ1tYnX
-folder: i4hECpF8Vz6XJURd
+packFolder: unguilded
 shortcode: draminnaradas
 img: images/fffv1/token/FFF_401-1_Animal_Trainer.png
 portrait: images/fffv1/FFF_401-1_Animal_Trainer.jpg

@@ -7,7 +7,7 @@ name:
   clan: Yaleh
   aliases: []
 id: rw0NWTTW8DhFgjRt
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: feldarofyaleh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

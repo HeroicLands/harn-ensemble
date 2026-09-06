@@ -7,7 +7,7 @@ name:
   clan: Stiem
   aliases: []
 id: 2K8IBqhJBxJgtTVQ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: angolofstiem
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

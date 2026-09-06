@@ -7,7 +7,7 @@ name:
   clan: Rabetts
   aliases: []
 id: WQdS1gjXxrc789hp
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merelynofrabetts
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

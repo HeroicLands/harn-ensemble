@@ -7,7 +7,7 @@ name:
   clan: Chus
   aliases: []
 id: QNCf7bWsBMzPWfs2
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: marofchus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Aradas
   aliases: []
 id: JjyUKsBGKWpHdkTw
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: rybinofaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Armel
   aliases: []
 id: SKNrGLlX1waDBQQk
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: veteransemisofarmel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

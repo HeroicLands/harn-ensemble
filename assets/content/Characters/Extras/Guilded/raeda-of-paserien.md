@@ -7,7 +7,7 @@ name:
   clan: Paserien
   aliases: []
 id: cBsjJwJ8oSegsTOL
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: raedaofpaserien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

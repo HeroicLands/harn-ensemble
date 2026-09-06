@@ -7,7 +7,7 @@ name:
   clan: Ael
   aliases: []
 id: gWh0GEKOcSdjLycg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: charalynofael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

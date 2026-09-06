@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: XqN3urYzkpHLsZb5
-folder: gO37pwFIr5B44hdV
+packFolder: nonhumans
 shortcode: umaka
 img: images/fff-13/FFF_802b_Gargu-Hyeka_Queen-headshot.webp
 portrait: images/fff-13/FFF_802b_Gargu-Hyeka_Queen.webp

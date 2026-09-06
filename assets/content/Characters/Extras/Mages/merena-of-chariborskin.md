@@ -7,7 +7,7 @@ name:
   clan: Chariborskin
   aliases: []
 id: XqgF3AotN0iIDXO8
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: merenaofchariborskin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

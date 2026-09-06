@@ -7,7 +7,7 @@ name:
   clan: Pord
   aliases: []
 id: HMaNxXjtrMb3FRXm
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: eradofpord
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

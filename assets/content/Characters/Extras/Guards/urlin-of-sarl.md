@@ -7,7 +7,7 @@ name:
   clan: Sarl
   aliases: []
 id: j2fIxqZKzU7vQaYN
-folder: ZMLVnTuUb85MUQMD
+packFolder: guards
 shortcode: urlinofsarl
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

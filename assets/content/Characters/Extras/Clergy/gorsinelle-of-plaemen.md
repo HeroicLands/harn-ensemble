@@ -7,7 +7,7 @@ name:
   clan: Plaemen
   aliases: []
 id: fMLyHiCHKTXZYOhX
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gorsinelleofplaemen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

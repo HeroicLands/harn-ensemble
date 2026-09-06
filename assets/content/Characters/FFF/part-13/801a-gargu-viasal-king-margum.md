@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: 4l4ShRsH8Yvl62l0
-folder: gO37pwFIr5B44hdV
+packFolder: nonhumans
 shortcode: margum
 img: images/fff-13/FFF_801a_Gargu-Viasal_King-headshot.webp
 portrait: images/fff-13/FFF_801a_Gargu-Viasal_King.webp

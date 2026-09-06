@@ -7,7 +7,7 @@ name:
   clan: Anerien
   aliases: []
 id: EG8mEK0hMePafRw4
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: telsaofanerien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
