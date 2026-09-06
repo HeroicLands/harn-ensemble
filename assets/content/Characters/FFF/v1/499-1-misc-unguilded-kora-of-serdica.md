@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - "custom|Old Jarin"
-traits:
-  species: human
+data:
   gender: female
+  species: human
   age: 59
   birthday: 660/11/24
-  height:
-    m: 1.55
-  weight:
-    kg: 49.9
-  build:
-    frame: medium
+  height: 1.55
+  weight: 49.9
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: grey

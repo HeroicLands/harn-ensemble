@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - siem
-traits:
-  species: sindarin
+data:
   gender: male
+  species: sindarin
   age: 2430
   birthday: 1711/7/21
-  height:
-    m: 1.65
-  weight:
-    kg: 61.23
-  build:
-    frame: light
+  height: 1.65
+  weight: 61.23
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: blonde

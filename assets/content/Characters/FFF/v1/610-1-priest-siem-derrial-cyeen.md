@@ -22,24 +22,21 @@ harnworld:
   realm: ""
   ritual:
     - siem
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 60
   birthday: 659/5/27
-  height:
-    m: 1.83
-  weight:
-    kg: 77.11
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77.11
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: grey
     skin_color: dark
     complexion: average
     extra_features:
-      - "Moustache & short goatee"
+      - Moustache & short goatee
 hm3:
   species: human
   sunsign: angberelius

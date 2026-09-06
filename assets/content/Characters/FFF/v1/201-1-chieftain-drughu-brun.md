@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - yavanna
-traits:
-  species: human (drughu)
+data:
   gender: male
+  species: human (drughu)
   age: 28
   birthday: 691/8/14
-  height:
-    m: 1.68
-  weight:
-    kg: 78.93
-  build:
-    frame: massive
+  height: 1.68
+  weight: 78.93
+  frame: massive
   appearance:
     eye_color: black
     hair_color: black

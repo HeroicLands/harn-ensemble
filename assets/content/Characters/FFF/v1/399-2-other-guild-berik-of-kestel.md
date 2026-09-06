@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - larani
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 8
   birthday: 712/7/23
-  height:
-    m: 1.27
-  weight:
-    kg: 24.95
-  build:
-    frame: scant
+  height: 1.27
+  weight: 24.95
+  frame: scant
   appearance:
     eye_color: blue
     hair_color: brown

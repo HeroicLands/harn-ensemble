@@ -22,15 +22,12 @@ harnworld:
   realm: ""
   ritual:
     - urklam
-traits:
-  species: ogre
+data:
   gender: male
-  height:
-    m: 2.79
-  weight:
-    kg: 226.8
-  build:
-    frame: massive
+  species: ogre
+  height: 2.79
+  weight: 226.8
+  frame: massive
   appearance:
     eye_color: pale grey
     hair_color: black

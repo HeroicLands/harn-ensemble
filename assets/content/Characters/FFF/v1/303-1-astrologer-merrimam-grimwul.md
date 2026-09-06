@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - saveknor
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 43
   birthday: 676/8/16
-  height:
-    m: 1.83
-  weight:
-    kg: 77.11
-  build:
-    frame: medium
+  height: 1.83
+  weight: 77.11
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: black and grey

@@ -25,17 +25,14 @@ harnworld:
     - agrik
     - morgath
     - naveh
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 36
   birthday: 683/9/22
-  height:
-    m: 1.8
-  weight:
-    kg: 82.55
-  build:
-    frame: heavy
+  height: 1.8
+  weight: 82.55
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: black

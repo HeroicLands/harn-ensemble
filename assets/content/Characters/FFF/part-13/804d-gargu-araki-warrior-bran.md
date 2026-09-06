@@ -21,17 +21,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: gargu-araki
+data:
   gender: male
+  species: gargu-araki
   age: 12
   birthday: 707/5/16
-  height:
-    m: 0.97
-  weight:
-    kg: 32.66
-  build:
-    frame: medium
+  height: 0.97
+  weight: 32.66
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: yellowish brown

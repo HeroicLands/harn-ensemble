@@ -22,24 +22,21 @@ harnworld:
   realm: ""
   ritual:
     - siem
-traits:
-  species: khuzdul
+data:
   gender: male
+  species: khuzdul
   age: 100
   birthday: 619/3/11
-  height:
-    m: 1.45
-  weight:
-    kg: 62.6
-  build:
-    frame: massive
+  height: 1.45
+  weight: 62.6
+  frame: massive
   appearance:
     eye_color: green
     hair_color: red (mostly bald)
     skin_color: fair
     complexion: average
     extra_features:
-      - "Moustache & beard"
+      - Moustache & beard
 hm3:
   species: khuzdul
   sunsign: feniri

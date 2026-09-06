@@ -20,17 +20,14 @@ harnworld:
   realm: ""
   ritual:
     - ilvir
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 36
   birthday: 684/9/21
-  height:
-    m: 1.75
-  weight:
-    kg: 136.08
-  build:
-    frame: medium
+  height: 1.75
+  weight: 136.08
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: brown

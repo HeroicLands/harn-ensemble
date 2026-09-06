@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - saveknor
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 62
   birthday: 658/1/30
-  height:
-    m: 1.83
-  weight:
-    kg: 84.82
-  build:
-    frame: heavy
+  height: 1.83
+  weight: 84.82
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: grey (balding)
@@ -43,7 +40,7 @@ traits:
       - raving
       - mood swings
       - tremors
-      - "Moustache & beard"
+      - Moustache & beard
 hm3:
   species: human
   sunsign: ulandus

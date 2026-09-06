@@ -22,16 +22,13 @@ harnworld:
   realm: ""
   ritual:
     - christian
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 33
-  height:
-    m: 1.85
-  weight:
-    kg: 87.09
-  build:
-    frame: heavy
+  height: 1.85
+  weight: 87.09
+  frame: heavy
   appearance:
     eye_color: green
     hair_color: brown

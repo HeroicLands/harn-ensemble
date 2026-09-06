@@ -20,17 +20,14 @@ harnworld:
   realm: ""
   ritual:
     - peoni
-traits:
-  species: human
+data:
   gender: female
+  species: human
   age: 28
   birthday: 692/5/16
-  height:
-    m: 1.7
-  weight:
-    kg: 98.43
-  build:
-    frame: light
+  height: 1.7
+  weight: 98.43
+  frame: light
   appearance:
     eye_color: brown
     hair_color: auburn

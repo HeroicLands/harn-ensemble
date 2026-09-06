@@ -20,17 +20,14 @@ harnworld:
   realm: ""
   ritual:
     - naveh
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 24
   birthday: 696/12/11
-  height:
-    m: 1.73
-  weight:
-    kg: 83.01
-  build:
-    frame: massive
+  height: 1.73
+  weight: 83.01
+  frame: massive
   appearance:
     eye_color: blue
     hair_color: blonde

@@ -23,17 +23,14 @@ harnworld:
   ritual:
     - agrik
     - larani
-traits:
-  species: gargu-hyeka
+data:
   gender: male
+  species: gargu-hyeka
   age: 15
   birthday: 704/6/10
-  height:
-    m: 1.22
-  weight:
-    kg: 45.36
-  build:
-    frame: heavy
+  height: 1.22
+  weight: 45.36
+  frame: heavy
   appearance:
     eye_color: black
     hair_color: brown-black

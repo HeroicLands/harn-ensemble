@@ -19,17 +19,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: sindarin
+data:
   gender: male
+  species: sindarin
   age: 213
   birthday: 507/9/24
-  height:
-    m: 1.73
-  weight:
-    kg: 107.5
-  build:
-    frame: medium
+  height: 1.73
+  weight: 107.5
+  frame: medium
   appearance:
     eye_color: amber
     hair_color: blonde

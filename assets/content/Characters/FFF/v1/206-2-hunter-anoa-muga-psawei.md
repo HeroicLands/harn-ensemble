@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - korr
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 34
   birthday: 685/6/9
-  height:
-    m: 2.18
-  weight:
-    kg: 130.63
-  build:
-    frame: massive
+  height: 2.18
+  weight: 130.63
+  frame: massive
   appearance:
     eye_color: green
     hair_color: black

@@ -23,16 +23,13 @@ harnworld:
   ritual:
     - peoni
     - larani
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 37
-  height:
-    m: 1.73
-  weight:
-    kg: 63.5
-  build:
-    frame: medium
+  height: 1.73
+  weight: 63.5
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: blonde

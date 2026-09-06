@@ -23,17 +23,14 @@ harnworld:
   ritual:
     - peoni
     - sarajin
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 21
   birthday: 698/7/20
-  height:
-    m: 1.75
-  weight:
-    kg: 71.21
-  build:
-    frame: medium
+  height: 1.75
+  weight: 71.21
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: blonde
