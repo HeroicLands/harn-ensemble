@@ -21,17 +21,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: araki
+data:
   gender: female
+  species: araki
   age: 14
   birthday: 705/2/7
-  height:
-    m: 0.91
-  weight:
-    kg: 49.9
-  build:
-    frame: massive
+  height: 0.91
+  weight: 49.9
+  frame: massive
   appearance:
     eye_color: tawny
     hair_color: tawny

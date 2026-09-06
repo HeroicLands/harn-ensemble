@@ -19,17 +19,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: khuzdul
+data:
   gender: male
+  species: khuzdul
   age: 132
   birthday: 588/3/13
-  height:
-    m: 1.5
-  weight:
-    kg: 113.85
-  build:
-    frame: massive
+  height: 1.5
+  weight: 113.85
+  frame: massive
   appearance:
     eye_color: blue
     hair_color: black

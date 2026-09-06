@@ -21,17 +21,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: gargu-viasal
+data:
   gender: male
+  species: gargu-viasal
   age: 15
   birthday: 704/9/20
-  height:
-    m: 1.27
-  weight:
-    kg: 47.63
-  build:
-    frame: heavy
+  height: 1.27
+  weight: 47.63
+  frame: heavy
   appearance:
     eye_color: auburn
     hair_color: dark red

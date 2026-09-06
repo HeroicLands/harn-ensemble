@@ -20,17 +20,14 @@ harnworld:
   realm: ""
   ritual:
     - siem
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 32
   birthday: 688/12/27
-  height:
-    m: 1.73
-  weight:
-    kg: 147.42
-  build:
-    frame: heavy
+  height: 1.73
+  weight: 147.42
+  frame: heavy
   appearance:
     eye_color: grey
     hair_color: blonde

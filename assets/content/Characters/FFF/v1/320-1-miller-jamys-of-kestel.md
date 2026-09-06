@@ -22,24 +22,21 @@ harnworld:
   realm: ""
   ritual:
     - larani
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 34
   birthday: 685/6/12
-  height:
-    m: 1.7
-  weight:
-    kg: 77.11
-  build:
-    frame: heavy
+  height: 1.7
+  weight: 77.11
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: brown (greying)
     skin_color: fair
     complexion: average
     extra_features:
-      - "Moustache & beard"
+      - Moustache & beard
 hm3:
   species: human
   sunsign: nadai

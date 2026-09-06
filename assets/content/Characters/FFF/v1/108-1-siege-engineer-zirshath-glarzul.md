@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - siem
-traits:
-  species: khuzdul
+data:
   gender: male
+  species: khuzdul
   age: 89
   birthday: 630/7/2
-  height:
-    m: 1.35
-  weight:
-    kg: 54.43
-  build:
-    frame: heavy
+  height: 1.35
+  weight: 54.43
+  frame: heavy
   appearance:
     eye_color: hazel
     hair_color: grey

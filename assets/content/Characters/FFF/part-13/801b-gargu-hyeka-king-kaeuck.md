@@ -21,17 +21,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: hyeka
+data:
   gender: male
+  species: hyeka
   age: 11
   birthday: 708/5/25
-  height:
-    m: 1.27
-  weight:
-    kg: 43.09
-  build:
-    frame: medium
+  height: 1.27
+  weight: 43.09
+  frame: medium
   appearance:
     eye_color: brown
     hair_color: dark brown

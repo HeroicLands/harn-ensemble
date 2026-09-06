@@ -21,17 +21,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: khanu
+data:
   gender: male
+  species: khanu
   age: 10
   birthday: 709/1/8
-  height:
-    m: 1.68
-  weight:
-    kg: 78.93
-  build:
-    frame: massive
+  height: 1.68
+  weight: 78.93
+  frame: massive
   appearance:
     eye_color: black
     hair_color: black

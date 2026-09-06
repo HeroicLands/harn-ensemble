@@ -20,17 +20,14 @@ harnworld:
   realm: ""
   ritual:
     - morgath
-traits:
-  species: human
+data:
   gender: female
+  species: human
   age: 26
   birthday: 694/9/27
-  height:
-    m: 1.73
-  weight:
-    kg: 55.34
-  build:
-    frame: scant
+  height: 1.73
+  weight: 55.34
+  frame: scant
   appearance:
     eye_color: violet
     hair_color: strawberry blond

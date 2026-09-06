@@ -19,17 +19,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 29
   birthday: 691/2/4
-  height:
-    m: 1.85
-  weight:
-    kg: 71.21
-  build:
-    frame: light
+  height: 1.85
+  weight: 71.21
+  frame: light
   appearance:
     eye_color: blue
     hair_color: blonde

@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - halea
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 41
   birthday: 678/2/22
-  height:
-    m: 1.57
-  weight:
-    kg: 94.35
-  build:
-    frame: medium
+  height: 1.57
+  weight: 94.35
+  frame: medium
   appearance:
     eye_color: violet
     hair_color: black

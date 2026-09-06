@@ -20,17 +20,14 @@ harnworld:
   realm: ""
   ritual:
     - agrik
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 41
   birthday: 679/8/3
-  height:
-    m: 1.75
-  weight:
-    kg: 78.02
-  build:
-    frame: heavy
+  height: 1.75
+  weight: 78.02
+  frame: heavy
   appearance:
     eye_color: blue
     hair_color: black

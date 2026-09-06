@@ -22,17 +22,14 @@ harnworld:
   realm: ""
   ritual:
     - sarajin
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 31
   birthday: 688/8/24
-  height:
-    m: 1.78
-  weight:
-    kg: 68.04
-  build:
-    frame: light
+  height: 1.78
+  weight: 68.04
+  frame: light
   appearance:
     eye_color: blue
     hair_color: tawny

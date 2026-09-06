@@ -23,17 +23,14 @@ harnworld:
   ritual:
     - peoni
     - eder
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 37
   birthday: 682/4/7
-  height:
-    m: 1.68
-  weight:
-    kg: 65.77
-  build:
-    frame: medium
+  height: 1.68
+  weight: 65.77
+  frame: medium
   appearance:
     eye_color: green
     hair_color: brown, thinning

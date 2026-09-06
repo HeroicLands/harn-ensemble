@@ -21,17 +21,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: viasal
+data:
   gender: male
+  species: viasal
   age: 12
   birthday: 707/8/5
-  height:
-    m: 1.12
-  weight:
-    kg: 40.82
-  build:
-    frame: heavy
+  height: 1.12
+  weight: 40.82
+  frame: heavy
   appearance:
     eye_color: red
     hair_color: dark red

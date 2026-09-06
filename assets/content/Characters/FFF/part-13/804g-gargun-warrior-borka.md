@@ -21,15 +21,12 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: gargu (aberrant)
+data:
   gender: male
-  height:
-    m: 3.02
-  weight:
-    kg: 185.97
-  build:
-    frame: huge
+  species: gargu (aberrant)
+  height: 3.02
+  weight: 185.97
+  frame: huge
   appearance:
     eye_color: black
     hair_color: black

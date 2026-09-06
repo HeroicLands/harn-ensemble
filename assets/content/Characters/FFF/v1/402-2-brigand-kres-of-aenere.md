@@ -23,17 +23,14 @@ harnworld:
   ritual:
     - peoni
     - agrik
-traits:
-  species: human
+data:
   gender: male
+  species: human
   age: 29
   birthday: 690/6/17
-  height:
-    m: 1.8
-  weight:
-    kg: 74.84
-  build:
-    frame: medium
+  height: 1.8
+  weight: 74.84
+  frame: medium
   appearance:
     eye_color: blue
     hair_color: brown

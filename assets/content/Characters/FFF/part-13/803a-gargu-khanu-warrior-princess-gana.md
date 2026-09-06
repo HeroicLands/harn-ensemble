@@ -21,17 +21,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: gargu-khanu
+data:
   gender: female
+  species: gargu-khanu
   age: 12
   birthday: 707/4/16
-  height:
-    m: 1.32
-  weight:
-    kg: 61.23
-  build:
-    frame: heavy
+  height: 1.32
+  weight: 61.23
+  frame: heavy
   appearance:
     eye_color: black
     hair_color: black

@@ -23,17 +23,14 @@ harnworld:
   ritual:
     - halea
     - agrik
-traits:
-  species: human
+data:
   gender: female
+  species: human
   age: 17
   birthday: 702/9/27
-  height:
-    m: 1.73
-  weight:
-    kg: 62.6
-  build:
-    frame: light
+  height: 1.73
+  weight: 62.6
+  frame: light
   appearance:
     eye_color: hazel
     hair_color: brown

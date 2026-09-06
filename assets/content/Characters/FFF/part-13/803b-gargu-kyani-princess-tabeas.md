@@ -21,17 +21,14 @@ social:
 harnworld:
   realm: ""
   ritual: []
-traits:
-  species: kyani
+data:
   gender: female
+  species: kyani
   age: 10
   birthday: 709/4/21
-  height:
-    m: 1.02
-  weight:
-    kg: 34.02
-  build:
-    frame: medium
+  height: 1.02
+  weight: 34.02
+  frame: medium
   appearance:
     eye_color: light grey
     hair_color: tawny brown

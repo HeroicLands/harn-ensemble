@@ -23,17 +23,14 @@ harnworld:
   ritual:
     - naveh
     - peoni
-traits:
-  species: human
+data:
   gender: female
+  species: human
   age: 27
   birthday: 692/8/17
-  height:
-    m: 1.55
-  weight:
-    kg: 57.61
-  build:
-    frame: medium
+  height: 1.55
+  weight: 57.61
+  frame: medium
   appearance:
     eye_color: hazel
     hair_color: brown
