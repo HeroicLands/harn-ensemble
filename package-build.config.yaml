@@ -37,25 +37,47 @@ packs:
 # https://www.heroiclands.org/<contentPackage>/ — here /harnensemble/, an address
 # that derives from `contentPackage` above and not from the repository name — and
 # the mode says how much *else* is published. `homepage` publishes that one page
-# and nothing beneath it; `content` would publish every page the content tree
-# compiles to. Nothing in this tree is meant for the web: the module is what
-# ships, and a page announcing it discloses none of the material.
+# and nothing beneath it; `content` publishes every page the content tree
+# compiles to.
 #
-# `manifests` stays off in both directions for a separate reason. A link manifest
-# is the dependency edge — emitting one would let other packages cite these
-# addresses and make the module something the project has to keep. A homepage is
-# one row in a routing table and creates no such edge.
+# `content`, because this tree is worth reading outside Foundry. A note here is
+# an NPC and its properties — a name, an occupation, the numbers a GM reads off
+# at the table — and a roster of two and a half thousand of those is a reference:
+# as useful on the web, and as the release PDF (#53), as it is in a compendium.
+# The mode is also the switch the PDF is fenced behind
+# (HeroicLands/package-build#316), so publishing the pages and publishing the
+# document is one decision rather than two that could come to disagree.
+#
+# `manifests` stays off in both directions, and is a separate question. A link
+# manifest is the dependency edge — emitting one would let other packages cite
+# these addresses and make the module something the project has to keep.
+# Publishing pages creates no such edge: a reader follows a URL, a build does
+# not.
 publish:
-    site: homepage
+    site: content
     manifests: { publish: false, consume: false }
 
-# Where the site build writes. Required in *both* modes and deliberately not
-# defaulted: the output root is wiped on every run, and an unset value would
-# resolve to the repository root. In `homepage` mode this directory is the whole
-# of the output — the homepage is written to its root, one level above the
-# content mount that only `content` mode has.
+# Where the site build writes, and how this repository frames what it publishes.
+# `out` is required in *both* modes and deliberately not defaulted: the output
+# root is wiped on every run, and an unset value would resolve to the repository
+# root. `publish.address` is absent, so the prefix is its default `""` — this
+# package's content *is* its site, so the tree mounts at the package root and a
+# page publishes at /harnensemble/<type>-<shortcode>/.
 site:
     out: site/content
+    # Every section this package publishes, so /harnensemble/<section>/ answers
+    # with a titled page rather than a directory listing. A section is a note's
+    # own `type` (`sectionOf`), not a directory name, and a page is written into
+    # that section's directory — so a declared section's landing lists its own
+    # pages and needs nothing else said about it. A section left undeclared here
+    # still gets a bare landing, but with no title.
+    #
+    # Two sections, because the tree publishes two types: 2,512 `being` notes and
+    # 5 `affiliation`. The 17 `folder` notes are structure for the compendium,
+    # not pages, and address nothing on the web.
+    sections:
+        affiliation: { title: Affiliations }
+        being: { title: Characters }
 
 packageBuild:
     assets:
