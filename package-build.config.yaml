@@ -47,7 +47,6 @@ packs:
 # one row in a routing table and creates no such edge.
 publish:
     site: homepage
-    manifests: { publish: false, consume: false }
 
 # Where the site build writes. Required in *both* modes and deliberately not
 # defaulted: the output root is wiped on every run, and an unset value would
