@@ -7,7 +7,7 @@ name:
   clan: Chalmin
   aliases: []
 id: FCmnqr5PeUQDTjEt
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: sarofchalmin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

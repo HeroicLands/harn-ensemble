@@ -7,7 +7,7 @@ name:
   clan: Tabraleh
   aliases: []
 id: B1VzhqkEPVZA55k2
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: eldaoftabraleh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

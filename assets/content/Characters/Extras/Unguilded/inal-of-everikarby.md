@@ -7,7 +7,7 @@ name:
   clan: Everikarby
   aliases: []
 id: 8mns7HVA0c8q0nW5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: inalofeverikarby
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

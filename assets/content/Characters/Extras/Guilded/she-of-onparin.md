@@ -7,7 +7,7 @@ name:
   clan: Onparin
   aliases: []
 id: MtWT9dojtnbmFOJI
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sheofonparin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

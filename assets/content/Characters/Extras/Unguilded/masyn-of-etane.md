@@ -7,7 +7,7 @@ name:
   clan: Etane
   aliases: []
 id: l5r3440Fq0xiafiz
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: masynofetane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

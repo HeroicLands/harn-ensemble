@@ -7,7 +7,7 @@ name:
   clan: Ane
   aliases: []
 id: wHFVqcYTj1ZDqMuj
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: starcandyofane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

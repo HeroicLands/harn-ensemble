@@ -7,7 +7,7 @@ name:
   clan: Berthhad
   aliases: []
 id: 73p16XTqTeBwTnrq
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: irdanofberthhad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

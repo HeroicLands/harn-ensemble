@@ -7,7 +7,7 @@ name:
   clan: Podin
   aliases: []
 id: AD7D9CtSG9a07UuN
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: clavroofpodin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

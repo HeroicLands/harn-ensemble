@@ -7,7 +7,7 @@ name:
   clan: Wethestal
   aliases: []
 id: FIpCkrCfFNKCAySs
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pavinofwethestal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

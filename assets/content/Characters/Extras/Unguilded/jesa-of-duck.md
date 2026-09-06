@@ -7,7 +7,7 @@ name:
   clan: Duck
   aliases: []
 id: jQIPF90X4lCNb2Ee
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jesaofduck
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ath
   aliases: []
 id: kTUkRq3xsh1GlNkf
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: karpanofath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

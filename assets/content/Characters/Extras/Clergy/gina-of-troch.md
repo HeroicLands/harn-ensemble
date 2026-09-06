@@ -7,7 +7,7 @@ name:
   clan: Troch
   aliases: []
 id: wkOM0hmZzQeHElQM
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: ginaoftroch
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

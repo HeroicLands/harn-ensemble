@@ -7,7 +7,7 @@ name:
   clan: Chomslow
   aliases: []
 id: VCBO8nVkbh399MVC
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: forenaofchomslow
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kramelesque
   aliases: []
 id: K8eHjHpDYmVB2OzR
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captainfranofkramelesque
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

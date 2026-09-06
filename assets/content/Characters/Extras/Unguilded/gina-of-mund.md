@@ -7,7 +7,7 @@ name:
   clan: Mund
   aliases: []
 id: 08nbDa1NJ4xSgq3i
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ginaofmund
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Durnwak
   aliases: []
 id: P4LUcSPZYmhQ0a58
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merenelleofdurnwak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

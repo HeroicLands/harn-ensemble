@@ -7,7 +7,7 @@ name:
   clan: Keryn
   aliases: []
 id: 8JF1xleHgVdQYyyL
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: denienofkeryn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

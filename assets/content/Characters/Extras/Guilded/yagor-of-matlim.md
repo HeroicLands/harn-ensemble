@@ -7,7 +7,7 @@ name:
   clan: Matlim
   aliases: []
 id: 06pRc9X5wELUJul5
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yagorofmatlim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

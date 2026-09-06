@@ -7,7 +7,7 @@ name:
   clan: Kaliss
   aliases: []
 id: INDIvcAZaHMGQxs7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: uvienofkaliss
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

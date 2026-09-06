@@ -7,7 +7,7 @@ name:
   clan: Harass
   aliases: []
 id: y3BsFmeBWF9v1Oi5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: brasofharass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

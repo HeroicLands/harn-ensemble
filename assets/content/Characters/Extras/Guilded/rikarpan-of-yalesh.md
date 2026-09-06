@@ -7,7 +7,7 @@ name:
   clan: Yalesh
   aliases: []
 id: 1TD3BBljbZ0yhwR2
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: rikarpanofyalesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

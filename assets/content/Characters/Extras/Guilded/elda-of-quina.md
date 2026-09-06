@@ -7,7 +7,7 @@ name:
   clan: Quina
   aliases: []
 id: HVRnOJyJHbUscntS
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: eldaofquina
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

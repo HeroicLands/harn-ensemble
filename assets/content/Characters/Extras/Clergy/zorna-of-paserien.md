@@ -7,7 +7,7 @@ name:
   clan: Paserien
   aliases: []
 id: ydhIG5wTDb2Ojrvp
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: zornaofpaserien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Khurud
   aliases: []
 id: hZOYI5MhO1Ycc18Z
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: belsonofkhurud
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

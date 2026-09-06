@@ -7,7 +7,7 @@ name:
   clan: Varass
   aliases: []
 id: yyzKNKu9r24seoQB
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jakrowofvarass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

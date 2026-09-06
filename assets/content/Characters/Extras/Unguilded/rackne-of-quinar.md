@@ -7,7 +7,7 @@ name:
   clan: Quinar
   aliases: []
 id: X26ceNPGCklREVwx
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: rackneofquinar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

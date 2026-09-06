@@ -7,7 +7,7 @@ name:
   clan: Hosan
   aliases: []
 id: rxfAwU7lHU8VdcnY
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jolaynofhosan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

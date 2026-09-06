@@ -7,7 +7,7 @@ name:
   clan: Onparsel
   aliases: []
 id: 2y6eZOStzMA2tJT6
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lanazirofonparsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

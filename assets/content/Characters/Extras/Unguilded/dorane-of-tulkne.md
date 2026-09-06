@@ -7,7 +7,7 @@ name:
   clan: Tulkne
   aliases: []
 id: oTLOL2jJZxBK1UIE
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: doraneoftulkne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

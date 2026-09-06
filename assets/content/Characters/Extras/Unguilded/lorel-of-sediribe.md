@@ -7,7 +7,7 @@ name:
   clan: Sediribe
   aliases: []
 id: mIjuMuBqGOhoJBZX
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lorelofsediribe
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

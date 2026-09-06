@@ -7,7 +7,7 @@ name:
   clan: Ane
   aliases: []
 id: FXcKCSfIERrrwMwE
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: boraneofane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

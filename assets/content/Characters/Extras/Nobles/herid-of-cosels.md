@@ -7,7 +7,7 @@ name:
   clan: Cosels
   aliases: []
 id: nAo1gNBkgrEoqHcy
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: heridofcosels
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

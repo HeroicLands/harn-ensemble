@@ -7,7 +7,7 @@ name:
   clan: Rysten
   aliases: []
 id: 8yDl3pcGeEaDuZnK
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: nathofrysten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

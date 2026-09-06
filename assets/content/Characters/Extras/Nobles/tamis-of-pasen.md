@@ -7,7 +7,7 @@ name:
   clan: Pasen
   aliases: []
 id: jr6dhgx8xQC1rtBY
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: tamisofpasen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

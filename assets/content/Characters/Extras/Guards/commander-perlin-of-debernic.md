@@ -7,7 +7,7 @@ name:
   clan: Perlin Debernic
   aliases: []
 id: LGZ1d4IChRHSIY0t
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: commanderperlinofdebernic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

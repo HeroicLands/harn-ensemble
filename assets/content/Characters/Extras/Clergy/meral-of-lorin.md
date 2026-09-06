@@ -7,7 +7,7 @@ name:
   clan: Lorin
   aliases: []
 id: IvhZiWHrTej5ae71
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: meraloflorin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

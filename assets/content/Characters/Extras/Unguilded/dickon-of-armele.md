@@ -7,7 +7,7 @@ name:
   clan: Armele
   aliases: []
 id: gKEuQXQYeWKSExBV
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: dickonofarmele
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

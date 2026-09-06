@@ -7,7 +7,7 @@ name:
   clan: Elere
   aliases: []
 id: EudvBuSsDFGnu9lC
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: milniqofelere
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

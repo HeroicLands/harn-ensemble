@@ -7,7 +7,7 @@ name:
   clan: Armelen
   aliases: []
 id: kPf27E6UQHwRysKS
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pallisofarmelen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

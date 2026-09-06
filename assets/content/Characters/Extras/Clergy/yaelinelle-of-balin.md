@@ -7,7 +7,7 @@ name:
   clan: Balin
   aliases: []
 id: TS8LS4pPsNteXkhG
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: yaelinelleofbalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

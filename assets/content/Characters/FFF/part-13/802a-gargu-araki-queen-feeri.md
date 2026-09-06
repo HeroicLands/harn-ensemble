@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: q3CWI4spzMWAUE77
-folder: gO37pwFIr5B44hdV
+packFolder: fffnonhumans
 shortcode: feeri
 img: images/fff-13/FFF_802a_Gargu-Araki_Queen-headshot.webp
 portrait: images/fff-13/FFF_802a_Gargu-Araki_Queen.webp

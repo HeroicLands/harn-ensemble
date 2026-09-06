@@ -7,7 +7,7 @@ name:
   clan: Sarin
   aliases: []
 id: rWn0F97XinedYglw
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: pelimeofsarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

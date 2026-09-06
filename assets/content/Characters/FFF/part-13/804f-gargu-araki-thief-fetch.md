@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: EJWcOWDJi0AriwyB
-folder: gO37pwFIr5B44hdV
+packFolder: fffnonhumans
 shortcode: fetch
 img: images/fff-13/FFF_804f_Gargu-Araki_Thief-headshot.webp
 portrait: images/fff-13/FFF_804f_Gargu-Araki_Thief.webp

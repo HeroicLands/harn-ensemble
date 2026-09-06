@@ -7,7 +7,7 @@ name:
   clan: Hen
   aliases: []
 id: nRbcihFxtHt806ZY
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: tamythofhen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

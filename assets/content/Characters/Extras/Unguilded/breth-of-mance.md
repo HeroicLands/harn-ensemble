@@ -7,7 +7,7 @@ name:
   clan: Mance
   aliases: []
 id: POKeKVo1fJj54Zsv
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: brethofmance
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

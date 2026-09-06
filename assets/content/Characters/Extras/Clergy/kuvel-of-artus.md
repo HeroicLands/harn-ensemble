@@ -7,7 +7,7 @@ name:
   clan: Artus
   aliases: []
 id: a8TZFxxqLfOnYQ40
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kuvelofartus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

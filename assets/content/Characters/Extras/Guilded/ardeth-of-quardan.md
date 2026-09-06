@@ -7,7 +7,7 @@ name:
   clan: Quardan
   aliases: []
 id: NsyFif5mRxv0OxTh
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ardethofquardan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

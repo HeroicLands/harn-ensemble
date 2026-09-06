@@ -7,7 +7,7 @@ name:
   clan: Tulkai
   aliases: []
 id: xwud6lZ064Tsw03A
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: telsaoftulkai
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

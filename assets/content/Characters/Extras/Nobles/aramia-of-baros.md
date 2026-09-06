@@ -7,7 +7,7 @@ name:
   clan: Baros
   aliases: []
 id: ajkbOARPp8L3I8Ve
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: aramiaofbaros
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

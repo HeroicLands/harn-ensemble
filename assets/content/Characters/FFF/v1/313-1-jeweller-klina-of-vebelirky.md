@@ -7,7 +7,7 @@ name:
   clan: Vebelirky
   aliases: []
 id: t4zG9cK9yT1qVGI5
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: klinaofvebelirky
 img: images/fffv1/token/FFF_313-1_Jeweller.png
 portrait: images/fffv1/FFF_313-1_Jeweller.jpg

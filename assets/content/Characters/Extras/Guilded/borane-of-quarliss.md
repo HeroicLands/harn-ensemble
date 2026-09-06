@@ -7,7 +7,7 @@ name:
   clan: Quarliss
   aliases: []
 id: 2fszUEpUyTtvfo86
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: boraneofquarliss
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

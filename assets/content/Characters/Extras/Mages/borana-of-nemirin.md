@@ -7,7 +7,7 @@ name:
   clan: Nemirin
   aliases: []
 id: CoP38YVRTLarZHoO
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: boranaofnemirin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

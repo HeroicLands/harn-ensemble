@@ -7,7 +7,7 @@ name:
   clan: Parselrin
   aliases: []
 id: lxFXtJhBDXURY3qG
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: eraofparselrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

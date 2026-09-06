@@ -7,7 +7,7 @@ name:
   clan: Blabonthaluben
   aliases: []
 id: 02wWA1H8Ollzy5hV
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: alwamarthiorofblabonthaluben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

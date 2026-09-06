@@ -7,7 +7,7 @@ name:
   clan: Bardras
   aliases: []
 id: 3KfetA10ZmPkpsN9
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: harofbardras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

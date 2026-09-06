@@ -7,7 +7,7 @@ name:
   clan: Dray
   aliases: []
 id: rNdQ4oqbCEsEL6p0
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: gravithofdray
 img: images/fffv1/token/FFF_308-1_Embalmer.png
 portrait: images/fffv1/FFF_308-1_Embalmer.jpg

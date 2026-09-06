@@ -7,7 +7,7 @@ name:
   clan: Jere
   aliases: []
 id: lFYWs73hcKys63aa
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: keleofjere
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

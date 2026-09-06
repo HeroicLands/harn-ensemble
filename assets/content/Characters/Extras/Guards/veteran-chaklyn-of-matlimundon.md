@@ -7,7 +7,7 @@ name:
   clan: Matlimundon
   aliases: []
 id: juLErcqMb6LrpgDm
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranchaklynofmatlimundon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

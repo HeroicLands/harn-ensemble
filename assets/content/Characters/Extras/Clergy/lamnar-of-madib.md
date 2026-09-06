@@ -7,7 +7,7 @@ name:
   clan: Madib
   aliases: []
 id: DC89tV9INkekuwys
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lamnarofmadib
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

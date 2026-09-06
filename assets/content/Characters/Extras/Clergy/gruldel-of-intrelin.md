@@ -7,7 +7,7 @@ name:
   clan: Intrelin
   aliases: []
 id: 4macLwg8sYliRoJp
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gruldelofintrelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

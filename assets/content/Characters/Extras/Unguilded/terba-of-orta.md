@@ -7,7 +7,7 @@ name:
   clan: Orta
   aliases: []
 id: 1qnrdHs9e7HTrfRd
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: terbaoforta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

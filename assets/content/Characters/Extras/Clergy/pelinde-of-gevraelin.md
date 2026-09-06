@@ -7,7 +7,7 @@ name:
   clan: Gevraelin
   aliases: []
 id: Rd5GlRJyiH9TdcW3
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: pelindeofgevraelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

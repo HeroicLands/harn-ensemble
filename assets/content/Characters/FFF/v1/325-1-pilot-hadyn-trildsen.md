@@ -7,7 +7,7 @@ name:
   clan: Trildsen
   aliases: []
 id: P8gejvyLNHxIidxr
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: hadyntrildsen
 img: images/fffv1/token/FFF_325-1_Pilot.png
 portrait: images/fffv1/FFF_325-1_Pilot.jpg

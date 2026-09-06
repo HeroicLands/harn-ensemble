@@ -7,7 +7,7 @@ name:
   clan: Curo
   aliases: []
 id: i10K2p9MnafLmrGT
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pontousofcuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kar
   aliases: []
 id: mIPgrLvGG84yYrrM
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: doraneofkar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

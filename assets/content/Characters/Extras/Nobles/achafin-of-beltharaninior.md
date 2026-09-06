@@ -7,7 +7,7 @@ name:
   clan: Beltharaninior
   aliases: []
 id: 27SGmlHZAOSNBQuK
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: achafinofbeltharaninior
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

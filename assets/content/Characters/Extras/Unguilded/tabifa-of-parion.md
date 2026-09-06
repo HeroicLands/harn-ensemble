@@ -7,7 +7,7 @@ name:
   clan: Parion
   aliases: []
 id: S9GOt6EWwLKCIhzM
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: tabifaofparion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

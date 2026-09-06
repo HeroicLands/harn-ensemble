@@ -7,7 +7,7 @@ name:
   clan: Wythasil
   aliases: []
 id: eH588Ncs7GWJgrov
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: silineofwythasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

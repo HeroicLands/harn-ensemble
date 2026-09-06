@@ -7,7 +7,7 @@ name:
   clan: Aets
   aliases: []
 id: AJqgGBW3O4IgXqKF
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: klarinaofaets
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

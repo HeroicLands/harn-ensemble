@@ -7,7 +7,7 @@ name:
   clan: Onparth
   aliases: []
 id: GfVSG3bsHzl0OHO0
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pelimeofonparth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

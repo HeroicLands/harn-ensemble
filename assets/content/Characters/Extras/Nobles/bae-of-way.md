@@ -7,7 +7,7 @@ name:
   clan: Way
   aliases: []
 id: 0broGSRKEFyuela5
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: baeofway
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

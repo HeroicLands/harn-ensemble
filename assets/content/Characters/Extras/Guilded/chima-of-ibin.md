@@ -7,7 +7,7 @@ name:
   clan: Ibin
   aliases: []
 id: Wc0RcAtxnKWoOOG6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: chimaofibin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

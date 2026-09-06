@@ -7,7 +7,7 @@ name:
   clan: Elbarn
   aliases: []
 id: PgHjZGc57PPG2JCr
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: meredaofelbarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

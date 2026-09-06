@@ -7,7 +7,7 @@ name:
   clan: Elwethen
   aliases: []
 id: QaSvN0xSR4HPHXC9
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: hennigarashaofelwethen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

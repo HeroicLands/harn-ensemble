@@ -7,7 +7,7 @@ name:
   clan: Cinbarnic
   aliases: []
 id: h8kIdNklsca1fENK
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lyciaofcinbarnic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

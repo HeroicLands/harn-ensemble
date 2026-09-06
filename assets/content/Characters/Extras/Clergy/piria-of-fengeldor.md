@@ -7,7 +7,7 @@ name:
   clan: Fengeldor
   aliases: []
 id: bgqxFt4DfM5Sf2Wi
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: piriaoffengeldor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

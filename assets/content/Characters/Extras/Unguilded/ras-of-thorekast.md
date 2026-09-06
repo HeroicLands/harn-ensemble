@@ -7,7 +7,7 @@ name:
   clan: Thorekast
   aliases: []
 id: SfwRMnJug4Fy5LYe
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: rasofthorekast
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

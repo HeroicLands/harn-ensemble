@@ -7,7 +7,7 @@ name:
   clan: Erlim
   aliases: []
 id: sVA9js78m4yVlI6f
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: boranaoferlim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

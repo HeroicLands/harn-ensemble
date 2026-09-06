@@ -7,7 +7,7 @@ name:
   clan: Hubern
   aliases: []
 id: IfJs0MVULwOR6I3X
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: larinaofhubern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

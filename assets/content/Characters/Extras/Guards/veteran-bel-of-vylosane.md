@@ -7,7 +7,7 @@ name:
   clan: Vylosane
   aliases: []
 id: hCoPLPC9lVqvQ3Re
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranbelofvylosane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Coselphus
   aliases: []
 id: i2gSoz06gUaAcUuj
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: houlaofcoselphus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

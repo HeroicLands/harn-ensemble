@@ -7,7 +7,7 @@ name:
   clan: Then
   aliases: []
 id: y6tSpHvTnEfZZJBu
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: eamonofthen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

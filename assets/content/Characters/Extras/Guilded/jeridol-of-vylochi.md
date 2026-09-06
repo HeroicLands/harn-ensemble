@@ -7,7 +7,7 @@ name:
   clan: Vylochi
   aliases: []
 id: AEoqxeGUS6Yag13v
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jeridolofvylochi
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

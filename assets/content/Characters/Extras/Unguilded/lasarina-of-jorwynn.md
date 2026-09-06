@@ -7,7 +7,7 @@ name:
   clan: Jorwynn
   aliases: []
 id: GGLAHZbotsqBCBoz
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lasarinaofjorwynn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

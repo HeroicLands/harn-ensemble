@@ -7,7 +7,7 @@ name:
   clan: Nemiriel
   aliases: []
 id: T1pay16VaAYNv4F7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arvaofnemiriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

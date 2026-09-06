@@ -7,7 +7,7 @@ name:
   clan: Ewesaan
   aliases: []
 id: 5tWZ6tVRyP4oxZPq
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: aquillinofewesaan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

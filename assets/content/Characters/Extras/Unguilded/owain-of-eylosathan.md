@@ -7,7 +7,7 @@ name:
   clan: Eylosathan
   aliases: []
 id: qNMGqh63BKPxpI0F
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: owainofeylosathan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

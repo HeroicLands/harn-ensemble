@@ -7,7 +7,7 @@ name:
   clan: Tich
   aliases: []
 id: IOUA0yiiiKO5vaUK
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bresyneoftich
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

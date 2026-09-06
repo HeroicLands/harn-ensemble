@@ -7,7 +7,7 @@ name:
   clan: Eylosan
   aliases: []
 id: qJYcAd3V20NUwVZg
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: yeliciaofeylosan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ner
   aliases: []
 id: GPBmurbzrMPg430k
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: tolmeyofner
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

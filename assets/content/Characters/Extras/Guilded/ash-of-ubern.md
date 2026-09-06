@@ -7,7 +7,7 @@ name:
   clan: Ubern
   aliases: []
 id: LLd2GD3ej1iFxq1s
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ashofubern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

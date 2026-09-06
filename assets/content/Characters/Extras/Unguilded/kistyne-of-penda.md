@@ -7,7 +7,7 @@ name:
   clan: Penda
   aliases: []
 id: EieN4BXIkxE43zWT
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kistyneofpenda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

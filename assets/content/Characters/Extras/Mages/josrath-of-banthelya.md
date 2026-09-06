@@ -7,7 +7,7 @@ name:
   clan: Banthelya
   aliases: []
 id: iNVmvMgeCzjaMpc0
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: josrathofbanthelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Lorina
   aliases: []
 id: 0zF4JKcQEvY27zhV
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: hervaoflorina
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

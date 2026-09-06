@@ -7,7 +7,7 @@ name:
   clan: Fulkne
   aliases: []
 id: BmwAZTN8CgzEmFPi
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: eraloffulkne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Gimbek
   aliases: []
 id: CVjnLWLR13jX19Mp
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: genofgimbek
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

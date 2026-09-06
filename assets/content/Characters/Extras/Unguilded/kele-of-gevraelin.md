@@ -7,7 +7,7 @@ name:
   clan: Gevraelin
   aliases: []
 id: peuxsqoUAcPPfrBH
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: keleofgevraelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

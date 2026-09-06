@@ -7,7 +7,7 @@ name:
   clan: Obelar
   aliases: []
 id: ZSDaUkIFoN8Q0bX0
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: irisofobelar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

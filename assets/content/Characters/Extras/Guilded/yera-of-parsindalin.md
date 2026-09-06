@@ -7,7 +7,7 @@ name:
   clan: Parsindalin
   aliases: []
 id: NGHoXHmdTvh1u4OD
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yeraofparsindalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

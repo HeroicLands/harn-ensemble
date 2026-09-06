@@ -7,7 +7,7 @@ name:
   clan: Guinarass
   aliases: []
 id: bgM6BRZ5zczs2nG8
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: kolynofguinarass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

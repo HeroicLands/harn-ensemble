@@ -7,7 +7,7 @@ name:
   clan: Zoben
   aliases: []
 id: 9o0fxrdxnNpPstOe
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: sirsamuelofzoben
 img: images/fffv1/token/FFF_507-2_Fighting_Order_MH.png
 portrait: images/fffv1/FFF_507-2_Fighting_Order_MH.jpg

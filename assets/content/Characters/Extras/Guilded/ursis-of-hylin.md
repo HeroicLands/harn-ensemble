@@ -7,7 +7,7 @@ name:
   clan: Hylin
   aliases: []
 id: 4Z02pSHj7sMuPZMo
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ursisofhylin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

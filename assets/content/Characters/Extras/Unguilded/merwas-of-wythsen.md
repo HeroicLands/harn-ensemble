@@ -7,7 +7,7 @@ name:
   clan: Wythsen
   aliases: []
 id: jNDzSo3dg8VHTvrk
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: merwasofwythsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

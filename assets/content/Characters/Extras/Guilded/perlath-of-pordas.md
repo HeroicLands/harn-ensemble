@@ -7,7 +7,7 @@ name:
   clan: Pordas
   aliases: []
 id: 7SZIVbSGg9GX1TOz
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: perlathofpordas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

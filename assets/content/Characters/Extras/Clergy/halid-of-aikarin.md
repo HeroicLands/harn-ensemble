@@ -7,7 +7,7 @@ name:
   clan: Aikarin
   aliases: []
 id: SYq7MpGQc2xE4BEN
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: halidofaikarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

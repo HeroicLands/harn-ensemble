@@ -7,7 +7,7 @@ name:
   clan: Dyrebor
   aliases: []
 id: wWkpaqsBE0oeSis7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kyresaofdyrebor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

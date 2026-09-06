@@ -7,7 +7,7 @@ name:
   clan: Hosathaen
   aliases: []
 id: w0ZmfOXVH0JiOXUj
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: shemlenofhosathaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

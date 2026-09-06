@@ -7,7 +7,7 @@ name:
   clan: Wen
   aliases: []
 id: XTSKM7HaPYGjCHFZ
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: myrelyneofwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

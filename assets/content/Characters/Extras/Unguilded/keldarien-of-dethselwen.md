@@ -7,7 +7,7 @@ name:
   clan: Dethselwen
   aliases: []
 id: eHYaP5Xh23DqcqWj
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: keldarienofdethselwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

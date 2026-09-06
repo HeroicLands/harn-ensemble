@@ -7,7 +7,7 @@ name:
   clan: Katerik
   aliases: []
 id: Q1dE2S3nGvuWgW1q
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gorsineofkaterik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

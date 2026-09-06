@@ -7,7 +7,7 @@ name:
   clan: Tabral
   aliases: []
 id: 2MVRcbas6uLuGRPc
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: rosakoftabral
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kariam
   aliases: []
 id: pm3WXYAgDTbUY4dm
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: deniofkariam
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Arad
   aliases: []
 id: hX1MsMbGMRfe12SG
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sepianofarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

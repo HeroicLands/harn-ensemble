@@ -7,7 +7,7 @@ name:
   clan: Orin
   aliases: []
 id: Z6FdDtRrA3gYcV5i
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: lobiroforin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

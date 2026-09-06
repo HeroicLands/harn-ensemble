@@ -7,7 +7,7 @@ name:
   clan: Gyll
   aliases: []
 id: SX0YkFm3gEuUBHSk
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: cholaofgyll
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

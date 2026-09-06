@@ -7,7 +7,7 @@ name:
   clan: Quinda
   aliases: []
 id: cB9BzFS4Q0SyeMt9
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: cheselyneofquinda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

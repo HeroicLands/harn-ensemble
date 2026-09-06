@@ -7,7 +7,7 @@ name:
   clan: Ardine
   aliases: []
 id: Nt8f9Xva3m4uJP9m
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: uvieneofardine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

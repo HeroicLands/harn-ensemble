@@ -7,7 +7,7 @@ name:
   clan: Betanefris
   aliases: []
 id: iREbRwUO5EDtUe7t
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: yagoofbetanefris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

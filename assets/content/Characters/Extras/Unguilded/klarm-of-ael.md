@@ -7,7 +7,7 @@ name:
   clan: Ael
   aliases: []
 id: F7KMMyk0N5PBMlq0
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: klarmofael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

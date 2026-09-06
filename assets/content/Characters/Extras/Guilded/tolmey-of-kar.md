@@ -7,7 +7,7 @@ name:
   clan: Kar
   aliases: []
 id: DGJuyAtCK4DQpcR8
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tolmeyofkar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

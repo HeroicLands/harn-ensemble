@@ -7,7 +7,7 @@ name:
   clan: Angrustui
   aliases: []
 id: 8ycubV9VZJS0mUXK
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: caranofangrustui
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

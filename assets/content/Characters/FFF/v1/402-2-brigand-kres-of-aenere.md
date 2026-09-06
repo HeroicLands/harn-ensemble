@@ -7,7 +7,7 @@ name:
   clan: Aenere
   aliases: []
 id: zzb52YxzVJETrKFW
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: kresofaenere
 img: images/fffv1/token/FFF_402-2_Brigand.png
 portrait: images/fffv1/FFF_402-2_Brigand.jpg

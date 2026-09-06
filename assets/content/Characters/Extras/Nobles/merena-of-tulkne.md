@@ -7,7 +7,7 @@ name:
   clan: Tulkne
   aliases: []
 id: OyyzCp3VYVvF8r9P
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: merenaoftulkne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

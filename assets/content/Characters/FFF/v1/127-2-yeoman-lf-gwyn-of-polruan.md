@@ -7,7 +7,7 @@ name:
   clan: Polruan
   aliases: []
 id: tCS1ybQdOAdXw8qP
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: gwynofpolruan
 img: images/fffv1/token/FFF_127-2_Yeoman_LF.png
 portrait: images/fffv1/FFF_127-2_Yeoman_LF.jpg

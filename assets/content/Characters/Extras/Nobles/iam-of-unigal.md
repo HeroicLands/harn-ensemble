@@ -7,7 +7,7 @@ name:
   clan: Unigal
   aliases: []
 id: 5dRAHyc3xOez8CAx
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: iamofunigal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Wytelbarnesku
   aliases: []
 id: hOikLUMUyn7PqMTM
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: baeofwytelbarnesku
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

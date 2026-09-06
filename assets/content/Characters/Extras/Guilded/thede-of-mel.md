@@ -7,7 +7,7 @@ name:
   clan: Mel
   aliases: []
 id: CYLCxEGzigXYqlwQ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: thedeofmel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

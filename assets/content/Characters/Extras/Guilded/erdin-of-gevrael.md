@@ -7,7 +7,7 @@ name:
   clan: Gevrael
   aliases: []
 id: 96jLu9E8JIaxC8Sg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: erdinofgevrael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Rystel
   aliases: []
 id: M6TXzPNSUWQZdMeu
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jakrowofrystel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

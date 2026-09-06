@@ -7,7 +7,7 @@ name:
   clan: Abira
   aliases: []
 id: YUmVZ7ICXNO6AfNj
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: terbaofabira
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

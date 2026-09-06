@@ -7,7 +7,7 @@ name:
   clan: Hiltex
   aliases: []
 id: LfKENWSp3ufWb6Kv
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: sebelsonofhiltex
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

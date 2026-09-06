@@ -7,7 +7,7 @@ name:
   clan: Rythin
   aliases: []
 id: KocIaIldItE4bUKX
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: charigalofrythin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

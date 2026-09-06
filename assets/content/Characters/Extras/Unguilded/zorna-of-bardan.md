@@ -7,7 +7,7 @@ name:
   clan: Bardan
   aliases: []
 id: BsDdfV8F2cRk6Le2
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: zornaofbardan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

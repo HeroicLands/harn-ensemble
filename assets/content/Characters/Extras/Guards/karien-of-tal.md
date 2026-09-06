@@ -7,7 +7,7 @@ name:
   clan: Tal
   aliases: []
 id: Hoi0GqwPwkTOh6OE
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: karienoftal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

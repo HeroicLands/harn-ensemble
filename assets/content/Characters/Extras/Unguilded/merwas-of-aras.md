@@ -7,7 +7,7 @@ name:
   clan: Aras
   aliases: []
 id: gMxOXdRZllSgRV9C
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: merwasofaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

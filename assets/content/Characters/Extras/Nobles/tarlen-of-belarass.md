@@ -7,7 +7,7 @@ name:
   clan: Belarass
   aliases: []
 id: LCeRfRl1NMYy23SX
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: tarlenofbelarass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

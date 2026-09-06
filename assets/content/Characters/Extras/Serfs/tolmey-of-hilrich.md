@@ -7,7 +7,7 @@ name:
   clan: Hilrich
   aliases: []
 id: iehHuxL21aeTqX4v
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: tolmeyofhilrich
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

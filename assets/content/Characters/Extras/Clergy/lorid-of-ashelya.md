@@ -7,7 +7,7 @@ name:
   clan: Ashelya
   aliases: []
 id: DGghxUr2nx6Mwk5I
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: loridofashelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

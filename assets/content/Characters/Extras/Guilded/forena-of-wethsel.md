@@ -7,7 +7,7 @@ name:
   clan: Wethsel
   aliases: []
 id: ji6eYbCKQ4TURnro
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: forenaofwethsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

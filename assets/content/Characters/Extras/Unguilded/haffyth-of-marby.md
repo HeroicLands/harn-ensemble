@@ -7,7 +7,7 @@ name:
   clan: Marby
   aliases: []
 id: hGpTbXjzVlukChhj
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: haffythofmarby
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

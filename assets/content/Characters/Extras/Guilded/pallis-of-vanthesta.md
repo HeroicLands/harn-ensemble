@@ -7,7 +7,7 @@ name:
   clan: Vanthesta
   aliases: []
 id: hUUmEcao2RDGhkBI
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pallisofvanthesta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

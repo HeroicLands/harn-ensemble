@@ -7,7 +7,7 @@ name:
   clan: Burralode
   aliases: []
 id: sAIuZK5Yr56M8tGJ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: irdanofburralode
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Faleshref
   aliases: []
 id: qXcmXaOh8EEia7pF
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: jehanoffaleshref
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

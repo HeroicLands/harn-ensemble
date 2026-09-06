@@ -7,7 +7,7 @@ name:
   clan: Gwyffidd
   aliases: []
 id: U2ScHV9QjuDHFOk0
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: terlynofgwyffidd
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

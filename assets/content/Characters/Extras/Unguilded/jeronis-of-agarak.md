@@ -7,7 +7,7 @@ name:
   clan: Agarak
   aliases: []
 id: nNnSg3EUMNf7sSfj
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jeronisofagarak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

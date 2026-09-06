@@ -7,7 +7,7 @@ name:
   clan: Saldir
   aliases: []
 id: ZHp1lVcGM0ax29O3
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lirofsaldir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

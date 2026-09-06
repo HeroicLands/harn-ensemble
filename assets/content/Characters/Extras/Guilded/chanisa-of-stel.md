@@ -7,7 +7,7 @@ name:
   clan: Stel
   aliases: []
 id: 4gTVdrLE8DXFTlGc
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: chanisaofstel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

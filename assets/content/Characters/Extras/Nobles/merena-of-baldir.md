@@ -7,7 +7,7 @@ name:
   clan: Baldir
   aliases: []
 id: cy06E12xcuSmNVlx
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: merenaofbaldir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

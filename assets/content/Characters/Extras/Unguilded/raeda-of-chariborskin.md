@@ -7,7 +7,7 @@ name:
   clan: Chariborskin
   aliases: []
 id: 1G1FeyBvBvK9mEZi
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: raedaofchariborskin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

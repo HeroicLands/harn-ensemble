@@ -7,7 +7,7 @@ name:
   clan: Gyll
   aliases: []
 id: o0TjrpJIwiUEGUIy
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: irdanekofgyll
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Saldim
   aliases: []
 id: AlkX7OoeG48Qg3hG
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: lajanaofsaldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

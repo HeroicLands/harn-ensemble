@@ -8,7 +8,7 @@ name:
   aliases:
     - Wick
 id: JMNJxMJPgR4E2QMp
-folder: 04kLAsFXMI0eqqgT
+packFolder: fffmages
 shortcode: tobaswickofsharvan
 img: images/fffv1/token/FFF_702-1_Shek_Pvar_Peleahn.png
 portrait: images/fffv1/FFF_702-1_Shek_Pvar_Peleahn.jpg

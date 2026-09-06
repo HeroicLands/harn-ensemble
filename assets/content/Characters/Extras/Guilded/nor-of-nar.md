@@ -7,7 +7,7 @@ name:
   clan: Nar
   aliases: []
 id: LDQCn2co9LrTY0kp
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: norofnar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

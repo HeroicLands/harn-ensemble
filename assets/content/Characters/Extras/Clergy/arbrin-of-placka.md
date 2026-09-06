@@ -7,7 +7,7 @@ name:
   clan: Placka
   aliases: []
 id: se0lxQWUJ7VfdLqy
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: arbrinofplacka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

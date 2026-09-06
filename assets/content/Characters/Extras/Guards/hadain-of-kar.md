@@ -7,7 +7,7 @@ name:
   clan: Kar
   aliases: []
 id: 0hWWO2GgeF2eSr6c
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: hadainofkar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

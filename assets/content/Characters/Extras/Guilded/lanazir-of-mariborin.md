@@ -7,7 +7,7 @@ name:
   clan: Mariborin
   aliases: []
 id: EzQxc1ZLtwsTVj4d
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lanazirofmariborin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

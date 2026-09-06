@@ -7,7 +7,7 @@ name:
   clan: Avord
   aliases: []
 id: fOi0oeltBUI6irNV
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: seginaofavord
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

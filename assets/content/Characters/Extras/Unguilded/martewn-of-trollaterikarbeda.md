@@ -7,7 +7,7 @@ name:
   clan: Trollaterikarbeda
   aliases: []
 id: 4cmqXZbsHXiAZ6Ub
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: martewnoftrollaterikarbeda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Keryn
   aliases: []
 id: bq2PWkChwejtd0Fc
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jarlofkeryn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

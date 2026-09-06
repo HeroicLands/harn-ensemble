@@ -7,7 +7,7 @@ name:
   clan: Osanefris
   aliases: []
 id: CojMCxUGPSxW4odC
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: herilofosanefris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

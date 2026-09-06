@@ -7,7 +7,7 @@ name:
   clan: Angor
   aliases: []
 id: Tr3iBy4wjJn79WKI
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: angofangor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

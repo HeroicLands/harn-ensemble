@@ -7,7 +7,7 @@ name:
   clan: Addy
   aliases: []
 id: I16NOoLaxr3RXM8E
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: romontofaddy
 img: images/fffv1/token/FFF_419-1_Teamster.png
 portrait: images/fffv1/FFF_419-1_Teamster.jpg

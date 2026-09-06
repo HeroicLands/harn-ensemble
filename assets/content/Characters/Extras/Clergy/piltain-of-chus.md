@@ -7,7 +7,7 @@ name:
   clan: Chus
   aliases: []
 id: 7fh8NuOnbI4OwoMA
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: piltainofchus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

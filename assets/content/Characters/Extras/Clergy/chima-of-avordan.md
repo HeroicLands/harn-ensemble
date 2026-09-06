@@ -7,7 +7,7 @@ name:
   clan: Avordan
   aliases: []
 id: Mjvs6a4C0uq5m99B
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: chimaofavordan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

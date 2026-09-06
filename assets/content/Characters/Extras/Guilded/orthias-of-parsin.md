@@ -7,7 +7,7 @@ name:
   clan: Parsin
   aliases: []
 id: uD3zO2bJQIoWojaq
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: orthiasofparsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

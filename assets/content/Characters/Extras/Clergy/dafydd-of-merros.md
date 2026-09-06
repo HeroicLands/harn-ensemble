@@ -7,7 +7,7 @@ name:
   clan: Merros
   aliases: []
 id: hI5nwdWYSISOANAM
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: dafyddofmerros
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

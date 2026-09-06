@@ -7,7 +7,7 @@ name:
   clan: Ubela
   aliases: []
 id: ItpWHQ8vkFEmQPp8
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: chymelofubela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

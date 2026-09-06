@@ -7,7 +7,7 @@ name:
   clan: Daroos
   aliases: []
 id: j1YKl3IMvLev7QWJ
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: tabifaofdaroos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

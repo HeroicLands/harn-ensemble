@@ -7,7 +7,7 @@ name:
   clan: Vabenar
   aliases: []
 id: nRV1ywajod6JBs0o
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: nerelenofvabenar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

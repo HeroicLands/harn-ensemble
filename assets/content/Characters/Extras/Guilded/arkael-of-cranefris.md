@@ -7,7 +7,7 @@ name:
   clan: Cranefris
   aliases: []
 id: eePdb5fNqR5HnXeO
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arkaelofcranefris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

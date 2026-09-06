@@ -7,7 +7,7 @@ name:
   clan: Gosel
   aliases: []
 id: VtmSsKAtUtya37xe
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: araenaofgosel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

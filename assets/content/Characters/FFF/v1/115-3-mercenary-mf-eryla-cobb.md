@@ -7,7 +7,7 @@ name:
   clan: Cobb
   aliases: []
 id: HMdk5hHSK8CiaDIO
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: erylacobb
 img: images/fffv1/token/FFF_115-3_Mercenary_MF.png
 portrait: images/fffv1/FFF_115-3_Mercenary_MF.jpg

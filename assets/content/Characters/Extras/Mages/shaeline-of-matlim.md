@@ -7,7 +7,7 @@ name:
   clan: Matlim
   aliases: []
 id: pkX4W8xUFzrKTe9W
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: shaelineofmatlim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

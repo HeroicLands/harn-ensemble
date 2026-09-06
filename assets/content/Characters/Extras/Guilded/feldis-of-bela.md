@@ -7,7 +7,7 @@ name:
   clan: Bela
   aliases: []
 id: PjJ6sEqJ7m4zL8tz
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: feldisofbela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

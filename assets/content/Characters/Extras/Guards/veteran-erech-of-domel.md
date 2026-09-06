@@ -7,7 +7,7 @@ name:
   clan: Domel
   aliases: []
 id: lXgOISgAiG6JxaOm
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranerechofdomel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

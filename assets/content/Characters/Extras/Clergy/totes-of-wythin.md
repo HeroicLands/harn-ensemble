@@ -7,7 +7,7 @@ name:
   clan: Wythin
   aliases: []
 id: rDh6O8ETQnNlD87C
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: totesofwythin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

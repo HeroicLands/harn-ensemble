@@ -7,7 +7,7 @@ name:
   clan: Fengel
   aliases: []
 id: bGMU6g3C4JwvqSWV
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bresynoffengel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Aradas
   aliases: []
 id: j39XSbhWR7stUM3T
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: owainofaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

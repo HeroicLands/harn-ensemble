@@ -7,7 +7,7 @@ name:
   clan: Keryn
   aliases: []
 id: zc1ci8ONyiAdyFO3
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: obiriaofkeryn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

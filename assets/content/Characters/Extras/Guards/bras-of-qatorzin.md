@@ -7,7 +7,7 @@ name:
   clan: Qatorzin
   aliases: []
 id: nfJrgCXv9B9DGTzW
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: brasofqatorzin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

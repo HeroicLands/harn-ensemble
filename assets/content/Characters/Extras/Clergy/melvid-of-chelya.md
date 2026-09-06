@@ -7,7 +7,7 @@ name:
   clan: Chelya
   aliases: []
 id: B5vp25TOJHCePB5E
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: melvidofchelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Gyll
   aliases: []
 id: f0JlvtxQ84rTkHfk
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: hobirofgyll
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

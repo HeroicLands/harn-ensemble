@@ -7,7 +7,7 @@ name:
   clan: Ewen
   aliases: []
 id: IHfPsqiOg60KY7nx
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: lamofewen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

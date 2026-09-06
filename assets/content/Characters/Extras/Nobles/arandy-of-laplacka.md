@@ -7,7 +7,7 @@ name:
   clan: Laplacka
   aliases: []
 id: cciB45OnafBGHkFN
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: arandyoflaplacka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

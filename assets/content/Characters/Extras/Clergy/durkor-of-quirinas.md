@@ -7,7 +7,7 @@ name:
   clan: Quirinas
   aliases: []
 id: i1rDwojdg5JC2YAY
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: durkorofquirinas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

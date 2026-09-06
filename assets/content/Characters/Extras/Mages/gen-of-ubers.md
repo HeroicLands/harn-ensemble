@@ -7,7 +7,7 @@ name:
   clan: Ubers
   aliases: []
 id: Uc93DIesa27CyHLr
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: genofubers
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

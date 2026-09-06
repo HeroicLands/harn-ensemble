@@ -7,7 +7,7 @@ name:
   clan: Lunen
   aliases: []
 id: CX6azkOk8B6Cn3nh
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: obiriaoflunen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

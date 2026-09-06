@@ -7,7 +7,7 @@ name:
   clan: Parthalmin
   aliases: []
 id: i08OaXycxtFCP2Tm
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: tagbarighofparthalmin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

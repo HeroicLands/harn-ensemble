@@ -7,7 +7,7 @@ name:
   clan: Charin
   aliases: []
 id: Wi88DmdIhmn0Tr5H
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: marwinofcharin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

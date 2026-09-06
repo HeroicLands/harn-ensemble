@@ -7,7 +7,7 @@ name:
   clan: Trochi
   aliases: []
 id: UgM4Vm00EAQKnNSi
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: jarnoftrochi
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

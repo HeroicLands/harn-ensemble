@@ -7,7 +7,7 @@ name:
   clan: Chornic
   aliases: []
 id: TRKA3fnFqP7vVCU6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merwasofchornic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

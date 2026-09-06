@@ -7,7 +7,7 @@ name:
   clan: Arnagarananc
   aliases: []
 id: hjVRbxgeHtxB7z6L
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cellenofarnagarananc
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

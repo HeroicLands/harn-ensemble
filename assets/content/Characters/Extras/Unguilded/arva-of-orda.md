@@ -7,7 +7,7 @@ name:
   clan: Orda
   aliases: []
 id: RjcNlbqLzU9LN14a
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: arvaoforda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

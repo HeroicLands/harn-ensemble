@@ -7,7 +7,7 @@ name:
   clan: Wytelburitta
   aliases: []
 id: WU2y632668WIQCY9
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gruldelofwytelburitta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

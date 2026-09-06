@@ -7,7 +7,7 @@ name:
   clan: Orta
   aliases: []
 id: 2HkLKXcXCMtx8TS8
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pelsinoforta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

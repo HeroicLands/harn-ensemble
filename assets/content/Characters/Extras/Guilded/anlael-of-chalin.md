@@ -7,7 +7,7 @@ name:
   clan: Chalin
   aliases: []
 id: u06WQ1fwLbyeV35s
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: anlaelofchalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

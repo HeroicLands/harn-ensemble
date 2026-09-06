@@ -7,7 +7,7 @@ name:
   clan: Parion
   aliases: []
 id: QAcbmXLJ9nijhuVS
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: moskilofparion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

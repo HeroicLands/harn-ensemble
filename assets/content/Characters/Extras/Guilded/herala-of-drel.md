@@ -7,7 +7,7 @@ name:
   clan: Drel
   aliases: []
 id: xP9wPyjrCImM7S5L
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: heralaofdrel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Amathedhereniar
   aliases: []
 id: AYJ0BnMHaWtCuRLY
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: avaphenofamathedhereniar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Bardrass
   aliases: []
 id: mVzxKnCo3lJldivN
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: norbinofbardrass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Branor
   aliases: []
 id: my2c0vBnvoIvwdhw
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: celherenofbranor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

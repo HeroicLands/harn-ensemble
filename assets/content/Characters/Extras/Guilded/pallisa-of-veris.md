@@ -7,7 +7,7 @@ name:
   clan: Veris
   aliases: []
 id: FVQLxkFOC9ILjyk6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pallisaofveris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

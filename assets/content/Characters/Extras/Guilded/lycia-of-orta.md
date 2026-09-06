@@ -7,7 +7,7 @@ name:
   clan: Orta
   aliases: []
 id: o9yzG51JNFgnc5aU
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lyciaoforta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

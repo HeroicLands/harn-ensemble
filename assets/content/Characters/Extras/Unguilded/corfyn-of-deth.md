@@ -7,7 +7,7 @@ name:
   clan: Deth
   aliases: []
 id: O3YZf6vlf1bfVraA
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: corfynofdeth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

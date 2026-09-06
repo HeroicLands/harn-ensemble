@@ -7,7 +7,7 @@ name:
   clan: Narad
   aliases: []
 id: i483ELK64UdhC0hZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gaetaneofnarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

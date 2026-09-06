@@ -7,7 +7,7 @@ name:
   clan: Porda
   aliases: []
 id: lYcuQRdn1quuD6ep
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: raelaofporda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

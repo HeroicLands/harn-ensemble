@@ -7,7 +7,7 @@ name:
   clan: Aweil
   aliases: []
 id: OUvRXHmDJm7YgAip
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: raedaofaweil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

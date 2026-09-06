@@ -7,7 +7,7 @@ name:
   clan: Domel
   aliases: []
 id: l3WYDjA9sNaElmqw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: chaklynofdomel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

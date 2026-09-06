@@ -7,7 +7,7 @@ name:
   clan: Wythsel
   aliases: []
 id: JfRFkXVlDcjNp1fa
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: baeofwythsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

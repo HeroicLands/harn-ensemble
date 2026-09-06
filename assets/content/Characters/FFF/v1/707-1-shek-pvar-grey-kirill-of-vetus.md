@@ -7,7 +7,7 @@ name:
   clan: Vetus
   aliases: []
 id: aUAhUMbDkL0Qu2Xl
-folder: 04kLAsFXMI0eqqgT
+packFolder: fffmages
 shortcode: kirillofvetus
 img: images/fffv1/token/FFF_707-1_Shek_Pvar_Grey.png
 portrait: images/fffv1/FFF_707-1_Shek_Pvar_Grey.jpg

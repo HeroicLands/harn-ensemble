@@ -7,7 +7,7 @@ name:
   clan: Neris
   aliases: []
 id: e14dCRrqyGUJIMKt
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranvaberofneris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

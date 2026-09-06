@@ -7,7 +7,7 @@ name:
   clan: Sideth
   aliases: []
 id: xlBiFxs52Pe6Os9X
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: sepianofsideth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

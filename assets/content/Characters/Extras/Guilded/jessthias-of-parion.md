@@ -7,7 +7,7 @@ name:
   clan: Parion
   aliases: []
 id: ZX9tZrUTWHvQDDUJ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jessthiasofparion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

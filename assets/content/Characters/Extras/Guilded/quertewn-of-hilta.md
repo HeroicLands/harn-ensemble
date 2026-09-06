@@ -7,7 +7,7 @@ name:
   clan: Hilta
   aliases: []
 id: WPOkiNHqHAkEY63k
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: quertewnofhilta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

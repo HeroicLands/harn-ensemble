@@ -7,7 +7,7 @@ name:
   clan: Rogila
   aliases: []
 id: q57uLJi7Vt34DjOC
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: arwalinofrogila
 img: images/fffv1/token/FFF_409-1_Huntsman.png
 portrait: images/fffv1/FFF_409-1_Huntsman.jpg

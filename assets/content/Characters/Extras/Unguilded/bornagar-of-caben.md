@@ -7,7 +7,7 @@ name:
   clan: Caben
   aliases: []
 id: vljg5k6WXCvCvWIU
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bornagarofcaben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

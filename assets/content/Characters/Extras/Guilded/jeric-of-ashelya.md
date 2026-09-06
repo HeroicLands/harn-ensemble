@@ -7,7 +7,7 @@ name:
   clan: Ashelya
   aliases: []
 id: uoIPXXZhPyNzLD5a
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jericofashelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

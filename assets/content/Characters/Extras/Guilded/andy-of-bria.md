@@ -7,7 +7,7 @@ name:
   clan: Bria
   aliases: []
 id: BvNv6cUrrT0kwypv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: andyofbria
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

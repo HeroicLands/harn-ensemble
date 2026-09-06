@@ -7,7 +7,7 @@ name:
   clan: Debernic
   aliases: []
 id: Fg4FDHOXRKNxHpvo
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: evenodelaredofdebernic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

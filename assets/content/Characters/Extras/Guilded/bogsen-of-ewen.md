@@ -7,7 +7,7 @@ name:
   clan: Ewen
   aliases: []
 id: jMJMXZuxqqN2urhU
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: bogsenofewen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

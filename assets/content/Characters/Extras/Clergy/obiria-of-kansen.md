@@ -7,7 +7,7 @@ name:
   clan: Kansen
   aliases: []
 id: J8wnXkLsi16ykTUh
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: obiriaofkansen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

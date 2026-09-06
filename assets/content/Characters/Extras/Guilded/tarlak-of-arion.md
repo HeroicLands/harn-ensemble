@@ -7,7 +7,7 @@ name:
   clan: Arion
   aliases: []
 id: Ga6bDecgEilU0T5q
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tarlakofarion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

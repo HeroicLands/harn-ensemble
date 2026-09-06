@@ -7,7 +7,7 @@ name:
   clan: Quirin
   aliases: []
 id: InNvfn0D6rb9rp4M
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: wereleofquirin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

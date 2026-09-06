@@ -7,7 +7,7 @@ name:
   clan: Merben
   aliases: []
 id: EVU6m4OAL7zp2PJY
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: tulahofmerben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

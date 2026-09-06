@@ -7,7 +7,7 @@ name:
   clan: Balchadhod
   aliases: []
 id: 4uPsPhgKl3M0J9vC
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cirbenofbalchadhod
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

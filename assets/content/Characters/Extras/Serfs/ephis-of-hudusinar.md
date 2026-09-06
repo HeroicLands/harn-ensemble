@@ -7,7 +7,7 @@ name:
   clan: Hudusinar
   aliases: []
 id: k26KTIn03q1bBjRN
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: ephisofhudusinar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Gwen
   aliases: []
 id: bFKpc7sWwunh86UV
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captainparsumenofgwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

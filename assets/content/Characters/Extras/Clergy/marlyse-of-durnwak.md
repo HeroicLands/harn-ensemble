@@ -7,7 +7,7 @@ name:
   clan: Durnwak
   aliases: []
 id: hofCBPSWkHKM5yFB
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: marlyseofdurnwak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

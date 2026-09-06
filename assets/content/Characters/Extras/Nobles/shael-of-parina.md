@@ -7,7 +7,7 @@ name:
   clan: Parina
   aliases: []
 id: fqXSweQBlCUjtTtR
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: shaelofparina
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

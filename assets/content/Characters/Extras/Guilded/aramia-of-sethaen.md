@@ -7,7 +7,7 @@ name:
   clan: Sethaen
   aliases: []
 id: PWJGn7ovj83wc9SR
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: aramiaofsethaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

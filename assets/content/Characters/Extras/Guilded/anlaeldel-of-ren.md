@@ -7,7 +7,7 @@ name:
   clan: Ren
   aliases: []
 id: pBwtWfbtusKrB27u
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: anlaeldelofren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

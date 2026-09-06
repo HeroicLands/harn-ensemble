@@ -7,7 +7,7 @@ name:
   clan: Tobir
   aliases: []
 id: 1HNJ4PKlYExadhU7
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: yebinoftobir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

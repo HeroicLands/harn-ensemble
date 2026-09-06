@@ -7,7 +7,7 @@ name:
   clan: Kestel
   aliases: []
 id: VOy3LZUdyhYtFwqS
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: seelieofkestel
 img: images/fffv1/token/FFF_302-1_Apothecary.png
 portrait: images/fffv1/FFF_302-1_Apothecary.jpg

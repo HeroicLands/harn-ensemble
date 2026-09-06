@@ -7,7 +7,7 @@ name:
   clan: Loyril
   aliases: []
 id: lAC6kZeqkTuguNWs
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: yaelaofloyril
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

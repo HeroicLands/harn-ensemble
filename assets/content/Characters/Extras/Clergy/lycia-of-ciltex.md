@@ -7,7 +7,7 @@ name:
   clan: Ciltex
   aliases: []
 id: BqyHw1xZPAfsYTZ7
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lyciaofciltex
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

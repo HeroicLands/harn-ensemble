@@ -7,7 +7,7 @@ name:
   clan: Jeredostaldin
   aliases: []
 id: W5F4jCAv4WicdBNG
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: pelisofjeredostaldin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

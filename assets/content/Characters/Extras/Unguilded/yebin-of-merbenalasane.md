@@ -7,7 +7,7 @@ name:
   clan: Merbenalasane
   aliases: []
 id: CzDoccGz8P4Al4me
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: yebinofmerbenalasane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

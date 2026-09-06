@@ -7,7 +7,7 @@ name:
   clan: Pendal
   aliases: []
 id: 1Anfs32xROktM3Sf
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: anlaeldelofpendal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

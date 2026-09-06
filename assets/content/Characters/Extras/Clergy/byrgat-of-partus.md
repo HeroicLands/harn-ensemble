@@ -7,7 +7,7 @@ name:
   clan: Partus
   aliases: []
 id: UXNGwklHi2WcqUvn
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: byrgatofpartus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

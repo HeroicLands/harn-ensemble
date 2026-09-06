@@ -7,7 +7,7 @@ name:
   clan: Quiribor
   aliases: []
 id: fWXT9UBLwEnwwWtT
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sarofquiribor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

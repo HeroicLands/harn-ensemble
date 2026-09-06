@@ -7,7 +7,7 @@ name:
   clan: Goselemas
   aliases: []
 id: IMgjVxOcwURCb98l
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: aramiaofgoselemas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

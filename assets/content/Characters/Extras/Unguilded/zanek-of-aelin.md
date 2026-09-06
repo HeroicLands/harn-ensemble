@@ -7,7 +7,7 @@ name:
   clan: Aelin
   aliases: []
 id: 3Vn9H9i3pdL6xhqk
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: zanekofaelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Lebaroos
   aliases: []
 id: YuQFaxl1VSC72R7B
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: jellinoflebaroos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

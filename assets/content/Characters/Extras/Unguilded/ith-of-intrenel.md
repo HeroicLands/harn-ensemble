@@ -7,7 +7,7 @@ name:
   clan: Intrenel
   aliases: []
 id: drjkh4ewHSJmXiuf
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ithofintrenel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kotrel
   aliases: []
 id: 2XLXoU2UE5OzW4jZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sarinofkotrel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

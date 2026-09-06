@@ -7,7 +7,7 @@ name:
   clan: Athaen
   aliases: []
 id: XbShm5qYQymcaGS8
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: nerelyneofathaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

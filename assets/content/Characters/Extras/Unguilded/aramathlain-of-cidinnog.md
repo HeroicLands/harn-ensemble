@@ -7,7 +7,7 @@ name:
   clan: Cidinnog
   aliases: []
 id: aYizQLTiS4jYWPE3
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: aramathlainofcidinnog
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

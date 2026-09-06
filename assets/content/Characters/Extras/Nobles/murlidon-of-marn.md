@@ -7,7 +7,7 @@ name:
   clan: Marn
   aliases: []
 id: z5xpHQtxnzmW6FLu
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: murlidonofmarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

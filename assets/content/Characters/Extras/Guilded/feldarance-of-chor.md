@@ -7,7 +7,7 @@ name:
   clan: Chor
   aliases: []
 id: nPPocspTCe7esDpL
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: feldaranceofchor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

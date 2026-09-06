@@ -7,7 +7,7 @@ name:
   clan: Sel
   aliases: []
 id: II19fkAMvCInJDoA
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: eradahofsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

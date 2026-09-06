@@ -7,7 +7,7 @@ name:
   clan: Hubellyr
   aliases: []
 id: DB4uKC31s3hcSbb8
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: illinofhubellyr
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Marath
   aliases: []
 id: wuD1xj7qCGqD9aqZ
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: gwyteofmarath
 img: images/fffv1/token/FFF_306-1_Clothier.png
 portrait: images/fffv1/FFF_306-1_Clothier.jpg
