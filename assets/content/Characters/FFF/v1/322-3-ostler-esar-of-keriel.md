@@ -7,7 +7,7 @@ name:
   clan: Keriel
   aliases: []
 id: dLuiueIsJHF3I55g
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: esarofkeriel
 img: images/fffv1/token/FFF_322-3_Ostler.png
 portrait: images/fffv1/FFF_322-3_Ostler.jpg

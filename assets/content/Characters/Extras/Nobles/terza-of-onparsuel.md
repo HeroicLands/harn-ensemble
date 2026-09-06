@@ -7,7 +7,7 @@ name:
   clan: Onparsuel
   aliases: []
 id: 8M2G4y02f95s3bTs
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: terzaofonparsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

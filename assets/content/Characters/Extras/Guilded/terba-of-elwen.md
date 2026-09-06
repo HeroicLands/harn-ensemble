@@ -7,7 +7,7 @@ name:
   clan: Elwen
   aliases: []
 id: 8JKZDhaiYxKhPD21
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: terbaofelwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Esaldim
   aliases: []
 id: 7oEfONgKmYgAEVmk
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: thelrenofesaldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

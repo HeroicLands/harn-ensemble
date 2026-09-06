@@ -7,7 +7,7 @@ name:
   clan: Vanthen
   aliases: []
 id: Dbb07ScAB6olshCe
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteraneralofvanthen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

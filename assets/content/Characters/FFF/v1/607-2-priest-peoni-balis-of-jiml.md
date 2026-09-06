@@ -7,7 +7,7 @@ name:
   clan: Jiml
   aliases: []
 id: qvLzM1HO7661euis
-folder: wImf2q5VxvhF7Ed4
+packFolder: fffclergy
 shortcode: balisofjiml
 img: images/fffv1/token/FFF_607-2_Priest_Peoni.png
 portrait: images/fffv1/FFF_607-2_Priest_Peoni.jpg

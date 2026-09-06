@@ -7,7 +7,7 @@ name:
   clan: Yorlon
   aliases: []
 id: Wi3zJgkzTQogHp4G
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: areenofyorlon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

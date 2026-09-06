@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: f6i26XWJPVGgm6VV
-folder: gO37pwFIr5B44hdV
+packFolder: fffnonhumans
 shortcode: bran
 img: images/fff-13/FFF_804d_Gargu-Araki_Warrior-headshot.webp
 portrait: images/fff-13/FFF_804d_Gargu-Araki_Warrior.webp

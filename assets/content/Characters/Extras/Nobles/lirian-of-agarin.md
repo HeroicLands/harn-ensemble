@@ -7,7 +7,7 @@ name:
   clan: Agarin
   aliases: []
 id: HrqAOS60QRUkYsse
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: lirianofagarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

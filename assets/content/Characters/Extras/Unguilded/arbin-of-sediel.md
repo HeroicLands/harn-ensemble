@@ -7,7 +7,7 @@ name:
   clan: Sediel
   aliases: []
 id: n0k0vq8wgqxNYGL6
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: arbinofsediel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

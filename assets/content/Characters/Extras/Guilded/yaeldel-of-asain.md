@@ -7,7 +7,7 @@ name:
   clan: Asain
   aliases: []
 id: YjCciDu7V1HgUOFV
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yaeldelofasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

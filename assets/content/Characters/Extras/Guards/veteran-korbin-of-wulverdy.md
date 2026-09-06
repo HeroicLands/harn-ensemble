@@ -7,7 +7,7 @@ name:
   clan: Wulverdy
   aliases: []
 id: 1ooH3VgPLr3QKJMU
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veterankorbinofwulverdy
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Dethels
   aliases: []
 id: wzVJmoXlKI5IEDrI
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: kerthedeofdethels
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Naras
   aliases: []
 id: viD9QhECRE2ULn6N
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jithofnaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

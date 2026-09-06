@@ -7,7 +7,7 @@ name:
   clan: Amdiror
   aliases: []
 id: C3yTkw78KFV80ndM
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: brancofamdiror
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Baldis
   aliases: []
 id: ELHhl2SgvK2HIGOp
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: arbrinofbaldis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

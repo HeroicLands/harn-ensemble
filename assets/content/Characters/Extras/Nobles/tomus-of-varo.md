@@ -7,7 +7,7 @@ name:
   clan: Varo
   aliases: []
 id: pEk2shciB9E1W8n6
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: tomusofvaro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

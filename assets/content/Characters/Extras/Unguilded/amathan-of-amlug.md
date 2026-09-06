@@ -7,7 +7,7 @@ name:
   clan: Amlug
   aliases: []
 id: Rjqvc1Bl8VPoaUNb
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amathanofamlug
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

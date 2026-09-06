@@ -7,7 +7,7 @@ name:
   clan: Sprytus
   aliases: []
 id: 2kddLTxZKKilxLt3
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: zornaofsprytus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

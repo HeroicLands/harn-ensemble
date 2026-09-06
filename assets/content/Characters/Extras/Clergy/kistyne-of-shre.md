@@ -7,7 +7,7 @@ name:
   clan: Shre
   aliases: []
 id: GvCqkfgoLW1fNRcj
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kistyneofshre
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

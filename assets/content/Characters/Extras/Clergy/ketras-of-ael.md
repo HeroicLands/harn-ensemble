@@ -7,7 +7,7 @@ name:
   clan: Ael
   aliases: []
 id: YzQ4ElAoDqpJ4G6j
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: ketrasofael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

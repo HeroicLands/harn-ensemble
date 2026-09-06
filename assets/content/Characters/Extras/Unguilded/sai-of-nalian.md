@@ -7,7 +7,7 @@ name:
   clan: Nalian
   aliases: []
 id: jm0feL0pSF1wiArq
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: saiofnalian
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

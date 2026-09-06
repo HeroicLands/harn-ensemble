@@ -7,7 +7,7 @@ name:
   clan: Baldis
   aliases: []
 id: mExfPN6yMYdFaRNO
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kerthervaofbaldis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

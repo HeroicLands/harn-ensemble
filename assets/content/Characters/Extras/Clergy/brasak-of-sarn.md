@@ -7,7 +7,7 @@ name:
   clan: Sarn
   aliases: []
 id: Mtze3QcAk74mkMyb
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: brasakofsarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

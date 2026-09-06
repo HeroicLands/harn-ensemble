@@ -7,7 +7,7 @@ name:
   clan: Belevophen
   aliases: []
 id: wFenKjggSQM97auG
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: beinaithofbelevophen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kapire
   aliases: []
 id: vT7RJFM5Q0mnA8GQ
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: keribonofkapire
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

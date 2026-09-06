@@ -7,7 +7,7 @@ name:
   clan: Armelerdy
   aliases: []
 id: jslXJk5nmcnM8tyv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gorofarmelerdy
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Amlugior
   aliases: []
 id: LDPY4XU4Ge9KgEnm
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: braspenofamlugior
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Banth
   aliases: []
 id: AprVHI0tLwr37QCh
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: shelofbanth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

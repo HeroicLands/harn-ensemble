@@ -7,7 +7,7 @@ name:
   clan: Asain
   aliases: []
 id: f7nvsmHt9NFbJaQc
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gweniofasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

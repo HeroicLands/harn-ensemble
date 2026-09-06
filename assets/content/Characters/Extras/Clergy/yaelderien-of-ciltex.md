@@ -7,7 +7,7 @@ name:
   clan: Ciltex
   aliases: []
 id: 9wLgX3SxLP6HYcsA
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: yaelderienofciltex
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

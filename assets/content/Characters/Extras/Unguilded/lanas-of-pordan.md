@@ -7,7 +7,7 @@ name:
   clan: Pordan
   aliases: []
 id: b3BEszTeyvWEKXiZ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lanasofpordan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

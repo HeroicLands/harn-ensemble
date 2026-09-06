@@ -7,7 +7,7 @@ name:
   clan: Cadrune
   aliases: []
 id: tcsFt2LMJ4lOBZmg
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: lajanaofcadrune
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

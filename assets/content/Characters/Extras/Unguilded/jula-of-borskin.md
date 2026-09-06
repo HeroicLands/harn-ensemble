@@ -7,7 +7,7 @@ name:
   clan: Borskin
   aliases: []
 id: pG534kKJa93Jga8k
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: julaofborskin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

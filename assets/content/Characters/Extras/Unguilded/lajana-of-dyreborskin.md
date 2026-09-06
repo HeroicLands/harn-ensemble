@@ -7,7 +7,7 @@ name:
   clan: Dyreborskin
   aliases: []
 id: T1jF4kLEepMWxTw5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lajanaofdyreborskin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

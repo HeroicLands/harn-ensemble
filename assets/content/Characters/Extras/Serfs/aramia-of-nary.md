@@ -7,7 +7,7 @@ name:
   clan: Nary
   aliases: []
 id: vXHNZuq0wKagun9N
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: aramiaofnary
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

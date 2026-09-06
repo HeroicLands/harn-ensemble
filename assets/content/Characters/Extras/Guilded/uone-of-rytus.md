@@ -7,7 +7,7 @@ name:
   clan: Rytus
   aliases: []
 id: GGomYuBY0ZfOQqLu
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: uoneofrytus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

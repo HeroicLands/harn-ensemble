@@ -7,7 +7,7 @@ name:
   clan: Stuk
   aliases: []
 id: Zc9Kxo5kp0RZU8c9
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: seginaofstuk
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

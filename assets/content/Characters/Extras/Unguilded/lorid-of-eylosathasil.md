@@ -7,7 +7,7 @@ name:
   clan: Eylosathasil
   aliases: []
 id: qcUJlcXDwZoB1oMb
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: loridofeylosathasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

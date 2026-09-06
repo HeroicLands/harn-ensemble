@@ -7,7 +7,7 @@ name:
   clan: Lebarsel
   aliases: []
 id: KqAlbETjIBCiKMkH
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: rybinoflebarsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

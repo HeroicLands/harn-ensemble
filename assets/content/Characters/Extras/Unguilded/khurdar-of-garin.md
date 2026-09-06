@@ -7,7 +7,7 @@ name:
   clan: Garin
   aliases: []
 id: GxQQq0uqrHH0kehP
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: khurdarofgarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

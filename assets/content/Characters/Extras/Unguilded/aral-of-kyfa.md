@@ -7,7 +7,7 @@ name:
   clan: Kyfa
   aliases: []
 id: iCX77oMupOOYNtXg
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: aralofkyfa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

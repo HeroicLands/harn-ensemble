@@ -7,7 +7,7 @@ name:
   clan: Kal
   aliases: []
 id: 4a9DphGgsTZwMxMv
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: keldarithofkal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

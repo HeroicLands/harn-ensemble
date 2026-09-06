@@ -7,7 +7,7 @@ name:
   clan: Bor
   aliases: []
 id: dMLDWhKhVojzVYlB
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cyzorofbor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

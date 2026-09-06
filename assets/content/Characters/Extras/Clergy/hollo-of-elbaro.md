@@ -7,7 +7,7 @@ name:
   clan: Elbaro
   aliases: []
 id: cPg48NJmoVjuvhCc
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: holloofelbaro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

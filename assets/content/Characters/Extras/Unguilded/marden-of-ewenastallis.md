@@ -7,7 +7,7 @@ name:
   clan: Ewenastallis
   aliases: []
 id: OccPtxCCA6umRX7c
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: mardenofewenastallis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

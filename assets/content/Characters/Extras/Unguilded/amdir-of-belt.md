@@ -7,7 +7,7 @@ name:
   clan: Belt
   aliases: []
 id: RKthCfokTmQLgOWA
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amdirofbelt
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

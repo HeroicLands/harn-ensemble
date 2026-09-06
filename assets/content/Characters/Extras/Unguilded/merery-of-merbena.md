@@ -7,7 +7,7 @@ name:
   clan: Merbena
   aliases: []
 id: eWjhFc6WXvS41XY2
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: mereryofmerbena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

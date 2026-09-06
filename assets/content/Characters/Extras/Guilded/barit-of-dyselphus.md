@@ -7,7 +7,7 @@ name:
   clan: Dyselphus
   aliases: []
 id: HyGZ1kpNirlCvuCk
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: baritofdyselphus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

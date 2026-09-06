@@ -7,7 +7,7 @@ name:
   clan: Gorn
   aliases: []
 id: XbtouNxhhTn7NMUw
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: barrisofgorn
 img: images/fffv1/token/FFF_311-1_Hideworker.png
 portrait: images/fffv1/FFF_311-1_Hideworker.jpg

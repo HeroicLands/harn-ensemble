@@ -7,7 +7,7 @@ name:
   clan: Seleris
   aliases: []
 id: NxKqZmIZVn1eDeCv
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: shotroofseleris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

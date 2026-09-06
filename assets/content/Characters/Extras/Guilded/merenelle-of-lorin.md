@@ -7,7 +7,7 @@ name:
   clan: Lorin
   aliases: []
 id: 8scZJ1cKZE48o45s
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merenelleoflorin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

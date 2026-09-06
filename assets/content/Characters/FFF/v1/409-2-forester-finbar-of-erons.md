@@ -7,7 +7,7 @@ name:
   clan: Erons
   aliases: []
 id: gs7OGJYJuhURyJOU
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: finbaroferons
 img: images/fffv1/token/FFF_409-2_Forester.png
 portrait: images/fffv1/FFF_409-2_Forester.jpg

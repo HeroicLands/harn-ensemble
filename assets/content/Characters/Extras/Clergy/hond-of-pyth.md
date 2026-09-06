@@ -7,7 +7,7 @@ name:
   clan: Pyth
   aliases: []
 id: YJDAyuV1xf9907wT
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: hondofpyth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

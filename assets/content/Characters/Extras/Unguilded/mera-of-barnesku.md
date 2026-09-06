@@ -7,7 +7,7 @@ name:
   clan: Barnesku
   aliases: []
 id: ieFl8xnmrFE9x2bO
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: meraofbarnesku
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

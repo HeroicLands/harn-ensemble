@@ -7,7 +7,7 @@ name:
   clan: Kalir
   aliases: []
 id: DkDM6XFFOxCPOHfV
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: punatgenofkalir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

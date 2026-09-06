@@ -7,7 +7,7 @@ name:
   clan: Sethade
   aliases: []
 id: 3KYI7VUAix6xYBIl
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: erelaofsethade
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

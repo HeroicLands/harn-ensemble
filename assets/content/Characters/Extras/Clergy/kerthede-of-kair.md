@@ -7,7 +7,7 @@ name:
   clan: Kair
   aliases: []
 id: StsxsZodiBiMRdeD
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kerthedeofkair
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

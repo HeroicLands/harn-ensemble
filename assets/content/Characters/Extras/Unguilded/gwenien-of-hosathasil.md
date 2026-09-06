@@ -7,7 +7,7 @@ name:
   clan: Hosathasil
   aliases: []
 id: amojJRTs8T1i5Uqs
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gwenienofhosathasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

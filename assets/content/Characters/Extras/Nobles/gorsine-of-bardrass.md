@@ -7,7 +7,7 @@ name:
   clan: Bardrass
   aliases: []
 id: UFxy2ZBBTbWAsGKs
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: gorsineofbardrass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

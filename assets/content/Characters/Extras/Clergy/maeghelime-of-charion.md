@@ -7,7 +7,7 @@ name:
   clan: Charion
   aliases: []
 id: e2Jou9sP2MkRZkUj
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: maeghelimeofcharion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

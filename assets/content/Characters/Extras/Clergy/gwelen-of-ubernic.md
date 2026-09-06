@@ -7,7 +7,7 @@ name:
   clan: Ubernic
   aliases: []
 id: vC8tqvWwpum3WkGf
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gwelenofubernic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

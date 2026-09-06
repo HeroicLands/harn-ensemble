@@ -7,7 +7,7 @@ name:
   clan: Sedir
   aliases: []
 id: sWohDlkTyQ1MaTC4
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: lavroofsedir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

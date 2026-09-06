@@ -7,7 +7,7 @@ name:
   clan: Asain
   aliases: []
 id: ZnaNfvzUeBlIS6hl
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: norbinofasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

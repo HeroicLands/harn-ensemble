@@ -7,7 +7,7 @@ name:
   clan: Aeb
   aliases: []
 id: 1zk2Qugu1RBDWM8l
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ithofaeb
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

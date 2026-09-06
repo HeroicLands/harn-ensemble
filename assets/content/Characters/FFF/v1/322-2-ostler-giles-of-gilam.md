@@ -7,7 +7,7 @@ name:
   clan: Gilam
   aliases: []
 id: uMJgJveyseH1IrT8
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: gilesofgilam
 img: images/fffv1/token/FFF_322-2_Ostler.png
 portrait: images/fffv1/FFF_322-2_Ostler.jpg

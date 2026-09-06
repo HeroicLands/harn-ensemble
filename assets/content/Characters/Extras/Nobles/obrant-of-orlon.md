@@ -7,7 +7,7 @@ name:
   clan: Orlon
   aliases: []
 id: ZfkzTscnUfspjtif
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: obrantoforlon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

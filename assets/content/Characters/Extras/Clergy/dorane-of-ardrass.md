@@ -7,7 +7,7 @@ name:
   clan: Ardrass
   aliases: []
 id: vaYqCKP87vICQ5MI
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: doraneofardrass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

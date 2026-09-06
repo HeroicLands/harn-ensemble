@@ -7,7 +7,7 @@ name:
   clan: Kantar
   aliases: []
 id: TAYCQdjAFa4bfTZN
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: jendraofkantar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

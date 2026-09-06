@@ -7,7 +7,7 @@ name:
   clan: Gwenda
   aliases: []
 id: foRZu1pqr6NaS9QJ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: horisofgwenda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

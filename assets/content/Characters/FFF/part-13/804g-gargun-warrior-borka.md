@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: WsoowZSwGZT5T7K8
-folder: gO37pwFIr5B44hdV
+packFolder: fffnonhumans
 shortcode: borka
 img: images/fff-13/FFF_804g_Gargun_Warrior-headshot.webp
 portrait: images/fff-13/FFF_804g_Gargun_Warrior.webp

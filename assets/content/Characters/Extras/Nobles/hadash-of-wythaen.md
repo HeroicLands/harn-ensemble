@@ -7,7 +7,7 @@ name:
   clan: Wythaen
   aliases: []
 id: MiOqH2TTQxcDEFN0
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: hadashofwythaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

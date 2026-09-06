@@ -7,7 +7,7 @@ name:
   clan: Bantarkoff
   aliases: []
 id: uq2m5qMCKiBsNHKN
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: caroofbantarkoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

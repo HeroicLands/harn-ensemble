@@ -7,7 +7,7 @@ name:
   clan: Hipaeus
   aliases: []
 id: NkhyjR85RS5tYY7z
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: quedaofhipaeus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

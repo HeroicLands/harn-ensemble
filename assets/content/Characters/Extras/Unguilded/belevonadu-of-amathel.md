@@ -7,7 +7,7 @@ name:
   clan: Amathel
   aliases: []
 id: nRCSP7hzcTSMI9c1
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: belevonaduofamathel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

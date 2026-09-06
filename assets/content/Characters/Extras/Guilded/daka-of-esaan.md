@@ -7,7 +7,7 @@ name:
   clan: Esaan
   aliases: []
 id: syOhAPQndk0h2Cn7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: dakaofesaan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

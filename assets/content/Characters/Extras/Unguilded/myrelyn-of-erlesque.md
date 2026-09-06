@@ -7,7 +7,7 @@ name:
   clan: Erlesque
   aliases: []
 id: n9cpr5zHUDYjiiMZ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: myrelynoferlesque
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

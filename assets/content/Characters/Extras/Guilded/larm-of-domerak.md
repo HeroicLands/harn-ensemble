@@ -7,7 +7,7 @@ name:
   clan: Domerak
   aliases: []
 id: lYHpKTWePBpyyPXA
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: larmofdomerak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

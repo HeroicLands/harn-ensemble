@@ -7,7 +7,7 @@ name:
   clan: Khon
   aliases: []
 id: A8JcwZ73LjNuo4Zr
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: nereryofkhon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

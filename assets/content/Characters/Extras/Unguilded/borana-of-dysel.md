@@ -7,7 +7,7 @@ name:
   clan: Dysel
   aliases: []
 id: tJJ3wEezmanF2GeQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: boranaofdysel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

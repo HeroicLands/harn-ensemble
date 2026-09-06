@@ -7,7 +7,7 @@ name:
   clan: Bronadui
   aliases: []
 id: 4KcdMVokOC4CM6ql
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amarthorofbronadui
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

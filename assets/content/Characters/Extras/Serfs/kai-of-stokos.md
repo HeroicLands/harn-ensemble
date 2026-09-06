@@ -7,7 +7,7 @@ name:
   clan: Stokos
   aliases: []
 id: M7QXKSOFk1UJmnrT
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: kaiofstokos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Sunigal
   aliases: []
 id: G9hIh3eVutHY7ECy
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: terzaofsunigal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

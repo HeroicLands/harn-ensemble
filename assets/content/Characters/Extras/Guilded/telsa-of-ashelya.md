@@ -7,7 +7,7 @@ name:
   clan: Ashelya
   aliases: []
 id: 9MQ10TETZii27gyy
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: telsaofashelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

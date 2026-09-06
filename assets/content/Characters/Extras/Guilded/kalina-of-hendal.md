@@ -7,7 +7,7 @@ name:
   clan: Hendal
   aliases: []
 id: qW08jv9DcBXKfIWn
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kalinaofhendal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

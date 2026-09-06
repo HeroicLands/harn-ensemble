@@ -7,7 +7,7 @@ name:
   clan: Parsel
   aliases: []
 id: pS13LckYVLVeo0BM
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: seginaofparsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

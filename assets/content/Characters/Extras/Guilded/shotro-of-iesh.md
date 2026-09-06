@@ -7,7 +7,7 @@ name:
   clan: Iesh
   aliases: []
 id: GZj7M7JXN6ZSeU0h
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: shotroofiesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

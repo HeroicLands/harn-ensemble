@@ -7,7 +7,7 @@ name:
   clan: Pendel
   aliases: []
 id: tMxgzG7HNoWmI0Db
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: laseralofpendel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

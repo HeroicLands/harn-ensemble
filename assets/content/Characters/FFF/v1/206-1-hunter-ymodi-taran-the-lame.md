@@ -7,7 +7,7 @@ name:
   clan: the Lame
   aliases: []
 id: 8acm9Zl7OcmNQ4d6
-folder: 7Xwu1hTIGLl30Unj
+packFolder: fffbarbarians
 shortcode: taranthelame
 img: images/fffv1/token/FFF_206-1_Hunter_Ymodi.png
 portrait: images/fffv1/FFF_206-1_Hunter_Ymodi.jpg

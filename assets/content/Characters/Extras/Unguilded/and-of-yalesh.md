@@ -7,7 +7,7 @@ name:
   clan: Yalesh
   aliases: []
 id: sbh1wkY7uVAop1nS
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: andofyalesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

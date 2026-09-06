@@ -7,7 +7,7 @@ name:
   clan: Veris
   aliases: []
 id: 9N51idbHVbV0dtCv
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: doraneofveris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

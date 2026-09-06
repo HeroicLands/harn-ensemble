@@ -7,7 +7,7 @@ name:
   clan: Lumeden
   aliases: []
 id: 07MzhQm9cvlen5LG
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captainfeldaranoflumeden
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

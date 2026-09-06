@@ -7,7 +7,7 @@ name:
   clan: Ewel
   aliases: []
 id: 4KyjdQWi1BrjZk9B
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: kuvelofewel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

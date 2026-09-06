@@ -7,7 +7,7 @@ name:
   clan: Erlis
   aliases: []
 id: TjbkVqYcVIf2iBwv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: meraoferlis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

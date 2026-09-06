@@ -7,7 +7,7 @@ name:
   clan: Cybela
   aliases: []
 id: Qdw4OnB9CZSdUHfh
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: hemisenofcybela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

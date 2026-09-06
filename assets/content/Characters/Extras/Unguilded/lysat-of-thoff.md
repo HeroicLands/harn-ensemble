@@ -7,7 +7,7 @@ name:
   clan: Thoff
   aliases: []
 id: p4NtgDtongxF1e7q
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lysatofthoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

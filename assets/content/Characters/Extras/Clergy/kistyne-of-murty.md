@@ -7,7 +7,7 @@ name:
   clan: Murty
   aliases: []
 id: GJgBNkhPIV4hIAGX
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kistyneofmurty
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

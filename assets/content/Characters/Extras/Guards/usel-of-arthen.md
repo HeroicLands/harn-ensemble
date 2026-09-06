@@ -7,7 +7,7 @@ name:
   clan: Arthen
   aliases: []
 id: IGfvOgVcwL65H0P4
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: uselofarthen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

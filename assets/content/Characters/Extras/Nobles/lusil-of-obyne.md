@@ -7,7 +7,7 @@ name:
   clan: Obyne
   aliases: []
 id: Lgf6wN9lpucsDbaV
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: lusilofobyne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kar
   aliases: []
 id: fQCs2nh7HLQmofi6
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: geacelshinofkar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

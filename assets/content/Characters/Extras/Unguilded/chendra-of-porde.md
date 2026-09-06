@@ -7,7 +7,7 @@ name:
   clan: Porde
   aliases: []
 id: ltp4MpRu0B5AWXuQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: chendraofporde
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

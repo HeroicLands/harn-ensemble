@@ -7,7 +7,7 @@ name:
   clan: Halle
   aliases: []
 id: GYWvGsJdLbkbcVDO
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: borsofhalle
 img: images/fffv1/token/FFF_331-1_Thespian.png
 portrait: images/fffv1/FFF_331-1_Thespian.jpg

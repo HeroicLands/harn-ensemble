@@ -7,7 +7,7 @@ name:
   clan: Tabralgurty
   aliases: []
 id: N4ejmsYwZGeOrzGd
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: habinoftabralgurty
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

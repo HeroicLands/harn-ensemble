@@ -7,7 +7,7 @@ name:
   clan: Balin
   aliases: []
 id: UCWBf7qKU8EU7PNM
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteraneralofbalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Whyce
   aliases: []
 id: Sn15Is8R40oLmnnS
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: sarinofwhyce
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Iaras
   aliases: []
 id: WUiamTNWkWPl4AeT
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: perlaofiaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

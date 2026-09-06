@@ -7,7 +7,7 @@ name:
   clan: Barak
   aliases: []
 id: Du6f5NkhjozQYmh5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: urlinofbarak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

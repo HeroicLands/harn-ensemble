@@ -7,7 +7,7 @@ name:
   clan: Manchin
   aliases: []
 id: kyZlHhGNZ5TKjd2Y
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: dakaofmanchin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

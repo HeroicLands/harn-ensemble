@@ -7,7 +7,7 @@ name:
   clan: Chel
   aliases: []
 id: yMeayC8AyAobdiwL
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arvaofchel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

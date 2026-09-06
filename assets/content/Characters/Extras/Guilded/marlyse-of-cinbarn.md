@@ -7,7 +7,7 @@ name:
   clan: Cinbarn
   aliases: []
 id: l2ypbRMy2FjTluvt
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: marlyseofcinbarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

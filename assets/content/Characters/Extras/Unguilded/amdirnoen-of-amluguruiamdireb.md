@@ -7,7 +7,7 @@ name:
   clan: Amluguruiamdireb
   aliases: []
 id: sCCGCaweVntaaGW6
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amdirnoenofamluguruiamdireb
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Shonarasarion
   aliases: []
 id: iysDVuqi9zkY2ccS
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: rosakofshonarasarion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

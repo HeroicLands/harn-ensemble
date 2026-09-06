@@ -7,7 +7,7 @@ name:
   clan: Kanthen
   aliases: []
 id: acXyneIUzXc6AGYY
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: aradahofkanthen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

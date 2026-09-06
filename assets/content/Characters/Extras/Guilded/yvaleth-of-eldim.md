@@ -7,7 +7,7 @@ name:
   clan: Eldim
   aliases: []
 id: rIoeR08mKlAq5EZh
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yvalethofeldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

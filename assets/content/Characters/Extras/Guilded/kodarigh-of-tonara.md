@@ -7,7 +7,7 @@ name:
   clan: Tonara
   aliases: []
 id: OGm52OLdRmkgkeT9
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kodarighoftonara
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

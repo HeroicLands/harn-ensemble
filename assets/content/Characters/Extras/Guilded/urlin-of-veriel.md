@@ -7,7 +7,7 @@ name:
   clan: Veriel
   aliases: []
 id: JtUsw7diExvUN74S
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: urlinofveriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

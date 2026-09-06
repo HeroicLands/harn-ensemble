@@ -7,7 +7,7 @@ name:
   clan: Barn
   aliases: []
 id: kajUvOOs09yT49GO
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: shemlenofbarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

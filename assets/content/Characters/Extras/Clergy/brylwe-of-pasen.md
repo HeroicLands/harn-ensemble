@@ -7,7 +7,7 @@ name:
   clan: Pasen
   aliases: []
 id: L6jwAqJPS64WWZ2P
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: brylweofpasen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

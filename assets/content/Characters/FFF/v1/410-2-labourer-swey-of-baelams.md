@@ -7,7 +7,7 @@ name:
   clan: Baelams
   aliases: []
 id: w2vH7cnipVCJSRLA
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: sweyofbaelams
 img: images/fffv1/token/FFF_410-2_Labourer.png
 portrait: images/fffv1/FFF_410-2_Labourer.jpg

@@ -7,7 +7,7 @@ name:
   clan: Debern
   aliases: []
 id: 3TubhhMgMy8T1Hgx
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: adasarofdebern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

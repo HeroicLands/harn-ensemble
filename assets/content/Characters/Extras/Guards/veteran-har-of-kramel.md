@@ -7,7 +7,7 @@ name:
   clan: Kramel
   aliases: []
 id: O2dKgUwUMvSvLrxB
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranharofkramel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Beldan
   aliases: []
 id: ZE3p9NW6NVJEvBz8
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: jakkynofbeldan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

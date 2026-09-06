@@ -7,7 +7,7 @@ name:
   clan: Eylochin
   aliases: []
 id: Qf8ivThVUUEVCCU6
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: norofeylochin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

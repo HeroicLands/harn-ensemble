@@ -7,7 +7,7 @@ name:
   clan: Sel
   aliases: []
 id: eFvZygz9CV63TwE2
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: obirisofsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

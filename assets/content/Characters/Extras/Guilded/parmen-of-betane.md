@@ -7,7 +7,7 @@ name:
   clan: Betane
   aliases: []
 id: YnovGMQmg5DpJYBU
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: parmenofbetane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

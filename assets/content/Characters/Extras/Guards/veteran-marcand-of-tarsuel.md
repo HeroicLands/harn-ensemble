@@ -7,7 +7,7 @@ name:
   clan: Tarsuel
   aliases: []
 id: umeOpD7vejUGG33h
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranmarcandoftarsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

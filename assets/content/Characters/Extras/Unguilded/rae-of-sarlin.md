@@ -7,7 +7,7 @@ name:
   clan: Sarlin
   aliases: []
 id: 8nGLwIJt89Kqiurx
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: raeofsarlin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Dybarsin
   aliases: []
 id: SuVadk6XFh0kCEKB
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jakkynofdybarsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

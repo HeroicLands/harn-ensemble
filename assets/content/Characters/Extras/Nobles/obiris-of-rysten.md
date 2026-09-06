@@ -7,7 +7,7 @@ name:
   clan: Rysten
   aliases: []
 id: 4qo8CvoW8DO7Rwio
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: obirisofrysten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

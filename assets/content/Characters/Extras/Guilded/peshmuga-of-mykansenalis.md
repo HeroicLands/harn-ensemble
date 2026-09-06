@@ -7,7 +7,7 @@ name:
   clan: Mykansenalis
   aliases: []
 id: MvES4sWFAaujP0rF
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: peshmugaofmykansenalis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

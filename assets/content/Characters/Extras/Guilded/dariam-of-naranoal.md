@@ -7,7 +7,7 @@ name:
   clan: Naranoal
   aliases: []
 id: Q3YJXnnDxwUPJVGv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: dariamofnaranoal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

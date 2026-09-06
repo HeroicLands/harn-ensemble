@@ -7,7 +7,7 @@ name:
   clan: Asarin
   aliases: []
 id: rXrOkwXLx1hGkPL1
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gyandersofasarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

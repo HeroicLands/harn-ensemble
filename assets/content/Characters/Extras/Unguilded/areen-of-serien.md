@@ -7,7 +7,7 @@ name:
   clan: Serien
   aliases: []
 id: eNeswL3AtVntzRot
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: areenofserien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

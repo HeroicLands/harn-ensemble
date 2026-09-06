@@ -7,7 +7,7 @@ name:
   clan: Barsel
   aliases: []
 id: GAUXS2PWxQI9IdVT
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: corfynofbarsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

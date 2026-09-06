@@ -7,7 +7,7 @@ name:
   clan: Khonan
   aliases: []
 id: eGAgAUpSCSIe9Rm0
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: yelimeofkhonan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

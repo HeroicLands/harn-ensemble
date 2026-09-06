@@ -7,7 +7,7 @@ name:
   clan: Hilrich
   aliases: []
 id: erI5MfLE7qLtvtEu
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: belofhilrich
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Vylosath
   aliases: []
 id: bu8sfyJszY3tAT3W
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: boraneofvylosath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

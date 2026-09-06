@@ -7,7 +7,7 @@ name:
   clan: Balch
   aliases: []
 id: 7KmIhxJjr1L0bRR5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amathofbalch
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

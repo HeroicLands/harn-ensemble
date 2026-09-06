@@ -7,7 +7,7 @@ name:
   clan: Asarn
   aliases: []
 id: zRHCVBVaIN8CG7Z6
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: gerrickasarn
 img: images/fffv1/token/FFF_599-2_Dilettante.png
 portrait: images/fffv1/FFF_599-2_Dilettante.jpg

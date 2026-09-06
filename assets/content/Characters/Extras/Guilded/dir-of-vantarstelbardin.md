@@ -7,7 +7,7 @@ name:
   clan: Vantarstelbardin
   aliases: []
 id: ElKcMnurerYbVNiE
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: dirofvantarstelbardin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

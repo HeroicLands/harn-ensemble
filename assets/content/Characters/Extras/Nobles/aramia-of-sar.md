@@ -7,7 +7,7 @@ name:
   clan: Sar
   aliases: []
 id: DPV5L5ZtW8SyydZ8
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: aramiaofsar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

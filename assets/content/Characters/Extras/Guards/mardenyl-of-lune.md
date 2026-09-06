@@ -7,7 +7,7 @@ name:
   clan: Lune
   aliases: []
 id: nj9kMcW8VgPZb55m
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: mardenyloflune
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

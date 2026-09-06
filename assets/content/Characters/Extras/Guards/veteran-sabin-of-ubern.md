@@ -7,7 +7,7 @@ name:
   clan: Ubern
   aliases: []
 id: ck46MaAxdnPuSRwq
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteransabinofubern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

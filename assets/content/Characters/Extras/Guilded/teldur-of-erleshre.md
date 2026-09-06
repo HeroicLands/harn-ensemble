@@ -7,7 +7,7 @@ name:
   clan: Erleshre
   aliases: []
 id: 8JtiDifCMq47GT0Z
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: telduroferleshre
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

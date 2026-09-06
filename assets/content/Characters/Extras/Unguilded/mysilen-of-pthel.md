@@ -7,7 +7,7 @@ name:
   clan: Pthel
   aliases: []
 id: 9yaQWKllYe2ieMH2
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: mysilenofpthel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

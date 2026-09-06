@@ -7,7 +7,7 @@ name:
   clan: Bellis
   aliases: []
 id: 94g9lOHQKrSYFkPs
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: shaelderienofbellis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

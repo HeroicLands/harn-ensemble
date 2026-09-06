@@ -7,7 +7,7 @@ name:
   clan: Ath
   aliases: []
 id: Rq33azFOv523uN4h
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: tulahofath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

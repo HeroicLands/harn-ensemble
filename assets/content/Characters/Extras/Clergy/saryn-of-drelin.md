@@ -7,7 +7,7 @@ name:
   clan: Drelin
   aliases: []
 id: lw4DB4DZ84mi4jHT
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: sarynofdrelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

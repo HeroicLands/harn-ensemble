@@ -7,7 +7,7 @@ name:
   clan: Dulkai
   aliases: []
 id: zdfIZnqxTlrwEFJ8
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: satofdulkai
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

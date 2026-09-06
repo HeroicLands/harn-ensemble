@@ -7,7 +7,7 @@ name:
   clan: Bellyr
   aliases: []
 id: ghzFGm9g5oX6TcFk
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: orthiasofbellyr
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

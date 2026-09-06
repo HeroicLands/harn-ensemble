@@ -7,7 +7,7 @@ name:
   clan: Meral
   aliases: []
 id: 45hzVh4KgtbuMj1T
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: boraneofmeral
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

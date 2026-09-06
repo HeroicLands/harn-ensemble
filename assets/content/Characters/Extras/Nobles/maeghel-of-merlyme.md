@@ -7,7 +7,7 @@ name:
   clan: Merlyme
   aliases: []
 id: wU6pihX0I3ihnRxR
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: maeghelofmerlyme
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

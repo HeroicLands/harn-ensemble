@@ -7,7 +7,7 @@ name:
   clan: Darin
   aliases: []
 id: OUhz3oq16z61v3NP
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: trunethasisofdarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

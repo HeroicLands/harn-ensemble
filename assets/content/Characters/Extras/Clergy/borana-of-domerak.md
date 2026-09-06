@@ -7,7 +7,7 @@ name:
   clan: Domerak
   aliases: []
 id: I9OxxfChQ7kpFqb6
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: boranaofdomerak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

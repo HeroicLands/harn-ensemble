@@ -7,7 +7,7 @@ name:
   clan: Weth
   aliases: []
 id: kEbTsF0iA6ZMpXG9
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: harisofweth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

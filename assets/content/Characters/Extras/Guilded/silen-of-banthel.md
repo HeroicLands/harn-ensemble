@@ -7,7 +7,7 @@ name:
   clan: Banthel
   aliases: []
 id: LwcCXJMHUYHLljjQ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: silenofbanthel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

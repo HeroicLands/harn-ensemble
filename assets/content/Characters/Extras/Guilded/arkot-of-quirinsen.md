@@ -7,7 +7,7 @@ name:
   clan: Quirinsen
   aliases: []
 id: 5OSlAn4X9IWitoae
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arkotofquirinsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

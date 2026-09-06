@@ -7,7 +7,7 @@ name:
   clan: Intrel
   aliases: []
 id: 7YtLU0rWVyAUSAi5
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ashofintrel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Gevraelin
   aliases: []
 id: wAcJJ6UzKpzR0739
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kistyneofgevraelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

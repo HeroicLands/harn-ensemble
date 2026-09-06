@@ -7,7 +7,7 @@ name:
   clan: Ena
   aliases: []
 id: zUhvYlJ55HSxw0kl
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tolmeyofena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

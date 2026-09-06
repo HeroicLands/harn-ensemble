@@ -7,7 +7,7 @@ name:
   clan: Meral
   aliases: []
 id: vAKeXMBkqVJRjwEM
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gweleofmeral
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

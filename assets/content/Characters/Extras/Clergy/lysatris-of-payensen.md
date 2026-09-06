@@ -7,7 +7,7 @@ name:
   clan: Payensen
   aliases: []
 id: 1udlLJ7MfNLcu94M
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lysatrisofpayensen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

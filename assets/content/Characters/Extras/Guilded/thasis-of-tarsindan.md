@@ -7,7 +7,7 @@ name:
   clan: Tarsindan
   aliases: []
 id: x0pkfEQdPgI6n0Vp
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: thasisoftarsindan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ubela
   aliases: []
 id: a38xtwYPaZ7i0Yih
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: martunofubela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

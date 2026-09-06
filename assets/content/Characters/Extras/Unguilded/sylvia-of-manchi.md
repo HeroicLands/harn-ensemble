@@ -7,7 +7,7 @@ name:
   clan: Manchi
   aliases: []
 id: rz5IOIuztzyzkNEB
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: sylviaofmanchi
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

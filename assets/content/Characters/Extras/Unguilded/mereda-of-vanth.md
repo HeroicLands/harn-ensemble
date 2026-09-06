@@ -7,7 +7,7 @@ name:
   clan: Vanth
   aliases: []
 id: a79JZWHh6YOkpqh2
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: meredaofvanth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Quiribor
   aliases: []
 id: Mm8KA5USnRxERfGD
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lavroofquiribor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

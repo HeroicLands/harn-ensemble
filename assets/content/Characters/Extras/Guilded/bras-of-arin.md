@@ -7,7 +7,7 @@ name:
   clan: Arin
   aliases: []
 id: rXijJNSXzuYdAqup
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: brasofarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

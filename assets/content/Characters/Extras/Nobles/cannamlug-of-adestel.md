@@ -7,7 +7,7 @@ name:
   clan: Adestel
   aliases: []
 id: aMnOKvDwgBERt1Ru
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cannamlugofadestel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

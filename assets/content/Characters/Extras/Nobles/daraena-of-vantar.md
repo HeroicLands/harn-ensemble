@@ -7,7 +7,7 @@ name:
   clan: Vantar
   aliases: []
 id: yBuCKWPsy3btnTKA
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: daraenaofvantar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

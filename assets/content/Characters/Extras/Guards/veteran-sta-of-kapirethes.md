@@ -7,7 +7,7 @@ name:
   clan: Kapirethes
   aliases: []
 id: eEjEaaEl1c9JaLlR
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranstaofkapirethes
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Dethes
   aliases: []
 id: K092wO5MaufeITja
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: jorlakofdethes
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

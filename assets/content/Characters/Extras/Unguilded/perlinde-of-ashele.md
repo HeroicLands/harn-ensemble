@@ -7,7 +7,7 @@ name:
   clan: Ashele
   aliases: []
 id: G6E9NTpSiKsfUfSK
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: perlindeofashele
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

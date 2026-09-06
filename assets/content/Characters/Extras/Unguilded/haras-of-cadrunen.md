@@ -7,7 +7,7 @@ name:
   clan: Cadrunen
   aliases: []
 id: yQs7W8gvx3tyCc6j
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: harasofcadrunen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

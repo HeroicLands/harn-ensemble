@@ -7,7 +7,7 @@ name:
   clan: Alphadassen
   aliases: []
 id: DHoiMG9M9sSeXc8A
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amdirvelchanofalphadassen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

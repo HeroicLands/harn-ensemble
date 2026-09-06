@@ -7,7 +7,7 @@ name:
   clan: Baethasil
   aliases: []
 id: TokpMaZMyPO70H7d
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: larmofbaethasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

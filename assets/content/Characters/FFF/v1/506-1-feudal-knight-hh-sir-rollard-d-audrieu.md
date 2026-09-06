@@ -7,7 +7,7 @@ name:
   clan: d'Audrieu
   aliases: []
 id: otiVCxlD88xv2bcy
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: sirrollarddaudrieu
 img: images/fffv1/token/FFF_506-1_Feudal_Knight_HH.png
 portrait: images/fffv1/FFF_506-1_Feudal_Knight_HH.jpg

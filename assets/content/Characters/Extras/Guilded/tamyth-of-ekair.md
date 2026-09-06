@@ -7,7 +7,7 @@ name:
   clan: Ekair
   aliases: []
 id: OyzbrGqp0tWuhQ8w
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tamythofekair
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

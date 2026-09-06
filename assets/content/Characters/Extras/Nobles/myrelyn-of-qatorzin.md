@@ -7,7 +7,7 @@ name:
   clan: Qatorzin
   aliases: []
 id: bSVUg0i7ZcTMFWiu
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: myrelynofqatorzin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Charcaraner
   aliases: []
 id: 3kRZxyYxlIz2s4us
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: forenaofcharcaraner
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

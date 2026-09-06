@@ -7,7 +7,7 @@ name:
   clan: Leredostaldim
   aliases: []
 id: Y3f8yRA7zdh1JsJX
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranfeldaradofleredostaldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

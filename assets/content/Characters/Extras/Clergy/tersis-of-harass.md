@@ -7,7 +7,7 @@ name:
   clan: Harass
   aliases: []
 id: ClURQOTruIL5VEvw
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: tersisofharass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kalin
   aliases: []
 id: hLMQVo5nYrTtYVB0
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranburkorbinofkalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

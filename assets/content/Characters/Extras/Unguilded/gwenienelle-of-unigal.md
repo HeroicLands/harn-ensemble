@@ -7,7 +7,7 @@ name:
   clan: Unigal
   aliases: []
 id: D0kh7cFI1rL07x9f
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gwenienelleofunigal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

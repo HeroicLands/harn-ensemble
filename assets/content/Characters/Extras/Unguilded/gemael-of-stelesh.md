@@ -7,7 +7,7 @@ name:
   clan: Stelesh
   aliases: []
 id: f664epQ5OEZb0MLx
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gemaelofstelesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

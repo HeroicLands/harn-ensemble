@@ -7,7 +7,7 @@ name:
   clan: Wethendel
   aliases: []
 id: DEQzNZdCmk1nP1Um
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: merwasofwethendel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Gel
   aliases: []
 id: k5ju27pgUqY4uXBv
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: laserenaofgel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

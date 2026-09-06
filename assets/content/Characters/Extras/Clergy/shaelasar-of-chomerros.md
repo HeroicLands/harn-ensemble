@@ -7,7 +7,7 @@ name:
   clan: Chomerros
   aliases: []
 id: eSa5Qpj09ymhG4vY
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: shaelasarofchomerros
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

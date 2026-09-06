@@ -7,7 +7,7 @@ name:
   clan: Uert
   aliases: []
 id: o8TWdE7rfsezGYKa
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captainarbinofuert
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

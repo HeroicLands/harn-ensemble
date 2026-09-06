@@ -7,7 +7,7 @@ name:
   clan: Fyrwey
   aliases: []
 id: awKuFaoeX8MPhTj1
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: wyteoffyrwey
 img: images/fffv1/token/FFF_421-1_Thatcher.png
 portrait: images/fffv1/FFF_421-1_Thatcher.jpg

@@ -7,7 +7,7 @@ name:
   clan: Theikak
   aliases: []
 id: Ef3xya3CCOmtK8z9
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: makoftheikak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

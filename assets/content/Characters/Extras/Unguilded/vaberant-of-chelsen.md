@@ -7,7 +7,7 @@ name:
   clan: Chelsen
   aliases: []
 id: jRaVhUbB3HIHMESE
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: vaberantofchelsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kar
   aliases: []
 id: U3tCzLG74QJ5MsKe
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: helofkar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

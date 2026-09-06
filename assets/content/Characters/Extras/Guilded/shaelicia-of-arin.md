@@ -7,7 +7,7 @@ name:
   clan: Arin
   aliases: []
 id: 1wzPBql1gy8dCGxe
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: shaeliciaofarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

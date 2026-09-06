@@ -7,7 +7,7 @@ name:
   clan: Charanchi
   aliases: []
 id: X6KRHhVPRUpl9mNN
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: melofcharanchi
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

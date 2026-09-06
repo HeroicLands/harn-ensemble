@@ -7,7 +7,7 @@ name:
   clan: Unis
   aliases: []
 id: CTQ6LXOPhSIhqlxA
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ginaofunis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

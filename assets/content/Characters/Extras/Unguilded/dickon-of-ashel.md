@@ -7,7 +7,7 @@ name:
   clan: Ashel
   aliases: []
 id: ryBYaS3NyM6xq4FF
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: dickonofashel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

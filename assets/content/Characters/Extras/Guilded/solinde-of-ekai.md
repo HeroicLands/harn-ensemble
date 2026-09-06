@@ -7,7 +7,7 @@ name:
   clan: Ekai
   aliases: []
 id: oDUQNV2NSyPDEF1q
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: solindeofekai
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Agadast
   aliases: []
 id: 3YmVvGOf2dDONKID
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: talsisofagadast
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

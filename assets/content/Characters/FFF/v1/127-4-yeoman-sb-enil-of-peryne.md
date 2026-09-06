@@ -7,7 +7,7 @@ name:
   clan: Peryne
   aliases: []
 id: fxyjVCZd3d3TokVH
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: enilofperyne
 img: images/fffv1/token/FFF_127-4_Yeoman_SB.png
 portrait: images/fffv1/FFF_127-4_Yeoman_SB.jpg

@@ -7,7 +7,7 @@ name:
   clan: Murth
   aliases: []
 id: 4oI1JoRatFs2Mdve
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: punatofmurth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

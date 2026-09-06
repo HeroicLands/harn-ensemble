@@ -7,7 +7,7 @@ name:
   clan: Ewel
   aliases: []
 id: lt50ZCvRhp3Av9By
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: klarmofewel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Tal
   aliases: []
 id: y8j899DZQUxIvG1y
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: semisoftal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

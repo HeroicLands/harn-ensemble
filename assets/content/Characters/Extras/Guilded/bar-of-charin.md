@@ -7,7 +7,7 @@ name:
   clan: Charin
   aliases: []
 id: gQXXbSvULx2cfTuw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: barofcharin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

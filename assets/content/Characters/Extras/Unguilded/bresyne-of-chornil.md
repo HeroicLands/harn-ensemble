@@ -7,7 +7,7 @@ name:
   clan: Chornil
   aliases: []
 id: kCGUP2o5AGfbTV6f
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bresyneofchornil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

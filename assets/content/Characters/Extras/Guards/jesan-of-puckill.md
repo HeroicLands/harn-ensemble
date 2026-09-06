@@ -7,7 +7,7 @@ name:
   clan: Puckill
   aliases: []
 id: xbYaGd0sIwoc0vCA
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: jesanofpuckill
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

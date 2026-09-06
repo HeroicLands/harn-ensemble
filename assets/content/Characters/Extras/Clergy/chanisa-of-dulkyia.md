@@ -7,7 +7,7 @@ name:
   clan: Dulkyia
   aliases: []
 id: 0DjRf29tJ2RcpJJd
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: chanisaofdulkyia
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

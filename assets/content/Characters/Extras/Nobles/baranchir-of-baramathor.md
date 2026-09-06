@@ -7,7 +7,7 @@ name:
   clan: Baramathor
   aliases: []
 id: NmU1ZLPDLukxMgRo
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: baranchirofbaramathor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

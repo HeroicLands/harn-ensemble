@@ -7,7 +7,7 @@ name:
   clan: Taldin
   aliases: []
 id: pVz4I8h1plYwMuU5
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cholaoftaldin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

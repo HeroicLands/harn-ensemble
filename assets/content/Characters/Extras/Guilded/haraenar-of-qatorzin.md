@@ -7,7 +7,7 @@ name:
   clan: Qatorzin
   aliases: []
 id: DCMFvCpt0t95lP6t
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: haraenarofqatorzin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

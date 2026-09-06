@@ -7,7 +7,7 @@ name:
   clan: Varoos
   aliases: []
 id: 4LLQhOLoMlxL9UH9
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lavroofvaroos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: xmbb9aLzr8VGhxZu
-folder: gO37pwFIr5B44hdV
+packFolder: fffnonhumans
 shortcode: akeur
 img: images/fff-13/FFF_804c_Gargu-Khanu_Gladiator-headshot.webp
 portrait: images/fff-13/FFF_804c_Gargu-Khanu_Gladiator.webp

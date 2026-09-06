@@ -7,7 +7,7 @@ name:
   clan: Tam
   aliases: []
 id: mKKZFqqi9mBqoiFw
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: llawaurtam
 img: images/fffv1/token/FFF_324-2_Physician.png
 portrait: images/fffv1/FFF_324-2_Physician.jpg

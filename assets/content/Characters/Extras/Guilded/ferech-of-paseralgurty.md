@@ -7,7 +7,7 @@ name:
   clan: Paseralgurty
   aliases: []
 id: bxFSjRRdUaqHd7H9
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ferechofpaseralgurty
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ograzgban
   aliases: []
 id: OF2r8P81Iq3Paa5p
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: korbinofograzgban
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

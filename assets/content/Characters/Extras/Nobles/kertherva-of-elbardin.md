@@ -7,7 +7,7 @@ name:
   clan: Elbardin
   aliases: []
 id: 9iBGBfEPhU2JGbsR
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: kerthervaofelbardin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

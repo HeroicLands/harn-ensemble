@@ -7,7 +7,7 @@ name:
   clan: Yisgaradas
   aliases: []
 id: AgsJAV5w26JTGxSa
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: tarckofyisgaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Clerdy
   aliases: []
 id: Raij3zcZsRwikfRO
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: klarinaofclerdy
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

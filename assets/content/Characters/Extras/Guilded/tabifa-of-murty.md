@@ -7,7 +7,7 @@ name:
   clan: Murty
   aliases: []
 id: M31UzTobA886sM5v
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tabifaofmurty
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

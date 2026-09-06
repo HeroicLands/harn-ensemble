@@ -7,7 +7,7 @@ name:
   clan: Amlugnim
   aliases: []
 id: L7ayRuxUNz7tdW9A
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: amlugofamlugnim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

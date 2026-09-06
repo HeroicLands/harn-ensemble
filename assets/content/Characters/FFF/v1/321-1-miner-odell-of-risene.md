@@ -7,7 +7,7 @@ name:
   clan: Risene
   aliases: []
 id: myAxxYx2A8oZ5RXO
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: odellofrisene
 img: images/fffv1/token/FFF_321-1_Miner.png
 portrait: images/fffv1/FFF_321-1_Miner.jpg

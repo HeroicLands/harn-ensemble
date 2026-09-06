@@ -7,7 +7,7 @@ name:
   clan: Asain
   aliases: []
 id: P6spKWydDdXS0ODs
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: jehanofasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

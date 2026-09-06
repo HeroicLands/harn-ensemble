@@ -7,7 +7,7 @@ name:
   clan: Kotren
   aliases: []
 id: Z6PyAMBHeoAtzUYw
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kesofkotren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

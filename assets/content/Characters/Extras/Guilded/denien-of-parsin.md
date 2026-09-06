@@ -7,7 +7,7 @@ name:
   clan: Parsin
   aliases: []
 id: n3N2zJ1AGjeBBSyn
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: denienofparsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

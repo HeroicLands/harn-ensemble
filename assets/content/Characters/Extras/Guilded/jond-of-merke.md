@@ -7,7 +7,7 @@ name:
   clan: Merke
   aliases: []
 id: wlsl5iFTghE2jrjS
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jondofmerke
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

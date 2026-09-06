@@ -7,7 +7,7 @@ name:
   clan: Geldan
   aliases: []
 id: 4HJn47nT3fihJLfy
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: kerthedeofgeldan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

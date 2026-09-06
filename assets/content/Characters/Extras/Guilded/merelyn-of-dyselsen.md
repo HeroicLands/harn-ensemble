@@ -7,7 +7,7 @@ name:
   clan: Dyselsen
   aliases: []
 id: wtHkIvPziqNtKaFl
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merelynofdyselsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

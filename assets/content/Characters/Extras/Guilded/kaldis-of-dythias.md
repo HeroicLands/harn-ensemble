@@ -7,7 +7,7 @@ name:
   clan: Dythias
   aliases: []
 id: FBw9gs2e4NTgN9wJ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kaldisofdythias
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

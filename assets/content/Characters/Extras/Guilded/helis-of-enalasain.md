@@ -7,7 +7,7 @@ name:
   clan: Enalasain
   aliases: []
 id: 7xvWiVoUkdnhXcIX
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: helisofenalasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

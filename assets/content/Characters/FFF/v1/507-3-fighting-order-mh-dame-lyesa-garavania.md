@@ -7,7 +7,7 @@ name:
   clan: Garavania
   aliases: []
 id: OypR6vo7Y9D5crQ7
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: damelyesagaravania
 img: images/fffv1/token/FFF_507-3_Fighting_Order_MH.png
 portrait: images/fffv1/FFF_507-3_Fighting_Order_MH.jpg

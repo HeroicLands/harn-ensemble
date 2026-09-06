@@ -7,7 +7,7 @@ name:
   clan: Musbern
   aliases: []
 id: PQ5lECs1gd3xY3BN
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: artonaofmusbern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

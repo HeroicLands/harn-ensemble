@@ -7,7 +7,7 @@ name:
   clan: Arasaka
   aliases: []
 id: 5MZBLwsR6LjPGO8X
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: chendraofarasaka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

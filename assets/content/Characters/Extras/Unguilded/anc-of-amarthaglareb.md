@@ -7,7 +7,7 @@ name:
   clan: Amarthaglareb
   aliases: []
 id: aQUDwWjvC4a7LUKh
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: ancofamarthaglareb
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

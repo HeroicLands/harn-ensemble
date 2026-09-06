@@ -7,7 +7,7 @@ name:
   clan: Kateris
   aliases: []
 id: 4p8xmgxfa6EDwJQr
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: jakrowofkateris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

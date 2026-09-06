@@ -7,7 +7,7 @@ name:
   clan: Taldin
   aliases: []
 id: FgUl2Yh6TVEUSeX1
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: mereryoftaldin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

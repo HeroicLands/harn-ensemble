@@ -7,7 +7,7 @@ name:
   clan: Wulverikar
   aliases: []
 id: JhyMoQg7gz3h9xzv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ferechofwulverikar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

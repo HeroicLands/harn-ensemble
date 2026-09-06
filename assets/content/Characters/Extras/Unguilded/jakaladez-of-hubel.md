@@ -7,7 +7,7 @@ name:
   clan: Hubel
   aliases: []
 id: XkHCy5VwzjCLX04D
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jakaladezofhubel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

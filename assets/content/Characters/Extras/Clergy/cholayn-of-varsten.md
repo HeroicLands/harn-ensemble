@@ -7,7 +7,7 @@ name:
   clan: Varsten
   aliases: []
 id: zwdCyQrbk9kLbd3k
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: cholaynofvarsten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

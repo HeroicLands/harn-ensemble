@@ -7,7 +7,7 @@ name:
   clan: Pythsel
   aliases: []
 id: WH1qWsO22Iyms659
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: brethasofpythsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

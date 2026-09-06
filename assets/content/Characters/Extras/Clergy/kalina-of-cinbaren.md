@@ -7,7 +7,7 @@ name:
   clan: Cinbaren
   aliases: []
 id: FsT9uzpy9QiM055Q
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kalinaofcinbaren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Lunen
   aliases: []
 id: SjQfhHz2GG52WPH8
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pirisoflunen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

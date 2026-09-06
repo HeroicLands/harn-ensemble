@@ -7,7 +7,7 @@ name:
   clan: Katerien
   aliases: []
 id: AeTZguQzugkzRSm8
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lanachofkaterien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

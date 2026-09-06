@@ -7,7 +7,7 @@ name:
   clan: Barsuel
   aliases: []
 id: AhAxkl5hFWnYAU77
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: seperlidofbarsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

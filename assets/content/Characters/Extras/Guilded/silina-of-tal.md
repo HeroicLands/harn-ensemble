@@ -7,7 +7,7 @@ name:
   clan: Tal
   aliases: []
 id: SN1QJc1hV5VfMazw
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: silinaoftal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

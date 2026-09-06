@@ -7,7 +7,7 @@ name:
   clan: Onparsuel
   aliases: []
 id: fqzaN1FZMqb6EgD7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: seralaofonparsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

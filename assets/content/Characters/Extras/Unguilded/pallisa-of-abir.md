@@ -7,7 +7,7 @@ name:
   clan: Abir
   aliases: []
 id: G4UMHAetar95QxWZ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: pallisaofabir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

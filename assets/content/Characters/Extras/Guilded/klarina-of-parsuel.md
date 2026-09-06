@@ -7,7 +7,7 @@ name:
   clan: Parsuel
   aliases: []
 id: oCJ6m21d0Cr1K6ga
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: klarinaofparsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

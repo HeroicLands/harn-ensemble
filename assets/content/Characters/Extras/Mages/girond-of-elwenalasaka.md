@@ -7,7 +7,7 @@ name:
   clan: Elwenalasaka
   aliases: []
 id: nQeiJhS9HcklWYBw
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: girondofelwenalasaka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

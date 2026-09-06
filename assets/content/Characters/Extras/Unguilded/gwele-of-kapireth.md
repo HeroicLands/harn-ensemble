@@ -7,7 +7,7 @@ name:
   clan: Kapireth
   aliases: []
 id: qjvVfBT8SdSBUxMO
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gweleofkapireth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

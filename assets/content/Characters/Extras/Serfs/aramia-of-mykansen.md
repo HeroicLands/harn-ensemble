@@ -7,7 +7,7 @@ name:
   clan: Mykansen
   aliases: []
 id: x4yvG6N33reexm0E
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: aramiaofmykansen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

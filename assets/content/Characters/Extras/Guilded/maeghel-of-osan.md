@@ -7,7 +7,7 @@ name:
   clan: Osan
   aliases: []
 id: EitHiyik2rYT6GNx
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: maeghelofosan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

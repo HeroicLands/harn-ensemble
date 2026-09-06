@@ -7,7 +7,7 @@ name:
   clan: Lumeden
   aliases: []
 id: K7OUdkElL9LjNO3R
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: myrelynoflumeden
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

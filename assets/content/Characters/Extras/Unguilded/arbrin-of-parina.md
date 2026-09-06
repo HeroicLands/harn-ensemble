@@ -7,7 +7,7 @@ name:
   clan: Parina
   aliases: []
 id: WskrA660UqeXsaWa
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: arbrinofparina
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

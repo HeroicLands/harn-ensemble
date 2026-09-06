@@ -7,7 +7,7 @@ name:
   clan: Fraul
   aliases: []
 id: uTADy2QrKz7lAu20
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: baroffraul
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Charaen
   aliases: []
 id: KCkLUsp4GkjhKQX2
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: masyneofcharaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

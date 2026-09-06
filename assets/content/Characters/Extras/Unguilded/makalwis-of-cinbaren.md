@@ -7,7 +7,7 @@ name:
   clan: Cinbaren
   aliases: []
 id: XNOBSOZb1LlWdaNb
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: makalwisofcinbaren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Chor
   aliases: []
 id: ZvCb4ktyzQXordjv
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: terzaofchor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

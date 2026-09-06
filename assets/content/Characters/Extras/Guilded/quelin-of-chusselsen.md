@@ -7,7 +7,7 @@ name:
   clan: Chusselsen
   aliases: []
 id: J2wyTGkwOKfuTLMJ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: quelinofchusselsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Eldesaldir
   aliases: []
 id: ZJrn4FC0ahwpPyrt
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: pirisofeldesaldir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Tichmarnesku
   aliases: []
 id: sSyq8BsMKUMV6WXJ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cersynoftichmarnesku
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

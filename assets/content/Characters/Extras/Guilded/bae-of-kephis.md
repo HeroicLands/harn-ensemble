@@ -7,7 +7,7 @@ name:
   clan: Kephis
   aliases: []
 id: RoovwrAL0otsyeKC
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: baeofkephis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

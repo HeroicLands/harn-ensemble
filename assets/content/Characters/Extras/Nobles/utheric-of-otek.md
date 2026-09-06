@@ -7,7 +7,7 @@ name:
   clan: Otek
   aliases: []
 id: 8DeRxiXJei9jI2iN
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: uthericofotek
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

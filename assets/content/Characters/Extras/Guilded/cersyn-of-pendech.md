@@ -7,7 +7,7 @@ name:
   clan: Pendech
   aliases: []
 id: FMXsryN2e8SLt54O
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cersynofpendech
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

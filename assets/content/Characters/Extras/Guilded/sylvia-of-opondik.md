@@ -7,7 +7,7 @@ name:
   clan: Opondik
   aliases: []
 id: 0yDtjKs97CKT7kRx
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sylviaofopondik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

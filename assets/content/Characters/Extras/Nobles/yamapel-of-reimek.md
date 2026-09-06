@@ -7,7 +7,7 @@ name:
   clan: Reimek
   aliases: []
 id: Y7o8W6VDoNj9KnMf
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: yamapelofreimek
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

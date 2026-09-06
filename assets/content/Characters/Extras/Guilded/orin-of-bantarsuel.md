@@ -7,7 +7,7 @@ name:
   clan: Bantarsuel
   aliases: []
 id: EfuyCya9wYBvTk13
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: orinofbantarsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

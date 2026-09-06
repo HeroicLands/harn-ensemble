@@ -7,7 +7,7 @@ name:
   clan: Irinara
   aliases: []
 id: Aaz2TJddCMlEa8lF
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: urlockofirinara
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

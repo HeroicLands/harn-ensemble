@@ -7,7 +7,7 @@ name:
   clan: Amafa
   aliases: []
 id: EDuOvJ25mEon40tC
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: chendofamafa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

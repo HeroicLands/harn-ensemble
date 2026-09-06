@@ -7,7 +7,7 @@ name:
   clan: Asain
   aliases: []
 id: oHAEnrfgf9kYsAOB
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: durkotofasain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Cadrunen
   aliases: []
 id: rakeV9KscBSZUUFL
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tabifaofcadrunen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

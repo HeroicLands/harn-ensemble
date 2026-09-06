@@ -7,7 +7,7 @@ name:
   clan: Tombin
   aliases: []
 id: VHM577MlKlcWHH07
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: querielaoftombin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

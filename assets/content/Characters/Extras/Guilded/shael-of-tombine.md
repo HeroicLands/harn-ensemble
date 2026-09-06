@@ -7,7 +7,7 @@ name:
   clan: Tombine
   aliases: []
 id: CuJi38bO3coB1NWI
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: shaeloftombine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

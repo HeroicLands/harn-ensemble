@@ -7,7 +7,7 @@ name:
   clan: Taldis
   aliases: []
 id: AUMfoneQ8jZWjHaW
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: garoftaldis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

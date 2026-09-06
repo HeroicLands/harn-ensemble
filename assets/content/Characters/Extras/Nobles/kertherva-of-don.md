@@ -7,7 +7,7 @@ name:
   clan: Don
   aliases: []
 id: nVNOptzHVh6mMFwA
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: kerthervaofdon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

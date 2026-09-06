@@ -7,7 +7,7 @@ name:
   clan: Drelican
   aliases: []
 id: f3ABHIZWjs5Fq7o6
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: mirisdrelican
 img: images/fffv1/token/FFF_599-1_Noble_Offspring.png
 portrait: images/fffv1/FFF_599-1_Noble_Offspring.jpg

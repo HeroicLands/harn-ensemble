@@ -7,7 +7,7 @@ name:
   clan: Kantarkoff
   aliases: []
 id: oh38NmgEWgWYSOjZ
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kaidiaofkantarkoff
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

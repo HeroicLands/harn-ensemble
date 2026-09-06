@@ -7,7 +7,7 @@ name:
   clan: Amdir
   aliases: []
 id: htiqjgMhjf2YSCDW
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: amlugofamdir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

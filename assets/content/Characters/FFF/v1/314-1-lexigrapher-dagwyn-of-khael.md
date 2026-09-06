@@ -7,7 +7,7 @@ name:
   clan: Khael
   aliases: []
 id: YodiswBfSMxgPVLK
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: dagwynofkhael
 img: images/fffv1/token/FFF_314-1_Lexigrapher.png
 portrait: images/fffv1/FFF_314-1_Lexigrapher.jpg

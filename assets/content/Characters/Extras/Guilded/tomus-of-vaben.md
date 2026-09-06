@@ -7,7 +7,7 @@ name:
   clan: Vaben
   aliases: []
 id: lApXLcA7cFm2u2yi
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tomusofvaben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

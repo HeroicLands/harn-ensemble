@@ -7,7 +7,7 @@ name:
   clan: Agarwenedrilph
   aliases: []
 id: MGFJkAx422EPdOXF
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: agaruofagarwenedrilph
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

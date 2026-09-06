@@ -7,7 +7,7 @@ name:
   clan: Aikarin
   aliases: []
 id: DIXywUKvSXlnkLUq
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: zuiquerenaofaikarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

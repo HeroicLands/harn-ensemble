@@ -7,7 +7,7 @@ name:
   clan: Wesin
   aliases: []
 id: xFcSIgThvrp5paiB
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veterankarithanofwesin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

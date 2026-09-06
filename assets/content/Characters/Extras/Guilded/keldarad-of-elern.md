@@ -7,7 +7,7 @@ name:
   clan: Elern
   aliases: []
 id: 7rmBn5GYokbKf1Yd
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: keldaradofelern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

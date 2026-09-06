@@ -7,7 +7,7 @@ name:
   clan: Baroos
   aliases: []
 id: 5R4UQ00cZrOpFMR6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jereofbaroos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

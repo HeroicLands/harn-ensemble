@@ -7,7 +7,7 @@ name:
   clan: Gel
   aliases: []
 id: OD7uSL0THpp1uGvn
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: quereleofgel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

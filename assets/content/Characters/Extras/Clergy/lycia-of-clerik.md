@@ -7,7 +7,7 @@ name:
   clan: Clerik
   aliases: []
 id: vwfp51fd5U7xUEft
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lyciaofclerik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Quiriel
   aliases: []
 id: ro7t6SFGcs8gwXSf
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: belofquiriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

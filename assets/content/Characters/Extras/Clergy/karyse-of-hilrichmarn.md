@@ -7,7 +7,7 @@ name:
   clan: Hilrichmarn
   aliases: []
 id: Vo308zVWC7dIdGUS
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: karyseofhilrichmarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

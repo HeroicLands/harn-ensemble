@@ -7,7 +7,7 @@ name:
   clan: Siven
   aliases: []
 id: jfxTZKDYrkWR88tq
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lirofsiven
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

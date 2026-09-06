@@ -7,7 +7,7 @@ name:
   clan: Tabralgurth
   aliases: []
 id: ARmSTfV025bd0sPZ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: sarinaoftabralgurth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

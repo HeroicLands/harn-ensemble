@@ -7,7 +7,7 @@ name:
   clan: Sin
   aliases: []
 id: llQPxZ6pepsN9AFg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jaslynofsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Dybaroos
   aliases: []
 id: 9ptyuiKuMIpwVo0V
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: garianofdybaroos
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

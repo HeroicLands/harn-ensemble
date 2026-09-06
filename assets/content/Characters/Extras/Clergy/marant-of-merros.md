@@ -7,7 +7,7 @@ name:
   clan: Merros
   aliases: []
 id: bnzsBOQV8AuQiC7K
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: marantofmerros
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Pthelya
   aliases: []
 id: 47KuVKZJCcdD4SBS
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kesofpthelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Asa
   aliases: []
 id: 0fq2zBCqxbexeC4Q
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lusilofasa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

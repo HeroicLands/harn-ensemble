@@ -7,7 +7,7 @@ name:
   clan: Musbern
   aliases: []
 id: mPaT0eEABRSs43Mx
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: girondasakofmusbern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Aikare
   aliases: []
 id: a6GKjKixjNYrw6CH
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: arabithofaikare
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

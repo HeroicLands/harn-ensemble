@@ -7,7 +7,7 @@ name:
   clan: Drunadkakar
   aliases: []
 id: yl2LtD6jC6RTzQW2
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: aquillinenofdrunadkakar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
