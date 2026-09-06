@@ -7,7 +7,7 @@ name:
   clan: Hosanefris
   aliases: []
 id: bzGLDFn4G4LdnN8q
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: boseralofhosanefris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

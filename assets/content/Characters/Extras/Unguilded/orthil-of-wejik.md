@@ -7,7 +7,7 @@ name:
   clan: Wejik
   aliases: []
 id: O3hwbpStmWDWwzt4
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: orthilofwejik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

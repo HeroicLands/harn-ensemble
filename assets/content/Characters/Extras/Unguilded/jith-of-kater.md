@@ -7,7 +7,7 @@ name:
   clan: Kater
   aliases: []
 id: t9uKKOsUutf4CUxC
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: jithofkater
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

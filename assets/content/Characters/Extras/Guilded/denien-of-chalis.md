@@ -7,7 +7,7 @@ name:
   clan: Chalis
   aliases: []
 id: JWc2AtqJbohQnuSp
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: denienofchalis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

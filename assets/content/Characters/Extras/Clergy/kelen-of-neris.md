@@ -7,7 +7,7 @@ name:
   clan: Neris
   aliases: []
 id: cbm3bDIFIzXmSDIi
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: kelenofneris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

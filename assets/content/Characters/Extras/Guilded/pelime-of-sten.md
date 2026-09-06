@@ -7,7 +7,7 @@ name:
   clan: Sten
   aliases: []
 id: wqNDsujtXU57lel7
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pelimeofsten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

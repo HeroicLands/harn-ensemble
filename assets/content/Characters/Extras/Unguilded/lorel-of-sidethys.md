@@ -7,7 +7,7 @@ name:
   clan: Sidethys
   aliases: []
 id: Vgf1aFk1xgeUfXey
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lorelofsidethys
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

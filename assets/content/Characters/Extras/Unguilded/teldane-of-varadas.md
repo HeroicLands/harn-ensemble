@@ -7,7 +7,7 @@ name:
   clan: Varadas
   aliases: []
 id: tEQ94umeY2F0CqoE
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: teldaneofvaradas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Selain
   aliases: []
 id: lcDjXC4Bp1fhprQv
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: terjeofselain
 img: images/fffv1/token/FFF_401-2_Falconer.png
 portrait: images/fffv1/FFF_401-2_Falconer.jpg

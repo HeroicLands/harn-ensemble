@@ -7,7 +7,7 @@ name:
   clan: Jaesinda
   aliases: []
 id: JX8Q0uN5xkDa8t2m
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jondofjaesinda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Yale
   aliases: []
 id: 0ukNqdWbo3x79RfI
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: kesofyale
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Borin
   aliases: []
 id: YvLLp3aB8TW8LymU
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: eradashaiofborin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

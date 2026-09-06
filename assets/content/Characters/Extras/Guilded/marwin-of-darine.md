@@ -7,7 +7,7 @@ name:
   clan: Darine
   aliases: []
 id: LIsZCKZ7ZAxRVBtT
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: marwinofdarine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

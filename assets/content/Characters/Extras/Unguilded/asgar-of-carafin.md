@@ -7,7 +7,7 @@ name:
   clan: Carafin
   aliases: []
 id: w5HbShr5B5Dx4VCv
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: asgarofcarafin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

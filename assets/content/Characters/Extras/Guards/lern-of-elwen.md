@@ -7,7 +7,7 @@ name:
   clan: Elwen
   aliases: []
 id: iBjuHzdO397Xen8J
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: lernofelwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

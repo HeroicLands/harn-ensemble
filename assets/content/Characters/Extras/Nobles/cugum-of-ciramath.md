@@ -7,7 +7,7 @@ name:
   clan: Ciramath
   aliases: []
 id: vcnDI8KU1VgRVqGZ
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cugumofciramath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

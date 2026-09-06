@@ -7,7 +7,7 @@ name:
   clan: Rystelburitta
   aliases: []
 id: 2NWdrNHHQJabc8pl
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gaetaneofrystelburitta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

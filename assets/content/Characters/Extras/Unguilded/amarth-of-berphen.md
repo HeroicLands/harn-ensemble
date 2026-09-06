@@ -7,7 +7,7 @@ name:
   clan: Berphen
   aliases: []
 id: RVcEmkAFU7PVB1B3
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amarthofberphen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

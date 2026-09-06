@@ -7,7 +7,7 @@ name:
   clan: Chatil
   aliases: []
 id: qA9xOa32yjCKWf5u
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: nerilofchatil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

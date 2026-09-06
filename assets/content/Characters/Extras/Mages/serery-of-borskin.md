@@ -7,7 +7,7 @@ name:
   clan: Borskin
   aliases: []
 id: 2xG9BXpKgRXgX7nn
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: sereryofborskin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

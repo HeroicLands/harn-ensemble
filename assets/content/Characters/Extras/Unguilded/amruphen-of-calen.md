@@ -7,7 +7,7 @@ name:
   clan: Calen
   aliases: []
 id: Eu4pxKVU885Jga9l
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amruphenofcalen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

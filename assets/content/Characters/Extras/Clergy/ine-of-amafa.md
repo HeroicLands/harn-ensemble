@@ -7,7 +7,7 @@ name:
   clan: Amafa
   aliases: []
 id: q9VfVGyTcPyMGhdF
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: ineofamafa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

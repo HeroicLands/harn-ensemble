@@ -7,7 +7,7 @@ name:
   clan: Anc
   aliases: []
 id: GxAjIbN7vzJlbrv2
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: cunanchanofanc
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

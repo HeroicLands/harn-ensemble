@@ -7,7 +7,7 @@ name:
   clan: Asarnil
   aliases: []
 id: scCp8g5Jkh430Sh3
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: varbrinofasarnil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

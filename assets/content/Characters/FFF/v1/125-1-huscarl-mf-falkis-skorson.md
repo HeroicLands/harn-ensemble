@@ -7,7 +7,7 @@ name:
   clan: Skorson
   aliases: []
 id: 8op3vcqRYg32R2Bb
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: falkisskorson
 img: images/fffv1/token/FFF_125-1_Huscarl_MF.png
 portrait: images/fffv1/FFF_125-1_Huscarl_MF.jpg

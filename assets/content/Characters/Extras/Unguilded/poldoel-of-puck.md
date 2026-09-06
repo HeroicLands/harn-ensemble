@@ -7,7 +7,7 @@ name:
   clan: Puck
   aliases: []
 id: jAWnjrAGauYUMSQa
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: poldoelofpuck
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

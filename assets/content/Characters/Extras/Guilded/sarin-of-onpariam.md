@@ -7,7 +7,7 @@ name:
   clan: Onpariam
   aliases: []
 id: tBpxbOJFWcVIrVok
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sarinofonpariam
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

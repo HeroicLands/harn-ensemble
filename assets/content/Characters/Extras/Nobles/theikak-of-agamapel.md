@@ -7,7 +7,7 @@ name:
   clan: Agamapel
   aliases: []
 id: q7CbyxJQfmuqpW0F
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: theikakofagamapel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

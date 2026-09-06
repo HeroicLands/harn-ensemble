@@ -7,7 +7,7 @@ name:
   clan: Vylosathan
   aliases: []
 id: wwNCDedxnZmhL8rX
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kesyneofvylosathan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

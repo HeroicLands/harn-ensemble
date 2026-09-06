@@ -7,7 +7,7 @@ name:
   clan: Pthendana
   aliases: []
 id: zj663wXUAGOEDqer
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: alaofpthendana
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

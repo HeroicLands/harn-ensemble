@@ -7,7 +7,7 @@ name:
   clan: Tonan
   aliases: []
 id: WsTg0kARypREGNkz
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: frydaoftonan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

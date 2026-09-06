@@ -7,7 +7,7 @@ name:
   clan: Orlon
   aliases: []
 id: AOOyGZPfqLvGri1T
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: meredaoforlon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

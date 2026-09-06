@@ -7,7 +7,7 @@ name:
   clan: Artuna
   aliases: []
 id: MBaLLBGGVzrZm9M6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: arbrinofartuna
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

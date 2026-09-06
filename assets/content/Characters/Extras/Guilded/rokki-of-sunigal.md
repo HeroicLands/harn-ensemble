@@ -7,7 +7,7 @@ name:
   clan: Sunigal
   aliases: []
 id: p3eLhSxehiJj5XQU
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: rokkiofsunigal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

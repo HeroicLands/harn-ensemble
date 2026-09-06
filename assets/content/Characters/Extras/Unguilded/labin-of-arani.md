@@ -7,7 +7,7 @@ name:
   clan: Arani
   aliases: []
 id: eEoJ9VHeejSO5kKx
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: labinofarani
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

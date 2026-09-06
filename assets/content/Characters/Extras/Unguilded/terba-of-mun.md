@@ -7,7 +7,7 @@ name:
   clan: Mun
   aliases: []
 id: iFvGvqVeAk4aJlhh
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: terbaofmun
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

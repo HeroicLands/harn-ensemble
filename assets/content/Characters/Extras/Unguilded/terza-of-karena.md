@@ -7,7 +7,7 @@ name:
   clan: Karena
   aliases: []
 id: SaY7rm8xkqzMOd3y
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: terzaofkarena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

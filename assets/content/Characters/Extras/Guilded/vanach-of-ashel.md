@@ -7,7 +7,7 @@ name:
   clan: Ashel
   aliases: []
 id: PJIGtwkLmI6E4er0
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: vanachofashel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

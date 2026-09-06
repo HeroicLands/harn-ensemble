@@ -7,7 +7,7 @@ name:
   clan: Sel
   aliases: []
 id: g8jWUN0MpJGuZgMv
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gwelenofsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

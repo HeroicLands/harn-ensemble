@@ -7,7 +7,7 @@ name:
   clan: Alwamarth
   aliases: []
 id: ZwE6MBLJLz4IolV4
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amathemofalwamarth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

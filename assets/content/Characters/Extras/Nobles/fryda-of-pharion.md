@@ -7,7 +7,7 @@ name:
   clan: Pharion
   aliases: []
 id: RhaTVFwY7VUTkEMO
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: frydaofpharion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

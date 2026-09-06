@@ -7,7 +7,7 @@ name:
   clan: Mykansen
   aliases: []
 id: 5iQytIgJet3SsM7M
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: rasofmykansen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

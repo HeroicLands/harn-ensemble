@@ -7,7 +7,7 @@ name:
   clan: Magnol
   aliases: []
 id: 1xn23cBau59VvXzU
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: gyandyofmagnol
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

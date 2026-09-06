@@ -7,7 +7,7 @@ name:
   clan: Wampusha
   aliases: []
 id: zIkSmQfFvJZkJ652
-folder: 7Xwu1hTIGLl30Unj
+packFolder: fffbarbarians
 shortcode: kittiarawampusha
 img: images/fffv1/token/FFF_206-3_Hunter_Bujoc.png
 portrait: images/fffv1/FFF_206-3_Hunter_Bujoc.jpg

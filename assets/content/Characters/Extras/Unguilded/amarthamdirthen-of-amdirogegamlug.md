@@ -7,7 +7,7 @@ name:
   clan: Amdirogegamlug
   aliases: []
 id: CrJvlT4WbIp8Jiak
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amarthamdirthenofamdirogegamlug
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kass
   aliases: []
 id: LBYhY1XQk9kYlbg4
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: raedaofkass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

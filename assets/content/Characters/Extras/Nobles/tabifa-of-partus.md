@@ -7,7 +7,7 @@ name:
   clan: Partus
   aliases: []
 id: 18tocDuUmBgEFpPD
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: tabifaofpartus
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Dulkne
   aliases: []
 id: X3yzJuIpsLmPuJAZ
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: farrenofdulkne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

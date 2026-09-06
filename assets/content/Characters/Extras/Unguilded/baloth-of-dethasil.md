@@ -7,7 +7,7 @@ name:
   clan: Dethasil
   aliases: []
 id: HhRYKdpEmWriwXNc
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: balothofdethasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

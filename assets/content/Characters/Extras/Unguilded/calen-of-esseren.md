@@ -7,7 +7,7 @@ name:
   clan: Esseren
   aliases: []
 id: fGeZWE8iUHufRV7F
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: calenofesseren
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

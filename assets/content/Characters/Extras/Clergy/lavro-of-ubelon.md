@@ -7,7 +7,7 @@ name:
   clan: Ubelon
   aliases: []
 id: HaCXYJXgMOh8Rx99
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lavroofubelon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

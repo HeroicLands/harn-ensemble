@@ -7,7 +7,7 @@ name:
   clan: Dyselweth
   aliases: []
 id: dBC0rOPuGWb88hBA
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yigalofdyselweth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

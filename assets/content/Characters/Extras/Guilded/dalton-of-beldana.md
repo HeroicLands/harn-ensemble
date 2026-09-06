@@ -7,7 +7,7 @@ name:
   clan: Beldana
   aliases: []
 id: V82KbTluL6awCCJ6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: daltonofbeldana
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

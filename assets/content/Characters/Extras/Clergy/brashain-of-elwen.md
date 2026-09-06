@@ -7,7 +7,7 @@ name:
   clan: Elwen
   aliases: []
 id: 6bMHiBn6tkqVVIRI
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: brashainofelwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

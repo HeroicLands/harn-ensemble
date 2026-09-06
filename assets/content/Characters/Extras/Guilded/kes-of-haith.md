@@ -7,7 +7,7 @@ name:
   clan: Haith
   aliases: []
 id: shcUZ4OvFwtaCPHN
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kesofhaith
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

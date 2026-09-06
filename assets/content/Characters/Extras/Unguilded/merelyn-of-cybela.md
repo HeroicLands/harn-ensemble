@@ -7,7 +7,7 @@ name:
   clan: Cybela
   aliases: []
 id: DmDr1np2ADatu6rc
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: merelynofcybela
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

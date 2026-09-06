@@ -7,7 +7,7 @@ name:
   clan: Marnin
   aliases: []
 id: XWVi84pKsl1BgBl5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: charildofmarnin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

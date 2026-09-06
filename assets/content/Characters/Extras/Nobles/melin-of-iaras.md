@@ -7,7 +7,7 @@ name:
   clan: Iaras
   aliases: []
 id: wjZqxugArDsTdgcD
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: melinofiaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

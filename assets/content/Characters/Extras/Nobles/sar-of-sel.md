@@ -7,7 +7,7 @@ name:
   clan: Sel
   aliases: []
 id: r9M5u95q2sCCyPyn
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: sarofsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

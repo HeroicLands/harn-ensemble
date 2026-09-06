@@ -7,7 +7,7 @@ name:
   clan: Aets
   aliases: []
 id: 8DbZMrrsZF8RQRQP
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: hemisofaets
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

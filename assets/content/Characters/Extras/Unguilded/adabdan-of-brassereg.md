@@ -7,7 +7,7 @@ name:
   clan: Brassereg
   aliases: []
 id: h8KnjjH0Ib0IKghw
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: adabdanofbrassereg
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

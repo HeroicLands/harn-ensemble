@@ -7,7 +7,7 @@ name:
   clan: Trochin
   aliases: []
 id: Ms3OTowJOXuApJBh
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranmoskiloftrochin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Yisgarad
   aliases: []
 id: 0QuBlx64Ps5ELjcr
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: captainteldaofyisgarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

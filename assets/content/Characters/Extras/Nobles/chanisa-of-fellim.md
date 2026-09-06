@@ -7,7 +7,7 @@ name:
   clan: Fellim
   aliases: []
 id: KnNVQke9AxHqUWgQ
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: chanisaoffellim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

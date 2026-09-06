@@ -7,7 +7,7 @@ name:
   clan: Koruarr
   aliases: []
 id: JApFRDBEV7FHaiZe
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: arallaxofkoruarr
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

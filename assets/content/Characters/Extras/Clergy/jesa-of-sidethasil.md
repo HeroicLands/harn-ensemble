@@ -7,7 +7,7 @@ name:
   clan: Sidethasil
   aliases: []
 id: rK0mk7LBZUTk26t3
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: jesaofsidethasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Merke
   aliases: []
 id: bZhYSvXCMnkp522R
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cheselyneofmerke
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

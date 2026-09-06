@@ -7,7 +7,7 @@ name:
   clan: Amafa
   aliases: []
 id: 6GaiCjCwVsJQGDSq
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: dirofamafa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

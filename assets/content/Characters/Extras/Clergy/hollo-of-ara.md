@@ -7,7 +7,7 @@ name:
   clan: Ara
   aliases: []
 id: aJddiWZ6rGbGx8p7
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: holloofara
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Darinarad
   aliases: []
 id: iejIb0WG2UTPeug5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gralofdarinarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

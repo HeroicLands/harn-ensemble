@@ -7,7 +7,7 @@ name:
   clan: Ordas
   aliases: []
 id: TwEovUNyRWoQ87vA
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: milniqofordas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

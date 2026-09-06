@@ -7,7 +7,7 @@ name:
   clan: Verdy
   aliases: []
 id: qec47HIWSsMntC9S
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: uvienofverdy
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

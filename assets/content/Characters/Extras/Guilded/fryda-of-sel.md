@@ -7,7 +7,7 @@ name:
   clan: Sel
   aliases: []
 id: PnfHe9YZru4vh76R
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: frydaofsel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

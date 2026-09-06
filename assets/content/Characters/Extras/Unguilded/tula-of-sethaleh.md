@@ -7,7 +7,7 @@ name:
   clan: Sethaleh
   aliases: []
 id: jJZ3sjLdPQ3nh8Q3
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: tulaofsethaleh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

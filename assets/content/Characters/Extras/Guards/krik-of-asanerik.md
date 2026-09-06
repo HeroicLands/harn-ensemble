@@ -7,7 +7,7 @@ name:
   clan: Asanerik
   aliases: []
 id: ETJW4HcTBHtiXMet
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: krikofasanerik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

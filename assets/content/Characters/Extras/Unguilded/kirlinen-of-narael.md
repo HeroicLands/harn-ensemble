@@ -7,7 +7,7 @@ name:
   clan: Narael
   aliases: []
 id: UlA84Fa4W9ECy6uh
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: kirlinenofnarael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

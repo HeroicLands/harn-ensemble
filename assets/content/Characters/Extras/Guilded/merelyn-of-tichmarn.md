@@ -7,7 +7,7 @@ name:
   clan: Tichmarn
   aliases: []
 id: 5HpaXfuFoEj6iN7O
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merelynoftichmarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

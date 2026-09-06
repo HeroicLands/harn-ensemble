@@ -7,7 +7,7 @@ name:
   clan: Rikarbena
   aliases: []
 id: X3FNMbNL2veM5Hh0
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: grulderienelleofrikarbena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

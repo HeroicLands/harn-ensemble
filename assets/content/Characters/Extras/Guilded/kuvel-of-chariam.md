@@ -7,7 +7,7 @@ name:
   clan: Chariam
   aliases: []
 id: DEobTQEXjV8YaPcZ
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kuvelofchariam
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

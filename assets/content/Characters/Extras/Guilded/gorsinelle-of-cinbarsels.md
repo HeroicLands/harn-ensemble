@@ -7,7 +7,7 @@ name:
   clan: Cinbarsels
   aliases: []
 id: t2qvWopsz6TKEu3A
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gorsinelleofcinbarsels
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Ewesinarad
   aliases: []
 id: P2d6XqB7p43xv4eG
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: weredaofewesinarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Tombine
   aliases: []
 id: QiuZaddCfqFlQnuC
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: meralaoftombine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

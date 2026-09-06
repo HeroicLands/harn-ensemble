@@ -7,7 +7,7 @@ name:
   clan: Dariam
   aliases: []
 id: Yxcc7jomLj39FUyr
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: inenofdariam
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

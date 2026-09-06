@@ -7,7 +7,7 @@ name:
   clan: Ciltex
   aliases: []
 id: eCFmMGW94qOMSPdQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: halmarofciltex
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

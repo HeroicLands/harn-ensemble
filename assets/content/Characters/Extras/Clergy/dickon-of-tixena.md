@@ -7,7 +7,7 @@ name:
   clan: Tixena
   aliases: []
 id: EiO3xyhGpSuXoLxr
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: dickonoftixena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

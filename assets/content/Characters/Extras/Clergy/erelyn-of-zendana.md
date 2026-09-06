@@ -7,7 +7,7 @@ name:
   clan: Zendana
   aliases: []
 id: 9tK7qOt38gMffuFC
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: erelynofzendana
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

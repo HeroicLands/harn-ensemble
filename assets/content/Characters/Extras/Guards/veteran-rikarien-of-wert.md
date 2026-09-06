@@ -7,7 +7,7 @@ name:
   clan: Wert
   aliases: []
 id: 4sunSv0tpT3YtmuH
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranrikarienofwert
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

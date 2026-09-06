@@ -7,7 +7,7 @@ name:
   clan: Narad
   aliases: []
 id: cmHOjaNBaCzuYHUH
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jaslynofnarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

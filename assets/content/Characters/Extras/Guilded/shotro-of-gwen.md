@@ -7,7 +7,7 @@ name:
   clan: Gwen
   aliases: []
 id: mQWtjLQmMDILSGzM
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: shotroofgwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

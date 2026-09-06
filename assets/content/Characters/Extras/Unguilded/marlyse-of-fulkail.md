@@ -7,7 +7,7 @@ name:
   clan: Fulkail
   aliases: []
 id: Eizvo54yDs5UH78J
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: marlyseoffulkail
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

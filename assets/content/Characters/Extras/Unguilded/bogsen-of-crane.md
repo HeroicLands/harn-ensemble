@@ -7,7 +7,7 @@ name:
   clan: Crane
   aliases: []
 id: 4m4NNFUaNkRzIRzD
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bogsenofcrane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

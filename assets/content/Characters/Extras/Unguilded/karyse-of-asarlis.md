@@ -7,7 +7,7 @@ name:
   clan: Asarlis
   aliases: []
 id: RfsgCCOr5NEf74Jb
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: karyseofasarlis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

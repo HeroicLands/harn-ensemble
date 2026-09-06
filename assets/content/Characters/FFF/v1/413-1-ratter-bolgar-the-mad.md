@@ -7,7 +7,7 @@ name:
   clan: the Mad
   aliases: []
 id: YrqliPUW5NTc4A8R
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: bolgarthemad
 img: images/fffv1/token/FFF_413-1_Ratter.png
 portrait: images/fffv1/FFF_413-1_Ratter.jpg

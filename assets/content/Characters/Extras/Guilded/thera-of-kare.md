@@ -7,7 +7,7 @@ name:
   clan: Kare
   aliases: []
 id: PVaQiYb5y2GsEtnf
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: theraofkare
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

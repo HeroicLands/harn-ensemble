@@ -7,7 +7,7 @@ name:
   clan: Kyfa
   aliases: []
 id: RAlN28RNS9HmT1am
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: tamiseneofkyfa
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

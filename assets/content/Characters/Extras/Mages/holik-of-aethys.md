@@ -7,7 +7,7 @@ name:
   clan: Aethys
   aliases: []
 id: 8aJ6hnPHEDWgQb8R
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: holikofaethys
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

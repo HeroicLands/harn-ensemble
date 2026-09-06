@@ -7,7 +7,7 @@ name:
   clan: Quirien
   aliases: []
 id: wsAhbFb6iMXyAE22
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: thanofquirien
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

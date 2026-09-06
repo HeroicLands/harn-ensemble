@@ -7,7 +7,7 @@ name:
   clan: Duplo
   aliases: []
 id: UKcxX3lByO0MlGsM
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: nawehsofduplo
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

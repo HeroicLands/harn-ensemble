@@ -7,7 +7,7 @@ name:
   clan: Pasena
   aliases: []
 id: W2euhcy5gZWm4cZ5
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: piltainofpasena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

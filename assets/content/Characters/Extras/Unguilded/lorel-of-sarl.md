@@ -7,7 +7,7 @@ name:
   clan: Sarl
   aliases: []
 id: NxmZ8Tu8LEsp2xfo
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lorelofsarl
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

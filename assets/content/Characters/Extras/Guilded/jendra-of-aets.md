@@ -7,7 +7,7 @@ name:
   clan: Aets
   aliases: []
 id: 2rq1c38ruOhHPA6y
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jendraofaets
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

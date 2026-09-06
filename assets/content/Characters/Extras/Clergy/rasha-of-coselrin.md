@@ -7,7 +7,7 @@ name:
   clan: Coselrin
   aliases: []
 id: BCSdrrUNK4urR2y4
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: rashaofcoselrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

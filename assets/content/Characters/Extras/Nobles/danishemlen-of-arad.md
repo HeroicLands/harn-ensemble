@@ -7,7 +7,7 @@ name:
   clan: Arad
   aliases: []
 id: MbeEOjeqJ4hTEbD3
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: danishemlenofarad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

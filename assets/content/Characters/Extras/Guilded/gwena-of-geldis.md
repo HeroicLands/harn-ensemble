@@ -7,7 +7,7 @@ name:
   clan: Geldis
   aliases: []
 id: 011wYmgtE2WxY6Hk
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gwenaofgeldis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

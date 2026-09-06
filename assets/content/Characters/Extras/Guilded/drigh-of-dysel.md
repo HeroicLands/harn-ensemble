@@ -7,7 +7,7 @@ name:
   clan: Dysel
   aliases: []
 id: WuGUitidBgg85Qex
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: drighofdysel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

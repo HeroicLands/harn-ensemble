@@ -7,7 +7,7 @@ name:
   clan: Balin
   aliases: []
 id: ioDH08AssQt3OUPI
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: tamythofbalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

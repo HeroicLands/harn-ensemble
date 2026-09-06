@@ -7,7 +7,7 @@ name:
   clan: Kail
   aliases: []
 id: HyjvPwy7IQ6L4BZ9
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: anlaelaofkail
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

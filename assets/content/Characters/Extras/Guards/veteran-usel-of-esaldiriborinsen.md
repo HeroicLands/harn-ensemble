@@ -7,7 +7,7 @@ name:
   clan: Esaldiriborinsen
   aliases: []
 id: bYXULOupGduAieeu
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranuselofesaldiriborinsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

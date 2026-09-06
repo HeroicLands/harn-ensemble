@@ -7,7 +7,7 @@ name:
   clan: Chuzyn
   aliases: []
 id: Ho3yiMGgw4Y0sSTN
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: dirofchuzyn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Debernin
   aliases: []
 id: PgMBjTQITH7GCxOI
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: merenaofdebernin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

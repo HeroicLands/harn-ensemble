@@ -7,7 +7,7 @@ name:
   clan: Osath
   aliases: []
 id: 38Jqg1t5nNJx00Bl
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: jorakofosath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

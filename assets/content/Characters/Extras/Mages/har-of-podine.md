@@ -7,7 +7,7 @@ name:
   clan: Podine
   aliases: []
 id: 8nogIAPHps3vA2V9
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: harofpodine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

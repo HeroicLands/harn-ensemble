@@ -7,7 +7,7 @@ name:
   clan: Culben
   aliases: []
 id: NM6TXsyS6SZu4KIG
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cudulusofculben
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

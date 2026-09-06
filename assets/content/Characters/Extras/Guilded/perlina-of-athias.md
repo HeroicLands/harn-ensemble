@@ -7,7 +7,7 @@ name:
   clan: Athias
   aliases: []
 id: vQgNzv9PjSUHvhOn
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: perlinaofathias
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Baldiribor
   aliases: []
 id: kT4yjXVjc854BdHx
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: raelofbaldiribor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Hosath
   aliases: []
 id: 0SzbPTkzRe0cxHHJ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: deniofhosath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

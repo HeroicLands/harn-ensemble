@@ -7,7 +7,7 @@ name:
   clan: Saldis
   aliases: []
 id: 7sJvpRqUVLfEKcIM
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: orthinofsaldis
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Deth
   aliases: []
 id: JhfcxuTU8PSuBSDc
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lebalothofdeth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

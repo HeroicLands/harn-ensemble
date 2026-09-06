@@ -7,7 +7,7 @@ name:
   clan: Armel
   aliases: []
 id: UPWahJrkrClNVXvW
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: chaklynofarmel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

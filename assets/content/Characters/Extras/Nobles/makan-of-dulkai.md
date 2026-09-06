@@ -7,7 +7,7 @@ name:
   clan: Dulkai
   aliases: []
 id: n6mmZpE4NZFicuyr
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: makanofdulkai
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

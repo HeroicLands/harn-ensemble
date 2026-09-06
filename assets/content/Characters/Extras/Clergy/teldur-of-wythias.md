@@ -7,7 +7,7 @@ name:
   clan: Wythias
   aliases: []
 id: Eh0tjgNTVV42UM15
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: teldurofwythias
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

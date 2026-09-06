@@ -7,7 +7,7 @@ name:
   clan: Laplaemen
   aliases: []
 id: UxEynsTCDaSWpJWL
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: rasoflaplaemen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

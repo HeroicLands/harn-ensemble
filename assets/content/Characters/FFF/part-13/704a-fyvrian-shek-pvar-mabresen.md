@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: 3gj42cB0umNbiGez
-folder: 04kLAsFXMI0eqqgT
+packFolder: fffmages
 shortcode: mabresen
 img: images/fff-13/FFF_704a_Fyvrian_Shek-Pvar-headshot.webp
 portrait: images/fff-13/FFF_704a_Fyvrian_Shek-Pvar.webp

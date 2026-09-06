@@ -7,7 +7,7 @@ name:
   clan: Mondaro
   aliases: []
 id: 2OLRDJqmkgcdo5wJ
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: kerntmondaro
 img: images/fffv1/token/FFF_112-1_Man_at_Arms_LF.png
 portrait: images/fffv1/FFF_112-1_Man_at_Arms_LF.jpg

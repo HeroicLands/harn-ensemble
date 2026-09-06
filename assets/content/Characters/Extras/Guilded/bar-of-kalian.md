@@ -7,7 +7,7 @@ name:
   clan: Kalian
   aliases: []
 id: AJM9eGi0LI6v14Nt
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: barofkalian
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

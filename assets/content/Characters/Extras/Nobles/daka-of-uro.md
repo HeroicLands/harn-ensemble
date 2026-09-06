@@ -7,7 +7,7 @@ name:
   clan: Uro
   aliases: []
 id: PefocV9Z6cdXHDol
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: dakaofuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

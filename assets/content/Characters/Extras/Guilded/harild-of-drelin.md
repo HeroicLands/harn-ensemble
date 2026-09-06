@@ -7,7 +7,7 @@ name:
   clan: Drelin
   aliases: []
 id: UeSaxVLa9m26Skz6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: harildofdrelin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

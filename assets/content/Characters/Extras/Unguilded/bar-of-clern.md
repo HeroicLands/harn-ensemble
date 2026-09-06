@@ -7,7 +7,7 @@ name:
   clan: Clern
   aliases: []
 id: v3pujz4ku4cL2Pgh
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: barofclern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

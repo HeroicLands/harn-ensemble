@@ -7,7 +7,7 @@ name:
   clan: Theiast
   aliases: []
 id: QLgb6f337cM9U3O5
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: indrosoftheiast
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

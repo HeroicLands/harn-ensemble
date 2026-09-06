@@ -7,7 +7,7 @@ name:
   clan: Astor
   aliases: []
 id: WjWzufK1Q9JB7LCQ
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amdirofastor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

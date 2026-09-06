@@ -7,7 +7,7 @@ name:
   clan: Chatil
   aliases: []
 id: GtQoPm6rAr13dzuN
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: zornaofchatil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

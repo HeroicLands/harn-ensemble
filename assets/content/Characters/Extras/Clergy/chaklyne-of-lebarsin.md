@@ -7,7 +7,7 @@ name:
   clan: Lebarsin
   aliases: []
 id: 7f11WNjOHh1dO8aH
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: chaklyneoflebarsin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

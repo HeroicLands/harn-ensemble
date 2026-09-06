@@ -7,7 +7,7 @@ name:
   clan: Borskin
   aliases: []
 id: VVuWnk45xHduNrUH
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: frydaofborskin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

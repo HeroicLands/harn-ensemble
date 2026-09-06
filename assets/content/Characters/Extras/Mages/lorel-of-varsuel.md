@@ -7,7 +7,7 @@ name:
   clan: Varsuel
   aliases: []
 id: Vp7r1Uhztn95Sp9t
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: lorelofvarsuel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

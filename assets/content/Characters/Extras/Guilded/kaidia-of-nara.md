@@ -7,7 +7,7 @@ name:
   clan: Nara
   aliases: []
 id: Yf1ZNMH6zWBnRnNs
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kaidiaofnara
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Amath
   aliases: []
 id: wytraMBlGTJBI7eL
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: bregofamath
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

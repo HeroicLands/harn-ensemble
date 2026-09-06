@@ -7,7 +7,7 @@ name:
   clan: Varael
   aliases: []
 id: bbhaOS0CgHUMu1ZK
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: heralofvarael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

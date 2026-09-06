@@ -7,7 +7,7 @@ name:
   clan: Clern
   aliases: []
 id: R56kNeash45QecB9
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: seginaofclern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

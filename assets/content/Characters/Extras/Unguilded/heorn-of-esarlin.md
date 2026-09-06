@@ -7,7 +7,7 @@ name:
   clan: Esarlin
   aliases: []
 id: VSRgAyDawOHGT4WE
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: heornofesarlin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

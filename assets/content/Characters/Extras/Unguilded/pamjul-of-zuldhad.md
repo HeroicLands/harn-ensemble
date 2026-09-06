@@ -7,7 +7,7 @@ name:
   clan: Zuldhad
   aliases: []
 id: yb0natoR40nIdhpY
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: pamjulofzuldhad
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

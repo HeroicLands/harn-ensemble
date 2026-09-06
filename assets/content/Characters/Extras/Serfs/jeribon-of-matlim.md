@@ -7,7 +7,7 @@ name:
   clan: Matlim
   aliases: []
 id: bAJuAa6HbJOoqDzD
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: jeribonofmatlim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

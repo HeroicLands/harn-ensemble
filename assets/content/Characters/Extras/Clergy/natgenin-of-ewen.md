@@ -7,7 +7,7 @@ name:
   clan: Ewen
   aliases: []
 id: qCLU55Hqlhb2yXus
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: natgeninofewen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

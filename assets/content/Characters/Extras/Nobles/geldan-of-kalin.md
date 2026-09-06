@@ -7,7 +7,7 @@ name:
   clan: Kalin
   aliases: []
 id: kxNN8g0QAS79GARj
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: geldanofkalin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

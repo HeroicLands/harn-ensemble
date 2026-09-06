@@ -7,7 +7,7 @@ name:
   clan: Debern
   aliases: []
 id: yQYpfgx1lcpCj04k
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: shotroofdebern
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Crane
   aliases: []
 id: 5zz57ODwoblfy3aF
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jorantofcrane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

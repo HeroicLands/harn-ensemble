@@ -7,7 +7,7 @@ name:
   clan: Thola
   aliases: []
 id: GG4L9Xd23Q5kFfeY
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: gaeffelofthola
 img: images/fffv1/token/FFF_318-2_Mercantyler.png
 portrait: images/fffv1/FFF_318-2_Mercantyler.jpg

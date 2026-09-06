@@ -7,7 +7,7 @@ name:
   clan: Verdy
   aliases: []
 id: W10efbf2oOFs4TRm
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: hariamofverdy
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

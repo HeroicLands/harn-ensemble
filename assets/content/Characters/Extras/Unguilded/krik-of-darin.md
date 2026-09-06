@@ -7,7 +7,7 @@ name:
   clan: Darin
   aliases: []
 id: fNfGTZHezegeJiWa
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: krikofdarin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

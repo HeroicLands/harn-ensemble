@@ -7,7 +7,7 @@ name:
   clan: Valas
   aliases: []
 id: UqgarIHQjd1s0Let
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: pelynofvalas
 img: images/fffv1/token/FFF_310-2_Harper.png
 portrait: images/fffv1/FFF_310-2_Harper.jpg

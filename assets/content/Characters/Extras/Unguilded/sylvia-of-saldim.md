@@ -7,7 +7,7 @@ name:
   clan: Saldim
   aliases: []
 id: gbyHt1tYgZDYrAk0
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: sylviaofsaldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

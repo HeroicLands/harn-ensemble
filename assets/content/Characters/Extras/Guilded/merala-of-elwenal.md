@@ -7,7 +7,7 @@ name:
   clan: Elwenal
   aliases: []
 id: e3ZaRUg1Tz1MZmSv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: meralaofelwenal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

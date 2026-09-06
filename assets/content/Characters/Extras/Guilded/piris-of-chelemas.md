@@ -7,7 +7,7 @@ name:
   clan: Chelemas
   aliases: []
 id: KQGqB0XcZkfT5Wx3
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pirisofchelemas
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

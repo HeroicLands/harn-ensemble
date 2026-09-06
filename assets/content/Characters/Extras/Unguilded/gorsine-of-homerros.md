@@ -7,7 +7,7 @@ name:
   clan: Homerros
   aliases: []
 id: LFT3eavTgLOy04dy
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gorsineofhomerros
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

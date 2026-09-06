@@ -7,7 +7,7 @@ name:
   clan: Ewesarl
   aliases: []
 id: 6FPFAAx699YTEc8E
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: tolmeyofewesarl
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

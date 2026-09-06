@@ -7,7 +7,7 @@ name:
   clan: Rik
   aliases: []
 id: OHSP30AsmCVuv1D2
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: urlockofrik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

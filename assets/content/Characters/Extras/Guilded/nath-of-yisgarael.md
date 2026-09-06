@@ -7,7 +7,7 @@ name:
   clan: Yisgarael
   aliases: []
 id: pFc5joY8ZNaKF9EV
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: nathofyisgarael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

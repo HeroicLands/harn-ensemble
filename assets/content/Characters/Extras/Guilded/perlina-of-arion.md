@@ -7,7 +7,7 @@ name:
   clan: Arion
   aliases: []
 id: K4usQCDDA9hKrFW6
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: perlinaofarion
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

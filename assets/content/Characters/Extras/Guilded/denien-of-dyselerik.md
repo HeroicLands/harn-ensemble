@@ -7,7 +7,7 @@ name:
   clan: Dyselerik
   aliases: []
 id: sf3enulxjA8WKM58
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: denienofdyselerik
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

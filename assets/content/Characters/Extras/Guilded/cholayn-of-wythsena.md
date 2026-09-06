@@ -7,7 +7,7 @@ name:
   clan: Wythsena
   aliases: []
 id: XaDJ7kJagqheSXIq
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: cholaynofwythsena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Fraul
   aliases: []
 id: Qs4zFGgnuCRXKf2v
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: boraneoffraul
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

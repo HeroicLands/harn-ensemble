@@ -7,7 +7,7 @@ name:
   clan: Marn
   aliases: []
 id: Q6pGGGyA7Tp3PWBq
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gwenienofmarn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

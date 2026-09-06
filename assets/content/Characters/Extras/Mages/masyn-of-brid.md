@@ -7,7 +7,7 @@ name:
   clan: Brid
   aliases: []
 id: h21BxamTMKWdtlnC
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: masynofbrid
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Magnol
   aliases: []
 id: ErFwQf4VfhCMg9no
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: forenaofmagnol
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

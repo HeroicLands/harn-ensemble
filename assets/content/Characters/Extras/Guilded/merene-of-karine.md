@@ -7,7 +7,7 @@ name:
   clan: Karine
   aliases: []
 id: D8F67vB9uF9N4yHU
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: mereneofkarine
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

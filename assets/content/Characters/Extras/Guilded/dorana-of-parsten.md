@@ -7,7 +7,7 @@ name:
   clan: Parsten
   aliases: []
 id: 2qzRQI3N35cEFeiC
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: doranaofparsten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

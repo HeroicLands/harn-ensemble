@@ -7,7 +7,7 @@ name:
   clan: Bor
   aliases: []
 id: x6V80AUA54A5Eri4
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jolaofbor
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Harael
   aliases: []
 id: 8RBH36aOALh9ooII
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: pallisofharael
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

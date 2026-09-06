@@ -7,7 +7,7 @@ name:
   clan: Troll
   aliases: []
 id: Vfzh2OVSAOShhn1g
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranharathoftroll
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

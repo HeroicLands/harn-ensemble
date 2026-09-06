@@ -7,7 +7,7 @@ name:
   clan: Paseris
   aliases: []
 id: J9aYVjIyZp4LUs5a
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: merwasofpaseris
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

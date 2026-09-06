@@ -7,7 +7,7 @@ name:
   clan: Orlon
   aliases: []
 id: DLSVu1eoA7VXETng
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: charoforlon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Rythsena
   aliases: []
 id: iwqwEwXa6zB1Fgv8
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: maeghelisaofrythsena
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

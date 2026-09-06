@@ -7,7 +7,7 @@ name:
   clan: Wethalmin
   aliases: []
 id: 5XHrxzKUEU3ykU4b
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: melicofwethalmin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

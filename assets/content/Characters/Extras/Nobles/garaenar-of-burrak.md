@@ -7,7 +7,7 @@ name:
   clan: Burrak
   aliases: []
 id: HOaI9dN8aemdq1RN
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: garaenarofburrak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

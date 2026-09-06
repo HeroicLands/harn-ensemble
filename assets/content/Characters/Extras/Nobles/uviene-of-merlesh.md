@@ -7,7 +7,7 @@ name:
   clan: Merlesh
   aliases: []
 id: yFjkGBqbbtJLF2MO
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: uvieneofmerlesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

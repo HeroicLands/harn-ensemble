@@ -7,7 +7,7 @@ name:
   clan: Elwen
   aliases: []
 id: tPlUQHe9uk3CrRCd
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: cyzorofelwen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

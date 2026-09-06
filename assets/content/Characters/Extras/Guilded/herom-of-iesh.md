@@ -7,7 +7,7 @@ name:
   clan: Iesh
   aliases: []
 id: L0sJOE0Yz3XtZ0bO
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: heromofiesh
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

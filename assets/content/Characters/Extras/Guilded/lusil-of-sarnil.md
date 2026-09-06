@@ -7,7 +7,7 @@ name:
   clan: Sarnil
   aliases: []
 id: JQVxkLpVXQd7iopb
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lusilofsarnil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Payensen
   aliases: []
 id: rwjD02o0eDuSFRep
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: girondisofpayensen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

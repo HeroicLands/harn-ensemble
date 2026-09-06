@@ -7,7 +7,7 @@ name:
   clan: Athalmin
   aliases: []
 id: bQRRVhGUKh4hpBaW
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: rolofathalmin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

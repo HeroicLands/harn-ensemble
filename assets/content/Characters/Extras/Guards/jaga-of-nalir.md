@@ -7,7 +7,7 @@ name:
   clan: Nalir
   aliases: []
 id: 7rDO9hgPcemp8VLV
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: jagaofnalir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

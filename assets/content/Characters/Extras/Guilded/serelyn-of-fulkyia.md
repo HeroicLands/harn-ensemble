@@ -7,7 +7,7 @@ name:
   clan: Fulkyia
   aliases: []
 id: lC9gl5hHjQgWVQVg
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: serelynoffulkyia
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

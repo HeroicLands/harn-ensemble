@@ -7,7 +7,7 @@ name:
   clan: Uro
   aliases: []
 id: 2yyH5giDztfo30YH
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: morginofuro
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

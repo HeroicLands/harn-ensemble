@@ -7,7 +7,7 @@ name:
   clan: Osathan
   aliases: []
 id: iG9FeW7c6M2xRyXv
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: jaslyneofosathan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Clean
   aliases: []
 id: gIBMSvU2PVJFQz06
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: rondasarofclean
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

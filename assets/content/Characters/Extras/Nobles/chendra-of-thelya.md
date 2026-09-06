@@ -7,7 +7,7 @@ name:
   clan: Thelya
   aliases: []
 id: jhjzLbjVuQ13ZqvZ
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: chendraofthelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

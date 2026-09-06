@@ -7,7 +7,7 @@ name:
   clan: Ele
   aliases: []
 id: 197qXvdAJZvAGLDg
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: lebaneofele
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

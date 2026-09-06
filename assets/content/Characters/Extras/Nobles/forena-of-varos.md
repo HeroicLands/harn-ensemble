@@ -7,7 +7,7 @@ name:
   clan: Varos
   aliases: []
 id: 14Ra5OjXkKStMXo3
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: forenaofvaros
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

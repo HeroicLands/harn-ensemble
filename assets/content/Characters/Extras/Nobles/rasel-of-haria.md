@@ -7,7 +7,7 @@ name:
   clan: Haria
   aliases: []
 id: Y8dxNZkTotZHZloX
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: raselofharia
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

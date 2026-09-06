@@ -7,7 +7,7 @@ name:
   clan: Lorinsen
   aliases: []
 id: dNl6o5K0a7d2IMKT
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: noroflorinsen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

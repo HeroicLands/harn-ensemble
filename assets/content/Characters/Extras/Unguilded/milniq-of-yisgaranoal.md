@@ -7,7 +7,7 @@ name:
   clan: Yisgaranoal
   aliases: []
 id: Khx4JOABdz7FH5xT
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: milniqofyisgaranoal
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

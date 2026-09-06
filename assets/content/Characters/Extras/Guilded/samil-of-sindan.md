@@ -7,7 +7,7 @@ name:
   clan: Sindan
   aliases: []
 id: FZAIXJ3KRjaFv5WY
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: samilofsindan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

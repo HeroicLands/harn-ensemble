@@ -7,7 +7,7 @@ name:
   clan: Kalymsen Aemon
   aliases: []
 id: Kt0ilzmS7FHBqOTr
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: korilkalymsenaemon
 img: images/fffv1/token/FFF_318-1_Mercantyler.png
 portrait: images/fffv1/FFF_318-1_Mercantyler.jpg

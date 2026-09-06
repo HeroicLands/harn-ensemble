@@ -7,7 +7,7 @@ name:
   clan: Chuzyn
   aliases: []
 id: bGCXC24RjgkbPVel
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: doraneofchuzyn
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

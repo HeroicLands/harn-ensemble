@@ -7,7 +7,7 @@ name:
   clan: Valain
   aliases: []
 id: AY3RTHYoPKBRdNRX
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: shotroofvalain
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

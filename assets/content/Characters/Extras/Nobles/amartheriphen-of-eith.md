@@ -7,7 +7,7 @@ name:
   clan: Eith
   aliases: []
 id: oJqhGW42pmmvRIQ0
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: amartheriphenofeith
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

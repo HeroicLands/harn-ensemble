@@ -7,7 +7,7 @@ name:
   clan: Tobilon
   aliases: []
 id: 24FyQ7w2Kl5yHkot
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: haranoftobilon
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

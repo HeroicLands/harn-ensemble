@@ -7,7 +7,7 @@ name:
   clan: Fulkne
   aliases: []
 id: 15cbnRTDmSXP2Xfh
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: lasaryseoffulkne
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

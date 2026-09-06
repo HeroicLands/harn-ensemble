@@ -7,7 +7,7 @@ name:
   clan: Spryth
   aliases: []
 id: JddNkybHOJ2v07rG
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: herondofspryth
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

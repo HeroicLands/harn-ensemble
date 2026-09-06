@@ -7,7 +7,7 @@ name:
   clan: Chelen
   aliases: []
 id: mdUBj3bn5vK8qfxX
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sarofchelen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Mikelfot
   aliases: []
 id: AVNsB95rsRck3egC
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: jehanofmikelfot
 img: images/fffv1/token/FFF_105-1_Jailer.png
 portrait: images/fffv1/FFF_105-1_Jailer.jpg

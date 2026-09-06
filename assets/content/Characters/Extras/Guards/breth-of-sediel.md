@@ -7,7 +7,7 @@ name:
   clan: Sediel
   aliases: []
 id: XdE2dGsRpXHt1z9i
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: brethofsediel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

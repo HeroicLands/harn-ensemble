@@ -7,7 +7,7 @@ name:
   clan: Gorra
   aliases: []
 id: vfCIuNQQLdnZkKlr
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kistyneofgorra
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

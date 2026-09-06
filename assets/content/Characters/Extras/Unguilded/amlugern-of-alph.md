@@ -7,7 +7,7 @@ name:
   clan: Alph
   aliases: []
 id: TDx6ImkigCWFhPLR
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: amlugernofalph
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Kass
   aliases: []
 id: VzhDRNVUAzFNYxgD
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: terbaofkass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

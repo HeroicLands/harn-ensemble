@@ -7,7 +7,7 @@ name:
   clan: Rikar
   aliases: []
 id: jRTKXIpzB0jI9Dj8
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: soragoofrikar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

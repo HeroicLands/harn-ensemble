@@ -7,7 +7,7 @@ name:
   clan: Fartek
   aliases: []
 id: uWGsCfkr82v6GjZT
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: rackneoffartek
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

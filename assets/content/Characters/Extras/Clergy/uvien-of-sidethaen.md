@@ -7,7 +7,7 @@ name:
   clan: Sidethaen
   aliases: []
 id: cI5GIWEg3ztZ2fpp
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: uvienofsidethaen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

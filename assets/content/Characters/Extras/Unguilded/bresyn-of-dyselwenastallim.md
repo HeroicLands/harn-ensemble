@@ -7,7 +7,7 @@ name:
   clan: Dyselwenastallim
   aliases: []
 id: 0sEfMPt9MtHj3kf8
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: bresynofdyselwenastallim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Aras
   aliases: []
 id: A5KzhYlvtVc3JDUz
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: cheselynofaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

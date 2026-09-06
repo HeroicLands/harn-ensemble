@@ -7,7 +7,7 @@ name:
   clan: Roll
   aliases: []
 id: CwutY5D5fH9StlmK
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: piltainofroll
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Risalsin
   aliases: []
 id: qzHmILrtfj7CeQbU
-folder: wImf2q5VxvhF7Ed4
+packFolder: fffclergy
 shortcode: myaofrisalsin
 img: images/fffv1/token/FFF_601-1_Priestess_Agrik.png
 portrait: images/fffv1/FFF_601-1_Priestess_Agrik.jpg

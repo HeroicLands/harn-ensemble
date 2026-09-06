@@ -7,7 +7,7 @@ name:
   clan: Lundondel
   aliases: []
 id: Koez2q7radBF6TXW
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: labianoflundondel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

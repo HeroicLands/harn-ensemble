@@ -7,7 +7,7 @@ name:
   clan: Rabetane
   aliases: []
 id: 7ZOqD0g9IjpFAaZz
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: solinaofrabetane
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Rollateriel
   aliases: []
 id: MnzS7ea5QSZFLHdk
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: horinofrollateriel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

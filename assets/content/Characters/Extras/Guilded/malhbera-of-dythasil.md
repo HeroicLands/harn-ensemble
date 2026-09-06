@@ -7,7 +7,7 @@ name:
   clan: Dythasil
   aliases: []
 id: Bjp6Y2CZhc92M2NI
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: malhberaofdythasil
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

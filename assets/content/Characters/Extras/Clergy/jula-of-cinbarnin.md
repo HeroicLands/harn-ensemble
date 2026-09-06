@@ -7,7 +7,7 @@ name:
   clan: Cinbarnin
   aliases: []
 id: JNaUJwOQp0zycXiv
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: julaofcinbarnin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

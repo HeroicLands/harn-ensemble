@@ -7,7 +7,7 @@ name:
   clan: Varaner
   aliases: []
 id: YD65C35oqIqKVegg
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: piriaofvaraner
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

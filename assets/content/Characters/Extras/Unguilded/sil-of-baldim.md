@@ -7,7 +7,7 @@ name:
   clan: Baldim
   aliases: []
 id: UPU34bAWMMOXCN6R
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: silofbaldim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Thes
   aliases: []
 id: YVvuLk0wrZzbm45k
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: keldurkaelofthes
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

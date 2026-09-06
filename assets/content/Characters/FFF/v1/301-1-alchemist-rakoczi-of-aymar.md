@@ -7,7 +7,7 @@ name:
   clan: Aymar
   aliases: []
 id: FhJJONaF4YMgTlz6
-folder: dbDLVOgUtgVgjgnJ
+packFolder: fffguilded
 shortcode: rakocziofaymar
 img: images/fffv1/token/FFF_301-1_Alchemist.png
 portrait: images/fffv1/FFF_301-1_Alchemist.jpg

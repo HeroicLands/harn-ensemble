@@ -7,7 +7,7 @@ name:
   clan: Vyloch
   aliases: []
 id: qjhyvyPljZ45nx6l
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: keridolofvyloch
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

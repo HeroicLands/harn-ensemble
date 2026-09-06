@@ -7,7 +7,7 @@ name:
   clan: Terrika
   aliases: []
 id: m0mas15prhAdcHKM
-folder: KtIatREwSUSBQ1vy
+packFolder: fffmilitary
 shortcode: eitriterrika
 img: images/fffv1/token/FFF_106-1_Khuzdul_MF.png
 portrait: images/fffv1/FFF_106-1_Khuzdul_MF.jpg

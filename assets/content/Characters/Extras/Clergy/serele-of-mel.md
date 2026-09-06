@@ -7,7 +7,7 @@ name:
   clan: Mel
   aliases: []
 id: OyYHz6Jmg8eQJOe6
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: sereleofmel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

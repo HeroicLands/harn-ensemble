@@ -7,7 +7,7 @@ name:
   clan: Quarlim
   aliases: []
 id: xej7JitWoJTZSJN6
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: forenaofquarlim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

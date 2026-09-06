@@ -7,7 +7,7 @@ name:
   clan: Hubellyr
   aliases: []
 id: 8jOMig6yvG1sS4Cq
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: lyciaofhubellyr
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

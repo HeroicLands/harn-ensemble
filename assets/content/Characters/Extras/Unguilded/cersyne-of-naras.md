@@ -7,7 +7,7 @@ name:
   clan: Naras
   aliases: []
 id: 97MxfuSJbvBkaFMk
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: cersyneofnaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

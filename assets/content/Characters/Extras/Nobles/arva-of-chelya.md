@@ -7,7 +7,7 @@ name:
   clan: Chelya
   aliases: []
 id: ImdYS6pzCh6mVRW4
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: arvaofchelya
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Onparselrin
   aliases: []
 id: 4F1Qzu8qY0O8NPFn
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: rybinofonparselrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Madib
   aliases: []
 id: sXZT2cdM0HIqlJ1A
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: tolmeyofmadib
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

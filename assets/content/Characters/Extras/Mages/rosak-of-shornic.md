@@ -7,7 +7,7 @@ name:
   clan: Shornic
   aliases: []
 id: LzLc04trthkZh8lp
-folder: lJ4R58L7PULmhYxr
+packFolder: extrasmages
 shortcode: rosakofshornic
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

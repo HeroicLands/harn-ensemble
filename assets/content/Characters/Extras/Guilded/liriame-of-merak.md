@@ -7,7 +7,7 @@ name:
   clan: Merak
   aliases: []
 id: F3uqS1KAQlTkXilN
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: liriameofmerak
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

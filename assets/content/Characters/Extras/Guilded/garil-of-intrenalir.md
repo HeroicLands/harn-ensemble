@@ -7,7 +7,7 @@ name:
   clan: Intrenalir
   aliases: []
 id: PhA51FvRxrhXOjGz
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: garilofintrenalir
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

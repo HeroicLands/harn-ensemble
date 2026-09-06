@@ -7,7 +7,7 @@ name:
   clan: Magnol
   aliases: []
 id: TgTpQKWiokqBuij3
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: hobirofmagnol
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

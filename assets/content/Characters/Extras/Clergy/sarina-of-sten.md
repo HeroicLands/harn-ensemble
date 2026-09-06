@@ -7,7 +7,7 @@ name:
   clan: Sten
   aliases: []
 id: jCa3muZkgVCAfNZF
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: sarinaofsten
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

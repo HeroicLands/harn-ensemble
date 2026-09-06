@@ -7,7 +7,7 @@ name:
   clan: Magnol
   aliases: []
 id: AzwV5g2EZmGcJxH4
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: sylviaofmagnol
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

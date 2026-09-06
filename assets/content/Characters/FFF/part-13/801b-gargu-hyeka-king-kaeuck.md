@@ -7,7 +7,7 @@ name:
   clan: ""
   aliases: []
 id: Df28UjH6GUtBDEX7
-folder: gO37pwFIr5B44hdV
+packFolder: fffnonhumans
 shortcode: kaeuck
 img: images/fff-13/FFF_801b_Gargu-Hyeka_King-headshot.webp
 portrait: images/fff-13/FFF_801b_Gargu-Hyeka_King.webp

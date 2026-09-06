@@ -7,7 +7,7 @@ name:
   clan: Nalas
   aliases: []
 id: I0KXgGBzbsH784FH
-folder: lu83pb6NNFEwAs5L
+packFolder: fffnobles
 shortcode: artanarnalas
 img: images/fffv1/token/FFF_501-1_Noble_Bailiff.png
 portrait: images/fffv1/FFF_501-1_Noble_Bailiff.jpg

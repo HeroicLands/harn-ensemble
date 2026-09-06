@@ -7,7 +7,7 @@ name:
   clan: Cilta
   aliases: []
 id: 5tGuW4kFUzRH1xE6
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: gralofcilta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Hilrin
   aliases: []
 id: ZBqfsTC2dtQd4MrH
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: veteranurisofhilrin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

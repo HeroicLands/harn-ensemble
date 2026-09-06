@@ -7,7 +7,7 @@ name:
   clan: Cosel
   aliases: []
 id: O82i6ZaDX2qsRMEk
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: ewenaofcosel
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

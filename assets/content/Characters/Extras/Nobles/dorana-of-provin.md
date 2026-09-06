@@ -7,7 +7,7 @@ name:
   clan: Provin
   aliases: []
 id: J9xIemHlv7UeG1hs
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: doranaofprovin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

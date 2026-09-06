@@ -7,7 +7,7 @@ name:
   clan: Asan
   aliases: []
 id: S44yjv8H8BokCWMo
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: sheofasan
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

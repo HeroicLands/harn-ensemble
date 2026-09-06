@@ -7,7 +7,7 @@ name:
   clan: Siven
   aliases: []
 id: btJJeUNBRIpGTS02
-folder: ZVUcnWpJEJxXzWw6
+packFolder: extrasclergy
 shortcode: mereryofsiven
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Smesel
   aliases: []
 id: F50ca7QxQTd0R0an
-folder: i4hECpF8Vz6XJURd
+packFolder: fffunguilded
 shortcode: earnyofsmesel
 img: images/fffv1/token/FFF_412-1_Pimp.png
 portrait: images/fffv1/FFF_412-1_Pimp.jpg

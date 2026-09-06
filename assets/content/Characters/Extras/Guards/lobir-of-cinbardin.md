@@ -7,7 +7,7 @@ name:
   clan: Cinbardin
   aliases: []
 id: KuMUtQzhh4hAT7nK
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: lobirofcinbardin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

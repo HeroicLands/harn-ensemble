@@ -7,7 +7,7 @@ name:
   clan: Aras
   aliases: []
 id: slnVpSh8IBFdjbdU
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: tulahofaras
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

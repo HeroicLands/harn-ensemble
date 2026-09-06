@@ -7,7 +7,7 @@ name:
   clan: Tobrid
   aliases: []
 id: h2szpV4KOyKzxF1K
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gorsineoftobrid
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

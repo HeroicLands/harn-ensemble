@@ -7,7 +7,7 @@ name:
   clan: Tixenasta
   aliases: []
 id: aNhQBbSunBjicHvc
-folder: ZMLVnTuUb85MUQMD
+packFolder: extrasguards
 shortcode: karnoftixenasta
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

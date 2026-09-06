@@ -7,7 +7,7 @@ name:
   clan: Tobriam
   aliases: []
 id: i33Ao3yS0M9qvde9
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: perlindeoftobriam
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

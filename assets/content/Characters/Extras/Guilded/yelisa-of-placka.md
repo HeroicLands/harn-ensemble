@@ -7,7 +7,7 @@ name:
   clan: Placka
   aliases: []
 id: fH7OoXNscmZ0BMSX
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: yelisaofplacka
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Nar
   aliases: []
 id: GWRcMFyHCevNRM2f
-folder: iDDaFg6xn9T7tb0L
+packFolder: extrasserfs
 shortcode: drusaxofnar
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

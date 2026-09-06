@@ -7,7 +7,7 @@ name:
   clan: Eldin
   aliases: []
 id: HhXT5EE20NsCSqY4
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kaidiaofeldin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

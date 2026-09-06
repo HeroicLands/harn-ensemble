@@ -7,7 +7,7 @@ name:
   clan: Thornin
   aliases: []
 id: 0V7LWvMokxbfMZyC
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: iameofthornin
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

@@ -7,7 +7,7 @@ name:
   clan: Arhaid
   aliases: []
 id: G0ad9UyjzbTzgepA
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: arthenofarhaid
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

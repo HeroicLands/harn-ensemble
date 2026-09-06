@@ -7,7 +7,7 @@ name:
   clan: Charass
   aliases: []
 id: dz6PKQ0vrvVYTkLA
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: gwelenofcharass
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

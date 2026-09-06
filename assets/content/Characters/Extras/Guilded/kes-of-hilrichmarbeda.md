@@ -7,7 +7,7 @@ name:
   clan: Hilrichmarbeda
   aliases: []
 id: gjRLqazmv0JxPn0e
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: kesofhilrichmarbeda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

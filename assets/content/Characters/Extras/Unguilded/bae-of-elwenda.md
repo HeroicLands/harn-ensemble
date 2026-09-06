@@ -7,7 +7,7 @@ name:
   clan: Elwenda
   aliases: []
 id: HeECNQ46IYvWd6UH
-folder: wqZxeSsm1ABX2AGx
+packFolder: extrasunguilded
 shortcode: baeofelwenda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

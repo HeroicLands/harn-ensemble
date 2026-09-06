@@ -7,7 +7,7 @@ name:
   clan: Tallim
   aliases: []
 id: O9a25XsUGJu0aVDT
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: raedaoftallim
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

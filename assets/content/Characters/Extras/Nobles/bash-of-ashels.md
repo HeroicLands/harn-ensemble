@@ -7,7 +7,7 @@ name:
   clan: Ashels
   aliases: []
 id: qc1M3hEV3JcYBiEV
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: bashofashels
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

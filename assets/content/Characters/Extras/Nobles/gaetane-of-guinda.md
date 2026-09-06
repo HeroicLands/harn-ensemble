@@ -7,7 +7,7 @@ name:
   clan: Guinda
   aliases: []
 id: fKwAquOxZfCxRrpV
-folder: wYO4XEaOHdLCVUM0
+packFolder: extrasnobles
 shortcode: gaetaneofguinda
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being

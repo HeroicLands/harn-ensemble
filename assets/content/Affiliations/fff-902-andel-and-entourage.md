@@ -15,7 +15,6 @@ sohl:
   level: null
   relation: []
   archetype: null
-folder:
 ---
 
 On Harn, a man is judged by the size of his entourage. The number of staff, servants and guards is a measure of his power, status and position. Having too many retainers is presumptuous and may (in extreme cases) even be considered a breach of rank, however, too few retainers and an individual risks not being taken seriously. A lone clerk, arriving tired and dusty on the back of a donkey is hardly suitable for a member of the King's Household. Although a Clerk of the Exchequer, Andel is only a guildsman's son and he pushes the limit with the size of his retinue.

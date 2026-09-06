@@ -7,7 +7,7 @@ name:
   clan: Tabralen
   aliases: []
 id: kbz2rjsQIrDUXVbe
-folder: GNynVWgIrKPK50Ca
+packFolder: extrasguilded
 shortcode: gironoftabralen
 portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
