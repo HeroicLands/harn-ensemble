@@ -9,10 +9,6 @@ name:
   full: Crew of the Lorkin
   aliases: []
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
   relation: []
   archetype: null
 ---

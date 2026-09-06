@@ -9,10 +9,6 @@ name:
   full: The Pentacle
   aliases: []
 sohl:
-  society: null
-  office: null
-  title: null
-  level: null
   relation: []
   archetype: null
 ---
