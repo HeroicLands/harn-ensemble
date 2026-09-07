@@ -41,4 +41,4 @@ comment asserted `publish.site` is `homepage` and the bound therefore exactly
 one. Both are now false, so both are gone; the remaining note states the general
 rule without restating a mode this file does not own.
 
-Closes #53
+Part of #53
