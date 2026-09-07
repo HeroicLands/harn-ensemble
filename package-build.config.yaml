@@ -48,14 +48,14 @@ packs:
 # (HeroicLands/package-build#316), so publishing the pages and publishing the
 # document is one decision rather than two that could come to disagree.
 #
-# `manifests` stays off in both directions, and is a separate question. A link
-# manifest is the dependency edge — emitting one would let other packages cite
-# these addresses and make the module something the project has to keep.
-# Publishing pages creates no such edge: a reader follows a URL, a build does
-# not.
+# Publishing pages creates no dependency edge, which is the question the retired
+# `publish.manifests` key used to answer. A link manifest was that edge — it let
+# other packages cite these addresses and made the module something the project
+# had to keep. Since package-build 19 there is no manifest to emit and the edge
+# is simply the absence of a dependency declaration; a reader follows a URL, a
+# build does not.
 publish:
     site: content
-    manifests: { publish: false, consume: false }
 
 # Where the site build writes, and how this repository frames what it publishes.
 # `out` is required in *both* modes and deliberately not defaulted: the output
