@@ -1,4 +1,4 @@
-# Build and deploy /harnensemble — this package's homepage (#10).
+# Build and deploy /harnensemble — this package's published site (#10, #53).
 #
 # The runner, the completeness guard, the hosting project, the custom domain and
 # the upload are identical for every package that publishes a subtree of
@@ -7,11 +7,11 @@
 # stays here is the build: `npm run build:site`, which the shared workflow runs
 # and knows nothing else about.
 #
-# No `min-pages` / `max-pages`. This package's `publish.site` is `homepage`, and
-# in that mode the shared workflow reads the bound from
-# `package-build.config.yaml` and fixes it at exactly one — then fails the run if
-# a caller passes either input. The bound is a property of what the package
-# publishes, not a knob the caller sets.
+# No `min-pages` / `max-pages`. The shared workflow reads `publish.site` from
+# `package-build.config.yaml` and derives the bound from it — then fails the run
+# if a caller passes either input. The bound is a property of what the package
+# publishes, not a knob the caller sets, so it follows the mode without this
+# file restating it.
 #
 # No `_headers` either: HeroicLands/.github#7 is making the shared workflow
 # supply the default, rather than four repositories each carrying the same six
