@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - sarajin
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 24
@@ -126,7 +127,6 @@ hm3:
     - { shortcode: Kni, type: weapongear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

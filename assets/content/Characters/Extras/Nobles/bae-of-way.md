@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 44
@@ -127,7 +128,6 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

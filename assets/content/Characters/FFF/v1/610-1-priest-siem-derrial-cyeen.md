@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - siem
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 60
@@ -225,7 +226,6 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 28 } }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

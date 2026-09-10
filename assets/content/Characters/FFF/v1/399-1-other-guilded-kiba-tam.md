@@ -24,6 +24,7 @@ harnworld:
     - halea
     - agrik
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 17
@@ -190,7 +191,6 @@ hm3:
     - { shortcode: telepathy, type: psionic, name: Telepathy (F3), system: { masteryLevel: 44 } }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

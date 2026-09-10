@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 43
@@ -140,7 +141,6 @@ hm3:
     - { shortcode: KiSh, type: weapongear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

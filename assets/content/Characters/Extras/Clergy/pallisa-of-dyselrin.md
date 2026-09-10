@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - agrik
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 44
@@ -148,7 +149,6 @@ hm3:
     - { shortcode: Bklr, type: weapongear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

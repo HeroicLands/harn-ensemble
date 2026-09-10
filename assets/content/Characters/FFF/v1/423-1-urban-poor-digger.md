@@ -24,6 +24,7 @@ harnworld:
     - peoni
     - larani
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 37
@@ -139,7 +140,6 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
