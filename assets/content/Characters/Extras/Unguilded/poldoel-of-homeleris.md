@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 8
     sta: 6
@@ -51,7 +49,6 @@ hm3:
     voi: 14
     cml: 18
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -107,6 +104,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: ropehempperft330lbcap, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 13
 sohl:
   kbcat: archetype
   items:

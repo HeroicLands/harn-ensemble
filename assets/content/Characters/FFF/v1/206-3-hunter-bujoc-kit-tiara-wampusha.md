@@ -39,8 +39,6 @@ data:
     extra_features:
       - Hair is cut short like a man
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 10
     sta: 12
@@ -55,7 +53,6 @@ hm3:
     voi: 10
     cml: 14
     mor: 11
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -166,6 +163,9 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 14 } }
+  system:
+    sunsign: tarael
+    move: 13
 sohl:
   kbcat: archetype
   items:

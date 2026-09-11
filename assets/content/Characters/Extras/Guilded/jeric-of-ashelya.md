@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 16
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 12
     mor: 15
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 10
 sohl:
   kbcat: archetype
   items:

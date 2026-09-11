@@ -40,8 +40,6 @@ data:
       - a limp
       - Carry a long narrow package
 hm3:
-  species: human
-  sunsign: saraju
   attributes:
     str: 15
     sta: 13
@@ -56,7 +54,6 @@ hm3:
     voi: 10
     cml: 11
     mor: 14
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -168,6 +165,9 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: MByr, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 105 } }
+  system:
+    sunsign: saraju
+    move: 10
 sohl:
   kbcat: archetype
   items:

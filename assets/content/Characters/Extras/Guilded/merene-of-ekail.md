@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 8
     sta: 10
@@ -51,7 +49,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: masara
+    move: 13
 sohl:
   kbcat: archetype
   items:

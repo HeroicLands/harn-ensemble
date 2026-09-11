@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 13
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 11
     mor: 12
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
         weight: 1
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 15
 sohl:
   kbcat: archetype
   items:

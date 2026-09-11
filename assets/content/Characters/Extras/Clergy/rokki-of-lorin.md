@@ -36,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 10
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 18
     cml: 14
     mor: 7
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,6 +127,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: tarael
+    move: 9
 sohl:
   kbcat: archetype
   items:

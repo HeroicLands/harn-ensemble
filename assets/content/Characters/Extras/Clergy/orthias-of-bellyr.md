@@ -37,8 +37,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: skorus-tai
   attributes:
     str: 16
     sta: 7
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 5
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -135,6 +132,9 @@ hm3:
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Kni, type: weapongear }
     - { shortcode: Bklr, type: weapongear }
+  system:
+    sunsign: skorus-tai
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 10
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 12
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 10
 sohl:
   kbcat: archetype
   items:

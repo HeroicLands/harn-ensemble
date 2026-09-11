@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: human
-  sunsign: aralius-ulandus
   attributes:
     str: 13
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius-ulandus
+    move: 12
 sohl:
   kbcat: archetype
   items:

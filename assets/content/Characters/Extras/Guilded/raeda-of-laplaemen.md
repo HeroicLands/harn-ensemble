@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: ulandus-lado
   attributes:
     str: 10
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 10
     mor: 16
-  move: 18
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus-lado
+    move: 18
 sohl:
   kbcat: archetype
   items:

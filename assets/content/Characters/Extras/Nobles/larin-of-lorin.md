@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 14
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 7
     mor: 10
-  move: 4
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 4
 sohl:
   kbcat: archetype
   items:

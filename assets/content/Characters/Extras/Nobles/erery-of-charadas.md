@@ -36,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 11
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 8
     mor: 14
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
         value: 1
         weight: 0.03
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 14
 sohl:
   kbcat: archetype
   items:

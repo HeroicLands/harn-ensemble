@@ -36,8 +36,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: human
-  sunsign: tarael-tai
   attributes:
     str: 14
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 7
     mor: 16
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tarael-tai
+    move: 15
 sohl:
   kbcat: archetype
   items:

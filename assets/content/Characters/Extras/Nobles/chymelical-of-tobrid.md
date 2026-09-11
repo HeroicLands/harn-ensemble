@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 14
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 14
     mor: 8
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
     - { shortcode: KiSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 8
 sohl:
   kbcat: archetype
   items:

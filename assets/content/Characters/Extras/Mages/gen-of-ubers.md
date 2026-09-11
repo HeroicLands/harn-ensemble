@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius-ulandus
   attributes:
     str: 11
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 8
     cml: 15
     mor: 9
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -164,6 +161,9 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius-ulandus
+    move: 7
 sohl:
   kbcat: archetype
   items:

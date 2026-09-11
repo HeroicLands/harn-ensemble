@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 15
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 7
     mor: 11
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 14
 sohl:
   kbcat: archetype
   items:

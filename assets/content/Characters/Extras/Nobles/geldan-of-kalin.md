@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 12
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 12
     mor: 10
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,6 +127,9 @@ hm3:
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 14
 sohl:
   kbcat: archetype
   items:

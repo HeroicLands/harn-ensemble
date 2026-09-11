@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: hirin-nadai
   attributes:
     str: 10
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 10
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: hirin-nadai
+    move: 15
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: tai-tarael
   attributes:
     str: 10
     sta: 15
@@ -51,7 +49,6 @@ hm3:
     voi: 14
     cml: 12
     mor: 13
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
         weight: 0.03
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai-tarael
+    move: 12
 sohl:
   kbcat: archetype
   items:

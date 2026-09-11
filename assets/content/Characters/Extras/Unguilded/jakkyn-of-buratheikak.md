@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: khuzdul
-  sunsign: ulandus
   attributes:
     str: 15
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 16
     mor: 11
-  move: 0
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 0
 sohl:
   kbcat: archetype
   items:

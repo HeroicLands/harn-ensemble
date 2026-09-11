@@ -36,8 +36,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 17
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 9
     mor: 14
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -136,6 +133,9 @@ hm3:
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: ulandus
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: human
-  sunsign: aralius-feniri
   attributes:
     str: 14
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 12
     mor: 17
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: WCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius-feniri
+    move: 14
 sohl:
   kbcat: archetype
   items:

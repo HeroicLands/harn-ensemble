@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: kyani
-  sunsign: ahnu
   attributes:
     str: 13
     sta: 16
@@ -53,7 +51,6 @@ hm3:
     voi: 11
     cml: 8
     mor: 13
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -154,6 +151,9 @@ hm3:
         weight: 1
     - { shortcode: PlAil, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 180 } }
+  system:
+    sunsign: ahnu
+    move: 13
 ---
 
 # Appearance {#appearance}

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 10
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 12
     mor: 16
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: masara
+    move: 13
 sohl:
   kbcat: archetype
   items:

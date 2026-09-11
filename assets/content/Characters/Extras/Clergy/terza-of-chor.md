@@ -37,8 +37,6 @@ data:
     extra_features:
       - One Eye Missing/Blind
 hm3:
-  species: human
-  sunsign: tarael-tai
   attributes:
     str: 13
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 13
     mor: 7
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,6 +125,9 @@ hm3:
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: tarael-tai
+    move: 12
 sohl:
   kbcat: archetype
   items:

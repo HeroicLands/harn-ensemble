@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: ahnu-angberelius
   attributes:
     str: 14
     sta: 17
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 7
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,6 +124,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: ahnu-angberelius
+    move: 13
 sohl:
   kbcat: archetype
   items:

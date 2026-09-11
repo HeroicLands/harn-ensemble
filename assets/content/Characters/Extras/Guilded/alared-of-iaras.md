@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 20
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 13
     mor: 11
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: masara
+    move: 8
 sohl:
   kbcat: archetype
   items:

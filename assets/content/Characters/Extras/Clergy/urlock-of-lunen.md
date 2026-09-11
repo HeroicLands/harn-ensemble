@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: lado-ulandus
   attributes:
     str: 7
     sta: 7
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 9
     mor: 14
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
       system:
         value: 75
         weight: 0.5
+  system:
+    sunsign: lado-ulandus
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 19
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 16
     cml: 18
     mor: 13
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: RHbk, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: lado
+    move: 9
 sohl:
   kbcat: archetype
   items:

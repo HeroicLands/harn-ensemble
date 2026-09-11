@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara-lado
   attributes:
     str: 12
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 7
     cml: 17
     mor: 12
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: masara-lado
+    move: 17
 sohl:
   kbcat: archetype
   items:

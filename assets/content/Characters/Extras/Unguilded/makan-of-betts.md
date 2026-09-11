@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 7
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 5
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
       system:
         value: 1
         weight: 0.03
+  system:
+    sunsign: lado
+    move: 8
 sohl:
   kbcat: archetype
   items:

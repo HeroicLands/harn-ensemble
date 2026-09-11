@@ -39,8 +39,6 @@ data:
     extra_features:
       - Acne scars on face
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 13
     sta: 16
@@ -55,7 +53,6 @@ hm3:
     voi: 11
     cml: 5
     mor: 11
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -164,6 +161,9 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 107 } }
+  system:
+    sunsign: ulandus
+    move: 15
 sohl:
   kbcat: archetype
   items:

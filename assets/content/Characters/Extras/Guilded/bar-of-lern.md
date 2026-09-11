@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: angberelius-nadai
   attributes:
     str: 8
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 15
     mor: 14
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
         value: 36
         weight: 15
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: angberelius-nadai
+    move: 11
 sohl:
   kbcat: archetype
   items:

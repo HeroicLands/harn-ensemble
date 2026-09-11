@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: khuzdul
-  sunsign: masara
   attributes:
     str: 18
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 17
     mor: 13
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: masara
+    move: 9
 sohl:
   kbcat: archetype
   items:

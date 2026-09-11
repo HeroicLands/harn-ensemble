@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 7
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 8
     mor: 17
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 10
 sohl:
   kbcat: archetype
   items:

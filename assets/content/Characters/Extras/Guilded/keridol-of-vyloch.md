@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 10
     sta: 10
@@ -51,7 +49,6 @@ hm3:
     voi: 7
     cml: 16
     mor: 10
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 13
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 15
     mor: 13
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -133,6 +130,9 @@ hm3:
         weight: 0.03
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 11
 sohl:
   kbcat: archetype
   items:

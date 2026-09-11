@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 9
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 17
     cml: 11
     mor: 12
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: WCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 10
 sohl:
   kbcat: archetype
   items:

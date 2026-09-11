@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 7
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 13
     mor: 14
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,6 +124,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: khuzdul
-  sunsign: ahnu
   attributes:
     str: 15
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 10
     cml: 9
     mor: 8
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: LtCap, type: armorgear }
+  system:
+    sunsign: ahnu
+    move: 13
 sohl:
   kbcat: archetype
   items:

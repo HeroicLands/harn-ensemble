@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 9
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 16
     mor: 14
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 17
 sohl:
   kbcat: archetype
   items:

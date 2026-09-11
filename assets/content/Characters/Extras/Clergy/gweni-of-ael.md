@@ -37,8 +37,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: nadai-angberelius
   attributes:
     str: 9
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 3
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -143,6 +140,9 @@ hm3:
       system:
         value: 900
         weight: 0.03
+  system:
+    sunsign: nadai-angberelius
+    move: 11
 sohl:
   kbcat: archetype
   items:

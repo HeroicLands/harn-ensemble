@@ -41,8 +41,6 @@ data:
       - Burn scars on his hands
       - left side of his face
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 12
     sta: 16
@@ -57,7 +55,6 @@ hm3:
     voi: 10
     cml: 5
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -248,6 +245,9 @@ hm3:
     - { shortcode: charge, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 196 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 5 } }
+  system:
+    sunsign: hirin
+    move: 13
 sohl:
   kbcat: archetype
   items:

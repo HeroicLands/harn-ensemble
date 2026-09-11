@@ -39,8 +39,6 @@ data:
     extra_features:
       - Always carrying a large book
 hm3:
-  species: khuzdul
-  sunsign: nadai
   attributes:
     str: 15
     sta: 15
@@ -55,7 +53,6 @@ hm3:
     voi: 15
     cml: 10
     mor: 10
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -239,6 +236,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 267 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 4 } }
+  system:
+    sunsign: nadai
+    move: 8
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 12
     sta: 8
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 8
     mor: 11
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -151,6 +148,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: ahnu
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -39,8 +39,6 @@ data:
     extra_features:
       - Left handed
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 16
     sta: 17
@@ -55,7 +53,6 @@ hm3:
     voi: 9
     cml: 10
     mor: 7
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -196,6 +193,9 @@ hm3:
     - { shortcode: MByr, type: armorgear }
     - { shortcode: vialglassm, type: miscgear, system: { quantity: 2 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 92 } }
+  system:
+    sunsign: aralius
+    move: 16
 sohl:
   kbcat: archetype
   items:

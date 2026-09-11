@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 16
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 11
     mor: 10
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -106,6 +103,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -42,8 +42,6 @@ data:
       - very unsure of himself
       - bows to everyone
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 16
     sta: 14
@@ -58,7 +56,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 14
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -195,6 +192,9 @@ hm3:
     - { shortcode: KVamb, type: armorgear }
     - { shortcode: KHlfHelm, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 5 } }
+  system:
+    sunsign: hirin
+    move: 14
 sohl:
   kbcat: archetype
   items:

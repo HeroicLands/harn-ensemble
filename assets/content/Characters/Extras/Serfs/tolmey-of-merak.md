@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 13
     sta: 8
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 8
     mor: 18
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin-nadai
+    move: 10
 sohl:
   kbcat: archetype
   items:

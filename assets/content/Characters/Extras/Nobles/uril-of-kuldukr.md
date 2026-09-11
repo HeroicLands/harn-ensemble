@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: khuzdul
-  sunsign: ahnu-feniri
   attributes:
     str: 15
     sta: 18
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 12
     mor: 9
-  move: 5
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ahnu-feniri
+    move: 5
 sohl:
   kbcat: archetype
   items:

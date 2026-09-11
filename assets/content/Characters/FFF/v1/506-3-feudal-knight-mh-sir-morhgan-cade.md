@@ -40,8 +40,6 @@ data:
       - Pallid complexion
       - Bad breath
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 15
     sta: 16
@@ -56,7 +54,6 @@ hm3:
     voi: 5
     cml: 15
     mor: 6
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -172,6 +169,9 @@ hm3:
     - { shortcode: CScoat, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 103 } }
+  system:
+    sunsign: feniri
+    move: 11
 sohl:
   kbcat: archetype
   items:

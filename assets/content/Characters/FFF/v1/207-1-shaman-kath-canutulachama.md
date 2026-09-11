@@ -37,8 +37,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 12
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 11
     cml: 14
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -150,6 +147,9 @@ hm3:
     - { shortcode: BvCloak, type: armorgear }
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu-feniri
   attributes:
     str: 8
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 10
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -107,6 +104,9 @@ hm3:
       img: systems/hm3/images/icons/svg/miscgear.svg
       system:
         weight: 1
+  system:
+    sunsign: ahnu-feniri
+    move: 17
 sohl:
   kbcat: archetype
   items:

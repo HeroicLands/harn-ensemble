@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 8
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 4
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -136,6 +133,9 @@ hm3:
       system:
         value: 1
         weight: 0.03
+  system:
+    sunsign: hirin
+    move: 13
 sohl:
   kbcat: archetype
   items:

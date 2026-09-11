@@ -39,8 +39,6 @@ data:
     extra_features:
       - Crooked left forearm
 hm3:
-  species: human
-  sunsign: angberelius-nadai
   attributes:
     str: 13
     sta: 14
@@ -55,7 +53,6 @@ hm3:
     voi: 12
     cml: 12
     mor: 13
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -179,6 +176,9 @@ hm3:
     - { shortcode: BvCloak, type: armorgear }
     - { shortcode: MByr, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 102 } }
+  system:
+    sunsign: angberelius-nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

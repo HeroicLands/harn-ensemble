@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 11
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 10
     mor: 11
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: RHbk, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 13
 sohl:
   kbcat: archetype
   items:

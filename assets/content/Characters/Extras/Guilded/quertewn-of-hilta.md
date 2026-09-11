@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 15
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 5
     mor: 10
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -106,6 +103,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
+  system:
+    sunsign: masara
+    move: 14
 sohl:
   kbcat: archetype
   items:

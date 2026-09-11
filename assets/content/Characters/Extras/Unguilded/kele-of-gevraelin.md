@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 9
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 9
     mor: 10
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 14
 sohl:
   kbcat: archetype
   items:

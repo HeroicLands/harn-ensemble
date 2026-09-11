@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 11
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 6
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: lanternmet, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 12
 sohl:
   kbcat: archetype
   items:

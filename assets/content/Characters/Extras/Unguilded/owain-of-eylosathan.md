@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 9
     sta: 15
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 13
     mor: 10
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
         weight: 0.03
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 9
 sohl:
   kbcat: archetype
   items:

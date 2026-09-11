@@ -36,8 +36,6 @@ data:
     extra_features:
       - Dwarfism
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 14
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 8
     mor: 7
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 11
 sohl:
   kbcat: archetype
   items:

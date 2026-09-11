@@ -37,8 +37,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 10
     sta: 13
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 8
     mor: 12
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -145,6 +142,9 @@ hm3:
         value: 12
         weight: 0.1
     - { shortcode: firstaidbagwinstruments, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 12
 sohl:
   kbcat: archetype
   items:

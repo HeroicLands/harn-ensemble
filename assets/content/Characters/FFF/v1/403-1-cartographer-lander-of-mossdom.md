@@ -38,8 +38,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 11
     sta: 6
@@ -54,7 +52,6 @@ hm3:
     voi: 14
     cml: 9
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 20 } }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 37 } }
+  system:
+    sunsign: skorus
+    move: 11
 sohl:
   kbcat: archetype
   items:

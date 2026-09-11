@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 10
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 14
     mor: 11
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
       img: systems/hm3/images/icons/svg/miscgear.svg
       system:
         weight: 1
+  system:
+    sunsign: angberelius
+    move: 9
 sohl:
   kbcat: archetype
   items:

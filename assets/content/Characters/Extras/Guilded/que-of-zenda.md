@@ -36,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 10
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 12
     mor: 9
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 15
 sohl:
   kbcat: archetype
   items:

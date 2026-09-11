@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Eye Missing/Blind
 hm3:
-  species: human
-  sunsign: lado-masara
   attributes:
     str: 12
     sta: 7
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 12
     mor: 11
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -107,6 +104,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: lado-masara
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 10
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 11
     mor: 8
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
         value: 50
         weight: 2
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 19
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 12
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: KiSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tarael
+    move: 11
 sohl:
   kbcat: archetype
   items:

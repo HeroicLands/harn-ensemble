@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 13
     sta: 14
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 12
     mor: 6
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,6 +126,9 @@ hm3:
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: tai
+    move: 11
 sohl:
   kbcat: archetype
   items:

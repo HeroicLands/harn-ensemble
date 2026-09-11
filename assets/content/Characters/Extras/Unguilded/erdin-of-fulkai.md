@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 11
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 14
     cml: 15
     mor: 5
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -105,6 +102,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 9
 sohl:
   kbcat: archetype
   items:

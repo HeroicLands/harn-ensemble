@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 10
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 17
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: cookingkitportable, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 11
 sohl:
   kbcat: archetype
   items:

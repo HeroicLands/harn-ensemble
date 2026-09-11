@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 14
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 8
     cml: 12
     mor: 9
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
         weight: 0.03
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: tai
+    move: 6
 sohl:
   kbcat: archetype
   items:

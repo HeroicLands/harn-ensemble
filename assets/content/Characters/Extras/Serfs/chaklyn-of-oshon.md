@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 13
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 7
     mor: 10
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: Pfrk, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 10
 sohl:
   kbcat: archetype
   items:

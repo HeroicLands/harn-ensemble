@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: khuzdul
-  sunsign: lado
   attributes:
     str: 14
     sta: 17
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 15
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: lado
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 14
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 13
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tarael
+    move: 10
 sohl:
   kbcat: archetype
   items:

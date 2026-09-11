@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 9
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 9
     mor: 7
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai-tarael
+    move: 9
 sohl:
   kbcat: archetype
   items:

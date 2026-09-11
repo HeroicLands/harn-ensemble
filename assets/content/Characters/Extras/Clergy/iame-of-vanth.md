@@ -37,8 +37,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 15
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 17
     cml: 12
     mor: 17
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -144,6 +141,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: hirin
+    move: 11
 sohl:
   kbcat: archetype
   items:

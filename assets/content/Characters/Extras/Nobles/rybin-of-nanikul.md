@@ -36,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: khuzdul
-  sunsign: feniri
   attributes:
     str: 12
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 16
     mor: 5
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
         value: 1
         weight: 0.03
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 6
 sohl:
   kbcat: archetype
   items:

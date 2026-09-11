@@ -37,8 +37,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 12
     sta: 16
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 14
     mor: 6
-  move: 5
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -133,6 +130,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: feniri
+    move: 5
 sohl:
   kbcat: archetype
   items:

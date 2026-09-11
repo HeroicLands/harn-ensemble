@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: khuzdul
-  sunsign: tarael
   attributes:
     str: 16
     sta: 19
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 14
     mor: 10
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,6 +124,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tarael
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius-ulandus
   attributes:
     str: 8
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 11
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius-ulandus
+    move: 14
 sohl:
   kbcat: archetype
   items:

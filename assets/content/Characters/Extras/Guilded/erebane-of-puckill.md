@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 7
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 10
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: papercasel, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: writingkitportable, type: miscgear }
+  system:
+    sunsign: tai
+    move: 13
 sohl:
   kbcat: archetype
   items:

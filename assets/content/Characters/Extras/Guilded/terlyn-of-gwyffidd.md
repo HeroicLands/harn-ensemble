@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 12
     sta: 5
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 12
     mor: 15
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: ahnu
+    move: 8
 sohl:
   kbcat: archetype
   items:

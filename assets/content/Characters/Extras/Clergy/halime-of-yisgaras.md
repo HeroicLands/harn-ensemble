@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Hemophilia"
 hm3:
-  species: human
-  sunsign: aralius-feniri
   attributes:
     str: 10
     sta: 8
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 17
     mor: 15
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -160,6 +157,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: aralius-feniri
+    move: 6
 sohl:
   kbcat: archetype
   items:

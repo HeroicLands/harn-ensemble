@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 9
     sta: 8
@@ -51,7 +49,6 @@ hm3:
     voi: 13
     cml: 12
     mor: 10
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
         weight: 10
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 9
     sta: 9
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 10
     mor: 8
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tarael
+    move: 12
 sohl:
   kbcat: archetype
   items:

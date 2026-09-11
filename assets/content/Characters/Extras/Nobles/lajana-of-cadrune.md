@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 6
     sta: 10
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 7
     mor: 8
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 11
 sohl:
   kbcat: archetype
   items:

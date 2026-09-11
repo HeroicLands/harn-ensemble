@@ -37,8 +37,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 12
     sta: 16
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 7
     mor: 15
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,6 +137,9 @@ hm3:
       system:
         value: 75
         weight: 0.5
+  system:
+    sunsign: nadai
+    move: 13
 sohl:
   kbcat: archetype
   items:

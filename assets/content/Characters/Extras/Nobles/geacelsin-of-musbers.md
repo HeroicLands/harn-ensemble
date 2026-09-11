@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 12
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 13
     mor: 7
-  move: 4
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: lado
+    move: 4
 sohl:
   kbcat: archetype
   items:

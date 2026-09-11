@@ -42,8 +42,6 @@ data:
       - Moustache
       - beard
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 10
     sta: 13
@@ -58,7 +56,6 @@ hm3:
     voi: 13
     cml: 12
     mor: 10
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -168,6 +165,9 @@ hm3:
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 20 } }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 134 } }
+  system:
+    sunsign: masara
+    move: 15
 sohl:
   kbcat: archetype
   items:

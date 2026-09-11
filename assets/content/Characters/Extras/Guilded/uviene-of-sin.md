@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 6
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 13
     mor: 8
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 7
 sohl:
   kbcat: archetype
   items:

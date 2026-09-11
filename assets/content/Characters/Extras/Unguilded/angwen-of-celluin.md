@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: sindarin
-  sunsign: lado
   attributes:
     str: 9
     sta: 17
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 11
     mor: 13
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: lado
+    move: 11
 sohl:
   kbcat: archetype
   items:

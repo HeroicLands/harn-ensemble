@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 8
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 16
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: textilecraftkit, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: lado-masara
   attributes:
     str: 15
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 15
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: brushhair, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: lado-masara
+    move: 10
 sohl:
   kbcat: archetype
   items:

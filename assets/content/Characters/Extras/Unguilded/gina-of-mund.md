@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 8
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 12
     mor: 15
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: hirin
+    move: 9
 sohl:
   kbcat: archetype
   items:

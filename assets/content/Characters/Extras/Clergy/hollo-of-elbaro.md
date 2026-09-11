@@ -36,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 11
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 13
     mor: 15
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -139,6 +136,9 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: Kni, type: weapongear }
     - { shortcode: KiSh, type: weapongear }
+  system:
+    sunsign: feniri
+    move: 10
 sohl:
   kbcat: archetype
   items:

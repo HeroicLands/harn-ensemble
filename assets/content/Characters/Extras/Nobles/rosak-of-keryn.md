@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 6
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 6
     cml: 7
     mor: 11
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tarael
+    move: 13
 sohl:
   kbcat: archetype
   items:

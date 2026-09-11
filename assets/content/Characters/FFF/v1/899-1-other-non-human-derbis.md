@@ -35,8 +35,6 @@ data:
     complexion: frightening
     extra_features: []
 hm3:
-  species: ogre
-  sunsign: ""
   attributes:
     str: 26
     sta: 30
@@ -51,7 +49,6 @@ hm3:
     voi: 4
     cml: 5
     mor: 10
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -153,6 +150,9 @@ hm3:
       name: "Telepathy: Other Species"
       system:
         masteryLevel: 36
+  system:
+    sunsign: ""
+    move: 11
 ---
 
 # Appearance {#appearance}

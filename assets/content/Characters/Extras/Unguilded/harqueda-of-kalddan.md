@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: khuzdul
-  sunsign: angberelius
   attributes:
     str: 18
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 11
     mor: 12
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,6 +129,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: angberelius
+    move: 7
 sohl:
   kbcat: archetype
   items:

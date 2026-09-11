@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 10
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 13
     mor: 9
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
         weight: 1
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 9
 sohl:
   kbcat: archetype
   items:

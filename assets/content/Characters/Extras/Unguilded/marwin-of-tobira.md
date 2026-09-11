@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Eye Missing/Blind
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 8
     sta: 7
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 7
     mor: 9
-  move: 18
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: flaskofoilmetal, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 18
 sohl:
   kbcat: archetype
   items:

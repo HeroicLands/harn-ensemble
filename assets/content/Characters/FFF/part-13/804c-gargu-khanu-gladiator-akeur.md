@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: gargu-khanu
-  sunsign: lado-ulandus
   attributes:
     str: 17
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 7
     cml: 3
     mor: 6
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
     - { shortcode: LtApn, type: armorgear }
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: KAil, type: armorgear }
+  system:
+    sunsign: lado-ulandus
+    move: 14
 ---
 
 # Appearance {#appearance}

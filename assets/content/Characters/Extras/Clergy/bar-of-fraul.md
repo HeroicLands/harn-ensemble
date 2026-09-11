@@ -37,8 +37,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 18
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 17
     mor: 14
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -147,6 +144,9 @@ hm3:
         weight: 1
         value: 0
     - { shortcode: KiSh, type: weapongear }
+  system:
+    sunsign: feniri
+    move: 10
 sohl:
   kbcat: archetype
   items:

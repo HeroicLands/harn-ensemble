@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 15
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 9
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: WCap, type: armorgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 7
 sohl:
   kbcat: archetype
   items:

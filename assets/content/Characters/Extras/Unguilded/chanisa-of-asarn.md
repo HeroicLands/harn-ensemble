@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 11
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 11
     mor: 6
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -104,6 +101,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius-feniri
   attributes:
     str: 9
     sta: 9
@@ -51,7 +49,6 @@ hm3:
     voi: 11
     cml: 14
     mor: 7
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius-feniri
+    move: 12
 sohl:
   kbcat: archetype
   items:

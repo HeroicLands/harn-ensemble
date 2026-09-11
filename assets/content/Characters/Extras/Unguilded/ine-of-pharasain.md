@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 11
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 2
     mor: 15
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: Bklr, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 6
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 4
     mor: 11
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -107,6 +104,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: WCap, type: armorgear }
+  system:
+    sunsign: tarael
+    move: 15
 sohl:
   kbcat: archetype
   items:

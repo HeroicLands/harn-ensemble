@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 15
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 12
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 13
 sohl:
   kbcat: archetype
   items:

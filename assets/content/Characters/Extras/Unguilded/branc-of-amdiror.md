@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: sindarin
-  sunsign: angberelius
   attributes:
     str: 14
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 12
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: HBw, type: weapongear }
     - { shortcode: backbagsmcanvas, type: containergear }
+  system:
+    sunsign: angberelius
+    move: 6
 sohl:
   kbcat: archetype
   items:

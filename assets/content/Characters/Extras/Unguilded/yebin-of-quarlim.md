@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: tarael-hirin
   attributes:
     str: 11
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 18
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
         value: 10
         weight: 2
     - { shortcode: spadeshovel, type: miscgear }
+  system:
+    sunsign: tarael-hirin
+    move: 12
 sohl:
   kbcat: archetype
   items:

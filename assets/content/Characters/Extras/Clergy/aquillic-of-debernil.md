@@ -37,8 +37,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 14
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 5
     mor: 15
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,6 +137,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: hirin
+    move: 8
 sohl:
   kbcat: archetype
   items:

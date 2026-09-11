@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 7
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 11
     mor: 12
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -159,6 +156,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: masara
+    move: 7
 sohl:
   kbcat: archetype
   items:

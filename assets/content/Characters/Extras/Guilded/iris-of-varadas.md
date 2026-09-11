@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 18
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 8
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 10
 sohl:
   kbcat: archetype
   items:

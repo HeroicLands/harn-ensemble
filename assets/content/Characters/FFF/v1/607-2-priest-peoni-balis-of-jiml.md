@@ -41,8 +41,6 @@ data:
       - blind wandering eye
       - Thick accent
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 16
     sta: 12
@@ -57,7 +55,6 @@ hm3:
     voi: 13
     cml: 6
     mor: 7
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -133,6 +130,9 @@ hm3:
     - { shortcode: physician, type: skill, system: { masteryLevel: 26, skillBase: { value: 9 } } }
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 8 } }
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

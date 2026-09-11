@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 15
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 17
     cml: 9
     mor: 11
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 15
 sohl:
   kbcat: archetype
   items:

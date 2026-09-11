@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 9
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 12
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
         weight: 2
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

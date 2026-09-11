@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: skorus-tai
   attributes:
     str: 15
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 16
     mor: 7
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: skorus-tai
+    move: 11
 sohl:
   kbcat: archetype
   items:

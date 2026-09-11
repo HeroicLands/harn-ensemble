@@ -36,8 +36,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 10
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 12
     mor: 9
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 11
 sohl:
   kbcat: archetype
   items:

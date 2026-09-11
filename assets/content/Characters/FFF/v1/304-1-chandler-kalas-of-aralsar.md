@@ -41,8 +41,6 @@ data:
       - Moustache
       - beard
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 9
     sta: 7
@@ -57,7 +55,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 7
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 38 } }
+  system:
+    sunsign: nadai
+    move: 8
 sohl:
   kbcat: archetype
   items:

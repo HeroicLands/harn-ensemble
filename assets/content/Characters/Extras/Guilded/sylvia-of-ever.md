@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus-lado
   attributes:
     str: 11
     sta: 9
@@ -51,7 +49,6 @@ hm3:
     voi: 13
     cml: 9
     mor: 15
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: pipes, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
+  system:
+    sunsign: ulandus-lado
+    move: 8
 sohl:
   kbcat: archetype
   items:

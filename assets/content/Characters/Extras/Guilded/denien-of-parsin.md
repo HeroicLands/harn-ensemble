@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 7
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 8
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 13
 sohl:
   kbcat: archetype
   items:

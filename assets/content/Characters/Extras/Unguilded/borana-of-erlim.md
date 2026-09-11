@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 10
     sta: 7
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 6
     mor: 9
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 11
 sohl:
   kbcat: archetype
   items:

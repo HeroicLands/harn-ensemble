@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 12
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 12
     mor: 9
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,6 +126,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 8
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius-feniri
   attributes:
     str: 13
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 10
     cml: 8
     mor: 10
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: aralius-feniri
+    move: 9
 sohl:
   kbcat: archetype
   items:

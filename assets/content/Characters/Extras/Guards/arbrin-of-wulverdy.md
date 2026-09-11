@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 9
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 11
     mor: 14
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 17
 sohl:
   kbcat: archetype
   items:

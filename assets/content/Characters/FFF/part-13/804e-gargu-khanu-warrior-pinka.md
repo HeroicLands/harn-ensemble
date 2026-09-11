@@ -39,8 +39,6 @@ data:
       - drooling
       - confused look
 hm3:
-  species: khanu
-  sunsign: ulandus
   attributes:
     str: 19
     sta: 18
@@ -55,7 +53,6 @@ hm3:
     voi: 0
     cml: 5
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
         notes: Gargun Teeth Necklace
         value: 5
         weight: 0.25
+  system:
+    sunsign: ulandus
+    move: 13
 ---
 
 # Appearance {#appearance}

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 8
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 15
     mor: 10
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

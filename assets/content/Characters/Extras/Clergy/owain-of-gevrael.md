@@ -36,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri-ahnu
   attributes:
     str: 10
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 8
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: feniri-ahnu
+    move: 10
 sohl:
   kbcat: archetype
   items:

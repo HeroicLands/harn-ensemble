@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: khuzdul
-  sunsign: angberelius-ahnu
   attributes:
     str: 14
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 14
     mor: 8
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,6 +124,9 @@ hm3:
         weight: 0.3125
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: angberelius-ahnu
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 10
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 13
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: tarael
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 16
     sta: 7
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 13
     mor: 14
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -105,6 +102,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 13
 sohl:
   kbcat: archetype
   items:

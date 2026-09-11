@@ -38,8 +38,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: hirin-tarael
   attributes:
     str: 12
     sta: 10
@@ -54,7 +52,6 @@ hm3:
     voi: 13
     cml: 13
     mor: 8
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,6 +127,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 100 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 5 } }
+  system:
+    sunsign: hirin-tarael
+    move: 10
 sohl:
   kbcat: archetype
   items:

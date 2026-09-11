@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 13
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 9
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

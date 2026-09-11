@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 13
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 8
     mor: 15
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
         value: 8
         weight: 0.05
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 8
 sohl:
   kbcat: archetype
   items:

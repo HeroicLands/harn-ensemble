@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 18
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 13
     mor: 6
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 6
 sohl:
   kbcat: archetype
   items:

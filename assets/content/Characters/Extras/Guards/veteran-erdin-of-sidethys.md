@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 12
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 4
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,6 +127,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: masara
+    move: 8
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: human
-  sunsign: tarael-hirin
   attributes:
     str: 10
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 12
     mor: 11
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: tarael-hirin
+    move: 14
 sohl:
   kbcat: archetype
   items:

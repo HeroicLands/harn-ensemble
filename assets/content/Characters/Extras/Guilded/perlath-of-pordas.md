@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 11
     sta: 8
@@ -51,7 +49,6 @@ hm3:
     voi: 15
     cml: 8
     mor: 10
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
         weight: 0.05
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 10
 sohl:
   kbcat: archetype
   items:

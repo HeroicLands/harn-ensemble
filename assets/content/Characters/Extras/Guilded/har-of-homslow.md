@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 16
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 15
     mor: 8
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: masara
+    move: 6
 sohl:
   kbcat: archetype
   items:

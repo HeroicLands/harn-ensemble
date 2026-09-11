@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: nadai-hirin
   attributes:
     str: 14
     sta: 16
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 17
     mor: 13
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: nadai-hirin
+    move: 15
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 16
     sta: 5
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 9
     mor: 14
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -141,6 +138,9 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: Kni, type: weapongear }
     - { shortcode: RndSh, type: weapongear }
+  system:
+    sunsign: nadai
+    move: 13
 sohl:
   kbcat: archetype
   items:

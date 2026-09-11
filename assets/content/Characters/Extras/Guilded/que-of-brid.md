@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 6
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 8
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 14
 sohl:
   kbcat: archetype
   items:

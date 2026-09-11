@@ -35,8 +35,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 14
     sta: 16
@@ -51,7 +49,6 @@ hm3:
     voi: 13
     cml: 5
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 13
 sohl:
   kbcat: archetype
   items:

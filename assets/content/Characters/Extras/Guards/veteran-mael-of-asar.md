@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 17
     sta: 17
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 8
     mor: 15
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 10
 sohl:
   kbcat: archetype
   items:

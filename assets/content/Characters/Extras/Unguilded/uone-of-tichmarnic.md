@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 12
     sta: 14
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 8
     mor: 13
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 10
 sohl:
   kbcat: archetype
   items:

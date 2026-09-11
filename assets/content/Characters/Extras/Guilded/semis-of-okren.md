@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: hirin-tarael
   attributes:
     str: 17
     sta: 7
@@ -51,7 +49,6 @@ hm3:
     voi: 14
     cml: 9
     mor: 11
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
         value: 24
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin-tarael
+    move: 15
 sohl:
   kbcat: archetype
   items:

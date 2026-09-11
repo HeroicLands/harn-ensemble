@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 10
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 12
     mor: 7
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 7
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 4
     cml: 9
     mor: 12
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
         weight: 0.25
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: masara
+    move: 12
 sohl:
   kbcat: archetype
   items:

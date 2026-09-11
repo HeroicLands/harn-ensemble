@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 15
     sta: 5
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 14
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
         weight: 0.25
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 7
 sohl:
   kbcat: archetype
   items:

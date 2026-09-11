@@ -38,8 +38,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 11
     sta: 13
@@ -54,7 +52,6 @@ hm3:
     voi: 15
     cml: 8
     mor: 13
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -322,6 +319,9 @@ hm3:
     - { shortcode: caraksward, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 68 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 20 } }
+  system:
+    sunsign: tai
+    move: 15
 sohl:
   kbcat: archetype
   items:

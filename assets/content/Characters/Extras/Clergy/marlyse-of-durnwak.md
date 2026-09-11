@@ -37,8 +37,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 10
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 14
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -133,6 +130,9 @@ hm3:
       system:
         value: 12
         weight: 0.1
+  system:
+    sunsign: nadai
+    move: 14
 sohl:
   kbcat: archetype
   items:

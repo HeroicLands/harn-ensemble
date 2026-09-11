@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 11
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 14
     mor: 7
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: lado
+    move: 14
 sohl:
   kbcat: archetype
   items:

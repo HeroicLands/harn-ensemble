@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 9
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 12
     mor: 14
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -104,6 +101,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
+  system:
+    sunsign: tai
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -40,8 +40,6 @@ data:
       - Obese
       - Left-handed
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 10
     sta: 14
@@ -56,7 +54,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 9
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -163,6 +160,9 @@ hm3:
     - { shortcode: telepathy, type: psionic, name: Telepathy (F3), system: { masteryLevel: 24 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 95 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+  system:
+    sunsign: ulandus
+    move: 15
 sohl:
   kbcat: archetype
   items:

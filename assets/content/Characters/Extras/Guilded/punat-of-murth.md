@@ -36,8 +36,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: masara-skorus
   attributes:
     str: 10
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 4
     cml: 10
     mor: 8
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
         weight: 10
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: masara-skorus
+    move: 10
 sohl:
   kbcat: archetype
   items:

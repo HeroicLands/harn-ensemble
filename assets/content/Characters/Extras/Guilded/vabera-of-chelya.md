@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 15
     sta: 6
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 9
     mor: 6
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: masara
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 10
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 10
     mor: 9
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: firstaidbagwinstruments, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 9
 sohl:
   kbcat: archetype
   items:

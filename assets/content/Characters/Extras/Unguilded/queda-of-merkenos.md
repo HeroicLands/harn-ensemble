@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 8
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 10
     mor: 11
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
         weight: 0.05
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 14
 sohl:
   kbcat: archetype
   items:

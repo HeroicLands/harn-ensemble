@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius-nadai
   attributes:
     str: 9
     sta: 17
@@ -51,7 +49,6 @@ hm3:
     voi: 7
     cml: 10
     mor: 11
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -158,6 +155,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: angberelius-nadai
+    move: 11
 sohl:
   kbcat: archetype
   items:

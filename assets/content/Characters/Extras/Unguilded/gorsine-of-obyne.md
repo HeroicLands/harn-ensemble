@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 8
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 9
     mor: 10
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: tarael
+    move: 7
 sohl:
   kbcat: archetype
   items:

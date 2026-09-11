@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 16
     sta: 7
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 11
     mor: 14
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
     - { shortcode: SlsCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
+  system:
+    sunsign: tai
+    move: 9
 sohl:
   kbcat: archetype
   items:

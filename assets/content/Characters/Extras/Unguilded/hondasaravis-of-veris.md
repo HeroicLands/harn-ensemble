@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: skorus-tai
   attributes:
     str: 10
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 13
     mor: 7
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: skorus-tai
+    move: 8
 sohl:
   kbcat: archetype
   items:

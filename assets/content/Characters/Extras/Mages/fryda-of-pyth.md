@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 11
     sta: 7
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 10
     mor: 6
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -179,6 +176,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: hirin
+    move: 11
 sohl:
   kbcat: archetype
   items:

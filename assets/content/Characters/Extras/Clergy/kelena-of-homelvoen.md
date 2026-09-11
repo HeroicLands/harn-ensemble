@@ -37,8 +37,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 15
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 4
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,6 +125,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: CTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
+  system:
+    sunsign: tai
+    move: 17
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 8
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 7
     mor: 14
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -141,6 +138,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

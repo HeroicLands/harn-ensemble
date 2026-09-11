@@ -36,8 +36,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 12
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 8
     mor: 12
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
         weight: 2
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 11
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 8
     mor: 13
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: KnSh, type: weapongear }
+  system:
+    sunsign: tai
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 14
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 6
     cml: 13
     mor: 8
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
       system:
         value: 75
         weight: 0.5
+  system:
+    sunsign: lado
+    move: 15
 sohl:
   kbcat: archetype
   items:

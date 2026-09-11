@@ -36,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 3
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 12
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -151,6 +148,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: ulandus
+    move: 14
 sohl:
   kbcat: archetype
   items:

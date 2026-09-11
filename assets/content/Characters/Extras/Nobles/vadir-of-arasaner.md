@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 11
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 8
     mor: 9
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
         value: 48
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin-nadai
+    move: 9
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 18
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 12
     mor: 11
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: masara
+    move: 10
 sohl:
   kbcat: archetype
   items:

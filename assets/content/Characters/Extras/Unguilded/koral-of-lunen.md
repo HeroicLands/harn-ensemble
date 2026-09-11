@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 15
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 10
     cml: 15
     mor: 8
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: masara
+    move: 6
 sohl:
   kbcat: archetype
   items:

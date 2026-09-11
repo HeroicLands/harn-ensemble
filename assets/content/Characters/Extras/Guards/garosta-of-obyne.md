@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 16
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 13
     mor: 18
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 13
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 7
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
       system:
         value: 3
         weight: 0.03
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

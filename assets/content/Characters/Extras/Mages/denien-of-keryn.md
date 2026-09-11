@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 7
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 10
     cml: 6
     mor: 11
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -182,6 +179,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: ahnu
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: masara-lado
   attributes:
     str: 5
     sta: 15
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 11
     mor: 12
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,6 +137,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: masara-lado
+    move: 9
 sohl:
   kbcat: archetype
   items:

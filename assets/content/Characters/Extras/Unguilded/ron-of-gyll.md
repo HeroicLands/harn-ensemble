@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Eye Missing/Blind
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 9
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 9
     mor: 14
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 6
 sohl:
   kbcat: archetype
   items:

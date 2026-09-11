@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 11
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 15
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

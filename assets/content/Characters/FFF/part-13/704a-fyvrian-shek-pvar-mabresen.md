@@ -43,8 +43,6 @@ data:
       - unkempt appearance
       - flies
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 9
     sta: 13
@@ -59,7 +57,6 @@ hm3:
     voi: 9
     cml: 6
     mor: 9
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -165,6 +162,9 @@ hm3:
     - { shortcode: animusofnithri, type: spell }
     - { shortcode: dispell, type: spell }
     - { shortcode: focus, type: spell }
+  system:
+    sunsign: lado
+    move: 9
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 8
     sta: 10
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 9
     mor: 13
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -145,6 +142,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: masara
+    move: 9
 sohl:
   kbcat: archetype
   items:

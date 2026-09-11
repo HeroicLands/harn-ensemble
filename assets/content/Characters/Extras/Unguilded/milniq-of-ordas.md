@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Eye Missing/Blind
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 11
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 8
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: RHbk, type: armorgear }
     - { shortcode: TwrSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

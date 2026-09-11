@@ -36,8 +36,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 13
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 9
     mor: 9
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: masara
+    move: 15
 sohl:
   kbcat: archetype
   items:

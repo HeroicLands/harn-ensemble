@@ -37,8 +37,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 10
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 7
     mor: 11
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,6 +129,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: skorus
+    move: 7
 sohl:
   kbcat: archetype
   items:

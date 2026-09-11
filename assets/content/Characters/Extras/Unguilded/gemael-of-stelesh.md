@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 17
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 8
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: Bklr, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tarael
+    move: 12
 sohl:
   kbcat: archetype
   items:

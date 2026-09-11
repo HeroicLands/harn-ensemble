@@ -38,8 +38,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 6
     sta: 11
@@ -54,7 +52,6 @@ hm3:
     voi: 7
     cml: 5
     mor: 11
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -131,6 +128,9 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 7
 sohl:
   kbcat: archetype
   items:

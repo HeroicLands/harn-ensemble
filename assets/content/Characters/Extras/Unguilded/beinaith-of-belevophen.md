@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: feniri
   attributes:
     str: 10
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 18
     cml: 15
     mor: 11
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 10
 sohl:
   kbcat: archetype
   items:

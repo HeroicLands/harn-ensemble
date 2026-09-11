@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: khuzdul
-  sunsign: ulandus
   attributes:
     str: 16
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 11
     mor: 5
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: PAxe, type: weapongear }
     - { shortcode: backbagmed, type: containergear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 13
 sohl:
   kbcat: archetype
   items:

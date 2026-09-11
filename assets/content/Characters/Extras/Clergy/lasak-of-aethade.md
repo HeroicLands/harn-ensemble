@@ -37,8 +37,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 14
     sta: 10
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 13
     mor: 11
-  move: 0
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -157,6 +154,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: ahnu
+    move: 0
 sohl:
   kbcat: archetype
   items:

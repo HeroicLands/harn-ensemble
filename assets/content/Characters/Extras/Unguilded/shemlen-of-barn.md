@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: lado-ulandus
   attributes:
     str: 9
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 12
     mor: 10
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: RHbk, type: armorgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: lado-ulandus
+    move: 15
 sohl:
   kbcat: archetype
   items:

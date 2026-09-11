@@ -37,8 +37,6 @@ data:
     extra_features:
       - Dwarfism
 hm3:
-  species: human
-  sunsign: tai-skorus
   attributes:
     str: 9
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 5
     mor: 7
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,6 +125,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: tai-skorus
+    move: 12
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 7
     sta: 6
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 12
     mor: 15
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -107,6 +104,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 16
 sohl:
   kbcat: archetype
   items:

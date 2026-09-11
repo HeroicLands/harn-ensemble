@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 13
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 10
     cml: 6
     mor: 9
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
     - { shortcode: flaskofoilmetal, type: miscgear }
     - { shortcode: lanternmet, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 14
 sohl:
   kbcat: archetype
   items:

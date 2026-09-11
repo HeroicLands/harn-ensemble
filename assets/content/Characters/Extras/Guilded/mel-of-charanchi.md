@@ -36,8 +36,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 14
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 9
     mor: 15
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
       system:
         value: 75
         weight: 0.5
+  system:
+    sunsign: aralius
+    move: 7
 sohl:
   kbcat: archetype
   items:

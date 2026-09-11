@@ -36,8 +36,6 @@ data:
     extra_features:
       - Dwarfism
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 8
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 11
     mor: 7
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,6 +127,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: skorus
+    move: 10
 sohl:
   kbcat: archetype
   items:

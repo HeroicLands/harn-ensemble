@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 8
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 12
 sohl:
   kbcat: archetype
   items:

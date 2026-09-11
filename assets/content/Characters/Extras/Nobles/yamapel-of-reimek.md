@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: khuzdul
-  sunsign: nadai
   attributes:
     str: 13
     sta: 17
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 18
     mor: 9
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 7
 sohl:
   kbcat: archetype
   items:

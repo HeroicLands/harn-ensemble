@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 3
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 5
     cml: 12
     mor: 13
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,6 +124,9 @@ hm3:
     - { shortcode: penquill, type: miscgear }
     - { shortcode: waxsealing, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 11
 sohl:
   kbcat: archetype
   items:

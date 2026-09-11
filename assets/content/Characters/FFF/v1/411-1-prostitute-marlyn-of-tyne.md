@@ -39,8 +39,6 @@ data:
     extra_features:
       - Birthmark on right hand
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 11
     sta: 10
@@ -55,7 +53,6 @@ hm3:
     voi: 12
     cml: 12
     mor: 8
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,6 +124,9 @@ hm3:
     - { shortcode: LDress, type: armorgear }
     - { shortcode: LVest, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 15 } }
+  system:
+    sunsign: aralius
+    move: 12
 sohl:
   kbcat: archetype
   items:

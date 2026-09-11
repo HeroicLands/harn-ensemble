@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai-skorus
   attributes:
     str: 10
     sta: 8
@@ -51,7 +49,6 @@ hm3:
     voi: 16
     cml: 10
     mor: 6
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai-skorus
+    move: 10
 sohl:
   kbcat: archetype
   items:

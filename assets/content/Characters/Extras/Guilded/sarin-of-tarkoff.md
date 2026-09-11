@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 16
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 15
     mor: 11
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 7
 sohl:
   kbcat: archetype
   items:

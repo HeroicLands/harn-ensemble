@@ -40,8 +40,6 @@ data:
       - Beard
       - moustache
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 16
     sta: 12
@@ -56,7 +54,6 @@ hm3:
     voi: 13
     cml: 17
     mor: 9
-  move: 18
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -155,6 +152,9 @@ hm3:
     - { shortcode: LtVest, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 60 } }
+  system:
+    sunsign: aralius
+    move: 18
 sohl:
   kbcat: archetype
   items:

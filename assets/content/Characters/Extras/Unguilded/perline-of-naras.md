@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: tarael-tai
   attributes:
     str: 12
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 16
     mor: 15
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: tarael-tai
+    move: 12
 sohl:
   kbcat: archetype
   items:

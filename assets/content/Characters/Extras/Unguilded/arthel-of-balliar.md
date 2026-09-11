@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: sindarin
-  sunsign: angberelius-ahnu
   attributes:
     str: 11
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 12
     mor: 15
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: angberelius-ahnu
+    move: 8
 sohl:
   kbcat: archetype
   items:

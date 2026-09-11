@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: masara-lado
   attributes:
     str: 14
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 16
     mor: 6
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
       system:
         value: 24
         weight: 5
+  system:
+    sunsign: masara-lado
+    move: 11
 sohl:
   kbcat: archetype
   items:

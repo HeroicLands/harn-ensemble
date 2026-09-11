@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: tarael-tai
   attributes:
     str: 4
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 12
     mor: 17
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
         value: 24
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tarael-tai
+    move: 12
 sohl:
   kbcat: archetype
   items:

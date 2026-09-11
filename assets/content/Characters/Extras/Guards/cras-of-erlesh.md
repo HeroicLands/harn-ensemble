@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 16
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 3
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
+  system:
+    sunsign: hirin
+    move: 12
 sohl:
   kbcat: archetype
   items:

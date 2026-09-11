@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 11
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 15
     mor: 13
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
         weight: 15
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 8
 sohl:
   kbcat: archetype
   items:

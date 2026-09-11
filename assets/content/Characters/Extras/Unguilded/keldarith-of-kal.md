@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: khuzdul
-  sunsign: skorus
   attributes:
     str: 17
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 17
     mor: 13
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
       system:
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 9
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 4
     mor: 5
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 15
 sohl:
   kbcat: archetype
   items:

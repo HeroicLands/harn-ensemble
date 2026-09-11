@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 11
     sta: 7
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 8
     mor: 13
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,6 +129,9 @@ hm3:
         value: 106
         weight: 0.1
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 7
 sohl:
   kbcat: archetype
   items:

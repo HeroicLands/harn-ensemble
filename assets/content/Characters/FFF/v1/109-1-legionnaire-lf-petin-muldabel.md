@@ -38,8 +38,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 18
     sta: 11
@@ -54,7 +52,6 @@ hm3:
     voi: 8
     cml: 12
     mor: 13
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -150,6 +147,9 @@ hm3:
     - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 90 } }
+  system:
+    sunsign: hirin
+    move: 11
 sohl:
   kbcat: archetype
   items:

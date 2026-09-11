@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: nadai-hirin
   attributes:
     str: 8
     sta: 15
@@ -51,7 +49,6 @@ hm3:
     voi: 5
     cml: 12
     mor: 10
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
       system:
         weight: 1
     - { shortcode: RndSh, type: weapongear }
+  system:
+    sunsign: nadai-hirin
+    move: 12
 sohl:
   kbcat: archetype
   items:

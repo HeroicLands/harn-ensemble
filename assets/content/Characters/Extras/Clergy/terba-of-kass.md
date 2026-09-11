@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 14
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 13
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -142,6 +139,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 6
 sohl:
   kbcat: archetype
   items:

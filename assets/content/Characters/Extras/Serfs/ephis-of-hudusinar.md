@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 13
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 8
     mor: 8
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
     - { shortcode: Pfrk, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 14
 sohl:
   kbcat: archetype
   items:

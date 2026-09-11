@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 19
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 8
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -134,6 +131,9 @@ hm3:
     - { shortcode: TwrSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 12
 sohl:
   kbcat: archetype
   items:

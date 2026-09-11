@@ -37,8 +37,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 10
     sta: 8
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 11
     mor: 9
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: skorus
+    move: 15
 sohl:
   kbcat: archetype
   items:

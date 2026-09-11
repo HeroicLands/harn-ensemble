@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 16
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 4
     cml: 14
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 13
 sohl:
   kbcat: archetype
   items:

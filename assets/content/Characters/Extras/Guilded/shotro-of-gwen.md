@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 17
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 7
     mor: 9
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: tarael
+    move: 11
 sohl:
   kbcat: archetype
   items:

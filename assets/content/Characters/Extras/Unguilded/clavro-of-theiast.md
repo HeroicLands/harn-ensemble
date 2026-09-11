@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: khuzdul
-  sunsign: lado
   attributes:
     str: 14
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 17
     mor: 10
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 9
 sohl:
   kbcat: archetype
   items:

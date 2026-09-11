@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 9
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: fishingkitportable, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 12
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 14
     sta: 17
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 8
     mor: 11
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
         weight: 0.05
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 10
 sohl:
   kbcat: archetype
   items:

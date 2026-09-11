@@ -40,8 +40,6 @@ data:
       - Left handed
       - Well dressed
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 10
     sta: 13
@@ -56,7 +54,6 @@ hm3:
     voi: 17
     cml: 15
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -220,6 +217,9 @@ hm3:
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 27 } }
+  system:
+    sunsign: ulandus
+    move: 13
 sohl:
   kbcat: archetype
   items:

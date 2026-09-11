@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Eye Missing/Blind
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 13
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 9
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 14
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 18
     cml: 7
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: TwrSh, type: weapongear }
+  system:
+    sunsign: ulandus
+    move: 13
 sohl:
   kbcat: archetype
   items:

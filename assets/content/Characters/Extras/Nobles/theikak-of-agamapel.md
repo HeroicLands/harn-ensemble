@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: khuzdul
-  sunsign: aralius
   attributes:
     str: 12
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 13
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
     - { shortcode: PAxe, type: weapongear }
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 12
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: sindarin
-  sunsign: aralius
   attributes:
     str: 15
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 11
     mor: 11
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 17
 sohl:
   kbcat: archetype
   items:

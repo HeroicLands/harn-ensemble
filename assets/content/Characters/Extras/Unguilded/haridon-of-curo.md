@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 15
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 17
     mor: 13
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 14
 sohl:
   kbcat: archetype
   items:

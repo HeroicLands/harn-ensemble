@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 11
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 13
 sohl:
   kbcat: archetype
   items:

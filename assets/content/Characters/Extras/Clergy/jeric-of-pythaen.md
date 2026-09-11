@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 8
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 16
     mor: 5
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -142,6 +139,9 @@ hm3:
       system:
         value: 24
         weight: 1
+  system:
+    sunsign: skorus
+    move: 8
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 16
     sta: 13
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 17
     mor: 10
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -146,6 +143,9 @@ hm3:
       system:
         value: 18
         weight: 0.1
+  system:
+    sunsign: tai
+    move: 8
 sohl:
   kbcat: archetype
   items:

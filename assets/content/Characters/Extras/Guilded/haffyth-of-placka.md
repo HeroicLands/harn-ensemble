@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: aralius-ulandus
   attributes:
     str: 13
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 12
     mor: 12
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
         weight: 2
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius-ulandus
+    move: 14
 sohl:
   kbcat: archetype
   items:

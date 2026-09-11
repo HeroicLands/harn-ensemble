@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 16
     sta: 17
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 15
     mor: 8
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 11
 sohl:
   kbcat: archetype
   items:

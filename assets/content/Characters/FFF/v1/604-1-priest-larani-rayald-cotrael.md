@@ -38,8 +38,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 11
     sta: 14
@@ -54,7 +52,6 @@ hm3:
     voi: 15
     cml: 10
     mor: 12
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -190,6 +187,9 @@ hm3:
     - { shortcode: laraniconsecration, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 159 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+  system:
+    sunsign: angberelius
+    move: 10
 sohl:
   kbcat: archetype
   items:

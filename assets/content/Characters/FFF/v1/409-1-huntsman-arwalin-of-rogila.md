@@ -38,8 +38,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 16
     sta: 14
@@ -54,7 +52,6 @@ hm3:
     voi: 17
     cml: 15
     mor: 15
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -171,6 +168,9 @@ hm3:
     - { shortcode: QCwl, type: armorgear }
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 58 } }
+  system:
+    sunsign: aralius
+    move: 12
 sohl:
   kbcat: archetype
   items:

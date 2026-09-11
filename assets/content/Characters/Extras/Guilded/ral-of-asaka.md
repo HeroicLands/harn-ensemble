@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 8
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 13
     mor: 10
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 15
 sohl:
   kbcat: archetype
   items:

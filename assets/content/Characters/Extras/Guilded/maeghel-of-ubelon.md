@@ -36,8 +36,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 7
     sta: 6
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
       system:
         value: 24
         weight: 5
+  system:
+    sunsign: tai
+    move: 12
 sohl:
   kbcat: archetype
   items:

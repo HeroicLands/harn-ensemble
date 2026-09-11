@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 8
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 16
     mor: 5
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,6 +126,9 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 12
 sohl:
   kbcat: archetype
   items:

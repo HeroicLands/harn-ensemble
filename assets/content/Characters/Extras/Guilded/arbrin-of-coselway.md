@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 11
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 7
     cml: 14
     mor: 9
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 14
 sohl:
   kbcat: archetype
   items:

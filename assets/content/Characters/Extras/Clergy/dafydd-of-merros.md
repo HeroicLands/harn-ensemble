@@ -37,8 +37,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 8
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 17
     cml: 8
     mor: 10
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -142,6 +139,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: skorus
+    move: 7
 sohl:
   kbcat: archetype
   items:

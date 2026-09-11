@@ -36,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 9
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 18
     mor: 9
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: masara
+    move: 17
 sohl:
   kbcat: archetype
   items:

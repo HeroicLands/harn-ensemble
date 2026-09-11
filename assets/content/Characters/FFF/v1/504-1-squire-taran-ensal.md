@@ -38,8 +38,6 @@ data:
     extra_features:
       - Freckles
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 11
     sta: 13
@@ -54,7 +52,6 @@ hm3:
     voi: 9
     cml: 11
     mor: 15
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,6 +137,9 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: LtGntl, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
+  system:
+    sunsign: feniri
+    move: 17
 sohl:
   kbcat: archetype
   items:

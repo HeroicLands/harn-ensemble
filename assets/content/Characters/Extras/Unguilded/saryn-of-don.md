@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 13
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 13
     cml: 16
     mor: 10
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: skorus
+    move: 6
 sohl:
   kbcat: archetype
   items:

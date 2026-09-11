@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 9
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 14
     mor: 13
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 14
 sohl:
   kbcat: archetype
   items:

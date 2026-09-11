@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: lado
   attributes:
     str: 15
     sta: 7
@@ -51,7 +49,6 @@ hm3:
     voi: 16
     cml: 9
     mor: 17
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
         weight: 0.03
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 8
 sohl:
   kbcat: archetype
   items:

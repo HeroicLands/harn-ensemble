@@ -36,8 +36,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 14
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 14
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
         weight: 1
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: masara
+    move: 14
 sohl:
   kbcat: archetype
   items:

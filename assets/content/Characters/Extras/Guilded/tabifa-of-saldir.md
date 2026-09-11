@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 8
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 15
     mor: 11
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
         weight: 0.03
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 7
 sohl:
   kbcat: archetype
   items:

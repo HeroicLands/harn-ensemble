@@ -40,8 +40,6 @@ data:
     extra_features:
       - Never smiles
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 14
     sta: 15
@@ -56,7 +54,6 @@ hm3:
     voi: 11
     cml: 10
     mor: 6
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -171,6 +168,9 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: BltCxb, type: missilegear, name: Bolt (Crossbow), system: { quantity: 12 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 16 } }
+  system:
+    sunsign: nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

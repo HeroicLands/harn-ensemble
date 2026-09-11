@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: sindarin
-  sunsign: aralius
   attributes:
     str: 12
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 8
     mor: 12
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 15
 sohl:
   kbcat: archetype
   items:

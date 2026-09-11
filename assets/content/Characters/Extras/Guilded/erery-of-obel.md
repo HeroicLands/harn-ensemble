@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 11
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 15
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 12
 sohl:
   kbcat: archetype
   items:

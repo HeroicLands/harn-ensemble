@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: tarael-hirin
   attributes:
     str: 17
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 11
     mor: 14
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tarael-hirin
+    move: 8
 sohl:
   kbcat: archetype
   items:

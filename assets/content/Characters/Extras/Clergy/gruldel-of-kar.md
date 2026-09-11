@@ -37,8 +37,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 15
     sta: 18
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 5
     mor: 5
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -134,6 +131,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: ahnu
+    move: 8
 sohl:
   kbcat: archetype
   items:

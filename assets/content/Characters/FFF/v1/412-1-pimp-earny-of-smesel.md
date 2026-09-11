@@ -40,8 +40,6 @@ data:
       - missing his front teeth
       - Very violent
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 15
     sta: 14
@@ -56,7 +54,6 @@ hm3:
     voi: 12
     cml: 9
     mor: 5
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -136,6 +133,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: Taburi, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 36 } }
+  system:
+    sunsign: masara
+    move: 7
 sohl:
   kbcat: archetype
   items:

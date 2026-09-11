@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 18
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 13
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 21
     sta: 15
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 10
     mor: 14
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,6 +126,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: feniri
+    move: 15
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 13
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 10
     mor: 10
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 14
 sohl:
   kbcat: archetype
   items:

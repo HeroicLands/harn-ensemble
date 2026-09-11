@@ -36,8 +36,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 15
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 14
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
       system:
         value: 1
         weight: 0.01
+  system:
+    sunsign: angberelius
+    move: 15
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: aralius-feniri
   attributes:
     str: 16
     sta: 13
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 6
     mor: 8
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: aralius-feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

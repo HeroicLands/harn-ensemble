@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 10
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 12
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - { shortcode: fishingkitportable, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
+  system:
+    sunsign: hirin
+    move: 14
 sohl:
   kbcat: archetype
   items:

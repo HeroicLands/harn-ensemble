@@ -36,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 14
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 14
     mor: 7
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 9
 sohl:
   kbcat: archetype
   items:

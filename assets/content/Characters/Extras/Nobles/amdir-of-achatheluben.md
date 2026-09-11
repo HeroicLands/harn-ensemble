@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: sindarin
-  sunsign: ulandus
   attributes:
     str: 9
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 13
     mor: 8
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,6 +126,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: ulandus
+    move: 16
 sohl:
   kbcat: archetype
   items:

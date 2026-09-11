@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 7
     sta: 15
@@ -51,7 +49,6 @@ hm3:
     voi: 10
     cml: 14
     mor: 10
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
         value: 24
         weight: 5
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 12
 sohl:
   kbcat: archetype
   items:

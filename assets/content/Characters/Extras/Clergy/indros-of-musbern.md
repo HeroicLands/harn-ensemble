@@ -37,8 +37,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 11
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 5
     mor: 4
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -146,6 +143,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: skorus
+    move: 15
 sohl:
   kbcat: archetype
   items:

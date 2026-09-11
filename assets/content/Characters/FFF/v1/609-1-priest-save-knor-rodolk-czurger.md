@@ -42,8 +42,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 13
     sta: 10
@@ -58,7 +56,6 @@ hm3:
     voi: 10
     cml: 9
     mor: 8
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -229,6 +226,9 @@ hm3:
     - { shortcode: voiceoftherydequelyn, type: invocation }
     - { shortcode: yeritandilyashasgame, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 96 } }
+  system:
+    sunsign: tai
+    move: 14
 sohl:
   kbcat: archetype
   items:

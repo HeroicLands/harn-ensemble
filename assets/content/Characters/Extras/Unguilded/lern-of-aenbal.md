@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: khuzdul
-  sunsign: feniri
   attributes:
     str: 12
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 17
     mor: 5
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 9
 sohl:
   kbcat: archetype
   items:

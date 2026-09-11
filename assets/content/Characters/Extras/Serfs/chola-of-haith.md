@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Hemophilia"
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 12
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 9
     mor: 8
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
         weight: 0.03
     - { shortcode: Bklr, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 15
 sohl:
   kbcat: archetype
   items:

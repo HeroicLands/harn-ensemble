@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Hemophilia"
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 15
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 8
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 13
 sohl:
   kbcat: archetype
   items:

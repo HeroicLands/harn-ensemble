@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: sindarin
-  sunsign: ahnu
   attributes:
     str: 16
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 18
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: LtLeg, type: armorgear }
+  system:
+    sunsign: ahnu
+    move: 12
 sohl:
   kbcat: archetype
   items:

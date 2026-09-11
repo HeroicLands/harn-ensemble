@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: sindarin
-  sunsign: nadai
   attributes:
     str: 18
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 11
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,6 +129,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 15
 sohl:
   kbcat: archetype
   items:

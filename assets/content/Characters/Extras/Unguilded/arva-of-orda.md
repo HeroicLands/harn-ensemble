@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai-skorus
   attributes:
     str: 9
     sta: 10
@@ -51,7 +49,6 @@ hm3:
     voi: 17
     cml: 8
     mor: 7
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tai-skorus
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 15
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 9
     mor: 10
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 7
 sohl:
   kbcat: archetype
   items:

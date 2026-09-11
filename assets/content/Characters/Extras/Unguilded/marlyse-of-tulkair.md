@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 10
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 13
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -107,6 +104,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 10
 sohl:
   kbcat: archetype
   items:

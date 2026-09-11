@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 18
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 12
     mor: 7
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: TwrSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 6
 sohl:
   kbcat: archetype
   items:

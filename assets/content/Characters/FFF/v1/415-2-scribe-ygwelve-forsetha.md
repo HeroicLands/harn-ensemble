@@ -39,8 +39,6 @@ data:
     extra_features:
       - Very long braided hair
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 9
     sta: 12
@@ -55,7 +53,6 @@ hm3:
     voi: 16
     cml: 13
     mor: 11
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -203,6 +200,9 @@ hm3:
       system:
         masteryLevel: 23
     - { shortcode: pence, type: miscgear, system: { quantity: 83 } }
+  system:
+    sunsign: hirin
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: angberelius-ahnu
   attributes:
     str: 13
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 6
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
         value: 15
         weight: 30
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius-ahnu
+    move: 10
 sohl:
   kbcat: archetype
   items:

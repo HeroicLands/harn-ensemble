@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 13
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 11
     mor: 6
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: Bklr, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai-tarael
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 12
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 15
     mor: 6
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: tai-tarael
+    move: 15
 sohl:
   kbcat: archetype
   items:

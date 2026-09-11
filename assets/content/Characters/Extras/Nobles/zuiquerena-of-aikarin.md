@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 9
     sta: 15
@@ -51,7 +49,6 @@ hm3:
     voi: 4
     cml: 11
     mor: 15
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: KiSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 14
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 15
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 12
     mor: 12
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
       system:
         value: 1
         weight: 0.03
+  system:
+    sunsign: nadai
+    move: 7
 sohl:
   kbcat: archetype
   items:

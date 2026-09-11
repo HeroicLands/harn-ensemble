@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 8
     sta: 10
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 10
     mor: 6
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
         value: 30
         weight: 0.03
     - { shortcode: spoonpewte, type: miscgear }
+  system:
+    sunsign: lado
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 11
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 11
     mor: 9
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
         value: 24
         weight: 5
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 14
 sohl:
   kbcat: archetype
   items:

@@ -41,8 +41,6 @@ data:
       - parasites
       - dwarfism
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 10
     sta: 11
@@ -57,7 +55,6 @@ hm3:
     voi: 7
     cml: 5
     mor: 11
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -154,6 +151,9 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: prescience, type: psionic, name: Prescience (F2), system: { masteryLevel: 41 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 8 } }
+  system:
+    sunsign: ahnu
+    move: 8
 sohl:
   kbcat: archetype
   items:

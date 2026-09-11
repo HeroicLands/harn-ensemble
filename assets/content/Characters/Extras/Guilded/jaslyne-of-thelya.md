@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 9
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 12
     mor: 8
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: tai-tarael
+    move: 11
 sohl:
   kbcat: archetype
   items:

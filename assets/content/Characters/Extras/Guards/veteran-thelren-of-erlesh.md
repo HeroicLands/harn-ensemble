@@ -36,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 10
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 17
     mor: 13
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,6 +126,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

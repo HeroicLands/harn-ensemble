@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 14
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 11
     mor: 13
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 10
 sohl:
   kbcat: archetype
   items:

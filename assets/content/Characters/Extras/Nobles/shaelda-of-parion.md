@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 11
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 4
     cml: 10
     mor: 17
-  move: 4
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 4
 sohl:
   kbcat: archetype
   items:

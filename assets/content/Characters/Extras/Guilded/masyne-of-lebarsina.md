@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 11
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 11
     mor: 10
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 10
 sohl:
   kbcat: archetype
   items:

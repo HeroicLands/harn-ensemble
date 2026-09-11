@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: khuzdul
-  sunsign: ahnu
   attributes:
     str: 14
     sta: 16
@@ -51,7 +49,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 11
-  move: 0
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 0
 sohl:
   kbcat: archetype
   items:

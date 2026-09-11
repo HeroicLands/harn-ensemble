@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 16
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 12
     mor: 3
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
         value: 24
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tarael
+    move: 9
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: khuzdul
-  sunsign: hirin
   attributes:
     str: 7
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 8
     cml: 20
     mor: 13
-  move: 5
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 5
 sohl:
   kbcat: archetype
   items:

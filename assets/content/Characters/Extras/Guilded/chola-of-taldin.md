@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Hemophilia"
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 9
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 9
     mor: 8
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
     - { shortcode: lyre, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 9
 sohl:
   kbcat: archetype
   items:

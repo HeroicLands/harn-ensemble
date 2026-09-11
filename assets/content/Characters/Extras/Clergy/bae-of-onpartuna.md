@@ -36,8 +36,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 14
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 12
     mor: 7
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -142,6 +139,9 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: Kni, type: weapongear }
     - { shortcode: RndSh, type: weapongear }
+  system:
+    sunsign: skorus
+    move: 13
 sohl:
   kbcat: archetype
   items:

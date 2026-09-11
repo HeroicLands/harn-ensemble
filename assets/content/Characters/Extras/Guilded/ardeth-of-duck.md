@@ -36,8 +36,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 16
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 7
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
         value: 36
         weight: 15
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 10
 sohl:
   kbcat: archetype
   items:

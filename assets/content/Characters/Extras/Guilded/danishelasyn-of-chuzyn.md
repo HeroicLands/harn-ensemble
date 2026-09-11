@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 8
     sta: 16
@@ -51,7 +49,6 @@ hm3:
     voi: 10
     cml: 16
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
         value: 50
         weight: 2
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Dwarfism
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 15
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 14
     mor: 14
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 9
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 10
     mor: 10
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -135,6 +132,9 @@ hm3:
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
     - { shortcode: firstaidbagwinstruments, type: miscgear }
+  system:
+    sunsign: masara
+    move: 6
 sohl:
   kbcat: archetype
   items:

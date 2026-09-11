@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: khuzdul
-  sunsign: lado
   attributes:
     str: 11
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 15
     mor: 5
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 10
 sohl:
   kbcat: archetype
   items:

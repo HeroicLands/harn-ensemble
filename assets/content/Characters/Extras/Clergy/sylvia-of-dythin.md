@@ -36,8 +36,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: lado-masara
   attributes:
     str: 11
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 13
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -133,6 +130,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: lado-masara
+    move: 14
 sohl:
   kbcat: archetype
   items:

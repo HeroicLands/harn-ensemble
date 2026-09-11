@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: masara
   attributes:
     str: 14
     sta: 14
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 13
     mor: 16
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,6 +124,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: masara
+    move: 17
 sohl:
   kbcat: archetype
   items:

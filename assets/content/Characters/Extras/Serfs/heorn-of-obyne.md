@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 10
     sta: 18
@@ -51,7 +49,6 @@ hm3:
     voi: 13
     cml: 8
     mor: 13
-  move: 5
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: tai
+    move: 5
 sohl:
   kbcat: archetype
   items:

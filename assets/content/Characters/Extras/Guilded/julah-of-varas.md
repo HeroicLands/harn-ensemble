@@ -35,8 +35,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 9
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 8
     cml: 5
     mor: 10
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,6 +127,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: angberelius
+    move: 14
 sohl:
   kbcat: archetype
   items:

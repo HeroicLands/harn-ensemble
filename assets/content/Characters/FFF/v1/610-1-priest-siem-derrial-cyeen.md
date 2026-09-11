@@ -39,8 +39,6 @@ data:
     extra_features:
       - Moustache & short goatee
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 10
     sta: 11
@@ -55,7 +53,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -224,6 +221,9 @@ hm3:
     - { shortcode: siemmarriage, type: invocation }
     - { shortcode: siempassageofthesoul, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 28 } }
+  system:
+    sunsign: angberelius
+    move: 12
 sohl:
   kbcat: archetype
   items:

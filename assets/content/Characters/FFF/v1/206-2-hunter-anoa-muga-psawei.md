@@ -41,8 +41,6 @@ data:
       - Well groomed beard
       - moustache
 hm3:
-  species: human
-  sunsign: angberelius/nadai
   attributes:
     str: 19
     sta: 14
@@ -57,7 +55,6 @@ hm3:
     voi: 12
     cml: 14
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -177,6 +174,9 @@ hm3:
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 24 } }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 8 } }
+  system:
+    sunsign: angberelius/nadai
+    move: 11
 sohl:
   kbcat: archetype
   items:

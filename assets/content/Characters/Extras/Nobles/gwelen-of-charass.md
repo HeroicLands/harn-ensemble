@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: angberelius-nadai
   attributes:
     str: 5
     sta: 7
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 15
     mor: 13
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -134,6 +131,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: papercasel, type: miscgear }
     - { shortcode: writingkitportable, type: miscgear }
+  system:
+    sunsign: angberelius-nadai
+    move: 13
 sohl:
   kbcat: archetype
   items:

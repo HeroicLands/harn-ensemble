@@ -36,8 +36,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: khuzdul
-  sunsign: nadai
   attributes:
     str: 15
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 17
     mor: 12
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 14
 sohl:
   kbcat: archetype
   items:

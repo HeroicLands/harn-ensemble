@@ -36,8 +36,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 11
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 15
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
+  system:
+    sunsign: lado
+    move: 12
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 12
     sta: 7
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 12
     mor: 8
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,6 +126,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: lado
+    move: 6
 sohl:
   kbcat: archetype
   items:

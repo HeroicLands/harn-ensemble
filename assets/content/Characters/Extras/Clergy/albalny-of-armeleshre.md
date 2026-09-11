@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 7
     sta: 5
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 5
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
       system:
         value: 80
         weight: 0.25
+  system:
+    sunsign: nadai
+    move: 13
 sohl:
   kbcat: archetype
   items:

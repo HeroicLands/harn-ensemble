@@ -36,8 +36,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 15
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 9
     mor: 11
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -106,6 +103,9 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: LtCap, type: armorgear }
+  system:
+    sunsign: aralius
+    move: 9
 sohl:
   kbcat: archetype
   items:
