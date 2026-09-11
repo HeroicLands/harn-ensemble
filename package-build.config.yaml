@@ -11,6 +11,8 @@ compatibility:
     minimum: "14.359"
     verified: "14.367"
 
+itemBuilders: [sohl, hm3]
+
 # A `journals` pack was declared here from the initial commit and never had a
 # source. The journals pass compiles a note whose `type` is `doc`, or one of the
 # doc-carrying types (every item type, plus `macro` and the map types); this tree
