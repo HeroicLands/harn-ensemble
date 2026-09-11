@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - sarajin
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 29
@@ -35,8 +36,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 15
     sta: 8
@@ -51,7 +50,6 @@ hm3:
     voi: 13
     cml: 8
     mor: 15
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,9 +124,11 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: ulandus
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 8 } }

@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 29
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 8
     sta: 8
@@ -51,7 +50,6 @@ hm3:
     voi: 10
     cml: 13
     mor: 11
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,9 +116,11 @@ hm3:
       system:
         value: 8
         weight: 0.05
+  system:
+    sunsign: lado
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 8 } }

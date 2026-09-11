@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: khuzdul
   age: 95
@@ -34,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: khuzdul
-  sunsign: hirin
   attributes:
     str: 9
     sta: 14
@@ -50,7 +49,6 @@ hm3:
     voi: 10
     cml: 12
     mor: 11
-  move: 0
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,9 +116,11 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 0
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

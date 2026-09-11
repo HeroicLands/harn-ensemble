@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - agrik
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 41
@@ -35,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 17
     sta: 9
@@ -51,7 +50,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 7
-  move: 3
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -144,9 +142,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 3
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 24
@@ -35,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 13
     sta: 10
@@ -51,7 +50,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,9 +120,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: WTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
+  system:
+    sunsign: ahnu
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

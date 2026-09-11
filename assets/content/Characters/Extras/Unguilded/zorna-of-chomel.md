@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 32
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 6
     sta: 8
@@ -51,7 +50,6 @@ hm3:
     voi: 14
     cml: 13
     mor: 11
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,9 +123,11 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: aralius
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 6 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 8 } }

@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 27
@@ -35,8 +36,6 @@ data:
     extra_features:
       - One Eye Missing/Blind
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 12
     sta: 13
@@ -51,7 +50,6 @@ hm3:
     voi: 15
     cml: 8
     mor: 11
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,9 +118,11 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: angberelius
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

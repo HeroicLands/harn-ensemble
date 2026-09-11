@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: khuzdul
   age: 118
@@ -34,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: khuzdul
-  sunsign: skorus
   attributes:
     str: 13
     sta: 17
@@ -50,7 +49,6 @@ hm3:
     voi: 10
     cml: 11
     mor: 12
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,9 +114,11 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 9
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 17 } }

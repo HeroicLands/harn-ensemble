@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: sindarin
   age: 268
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: sindarin
-  sunsign: ahnu
   attributes:
     str: 10
     sta: 15
@@ -51,7 +50,6 @@ hm3:
     voi: 18
     cml: 7
     mor: 15
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,9 +118,11 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: ahnu
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 26
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 14
     sta: 10
@@ -52,7 +51,6 @@ hm3:
     voi: 14
     cml: 9
     mor: 14
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,9 +120,11 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: nadai
+    move: 9
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

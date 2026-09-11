@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - morgath
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 26
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 8
     sta: 5
@@ -52,7 +51,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 6
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -131,9 +129,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: nadai
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 5 } }

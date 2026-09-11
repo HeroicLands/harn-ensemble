@@ -39,8 +39,6 @@ data:
       - Belt of human hands
       - human hair tassels
 hm3:
-  species: hyeka
-  sunsign: angberelius
   attributes:
     str: 10
     sta: 14
@@ -55,7 +53,6 @@ hm3:
     voi: 12
     cml: 4
     mor: 3
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -134,6 +131,9 @@ hm3:
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 42 } }
+  system:
+    sunsign: angberelius
+    move: 9
 ---
 
 # Appearance {#appearance}

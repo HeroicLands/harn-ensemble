@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 27
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 14
     sta: 12
@@ -51,7 +50,6 @@ hm3:
     voi: 15
     cml: 4
     mor: 7
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,9 +118,11 @@ hm3:
         value: 45
         weight: 0.05
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 14
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

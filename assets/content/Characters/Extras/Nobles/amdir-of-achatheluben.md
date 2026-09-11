@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: sindarin
   age: 236
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: sindarin
-  sunsign: ulandus
   attributes:
     str: 9
     sta: 14
@@ -51,7 +50,6 @@ hm3:
     voi: 14
     cml: 13
     mor: 8
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,9 +126,11 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: ulandus
+    move: 16
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

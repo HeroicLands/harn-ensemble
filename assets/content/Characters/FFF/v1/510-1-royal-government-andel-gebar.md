@@ -24,6 +24,7 @@ harnworld:
     - halea
     - saveknor
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 43
@@ -38,8 +39,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 11
     sta: 12
@@ -54,7 +53,6 @@ hm3:
     voi: 13
     cml: 12
     mor: 7
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -211,9 +209,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 322 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+  system:
+    sunsign: tai
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

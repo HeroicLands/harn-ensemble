@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 25
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 9
     sta: 14
@@ -51,7 +50,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 10
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,9 +118,11 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: TwrSh, type: weapongear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

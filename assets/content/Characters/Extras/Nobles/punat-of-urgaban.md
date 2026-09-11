@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: khuzdul
   age: 124
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: khuzdul
-  sunsign: skorus
   attributes:
     str: 13
     sta: 12
@@ -51,7 +50,6 @@ hm3:
     voi: 4
     cml: 18
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,9 +112,11 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

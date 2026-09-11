@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - agrik
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 28
@@ -36,8 +37,6 @@ data:
     extra_features:
       - One Eye Missing/Blind
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 15
     sta: 7
@@ -52,7 +51,6 @@ hm3:
     voi: 16
     cml: 10
     mor: 10
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -133,9 +131,11 @@ hm3:
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: tai
+    move: 14
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 7 } }

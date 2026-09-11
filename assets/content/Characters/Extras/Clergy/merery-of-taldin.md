@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - ilvir
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 44
@@ -35,8 +36,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 13
     sta: 13
@@ -51,7 +50,6 @@ hm3:
     voi: 14
     cml: 4
     mor: 9
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -154,9 +152,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

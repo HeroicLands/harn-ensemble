@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 27
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 19
     sta: 13
@@ -51,7 +50,6 @@ hm3:
     voi: 4
     cml: 14
     mor: 13
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,9 +119,11 @@ hm3:
         weight: 0.05
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 14
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

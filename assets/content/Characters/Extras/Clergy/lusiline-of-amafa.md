@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 27
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 11
     sta: 14
@@ -52,7 +51,6 @@ hm3:
     voi: 15
     cml: 6
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,9 +122,11 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: ulandus
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

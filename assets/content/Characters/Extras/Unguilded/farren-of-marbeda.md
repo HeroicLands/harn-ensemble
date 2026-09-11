@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 27
@@ -35,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 11
     sta: 10
@@ -51,7 +50,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 9
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,9 +121,11 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: hirin-nadai
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

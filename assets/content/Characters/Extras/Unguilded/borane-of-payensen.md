@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 27
@@ -35,8 +36,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: human
-  sunsign: lado-ulandus
   attributes:
     str: 10
     sta: 14
@@ -51,7 +50,6 @@ hm3:
     voi: 6
     cml: 11
     mor: 10
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -107,9 +105,11 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: Bklr, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado-ulandus
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 28
@@ -36,8 +37,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 10
     sta: 7
@@ -52,7 +51,6 @@ hm3:
     voi: 13
     cml: 13
     mor: 15
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,9 +125,11 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: angberelius
+    move: 9
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 7 } }

@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - sarajin
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 18
@@ -37,8 +38,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 9
     sta: 11
@@ -53,7 +52,6 @@ hm3:
     voi: 15
     cml: 10
     mor: 18
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -193,9 +191,11 @@ hm3:
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 12 } }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 54 } }
+  system:
+    sunsign: ulandus
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

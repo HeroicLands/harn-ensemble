@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 17
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 7
     sta: 15
@@ -51,7 +50,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 10
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,9 +110,11 @@ hm3:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: hirin-nadai
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

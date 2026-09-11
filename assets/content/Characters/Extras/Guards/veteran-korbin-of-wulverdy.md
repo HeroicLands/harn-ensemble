@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 29
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: aralius-feniri
   attributes:
     str: 13
     sta: 12
@@ -51,7 +50,6 @@ hm3:
     voi: 15
     cml: 13
     mor: 9
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,9 +123,11 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: aralius-feniri
+    move: 9
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

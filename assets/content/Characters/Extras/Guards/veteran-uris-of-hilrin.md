@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 29
@@ -34,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 8
     sta: 16
@@ -50,7 +49,6 @@ hm3:
     voi: 14
     cml: 12
     mor: 12
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,9 +128,11 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: tarael
+    move: 16
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }

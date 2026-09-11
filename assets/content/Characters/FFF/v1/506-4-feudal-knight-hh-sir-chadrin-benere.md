@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 24
@@ -38,8 +39,6 @@ data:
     extra_features:
       - Often drinking or drunk
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 20
     sta: 16
@@ -54,7 +53,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 12
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -186,9 +184,11 @@ hm3:
     - { shortcode: PlGtHlm, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 778 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: ahnu
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }

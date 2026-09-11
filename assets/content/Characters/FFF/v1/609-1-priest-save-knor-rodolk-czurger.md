@@ -26,6 +26,7 @@ harnworld:
     - morgath
     - naveh
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 36
@@ -41,8 +42,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 13
     sta: 10
@@ -57,7 +56,6 @@ hm3:
     voi: 10
     cml: 9
     mor: 8
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -228,9 +226,11 @@ hm3:
     - { shortcode: voiceoftherydequelyn, type: invocation }
     - { shortcode: yeritandilyashasgame, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 96 } }
+  system:
+    sunsign: tai
+    move: 14
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

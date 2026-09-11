@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 37
@@ -35,8 +36,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 15
     sta: 15
@@ -51,7 +50,6 @@ hm3:
     voi: 10
     cml: 12
     mor: 9
-  move: 4
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,9 +111,11 @@ hm3:
         value: 1
         weight: 0.03
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 4
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

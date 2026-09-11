@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - morgath
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 27
@@ -36,8 +37,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 6
     sta: 13
@@ -52,7 +51,6 @@ hm3:
     voi: 14
     cml: 6
     mor: 5
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,9 +126,11 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: masara
+    move: 6
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 6 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

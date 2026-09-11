@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 34
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 10
     sta: 9
@@ -51,7 +50,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 6
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,9 +110,11 @@ hm3:
         value: 20
         weight: 0.1
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: lado
+    move: 7
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

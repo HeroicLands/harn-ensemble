@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - morgath
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 26
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 10
     sta: 11
@@ -52,7 +51,6 @@ hm3:
     voi: 17
     cml: 16
     mor: 6
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,9 +130,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: ulandus
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

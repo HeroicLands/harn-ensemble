@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 20
@@ -34,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 12
     sta: 14
@@ -50,7 +49,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,9 +111,11 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: aralius
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

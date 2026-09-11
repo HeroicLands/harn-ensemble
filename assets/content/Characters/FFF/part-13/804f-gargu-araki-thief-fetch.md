@@ -36,8 +36,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: gargu-araki
-  sunsign: lado-ulandus
   attributes:
     str: 11
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 5
     mor: 8
-  move: 19
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -136,6 +133,9 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 20 } }
     - { shortcode: quiverlgsh, type: miscgear }
+  system:
+    sunsign: lado-ulandus
+    move: 19
 ---
 
 # Appearance {#appearance}

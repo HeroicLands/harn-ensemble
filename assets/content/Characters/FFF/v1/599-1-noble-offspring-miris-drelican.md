@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 13
@@ -39,8 +40,6 @@ data:
       - Expensive
       - foppish clothes
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 7
     sta: 15
@@ -55,7 +54,6 @@ hm3:
     voi: 15
     cml: 17
     mor: 11
-  move: 18
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,9 +136,11 @@ hm3:
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 77 } }
+  system:
+    sunsign: nadai
+    move: 18
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

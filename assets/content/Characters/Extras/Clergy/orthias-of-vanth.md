@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - morgath
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 23
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 14
     sta: 13
@@ -52,7 +51,6 @@ hm3:
     voi: 17
     cml: 7
     mor: 11
-  move: 0
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,9 +126,11 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: ulandus
+    move: 0
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

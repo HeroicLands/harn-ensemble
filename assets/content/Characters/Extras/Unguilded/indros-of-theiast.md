@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: khuzdul
   age: 98
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Dwarfism
 hm3:
-  species: khuzdul
-  sunsign: skorus
   attributes:
     str: 13
     sta: 14
@@ -51,7 +50,6 @@ hm3:
     voi: 12
     cml: 10
     mor: 16
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,9 +117,11 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

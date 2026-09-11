@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 36
@@ -38,8 +39,6 @@ data:
     extra_features:
       - Moustache
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 14
     sta: 11
@@ -54,7 +53,6 @@ hm3:
     voi: 10
     cml: 11
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,9 +138,11 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 132 } }
+  system:
+    sunsign: ulandus
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

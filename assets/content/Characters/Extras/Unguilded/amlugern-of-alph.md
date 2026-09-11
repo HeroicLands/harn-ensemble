@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: sindarin
   age: 182
@@ -34,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: hirin
   attributes:
     str: 11
     sta: 14
@@ -50,7 +49,6 @@ hm3:
     voi: 13
     cml: 15
     mor: 19
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,9 +112,11 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

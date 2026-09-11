@@ -39,8 +39,6 @@ data:
       - Heavily scarred face
       - bear claw totem necklace
 hm3:
-  species: kyani
-  sunsign: skorus
   attributes:
     str: 11
     sta: 12
@@ -55,7 +53,6 @@ hm3:
     voi: 12
     cml: 6
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -144,6 +141,9 @@ hm3:
     - { shortcode: beltpouchbuckram, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 31 } }
+  system:
+    sunsign: skorus
+    move: 13
 ---
 
 # Appearance {#appearance}

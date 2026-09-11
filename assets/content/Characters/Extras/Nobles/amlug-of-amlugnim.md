@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: sindarin
   age: 285
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: sindarin
-  sunsign: masara
   attributes:
     str: 16
     sta: 12
@@ -51,7 +50,6 @@ hm3:
     voi: 18
     cml: 12
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,9 +113,11 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: masara
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

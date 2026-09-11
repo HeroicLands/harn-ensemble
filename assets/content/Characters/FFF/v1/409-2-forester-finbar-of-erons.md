@@ -24,6 +24,7 @@ harnworld:
     - larani
     - halea
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 20
@@ -38,8 +39,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 11
     sta: 13
@@ -54,7 +53,6 @@ hm3:
     voi: 16
     cml: 17
     mor: 10
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -163,9 +161,11 @@ hm3:
         masteryLevel: 33
     - { shortcode: prescience, type: psionic, name: Prescience (F2), system: { masteryLevel: 22 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 58 } }
+  system:
+    sunsign: masara
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - "custom|Tribal"
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 31
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 10
     sta: 16
@@ -52,7 +51,6 @@ hm3:
     voi: 11
     cml: 12
     mor: 13
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -131,9 +129,11 @@ hm3:
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: tai
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }

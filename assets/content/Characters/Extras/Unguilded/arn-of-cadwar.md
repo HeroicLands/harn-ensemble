@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: sindarin
   age: 251
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: sindarin
-  sunsign: tai
   attributes:
     str: 9
     sta: 12
@@ -51,7 +50,6 @@ hm3:
     voi: 10
     cml: 11
     mor: 11
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,9 +112,11 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 16
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

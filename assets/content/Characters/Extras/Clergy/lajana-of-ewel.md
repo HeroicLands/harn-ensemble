@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - siem
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 40
@@ -35,8 +36,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 6
     sta: 17
@@ -51,7 +50,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 11
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -149,9 +147,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 6 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 17 } }

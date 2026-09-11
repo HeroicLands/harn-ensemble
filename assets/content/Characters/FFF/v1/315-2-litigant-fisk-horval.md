@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - sarajin
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 34
@@ -37,8 +38,6 @@ data:
     complexion: handsome
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 12
     sta: 14
@@ -53,7 +52,6 @@ hm3:
     voi: 14
     cml: 15
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -192,9 +190,11 @@ hm3:
     - { shortcode: LtKBoot, type: armorgear }
     - { shortcode: LtGlove, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 92 } }
+  system:
+    sunsign: feniri
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

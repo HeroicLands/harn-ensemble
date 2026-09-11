@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - sarajin
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 45
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 14
     sta: 15
@@ -52,7 +51,6 @@ hm3:
     voi: 15
     cml: 14
     mor: 9
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -153,9 +151,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: ulandus
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

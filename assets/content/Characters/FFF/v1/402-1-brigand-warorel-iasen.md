@@ -22,6 +22,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 33
@@ -37,8 +38,6 @@ data:
     extra_features:
       - Pox marks
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 11
     sta: 11
@@ -53,7 +52,6 @@ hm3:
     voi: 13
     cml: 6
     mor: 4
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -154,9 +152,11 @@ hm3:
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 12 } }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 13 } }
+  system:
+    sunsign: skorus
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

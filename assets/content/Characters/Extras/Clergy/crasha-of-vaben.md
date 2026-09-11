@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 34
@@ -35,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius-nadai
   attributes:
     str: 11
     sta: 10
@@ -51,7 +50,6 @@ hm3:
     voi: 16
     cml: 14
     mor: 15
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,9 +138,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: angberelius-nadai
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

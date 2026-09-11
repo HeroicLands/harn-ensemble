@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 25
@@ -41,8 +42,6 @@ data:
       - pox marks
       - missing both thumbs
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 16
     sta: 15
@@ -57,7 +56,6 @@ hm3:
     voi: 12
     cml: 11
     mor: 7
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,9 +108,11 @@ hm3:
       system:
         weight: 1
     - { shortcode: CLoin, type: armorgear }
+  system:
+    sunsign: tai
+    move: 15
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - morgath
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 24
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 4
     sta: 13
@@ -52,7 +51,6 @@ hm3:
     voi: 15
     cml: 10
     mor: 6
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,9 +127,11 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: lado
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 4 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 23
@@ -34,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: angberelius-ahnu
   attributes:
     str: 10
     sta: 12
@@ -50,7 +49,6 @@ hm3:
     voi: 18
     cml: 14
     mor: 13
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,9 +114,11 @@ hm3:
         value: 10
         weight: 2
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: angberelius-ahnu
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

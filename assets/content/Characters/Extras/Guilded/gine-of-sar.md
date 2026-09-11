@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 39
@@ -35,8 +36,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 9
     sta: 15
@@ -51,7 +50,6 @@ hm3:
     voi: 14
     cml: 4
     mor: 5
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,9 +114,11 @@ hm3:
         weight: 0.01
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: WCap, type: armorgear }
+  system:
+    sunsign: hirin
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

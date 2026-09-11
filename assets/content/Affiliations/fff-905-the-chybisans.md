@@ -8,9 +8,10 @@ img: ""
 name:
   full: The Chybisans
   aliases: []
+data:
+  templatePriority: null
 sohl:
   relation: []
-  archetype: null
 ---
 
 This company of adventurers represent the long arm of the crown and courts in Melderyni (or any other feudal kingdom). Answerable directly to the King through the to the Inquisitor-General and Chancellor, a Royal Agent is a man to be feared and respected. If you are honest and have committed no crime, you have nothing to fear.

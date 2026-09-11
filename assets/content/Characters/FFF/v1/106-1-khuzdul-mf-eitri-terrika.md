@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - siem
 data:
+  templatePriority: 1
   gender: male
   species: khuzdul
   age: 100
@@ -38,8 +39,6 @@ data:
     extra_features:
       - Moustache & beard
 hm3:
-  species: khuzdul
-  sunsign: feniri
   attributes:
     str: 17
     sta: 16
@@ -54,7 +53,6 @@ hm3:
     voi: 15
     cml: 12
     mor: 13
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -251,9 +249,11 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear, name: Pipe (elaborate) }
     - { shortcode: pipewd, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 360 } }
+  system:
+    sunsign: feniri
+    move: 15
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }

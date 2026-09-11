@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 30
@@ -34,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 17
     sta: 15
@@ -50,7 +49,6 @@ hm3:
     voi: 16
     cml: 15
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,9 +117,11 @@ hm3:
         value: 1
         weight: 0.03
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

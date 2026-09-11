@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 24
@@ -37,8 +38,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 9
     sta: 12
@@ -53,7 +52,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 8
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,9 +135,11 @@ hm3:
         edged: 3
         piercing: 2
     - { shortcode: pence, type: miscgear, system: { quantity: 13 } }
+  system:
+    sunsign: masara
+    move: 14
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

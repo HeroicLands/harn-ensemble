@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: sindarin
   age: 224
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: sindarin
-  sunsign: feniri
   attributes:
     str: 9
     sta: 14
@@ -51,7 +50,6 @@ hm3:
     voi: 11
     cml: 5
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,9 +117,11 @@ hm3:
         value: 8
         weight: 0.25
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

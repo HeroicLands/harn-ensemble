@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - naveh
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 31
@@ -36,8 +37,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 13
     sta: 12
@@ -52,7 +51,6 @@ hm3:
     voi: 15
     cml: 12
     mor: 5
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,9 +136,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: nadai
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

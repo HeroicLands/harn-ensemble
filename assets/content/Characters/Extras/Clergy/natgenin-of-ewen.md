@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - agrik
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 31
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 16
     sta: 6
@@ -52,7 +51,6 @@ hm3:
     voi: 15
     cml: 10
     mor: 6
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,9 +130,11 @@ hm3:
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: angberelius
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 6 } }

@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - "custom|Tribal"
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 31
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 8
     sta: 9
@@ -52,7 +51,6 @@ hm3:
     voi: 16
     cml: 4
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -135,9 +133,11 @@ hm3:
       system:
         value: 1
         weight: 0.03
+  system:
+    sunsign: hirin
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

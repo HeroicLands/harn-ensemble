@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 26
@@ -39,8 +40,6 @@ data:
       - Very well dressed
       - noticeable accent
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 12
     sta: 11
@@ -55,7 +54,6 @@ hm3:
     voi: 14
     cml: 13
     mor: 12
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -186,9 +184,11 @@ hm3:
     - { shortcode: firstaidbagwinstruments, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 233 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: masara
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

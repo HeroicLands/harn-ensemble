@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - ilvir
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 37
@@ -36,8 +37,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: human
-  sunsign: ulandus-aralius
   attributes:
     str: 3
     sta: 11
@@ -52,7 +51,6 @@ hm3:
     voi: 14
     cml: 8
     mor: 13
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -147,9 +145,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: ulandus-aralius
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 3 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

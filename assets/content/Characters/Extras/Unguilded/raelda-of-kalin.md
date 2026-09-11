@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - "custom|Tribal"
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 43
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 16
     sta: 15
@@ -52,7 +51,6 @@ hm3:
     voi: 5
     cml: 8
     mor: 13
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -136,9 +134,11 @@ hm3:
         value: 240
         weight: 0.25
     - { shortcode: ropehempperft330lbcap, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 7
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

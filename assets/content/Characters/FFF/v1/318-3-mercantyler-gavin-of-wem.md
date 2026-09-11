@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 46
@@ -37,8 +38,6 @@ data:
     complexion: handsome
     extra_features: []
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 13
     sta: 16
@@ -53,7 +52,6 @@ hm3:
     voi: 9
     cml: 15
     mor: 12
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -180,9 +178,11 @@ hm3:
     - { shortcode: RByr, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 103 } }
+  system:
+    sunsign: lado
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }

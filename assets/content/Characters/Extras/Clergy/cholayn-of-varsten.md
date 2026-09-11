@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - naveh
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 42
@@ -35,8 +36,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 8
     sta: 8
@@ -51,7 +50,6 @@ hm3:
     voi: 14
     cml: 16
     mor: 10
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,9 +138,11 @@ hm3:
       system:
         value: 24
         weight: 1
+  system:
+    sunsign: skorus
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 8 } }

@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 29
@@ -38,8 +39,6 @@ data:
     extra_features:
       - Birthmark
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 9
     sta: 13
@@ -54,7 +53,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 6
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,9 +138,11 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: ahnu
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

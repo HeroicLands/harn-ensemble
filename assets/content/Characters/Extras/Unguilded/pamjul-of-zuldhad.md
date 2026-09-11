@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: khuzdul
   age: 104
@@ -35,8 +36,6 @@ data:
     extra_features:
       - "*Epilepsy"
 hm3:
-  species: khuzdul
-  sunsign: hirin
   attributes:
     str: 9
     sta: 12
@@ -51,7 +50,6 @@ hm3:
     voi: 9
     cml: 14
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,9 +130,11 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: hirin
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

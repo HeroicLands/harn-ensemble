@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 24
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 9
     sta: 10
@@ -51,7 +50,6 @@ hm3:
     voi: 11
     cml: 14
     mor: 10
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,9 +119,11 @@ hm3:
         value: 20
         weight: 0.1
     - { shortcode: waxsealing, type: miscgear }
+  system:
+    sunsign: lado
+    move: 16
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

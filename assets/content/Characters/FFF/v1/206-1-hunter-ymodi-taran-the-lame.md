@@ -24,6 +24,7 @@ harnworld:
     - "custom|Ymodi"
     - sarajin
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 29
@@ -39,8 +40,6 @@ data:
     extra_features:
       - Deformed left leg
 hm3:
-  species: human
-  sunsign: nadai-hirin
   attributes:
     str: 18
     sta: 13
@@ -55,7 +54,6 @@ hm3:
     voi: 13
     cml: 13
     mor: 12
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -193,9 +191,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 23 } }
+  system:
+    sunsign: nadai-hirin
+    move: 7
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

@@ -36,8 +36,6 @@ data:
     complexion: shifty
     extra_features: []
 hm3:
-  species: gargu-araki
-  sunsign: angberelius
   attributes:
     str: 10
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 5
     mor: 5
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
     - { shortcode: beltwaist, type: miscgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 39 } }
+  system:
+    sunsign: angberelius
+    move: 8
 ---
 
 # Appearance {#appearance}

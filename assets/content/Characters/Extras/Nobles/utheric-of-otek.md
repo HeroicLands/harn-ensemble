@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: khuzdul
   age: 120
@@ -34,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: khuzdul
-  sunsign: ahnu
   attributes:
     str: 15
     sta: 13
@@ -50,7 +49,6 @@ hm3:
     voi: 10
     cml: 9
     mor: 8
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,9 +108,11 @@ hm3:
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: LtCap, type: armorgear }
+  system:
+    sunsign: ahnu
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

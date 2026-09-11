@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 39
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 7
     sta: 9
@@ -52,7 +51,6 @@ hm3:
     voi: 17
     cml: 11
     mor: 18
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -140,9 +138,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: tai
+    move: 9
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

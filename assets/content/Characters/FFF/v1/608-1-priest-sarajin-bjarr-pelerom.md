@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - sarajin
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 42
@@ -40,8 +41,6 @@ data:
       - Moustache
       - beard
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 13
     sta: 15
@@ -56,7 +55,6 @@ hm3:
     voi: 15
     cml: 14
     mor: 13
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -216,9 +214,11 @@ hm3:
     - { shortcode: eynwifsapple, type: invocation }
     - { shortcode: fakangsedge, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 116 } }
+  system:
+    sunsign: tai-tarael
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

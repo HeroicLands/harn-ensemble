@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 40
@@ -38,8 +39,6 @@ data:
     extra_features:
       - Moustache
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 11
     sta: 12
@@ -54,7 +53,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 15
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -148,9 +146,11 @@ hm3:
     - { shortcode: LtTunic, type: armorgear }
     - { shortcode: PlHHelm, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 96 } }
+  system:
+    sunsign: ahnu
+    move: 14
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

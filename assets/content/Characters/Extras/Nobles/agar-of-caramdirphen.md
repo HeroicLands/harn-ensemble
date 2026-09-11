@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: sindarin
   age: 200
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: sindarin
-  sunsign: hirin-nadai
   attributes:
     str: 11
     sta: 17
@@ -51,7 +50,6 @@ hm3:
     voi: 10
     cml: 10
     mor: 13
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,9 +124,11 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: hirin-nadai
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 17 } }

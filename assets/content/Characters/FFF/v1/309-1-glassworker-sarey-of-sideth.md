@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 20
@@ -37,8 +38,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 9
     sta: 11
@@ -53,7 +52,6 @@ hm3:
     voi: 13
     cml: 7
     mor: 11
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -139,9 +137,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: PlHHelm, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 25 } }
+  system:
+    sunsign: masara
+    move: 6
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: khuzdul
   age: 97
@@ -35,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: khuzdul
-  sunsign: angberelius
   attributes:
     str: 18
     sta: 14
@@ -51,7 +50,6 @@ hm3:
     voi: 7
     cml: 11
     mor: 12
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -131,9 +129,11 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: angberelius
+    move: 7
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

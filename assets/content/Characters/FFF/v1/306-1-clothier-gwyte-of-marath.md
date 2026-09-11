@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - ilvir
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 32
@@ -39,8 +40,6 @@ data:
       - Overweight
       - A purple birthmark on his right hand
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 11
     sta: 12
@@ -55,7 +54,6 @@ hm3:
     voi: 11
     cml: 11
     mor: 13
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -171,9 +169,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 40 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 4 } }
+  system:
+    sunsign: tarael
+    move: 14
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 37
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 13
     sta: 13
@@ -52,7 +51,6 @@ hm3:
     voi: 13
     cml: 9
     mor: 16
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -143,9 +141,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: angberelius
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

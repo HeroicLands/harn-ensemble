@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 37
@@ -34,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 3
     sta: 13
@@ -50,7 +49,6 @@ hm3:
     voi: 5
     cml: 12
     mor: 13
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,9 +124,11 @@ hm3:
     - { shortcode: penquill, type: miscgear }
     - { shortcode: waxsealing, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 3 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 28
@@ -37,8 +38,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 15
     sta: 10
@@ -53,7 +52,6 @@ hm3:
     voi: 16
     cml: 13
     mor: 8
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -131,9 +129,11 @@ hm3:
     - { shortcode: beltwaist, type: miscgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 32 } }
+  system:
+    sunsign: skorus
+    move: 16
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

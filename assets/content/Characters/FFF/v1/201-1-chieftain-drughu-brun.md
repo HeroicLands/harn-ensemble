@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - yavanna
 data:
+  templatePriority: 1
   gender: male
   species: human (drughu)
   age: 28
@@ -39,8 +40,6 @@ data:
       - Parasites (Fleas)
       - Several large tattoos
 hm3:
-  species: human (drughu)
-  sunsign: tarael
   attributes:
     str: 19
     sta: 15
@@ -55,7 +54,6 @@ hm3:
     voi: 8
     cml: 6
     mor: 14
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -162,9 +160,11 @@ hm3:
         masteryLevel: 34
     - { shortcode: prescience, type: psionic, name: Prescience (F2), system: { masteryLevel: 60 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 40 } }
+  system:
+    sunsign: tarael
+    move: 16
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

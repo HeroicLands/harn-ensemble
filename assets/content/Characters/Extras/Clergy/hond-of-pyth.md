@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - siem
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 40
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: masara-lado
   attributes:
     str: 17
     sta: 8
@@ -52,7 +51,6 @@ hm3:
     voi: 14
     cml: 13
     mor: 12
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -142,9 +140,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: masara-lado
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 8 } }

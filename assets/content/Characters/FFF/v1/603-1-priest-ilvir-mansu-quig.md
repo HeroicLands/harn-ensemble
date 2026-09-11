@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - ilvir
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 52
@@ -39,8 +40,6 @@ data:
       - Left handed
       - Musty smell
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 7
     sta: 11
@@ -55,7 +54,6 @@ hm3:
     voi: 9
     cml: 12
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -180,9 +178,11 @@ hm3:
         diety: Ilvir
         circle: 4
     - { shortcode: pence, type: miscgear, system: { quantity: 19 } }
+  system:
+    sunsign: nadai
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

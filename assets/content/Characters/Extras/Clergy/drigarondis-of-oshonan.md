@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - siem
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 43
@@ -36,8 +37,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 7
     sta: 9
@@ -52,7 +51,6 @@ hm3:
     voi: 14
     cml: 6
     mor: 18
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -150,9 +148,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: lado
+    move: 9
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

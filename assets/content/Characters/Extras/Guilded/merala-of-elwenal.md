@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 37
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 6
     sta: 13
@@ -51,7 +50,6 @@ hm3:
     voi: 11
     cml: 4
     mor: 10
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,9 +112,11 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: SlsCap, type: armorgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 6 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

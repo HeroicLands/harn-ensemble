@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 38
@@ -38,8 +39,6 @@ data:
     extra_features:
       - Squints
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 15
     sta: 14
@@ -54,7 +53,6 @@ hm3:
     voi: 10
     cml: 12
     mor: 14
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -162,9 +160,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: KHlfHelm, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 36 } }
+  system:
+    sunsign: skorus
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

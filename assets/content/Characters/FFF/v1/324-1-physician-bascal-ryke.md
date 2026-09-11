@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 48
@@ -39,8 +40,6 @@ data:
       - Purple birthmark on right ear
       - Dresses all in black
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 6
     sta: 14
@@ -55,7 +54,6 @@ hm3:
     voi: 6
     cml: 10
     mor: 10
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,9 +125,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 59 } }
+  system:
+    sunsign: masara
+    move: 7
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 6 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

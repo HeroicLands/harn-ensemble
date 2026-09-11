@@ -22,6 +22,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 46
@@ -39,8 +40,6 @@ data:
       - missing his front teeth
       - Very violent
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 15
     sta: 14
@@ -55,7 +54,6 @@ hm3:
     voi: 12
     cml: 9
     mor: 5
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -135,9 +133,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: Taburi, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 36 } }
+  system:
+    sunsign: masara
+    move: 7
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

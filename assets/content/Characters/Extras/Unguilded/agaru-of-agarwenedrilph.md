@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: sindarin
   age: 238
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: sindarin
-  sunsign: ulandus-aralius
   attributes:
     str: 11
     sta: 10
@@ -51,7 +50,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,9 +111,11 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: ulandus-aralius
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

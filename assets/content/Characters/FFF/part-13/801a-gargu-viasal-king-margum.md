@@ -40,8 +40,6 @@ data:
       - axe
       - fine cloak
 hm3:
-  species: gargu-viasal
-  sunsign: tai
   attributes:
     str: 10
     sta: 12
@@ -56,7 +54,6 @@ hm3:
     voi: 9
     cml: 5
     mor: 5
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: SShHaub, type: armorgear }
     - { shortcode: KRebr, type: armorgear }
+  system:
+    sunsign: tai
+    move: 12
 ---
 
 # Appearance {#appearance}

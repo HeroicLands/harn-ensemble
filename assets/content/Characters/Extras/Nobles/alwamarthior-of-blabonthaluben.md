@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: sindarin
   age: 193
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: sindarin
-  sunsign: lado
   attributes:
     str: 14
     sta: 16
@@ -51,7 +50,6 @@ hm3:
     voi: 12
     cml: 17
     mor: 17
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,9 +120,11 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: lado
+    move: 17
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }

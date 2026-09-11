@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 36
@@ -34,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael-hirin
   attributes:
     str: 5
     sta: 4
@@ -50,7 +49,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 8
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,9 +109,11 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: tarael-hirin
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 5 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 4 } }

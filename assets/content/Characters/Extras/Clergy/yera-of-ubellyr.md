@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 39
@@ -35,8 +36,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 6
     sta: 12
@@ -51,7 +50,6 @@ hm3:
     voi: 15
     cml: 16
     mor: 5
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -152,9 +150,11 @@ hm3:
       system:
         value: 12
         weight: 0.1
+  system:
+    sunsign: nadai
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 6 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

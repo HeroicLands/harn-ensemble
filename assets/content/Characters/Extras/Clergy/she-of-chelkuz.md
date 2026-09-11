@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 37
@@ -36,8 +37,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 10
     sta: 18
@@ -52,7 +51,6 @@ hm3:
     voi: 13
     cml: 17
     mor: 6
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -142,9 +140,11 @@ hm3:
       system:
         value: 80
         weight: 0.25
+  system:
+    sunsign: nadai
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 18 } }

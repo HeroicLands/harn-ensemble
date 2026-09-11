@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - agrik
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 27
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 16
     sta: 9
@@ -52,7 +51,6 @@ hm3:
     voi: 18
     cml: 7
     mor: 6
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,9 +128,11 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: lado
+    move: 16
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

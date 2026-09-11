@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - agrik
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 24
@@ -37,8 +38,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 10
     sta: 13
@@ -53,7 +52,6 @@ hm3:
     voi: 18
     cml: 11
     mor: 11
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -217,9 +215,11 @@ hm3:
     - { shortcode: telepathy, type: psionic, name: Telepathy (F3), system: { masteryLevel: 54 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 130 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+  system:
+    sunsign: masara
+    move: 17
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

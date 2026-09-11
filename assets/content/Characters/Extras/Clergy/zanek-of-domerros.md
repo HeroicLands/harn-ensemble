@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 41
@@ -36,8 +37,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: angberelius-ahnu
   attributes:
     str: 11
     sta: 13
@@ -52,7 +51,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 11
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -142,9 +140,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: angberelius-ahnu
+    move: 8
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

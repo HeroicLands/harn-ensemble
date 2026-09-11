@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 38
@@ -35,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 17
     sta: 17
@@ -51,7 +50,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 16
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,9 +136,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 17 } }

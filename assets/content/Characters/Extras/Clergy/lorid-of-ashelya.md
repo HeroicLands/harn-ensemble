@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - ilvir
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 38
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 11
     sta: 12
@@ -52,7 +51,6 @@ hm3:
     voi: 14
     cml: 4
     mor: 10
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -146,9 +144,11 @@ hm3:
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
     - { shortcode: bellhand, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 15
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

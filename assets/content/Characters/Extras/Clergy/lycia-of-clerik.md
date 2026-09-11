@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - morgath
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 24
@@ -35,8 +36,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 13
     sta: 13
@@ -51,7 +50,6 @@ hm3:
     voi: 18
     cml: 5
     mor: 4
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,9 +126,11 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: skorus
+    move: 9
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

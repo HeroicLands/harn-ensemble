@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 23
@@ -34,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 5
     sta: 8
@@ -50,7 +49,6 @@ hm3:
     voi: 6
     cml: 17
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,9 +108,11 @@ hm3:
       system:
         value: 20
         weight: 0.1
+  system:
+    sunsign: ahnu
+    move: 10
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 5 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 8 } }

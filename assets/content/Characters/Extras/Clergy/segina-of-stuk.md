@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - siem
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 34
@@ -36,8 +37,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 13
     sta: 11
@@ -52,7 +51,6 @@ hm3:
     voi: 13
     cml: 4
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,9 +136,11 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: lado
+    move: 12
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

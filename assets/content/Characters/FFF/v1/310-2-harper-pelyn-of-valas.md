@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 32
@@ -39,8 +40,6 @@ data:
       - Left handed
       - Well dressed
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 10
     sta: 13
@@ -55,7 +54,6 @@ hm3:
     voi: 17
     cml: 15
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -219,9 +217,11 @@ hm3:
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 27 } }
+  system:
+    sunsign: ulandus
+    move: 13
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 13 } }

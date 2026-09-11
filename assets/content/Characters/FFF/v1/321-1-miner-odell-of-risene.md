@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 48
@@ -38,8 +39,6 @@ data:
     extra_features:
       - Parasites (fleas)
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 17
     sta: 14
@@ -54,7 +53,6 @@ hm3:
     voi: 10
     cml: 7
     mor: 7
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -189,9 +187,11 @@ hm3:
     - { shortcode: lanternmet, type: miscgear }
     - { shortcode: flaskofoilmetal, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 61 } }
+  system:
+    sunsign: masara
+    move: 11
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 23
@@ -39,8 +40,6 @@ data:
       - Always bubbly
       - happy
 hm3:
-  species: human
-  sunsign: masara/lado
   attributes:
     str: 13
     sta: 10
@@ -55,7 +54,6 @@ hm3:
     voi: 9
     cml: 15
     mor: 13
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -172,9 +170,11 @@ hm3:
         masteryLevel: 20
         fatigue: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 21 } }
+  system:
+    sunsign: masara/lado
+    move: 14
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

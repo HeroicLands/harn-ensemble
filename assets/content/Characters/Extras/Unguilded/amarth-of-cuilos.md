@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: sindarin
   age: 292
@@ -35,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: sindarin
-  sunsign: angberelius-ahnu
   attributes:
     str: 18
     sta: 16
@@ -51,7 +50,6 @@ hm3:
     voi: 11
     cml: 11
     mor: 17
-  move: 4
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,9 +116,11 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: angberelius-ahnu
+    move: 4
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
