@@ -41,8 +41,6 @@ data:
       - Broken nose
       - scars
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 17
     sta: 9
@@ -57,7 +55,6 @@ hm3:
     voi: 15
     cml: 12
     mor: 9
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 19 } }
+  system:
+    sunsign: masara
+    move: 14
 sohl:
   kbcat: archetype
   items:

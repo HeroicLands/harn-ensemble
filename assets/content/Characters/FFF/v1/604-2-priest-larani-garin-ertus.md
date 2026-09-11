@@ -38,8 +38,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 15
     sta: 13
@@ -54,7 +52,6 @@ hm3:
     voi: 12
     cml: 17
     mor: 14
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -182,6 +179,9 @@ hm3:
     - { shortcode: bandageofstperelyne, type: invocation }
     - { shortcode: heraldoftheendoflife, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 99 } }
+  system:
+    sunsign: tarael
+    move: 17
 sohl:
   kbcat: archetype
   items:

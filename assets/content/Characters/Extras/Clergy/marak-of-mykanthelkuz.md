@@ -37,8 +37,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 8
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 13
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -154,6 +151,9 @@ hm3:
       system:
         value: 75
         weight: 0.5
+  system:
+    sunsign: hirin
+    move: 7
 sohl:
   kbcat: archetype
   items:

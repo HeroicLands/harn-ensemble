@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: khuzdul
-  sunsign: nadai
   attributes:
     str: 11
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 16
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
       system:
         value: 8
         weight: 0.25
+  system:
+    sunsign: nadai
+    move: 10
 sohl:
   kbcat: archetype
   items:

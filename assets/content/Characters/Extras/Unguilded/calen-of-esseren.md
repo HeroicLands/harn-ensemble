@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: sindarin
-  sunsign: hirin
   attributes:
     str: 13
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 4
     mor: 11
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
+  system:
+    sunsign: hirin
+    move: 9
 sohl:
   kbcat: archetype
   items:

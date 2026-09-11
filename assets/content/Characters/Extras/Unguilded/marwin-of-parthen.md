@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 8
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 13
     mor: 12
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
       img: systems/hm3/images/icons/svg/miscgear.svg
       system:
         weight: 1
+  system:
+    sunsign: masara
+    move: 9
 sohl:
   kbcat: archetype
   items:

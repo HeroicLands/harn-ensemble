@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: khuzdul
-  sunsign: hirin
   attributes:
     str: 15
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 16
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -112,6 +109,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 12
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Leg Missing/Deformed
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 8
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 8
     mor: 10
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 11
 sohl:
   kbcat: archetype
   items:

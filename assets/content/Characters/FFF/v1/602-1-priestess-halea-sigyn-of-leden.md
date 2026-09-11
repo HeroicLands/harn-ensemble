@@ -38,8 +38,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael-tai
   attributes:
     str: 9
     sta: 13
@@ -54,7 +52,6 @@ hm3:
     voi: 15
     cml: 17
     mor: 12
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -191,6 +188,9 @@ hm3:
     - { shortcode: haleasapple, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 79 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+  system:
+    sunsign: tarael-tai
+    move: 14
 sohl:
   kbcat: archetype
   items:

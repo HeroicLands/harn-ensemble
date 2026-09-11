@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: skorus-masara
   attributes:
     str: 14
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 11
     mor: 12
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
       system:
         value: 50
         weight: 2
+  system:
+    sunsign: skorus-masara
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -39,8 +39,6 @@ data:
     extra_features:
       - Birthmark
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 9
     sta: 13
@@ -55,7 +53,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 6
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -141,6 +138,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: ahnu
+    move: 10
 sohl:
   kbcat: archetype
   items:

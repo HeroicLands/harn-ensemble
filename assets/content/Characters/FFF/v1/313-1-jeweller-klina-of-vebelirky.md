@@ -42,8 +42,6 @@ data:
       - Beard
       - moustache
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 8
     sta: 12
@@ -58,7 +56,6 @@ hm3:
     voi: 11
     cml: 7
     mor: 16
-  move: 18
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -159,6 +156,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 254 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: angberelius
+    move: 18
 sohl:
   kbcat: archetype
   items:

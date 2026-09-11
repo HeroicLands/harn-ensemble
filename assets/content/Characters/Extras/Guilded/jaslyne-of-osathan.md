@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 10
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 8
     mor: 10
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -106,6 +103,9 @@ hm3:
     - { shortcode: carpentrykitportable, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: hirin-nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

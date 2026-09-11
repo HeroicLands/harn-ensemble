@@ -39,8 +39,6 @@ data:
     extra_features:
       - Foreign accent
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 13
     sta: 16
@@ -55,7 +53,6 @@ hm3:
     voi: 16
     cml: 13
     mor: 8
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -228,6 +225,9 @@ hm3:
       system:
         masteryLevel: 30
     - { shortcode: pence, type: miscgear, system: { quantity: 188 } }
+  system:
+    sunsign: feniri
+    move: 11
 sohl:
   kbcat: archetype
   items:

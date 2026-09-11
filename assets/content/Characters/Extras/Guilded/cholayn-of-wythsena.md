@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 10
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 8
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 10
 sohl:
   kbcat: archetype
   items:

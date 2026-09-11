@@ -36,8 +36,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 14
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 11
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
         weight: 2
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 9
 sohl:
   kbcat: archetype
   items:

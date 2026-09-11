@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 4
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 10
     cml: 7
     mor: 5
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -165,6 +162,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: tai
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -38,8 +38,6 @@ data:
     extra_features:
       - Foreign accent
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 10
     sta: 16
@@ -54,7 +52,6 @@ hm3:
     voi: 9
     cml: 11
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -193,6 +190,9 @@ hm3:
     - { shortcode: telepathy, type: psionic, name: Telepathy (F3), system: { masteryLevel: 87 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 408 } }
     - { shortcode: gldcrwn, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 12
 sohl:
   kbcat: archetype
   items:

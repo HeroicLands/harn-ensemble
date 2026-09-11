@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: angberelius-ahnu
   attributes:
     str: 8
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 16
     mor: 10
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius-ahnu
+    move: 13
 sohl:
   kbcat: archetype
   items:

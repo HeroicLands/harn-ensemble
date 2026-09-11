@@ -40,8 +40,6 @@ data:
     extra_features:
       - Sometimes speaks in nonsense sentences
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 13
     sta: 14
@@ -56,7 +54,6 @@ hm3:
     voi: 13
     cml: 16
     mor: 12
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -189,6 +186,9 @@ hm3:
     - { shortcode: mentalbolt, type: psionic, name: Mental Bolt (F1), system: { masteryLevel: 39 } }
     - { shortcode: prescience, type: psionic, name: Prescience (F2), system: { masteryLevel: 37 } }
     - { shortcode: telepathy, type: psionic, name: Telepathy (F3), system: { masteryLevel: 44 } }
+  system:
+    sunsign: tai
+    move: 16
 sohl:
   kbcat: archetype
   items:

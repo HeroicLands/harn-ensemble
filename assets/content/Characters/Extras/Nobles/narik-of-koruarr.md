@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: khuzdul
-  sunsign: ahnu
   attributes:
     str: 15
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 6
     cml: 13
     mor: 11
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 7
 sohl:
   kbcat: archetype
   items:

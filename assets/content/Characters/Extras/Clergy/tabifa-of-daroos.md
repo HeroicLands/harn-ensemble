@@ -37,8 +37,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 10
     sta: 5
@@ -53,7 +51,6 @@ hm3:
     voi: 16
     cml: 10
     mor: 15
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -148,6 +145,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: aralius
+    move: 10
 sohl:
   kbcat: archetype
   items:

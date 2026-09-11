@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 14
     sta: 8
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 2
     mor: 11
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: CTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
+  system:
+    sunsign: nadai
+    move: 14
 sohl:
   kbcat: archetype
   items:

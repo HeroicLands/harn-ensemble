@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: masara-lado
   attributes:
     str: 16
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 13
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: masara-lado
+    move: 12
 sohl:
   kbcat: archetype
   items:

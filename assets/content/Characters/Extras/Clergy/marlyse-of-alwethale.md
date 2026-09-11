@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 12
     sta: 13
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 10
     mor: 14
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -126,6 +123,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: WTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
+  system:
+    sunsign: hirin
+    move: 13
 sohl:
   kbcat: archetype
   items:

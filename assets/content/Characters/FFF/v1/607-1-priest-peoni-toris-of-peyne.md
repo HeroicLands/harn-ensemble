@@ -39,8 +39,6 @@ data:
     extra_features:
       - Mild hunchback
 hm3:
-  species: human
-  sunsign: masara/lado
   attributes:
     str: 8
     sta: 10
@@ -55,7 +53,6 @@ hm3:
     voi: 12
     cml: 8
     mor: 14
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -188,6 +185,9 @@ hm3:
     - { shortcode: peonimarriage, type: invocation }
     - { shortcode: peonipassageofthesoul, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 15 } }
+  system:
+    sunsign: masara/lado
+    move: 12
 sohl:
   kbcat: archetype
   items:

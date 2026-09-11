@@ -41,8 +41,6 @@ data:
       - right leg
       - Slight stoop
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 12
     sta: 7
@@ -57,7 +55,6 @@ hm3:
     voi: 11
     cml: 12
     mor: 10
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -168,6 +165,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 237 } }
+  system:
+    sunsign: masara
+    move: 6
 sohl:
   kbcat: archetype
   items:

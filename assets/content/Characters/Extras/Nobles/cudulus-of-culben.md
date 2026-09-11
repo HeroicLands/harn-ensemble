@@ -36,8 +36,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: sindarin
-  sunsign: tai
   attributes:
     str: 9
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 16
     mor: 13
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,6 +125,9 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: KnSh, type: weapongear }
+  system:
+    sunsign: tai
+    move: 15
 sohl:
   kbcat: archetype
   items:

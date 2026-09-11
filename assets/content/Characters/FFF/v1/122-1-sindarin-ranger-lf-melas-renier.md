@@ -38,8 +38,6 @@ data:
     complexion: handsome
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: hirin
   attributes:
     str: 14
     sta: 14
@@ -54,7 +52,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 16
-  move: 18
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -237,6 +234,9 @@ hm3:
         masteryLevel: 60
     - { shortcode: pence, type: miscgear, system: { quantity: 70 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: hirin
+    move: 18
 sohl:
   kbcat: archetype
   items:

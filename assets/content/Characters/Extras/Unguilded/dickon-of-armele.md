@@ -36,8 +36,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 19
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 6
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: nadai
+    move: 8
 sohl:
   kbcat: archetype
   items:

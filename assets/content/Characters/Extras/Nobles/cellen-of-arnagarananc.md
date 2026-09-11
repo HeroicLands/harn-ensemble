@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: nadai
   attributes:
     str: 14
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 15
     cml: 11
     mor: 13
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

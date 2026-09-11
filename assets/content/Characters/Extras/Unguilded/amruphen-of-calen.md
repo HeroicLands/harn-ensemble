@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: ulandus-lado
   attributes:
     str: 12
     sta: 14
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 10
     mor: 16
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -130,6 +127,9 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: ulandus-lado
+    move: 14
 sohl:
   kbcat: archetype
   items:

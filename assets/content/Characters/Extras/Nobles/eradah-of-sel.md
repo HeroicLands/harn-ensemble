@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Hemophilia"
 hm3:
-  species: human
-  sunsign: tarael-tai
   attributes:
     str: 14
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 11
     mor: 10
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: tarael-tai
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Obese
 hm3:
-  species: araki
-  sunsign: aralius
   attributes:
     str: 10
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 8
     cml: 3
     mor: 7
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
         protection.edged: 3
         protection.piercing: 1
         protection.fire: 3
+  system:
+    sunsign: aralius
+    move: 10
 ---
 
 # Appearance {#appearance}

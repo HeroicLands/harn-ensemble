@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: khuzdul
-  sunsign: ulandus-aralius
   attributes:
     str: 13
     sta: 18
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 17
     mor: 14
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus-aralius
+    move: 8
 sohl:
   kbcat: archetype
   items:

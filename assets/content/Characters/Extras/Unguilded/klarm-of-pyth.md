@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 9
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 6
     cml: 7
     mor: 8
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 14
 sohl:
   kbcat: archetype
   items:

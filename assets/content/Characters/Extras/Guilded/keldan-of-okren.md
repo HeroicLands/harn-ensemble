@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 8
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 11
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
         value: 600
         weight: 0.03
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: tai
+    move: 13
 sohl:
   kbcat: archetype
   items:

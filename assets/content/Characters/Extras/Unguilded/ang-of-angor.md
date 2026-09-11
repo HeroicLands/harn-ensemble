@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: sindarin
-  sunsign: ahnu
   attributes:
     str: 10
     sta: 9
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 12
     mor: 10
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 11
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 15
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 6
     cml: 8
     mor: 8
-  move: 4
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -131,6 +128,9 @@ hm3:
         value: 48
         weight: 1
     - { shortcode: KnSh, type: weapongear }
+  system:
+    sunsign: aralius
+    move: 4
 sohl:
   kbcat: archetype
   items:

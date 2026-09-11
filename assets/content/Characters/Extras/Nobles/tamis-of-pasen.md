@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 13
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 8
     cml: 14
     mor: 14
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
         weight: 0.25
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: ropehempperft330lbcap, type: miscgear }
+  system:
+    sunsign: tai
+    move: 13
 sohl:
   kbcat: archetype
   items:

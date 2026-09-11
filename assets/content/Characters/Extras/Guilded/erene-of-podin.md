@@ -35,8 +35,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 15
     sta: 8
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 5
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: pickminers, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spadeshovel, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 11
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 3
     cml: 16
     mor: 10
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 9
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Dwarfism
 hm3:
-  species: khuzdul
-  sunsign: skorus
   attributes:
     str: 13
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 10
     mor: 16
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 11
 sohl:
   kbcat: archetype
   items:

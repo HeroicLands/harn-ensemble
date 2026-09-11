@@ -37,8 +37,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 10
     sta: 13
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 13
     mor: 17
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -147,6 +144,9 @@ hm3:
         value: 18
         weight: 0.1
     - { shortcode: firstaidbagwinstruments, type: miscgear }
+  system:
+    sunsign: ahnu
+    move: 6
 sohl:
   kbcat: archetype
   items:

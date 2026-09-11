@@ -39,8 +39,6 @@ data:
     extra_features:
       - Cataracts
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 14
     sta: 15
@@ -55,7 +53,6 @@ hm3:
     voi: 13
     cml: 17
     mor: 14
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 11 } }
+  system:
+    sunsign: nadai
+    move: 8
 sohl:
   kbcat: archetype
   items:

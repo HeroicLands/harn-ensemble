@@ -36,8 +36,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael-hirin
   attributes:
     str: 11
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 7
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,6 +129,9 @@ hm3:
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: tarael-hirin
+    move: 13
 sohl:
   kbcat: archetype
   items:

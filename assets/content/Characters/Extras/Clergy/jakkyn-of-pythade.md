@@ -36,8 +36,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 16
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 6
     mor: 9
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: nadai
+    move: 6
 sohl:
   kbcat: archetype
   items:

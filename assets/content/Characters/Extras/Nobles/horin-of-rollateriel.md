@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: ulandus-lado
   attributes:
     str: 14
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 6
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus-lado
+    move: 10
 sohl:
   kbcat: archetype
   items:

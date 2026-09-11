@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 8
     sta: 8
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 13
     mor: 13
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -127,6 +124,9 @@ hm3:
     - { shortcode: CTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: KiSh, type: weapongear }
+  system:
+    sunsign: feniri
+    move: 9
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: sindarin
-  sunsign: aralius
   attributes:
     str: 17
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 14
     mor: 17
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
         weight: 1
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 9
 sohl:
   kbcat: archetype
   items:

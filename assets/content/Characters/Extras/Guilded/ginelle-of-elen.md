@@ -36,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 12
     sta: 18
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 10
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
       system:
         value: 75
         weight: 0.5
+  system:
+    sunsign: tai-tarael
+    move: 12
 sohl:
   kbcat: archetype
   items:

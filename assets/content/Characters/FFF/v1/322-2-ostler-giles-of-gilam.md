@@ -39,8 +39,6 @@ data:
     extra_features:
       - Freckles
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 11
     sta: 12
@@ -55,7 +53,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 14
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -150,6 +147,9 @@ hm3:
     - { shortcode: LtKBoot, type: armorgear }
     - { shortcode: LtGlove, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 24 } }
+  system:
+    sunsign: tarael
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: viasal
-  sunsign: tarael-hirin
   attributes:
     str: 16
     sta: 10
@@ -53,7 +51,6 @@ hm3:
     voi: 5
     cml: 2
     mor: 4
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
         value: 1
         weight: 0.3125
     - { shortcode: pence, type: miscgear, system: { quantity: 50 } }
+  system:
+    sunsign: tarael-hirin
+    move: 7
 ---
 
 # Appearance {#appearance}

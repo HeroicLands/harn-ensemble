@@ -41,8 +41,6 @@ data:
       - Moustache
       - beard
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 13
     sta: 15
@@ -57,7 +55,6 @@ hm3:
     voi: 15
     cml: 14
     mor: 13
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -217,6 +214,9 @@ hm3:
     - { shortcode: eynwifsapple, type: invocation }
     - { shortcode: fakangsedge, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 116 } }
+  system:
+    sunsign: tai-tarael
+    move: 12
 sohl:
   kbcat: archetype
   items:

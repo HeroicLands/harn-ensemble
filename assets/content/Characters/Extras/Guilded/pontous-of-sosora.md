@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: lado-ulandus
   attributes:
     str: 13
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 9
     mor: 14
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
         value: 45
         weight: 0.05
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: lado-ulandus
+    move: 6
 sohl:
   kbcat: archetype
   items:

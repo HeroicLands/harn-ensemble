@@ -40,8 +40,6 @@ data:
       - Moustache
       - beard
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 15
     sta: 11
@@ -56,7 +54,6 @@ hm3:
     voi: 16
     cml: 10
     mor: 14
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -179,6 +176,9 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 14 } }
+  system:
+    sunsign: lado
+    move: 14
 sohl:
   kbcat: archetype
   items:

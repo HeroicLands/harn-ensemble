@@ -36,8 +36,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: tai
   attributes:
     str: 11
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 15
     mor: 13
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
         value: 10
         weight: 2
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: tai
+    move: 8
 sohl:
   kbcat: archetype
   items:

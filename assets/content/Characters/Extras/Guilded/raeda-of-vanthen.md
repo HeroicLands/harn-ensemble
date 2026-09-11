@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: masara-lado
   attributes:
     str: 11
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 8
     mor: 10
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
       system:
         value: 72
         weight: 5
+  system:
+    sunsign: masara-lado
+    move: 9
 sohl:
   kbcat: archetype
   items:

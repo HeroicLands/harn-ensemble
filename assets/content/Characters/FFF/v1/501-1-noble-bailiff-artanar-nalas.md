@@ -40,8 +40,6 @@ data:
       - Persistent cough
       - Trembling hands
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 6
     sta: 8
@@ -56,7 +54,6 @@ hm3:
     voi: 13
     cml: 12
     mor: 10
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -164,6 +161,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 232 } }
     - { shortcode: gldcrwn, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 12
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 13
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 17
     mor: 11
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: hidelambsk, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: hidesheep, type: miscgear }
+  system:
+    sunsign: lado
+    move: 16
 sohl:
   kbcat: archetype
   items:

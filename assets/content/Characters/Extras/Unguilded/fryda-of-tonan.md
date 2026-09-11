@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 6
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 10
     mor: 12
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 17
 sohl:
   kbcat: archetype
   items:

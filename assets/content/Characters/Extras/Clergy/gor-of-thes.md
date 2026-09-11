@@ -36,8 +36,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 13
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: WTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
+  system:
+    sunsign: ahnu
+    move: 13
 sohl:
   kbcat: archetype
   items:

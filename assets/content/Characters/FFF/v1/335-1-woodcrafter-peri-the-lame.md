@@ -39,8 +39,6 @@ data:
     extra_features:
       - Lame right foot
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 16
     sta: 14
@@ -55,7 +53,6 @@ hm3:
     voi: 9
     cml: 11
     mor: 15
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -132,6 +129,9 @@ hm3:
     - { shortcode: beltwaist, type: miscgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 17 } }
+  system:
+    sunsign: feniri
+    move: 8
 sohl:
   kbcat: archetype
   items:

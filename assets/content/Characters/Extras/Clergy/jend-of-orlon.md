@@ -37,8 +37,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 11
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 14
     mor: 6
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: skorus
+    move: 17
 sohl:
   kbcat: archetype
   items:

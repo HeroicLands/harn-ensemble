@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: khuzdul
-  sunsign: feniri-aralius
   attributes:
     str: 15
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 15
     mor: 7
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: feniri-aralius
+    move: 10
 sohl:
   kbcat: archetype
   items:

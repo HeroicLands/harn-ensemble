@@ -38,8 +38,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus/aralius
   attributes:
     str: 15
     sta: 10
@@ -54,7 +52,6 @@ hm3:
     voi: 13
     cml: 11
     mor: 16
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -180,6 +177,9 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 39 } }
+  system:
+    sunsign: ulandus/aralius
+    move: 13
 sohl:
   kbcat: archetype
   items:

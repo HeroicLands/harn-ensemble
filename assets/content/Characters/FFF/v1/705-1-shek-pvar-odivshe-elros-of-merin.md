@@ -38,8 +38,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 13
     sta: 14
@@ -54,7 +52,6 @@ hm3:
     voi: 14
     cml: 13
     mor: 15
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -196,6 +193,9 @@ hm3:
         convocation: Lyahvi
     - { shortcode: pence, type: miscgear, system: { quantity: 237 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 4 } }
+  system:
+    sunsign: tarael
+    move: 10
 sohl:
   kbcat: archetype
   items:

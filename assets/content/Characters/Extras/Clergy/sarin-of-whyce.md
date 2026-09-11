@@ -37,8 +37,6 @@ data:
     extra_features:
       - Left-Handed
 hm3:
-  species: human
-  sunsign: angberelius-nadai
   attributes:
     str: 10
     sta: 7
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 17
     mor: 15
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -150,6 +147,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: angberelius-nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

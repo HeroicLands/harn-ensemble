@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: khuzdul
-  sunsign: skorus
   attributes:
     str: 13
     sta: 20
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 17
     mor: 9
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 9
 sohl:
   kbcat: archetype
   items:

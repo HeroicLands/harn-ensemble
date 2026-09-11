@@ -38,8 +38,6 @@ data:
     extra_features:
       - Strange accent
 hm3:
-  species: human
-  sunsign: ""
   attributes:
     str: 14
     sta: 14
@@ -54,7 +52,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -218,6 +215,9 @@ hm3:
     - { shortcode: CScoat, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 108 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 10 } }
+  system:
+    sunsign: ""
+    move: 12
 sohl:
   kbcat: archetype
   items:

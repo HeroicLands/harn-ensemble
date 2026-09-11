@@ -37,8 +37,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 11
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 9
     mor: 14
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: hirin-nadai
+    move: 15
 sohl:
   kbcat: archetype
   items:

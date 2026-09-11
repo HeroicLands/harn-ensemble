@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 17
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 10
     mor: 11
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
         weight: 0.03
     - { shortcode: RCap, type: armorgear }
     - { shortcode: RndSh, type: weapongear }
+  system:
+    sunsign: hirin-nadai
+    move: 8
 sohl:
   kbcat: archetype
   items:

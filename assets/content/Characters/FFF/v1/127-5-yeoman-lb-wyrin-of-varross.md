@@ -41,8 +41,6 @@ data:
       - Moustache
       - beard
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 14
     sta: 10
@@ -57,7 +55,6 @@ hm3:
     voi: 8
     cml: 7
     mor: 17
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -188,6 +185,9 @@ hm3:
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 109 } }
+  system:
+    sunsign: hirin
+    move: 14
 sohl:
   kbcat: archetype
   items:

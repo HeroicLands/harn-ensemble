@@ -36,8 +36,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: feniri-ahnu
   attributes:
     str: 12
     sta: 9
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 9
     mor: 5
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: feniri-ahnu
+    move: 11
 sohl:
   kbcat: archetype
   items:

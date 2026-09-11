@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Leprosy"
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 12
     sta: 6
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 4
     mor: 4
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,6 +125,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: tarael
+    move: 7
 sohl:
   kbcat: archetype
   items:

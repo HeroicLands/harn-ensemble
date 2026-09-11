@@ -36,8 +36,6 @@ data:
     extra_features:
       - Dwarfism
 hm3:
-  species: human
-  sunsign: masara-lado
   attributes:
     str: 12
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 13
     mor: 10
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
         value: 20
         weight: 0.1
     - { shortcode: waxsealing, type: miscgear }
+  system:
+    sunsign: masara-lado
+    move: 7
 sohl:
   kbcat: archetype
   items:

@@ -40,8 +40,6 @@ data:
     extra_features:
       - Able Seaman's tattoo
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 15
     sta: 13
@@ -56,7 +54,6 @@ hm3:
     voi: 12
     cml: 10
     mor: 12
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -156,6 +153,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 51 } }
+  system:
+    sunsign: ahnu
+    move: 16
 sohl:
   kbcat: archetype
   items:

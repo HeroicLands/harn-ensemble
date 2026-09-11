@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 13
     sta: 17
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 8
     mor: 8
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: KiSh, type: weapongear }
+  system:
+    sunsign: lado
+    move: 14
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 12
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 7
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -116,6 +113,9 @@ hm3:
         weight: 30
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: feniri
+    move: 9
 sohl:
   kbcat: archetype
   items:

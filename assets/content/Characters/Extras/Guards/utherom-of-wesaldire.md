@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: hirin
   attributes:
     str: 9
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 15
     mor: 7
-  move: 6
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: hirin
+    move: 6
 sohl:
   kbcat: archetype
   items:

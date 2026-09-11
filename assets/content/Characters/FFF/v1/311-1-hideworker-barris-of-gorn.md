@@ -40,8 +40,6 @@ data:
       - Missing teeth
       - Smells bad
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 16
     sta: 16
@@ -56,7 +54,6 @@ hm3:
     voi: 9
     cml: 7
     mor: 9
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -131,6 +128,9 @@ hm3:
     - { shortcode: LShirt, type: armorgear }
     - { shortcode: LtGlove, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 2 } }
+  system:
+    sunsign: ulandus
+    move: 9
 sohl:
   kbcat: archetype
   items:

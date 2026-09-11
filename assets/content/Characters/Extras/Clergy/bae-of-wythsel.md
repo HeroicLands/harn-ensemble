@@ -37,8 +37,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 12
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 7
-  move: 5
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
       system:
         value: 11
         weight: 0.25
+  system:
+    sunsign: ulandus
+    move: 5
 sohl:
   kbcat: archetype
   items:

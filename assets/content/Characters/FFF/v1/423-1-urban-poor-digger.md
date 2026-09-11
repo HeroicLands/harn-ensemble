@@ -41,8 +41,6 @@ data:
       - a limp
       - Speaks very slowly
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 13
     sta: 12
@@ -57,7 +55,6 @@ hm3:
     voi: 10
     cml: 8
     mor: 11
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LRobe, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
+  system:
+    sunsign: lado
+    move: 8
 sohl:
   kbcat: archetype
   items:

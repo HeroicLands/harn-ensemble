@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 14
     sta: 10
@@ -51,7 +49,6 @@ hm3:
     voi: 7
     cml: 9
     mor: 6
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
       system:
         value: 1
         weight: 0.03
+  system:
+    sunsign: feniri
+    move: 12
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara-skorus
   attributes:
     str: 11
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 14
     cml: 6
     mor: 15
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -136,6 +133,9 @@ hm3:
       system:
         value: 8
         weight: 0.1
+  system:
+    sunsign: masara-skorus
+    move: 13
 sohl:
   kbcat: archetype
   items:

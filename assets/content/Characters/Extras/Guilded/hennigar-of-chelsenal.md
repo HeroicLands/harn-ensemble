@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 11
     sta: 7
@@ -51,7 +49,6 @@ hm3:
     voi: 11
     cml: 18
     mor: 10
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: hidelambsk, type: miscgear }
     - { shortcode: hidesheep, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 8
 sohl:
   kbcat: archetype
   items:

@@ -39,8 +39,6 @@ data:
     extra_features:
       - Very long fingers
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 10
     sta: 13
@@ -55,7 +53,6 @@ hm3:
     voi: 17
     cml: 14
     mor: 9
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 67 } }
+  system:
+    sunsign: feniri
+    move: 13
 sohl:
   kbcat: archetype
   items:

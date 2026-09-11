@@ -40,8 +40,6 @@ data:
     extra_features:
       - Outrageous clothes
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 10
     sta: 14
@@ -56,7 +54,6 @@ hm3:
     voi: 10
     cml: 10
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -158,6 +155,9 @@ hm3:
     - { shortcode: VTunic, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 88 } }
+  system:
+    sunsign: lado
+    move: 12
 sohl:
   kbcat: archetype
   items:

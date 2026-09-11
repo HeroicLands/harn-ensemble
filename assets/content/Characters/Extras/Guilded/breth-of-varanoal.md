@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: lado-ulandus
   attributes:
     str: 10
     sta: 6
@@ -51,7 +49,6 @@ hm3:
     voi: 18
     cml: 14
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -111,6 +108,9 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: lado-ulandus
+    move: 12
 sohl:
   kbcat: archetype
   items:

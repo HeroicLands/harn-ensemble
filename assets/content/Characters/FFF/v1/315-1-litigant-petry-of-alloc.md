@@ -39,8 +39,6 @@ data:
     extra_features:
       - Very pink skin
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 10
     sta: 10
@@ -55,7 +53,6 @@ hm3:
     voi: 11
     cml: 17
     mor: 13
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -181,6 +178,9 @@ hm3:
     - { shortcode: beltpouchsilk, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 211 } }
     - { shortcode: gldcrwn, type: miscgear }
+  system:
+    sunsign: skorus
+    move: 7
 sohl:
   kbcat: archetype
   items:

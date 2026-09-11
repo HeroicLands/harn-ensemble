@@ -36,8 +36,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: aralius-feniri
   attributes:
     str: 17
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 10
     mor: 15
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -123,6 +120,9 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: aralius-feniri
+    move: 10
 sohl:
   kbcat: archetype
   items:

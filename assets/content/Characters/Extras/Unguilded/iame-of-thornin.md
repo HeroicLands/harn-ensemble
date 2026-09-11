@@ -36,8 +36,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 15
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 6
     cml: 14
     mor: 9
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: RHbk, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
+  system:
+    sunsign: nadai
+    move: 9
 sohl:
   kbcat: archetype
   items:

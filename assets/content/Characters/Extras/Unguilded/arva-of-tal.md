@@ -35,8 +35,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara-skorus
   attributes:
     str: 8
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 7
     cml: 5
     mor: 13
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: masara-skorus
+    move: 9
 sohl:
   kbcat: archetype
   items:

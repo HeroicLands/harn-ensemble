@@ -37,8 +37,6 @@ data:
     extra_features:
       - Addiction
 hm3:
-  species: human
-  sunsign: aralius-ulandus
   attributes:
     str: 9
     sta: 12
@@ -53,7 +51,6 @@ hm3:
     voi: 15
     cml: 15
     mor: 12
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -128,6 +125,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: aralius-ulandus
+    move: 14
 sohl:
   kbcat: archetype
   items:

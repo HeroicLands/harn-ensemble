@@ -38,8 +38,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 8
     sta: 12
@@ -54,7 +52,6 @@ hm3:
     voi: 18
     cml: 17
     mor: 12
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -180,6 +177,9 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 52 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 4 } }
+  system:
+    sunsign: masara
+    move: 12
 sohl:
   kbcat: archetype
   items:

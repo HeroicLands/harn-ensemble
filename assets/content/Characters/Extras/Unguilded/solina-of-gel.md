@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 8
     sta: 10
@@ -51,7 +49,6 @@ hm3:
     voi: 11
     cml: 13
     mor: 8
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -136,6 +133,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: tarael
+    move: 13
 sohl:
   kbcat: archetype
   items:

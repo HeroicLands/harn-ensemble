@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 9
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 17
     mor: 3
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
       system:
         value: 2
         weight: 0.1
+  system:
+    sunsign: aralius
+    move: 12
 sohl:
   kbcat: archetype
   items:

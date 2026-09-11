@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: feniri-ahnu
   attributes:
     str: 12
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 15
     mor: 8
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
         value: 24
         weight: 10
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: feniri-ahnu
+    move: 15
 sohl:
   kbcat: archetype
   items:

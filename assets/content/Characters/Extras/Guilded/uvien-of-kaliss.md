@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 16
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 8
     mor: 15
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -117,6 +114,9 @@ hm3:
     - { shortcode: pickminers, type: miscgear }
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 17
 sohl:
   kbcat: archetype
   items:

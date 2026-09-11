@@ -39,8 +39,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: gargu-hyeka
-  sunsign: nadal
   attributes:
     str: 18
     sta: 15
@@ -55,7 +53,6 @@ hm3:
     voi: 11
     cml: 5
     mor: 6
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -144,6 +141,9 @@ hm3:
     - { shortcode: KAil, type: armorgear }
     - { shortcode: KVamb, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 36 } }
+  system:
+    sunsign: nadal
+    move: 11
 ---
 
 # Appearance {#appearance}

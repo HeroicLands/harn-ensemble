@@ -39,8 +39,6 @@ data:
     extra_features:
       - Beard
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 9
     sta: 14
@@ -55,7 +53,6 @@ hm3:
     voi: 16
     cml: 8
     mor: 13
-  move: 16
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -154,6 +151,9 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 12 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 56 } }
+  system:
+    sunsign: aralius
+    move: 16
 sohl:
   kbcat: archetype
   items:

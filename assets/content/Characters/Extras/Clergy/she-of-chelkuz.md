@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: nadai
   attributes:
     str: 10
     sta: 18
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 17
     mor: 6
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -143,6 +140,9 @@ hm3:
       system:
         value: 80
         weight: 0.25
+  system:
+    sunsign: nadai
+    move: 12
 sohl:
   kbcat: archetype
   items:

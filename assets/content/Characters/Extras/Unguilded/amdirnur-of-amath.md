@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: sindarin
-  sunsign: aralius-ulandus
   attributes:
     str: 16
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 12
     mor: 16
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -120,6 +117,9 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius-ulandus
+    move: 9
 sohl:
   kbcat: archetype
   items:

@@ -34,8 +34,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: gargu (aberrant)
-  sunsign: ""
   attributes:
     str: 38
     sta: 32
@@ -50,7 +48,6 @@ hm3:
     voi: 3
     cml: 3
     mor: 7
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
         protection.edged: 1
         protection.piercing: 1
         protection.fire: 1
+  system:
+    sunsign: ""
+    move: 11
 ---
 
 # Appearance {#appearance}

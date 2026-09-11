@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: khuzdul
-  sunsign: aralius
   attributes:
     str: 10
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 5
     cml: 14
     mor: 13
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius
+    move: 13
 sohl:
   kbcat: archetype
   items:

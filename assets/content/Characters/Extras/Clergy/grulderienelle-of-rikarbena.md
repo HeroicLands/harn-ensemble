@@ -37,8 +37,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: skorus
   attributes:
     str: 4
     sta: 10
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 8
     mor: 16
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -142,6 +139,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: skorus
+    move: 11
 sohl:
   kbcat: archetype
   items:

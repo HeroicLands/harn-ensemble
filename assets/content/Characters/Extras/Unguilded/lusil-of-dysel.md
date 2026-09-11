@@ -36,8 +36,6 @@ data:
     extra_features:
       - Lycanthropy
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 11
     sta: 8
@@ -52,7 +50,6 @@ hm3:
     voi: 15
     cml: 12
     mor: 14
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
       system:
         weight: 1
     - { shortcode: ropehempperft330lbcap, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 10
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu-feniri
   attributes:
     str: 6
     sta: 13
@@ -51,7 +49,6 @@ hm3:
     voi: 8
     cml: 8
     mor: 8
-  move: 9
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -147,6 +144,9 @@ hm3:
         weight: 2
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: ahnu-feniri
+    move: 9
 sohl:
   kbcat: archetype
   items:

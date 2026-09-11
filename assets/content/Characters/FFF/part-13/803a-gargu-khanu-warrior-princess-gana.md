@@ -36,8 +36,6 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
-  species: gargu-khanu
-  sunsign: ahnu
   attributes:
     str: 13
     sta: 18
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 4
     mor: 3
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -171,6 +168,9 @@ hm3:
         value: 1
         weight: 0.01
     - { shortcode: pence, type: miscgear, system: { quantity: 150 } }
+  system:
+    sunsign: ahnu
+    move: 13
 ---
 
 # Appearance {#appearance}

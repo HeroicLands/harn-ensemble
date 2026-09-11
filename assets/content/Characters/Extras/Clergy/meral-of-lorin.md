@@ -37,8 +37,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: feniri
   attributes:
     str: 13
     sta: 8
@@ -53,7 +51,6 @@ hm3:
     voi: 18
     cml: 8
     mor: 7
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -147,6 +144,9 @@ hm3:
       system:
         value: 18
         weight: 0.1
+  system:
+    sunsign: feniri
+    move: 11
 sohl:
   kbcat: archetype
   items:

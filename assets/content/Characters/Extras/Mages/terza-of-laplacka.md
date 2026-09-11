@@ -36,8 +36,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 14
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 16
     mor: 10
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -134,6 +131,9 @@ hm3:
         weight: 2
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: hirin-nadai
+    move: 8
 sohl:
   kbcat: archetype
   items:

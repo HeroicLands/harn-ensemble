@@ -36,8 +36,6 @@ data:
     extra_features:
       - "*Poxmarks (healed)"
 hm3:
-  species: human
-  sunsign: hirin-tarael
   attributes:
     str: 9
     sta: 17
@@ -52,7 +50,6 @@ hm3:
     voi: 10
     cml: 6
     mor: 11
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
         value: 24
         weight: 10
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: hirin-tarael
+    move: 12
 sohl:
   kbcat: archetype
   items:

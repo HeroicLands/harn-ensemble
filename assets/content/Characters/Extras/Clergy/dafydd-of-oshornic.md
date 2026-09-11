@@ -37,8 +37,6 @@ data:
     extra_features:
       - Deformed/Missing Arm
 hm3:
-  species: human
-  sunsign: aralius-ulandus
   attributes:
     str: 12
     sta: 8
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 15
     mor: 7
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -145,6 +142,9 @@ hm3:
       system:
         value: 80
         weight: 0.25
+  system:
+    sunsign: aralius-ulandus
+    move: 10
 sohl:
   kbcat: archetype
   items:

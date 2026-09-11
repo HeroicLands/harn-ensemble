@@ -35,8 +35,6 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
-  species: human
-  sunsign: tarael-hirin
   attributes:
     str: 13
     sta: 11
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 13
     mor: 9
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -118,6 +115,9 @@ hm3:
         value: 8
         weight: 0.25
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tarael-hirin
+    move: 11
 sohl:
   kbcat: archetype
   items:

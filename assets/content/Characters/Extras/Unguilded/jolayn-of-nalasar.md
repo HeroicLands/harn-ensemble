@@ -35,8 +35,6 @@ data:
     complexion: beautiful
     extra_features: []
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 9
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 12
     cml: 16
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -109,6 +106,9 @@ hm3:
       img: systems/hm3/images/icons/svg/miscgear.svg
       system:
         weight: 1
+  system:
+    sunsign: lado
+    move: 13
 sohl:
   kbcat: archetype
   items:

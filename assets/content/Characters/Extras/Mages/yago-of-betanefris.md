@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 9
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 7
     mor: 13
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -139,6 +136,9 @@ hm3:
         value: 50
         weight: 2
     - { shortcode: writingkitportable, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 10
 sohl:
   kbcat: archetype
   items:

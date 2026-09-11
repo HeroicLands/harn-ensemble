@@ -37,8 +37,6 @@ data:
     extra_features:
       - Albinism
 hm3:
-  species: human
-  sunsign: hirin-nadai
   attributes:
     str: 13
     sta: 16
@@ -53,7 +51,6 @@ hm3:
     voi: 12
     cml: 8
     mor: 13
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -137,6 +134,9 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: ropehempperft330lbcap, type: miscgear }
+  system:
+    sunsign: hirin-nadai
+    move: 13
 sohl:
   kbcat: archetype
   items:

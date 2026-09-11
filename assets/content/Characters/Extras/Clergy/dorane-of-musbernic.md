@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Hemophilia"
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 16
     sta: 7
@@ -53,7 +51,6 @@ hm3:
     voi: 14
     cml: 14
     mor: 13
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -139,6 +136,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: CTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
+  system:
+    sunsign: masara
+    move: 12
 sohl:
   kbcat: archetype
   items:

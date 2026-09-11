@@ -40,8 +40,6 @@ data:
     extra_features:
       - Deformed left leg
 hm3:
-  species: human
-  sunsign: nadai-hirin
   attributes:
     str: 18
     sta: 13
@@ -56,7 +54,6 @@ hm3:
     voi: 13
     cml: 13
     mor: 12
-  move: 7
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -194,6 +191,9 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 23 } }
+  system:
+    sunsign: nadai-hirin
+    move: 7
 sohl:
   kbcat: archetype
   items:

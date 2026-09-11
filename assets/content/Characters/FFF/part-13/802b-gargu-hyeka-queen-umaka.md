@@ -37,8 +37,6 @@ data:
     extra_features:
       - Obese
 hm3:
-  species: hyeka
-  sunsign: lado
   attributes:
     str: 13
     sta: 13
@@ -53,7 +51,6 @@ hm3:
     voi: 8
     cml: 4
     mor: 3
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -135,6 +132,9 @@ hm3:
         notes: Bone and Stone Chip Necklace
         value: 5
         weight: 0.25
+  system:
+    sunsign: lado
+    move: 10
 ---
 
 # Appearance {#appearance}

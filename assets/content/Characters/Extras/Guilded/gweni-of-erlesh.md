@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: masara
   attributes:
     str: 9
     sta: 12
@@ -51,7 +49,6 @@ hm3:
     voi: 6
     cml: 12
     mor: 11
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
         value: 24
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: masara
+    move: 8
 sohl:
   kbcat: archetype
   items:

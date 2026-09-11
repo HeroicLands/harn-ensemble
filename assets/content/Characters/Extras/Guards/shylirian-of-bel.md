@@ -36,8 +36,6 @@ data:
     extra_features:
       - Scars
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 8
     sta: 13
@@ -52,7 +50,6 @@ hm3:
     voi: 9
     cml: 10
     mor: 7
-  move: 17
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -125,6 +122,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
+  system:
+    sunsign: tai-tarael
+    move: 17
 sohl:
   kbcat: archetype
   items:

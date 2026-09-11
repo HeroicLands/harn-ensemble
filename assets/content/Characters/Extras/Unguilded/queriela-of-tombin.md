@@ -36,8 +36,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: angberelius-ahnu
   attributes:
     str: 17
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 3
     mor: 5
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -110,6 +107,9 @@ hm3:
     - { shortcode: mirrorbron, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius-ahnu
+    move: 8
 sohl:
   kbcat: archetype
   items:

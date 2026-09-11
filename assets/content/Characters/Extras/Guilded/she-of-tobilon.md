@@ -36,8 +36,6 @@ data:
     extra_features:
       - Obesity
 hm3:
-  species: human
-  sunsign: lado
   attributes:
     str: 9
     sta: 10
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 15
     mor: 11
-  move: 0
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
         value: 5
         weight: 0.05
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: lado
+    move: 0
 sohl:
   kbcat: archetype
   items:

@@ -38,8 +38,6 @@ data:
     complexion: plain
     extra_features: []
 hm3:
-  species: human
-  sunsign: nadai-hirin
   attributes:
     str: 11
     sta: 10
@@ -54,7 +52,6 @@ hm3:
     voi: 14
     cml: 8
     mor: 3
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -223,6 +220,9 @@ hm3:
     - { shortcode: flashfromkamil, type: invocation }
     - { shortcode: houseinkamil, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 49 } }
+  system:
+    sunsign: nadai-hirin
+    move: 13
 sohl:
   kbcat: archetype
   items:

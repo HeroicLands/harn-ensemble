@@ -36,8 +36,6 @@ data:
     extra_features:
       - Birthmarks
 hm3:
-  species: sindarin
-  sunsign: tarael
   attributes:
     str: 11
     sta: 16
@@ -52,7 +50,6 @@ hm3:
     voi: 11
     cml: 10
     mor: 9
-  move: 14
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -121,6 +118,9 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
+  system:
+    sunsign: tarael
+    move: 14
 sohl:
   kbcat: archetype
   items:

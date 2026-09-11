@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: sindarin
-  sunsign: hirin
   attributes:
     str: 16
     sta: 12
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 11
     mor: 9
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: LtLeg, type: armorgear }
+  system:
+    sunsign: hirin
+    move: 12
 sohl:
   kbcat: archetype
   items:

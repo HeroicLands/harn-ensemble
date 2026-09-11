@@ -36,8 +36,6 @@ data:
     extra_features:
       - Sterile
 hm3:
-  species: human
-  sunsign: angberelius
   attributes:
     str: 6
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 16
     cml: 9
     mor: 7
-  move: 18
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -108,6 +105,9 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
+  system:
+    sunsign: angberelius
+    move: 18
 sohl:
   kbcat: archetype
   items:

@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: tai-skorus
   attributes:
     str: 18
     sta: 8
@@ -51,7 +49,6 @@ hm3:
     voi: 9
     cml: 11
     mor: 8
-  move: 12
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -113,6 +110,9 @@ hm3:
       system:
         value: 24
         weight: 5
+  system:
+    sunsign: tai-skorus
+    move: 12
 sohl:
   kbcat: archetype
   items:

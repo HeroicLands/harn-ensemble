@@ -36,8 +36,6 @@ data:
     extra_features:
       - Monochromasia
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 15
     sta: 11
@@ -52,7 +50,6 @@ hm3:
     voi: 12
     cml: 16
     mor: 15
-  move: 3
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -119,6 +116,9 @@ hm3:
         weight: 0.03
     - { shortcode: tankardpew, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
+  system:
+    sunsign: ulandus
+    move: 3
 sohl:
   kbcat: archetype
   items:

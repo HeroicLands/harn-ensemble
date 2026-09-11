@@ -36,8 +36,6 @@ data:
     extra_features:
       - One Ear Missing/Deaf
 hm3:
-  species: human
-  sunsign: angberelius-nadai
   attributes:
     str: 11
     sta: 18
@@ -52,7 +50,6 @@ hm3:
     voi: 8
     cml: 9
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -107,6 +104,9 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: angberelius-nadai
+    move: 10
 sohl:
   kbcat: archetype
   items:

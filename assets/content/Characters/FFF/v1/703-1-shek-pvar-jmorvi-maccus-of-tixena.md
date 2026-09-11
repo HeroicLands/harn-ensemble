@@ -40,8 +40,6 @@ data:
     extra_features:
       - Birthmark
 hm3:
-  species: human
-  sunsign: ahnu-feniri
   attributes:
     str: 16
     sta: 15
@@ -56,7 +54,6 @@ hm3:
     voi: 13
     cml: 6
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -194,6 +191,9 @@ hm3:
     - { shortcode: barlscloak, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 106 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: ahnu-feniri
+    move: 10
 sohl:
   kbcat: archetype
   items:

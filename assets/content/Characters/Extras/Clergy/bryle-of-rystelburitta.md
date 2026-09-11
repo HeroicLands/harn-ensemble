@@ -37,8 +37,6 @@ data:
     extra_features:
       - "*Parasites"
 hm3:
-  species: human
-  sunsign: tai-tarael
   attributes:
     str: 12
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 13
     mor: 6
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -129,6 +126,9 @@ hm3:
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: tai-tarael
+    move: 10
 sohl:
   kbcat: archetype
   items:

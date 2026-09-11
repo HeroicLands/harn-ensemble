@@ -37,8 +37,6 @@ data:
     extra_features:
       - Dwarfism
 hm3:
-  species: human
-  sunsign: tarael
   attributes:
     str: 10
     sta: 9
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 7
     mor: 6
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -147,6 +144,9 @@ hm3:
         value: 12
         weight: 0.1
     - { shortcode: Bklr, type: weapongear }
+  system:
+    sunsign: tarael
+    move: 8
 sohl:
   kbcat: archetype
   items:

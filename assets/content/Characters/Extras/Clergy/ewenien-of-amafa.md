@@ -37,8 +37,6 @@ data:
     extra_features:
       - Hirsutism
 hm3:
-  species: human
-  sunsign: skorus-tai
   attributes:
     str: 11
     sta: 6
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 8
     mor: 11
-  move: 11
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -124,6 +121,9 @@ hm3:
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Kni, type: weapongear }
+  system:
+    sunsign: skorus-tai
+    move: 11
 sohl:
   kbcat: archetype
   items:

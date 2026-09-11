@@ -37,8 +37,6 @@ data:
     extra_features:
       - Ambidexterous
 hm3:
-  species: human
-  sunsign: ulandus
   attributes:
     str: 13
     sta: 11
@@ -53,7 +51,6 @@ hm3:
     voi: 13
     cml: 9
     mor: 12
-  move: 13
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -138,6 +135,9 @@ hm3:
       system:
         weight: 1
         value: 0
+  system:
+    sunsign: ulandus
+    move: 13
 sohl:
   kbcat: archetype
   items:

@@ -36,8 +36,6 @@ data:
     extra_features:
       - Allergy
 hm3:
-  species: human
-  sunsign: nadai-hirin
   attributes:
     str: 7
     sta: 15
@@ -52,7 +50,6 @@ hm3:
     voi: 13
     cml: 14
     mor: 4
-  move: 15
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -115,6 +112,9 @@ hm3:
       system:
         value: 24
         weight: 5
+  system:
+    sunsign: nadai-hirin
+    move: 15
 sohl:
   kbcat: archetype
   items:

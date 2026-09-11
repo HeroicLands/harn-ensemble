@@ -36,8 +36,6 @@ data:
     extra_features:
       - Gigantism
 hm3:
-  species: human
-  sunsign: aralius-feniri
   attributes:
     str: 20
     sta: 14
@@ -52,7 +50,6 @@ hm3:
     voi: 7
     cml: 13
     mor: 9
-  move: 10
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -122,6 +119,9 @@ hm3:
         weight: 1
     - { shortcode: KiSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
+  system:
+    sunsign: aralius-feniri
+    move: 10
 sohl:
   kbcat: archetype
   items:

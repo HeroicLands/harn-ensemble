@@ -38,8 +38,6 @@ data:
     complexion: handsome
     extra_features: []
 hm3:
-  species: human
-  sunsign: ahnu
   attributes:
     str: 10
     sta: 17
@@ -54,7 +52,6 @@ hm3:
     voi: 17
     cml: 18
     mor: 16
-  move: 18
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -194,6 +191,9 @@ hm3:
     - { shortcode: ShrtSwd, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 113 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
+  system:
+    sunsign: ahnu
+    move: 18
 sohl:
   kbcat: archetype
   items:

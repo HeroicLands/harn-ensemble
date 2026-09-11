@@ -35,8 +35,6 @@ data:
     complexion: average
     extra_features: []
 hm3:
-  species: human
-  sunsign: aralius
   attributes:
     str: 12
     sta: 14
@@ -51,7 +49,6 @@ hm3:
     voi: 11
     cml: 12
     mor: 10
-  move: 8
   items:
     - { shortcode: skull, type: armorlocation }
     - { shortcode: face, type: armorlocation }
@@ -114,6 +111,9 @@ hm3:
       system:
         value: 24
         weight: 10
+  system:
+    sunsign: aralius
+    move: 8
 sohl:
   kbcat: archetype
   items:
