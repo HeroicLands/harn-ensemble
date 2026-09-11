@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 28
@@ -131,7 +132,6 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

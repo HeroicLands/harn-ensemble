@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - peoni
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 19
@@ -155,7 +156,6 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 8 } }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 11 } }

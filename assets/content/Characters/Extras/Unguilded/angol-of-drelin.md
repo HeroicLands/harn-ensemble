@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - "custom|Tribal"
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 23
@@ -130,7 +131,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

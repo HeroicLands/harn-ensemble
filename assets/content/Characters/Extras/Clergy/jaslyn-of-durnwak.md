@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - halea
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 28
@@ -130,7 +131,6 @@ hm3:
     - { shortcode: Kni, type: weapongear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 3 } }

@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - naveh
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 31
@@ -142,7 +143,6 @@ hm3:
         weight: 0.03
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

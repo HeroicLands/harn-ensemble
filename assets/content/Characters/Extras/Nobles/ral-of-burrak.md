@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: khuzdul
   age: 106
@@ -119,7 +120,6 @@ hm3:
     - { shortcode: spoonpewte, type: miscgear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 18 } }

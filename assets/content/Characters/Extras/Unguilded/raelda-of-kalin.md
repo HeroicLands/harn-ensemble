@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - "custom|Tribal"
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 43
@@ -138,7 +139,6 @@ hm3:
     - { shortcode: ropehempperft330lbcap, type: miscgear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 15 } }

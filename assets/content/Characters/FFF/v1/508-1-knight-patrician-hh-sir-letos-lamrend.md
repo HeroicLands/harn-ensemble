@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - ilvir
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 28
@@ -186,7 +187,6 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 130 } }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 14 } }

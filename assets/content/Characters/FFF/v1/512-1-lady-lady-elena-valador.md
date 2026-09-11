@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - larani
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 37
@@ -168,7 +169,6 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 124 } }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }

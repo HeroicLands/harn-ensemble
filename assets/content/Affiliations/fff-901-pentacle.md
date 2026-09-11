@@ -8,9 +8,10 @@ img: ""
 name:
   full: The Pentacle
   aliases: []
+data:
+  templatePriority: null
 sohl:
   relation: []
-  archetype: null
 ---
 
 This eclectic group of individuals represents the middle and lower levels of Harnic society. On the surface they have little in common with each other, and most folk would be surprised to see any three of them together. But most people have not seen what these quick-thinking and resourceful men have seen. In every case, the individual faced grave peril and was warned or actively rescued by Merrimam or one of his agents. Merrimam calls this core group his Pentacle, and takes measures to ensure their continued well being. In return, the members of the pentacle remain ready to respond to Merrimam's call on the shortest possible notice.

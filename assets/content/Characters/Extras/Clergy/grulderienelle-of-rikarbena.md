@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - ilvir
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 32
@@ -143,7 +144,6 @@ hm3:
         value: 0
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 4 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 10 } }

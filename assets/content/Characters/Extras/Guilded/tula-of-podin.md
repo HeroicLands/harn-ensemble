@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 22
@@ -187,7 +188,6 @@ hm3:
     - { shortcode: WCap, type: armorgear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 9 } }

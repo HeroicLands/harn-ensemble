@@ -23,6 +23,7 @@ harnworld:
   ritual:
     - sarajin
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 25
@@ -166,7 +167,6 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 112 } }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 17 } }

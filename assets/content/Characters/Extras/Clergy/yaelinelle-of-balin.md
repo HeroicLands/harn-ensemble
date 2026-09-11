@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - sarajin
 data:
+  templatePriority: 1
   gender: female
   species: human
   age: 38
@@ -142,7 +143,6 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

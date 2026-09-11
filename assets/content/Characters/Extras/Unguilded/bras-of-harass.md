@@ -20,6 +20,7 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 34
@@ -112,7 +113,6 @@ hm3:
         weight: 1
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 12 } }

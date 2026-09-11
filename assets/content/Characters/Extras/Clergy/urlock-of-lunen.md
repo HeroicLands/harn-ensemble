@@ -21,6 +21,7 @@ harnworld:
   ritual:
     - siem
 data:
+  templatePriority: 1
   gender: male
   species: human
   age: 31
@@ -139,7 +140,6 @@ hm3:
         weight: 0.5
 sohl:
   kbcat: archetype
-  archetype: 1
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 7 } }
