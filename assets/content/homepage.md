@@ -26,7 +26,7 @@ roster and build actors to suit whatever it plays.
 
 ## Installing
 
-In Foundry, open **Add-on Modules → Install Module** and paste this manifest
+In Foundry, open **Add-on Modules > Install Module** and paste this manifest
 URL:
 
 ```text
