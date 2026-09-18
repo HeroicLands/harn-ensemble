@@ -9,7 +9,6 @@ name:
 id: I5HWSZ6oKPoyl6co
 packFolder: extrasguilded
 shortcode: gwelenaofdaroos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

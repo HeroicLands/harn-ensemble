@@ -9,7 +9,6 @@ name:
 id: k32Sgd4BR3RhRmXA
 packFolder: extrasguilded
 shortcode: piltainofekai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thief
@@ -109,7 +108,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 1

@@ -9,9 +9,8 @@ name:
 id: zRHCVBVaIN8CG7Z6
 packFolder: fffnobles
 shortcode: gerrickasarn
-img: images/fffv1/token/FFF_599-2_Dilettante.png
-portrait: images/fffv1/FFF_599-2_Dilettante.jpg
-tokenImg: images/fffv1/token/FFF_599-2_Dilettante.png
+img: images/fffv1/token/fff5992tok.png
+portrait: images/fffv1/fff5992.jpg
 type: being
 social:
   occupation: Patrician

@@ -9,7 +9,6 @@ name:
 id: nQeiJhS9HcklWYBw
 packFolder: extrasmages
 shortcode: girondofelwenalasaka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Savorya*****"
@@ -112,7 +111,7 @@ hm3:
     - { shortcode: ablarinsfield, type: spell }
     - name: Aeric's Whisper
       type: spell
-      img: systems/hm3/images/icons/svg/wind.svg
+      img: systems/sohl/assets/icons/other/wind.svg
       system:
         convocation: Lyahvi
     - { shortcode: dispell, type: spell }
@@ -157,14 +156,14 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2
     - { shortcode: writingkitportable, type: miscgear }
     - name: Runestones, Set
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 40
         weight: 2
@@ -172,13 +171,13 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 75
         weight: 0.5
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0

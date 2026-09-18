@@ -9,7 +9,6 @@ name:
 id: hDfS4QIBSKyrHjK8
 packFolder: extrasclergy
 shortcode: obrayzelofdebern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

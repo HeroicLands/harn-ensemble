@@ -9,9 +9,8 @@ name:
 id: RVwOS24RmbplzdmD
 packFolder: fffmilitary
 shortcode: zoefiorfohd
-img: images/fffv1/token/FFF_127-3_Yeoman_SB.png
-portrait: images/fffv1/FFF_127-3_Yeoman_SB.jpg
-tokenImg: images/fffv1/token/FFF_127-3_Yeoman_SB.png
+img: images/fffv1/token/fff1273tok.png
+portrait: images/fffv1/fff1273.jpg
 type: being
 social:
   occupation: Yeoman (SB)

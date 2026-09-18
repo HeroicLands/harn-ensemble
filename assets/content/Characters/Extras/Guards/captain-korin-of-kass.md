@@ -9,7 +9,6 @@ name:
 id: aJwuvxfTV1hqT40b
 packFolder: extrasguards
 shortcode: captainkorinofkass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

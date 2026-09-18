@@ -9,7 +9,6 @@ name:
 id: NN1t41R0EVQDSU2C
 packFolder: extrasserfs
 shortcode: heornofobyne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

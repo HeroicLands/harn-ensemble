@@ -9,7 +9,6 @@ name:
 id: dOIMTPj3xY7Snu6O
 packFolder: extrasguards
 shortcode: owainofthel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -114,7 +113,7 @@ hm3:
     - { shortcode: ShrtSwd, type: weapongear }
     - name: "Debt to Money Lender: Sai of Ardin for 396d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

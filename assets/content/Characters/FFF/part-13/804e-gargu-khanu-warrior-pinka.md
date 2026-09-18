@@ -9,9 +9,9 @@ name:
 id: hFoale7BdhL9OV3F
 packFolder: fffnonhumans
 shortcode: pinka
-img: images/fff-13/FFF_804e_Gargu-Khanu_Warrior-headshot.webp
-portrait: images/fff-13/FFF_804e_Gargu-Khanu_Warrior.webp
-tokenImg: images/fff-13/FFF_804e_Gargu-Khanu_Warrior-token.webp
+img: images/fff-13/fff804ehead.webp
+portrait: images/fff-13/fff804e.webp
+tokenImg: images/fff-13/fff804etok.webp
 type: being
 social:
   occupation: Warrior
@@ -92,7 +92,7 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -102,7 +102,7 @@ hm3:
         protection.fire: 3
     - name: Kurbul Girdle
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         value: 80
         weight: 4
@@ -115,7 +115,7 @@ hm3:
     - { shortcode: KHlfHelm, type: armorgear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         notes: Gargun Teeth Necklace
         value: 5

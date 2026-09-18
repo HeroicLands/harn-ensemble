@@ -9,7 +9,6 @@ name:
 id: 8aJ6hnPHEDWgQb8R
 packFolder: extrasmages
 shortcode: holikofaethys
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Odivshe****"

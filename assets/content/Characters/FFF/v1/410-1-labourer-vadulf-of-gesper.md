@@ -9,9 +9,8 @@ name:
 id: bA9xc7ZXJEJdXRha
 packFolder: fffunguilded
 shortcode: vadulfofgesper
-img: images/fffv1/token/FFF_410-1_Labourer.png
-portrait: images/fffv1/FFF_410-1_Labourer.jpg
-tokenImg: images/fffv1/token/FFF_410-1_Labourer.png
+img: images/fffv1/token/fff4101tok.png
+portrait: images/fffv1/fff4101.jpg
 type: being
 social:
   occupation: Labourer

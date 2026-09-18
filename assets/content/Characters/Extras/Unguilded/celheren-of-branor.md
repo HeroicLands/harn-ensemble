@@ -9,7 +9,6 @@ name:
 id: my2c0vBnvoIvwdhw
 packFolder: extrasunguilded
 shortcode: celherenofbranor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

@@ -9,9 +9,8 @@ name:
 id: t4zG9cK9yT1qVGI5
 packFolder: fffguilded
 shortcode: klinaofvebelirky
-img: images/fffv1/token/FFF_313-1_Jeweller.png
-portrait: images/fffv1/FFF_313-1_Jeweller.jpg
-tokenImg: images/fffv1/token/FFF_313-1_Jeweller.png
+img: images/fffv1/token/fff3131tok.png
+portrait: images/fffv1/fff3131.jpg
 type: being
 social:
   occupation: Jeweller

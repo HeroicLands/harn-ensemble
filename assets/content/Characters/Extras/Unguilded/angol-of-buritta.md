@@ -9,7 +9,6 @@ name:
 id: BoUl7sW8Metk48Vx
 packFolder: extrasunguilded
 shortcode: angolofburitta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Longbow

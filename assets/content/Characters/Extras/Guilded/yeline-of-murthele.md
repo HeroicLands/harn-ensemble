@@ -9,7 +9,6 @@ name:
 id: IegpiR0E8ApJw3od
 packFolder: extrasguilded
 shortcode: yelineofmurthele
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

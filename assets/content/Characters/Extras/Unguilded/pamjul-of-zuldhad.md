@@ -9,7 +9,6 @@ name:
 id: yb0natoR40nIdhpY
 packFolder: extrasunguilded
 shortcode: pamjulofzuldhad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman
@@ -112,21 +111,21 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 15
         weight: 0.01
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 30
         weight: 0.03
     - { shortcode: spoonwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1

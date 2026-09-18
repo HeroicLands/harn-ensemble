@@ -9,7 +9,6 @@ name:
 id: sTazOcbwr4V7llMq
 packFolder: extrasunguilded
 shortcode: silenofparibe
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

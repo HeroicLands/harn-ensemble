@@ -9,7 +9,6 @@ name:
 id: rCqXXRHxGSeSSoiD
 packFolder: extrasnobles
 shortcode: merelaofamafa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician
@@ -115,13 +114,13 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 5
         weight: 0.05
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 48
         weight: 1

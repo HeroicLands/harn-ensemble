@@ -9,7 +9,6 @@ name:
 id: qpgHHKybL0bqOAxk
 packFolder: extrasguilded
 shortcode: tolmeyoftrochi
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter
@@ -106,7 +105,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Drigh of Eta for 30d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

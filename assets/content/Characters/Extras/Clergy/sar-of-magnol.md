@@ -9,7 +9,6 @@ name:
 id: kyarh8uIHBfLQr9g
 packFolder: extrasclergy
 shortcode: sarofmagnol
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir
@@ -136,7 +135,7 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.1

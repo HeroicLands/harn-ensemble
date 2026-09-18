@@ -9,7 +9,6 @@ name:
 id: 9ku9fphfnCbdNO3V
 packFolder: extrasunguilded
 shortcode: tamilofdethasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

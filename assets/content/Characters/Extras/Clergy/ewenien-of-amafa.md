@@ -9,7 +9,6 @@ name:
 id: cWA9ivq5UcLyxiBt
 packFolder: extrasclergy
 shortcode: ewenienofamafa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

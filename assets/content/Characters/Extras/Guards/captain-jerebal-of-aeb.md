@@ -9,7 +9,6 @@ name:
 id: eKK9KQX0ir448tBN
 packFolder: extrasguards
 shortcode: captainjerebalofaeb
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

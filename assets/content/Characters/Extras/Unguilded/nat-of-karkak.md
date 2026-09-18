@@ -9,7 +9,6 @@ name:
 id: a72PgyCWIY3hQ6cg
 packFolder: extrasunguilded
 shortcode: natofkarkak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Low Guard

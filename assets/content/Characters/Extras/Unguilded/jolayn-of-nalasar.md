@@ -9,7 +9,6 @@ name:
 id: f37wXZpoATrdgRBT
 packFolder: extrasunguilded
 shortcode: jolaynofnalasar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Wineskin, small, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
   system:

@@ -9,7 +9,6 @@ name:
 id: 0LE3ZxenB4QezpaL
 packFolder: extrasclergy
 shortcode: jendoforlon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

@@ -9,9 +9,8 @@ name:
 id: RKgUGKh2miBd4DxZ
 packFolder: fffclergy
 shortcode: grimhildaforsetha
-img: images/fffv1/token/FFF_608-2_Priest_Sarajin.png
-portrait: images/fffv1/FFF_608-2_Priest_Sarajin.jpg
-tokenImg: images/fffv1/token/FFF_608-2_Priest_Sarajin.png
+img: images/fffv1/token/fff6082tok.png
+portrait: images/fffv1/fff6082.jpg
 type: being
 social:
   occupation: Priestess of Sarajin

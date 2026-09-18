@@ -9,9 +9,8 @@ name:
 id: zfHZeMOSxVjH1jmT
 packFolder: fffunguilded
 shortcode: tharoofbideth
-img: images/fffv1/token/FFF_416-1_Serf_Half_Villein.png
-portrait: images/fffv1/FFF_416-1_Serf_Half_Villein.jpg
-tokenImg: images/fffv1/token/FFF_416-1_Serf_Half_Villein.png
+img: images/fffv1/token/fff4161tok.png
+portrait: images/fffv1/fff4161.jpg
 type: being
 social:
   occupation: Half-Villein

@@ -9,7 +9,6 @@ name:
 id: J2BfVVgk8dOTn8BK
 packFolder: extrasclergy
 shortcode: gineofosathade
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem

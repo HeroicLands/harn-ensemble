@@ -9,9 +9,8 @@ name:
 id: 6aFAjW9NHXMcKepf
 packFolder: fffunguilded
 shortcode: marlynoftyne
-img: images/fffv1/token/FFF_411-1_Prostitute.png
-portrait: images/fffv1/FFF_411-1_Prostitute.jpg
-tokenImg: images/fffv1/token/FFF_411-1_Prostitute.png
+img: images/fffv1/token/fff4111tok.png
+portrait: images/fffv1/fff4111.jpg
 type: being
 social:
   occupation: Prostitute

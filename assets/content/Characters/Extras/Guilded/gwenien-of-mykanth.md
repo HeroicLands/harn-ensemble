@@ -9,7 +9,6 @@ name:
 id: DiWAyyJl6ZRsDzjQ
 packFolder: extrasguilded
 shortcode: gwenienofmykanth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

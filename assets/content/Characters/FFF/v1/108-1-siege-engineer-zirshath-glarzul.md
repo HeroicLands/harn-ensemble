@@ -9,9 +9,8 @@ name:
 id: W22UXBOpDZqnS5oe
 packFolder: fffmilitary
 shortcode: zirshathglarzul
-img: images/fffv1/token/FFF_108-1_Siege_Engineer.png
-portrait: images/fffv1/FFF_108-1_Siege_Engineer.jpg
-tokenImg: images/fffv1/token/FFF_108-1_Siege_Engineer.png
+img: images/fffv1/token/fff1081tok.png
+portrait: images/fffv1/fff1081.jpg
 type: being
 social:
   occupation: Siege Engineer
@@ -214,20 +213,20 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Ring, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         quantity: 2
         value: 600
         weight: 0.03
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         value: 30
         weight: 0.03
     - name: Broach, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         value: 600
         weight: 0.03

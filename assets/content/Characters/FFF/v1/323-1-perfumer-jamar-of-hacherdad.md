@@ -9,9 +9,8 @@ name:
 id: HA20lpK82ZkXFWXH
 packFolder: fffguilded
 shortcode: jamarofhacherdad
-img: images/fffv1/token/FFF_323-1_Perfumer.png
-portrait: images/fffv1/FFF_323-1_Perfumer.jpg
-tokenImg: images/fffv1/token/FFF_323-1_Perfumer.png
+img: images/fffv1/token/fff3231tok.png
+portrait: images/fffv1/fff3231.jpg
 type: being
 social:
   occupation: Perfumer

@@ -9,7 +9,6 @@ name:
 id: PJIGtwkLmI6E4er0
 packFolder: extrasguilded
 shortcode: vanachofashel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer
@@ -107,7 +106,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Adain of Lundondik for 114d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

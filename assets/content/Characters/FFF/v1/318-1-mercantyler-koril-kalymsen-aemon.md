@@ -9,9 +9,8 @@ name:
 id: Kt0ilzmS7FHBqOTr
 packFolder: fffguilded
 shortcode: korilkalymsenaemon
-img: images/fffv1/token/FFF_318-1_Mercantyler.png
-portrait: images/fffv1/FFF_318-1_Mercantyler.jpg
-tokenImg: images/fffv1/token/FFF_318-1_Mercantyler.png
+img: images/fffv1/token/fff3181tok.png
+portrait: images/fffv1/fff3181.jpg
 type: being
 social:
   occupation: Mercantyler

@@ -9,7 +9,6 @@ name:
 id: U4ZMEOwmyZAUSfBa
 packFolder: extrasunguilded
 shortcode: jakanofcharcaradas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer
@@ -106,7 +105,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 5
         weight: 0.05
@@ -114,7 +113,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1

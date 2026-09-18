@@ -9,7 +9,6 @@ name:
 id: RGJzYo9qXxJzbwDF
 packFolder: extrasserfs
 shortcode: seginaofthen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

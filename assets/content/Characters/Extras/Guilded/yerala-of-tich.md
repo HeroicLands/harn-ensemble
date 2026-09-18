@@ -9,7 +9,6 @@ name:
 id: IDTbfeXjQHzejQ1f
 packFolder: extrasguilded
 shortcode: yeralaoftich
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer

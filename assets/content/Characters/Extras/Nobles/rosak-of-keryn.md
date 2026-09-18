@@ -9,7 +9,6 @@ name:
 id: 69qUQ4XK4mk8GBSF
 packFolder: extrasnobles
 shortcode: rosakofkeryn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

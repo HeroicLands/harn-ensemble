@@ -9,7 +9,6 @@ name:
 id: HME5NKRmK67ErZRD
 packFolder: extrasguilded
 shortcode: eweniofiribe
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

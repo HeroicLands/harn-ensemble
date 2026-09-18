@@ -9,7 +9,6 @@ name:
 id: rWK8Y7XEa0Xw8n2B
 packFolder: extrasunguilded
 shortcode: farrenofmarbeda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cartographer/Artist
@@ -105,7 +104,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Broach, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 30
         weight: 0.03
@@ -117,7 +116,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 20
         weight: 0.1

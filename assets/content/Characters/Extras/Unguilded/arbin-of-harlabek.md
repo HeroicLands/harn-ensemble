@@ -9,7 +9,6 @@ name:
 id: sa40LkHoXVA9wBfC
 packFolder: extrasunguilded
 shortcode: arbinofharlabek
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Low Guard

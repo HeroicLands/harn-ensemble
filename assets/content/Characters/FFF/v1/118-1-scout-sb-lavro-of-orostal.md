@@ -9,9 +9,8 @@ name:
 id: ssnt13YqynwruYqK
 packFolder: fffmilitary
 shortcode: lavrooforostal
-img: images/fffv1/token/FFF_118-1_Scout_SB.png
-portrait: images/fffv1/FFF_118-1_Scout_SB.jpg
-tokenImg: images/fffv1/token/FFF_118-1_Scout_SB.png
+img: images/fffv1/token/fff1181tok.png
+portrait: images/fffv1/fff1181.jpg
 type: being
 social:
   occupation: Scout (SB)

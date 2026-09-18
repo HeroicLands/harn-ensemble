@@ -9,7 +9,6 @@ name:
 id: lkRXwcAGaz36Zqvb
 packFolder: extrasnobles
 shortcode: heraofuerth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan

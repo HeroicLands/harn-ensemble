@@ -9,7 +9,6 @@ name:
 id: siObBkcsRlGG7MWf
 packFolder: extrasnobles
 shortcode: rikofeylosane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

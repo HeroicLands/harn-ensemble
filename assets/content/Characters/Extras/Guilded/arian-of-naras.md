@@ -9,7 +9,6 @@ name:
 id: OkfTTzZg9WKDDVhX
 packFolder: extrasguilded
 shortcode: arianofnaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

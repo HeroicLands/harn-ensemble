@@ -9,7 +9,6 @@ name:
 id: qGL9pOftY774BXYP
 packFolder: extrasguilded
 shortcode: ardethaiofmerlesque
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Physician
@@ -106,7 +105,7 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2

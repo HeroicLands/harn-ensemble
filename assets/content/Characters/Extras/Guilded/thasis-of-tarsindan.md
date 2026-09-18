@@ -9,7 +9,6 @@ name:
 id: x0pkfEQdPgI6n0Vp
 packFolder: extrasguilded
 shortcode: thasisoftarsindan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

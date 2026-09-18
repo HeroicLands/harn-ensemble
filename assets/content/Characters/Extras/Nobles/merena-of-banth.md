@@ -9,7 +9,6 @@ name:
 id: JOWx5qi7ciPbbxfE
 packFolder: extrasnobles
 shortcode: merenaofbanth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Anklet, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 5
         weight: 0.125
@@ -119,7 +118,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 5
         weight: 0.25

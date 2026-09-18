@@ -9,7 +9,6 @@ name:
 id: WjAAvmIpmCFEDr1s
 packFolder: extrasguilded
 shortcode: norbinofmerke
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Charcoaler
@@ -101,13 +100,13 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Anklet, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 3
         weight: 0.125
     - name: Axe, wood handle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 12
         weight: 3

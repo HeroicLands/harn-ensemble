@@ -9,9 +9,8 @@ name:
 id: B3o2Cu05ziblcSXY
 packFolder: fffbarbarians
 shortcode: brun
-img: images/fffv1/token/FFF_201-1_Chieftain_Drughu.png
-portrait: images/fffv1/FFF_201-1_Chieftain_Drughu.jpg
-tokenImg: images/fffv1/token/FFF_201-1_Chieftain_Drughu.png
+img: images/fffv1/token/fff2011tok.png
+portrait: images/fffv1/fff2011.jpg
 type: being
 social:
   occupation: Chieftain

@@ -9,7 +9,6 @@ name:
 id: zaaq4VI2nnjYjA8Q
 packFolder: extrasguilded
 shortcode: jakrowofbetts
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

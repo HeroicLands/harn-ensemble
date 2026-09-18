@@ -9,7 +9,6 @@ name:
 id: mEdZXKYJF7QMCotL
 packFolder: extrasguilded
 shortcode: garostaofwyth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -114,7 +113,7 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Tabol
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 20
         weight: 2

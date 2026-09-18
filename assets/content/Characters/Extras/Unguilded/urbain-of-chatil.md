@@ -9,7 +9,6 @@ name:
 id: gvumeJfCKh1NRfo3
 packFolder: extrasunguilded
 shortcode: urbainofchatil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

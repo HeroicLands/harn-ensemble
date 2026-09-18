@@ -9,7 +9,6 @@ name:
 id: cy06E12xcuSmNVlx
 packFolder: extrasnobles
 shortcode: merenaofbaldir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

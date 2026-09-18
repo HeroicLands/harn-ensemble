@@ -9,7 +9,6 @@ name:
 id: iPzNMqt7MWLkgOf7
 packFolder: extrasnobles
 shortcode: blaborofcadui
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight
@@ -115,14 +114,14 @@ hm3:
     - { shortcode: LKni, type: weapongear }
     - name: Bag/Box of Karadh
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Circlet, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 300
         weight: 0.3125

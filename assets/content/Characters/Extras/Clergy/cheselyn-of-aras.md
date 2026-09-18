@@ -9,7 +9,6 @@ name:
 id: A5KzhYlvtVc3JDUz
 packFolder: extrasclergy
 shortcode: cheselynofaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

@@ -9,9 +9,8 @@ name:
 id: fmub4svRhzTqgHvi
 packFolder: fffmilitary
 shortcode: melasrenier
-img: images/fffv1/token/FFF_122-1_Sindarin_Ranger_LF.png
-portrait: images/fffv1/FFF_122-1_Sindarin_Ranger_LF.jpg
-tokenImg: images/fffv1/token/FFF_122-1_Sindarin_Ranger_LF.png
+img: images/fffv1/token/fff1221tok.png
+portrait: images/fffv1/fff1221.jpg
 type: being
 social:
   occupation: Ranger
@@ -207,17 +206,17 @@ hm3:
     - { shortcode: MByr, type: armorgear }
     - name: Boots of Turentan
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: Cloak of Turentan
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: Cord of Querelia-Sim
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0

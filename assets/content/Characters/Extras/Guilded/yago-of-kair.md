@@ -9,7 +9,6 @@ name:
 id: z9Yts8yOrB2ySeXj
 packFolder: extrasguilded
 shortcode: yagoofkair
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Locksmith
@@ -104,13 +103,13 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 1
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.25

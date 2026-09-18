@@ -9,7 +9,6 @@ name:
 id: wHFVqcYTj1ZDqMuj
 packFolder: extrasguilded
 shortcode: starcandyofane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -108,7 +107,7 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Keric of Ubela for 162d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: lute, type: miscgear }
@@ -116,7 +115,7 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Tabol
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 20
         weight: 2

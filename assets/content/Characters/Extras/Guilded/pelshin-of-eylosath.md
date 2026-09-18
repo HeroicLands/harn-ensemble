@@ -9,7 +9,6 @@ name:
 id: 4eAgyC6STPj4sb24
 packFolder: extrasguilded
 shortcode: pelshinofeylosath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Physician

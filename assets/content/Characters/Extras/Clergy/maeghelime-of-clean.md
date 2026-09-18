@@ -9,7 +9,6 @@ name:
 id: u87R3Jd9i7HCXs69
 packFolder: extrasclergy
 shortcode: maeghelimeofclean
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -132,13 +131,13 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 45
         weight: 0.05
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.1

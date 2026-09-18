@@ -9,7 +9,6 @@ name:
 id: FsZ5JuQWQbUg8sM8
 packFolder: extrasguards
 shortcode: captainithasisofkapire
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

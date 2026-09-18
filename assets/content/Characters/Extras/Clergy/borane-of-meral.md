@@ -9,7 +9,6 @@ name:
 id: 45hzVh4KgtbuMj1T
 packFolder: extrasclergy
 shortcode: boraneofmeral
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

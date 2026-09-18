@@ -9,7 +9,6 @@ name:
 id: woXoUtvSPN7Nh2Ao
 packFolder: extrasunguilded
 shortcode: genorofobyne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer

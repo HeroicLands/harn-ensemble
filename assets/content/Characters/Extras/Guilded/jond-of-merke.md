@@ -9,7 +9,6 @@ name:
 id: wlsl5iFTghE2jrjS
 packFolder: extrasguilded
 shortcode: jondofmerke
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miner
@@ -104,14 +103,14 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Axe, wood handle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 12
         weight: 3
     - { shortcode: beltpouchl3, type: containergear }
     - name: Circlet, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 300
         weight: 0.3125

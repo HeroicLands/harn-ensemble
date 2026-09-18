@@ -9,7 +9,6 @@ name:
 id: fA4xvbf6i7unieOF
 packFolder: extrasguilded
 shortcode: sylviaofever
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -104,7 +103,7 @@ hm3:
     - { shortcode: backbagmed, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.01

@@ -9,9 +9,8 @@ name:
 id: p0Fuj2jIfStY3daR
 packFolder: fffunguilded
 shortcode: gathricofdeschu
-img: images/fffv1/token/FFF_417-1_Servant.png
-portrait: images/fffv1/FFF_417-1_Servant.jpg
-tokenImg: images/fffv1/token/FFF_417-1_Servant.png
+img: images/fffv1/token/fff4171tok.png
+portrait: images/fffv1/fff4171.jpg
 type: being
 social:
   occupation: Servant

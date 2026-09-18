@@ -9,7 +9,6 @@ name:
 id: LGZ1d4IChRHSIY0t
 packFolder: extrasguards
 shortcode: commanderperlinofdebernic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

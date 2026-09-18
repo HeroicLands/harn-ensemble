@@ -9,7 +9,6 @@ name:
 id: 59EBepiJOqjfwkKh
 packFolder: extrasguilded
 shortcode: lanofrytus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

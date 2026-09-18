@@ -9,9 +9,8 @@ name:
 id: HMdk5hHSK8CiaDIO
 packFolder: fffmilitary
 shortcode: erylacobb
-img: images/fffv1/token/FFF_115-3_Mercenary_MF.png
-portrait: images/fffv1/FFF_115-3_Mercenary_MF.jpg
-tokenImg: images/fffv1/token/FFF_115-3_Mercenary_MF.png
+img: images/fffv1/token/fff1153tok.png
+portrait: images/fffv1/fff1153.jpg
 type: being
 social:
   occupation: Mercenary (MF)

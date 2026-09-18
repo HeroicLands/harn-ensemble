@@ -9,9 +9,8 @@ name:
 id: jW8F24E2EwEro9xh
 packFolder: fffunguilded
 shortcode: koraofserdica
-img: images/fffv1/token/FFF_499-1_Misc_Unguilded.png
-portrait: images/fffv1/FFF_499-1_Misc_Unguilded.jpg
-tokenImg: images/fffv1/token/FFF_499-1_Misc_Unguilded.png
+img: images/fffv1/token/fff4991tok.png
+portrait: images/fffv1/fff4991.jpg
 type: being
 social:
   occupation: Wise Woman
@@ -111,7 +110,7 @@ hm3:
           value: 15
     - name: Old Jarin
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
       system:
         type: Ritual
         skillBase.value: 15

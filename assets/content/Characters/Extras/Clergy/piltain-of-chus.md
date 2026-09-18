@@ -9,7 +9,6 @@ name:
 id: 7fh8NuOnbI4OwoMA
 packFolder: extrasclergy
 shortcode: piltainofchus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

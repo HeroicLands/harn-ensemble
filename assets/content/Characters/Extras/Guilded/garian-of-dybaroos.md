@@ -9,7 +9,6 @@ name:
 id: 9ptyuiKuMIpwVo0V
 packFolder: extrasguilded
 shortcode: garianofdybaroos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker
@@ -108,7 +107,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

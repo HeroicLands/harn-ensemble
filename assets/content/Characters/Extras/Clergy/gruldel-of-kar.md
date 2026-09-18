@@ -9,7 +9,6 @@ name:
 id: LAvtALPUuavA88Sb
 packFolder: extrasclergy
 shortcode: gruldelofkar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

@@ -9,7 +9,6 @@ name:
 id: E1xaY2VHybPabsrf
 packFolder: extrasclergy
 shortcode: halimeofyisgaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem
@@ -141,19 +140,19 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Andarin Wysan
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0
     - name: Holy Symbol, iron
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 18
         weight: 0.1
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.1

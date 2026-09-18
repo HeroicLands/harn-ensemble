@@ -9,7 +9,6 @@ name:
 id: mm9myYzCfjYwJk3h
 packFolder: extrasserfs
 shortcode: solineofkyfa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1

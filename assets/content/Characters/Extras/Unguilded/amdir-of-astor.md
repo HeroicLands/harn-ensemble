@@ -9,7 +9,6 @@ name:
 id: WjWzufK1Q9JB7LCQ
 packFolder: extrasunguilded
 shortcode: amdirofastor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow
@@ -109,7 +108,7 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Bow(Heartbow)
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

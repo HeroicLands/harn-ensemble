@@ -9,7 +9,6 @@ name:
 id: N4ejmsYwZGeOrzGd
 packFolder: extrasclergy
 shortcode: habinoftabralgurty
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

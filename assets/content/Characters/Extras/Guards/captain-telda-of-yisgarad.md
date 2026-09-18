@@ -9,7 +9,6 @@ name:
 id: 0QuBlx64Ps5ELjcr
 packFolder: extrasguards
 shortcode: captainteldaofyisgarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

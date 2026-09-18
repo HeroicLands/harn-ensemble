@@ -9,9 +9,8 @@ name:
 id: P8gejvyLNHxIidxr
 packFolder: fffguilded
 shortcode: hadyntrildsen
-img: images/fffv1/token/FFF_325-1_Pilot.png
-portrait: images/fffv1/FFF_325-1_Pilot.jpg
-tokenImg: images/fffv1/token/FFF_325-1_Pilot.png
+img: images/fffv1/token/fff3251tok.png
+portrait: images/fffv1/fff3251.jpg
 type: being
 social:
   occupation: Pilot

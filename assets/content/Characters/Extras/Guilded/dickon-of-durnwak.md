@@ -9,7 +9,6 @@ name:
 id: YPHd0pPPNrUkLAUj
 packFolder: extrasguilded
 shortcode: dickonofdurnwak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

@@ -9,7 +9,6 @@ name:
 id: 6XRLwwabXEhk0A5F
 packFolder: extrasclergy
 shortcode: maeghelaofloriel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

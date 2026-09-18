@@ -9,7 +9,6 @@ name:
 id: kTqj5AXh2rXH4176
 packFolder: extrasunguilded
 shortcode: tarkotoferlesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe

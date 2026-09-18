@@ -9,7 +9,6 @@ name:
 id: fMLyHiCHKTXZYOhX
 packFolder: extrasclergy
 shortcode: gorsinelleofplaemen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

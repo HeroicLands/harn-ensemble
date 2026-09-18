@@ -9,7 +9,6 @@ name:
 id: HaCXYJXgMOh8Rx99
 packFolder: extrasclergy
 shortcode: lavroofubelon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni
@@ -137,19 +136,19 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Holy Symbol, brass
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 12
         weight: 0.1
     - name: Necklace, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 240
         weight: 0.25
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.1

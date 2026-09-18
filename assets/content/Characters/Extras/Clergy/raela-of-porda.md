@@ -9,7 +9,6 @@ name:
 id: lYcuQRdn1quuD6ep
 packFolder: extrasclergy
 shortcode: raelaofporda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

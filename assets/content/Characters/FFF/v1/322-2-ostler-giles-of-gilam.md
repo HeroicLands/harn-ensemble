@@ -9,9 +9,8 @@ name:
 id: uMJgJveyseH1IrT8
 packFolder: fffguilded
 shortcode: gilesofgilam
-img: images/fffv1/token/FFF_322-2_Ostler.png
-portrait: images/fffv1/FFF_322-2_Ostler.jpg
-tokenImg: images/fffv1/token/FFF_322-2_Ostler.png
+img: images/fffv1/token/fff3222tok.png
+portrait: images/fffv1/fff3222.jpg
 type: being
 social:
   occupation: Journeyman Ostler

@@ -9,7 +9,6 @@ name:
 id: MV9GxqbRsPqrQGxU
 packFolder: extrasclergy
 shortcode: gillisthoff
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

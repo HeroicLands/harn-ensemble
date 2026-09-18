@@ -9,7 +9,6 @@ name:
 id: 8YvvSpww7EdX776a
 packFolder: extrasguilded
 shortcode: pirisofbela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

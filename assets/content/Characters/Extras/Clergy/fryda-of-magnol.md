@@ -9,7 +9,6 @@ name:
 id: 5IsGT3BTW0IZrrfK
 packFolder: extrasclergy
 shortcode: frydaofmagnol
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem

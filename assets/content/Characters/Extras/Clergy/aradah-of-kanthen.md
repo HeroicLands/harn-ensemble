@@ -9,7 +9,6 @@ name:
 id: acXyneIUzXc6AGYY
 packFolder: extrasclergy
 shortcode: aradahofkanthen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

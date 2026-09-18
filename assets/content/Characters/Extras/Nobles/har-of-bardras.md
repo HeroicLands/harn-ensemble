@@ -9,7 +9,6 @@ name:
 id: 3KfetA10ZmPkpsN9
 packFolder: extrasnobles
 shortcode: harofbardras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald
@@ -114,7 +113,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.01
@@ -122,7 +121,7 @@ hm3:
     - { shortcode: papercasel, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 48
         weight: 1

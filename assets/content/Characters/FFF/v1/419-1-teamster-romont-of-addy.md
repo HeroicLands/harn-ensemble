@@ -9,9 +9,8 @@ name:
 id: I16NOoLaxr3RXM8E
 packFolder: fffunguilded
 shortcode: romontofaddy
-img: images/fffv1/token/FFF_419-1_Teamster.png
-portrait: images/fffv1/FFF_419-1_Teamster.jpg
-tokenImg: images/fffv1/token/FFF_419-1_Teamster.png
+img: images/fffv1/token/fff4191tok.png
+portrait: images/fffv1/fff4191.jpg
 type: being
 social:
   occupation: Teamster

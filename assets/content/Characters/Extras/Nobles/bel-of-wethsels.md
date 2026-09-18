@@ -9,7 +9,6 @@ name:
 id: DPHFYmg0q4llFXU4
 packFolder: extrasnobles
 shortcode: belofwethsels
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium
@@ -116,7 +115,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Broach, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 30
         weight: 0.03

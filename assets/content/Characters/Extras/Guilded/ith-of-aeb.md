@@ -9,7 +9,6 @@ name:
 id: 1zk2Qugu1RBDWM8l
 packFolder: extrasguilded
 shortcode: ithofaeb
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist
@@ -106,7 +105,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Portable writing Kite
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }

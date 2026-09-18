@@ -9,7 +9,6 @@ name:
 id: 9rPJcrOnpenC0p7Y
 packFolder: extrasguilded
 shortcode: merbesaldaradofvabetts
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

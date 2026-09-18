@@ -9,7 +9,6 @@ name:
 id: ri3W2ibrniy12a28
 packFolder: extrasunguilded
 shortcode: helasarinaofloyril
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Longbow

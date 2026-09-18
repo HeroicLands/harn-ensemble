@@ -9,9 +9,8 @@ name:
 id: aghrGYgVl3ACbIz7
 packFolder: fffnobles
 shortcode: sirjornstury
-img: images/fffv1/token/FFF_510-2_Royal_Government.png
-portrait: images/fffv1/FFF_510-2_Royal_Government.jpg
-tokenImg: images/fffv1/token/FFF_510-2_Royal_Government.png
+img: images/fffv1/token/fff5102tok.png
+portrait: images/fffv1/fff5102.jpg
 type: being
 social:
   occupation: Royal Agent

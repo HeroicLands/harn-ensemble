@@ -9,7 +9,6 @@ name:
 id: iWZzdqOmLK0racq2
 packFolder: extrasunguilded
 shortcode: arthalofceriar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

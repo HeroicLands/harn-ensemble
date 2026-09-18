@@ -9,7 +9,6 @@ name:
 id: W7x1YINnTIjGc7mo
 packFolder: extrasunguilded
 shortcode: gwelenaofyaleh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sage/Tutor
@@ -112,7 +111,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Textbook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 150
         weight: 3

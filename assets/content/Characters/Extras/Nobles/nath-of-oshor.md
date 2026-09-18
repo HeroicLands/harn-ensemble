@@ -9,7 +9,6 @@ name:
 id: O2xw6s6BcZia76YK
 packFolder: extrasnobles
 shortcode: nathofoshor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

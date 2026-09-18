@@ -9,7 +9,6 @@ name:
 id: LWPGKFJjO13fcvo3
 packFolder: extrasunguilded
 shortcode: halmartonofhosathaen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Teamster

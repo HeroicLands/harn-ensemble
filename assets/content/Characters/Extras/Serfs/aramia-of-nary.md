@@ -9,7 +9,6 @@ name:
 id: vXHNZuq0wKagun9N
 packFolder: extrasserfs
 shortcode: aramiaofnary
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

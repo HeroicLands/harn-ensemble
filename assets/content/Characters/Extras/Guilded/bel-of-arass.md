@@ -9,7 +9,6 @@ name:
 id: DPJ9LK3XBQE3OfzP
 packFolder: extrasguilded
 shortcode: belofarass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

@@ -9,7 +9,6 @@ name:
 id: l2ypbRMy2FjTluvt
 packFolder: extrasguilded
 shortcode: marlyseofcinbarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

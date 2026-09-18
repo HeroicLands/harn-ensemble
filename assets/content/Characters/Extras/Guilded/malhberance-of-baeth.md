@@ -9,7 +9,6 @@ name:
 id: 0Yf6TDrZLUiVpuEU
 packFolder: extrasguilded
 shortcode: malhberanceofbaeth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright

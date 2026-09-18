@@ -9,7 +9,6 @@ name:
 id: LVhj0BDmu3KfzEz1
 packFolder: extrasunguilded
 shortcode: wereryoforin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter
@@ -108,7 +107,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.25

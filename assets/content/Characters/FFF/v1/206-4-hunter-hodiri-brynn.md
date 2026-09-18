@@ -9,9 +9,8 @@ name:
 id: xXKM2CAPcBrSpgks
 packFolder: fffbarbarians
 shortcode: brynn
-img: images/fffv1/token/FFF_206-4_Hunter_Hodiri.png
-portrait: images/fffv1/FFF_206-4_Hunter_Hodiri.jpg
-tokenImg: images/fffv1/token/FFF_206-4_Hunter_Hodiri.png
+img: images/fffv1/token/fff2064tok.png
+portrait: images/fffv1/fff2064.jpg
 type: being
 social:
   occupation: Hunter

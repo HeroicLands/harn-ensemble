@@ -9,7 +9,6 @@ name:
 id: gIBMSvU2PVJFQz06
 packFolder: extrasunguilded
 shortcode: rondasarofclean
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Fisherman
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Fishhooks, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1

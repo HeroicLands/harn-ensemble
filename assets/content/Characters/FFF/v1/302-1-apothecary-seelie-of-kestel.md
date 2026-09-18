@@ -9,9 +9,8 @@ name:
 id: VOy3LZUdyhYtFwqS
 packFolder: fffguilded
 shortcode: seelieofkestel
-img: images/fffv1/token/FFF_302-1_Apothecary.png
-portrait: images/fffv1/FFF_302-1_Apothecary.jpg
-tokenImg: images/fffv1/token/FFF_302-1_Apothecary.png
+img: images/fffv1/token/fff3021tok.png
+portrait: images/fffv1/fff3021.jpg
 type: being
 social:
   occupation: Apothecary
@@ -150,7 +149,7 @@ hm3:
     - { shortcode: vialglassm, type: miscgear, system: { quantity: 5 } }
     - name: Panier, medium
       type: containergear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         value: 8
         weight: 2

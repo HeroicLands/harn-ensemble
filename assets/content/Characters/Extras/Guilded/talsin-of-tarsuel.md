@@ -9,7 +9,6 @@ name:
 id: OJMuRRox48A7478D
 packFolder: extrasguilded
 shortcode: talsinoftarsuel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Lexigrapher
@@ -116,7 +115,7 @@ hm3:
     - { shortcode: papercasel, type: miscgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.05

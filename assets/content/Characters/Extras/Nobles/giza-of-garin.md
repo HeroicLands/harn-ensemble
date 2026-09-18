@@ -9,7 +9,6 @@ name:
 id: X2BvyRKMP4UOk3b4
 packFolder: extrasnobles
 shortcode: gizaofgarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

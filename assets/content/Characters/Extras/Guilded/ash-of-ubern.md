@@ -9,7 +9,6 @@ name:
 id: LLd2GD3ej1iFxq1s
 packFolder: extrasguilded
 shortcode: ashofubern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Timberwright
@@ -101,13 +100,13 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Comb, ivory
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 20
         weight: 0.1
     - name: Earing, Gold with gem
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 425
         weight: 0.01
@@ -115,7 +114,7 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Saw, hack
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 10
         weight: 2

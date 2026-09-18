@@ -9,7 +9,6 @@ name:
 id: F8U1MeXAXQbSeg61
 packFolder: extrasguilded
 shortcode: jolaofchatil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

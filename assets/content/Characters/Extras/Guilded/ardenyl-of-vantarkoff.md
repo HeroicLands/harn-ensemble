@@ -9,7 +9,6 @@ name:
 id: 3PD4g0W7CtoK22Q0
 packFolder: extrasguilded
 shortcode: ardenylofvantarkoff
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

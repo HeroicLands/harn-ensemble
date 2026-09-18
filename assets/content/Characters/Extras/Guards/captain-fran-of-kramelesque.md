@@ -9,7 +9,6 @@ name:
 id: K8eHjHpDYmVB2OzR
 packFolder: extrasguards
 shortcode: captainfranofkramelesque
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

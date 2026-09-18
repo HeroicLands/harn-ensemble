@@ -9,7 +9,6 @@ name:
 id: xbnX5XrfiGSK4p2n
 packFolder: extrasguilded
 shortcode: kaidiaofpede
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker

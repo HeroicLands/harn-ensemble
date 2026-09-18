@@ -9,9 +9,8 @@ name:
 id: zIkSmQfFvJZkJ652
 packFolder: fffbarbarians
 shortcode: kittiarawampusha
-img: images/fffv1/token/FFF_206-3_Hunter_Bujoc.png
-portrait: images/fffv1/FFF_206-3_Hunter_Bujoc.jpg
-tokenImg: images/fffv1/token/FFF_206-3_Hunter_Bujoc.png
+img: images/fffv1/token/fff2063tok.png
+portrait: images/fffv1/fff2063.jpg
 type: being
 social:
   occupation: Hunter

@@ -9,9 +9,8 @@ name:
 id: nN0ZeHNkQv29VR0P
 packFolder: fffclergy
 shortcode: derrialcyeen
-img: images/fffv1/token/FFF_610-1_Priest_Siem.png
-portrait: images/fffv1/FFF_610-1_Priest_Siem.jpg
-tokenImg: images/fffv1/token/FFF_610-1_Priest_Siem.png
+img: images/fffv1/token/fff6101tok.png
+portrait: images/fffv1/fff6101.jpg
 type: being
 social:
   occupation: Priest of Siem

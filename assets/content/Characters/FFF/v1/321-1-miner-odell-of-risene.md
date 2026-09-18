@@ -9,9 +9,8 @@ name:
 id: myAxxYx2A8oZ5RXO
 packFolder: fffguilded
 shortcode: odellofrisene
-img: images/fffv1/token/FFF_321-1_Miner.png
-portrait: images/fffv1/FFF_321-1_Miner.jpg
-tokenImg: images/fffv1/token/FFF_321-1_Miner.png
+img: images/fffv1/token/fff3211tok.png
+portrait: images/fffv1/fff3211.jpg
 type: being
 social:
   occupation: Miner

@@ -9,7 +9,6 @@ name:
 id: mAazF8OB1jrJdr9Q
 packFolder: extrasnobles
 shortcode: keptinofkrollater
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

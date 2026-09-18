@@ -9,7 +9,6 @@ name:
 id: Ss4d5EBBSxThLb03
 packFolder: extrasunguilded
 shortcode: agarwenofarodh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow

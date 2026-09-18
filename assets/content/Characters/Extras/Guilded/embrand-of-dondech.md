@@ -9,7 +9,6 @@ name:
 id: HLIoIFu7wx9jBPSN
 packFolder: extrasguilded
 shortcode: embrandofdondech
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

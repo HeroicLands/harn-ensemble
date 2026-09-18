@@ -9,7 +9,6 @@ name:
 id: alPwoPU5RvBDhWre
 packFolder: extrasmages
 shortcode: ashainofsethsenas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Odivshe***"
@@ -136,13 +135,13 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Andarin Wysan
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0
     - name: Sli-Hordrh
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0

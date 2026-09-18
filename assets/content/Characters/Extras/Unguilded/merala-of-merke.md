@@ -9,7 +9,6 @@ name:
 id: NlU04becHYpQ3UPl
 packFolder: extrasunguilded
 shortcode: meralaofmerke
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

@@ -9,9 +9,8 @@ name:
 id: zzb52YxzVJETrKFW
 packFolder: fffunguilded
 shortcode: kresofaenere
-img: images/fffv1/token/FFF_402-2_Brigand.png
-portrait: images/fffv1/FFF_402-2_Brigand.jpg
-tokenImg: images/fffv1/token/FFF_402-2_Brigand.png
+img: images/fffv1/token/fff4022tok.png
+portrait: images/fffv1/fff4022.jpg
 type: being
 social:
   occupation: Brigand

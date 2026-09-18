@@ -9,9 +9,8 @@ name:
 id: ia2zjJrUeoSAxFzi
 packFolder: fffguilded
 shortcode: geitergautisson
-img: images/fffv1/token/FFF_310-3_Skald.png
-portrait: images/fffv1/FFF_310-3_Skald.jpg
-tokenImg: images/fffv1/token/FFF_310-3_Skald.png
+img: images/fffv1/token/fff3103tok.png
+portrait: images/fffv1/fff3103.jpg
 type: being
 social:
   occupation: Skald

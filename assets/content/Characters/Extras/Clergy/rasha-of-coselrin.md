@@ -9,7 +9,6 @@ name:
 id: BCSdrrUNK4urR2y4
 packFolder: extrasclergy
 shortcode: rashaofcoselrin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni
@@ -132,7 +131,7 @@ hm3:
     - { shortcode: firstaidbagwinstruments, type: miscgear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.1

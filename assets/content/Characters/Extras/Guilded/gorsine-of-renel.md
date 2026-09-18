@@ -9,7 +9,6 @@ name:
 id: hw9l4BGqXzrDHxVt
 packFolder: extrasguilded
 shortcode: gorsineofrenel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker
@@ -107,7 +106,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Circlet, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 300
         weight: 0.3125

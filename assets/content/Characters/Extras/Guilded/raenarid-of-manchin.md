@@ -9,7 +9,6 @@ name:
 id: 1BUNo8tsNnY55Kvm
 packFolder: extrasguilded
 shortcode: raenaridofmanchin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

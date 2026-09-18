@@ -9,7 +9,6 @@ name:
 id: ehFPs7Cd4tI5EDs5
 packFolder: extrasclergy
 shortcode: lernofewel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani
@@ -137,13 +136,13 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 5
         weight: 0.25
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.1

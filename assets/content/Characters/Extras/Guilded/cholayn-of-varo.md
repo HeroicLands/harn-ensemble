@@ -9,7 +9,6 @@ name:
 id: FKDExocAb2BYbYZr
 packFolder: extrasguilded
 shortcode: cholaynofvaro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

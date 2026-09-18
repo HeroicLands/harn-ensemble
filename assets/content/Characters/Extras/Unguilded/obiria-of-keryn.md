@@ -9,7 +9,6 @@ name:
 id: zc1ci8ONyiAdyFO3
 packFolder: extrasunguilded
 shortcode: obiriaofkeryn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Shortbow
@@ -109,13 +108,13 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Ithas of Mar for 76d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

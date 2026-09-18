@@ -9,7 +9,6 @@ name:
 id: XYfvT78tvPowV5aB
 packFolder: extrasunguilded
 shortcode: amathofancharnamathrodh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

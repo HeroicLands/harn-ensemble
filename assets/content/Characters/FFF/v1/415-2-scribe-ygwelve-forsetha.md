@@ -9,9 +9,8 @@ name:
 id: 2MzjJhA8lpULDhlf
 packFolder: fffunguilded
 shortcode: ygwelveforsetha
-img: images/fffv1/token/FFF_415-2_Scribe.png
-portrait: images/fffv1/FFF_415-2_Scribe.jpg
-tokenImg: images/fffv1/token/FFF_415-2_Scribe.png
+img: images/fffv1/token/fff4152tok.png
+portrait: images/fffv1/fff4152.jpg
 type: being
 social:
   occupation: Scribe

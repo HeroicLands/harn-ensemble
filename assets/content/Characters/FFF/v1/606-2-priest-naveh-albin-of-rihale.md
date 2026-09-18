@@ -9,9 +9,8 @@ name:
 id: AaGuFCouBtmrPRdj
 packFolder: fffclergy
 shortcode: albinofrihale
-img: images/fffv1/token/FFF_606-2_Priest_Naveh.png
-portrait: images/fffv1/FFF_606-2_Priest_Naveh.jpg
-tokenImg: images/fffv1/token/FFF_606-2_Priest_Naveh.png
+img: images/fffv1/token/fff6062tok.png
+portrait: images/fffv1/fff6062.jpg
 type: being
 social:
   occupation: Priest of Naveh
@@ -196,7 +195,7 @@ hm3:
     - { shortcode: drumhand, type: miscgear }
     - name: Contact Poison
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         notes: disguised as wax for strings
         weight: 1

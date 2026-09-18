@@ -9,7 +9,6 @@ name:
 id: aBkLlRSO16skpNK1
 packFolder: extrasunguilded
 shortcode: raeldaofjaesin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shaman
@@ -102,7 +101,7 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 40 } }
     - name: Tribal
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
       system:
         type: Ritual
         skillBase.value: 14
@@ -121,12 +120,12 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Pelson of Rabetts for 516d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 5
         weight: 0.25

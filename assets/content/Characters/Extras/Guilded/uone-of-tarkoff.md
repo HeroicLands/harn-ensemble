@@ -9,7 +9,6 @@ name:
 id: VKA4NvMwG1XcHGqL
 packFolder: extrasguilded
 shortcode: uoneoftarkoff
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

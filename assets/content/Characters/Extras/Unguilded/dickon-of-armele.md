@@ -9,7 +9,6 @@ name:
 id: gKEuQXQYeWKSExBV
 packFolder: extrasunguilded
 shortcode: dickonofarmele
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Light

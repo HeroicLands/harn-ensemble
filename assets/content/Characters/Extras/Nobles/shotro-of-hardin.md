@@ -9,7 +9,6 @@ name:
 id: 8lrcOmj8ctlXogRU
 packFolder: extrasnobles
 shortcode: shotroofhardin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

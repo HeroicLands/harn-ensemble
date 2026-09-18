@@ -9,7 +9,6 @@ name:
 id: 1iNu6B8xoGlbUfyH
 packFolder: extrasguilded
 shortcode: erelyneofmadib
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -107,7 +106,7 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.25

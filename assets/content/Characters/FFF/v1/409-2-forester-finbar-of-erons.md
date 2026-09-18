@@ -9,9 +9,8 @@ name:
 id: gs7OGJYJuhURyJOU
 packFolder: fffunguilded
 shortcode: finbaroferons
-img: images/fffv1/token/FFF_409-2_Forester.png
-portrait: images/fffv1/FFF_409-2_Forester.jpg
-tokenImg: images/fffv1/token/FFF_409-2_Forester.png
+img: images/fffv1/token/fff4092tok.png
+portrait: images/fffv1/fff4092.jpg
 type: being
 social:
   occupation: Forester

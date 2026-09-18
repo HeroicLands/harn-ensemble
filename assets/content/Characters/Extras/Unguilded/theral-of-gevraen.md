@@ -9,7 +9,6 @@ name:
 id: ivJX4K2geuxnNl3F
 packFolder: extrasunguilded
 shortcode: theralofgevraen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

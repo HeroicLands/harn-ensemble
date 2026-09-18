@@ -9,7 +9,6 @@ name:
 id: Jlto3BX6b0C9ZFyO
 packFolder: extrasmages
 shortcode: shaelaofokrenarani
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Peleahn**"
@@ -113,7 +112,7 @@ hm3:
     - { shortcode: ablarinsfield, type: spell }
     - name: Aeric's Whisper
       type: spell
-      img: systems/hm3/images/icons/svg/wind.svg
+      img: systems/sohl/assets/icons/other/wind.svg
       system:
         convocation: Lyahvi
     - { shortcode: cloakofkalaerin, type: spell }
@@ -136,7 +135,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Alchemical Recipe book
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 150
         weight: 5
@@ -144,14 +143,14 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2
     - { shortcode: writingkitportable, type: miscgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0

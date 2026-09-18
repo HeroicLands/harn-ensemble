@@ -9,7 +9,6 @@ name:
 id: OccPtxCCA6umRX7c
 packFolder: extrasunguilded
 shortcode: mardenofewenastallis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hunter/Trapper

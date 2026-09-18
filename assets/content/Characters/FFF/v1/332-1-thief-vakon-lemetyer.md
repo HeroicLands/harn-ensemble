@@ -9,9 +9,8 @@ name:
 id: x0wP2qykwZWZSX7M
 packFolder: fffguilded
 shortcode: vakonlemetyer
-img: images/fffv1/token/FFF_332-1_Thief.png
-portrait: images/fffv1/FFF_332-1_Thief.jpg
-tokenImg: images/fffv1/token/FFF_332-1_Thief.png
+img: images/fffv1/token/fff3321tok.png
+portrait: images/fffv1/fff3321.jpg
 type: being
 social:
   occupation: Thief

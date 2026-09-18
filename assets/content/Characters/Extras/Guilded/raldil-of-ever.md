@@ -9,7 +9,6 @@ name:
 id: qxzHcjQI0gkkA99j
 packFolder: extrasguilded
 shortcode: raldilofever
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

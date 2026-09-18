@@ -9,9 +9,8 @@ name:
 id: SyAnstLAXUJg1mNZ
 packFolder: fffnobles
 shortcode: taranensal
-img: images/fffv1/token/FFF_504-1_Squire.png
-portrait: images/fffv1/FFF_504-1_Squire.jpg
-tokenImg: images/fffv1/token/FFF_504-1_Squire.png
+img: images/fffv1/token/fff5041tok.png
+portrait: images/fffv1/fff5041.jpg
 type: being
 social:
   occupation: Squire

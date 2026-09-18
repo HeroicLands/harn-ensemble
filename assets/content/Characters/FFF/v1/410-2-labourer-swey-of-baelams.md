@@ -9,9 +9,8 @@ name:
 id: w2vH7cnipVCJSRLA
 packFolder: fffunguilded
 shortcode: sweyofbaelams
-img: images/fffv1/token/FFF_410-2_Labourer.png
-portrait: images/fffv1/FFF_410-2_Labourer.jpg
-tokenImg: images/fffv1/token/FFF_410-2_Labourer.png
+img: images/fffv1/token/fff4102tok.png
+portrait: images/fffv1/fff4102.jpg
 type: being
 social:
   occupation: Labourer

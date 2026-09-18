@@ -9,7 +9,6 @@ name:
 id: wqNDsujtXU57lel7
 packFolder: extrasguilded
 shortcode: pelimeofsten
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright

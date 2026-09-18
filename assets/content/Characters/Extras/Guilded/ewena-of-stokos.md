@@ -9,7 +9,6 @@ name:
 id: 3F7kvXJXnLnYIJ9O
 packFolder: extrasguilded
 shortcode: ewenaofstokos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

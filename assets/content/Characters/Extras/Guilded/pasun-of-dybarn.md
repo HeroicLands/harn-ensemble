@@ -9,7 +9,6 @@ name:
 id: D0PmvcjI9WaCyssF
 packFolder: extrasguilded
 shortcode: pasunofdybarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

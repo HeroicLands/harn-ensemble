@@ -9,7 +9,6 @@ name:
 id: 0U52ERl0SjKNEE1q
 packFolder: extrasclergy
 shortcode: sheofchelkuz
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -130,13 +129,13 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Green Eye of Turembor
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0
     - name: Frankincense, oz, jar
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 80
         weight: 0.25

@@ -9,9 +9,8 @@ name:
 id: RWymnuimvX4tvFSL
 packFolder: fffnobles
 shortcode: orenofkestel
-img: images/fffv1/token/FFF_503-1_Page.png
-portrait: images/fffv1/FFF_503-1_Page.jpg
-tokenImg: images/fffv1/token/FFF_503-1_Page.png
+img: images/fffv1/token/fff5031tok.png
+portrait: images/fffv1/fff5031.jpg
 type: being
 social:
   occupation: Page

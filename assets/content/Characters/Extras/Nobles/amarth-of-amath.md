@@ -9,7 +9,6 @@ name:
 id: uXmTNLxIJl4hHt3b
 packFolder: extrasnobles
 shortcode: amarthofamath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

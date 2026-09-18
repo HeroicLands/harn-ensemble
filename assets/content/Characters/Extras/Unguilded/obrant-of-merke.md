@@ -9,7 +9,6 @@ name:
 id: irCLRCsP3N34kGt3
 packFolder: extrasunguilded
 shortcode: obrantofmerke
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

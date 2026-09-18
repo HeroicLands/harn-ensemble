@@ -9,9 +9,8 @@ name:
 id: sJ8YQArkYr9NyWD7
 packFolder: fffguilded
 shortcode: bartonofgelram
-img: images/fffv1/token/FFF_312-1_Innkeeper.png
-portrait: images/fffv1/FFF_312-1_Innkeeper.jpg
-tokenImg: images/fffv1/token/FFF_312-1_Innkeeper.png
+img: images/fffv1/token/fff3121tok.png
+portrait: images/fffv1/fff3121.jpg
 type: being
 social:
   occupation: Innkeeper
@@ -126,7 +125,7 @@ hm3:
     - { shortcode: Clb, type: weapongear }
     - name: Cleaver
       type: weapongear
-      img: systems/hm3/images/icons/svg/axe.svg
+      img: systems/sohl/assets/icons/other/axe.svg
       system:
         value: 72
         weight: 3

@@ -9,7 +9,6 @@ name:
 id: a6BnebGXPEdKLoIV
 packFolder: extrasunguilded
 shortcode: solineofdethaen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter

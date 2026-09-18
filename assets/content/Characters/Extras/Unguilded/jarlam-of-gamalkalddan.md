@@ -9,7 +9,6 @@ name:
 id: Z84OS0ezrdwOCivT
 packFolder: extrasunguilded
 shortcode: jarlamofgamalkalddan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman

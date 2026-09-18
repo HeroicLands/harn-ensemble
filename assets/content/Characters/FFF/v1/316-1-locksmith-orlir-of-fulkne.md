@@ -9,9 +9,8 @@ name:
 id: haxul5DyGPaSevm2
 packFolder: fffguilded
 shortcode: orliroffulkne
-img: images/fffv1/token/FFF_316-1_Locksmith.png
-portrait: images/fffv1/FFF_316-1_Locksmith.jpg
-tokenImg: images/fffv1/token/FFF_316-1_Locksmith.png
+img: images/fffv1/token/fff3161tok.png
+portrait: images/fffv1/fff3161.jpg
 type: being
 social:
   occupation: Locksmith

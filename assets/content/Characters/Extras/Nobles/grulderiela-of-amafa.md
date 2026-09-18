@@ -9,7 +9,6 @@ name:
 id: sUyYkPjHvrC610TV
 packFolder: extrasnobles
 shortcode: grulderielaofamafa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald

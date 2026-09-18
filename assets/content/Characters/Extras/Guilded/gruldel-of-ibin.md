@@ -9,7 +9,6 @@ name:
 id: V9VXsbH6TY5Hd8Wd
 packFolder: extrasguilded
 shortcode: gruldelofibin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright
@@ -107,7 +106,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Arathbaridol of Ubela for 107d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

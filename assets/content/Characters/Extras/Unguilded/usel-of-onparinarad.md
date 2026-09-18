@@ -9,7 +9,6 @@ name:
 id: qCNAwXM0DvEFTdcS
 packFolder: extrasunguilded
 shortcode: uselofonparinarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

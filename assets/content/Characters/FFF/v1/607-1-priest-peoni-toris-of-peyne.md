@@ -9,9 +9,8 @@ name:
 id: YNSUEn5YOAx5neoX
 packFolder: fffclergy
 shortcode: torisofpeyne
-img: images/fffv1/token/FFF_607-1_Priest_Peoni.png
-portrait: images/fffv1/FFF_607-1_Priest_Peoni.jpg
-tokenImg: images/fffv1/token/FFF_607-1_Priest_Peoni.png
+img: images/fffv1/token/fff6071tok.png
+portrait: images/fffv1/fff6071.jpg
 type: being
 social:
   occupation: Peonian Priest
@@ -170,7 +169,7 @@ hm3:
     - { shortcode: parchment, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         value: 50
         weight: 2

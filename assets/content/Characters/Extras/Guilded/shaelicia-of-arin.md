@@ -9,7 +9,6 @@ name:
 id: 1wzPBql1gy8dCGxe
 packFolder: extrasguilded
 shortcode: shaeliciaofarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald

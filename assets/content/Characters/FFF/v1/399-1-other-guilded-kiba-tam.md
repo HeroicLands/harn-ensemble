@@ -9,9 +9,8 @@ name:
 id: AFQOLZIVfy1eFIZV
 packFolder: fffguilded
 shortcode: kibatam
-img: images/fffv1/token/FFF_399-1_Other_Guilded.png
-portrait: images/fffv1/FFF_399-1_Other_Guilded.jpg
-tokenImg: images/fffv1/token/FFF_399-1_Other_Guilded.png
+img: images/fffv1/token/fff3991tok.png
+portrait: images/fffv1/fff3991.jpg
 type: being
 social:
   occupation: Guildsman's offspring

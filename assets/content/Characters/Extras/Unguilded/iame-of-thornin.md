@@ -9,7 +9,6 @@ name:
 id: 0V7LWvMokxbfMZyC
 packFolder: extrasunguilded
 shortcode: iameofthornin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

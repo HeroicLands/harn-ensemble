@@ -9,7 +9,6 @@ name:
 id: NM6TXsyS6SZu4KIG
 packFolder: extrasnobles
 shortcode: cudulusofculben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight
@@ -109,14 +108,14 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Sli-Hordrh
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0
     - { shortcode: beltpouchl3, type: containergear }
     - name: Circlet, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 20
         weight: 0.3125

@@ -9,7 +9,6 @@ name:
 id: SuVadk6XFh0kCEKB
 packFolder: extrasguilded
 shortcode: jakkynofdybarsin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Astrologer
@@ -102,7 +101,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Alchemical Recipe book
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 150
         weight: 5
@@ -113,7 +112,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 75
         weight: 0.5

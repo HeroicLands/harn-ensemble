@@ -9,7 +9,6 @@ name:
 id: 8RSEJjxqSqk1Ul6P
 packFolder: extrasunguilded
 shortcode: zuiquerilaofrollateriel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

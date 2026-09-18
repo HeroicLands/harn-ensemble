@@ -9,7 +9,6 @@ name:
 id: mdUBj3bn5vK8qfxX
 packFolder: extrasguilded
 shortcode: sarofchelen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

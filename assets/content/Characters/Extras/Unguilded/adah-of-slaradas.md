@@ -9,7 +9,6 @@ name:
 id: j4PTVxqKTmR11Cjj
 packFolder: extrasunguilded
 shortcode: adahofslaradas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -110,7 +109,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Ephis of Quarlimun for 119d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

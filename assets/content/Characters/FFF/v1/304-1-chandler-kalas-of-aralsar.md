@@ -9,9 +9,8 @@ name:
 id: eBYgq5F1jBQfU1Tj
 packFolder: fffguilded
 shortcode: kalasofaralsar
-img: images/fffv1/token/FFF_304-1_Chandler.png
-portrait: images/fffv1/FFF_304-1_Chandler.jpg
-tokenImg: images/fffv1/token/FFF_304-1_Chandler.png
+img: images/fffv1/token/fff3041tok.png
+portrait: images/fffv1/fff3041.jpg
 type: being
 social:
   occupation: Chandler

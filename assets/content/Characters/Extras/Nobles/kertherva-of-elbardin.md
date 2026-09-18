@@ -9,7 +9,6 @@ name:
 id: 9iBGBfEPhU2JGbsR
 packFolder: extrasnobles
 shortcode: kerthervaofelbardin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot

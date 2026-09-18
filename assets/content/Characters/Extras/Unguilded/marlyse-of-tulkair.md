@@ -9,7 +9,6 @@ name:
 id: i5wcSMBh9jjofkLv
 packFolder: extrasunguilded
 shortcode: marlyseoftulkair
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer

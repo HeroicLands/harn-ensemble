@@ -9,7 +9,6 @@ name:
 id: 07MzhQm9cvlen5LG
 packFolder: extrasguards
 shortcode: captainfeldaranoflumeden
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

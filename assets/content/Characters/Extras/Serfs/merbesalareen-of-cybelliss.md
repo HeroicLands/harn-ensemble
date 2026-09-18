@@ -9,7 +9,6 @@ name:
 id: xbtdpJODXafTeE4j
 packFolder: extrasserfs
 shortcode: merbesalareenofcybelliss
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman
@@ -105,7 +104,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Eamon of Fraul for 172d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

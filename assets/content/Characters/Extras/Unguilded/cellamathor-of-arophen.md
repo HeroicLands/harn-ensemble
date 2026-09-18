@@ -9,7 +9,6 @@ name:
 id: e5sUVEbZcY9EAUUk
 packFolder: extrasunguilded
 shortcode: cellamathorofarophen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

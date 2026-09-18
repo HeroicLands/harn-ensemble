@@ -9,7 +9,6 @@ name:
 id: 1ooH3VgPLr3QKJMU
 packFolder: extrasguards
 shortcode: veterankorbinofwulverdy
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -119,7 +118,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1

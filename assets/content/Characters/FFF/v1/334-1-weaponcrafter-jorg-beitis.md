@@ -9,9 +9,8 @@ name:
 id: xCn0clbStVq5JJZh
 packFolder: fffguilded
 shortcode: jorgbeitis
-img: images/fffv1/token/FFF_334-1_Weaponcrafter.png
-portrait: images/fffv1/FFF_334-1_Weaponcrafter.jpg
-tokenImg: images/fffv1/token/FFF_334-1_Weaponcrafter.png
+img: images/fffv1/token/fff3341tok.png
+portrait: images/fffv1/fff3341.jpg
 type: being
 social:
   occupation: Weaponcrafter

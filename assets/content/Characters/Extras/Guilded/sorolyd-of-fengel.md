@@ -9,7 +9,6 @@ name:
 id: 23mjFY2g71jJ8RNL
 packFolder: extrasguilded
 shortcode: sorolydoffengel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miner

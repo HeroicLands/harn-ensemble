@@ -9,7 +9,6 @@ name:
 id: YCTccXgN38sm3nZq
 packFolder: extrasguilded
 shortcode: halmarcandofmar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Physician
@@ -104,13 +103,13 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - name: Necklace, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 4800
         weight: 0.25
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2
@@ -120,7 +119,7 @@ hm3:
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1

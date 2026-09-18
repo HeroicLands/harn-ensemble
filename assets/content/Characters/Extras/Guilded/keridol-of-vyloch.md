@@ -9,7 +9,6 @@ name:
 id: qjhyvyPljZ45nx6l
 packFolder: extrasguilded
 shortcode: keridolofvyloch
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

@@ -9,9 +9,8 @@ name:
 id: XbtouNxhhTn7NMUw
 packFolder: fffguilded
 shortcode: barrisofgorn
-img: images/fffv1/token/FFF_311-1_Hideworker.png
-portrait: images/fffv1/FFF_311-1_Hideworker.jpg
-tokenImg: images/fffv1/token/FFF_311-1_Hideworker.png
+img: images/fffv1/token/fff3111tok.png
+portrait: images/fffv1/fff3111.jpg
 type: being
 social:
   occupation: Hideworker

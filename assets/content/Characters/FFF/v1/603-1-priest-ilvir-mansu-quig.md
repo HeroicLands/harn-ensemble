@@ -9,9 +9,8 @@ name:
 id: a77bAdISmJuD2xNf
 packFolder: fffclergy
 shortcode: mansuquig
-img: images/fffv1/token/FFF_603-1_Priest_Ilvir.png
-portrait: images/fffv1/FFF_603-1_Priest_Ilvir.jpg
-tokenImg: images/fffv1/token/FFF_603-1_Priest_Ilvir.png
+img: images/fffv1/token/fff6031tok.png
+portrait: images/fffv1/fff6031.jpg
 type: being
 social:
   occupation: Ilviran Priest

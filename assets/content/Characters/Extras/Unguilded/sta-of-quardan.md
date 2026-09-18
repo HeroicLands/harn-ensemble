@@ -9,7 +9,6 @@ name:
 id: cQncHWe7z6NEJI2Z
 packFolder: extrasunguilded
 shortcode: staofquardan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

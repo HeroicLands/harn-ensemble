@@ -9,9 +9,8 @@ name:
 id: wTSGybbTCUf7Xdgi
 packFolder: fffguilded
 shortcode: rybrynofdara
-img: images/fffv1/token/FFF_332-3_Unguilded_Thief.png
-portrait: images/fffv1/FFF_332-3_Unguilded_Thief.jpg
-tokenImg: images/fffv1/token/FFF_332-3_Unguilded_Thief.png
+img: images/fffv1/token/fff3323tok.png
+portrait: images/fffv1/fff3323.jpg
 type: being
 social:
   occupation: Unguilded thief

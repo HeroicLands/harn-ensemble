@@ -9,9 +9,8 @@ name:
 id: FFlbxLmRBPnYXtRh
 packFolder: fffguilded
 shortcode: fiskhorval
-img: images/fffv1/token/FFF_315-2_Litigant.png
-portrait: images/fffv1/FFF_315-2_Litigant.jpg
-tokenImg: images/fffv1/token/FFF_315-2_Litigant.png
+img: images/fffv1/token/fff3152tok.png
+portrait: images/fffv1/fff3152.jpg
 type: being
 social:
   occupation: Lawspeaker

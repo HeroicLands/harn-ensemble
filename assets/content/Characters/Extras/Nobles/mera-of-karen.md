@@ -9,7 +9,6 @@ name:
 id: 8EpYTvg3gnA51kjz
 packFolder: extrasnobles
 shortcode: meraofkaren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium
@@ -114,7 +113,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Anklet, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 5
         weight: 0.125
@@ -122,14 +121,14 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.05
     - { shortcode: pipesmokin, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 48
         weight: 1

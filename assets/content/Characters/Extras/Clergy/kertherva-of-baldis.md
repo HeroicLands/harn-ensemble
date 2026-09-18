@@ -9,7 +9,6 @@ name:
 id: mExfPN6yMYdFaRNO
 packFolder: extrasclergy
 shortcode: kerthervaofbaldis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

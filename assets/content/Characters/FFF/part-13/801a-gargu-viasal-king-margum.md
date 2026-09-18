@@ -9,9 +9,9 @@ name:
 id: 4l4ShRsH8Yvl62l0
 packFolder: fffnonhumans
 shortcode: margum
-img: images/fff-13/FFF_801a_Gargu-Viasal_King-headshot.webp
-portrait: images/fff-13/FFF_801a_Gargu-Viasal_King.webp
-tokenImg: images/fff-13/FFF_801a_Gargu-Viasal_King-token.webp
+img: images/fff-13/fff801ahead.webp
+portrait: images/fff-13/fff801a.webp
+tokenImg: images/fff-13/fff801atok.webp
 type: being
 social:
   occupation: King
@@ -122,7 +122,7 @@ hm3:
     - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

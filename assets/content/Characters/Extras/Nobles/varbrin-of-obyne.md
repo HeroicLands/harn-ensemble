@@ -9,7 +9,6 @@ name:
 id: WgdVHWWBQHBs5GTO
 packFolder: extrasnobles
 shortcode: varbrinofobyne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

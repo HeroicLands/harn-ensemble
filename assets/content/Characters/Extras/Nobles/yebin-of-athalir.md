@@ -9,7 +9,6 @@ name:
 id: 5QqQGdWcSeK2tR8K
 packFolder: extrasnobles
 shortcode: yebinofathalir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

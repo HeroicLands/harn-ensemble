@@ -9,7 +9,6 @@ name:
 id: 8Ahh4KAQa8AVYZQE
 packFolder: extrasguilded
 shortcode: saiofclean
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist

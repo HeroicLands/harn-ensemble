@@ -9,7 +9,6 @@ name:
 id: pDFf0iRah5MFVF9I
 packFolder: extrasserfs
 shortcode: josrathbarainofbel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

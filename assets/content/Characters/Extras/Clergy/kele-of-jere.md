@@ -9,7 +9,6 @@ name:
 id: lFYWs73hcKys63aa
 packFolder: extrasclergy
 shortcode: keleofjere
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

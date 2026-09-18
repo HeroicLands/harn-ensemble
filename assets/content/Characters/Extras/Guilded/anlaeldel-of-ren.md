@@ -9,7 +9,6 @@ name:
 id: pBwtWfbtusKrB27u
 packFolder: extrasguilded
 shortcode: anlaeldelofren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter
@@ -104,7 +103,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.25

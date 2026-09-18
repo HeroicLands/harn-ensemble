@@ -9,7 +9,6 @@ name:
 id: X9zEaOVeLyU7qAba
 packFolder: extrasguilded
 shortcode: gralofrikarion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Physician

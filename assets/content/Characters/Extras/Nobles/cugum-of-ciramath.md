@@ -9,7 +9,6 @@ name:
 id: vcnDI8KU1VgRVqGZ
 packFolder: extrasnobles
 shortcode: cugumofciramath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

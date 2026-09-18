@@ -9,7 +9,6 @@ name:
 id: lApXLcA7cFm2u2yi
 packFolder: extrasguilded
 shortcode: tomusofvaben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker

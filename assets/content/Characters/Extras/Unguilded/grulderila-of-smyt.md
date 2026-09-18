@@ -9,7 +9,6 @@ name:
 id: 1hsjZre2NTtqSeTM
 packFolder: extrasunguilded
 shortcode: grulderilaofsmyt
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

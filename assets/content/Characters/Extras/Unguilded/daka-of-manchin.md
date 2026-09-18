@@ -9,7 +9,6 @@ name:
 id: kyZlHhGNZ5TKjd2Y
 packFolder: extrasunguilded
 shortcode: dakaofmanchin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

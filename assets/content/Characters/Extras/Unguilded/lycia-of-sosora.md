@@ -9,7 +9,6 @@ name:
 id: Jeuh7ALxQdj1IMCs
 packFolder: extrasunguilded
 shortcode: lyciaofsosora
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

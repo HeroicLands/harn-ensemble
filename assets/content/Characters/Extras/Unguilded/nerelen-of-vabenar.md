@@ -9,7 +9,6 @@ name:
 id: nRV1ywajod6JBs0o
 packFolder: extrasunguilded
 shortcode: nerelenofvabenar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

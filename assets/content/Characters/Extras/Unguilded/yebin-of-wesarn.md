@@ -9,7 +9,6 @@ name:
 id: 0z2AppmS7xndyGGV
 packFolder: extrasunguilded
 shortcode: yebinofwesarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

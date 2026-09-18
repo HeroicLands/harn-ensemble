@@ -9,9 +9,8 @@ name:
 id: 9o0fxrdxnNpPstOe
 packFolder: fffnobles
 shortcode: sirsamuelofzoben
-img: images/fffv1/token/FFF_507-2_Fighting_Order_MH.png
-portrait: images/fffv1/FFF_507-2_Fighting_Order_MH.jpg
-tokenImg: images/fffv1/token/FFF_507-2_Fighting_Order_MH.png
+img: images/fffv1/token/fff5072tok.png
+portrait: images/fffv1/fff5072.jpg
 type: being
 social:
   occupation: Knight/Spy

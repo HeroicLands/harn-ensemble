@@ -9,9 +9,8 @@ name:
 id: UChsLQBJKBQG7CpD
 packFolder: fffunguilded
 shortcode: digger
-img: images/fffv1/token/FFF_423-1_Urban_Poor.png
-portrait: images/fffv1/FFF_423-1_Urban_Poor.jpg
-tokenImg: images/fffv1/token/FFF_423-1_Urban_Poor.png
+img: images/fffv1/token/fff4231tok.png
+portrait: images/fffv1/fff4231.jpg
 type: being
 social:
   occupation: Day labourer

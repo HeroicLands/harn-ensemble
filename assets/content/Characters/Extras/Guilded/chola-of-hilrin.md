@@ -9,7 +9,6 @@ name:
 id: mxSBGPS3cgKlqZvp
 packFolder: extrasguilded
 shortcode: cholaofhilrin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -104,14 +103,14 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Uthermas of Okrenel for 82d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: flutewoode, type: miscgear }
     - { shortcode: lute, type: miscgear }
     - name: Recorder
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 4
         weight: 0.5

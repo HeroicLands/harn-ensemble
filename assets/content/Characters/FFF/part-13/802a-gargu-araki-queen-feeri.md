@@ -9,9 +9,9 @@ name:
 id: q3CWI4spzMWAUE77
 packFolder: fffnonhumans
 shortcode: feeri
-img: images/fff-13/FFF_802a_Gargu-Araki_Queen-headshot.webp
-portrait: images/fff-13/FFF_802a_Gargu-Araki_Queen.webp
-tokenImg: images/fff-13/FFF_802a_Gargu-Araki_Queen-token.webp
+img: images/fff-13/fff802ahead.webp
+portrait: images/fff-13/fff802a.webp
+tokenImg: images/fff-13/fff802atok.webp
 type: being
 social:
   occupation: Queen
@@ -111,7 +111,7 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

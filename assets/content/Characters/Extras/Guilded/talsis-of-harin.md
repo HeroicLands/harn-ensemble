@@ -9,7 +9,6 @@ name:
 id: hqbFH0q1KgkD1x1C
 packFolder: extrasguilded
 shortcode: talsisofharin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter
@@ -104,7 +103,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Broach, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

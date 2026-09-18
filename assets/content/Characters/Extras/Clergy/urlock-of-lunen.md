@@ -9,7 +9,6 @@ name:
 id: QxwYzLRZVH7MeleG
 packFolder: extrasclergy
 shortcode: urlockoflunen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem
@@ -131,7 +130,7 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 75
         weight: 0.5

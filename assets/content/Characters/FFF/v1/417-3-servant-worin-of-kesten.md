@@ -9,9 +9,8 @@ name:
 id: vLZajD1ySS1AoUHR
 packFolder: fffunguilded
 shortcode: worinofkesten
-img: images/fffv1/token/FFF_417-3_Servant.png
-portrait: images/fffv1/FFF_417-3_Servant.jpg
-tokenImg: images/fffv1/token/FFF_417-3_Servant.png
+img: images/fffv1/token/fff4173tok.png
+portrait: images/fffv1/fff4173.jpg
 type: being
 social:
   occupation: Servant

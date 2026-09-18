@@ -9,7 +9,6 @@ name:
 id: 8mPnijIWrzng5Xmu
 packFolder: extrasunguilded
 shortcode: pirisofyorlis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

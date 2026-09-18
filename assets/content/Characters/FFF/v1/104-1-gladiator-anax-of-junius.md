@@ -9,9 +9,8 @@ name:
 id: uqI4EAEZSpu2tj3v
 packFolder: fffmilitary
 shortcode: anaxofjunius
-img: images/fffv1/token/FFF_104-1_Gladiator.png
-portrait: images/fffv1/FFF_104-1_Gladiator.jpg
-tokenImg: images/fffv1/token/FFF_104-1_Gladiator.png
+img: images/fffv1/token/fff1041tok.png
+portrait: images/fffv1/fff1041.jpg
 type: being
 social:
   occupation: Manservant

@@ -9,7 +9,6 @@ name:
 id: xGxaLyyt1NQMwgYo
 packFolder: extrasguilded
 shortcode: sheofgwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper

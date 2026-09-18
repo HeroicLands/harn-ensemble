@@ -9,9 +9,8 @@ name:
 id: HWc0GmXxH3cKR2B4
 packFolder: fffguilded
 shortcode: inaraserra
-img: images/fffv1/token/FFF_307-1_Courtesan.png
-portrait: images/fffv1/FFF_307-1_Courtesan.jpg
-tokenImg: images/fffv1/token/FFF_307-1_Courtesan.png
+img: images/fffv1/token/fff3071tok.png
+portrait: images/fffv1/fff3071.jpg
 type: being
 social:
   occupation: Courtesan

@@ -9,7 +9,6 @@ name:
 id: D0e1NawUbCO0Bcge
 packFolder: extrasunguilded
 shortcode: angwenofcelluin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

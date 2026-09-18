@@ -9,7 +9,6 @@ name:
 id: UddzsCAUsmWroNwb
 packFolder: extrasunguilded
 shortcode: anlaelofaelin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Shortbow

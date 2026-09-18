@@ -9,7 +9,6 @@ name:
 id: 4a6MZQiIiWwrTjfR
 packFolder: extrasguilded
 shortcode: gineofsar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -108,7 +107,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.01

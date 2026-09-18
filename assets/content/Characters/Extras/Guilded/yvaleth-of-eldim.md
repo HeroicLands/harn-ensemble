@@ -9,7 +9,6 @@ name:
 id: rIoeR08mKlAq5EZh
 packFolder: extrasguilded
 shortcode: yvalethofeldim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

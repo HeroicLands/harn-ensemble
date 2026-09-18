@@ -9,7 +9,6 @@ name:
 id: 9kn0HDiIv5iOG5fq
 packFolder: extrasserfs
 shortcode: geacelsisofduplo
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

@@ -9,9 +9,8 @@ name:
 id: Dgri4vubIECwxvd7
 packFolder: fffguilded
 shortcode: husraasofkjalis
-img: images/fffv1/token/FFF_329-1_Shipwright.png
-portrait: images/fffv1/FFF_329-1_Shipwright.jpg
-tokenImg: images/fffv1/token/FFF_329-1_Shipwright.png
+img: images/fffv1/token/fff3291tok.png
+portrait: images/fffv1/fff3291.jpg
 type: being
 social:
   occupation: Shipwright

@@ -9,7 +9,6 @@ name:
 id: CoP38YVRTLarZHoO
 packFolder: extrasmages
 shortcode: boranaofnemirin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Savorya**"
@@ -129,7 +128,7 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Runestones, Set
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 40
         weight: 2

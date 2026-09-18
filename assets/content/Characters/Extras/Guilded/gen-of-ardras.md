@@ -9,7 +9,6 @@ name:
 id: LhNJ1ET5z2DSssdX
 packFolder: extrasguilded
 shortcode: genofardras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Charcoaler
@@ -102,7 +101,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Axe, wood handle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 12
         weight: 3
@@ -110,7 +109,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.25

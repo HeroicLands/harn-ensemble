@@ -9,7 +9,6 @@ name:
 id: QAcbmXLJ9nijhuVS
 packFolder: extrasclergy
 shortcode: moskilofparion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

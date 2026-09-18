@@ -9,7 +9,6 @@ name:
 id: YaFYlqo7spPM98jG
 packFolder: extrasguards
 shortcode: captainjellinofsunis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

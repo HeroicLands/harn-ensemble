@@ -9,7 +9,6 @@ name:
 id: Wi88DmdIhmn0Tr5H
 packFolder: extrasnobles
 shortcode: marwinofcharin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: BrdSwd, type: weapongear }
     - name: Anklet, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 120
         weight: 0.125
@@ -120,7 +119,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 48
         weight: 1

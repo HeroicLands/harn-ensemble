@@ -9,7 +9,6 @@ name:
 id: Mjvs6a4C0uq5m99B
 packFolder: extrasclergy
 shortcode: chimaofavordan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

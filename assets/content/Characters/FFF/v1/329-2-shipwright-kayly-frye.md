@@ -9,9 +9,8 @@ name:
 id: iXr9ICXqiaPxI71J
 packFolder: fffguilded
 shortcode: kaylyfrye
-img: images/fffv1/token/FFF_329-2_Shipwright.png
-portrait: images/fffv1/FFF_329-2_Shipwright.jpg
-tokenImg: images/fffv1/token/FFF_329-2_Shipwright.png
+img: images/fffv1/token/fff3292tok.png
+portrait: images/fffv1/fff3292.jpg
 type: being
 social:
   occupation: Shipwright
@@ -163,7 +162,7 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - name: Intuition (F1)
       type: psionic
-      img: systems/hm3/images/icons/svg/psionics.svg
+      img: systems/sohl/assets/icons/noun/psionics.svg
       system:
         skillBase.value: 15
         skillBase.formula: "@aur,@aur,@wil,Tai,Tarael"

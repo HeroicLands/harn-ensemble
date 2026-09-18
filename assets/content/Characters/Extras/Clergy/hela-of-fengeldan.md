@@ -9,7 +9,6 @@ name:
 id: RKqZc9uuT96CCV4t
 packFolder: extrasclergy
 shortcode: helaoffengeldan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

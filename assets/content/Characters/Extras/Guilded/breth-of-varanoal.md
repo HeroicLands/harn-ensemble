@@ -9,7 +9,6 @@ name:
 id: XAetsqafK28MkAy1
 packFolder: extrasguilded
 shortcode: brethofvaranoal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

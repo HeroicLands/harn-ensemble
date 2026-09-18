@@ -9,7 +9,6 @@ name:
 id: a6GKjKixjNYrw6CH
 packFolder: extrasunguilded
 shortcode: arabithofaikare
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

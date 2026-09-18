@@ -9,7 +9,6 @@ name:
 id: mG6YuH5X4CExDGuG
 packFolder: extrasclergy
 shortcode: areenofirin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

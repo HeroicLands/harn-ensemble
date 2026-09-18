@@ -9,7 +9,6 @@ name:
 id: 5VxxpHh1RVvgYhmi
 packFolder: extrasclergy
 shortcode: helisaoflorieldesaan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

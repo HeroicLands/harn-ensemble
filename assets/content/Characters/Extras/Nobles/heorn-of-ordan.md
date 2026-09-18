@@ -9,7 +9,6 @@ name:
 id: YsFDmMC5vafV1sS0
 packFolder: extrasnobles
 shortcode: heornofordan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot
@@ -110,7 +109,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Stargat of Arani for 820d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

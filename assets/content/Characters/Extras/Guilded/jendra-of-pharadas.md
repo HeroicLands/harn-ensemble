@@ -9,7 +9,6 @@ name:
 id: kyF01cwGjh58yodZ
 packFolder: extrasguilded
 shortcode: jendraofpharadas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

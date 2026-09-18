@@ -9,7 +9,6 @@ name:
 id: QSqzXqci12X4V0sf
 packFolder: extrasguilded
 shortcode: andyofuro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.01
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Leggins, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }

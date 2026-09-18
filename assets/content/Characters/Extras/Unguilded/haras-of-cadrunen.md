@@ -9,7 +9,6 @@ name:
 id: yQs7W8gvx3tyCc6j
 packFolder: extrasunguilded
 shortcode: harasofcadrunen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

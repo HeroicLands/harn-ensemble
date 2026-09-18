@@ -9,9 +9,8 @@ name:
 id: 57qWk1toAOdwLZ27
 packFolder: fffunguilded
 shortcode: filtheflutist
-img: images/fffv1/token/FFF_406-1_Farmer.png
-portrait: images/fffv1/FFF_406-1_Farmer.jpg
-tokenImg: images/fffv1/token/FFF_406-1_Farmer.png
+img: images/fffv1/token/fff4061tok.png
+portrait: images/fffv1/fff4061.jpg
 type: being
 social:
   occupation: Farmer

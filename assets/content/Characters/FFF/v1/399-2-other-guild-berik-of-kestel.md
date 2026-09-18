@@ -9,9 +9,8 @@ name:
 id: tdj4wiuYXKyinfOG
 packFolder: fffguilded
 shortcode: berikofkestel
-img: images/fffv1/token/FFF_399-2_Other_Guild.png
-portrait: images/fffv1/FFF_399-2_Other_Guild.jpg
-tokenImg: images/fffv1/token/FFF_399-2_Other_Guild.png
+img: images/fffv1/token/fff3992tok.png
+portrait: images/fffv1/fff3992.jpg
 type: being
 social:
   occupation: Other (Guild) - Child
@@ -119,7 +118,7 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - name: Belt, rope
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: SSton, type: missilegear, name: Stone (Sling), system: { quantity: 20 } }

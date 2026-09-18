@@ -9,7 +9,6 @@ name:
 id: bgqxFt4DfM5Sf2Wi
 packFolder: extrasclergy
 shortcode: piriaoffengeldor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

@@ -9,7 +9,6 @@ name:
 id: cZRPadbgt6lterav
 packFolder: extrasclergy
 shortcode: sarinaofmerlesque
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

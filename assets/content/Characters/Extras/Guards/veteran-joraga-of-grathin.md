@@ -9,7 +9,6 @@ name:
 id: xQhlJXB8HM8YUwWv
 packFolder: extrasguards
 shortcode: veteranjoragaofgrathin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

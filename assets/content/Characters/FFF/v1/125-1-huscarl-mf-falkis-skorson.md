@@ -9,9 +9,8 @@ name:
 id: 8op3vcqRYg32R2Bb
 packFolder: fffmilitary
 shortcode: falkisskorson
-img: images/fffv1/token/FFF_125-1_Huscarl_MF.png
-portrait: images/fffv1/FFF_125-1_Huscarl_MF.jpg
-tokenImg: images/fffv1/token/FFF_125-1_Huscarl_MF.png
+img: images/fffv1/token/fff1251tok.png
+portrait: images/fffv1/fff1251.jpg
 type: being
 social:
   occupation: Huscarl (MF)

@@ -9,9 +9,8 @@ name:
 id: LichuZPDbvMhBsKm
 packFolder: fffguilded
 shortcode: drounofintrel
-img: images/fffv1/token/FFF_317-1_Mason.png
-portrait: images/fffv1/FFF_317-1_Mason.jpg
-tokenImg: images/fffv1/token/FFF_317-1_Mason.png
+img: images/fffv1/token/fff3171tok.png
+portrait: images/fffv1/fff3171.jpg
 type: being
 social:
   occupation: Mason

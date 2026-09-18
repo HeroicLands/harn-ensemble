@@ -9,7 +9,6 @@ name:
 id: mradoNhpgryhdLn3
 packFolder: extrasclergy
 shortcode: baeofonpartuna
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

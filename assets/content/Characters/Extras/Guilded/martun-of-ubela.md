@@ -9,7 +9,6 @@ name:
 id: a38xtwYPaZ7i0Yih
 packFolder: extrasguilded
 shortcode: martunofubela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Timberwright

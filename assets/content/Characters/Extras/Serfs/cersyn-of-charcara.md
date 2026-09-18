@@ -9,7 +9,6 @@ name:
 id: HqJJUxoLw8KGOvNf
 packFolder: extrasserfs
 shortcode: cersynofcharcara
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

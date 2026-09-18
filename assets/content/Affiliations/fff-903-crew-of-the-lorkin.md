@@ -4,7 +4,7 @@ id: mdK3o95SY1otZiLK
 type: affiliation
 subType: venture
 shortcode: fffcrewlorkin
-img: ""
+img: null
 name:
   full: Crew of the Lorkin
   aliases: []

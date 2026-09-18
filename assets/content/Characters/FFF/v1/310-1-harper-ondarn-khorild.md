@@ -9,9 +9,8 @@ name:
 id: UHhx7MSVKR5Zszng
 packFolder: fffguilded
 shortcode: ondarnkhorild
-img: images/fffv1/token/FFF_310-1_Harper.png
-portrait: images/fffv1/FFF_310-1_Harper.jpg
-tokenImg: images/fffv1/token/FFF_310-1_Harper.png
+img: images/fffv1/token/fff3101tok.png
+portrait: images/fffv1/fff3101.jpg
 type: being
 social:
   occupation: Harper

@@ -9,7 +9,6 @@ name:
 id: MYajmOR41XiQYXeV
 packFolder: extrasserfs
 shortcode: pamjulofpendech
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

@@ -9,9 +9,8 @@ name:
 id: 4JcndVkB4LNsvkyY
 packFolder: fffunguilded
 shortcode: ortillaofislwyn
-img: images/fffv1/token/FFF_417-4_Domestic.png
-portrait: images/fffv1/FFF_417-4_Domestic.jpg
-tokenImg: images/fffv1/token/FFF_417-4_Domestic.png
+img: images/fffv1/token/fff4174tok.png
+portrait: images/fffv1/fff4174.jpg
 type: being
 social:
   occupation: Chief domestic
@@ -178,7 +177,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Meat Cleaver
       type: weapongear
-      img: systems/hm3/images/icons/svg/axe.svg
+      img: systems/sohl/assets/icons/other/axe.svg
       system:
         notes: When working in kitchen
         value: 72

@@ -9,7 +9,6 @@ name:
 id: FYx3PMKqif3aUrbQ
 packFolder: extrasguilded
 shortcode: poldoelofsediel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

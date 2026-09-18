@@ -9,7 +9,6 @@ name:
 id: 3G55dD18TNOpyvVJ
 packFolder: extrasguilded
 shortcode: gorsineofekai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -106,7 +105,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 30
         weight: 0.03

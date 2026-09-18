@@ -9,7 +9,6 @@ name:
 id: b2uEHjrfdUmSHbPu
 packFolder: extrasmages
 shortcode: heronofeldesarlis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Peleahn*"

@@ -9,7 +9,6 @@ name:
 id: Uq2uTqYsWiT9jhhW
 packFolder: extrasunguilded
 shortcode: asharlathofeylosan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sage/Tutor
@@ -105,7 +104,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Kodar of Hosane for 579d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

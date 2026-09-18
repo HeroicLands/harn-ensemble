@@ -9,7 +9,6 @@ name:
 id: l14M8vLnalnzuLRV
 packFolder: extrasguilded
 shortcode: kerilaofnarass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

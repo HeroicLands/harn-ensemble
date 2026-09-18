@@ -9,7 +9,6 @@ name:
 id: yFatEyBRBd9DSYEb
 packFolder: extrasguilded
 shortcode: gweleofsel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian

@@ -9,7 +9,6 @@ name:
 id: 3HPnjwzNg3j2cASa
 packFolder: extrasunguilded
 shortcode: lamofeylosane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

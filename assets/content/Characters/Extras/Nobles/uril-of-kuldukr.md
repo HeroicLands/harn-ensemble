@@ -9,7 +9,6 @@ name:
 id: WC6BtOn4G8dSDiN3
 packFolder: extrasnobles
 shortcode: urilofkuldukr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard
@@ -116,7 +115,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 30
         weight: 0.03

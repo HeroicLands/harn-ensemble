@@ -9,7 +9,6 @@ name:
 id: HtOIA65nKPA0jYc5
 packFolder: extrasnobles
 shortcode: ewepherephenofaranc
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

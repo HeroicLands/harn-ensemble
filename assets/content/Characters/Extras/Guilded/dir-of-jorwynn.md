@@ -9,7 +9,6 @@ name:
 id: nZjA2Z6wUI1RM6iE
 packFolder: extrasguilded
 shortcode: dirofjorwynn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

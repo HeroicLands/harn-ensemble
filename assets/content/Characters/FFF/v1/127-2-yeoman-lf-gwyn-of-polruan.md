@@ -9,9 +9,8 @@ name:
 id: tCS1ybQdOAdXw8qP
 packFolder: fffmilitary
 shortcode: gwynofpolruan
-img: images/fffv1/token/FFF_127-2_Yeoman_LF.png
-portrait: images/fffv1/FFF_127-2_Yeoman_LF.jpg
-tokenImg: images/fffv1/token/FFF_127-2_Yeoman_LF.png
+img: images/fffv1/token/fff1272tok.png
+portrait: images/fffv1/fff1272.jpg
 type: being
 social:
   occupation: Yeoman (LF)

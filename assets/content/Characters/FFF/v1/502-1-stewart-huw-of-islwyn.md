@@ -9,9 +9,8 @@ name:
 id: LrbNBVZPSC528SpZ
 packFolder: fffnobles
 shortcode: huwofislwyn
-img: images/fffv1/token/FFF_502-1_Stewart.png
-portrait: images/fffv1/FFF_502-1_Stewart.jpg
-tokenImg: images/fffv1/token/FFF_502-1_Stewart.png
+img: images/fffv1/token/fff5021tok.png
+portrait: images/fffv1/fff5021.jpg
 type: being
 social:
   occupation: Steward

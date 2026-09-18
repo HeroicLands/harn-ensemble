@@ -4,7 +4,7 @@ id: tcM3VLVYfSXzCDFd
 type: affiliation
 subType: venture
 shortcode: fffagntscrwn
-img: ""
+img: null
 name:
   full: Agents of the Crown
   aliases: []

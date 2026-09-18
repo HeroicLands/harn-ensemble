@@ -9,7 +9,6 @@ name:
 id: Hoi0GqwPwkTOh6OE
 packFolder: extrasguards
 shortcode: karienoftal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -113,7 +112,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Aldar of Geldor for 506d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

@@ -9,7 +9,6 @@ name:
 id: bbhaOS0CgHUMu1ZK
 packFolder: extrasnobles
 shortcode: heralofvarael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

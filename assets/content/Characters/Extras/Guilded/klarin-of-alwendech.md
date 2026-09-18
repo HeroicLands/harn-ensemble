@@ -9,7 +9,6 @@ name:
 id: tHJ5djjwnp8XCAkb
 packFolder: extrasguilded
 shortcode: klarinofalwendech
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Astrologer
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: backbagmed, type: containergear }
     - name: Comb, ivory
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 20
         weight: 0.1
@@ -112,7 +111,7 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2
@@ -120,7 +119,7 @@ hm3:
     - { shortcode: spoonpewte, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 75
         weight: 0.5

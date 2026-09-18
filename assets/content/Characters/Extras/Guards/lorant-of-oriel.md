@@ -9,7 +9,6 @@ name:
 id: aVU49cIzSoWlGAPp
 packFolder: extrasguards
 shortcode: lorantoforiel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

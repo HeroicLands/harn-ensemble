@@ -9,9 +9,8 @@ name:
 id: wxCq5wuoFDXB55JX
 packFolder: fffbarbarians
 shortcode: mugapsawei
-img: images/fffv1/token/FFF_206-2_Hunter_Anoa.png
-portrait: images/fffv1/FFF_206-2_Hunter_Anoa.jpg
-tokenImg: images/fffv1/token/FFF_206-2_Hunter_Anoa.png
+img: images/fffv1/token/fff2062tok.png
+portrait: images/fffv1/fff2062.jpg
 type: being
 social:
   occupation: Hunter

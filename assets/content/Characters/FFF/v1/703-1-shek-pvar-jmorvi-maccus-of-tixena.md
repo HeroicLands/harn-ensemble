@@ -9,9 +9,8 @@ name:
 id: cNLfCZnFAc0oKHjd
 packFolder: fffmages
 shortcode: maccusoftixena
-img: images/fffv1/token/FFF_703-1_Shek_Pvar_Jmorvi.png
-portrait: images/fffv1/FFF_703-1_Shek_Pvar_Jmorvi.jpg
-tokenImg: images/fffv1/token/FFF_703-1_Shek_Pvar_Jmorvi.png
+img: images/fffv1/token/fff7031tok.png
+portrait: images/fffv1/fff7031.jpg
 type: being
 social:
   occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)
@@ -177,13 +176,13 @@ hm3:
     - { shortcode: sightofeneldir, type: spell }
     - name: Perfect Casting (unique spell)
       type: spell
-      img: systems/hm3/images/icons/svg/anvil.svg
+      img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
       system:
         convocation: Jmorvi
         level: 2
     - name: Purification of Silver (unique spell)
       type: spell
-      img: systems/hm3/images/icons/svg/anvil.svg
+      img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
       system:
         convocation: Jmorvi
         level: 3

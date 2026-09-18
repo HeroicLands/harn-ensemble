@@ -9,7 +9,6 @@ name:
 id: M7QXKSOFk1UJmnrT
 packFolder: extrasserfs
 shortcode: kaiofstokos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

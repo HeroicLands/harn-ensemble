@@ -9,7 +9,6 @@ name:
 id: pRd1ZULSkixFXc9Y
 packFolder: extrasguilded
 shortcode: eldaofdethes
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

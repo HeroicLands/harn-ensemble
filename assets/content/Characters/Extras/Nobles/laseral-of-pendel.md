@@ -9,7 +9,6 @@ name:
 id: tMxgzG7HNoWmI0Db
 packFolder: extrasnobles
 shortcode: laseralofpendel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

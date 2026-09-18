@@ -9,7 +9,6 @@ name:
 id: h21BxamTMKWdtlnC
 packFolder: extrasmages
 shortcode: masynofbrid
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Jmorvi*"
@@ -117,7 +116,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Putrid Bowl of Erag-Kanau
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0
@@ -125,13 +124,13 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 10
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2

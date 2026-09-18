@@ -9,9 +9,8 @@ name:
 id: vqAkD6vWfrDHgzDH
 packFolder: fffguilded
 shortcode: pagurisofspehmonk
-img: images/fffv1/token/FFF_328-1_Seaman.png
-portrait: images/fffv1/FFF_328-1_Seaman.jpg
-tokenImg: images/fffv1/token/FFF_328-1_Seaman.png
+img: images/fffv1/token/fff3281tok.png
+portrait: images/fffv1/fff3281.jpg
 type: being
 social:
   occupation: Seaman

@@ -9,9 +9,8 @@ name:
 id: oiUcJk2TCeTO6X26
 packFolder: fffmilitary
 shortcode: dafydstahlman
-img: images/fffv1/token/FFF_116-1_Mercenary_MH.png
-portrait: images/fffv1/FFF_116-1_Mercenary_MH.jpg
-tokenImg: images/fffv1/token/FFF_116-1_Mercenary_MH.png
+img: images/fffv1/token/fff1161tok.png
+portrait: images/fffv1/fff1161.jpg
 type: being
 social:
   occupation: Mercenary (MH)

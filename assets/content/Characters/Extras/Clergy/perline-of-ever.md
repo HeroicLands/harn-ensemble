@@ -9,7 +9,6 @@ name:
 id: 6uI97EvfFbKMQQwN
 packFolder: extrasclergy
 shortcode: perlineofever
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

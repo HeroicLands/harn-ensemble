@@ -9,7 +9,6 @@ name:
 id: W6ixFtpe7PcpcOXg
 packFolder: extrasguilded
 shortcode: vadirynofintrel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Edir of Durnwak for 151d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

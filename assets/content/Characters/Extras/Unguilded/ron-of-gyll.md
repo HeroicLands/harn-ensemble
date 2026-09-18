@@ -9,7 +9,6 @@ name:
 id: yXMMDvoWtObNdaLu
 packFolder: extrasunguilded
 shortcode: ronofgyll
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Fisherman
@@ -108,13 +107,13 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 225
         weight: 0.01
     - name: Fishhooks, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1

@@ -9,7 +9,6 @@ name:
 id: I0t2JuK8EelnAaZW
 packFolder: extrasunguilded
 shortcode: lyciaofrabetts
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman
@@ -108,7 +107,7 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - name: "Debt to Money Lender: Jaga of Esaan for 27d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

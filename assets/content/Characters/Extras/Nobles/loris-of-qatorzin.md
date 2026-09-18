@@ -9,7 +9,6 @@ name:
 id: vzQqdXt0Sn4UcwSF
 packFolder: extrasnobles
 shortcode: lorisofqatorzin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

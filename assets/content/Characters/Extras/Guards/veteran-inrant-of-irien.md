@@ -9,7 +9,6 @@ name:
 id: 4PM6g21QQcRfbmOZ
 packFolder: extrasguards
 shortcode: veteraninrantofirien
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

@@ -9,7 +9,6 @@ name:
 id: i2gSoz06gUaAcUuj
 packFolder: extrasunguilded
 shortcode: houlaofcoselphus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hunter/Trapper

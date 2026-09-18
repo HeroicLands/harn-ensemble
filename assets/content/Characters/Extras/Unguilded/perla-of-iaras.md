@@ -9,7 +9,6 @@ name:
 id: WUiamTNWkWPl4AeT
 packFolder: extrasunguilded
 shortcode: perlaofiaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

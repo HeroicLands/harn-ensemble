@@ -9,7 +9,6 @@ name:
 id: KtG02LilAS3YDDQ6
 packFolder: extrasunguilded
 shortcode: pallisofiribor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

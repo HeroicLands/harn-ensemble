@@ -9,7 +9,6 @@ name:
 id: y6KZbUYdO2fQoRxS
 packFolder: extrasclergy
 shortcode: aramiaofhilrin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

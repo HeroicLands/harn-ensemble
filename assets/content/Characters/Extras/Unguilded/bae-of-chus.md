@@ -9,7 +9,6 @@ name:
 id: BvAHTXI86WQoaAeY
 packFolder: extrasunguilded
 shortcode: baeofchus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

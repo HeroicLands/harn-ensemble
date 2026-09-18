@@ -9,9 +9,9 @@ name:
 id: Df28UjH6GUtBDEX7
 packFolder: fffnonhumans
 shortcode: kaeuck
-img: images/fff-13/FFF_801b_Gargu-Hyeka_King-headshot.webp
-portrait: images/fff-13/FFF_801b_Gargu-Hyeka_King.webp
-tokenImg: images/fff-13/FFF_801b_Gargu-Hyeka_King-token.webp
+img: images/fff-13/fff801bhead.webp
+portrait: images/fff-13/fff801b.webp
+tokenImg: images/fff-13/fff801btok.webp
 type: being
 social:
   occupation: King
@@ -117,7 +117,7 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

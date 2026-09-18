@@ -9,9 +9,8 @@ name:
 id: jAo8s9jZuqDYS5uE
 packFolder: fffbarbarians
 shortcode: canutulachama
-img: images/fffv1/token/FFF_207-1_Shaman_Kath.png
-portrait: images/fffv1/FFF_207-1_Shaman_Kath.jpg
-tokenImg: images/fffv1/token/FFF_207-1_Shaman_Kath.png
+img: images/fffv1/token/fff2071tok.png
+portrait: images/fffv1/fff2071.jpg
 type: being
 social:
   occupation: Shaman

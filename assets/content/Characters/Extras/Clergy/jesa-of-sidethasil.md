@@ -9,7 +9,6 @@ name:
 id: rK0mk7LBZUTk26t3
 packFolder: extrasclergy
 shortcode: jesaofsidethasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

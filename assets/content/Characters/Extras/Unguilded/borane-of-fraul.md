@@ -9,7 +9,6 @@ name:
 id: Qs4zFGgnuCRXKf2v
 packFolder: extrasunguilded
 shortcode: boraneoffraul
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Light

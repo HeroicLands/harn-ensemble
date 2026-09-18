@@ -9,7 +9,6 @@ name:
 id: jqQs93eCDllXVIZZ
 packFolder: extrasserfs
 shortcode: jithanofkai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

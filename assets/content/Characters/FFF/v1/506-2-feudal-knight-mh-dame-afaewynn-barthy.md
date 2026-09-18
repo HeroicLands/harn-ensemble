@@ -9,9 +9,8 @@ name:
 id: Tw7v46qDPFLQrmPJ
 packFolder: fffnobles
 shortcode: dameafaewynnbarthy
-img: images/fffv1/token/FFF_506-2_Feudal_Knight_MH.png
-portrait: images/fffv1/FFF_506-2_Feudal_Knight_MH.jpg
-tokenImg: images/fffv1/token/FFF_506-2_Feudal_Knight_MH.png
+img: images/fffv1/token/fff5062tok.png
+portrait: images/fffv1/fff5062.jpg
 type: being
 social:
   occupation: Knight Bachelor (MH)

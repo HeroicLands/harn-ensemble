@@ -9,7 +9,6 @@ name:
 id: YQHrhH126BF6vQtt
 packFolder: extrasserfs
 shortcode: kelenofartuna
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

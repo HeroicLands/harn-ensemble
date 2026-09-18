@@ -9,7 +9,6 @@ name:
 id: XNOBSOZb1LlWdaNb
 packFolder: extrasunguilded
 shortcode: makalwisofcinbaren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp
@@ -101,7 +100,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Elprequir, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 18
         weight: 0.1

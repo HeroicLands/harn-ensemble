@@ -9,7 +9,6 @@ name:
 id: yaWfSBZOB4UqGpIB
 packFolder: extrasguards
 shortcode: veteranhadahofuro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

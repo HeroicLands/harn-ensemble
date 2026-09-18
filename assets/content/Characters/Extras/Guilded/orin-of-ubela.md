@@ -9,7 +9,6 @@ name:
 id: BW4Wcl5ricFI7kiq
 packFolder: extrasguilded
 shortcode: orinofubela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian

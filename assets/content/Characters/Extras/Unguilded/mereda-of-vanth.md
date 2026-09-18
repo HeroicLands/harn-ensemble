@@ -9,7 +9,6 @@ name:
 id: a79JZWHh6YOkpqh2
 packFolder: extrasunguilded
 shortcode: meredaofvanth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp
@@ -102,7 +101,7 @@ hm3:
     - { shortcode: mirrorbron, type: miscgear }
     - name: Opiates, 1 oz
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 106
         weight: 0.1

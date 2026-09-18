@@ -9,9 +9,8 @@ name:
 id: bAMzqD5qntz3i3Em
 packFolder: fffnobles
 shortcode: sirletoslamrend
-img: images/fffv1/token/FFF_508-1_Knight_Patrician_HH.png
-portrait: images/fffv1/FFF_508-1_Knight_Patrician_HH.jpg
-tokenImg: images/fffv1/token/FFF_508-1_Knight_Patrician_HH.png
+img: images/fffv1/token/fff5081tok.png
+portrait: images/fffv1/fff5081.jpg
 type: being
 social:
   occupation: Patrician Knight

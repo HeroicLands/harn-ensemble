@@ -9,7 +9,6 @@ name:
 id: b6Hn6FeEcqkR2SyD
 packFolder: extrasguilded
 shortcode: pavinofkrollater
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

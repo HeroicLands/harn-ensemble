@@ -9,9 +9,8 @@ name:
 id: NTpfBJMBRsq9IrV9
 packFolder: fffguilded
 shortcode: petryofalloc
-img: images/fffv1/token/FFF_315-1_Litigant.png
-portrait: images/fffv1/FFF_315-1_Litigant.jpg
-tokenImg: images/fffv1/token/FFF_315-1_Litigant.png
+img: images/fffv1/token/fff3151tok.png
+portrait: images/fffv1/fff3151.jpg
 type: being
 social:
   occupation: Litigant

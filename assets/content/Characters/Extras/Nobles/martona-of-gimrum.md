@@ -9,7 +9,6 @@ name:
 id: lHufJK5hi0lyFlXD
 packFolder: extrasnobles
 shortcode: martonaofgimrum
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard
@@ -110,7 +109,7 @@ hm3:
     - { shortcode: PAxe, type: weapongear }
     - name: Armor Repair kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 10

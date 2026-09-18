@@ -9,7 +9,6 @@ name:
 id: YnovGMQmg5DpJYBU
 packFolder: extrasguilded
 shortcode: parmenofbetane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Tentmaker

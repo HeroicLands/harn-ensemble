@@ -9,7 +9,6 @@ name:
 id: O0plpn2EPURscRXZ
 packFolder: extrasguilded
 shortcode: querenelleofgorra
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mason
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Mason's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 36
         weight: 15

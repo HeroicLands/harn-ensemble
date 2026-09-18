@@ -9,7 +9,6 @@ name:
 id: fhDgXeI4pAcAhLWD
 packFolder: extrasguards
 shortcode: veteranjakrowofmerbeda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

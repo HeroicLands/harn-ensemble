@@ -9,7 +9,6 @@ name:
 id: WdNMLA8z7dG038Gy
 packFolder: extrasunguilded
 shortcode: liriamofsar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher

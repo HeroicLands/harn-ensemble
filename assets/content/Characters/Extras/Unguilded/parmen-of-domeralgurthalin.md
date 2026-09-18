@@ -9,7 +9,6 @@ name:
 id: c57Ao4DRnfjLHGrp
 packFolder: extrasunguilded
 shortcode: parmenofdomeralgurthalin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp

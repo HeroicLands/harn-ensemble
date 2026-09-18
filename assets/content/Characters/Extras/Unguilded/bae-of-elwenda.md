@@ -9,7 +9,6 @@ name:
 id: HeECNQ46IYvWd6UH
 packFolder: extrasunguilded
 shortcode: baeofelwenda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

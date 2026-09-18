@@ -9,7 +9,6 @@ name:
 id: ioDH08AssQt3OUPI
 packFolder: extrasserfs
 shortcode: tamythofbalin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

@@ -9,7 +9,6 @@ name:
 id: OyzbrGqp0tWuhQ8w
 packFolder: extrasguilded
 shortcode: tamythofekair
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer

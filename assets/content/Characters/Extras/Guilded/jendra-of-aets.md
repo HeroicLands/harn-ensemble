@@ -9,7 +9,6 @@ name:
 id: 2rq1c38ruOhHPA6y
 packFolder: extrasguilded
 shortcode: jendraofaets
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

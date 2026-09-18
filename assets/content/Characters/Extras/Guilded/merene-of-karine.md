@@ -9,7 +9,6 @@ name:
 id: D8F67vB9uF9N4yHU
 packFolder: extrasguilded
 shortcode: mereneofkarine
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Seaman

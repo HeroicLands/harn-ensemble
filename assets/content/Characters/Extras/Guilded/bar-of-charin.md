@@ -9,7 +9,6 @@ name:
 id: gQXXbSvULx2cfTuw
 packFolder: extrasguilded
 shortcode: barofcharin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hideworker
@@ -107,7 +106,7 @@ hm3:
     - { shortcode: hidesheep, type: miscgear }
     - name: Textilcraft kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 5

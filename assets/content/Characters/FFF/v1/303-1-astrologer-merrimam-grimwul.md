@@ -9,9 +9,8 @@ name:
 id: vH8CEFvFCDQc2AlS
 packFolder: fffguilded
 shortcode: merrimamgrimwul
-img: images/fffv1/token/FFF_303-1_Astrologer.png
-portrait: images/fffv1/FFF_303-1_Astrologer.jpg
-tokenImg: images/fffv1/token/FFF_303-1_Astrologer.png
+img: images/fffv1/token/fff3031tok.png
+portrait: images/fffv1/fff3031.jpg
 type: being
 social:
   occupation: Astrologer

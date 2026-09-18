@@ -9,7 +9,6 @@ name:
 id: nl9NU4nUZbW3m364
 packFolder: extrasunguilded
 shortcode: sylviaofsethasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

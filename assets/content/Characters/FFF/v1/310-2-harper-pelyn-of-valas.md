@@ -9,9 +9,8 @@ name:
 id: UqgarIHQjd1s0Let
 packFolder: fffguilded
 shortcode: pelynofvalas
-img: images/fffv1/token/FFF_310-2_Harper.png
-portrait: images/fffv1/FFF_310-2_Harper.jpg
-tokenImg: images/fffv1/token/FFF_310-2_Harper.png
+img: images/fffv1/token/fff3102tok.png
+portrait: images/fffv1/fff3102.jpg
 type: being
 social:
   occupation: Harper
@@ -213,7 +212,7 @@ hm3:
     - { shortcode: harpjarind, type: miscgear }
     - name: Velvet Harp Bag
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 27 } }

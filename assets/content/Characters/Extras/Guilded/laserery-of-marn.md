@@ -9,7 +9,6 @@ name:
 id: YzUdBLOHEcv89rca
 packFolder: extrasguilded
 shortcode: lasereryofmarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Tentmaker

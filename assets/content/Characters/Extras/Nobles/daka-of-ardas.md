@@ -9,7 +9,6 @@ name:
 id: N9ThcWwxaT4Bgb36
 packFolder: extrasnobles
 shortcode: dakaofardas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald

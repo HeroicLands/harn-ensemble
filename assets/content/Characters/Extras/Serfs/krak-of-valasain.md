@@ -9,7 +9,6 @@ name:
 id: DtkKtjY4XgkdCGdG
 packFolder: extrasserfs
 shortcode: krakofvalasain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

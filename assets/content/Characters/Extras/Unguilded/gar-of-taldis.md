@@ -9,7 +9,6 @@ name:
 id: AUMfoneQ8jZWjHaW
 packFolder: extrasunguilded
 shortcode: garoftaldis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter
@@ -109,7 +108,7 @@ hm3:
     - { shortcode: cagesmwooden, type: miscgear }
     - name: Doshenkana, 10 doses
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 175
         weight: 1
@@ -117,7 +116,7 @@ hm3:
     - { shortcode: lanternmet, type: miscgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.05

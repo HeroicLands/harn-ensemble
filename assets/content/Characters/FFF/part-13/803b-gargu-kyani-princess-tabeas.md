@@ -9,9 +9,9 @@ name:
 id: KBHuaBINAwJLOyIT
 packFolder: fffnonhumans
 shortcode: tabeas
-img: images/fff-13/FFF_803b_Gargu-Kyani_Princess-headshot.webp
-portrait: images/fff-13/FFF_803b_Gargu-Kyani_Princess.webp
-tokenImg: images/fff-13/FFF_803b_Gargu-Kyani_Princess-token.webp
+img: images/fff-13/fff803bhead.webp
+portrait: images/fff-13/fff803b.webp
+tokenImg: images/fff-13/fff803btok.webp
 type: being
 social:
   occupation: Princess
@@ -119,7 +119,7 @@ hm3:
     - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -129,14 +129,14 @@ hm3:
         protection.fire: 3
     - name: Broach, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         notes: Silver with ivory and jet inlay
         value: 30
         weight: 0.03
     - name: Earring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         quantity: 2
         value: 15
@@ -145,7 +145,7 @@ hm3:
     - { shortcode: beltwaist, type: miscgear }
     - name: Sandals, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         value: 8
         weight: 1

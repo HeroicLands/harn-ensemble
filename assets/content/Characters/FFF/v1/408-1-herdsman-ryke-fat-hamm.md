@@ -10,9 +10,8 @@ name:
 id: eINyh83Kik2WzPWJ
 packFolder: fffunguilded
 shortcode: rykefathamm
-img: images/fffv1/token/FFF_408-1_Herdsman.png
-portrait: images/fffv1/FFF_408-1_Herdsman.jpg
-tokenImg: images/fffv1/token/FFF_408-1_Herdsman.png
+img: images/fffv1/token/fff4081tok.png
+portrait: images/fffv1/fff4081.jpg
 type: being
 social:
   occupation: Herdsman/Beggar

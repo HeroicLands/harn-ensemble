@@ -9,7 +9,6 @@ name:
 id: EzQxc1ZLtwsTVj4d
 packFolder: extrasguilded
 shortcode: lanazirofmariborin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright

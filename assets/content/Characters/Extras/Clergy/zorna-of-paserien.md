@@ -9,7 +9,6 @@ name:
 id: ydhIG5wTDb2Ojrvp
 packFolder: extrasclergy
 shortcode: zornaofpaserien
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

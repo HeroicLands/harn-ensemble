@@ -9,7 +9,6 @@ name:
 id: z1VZl0zQ2dbP7sDa
 packFolder: extrasserfs
 shortcode: sepianoflaplacka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

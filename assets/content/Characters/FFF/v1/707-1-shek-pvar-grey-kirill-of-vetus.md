@@ -9,9 +9,8 @@ name:
 id: aUAhUMbDkL0Qu2Xl
 packFolder: fffmages
 shortcode: kirillofvetus
-img: images/fffv1/token/FFF_707-1_Shek_Pvar_Grey.png
-portrait: images/fffv1/FFF_707-1_Shek_Pvar_Grey.jpg
-tokenImg: images/fffv1/token/FFF_707-1_Shek_Pvar_Grey.png
+img: images/fffv1/token/fff7071tok.png
+portrait: images/fffv1/fff7071.jpg
 type: being
 social:
   occupation: Gray Mage

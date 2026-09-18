@@ -9,7 +9,6 @@ name:
 id: JhyMoQg7gz3h9xzv
 packFolder: extrasguilded
 shortcode: ferechofwulverikar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

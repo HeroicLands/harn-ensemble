@@ -9,7 +9,6 @@ name:
 id: 1KB3fjFxxvK9xhQ8
 packFolder: extrasunguilded
 shortcode: kistyneofhudusin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher
@@ -104,7 +103,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Haber of Merkenos for 74d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

@@ -9,7 +9,6 @@ name:
 id: OEPcP9uPdETOpUzT
 packFolder: extrasguilded
 shortcode: forenelleofkephis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

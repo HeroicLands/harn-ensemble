@@ -9,7 +9,6 @@ name:
 id: q5xHXVlFGzUhXLkx
 packFolder: extrasclergy
 shortcode: dakaofmarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

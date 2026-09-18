@@ -9,9 +9,8 @@ name:
 id: X9QMQDMRJ2tSGvPK
 packFolder: fffunguilded
 shortcode: donkey
-img: images/fffv1/token/FFF_418-1_Slave.png
-portrait: images/fffv1/FFF_418-1_Slave.jpg
-tokenImg: images/fffv1/token/FFF_418-1_Slave.png
+img: images/fffv1/token/fff4181tok.png
+portrait: images/fffv1/fff4181.jpg
 type: being
 social:
   occupation: Slave
@@ -104,7 +103,7 @@ hm3:
     - { shortcode: dodge, type: skill, system: { masteryLevel: 81, skillBase: { value: 15 } } }
     - name: Shackles
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: CLoin, type: armorgear }

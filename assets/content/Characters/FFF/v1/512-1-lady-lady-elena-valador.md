@@ -9,9 +9,8 @@ name:
 id: BlophomZelxk7f6x
 packFolder: fffnobles
 shortcode: ladyelenavalador
-img: images/fffv1/token/FFF_512-1_Lady.png
-portrait: images/fffv1/FFF_512-1_Lady.jpg
-tokenImg: images/fffv1/token/FFF_512-1_Lady.png
+img: images/fffv1/token/fff5121tok.png
+portrait: images/fffv1/fff5121.jpg
 type: being
 social:
   occupation: Chatelaine
@@ -160,7 +159,7 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - name: Silk scarf
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 124 } }

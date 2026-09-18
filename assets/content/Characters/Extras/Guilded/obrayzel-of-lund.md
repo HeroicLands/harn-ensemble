@@ -9,7 +9,6 @@ name:
 id: 4Kg8DN2w29OhiNgB
 packFolder: extrasguilded
 shortcode: obrayzeloflund
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hideworker
@@ -105,7 +104,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Textilcraft kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 5

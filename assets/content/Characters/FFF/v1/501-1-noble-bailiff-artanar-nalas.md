@@ -9,9 +9,8 @@ name:
 id: I0KXgGBzbsH784FH
 packFolder: fffnobles
 shortcode: artanarnalas
-img: images/fffv1/token/FFF_501-1_Noble_Bailiff.png
-portrait: images/fffv1/FFF_501-1_Noble_Bailiff.jpg
-tokenImg: images/fffv1/token/FFF_501-1_Noble_Bailiff.png
+img: images/fffv1/token/fff5011tok.png
+portrait: images/fffv1/fff5011.jpg
 type: being
 social:
   occupation: Bailiff

@@ -9,7 +9,6 @@ name:
 id: RIxiNyFd7zltUF32
 packFolder: extrasguilded
 shortcode: mysilofbur
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

@@ -9,7 +9,6 @@ name:
 id: 7WQrK8WBjTiAWzxZ
 packFolder: extrasguilded
 shortcode: norabainofhaith
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hideworker

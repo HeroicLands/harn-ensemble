@@ -9,7 +9,6 @@ name:
 id: TFpZmzsyx4J3TWKQ
 packFolder: extrasunguilded
 shortcode: dakaoftal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

@@ -9,7 +9,6 @@ name:
 id: eGAgAUpSCSIe9Rm0
 packFolder: extrasmages
 shortcode: yelimeofkhonan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Peleahn**"

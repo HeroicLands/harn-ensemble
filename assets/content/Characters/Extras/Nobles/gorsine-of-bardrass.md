@@ -9,7 +9,6 @@ name:
 id: UFxy2ZBBTbWAsGKs
 packFolder: extrasnobles
 shortcode: gorsineofbardrass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

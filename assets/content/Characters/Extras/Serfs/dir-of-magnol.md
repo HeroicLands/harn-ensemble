@@ -9,7 +9,6 @@ name:
 id: 5TOZtKBijhQAtDkT
 packFolder: extrasserfs
 shortcode: dirofmagnol
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

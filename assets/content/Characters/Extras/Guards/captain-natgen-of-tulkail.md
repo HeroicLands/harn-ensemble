@@ -9,7 +9,6 @@ name:
 id: 0x97Kc6HHcUdO9lX
 packFolder: extrasguards
 shortcode: captainnatgenoftulkail
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

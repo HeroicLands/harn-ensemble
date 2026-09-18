@@ -9,7 +9,6 @@ name:
 id: fWXT9UBLwEnwwWtT
 packFolder: extrasguilded
 shortcode: sarofquiribor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler

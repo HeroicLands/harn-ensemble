@@ -9,7 +9,6 @@ name:
 id: ZSDaUkIFoN8Q0bX0
 packFolder: extrasguilded
 shortcode: irisofobelar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miner

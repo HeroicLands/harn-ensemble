@@ -9,7 +9,6 @@ name:
 id: 5tWZ6tVRyP4oxZPq
 packFolder: extrasunguilded
 shortcode: aquillinofewesaan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

@@ -9,9 +9,8 @@ name:
 id: j70pHFJDiYWFrc89
 packFolder: fffguilded
 shortcode: jamysofkestel
-img: images/fffv1/token/FFF_320-1_Miller.png
-portrait: images/fffv1/FFF_320-1_Miller.jpg
-tokenImg: images/fffv1/token/FFF_320-1_Miller.png
+img: images/fffv1/token/fff3201tok.png
+portrait: images/fffv1/fff3201.jpg
 type: being
 social:
   occupation: Miller

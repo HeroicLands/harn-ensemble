@@ -9,7 +9,6 @@ name:
 id: n3N2zJ1AGjeBBSyn
 packFolder: extrasguilded
 shortcode: denienofparsin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Seaman

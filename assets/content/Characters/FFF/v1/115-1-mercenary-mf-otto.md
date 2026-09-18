@@ -9,9 +9,8 @@ name:
 id: HDRSNCscXIBC8Rxv
 packFolder: fffmilitary
 shortcode: otto
-img: images/fffv1/token/FFF_115-1_Mercenary_MF.png
-portrait: images/fffv1/FFF_115-1_Mercenary_MF.jpg
-tokenImg: images/fffv1/token/FFF_115-1_Mercenary_MF.png
+img: images/fffv1/token/fff1151tok.png
+portrait: images/fffv1/fff1151.jpg
 type: being
 social:
   occupation: Mercenary (MF)

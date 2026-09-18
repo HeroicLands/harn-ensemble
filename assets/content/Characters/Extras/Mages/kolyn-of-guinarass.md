@@ -9,7 +9,6 @@ name:
 id: bgM6BRZ5zczs2nG8
 packFolder: extrasmages
 shortcode: kolynofguinarass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Savorya***"
@@ -126,7 +125,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Mantle of Everlasting Balm
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0
@@ -135,14 +134,14 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2
     - { shortcode: pipesmokin, type: miscgear }
     - name: Runestones, Set
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 40
         weight: 2

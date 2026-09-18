@@ -9,7 +9,6 @@ name:
 id: Eu4pxKVU885Jga9l
 packFolder: extrasunguilded
 shortcode: amruphenofcalen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow
@@ -113,12 +112,12 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Bow(Heartbow)
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: "Debt to Money Lender: Artenarin of Quirien for 264d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

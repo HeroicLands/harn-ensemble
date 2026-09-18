@@ -9,7 +9,6 @@ name:
 id: IrIYd2njUxgH4J8F
 packFolder: extrasnobles
 shortcode: punatofurgaban
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

@@ -9,7 +9,6 @@ name:
 id: f7som2cPUFTmdBPq
 packFolder: extrasnobles
 shortcode: boraneofavordan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

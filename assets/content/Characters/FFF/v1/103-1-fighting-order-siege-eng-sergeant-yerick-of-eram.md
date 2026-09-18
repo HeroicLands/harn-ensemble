@@ -9,9 +9,8 @@ name:
 id: o1TBjF89VeUt8Gxh
 packFolder: fffmilitary
 shortcode: sergeantyerickoferam
-img: images/fffv1/token/FFF_103-1_Fighting_Order_Siege_Eng.png
-portrait: images/fffv1/FFF_103-1_Fighting_Order_Siege_Eng.jpg
-tokenImg: images/fffv1/token/FFF_103-1_Fighting_Order_Siege_Eng.png
+img: images/fffv1/token/fff1031tok.png
+portrait: images/fffv1/fff1031.jpg
 type: being
 social:
   occupation: Fighting Order (MF)

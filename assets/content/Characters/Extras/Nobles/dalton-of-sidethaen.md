@@ -9,7 +9,6 @@ name:
 id: sa6nbor6Oi0Ihpl9
 packFolder: extrasnobles
 shortcode: daltonofsidethaen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan

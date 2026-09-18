@@ -9,7 +9,6 @@ name:
 id: b56KLFrmfUOZQf1z
 packFolder: extrasclergy
 shortcode: zornaofpendal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

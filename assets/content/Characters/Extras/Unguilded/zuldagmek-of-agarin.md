@@ -9,7 +9,6 @@ name:
 id: f8SoAHVkq8I3dupm
 packFolder: extrasunguilded
 shortcode: zuldagmekofagarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman
@@ -107,7 +106,7 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Earing, Gold with gem
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 425
         weight: 0.01

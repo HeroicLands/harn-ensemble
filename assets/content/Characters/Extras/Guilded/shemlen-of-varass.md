@@ -9,7 +9,6 @@ name:
 id: HDaTVP1q8fmGttjZ
 packFolder: extrasguilded
 shortcode: shemlenofvarass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler

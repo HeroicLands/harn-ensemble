@@ -9,7 +9,6 @@ name:
 id: UQ78h2zoSXt37Ydu
 packFolder: extrasunguilded
 shortcode: dakaofsediel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hunter/Trapper

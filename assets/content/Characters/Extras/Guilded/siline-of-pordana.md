@@ -9,7 +9,6 @@ name:
 id: jykvi1dEWaWyu0gJ
 packFolder: extrasguilded
 shortcode: silineofpordana
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker

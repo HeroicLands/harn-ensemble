@@ -9,9 +9,8 @@ name:
 id: S4NHCjrce7sfnCtA
 packFolder: fffmilitary
 shortcode: petinmuldabel
-img: images/fffv1/token/FFF_109-1_Legionnaire_LF.png
-portrait: images/fffv1/FFF_109-1_Legionnaire_LF.jpg
-tokenImg: images/fffv1/token/FFF_109-1_Legionnaire_LF.png
+img: images/fffv1/token/fff1091tok.png
+portrait: images/fffv1/fff1091.jpg
 type: being
 social:
   occupation: Legionnaire (LF)

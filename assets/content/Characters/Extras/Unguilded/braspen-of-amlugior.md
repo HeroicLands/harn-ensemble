@@ -9,7 +9,6 @@ name:
 id: LDPY4XU4Ge9KgEnm
 packFolder: extrasunguilded
 shortcode: braspenofamlugior
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian
@@ -112,7 +111,7 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.25

@@ -9,9 +9,8 @@ name:
 id: LYy6wNzmc4QK0GiL
 packFolder: fffunguilded
 shortcode: relddrosyl
-img: images/fffv1/token/FFF_415-1_Scribe.png
-portrait: images/fffv1/FFF_415-1_Scribe.jpg
-tokenImg: images/fffv1/token/FFF_415-1_Scribe.png
+img: images/fffv1/token/fff4151tok.png
+portrait: images/fffv1/fff4151.jpg
 type: being
 social:
   occupation: Scribe
@@ -179,7 +178,7 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - name: Ledger
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         notes: Heavy bound book
         quantity: 3

@@ -9,9 +9,9 @@ name:
 id: 4s2kMbsyAnjadFUk
 packFolder: fffnonhumans
 shortcode: feazurk
-img: images/fff-13/FFF_804a_Gargu-Viasal_Warrior-headshot.webp
-portrait: images/fff-13/FFF_804a_Gargu-Viasal_Warrior.webp
-tokenImg: images/fff-13/FFF_804a_Gargu-Viasal_Warrior-token.webp
+img: images/fff-13/fff804ahead.webp
+portrait: images/fff-13/fff804a.webp
+tokenImg: images/fff-13/fff804atok.webp
 type: being
 social:
   occupation: Warrior
@@ -116,7 +116,7 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -128,7 +128,7 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - name: Amulet, Stone
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         notes: Enchanted, Amulet of Feazurk
         value: 1

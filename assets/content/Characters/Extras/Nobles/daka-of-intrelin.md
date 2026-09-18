@@ -9,7 +9,6 @@ name:
 id: VtficWuPQ9JiZCk2
 packFolder: extrasnobles
 shortcode: dakaofintrelin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

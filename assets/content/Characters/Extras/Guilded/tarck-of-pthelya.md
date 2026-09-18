@@ -9,7 +9,6 @@ name:
 id: LCsMlpoVT9GKH2ya
 packFolder: extrasguilded
 shortcode: tarckofpthelya
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

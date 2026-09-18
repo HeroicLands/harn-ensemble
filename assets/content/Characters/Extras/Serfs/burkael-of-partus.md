@@ -9,7 +9,6 @@ name:
 id: 4KYHomSwAB1UNHAr
 packFolder: extrasserfs
 shortcode: burkaelofpartus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

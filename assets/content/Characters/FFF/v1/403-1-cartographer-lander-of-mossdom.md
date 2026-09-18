@@ -9,9 +9,8 @@ name:
 id: UZY4fDaKJLgDoyKQ
 packFolder: fffunguilded
 shortcode: landerofmossdom
-img: images/fffv1/token/FFF_403-1_Cartographer.png
-portrait: images/fffv1/FFF_403-1_Cartographer.jpg
-tokenImg: images/fffv1/token/FFF_403-1_Cartographer.png
+img: images/fffv1/token/fff4031tok.png
+portrait: images/fffv1/fff4031.jpg
 type: being
 social:
   occupation: Cartographer

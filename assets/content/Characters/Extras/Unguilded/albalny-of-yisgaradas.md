@@ -9,7 +9,6 @@ name:
 id: 6LOT55Hwg8nHzL1Q
 packFolder: extrasunguilded
 shortcode: albalnyofyisgaradas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cartographer/Artist

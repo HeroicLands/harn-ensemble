@@ -9,7 +9,6 @@ name:
 id: oTyUVze5gYHUb9i5
 packFolder: extrasguilded
 shortcode: keldanofokren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Tentmaker
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 30
         weight: 0.03
@@ -111,13 +110,13 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 4800
         weight: 0.25
     - name: Ring, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 600
         weight: 0.03

@@ -9,7 +9,6 @@ name:
 id: z1gR19SzKkp8emVX
 packFolder: extrasguards
 shortcode: captainneridofral
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

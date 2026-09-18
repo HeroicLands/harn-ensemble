@@ -9,9 +9,8 @@ name:
 id: mKKZFqqi9mBqoiFw
 packFolder: fffguilded
 shortcode: llawaurtam
-img: images/fffv1/token/FFF_324-2_Physician.png
-portrait: images/fffv1/FFF_324-2_Physician.jpg
-tokenImg: images/fffv1/token/FFF_324-2_Physician.png
+img: images/fffv1/token/fff3242tok.png
+portrait: images/fffv1/fff3242.jpg
 type: being
 social:
   occupation: Physician
@@ -177,7 +176,7 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - name: Fork
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         notes: Very pretentious
         weight: 1

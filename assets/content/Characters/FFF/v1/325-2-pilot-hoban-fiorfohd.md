@@ -9,9 +9,8 @@ name:
 id: dB9zMBkQJSKNOVu4
 packFolder: fffguilded
 shortcode: hobanfiorfohd
-img: images/fffv1/token/FFF_325-2_Pilot.png
-portrait: images/fffv1/FFF_325-2_Pilot.jpg
-tokenImg: images/fffv1/token/FFF_325-2_Pilot.png
+img: images/fffv1/token/fff3252tok.png
+portrait: images/fffv1/fff3252.jpg
 type: being
 social:
   occupation: Pilot

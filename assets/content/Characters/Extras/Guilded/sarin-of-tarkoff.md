@@ -9,7 +9,6 @@ name:
 id: m7RDwvVJfIUnvKUD
 packFolder: extrasguilded
 shortcode: sarinoftarkoff
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker

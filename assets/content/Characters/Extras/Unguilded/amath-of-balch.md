@@ -9,7 +9,6 @@ name:
 id: 7KmIhxJjr1L0bRR5
 packFolder: extrasunguilded
 shortcode: amathofbalch
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow

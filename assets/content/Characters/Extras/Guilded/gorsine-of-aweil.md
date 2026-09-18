@@ -9,7 +9,6 @@ name:
 id: Jq9rcwyFPRV6wUZD
 packFolder: extrasguilded
 shortcode: gorsineofaweil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Seaman
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Anklet, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2400
         weight: 0.125
@@ -119,12 +118,12 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Leggins, waxed canvas
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: Opiates, 1 oz
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 106
         weight: 0.1

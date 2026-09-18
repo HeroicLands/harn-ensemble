@@ -9,7 +9,6 @@ name:
 id: U3tCzLG74QJ5MsKe
 packFolder: extrasnobles
 shortcode: helofkar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

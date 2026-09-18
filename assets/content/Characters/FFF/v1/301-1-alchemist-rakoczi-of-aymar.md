@@ -9,9 +9,8 @@ name:
 id: FhJJONaF4YMgTlz6
 packFolder: fffguilded
 shortcode: rakocziofaymar
-img: images/fffv1/token/FFF_301-1_Alchemist.png
-portrait: images/fffv1/FFF_301-1_Alchemist.jpg
-tokenImg: images/fffv1/token/FFF_301-1_Alchemist.png
+img: images/fffv1/token/fff3011tok.png
+portrait: images/fffv1/fff3011.jpg
 type: being
 social:
   occupation: Alchemist
@@ -128,14 +127,14 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Vial of Strong Acid
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         quantity: 2
         weight: 1
     - { shortcode: limestonep, type: miscgear }
     - name: Iron Flask of Quicksilver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LTunic, type: armorgear }

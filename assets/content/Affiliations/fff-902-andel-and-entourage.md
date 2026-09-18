@@ -4,7 +4,7 @@ id: FVtjQWpvGL7OiPki
 type: affiliation
 subType: venture
 shortcode: fffandelent
-img: ""
+img: null
 name:
   full: Andel & Entourage
   aliases: []

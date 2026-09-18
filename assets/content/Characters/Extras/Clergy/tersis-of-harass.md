@@ -9,7 +9,6 @@ name:
 id: ClURQOTruIL5VEvw
 packFolder: extrasclergy
 shortcode: tersisofharass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

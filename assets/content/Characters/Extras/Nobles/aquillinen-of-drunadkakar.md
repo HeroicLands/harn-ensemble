@@ -9,7 +9,6 @@ name:
 id: yl2LtD6jC6RTzQW2
 packFolder: extrasnobles
 shortcode: aquillinenofdrunadkakar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

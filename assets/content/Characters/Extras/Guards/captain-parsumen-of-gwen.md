@@ -9,7 +9,6 @@ name:
 id: bFKpc7sWwunh86UV
 packFolder: extrasguards
 shortcode: captainparsumenofgwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

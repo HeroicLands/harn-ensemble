@@ -9,9 +9,8 @@ name:
 id: 78QD3CkEWFGwFie3
 packFolder: fffclergy
 shortcode: riathadeherne
-img: images/fffv1/token/FFF_606-1_Priestess_Naveh.png
-portrait: images/fffv1/FFF_606-1_Priestess_Naveh.jpg
-tokenImg: images/fffv1/token/FFF_606-1_Priestess_Naveh.png
+img: images/fffv1/token/fff6061tok.png
+portrait: images/fffv1/fff6061.jpg
 type: being
 social:
   occupation: Navehan Priestess
@@ -180,7 +179,7 @@ hm3:
     - { shortcode: yulprisuniversalantidote, type: miscgear, system: { quantity: 6 } }
     - name: Wool Scarf
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: WTunic, type: armorgear }

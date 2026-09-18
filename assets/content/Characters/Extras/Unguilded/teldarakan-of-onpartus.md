@@ -9,7 +9,6 @@ name:
 id: SGVoD7Spcrm7eisc
 packFolder: extrasunguilded
 shortcode: teldarakanofonpartus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

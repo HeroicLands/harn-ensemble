@@ -9,7 +9,6 @@ name:
 id: 1xn23cBau59VvXzU
 packFolder: extrasclergy
 shortcode: gyandyofmagnol
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -135,7 +134,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.1

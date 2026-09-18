@@ -9,7 +9,6 @@ name:
 id: 9ln6np43wuzA42qD
 packFolder: extrasunguilded
 shortcode: hadashainofpartus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia
@@ -113,7 +112,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 45
         weight: 0.05

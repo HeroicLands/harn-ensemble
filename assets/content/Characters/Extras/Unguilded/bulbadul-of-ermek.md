@@ -9,7 +9,6 @@ name:
 id: PNGMCLOZQJD8soI0
 packFolder: extrasunguilded
 shortcode: bulbadulofermek
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman

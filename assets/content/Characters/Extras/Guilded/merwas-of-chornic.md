@@ -9,7 +9,6 @@ name:
 id: TRKA3fnFqP7vVCU6
 packFolder: extrasguilded
 shortcode: merwasofchornic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thief
@@ -110,7 +109,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 1

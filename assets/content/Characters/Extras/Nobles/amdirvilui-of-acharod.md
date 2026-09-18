@@ -9,7 +9,6 @@ name:
 id: jYJ8XrctrjE3M8l4
 packFolder: extrasnobles
 shortcode: amdirviluiofacharod
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

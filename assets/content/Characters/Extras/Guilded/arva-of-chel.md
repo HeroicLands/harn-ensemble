@@ -9,7 +9,6 @@ name:
 id: yMeayC8AyAobdiwL
 packFolder: extrasguilded
 shortcode: arvaofchel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

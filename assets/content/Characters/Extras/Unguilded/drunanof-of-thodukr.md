@@ -9,7 +9,6 @@ name:
 id: QBoe31HLOKkyrhU2
 packFolder: extrasunguilded
 shortcode: drunanofofthodukr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Low Guard

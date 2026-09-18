@@ -9,7 +9,6 @@ name:
 id: VCBO8nVkbh399MVC
 packFolder: extrasguilded
 shortcode: forenaofchomslow
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright
@@ -108,7 +107,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Leggins, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

@@ -9,7 +9,6 @@ name:
 id: gFL4dbXBr5EIwBtW
 packFolder: extrasunguilded
 shortcode: myrelynoftar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

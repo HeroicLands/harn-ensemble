@@ -9,9 +9,9 @@ name:
 id: f6i26XWJPVGgm6VV
 packFolder: fffnonhumans
 shortcode: bran
-img: images/fff-13/FFF_804d_Gargu-Araki_Warrior-headshot.webp
-portrait: images/fff-13/FFF_804d_Gargu-Araki_Warrior.webp
-tokenImg: images/fff-13/FFF_804d_Gargu-Araki_Warrior-token.webp
+img: images/fff-13/fff804dhead.webp
+portrait: images/fff-13/fff804d.webp
+tokenImg: images/fff-13/fff804dtok.webp
 type: being
 social:
   occupation: Warrior
@@ -121,7 +121,7 @@ hm3:
     - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

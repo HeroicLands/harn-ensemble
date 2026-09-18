@@ -9,7 +9,6 @@ name:
 id: Uj3CL9U0CnrJYvJL
 packFolder: extrasguards
 shortcode: captainheornofwesin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

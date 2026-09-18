@@ -9,7 +9,6 @@ name:
 id: 7gdyJMlLagAiXL88
 packFolder: extrasguards
 shortcode: veteransemisofhubela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -117,7 +116,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

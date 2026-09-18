@@ -9,7 +9,6 @@ name:
 id: POU1H91z3t4jL5u6
 packFolder: extrasunguilded
 shortcode: tersofveris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

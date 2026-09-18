@@ -9,9 +9,8 @@ name:
 id: F50ca7QxQTd0R0an
 packFolder: fffunguilded
 shortcode: earnyofsmesel
-img: images/fffv1/token/FFF_412-1_Pimp.png
-portrait: images/fffv1/FFF_412-1_Pimp.jpg
-tokenImg: images/fffv1/token/FFF_412-1_Pimp.png
+img: images/fffv1/token/fff4121tok.png
+portrait: images/fffv1/fff4121.jpg
 type: being
 social:
   occupation: Pimp

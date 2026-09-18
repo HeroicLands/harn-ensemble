@@ -9,7 +9,6 @@ name:
 id: fEub17MsBA3F5xZh
 packFolder: extrasunguilded
 shortcode: cidinofamath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

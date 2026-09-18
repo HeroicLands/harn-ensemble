@@ -9,7 +9,6 @@ name:
 id: Tr3iBy4wjJn79WKI
 packFolder: extrasunguilded
 shortcode: angofangor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

@@ -9,7 +9,6 @@ name:
 id: qc1M3hEV3JcYBiEV
 packFolder: extrasnobles
 shortcode: bashofashels
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

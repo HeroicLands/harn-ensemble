@@ -9,7 +9,6 @@ name:
 id: Knn4lL0jrmlDopWw
 packFolder: extrasclergy
 shortcode: marofgorra
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

@@ -9,9 +9,8 @@ name:
 id: IABsoOo9Wrvq3gef
 packFolder: fffguilded
 shortcode: edlinofhonnusk
-img: images/fffv1/token/FFF_305-1_Charcoaler.png
-portrait: images/fffv1/FFF_305-1_Charcoaler.jpg
-tokenImg: images/fffv1/token/FFF_305-1_Charcoaler.png
+img: images/fffv1/token/fff3051tok.png
+portrait: images/fffv1/fff3051.jpg
 type: being
 social:
   occupation: Charcoaler

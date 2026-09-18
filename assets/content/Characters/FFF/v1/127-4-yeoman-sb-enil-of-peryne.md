@@ -9,9 +9,8 @@ name:
 id: fxyjVCZd3d3TokVH
 packFolder: fffmilitary
 shortcode: enilofperyne
-img: images/fffv1/token/FFF_127-4_Yeoman_SB.png
-portrait: images/fffv1/FFF_127-4_Yeoman_SB.jpg
-tokenImg: images/fffv1/token/FFF_127-4_Yeoman_SB.png
+img: images/fffv1/token/fff1274tok.png
+portrait: images/fffv1/fff1274.jpg
 type: being
 social:
   occupation: Yeoman (SB)

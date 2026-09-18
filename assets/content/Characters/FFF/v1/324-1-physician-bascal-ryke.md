@@ -9,9 +9,8 @@ name:
 id: EH1Rs3rQVVy0oBAt
 packFolder: fffguilded
 shortcode: bascalryke
-img: images/fffv1/token/FFF_324-1_Physician.png
-portrait: images/fffv1/FFF_324-1_Physician.jpg
-tokenImg: images/fffv1/token/FFF_324-1_Physician.png
+img: images/fffv1/token/fff3241tok.png
+portrait: images/fffv1/fff3241.jpg
 type: being
 social:
   occupation: Physician

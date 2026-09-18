@@ -9,9 +9,8 @@ name:
 id: aRJme3GFrpfTgRe6
 packFolder: fffmilitary
 shortcode: marekofkail
-img: images/fffv1/token/FFF_115-4_Mercenary_LF.png
-portrait: images/fffv1/FFF_115-4_Mercenary_LF.jpg
-tokenImg: images/fffv1/token/FFF_115-4_Mercenary_LF.png
+img: images/fffv1/token/fff1154tok.png
+portrait: images/fffv1/fff1154.jpg
 type: being
 social:
   occupation: Mercenary (LF)

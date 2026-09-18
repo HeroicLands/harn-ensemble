@@ -9,7 +9,6 @@ name:
 id: NHgcmJiHFo7Icurx
 packFolder: extrasguilded
 shortcode: brashainofekair
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Tentmaker
@@ -106,7 +105,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.01
@@ -114,7 +113,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 30
         weight: 0.03

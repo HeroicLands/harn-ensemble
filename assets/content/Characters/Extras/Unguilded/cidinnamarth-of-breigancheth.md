@@ -9,7 +9,6 @@ name:
 id: ThGlFjA1COmbPN5U
 packFolder: extrasunguilded
 shortcode: cidinnamarthofbreigancheth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian
@@ -109,7 +108,7 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

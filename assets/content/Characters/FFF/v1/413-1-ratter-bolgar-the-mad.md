@@ -9,9 +9,8 @@ name:
 id: YrqliPUW5NTc4A8R
 packFolder: fffunguilded
 shortcode: bolgarthemad
-img: images/fffv1/token/FFF_413-1_Ratter.png
-portrait: images/fffv1/FFF_413-1_Ratter.jpg
-tokenImg: images/fffv1/token/FFF_413-1_Ratter.png
+img: images/fffv1/token/fff4131tok.png
+portrait: images/fffv1/fff4131.jpg
 type: being
 social:
   occupation: Ratter

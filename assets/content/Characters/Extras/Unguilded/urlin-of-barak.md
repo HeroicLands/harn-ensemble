@@ -9,7 +9,6 @@ name:
 id: Du6f5NkhjozQYmh5
 packFolder: extrasunguilded
 shortcode: urlinofbarak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman

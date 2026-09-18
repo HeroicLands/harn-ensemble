@@ -9,9 +9,8 @@ name:
 id: 2OLRDJqmkgcdo5wJ
 packFolder: fffmilitary
 shortcode: kerntmondaro
-img: images/fffv1/token/FFF_112-1_Man_at_Arms_LF.png
-portrait: images/fffv1/FFF_112-1_Man_at_Arms_LF.jpg
-tokenImg: images/fffv1/token/FFF_112-1_Man_at_Arms_LF.png
+img: images/fffv1/token/fff1121tok.png
+portrait: images/fffv1/fff1121.jpg
 type: being
 social:
   occupation: Man-at-Arms (LF)

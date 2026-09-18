@@ -9,7 +9,6 @@ name:
 id: tEQ94umeY2F0CqoE
 packFolder: extrasunguilded
 shortcode: teldaneofvaradas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

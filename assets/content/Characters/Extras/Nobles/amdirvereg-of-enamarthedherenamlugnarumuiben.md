@@ -9,7 +9,6 @@ name:
 id: ExLZJnoZiGJWCiyE
 packFolder: extrasnobles
 shortcode: amdirveregofenamarthedherenamlugnarumuiben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

@@ -9,7 +9,6 @@ name:
 id: jRTKXIpzB0jI9Dj8
 packFolder: extrasunguilded
 shortcode: soragoofrikar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia
@@ -113,7 +112,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Thasis of Abira for 76d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

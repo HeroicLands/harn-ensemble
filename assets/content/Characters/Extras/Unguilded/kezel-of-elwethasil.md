@@ -9,7 +9,6 @@ name:
 id: sZwqC7rv13cpno6k
 packFolder: extrasunguilded
 shortcode: kezelofelwethasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shaman
@@ -102,7 +101,7 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 52 } }
     - name: Tribal
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
       system:
         type: Ritual
         skillBase.value: 12
@@ -123,14 +122,14 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Pasun of Placka for 406d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

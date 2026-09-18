@@ -9,7 +9,6 @@ name:
 id: BQ62VXibfTIXxj5e
 packFolder: extrasclergy
 shortcode: marlyseofalwethale
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

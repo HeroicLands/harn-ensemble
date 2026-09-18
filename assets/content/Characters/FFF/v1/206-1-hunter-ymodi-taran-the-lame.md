@@ -9,9 +9,8 @@ name:
 id: 8acm9Zl7OcmNQ4d6
 packFolder: fffbarbarians
 shortcode: taranthelame
-img: images/fffv1/token/FFF_206-1_Hunter_Ymodi.png
-portrait: images/fffv1/FFF_206-1_Hunter_Ymodi.jpg
-tokenImg: images/fffv1/token/FFF_206-1_Hunter_Ymodi.png
+img: images/fffv1/token/fff2061tok.png
+portrait: images/fffv1/fff2061.jpg
 type: being
 social:
   occupation: Hunter
@@ -119,7 +118,7 @@ hm3:
           value: 15
     - name: Ymodi
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
       system:
         type: Ritual
         skillBase.value: 14

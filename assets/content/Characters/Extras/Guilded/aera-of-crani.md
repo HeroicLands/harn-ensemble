@@ -9,7 +9,6 @@ name:
 id: pPRaMBnWmOv6jBBV
 packFolder: extrasguilded
 shortcode: aeraofcrani
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

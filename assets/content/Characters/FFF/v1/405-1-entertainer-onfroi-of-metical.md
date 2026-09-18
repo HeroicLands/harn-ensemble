@@ -9,9 +9,8 @@ name:
 id: zGz4dPoGVKfmdnUR
 packFolder: fffunguilded
 shortcode: onfroiofmetical
-img: images/fffv1/token/FFF_405-1_Entertainer.png
-portrait: images/fffv1/FFF_405-1_Entertainer.jpg
-tokenImg: images/fffv1/token/FFF_405-1_Entertainer.png
+img: images/fffv1/token/fff4051tok.png
+portrait: images/fffv1/fff4051.jpg
 type: being
 social:
   occupation: Entertainer
@@ -131,25 +130,25 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Balls, wooden
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         quantity: 6
         weight: 1
     - { shortcode: torch, type: miscgear, system: { quantity: 3 } }
     - name: Handkerchief
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         quantity: 6
         weight: 1
     - name: Begging bowl
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: Taburi target
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LTunic, type: armorgear }

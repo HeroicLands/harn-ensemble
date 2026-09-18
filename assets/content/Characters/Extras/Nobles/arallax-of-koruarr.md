@@ -9,7 +9,6 @@ name:
 id: JApFRDBEV7FHaiZe
 packFolder: extrasnobles
 shortcode: arallaxofkoruarr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

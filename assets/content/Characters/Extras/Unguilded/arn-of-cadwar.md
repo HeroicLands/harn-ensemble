@@ -9,7 +9,6 @@ name:
 id: NiKUx6RyTIx8YPVI
 packFolder: extrasunguilded
 shortcode: arnofcadwar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

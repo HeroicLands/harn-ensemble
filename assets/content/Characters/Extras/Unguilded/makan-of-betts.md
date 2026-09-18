@@ -9,7 +9,6 @@ name:
 id: njhMOgUeauFG0z5Y
 packFolder: extrasunguilded
 shortcode: makanofbetts
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter
@@ -107,7 +106,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

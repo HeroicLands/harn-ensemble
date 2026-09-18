@@ -9,9 +9,8 @@ name:
 id: OTri8XJRvBsWZT3S
 packFolder: fffguilded
 shortcode: dersoryoftalkene
-img: images/fffv1/token/FFF_322-1_Ostler.png
-portrait: images/fffv1/FFF_322-1_Ostler.jpg
-tokenImg: images/fffv1/token/FFF_322-1_Ostler.png
+img: images/fffv1/token/fff3221tok.png
+portrait: images/fffv1/fff3221.jpg
 type: being
 social:
   occupation: Ostler

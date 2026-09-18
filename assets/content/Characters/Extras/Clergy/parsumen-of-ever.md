@@ -9,7 +9,6 @@ name:
 id: l3G7JpiBwZK7KZgp
 packFolder: extrasclergy
 shortcode: parsumenofever
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

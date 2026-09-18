@@ -9,7 +9,6 @@ name:
 id: hX1MsMbGMRfe12SG
 packFolder: extrasguilded
 shortcode: sepianofarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer
@@ -108,7 +107,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Frankincense, oz, jar
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 80
         weight: 0.25

@@ -9,7 +9,6 @@ name:
 id: M7coAlUr27rQ6xdY
 packFolder: extrasclergy
 shortcode: karyseofsedire
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

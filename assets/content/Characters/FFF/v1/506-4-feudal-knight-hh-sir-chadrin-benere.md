@@ -9,9 +9,8 @@ name:
 id: TJDHmy9dazsUhB7b
 packFolder: fffnobles
 shortcode: sirchadrinbenere
-img: images/fffv1/token/FFF_506-4_Feudal_Knight_HH.png
-portrait: images/fffv1/FFF_506-4_Feudal_Knight_HH.jpg
-tokenImg: images/fffv1/token/FFF_506-4_Feudal_Knight_HH.png
+img: images/fffv1/token/fff5064tok.png
+portrait: images/fffv1/fff5064.jpg
 type: being
 social:
   occupation: Knight Bachelor (HH)

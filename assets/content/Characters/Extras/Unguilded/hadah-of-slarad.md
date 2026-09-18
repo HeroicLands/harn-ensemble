@@ -9,7 +9,6 @@ name:
 id: 5mk3rdhIjvKzRDNR
 packFolder: extrasunguilded
 shortcode: hadahofslarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

@@ -9,7 +9,6 @@ name:
 id: RDSJTw9wFeDsRItA
 packFolder: extrasunguilded
 shortcode: terzaofhylin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

@@ -9,7 +9,6 @@ name:
 id: 0HDPaLBguGTq0G48
 packFolder: extrasunguilded
 shortcode: segineofpuckill
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

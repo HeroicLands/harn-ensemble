@@ -9,7 +9,6 @@ name:
 id: QL37tftlcYbh5a63
 packFolder: extrasunguilded
 shortcode: solinaofquardas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

@@ -9,7 +9,6 @@ name:
 id: Raij3zcZsRwikfRO
 packFolder: extrasunguilded
 shortcode: klarinaofclerdy
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer

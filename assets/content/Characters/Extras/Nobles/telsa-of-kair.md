@@ -9,7 +9,6 @@ name:
 id: vxTlrDy110q1M7ju
 packFolder: extrasnobles
 shortcode: telsaofkair
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot

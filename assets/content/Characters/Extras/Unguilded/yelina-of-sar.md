@@ -9,7 +9,6 @@ name:
 id: hbJ8HYGmM0XPXPV1
 packFolder: extrasunguilded
 shortcode: yelinaofsar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Fisherman
@@ -104,7 +103,7 @@ hm3:
     - { shortcode: fishingkitportable, type: miscgear }
     - name: Fishing line, 50'
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 10
         weight: 0.5
@@ -112,7 +111,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.05

@@ -9,7 +9,6 @@ name:
 id: wBp7pdwblVfs6Qix
 packFolder: extrasnobles
 shortcode: serelyneofmerke
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: JavThr, type: missilegear, name: Javelin (thrown) }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

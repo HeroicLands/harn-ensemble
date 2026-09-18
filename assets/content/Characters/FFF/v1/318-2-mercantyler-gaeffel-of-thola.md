@@ -9,9 +9,8 @@ name:
 id: GG4L9Xd23Q5kFfeY
 packFolder: fffguilded
 shortcode: gaeffelofthola
-img: images/fffv1/token/FFF_318-2_Mercantyler.png
-portrait: images/fffv1/FFF_318-2_Mercantyler.jpg
-tokenImg: images/fffv1/token/FFF_318-2_Mercantyler.png
+img: images/fffv1/token/fff3182tok.png
+portrait: images/fffv1/fff3182.jpg
 type: being
 social:
   occupation: Mercantyler

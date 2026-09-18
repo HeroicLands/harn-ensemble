@@ -9,9 +9,8 @@ name:
 id: AVNsB95rsRck3egC
 packFolder: fffmilitary
 shortcode: jehanofmikelfot
-img: images/fffv1/token/FFF_105-1_Jailer.png
-portrait: images/fffv1/FFF_105-1_Jailer.jpg
-tokenImg: images/fffv1/token/FFF_105-1_Jailer.png
+img: images/fffv1/token/fff1051tok.png
+portrait: images/fffv1/fff1051.jpg
 type: being
 social:
   occupation: Jailer

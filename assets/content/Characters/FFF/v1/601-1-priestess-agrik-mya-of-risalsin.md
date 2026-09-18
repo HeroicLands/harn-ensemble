@@ -9,9 +9,8 @@ name:
 id: qzHmILrtfj7CeQbU
 packFolder: fffclergy
 shortcode: myaofrisalsin
-img: images/fffv1/token/FFF_601-1_Priestess_Agrik.png
-portrait: images/fffv1/FFF_601-1_Priestess_Agrik.jpg
-tokenImg: images/fffv1/token/FFF_601-1_Priestess_Agrik.png
+img: images/fffv1/token/fff6011tok.png
+portrait: images/fffv1/fff6011.jpg
 type: being
 social:
   occupation: Agrikan Priestess

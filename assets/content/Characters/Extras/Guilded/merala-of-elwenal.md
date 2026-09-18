@@ -9,7 +9,6 @@ name:
 id: e3ZaRUg1Tz1MZmSv
 packFolder: extrasguilded
 shortcode: meralaofelwenal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

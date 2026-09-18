@@ -9,7 +9,6 @@ name:
 id: aFrkI04jl8PXUe8v
 packFolder: extrasnobles
 shortcode: bresynofpendal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -105,7 +104,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }
@@ -113,7 +112,7 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.25

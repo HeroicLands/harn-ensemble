@@ -9,7 +9,6 @@ name:
 id: DmDr1np2ADatu6rc
 packFolder: extrasunguilded
 shortcode: merelynofcybela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

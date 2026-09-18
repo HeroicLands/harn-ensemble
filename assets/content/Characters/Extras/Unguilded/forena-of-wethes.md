@@ -9,7 +9,6 @@ name:
 id: tx1Ngf2GlihQsy3L
 packFolder: extrasunguilded
 shortcode: forenaofwethes
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Shortbow
@@ -108,7 +107,7 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: Bklr, type: weapongear }

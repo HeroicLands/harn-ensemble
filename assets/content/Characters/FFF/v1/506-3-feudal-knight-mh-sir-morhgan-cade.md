@@ -9,9 +9,8 @@ name:
 id: q4Dsf9m89eR2J6oj
 packFolder: fffnobles
 shortcode: sirmorhgancade
-img: images/fffv1/token/FFF_506-3_Feudal_Knight_MH.png
-portrait: images/fffv1/FFF_506-3_Feudal_Knight_MH.jpg
-tokenImg: images/fffv1/token/FFF_506-3_Feudal_Knight_MH.png
+img: images/fffv1/token/fff5063tok.png
+portrait: images/fffv1/fff5063.jpg
 type: being
 social:
   occupation: Knight Bachelor (MH)

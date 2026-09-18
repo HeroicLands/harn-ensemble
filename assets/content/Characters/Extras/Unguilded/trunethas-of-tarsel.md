@@ -9,7 +9,6 @@ name:
 id: qco8eIKFhdHuatBW
 packFolder: extrasunguilded
 shortcode: trunethasoftarsel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

@@ -9,7 +9,6 @@ name:
 id: RbrY3biKtSbhybea
 packFolder: extrasunguilded
 shortcode: cholaynofasain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

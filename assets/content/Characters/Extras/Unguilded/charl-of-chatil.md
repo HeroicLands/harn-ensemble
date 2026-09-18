@@ -9,7 +9,6 @@ name:
 id: n2xqDUSmi8t69aRa
 packFolder: extrasunguilded
 shortcode: charlofchatil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Shortbow

@@ -9,9 +9,8 @@ name:
 id: 28qhtq2eCMTuP70o
 packFolder: fffguilded
 shortcode: perithelame
-img: images/fffv1/token/FFF_335-1_Woodcrafter.png
-portrait: images/fffv1/FFF_335-1_Woodcrafter.jpg
-tokenImg: images/fffv1/token/FFF_335-1_Woodcrafter.png
+img: images/fffv1/token/fff3351tok.png
+portrait: images/fffv1/fff3351.jpg
 type: being
 social:
   occupation: Woodcrafter

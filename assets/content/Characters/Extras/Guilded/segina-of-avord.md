@@ -9,7 +9,6 @@ name:
 id: fOi0oeltBUI6irNV
 packFolder: extrasguilded
 shortcode: seginaofavord
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist

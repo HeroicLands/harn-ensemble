@@ -9,7 +9,6 @@ name:
 id: boBuKBVPjyVeLz4J
 packFolder: extrasguilded
 shortcode: merenaofoshonar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Timberwright
@@ -105,7 +104,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Saw, hack
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 10
         weight: 2

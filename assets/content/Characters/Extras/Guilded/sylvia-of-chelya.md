@@ -9,7 +9,6 @@ name:
 id: o1VQTGUivZHolAf7
 packFolder: extrasguilded
 shortcode: sylviaofchelya
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

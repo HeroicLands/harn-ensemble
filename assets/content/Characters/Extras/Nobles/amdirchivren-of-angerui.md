@@ -9,7 +9,6 @@ name:
 id: PHT1SdK0cZ5zWkxZ
 packFolder: extrasnobles
 shortcode: amdirchivrenofangerui
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

@@ -9,9 +9,8 @@ name:
 id: fT3OK3pjLfcN9riV
 packFolder: fffnobles
 shortcode: siregarolandau
-img: images/fffv1/token/FFF_507-1_Fighting_Order_HH.png
-portrait: images/fffv1/FFF_507-1_Fighting_Order_HH.jpg
-tokenImg: images/fffv1/token/FFF_507-1_Fighting_Order_HH.png
+img: images/fffv1/token/fff5071tok.png
+portrait: images/fffv1/fff5071.jpg
 type: being
 social:
   occupation: Fighting order knight

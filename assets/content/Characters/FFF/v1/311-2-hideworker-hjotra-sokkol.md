@@ -9,9 +9,8 @@ name:
 id: 7sF0UGfk4SwrXTDS
 packFolder: fffguilded
 shortcode: hjotrasokkol
-img: images/fffv1/token/FFF_311-2_Hideworker.png
-portrait: images/fffv1/FFF_311-2_Hideworker.jpg
-tokenImg: images/fffv1/token/FFF_311-2_Hideworker.png
+img: images/fffv1/token/fff3112tok.png
+portrait: images/fffv1/fff3112.jpg
 type: being
 social:
   occupation: Hideworker

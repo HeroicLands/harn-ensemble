@@ -9,7 +9,6 @@ name:
 id: uo0FWB2cDd8iv5l4
 packFolder: extrasnobles
 shortcode: narofeldan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

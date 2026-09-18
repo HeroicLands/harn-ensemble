@@ -9,7 +9,6 @@ name:
 id: 2ib7IlB3MCXbIqjB
 packFolder: extrasclergy
 shortcode: gorofthes
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

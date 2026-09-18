@@ -9,7 +9,6 @@ name:
 id: CojMCxUGPSxW4odC
 packFolder: extrasmages
 shortcode: herilofosanefris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Fyvria*****"

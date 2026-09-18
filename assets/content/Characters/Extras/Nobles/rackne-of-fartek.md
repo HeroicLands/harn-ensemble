@@ -9,7 +9,6 @@ name:
 id: uWGsCfkr82v6GjZT
 packFolder: extrasnobles
 shortcode: rackneoffartek
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

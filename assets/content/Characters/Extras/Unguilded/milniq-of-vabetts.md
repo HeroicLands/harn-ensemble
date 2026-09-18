@@ -9,7 +9,6 @@ name:
 id: mVLpuTJAP1ytrqmc
 packFolder: extrasunguilded
 shortcode: milniqofvabetts
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe
@@ -111,13 +110,13 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.01
     - name: Earing, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 225
         weight: 0.01
@@ -127,7 +126,7 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 20
         weight: 0.1

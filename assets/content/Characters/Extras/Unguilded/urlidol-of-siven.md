@@ -9,7 +9,6 @@ name:
 id: MnjLY4gX4fHzJqLd
 packFolder: extrasunguilded
 shortcode: urlidolofsiven
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

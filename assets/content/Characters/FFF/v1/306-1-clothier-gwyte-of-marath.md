@@ -9,9 +9,8 @@ name:
 id: wuD1xj7qCGqD9aqZ
 packFolder: fffguilded
 shortcode: gwyteofmarath
-img: images/fffv1/token/FFF_306-1_Clothier.png
-portrait: images/fffv1/FFF_306-1_Clothier.jpg
-tokenImg: images/fffv1/token/FFF_306-1_Clothier.png
+img: images/fffv1/token/fff3061tok.png
+portrait: images/fffv1/fff3061.jpg
 type: being
 social:
   occupation: Clothier

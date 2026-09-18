@@ -9,9 +9,8 @@ name:
 id: cLnhyY4QXQWraFxa
 packFolder: fffmilitary
 shortcode: esharelranals
-img: images/fffv1/token/FFF_115-2_Mercenary_MF.png
-portrait: images/fffv1/FFF_115-2_Mercenary_MF.jpg
-tokenImg: images/fffv1/token/FFF_115-2_Mercenary_MF.png
+img: images/fffv1/token/fff1152tok.png
+portrait: images/fffv1/fff1152.jpg
 type: being
 social:
   occupation: Sea Captain

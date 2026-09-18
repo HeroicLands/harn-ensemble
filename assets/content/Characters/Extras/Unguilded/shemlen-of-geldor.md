@@ -9,7 +9,6 @@ name:
 id: 1LXM26SS1dX1Nf3R
 packFolder: extrasunguilded
 shortcode: shemlenofgeldor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

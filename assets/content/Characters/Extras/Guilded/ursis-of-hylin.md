@@ -9,7 +9,6 @@ name:
 id: 4Z02pSHj7sMuPZMo
 packFolder: extrasguilded
 shortcode: ursisofhylin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

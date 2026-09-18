@@ -9,7 +9,6 @@ name:
 id: rPptkDby4uyTNSiW
 packFolder: extrasnobles
 shortcode: pontousofnemirine
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan

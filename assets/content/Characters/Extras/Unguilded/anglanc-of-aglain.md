@@ -9,7 +9,6 @@ name:
 id: jUJ9jTBf76O1cGeC
 packFolder: extrasunguilded
 shortcode: anglancofaglain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Brance of Eylochin for 545d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }

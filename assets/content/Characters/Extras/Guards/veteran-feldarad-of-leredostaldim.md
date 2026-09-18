@@ -9,7 +9,6 @@ name:
 id: Y3f8yRA7zdh1JsJX
 packFolder: extrasguards
 shortcode: veteranfeldaradofleredostaldim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

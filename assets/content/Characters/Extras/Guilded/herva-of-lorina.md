@@ -9,7 +9,6 @@ name:
 id: 0zF4JKcQEvY27zhV
 packFolder: extrasguilded
 shortcode: hervaoflorina
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Courtesan
@@ -105,13 +104,13 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - name: Elprequir, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 18
         weight: 0.1
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 8
         weight: 0.25
@@ -120,7 +119,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1

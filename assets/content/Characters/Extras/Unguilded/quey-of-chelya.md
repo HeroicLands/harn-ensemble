@@ -9,7 +9,6 @@ name:
 id: FYA9CN5yD4tRn1EH
 packFolder: extrasunguilded
 shortcode: queyofchelya
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

@@ -9,9 +9,8 @@ name:
 id: f3ABHIZWjs5Fq7o6
 packFolder: fffnobles
 shortcode: mirisdrelican
-img: images/fffv1/token/FFF_599-1_Noble_Offspring.png
-portrait: images/fffv1/FFF_599-1_Noble_Offspring.jpg
-tokenImg: images/fffv1/token/FFF_599-1_Noble_Offspring.png
+img: images/fffv1/token/fff5991tok.png
+portrait: images/fffv1/fff5991.jpg
 type: being
 social:
   occupation: Noble Offspring

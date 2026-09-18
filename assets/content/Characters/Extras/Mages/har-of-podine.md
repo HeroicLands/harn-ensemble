@@ -9,7 +9,6 @@ name:
 id: 8nogIAPHps3vA2V9
 packFolder: extrasmages
 shortcode: harofpodine
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Lyahvi**"
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: ablarinsfield, type: spell }
     - name: Aeric's Whisper
       type: spell
-      img: systems/hm3/images/icons/svg/wind.svg
+      img: systems/sohl/assets/icons/other/wind.svg
       system:
         convocation: Lyahvi
     - { shortcode: cloakofkalaerin, type: spell }
@@ -145,7 +144,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2

@@ -9,7 +9,6 @@ name:
 id: F7KMMyk0N5PBMlq0
 packFolder: extrasunguilded
 shortcode: klarmofael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

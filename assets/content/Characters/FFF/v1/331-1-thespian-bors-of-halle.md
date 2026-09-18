@@ -9,9 +9,8 @@ name:
 id: GYWvGsJdLbkbcVDO
 packFolder: fffguilded
 shortcode: borsofhalle
-img: images/fffv1/token/FFF_331-1_Thespian.png
-portrait: images/fffv1/FFF_331-1_Thespian.jpg
-tokenImg: images/fffv1/token/FFF_331-1_Thespian.png
+img: images/fffv1/token/fff3311tok.png
+portrait: images/fffv1/fff3311.jpg
 type: being
 social:
   occupation: Thespian

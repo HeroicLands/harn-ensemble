@@ -9,7 +9,6 @@ name:
 id: OTZXDCvP7jAz8RCH
 packFolder: extrasclergy
 shortcode: julahofarmelerieldan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni
@@ -136,7 +135,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Holy Symbol, iron
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 18
         weight: 0.1

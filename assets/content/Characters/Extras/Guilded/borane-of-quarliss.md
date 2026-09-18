@@ -9,7 +9,6 @@ name:
 id: 2fszUEpUyTtvfo86
 packFolder: extrasguilded
 shortcode: boraneofquarliss
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Physician

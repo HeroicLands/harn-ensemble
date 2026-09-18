@@ -9,7 +9,6 @@ name:
 id: QcB9yNJrivSewCLq
 packFolder: extrasclergy
 shortcode: ugeninofchara
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

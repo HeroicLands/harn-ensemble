@@ -9,9 +9,8 @@ name:
 id: cvnkHX7g7glN0XmA
 packFolder: fffunguilded
 shortcode: roulofleferre
-img: images/fffv1/token/FFF_420-1_Tenant_Officer.png
-portrait: images/fffv1/FFF_420-1_Tenant_Officer.jpg
-tokenImg: images/fffv1/token/FFF_420-1_Tenant_Officer.png
+img: images/fffv1/token/fff4201tok.png
+portrait: images/fffv1/fff4201.jpg
 type: being
 social:
   occupation: Reeve

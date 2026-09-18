@@ -9,7 +9,6 @@ name:
 id: 2kddLTxZKKilxLt3
 packFolder: extrasserfs
 shortcode: zornaofsprytus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

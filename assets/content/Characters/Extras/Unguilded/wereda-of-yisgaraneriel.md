@@ -9,7 +9,6 @@ name:
 id: pDZL3zLkd6gc8zBy
 packFolder: extrasunguilded
 shortcode: weredaofyisgaraneriel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher

@@ -9,7 +9,6 @@ name:
 id: qG8cJmiiGr9dxl4d
 packFolder: extrasnobles
 shortcode: angolofikswic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium
@@ -112,14 +111,14 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 30
         weight: 0.03
     - { shortcode: tndrbx, type: miscgear }
     - name: Necklace, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 240
         weight: 0.25

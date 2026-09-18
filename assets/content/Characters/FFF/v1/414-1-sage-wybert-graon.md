@@ -9,9 +9,8 @@ name:
 id: DNQtPuSTCANb2wPN
 packFolder: fffunguilded
 shortcode: wybertgraon
-img: images/fffv1/token/FFF_414-1_Sage.png
-portrait: images/fffv1/FFF_414-1_Sage.jpg
-tokenImg: images/fffv1/token/FFF_414-1_Sage.png
+img: images/fffv1/token/fff4141tok.png
+portrait: images/fffv1/fff4141.jpg
 type: being
 social:
   occupation: Sage/Tutor

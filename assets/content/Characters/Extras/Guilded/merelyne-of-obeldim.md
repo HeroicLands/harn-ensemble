@@ -9,7 +9,6 @@ name:
 id: A8TJxTGn1K3gOLhv
 packFolder: extrasguilded
 shortcode: merelyneofobeldim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

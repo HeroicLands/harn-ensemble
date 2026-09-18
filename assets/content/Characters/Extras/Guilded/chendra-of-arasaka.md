@@ -9,7 +9,6 @@ name:
 id: 5MZBLwsR6LjPGO8X
 packFolder: extrasguilded
 shortcode: chendraofarasaka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

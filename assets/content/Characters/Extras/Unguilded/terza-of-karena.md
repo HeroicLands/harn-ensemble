@@ -9,7 +9,6 @@ name:
 id: SaY7rm8xkqzMOd3y
 packFolder: extrasunguilded
 shortcode: terzaofkarena
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

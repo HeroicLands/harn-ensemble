@@ -9,7 +9,6 @@ name:
 id: XkHCy5VwzjCLX04D
 packFolder: extrasunguilded
 shortcode: jakaladezofhubel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

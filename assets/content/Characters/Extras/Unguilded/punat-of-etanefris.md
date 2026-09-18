@@ -9,7 +9,6 @@ name:
 id: l5ciRGbsKTYdPUYU
 packFolder: extrasunguilded
 shortcode: punatofetanefris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman
@@ -101,7 +100,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Maralyne of Tarsuel for 28d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

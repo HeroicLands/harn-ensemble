@@ -9,9 +9,8 @@ name:
 id: xHdUwDJj30SyHfyL
 packFolder: fffnobles
 shortcode: andelgebar
-img: images/fffv1/token/FFF_510-1_Royal_Government.png
-portrait: images/fffv1/FFF_510-1_Royal_Government.jpg
-tokenImg: images/fffv1/token/FFF_510-1_Royal_Government.png
+img: images/fffv1/token/fff5101tok.png
+portrait: images/fffv1/fff5101.jpg
 type: being
 social:
   occupation: Exchequer Clerk

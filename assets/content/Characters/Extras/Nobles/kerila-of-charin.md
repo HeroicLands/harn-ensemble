@@ -9,7 +9,6 @@ name:
 id: 2U9PPoZThCLN1EW7
 packFolder: extrasnobles
 shortcode: kerilaofcharin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

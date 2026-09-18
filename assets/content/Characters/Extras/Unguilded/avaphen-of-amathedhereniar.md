@@ -9,7 +9,6 @@ name:
 id: AYJ0BnMHaWtCuRLY
 packFolder: extrasunguilded
 shortcode: avaphenofamathedhereniar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow

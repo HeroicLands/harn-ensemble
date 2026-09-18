@@ -9,7 +9,6 @@ name:
 id: VVuWnk45xHduNrUH
 packFolder: extrasguilded
 shortcode: frydaofborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

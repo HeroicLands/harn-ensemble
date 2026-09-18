@@ -9,7 +9,6 @@ name:
 id: VppN4q3N0MoJjvu1
 packFolder: extrasunguilded
 shortcode: helaofborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

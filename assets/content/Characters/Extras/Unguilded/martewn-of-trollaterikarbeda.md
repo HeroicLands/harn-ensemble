@@ -9,7 +9,6 @@ name:
 id: 4cmqXZbsHXiAZ6Ub
 packFolder: extrasunguilded
 shortcode: martewnoftrollaterikarbeda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

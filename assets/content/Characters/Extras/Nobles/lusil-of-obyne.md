@@ -9,7 +9,6 @@ name:
 id: Lgf6wN9lpucsDbaV
 packFolder: extrasnobles
 shortcode: lusilofobyne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

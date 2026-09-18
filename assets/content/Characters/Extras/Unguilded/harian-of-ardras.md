@@ -9,7 +9,6 @@ name:
 id: 9JV6jKR6NG2DHZrT
 packFolder: extrasunguilded
 shortcode: harianofardras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

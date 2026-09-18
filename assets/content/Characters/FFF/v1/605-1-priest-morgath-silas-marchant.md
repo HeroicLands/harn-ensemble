@@ -9,9 +9,8 @@ name:
 id: rN8CITlJzwED2WvW
 packFolder: fffclergy
 shortcode: silasmarchant
-img: images/fffv1/token/FFF_605-1_Priest_Morgath.png
-portrait: images/fffv1/FFF_605-1_Priest_Morgath.jpg
-tokenImg: images/fffv1/token/FFF_605-1_Priest_Morgath.png
+img: images/fffv1/token/fff6051tok.png
+portrait: images/fffv1/fff6051.jpg
 type: being
 social:
   occupation: Priest of Morgath
@@ -154,7 +153,7 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - name: Staff of Draining Doom
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         notes: Enchanted, 4 charges remaining (HM3 Treasure 21)
         weight: 1

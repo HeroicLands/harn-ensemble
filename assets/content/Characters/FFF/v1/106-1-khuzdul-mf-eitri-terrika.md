@@ -9,9 +9,8 @@ name:
 id: m0mas15prhAdcHKM
 packFolder: fffmilitary
 shortcode: eitriterrika
-img: images/fffv1/token/FFF_106-1_Khuzdul_MF.png
-portrait: images/fffv1/FFF_106-1_Khuzdul_MF.jpg
-tokenImg: images/fffv1/token/FFF_106-1_Khuzdul_MF.png
+img: images/fffv1/token/fff1061tok.png
+portrait: images/fffv1/fff1061.jpg
 type: being
 social:
   occupation: Clansman (MF)

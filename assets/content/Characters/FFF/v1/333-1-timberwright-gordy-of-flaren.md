@@ -9,9 +9,8 @@ name:
 id: rbMRdFECTlSZuiP7
 packFolder: fffguilded
 shortcode: gordyofflaren
-img: images/fffv1/token/FFF_333-1_Timberwright.png
-portrait: images/fffv1/FFF_333-1_Timberwright.jpg
-tokenImg: images/fffv1/token/FFF_333-1_Timberwright.png
+img: images/fffv1/token/fff3331tok.png
+portrait: images/fffv1/fff3331.jpg
 type: being
 social:
   occupation: Timberwright

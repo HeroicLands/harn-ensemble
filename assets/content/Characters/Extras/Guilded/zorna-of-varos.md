@@ -9,7 +9,6 @@ name:
 id: 8goNSHH8azdnRcZH
 packFolder: extrasguilded
 shortcode: zornaofvaros
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

@@ -9,7 +9,6 @@ name:
 id: aXIAnxIDdjLWh5kj
 packFolder: extrasguilded
 shortcode: gyandofnarani
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

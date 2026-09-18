@@ -9,7 +9,6 @@ name:
 id: f6s31p5I0TAdJgIH
 packFolder: extrasunguilded
 shortcode: lasynofbaets
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cartographer/Artist

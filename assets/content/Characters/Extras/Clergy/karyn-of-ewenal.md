@@ -9,7 +9,6 @@ name:
 id: 0YfFmfDdwzN6IQKp
 packFolder: extrasclergy
 shortcode: karynofewenal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

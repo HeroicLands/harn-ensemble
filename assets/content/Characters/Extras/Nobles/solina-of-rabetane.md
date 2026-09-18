@@ -9,7 +9,6 @@ name:
 id: 7ZOqD0g9IjpFAaZz
 packFolder: extrasnobles
 shortcode: solinaofrabetane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan

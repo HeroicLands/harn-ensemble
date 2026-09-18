@@ -9,9 +9,8 @@ name:
 id: YodiswBfSMxgPVLK
 packFolder: fffguilded
 shortcode: dagwynofkhael
-img: images/fffv1/token/FFF_314-1_Lexigrapher.png
-portrait: images/fffv1/FFF_314-1_Lexigrapher.jpg
-tokenImg: images/fffv1/token/FFF_314-1_Lexigrapher.png
+img: images/fffv1/token/fff3141tok.png
+portrait: images/fffv1/fff3141.jpg
 type: being
 social:
   occupation: Lexigrapher

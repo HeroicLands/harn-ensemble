@@ -9,7 +9,6 @@ name:
 id: 2QobfI8V2g0BRzqn
 packFolder: extrasclergy
 shortcode: helasarofosathalmin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

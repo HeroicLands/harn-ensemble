@@ -9,9 +9,8 @@ name:
 id: lcDjXC4Bp1fhprQv
 packFolder: fffunguilded
 shortcode: terjeofselain
-img: images/fffv1/token/FFF_401-2_Falconer.png
-portrait: images/fffv1/FFF_401-2_Falconer.jpg
-tokenImg: images/fffv1/token/FFF_401-2_Falconer.png
+img: images/fffv1/token/fff4012tok.png
+portrait: images/fffv1/fff4012.jpg
 type: being
 social:
   occupation: Falconer

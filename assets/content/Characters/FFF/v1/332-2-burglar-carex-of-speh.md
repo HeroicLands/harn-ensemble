@@ -9,9 +9,8 @@ name:
 id: nxSFrUyBX8xu7U3X
 packFolder: fffguilded
 shortcode: carexofspeh
-img: images/fffv1/token/FFF_332-2_Burglar.png
-portrait: images/fffv1/FFF_332-2_Burglar.jpg
-tokenImg: images/fffv1/token/FFF_332-2_Burglar.png
+img: images/fffv1/token/fff3322tok.png
+portrait: images/fffv1/fff3322.jpg
 type: being
 social:
   occupation: Lia-Kavair

@@ -9,7 +9,6 @@ name:
 id: KfFmOVVv6xs0kOgU
 packFolder: extrasguards
 shortcode: commanderkarynofway
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

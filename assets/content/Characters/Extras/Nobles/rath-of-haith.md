@@ -9,7 +9,6 @@ name:
 id: cryVfS77oS85Nh3m
 packFolder: extrasnobles
 shortcode: rathofhaith
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff
@@ -115,7 +114,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

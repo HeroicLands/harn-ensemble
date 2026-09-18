@@ -9,7 +9,6 @@ name:
 id: MbeEOjeqJ4hTEbD3
 packFolder: extrasnobles
 shortcode: danishemlenofarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot

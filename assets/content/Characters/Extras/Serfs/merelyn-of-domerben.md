@@ -9,7 +9,6 @@ name:
 id: qnLVoo73zwc3dRav
 packFolder: extrasserfs
 shortcode: merelynofdomerben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

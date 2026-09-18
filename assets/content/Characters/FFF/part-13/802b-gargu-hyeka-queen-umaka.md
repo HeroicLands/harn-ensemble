@@ -9,9 +9,9 @@ name:
 id: XqN3urYzkpHLsZb5
 packFolder: fffnonhumans
 shortcode: umaka
-img: images/fff-13/FFF_802b_Gargu-Hyeka_Queen-headshot.webp
-portrait: images/fff-13/FFF_802b_Gargu-Hyeka_Queen.webp
-tokenImg: images/fff-13/FFF_802b_Gargu-Hyeka_Queen-token.webp
+img: images/fff-13/fff802bhead.webp
+portrait: images/fff-13/fff802b.webp
+tokenImg: images/fff-13/fff802btok.webp
 type: being
 social:
   occupation: Queen
@@ -117,7 +117,7 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -127,7 +127,7 @@ hm3:
         protection.fire: 3
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         notes: Bone and Stone Chip Necklace
         value: 5

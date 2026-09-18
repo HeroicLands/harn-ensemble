@@ -9,7 +9,6 @@ name:
 id: ImdYS6pzCh6mVRW4
 packFolder: extrasnobles
 shortcode: arvaofchelya
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -113,7 +112,7 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 15
         weight: 0.01
@@ -122,7 +121,7 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

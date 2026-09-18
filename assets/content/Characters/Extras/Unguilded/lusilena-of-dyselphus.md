@@ -9,7 +9,6 @@ name:
 id: dK9veC2MEagmktf1
 packFolder: extrasunguilded
 shortcode: lusilenaofdyselphus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Fisherman
@@ -105,13 +104,13 @@ hm3:
     - { shortcode: backbagmed, type: containergear }
     - name: Fishhooks, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 2
         weight: 0.1
     - name: Fishing line, 50'
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 10
         weight: 0.5

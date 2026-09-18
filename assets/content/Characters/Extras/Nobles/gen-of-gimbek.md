@@ -9,7 +9,6 @@ name:
 id: CVjnLWLR13jX19Mp
 packFolder: extrasnobles
 shortcode: genofgimbek
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

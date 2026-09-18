@@ -9,9 +9,9 @@ name:
 id: EJWcOWDJi0AriwyB
 packFolder: fffnonhumans
 shortcode: fetch
-img: images/fff-13/FFF_804f_Gargu-Araki_Thief-headshot.webp
-portrait: images/fff-13/FFF_804f_Gargu-Araki_Thief.webp
-tokenImg: images/fff-13/FFF_804f_Gargu-Araki_Thief-token.webp
+img: images/fff-13/fff804fhead.webp
+portrait: images/fff-13/fff804f.webp
+tokenImg: images/fff-13/fff804ftok.webp
 type: being
 social:
   occupation: Thief
@@ -121,7 +121,7 @@ hm3:
     - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

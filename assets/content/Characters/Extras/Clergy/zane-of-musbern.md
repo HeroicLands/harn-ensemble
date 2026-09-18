@@ -9,7 +9,6 @@ name:
 id: h7BeRWWbnr31qI1l
 packFolder: extrasclergy
 shortcode: zaneofmusbern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh
@@ -134,7 +133,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03

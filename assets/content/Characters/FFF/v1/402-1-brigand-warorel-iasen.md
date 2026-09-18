@@ -9,9 +9,8 @@ name:
 id: 0wZyta0rVtXJ1YDp
 packFolder: fffunguilded
 shortcode: waroreliasen
-img: images/fffv1/token/FFF_402-1_Brigand.png
-portrait: images/fffv1/FFF_402-1_Brigand.jpg
-tokenImg: images/fffv1/token/FFF_402-1_Brigand.png
+img: images/fffv1/token/fff4021tok.png
+portrait: images/fffv1/fff4021.jpg
 type: being
 social:
   occupation: Brigand

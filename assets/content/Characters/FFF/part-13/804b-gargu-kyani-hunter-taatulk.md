@@ -9,9 +9,9 @@ name:
 id: yHTXrQJNtmgOTo45
 packFolder: fffnonhumans
 shortcode: taatulk
-img: images/fff-13/FFF_804b_Gargu-Kyani_Hunter-headshot.webp
-portrait: images/fff-13/FFF_804b_Gargu-Kyani_Hunter.webp
-tokenImg: images/fff-13/FFF_804b_Gargu-Kyani_Hunter-token.webp
+img: images/fff-13/fff804bhead.webp
+portrait: images/fff-13/fff804b.webp
+tokenImg: images/fff-13/fff804btok.webp
 type: being
 social:
   occupation: Warrior
@@ -125,7 +125,7 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

@@ -9,7 +9,6 @@ name:
 id: IVM3aeDideJzIMvO
 packFolder: extrasguilded
 shortcode: frydaofwethale
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Tentmaker
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Mardenyl of Grath for 222d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

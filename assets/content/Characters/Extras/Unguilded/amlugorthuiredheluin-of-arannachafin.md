@@ -9,7 +9,6 @@ name:
 id: ZMHA0ifEfrdnzwxs
 packFolder: extrasunguilded
 shortcode: amlugorthuiredheluinofarannachafin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light
@@ -113,13 +112,13 @@ hm3:
     - { shortcode: HBw, type: weapongear }
     - name: Spoon of Yavari
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
         value: 0
     - name: Anklet, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 120
         weight: 0.125

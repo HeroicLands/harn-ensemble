@@ -9,7 +9,6 @@ name:
 id: GEgTfPNERS8ZGM4I
 packFolder: extrasguards
 shortcode: captainfeldurofane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

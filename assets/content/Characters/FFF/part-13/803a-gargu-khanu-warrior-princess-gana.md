@@ -9,9 +9,9 @@ name:
 id: VMA4xMJkwXQPk7DM
 packFolder: fffnonhumans
 shortcode: gana
-img: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess-headshot.webp
-portrait: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess.webp
-tokenImg: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess-token.webp
+img: images/fff-13/fff803ahead.webp
+portrait: images/fff-13/fff803a.webp
+tokenImg: images/fff-13/fff803atok.webp
 type: being
 social:
   occupation: Warrior
@@ -119,7 +119,7 @@ hm3:
     - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -134,36 +134,36 @@ hm3:
     - { shortcode: PlAil, type: armorgear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         notes: Necklace of teeth
         value: 5
         weight: 0.25
     - name: Skull
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: Dried testicles
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: Dried penises
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         notes: Heavy silver nose ring
         value: 30
         weight: 0.03
     - name: Earring, Bronze
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         value: 1
         weight: 0.01

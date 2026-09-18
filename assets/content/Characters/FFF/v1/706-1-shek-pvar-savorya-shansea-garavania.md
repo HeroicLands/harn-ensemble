@@ -9,9 +9,8 @@ name:
 id: HArxJjxZFXt5sqO8
 packFolder: fffmages
 shortcode: shanseagaravania
-img: images/fffv1/token/FFF_706-1_Shek_Pvar_Savorya.png
-portrait: images/fffv1/FFF_706-1_Shek_Pvar_Savorya.jpg
-tokenImg: images/fffv1/token/FFF_706-1_Shek_Pvar_Savorya.png
+img: images/fffv1/token/fff7061tok.png
+portrait: images/fffv1/fff7061.jpg
 type: being
 social:
   occupation: Savoryan Shek-Pvar
@@ -164,7 +163,7 @@ hm3:
     - { shortcode: neutral, type: skill, system: { masteryLevel: 80, skillBase: { value: 16 } } }
     - name: Dispel
       type: spell
-      img: systems/hm3/images/icons/svg/pentacle.svg
+      img: systems/sohl/assets/icons/game-icons/skoll/pentacle.svg
       system:
         convocation: Neutral
     - { shortcode: focus, type: spell }

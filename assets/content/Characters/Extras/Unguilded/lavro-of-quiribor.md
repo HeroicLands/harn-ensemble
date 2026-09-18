@@ -9,7 +9,6 @@ name:
 id: Mm8KA5USnRxERfGD
 packFolder: extrasunguilded
 shortcode: lavroofquiribor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer

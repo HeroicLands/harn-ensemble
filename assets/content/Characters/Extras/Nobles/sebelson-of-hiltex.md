@@ -9,7 +9,6 @@ name:
 id: LfKENWSp3ufWb6Kv
 packFolder: extrasnobles
 shortcode: sebelsonofhiltex
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

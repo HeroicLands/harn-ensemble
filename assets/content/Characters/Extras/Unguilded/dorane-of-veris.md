@@ -9,7 +9,6 @@ name:
 id: 9N51idbHVbV0dtCv
 packFolder: extrasunguilded
 shortcode: doraneofveris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Longbow

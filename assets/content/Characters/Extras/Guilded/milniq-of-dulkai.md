@@ -9,7 +9,6 @@ name:
 id: JtuiGKbslwfk9SHD
 packFolder: extrasguilded
 shortcode: milniqofdulkai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright

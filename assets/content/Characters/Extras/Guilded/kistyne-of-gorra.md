@@ -9,7 +9,6 @@ name:
 id: vfCIuNQQLdnZkKlr
 packFolder: extrasguilded
 shortcode: kistyneofgorra
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Astrologer
@@ -103,7 +102,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 50
         weight: 2
@@ -111,7 +110,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 75
         weight: 0.5

@@ -9,7 +9,6 @@ name:
 id: JddNkybHOJ2v07rG
 packFolder: extrasguilded
 shortcode: herondofspryth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian
@@ -104,7 +103,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.01
@@ -112,7 +111,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Perfume, oz, bottle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 11
         weight: 0.25

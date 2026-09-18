@@ -9,7 +9,6 @@ name:
 id: Eizvo54yDs5UH78J
 packFolder: extrasunguilded
 shortcode: marlyseoffulkail
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

@@ -9,7 +9,6 @@ name:
 id: qU3g38QGH7OUDrIK
 packFolder: extrasguilded
 shortcode: thainofmerlesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Lexigrapher
@@ -109,7 +108,7 @@ hm3:
     - { shortcode: penmetal, type: miscgear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 45
         weight: 0.05
@@ -117,7 +116,7 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 20
         weight: 0.1

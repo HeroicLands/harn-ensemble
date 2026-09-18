@@ -9,9 +9,9 @@ name:
 id: WsoowZSwGZT5T7K8
 packFolder: fffnonhumans
 shortcode: borka
-img: images/fff-13/FFF_804g_Gargun_Warrior-headshot.webp
-portrait: images/fff-13/FFF_804g_Gargun_Warrior.webp
-tokenImg: images/fff-13/FFF_804g_Gargun_Warrior-token.webp
+img: images/fff-13/fff804ghead.webp
+portrait: images/fff-13/fff804g.webp
+tokenImg: images/fff-13/fff804gtok.webp
 type: being
 social:
   occupation: Warrior
@@ -94,7 +94,7 @@ hm3:
     - { shortcode: sword, type: skill, name: Mankar (Sword), system: { masteryLevel: 114 } }
     - name: Bite
       type: skill
-      img: systems/hm3/images/icons/svg/fangs.svg
+      img: systems/sohl/assets/icons/game-icons/skoll/fangs.svg
       system:
         type: Combat
         skillBase.value: 19
@@ -104,7 +104,7 @@ hm3:
     - { shortcode: Mankar, type: weapongear }
     - name: Bite
       type: weapongear
-      img: systems/hm3/images/icons/svg/fangs.svg
+      img: systems/sohl/assets/icons/game-icons/skoll/fangs.svg
       system:
         assocSkill: Bite
         blunt: 1
@@ -115,7 +115,7 @@ hm3:
     - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -125,7 +125,7 @@ hm3:
         protection.fire: 3
     - name: Linen Girdle
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         value: 20
         weight: 1.5

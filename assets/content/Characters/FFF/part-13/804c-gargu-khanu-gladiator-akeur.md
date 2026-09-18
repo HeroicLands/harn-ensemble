@@ -9,9 +9,9 @@ name:
 id: xmbb9aLzr8VGhxZu
 packFolder: fffnonhumans
 shortcode: akeur
-img: images/fff-13/FFF_804c_Gargu-Khanu_Gladiator-headshot.webp
-portrait: images/fff-13/FFF_804c_Gargu-Khanu_Gladiator.webp
-tokenImg: images/fff-13/FFF_804c_Gargu-Khanu_Gladiator-token.webp
+img: images/fff-13/fff804chead.webp
+portrait: images/fff-13/fff804c.webp
+tokenImg: images/fff-13/fff804ctok.webp
 type: being
 social:
   occupation: Gladiator
@@ -117,7 +117,7 @@ hm3:
     - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      img: systems/sohl/assets/icons/noun/armor.svg
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -127,7 +127,7 @@ hm3:
         protection.fire: 3
     - name: Ring, Brass
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      img: systems/sohl/assets/icons/other/sack.svg
       system:
         quantity: 20
         value: 1

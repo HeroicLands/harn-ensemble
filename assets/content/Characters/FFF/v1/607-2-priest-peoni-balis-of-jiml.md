@@ -9,9 +9,8 @@ name:
 id: qvLzM1HO7661euis
 packFolder: fffclergy
 shortcode: balisofjiml
-img: images/fffv1/token/FFF_607-2_Priest_Peoni.png
-portrait: images/fffv1/FFF_607-2_Priest_Peoni.jpg
-tokenImg: images/fffv1/token/FFF_607-2_Priest_Peoni.png
+img: images/fffv1/token/fff6072tok.png
+portrait: images/fffv1/fff6072.jpg
 type: being
 social:
   occupation: Peonian Acolyte

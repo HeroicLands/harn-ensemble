@@ -9,9 +9,8 @@ name:
 id: otiVCxlD88xv2bcy
 packFolder: fffnobles
 shortcode: sirrollarddaudrieu
-img: images/fffv1/token/FFF_506-1_Feudal_Knight_HH.png
-portrait: images/fffv1/FFF_506-1_Feudal_Knight_HH.jpg
-tokenImg: images/fffv1/token/FFF_506-1_Feudal_Knight_HH.png
+img: images/fffv1/token/fff5061tok.png
+portrait: images/fffv1/fff5061.jpg
 type: being
 social:
   occupation: Tournament knight

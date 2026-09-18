@@ -9,9 +9,8 @@ name:
 id: J9U0KvmS9VfntWx5
 packFolder: fffnonhumans
 shortcode: derbis
-img: images/fffv1/token/FFF_899-1_Other_Non_Human.png
-portrait: images/fffv1/FFF_899-1_Other_Non_Human.jpg
-tokenImg: images/fffv1/token/FFF_899-1_Other_Non_Human.png
+img: images/fffv1/token/fff8991tok.png
+portrait: images/fffv1/fff8991.jpg
 type: being
 social:
   occupation: Hunter

@@ -9,7 +9,6 @@ name:
 id: HeKMRmkjhA08cTDD
 packFolder: extrasunguilded
 shortcode: ereryofparin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe
@@ -112,7 +111,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Broach, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 3
         weight: 0.03

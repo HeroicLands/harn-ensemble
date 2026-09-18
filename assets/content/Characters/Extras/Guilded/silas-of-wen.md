@@ -9,7 +9,6 @@ name:
 id: QeR8rc1yMd0Jc9WS
 packFolder: extrasguilded
 shortcode: silasofwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

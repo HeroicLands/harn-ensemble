@@ -9,7 +9,6 @@ name:
 id: e14dCRrqyGUJIMKt
 packFolder: extrasguards
 shortcode: veteranvaberofneris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

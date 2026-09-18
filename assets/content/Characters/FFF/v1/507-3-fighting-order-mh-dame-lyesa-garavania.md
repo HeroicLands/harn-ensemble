@@ -9,9 +9,8 @@ name:
 id: OypR6vo7Y9D5crQ7
 packFolder: fffnobles
 shortcode: damelyesagaravania
-img: images/fffv1/token/FFF_507-3_Fighting_Order_MH.png
-portrait: images/fffv1/FFF_507-3_Fighting_Order_MH.jpg
-tokenImg: images/fffv1/token/FFF_507-3_Fighting_Order_MH.png
+img: images/fffv1/token/fff5073tok.png
+portrait: images/fffv1/fff5073.jpg
 type: being
 social:
   occupation: Knight

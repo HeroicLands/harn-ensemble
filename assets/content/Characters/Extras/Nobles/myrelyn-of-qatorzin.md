@@ -9,7 +9,6 @@ name:
 id: bSVUg0i7ZcTMFWiu
 packFolder: extrasnobles
 shortcode: myrelynofqatorzin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

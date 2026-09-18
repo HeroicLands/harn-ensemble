@@ -9,7 +9,6 @@ name:
 id: LDs2hh6ga4fjxniJ
 packFolder: extrasnobles
 shortcode: makalareenofchardan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald
@@ -117,7 +116,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.01
@@ -125,7 +124,7 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 48
         weight: 1

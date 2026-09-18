@@ -9,7 +9,6 @@ name:
 id: HJXOD7NkUH7TZNJ1
 packFolder: extrasunguilded
 shortcode: cheselyneofsymdal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

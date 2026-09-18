@@ -9,7 +9,6 @@ name:
 id: avcFq3C90Xe8DUSd
 packFolder: extrasguilded
 shortcode: solineofpatrel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thief
@@ -110,13 +109,13 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 1
     - name: Opiates, 1oz
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: ropehempperft330lbcap, type: miscgear }

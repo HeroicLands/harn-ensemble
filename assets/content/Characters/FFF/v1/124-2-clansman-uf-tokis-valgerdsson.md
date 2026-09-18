@@ -9,9 +9,8 @@ name:
 id: sthqPBiIzMN0umog
 packFolder: fffmilitary
 shortcode: tokisvalgerdsson
-img: images/fffv1/token/FFF_124-2_Clansman_UF.png
-portrait: images/fffv1/FFF_124-2_Clansman_UF.jpg
-tokenImg: images/fffv1/token/FFF_124-2_Clansman_UF.png
+img: images/fffv1/token/fff1242tok.png
+portrait: images/fffv1/fff1242.jpg
 type: being
 social:
   occupation: Clansman (UF)

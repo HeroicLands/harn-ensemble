@@ -9,7 +9,6 @@ name:
 id: OrWbxVoWHuriJJl1
 packFolder: extrasnobles
 shortcode: krakanofelwethasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

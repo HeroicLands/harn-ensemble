@@ -9,7 +9,6 @@ name:
 id: jQjjaEtGJGJr27XH
 packFolder: extrasnobles
 shortcode: chaklynofgwyffidd
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

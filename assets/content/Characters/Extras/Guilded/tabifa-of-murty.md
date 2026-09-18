@@ -9,7 +9,6 @@ name:
 id: M31UzTobA886sM5v
 packFolder: extrasguilded
 shortcode: tabifaofmurty
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian

@@ -9,7 +9,6 @@ name:
 id: vhWShf4w2fgf8gtd
 packFolder: extrasnobles
 shortcode: zornaofpord
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald
@@ -118,7 +117,7 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 48
         weight: 1

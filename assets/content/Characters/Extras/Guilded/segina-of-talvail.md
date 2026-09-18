@@ -9,7 +9,6 @@ name:
 id: 7MLalk3RcsUlgfnS
 packFolder: extrasguilded
 shortcode: seginaoftalvail
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

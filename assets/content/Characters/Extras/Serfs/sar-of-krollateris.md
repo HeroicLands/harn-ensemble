@@ -9,7 +9,6 @@ name:
 id: KqvCueOGh5p7rp5o
 packFolder: extrasserfs
 shortcode: sarofkrollateris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

@@ -9,9 +9,8 @@ name:
 id: za7GGGs1Aubj6oLi
 packFolder: fffclergy
 shortcode: rodolkczurger
-img: images/fffv1/token/FFF_609-1_Priest_Save_Knor.png
-portrait: images/fffv1/FFF_609-1_Priest_Save_Knor.jpg
-tokenImg: images/fffv1/token/FFF_609-1_Priest_Save_Knor.png
+img: images/fffv1/token/fff6091tok.png
+portrait: images/fffv1/fff6091.jpg
 type: being
 social:
   occupation: Priest of Save K'nor

@@ -9,7 +9,6 @@ name:
 id: rXijJNSXzuYdAqup
 packFolder: extrasguilded
 shortcode: brasofarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer

@@ -9,7 +9,6 @@ name:
 id: rz5IOIuztzyzkNEB
 packFolder: extrasunguilded
 shortcode: sylviaofmanchi
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Fisherman
@@ -102,7 +101,7 @@ hm3:
     - { shortcode: fishingkitportable, type: miscgear }
     - name: Fishing line, 50'
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 10
         weight: 0.5

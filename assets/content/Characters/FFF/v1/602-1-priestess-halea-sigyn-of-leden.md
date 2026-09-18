@@ -9,9 +9,8 @@ name:
 id: cHaUpTHhhkvOD5XM
 packFolder: fffclergy
 shortcode: sigynofleden
-img: images/fffv1/token/FFF_602-1_Priestess_Halea.png
-portrait: images/fffv1/FFF_602-1_Priestess_Halea.jpg
-tokenImg: images/fffv1/token/FFF_602-1_Priestess_Halea.png
+img: images/fffv1/token/fff6021tok.png
+portrait: images/fffv1/fff6021.jpg
 type: being
 social:
   occupation: Shenasene
@@ -170,7 +169,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Exquisite clothes
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         notes: No armor value
         weight: 1

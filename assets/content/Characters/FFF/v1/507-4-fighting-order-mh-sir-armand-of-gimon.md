@@ -9,9 +9,8 @@ name:
 id: nMhBtTtcebFzVawZ
 packFolder: fffnobles
 shortcode: sirarmandofgimon
-img: images/fffv1/token/FFF_507-4_Fighting_Order_MH.png
-portrait: images/fffv1/FFF_507-4_Fighting_Order_MH.jpg
-tokenImg: images/fffv1/token/FFF_507-4_Fighting_Order_MH.png
+img: images/fffv1/token/fff5074tok.png
+portrait: images/fffv1/fff5074.jpg
 type: being
 social:
   occupation: Knight
@@ -166,7 +165,7 @@ hm3:
     - { shortcode: KiSh, type: weapongear }
     - name: Letter of introduction
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         notes: From the Chabla of the Lady of Paladins naming him as an erana (wandering knight)
         weight: 1

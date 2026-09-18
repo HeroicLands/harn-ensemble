@@ -9,9 +9,8 @@ name:
 id: DXII1oXhOLZBU8FB
 packFolder: fffguilded
 shortcode: mamachanti
-img: images/fffv1/token/FFF_330-1_Tentmaker.png
-portrait: images/fffv1/FFF_330-1_Tentmaker.jpg
-tokenImg: images/fffv1/token/FFF_330-1_Tentmaker.png
+img: images/fffv1/token/fff3301tok.png
+portrait: images/fffv1/fff3301.jpg
 type: being
 social:
   occupation: Tentmaker
@@ -120,7 +119,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Yarn and Needles
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 15 } }

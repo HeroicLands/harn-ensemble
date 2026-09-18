@@ -9,7 +9,6 @@ name:
 id: ox1iY7X0ksvjCFYm
 packFolder: extrasguilded
 shortcode: zaneofkansenalasanefris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

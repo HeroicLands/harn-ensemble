@@ -9,7 +9,6 @@ name:
 id: Mz6E3lPJlTx7z6ir
 packFolder: extrasserfs
 shortcode: dickonofkephis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

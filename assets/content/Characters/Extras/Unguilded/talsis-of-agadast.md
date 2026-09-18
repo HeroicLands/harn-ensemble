@@ -9,7 +9,6 @@ name:
 id: 3YmVvGOf2dDONKID
 packFolder: extrasunguilded
 shortcode: talsisofagadast
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Low Guard
@@ -109,7 +108,7 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Armor Repair kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 24
         weight: 10

@@ -9,7 +9,6 @@ name:
 id: Y7chZhxBQ1MaVoYY
 packFolder: extrasguilded
 shortcode: krakofgoselemas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

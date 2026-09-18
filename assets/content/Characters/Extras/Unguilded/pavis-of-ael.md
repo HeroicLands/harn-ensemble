@@ -9,7 +9,6 @@ name:
 id: T9iErYWqbv4xfGWl
 packFolder: extrasunguilded
 shortcode: pavisofael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Teamster
@@ -103,14 +102,14 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Broach, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 1
         weight: 0.03
     - { shortcode: tndrbx, type: miscgear }
     - name: Leggins, waxed canvas
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

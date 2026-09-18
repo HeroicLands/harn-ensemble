@@ -9,7 +9,6 @@ name:
 id: KRYQlry9WppdrShb
 packFolder: extrasclergy
 shortcode: kalinelaofalwenda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

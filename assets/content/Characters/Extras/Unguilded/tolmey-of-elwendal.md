@@ -9,7 +9,6 @@ name:
 id: A5yJBe6PABPq41g1
 packFolder: extrasunguilded
 shortcode: tolmeyofelwendal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

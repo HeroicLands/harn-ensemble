@@ -9,7 +9,6 @@ name:
 id: 1ZX2FLvKnFdvQ6aZ
 packFolder: extrasclergy
 shortcode: arbrinofhudusinar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

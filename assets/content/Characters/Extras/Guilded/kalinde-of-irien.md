@@ -9,7 +9,6 @@ name:
 id: sBJHPJNm4zoRwWhG
 packFolder: extrasguilded
 shortcode: kalindeofirien
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

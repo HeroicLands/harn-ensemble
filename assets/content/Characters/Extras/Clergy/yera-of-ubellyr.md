@@ -9,7 +9,6 @@ name:
 id: jF5XVOnHRfGEJ1cY
 packFolder: extrasclergy
 shortcode: yeraofubellyr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -140,13 +139,13 @@ hm3:
     - { shortcode: bellhand, type: miscgear }
     - name: Frankincense, oz, jar
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 80
         weight: 0.25
     - name: Holy Symbol, brass
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      img: systems/sohl/assets/icons/other/miscgear.svg
       system:
         value: 12
         weight: 0.1
