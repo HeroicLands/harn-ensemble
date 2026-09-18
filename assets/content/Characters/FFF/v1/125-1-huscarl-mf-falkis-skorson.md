@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff1251tok
-  portrait: fff1251
   templatePriority: 1
   gender: male
   species: human
@@ -704,6 +703,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1251|Falkis Skorson]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

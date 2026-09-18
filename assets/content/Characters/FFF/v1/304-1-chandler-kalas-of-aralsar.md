@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3041tok
-  portrait: fff3041
   templatePriority: 1
   gender: male
   species: human
@@ -681,6 +680,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3041|Kalas of Aralsar]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Imperial

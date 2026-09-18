@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5021tok
-  portrait: fff5021
   templatePriority: 1
   gender: male
   species: human
@@ -688,6 +687,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5021|Huw of Islwyn]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -22,7 +22,6 @@ harnworld:
     - naveh
 data:
   icon: fff6062tok
-  portrait: fff6062
   templatePriority: 1
   gender: male
   species: human
@@ -857,6 +856,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6062|Albin of Rihale]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

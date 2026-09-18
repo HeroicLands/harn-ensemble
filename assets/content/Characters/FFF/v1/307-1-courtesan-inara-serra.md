@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3071tok
-  portrait: fff3071
   templatePriority: 1
   gender: female
   species: human
@@ -725,6 +724,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3071|Inara Serra]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

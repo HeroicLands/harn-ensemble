@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5121tok
-  portrait: fff5121
   templatePriority: 1
   gender: female
   species: human
@@ -709,6 +708,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5121|Lady Elena Valador]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

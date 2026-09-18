@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff3061tok
-  portrait: fff3061
   templatePriority: 1
   gender: male
   species: human
@@ -710,6 +709,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3061|Gwyte of Marath]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

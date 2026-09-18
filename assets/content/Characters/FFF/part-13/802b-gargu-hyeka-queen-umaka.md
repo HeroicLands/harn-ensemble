@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff802bhead
   tokenIcon: fff802btok
-  portrait: fff802b
   gender: female
   species: hyeka
   age: 20
@@ -141,6 +140,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff802b|Umaka]]{float: top-left}
 
 **Species**: Gargu-hyeka
 **Sex**: Female

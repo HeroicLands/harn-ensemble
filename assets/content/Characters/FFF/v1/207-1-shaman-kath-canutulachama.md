@@ -21,7 +21,6 @@ harnworld:
   ritual: []
 data:
   icon: fff2071tok
-  portrait: fff2071
   templatePriority: 1
   gender: male
   species: human
@@ -677,6 +676,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff2071|Canutulachama]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Tribal

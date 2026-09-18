@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff1091tok
-  portrait: fff1091
   templatePriority: 1
   gender: male
   species: human
@@ -687,6 +686,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1091|Petin Muldabel]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4101tok
-  portrait: fff4101
   templatePriority: 1
   gender: male
   species: human
@@ -654,6 +653,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4101|Vadulf of Gesper]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

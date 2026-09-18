@@ -21,7 +21,6 @@ harnworld:
   ritual: []
 data:
   icon: fff4121tok
-  portrait: fff4121
   templatePriority: 1
   gender: male
   species: human
@@ -662,6 +661,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4121|Earny of Smesel]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

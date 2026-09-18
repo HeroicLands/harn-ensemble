@@ -22,7 +22,6 @@ harnworld:
     - christian
 data:
   icon: fff5061tok
-  portrait: fff5061
   templatePriority: 1
   gender: male
   species: human
@@ -769,6 +768,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5061|Sir Rollard d'Audrieu]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

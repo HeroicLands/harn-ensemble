@@ -21,7 +21,6 @@ harnworld:
   ritual: []
 data:
   icon: fff5041tok
-  portrait: fff5041
   templatePriority: 1
   gender: male
   species: human
@@ -671,6 +670,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5041|Taran Ensal]]{float: top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

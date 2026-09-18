@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff6082tok
-  portrait: fff6082
   templatePriority: 1
   gender: female
   species: human
@@ -836,6 +835,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6082|Grimhilda Forsetha]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Ivinian

@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804bhead
   tokenIcon: fff804btok
-  portrait: fff804b
   gender: male
   species: kyani
   age: 6
@@ -149,6 +148,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff804b|Taatulk]]{float: top-left}
 
 **Species**: Gargu-kyani
 **Sex**: Male

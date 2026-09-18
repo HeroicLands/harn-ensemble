@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3322tok
-  portrait: fff3322
   templatePriority: 1
   gender: male
   species: human
@@ -693,6 +692,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3322|Carex of Speh]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

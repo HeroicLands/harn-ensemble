@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3242tok
-  portrait: fff3242
   templatePriority: 1
   gender: male
   species: human
@@ -724,6 +723,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3242|Llawaur Tam]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

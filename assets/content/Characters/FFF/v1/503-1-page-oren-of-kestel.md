@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5031tok
-  portrait: fff5031
   templatePriority: 1
   gender: male
   species: human
@@ -689,6 +688,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5031|Oren of Kestel]]{float: top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804ghead
   tokenIcon: fff804gtok
-  portrait: fff804g
   gender: male
   species: gargu (aberrant)
   height: 3.02
@@ -146,6 +145,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff804g|Borka]]{float: top-left}
 
 **Species**: Gargun (aberrant)
 **Sex**: Male

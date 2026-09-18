@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff4211tok
-  portrait: fff4211
   templatePriority: 1
   gender: male
   species: human
@@ -709,6 +708,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4211|Wyte of Fyrwey]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

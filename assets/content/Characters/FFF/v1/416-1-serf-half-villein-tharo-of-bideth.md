@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4161tok
-  portrait: fff4161
   templatePriority: 1
   gender: male
   species: human
@@ -690,6 +689,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4161|Tharo of Bideth]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

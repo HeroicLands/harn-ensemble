@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff1041tok
-  portrait: fff1041
   templatePriority: 1
   gender: male
   species: human
@@ -724,6 +723,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1041|Anax of Junius]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

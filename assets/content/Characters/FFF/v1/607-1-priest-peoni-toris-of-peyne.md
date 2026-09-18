@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff6071tok
-  portrait: fff6071
   templatePriority: 1
   gender: male
   species: human
@@ -774,6 +773,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6071|Toris of Peyne]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

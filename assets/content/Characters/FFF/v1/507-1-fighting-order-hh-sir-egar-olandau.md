@@ -22,7 +22,6 @@ harnworld:
     - agrik
 data:
   icon: fff5071tok
-  portrait: fff5071
   templatePriority: 1
   gender: male
   species: human
@@ -839,6 +838,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5071|Sir Egar Olandau]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

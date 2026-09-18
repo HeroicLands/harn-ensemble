@@ -23,7 +23,6 @@ harnworld:
     - saveknor
 data:
   icon: fff7021tok
-  portrait: fff7021
   templatePriority: 1
   gender: male
   species: human
@@ -1035,6 +1034,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff7021|Tobas "Wick" of Sharvan]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

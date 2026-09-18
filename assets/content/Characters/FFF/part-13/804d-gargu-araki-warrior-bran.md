@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804dhead
   tokenIcon: fff804dtok
-  portrait: fff804d
   gender: male
   species: gargu-araki
   age: 12
@@ -143,6 +142,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff804d|Bran]]{float: top-left}
 
 **Species**: Gargu-araki
 **Sex**: Male

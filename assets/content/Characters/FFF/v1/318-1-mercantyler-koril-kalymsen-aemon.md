@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3181tok
-  portrait: fff3181
   templatePriority: 1
   gender: male
   species: human
@@ -688,6 +687,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3181|Koril Kalymsen Aemon]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

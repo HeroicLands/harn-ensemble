@@ -23,7 +23,6 @@ harnworld:
     - saveknor
 data:
   icon: fff5101tok
-  portrait: fff5101
   templatePriority: 1
   gender: male
   species: human
@@ -775,6 +774,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5101|Andel Gebar]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

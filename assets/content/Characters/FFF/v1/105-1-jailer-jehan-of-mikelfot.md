@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff1051tok
-  portrait: fff1051
   templatePriority: 1
   gender: male
   species: human
@@ -711,6 +710,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1051|Jehan of Mikelfot]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

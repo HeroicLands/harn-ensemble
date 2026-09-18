@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5051tok
-  portrait: fff5051
   templatePriority: 1
   gender: male
   species: human
@@ -747,6 +746,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5051|Lord Emmon Wisby]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

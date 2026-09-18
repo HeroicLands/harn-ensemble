@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff4174tok
-  portrait: fff4174
   templatePriority: 1
   gender: female
   species: human
@@ -741,6 +740,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4174|Ortilla of Islwyn]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

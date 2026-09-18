@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5991tok
-  portrait: fff5991
   templatePriority: 1
   gender: male
   species: human
@@ -671,6 +670,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5991|Miris Drelican]]{float: top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

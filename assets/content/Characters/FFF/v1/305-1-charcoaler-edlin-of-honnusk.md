@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3051tok
-  portrait: fff3051
   templatePriority: 1
   gender: male
   species: human
@@ -680,6 +679,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3051|Edlin of Honnusk]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

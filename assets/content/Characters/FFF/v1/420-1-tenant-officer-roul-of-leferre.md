@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4201tok
-  portrait: fff4201
   templatePriority: 1
   gender: male
   species: human
@@ -705,6 +704,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4201|Roul of Leferre]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

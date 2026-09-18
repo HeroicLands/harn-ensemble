@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4191tok
-  portrait: fff4191
   templatePriority: 1
   gender: male
   species: human
@@ -724,6 +723,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4191|Romont of Addy]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

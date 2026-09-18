@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff801ahead
   tokenIcon: fff801atok
-  portrait: fff801a
   gender: male
   species: gargu-viasal
   age: 15
@@ -143,6 +142,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff801a|Margum]]{float: top-left}
 
 **Species**: Gargu-viasal
 **Sex**: Male

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4181tok
-  portrait: fff4181
   templatePriority: 1
   gender: male
   species: human
@@ -636,6 +635,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4181|Donkey]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Imperial

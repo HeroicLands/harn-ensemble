@@ -23,7 +23,6 @@ harnworld:
     - peoni
 data:
   icon: fff1154tok
-  portrait: fff1154
   templatePriority: 1
   gender: male
   species: human
@@ -721,6 +720,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1154|Marek of Kail]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

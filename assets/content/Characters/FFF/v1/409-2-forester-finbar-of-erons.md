@@ -23,7 +23,6 @@ harnworld:
     - halea
 data:
   icon: fff4092tok
-  portrait: fff4092
   templatePriority: 1
   gender: male
   species: human
@@ -709,6 +708,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4092|Finbar of Erons]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3223tok
-  portrait: fff3223
   templatePriority: 1
   gender: male
   species: human
@@ -684,6 +683,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3223|Esar of Keriel]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

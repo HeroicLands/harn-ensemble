@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3171tok
-  portrait: fff3171
   templatePriority: 1
   gender: male
   species: human
@@ -696,6 +695,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3171|Droun of Intrel]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

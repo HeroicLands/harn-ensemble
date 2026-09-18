@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1152tok
-  portrait: fff1152
   templatePriority: 1
   gender: male
   species: human
@@ -749,6 +748,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1152|Esharel Ranals]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

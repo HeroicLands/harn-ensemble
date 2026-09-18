@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5102tok
-  portrait: fff5102
   templatePriority: 1
   gender: male
   species: human
@@ -755,6 +754,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5102|Sir Jorn Stury]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

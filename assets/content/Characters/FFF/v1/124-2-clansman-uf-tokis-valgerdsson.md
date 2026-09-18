@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff1242tok
-  portrait: fff1242
   templatePriority: 1
   gender: male
   species: human
@@ -709,6 +708,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1242|Tokis Valgerdsson]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4171tok
-  portrait: fff4171
   templatePriority: 1
   gender: male
   species: human
@@ -678,6 +677,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4171|Gathric of Deschu]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

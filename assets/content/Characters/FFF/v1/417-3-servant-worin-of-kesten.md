@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4173tok
-  portrait: fff4173
   templatePriority: 1
   gender: male
   species: human
@@ -680,6 +679,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4173|Worin of Kesten]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

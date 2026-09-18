@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff3992tok
-  portrait: fff3992
   templatePriority: 1
   gender: male
   species: human
@@ -663,6 +662,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3992|Berik of Kestel]]{float: top-left}
 
 **Apparent Age**: Child
 **Culture**: Feudal

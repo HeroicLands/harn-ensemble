@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff6041tok
-  portrait: fff6041
   templatePriority: 1
   gender: male
   species: human
@@ -808,6 +807,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6041|Rayald Cotrael]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

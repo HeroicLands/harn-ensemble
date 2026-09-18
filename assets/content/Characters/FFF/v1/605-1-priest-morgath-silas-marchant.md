@@ -22,7 +22,6 @@ harnworld:
     - morgath
 data:
   icon: fff6051tok
-  portrait: fff6051
   templatePriority: 1
   gender: male
   species: human
@@ -747,6 +746,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6051|Silas Marchant]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

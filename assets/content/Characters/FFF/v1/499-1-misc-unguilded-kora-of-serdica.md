@@ -22,7 +22,6 @@ harnworld:
     - "custom|Old Jarin"
 data:
   icon: fff4991tok
-  portrait: fff4991
   templatePriority: 1
   gender: female
   species: human
@@ -674,6 +673,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4991|Kora of Serdica]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

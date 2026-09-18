@@ -22,7 +22,6 @@ harnworld:
     - saveknor
 data:
   icon: fff3151tok
-  portrait: fff3151
   templatePriority: 1
   gender: male
   species: human
@@ -726,6 +725,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3151|Petry of Alloc]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

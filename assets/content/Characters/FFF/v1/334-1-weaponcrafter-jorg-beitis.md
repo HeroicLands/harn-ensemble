@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3341tok
-  portrait: fff3341
   templatePriority: 1
   gender: male
   species: human
@@ -707,6 +706,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3341|Jorg Beitis]]{float: top-left}
 
 **Apparent Age**: Middle Aged
 **Culture**: Viking

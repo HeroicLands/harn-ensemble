@@ -23,7 +23,6 @@ harnworld:
     - saveknor
 data:
   icon: fff4141tok
-  portrait: fff4141
   templatePriority: 1
   gender: male
   species: human
@@ -721,6 +720,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4141|Wybert Graon]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

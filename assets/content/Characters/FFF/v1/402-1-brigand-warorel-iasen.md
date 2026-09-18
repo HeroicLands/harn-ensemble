@@ -21,7 +21,6 @@ harnworld:
   ritual: []
 data:
   icon: fff4021tok
-  portrait: fff4021
   templatePriority: 1
   gender: male
   species: human
@@ -689,6 +688,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4021|Warorel Iasen]]{float: top-left}
 
 **Apparent Age**: Middle age
 **Culture**: Feudal

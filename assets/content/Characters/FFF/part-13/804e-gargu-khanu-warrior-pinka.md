@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804ehead
   tokenIcon: fff804etok
-  portrait: fff804e
   gender: male
   species: khanu
   age: 10
@@ -130,6 +129,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff804e|Pinka]]{float: top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Male

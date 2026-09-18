@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff1271tok
-  portrait: fff1271
   templatePriority: 1
   gender: male
   species: human
@@ -744,6 +743,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1271|Ealfric Defard]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

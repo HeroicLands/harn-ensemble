@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1273tok
-  portrait: fff1273
   templatePriority: 1
   gender: female
   species: human
@@ -739,6 +738,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1273|Zoe Fiorfohd]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

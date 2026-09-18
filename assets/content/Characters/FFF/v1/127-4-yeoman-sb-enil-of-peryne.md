@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff1274tok
-  portrait: fff1274
   templatePriority: 1
   gender: male
   species: human
@@ -742,6 +741,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1274|Enil of Peryne]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -22,7 +22,6 @@ harnworld:
     - sha
 data:
   icon: fff2063tok
-  portrait: fff2063
   templatePriority: 1
   gender: female
   species: human
@@ -707,6 +706,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff2063|Kit'tiara Wampusha]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

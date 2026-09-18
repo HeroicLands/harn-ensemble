@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3102tok
-  portrait: fff3102
   templatePriority: 1
   gender: female
   species: human
@@ -757,6 +756,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3102|Pelyn of Valas]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

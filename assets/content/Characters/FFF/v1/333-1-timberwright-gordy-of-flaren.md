@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3331tok
-  portrait: fff3331
   templatePriority: 1
   gender: male
   species: human
@@ -699,6 +698,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3331|Gordy of Flaren]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

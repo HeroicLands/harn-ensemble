@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4061tok
-  portrait: fff4061
   templatePriority: 1
   gender: male
   species: human
@@ -695,6 +694,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4061|Fil the Flutist]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

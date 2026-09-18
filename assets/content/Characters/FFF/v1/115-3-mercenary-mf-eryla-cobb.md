@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff1153tok
-  portrait: fff1153
   templatePriority: 1
   gender: male
   species: human
@@ -755,6 +754,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1153|Eryla Cobb]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

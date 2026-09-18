@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3182tok
-  portrait: fff3182
   templatePriority: 1
   gender: male
   species: human
@@ -766,6 +765,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3182|Gaeffel of Thola]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

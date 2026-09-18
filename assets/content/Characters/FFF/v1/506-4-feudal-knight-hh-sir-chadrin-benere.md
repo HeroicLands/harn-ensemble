@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5064tok
-  portrait: fff5064
   templatePriority: 1
   gender: male
   species: human
@@ -738,6 +737,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5064|Sir Chadrin Benere]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

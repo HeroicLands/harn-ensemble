@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3321tok
-  portrait: fff3321
   templatePriority: 1
   gender: male
   species: human
@@ -679,6 +678,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3321|Vakon Lemetyer]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

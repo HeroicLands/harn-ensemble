@@ -22,7 +22,6 @@ harnworld:
     - yavanna
 data:
   icon: fff2011tok
-  portrait: fff2011
   templatePriority: 1
   gender: male
   species: human (drughu)
@@ -701,6 +700,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff2011|Brun]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4131tok
-  portrait: fff4131
   templatePriority: 1
   gender: male
   species: human
@@ -667,6 +666,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4131|Bolgar the Mad]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

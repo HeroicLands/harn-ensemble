@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4051tok
-  portrait: fff4051
   templatePriority: 1
   gender: male
   species: human
@@ -708,6 +707,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4051|Onfroi of Metical]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

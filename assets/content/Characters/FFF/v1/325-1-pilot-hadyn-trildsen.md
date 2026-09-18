@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3251tok
-  portrait: fff3251
   templatePriority: 1
   gender: male
   species: human
@@ -708,6 +707,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3251|Hadyn Trildsen]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

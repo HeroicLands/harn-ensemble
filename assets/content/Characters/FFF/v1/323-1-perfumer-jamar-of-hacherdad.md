@@ -22,7 +22,6 @@ harnworld:
     - nalma
 data:
   icon: fff3231tok
-  portrait: fff3231
   templatePriority: 1
   gender: male
   species: human
@@ -724,6 +723,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3231|Jamar of Hacherdad]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

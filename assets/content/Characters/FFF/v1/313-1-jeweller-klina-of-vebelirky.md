@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3131tok
-  portrait: fff3131
   templatePriority: 1
   gender: male
   species: human
@@ -703,6 +702,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3131|Klina of Vebelirky]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Imperial

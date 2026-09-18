@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff1272tok
-  portrait: fff1272
   templatePriority: 1
   gender: male
   species: human
@@ -709,6 +708,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1272|Gwyn of Polruan]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

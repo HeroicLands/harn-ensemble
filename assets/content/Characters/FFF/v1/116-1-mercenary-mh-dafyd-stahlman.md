@@ -22,7 +22,6 @@ harnworld:
     - agrik
 data:
   icon: fff1161tok
-  portrait: fff1161
   templatePriority: 1
   gender: male
   species: human
@@ -717,6 +716,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1161|Dafyd Stahlman]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

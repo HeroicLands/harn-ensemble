@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5042tok
-  portrait: fff5042
   templatePriority: 1
   gender: male
   species: human
@@ -725,6 +724,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5042|Uldis Harand]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

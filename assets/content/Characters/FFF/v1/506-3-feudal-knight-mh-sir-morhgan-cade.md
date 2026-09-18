@@ -22,7 +22,6 @@ harnworld:
     - morgath
 data:
   icon: fff5063tok
-  portrait: fff5063
   templatePriority: 1
   gender: male
   species: human
@@ -716,6 +715,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5063|Sir Morhgan Cade]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

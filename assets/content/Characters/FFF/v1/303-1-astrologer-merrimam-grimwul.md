@@ -22,7 +22,6 @@ harnworld:
     - saveknor
 data:
   icon: fff3031tok
-  portrait: fff3031
   templatePriority: 1
   gender: male
   species: human
@@ -779,6 +778,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3031|Merrimam Grimwul]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

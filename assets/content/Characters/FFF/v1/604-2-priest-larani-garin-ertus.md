@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff6042tok
-  portrait: fff6042
   templatePriority: 1
   gender: male
   species: human
@@ -805,6 +804,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6042|Garin Ertus]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

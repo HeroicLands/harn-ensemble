@@ -21,7 +21,6 @@ harnworld:
   ritual: []
 data:
   icon: fff7061tok
-  portrait: fff7061
   templatePriority: 1
   gender: female
   species: human
@@ -823,6 +822,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff7061|Shansea Garavania]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4111tok
-  portrait: fff4111
   templatePriority: 1
   gender: female
   species: human
@@ -661,6 +660,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4111|Marlyn of Tyne]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

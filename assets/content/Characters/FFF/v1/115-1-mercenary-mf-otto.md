@@ -22,7 +22,6 @@ harnworld:
     - naveh
 data:
   icon: fff1151tok
-  portrait: fff1151
   templatePriority: 1
   gender: male
   species: human
@@ -744,6 +743,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1151|Otto]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Imperial

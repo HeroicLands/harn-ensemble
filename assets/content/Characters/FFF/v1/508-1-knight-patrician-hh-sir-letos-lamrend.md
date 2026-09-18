@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff5081tok
-  portrait: fff5081
   templatePriority: 1
   gender: male
   species: human
@@ -735,6 +734,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5081|Sir Letos Lamrend]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

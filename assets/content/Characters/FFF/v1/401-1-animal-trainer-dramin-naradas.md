@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4011tok
-  portrait: fff4011
   templatePriority: 1
   gender: male
   species: human
@@ -721,6 +720,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4011|Dramin Naradas]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

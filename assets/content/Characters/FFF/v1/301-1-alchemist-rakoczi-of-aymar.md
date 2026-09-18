@@ -22,7 +22,6 @@ harnworld:
     - saveknor
 data:
   icon: fff3011tok
-  portrait: fff3011
   templatePriority: 1
   gender: male
   species: human
@@ -685,6 +684,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3011|Rakoczi of Aymar]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

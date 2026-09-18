@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff803bhead
   tokenIcon: fff803btok
-  portrait: fff803b
   gender: female
   species: kyani
   age: 10
@@ -162,6 +161,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff803b|Tabeas]]{float: top-left}
 
 **Species**: Gargu-kyani
 **Sex**: Female

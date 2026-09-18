@@ -23,7 +23,6 @@ harnworld:
     - larani
 data:
   icon: fff4231tok
-  portrait: fff4231
   templatePriority: 1
   gender: male
   species: human
@@ -679,6 +678,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4231|Digger]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

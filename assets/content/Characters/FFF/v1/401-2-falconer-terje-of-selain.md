@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4012tok
-  portrait: fff4012
   templatePriority: 1
   gender: male
   species: human
@@ -721,6 +720,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4012|Terje of Selain]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

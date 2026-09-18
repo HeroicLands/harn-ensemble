@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5072tok
-  portrait: fff5072
   templatePriority: 1
   gender: male
   species: human
@@ -747,6 +746,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5072|Sir Samuel of Zoben]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

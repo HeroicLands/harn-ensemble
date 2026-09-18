@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1081tok
-  portrait: fff1081
   templatePriority: 1
   gender: male
   species: khuzdul
@@ -793,6 +792,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1081|Zirshath Glarzul]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Khuzdul

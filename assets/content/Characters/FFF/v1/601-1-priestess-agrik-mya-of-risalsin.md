@@ -22,7 +22,6 @@ harnworld:
     - agrik
 data:
   icon: fff6011tok
-  portrait: fff6011
   templatePriority: 1
   gender: female
   species: human
@@ -837,6 +836,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6011|Mya of Risalsin]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

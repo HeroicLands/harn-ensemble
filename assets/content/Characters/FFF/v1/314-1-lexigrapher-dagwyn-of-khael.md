@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3141tok
-  portrait: fff3141
   templatePriority: 1
   gender: female
   species: human
@@ -650,6 +649,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3141|Dagwyn of Khael]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

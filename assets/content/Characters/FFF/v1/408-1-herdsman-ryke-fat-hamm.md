@@ -23,7 +23,6 @@ harnworld:
     - peoni
 data:
   icon: fff4081tok
-  portrait: fff4081
   templatePriority: 1
   gender: male
   species: human
@@ -725,6 +724,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4081|Ryke "Fat" Hamm]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

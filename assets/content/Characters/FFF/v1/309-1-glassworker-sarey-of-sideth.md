@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3091tok
-  portrait: fff3091
   templatePriority: 1
   gender: male
   species: human
@@ -681,6 +680,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3091|Sarey of Sideth]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3121tok
-  portrait: fff3121
   templatePriority: 1
   gender: male
   species: human
@@ -676,6 +675,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3121|Barton of Gelram]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

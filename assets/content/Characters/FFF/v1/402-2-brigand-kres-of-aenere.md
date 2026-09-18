@@ -23,7 +23,6 @@ harnworld:
     - agrik
 data:
   icon: fff4022tok
-  portrait: fff4022
   templatePriority: 1
   gender: male
   species: human
@@ -724,6 +723,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4022|Kres of Aenere]]{float: top-left}
 
 **Apparent Age**: Middle age
 **Culture**: Feudal

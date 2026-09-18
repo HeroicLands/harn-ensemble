@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff4152tok
-  portrait: fff4152
   templatePriority: 1
   gender: female
   species: human
@@ -748,6 +747,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4152|Ygwelve Forsetha]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Ivinian

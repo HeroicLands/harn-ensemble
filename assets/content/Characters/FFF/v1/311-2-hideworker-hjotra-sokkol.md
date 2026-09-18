@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3112tok
-  portrait: fff3112
   templatePriority: 1
   gender: female
   species: human
@@ -718,6 +717,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3112|Hjotra Sokkol]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

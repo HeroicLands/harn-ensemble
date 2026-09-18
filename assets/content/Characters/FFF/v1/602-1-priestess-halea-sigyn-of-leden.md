@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff6021tok
-  portrait: fff6021
   templatePriority: 1
   gender: female
   species: human
@@ -807,6 +806,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6021|Sigyn of Leden]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

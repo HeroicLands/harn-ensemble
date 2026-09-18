@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1221tok
-  portrait: fff1221
   templatePriority: 1
   gender: male
   species: sindarin
@@ -791,6 +790,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1221|Melas Renier]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

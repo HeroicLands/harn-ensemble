@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3291tok
-  portrait: fff3291
   templatePriority: 1
   gender: male
   species: human
@@ -742,6 +741,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3291|Husraas of Kjalis]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

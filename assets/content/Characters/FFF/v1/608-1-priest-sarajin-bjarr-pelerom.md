@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff6081tok
-  portrait: fff6081
   templatePriority: 1
   gender: male
   species: human
@@ -834,6 +833,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6081|Bjarr Pelerom]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

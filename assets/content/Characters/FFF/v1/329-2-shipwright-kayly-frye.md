@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3292tok
-  portrait: fff3292
   templatePriority: 1
   gender: female
   species: human
@@ -713,6 +712,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3292|Kayly Frye]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

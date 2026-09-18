@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff6031tok
-  portrait: fff6031
   templatePriority: 1
   gender: male
   species: human
@@ -792,6 +791,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6031|Mansu Quig]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Jarin

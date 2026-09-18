@@ -23,7 +23,6 @@ harnworld:
     - saveknor
 data:
   icon: fff7031tok
-  portrait: fff7031
   templatePriority: 1
   gender: male
   species: human
@@ -838,6 +837,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff7031|Maccus of Tixena]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

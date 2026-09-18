@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3241tok
-  portrait: fff3241
   templatePriority: 1
   gender: male
   species: human
@@ -662,6 +661,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3241|Bascal Ryke]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

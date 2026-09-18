@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff6072tok
-  portrait: fff6072
   templatePriority: 1
   gender: male
   species: human
@@ -664,6 +663,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6072|Balis of Jiml]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

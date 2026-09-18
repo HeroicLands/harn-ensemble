@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3301tok
-  portrait: fff3301
   templatePriority: 1
   gender: female
   species: human
@@ -661,6 +660,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3301|Mama Chanti]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

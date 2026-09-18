@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3103tok
-  portrait: fff3103
   templatePriority: 1
   gender: male
   species: human
@@ -736,6 +735,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3103|Geiter Gautisson]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

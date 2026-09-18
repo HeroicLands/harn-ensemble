@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804chead
   tokenIcon: fff804ctok
-  portrait: fff804c
   gender: male
   species: gargu-khanu
   age: 11
@@ -144,6 +143,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff804c|Akeur]]{float: top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Male

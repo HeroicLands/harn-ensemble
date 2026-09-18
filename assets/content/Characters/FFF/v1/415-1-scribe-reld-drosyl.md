@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4151tok
-  portrait: fff4151
   templatePriority: 1
   gender: male
   species: human
@@ -733,6 +732,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4151|Reld Drosyl]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

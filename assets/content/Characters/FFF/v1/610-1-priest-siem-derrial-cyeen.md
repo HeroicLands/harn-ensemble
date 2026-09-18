@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff6101tok
-  portrait: fff6101
   templatePriority: 1
   gender: male
   species: human
@@ -808,6 +807,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6101|Derrial Cyeen]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

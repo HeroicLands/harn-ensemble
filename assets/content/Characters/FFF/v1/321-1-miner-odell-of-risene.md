@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3211tok
-  portrait: fff3211
   templatePriority: 1
   gender: male
   species: human
@@ -742,6 +741,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3211|Odell of Risene]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

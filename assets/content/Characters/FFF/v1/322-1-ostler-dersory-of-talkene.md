@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3221tok
-  portrait: fff3221
   templatePriority: 1
   gender: male
   species: human
@@ -711,6 +710,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3221|Dersory of Talkene]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3081tok
-  portrait: fff3081
   templatePriority: 1
   gender: male
   species: human
@@ -704,6 +703,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3081|Gravith of Dray]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

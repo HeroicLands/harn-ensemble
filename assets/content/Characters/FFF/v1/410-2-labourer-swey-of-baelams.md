@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4102tok
-  portrait: fff4102
   templatePriority: 1
   gender: male
   species: human
@@ -692,6 +691,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4102|Swey of Baelams]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff3323tok
-  portrait: fff3323
   templatePriority: 1
   gender: female
   species: human
@@ -686,6 +685,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3323|Rybryn of Dara]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

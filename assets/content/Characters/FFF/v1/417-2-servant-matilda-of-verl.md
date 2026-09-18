@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4172tok
-  portrait: fff4172
   templatePriority: 1
   gender: female
   species: human
@@ -695,6 +694,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4172|Matilda of Verl]]{float: top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

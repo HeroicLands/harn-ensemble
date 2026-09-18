@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3101tok
-  portrait: fff3101
   templatePriority: 1
   gender: male
   species: human
@@ -669,6 +668,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3101|Ondarn Khorild]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

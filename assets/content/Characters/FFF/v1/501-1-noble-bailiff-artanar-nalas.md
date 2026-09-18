@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5011tok
-  portrait: fff5011
   templatePriority: 1
   gender: male
   species: human
@@ -707,6 +706,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff5011|Artanar Nalas]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

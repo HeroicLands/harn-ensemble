@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff803ahead
   tokenIcon: fff803atok
-  portrait: fff803a
   gender: female
   species: gargu-khanu
   age: 12
@@ -182,6 +181,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff803a|Gana]]{float: top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Female

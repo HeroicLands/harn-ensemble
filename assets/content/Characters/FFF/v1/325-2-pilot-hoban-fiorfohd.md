@@ -23,7 +23,6 @@ harnworld:
     - eder
 data:
   icon: fff3252tok
-  portrait: fff3252
   templatePriority: 1
   gender: male
   species: human
@@ -705,6 +704,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3252|Hoban Fiorfohd]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

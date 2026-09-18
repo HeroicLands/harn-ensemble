@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1061tok
-  portrait: fff1061
   templatePriority: 1
   gender: male
   species: khuzdul
@@ -810,6 +809,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1061|Eitri Terrika]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Khuzdul

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3351tok
-  portrait: fff3351
   templatePriority: 1
   gender: male
   species: human
@@ -670,6 +669,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3351|Peri the Lame]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

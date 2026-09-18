@@ -23,7 +23,6 @@ harnworld:
     - agrik
 data:
   icon: fff3991tok
-  portrait: fff3991
   templatePriority: 1
   gender: female
   species: human
@@ -734,6 +733,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3991|Kiba Tam]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

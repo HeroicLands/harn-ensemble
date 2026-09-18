@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff1031tok
-  portrait: fff1031
   templatePriority: 1
   gender: male
   species: human
@@ -721,6 +720,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1031|Sergeant Yerick of Eram]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -22,7 +22,6 @@ harnworld:
     - korr
 data:
   icon: fff2062tok
-  portrait: fff2062
   templatePriority: 1
   gender: male
   species: human
@@ -722,6 +721,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff2062|Muga Psawei]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Tribal

@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3111tok
-  portrait: fff3111
   templatePriority: 1
   gender: male
   species: human
@@ -669,6 +668,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3111|Barris of Gorn]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

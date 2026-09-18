@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3152tok
-  portrait: fff3152
   templatePriority: 1
   gender: male
   species: human
@@ -732,6 +731,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3152|Fisk Horval]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Ivinian

@@ -25,7 +25,6 @@ harnworld:
     - naveh
 data:
   icon: fff6091tok
-  portrait: fff6091
   templatePriority: 1
   gender: male
   species: human
@@ -951,6 +950,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6091|Rodolk Czurger]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

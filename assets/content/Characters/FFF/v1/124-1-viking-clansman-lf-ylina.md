@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff1241tok
-  portrait: fff1241
   templatePriority: 1
   gender: female
   species: human
@@ -749,6 +748,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff1241|Ylina]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

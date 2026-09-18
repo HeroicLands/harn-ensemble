@@ -22,7 +22,6 @@ harnworld:
     - saveknor
 data:
   icon: fff7071tok
-  portrait: fff7071
   templatePriority: 1
   gender: male
   species: human
@@ -1504,6 +1503,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff7071|Kirill of Vetus]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

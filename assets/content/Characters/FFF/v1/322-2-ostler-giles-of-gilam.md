@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3222tok
-  portrait: fff3222
   templatePriority: 1
   gender: male
   species: human
@@ -692,6 +691,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3222|Giles of Gilam]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

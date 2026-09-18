@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3021tok
-  portrait: fff3021
   templatePriority: 1
   gender: female
   species: human
@@ -708,6 +707,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3021|Seelie of Kestel]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

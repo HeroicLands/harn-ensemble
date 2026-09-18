@@ -22,7 +22,6 @@ harnworld:
     - urklam
 data:
   icon: fff8991tok
-  portrait: fff8991
   gender: male
   species: ogre
   height: 2.79
@@ -156,6 +155,8 @@ hm3:
 ---
 
 # Appearance {#appearance}
+
+![[fff8991|Derbis]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Ogre

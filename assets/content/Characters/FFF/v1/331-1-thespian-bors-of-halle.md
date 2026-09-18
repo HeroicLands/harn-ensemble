@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3311tok
-  portrait: fff3311
   templatePriority: 1
   gender: male
   species: human
@@ -667,6 +666,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff3311|Bors of Halle]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

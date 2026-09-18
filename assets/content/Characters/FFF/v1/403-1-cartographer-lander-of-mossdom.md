@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff4031tok
-  portrait: fff4031
   templatePriority: 1
   gender: male
   species: human
@@ -675,6 +674,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff4031|Lander of Mossdom]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

@@ -23,7 +23,6 @@ harnworld:
     - peoni
 data:
   icon: fff6061tok
-  portrait: fff6061
   templatePriority: 1
   gender: female
   species: human
@@ -839,6 +838,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+![[fff6061|Riatha Deherne]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal
