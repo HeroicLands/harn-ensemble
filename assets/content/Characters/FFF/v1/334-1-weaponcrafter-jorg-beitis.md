@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3341tok
-  portrait: fff3341
   templatePriority: 1
   gender: male
   species: human
@@ -705,6 +704,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3341|Jorg Beitis]]{float: top-left}
 
 # Appearance {#appearance}
 

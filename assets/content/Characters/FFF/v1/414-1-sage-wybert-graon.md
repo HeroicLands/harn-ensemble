@@ -23,7 +23,6 @@ harnworld:
     - saveknor
 data:
   icon: fff4141tok
-  portrait: fff4141
   templatePriority: 1
   gender: male
   species: human
@@ -719,6 +718,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4141|Wybert Graon]]{float: top-left}
 
 # Appearance {#appearance}
 

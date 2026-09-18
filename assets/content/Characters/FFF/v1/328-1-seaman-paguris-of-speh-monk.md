@@ -23,7 +23,6 @@ harnworld:
     - eder
 data:
   icon: fff3281tok
-  portrait: fff3281
   templatePriority: 1
   gender: male
   species: human
@@ -702,6 +701,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3281|Paguris of Speh (Monk)]]{float: top-left}
 
 # Appearance {#appearance}
 

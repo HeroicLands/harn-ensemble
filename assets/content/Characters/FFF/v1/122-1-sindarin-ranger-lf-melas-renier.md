@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1221tok
-  portrait: fff1221
   templatePriority: 1
   gender: male
   species: sindarin
@@ -789,6 +788,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1221|Melas Renier]]{float: top-left}
 
 # Appearance {#appearance}
 

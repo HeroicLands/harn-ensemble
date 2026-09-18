@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3161tok
-  portrait: fff3161
   templatePriority: 1
   gender: male
   species: human
@@ -675,6 +674,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3161|Orlir of Fulkne]]{float: top-left}
 
 # Appearance {#appearance}
 

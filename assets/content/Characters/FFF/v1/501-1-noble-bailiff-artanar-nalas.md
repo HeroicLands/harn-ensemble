@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5011tok
-  portrait: fff5011
   templatePriority: 1
   gender: male
   species: human
@@ -705,6 +704,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5011|Artanar Nalas]]{float: top-left}
 
 # Appearance {#appearance}
 

@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3112tok
-  portrait: fff3112
   templatePriority: 1
   gender: female
   species: human
@@ -716,6 +715,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3112|Hjotra Sokkol]]{float: top-left}
 
 # Appearance {#appearance}
 

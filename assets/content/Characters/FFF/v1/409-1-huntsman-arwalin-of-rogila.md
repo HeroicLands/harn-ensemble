@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4091tok
-  portrait: fff4091
   templatePriority: 1
   gender: male
   species: human
@@ -713,6 +712,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4091|Arwalin of Rogila]]{float: top-left}
 
 # Appearance {#appearance}
 

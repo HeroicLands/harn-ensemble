@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3292tok
-  portrait: fff3292
   templatePriority: 1
   gender: female
   species: human
@@ -711,6 +710,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3292|Kayly Frye]]{float: top-left}
 
 # Appearance {#appearance}
 

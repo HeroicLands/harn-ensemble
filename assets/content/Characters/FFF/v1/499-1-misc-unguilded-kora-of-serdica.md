@@ -22,7 +22,6 @@ harnworld:
     - "custom|Old Jarin"
 data:
   icon: fff4991tok
-  portrait: fff4991
   templatePriority: 1
   gender: female
   species: human
@@ -672,6 +671,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4991|Kora of Serdica]]{float: top-left}
 
 # Appearance {#appearance}
 

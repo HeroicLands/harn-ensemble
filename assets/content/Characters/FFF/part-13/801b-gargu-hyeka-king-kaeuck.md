@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff801bhead
   tokenIcon: fff801btok
-  portrait: fff801b
   gender: male
   species: hyeka
   age: 11
@@ -137,6 +136,8 @@ hm3:
     sunsign: angberelius
     move: 9
 ---
+
+![[fff801b|Kaeuck]]{float: top-left}
 
 # Appearance {#appearance}
 

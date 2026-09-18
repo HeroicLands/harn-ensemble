@@ -22,7 +22,6 @@ harnworld:
     - naveh
 data:
   icon: fff6062tok
-  portrait: fff6062
   templatePriority: 1
   gender: male
   species: human
@@ -855,6 +854,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6062|Albin of Rihale]]{float: top-left}
 
 # Appearance {#appearance}
 

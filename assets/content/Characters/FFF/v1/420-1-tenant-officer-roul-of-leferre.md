@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4201tok
-  portrait: fff4201
   templatePriority: 1
   gender: male
   species: human
@@ -703,6 +702,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4201|Roul of Leferre]]{float: top-left}
 
 # Appearance {#appearance}
 

@@ -22,7 +22,6 @@ harnworld:
     - saveknor
 data:
   icon: fff3031tok
-  portrait: fff3031
   templatePriority: 1
   gender: male
   species: human
@@ -777,6 +776,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3031|Merrimam Grimwul]]{float: top-left}
 
 # Appearance {#appearance}
 

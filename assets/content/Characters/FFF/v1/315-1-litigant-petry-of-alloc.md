@@ -22,7 +22,6 @@ harnworld:
     - saveknor
 data:
   icon: fff3151tok
-  portrait: fff3151
   templatePriority: 1
   gender: male
   species: human
@@ -724,6 +723,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3151|Petry of Alloc]]{float: top-left}
 
 # Appearance {#appearance}
 

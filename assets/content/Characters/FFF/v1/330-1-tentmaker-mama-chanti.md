@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3301tok
-  portrait: fff3301
   templatePriority: 1
   gender: female
   species: human
@@ -659,6 +658,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3301|Mama Chanti]]{float: top-left}
 
 # Appearance {#appearance}
 

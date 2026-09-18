@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804ahead
   tokenIcon: fff804atok
-  portrait: fff804a
   gender: male
   species: viasal
   age: 12
@@ -141,6 +140,8 @@ hm3:
     sunsign: tarael-hirin
     move: 7
 ---
+
+![[fff804a|Feazurk]]{float: top-left}
 
 # Appearance {#appearance}
 

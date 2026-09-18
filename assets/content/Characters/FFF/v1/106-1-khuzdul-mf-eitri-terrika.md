@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1061tok
-  portrait: fff1061
   templatePriority: 1
   gender: male
   species: khuzdul
@@ -808,6 +807,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1061|Eitri Terrika]]{float: top-left}
 
 # Appearance {#appearance}
 

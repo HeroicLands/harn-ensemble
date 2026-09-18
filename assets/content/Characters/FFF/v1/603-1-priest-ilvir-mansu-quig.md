@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff6031tok
-  portrait: fff6031
   templatePriority: 1
   gender: male
   species: human
@@ -790,6 +789,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6031|Mansu Quig]]{float: top-left}
 
 # Appearance {#appearance}
 

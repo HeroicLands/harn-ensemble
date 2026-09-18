@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4111tok
-  portrait: fff4111
   templatePriority: 1
   gender: female
   species: human
@@ -659,6 +658,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4111|Marlyn of Tyne]]{float: top-left}
 
 # Appearance {#appearance}
 

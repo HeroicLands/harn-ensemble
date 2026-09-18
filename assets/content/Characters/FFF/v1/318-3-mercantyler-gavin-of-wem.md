@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3183tok
-  portrait: fff3183
   templatePriority: 1
   gender: male
   species: human
@@ -717,6 +716,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3183|Gavin of Wem]]{float: top-left}
 
 # Appearance {#appearance}
 

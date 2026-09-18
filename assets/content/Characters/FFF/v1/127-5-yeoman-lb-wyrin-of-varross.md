@@ -23,7 +23,6 @@ harnworld:
     - sarajin
 data:
   icon: fff1275tok
-  portrait: fff1275
   templatePriority: 1
   gender: male
   species: human
@@ -743,6 +742,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1275|Wyrin of Varross]]{float: top-left}
 
 # Appearance {#appearance}
 

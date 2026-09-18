@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3081tok
-  portrait: fff3081
   templatePriority: 1
   gender: male
   species: human
@@ -702,6 +701,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3081|Gravith of Dray]]{float: top-left}
 
 # Appearance {#appearance}
 

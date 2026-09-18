@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4101tok
-  portrait: fff4101
   templatePriority: 1
   gender: male
   species: human
@@ -652,6 +651,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4101|Vadulf of Gesper]]{float: top-left}
 
 # Appearance {#appearance}
 

@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5042tok
-  portrait: fff5042
   templatePriority: 1
   gender: male
   species: human
@@ -723,6 +722,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5042|Uldis Harand]]{float: top-left}
 
 # Appearance {#appearance}
 

@@ -23,7 +23,6 @@ harnworld:
     - eder
 data:
   icon: fff3252tok
-  portrait: fff3252
   templatePriority: 1
   gender: male
   species: human
@@ -703,6 +702,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3252|Hoban Fiorfohd]]{float: top-left}
 
 # Appearance {#appearance}
 

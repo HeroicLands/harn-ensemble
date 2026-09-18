@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4161tok
-  portrait: fff4161
   templatePriority: 1
   gender: male
   species: human
@@ -688,6 +687,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4161|Tharo of Bideth]]{float: top-left}
 
 # Appearance {#appearance}
 

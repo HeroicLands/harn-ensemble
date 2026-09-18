@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3223tok
-  portrait: fff3223
   templatePriority: 1
   gender: male
   species: human
@@ -682,6 +681,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3223|Esar of Keriel]]{float: top-left}
 
 # Appearance {#appearance}
 

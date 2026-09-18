@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff1272tok
-  portrait: fff1272
   templatePriority: 1
   gender: male
   species: human
@@ -707,6 +706,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1272|Gwyn of Polruan]]{float: top-left}
 
 # Appearance {#appearance}
 

@@ -22,7 +22,6 @@ harnworld:
     - nalma
 data:
   icon: fff3231tok
-  portrait: fff3231
   templatePriority: 1
   gender: male
   species: human
@@ -722,6 +721,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3231|Jamar of Hacherdad]]{float: top-left}
 
 # Appearance {#appearance}
 

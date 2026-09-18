@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3222tok
-  portrait: fff3222
   templatePriority: 1
   gender: male
   species: human
@@ -690,6 +689,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3222|Giles of Gilam]]{float: top-left}
 
 # Appearance {#appearance}
 

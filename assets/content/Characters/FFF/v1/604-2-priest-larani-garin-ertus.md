@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff6042tok
-  portrait: fff6042
   templatePriority: 1
   gender: male
   species: human
@@ -803,6 +802,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6042|Garin Ertus]]{float: top-left}
 
 # Appearance {#appearance}
 

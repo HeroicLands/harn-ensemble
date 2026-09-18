@@ -22,7 +22,6 @@ harnworld:
     - yavanna
 data:
   icon: fff2011tok
-  portrait: fff2011
   templatePriority: 1
   gender: male
   species: human (drughu)
@@ -699,6 +698,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff2011|Brun]]{float: top-left}
 
 # Appearance {#appearance}
 

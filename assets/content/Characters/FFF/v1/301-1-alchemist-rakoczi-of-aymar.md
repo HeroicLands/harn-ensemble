@@ -22,7 +22,6 @@ harnworld:
     - saveknor
 data:
   icon: fff3011tok
-  portrait: fff3011
   templatePriority: 1
   gender: male
   species: human
@@ -683,6 +682,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3011|Rakoczi of Aymar]]{float: top-left}
 
 # Appearance {#appearance}
 

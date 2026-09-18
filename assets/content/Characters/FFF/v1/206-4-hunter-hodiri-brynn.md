@@ -21,7 +21,6 @@ harnworld:
   ritual: []
 data:
   icon: fff2064tok
-  portrait: fff2064
   templatePriority: 1
   gender: male
   species: human
@@ -734,6 +733,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff2064|Brynn]]{float: top-left}
 
 # Appearance {#appearance}
 

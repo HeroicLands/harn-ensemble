@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3351tok
-  portrait: fff3351
   templatePriority: 1
   gender: male
   species: human
@@ -668,6 +667,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3351|Peri the Lame]]{float: top-left}
 
 # Appearance {#appearance}
 

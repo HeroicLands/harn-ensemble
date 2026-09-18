@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff6101tok
-  portrait: fff6101
   templatePriority: 1
   gender: male
   species: human
@@ -806,6 +805,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6101|Derrial Cyeen]]{float: top-left}
 
 # Appearance {#appearance}
 

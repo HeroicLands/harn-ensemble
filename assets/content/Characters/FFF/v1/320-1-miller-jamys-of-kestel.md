@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff3201tok
-  portrait: fff3201
   templatePriority: 1
   gender: male
   species: human
@@ -779,6 +778,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3201|Jamys of Kestel]]{float: top-left}
 
 # Appearance {#appearance}
 

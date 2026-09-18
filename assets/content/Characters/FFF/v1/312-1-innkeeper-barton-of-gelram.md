@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3121tok
-  portrait: fff3121
   templatePriority: 1
   gender: male
   species: human
@@ -674,6 +673,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3121|Barton of Gelram]]{float: top-left}
 
 # Appearance {#appearance}
 

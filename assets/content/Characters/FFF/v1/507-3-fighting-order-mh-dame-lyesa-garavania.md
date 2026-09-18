@@ -22,7 +22,6 @@ harnworld:
     - agrik
 data:
   icon: fff5073tok
-  portrait: fff5073
   templatePriority: 1
   gender: female
   species: human
@@ -771,6 +770,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5073|Dame Lyesa Garavania]]{float: top-left}
 
 # Appearance {#appearance}
 

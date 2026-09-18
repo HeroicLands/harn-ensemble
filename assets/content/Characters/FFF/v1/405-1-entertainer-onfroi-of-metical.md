@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4051tok
-  portrait: fff4051
   templatePriority: 1
   gender: male
   species: human
@@ -706,6 +705,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4051|Onfroi of Metical]]{float: top-left}
 
 # Appearance {#appearance}
 

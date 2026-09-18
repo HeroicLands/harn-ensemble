@@ -21,7 +21,6 @@ harnworld:
   ritual: []
 data:
   icon: fff4021tok
-  portrait: fff4021
   templatePriority: 1
   gender: male
   species: human
@@ -687,6 +686,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4021|Warorel Iasen]]{float: top-left}
 
 # Appearance {#appearance}
 

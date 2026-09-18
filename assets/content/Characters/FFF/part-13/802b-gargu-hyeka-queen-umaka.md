@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff802bhead
   tokenIcon: fff802btok
-  portrait: fff802b
   gender: female
   species: hyeka
   age: 20
@@ -139,6 +138,8 @@ hm3:
     sunsign: lado
     move: 10
 ---
+
+![[fff802b|Umaka]]{float: top-left}
 
 # Appearance {#appearance}
 

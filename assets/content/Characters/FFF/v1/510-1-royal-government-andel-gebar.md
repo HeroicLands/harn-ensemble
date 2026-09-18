@@ -23,7 +23,6 @@ harnworld:
     - saveknor
 data:
   icon: fff5101tok
-  portrait: fff5101
   templatePriority: 1
   gender: male
   species: human
@@ -773,6 +772,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5101|Andel Gebar]]{float: top-left}
 
 # Appearance {#appearance}
 

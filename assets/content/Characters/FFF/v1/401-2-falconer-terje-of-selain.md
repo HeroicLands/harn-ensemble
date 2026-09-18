@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4012tok
-  portrait: fff4012
   templatePriority: 1
   gender: male
   species: human
@@ -719,6 +718,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4012|Terje of Selain]]{float: top-left}
 
 # Appearance {#appearance}
 

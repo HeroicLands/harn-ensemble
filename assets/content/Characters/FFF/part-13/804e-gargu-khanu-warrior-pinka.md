@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804ehead
   tokenIcon: fff804etok
-  portrait: fff804e
   gender: male
   species: khanu
   age: 10
@@ -128,6 +127,8 @@ hm3:
     sunsign: ulandus
     move: 13
 ---
+
+![[fff804e|Pinka]]{float: top-left}
 
 # Appearance {#appearance}
 

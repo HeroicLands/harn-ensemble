@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4131tok
-  portrait: fff4131
   templatePriority: 1
   gender: male
   species: human
@@ -665,6 +664,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4131|Bolgar the Mad]]{float: top-left}
 
 # Appearance {#appearance}
 

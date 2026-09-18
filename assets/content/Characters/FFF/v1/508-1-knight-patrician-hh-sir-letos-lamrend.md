@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff5081tok
-  portrait: fff5081
   templatePriority: 1
   gender: male
   species: human
@@ -733,6 +732,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5081|Sir Letos Lamrend]]{float: top-left}
 
 # Appearance {#appearance}
 

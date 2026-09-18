@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff4152tok
-  portrait: fff4152
   templatePriority: 1
   gender: female
   species: human
@@ -746,6 +745,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4152|Ygwelve Forsetha]]{float: top-left}
 
 # Appearance {#appearance}
 

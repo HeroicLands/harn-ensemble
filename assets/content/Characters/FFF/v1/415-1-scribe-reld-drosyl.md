@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4151tok
-  portrait: fff4151
   templatePriority: 1
   gender: male
   species: human
@@ -731,6 +730,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4151|Reld Drosyl]]{float: top-left}
 
 # Appearance {#appearance}
 

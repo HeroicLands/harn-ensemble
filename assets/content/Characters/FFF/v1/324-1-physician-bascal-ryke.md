@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3241tok
-  portrait: fff3241
   templatePriority: 1
   gender: male
   species: human
@@ -660,6 +659,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3241|Bascal Ryke]]{float: top-left}
 
 # Appearance {#appearance}
 

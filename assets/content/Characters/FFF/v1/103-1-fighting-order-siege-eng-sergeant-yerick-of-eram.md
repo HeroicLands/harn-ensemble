@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff1031tok
-  portrait: fff1031
   templatePriority: 1
   gender: male
   species: human
@@ -719,6 +718,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1031|Sergeant Yerick of Eram]]{float: top-left}
 
 # Appearance {#appearance}
 

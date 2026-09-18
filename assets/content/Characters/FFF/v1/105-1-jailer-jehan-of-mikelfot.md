@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff1051tok
-  portrait: fff1051
   templatePriority: 1
   gender: male
   species: human
@@ -709,6 +708,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1051|Jehan of Mikelfot]]{float: top-left}
 
 # Appearance {#appearance}
 

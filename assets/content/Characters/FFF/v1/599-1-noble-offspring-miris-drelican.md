@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5991tok
-  portrait: fff5991
   templatePriority: 1
   gender: male
   species: human
@@ -669,6 +668,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5991|Miris Drelican]]{float: top-left}
 
 # Appearance {#appearance}
 

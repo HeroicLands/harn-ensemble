@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff4174tok
-  portrait: fff4174
   templatePriority: 1
   gender: female
   species: human
@@ -739,6 +738,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4174|Ortilla of Islwyn]]{float: top-left}
 
 # Appearance {#appearance}
 

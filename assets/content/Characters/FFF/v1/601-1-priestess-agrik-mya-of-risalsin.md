@@ -22,7 +22,6 @@ harnworld:
     - agrik
 data:
   icon: fff6011tok
-  portrait: fff6011
   templatePriority: 1
   gender: female
   species: human
@@ -835,6 +834,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6011|Mya of Risalsin]]{float: top-left}
 
 # Appearance {#appearance}
 

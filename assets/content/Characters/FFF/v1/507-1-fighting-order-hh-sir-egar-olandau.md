@@ -22,7 +22,6 @@ harnworld:
     - agrik
 data:
   icon: fff5071tok
-  portrait: fff5071
   templatePriority: 1
   gender: male
   species: human
@@ -837,6 +836,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5071|Sir Egar Olandau]]{float: top-left}
 
 # Appearance {#appearance}
 

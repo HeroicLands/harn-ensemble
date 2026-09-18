@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804bhead
   tokenIcon: fff804btok
-  portrait: fff804b
   gender: male
   species: kyani
   age: 6
@@ -147,6 +146,8 @@ hm3:
     sunsign: skorus
     move: 13
 ---
+
+![[fff804b|Taatulk]]{float: top-left}
 
 # Appearance {#appearance}
 

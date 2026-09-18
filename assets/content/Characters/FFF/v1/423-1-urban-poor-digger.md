@@ -23,7 +23,6 @@ harnworld:
     - larani
 data:
   icon: fff4231tok
-  portrait: fff4231
   templatePriority: 1
   gender: male
   species: human
@@ -677,6 +676,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4231|Digger]]{float: top-left}
 
 # Appearance {#appearance}
 

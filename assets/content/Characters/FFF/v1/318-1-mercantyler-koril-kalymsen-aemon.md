@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3181tok
-  portrait: fff3181
   templatePriority: 1
   gender: male
   species: human
@@ -686,6 +685,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3181|Koril Kalymsen Aemon]]{float: top-left}
 
 # Appearance {#appearance}
 

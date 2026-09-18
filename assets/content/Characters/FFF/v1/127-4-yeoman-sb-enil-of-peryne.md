@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff1274tok
-  portrait: fff1274
   templatePriority: 1
   gender: male
   species: human
@@ -740,6 +739,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1274|Enil of Peryne]]{float: top-left}
 
 # Appearance {#appearance}
 

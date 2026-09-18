@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff5992tok
-  portrait: fff5992
   templatePriority: 1
   gender: male
   species: human
@@ -659,6 +658,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5992|Gerrick Asarn]]{float: top-left}
 
 # Appearance {#appearance}
 

@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5074tok
-  portrait: fff5074
   templatePriority: 1
   gender: male
   species: human
@@ -729,6 +728,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5074|Sir Armand of Gimon]]{float: top-left}
 
 # Appearance {#appearance}
 

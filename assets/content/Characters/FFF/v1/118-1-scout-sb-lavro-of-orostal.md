@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff1181tok
-  portrait: fff1181
   templatePriority: 1
   gender: male
   species: human
@@ -736,6 +735,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1181|Lavro of Orostal]]{float: top-left}
 
 # Appearance {#appearance}
 

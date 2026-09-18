@@ -25,7 +25,6 @@ harnworld:
     - naveh
 data:
   icon: fff6091tok
-  portrait: fff6091
   templatePriority: 1
   gender: male
   species: human
@@ -949,6 +948,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6091|Rodolk Czurger]]{float: top-left}
 
 # Appearance {#appearance}
 

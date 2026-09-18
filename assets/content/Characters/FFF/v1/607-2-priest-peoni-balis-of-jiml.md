@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff6072tok
-  portrait: fff6072
   templatePriority: 1
   gender: male
   species: human
@@ -662,6 +661,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6072|Balis of Jiml]]{float: top-left}
 
 # Appearance {#appearance}
 

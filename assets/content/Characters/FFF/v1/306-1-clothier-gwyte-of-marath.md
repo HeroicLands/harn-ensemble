@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff3061tok
-  portrait: fff3061
   templatePriority: 1
   gender: male
   species: human
@@ -708,6 +707,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3061|Gwyte of Marath]]{float: top-left}
 
 # Appearance {#appearance}
 

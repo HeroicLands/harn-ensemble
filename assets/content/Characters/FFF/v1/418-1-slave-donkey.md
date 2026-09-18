@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4181tok
-  portrait: fff4181
   templatePriority: 1
   gender: male
   species: human
@@ -634,6 +633,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4181|Donkey]]{float: top-left}
 
 # Appearance {#appearance}
 

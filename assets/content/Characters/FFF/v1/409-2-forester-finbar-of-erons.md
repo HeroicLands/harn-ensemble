@@ -23,7 +23,6 @@ harnworld:
     - halea
 data:
   icon: fff4092tok
-  portrait: fff4092
   templatePriority: 1
   gender: male
   species: human
@@ -707,6 +706,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4092|Finbar of Erons]]{float: top-left}
 
 # Appearance {#appearance}
 

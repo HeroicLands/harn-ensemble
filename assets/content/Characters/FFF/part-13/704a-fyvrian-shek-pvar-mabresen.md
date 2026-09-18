@@ -23,7 +23,6 @@ harnworld:
 data:
   icon: fff704ahead
   tokenIcon: fff704atok
-  portrait: fff704a
   templatePriority: 1
   gender: male
   species: human
@@ -754,6 +753,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff704a|Mabresen]]{float: top-left}
 
 # Appearance {#appearance}
 

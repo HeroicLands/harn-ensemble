@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff6021tok
-  portrait: fff6021
   templatePriority: 1
   gender: female
   species: human
@@ -805,6 +804,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6021|Sigyn of Leden]]{float: top-left}
 
 # Appearance {#appearance}
 

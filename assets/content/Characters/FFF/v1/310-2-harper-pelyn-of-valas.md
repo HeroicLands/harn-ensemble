@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3102tok
-  portrait: fff3102
   templatePriority: 1
   gender: female
   species: human
@@ -755,6 +754,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3102|Pelyn of Valas]]{float: top-left}
 
 # Appearance {#appearance}
 

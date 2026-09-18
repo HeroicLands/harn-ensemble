@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3322tok
-  portrait: fff3322
   templatePriority: 1
   gender: male
   species: human
@@ -691,6 +690,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3322|Carex of Speh]]{float: top-left}
 
 # Appearance {#appearance}
 

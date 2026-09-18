@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3311tok
-  portrait: fff3311
   templatePriority: 1
   gender: male
   species: human
@@ -665,6 +664,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3311|Bors of Halle]]{float: top-left}
 
 # Appearance {#appearance}
 

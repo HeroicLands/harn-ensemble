@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff1121tok
-  portrait: fff1121
   templatePriority: 1
   gender: male
   species: human
@@ -734,6 +733,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1121|Kernt Mondaro]]{float: top-left}
 
 # Appearance {#appearance}
 

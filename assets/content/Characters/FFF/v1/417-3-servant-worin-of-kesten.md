@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4173tok
-  portrait: fff4173
   templatePriority: 1
   gender: male
   species: human
@@ -678,6 +677,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4173|Worin of Kesten]]{float: top-left}
 
 # Appearance {#appearance}
 

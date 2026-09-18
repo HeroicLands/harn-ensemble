@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff804chead
   tokenIcon: fff804ctok
-  portrait: fff804c
   gender: male
   species: gargu-khanu
   age: 11
@@ -142,6 +141,8 @@ hm3:
     sunsign: lado-ulandus
     move: 14
 ---
+
+![[fff804c|Akeur]]{float: top-left}
 
 # Appearance {#appearance}
 

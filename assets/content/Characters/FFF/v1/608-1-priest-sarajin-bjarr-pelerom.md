@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff6081tok
-  portrait: fff6081
   templatePriority: 1
   gender: male
   species: human
@@ -832,6 +831,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6081|Bjarr Pelerom]]{float: top-left}
 
 # Appearance {#appearance}
 

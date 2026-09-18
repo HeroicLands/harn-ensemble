@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3103tok
-  portrait: fff3103
   templatePriority: 1
   gender: male
   species: human
@@ -734,6 +733,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3103|Geiter Gautisson]]{float: top-left}
 
 # Appearance {#appearance}
 

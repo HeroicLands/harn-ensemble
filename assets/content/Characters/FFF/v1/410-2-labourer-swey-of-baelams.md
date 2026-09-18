@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4102tok
-  portrait: fff4102
   templatePriority: 1
   gender: male
   species: human
@@ -690,6 +689,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4102|Swey of Baelams]]{float: top-left}
 
 # Appearance {#appearance}
 

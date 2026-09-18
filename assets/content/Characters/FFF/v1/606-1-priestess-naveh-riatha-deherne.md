@@ -23,7 +23,6 @@ harnworld:
     - peoni
 data:
   icon: fff6061tok
-  portrait: fff6061
   templatePriority: 1
   gender: female
   species: human
@@ -837,6 +836,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6061|Riatha Deherne]]{float: top-left}
 
 # Appearance {#appearance}
 

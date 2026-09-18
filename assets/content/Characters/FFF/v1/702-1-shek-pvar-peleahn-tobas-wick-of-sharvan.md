@@ -23,7 +23,6 @@ harnworld:
     - saveknor
 data:
   icon: fff7021tok
-  portrait: fff7021
   templatePriority: 1
   gender: male
   species: human
@@ -1033,6 +1032,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff7021|Tobas "Wick" of Sharvan]]{float: top-left}
 
 # Appearance {#appearance}
 

@@ -23,7 +23,6 @@ harnworld:
     - sarajin
 data:
   icon: fff2061tok
-  portrait: fff2061
   templatePriority: 1
   gender: male
   species: human
@@ -735,6 +734,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff2061|Taran the Lame]]{float: top-left}
 
 # Appearance {#appearance}
 

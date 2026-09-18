@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5062tok
-  portrait: fff5062
   templatePriority: 1
   gender: female
   species: human
@@ -742,6 +741,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5062|Dame Afaewynn Barthy]]{float: top-left}
 
 # Appearance {#appearance}
 

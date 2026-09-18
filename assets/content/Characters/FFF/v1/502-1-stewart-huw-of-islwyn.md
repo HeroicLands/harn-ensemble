@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5021tok
-  portrait: fff5021
   templatePriority: 1
   gender: male
   species: human
@@ -686,6 +685,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5021|Huw of Islwyn]]{float: top-left}
 
 # Appearance {#appearance}
 

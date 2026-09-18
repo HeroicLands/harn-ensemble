@@ -22,7 +22,6 @@ harnworld:
     - saveknor
 data:
   icon: fff7051tok
-  portrait: fff7051
   templatePriority: 1
   gender: male
   species: human
@@ -855,6 +854,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff7051|Elros of Merin]]{float: top-left}
 
 # Appearance {#appearance}
 

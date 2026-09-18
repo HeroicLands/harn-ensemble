@@ -22,7 +22,6 @@ harnworld:
     - morgath
 data:
   icon: fff6051tok
-  portrait: fff6051
   templatePriority: 1
   gender: male
   species: human
@@ -745,6 +744,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6051|Silas Marchant]]{float: top-left}
 
 # Appearance {#appearance}
 

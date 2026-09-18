@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5121tok
-  portrait: fff5121
   templatePriority: 1
   gender: female
   species: human
@@ -707,6 +706,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5121|Lady Elena Valador]]{float: top-left}
 
 # Appearance {#appearance}
 

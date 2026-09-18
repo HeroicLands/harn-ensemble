@@ -22,7 +22,6 @@ harnworld:
 data:
   icon: fff802ahead
   tokenIcon: fff802atok
-  portrait: fff802a
   gender: female
   species: araki
   age: 14
@@ -125,6 +124,8 @@ hm3:
     sunsign: aralius
     move: 10
 ---
+
+![[fff802a|Feeri]]{float: top-left}
 
 # Appearance {#appearance}
 

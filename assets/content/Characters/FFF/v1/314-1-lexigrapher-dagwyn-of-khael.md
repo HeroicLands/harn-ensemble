@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3141tok
-  portrait: fff3141
   templatePriority: 1
   gender: female
   species: human
@@ -648,6 +647,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3141|Dagwyn of Khael]]{float: top-left}
 
 # Appearance {#appearance}
 

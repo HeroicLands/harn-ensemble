@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1273tok
-  portrait: fff1273
   templatePriority: 1
   gender: female
   species: human
@@ -737,6 +736,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1273|Zoe Fiorfohd]]{float: top-left}
 
 # Appearance {#appearance}
 

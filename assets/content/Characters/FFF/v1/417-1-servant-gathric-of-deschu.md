@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4171tok
-  portrait: fff4171
   templatePriority: 1
   gender: male
   species: human
@@ -676,6 +675,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4171|Gathric of Deschu]]{float: top-left}
 
 # Appearance {#appearance}
 

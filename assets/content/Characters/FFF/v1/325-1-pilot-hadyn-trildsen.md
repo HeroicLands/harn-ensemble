@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3251tok
-  portrait: fff3251
   templatePriority: 1
   gender: male
   species: human
@@ -706,6 +705,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3251|Hadyn Trildsen]]{float: top-left}
 
 # Appearance {#appearance}
 

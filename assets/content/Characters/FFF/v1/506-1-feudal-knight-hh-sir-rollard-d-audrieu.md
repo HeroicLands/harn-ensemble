@@ -22,7 +22,6 @@ harnworld:
     - christian
 data:
   icon: fff5061tok
-  portrait: fff5061
   templatePriority: 1
   gender: male
   species: human
@@ -767,6 +766,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5061|Sir Rollard d'Audrieu]]{float: top-left}
 
 # Appearance {#appearance}
 

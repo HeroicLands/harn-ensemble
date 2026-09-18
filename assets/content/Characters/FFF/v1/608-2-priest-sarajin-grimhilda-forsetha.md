@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff6082tok
-  portrait: fff6082
   templatePriority: 1
   gender: female
   species: human
@@ -834,6 +833,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6082|Grimhilda Forsetha]]{float: top-left}
 
 # Appearance {#appearance}
 

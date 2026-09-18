@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5064tok
-  portrait: fff5064
   templatePriority: 1
   gender: male
   species: human
@@ -736,6 +735,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5064|Sir Chadrin Benere]]{float: top-left}
 
 # Appearance {#appearance}
 

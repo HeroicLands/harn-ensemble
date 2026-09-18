@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff3291tok
-  portrait: fff3291
   templatePriority: 1
   gender: male
   species: human
@@ -740,6 +739,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3291|Husraas of Kjalis]]{float: top-left}
 
 # Appearance {#appearance}
 

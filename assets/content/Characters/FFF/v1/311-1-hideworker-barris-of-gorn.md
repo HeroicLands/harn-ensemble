@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3111tok
-  portrait: fff3111
   templatePriority: 1
   gender: male
   species: human
@@ -667,6 +666,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3111|Barris of Gorn]]{float: top-left}
 
 # Appearance {#appearance}
 

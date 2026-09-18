@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3321tok
-  portrait: fff3321
   templatePriority: 1
   gender: male
   species: human
@@ -677,6 +676,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3321|Vakon Lemetyer]]{float: top-left}
 
 # Appearance {#appearance}
 

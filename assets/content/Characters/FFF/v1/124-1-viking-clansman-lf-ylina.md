@@ -22,7 +22,6 @@ harnworld:
     - sarajin
 data:
   icon: fff1241tok
-  portrait: fff1241
   templatePriority: 1
   gender: female
   species: human
@@ -747,6 +746,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1241|Ylina]]{float: top-left}
 
 # Appearance {#appearance}
 

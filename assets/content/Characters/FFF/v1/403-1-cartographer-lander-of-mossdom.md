@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff4031tok
-  portrait: fff4031
   templatePriority: 1
   gender: male
   species: human
@@ -673,6 +672,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4031|Lander of Mossdom]]{float: top-left}
 
 # Appearance {#appearance}
 

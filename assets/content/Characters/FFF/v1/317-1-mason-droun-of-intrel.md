@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff3171tok
-  portrait: fff3171
   templatePriority: 1
   gender: male
   species: human
@@ -694,6 +693,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3171|Droun of Intrel]]{float: top-left}
 
 # Appearance {#appearance}
 

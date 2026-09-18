@@ -22,7 +22,6 @@ harnworld:
     - halea
 data:
   icon: fff3242tok
-  portrait: fff3242
   templatePriority: 1
   gender: male
   species: human
@@ -722,6 +721,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff3242|Llawaur Tam]]{float: top-left}
 
 # Appearance {#appearance}
 

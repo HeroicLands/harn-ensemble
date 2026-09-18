@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff5072tok
-  portrait: fff5072
   templatePriority: 1
   gender: male
   species: human
@@ -745,6 +744,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5072|Sir Samuel of Zoben]]{float: top-left}
 
 # Appearance {#appearance}
 

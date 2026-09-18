@@ -22,7 +22,6 @@ harnworld:
     - larani
 data:
   icon: fff6041tok
-  portrait: fff6041
   templatePriority: 1
   gender: male
   species: human
@@ -806,6 +805,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff6041|Rayald Cotrael]]{float: top-left}
 
 # Appearance {#appearance}
 

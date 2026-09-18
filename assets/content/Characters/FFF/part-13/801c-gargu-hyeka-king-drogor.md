@@ -24,7 +24,6 @@ harnworld:
 data:
   icon: fff801chead
   tokenIcon: fff801ctok
-  portrait: fff801c
   gender: male
   species: gargu-hyeka
   age: 15
@@ -148,6 +147,8 @@ hm3:
     sunsign: nadal
     move: 11
 ---
+
+![[fff801c|Drogor]]{float: top-left}
 
 # Appearance {#appearance}
 

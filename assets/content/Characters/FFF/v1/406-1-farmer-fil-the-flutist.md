@@ -22,7 +22,6 @@ harnworld:
     - peoni
 data:
   icon: fff4061tok
-  portrait: fff4061
   templatePriority: 1
   gender: male
   species: human
@@ -693,6 +692,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4061|Fil the Flutist]]{float: top-left}
 
 # Appearance {#appearance}
 

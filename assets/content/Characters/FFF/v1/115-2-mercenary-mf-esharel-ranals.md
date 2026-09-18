@@ -22,7 +22,6 @@ harnworld:
     - siem
 data:
   icon: fff1152tok
-  portrait: fff1152
   templatePriority: 1
   gender: male
   species: human
@@ -747,6 +746,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff1152|Esharel Ranals]]{float: top-left}
 
 # Appearance {#appearance}
 

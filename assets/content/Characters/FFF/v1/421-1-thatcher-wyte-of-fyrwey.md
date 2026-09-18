@@ -22,7 +22,6 @@ harnworld:
     - ilvir
 data:
   icon: fff4211tok
-  portrait: fff4211
   templatePriority: 1
   gender: male
   species: human
@@ -707,6 +706,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff4211|Wyte of Fyrwey]]{float: top-left}
 
 # Appearance {#appearance}
 

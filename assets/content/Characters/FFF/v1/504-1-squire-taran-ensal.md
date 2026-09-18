@@ -21,7 +21,6 @@ harnworld:
   ritual: []
 data:
   icon: fff5041tok
-  portrait: fff5041
   templatePriority: 1
   gender: male
   species: human
@@ -669,6 +668,8 @@ sohl:
         strMod: -5 * floor((str - 10) / 2)
         disabled: false
 ---
+
+![[fff5041|Taran Ensal]]{float: top-left}
 
 # Appearance {#appearance}
 
