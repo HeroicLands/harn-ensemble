@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: She of Payensen
   title: ""

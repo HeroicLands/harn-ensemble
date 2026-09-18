@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Evenodelareen of Jurbosq
   title: ""

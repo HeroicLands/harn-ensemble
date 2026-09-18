@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amarthamdirthen of Amdirogegamlug
   title: ""

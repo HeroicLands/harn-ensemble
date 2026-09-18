@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Commander Tarcandy of Fraul
   title: ""

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shemlen of Chusselrichmarn
   title: ""

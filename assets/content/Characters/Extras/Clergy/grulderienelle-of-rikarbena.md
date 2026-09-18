@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Grulderienelle of Rikarbena
   title: ""

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sergeant Yerick of Eram
   title: Sergeant

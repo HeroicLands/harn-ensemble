@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Chaklyn of Matlimundon
   title: Veteran

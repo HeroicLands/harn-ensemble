@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Agarthalpharn of Aglagarvrun
   title: ""

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jondasharqueline of Sprythsen
   title: ""

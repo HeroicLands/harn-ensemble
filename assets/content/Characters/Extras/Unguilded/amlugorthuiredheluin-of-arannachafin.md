@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amlugorthuiredheluin of Arannachafin
   title: ""

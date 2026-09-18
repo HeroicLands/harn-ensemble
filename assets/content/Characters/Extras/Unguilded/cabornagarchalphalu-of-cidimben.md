@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cabornagarchalphalu of Cidimben
   title: ""

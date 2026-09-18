@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: 'Tobas "Wick" of Sharvan'
   title: ""
