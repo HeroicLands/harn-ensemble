@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Peser of Shorlon
   title: ""
@@ -9,7 +10,6 @@ name:
 id: MG9Srb0WyxoIKdhG
 packFolder: extrasclergy
 shortcode: peserofshorlon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

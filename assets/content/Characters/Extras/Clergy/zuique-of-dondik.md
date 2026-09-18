@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zuique of Dondik
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ujAD4PoKU7UbyDF7
 packFolder: extrasclergy
 shortcode: zuiqueofdondik
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik
@@ -139,7 +139,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Holy Symbol, iron
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1

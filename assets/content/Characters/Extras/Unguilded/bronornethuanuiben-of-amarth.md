@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bronornethuanuiben of Amarth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DgI3TSwPIZGXrefQ
 packFolder: extrasunguilded
 shortcode: bronornethuanuibenofamarth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

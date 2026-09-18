@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arkorbin of Weth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: MgLakr2pCpx6NbFz
 packFolder: extrasguilded
 shortcode: arkorbinofweth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright
@@ -109,13 +109,15 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Frandy of Tobira for 190d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

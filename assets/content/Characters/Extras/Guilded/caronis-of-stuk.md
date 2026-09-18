@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Caronis of Stuk
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RNBeY0Z1kd4AIOTH
 packFolder: extrasguilded
 shortcode: caronisofstuk
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

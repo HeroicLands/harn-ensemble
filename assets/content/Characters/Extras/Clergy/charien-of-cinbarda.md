@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Charien of Cinbarda
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HYXFX13nTAJcpSU6
 packFolder: extrasclergy
 shortcode: charienofcinbarda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Karik of Sosora
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nHN4E2L610hOX26v
 packFolder: extrasguards
 shortcode: karikofsosora
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

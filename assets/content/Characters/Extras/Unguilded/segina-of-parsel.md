@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Segina of Parsel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pS13LckYVLVeo0BM
 packFolder: extrasunguilded
 shortcode: seginaofparsel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hunter/Trapper
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Rybin of Sediel for 56d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Segina of Clern
   title: ""
@@ -9,7 +10,6 @@ name:
 id: R56kNeash45QecB9
 packFolder: extrasguilded
 shortcode: seginaofclern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mason
@@ -104,14 +104,16 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.03
     - { shortcode: tndrbx, type: miscgear }
     - name: Mason's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 36
         weight: 15

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: And of Yalesh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sbh1wkY7uVAop1nS
 packFolder: extrasunguilded
 shortcode: andofyalesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shaman
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 72 } }
     - name: Tribal
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 15
@@ -125,19 +126,22 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Spoon of Yavari
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Lasak of Laplacka for 127d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

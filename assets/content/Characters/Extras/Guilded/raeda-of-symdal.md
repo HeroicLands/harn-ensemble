@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Raeda of Symdal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8y9yYsK3fx4mRSYQ
 packFolder: extrasguilded
 shortcode: raedaofsymdal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary
@@ -110,14 +110,16 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Aladez of Zendal for 374d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

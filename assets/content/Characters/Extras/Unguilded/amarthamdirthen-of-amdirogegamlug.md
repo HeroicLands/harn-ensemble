@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amarthamdirthen of Amdirogegamlug
   title: ""
@@ -9,7 +10,6 @@ name:
 id: CrJvlT4WbIp8Jiak
 packFolder: extrasunguilded
 shortcode: amarthamdirthenofamdirogegamlug
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

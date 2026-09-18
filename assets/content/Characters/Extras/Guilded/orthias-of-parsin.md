@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Orthias of Parsin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: uD3zO2bJQIoWojaq
 packFolder: extrasguilded
 shortcode: orthiasofparsin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -103,7 +103,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Jellin of Arad for 417d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

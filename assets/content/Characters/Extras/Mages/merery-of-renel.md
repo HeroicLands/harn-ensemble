@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merery of Renel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: PYU0B59ifTzSyPzG
 packFolder: extrasmages
 shortcode: mereryofrenel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Lyahvi****"
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: ablarinsfield, type: spell }
     - name: Aeric's Whisper
       type: spell
-      img: systems/hm3/images/icons/svg/wind.svg
+      data:
+        icon: sohl-none-icon-wind
       system:
         convocation: Lyahvi
     - { shortcode: cloakofkalaerin, type: spell }
@@ -135,7 +136,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Rings of Mystic Wondor
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

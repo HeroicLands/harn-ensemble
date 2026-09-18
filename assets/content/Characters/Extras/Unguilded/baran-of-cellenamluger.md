@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Baran of Cellenamluger
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TscFMskw9HRRCnZ6
 packFolder: extrasunguilded
 shortcode: baranofcellenamluger
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

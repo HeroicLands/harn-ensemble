@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Varbin of Bor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: w4kMSNcOteqwyag7
 packFolder: extrasguilded
 shortcode: varbinofbor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Owain of Ever
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nFjADSQsmRHZ5eo6
 packFolder: extrasunguilded
 shortcode: owainofever
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

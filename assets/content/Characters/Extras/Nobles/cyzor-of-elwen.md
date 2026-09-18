@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cyzor of Elwen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: tPlUQHe9uk3CrRCd
 packFolder: extrasnobles
 shortcode: cyzorofelwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

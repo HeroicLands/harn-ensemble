@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kalina of Erlesh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: gJR690IF0qyd2t5I
 packFolder: extrasguilded
 shortcode: kalinaoferlesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: pipes, type: miscgear }
     - name: Recorder
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 4
         weight: 0.5

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Geiter Gautisson
   title: ""
@@ -9,9 +10,6 @@ name:
 id: ia2zjJrUeoSAxFzi
 packFolder: fffguilded
 shortcode: geitergautisson
-img: images/fffv1/token/FFF_310-3_Skald.png
-portrait: images/fffv1/FFF_310-3_Skald.jpg
-tokenImg: images/fffv1/token/FFF_310-3_Skald.png
 type: being
 social:
   occupation: Skald
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3103tok
+  portrait: fff3103
   templatePriority: 1
   gender: male
   species: human

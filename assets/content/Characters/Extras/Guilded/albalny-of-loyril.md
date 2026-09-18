@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Albalny of Loyril
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ffJ6Pepi7yUWmsaf
 packFolder: extrasguilded
 shortcode: albalnyofloyril
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Broach, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

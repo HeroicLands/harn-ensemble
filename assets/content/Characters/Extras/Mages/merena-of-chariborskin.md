@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merena of Chariborskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XqgF3AotN0iIDXO8
 packFolder: extrasmages
 shortcode: merenaofchariborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Fyvria*****"
@@ -139,7 +139,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

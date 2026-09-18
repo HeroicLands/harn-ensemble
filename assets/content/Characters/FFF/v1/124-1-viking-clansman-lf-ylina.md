@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ylina
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 3NhXGurVjakRvw5J
 packFolder: fffmilitary
 shortcode: ylina
-img: images/fffv1/token/FFF_124-1_Viking_Clansman_LF.png
-portrait: images/fffv1/FFF_124-1_Viking_Clansman_LF.jpg
-tokenImg: images/fffv1/token/FFF_124-1_Viking_Clansman_LF.png
 type: being
 social:
   occupation: Shieldmaiden
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff1241tok
+  portrait: fff1241
   templatePriority: 1
   gender: female
   species: human

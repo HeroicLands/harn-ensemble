@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Morgin of Uro
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 2yyH5giDztfo30YH
 packFolder: extrasunguilded
 shortcode: morginofuro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Pargat of Tar for 12d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

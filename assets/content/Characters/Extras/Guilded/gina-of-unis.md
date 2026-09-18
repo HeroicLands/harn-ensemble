@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gina of Unis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: CTQ6LXOPhSIhqlxA
 packFolder: extrasguilded
 shortcode: ginaofunis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Dur of Chale for 300d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jered of Kalian
   title: ""
@@ -9,7 +10,6 @@ name:
 id: odVc8jJ0KDpAawR2
 packFolder: extrasunguilded
 shortcode: jeredofkalian
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp
@@ -104,13 +104,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Doshenkana, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 21
         weight: 0.1
     - name: Elprequir, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1

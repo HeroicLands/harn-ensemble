@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pelis of Nar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: KlDexgtulsTqpl2e
 packFolder: extrasclergy
 shortcode: pelisofnar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

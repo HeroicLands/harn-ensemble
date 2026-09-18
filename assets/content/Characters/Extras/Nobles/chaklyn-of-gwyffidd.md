@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chaklyn of Gwyffidd
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jQjjaEtGJGJr27XH
 packFolder: extrasnobles
 shortcode: chaklynofgwyffidd
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

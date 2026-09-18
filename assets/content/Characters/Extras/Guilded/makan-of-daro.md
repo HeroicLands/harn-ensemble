@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Makan of Daro
   title: ""
@@ -9,7 +10,6 @@ name:
 id: hnD8uAvwiJeRQIQT
 packFolder: extrasguilded
 shortcode: makanofdaro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

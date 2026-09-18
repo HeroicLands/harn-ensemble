@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Querena of Chalmin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Pm4bGPvFuiR0msqv
 packFolder: extrasmages
 shortcode: querenaofchalmin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Fyvria***"
@@ -157,7 +157,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Decanter of Tears
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -169,7 +170,8 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Ring, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 600
         weight: 0.03

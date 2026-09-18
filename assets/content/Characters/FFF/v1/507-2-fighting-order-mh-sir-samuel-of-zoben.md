@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sir Samuel of Zoben
   title: Sir
@@ -9,9 +10,6 @@ name:
 id: 9o0fxrdxnNpPstOe
 packFolder: fffnobles
 shortcode: sirsamuelofzoben
-img: images/fffv1/token/FFF_507-2_Fighting_Order_MH.png
-portrait: images/fffv1/FFF_507-2_Fighting_Order_MH.jpg
-tokenImg: images/fffv1/token/FFF_507-2_Fighting_Order_MH.png
 type: being
 social:
   occupation: Knight/Spy
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5072tok
+  portrait: fff5072
   templatePriority: 1
   gender: male
   species: human

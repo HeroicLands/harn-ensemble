@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Silina of Tal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: SN1QJc1hV5VfMazw
 packFolder: extrasguilded
 shortcode: silinaoftal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hideworker

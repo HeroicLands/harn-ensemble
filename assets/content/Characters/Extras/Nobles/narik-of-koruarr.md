@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Narik of Koruarr
   title: ""
@@ -9,7 +10,6 @@ name:
 id: UHTZ0UC9jcGsraDJ
 packFolder: extrasnobles
 shortcode: narikofkoruarr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

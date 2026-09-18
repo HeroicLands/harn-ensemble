@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Nerelasarina of Lune
   title: ""
@@ -9,7 +10,6 @@ name:
 id: BLH3QiV0M5JX1z7d
 packFolder: extrasguilded
 shortcode: nerelasarinaoflune
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Courtesan
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - name: Comb, ivory
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1
@@ -114,7 +115,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

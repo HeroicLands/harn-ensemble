@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Albalny of Tixenal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: SoX0YlV2waYQw5p9
 packFolder: extrasnobles
 shortcode: albalnyoftixenal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: beltpouchl3, type: containergear }
@@ -113,14 +114,16 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.05
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

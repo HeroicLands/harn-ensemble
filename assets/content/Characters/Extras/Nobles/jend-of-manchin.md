@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jend of Manchin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: N2lOTkbGDaaHNsOf
 packFolder: extrasnobles
 shortcode: jendofmanchin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: "Debt to Money Lender: Baran of Eleredostaldis for 963d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
@@ -123,7 +124,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

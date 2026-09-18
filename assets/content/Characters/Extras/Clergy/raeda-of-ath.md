@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Raeda of Ath
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4XIdzo2rAmLmWweq
 packFolder: extrasclergy
 shortcode: raedaofath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

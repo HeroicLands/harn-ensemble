@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Forena of Charcaraner
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 3kRZxyYxlIz2s4us
 packFolder: extrasnobles
 shortcode: forenaofcharcaraner
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician
@@ -114,20 +114,23 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.25
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.05
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

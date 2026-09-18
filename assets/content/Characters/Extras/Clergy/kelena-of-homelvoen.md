@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kelena of Homelvoen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HHcvJ9JQknGYolzi
 packFolder: extrasclergy
 shortcode: kelenaofhomelvoen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

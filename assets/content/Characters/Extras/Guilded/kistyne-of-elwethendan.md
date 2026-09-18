@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kistyne of Elwethendan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WWpTMnlthUWINYD8
 packFolder: extrasguilded
 shortcode: kistyneofelwethendan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Lexigrapher
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

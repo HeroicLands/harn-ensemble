@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terza of Ren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0nOSc4vuNScIc9YP
 packFolder: extrasunguilded
 shortcode: terzaofren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sarin of Zendech
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pfoRSHHYHEvGr3M6
 packFolder: extrasunguilded
 shortcode: sarinofzendech
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hunter/Trapper
@@ -113,14 +113,16 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Cyzor of Tombine for 93d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Agaru of Agarwenedrilph
   title: ""
@@ -9,7 +10,6 @@ name:
 id: MGFJkAx422EPdOXF
 packFolder: extrasunguilded
 shortcode: agaruofagarwenedrilph
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

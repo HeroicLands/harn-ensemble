@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amdir of Belt
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RKthCfokTmQLgOWA
 packFolder: extrasunguilded
 shortcode: amdirofbelt
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

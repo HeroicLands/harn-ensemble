@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Werery of Mykansen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: SOlnTNHlUC58bdbL
 packFolder: extrasserfs
 shortcode: wereryofmykansen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

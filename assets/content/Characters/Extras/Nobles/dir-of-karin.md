@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dir of Karin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4vP7txbgYLngpNn8
 packFolder: extrasnobles
 shortcode: dirofkarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

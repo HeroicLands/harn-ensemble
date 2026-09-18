@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Obrant of Alwen
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: PRILqS6obJL3b9MS
 packFolder: extrasguards
 shortcode: veteranobrantofalwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: ShrtSwd, type: weapongear }
     - name: "Debt to Money Lender: Parsume of Hilta for 32d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

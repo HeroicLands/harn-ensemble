@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Brylwe of Marn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: gAz8SDnbSQDzFOdM
 packFolder: extrasnobles
 shortcode: brylweofmarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald

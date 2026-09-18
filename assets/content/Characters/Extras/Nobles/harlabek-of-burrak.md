@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Harlabek of Burrak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: mDf42JZlNC2MgS8e
 packFolder: extrasnobles
 shortcode: harlabekofburrak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

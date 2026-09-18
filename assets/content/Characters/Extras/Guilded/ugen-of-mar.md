@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ugen of Mar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: dkyp8W8HvNk6pDMD
 packFolder: extrasguilded
 shortcode: ugenofmar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Tamil of Rabenara for 257d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

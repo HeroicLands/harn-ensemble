@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merery of Merbena
   title: ""
@@ -9,7 +10,6 @@ name:
 id: eWjhFc6WXvS41XY2
 packFolder: extrasunguilded
 shortcode: mereryofmerbena
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: RHbk, type: armorgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

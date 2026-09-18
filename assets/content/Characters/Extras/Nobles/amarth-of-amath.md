@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amarth of Amath
   title: ""
@@ -9,7 +10,6 @@ name:
 id: uXmTNLxIJl4hHt3b
 packFolder: extrasnobles
 shortcode: amarthofamath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

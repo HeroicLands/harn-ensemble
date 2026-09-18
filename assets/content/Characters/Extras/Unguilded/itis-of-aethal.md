@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Itis of Aethal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ntTqd86lmEPj4ur7
 packFolder: extrasunguilded
 shortcode: itisofaethal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Crol of Matlimun
   title: ""
@@ -9,7 +10,6 @@ name:
 id: abX2g9NIjMH7BhoF
 packFolder: extrasnobles
 shortcode: crolofmatlimun
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

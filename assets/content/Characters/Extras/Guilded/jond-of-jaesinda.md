@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jond of Jaesinda
   title: ""
@@ -9,7 +10,6 @@ name:
 id: JX8Q0uN5xkDa8t2m
 packFolder: extrasguilded
 shortcode: jondofjaesinda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist
@@ -106,14 +106,16 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
     - { shortcode: pipesmokin, type: miscgear }
     - name: Scale/balance
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 72
         weight: 5

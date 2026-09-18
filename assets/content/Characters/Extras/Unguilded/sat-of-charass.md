@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sat of Charass
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 9rjI44NHIqx7q2Zy
 packFolder: extrasunguilded
 shortcode: satofcharass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

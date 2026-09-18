@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mar of Banth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AnjLuYRHTstK2ds9
 packFolder: extrasclergy
 shortcode: marofbanth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

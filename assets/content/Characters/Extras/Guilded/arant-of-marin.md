@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arant of Marin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GREICnv12MKrHqAw
 packFolder: extrasguilded
 shortcode: arantofmarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lajana of Marn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ucPI3yxrBVSEEP0V
 packFolder: extrasnobles
 shortcode: lajanaofmarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

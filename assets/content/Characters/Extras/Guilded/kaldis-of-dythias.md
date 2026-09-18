@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kaldis of Dythias
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FBw9gs2e4NTgN9wJ
 packFolder: extrasguilded
 shortcode: kaldisofdythias
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

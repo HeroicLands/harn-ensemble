@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cersyne of Jurbosq
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ASDiuunQlNNsGGvR
 packFolder: extrasguilded
 shortcode: cersyneofjurbosq
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer

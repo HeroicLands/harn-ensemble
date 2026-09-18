@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Enil of Peryne
   title: ""
@@ -9,9 +10,6 @@ name:
 id: fxyjVCZd3d3TokVH
 packFolder: fffmilitary
 shortcode: enilofperyne
-img: images/fffv1/token/FFF_127-4_Yeoman_SB.png
-portrait: images/fffv1/FFF_127-4_Yeoman_SB.jpg
-tokenImg: images/fffv1/token/FFF_127-4_Yeoman_SB.png
 type: being
 social:
   occupation: Yeoman (SB)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1274tok
+  portrait: fff1274
   templatePriority: 1
   gender: male
   species: human

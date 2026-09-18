@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Forena of Curo
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8YdFSZKQYXB5tRxC
 packFolder: extrasserfs
 shortcode: forenaofcuro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lodin of Fraul
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sf7pR0ua0YPfGN0r
 packFolder: extrasguilded
 shortcode: lodinoffraul
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gaetane of Dulkyia
   title: ""
@@ -9,7 +10,6 @@ name:
 id: whgANDltnRyReZVc
 packFolder: extrasguilded
 shortcode: gaetaneofdulkyia
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Physician

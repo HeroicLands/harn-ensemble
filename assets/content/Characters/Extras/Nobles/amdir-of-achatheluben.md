@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amdir of Achatheluben
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jSyyI8OuMvg0po0n
 packFolder: extrasnobles
 shortcode: amdirofachatheluben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: LKni, type: weapongear }
     - name: Amulet of Defeating Portals
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -122,7 +123,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zoe Fiorfohd
   title: ""
@@ -9,9 +10,6 @@ name:
 id: RVwOS24RmbplzdmD
 packFolder: fffmilitary
 shortcode: zoefiorfohd
-img: images/fffv1/token/FFF_127-3_Yeoman_SB.png
-portrait: images/fffv1/FFF_127-3_Yeoman_SB.jpg
-tokenImg: images/fffv1/token/FFF_127-3_Yeoman_SB.png
 type: being
 social:
   occupation: Yeoman (SB)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1273tok
+  portrait: fff1273
   templatePriority: 1
   gender: female
   species: human

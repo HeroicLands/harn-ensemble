@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Commander Pargat of Peden
   title: ""
@@ -9,7 +10,6 @@ name:
 id: p8JEeLesKGZP7Kb7
 packFolder: extrasguards
 shortcode: commanderpargatofpeden
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

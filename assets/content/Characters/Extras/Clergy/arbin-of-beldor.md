@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arbin of Beldor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XP8hcM9fA2QSSCHT
 packFolder: extrasclergy
 shortcode: arbinofbeldor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

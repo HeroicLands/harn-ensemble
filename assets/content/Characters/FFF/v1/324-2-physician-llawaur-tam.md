@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Llawaur Tam
   title: ""
@@ -9,9 +10,6 @@ name:
 id: mKKZFqqi9mBqoiFw
 packFolder: fffguilded
 shortcode: llawaurtam
-img: images/fffv1/token/FFF_324-2_Physician.png
-portrait: images/fffv1/FFF_324-2_Physician.jpg
-tokenImg: images/fffv1/token/FFF_324-2_Physician.png
 type: being
 social:
   occupation: Physician
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3242tok
+  portrait: fff3242
   templatePriority: 1
   gender: male
   species: human
@@ -177,7 +177,8 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - name: Fork
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: Very pretentious
         weight: 1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Vaberant of Chelsen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jRaVhUbB3HIHMESE
 packFolder: extrasunguilded
 shortcode: vaberantofchelsen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Teamster
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Leggins, waxed canvas
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Herala of Drel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xP9wPyjrCImM7S5L
 packFolder: extrasguilded
 shortcode: heralaofdrel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

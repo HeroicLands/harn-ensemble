@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sir Morhgan Cade
   title: Sir
@@ -9,9 +10,6 @@ name:
 id: q4Dsf9m89eR2J6oj
 packFolder: fffnobles
 shortcode: sirmorhgancade
-img: images/fffv1/token/FFF_506-3_Feudal_Knight_MH.png
-portrait: images/fffv1/FFF_506-3_Feudal_Knight_MH.jpg
-tokenImg: images/fffv1/token/FFF_506-3_Feudal_Knight_MH.png
 type: being
 social:
   occupation: Knight Bachelor (MH)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - morgath
 data:
+  icon: fff5063tok
+  portrait: fff5063
   templatePriority: 1
   gender: male
   species: human

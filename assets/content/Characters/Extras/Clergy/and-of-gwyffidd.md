@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: And of Gwyffidd
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bZmMDpcouD6HdKmv
 packFolder: extrasclergy
 shortcode: andofgwyffidd
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

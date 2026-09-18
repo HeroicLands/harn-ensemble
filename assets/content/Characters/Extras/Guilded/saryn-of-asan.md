@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Saryn of Asan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: yrZUSqIm5pLmNgJ0
 packFolder: extrasguilded
 shortcode: sarynofasan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian
@@ -110,14 +110,16 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Perfume, oz, bottle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 11
         weight: 0.25
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

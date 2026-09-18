@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kaidia of Sin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DF9KXnKU4aE44COp
 packFolder: extrasserfs
 shortcode: kaidiaofsin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Farmer

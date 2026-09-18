@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Maeghelasar of Veris
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TFSAetsa7CXRt0Hj
 packFolder: extrasclergy
 shortcode: maeghelasarofveris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -130,13 +130,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Jeweled Rod of Awe
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gyand of Penda
   title: ""
@@ -9,7 +10,6 @@ name:
 id: PWGVekrgObcMsIvK
 packFolder: extrasunguilded
 shortcode: gyandofpenda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

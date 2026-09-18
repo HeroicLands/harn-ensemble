@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lord Emmon Wisby
   title: Lord
@@ -9,9 +10,6 @@ name:
 id: 19nAFdKfLgGHbkzx
 packFolder: fffnobles
 shortcode: lordemmonwisby
-img: images/fffv1/token/FFF_505-1_Herald.png
-portrait: images/fffv1/FFF_505-1_Herald.jpg
-tokenImg: images/fffv1/token/FFF_505-1_Herald.png
 type: being
 social:
   occupation: Herald
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5051tok
+  portrait: fff5051
   templatePriority: 1
   gender: male
   species: human

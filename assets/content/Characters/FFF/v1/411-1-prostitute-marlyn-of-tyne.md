@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Marlyn of Tyne
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 6aFAjW9NHXMcKepf
 packFolder: fffunguilded
 shortcode: marlynoftyne
-img: images/fffv1/token/FFF_411-1_Prostitute.png
-portrait: images/fffv1/FFF_411-1_Prostitute.jpg
-tokenImg: images/fffv1/token/FFF_411-1_Prostitute.png
 type: being
 social:
   occupation: Prostitute
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4111tok
+  portrait: fff4111
   templatePriority: 1
   gender: female
   species: human

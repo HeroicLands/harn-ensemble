@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amdirvereg of Enamarthedherenamlugnarumuiben
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ExLZJnoZiGJWCiyE
 packFolder: extrasnobles
 shortcode: amdirveregofenamarthedherenamlugnarumuiben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

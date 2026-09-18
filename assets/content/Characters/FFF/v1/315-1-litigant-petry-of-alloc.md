@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Petry of Alloc
   title: ""
@@ -9,9 +10,6 @@ name:
 id: NTpfBJMBRsq9IrV9
 packFolder: fffguilded
 shortcode: petryofalloc
-img: images/fffv1/token/FFF_315-1_Litigant.png
-portrait: images/fffv1/FFF_315-1_Litigant.jpg
-tokenImg: images/fffv1/token/FFF_315-1_Litigant.png
 type: being
 social:
   occupation: Litigant
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff3151tok
+  portrait: fff3151
   templatePriority: 1
   gender: male
   species: human

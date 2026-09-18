@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Eral of Vanthen
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: Dbb07ScAB6olshCe
 packFolder: extrasguards
 shortcode: veteraneralofvanthen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -117,7 +117,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Joralyne of Baldireth for 396d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: RndSh, type: weapongear }

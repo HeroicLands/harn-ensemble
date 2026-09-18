@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Frand of Merke
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ZZjV2GiYZDnodyUI
 packFolder: extrasunguilded
 shortcode: frandofmerke
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

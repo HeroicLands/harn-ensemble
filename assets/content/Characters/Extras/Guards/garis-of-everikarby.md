@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Garis of Everikarby
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bAunArBk2MOFfxfU
 packFolder: extrasguards
 shortcode: garisofeverikarby
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pargat of Gwen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: JobWDSfvWWZ1MPyJ
 packFolder: extrasguilded
 shortcode: pargatofgwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

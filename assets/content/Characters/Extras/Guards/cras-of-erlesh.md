@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cras of Erlesh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DNHrxYVFEMqBLqfd
 packFolder: extrasguards
 shortcode: crasoferlesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: ShrtSwd, type: weapongear }
     - name: "Debt to Money Lender: Jorlath of Wulver for 396d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

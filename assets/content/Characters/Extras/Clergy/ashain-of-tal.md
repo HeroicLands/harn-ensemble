@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ashain of Tal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: k455ij14uMPRT9on
 packFolder: extrasclergy
 shortcode: ashainoftal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin
@@ -132,14 +132,16 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Anklet, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.125
     - { shortcode: RndSh, type: weapongear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lycia of Ekai
   title: ""
@@ -9,7 +10,6 @@ name:
 id: tN8miwWeWXeuXoC3
 packFolder: extrasunguilded
 shortcode: lyciaofekai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

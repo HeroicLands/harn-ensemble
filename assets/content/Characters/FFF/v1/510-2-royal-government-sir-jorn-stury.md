@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sir Jorn Stury
   title: Sir
@@ -9,9 +10,6 @@ name:
 id: aghrGYgVl3ACbIz7
 packFolder: fffnobles
 shortcode: sirjornstury
-img: images/fffv1/token/FFF_510-2_Royal_Government.png
-portrait: images/fffv1/FFF_510-2_Royal_Government.jpg
-tokenImg: images/fffv1/token/FFF_510-2_Royal_Government.png
 type: being
 social:
   occupation: Royal Agent
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5102tok
+  portrait: fff5102
   templatePriority: 1
   gender: male
   species: human

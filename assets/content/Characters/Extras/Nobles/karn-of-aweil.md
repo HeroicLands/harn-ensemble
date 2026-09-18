@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Karn of Aweil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GiOaeO0UIW5OyLW7
 packFolder: extrasnobles
 shortcode: karnofaweil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald

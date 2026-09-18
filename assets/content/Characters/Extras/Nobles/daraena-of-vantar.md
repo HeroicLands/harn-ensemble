@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Daraena of Vantar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: yBuCKWPsy3btnTKA
 packFolder: extrasnobles
 shortcode: daraenaofvantar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chaklyn of Armel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: UPWahJrkrClNVXvW
 packFolder: extrasguilded
 shortcode: chaklynofarmel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rybin of Onparselrin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4F1Qzu8qY0O8NPFn
 packFolder: extrasclergy
 shortcode: rybinofonparselrin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

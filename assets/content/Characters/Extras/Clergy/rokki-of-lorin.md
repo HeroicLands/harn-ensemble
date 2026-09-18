@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rokki of Lorin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: o23g7vgMmPRl1mvv
 packFolder: extrasclergy
 shortcode: rokkioflorin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

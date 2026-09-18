@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bae of Wytel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XfcR2DM80CqsdqMp
 packFolder: extrasunguilded
 shortcode: baeofwytel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Harild of Drelin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: UeSaxVLa9m26Skz6
 packFolder: extrasguilded
 shortcode: harildofdrelin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian

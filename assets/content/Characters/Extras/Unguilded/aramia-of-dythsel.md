@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aramia of Dythsel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: tWjUfbfFMt0eLoEx
 packFolder: extrasunguilded
 shortcode: aramiaofdythsel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

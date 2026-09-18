@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sepian of Sideth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xlBiFxs52Pe6Os9X
 packFolder: extrasnobles
 shortcode: sepianofsideth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Totes of Tonaranoal for 704d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

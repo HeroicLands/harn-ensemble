@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Masyne of Stokos
   title: ""
@@ -9,7 +10,6 @@ name:
 id: BOYhzmBfZljhMVDD
 packFolder: extrasguilded
 shortcode: masyneofstokos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Locksmith
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 1

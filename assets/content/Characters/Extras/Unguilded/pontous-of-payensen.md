@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pontous of Payensen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: PMjLjv9xqmHVC6zJ
 packFolder: extrasunguilded
 shortcode: pontousofpayensen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp

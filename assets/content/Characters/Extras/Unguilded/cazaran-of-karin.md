@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cazaran of Karin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: kED0kN1JJYyqgrLU
 packFolder: extrasunguilded
 shortcode: cazaranofkarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

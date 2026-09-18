@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terza of Cranchi
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 1CjxkvVVK5MA6zGQ
 packFolder: extrasunguilded
 shortcode: terzaofcranchi
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp
@@ -101,7 +101,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Elprequir, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1

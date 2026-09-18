@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Klarina of Aets
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AJqgGBW3O4IgXqKF
 packFolder: extrasunguilded
 shortcode: klarinaofaets
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

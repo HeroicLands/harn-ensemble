@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Myrela of Asane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FeKPnUGxwxjFaZLJ
 packFolder: extrasunguilded
 shortcode: myrelaofasane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

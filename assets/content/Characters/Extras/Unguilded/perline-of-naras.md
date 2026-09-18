@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Perline of Naras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XHRVcn8xv23hVSq9
 packFolder: extrasunguilded
 shortcode: perlineofnaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

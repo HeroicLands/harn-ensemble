@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kaladez of Rik
   title: ""
@@ -9,7 +10,6 @@ name:
 id: djSaUuFRrjSdY5mf
 packFolder: extrasguilded
 shortcode: kaladezofrik
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

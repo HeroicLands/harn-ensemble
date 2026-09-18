@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Haralyn of Kolmzak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ij40UBRiUQisZQXy
 packFolder: extrasunguilded
 shortcode: haralynofkolmzak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman

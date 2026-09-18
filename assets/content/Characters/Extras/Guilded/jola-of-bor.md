@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jola of Bor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: x6V80AUA54A5Eri4
 packFolder: extrasguilded
 shortcode: jolaofbor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Seaman
@@ -111,12 +111,14 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Leggins, waxed canvas
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Necklace, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 240
         weight: 0.25

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Albin of Rihale
   title: ""
@@ -9,9 +10,6 @@ name:
 id: AaGuFCouBtmrPRdj
 packFolder: fffclergy
 shortcode: albinofrihale
-img: images/fffv1/token/FFF_606-2_Priest_Naveh.png
-portrait: images/fffv1/FFF_606-2_Priest_Naveh.jpg
-tokenImg: images/fffv1/token/FFF_606-2_Priest_Naveh.png
 type: being
 social:
   occupation: Priest of Naveh
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - naveh
 data:
+  icon: fff6062tok
+  portrait: fff6062
   templatePriority: 1
   gender: male
   species: human
@@ -196,7 +196,8 @@ hm3:
     - { shortcode: drumhand, type: miscgear }
     - name: Contact Poison
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: disguised as wax for strings
         weight: 1

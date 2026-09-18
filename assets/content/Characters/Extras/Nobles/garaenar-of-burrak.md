@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Garaenar of Burrak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HOaI9dN8aemdq1RN
 packFolder: extrasnobles
 shortcode: garaenarofburrak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: PAxe, type: weapongear }
     - name: Armor Repair kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10
@@ -118,7 +119,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.05

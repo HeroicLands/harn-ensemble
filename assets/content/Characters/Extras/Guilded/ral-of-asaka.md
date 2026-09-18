@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ral of Asaka
   title: ""
@@ -9,7 +10,6 @@ name:
 id: a0yBSju13KejE9nB
 packFolder: extrasguilded
 shortcode: ralofasaka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ortilla of Islwyn
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 4JcndVkB4LNsvkyY
 packFolder: fffunguilded
 shortcode: ortillaofislwyn
-img: images/fffv1/token/FFF_417-4_Domestic.png
-portrait: images/fffv1/FFF_417-4_Domestic.jpg
-tokenImg: images/fffv1/token/FFF_417-4_Domestic.png
 type: being
 social:
   occupation: Chief domestic
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff4174tok
+  portrait: fff4174
   templatePriority: 1
   gender: female
   species: human
@@ -178,7 +178,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Meat Cleaver
       type: weapongear
-      img: systems/hm3/images/icons/svg/axe.svg
+      data:
+        icon: sohl-none-icon-axe
       system:
         notes: When working in kitchen
         value: 72

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Meral of Lorin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: IvhZiWHrTej5ae71
 packFolder: extrasclergy
 shortcode: meraloflorin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik
@@ -134,13 +134,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Rod of Scintillating Doom
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Holy Symbol, iron
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1

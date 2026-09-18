@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bascal Ryke
   title: ""
@@ -9,9 +10,6 @@ name:
 id: EH1Rs3rQVVy0oBAt
 packFolder: fffguilded
 shortcode: bascalryke
-img: images/fffv1/token/FFF_324-1_Physician.png
-portrait: images/fffv1/FFF_324-1_Physician.jpg
-tokenImg: images/fffv1/token/FFF_324-1_Physician.png
 type: being
 social:
   occupation: Physician
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3241tok
+  portrait: fff3241
   templatePriority: 1
   gender: male
   species: human

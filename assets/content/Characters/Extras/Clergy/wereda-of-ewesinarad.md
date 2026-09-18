@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Wereda of Ewesinarad
   title: ""
@@ -9,7 +10,6 @@ name:
 id: P2d6XqB7p43xv4eG
 packFolder: extrasclergy
 shortcode: weredaofewesinarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

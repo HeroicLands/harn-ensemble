@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jorlak of Asain
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EdO09j0lpN6ggWJp
 packFolder: extrasguilded
 shortcode: jorlakofasain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 15
         weight: 0.01

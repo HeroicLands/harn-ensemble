@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Larm of Fulkail
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EValLtk48ar4mK65
 packFolder: extrasguilded
 shortcode: larmoffulkail
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

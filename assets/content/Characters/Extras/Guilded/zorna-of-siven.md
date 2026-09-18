@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zorna of Siven
   title: ""
@@ -9,7 +10,6 @@ name:
 id: dZGDOUkedmqCZnjR
 packFolder: extrasguilded
 shortcode: zornaofsiven
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Den of Sedir for 89d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: WCap, type: armorgear }

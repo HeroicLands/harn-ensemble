@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Serery of Borskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 2xG9BXpKgRXgX7nn
 packFolder: extrasmages
 shortcode: sereryofborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Savorya**"
@@ -124,7 +124,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
@@ -132,7 +133,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 75
         weight: 0.5

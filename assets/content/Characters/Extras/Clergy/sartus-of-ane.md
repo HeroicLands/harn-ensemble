@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sartus of Ane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Sdl2sLfewZrbnKxj
 packFolder: extrasclergy
 shortcode: sartusofane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

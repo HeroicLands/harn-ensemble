@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dorana of Keryn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: rMrvdU0hmkKd5mMv
 packFolder: extrasguilded
 shortcode: doranaofkeryn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

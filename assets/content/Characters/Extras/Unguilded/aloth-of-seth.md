@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aloth of Seth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Kwt05ZHb5t6KMkKp
 packFolder: extrasunguilded
 shortcode: alothofseth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp

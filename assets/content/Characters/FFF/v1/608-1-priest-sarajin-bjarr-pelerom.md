@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bjarr Pelerom
   title: ""
@@ -9,9 +10,6 @@ name:
 id: k7q33nHXUCmbrB3b
 packFolder: fffclergy
 shortcode: bjarrpelerom
-img: images/fffv1/token/FFF_608-1_Priest_Sarajin.png
-portrait: images/fffv1/FFF_608-1_Priest_Sarajin.jpg
-tokenImg: images/fffv1/token/FFF_608-1_Priest_Sarajin.png
 type: being
 social:
   occupation: Runemaster
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff6081tok
+  portrait: fff6081
   templatePriority: 1
   gender: male
   species: human
@@ -206,7 +206,8 @@ hm3:
     - { shortcode: sarajinpassageofthesoul, type: invocation }
     - name: Suerlji's Defence
       type: invocation
-      img: systems/hm3/images/icons/png/sarajin.png
+      data:
+        icon: hm3-none-icon-sarajin
       system:
         diety: Sarajin
         circle: 3

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Eral of Balin
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: UCWBf7qKU8EU7PNM
 packFolder: extrasguards
 shortcode: veteraneralofbalin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -116,7 +116,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Kodarad of Tarsuel for 244d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lycia of Ubern
   title: ""
@@ -9,7 +10,6 @@ name:
 id: gUcWGmuncrME23Wl
 packFolder: extrasguilded
 shortcode: lyciaofubern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

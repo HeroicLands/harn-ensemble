@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arbin of Sediel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: n0k0vq8wgqxNYGL6
 packFolder: extrasunguilded
 shortcode: arbinofsediel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dame Afaewynn Barthy
   title: Dame
@@ -9,9 +10,6 @@ name:
 id: Tw7v46qDPFLQrmPJ
 packFolder: fffnobles
 shortcode: dameafaewynnbarthy
-img: images/fffv1/token/FFF_506-2_Feudal_Knight_MH.png
-portrait: images/fffv1/FFF_506-2_Feudal_Knight_MH.jpg
-tokenImg: images/fffv1/token/FFF_506-2_Feudal_Knight_MH.png
 type: being
 social:
   occupation: Knight Bachelor (MH)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5062tok
+  portrait: fff5062
   templatePriority: 1
   gender: female
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jesan of Dulkne
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RiihD1Ektnjrf2qq
 packFolder: extrasguilded
 shortcode: jesanofdulkne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker

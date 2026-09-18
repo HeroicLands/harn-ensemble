@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Nerelyne of Athaen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XbShm5qYQymcaGS8
 packFolder: extrasclergy
 shortcode: nerelyneofathaen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

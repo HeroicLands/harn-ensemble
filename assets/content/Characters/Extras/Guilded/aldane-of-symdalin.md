@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aldane of Symdalin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: SwaFaLydCR9uo3eB
 packFolder: extrasguilded
 shortcode: aldaneofsymdalin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright

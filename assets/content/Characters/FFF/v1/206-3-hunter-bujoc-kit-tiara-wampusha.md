@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kit'tiara Wampusha
   title: ""
@@ -9,9 +10,6 @@ name:
 id: zIkSmQfFvJZkJ652
 packFolder: fffbarbarians
 shortcode: kittiarawampusha
-img: images/fffv1/token/FFF_206-3_Hunter_Bujoc.png
-portrait: images/fffv1/FFF_206-3_Hunter_Bujoc.jpg
-tokenImg: images/fffv1/token/FFF_206-3_Hunter_Bujoc.png
 type: being
 social:
   occupation: Hunter
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sha
 data:
+  icon: fff2063tok
+  portrait: fff2063
   templatePriority: 1
   gender: female
   species: human

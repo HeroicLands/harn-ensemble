@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lamnar of Provin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 5SUSvrH7D7Cy4Omc
 packFolder: extrasserfs
 shortcode: lamnarofprovin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

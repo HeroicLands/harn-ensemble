@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Vadiryn of Mundondel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8ncQKxjnGOVMveqm
 packFolder: extrasclergy
 shortcode: vadirynofmundondel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

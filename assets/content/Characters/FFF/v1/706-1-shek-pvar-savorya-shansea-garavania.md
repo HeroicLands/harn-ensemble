@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shansea Garavania
   title: ""
@@ -9,9 +10,6 @@ name:
 id: HArxJjxZFXt5sqO8
 packFolder: fffmages
 shortcode: shanseagaravania
-img: images/fffv1/token/FFF_706-1_Shek_Pvar_Savorya.png
-portrait: images/fffv1/FFF_706-1_Shek_Pvar_Savorya.jpg
-tokenImg: images/fffv1/token/FFF_706-1_Shek_Pvar_Savorya.png
 type: being
 social:
   occupation: Savoryan Shek-Pvar
@@ -22,6 +20,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff7061tok
+  portrait: fff7061
   templatePriority: 1
   gender: female
   species: human
@@ -164,7 +164,8 @@ hm3:
     - { shortcode: neutral, type: skill, system: { masteryLevel: 80, skillBase: { value: 16 } } }
     - name: Dispel
       type: spell
-      img: systems/hm3/images/icons/svg/pentacle.svg
+      data:
+        icon: sohl-none-icon-pentacle
       system:
         convocation: Neutral
     - { shortcode: focus, type: spell }

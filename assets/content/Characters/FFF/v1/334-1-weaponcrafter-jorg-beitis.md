@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jorg Beitis
   title: ""
@@ -9,9 +10,6 @@ name:
 id: xCn0clbStVq5JJZh
 packFolder: fffguilded
 shortcode: jorgbeitis
-img: images/fffv1/token/FFF_334-1_Weaponcrafter.png
-portrait: images/fffv1/FFF_334-1_Weaponcrafter.jpg
-tokenImg: images/fffv1/token/FFF_334-1_Weaponcrafter.png
 type: being
 social:
   occupation: Weaponcrafter
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3341tok
+  portrait: fff3341
   templatePriority: 1
   gender: male
   species: human

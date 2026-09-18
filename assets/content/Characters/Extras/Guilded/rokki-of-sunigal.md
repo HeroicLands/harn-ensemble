@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rokki of Sunigal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: p3eLhSxehiJj5XQU
 packFolder: extrasguilded
 shortcode: rokkiofsunigal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Lexigrapher
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

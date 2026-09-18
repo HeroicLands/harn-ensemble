@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gine of Aeb
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pWDAFFDspDaYSMnA
 packFolder: extrasguilded
 shortcode: gineofaeb
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

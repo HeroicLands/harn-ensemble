@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Uviene of Waylin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Q5uIWIdZJFYPxUkN
 packFolder: extrasguilded
 shortcode: uvieneofwaylin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

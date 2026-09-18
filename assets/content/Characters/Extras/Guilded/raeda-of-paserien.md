@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Raeda of Paserien
   title: ""
@@ -9,7 +10,6 @@ name:
 id: cBsjJwJ8oSegsTOL
 packFolder: extrasguilded
 shortcode: raedaofpaserien
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Courtesan
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - name: Elprequir, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1
@@ -111,7 +112,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

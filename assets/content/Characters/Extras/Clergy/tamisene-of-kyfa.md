@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tamisene of Kyfa
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RAlN28RNS9HmT1am
 packFolder: extrasclergy
 shortcode: tamiseneofkyfa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

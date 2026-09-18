@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Esharel Ranals
   title: ""
@@ -9,9 +10,6 @@ name:
 id: cLnhyY4QXQWraFxa
 packFolder: fffmilitary
 shortcode: esharelranals
-img: images/fffv1/token/FFF_115-2_Mercenary_MF.png
-portrait: images/fffv1/FFF_115-2_Mercenary_MF.jpg
-tokenImg: images/fffv1/token/FFF_115-2_Mercenary_MF.png
 type: being
 social:
   occupation: Sea Captain
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1152tok
+  portrait: fff1152
   templatePriority: 1
   gender: male
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Inen of Dariam
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Yxcc7jomLj39FUyr
 packFolder: extrasclergy
 shortcode: inenofdariam
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -143,13 +143,15 @@ hm3:
     - { shortcode: bellhand, type: miscgear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Liriame of Merak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: F3uqS1KAQlTkXilN
 packFolder: extrasguilded
 shortcode: liriameofmerak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

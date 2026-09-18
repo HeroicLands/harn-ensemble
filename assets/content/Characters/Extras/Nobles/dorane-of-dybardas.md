@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dorane of Dybardas
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0YZiT9KFprpRNFP4
 packFolder: extrasnobles
 shortcode: doraneofdybardas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse
@@ -118,7 +118,8 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gana
   title: ""
@@ -9,9 +10,6 @@ name:
 id: VMA4xMJkwXQPk7DM
 packFolder: fffnonhumans
 shortcode: gana
-img: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess-headshot.webp
-portrait: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess.webp
-tokenImg: images/fff-13/FFF_803a_Gargu-Khanu_Warrior_Princess-token.webp
 type: being
 social:
   occupation: Warrior
@@ -22,6 +20,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff803ahead
+  tokenIcon: fff803atok
+  portrait: fff803a
   gender: female
   species: gargu-khanu
   age: 12
@@ -119,7 +120,8 @@ hm3:
     - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -134,36 +136,42 @@ hm3:
     - { shortcode: PlAil, type: armorgear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         notes: Necklace of teeth
         value: 5
         weight: 0.25
     - name: Skull
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Dried testicles
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Dried penises
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         notes: Heavy silver nose ring
         value: 30
         weight: 0.03
     - name: Earring, Bronze
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         value: 1
         weight: 0.01

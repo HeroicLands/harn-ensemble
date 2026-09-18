@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Fryda of Don
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 6YY12fd653dvT6NM
 packFolder: extrasguilded
 shortcode: frydaofdon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mason
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Mason's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 36
         weight: 15

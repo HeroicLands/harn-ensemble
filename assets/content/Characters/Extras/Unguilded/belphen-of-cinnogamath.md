@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Belphen of Cinnogamath
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ek8HNZJeTLOAYLoT
 packFolder: extrasunguilded
 shortcode: belphenofcinnogamath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

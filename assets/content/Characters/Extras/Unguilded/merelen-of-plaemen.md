@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merelen of Plaemen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: PbAjiQEkLcrQ4sE1
 packFolder: extrasunguilded
 shortcode: merelenofplaemen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher

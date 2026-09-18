@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Vadir of Athias
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oIqNlTo4zfeoBERg
 packFolder: extrasguilded
 shortcode: vadirofathias
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

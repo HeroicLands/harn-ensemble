@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Barris of Gorn
   title: ""
@@ -9,9 +10,6 @@ name:
 id: XbtouNxhhTn7NMUw
 packFolder: fffguilded
 shortcode: barrisofgorn
-img: images/fffv1/token/FFF_311-1_Hideworker.png
-portrait: images/fffv1/FFF_311-1_Hideworker.jpg
-tokenImg: images/fffv1/token/FFF_311-1_Hideworker.png
 type: being
 social:
   occupation: Hideworker
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3111tok
+  portrait: fff3111
   templatePriority: 1
   gender: male
   species: human

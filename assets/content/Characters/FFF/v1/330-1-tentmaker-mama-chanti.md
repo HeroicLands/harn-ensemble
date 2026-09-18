@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mama Chanti
   title: ""
@@ -9,9 +10,6 @@ name:
 id: DXII1oXhOLZBU8FB
 packFolder: fffguilded
 shortcode: mamachanti
-img: images/fffv1/token/FFF_330-1_Tentmaker.png
-portrait: images/fffv1/FFF_330-1_Tentmaker.jpg
-tokenImg: images/fffv1/token/FFF_330-1_Tentmaker.png
 type: being
 social:
   occupation: Tentmaker
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3301tok
+  portrait: fff3301
   templatePriority: 1
   gender: female
   species: human
@@ -120,7 +120,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Yarn and Needles
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 15 } }

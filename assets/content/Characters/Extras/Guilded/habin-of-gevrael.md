@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Habin of Gevrael
   title: ""
@@ -9,7 +10,6 @@ name:
 id: q3Fs2WCw3qaFc4Sz
 packFolder: extrasguilded
 shortcode: habinofgevrael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Perfumer
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Perfume, oz, bottle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 11
         weight: 0.25

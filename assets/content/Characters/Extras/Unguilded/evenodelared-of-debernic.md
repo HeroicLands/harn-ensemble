@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Evenodelared of Debernic
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Fg4FDHOXRKNxHpvo
 packFolder: extrasunguilded
 shortcode: evenodelaredofdebernic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

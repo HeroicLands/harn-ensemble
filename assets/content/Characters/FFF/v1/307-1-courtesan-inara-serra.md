@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Inara Serra
   title: ""
@@ -9,9 +10,6 @@ name:
 id: HWc0GmXxH3cKR2B4
 packFolder: fffguilded
 shortcode: inaraserra
-img: images/fffv1/token/FFF_307-1_Courtesan.png
-portrait: images/fffv1/FFF_307-1_Courtesan.jpg
-tokenImg: images/fffv1/token/FFF_307-1_Courtesan.png
 type: being
 social:
   occupation: Courtesan
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3071tok
+  portrait: fff3071
   templatePriority: 1
   gender: female
   species: human

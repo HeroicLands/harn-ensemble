@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Wyte of Fyrwey
   title: ""
@@ -9,9 +10,6 @@ name:
 id: awKuFaoeX8MPhTj1
 packFolder: fffunguilded
 shortcode: wyteoffyrwey
-img: images/fffv1/token/FFF_421-1_Thatcher.png
-portrait: images/fffv1/FFF_421-1_Thatcher.jpg
-tokenImg: images/fffv1/token/FFF_421-1_Thatcher.png
 type: being
 social:
   occupation: Thatcher
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff4211tok
+  portrait: fff4211
   templatePriority: 1
   gender: male
   species: human

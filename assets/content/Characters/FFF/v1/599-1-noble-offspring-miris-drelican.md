@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Miris Drelican
   title: ""
@@ -9,9 +10,6 @@ name:
 id: f3ABHIZWjs5Fq7o6
 packFolder: fffnobles
 shortcode: mirisdrelican
-img: images/fffv1/token/FFF_599-1_Noble_Offspring.png
-portrait: images/fffv1/FFF_599-1_Noble_Offspring.jpg
-tokenImg: images/fffv1/token/FFF_599-1_Noble_Offspring.png
 type: being
 social:
   occupation: Noble Offspring
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5991tok
+  portrait: fff5991
   templatePriority: 1
   gender: male
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Inal of Everikarby
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8mns7HVA0c8q0nW5
 packFolder: extrasunguilded
 shortcode: inalofeverikarby
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

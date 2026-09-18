@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hollo of Elbaro
   title: ""
@@ -9,7 +10,6 @@ name:
 id: cPg48NJmoVjuvhCc
 packFolder: extrasclergy
 shortcode: holloofelbaro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

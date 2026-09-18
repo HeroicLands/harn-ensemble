@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gaeffel of Thola
   title: ""
@@ -9,9 +10,6 @@ name:
 id: GG4L9Xd23Q5kFfeY
 packFolder: fffguilded
 shortcode: gaeffelofthola
-img: images/fffv1/token/FFF_318-2_Mercantyler.png
-portrait: images/fffv1/FFF_318-2_Mercantyler.jpg
-tokenImg: images/fffv1/token/FFF_318-2_Mercantyler.png
 type: being
 social:
   occupation: Mercantyler
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3182tok
+  portrait: fff3182
   templatePriority: 1
   gender: male
   species: human

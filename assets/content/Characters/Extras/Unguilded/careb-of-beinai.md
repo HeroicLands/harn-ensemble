@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Careb of Beinai
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Sdl9TH7jFlqvbguW
 packFolder: extrasunguilded
 shortcode: carebofbeinai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

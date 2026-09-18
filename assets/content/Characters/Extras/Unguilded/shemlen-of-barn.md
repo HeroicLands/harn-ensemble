@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shemlen of Barn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: kajUvOOs09yT49GO
 packFolder: extrasunguilded
 shortcode: shemlenofbarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

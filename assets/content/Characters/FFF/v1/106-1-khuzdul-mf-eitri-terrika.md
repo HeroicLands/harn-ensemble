@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Eitri Terrika
   title: ""
@@ -9,9 +10,6 @@ name:
 id: m0mas15prhAdcHKM
 packFolder: fffmilitary
 shortcode: eitriterrika
-img: images/fffv1/token/FFF_106-1_Khuzdul_MF.png
-portrait: images/fffv1/FFF_106-1_Khuzdul_MF.jpg
-tokenImg: images/fffv1/token/FFF_106-1_Khuzdul_MF.png
 type: being
 social:
   occupation: Clansman (MF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1061tok
+  portrait: fff1061
   templatePriority: 1
   gender: male
   species: khuzdul

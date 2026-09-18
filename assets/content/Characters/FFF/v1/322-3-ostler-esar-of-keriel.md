@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Esar of Keriel
   title: ""
@@ -9,9 +10,6 @@ name:
 id: dLuiueIsJHF3I55g
 packFolder: fffguilded
 shortcode: esarofkeriel
-img: images/fffv1/token/FFF_322-3_Ostler.png
-portrait: images/fffv1/FFF_322-3_Ostler.jpg
-tokenImg: images/fffv1/token/FFF_322-3_Ostler.png
 type: being
 social:
   occupation: Apprentice Ostler
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3223tok
+  portrait: fff3223
   templatePriority: 1
   gender: male
   species: human

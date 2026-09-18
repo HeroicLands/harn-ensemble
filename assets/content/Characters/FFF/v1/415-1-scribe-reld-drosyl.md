@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Reld Drosyl
   title: ""
@@ -9,9 +10,6 @@ name:
 id: LYy6wNzmc4QK0GiL
 packFolder: fffunguilded
 shortcode: relddrosyl
-img: images/fffv1/token/FFF_415-1_Scribe.png
-portrait: images/fffv1/FFF_415-1_Scribe.jpg
-tokenImg: images/fffv1/token/FFF_415-1_Scribe.png
 type: being
 social:
   occupation: Scribe
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4151tok
+  portrait: fff4151
   templatePriority: 1
   gender: male
   species: human
@@ -179,7 +179,8 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - name: Ledger
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: Heavy bound book
         quantity: 3

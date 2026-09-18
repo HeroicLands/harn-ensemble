@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Feldin of Dulkne
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jbxtNBwPGJBAxVfM
 packFolder: extrasguilded
 shortcode: feldinofdulkne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper

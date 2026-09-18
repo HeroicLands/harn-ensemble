@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Solinde of Ekai
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oDUQNV2NSyPDEF1q
 packFolder: extrasguilded
 shortcode: solindeofekai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

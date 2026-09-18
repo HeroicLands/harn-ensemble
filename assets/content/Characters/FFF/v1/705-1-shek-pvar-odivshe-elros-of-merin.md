@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Elros of Merin
   title: ""
@@ -9,9 +10,6 @@ name:
 id: jqxwcglOWSbmKmea
 packFolder: fffmages
 shortcode: elrosofmerin
-img: images/fffv1/token/FFF_705-1_Shek_Pvar_Odivshe.png
-portrait: images/fffv1/FFF_705-1_Shek_Pvar_Odivshe.jpg
-tokenImg: images/fffv1/token/FFF_705-1_Shek_Pvar_Odivshe.png
 type: being
 social:
   occupation: Ship Captain
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff7051tok
+  portrait: fff7051
   templatePriority: 1
   gender: male
   species: human
@@ -166,7 +166,8 @@ hm3:
     - { shortcode: azurehand, type: spell }
     - name: Power of Vadan
       type: spell
-      img: systems/hm3/images/icons/svg/pentacle.svg
+      data:
+        icon: sohl-none-icon-pentacle
       system:
         convocation: Odivshe
     - { shortcode: chalsassponge, type: spell }
@@ -174,7 +175,8 @@ hm3:
     - { shortcode: mouthoflathal, type: spell }
     - name: Merin's Waves
       type: spell
-      img: systems/hm3/images/icons/svg/pentacle.svg
+      data:
+        icon: sohl-none-icon-pentacle
       system:
         convocation: Odivshe
         level: 3
@@ -188,7 +190,8 @@ hm3:
     - { shortcode: lothskey, type: spell }
     - name: Aeric's Whisper
       type: spell
-      img: systems/hm3/images/icons/svg/wind.svg
+      data:
+        icon: sohl-none-icon-wind
       system:
         convocation: Lyahvi
     - { shortcode: pence, type: miscgear, system: { quantity: 237 } }

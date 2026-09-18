@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sil of Baldim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: UPU34bAWMMOXCN6R
 packFolder: extrasunguilded
 shortcode: silofbaldim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman
@@ -102,14 +102,16 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

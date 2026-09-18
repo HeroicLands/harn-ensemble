@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jend of Kanthen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 2dFAtYI8nTSIKduh
 packFolder: extrasunguilded
 shortcode: jendofkanthen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

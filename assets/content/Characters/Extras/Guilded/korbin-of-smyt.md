@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Korbin of Smyt
   title: ""
@@ -9,7 +10,6 @@ name:
 id: p4ntn6CriEKSQ5qS
 packFolder: extrasguilded
 shortcode: korbinofsmyt
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker

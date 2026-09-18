@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Larin of Lorin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zmikWbdMkWqFcCcv
 packFolder: extrasnobles
 shortcode: larinoflorin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot

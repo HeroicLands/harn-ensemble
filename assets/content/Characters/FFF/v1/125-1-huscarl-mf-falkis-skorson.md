@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Falkis Skorson
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 8op3vcqRYg32R2Bb
 packFolder: fffmilitary
 shortcode: falkisskorson
-img: images/fffv1/token/FFF_125-1_Huscarl_MF.png
-portrait: images/fffv1/FFF_125-1_Huscarl_MF.jpg
-tokenImg: images/fffv1/token/FFF_125-1_Huscarl_MF.png
 type: being
 social:
   occupation: Huscarl (MF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff1251tok
+  portrait: fff1251
   templatePriority: 1
   gender: male
   species: human

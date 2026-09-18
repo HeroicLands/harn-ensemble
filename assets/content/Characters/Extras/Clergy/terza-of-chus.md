@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terza of Chus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: OYstODTKyWEaVdtD
 packFolder: extrasclergy
 shortcode: terzaofchus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

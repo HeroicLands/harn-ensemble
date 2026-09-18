@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tamyth of Goselerdy
   title: ""
@@ -9,7 +10,6 @@ name:
 id: a28Ss29eA5TMVqMq
 packFolder: extrasguilded
 shortcode: tamythofgoselerdy
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler

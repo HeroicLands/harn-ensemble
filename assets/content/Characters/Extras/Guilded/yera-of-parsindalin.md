@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yera of Parsindalin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: NGHoXHmdTvh1u4OD
 packFolder: extrasguilded
 shortcode: yeraofparsindalin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Peser of Hosathasil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ZwlAfP6Zm1ZINbGF
 packFolder: extrasguilded
 shortcode: peserofhosathasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: carpentrykitportable, type: miscgear }
     - name: "Debt to Money Lender: Verallax of Parin for 207d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

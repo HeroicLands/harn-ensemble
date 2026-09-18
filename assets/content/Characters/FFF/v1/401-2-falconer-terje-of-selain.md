@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terje of Selain
   title: ""
@@ -9,9 +10,6 @@ name:
 id: lcDjXC4Bp1fhprQv
 packFolder: fffunguilded
 shortcode: terjeofselain
-img: images/fffv1/token/FFF_401-2_Falconer.png
-portrait: images/fffv1/FFF_401-2_Falconer.jpg
-tokenImg: images/fffv1/token/FFF_401-2_Falconer.png
 type: being
 social:
   occupation: Falconer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4012tok
+  portrait: fff4012
   templatePriority: 1
   gender: male
   species: human

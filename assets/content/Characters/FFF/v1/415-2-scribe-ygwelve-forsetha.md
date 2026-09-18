@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ygwelve Forsetha
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 2MzjJhA8lpULDhlf
 packFolder: fffunguilded
 shortcode: ygwelveforsetha
-img: images/fffv1/token/FFF_415-2_Scribe.png
-portrait: images/fffv1/FFF_415-2_Scribe.jpg
-tokenImg: images/fffv1/token/FFF_415-2_Scribe.png
 type: being
 social:
   occupation: Scribe
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff4152tok
+  portrait: fff4152
   templatePriority: 1
   gender: female
   species: human

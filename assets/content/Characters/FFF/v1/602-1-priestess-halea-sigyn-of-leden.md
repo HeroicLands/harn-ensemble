@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sigyn of Leden
   title: ""
@@ -9,9 +10,6 @@ name:
 id: cHaUpTHhhkvOD5XM
 packFolder: fffclergy
 shortcode: sigynofleden
-img: images/fffv1/token/FFF_602-1_Priestess_Halea.png
-portrait: images/fffv1/FFF_602-1_Priestess_Halea.jpg
-tokenImg: images/fffv1/token/FFF_602-1_Priestess_Halea.png
 type: being
 social:
   occupation: Shenasene
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff6021tok
+  portrait: fff6021
   templatePriority: 1
   gender: female
   species: human
@@ -170,7 +170,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Exquisite clothes
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: No armor value
         weight: 1

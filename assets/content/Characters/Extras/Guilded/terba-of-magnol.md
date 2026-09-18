@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terba of Magnol
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xOXz3ZztMzHJWdXE
 packFolder: extrasguilded
 shortcode: terbaofmagnol
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

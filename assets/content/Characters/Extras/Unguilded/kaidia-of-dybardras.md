@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kaidia of Dybardras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: CE4eSJDwQrKMcazP
 packFolder: extrasunguilded
 shortcode: kaidiaofdybardras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

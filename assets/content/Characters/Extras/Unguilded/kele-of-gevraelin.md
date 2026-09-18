@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kele of Gevraelin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: peuxsqoUAcPPfrBH
 packFolder: extrasunguilded
 shortcode: keleofgevraelin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

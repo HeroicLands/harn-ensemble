@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chaklyne of Lebarsin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 7f11WNjOHh1dO8aH
 packFolder: extrasclergy
 shortcode: chaklyneoflebarsin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem
@@ -145,19 +145,22 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Unknown/broken Earthmaster item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Holy Symbol, brass
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 0.1
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

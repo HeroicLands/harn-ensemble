@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chendra of Murthalis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WtXKHpo0KGMDAzT9
 packFolder: extrasnobles
 shortcode: chendraofmurthalis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium
@@ -113,12 +113,14 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Rae of Domerkenos for 370d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hoban Fiorfohd
   title: ""
@@ -9,9 +10,6 @@ name:
 id: dB9zMBkQJSKNOVu4
 packFolder: fffguilded
 shortcode: hobanfiorfohd
-img: images/fffv1/token/FFF_325-2_Pilot.png
-portrait: images/fffv1/FFF_325-2_Pilot.jpg
-tokenImg: images/fffv1/token/FFF_325-2_Pilot.png
 type: being
 social:
   occupation: Pilot
@@ -24,6 +22,8 @@ harnworld:
     - peoni
     - eder
 data:
+  icon: fff3252tok
+  portrait: fff3252
   templatePriority: 1
   gender: male
   species: human

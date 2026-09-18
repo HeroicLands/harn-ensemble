@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jeronis of Agarak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nNnSg3EUMNf7sSfj
 packFolder: extrasunguilded
 shortcode: jeronisofagarak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.25

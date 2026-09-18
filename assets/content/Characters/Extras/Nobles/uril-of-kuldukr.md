@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Uril of Kuldukr
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WC6BtOn4G8dSDiN3
 packFolder: extrasnobles
 shortcode: urilofkuldukr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard
@@ -116,7 +116,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

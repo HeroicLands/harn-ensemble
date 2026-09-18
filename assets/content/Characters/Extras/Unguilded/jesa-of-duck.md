@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jesa of Duck
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jQIPF90X4lCNb2Ee
 packFolder: extrasunguilded
 shortcode: jesaofduck
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman
@@ -101,7 +101,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Hobir of Falesh for 36d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

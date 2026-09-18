@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tabifa of Saldir
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 76sXJKzuZu6wSP2a
 packFolder: extrasguilded
 shortcode: tabifaofsaldir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Pilot
@@ -108,13 +108,15 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sar of Kotrenel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: mB5pIfRCfMucKeTI
 packFolder: extrasguilded
 shortcode: sarofkotrenel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

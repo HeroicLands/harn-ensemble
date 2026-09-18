@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ereda of Baets
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xmFX7gOtcarDy4Nn
 packFolder: extrasunguilded
 shortcode: eredaofbaets
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Werele of Quirin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: InNvfn0D6rb9rp4M
 packFolder: extrasunguilded
 shortcode: wereleofquirin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Light
@@ -117,7 +117,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Hemisen of Cosel for 362d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

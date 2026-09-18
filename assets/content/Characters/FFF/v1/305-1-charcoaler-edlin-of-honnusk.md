@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Edlin of Honnusk
   title: ""
@@ -9,9 +10,6 @@ name:
 id: IABsoOo9Wrvq3gef
 packFolder: fffguilded
 shortcode: edlinofhonnusk
-img: images/fffv1/token/FFF_305-1_Charcoaler.png
-portrait: images/fffv1/FFF_305-1_Charcoaler.jpg
-tokenImg: images/fffv1/token/FFF_305-1_Charcoaler.png
 type: being
 social:
   occupation: Charcoaler
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3051tok
+  portrait: fff3051
   templatePriority: 1
   gender: male
   species: human

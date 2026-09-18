@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Feldar of Yaleh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: rw0NWTTW8DhFgjRt
 packFolder: extrasguilded
 shortcode: feldarofyaleh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Seaman
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Leggins, waxed canvas
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }

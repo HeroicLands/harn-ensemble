@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bryle of Laplaemen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: BfWvDzoAwhh2pqJR
 packFolder: extrasclergy
 shortcode: bryleoflaplaemen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

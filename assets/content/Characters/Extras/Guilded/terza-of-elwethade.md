@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terza of Elwethade
   title: ""
@@ -9,7 +10,6 @@ name:
 id: anlVa3Dtluoyqyoo
 packFolder: extrasguilded
 shortcode: terzaofelwethade
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Weaponcrafter
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10

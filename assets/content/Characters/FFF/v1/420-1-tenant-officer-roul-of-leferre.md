@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Roul of Leferre
   title: ""
@@ -9,9 +10,6 @@ name:
 id: cvnkHX7g7glN0XmA
 packFolder: fffunguilded
 shortcode: roulofleferre
-img: images/fffv1/token/FFF_420-1_Tenant_Officer.png
-portrait: images/fffv1/FFF_420-1_Tenant_Officer.jpg
-tokenImg: images/fffv1/token/FFF_420-1_Tenant_Officer.png
 type: being
 social:
   occupation: Reeve
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4201tok
+  portrait: fff4201
   templatePriority: 1
   gender: male
   species: human

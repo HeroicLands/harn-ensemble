@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Karn of Ren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: kAzbZhknE15karYe
 packFolder: extrasguilded
 shortcode: karnofren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Leggins, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

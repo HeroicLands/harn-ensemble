@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Haraenar of Qatorzin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DCMFvCpt0t95lP6t
 packFolder: extrasguilded
 shortcode: haraenarofqatorzin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: carpentrykitportable, type: miscgear }
     - name: "Debt to Money Lender: Elan of Pthes for 460d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: SlsCap, type: armorgear }
@@ -120,7 +121,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

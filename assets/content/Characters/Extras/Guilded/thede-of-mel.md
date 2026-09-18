@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Thede of Mel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: CYLCxEGzigXYqlwQ
 packFolder: extrasguilded
 shortcode: thedeofmel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

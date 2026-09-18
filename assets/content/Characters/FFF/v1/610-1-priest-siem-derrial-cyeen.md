@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Derrial Cyeen
   title: ""
@@ -9,9 +10,6 @@ name:
 id: nN0ZeHNkQv29VR0P
 packFolder: fffclergy
 shortcode: derrialcyeen
-img: images/fffv1/token/FFF_610-1_Priest_Siem.png
-portrait: images/fffv1/FFF_610-1_Priest_Siem.jpg
-tokenImg: images/fffv1/token/FFF_610-1_Priest_Siem.png
 type: being
 social:
   occupation: Priest of Siem
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff6101tok
+  portrait: fff6101
   templatePriority: 1
   gender: male
   species: human

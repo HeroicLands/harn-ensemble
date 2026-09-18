@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Lern of Barsuel
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: kzd9qsDD4CeJqxcA
 packFolder: extrasguards
 shortcode: veteranlernofbarsuel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

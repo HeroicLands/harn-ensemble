@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Achafin of Beltharaninior
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 27SGmlHZAOSNBQuK
 packFolder: extrasnobles
 shortcode: achafinofbeltharaninior
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

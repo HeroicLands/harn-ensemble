@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Piris of Eldesaldir
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ZJrn4FC0ahwpPyrt
 packFolder: extrasclergy
 shortcode: pirisofeldesaldir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

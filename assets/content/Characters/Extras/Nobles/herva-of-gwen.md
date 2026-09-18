@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Herva of Gwen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0GcHiA7vUFPbrRUs
 packFolder: extrasnobles
 shortcode: hervaofgwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

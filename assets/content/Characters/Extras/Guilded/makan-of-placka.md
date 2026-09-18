@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Makan of Placka
   title: ""
@@ -9,7 +10,6 @@ name:
 id: LyFQ0ELk9ZUS0oo8
 packFolder: extrasguilded
 shortcode: makanofplacka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

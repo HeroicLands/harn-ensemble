@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tokis Valgerdsson
   title: ""
@@ -9,9 +10,6 @@ name:
 id: sthqPBiIzMN0umog
 packFolder: fffmilitary
 shortcode: tokisvalgerdsson
-img: images/fffv1/token/FFF_124-2_Clansman_UF.png
-portrait: images/fffv1/FFF_124-2_Clansman_UF.jpg
-tokenImg: images/fffv1/token/FFF_124-2_Clansman_UF.png
 type: being
 social:
   occupation: Clansman (UF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff1242tok
+  portrait: fff1242
   templatePriority: 1
   gender: male
   species: human

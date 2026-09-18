@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Alared of Iaras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0ufKeOCu9iv14ZvZ
 packFolder: extrasguilded
 shortcode: alaredofiaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Lexigrapher
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

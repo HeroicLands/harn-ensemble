@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Romont of Addy
   title: ""
@@ -9,9 +10,6 @@ name:
 id: I16NOoLaxr3RXM8E
 packFolder: fffunguilded
 shortcode: romontofaddy
-img: images/fffv1/token/FFF_419-1_Teamster.png
-portrait: images/fffv1/FFF_419-1_Teamster.jpg
-tokenImg: images/fffv1/token/FFF_419-1_Teamster.png
 type: being
 social:
   occupation: Teamster
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4191tok
+  portrait: fff4191
   templatePriority: 1
   gender: male
   species: human

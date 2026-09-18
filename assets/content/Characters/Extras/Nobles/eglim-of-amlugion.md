@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Eglim of Amlugion
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RAtXWoiSzDVI0WUA
 packFolder: extrasnobles
 shortcode: eglimofamlugion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03
@@ -121,7 +122,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

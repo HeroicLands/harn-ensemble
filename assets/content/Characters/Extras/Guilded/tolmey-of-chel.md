@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tolmey of Chel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: dmBoNIrSVBxpCsJa
 packFolder: extrasguilded
 shortcode: tolmeyofchel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

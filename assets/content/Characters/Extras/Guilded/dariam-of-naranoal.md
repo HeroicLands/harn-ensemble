@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dariam of Naranoal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Q3YJXnnDxwUPJVGv
 packFolder: extrasguilded
 shortcode: dariamofnaranoal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Rashain of Onparsel for 352d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: RCap, type: armorgear }

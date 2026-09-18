@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lasyne of Guinasta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vWMV17tJRyCgdBfR
 packFolder: extrasguilded
 shortcode: lasyneofguinasta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Tentmaker
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Circlet, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 300
         weight: 0.3125

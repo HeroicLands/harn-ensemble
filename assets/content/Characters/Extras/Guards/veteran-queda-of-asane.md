@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Queda of Asane
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: QZo1LlxuSGoM1VAr
 packFolder: extrasguards
 shortcode: veteranquedaofasane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: ShrtSwd, type: weapongear }
     - name: "Debt to Money Lender: Jarik of Ubela for 2d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

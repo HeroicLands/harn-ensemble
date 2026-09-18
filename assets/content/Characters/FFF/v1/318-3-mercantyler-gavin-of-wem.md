@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gavin of Wem
   title: ""
@@ -9,9 +10,6 @@ name:
 id: HxtAGRO4FSTP0v3G
 packFolder: fffguilded
 shortcode: gavinofwem
-img: images/fffv1/token/FFF_318-3_Mercantyler.png
-portrait: images/fffv1/FFF_318-3_Mercantyler.jpg
-tokenImg: images/fffv1/token/FFF_318-3_Mercantyler.png
 type: being
 social:
   occupation: Caravan Master
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3183tok
+  portrait: fff3183
   templatePriority: 1
   gender: male
   species: human

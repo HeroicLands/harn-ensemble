@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Semis of Hubela
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: 7gdyJMlLagAiXL88
 packFolder: extrasguards
 shortcode: veteransemisofhubela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -117,7 +117,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

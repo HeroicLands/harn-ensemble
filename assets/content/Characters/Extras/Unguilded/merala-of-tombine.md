@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merala of Tombine
   title: ""
@@ -9,7 +10,6 @@ name:
 id: QiuZaddCfqFlQnuC
 packFolder: extrasunguilded
 shortcode: meralaoftombine
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Shortbow

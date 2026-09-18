@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gyandy of Hylin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Y8SN80d6jkBBYZic
 packFolder: extrasnobles
 shortcode: gyandyofhylin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot

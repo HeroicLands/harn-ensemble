@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Obrant of Sarn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: BHVvbOzw5GAJTRq5
 packFolder: extrasunguilded
 shortcode: obrantofsarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer

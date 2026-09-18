@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dersory of Talkene
   title: ""
@@ -9,9 +10,6 @@ name:
 id: OTri8XJRvBsWZT3S
 packFolder: fffguilded
 shortcode: dersoryoftalkene
-img: images/fffv1/token/FFF_322-1_Ostler.png
-portrait: images/fffv1/FFF_322-1_Ostler.jpg
-tokenImg: images/fffv1/token/FFF_322-1_Ostler.png
 type: being
 social:
   occupation: Ostler
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3221tok
+  portrait: fff3221
   templatePriority: 1
   gender: male
   species: human

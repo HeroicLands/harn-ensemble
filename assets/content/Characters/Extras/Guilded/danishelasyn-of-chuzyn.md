@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Danishelasyn of Chuzyn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YhW27mNuFNKz64vu
 packFolder: extrasguilded
 shortcode: danishelasynofchuzyn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Pilot
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: SlsCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

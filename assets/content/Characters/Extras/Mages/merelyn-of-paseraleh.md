@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merelyn of Paseraleh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Dl79q0xCaljTQZX3
 packFolder: extrasmages
 shortcode: merelynofpaseraleh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Fyvria****"

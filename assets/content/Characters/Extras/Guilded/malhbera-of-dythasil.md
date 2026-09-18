@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Malhbera of Dythasil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Bjp6Y2CZhc92M2NI
 packFolder: extrasguilded
 shortcode: malhberaofdythasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary
@@ -103,14 +103,16 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Pamjul of Quinda for 30d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

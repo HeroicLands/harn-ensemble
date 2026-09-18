@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lanach of Asaka
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vuv7TcTW1wT2fOxw
 packFolder: extrasguilded
 shortcode: lanachofasaka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sarin of Gevraen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bxsV4Mi7t2GriNMd
 packFolder: extrasclergy
 shortcode: sarinofgevraen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

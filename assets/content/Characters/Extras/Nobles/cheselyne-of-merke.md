@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cheselyne of Merke
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bZhYSvXCMnkp522R
 packFolder: extrasnobles
 shortcode: cheselyneofmerke
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Ashain of Arass for 54d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

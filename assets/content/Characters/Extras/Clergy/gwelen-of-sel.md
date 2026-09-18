@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwelen of Sel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: g8jWUN0MpJGuZgMv
 packFolder: extrasclergy
 shortcode: gwelenofsel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -145,13 +145,15 @@ hm3:
     - { shortcode: mirroriron, type: miscgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.25
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

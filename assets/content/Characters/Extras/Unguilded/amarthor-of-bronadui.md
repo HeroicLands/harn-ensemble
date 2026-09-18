@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amarthor of Bronadui
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4KcdMVokOC4CM6ql
 packFolder: extrasunguilded
 shortcode: amarthorofbronadui
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01

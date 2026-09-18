@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shaelda of Parion
   title: ""
@@ -9,7 +10,6 @@ name:
 id: MMRxSfw744rbllV2
 packFolder: extrasnobles
 shortcode: shaeldaofparion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

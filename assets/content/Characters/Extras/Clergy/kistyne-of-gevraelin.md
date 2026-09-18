@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kistyne of Gevraelin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: wAcJJ6UzKpzR0739
 packFolder: extrasclergy
 shortcode: kistyneofgevraelin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

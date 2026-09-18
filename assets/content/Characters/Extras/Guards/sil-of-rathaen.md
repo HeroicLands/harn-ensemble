@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sil of Rathaen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nIsHPfKSlwwda4eV
 packFolder: extrasguards
 shortcode: silofrathaen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: "Debt to Money Lender: Ephis of Elen for 244d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }

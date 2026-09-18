@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tamis of Pasen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jr6dhgx8xQC1rtBY
 packFolder: extrasnobles
 shortcode: tamisofpasen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }
@@ -115,7 +116,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 240
         weight: 0.25

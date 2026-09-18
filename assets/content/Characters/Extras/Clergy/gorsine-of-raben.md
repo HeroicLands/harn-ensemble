@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gorsine of Raben
   title: ""
@@ -9,7 +10,6 @@ name:
 id: eztQzdabwjV8IMmo
 packFolder: extrasclergy
 shortcode: gorsineofraben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem
@@ -138,13 +138,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 75
         weight: 0.5
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

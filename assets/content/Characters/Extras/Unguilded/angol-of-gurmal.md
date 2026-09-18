@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Angol of Gurmal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YPPJhIhpL9Tmqn5l
 packFolder: extrasunguilded
 shortcode: angolofgurmal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Low Guard

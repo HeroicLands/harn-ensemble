@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Thede of Thes
   title: ""
@@ -9,7 +10,6 @@ name:
 id: F5lAfgcUpAhNdKOK
 packFolder: extrasunguilded
 shortcode: thedeofthes
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Longbow
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: LBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }
@@ -124,7 +125,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

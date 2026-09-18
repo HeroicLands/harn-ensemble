@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bogsen of Crane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4m4NNFUaNkRzIRzD
 packFolder: extrasunguilded
 shortcode: bogsenofcrane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Fisherman
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Fishhooks, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

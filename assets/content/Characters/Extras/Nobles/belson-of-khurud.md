@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Belson of Khurud
   title: ""
@@ -9,7 +10,6 @@ name:
 id: hZOYI5MhO1Ycc18Z
 packFolder: extrasnobles
 shortcode: belsonofkhurud
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

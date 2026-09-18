@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cazarad of Asaka
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 2eMn2IPa8K9eTQ8u
 packFolder: extrasnobles
 shortcode: cazaradofasaka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse
@@ -110,13 +110,15 @@ hm3:
     - { shortcode: BrdSwd, type: weapongear }
     - name: Anklet, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2400
         weight: 0.125
     - name: Broach, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 600
         weight: 0.03

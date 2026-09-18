@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lamnar of Madib
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DC89tV9INkekuwys
 packFolder: extrasclergy
 shortcode: lamnarofmadib
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin
@@ -127,7 +127,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Divining Aid
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

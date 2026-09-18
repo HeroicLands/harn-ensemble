@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chend of Amafa
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EDuOvJ25mEon40tC
 packFolder: extrasguilded
 shortcode: chendofamafa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

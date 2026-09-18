@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tabifa of Saldim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: tBU8HHkeWgmGmDbi
 packFolder: extrasguilded
 shortcode: tabifaofsaldim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian

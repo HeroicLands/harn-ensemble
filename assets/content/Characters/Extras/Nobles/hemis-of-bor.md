@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hemis of Bor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 3ICKvXrNHAKMvfhW
 packFolder: extrasnobles
 shortcode: hemisofbor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }

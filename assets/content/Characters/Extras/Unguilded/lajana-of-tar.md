@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lajana of Tar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: kbB4rAo4cuOfHm8s
 packFolder: extrasunguilded
 shortcode: lajanaoftar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -116,7 +116,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

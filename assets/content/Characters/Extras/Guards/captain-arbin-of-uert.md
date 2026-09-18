@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Captain Arbin of Uert
   title: Captain
@@ -9,7 +10,6 @@ name:
 id: o8TWdE7rfsezGYKa
 packFolder: extrasguards
 shortcode: captainarbinofuert
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy
@@ -118,7 +118,8 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

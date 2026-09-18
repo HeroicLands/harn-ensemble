@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Poldoel of Puck
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jAWnjrAGauYUMSQa
 packFolder: extrasunguilded
 shortcode: poldoelofpuck
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Shortbow

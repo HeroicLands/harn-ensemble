@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Joraga of Grathin
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: xQhlJXB8HM8YUwWv
 packFolder: extrasguards
 shortcode: veteranjoragaofgrathin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Owain of Eylosathan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: qNMGqh63BKPxpI0F
 packFolder: extrasunguilded
 shortcode: owainofeylosathan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shaman
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 60 } }
     - name: Tribal
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 13
@@ -122,13 +123,15 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Charad of Chardras for 298d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

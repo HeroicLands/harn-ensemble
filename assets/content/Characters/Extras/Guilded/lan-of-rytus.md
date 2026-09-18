@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lan of Rytus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 59EBepiJOqjfwkKh
 packFolder: extrasguilded
 shortcode: lanofrytus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

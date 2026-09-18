@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kora of Serdica
   title: ""
@@ -9,9 +10,6 @@ name:
 id: jW8F24E2EwEro9xh
 packFolder: fffunguilded
 shortcode: koraofserdica
-img: images/fffv1/token/FFF_499-1_Misc_Unguilded.png
-portrait: images/fffv1/FFF_499-1_Misc_Unguilded.jpg
-tokenImg: images/fffv1/token/FFF_499-1_Misc_Unguilded.png
 type: being
 social:
   occupation: Wise Woman
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - "custom|Old Jarin"
 data:
+  icon: fff4991tok
+  portrait: fff4991
   templatePriority: 1
   gender: female
   species: human
@@ -111,7 +111,8 @@ hm3:
           value: 15
     - name: Old Jarin
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 15

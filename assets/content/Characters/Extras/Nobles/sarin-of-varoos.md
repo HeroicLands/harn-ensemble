@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sarin of Varoos
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RsqfU58Xu3nUdvmi
 packFolder: extrasnobles
 shortcode: sarinofvaroos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -106,12 +106,14 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Broach, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

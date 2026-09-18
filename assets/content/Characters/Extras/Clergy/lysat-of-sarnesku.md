@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lysat of Sarnesku
   title: ""
@@ -9,7 +10,6 @@ name:
 id: g8QOEGSBfSBKqbLJ
 packFolder: extrasclergy
 shortcode: lysatofsarnesku
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

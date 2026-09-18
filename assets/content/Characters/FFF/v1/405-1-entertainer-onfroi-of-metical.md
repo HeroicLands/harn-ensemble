@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Onfroi of Metical
   title: ""
@@ -9,9 +10,6 @@ name:
 id: zGz4dPoGVKfmdnUR
 packFolder: fffunguilded
 shortcode: onfroiofmetical
-img: images/fffv1/token/FFF_405-1_Entertainer.png
-portrait: images/fffv1/FFF_405-1_Entertainer.jpg
-tokenImg: images/fffv1/token/FFF_405-1_Entertainer.png
 type: being
 social:
   occupation: Entertainer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4051tok
+  portrait: fff4051
   templatePriority: 1
   gender: male
   species: human
@@ -131,25 +131,29 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Balls, wooden
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         quantity: 6
         weight: 1
     - { shortcode: torch, type: miscgear, system: { quantity: 3 } }
     - name: Handkerchief
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         quantity: 6
         weight: 1
     - name: Begging bowl
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Taburi target
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LTunic, type: armorgear }

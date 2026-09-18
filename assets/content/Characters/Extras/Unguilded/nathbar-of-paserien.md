@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Nathbar of Paserien
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nIt4jVK6X5UUc1Oy
 packFolder: extrasunguilded
 shortcode: nathbarofpaserien
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

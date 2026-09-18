@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Orthin of Ubern
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bseZwxgM9jCyjpD4
 packFolder: extrasguilded
 shortcode: orthinofubern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Frankincense, oz, jar
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 80
         weight: 0.25

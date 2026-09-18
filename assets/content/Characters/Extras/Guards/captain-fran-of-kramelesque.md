@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Captain Fran of Kramelesque
   title: Captain
@@ -9,7 +10,6 @@ name:
 id: K8eHjHpDYmVB2OzR
 packFolder: extrasguards
 shortcode: captainfranofkramelesque
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

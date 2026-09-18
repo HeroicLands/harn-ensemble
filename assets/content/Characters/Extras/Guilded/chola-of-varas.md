@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chola of Varas
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bK0Ymcc4k9lbS8QL
 packFolder: extrasguilded
 shortcode: cholaofvaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Locksmith
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 1

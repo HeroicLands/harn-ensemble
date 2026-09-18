@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Marwin of Tobira
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EKHsdMLY3sDaFKAA
 packFolder: extrasunguilded
 shortcode: marwinoftobira
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter

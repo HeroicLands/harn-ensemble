@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cararn of Amarthor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: NFhjnxMK789ifacp
 packFolder: extrasunguilded
 shortcode: cararnofamarthor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

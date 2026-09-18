@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Feazurk
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 4s2kMbsyAnjadFUk
 packFolder: fffnonhumans
 shortcode: feazurk
-img: images/fff-13/FFF_804a_Gargu-Viasal_Warrior-headshot.webp
-portrait: images/fff-13/FFF_804a_Gargu-Viasal_Warrior.webp
-tokenImg: images/fff-13/FFF_804a_Gargu-Viasal_Warrior-token.webp
 type: being
 social:
   occupation: Warrior
@@ -22,6 +20,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff804ahead
+  tokenIcon: fff804atok
+  portrait: fff804a
   gender: male
   species: viasal
   age: 12
@@ -116,7 +117,8 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -128,7 +130,8 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - name: Amulet, Stone
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         notes: Enchanted, Amulet of Feazurk
         value: 1

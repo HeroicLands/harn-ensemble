@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terba of Shref
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AmuXedB8sIC4RPuI
 packFolder: extrasnobles
 shortcode: terbaofshref
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 15
         weight: 0.01
@@ -123,7 +124,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwyn of Polruan
   title: ""
@@ -9,9 +10,6 @@ name:
 id: tCS1ybQdOAdXw8qP
 packFolder: fffmilitary
 shortcode: gwynofpolruan
-img: images/fffv1/token/FFF_127-2_Yeoman_LF.png
-portrait: images/fffv1/FFF_127-2_Yeoman_LF.jpg
-tokenImg: images/fffv1/token/FFF_127-2_Yeoman_LF.png
 type: being
 social:
   occupation: Yeoman (LF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1272tok
+  portrait: fff1272
   templatePriority: 1
   gender: male
   species: human

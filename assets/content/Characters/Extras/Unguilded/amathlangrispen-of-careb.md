@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amathlangrispen of Careb
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oeWYV7x5RqcLjQYC
 packFolder: extrasunguilded
 shortcode: amathlangrispenofcareb
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

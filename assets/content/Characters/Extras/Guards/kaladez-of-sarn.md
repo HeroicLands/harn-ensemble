@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kaladez of Sarn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: gFovOho96awps5YQ
 packFolder: extrasguards
 shortcode: kaladezofsarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: ShrtSwd, type: weapongear }
     - name: "Debt to Money Lender: Melic of Orieldiriel for 394d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

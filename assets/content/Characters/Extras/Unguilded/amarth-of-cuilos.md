@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amarth of Cuilos
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YSnPgG6pE6HQahg6
 packFolder: extrasunguilded
 shortcode: amarthofcuilos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

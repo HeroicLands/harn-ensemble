@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Uvien of Valain
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 656WjwRBCwjRdNmz
 packFolder: extrasunguilded
 shortcode: uvienofvalain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp
@@ -101,12 +101,14 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Nor of Gosel for 24d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Elprequir, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1

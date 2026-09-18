@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jellion of Ever
   title: ""
@@ -9,7 +10,6 @@ name:
 id: QaOqR8izKs6KqI5y
 packFolder: extrasguilded
 shortcode: jellionofever
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright

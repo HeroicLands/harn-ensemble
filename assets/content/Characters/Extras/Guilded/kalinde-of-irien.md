@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kalinde of Irien
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sBJHPJNm4zoRwWhG
 packFolder: extrasguilded
 shortcode: kalindeofirien
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

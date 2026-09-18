@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rik of Kroll
   title: ""
@@ -9,7 +10,6 @@ name:
 id: dywtu6fvqnHiSSCJ
 packFolder: extrasclergy
 shortcode: rikofkroll
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

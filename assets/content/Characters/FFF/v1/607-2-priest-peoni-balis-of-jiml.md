@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Balis of Jiml
   title: ""
@@ -9,9 +10,6 @@ name:
 id: qvLzM1HO7661euis
 packFolder: fffclergy
 shortcode: balisofjiml
-img: images/fffv1/token/FFF_607-2_Priest_Peoni.png
-portrait: images/fffv1/FFF_607-2_Priest_Peoni.jpg
-tokenImg: images/fffv1/token/FFF_607-2_Priest_Peoni.png
 type: being
 social:
   occupation: Peonian Acolyte
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff6072tok
+  portrait: fff6072
   templatePriority: 1
   gender: male
   species: human

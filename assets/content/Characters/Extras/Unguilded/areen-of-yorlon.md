@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Areen of Yorlon
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Wi3zJgkzTQogHp4G
 packFolder: extrasunguilded
 shortcode: areenofyorlon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher

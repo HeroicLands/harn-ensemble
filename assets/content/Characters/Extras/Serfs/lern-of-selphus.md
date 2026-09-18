@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lern of Selphus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Q6uN822qUUAzNP2F
 packFolder: extrasserfs
 shortcode: lernofselphus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Farmer
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Ine of Tobilon for 90d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

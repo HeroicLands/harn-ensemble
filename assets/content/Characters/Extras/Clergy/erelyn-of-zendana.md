@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Erelyn of Zendana
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 9tK7qOt38gMffuFC
 packFolder: extrasclergy
 shortcode: erelynofzendana
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem
@@ -133,7 +133,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

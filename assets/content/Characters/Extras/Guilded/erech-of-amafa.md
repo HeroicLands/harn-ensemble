@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Erech of Amafa
   title: ""
@@ -9,7 +10,6 @@ name:
 id: rFTUpmgAXSgz1rji
 packFolder: extrasguilded
 shortcode: erechofamafa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: "Debt to Money Lender: Angol of Waylin for 129d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

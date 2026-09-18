@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tagbarigh of Parthalmin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: i08OaXycxtFCP2Tm
 packFolder: extrasclergy
 shortcode: tagbarighofparthalmin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Erery of Charadas
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 7Z900tnxiMe6bcS8
 packFolder: extrasnobles
 shortcode: ereryofcharadas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: beltpouchl3, type: containergear }
@@ -116,7 +117,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

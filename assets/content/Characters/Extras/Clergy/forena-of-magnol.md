@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Forena of Magnol
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ErFwQf4VfhCMg9no
 packFolder: extrasclergy
 shortcode: forenaofmagnol
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

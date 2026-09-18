@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Swey of Baelams
   title: ""
@@ -9,9 +10,6 @@ name:
 id: w2vH7cnipVCJSRLA
 packFolder: fffunguilded
 shortcode: sweyofbaelams
-img: images/fffv1/token/FFF_410-2_Labourer.png
-portrait: images/fffv1/FFF_410-2_Labourer.jpg
-tokenImg: images/fffv1/token/FFF_410-2_Labourer.png
 type: being
 social:
   occupation: Labourer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4102tok
+  portrait: fff4102
   templatePriority: 1
   gender: male
   species: human

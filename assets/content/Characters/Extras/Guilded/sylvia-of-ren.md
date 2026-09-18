@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sylvia of Ren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: L9ed53zkx80B4pvM
 packFolder: extrasguilded
 shortcode: sylviaofren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Charcoaler

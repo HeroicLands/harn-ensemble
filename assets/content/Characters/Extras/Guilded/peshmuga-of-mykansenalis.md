@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Peshmuga of Mykansenalis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: MvES4sWFAaujP0rF
 packFolder: extrasguilded
 shortcode: peshmugaofmykansenalis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Del of Hubers for 133d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

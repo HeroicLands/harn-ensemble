@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sylvia of Shref
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zuqnpHhDMJVE45lg
 packFolder: extrasguilded
 shortcode: sylviaofshref
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

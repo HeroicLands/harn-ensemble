@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ciramdirvelu of Amarther
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 6ntm3TqdLYW6WGNG
 packFolder: extrasunguilded
 shortcode: ciramdirveluofamarther
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

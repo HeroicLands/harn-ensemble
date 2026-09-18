@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gruldel of Wytelburitta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WU2y632668WIQCY9
 packFolder: extrasclergy
 shortcode: gruldelofwytelburitta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

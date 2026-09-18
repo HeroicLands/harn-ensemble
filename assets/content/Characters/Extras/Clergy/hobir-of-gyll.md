@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hobir of Gyll
   title: ""
@@ -9,7 +10,6 @@ name:
 id: f0JlvtxQ84rTkHfk
 packFolder: extrasclergy
 shortcode: hobirofgyll
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem
@@ -131,7 +131,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Cone of Esoteric Insight
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tolmey of Merak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: uQDKqiWWG6zxjc8O
 packFolder: extrasserfs
 shortcode: tolmeyofmerak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

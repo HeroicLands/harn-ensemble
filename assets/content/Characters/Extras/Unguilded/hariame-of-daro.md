@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hariame of Daro
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GQz7Ee67ItcB3GdL
 packFolder: extrasunguilded
 shortcode: hariameofdaro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sage/Tutor
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
@@ -117,7 +118,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Textbook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 3

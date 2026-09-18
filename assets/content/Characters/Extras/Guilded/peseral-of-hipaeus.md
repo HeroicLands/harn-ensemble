@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Peseral of Hipaeus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: cLlykz62QKdGGkW5
 packFolder: extrasguilded
 shortcode: peseralofhipaeus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

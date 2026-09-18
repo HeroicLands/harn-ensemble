@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Borane of Ane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FXcKCSfIERrrwMwE
 packFolder: extrasguilded
 shortcode: boraneofane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

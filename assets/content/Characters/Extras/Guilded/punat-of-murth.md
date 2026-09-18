@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Punat of Murth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4oI1JoRatFs2Mdve
 packFolder: extrasguilded
 shortcode: punatofmurth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Metalsmith
@@ -104,14 +104,16 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 225
         weight: 0.01
     - { shortcode: tndrbx, type: miscgear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10

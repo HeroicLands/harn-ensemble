@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Anlaelderila of Tal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 5zrRwWP63YLfjMWU
 packFolder: extrasclergy
 shortcode: anlaelderilaoftal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -133,7 +133,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Frankincense, oz, jar
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 80
         weight: 0.25

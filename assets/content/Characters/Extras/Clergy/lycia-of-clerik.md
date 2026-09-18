@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lycia of Clerik
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vwfp51fd5U7xUEft
 packFolder: extrasclergy
 shortcode: lyciaofclerik
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Inrant of Chornin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: gwjp7vDsZmRgMuqv
 packFolder: extrasunguilded
 shortcode: inrantofchornin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

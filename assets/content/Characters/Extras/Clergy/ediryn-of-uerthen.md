@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ediryn of Uerthen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: f3c76brHpNwlnvPL
 packFolder: extrasclergy
 shortcode: edirynofuerthen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir
@@ -143,7 +143,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

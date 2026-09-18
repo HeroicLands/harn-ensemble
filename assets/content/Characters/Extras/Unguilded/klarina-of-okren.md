@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Klarina of Okren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: blS48G32JL8QLun5
 packFolder: extrasunguilded
 shortcode: klarinaofokren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

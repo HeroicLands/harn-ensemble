@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Charalyn of Ael
   title: ""
@@ -9,7 +10,6 @@ name:
 id: gWh0GEKOcSdjLycg
 packFolder: extrasguilded
 shortcode: charalynofael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Lexigrapher
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Finbar of Erons
   title: ""
@@ -9,9 +10,6 @@ name:
 id: gs7OGJYJuhURyJOU
 packFolder: fffunguilded
 shortcode: finbaroferons
-img: images/fffv1/token/FFF_409-2_Forester.png
-portrait: images/fffv1/FFF_409-2_Forester.jpg
-tokenImg: images/fffv1/token/FFF_409-2_Forester.png
 type: being
 social:
   occupation: Forester
@@ -24,6 +22,8 @@ harnworld:
     - larani
     - halea
 data:
+  icon: fff4092tok
+  portrait: fff4092
   templatePriority: 1
   gender: male
   species: human

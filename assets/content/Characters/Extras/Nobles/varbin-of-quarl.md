@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Varbin of Quarl
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sdJ3XMqUO1MpNj0P
 packFolder: extrasnobles
 shortcode: varbinofquarl
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy
@@ -114,13 +114,15 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.25
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.05

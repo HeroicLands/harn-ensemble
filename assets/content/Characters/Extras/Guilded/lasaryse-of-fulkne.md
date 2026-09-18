@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lasaryse of Fulkne
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 15cbnRTDmSXP2Xfh
 packFolder: extrasguilded
 shortcode: lasaryseoffulkne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Pilot
@@ -113,13 +113,15 @@ hm3:
     - { shortcode: SlsCap, type: armorgear }
     - name: Necklace, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 240
         weight: 0.25
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
@@ -127,7 +129,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

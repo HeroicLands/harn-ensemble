@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Werelyne of Stiem
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 9iwqIzO4486qSrzP
 packFolder: extrasserfs
 shortcode: werelyneofstiem
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

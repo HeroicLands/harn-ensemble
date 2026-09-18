@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merwas of Chornic
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TRKA3fnFqP7vVCU6
 packFolder: extrasguilded
 shortcode: merwasofchornic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thief
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 1

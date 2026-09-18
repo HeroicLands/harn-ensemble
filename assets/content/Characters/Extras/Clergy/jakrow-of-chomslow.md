@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jakrow of Chomslow
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 5MiI4J20AO4Wnse8
 packFolder: extrasclergy
 shortcode: jakrowofchomslow
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

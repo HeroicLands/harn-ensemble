@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Garit of Quardan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bOvDYKd5JupXOKFm
 packFolder: extrasunguilded
 shortcode: garitofquardan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

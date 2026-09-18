@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Erdin of Gevrael
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 96jLu9E8JIaxC8Sg
 packFolder: extrasguilded
 shortcode: erdinofgevrael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler

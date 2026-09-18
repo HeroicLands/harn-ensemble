@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kele of Wejik
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 63xeWNdH0qapAXra
 packFolder: extrasguilded
 shortcode: keleofwejik
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01

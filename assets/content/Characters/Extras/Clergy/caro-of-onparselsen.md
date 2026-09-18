@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Caro of Onparselsen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xRY5vH8rZz3Wp7UH
 packFolder: extrasclergy
 shortcode: caroofonparselsen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Solina of Gel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 93qwnFgdOyIsh4uo
 packFolder: extrasunguilded
 shortcode: solinaofgel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 15
         weight: 0.01
@@ -123,13 +124,15 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

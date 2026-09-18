@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Andersis of Symdal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: v1ajhAFCgGF5fzl3
 packFolder: extrasguilded
 shortcode: andersisofsymdal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald

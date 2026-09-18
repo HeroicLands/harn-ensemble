@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Perla of Marnesku
   title: ""
@@ -9,7 +10,6 @@ name:
 id: UDspR7WDhxrXzwiC
 packFolder: extrasnobles
 shortcode: perlaofmarnesku
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff
@@ -115,13 +115,15 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.05
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

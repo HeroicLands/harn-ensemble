@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Petin Muldabel
   title: ""
@@ -9,9 +10,6 @@ name:
 id: S4NHCjrce7sfnCtA
 packFolder: fffmilitary
 shortcode: petinmuldabel
-img: images/fffv1/token/FFF_109-1_Legionnaire_LF.png
-portrait: images/fffv1/FFF_109-1_Legionnaire_LF.jpg
-tokenImg: images/fffv1/token/FFF_109-1_Legionnaire_LF.png
 type: being
 social:
   occupation: Legionnaire (LF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff1091tok
+  portrait: fff1091
   templatePriority: 1
   gender: male
   species: human

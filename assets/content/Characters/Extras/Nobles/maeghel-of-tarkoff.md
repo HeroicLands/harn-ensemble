@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Maeghel of Tarkoff
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jZCnPXLZLl2LyCVL
 packFolder: extrasnobles
 shortcode: maegheloftarkoff
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

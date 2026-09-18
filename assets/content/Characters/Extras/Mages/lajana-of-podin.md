@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lajana of Podin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RtyGK74wMhVH9tVM
 packFolder: extrasmages
 shortcode: lajanaofpodin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Jmorvi**"
@@ -146,7 +146,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Rings of Mystic Wondor
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -155,7 +156,8 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

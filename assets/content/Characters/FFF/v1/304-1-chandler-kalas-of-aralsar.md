@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kalas of Aralsar
   title: ""
@@ -9,9 +10,6 @@ name:
 id: eBYgq5F1jBQfU1Tj
 packFolder: fffguilded
 shortcode: kalasofaralsar
-img: images/fffv1/token/FFF_304-1_Chandler.png
-portrait: images/fffv1/FFF_304-1_Chandler.jpg
-tokenImg: images/fffv1/token/FFF_304-1_Chandler.png
 type: being
 social:
   occupation: Chandler
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3041tok
+  portrait: fff3041
   templatePriority: 1
   gender: male
   species: human

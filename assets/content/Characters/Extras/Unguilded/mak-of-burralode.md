@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mak of Burralode
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xKrdgH8YhIE7H6ui
 packFolder: extrasunguilded
 shortcode: makofburralode
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Rik of Ibin for 1073d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

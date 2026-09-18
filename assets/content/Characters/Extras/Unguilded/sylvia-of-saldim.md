@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sylvia of Saldim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: gbyHt1tYgZDYrAk0
 packFolder: extrasunguilded
 shortcode: sylviaofsaldim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

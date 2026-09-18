@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terba of Lundondik
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 1vRlA9jG46ez82VW
 packFolder: extrasunguilded
 shortcode: terbaoflundondik
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer

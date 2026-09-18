@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Uvienelle of Hen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: L4EhvsK63lIsodza
 packFolder: extrasunguilded
 shortcode: uvienelleofhen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

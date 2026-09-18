@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jellin of Lebaroos
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YuQFaxl1VSC72R7B
 packFolder: extrasnobles
 shortcode: jellinoflebaroos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chendra of Porde
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ltp4MpRu0B5AWXuQ
 packFolder: extrasunguilded
 shortcode: chendraofporde
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

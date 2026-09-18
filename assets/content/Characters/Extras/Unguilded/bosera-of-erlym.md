@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bosera of Erlym
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 5YdC1Uk2EhS9NBXQ
 packFolder: extrasunguilded
 shortcode: boseraoferlym
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Starkael of Mykansen for 118d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

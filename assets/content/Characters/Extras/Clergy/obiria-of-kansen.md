@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Obiria of Kansen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: J8wnXkLsi16ykTUh
 packFolder: extrasclergy
 shortcode: obiriaofkansen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

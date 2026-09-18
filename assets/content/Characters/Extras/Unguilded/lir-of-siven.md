@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lir of Siven
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jfxTZKDYrkWR88tq
 packFolder: extrasunguilded
 shortcode: lirofsiven
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

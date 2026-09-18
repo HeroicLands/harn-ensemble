@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Norbin of Bardrass
   title: ""
@@ -9,7 +10,6 @@ name:
 id: mVzxKnCo3lJldivN
 packFolder: extrasnobles
 shortcode: norbinofbardrass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald
@@ -117,7 +117,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 45
         weight: 0.05

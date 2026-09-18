@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Anlaela of Kail
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HyjvPwy7IQ6L4BZ9
 packFolder: extrasunguilded
 shortcode: anlaelaofkail
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

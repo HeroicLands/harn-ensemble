@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hariam of Verdy
   title: ""
@@ -9,7 +10,6 @@ name:
 id: W10efbf2oOFs4TRm
 packFolder: extrasserfs
 shortcode: hariamofverdy
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

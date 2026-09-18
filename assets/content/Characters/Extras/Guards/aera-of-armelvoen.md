@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aera of Armelvoen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: R6g9IOdcJhDeqoU6
 packFolder: extrasguards
 shortcode: aeraofarmelvoen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

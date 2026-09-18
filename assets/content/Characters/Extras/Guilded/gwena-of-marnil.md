@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwena of Marnil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: f5FONeUQYXBXG1Do
 packFolder: extrasguilded
 shortcode: gwenaofmarnil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

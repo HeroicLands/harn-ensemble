@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rybryn of Dara
   title: ""
@@ -9,9 +10,6 @@ name:
 id: wTSGybbTCUf7Xdgi
 packFolder: fffguilded
 shortcode: rybrynofdara
-img: images/fffv1/token/FFF_332-3_Unguilded_Thief.png
-portrait: images/fffv1/FFF_332-3_Unguilded_Thief.jpg
-tokenImg: images/fffv1/token/FFF_332-3_Unguilded_Thief.png
 type: being
 social:
   occupation: Unguilded thief
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff3323tok
+  portrait: fff3323
   templatePriority: 1
   gender: female
   species: human

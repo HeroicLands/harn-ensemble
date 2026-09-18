@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jarlen of Osathias
   title: ""
@@ -9,7 +10,6 @@ name:
 id: b9C5fbTrpNpoEgU1
 packFolder: extrasclergy
 shortcode: jarlenofosathias
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik
@@ -148,14 +148,16 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.25
     - { shortcode: Bklr, type: weapongear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

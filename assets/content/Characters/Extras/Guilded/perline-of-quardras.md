@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Perline of Quardras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: MqXBML8yZv3dwueJ
 packFolder: extrasguilded
 shortcode: perlineofquardras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

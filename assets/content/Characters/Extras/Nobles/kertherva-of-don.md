@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kertherva of Don
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nVNOptzHVh6mMFwA
 packFolder: extrasnobles
 shortcode: kerthervaofdon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy
@@ -113,13 +113,15 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Foraga of Amafa for 359d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

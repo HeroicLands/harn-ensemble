@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chanishel of Ikswic
   title: ""
@@ -9,7 +10,6 @@ name:
 id: OZ48FCinq7KbrR4Y
 packFolder: extrasguilded
 shortcode: chanishelofikswic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

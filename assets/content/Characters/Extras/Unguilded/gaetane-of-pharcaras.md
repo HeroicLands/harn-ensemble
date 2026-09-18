@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gaetane of Pharcaras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bX2iV78uJVJWPBgL
 packFolder: extrasunguilded
 shortcode: gaetaneofpharcaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Shortbow
@@ -109,14 +109,16 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Nat of Okren for 39d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

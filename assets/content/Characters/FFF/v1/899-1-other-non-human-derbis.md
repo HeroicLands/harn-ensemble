@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Derbis
   title: ""
@@ -9,9 +10,6 @@ name:
 id: J9U0KvmS9VfntWx5
 packFolder: fffnonhumans
 shortcode: derbis
-img: images/fffv1/token/FFF_899-1_Other_Non_Human.png
-portrait: images/fffv1/FFF_899-1_Other_Non_Human.jpg
-tokenImg: images/fffv1/token/FFF_899-1_Other_Non_Human.png
 type: being
 social:
   occupation: Hunter
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - urklam
 data:
+  icon: fff8991tok
+  portrait: fff8991
   gender: male
   species: ogre
   height: 2.79

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Vaber of Nalis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0pWEBvI11IqbOpYv
 packFolder: extrasunguilded
 shortcode: vaberofnalis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher

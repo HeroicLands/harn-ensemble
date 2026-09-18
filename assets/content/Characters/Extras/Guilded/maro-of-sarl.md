@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Maro of Sarl
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WasKcGuYRBPpcIqg
 packFolder: extrasguilded
 shortcode: maroofsarl
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Arton of Erlesh for 26d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }

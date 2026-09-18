@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amartheriphen of Eith
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oJqhGW42pmmvRIQ0
 packFolder: extrasnobles
 shortcode: amartheriphenofeith
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

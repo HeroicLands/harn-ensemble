@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kaidia of Kantarkoff
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oh38NmgEWgWYSOjZ
 packFolder: extrasclergy
 shortcode: kaidiaofkantarkoff
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir
@@ -138,7 +138,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

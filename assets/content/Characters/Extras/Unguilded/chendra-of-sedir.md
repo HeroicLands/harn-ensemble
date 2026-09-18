@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chendra of Sedir
   title: ""
@@ -9,7 +10,6 @@ name:
 id: tKEGupSgkop8XFjY
 packFolder: extrasunguilded
 shortcode: chendraofsedir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

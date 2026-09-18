@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yigarigaralyn of Gwena
   title: ""
@@ -9,7 +10,6 @@ name:
 id: X7MNuUxZtnGI1fOy
 packFolder: extrasunguilded
 shortcode: yigarigaralynofgwena
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter

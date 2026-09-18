@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kalinelle of Sediel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: KMmFSlhdSTjGmmtA
 packFolder: extrasserfs
 shortcode: kalinelleofsediel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

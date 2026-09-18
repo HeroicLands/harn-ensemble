@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aramia of Kalian
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RcBMa8C6wsSjKS9h
 packFolder: extrasunguilded
 shortcode: aramiaofkalian
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe

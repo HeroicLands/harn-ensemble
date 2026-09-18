@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jellic of Tobira
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oKtVo0bt1aYl7EZ1
 packFolder: extrasserfs
 shortcode: jellicoftobira
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

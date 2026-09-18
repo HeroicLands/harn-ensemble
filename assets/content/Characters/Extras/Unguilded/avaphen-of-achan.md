@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Avaphen of Achan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Hww2stQh92wivLpr
 packFolder: extrasunguilded
 shortcode: avaphenofachan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow

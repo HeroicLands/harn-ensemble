@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mael of Mariam
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pFNZINNFSFMh8Pp3
 packFolder: extrasguilded
 shortcode: maelofmariam
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

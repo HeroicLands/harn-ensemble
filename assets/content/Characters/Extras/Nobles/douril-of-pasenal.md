@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Douril of Pasenal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: o3AQMVdu8XFFKUxr
 packFolder: extrasnobles
 shortcode: dourilofpasenal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

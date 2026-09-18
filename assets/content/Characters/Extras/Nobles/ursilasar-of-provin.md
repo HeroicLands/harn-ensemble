@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ursilasar of Provin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 6gY5eWwhU1H3Wfbj
 packFolder: extrasnobles
 shortcode: ursilasarofprovin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot

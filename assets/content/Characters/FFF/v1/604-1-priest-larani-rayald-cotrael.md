@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rayald Cotrael
   title: ""
@@ -9,9 +10,6 @@ name:
 id: CKvwdB1vq5rOrGta
 packFolder: fffclergy
 shortcode: rayaldcotrael
-img: images/fffv1/token/FFF_604-1_Priest_Larani.png
-portrait: images/fffv1/FFF_604-1_Priest_Larani.jpg
-tokenImg: images/fffv1/token/FFF_604-1_Priest_Larani.png
 type: being
 social:
   occupation: Laranian Priest
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff6041tok
+  portrait: fff6041
   templatePriority: 1
   gender: male
   species: human
@@ -169,7 +169,8 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - name: Holy Symbol, gold
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         notes: Larani
         value: 120

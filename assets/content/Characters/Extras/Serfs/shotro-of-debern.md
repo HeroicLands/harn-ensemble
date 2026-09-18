@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shotro of Debern
   title: ""
@@ -9,7 +10,6 @@ name:
 id: yQYpfgx1lcpCj04k
 packFolder: extrasserfs
 shortcode: shotroofdebern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

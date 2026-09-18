@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Quertewn of Hilta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WPOkiNHqHAkEY63k
 packFolder: extrasguilded
 shortcode: quertewnofhilta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

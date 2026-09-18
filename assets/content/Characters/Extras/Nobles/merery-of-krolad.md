@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merery of Krolad
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8cXUQpO12N4vpWAE
 packFolder: extrasnobles
 shortcode: mereryofkrolad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

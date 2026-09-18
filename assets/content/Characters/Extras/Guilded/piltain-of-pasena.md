@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Piltain of Pasena
   title: ""
@@ -9,7 +10,6 @@ name:
 id: W2euhcy5gZWm4cZ5
 packFolder: extrasguilded
 shortcode: piltainofpasena
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian

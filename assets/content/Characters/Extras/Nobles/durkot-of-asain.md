@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Durkot of Asain
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oHAEnrfgf9kYsAOB
 packFolder: extrasnobles
 shortcode: durkotofasain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse
@@ -118,7 +118,8 @@ hm3:
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

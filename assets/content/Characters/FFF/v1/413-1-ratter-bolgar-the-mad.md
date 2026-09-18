@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bolgar the Mad
   title: ""
@@ -9,9 +10,6 @@ name:
 id: YrqliPUW5NTc4A8R
 packFolder: fffunguilded
 shortcode: bolgarthemad
-img: images/fffv1/token/FFF_413-1_Ratter.png
-portrait: images/fffv1/FFF_413-1_Ratter.jpg
-tokenImg: images/fffv1/token/FFF_413-1_Ratter.png
 type: being
 social:
   occupation: Ratter
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4131tok
+  portrait: fff4131
   templatePriority: 1
   gender: male
   species: human

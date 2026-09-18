@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aradah of Kanthen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: acXyneIUzXc6AGYY
 packFolder: extrasclergy
 shortcode: aradahofkanthen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

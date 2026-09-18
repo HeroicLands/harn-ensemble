@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Albalny of Ren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AlDyMOeoHFDH6cNy
 packFolder: extrasserfs
 shortcode: albalnyofren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

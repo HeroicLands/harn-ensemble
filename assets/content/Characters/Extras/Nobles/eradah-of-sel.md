@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Eradah of Sel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: II19fkAMvCInJDoA
 packFolder: extrasnobles
 shortcode: eradahofsel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

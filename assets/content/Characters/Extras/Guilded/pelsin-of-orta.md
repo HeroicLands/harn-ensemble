@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pelsin of Orta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 2HkLKXcXCMtx8TS8
 packFolder: extrasguilded
 shortcode: pelsinoforta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.05

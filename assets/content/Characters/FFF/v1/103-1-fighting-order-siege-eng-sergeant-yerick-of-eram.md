@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sergeant Yerick of Eram
   title: Sergeant
@@ -9,9 +10,6 @@ name:
 id: o1TBjF89VeUt8Gxh
 packFolder: fffmilitary
 shortcode: sergeantyerickoferam
-img: images/fffv1/token/FFF_103-1_Fighting_Order_Siege_Eng.png
-portrait: images/fffv1/FFF_103-1_Fighting_Order_Siege_Eng.jpg
-tokenImg: images/fffv1/token/FFF_103-1_Fighting_Order_Siege_Eng.png
 type: being
 social:
   occupation: Fighting Order (MF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff1031tok
+  portrait: fff1031
   templatePriority: 1
   gender: male
   species: human

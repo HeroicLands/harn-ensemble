@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bronaduiben of Amdirarod
   title: ""
@@ -9,7 +10,6 @@ name:
 id: G89bxfBeewMBqrBm
 packFolder: extrasunguilded
 shortcode: bronaduibenofamdirarod
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: LKni, type: weapongear }
     - name: Container of Demon Essence
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lasak of Erlym
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nBj8rphLt3ulpl47
 packFolder: extrasguilded
 shortcode: lasakoferlym
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mason
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Mason's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 36
         weight: 15

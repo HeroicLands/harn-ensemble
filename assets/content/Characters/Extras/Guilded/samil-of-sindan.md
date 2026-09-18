@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Samil of Sindan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FZAIXJ3KRjaFv5WY
 packFolder: extrasguilded
 shortcode: samilofsindan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer

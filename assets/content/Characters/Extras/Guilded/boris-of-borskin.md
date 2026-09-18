@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Boris of Borskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: F9GWfbZJrLitvClp
 packFolder: extrasguilded
 shortcode: borisofborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Recorder
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 4
         weight: 0.5

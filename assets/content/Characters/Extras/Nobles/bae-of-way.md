@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bae of Way
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0broGSRKEFyuela5
 packFolder: extrasnobles
 shortcode: baeofway
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot
@@ -111,14 +111,16 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Anklet, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.125
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

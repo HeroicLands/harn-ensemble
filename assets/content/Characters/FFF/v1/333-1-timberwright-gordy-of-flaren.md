@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gordy of Flaren
   title: ""
@@ -9,9 +10,6 @@ name:
 id: rbMRdFECTlSZuiP7
 packFolder: fffguilded
 shortcode: gordyofflaren
-img: images/fffv1/token/FFF_333-1_Timberwright.png
-portrait: images/fffv1/FFF_333-1_Timberwright.jpg
-tokenImg: images/fffv1/token/FFF_333-1_Timberwright.png
 type: being
 social:
   occupation: Timberwright
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3331tok
+  portrait: fff3331
   templatePriority: 1
   gender: male
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jith of Kater
   title: ""
@@ -9,7 +10,6 @@ name:
 id: t9uKKOsUutf4CUxC
 packFolder: extrasunguilded
 shortcode: jithofkater
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Teamster

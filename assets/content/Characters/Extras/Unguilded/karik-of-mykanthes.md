@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Karik of Mykanthes
   title: ""
@@ -9,7 +10,6 @@ name:
 id: udGumiBPXvXdeNfY
 packFolder: extrasunguilded
 shortcode: karikofmykanthes
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp
@@ -103,7 +103,8 @@ hm3:
     - { shortcode: mirrorbron, type: miscgear }
     - name: Opiates, 1 oz
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 106
         weight: 0.1

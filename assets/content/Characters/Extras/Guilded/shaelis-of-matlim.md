@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shaelis of Matlim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 36u73wEEgAViJw66
 packFolder: extrasguilded
 shortcode: shaelisofmatlim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -111,14 +111,16 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Gittern
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 5
     - { shortcode: lute, type: miscgear }
     - name: Recorder
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 4
         weight: 0.5

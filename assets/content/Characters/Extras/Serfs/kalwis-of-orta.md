@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kalwis of Orta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: e1oazyZIMghgeXrK
 packFolder: extrasserfs
 shortcode: kalwisoforta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

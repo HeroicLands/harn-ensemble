@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arthel of Balliar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: JGFDiEmahtpO1PbL
 packFolder: extrasunguilded
 shortcode: arthelofballiar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

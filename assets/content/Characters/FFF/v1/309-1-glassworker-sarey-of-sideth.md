@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sarey of Sideth
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 75cCiClOM8WKxeBm
 packFolder: fffguilded
 shortcode: sareyofsideth
-img: images/fffv1/token/FFF_309-1_Glassworker.png
-portrait: images/fffv1/FFF_309-1_Glassworker.jpg
-tokenImg: images/fffv1/token/FFF_309-1_Glassworker.png
 type: being
 social:
   occupation: Glassworker
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3091tok
+  portrait: fff3091
   templatePriority: 1
   gender: male
   species: human

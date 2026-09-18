@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kalina of Cinbaren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FsT9uzpy9QiM055Q
 packFolder: extrasclergy
 shortcode: kalinaofcinbaren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani
@@ -139,19 +139,22 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Unknown/broken Earthmaster item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Holy Symbol, iron
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

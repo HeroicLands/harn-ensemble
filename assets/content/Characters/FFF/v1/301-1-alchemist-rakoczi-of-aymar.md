@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rakoczi of Aymar
   title: ""
@@ -9,9 +10,6 @@ name:
 id: FhJJONaF4YMgTlz6
 packFolder: fffguilded
 shortcode: rakocziofaymar
-img: images/fffv1/token/FFF_301-1_Alchemist.png
-portrait: images/fffv1/FFF_301-1_Alchemist.jpg
-tokenImg: images/fffv1/token/FFF_301-1_Alchemist.png
 type: being
 social:
   occupation: Alchemist
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff3011tok
+  portrait: fff3011
   templatePriority: 1
   gender: male
   species: human
@@ -128,14 +128,16 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Vial of Strong Acid
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         quantity: 2
         weight: 1
     - { shortcode: limestonep, type: miscgear }
     - name: Iron Flask of Quicksilver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LTunic, type: armorgear }

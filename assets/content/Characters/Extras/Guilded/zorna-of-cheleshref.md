@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zorna of Cheleshref
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nAUvDtscaEVJLTSe
 packFolder: extrasguilded
 shortcode: zornaofcheleshref
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

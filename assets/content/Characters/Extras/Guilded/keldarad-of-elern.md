@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Keldarad of Elern
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 7rmBn5GYokbKf1Yd
 packFolder: extrasguilded
 shortcode: keldaradofelern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Scale/balance
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 72
         weight: 5

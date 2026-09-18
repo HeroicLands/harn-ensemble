@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merrimam Grimwul
   title: ""
@@ -9,9 +10,6 @@ name:
 id: vH8CEFvFCDQc2AlS
 packFolder: fffguilded
 shortcode: merrimamgrimwul
-img: images/fffv1/token/FFF_303-1_Astrologer.png
-portrait: images/fffv1/FFF_303-1_Astrologer.jpg
-tokenImg: images/fffv1/token/FFF_303-1_Astrologer.png
 type: being
 social:
   occupation: Astrologer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff3031tok
+  portrait: fff3031
   templatePriority: 1
   gender: male
   species: human

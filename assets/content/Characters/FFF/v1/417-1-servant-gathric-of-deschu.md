@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gathric of Deschu
   title: ""
@@ -9,9 +10,6 @@ name:
 id: p0Fuj2jIfStY3daR
 packFolder: fffunguilded
 shortcode: gathricofdeschu
-img: images/fffv1/token/FFF_417-1_Servant.png
-portrait: images/fffv1/FFF_417-1_Servant.jpg
-tokenImg: images/fffv1/token/FFF_417-1_Servant.png
 type: being
 social:
   occupation: Servant
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4171tok
+  portrait: fff4171
   templatePriority: 1
   gender: male
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Angem of Ceriar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: CLWGja8iWVisNkPz
 packFolder: extrasnobles
 shortcode: angemofceriar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

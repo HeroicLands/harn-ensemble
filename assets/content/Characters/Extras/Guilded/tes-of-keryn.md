@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tes of Keryn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DgTXQI1hu3wnsXjL
 packFolder: extrasguilded
 shortcode: tesofkeryn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

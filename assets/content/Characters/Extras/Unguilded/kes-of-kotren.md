@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kes of Kotren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Z6PyAMBHeoAtzUYw
 packFolder: extrasunguilded
 shortcode: kesofkotren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher

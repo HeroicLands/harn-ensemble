@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yelime of Ner
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Qbz9TaI3zPfaeCQ3
 packFolder: extrasguilded
 shortcode: yelimeofner
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Recorder
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 4
         weight: 0.5

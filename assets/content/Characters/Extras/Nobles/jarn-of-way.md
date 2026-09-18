@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jarn of Way
   title: ""
@@ -9,7 +10,6 @@ name:
 id: tkZ7BfJbXLOeMNyw
 packFolder: extrasnobles
 shortcode: jarnofway
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

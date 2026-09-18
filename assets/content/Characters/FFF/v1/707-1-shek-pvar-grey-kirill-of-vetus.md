@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kirill of Vetus
   title: ""
@@ -9,9 +10,6 @@ name:
 id: aUAhUMbDkL0Qu2Xl
 packFolder: fffmages
 shortcode: kirillofvetus
-img: images/fffv1/token/FFF_707-1_Shek_Pvar_Grey.png
-portrait: images/fffv1/FFF_707-1_Shek_Pvar_Grey.jpg
-tokenImg: images/fffv1/token/FFF_707-1_Shek_Pvar_Grey.png
 type: being
 social:
   occupation: Gray Mage
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff7071tok
+  portrait: fff7071
   templatePriority: 1
   gender: male
   species: human

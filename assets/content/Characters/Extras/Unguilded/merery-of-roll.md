@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merery of Roll
   title: ""
@@ -9,7 +10,6 @@ name:
 id: LPP4EsQS9lqZvGor
 packFolder: extrasunguilded
 shortcode: mereryofroll
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

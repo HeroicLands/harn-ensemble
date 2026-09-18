@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Utheric of Otek
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8DeRxiXJei9jI2iN
 packFolder: extrasnobles
 shortcode: uthericofotek
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

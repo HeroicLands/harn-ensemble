@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: 'Ryke "Fat" Hamm'
   title: ""
@@ -10,9 +11,6 @@ name:
 id: eINyh83Kik2WzPWJ
 packFolder: fffunguilded
 shortcode: rykefathamm
-img: images/fffv1/token/FFF_408-1_Herdsman.png
-portrait: images/fffv1/FFF_408-1_Herdsman.jpg
-tokenImg: images/fffv1/token/FFF_408-1_Herdsman.png
 type: being
 social:
   occupation: Herdsman/Beggar
@@ -24,6 +22,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4081tok
+  portrait: fff4081
   templatePriority: 1
   gender: male
   species: human

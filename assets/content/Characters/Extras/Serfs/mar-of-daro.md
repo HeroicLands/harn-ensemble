@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mar of Daro
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nJTMjkls9URWlBiA
 packFolder: extrasserfs
 shortcode: marofdaro
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

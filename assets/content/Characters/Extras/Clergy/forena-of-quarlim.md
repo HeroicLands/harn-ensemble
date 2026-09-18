@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Forena of Quarlim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xej7JitWoJTZSJN6
 packFolder: extrasclergy
 shortcode: forenaofquarlim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

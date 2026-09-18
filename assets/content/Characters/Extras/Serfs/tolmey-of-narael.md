@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tolmey of Narael
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Nov02nUTRj3uQ4Ud
 packFolder: extrasserfs
 shortcode: tolmeyofnarael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

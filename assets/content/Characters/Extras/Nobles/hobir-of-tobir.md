@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hobir of Tobir
   title: ""
@@ -9,7 +10,6 @@ name:
 id: drZHg21HFYFGhWrG
 packFolder: extrasnobles
 shortcode: hobiroftobir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

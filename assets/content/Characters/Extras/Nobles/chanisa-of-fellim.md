@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chanisa of Fellim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: KnNVQke9AxHqUWgQ
 packFolder: extrasnobles
 shortcode: chanisaoffellim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

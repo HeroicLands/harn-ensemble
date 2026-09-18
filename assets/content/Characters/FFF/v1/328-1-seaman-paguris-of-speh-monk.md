@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Paguris of Speh (Monk)
   title: ""
@@ -9,9 +10,6 @@ name:
 id: vqAkD6vWfrDHgzDH
 packFolder: fffguilded
 shortcode: pagurisofspehmonk
-img: images/fffv1/token/FFF_328-1_Seaman.png
-portrait: images/fffv1/FFF_328-1_Seaman.jpg
-tokenImg: images/fffv1/token/FFF_328-1_Seaman.png
 type: being
 social:
   occupation: Seaman
@@ -24,6 +22,8 @@ harnworld:
     - peoni
     - eder
 data:
+  icon: fff3281tok
+  portrait: fff3281
   templatePriority: 1
   gender: male
   species: human

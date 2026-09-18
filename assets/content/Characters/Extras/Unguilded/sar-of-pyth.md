@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sar of Pyth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: rg4JK9llgP41iZyG
 packFolder: extrasunguilded
 shortcode: sarofpyth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zorna of Chatil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GtQoPm6rAr13dzuN
 packFolder: extrasguilded
 shortcode: zornaofchatil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

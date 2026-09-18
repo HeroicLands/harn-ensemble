@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Captain Gorin of Merlis
   title: Captain
@@ -9,7 +10,6 @@ name:
 id: pDZvr3qdmafIvNCp
 packFolder: extrasguards
 shortcode: captaingorinofmerlis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

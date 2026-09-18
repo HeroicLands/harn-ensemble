@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Giles of Gilam
   title: ""
@@ -9,9 +10,6 @@ name:
 id: uMJgJveyseH1IrT8
 packFolder: fffguilded
 shortcode: gilesofgilam
-img: images/fffv1/token/FFF_322-2_Ostler.png
-portrait: images/fffv1/FFF_322-2_Ostler.jpg
-tokenImg: images/fffv1/token/FFF_322-2_Ostler.png
 type: being
 social:
   occupation: Journeyman Ostler
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3222tok
+  portrait: fff3222
   templatePriority: 1
   gender: male
   species: human

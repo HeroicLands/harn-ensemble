@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Fil the Flutist
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 57qWk1toAOdwLZ27
 packFolder: fffunguilded
 shortcode: filtheflutist
-img: images/fffv1/token/FFF_406-1_Farmer.png
-portrait: images/fffv1/FFF_406-1_Farmer.jpg
-tokenImg: images/fffv1/token/FFF_406-1_Farmer.png
 type: being
 social:
   occupation: Farmer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4061tok
+  portrait: fff4061
   templatePriority: 1
   gender: male
   species: human

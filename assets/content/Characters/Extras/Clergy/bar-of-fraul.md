@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bar of Fraul
   title: ""
@@ -9,7 +10,6 @@ name:
 id: uTADy2QrKz7lAu20
 packFolder: extrasclergy
 shortcode: baroffraul
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani
@@ -139,7 +139,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Green Eye of Turembor
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jartun of Balin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zeLa0rIKYtdn9Tb7
 packFolder: extrasnobles
 shortcode: jartunofbalin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician
@@ -117,19 +117,22 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Necklace, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 240
         weight: 0.25
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

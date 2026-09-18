@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hennigar of Chelsenal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: imdZbwAOWOzwmxIz
 packFolder: extrasguilded
 shortcode: hennigarofchelsenal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hideworker

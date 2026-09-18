@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Murlock of Naras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ldadZoZ3Oh8LreHX
 packFolder: extrasserfs
 shortcode: murlockofnaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

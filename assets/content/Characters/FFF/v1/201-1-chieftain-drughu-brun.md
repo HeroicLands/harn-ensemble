@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Brun
   title: ""
@@ -9,9 +10,6 @@ name:
 id: B3o2Cu05ziblcSXY
 packFolder: fffbarbarians
 shortcode: brun
-img: images/fffv1/token/FFF_201-1_Chieftain_Drughu.png
-portrait: images/fffv1/FFF_201-1_Chieftain_Drughu.jpg
-tokenImg: images/fffv1/token/FFF_201-1_Chieftain_Drughu.png
 type: being
 social:
   occupation: Chieftain
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - yavanna
 data:
+  icon: fff2011tok
+  portrait: fff2011
   templatePriority: 1
   gender: male
   species: human (drughu)

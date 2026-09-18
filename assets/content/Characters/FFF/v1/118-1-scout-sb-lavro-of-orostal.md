@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lavro of Orostal
   title: ""
@@ -9,9 +10,6 @@ name:
 id: ssnt13YqynwruYqK
 packFolder: fffmilitary
 shortcode: lavrooforostal
-img: images/fffv1/token/FFF_118-1_Scout_SB.png
-portrait: images/fffv1/FFF_118-1_Scout_SB.jpg
-tokenImg: images/fffv1/token/FFF_118-1_Scout_SB.png
 type: being
 social:
   occupation: Scout (SB)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1181tok
+  portrait: fff1181
   templatePriority: 1
   gender: male
   species: human

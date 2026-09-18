@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cheselyn of Athan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 6jH2rttASPaJ3uze
 packFolder: extrasclergy
 shortcode: cheselynofathan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -142,13 +142,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.25
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

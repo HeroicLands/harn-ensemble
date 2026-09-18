@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Crolaz of Yisgaras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Yn5oRA6ayL5SdEct
 packFolder: extrasclergy
 shortcode: crolazofyisgaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

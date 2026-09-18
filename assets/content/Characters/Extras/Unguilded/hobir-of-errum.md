@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hobir of Errum
   title: ""
@@ -9,7 +10,6 @@ name:
 id: X175GuDw7vA9JGpJ
 packFolder: extrasunguilded
 shortcode: hobiroferrum
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: "Debt to Money Lender: Nat of Hipaeus for 1448d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

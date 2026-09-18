@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kaidia of Nara
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Yf1ZNMH6zWBnRnNs
 packFolder: extrasguilded
 shortcode: kaidiaofnara
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

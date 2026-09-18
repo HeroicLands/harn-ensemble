@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jartona of Wesar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: SturaePS6Z9WuOk6
 packFolder: extrasclergy
 shortcode: jartonaofwesar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin
@@ -134,7 +134,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Earing, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01

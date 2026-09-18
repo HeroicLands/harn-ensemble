@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Quelin of Chusselsen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: J2wyTGkwOKfuTLMJ
 packFolder: extrasguilded
 shortcode: quelinofchusselsen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist

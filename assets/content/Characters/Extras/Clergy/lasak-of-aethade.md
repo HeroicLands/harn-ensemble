@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lasak of Aethade
   title: ""
@@ -9,7 +10,6 @@ name:
 id: K4Nz8jmfPGsdDiYa
 packFolder: extrasclergy
 shortcode: lasakofaethade
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir
@@ -144,13 +144,15 @@ hm3:
     - { shortcode: bellhand, type: miscgear }
     - name: Holy Symbol, brass
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 0.1
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

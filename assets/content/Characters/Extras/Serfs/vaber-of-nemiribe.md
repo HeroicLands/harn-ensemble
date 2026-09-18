@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Vaber of Nemiribe
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 38xB6UdFVZfivd5Y
 packFolder: extrasserfs
 shortcode: vaberofnemiribe
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

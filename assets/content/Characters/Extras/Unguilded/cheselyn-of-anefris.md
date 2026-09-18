@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cheselyn of Anefris
   title: ""
@@ -9,7 +10,6 @@ name:
 id: LH6cb6wd0B52w3Y2
 packFolder: extrasunguilded
 shortcode: cheselynofanefris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Laborer/Longshoreman

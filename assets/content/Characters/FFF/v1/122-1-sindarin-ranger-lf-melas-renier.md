@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Melas Renier
   title: ""
@@ -9,9 +10,6 @@ name:
 id: fmub4svRhzTqgHvi
 packFolder: fffmilitary
 shortcode: melasrenier
-img: images/fffv1/token/FFF_122-1_Sindarin_Ranger_LF.png
-portrait: images/fffv1/FFF_122-1_Sindarin_Ranger_LF.jpg
-tokenImg: images/fffv1/token/FFF_122-1_Sindarin_Ranger_LF.png
 type: being
 social:
   occupation: Ranger
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1221tok
+  portrait: fff1221
   templatePriority: 1
   gender: male
   species: sindarin
@@ -207,17 +207,20 @@ hm3:
     - { shortcode: MByr, type: armorgear }
     - name: Boots of Turentan
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Cloak of Turentan
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Cord of Querelia-Sim
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

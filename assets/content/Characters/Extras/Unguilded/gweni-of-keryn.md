@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gweni of Keryn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 1KHMIqomxfHLWme1
 packFolder: extrasunguilded
 shortcode: gweniofkeryn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

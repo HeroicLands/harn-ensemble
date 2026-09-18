@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kayly Frye
   title: ""
@@ -9,9 +10,6 @@ name:
 id: iXr9ICXqiaPxI71J
 packFolder: fffguilded
 shortcode: kaylyfrye
-img: images/fffv1/token/FFF_329-2_Shipwright.png
-portrait: images/fffv1/FFF_329-2_Shipwright.jpg
-tokenImg: images/fffv1/token/FFF_329-2_Shipwright.png
 type: being
 social:
   occupation: Shipwright
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3292tok
+  portrait: fff3292
   templatePriority: 1
   gender: female
   species: human
@@ -163,7 +163,8 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - name: Intuition (F1)
       type: psionic
-      img: systems/hm3/images/icons/svg/psionics.svg
+      data:
+        icon: sohl-none-icon-psionics
       system:
         skillBase.value: 15
         skillBase.formula: "@aur,@aur,@wil,Tai,Tarael"

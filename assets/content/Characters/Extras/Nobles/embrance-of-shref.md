@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Embrance of Shref
   title: ""
@@ -9,7 +10,6 @@ name:
 id: QNKNfhHp38dJHTw4
 packFolder: extrasnobles
 shortcode: embranceofshref
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.03

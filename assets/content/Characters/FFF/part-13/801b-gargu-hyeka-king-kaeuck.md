@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kaeuck
   title: ""
@@ -9,9 +10,6 @@ name:
 id: Df28UjH6GUtBDEX7
 packFolder: fffnonhumans
 shortcode: kaeuck
-img: images/fff-13/FFF_801b_Gargu-Hyeka_King-headshot.webp
-portrait: images/fff-13/FFF_801b_Gargu-Hyeka_King.webp
-tokenImg: images/fff-13/FFF_801b_Gargu-Hyeka_King-token.webp
 type: being
 social:
   occupation: King
@@ -22,6 +20,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff801bhead
+  tokenIcon: fff801btok
+  portrait: fff801b
   gender: male
   species: hyeka
   age: 11
@@ -117,7 +118,8 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/hm3/images/icons/svg/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: She of Payensen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: NyXfXr8kIG47jNrG
 packFolder: extrasguilded
 shortcode: sheofpayensen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Courtesan
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - name: Comb, ivory
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1
@@ -111,14 +112,16 @@ hm3:
     - { shortcode: pursesilk, type: miscgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Belevonadu of Amathel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: nRCSP7hzcTSMI9c1
 packFolder: extrasunguilded
 shortcode: belevonaduofamathel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

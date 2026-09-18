@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sta of Partus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XLVRZwALJc4xgDWj
 packFolder: extrasguilded
 shortcode: staofpartus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Timberwright
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Saw, hack
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 10
         weight: 2

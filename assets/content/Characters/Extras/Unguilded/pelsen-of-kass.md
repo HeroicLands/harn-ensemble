@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pelsen of Kass
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vocfHWA2x8mRnmtq
 packFolder: extrasunguilded
 shortcode: pelsenofkass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

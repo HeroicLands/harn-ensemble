@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Varbrin of Asarnil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: scCp8g5Jkh430Sh3
 packFolder: extrasguilded
 shortcode: varbrinofasarnil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Seaman
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Leggins, waxed canvas
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

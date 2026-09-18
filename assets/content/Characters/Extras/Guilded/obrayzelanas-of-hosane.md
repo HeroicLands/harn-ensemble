@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Obrayzelanas of Hosane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pP5zwv42yuJs6Un7
 packFolder: extrasguilded
 shortcode: obrayzelanasofhosane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.25

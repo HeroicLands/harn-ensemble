@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Diryn of Kass
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XZH9hWLTEW2n5G9P
 packFolder: extrasguilded
 shortcode: dirynofkass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.05

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Nerele of Sosora
   title: ""
@@ -9,7 +10,6 @@ name:
 id: CfUxG3tfwKjLBySU
 packFolder: extrasguilded
 shortcode: nereleofsosora
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker

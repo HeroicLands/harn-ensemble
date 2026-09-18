@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Perline of Ibine
   title: ""
@@ -9,7 +10,6 @@ name:
 id: CRD95sSfo34sMD8P
 packFolder: extrasunguilded
 shortcode: perlineofibine
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

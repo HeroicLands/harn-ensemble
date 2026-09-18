@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bae of Tobilon
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WMaHCKrrDPaRr5Ji
 packFolder: extrasunguilded
 shortcode: baeoftobilon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

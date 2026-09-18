@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Theric of Pharion
   title: ""
@@ -9,7 +10,6 @@ name:
 id: iuwR5sznyI3WJasN
 packFolder: extrasguilded
 shortcode: thericofpharion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Kor of Aranefris for 82d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

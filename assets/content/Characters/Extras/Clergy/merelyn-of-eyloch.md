@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merelyn of Eyloch
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pKAUfBre0bFzszLN
 packFolder: extrasclergy
 shortcode: merelynofeyloch
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

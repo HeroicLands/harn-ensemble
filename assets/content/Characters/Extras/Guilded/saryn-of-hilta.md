@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Saryn of Hilta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: BLHObC4PfmfZAlFU
 packFolder: extrasguilded
 shortcode: sarynofhilta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper

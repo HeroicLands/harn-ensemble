@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merery of Asain
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GM3Jft9OwmH21U6O
 packFolder: extrasguilded
 shortcode: mereryofasain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Pilot
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: SlsCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

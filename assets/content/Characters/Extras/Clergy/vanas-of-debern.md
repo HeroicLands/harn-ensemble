@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Vanas of Debern
   title: ""
@@ -9,7 +10,6 @@ name:
 id: lZeyO1tgXJXd3kQI
 packFolder: extrasclergy
 shortcode: vanasofdebern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin
@@ -134,7 +134,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.05

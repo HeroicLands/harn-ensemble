@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shel of Banth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AprVHI0tLwr37QCh
 packFolder: extrasserfs
 shortcode: shelofbanth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

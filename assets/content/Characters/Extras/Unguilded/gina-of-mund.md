@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gina of Mund
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 08nbDa1NJ4xSgq3i
 packFolder: extrasunguilded
 shortcode: ginaofmund
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: textilecraftkit, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

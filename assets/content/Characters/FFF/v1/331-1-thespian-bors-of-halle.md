@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bors of Halle
   title: ""
@@ -9,9 +10,6 @@ name:
 id: GYWvGsJdLbkbcVDO
 packFolder: fffguilded
 shortcode: borsofhalle
-img: images/fffv1/token/FFF_331-1_Thespian.png
-portrait: images/fffv1/FFF_331-1_Thespian.jpg
-tokenImg: images/fffv1/token/FFF_331-1_Thespian.png
 type: being
 social:
   occupation: Thespian
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3311tok
+  portrait: fff3311
   templatePriority: 1
   gender: male
   species: human

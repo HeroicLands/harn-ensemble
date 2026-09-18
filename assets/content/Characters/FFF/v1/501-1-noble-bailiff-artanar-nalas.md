@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Artanar Nalas
   title: ""
@@ -9,9 +10,6 @@ name:
 id: I0KXgGBzbsH784FH
 packFolder: fffnobles
 shortcode: artanarnalas
-img: images/fffv1/token/FFF_501-1_Noble_Bailiff.png
-portrait: images/fffv1/FFF_501-1_Noble_Bailiff.jpg
-tokenImg: images/fffv1/token/FFF_501-1_Noble_Bailiff.png
 type: being
 social:
   occupation: Bailiff
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5011tok
+  portrait: fff5011
   templatePriority: 1
   gender: male
   species: human

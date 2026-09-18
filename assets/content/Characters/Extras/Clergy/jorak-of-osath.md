@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jorak of Osath
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 38Jqg1t5nNJx00Bl
 packFolder: extrasclergy
 shortcode: jorakofosath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

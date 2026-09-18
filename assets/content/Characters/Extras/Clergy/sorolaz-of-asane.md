@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sorolaz of Asane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YdB0G62Yuzd7KoCh
 packFolder: extrasclergy
 shortcode: sorolazofasane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

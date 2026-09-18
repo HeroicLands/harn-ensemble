@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwena of Geldis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 011wYmgtE2WxY6Hk
 packFolder: extrasguilded
 shortcode: gwenaofgeldis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: "Debt to Money Lender: Chalmar of Smyt for 209d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

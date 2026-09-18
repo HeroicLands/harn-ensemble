@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Calen of Esseren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: fGeZWE8iUHufRV7F
 packFolder: extrasunguilded
 shortcode: calenofesseren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

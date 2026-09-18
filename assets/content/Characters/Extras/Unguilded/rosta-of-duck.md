@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rosta of Duck
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EybBCsYEz19DwINF
 packFolder: extrasunguilded
 shortcode: rostaofduck
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shemlen of Hosathaen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: w0ZmfOXVH0JiOXUj
 packFolder: extrasguilded
 shortcode: shemlenofhosathaen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist
@@ -104,12 +104,14 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Portable writing Kite
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Scale/balance
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 72
         weight: 5

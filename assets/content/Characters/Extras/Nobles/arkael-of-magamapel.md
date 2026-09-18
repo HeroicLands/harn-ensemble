@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arkael of Magamapel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 9Jc8QgtRUBrIWHO9
 packFolder: extrasnobles
 shortcode: arkaelofmagamapel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard
@@ -110,14 +110,16 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01
     - { shortcode: tndrbx, type: miscgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Koral of Lunen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: iul5JmYiaA6dYs2M
 packFolder: extrasunguilded
 shortcode: koraloflunen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shaman
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 48 } }
     - name: Tribal
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 12

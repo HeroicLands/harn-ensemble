@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Klarina of Irin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: k4NiLU8ubM4APZdu
 packFolder: extrasunguilded
 shortcode: klarinaofirin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

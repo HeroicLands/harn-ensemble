@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Warorel Iasen
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 0wZyta0rVtXJ1YDp
 packFolder: fffunguilded
 shortcode: waroreliasen
-img: images/fffv1/token/FFF_402-1_Brigand.png
-portrait: images/fffv1/FFF_402-1_Brigand.jpg
-tokenImg: images/fffv1/token/FFF_402-1_Brigand.png
 type: being
 social:
   occupation: Brigand
@@ -22,6 +20,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff4021tok
+  portrait: fff4021
   templatePriority: 1
   gender: male
   species: human

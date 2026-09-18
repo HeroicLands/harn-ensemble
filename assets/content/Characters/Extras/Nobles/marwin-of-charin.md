@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Marwin of Charin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Wi88DmdIhmn0Tr5H
 packFolder: extrasnobles
 shortcode: marwinofcharin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: BrdSwd, type: weapongear }
     - name: Anklet, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 120
         weight: 0.125
@@ -120,7 +121,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

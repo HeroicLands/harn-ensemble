@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Eweni of Tulkne
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ovGjrmsPKDBFIH3s
 packFolder: extrasguilded
 shortcode: ewenioftulkne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Seaman
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Leggins, waxed canvas
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: ropehempperft330lbcap, type: miscgear }

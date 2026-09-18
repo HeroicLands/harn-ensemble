@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hjotra Sokkol
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 7sF0UGfk4SwrXTDS
 packFolder: fffguilded
 shortcode: hjotrasokkol
-img: images/fffv1/token/FFF_311-2_Hideworker.png
-portrait: images/fffv1/FFF_311-2_Hideworker.jpg
-tokenImg: images/fffv1/token/FFF_311-2_Hideworker.png
 type: being
 social:
   occupation: Hideworker
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3112tok
+  portrait: fff3112
   templatePriority: 1
   gender: female
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Cyzor of Daroos
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: OrXQMvzoIiJ78O9h
 packFolder: extrasguards
 shortcode: veterancyzorofdaroos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

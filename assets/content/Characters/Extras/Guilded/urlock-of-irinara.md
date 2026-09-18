@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Urlock of Irinara
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Aaz2TJddCMlEa8lF
 packFolder: extrasguilded
 shortcode: urlockofirinara
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amdirnoen of Amluguruiamdireb
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sCCGCaweVntaaGW6
 packFolder: extrasunguilded
 shortcode: amdirnoenofamluguruiamdireb
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

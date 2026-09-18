@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Odell of Risene
   title: ""
@@ -9,9 +10,6 @@ name:
 id: myAxxYx2A8oZ5RXO
 packFolder: fffguilded
 shortcode: odellofrisene
-img: images/fffv1/token/FFF_321-1_Miner.png
-portrait: images/fffv1/FFF_321-1_Miner.jpg
-tokenImg: images/fffv1/token/FFF_321-1_Miner.png
 type: being
 social:
   occupation: Miner
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3211tok
+  portrait: fff3211
   templatePriority: 1
   gender: male
   species: human

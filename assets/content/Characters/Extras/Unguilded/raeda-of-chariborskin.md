@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Raeda of Chariborskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 1G1FeyBvBvK9mEZi
 packFolder: extrasunguilded
 shortcode: raedaofchariborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

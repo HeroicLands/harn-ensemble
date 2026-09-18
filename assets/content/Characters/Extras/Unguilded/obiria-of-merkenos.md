@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Obiria of Merkenos
   title: ""
@@ -9,7 +10,6 @@ name:
 id: OrUW11ijBG9nQ8dM
 packFolder: extrasunguilded
 shortcode: obiriaofmerkenos
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

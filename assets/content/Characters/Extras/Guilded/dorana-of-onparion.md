@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dorana of Onparion
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vBOgdkql1FTO9OIu
 packFolder: extrasguilded
 shortcode: doranaofonparion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Ymarath of Merale for 535d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kes of Charcarad
   title: ""
@@ -9,7 +10,6 @@ name:
 id: yTQhZCljeIks6l7i
 packFolder: extrasguilded
 shortcode: kesofcharcarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

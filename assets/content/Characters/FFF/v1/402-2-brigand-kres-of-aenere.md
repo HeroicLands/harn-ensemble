@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kres of Aenere
   title: ""
@@ -9,9 +10,6 @@ name:
 id: zzb52YxzVJETrKFW
 packFolder: fffunguilded
 shortcode: kresofaenere
-img: images/fffv1/token/FFF_402-2_Brigand.png
-portrait: images/fffv1/FFF_402-2_Brigand.jpg
-tokenImg: images/fffv1/token/FFF_402-2_Brigand.png
 type: being
 social:
   occupation: Brigand
@@ -24,6 +22,8 @@ harnworld:
     - peoni
     - agrik
 data:
+  icon: fff4022tok
+  portrait: fff4022
   templatePriority: 1
   gender: male
   species: human

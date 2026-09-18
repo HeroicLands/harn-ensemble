@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Charild of Marnin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XWVi84pKsl1BgBl5
 packFolder: extrasunguilded
 shortcode: charildofmarnin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Charlamnar of Guina
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ey9sB4kk08y9y5WF
 packFolder: extrasguilded
 shortcode: charlamnarofguina
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler

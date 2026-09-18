@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Agarthalpharn of Aglagarvrun
   title: ""
@@ -9,7 +10,6 @@ name:
 id: uvCm6CKaLOgKlBv3
 packFolder: extrasunguilded
 shortcode: agarthalpharnofaglagarvrun
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

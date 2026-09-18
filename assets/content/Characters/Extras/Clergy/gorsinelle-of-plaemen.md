@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gorsinelle of Plaemen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: fMLyHiCHKTXZYOhX
 packFolder: extrasclergy
 shortcode: gorsinelleofplaemen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bae of Manchi
   title: ""
@@ -9,7 +10,6 @@ name:
 id: orVupKOhFqMdnUrb
 packFolder: extrasclergy
 shortcode: baeofmanchi
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

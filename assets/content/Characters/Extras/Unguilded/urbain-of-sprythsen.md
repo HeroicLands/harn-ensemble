@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Urbain of Sprythsen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: L4mGxCYUzZFwUWyn
 packFolder: extrasunguilded
 shortcode: urbainofsprythsen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

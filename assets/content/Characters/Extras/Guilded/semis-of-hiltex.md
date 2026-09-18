@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Semis of Hiltex
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zc0GhebYZQmjl3pq
 packFolder: extrasguilded
 shortcode: semisofhiltex
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

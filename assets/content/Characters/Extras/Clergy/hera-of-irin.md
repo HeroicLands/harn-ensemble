@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hera of Irin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0iDJIx0hzEgPlahI
 packFolder: extrasclergy
 shortcode: heraofirin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani
@@ -135,7 +135,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Holy Symbol, brass
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 0.1

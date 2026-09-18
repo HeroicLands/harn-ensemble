@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Piltain of Asain
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TnCiHupAk4KaolL9
 packFolder: extrasguilded
 shortcode: piltainofasain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Astrologer
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 75
         weight: 0.5

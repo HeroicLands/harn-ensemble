@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Angem of Agarwen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: CMgqh02GNDRVlkVf
 packFolder: extrasnobles
 shortcode: angemofagarwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

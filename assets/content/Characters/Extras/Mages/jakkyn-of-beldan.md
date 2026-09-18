@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jakkyn of Beldan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ZE3p9NW6NVJEvBz8
 packFolder: extrasmages
 shortcode: jakkynofbeldan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Peleahn**"
@@ -132,13 +132,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Andarin Wysan
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Alchemical Recipe book
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 5

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lobir of Orin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Z6FdDtRrA3gYcV5i
 packFolder: extrasguards
 shortcode: lobiroforin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: "Debt to Money Lender: Liris of Everda for 772d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

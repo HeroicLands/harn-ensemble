@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Melson of Don
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 02YJPjEyBzQFQjko
 packFolder: extrasunguilded
 shortcode: melsonofdon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar
@@ -103,7 +103,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Wineskin, small, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
   system:

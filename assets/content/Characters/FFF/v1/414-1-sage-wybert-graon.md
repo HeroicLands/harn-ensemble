@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Wybert Graon
   title: ""
@@ -9,9 +10,6 @@ name:
 id: DNQtPuSTCANb2wPN
 packFolder: fffunguilded
 shortcode: wybertgraon
-img: images/fffv1/token/FFF_414-1_Sage.png
-portrait: images/fffv1/FFF_414-1_Sage.jpg
-tokenImg: images/fffv1/token/FFF_414-1_Sage.png
 type: being
 social:
   occupation: Sage/Tutor
@@ -24,6 +22,8 @@ harnworld:
     - larani
     - saveknor
 data:
+  icon: fff4141tok
+  portrait: fff4141
   templatePriority: 1
   gender: male
   species: human

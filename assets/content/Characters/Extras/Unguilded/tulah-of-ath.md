@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tulah of Ath
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Rq33azFOv523uN4h
 packFolder: extrasunguilded
 shortcode: tulahofath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

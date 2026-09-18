@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gine of Debern
   title: ""
@@ -9,7 +10,6 @@ name:
 id: eVZckYuDWkt9eUq4
 packFolder: extrasunguilded
 shortcode: gineofdebern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

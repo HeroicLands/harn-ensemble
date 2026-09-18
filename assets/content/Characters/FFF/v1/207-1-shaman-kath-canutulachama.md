@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Canutulachama
   title: ""
@@ -9,9 +10,6 @@ name:
 id: jAo8s9jZuqDYS5uE
 packFolder: fffbarbarians
 shortcode: canutulachama
-img: images/fffv1/token/FFF_207-1_Shaman_Kath.png
-portrait: images/fffv1/FFF_207-1_Shaman_Kath.jpg
-tokenImg: images/fffv1/token/FFF_207-1_Shaman_Kath.png
 type: being
 social:
   occupation: Shaman
@@ -22,6 +20,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff2071tok
+  portrait: fff2071
   templatePriority: 1
   gender: male
   species: human

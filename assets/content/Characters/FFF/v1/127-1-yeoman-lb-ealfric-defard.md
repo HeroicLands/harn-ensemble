@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ealfric Defard
   title: ""
@@ -9,9 +10,6 @@ name:
 id: oRNGkprsEqxEhkDw
 packFolder: fffmilitary
 shortcode: ealfricdefard
-img: images/fffv1/token/FFF_127-1_Yeoman_LB.png
-portrait: images/fffv1/FFF_127-1_Yeoman_LB.jpg
-tokenImg: images/fffv1/token/FFF_127-1_Yeoman_LB.png
 type: being
 social:
   occupation: Yeoman Archer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff1271tok
+  portrait: fff1271
   templatePriority: 1
   gender: male
   species: human

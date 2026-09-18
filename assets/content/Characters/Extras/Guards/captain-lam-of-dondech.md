@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Captain Lam of Dondech
   title: Captain
@@ -9,7 +10,6 @@ name:
 id: 0wIAqhWDcSSWXQKi
 packFolder: extrasguards
 shortcode: captainlamofdondech
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

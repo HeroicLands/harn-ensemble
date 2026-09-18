@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Burkot of Aets
   title: ""
@@ -9,7 +10,6 @@ name:
 id: otAeO0pKA4z0xw4s
 packFolder: extrasguilded
 shortcode: burkotofaets
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Perfumer
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Perfume, oz, bottle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 11
         weight: 0.25

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Thokrapal of Aethaldron
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ekhjqEEb8bj6KgDV
 packFolder: extrasunguilded
 shortcode: thokrapalofaethaldron
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Harant of Tobira for 195d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

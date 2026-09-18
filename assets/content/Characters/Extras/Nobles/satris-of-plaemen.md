@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Satris of Plaemen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zCTNFdes4gEJRtn5
 packFolder: extrasnobles
 shortcode: satrisofplaemen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

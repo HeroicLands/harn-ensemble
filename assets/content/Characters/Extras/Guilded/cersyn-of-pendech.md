@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cersyn of Pendech
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FMXsryN2e8SLt54O
 packFolder: extrasguilded
 shortcode: cersynofpendech
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Locksmith
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 1

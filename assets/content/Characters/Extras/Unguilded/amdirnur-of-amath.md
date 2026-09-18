@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amdirnur of Amath
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4rM5t9V3eHQfSTMe
 packFolder: extrasunguilded
 shortcode: amdirnurofamath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow

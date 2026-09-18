@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bornagar of Caben
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vljg5k6WXCvCvWIU
 packFolder: extrasunguilded
 shortcode: bornagarofcaben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow

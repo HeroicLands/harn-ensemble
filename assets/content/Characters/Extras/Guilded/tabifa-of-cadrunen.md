@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tabifa of Cadrunen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: rakeV9KscBSZUUFL
 packFolder: extrasguilded
 shortcode: tabifaofcadrunen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Metalsmith
@@ -109,14 +109,16 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

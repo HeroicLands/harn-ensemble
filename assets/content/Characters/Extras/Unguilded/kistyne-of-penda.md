@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kistyne of Penda
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EieN4BXIkxE43zWT
 packFolder: extrasunguilded
 shortcode: kistyneofpenda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shaman
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 44 } }
     - name: Tribal
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 12
@@ -122,7 +123,8 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Ketrashain of Ralgurty for 164d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

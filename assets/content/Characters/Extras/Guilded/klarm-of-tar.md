@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Klarm of Tar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xYMjLA6nlnwuyLYW
 packFolder: extrasguilded
 shortcode: klarmoftar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

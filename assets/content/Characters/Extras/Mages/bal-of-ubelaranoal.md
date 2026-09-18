@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bal of Ubelaranoal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EU7hmi3ee0DUxC3d
 packFolder: extrasmages
 shortcode: balofubelaranoal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Odivshe***"
@@ -123,7 +123,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

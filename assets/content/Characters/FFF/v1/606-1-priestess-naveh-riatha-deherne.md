@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Riatha Deherne
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 78QD3CkEWFGwFie3
 packFolder: fffclergy
 shortcode: riathadeherne
-img: images/fffv1/token/FFF_606-1_Priestess_Naveh.png
-portrait: images/fffv1/FFF_606-1_Priestess_Naveh.jpg
-tokenImg: images/fffv1/token/FFF_606-1_Priestess_Naveh.png
 type: being
 social:
   occupation: Navehan Priestess
@@ -24,6 +22,8 @@ harnworld:
     - naveh
     - peoni
 data:
+  icon: fff6061tok
+  portrait: fff6061
   templatePriority: 1
   gender: female
   species: human
@@ -180,7 +180,8 @@ hm3:
     - { shortcode: yulprisuniversalantidote, type: miscgear, system: { quantity: 6 } }
     - name: Wool Scarf
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: WTunic, type: armorgear }
@@ -196,7 +197,8 @@ hm3:
     - { shortcode: veshastale, type: invocation }
     - name: Eyes of Dekjis
       type: invocation
-      img: systems/hm3/images/icons/png/peoni.png
+      data:
+        icon: hm3-none-icon-peoni
       system:
         diety: Peoni
         circle: 3

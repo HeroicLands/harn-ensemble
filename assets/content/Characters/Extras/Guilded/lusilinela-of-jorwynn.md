@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lusilinela of Jorwynn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: dkbmiK7FsdpNvHo0
 packFolder: extrasguilded
 shortcode: lusilinelaofjorwynn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Courtesan
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - name: Comb, ivory
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arbrin of Coselway
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Tds0GGei2BaUl4hR
 packFolder: extrasguilded
 shortcode: arbrinofcoselway
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

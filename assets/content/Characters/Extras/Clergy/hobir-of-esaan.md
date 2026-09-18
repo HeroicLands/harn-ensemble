@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hobir of Esaan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TlX4QiGyhWwVpRE9
 packFolder: extrasclergy
 shortcode: hobirofesaan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

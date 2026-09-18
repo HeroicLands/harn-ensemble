@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kistyne of Elesh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: eyf3UPB4t4pKrFdd
 packFolder: extrasserfs
 shortcode: kistyneofelesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

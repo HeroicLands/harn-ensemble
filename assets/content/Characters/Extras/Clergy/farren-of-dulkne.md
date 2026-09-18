@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Farren of Dulkne
   title: ""
@@ -9,7 +10,6 @@ name:
 id: X3yzJuIpsLmPuJAZ
 packFolder: extrasclergy
 shortcode: farrenofdulkne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

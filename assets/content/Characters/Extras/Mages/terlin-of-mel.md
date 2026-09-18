@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terlin of Mel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ugkJvgR891B3prxi
 packFolder: extrasmages
 shortcode: terlinofmel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Peleahn****"
@@ -135,7 +135,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Spoon of Yavari
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -144,7 +145,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

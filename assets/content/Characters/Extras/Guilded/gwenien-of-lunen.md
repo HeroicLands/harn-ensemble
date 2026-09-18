@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwenien of Lunen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oY72JImMQ90lBx1x
 packFolder: extrasguilded
 shortcode: gwenienoflunen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

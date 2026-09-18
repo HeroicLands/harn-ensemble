@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Totes of Wythin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: rDh6O8ETQnNlD87C
 packFolder: extrasclergy
 shortcode: totesofwythin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

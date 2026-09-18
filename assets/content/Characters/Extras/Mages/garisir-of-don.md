@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Garisir of Don
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YOy1nKD4rOVgTTiK
 packFolder: extrasmages
 shortcode: garisirofdon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Jmorvi**"
@@ -127,13 +127,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Fork of Etosha
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Rings of Mystic Wondor
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -141,13 +143,15 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

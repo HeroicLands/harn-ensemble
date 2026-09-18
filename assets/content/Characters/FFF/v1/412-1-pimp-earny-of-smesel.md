@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Earny of Smesel
   title: ""
@@ -9,9 +10,6 @@ name:
 id: F50ca7QxQTd0R0an
 packFolder: fffunguilded
 shortcode: earnyofsmesel
-img: images/fffv1/token/FFF_412-1_Pimp.png
-portrait: images/fffv1/FFF_412-1_Pimp.jpg
-tokenImg: images/fffv1/token/FFF_412-1_Pimp.png
 type: being
 social:
   occupation: Pimp
@@ -22,6 +20,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff4121tok
+  portrait: fff4121
   templatePriority: 1
   gender: male
   species: human

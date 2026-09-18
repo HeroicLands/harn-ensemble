@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zuiquerena of Aikarin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DIXywUKvSXlnkLUq
 packFolder: extrasnobles
 shortcode: zuiquerenaofaikarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

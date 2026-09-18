@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Semis of Turathec
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FwUrZnrR9FvcUvV8
 packFolder: extrasunguilded
 shortcode: semisofturathec
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

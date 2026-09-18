@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dafyd Stahlman
   title: ""
@@ -9,9 +10,6 @@ name:
 id: oiUcJk2TCeTO6X26
 packFolder: fffmilitary
 shortcode: dafydstahlman
-img: images/fffv1/token/FFF_116-1_Mercenary_MH.png
-portrait: images/fffv1/FFF_116-1_Mercenary_MH.jpg
-tokenImg: images/fffv1/token/FFF_116-1_Mercenary_MH.png
 type: being
 social:
   occupation: Mercenary (MH)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - agrik
 data:
+  icon: fff1161tok
+  portrait: fff1161
   templatePriority: 1
   gender: male
   species: human

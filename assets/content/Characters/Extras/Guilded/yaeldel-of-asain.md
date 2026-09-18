@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yaeldel of Asain
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YjCciDu7V1HgUOFV
 packFolder: extrasguilded
 shortcode: yaeldelofasain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

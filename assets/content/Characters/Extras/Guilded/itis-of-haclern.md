@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Itis of Haclern
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 3N1mvbuzhQMKaH0S
 packFolder: extrasguilded
 shortcode: itisofhaclern
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist
@@ -110,14 +110,16 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
     - { shortcode: pipesmokin, type: miscgear }
     - name: Portable writing Kite
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }

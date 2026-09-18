@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zabin of Kramel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WJFwtmmpjpglANcD
 packFolder: extrasclergy
 shortcode: zabinofkramel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

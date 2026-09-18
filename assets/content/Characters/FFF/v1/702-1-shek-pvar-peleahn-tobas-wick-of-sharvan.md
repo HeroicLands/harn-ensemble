@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: 'Tobas "Wick" of Sharvan'
   title: ""
@@ -10,9 +11,6 @@ name:
 id: JMNJxMJPgR4E2QMp
 packFolder: fffmages
 shortcode: tobaswickofsharvan
-img: images/fffv1/token/FFF_702-1_Shek_Pvar_Peleahn.png
-portrait: images/fffv1/FFF_702-1_Shek_Pvar_Peleahn.jpg
-tokenImg: images/fffv1/token/FFF_702-1_Shek_Pvar_Peleahn.png
 type: being
 social:
   occupation: Peleahn Shek-Pvar
@@ -24,6 +22,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff7021tok
+  portrait: fff7021
   templatePriority: 1
   gender: male
   species: human
@@ -143,7 +143,8 @@ hm3:
     - { shortcode: alchemy, type: skill, system: { masteryLevel: 56, skillBase: { value: 16 } } }
     - name: Arcane Discipline
       type: skill
-      img: systems/hm3/images/icons/svg/pentacle.svg
+      data:
+        icon: sohl-none-icon-pentacle
       system:
         skillBase.value: 16
         masteryLevel: 90
@@ -151,7 +152,8 @@ hm3:
           value: 16
     - name: Arcane Discipline
       type: skill
-      img: systems/hm3/images/icons/svg/pentacle.svg
+      data:
+        icon: sohl-none-icon-pentacle
       system:
         skillBase.value: 16
         masteryLevel: 65
@@ -186,13 +188,15 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - name: Amulet of the Shroud of Eliadh
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: Weapon impacts reduced by 10 for three minutes, 5 charges remaining
         weight: 1
     - name: Ring of the White Hand
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: Imposes a -50 penalty to mind affecting spells targeted on the wearer
         weight: 1

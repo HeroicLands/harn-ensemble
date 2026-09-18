@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rokki of Jere
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ZpIexom3uc9SJEIF
 packFolder: extrasserfs
 shortcode: rokkiofjere
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Orlir of Fulkne
   title: ""
@@ -9,9 +10,6 @@ name:
 id: haxul5DyGPaSevm2
 packFolder: fffguilded
 shortcode: orliroffulkne
-img: images/fffv1/token/FFF_316-1_Locksmith.png
-portrait: images/fffv1/FFF_316-1_Locksmith.jpg
-tokenImg: images/fffv1/token/FFF_316-1_Locksmith.png
 type: being
 social:
   occupation: Locksmith
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3161tok
+  portrait: fff3161
   templatePriority: 1
   gender: male
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Commander Tarcandy of Fraul
   title: ""
@@ -9,7 +10,6 @@ name:
 id: C4m0SFlOStdomSCD
 packFolder: extrasguards
 shortcode: commandertarcandyoffraul
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

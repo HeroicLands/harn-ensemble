@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Buior of Angruiamdirvar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: rTkeT6ygjG1Ur0wC
 packFolder: extrasunguilded
 shortcode: buiorofangruiamdirvar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow

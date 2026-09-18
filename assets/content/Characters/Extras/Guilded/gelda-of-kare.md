@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gelda of Kare
   title: ""
@@ -9,7 +10,6 @@ name:
 id: NSamEti7WzI6eoSN
 packFolder: extrasguilded
 shortcode: geldaofkare
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

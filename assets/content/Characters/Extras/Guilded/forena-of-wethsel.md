@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Forena of Wethsel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ji6eYbCKQ4TURnro
 packFolder: extrasguilded
 shortcode: forenaofwethsel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

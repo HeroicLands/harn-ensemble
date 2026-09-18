@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Marek of Kail
   title: ""
@@ -9,9 +10,6 @@ name:
 id: aRJme3GFrpfTgRe6
 packFolder: fffmilitary
 shortcode: marekofkail
-img: images/fffv1/token/FFF_115-4_Mercenary_LF.png
-portrait: images/fffv1/FFF_115-4_Mercenary_LF.jpg
-tokenImg: images/fffv1/token/FFF_115-4_Mercenary_LF.png
 type: being
 social:
   occupation: Mercenary (LF)
@@ -24,6 +22,8 @@ harnworld:
     - larani
     - peoni
 data:
+  icon: fff1154tok
+  portrait: fff1154
   templatePriority: 1
   gender: male
   species: human

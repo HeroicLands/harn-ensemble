@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Semis of Tal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: y8j899DZQUxIvG1y
 packFolder: extrasnobles
 shortcode: semisoftal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Piria of Quardan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: STK7MzjENG64ypAw
 packFolder: extrasguilded
 shortcode: piriaofquardan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald

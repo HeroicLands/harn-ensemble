@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Querila of Tobilon
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Mk9AVoXAniGl7LpV
 packFolder: extrasguilded
 shortcode: querilaoftobilon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Leggins, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

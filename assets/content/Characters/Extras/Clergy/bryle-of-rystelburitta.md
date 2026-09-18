@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bryle of Rystelburitta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: BYWAyPUrLarQlBDG
 packFolder: extrasclergy
 shortcode: bryleofrystelburitta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dagwyn of Khael
   title: ""
@@ -9,9 +10,6 @@ name:
 id: YodiswBfSMxgPVLK
 packFolder: fffguilded
 shortcode: dagwynofkhael
-img: images/fffv1/token/FFF_314-1_Lexigrapher.png
-portrait: images/fffv1/FFF_314-1_Lexigrapher.jpg
-tokenImg: images/fffv1/token/FFF_314-1_Lexigrapher.png
 type: being
 social:
   occupation: Lexigrapher
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3141tok
+  portrait: fff3141
   templatePriority: 1
   gender: female
   species: human

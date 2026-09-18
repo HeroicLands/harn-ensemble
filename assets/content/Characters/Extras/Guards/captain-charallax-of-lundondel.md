@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Captain Charallax of Lundondel
   title: Captain
@@ -9,7 +10,6 @@ name:
 id: uMSPAhz9SL6YJ3kw
 packFolder: extrasguards
 shortcode: captaincharallaxoflundondel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merele of Wesaldis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4t8fs8c1x1wFiieG
 packFolder: extrasunguilded
 shortcode: mereleofwesaldis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Shortbow

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chymelical of Haith
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zo0CrwVKDUeOBwCt
 packFolder: extrasserfs
 shortcode: chymelicalofhaith
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

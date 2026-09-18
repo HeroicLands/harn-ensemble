@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Forena of Porda
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RLqg7ZRN165fxJOA
 packFolder: extrasnobles
 shortcode: forenaofporda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pallisa of Kyfa
   title: ""
@@ -9,7 +10,6 @@ name:
 id: b6xsgSOQ6TTCD2c0
 packFolder: extrasguilded
 shortcode: pallisaofkyfa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mason
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Mason's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 36
         weight: 15

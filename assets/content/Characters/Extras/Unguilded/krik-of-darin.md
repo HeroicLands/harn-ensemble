@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Krik of Darin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: fNfGTZHezegeJiWa
 packFolder: extrasunguilded
 shortcode: krikofdarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp
@@ -105,14 +105,16 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Elprequir, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1
     - { shortcode: tndrbx, type: miscgear }
     - name: Opiates, 1 oz
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 106
         weight: 0.1
@@ -121,7 +123,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

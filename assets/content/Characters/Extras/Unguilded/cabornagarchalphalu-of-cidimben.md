@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cabornagarchalphalu of Cidimben
   title: ""
@@ -9,7 +10,6 @@ name:
 id: b5uYokLL6xjPvZht
 packFolder: extrasunguilded
 shortcode: cabornagarchalphaluofcidimben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian

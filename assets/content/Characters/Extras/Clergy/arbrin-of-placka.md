@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arbrin of Placka
   title: ""
@@ -9,7 +10,6 @@ name:
 id: se0lxQWUJ7VfdLqy
 packFolder: extrasclergy
 shortcode: arbrinofplacka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

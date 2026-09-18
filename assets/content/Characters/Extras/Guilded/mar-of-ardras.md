@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mar of Ardras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: r62fiH3VST7XC86B
 packFolder: extrasguilded
 shortcode: marofardras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

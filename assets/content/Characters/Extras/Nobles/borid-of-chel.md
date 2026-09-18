@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Borid of Chel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YKwrld6QM7Jjie8P
 packFolder: extrasnobles
 shortcode: boridofchel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Gar of Bur for 881d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: writingkitportable, type: miscgear }

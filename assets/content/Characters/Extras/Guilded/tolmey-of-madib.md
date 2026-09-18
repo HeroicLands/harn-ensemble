@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tolmey of Madib
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sXZT2cdM0HIqlJ1A
 packFolder: extrasguilded
 shortcode: tolmeyofmadib
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Astrologer
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01
@@ -119,7 +120,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 75
         weight: 0.5

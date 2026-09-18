@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amathaniar of Amarthassemben
   title: ""
@@ -9,7 +10,6 @@ name:
 id: i5zNOcZdL27wnZSJ
 packFolder: extrasnobles
 shortcode: amathaniarofamarthassemben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Piria of Varaner
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YD65C35oqIqKVegg
 packFolder: extrasunguilded
 shortcode: piriaofvaraner
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer

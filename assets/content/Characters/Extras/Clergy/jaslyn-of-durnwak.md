@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jaslyn of Durnwak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: mSIvZoi6epchtNf0
 packFolder: extrasclergy
 shortcode: jaslynofdurnwak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

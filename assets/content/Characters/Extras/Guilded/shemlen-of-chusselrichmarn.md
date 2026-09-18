@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shemlen of Chusselrichmarn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: hqbIuEgEZls5u4rM
 packFolder: extrasguilded
 shortcode: shemlenofchusselrichmarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

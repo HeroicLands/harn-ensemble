@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jeril of Dybarn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: f1sZ96Fp02xRy5Qp
 packFolder: extrasguilded
 shortcode: jerilofdybarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Metalsmith
@@ -105,20 +105,23 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10
     - name: Pendant, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.05
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

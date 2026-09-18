@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lycia of Hubellyr
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8jOMig6yvG1sS4Cq
 packFolder: extrasclergy
 shortcode: lyciaofhubellyr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

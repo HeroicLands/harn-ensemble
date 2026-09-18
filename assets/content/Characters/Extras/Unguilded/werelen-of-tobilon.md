@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Werelen of Tobilon
   title: ""
@@ -9,7 +10,6 @@ name:
 id: w1eslNfiXCSRucS5
 packFolder: extrasunguilded
 shortcode: werelenoftobilon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

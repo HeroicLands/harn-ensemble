@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ewenien of Matlim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 6FepWshcne0cnKvl
 packFolder: extrasguilded
 shortcode: ewenienofmatlim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

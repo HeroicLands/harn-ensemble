@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tulah of Merben
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EVU6m4OAL7zp2PJY
 packFolder: extrasnobles
 shortcode: tulahofmerben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

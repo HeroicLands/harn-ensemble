@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jola of Ewena
   title: ""
@@ -9,7 +10,6 @@ name:
 id: G7srEnIlE4R6dmJk
 packFolder: extrasunguilded
 shortcode: jolaofewena
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher

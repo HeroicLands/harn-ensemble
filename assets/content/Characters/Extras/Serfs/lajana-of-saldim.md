@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lajana of Saldim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AlkX7OoeG48Qg3hG
 packFolder: extrasserfs
 shortcode: lajanaofsaldim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Farmer
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Halid of Chel for 80d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

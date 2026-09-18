@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Theikak of Agamapel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: q7CbyxJQfmuqpW0F
 packFolder: extrasnobles
 shortcode: theikakofagamapel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard

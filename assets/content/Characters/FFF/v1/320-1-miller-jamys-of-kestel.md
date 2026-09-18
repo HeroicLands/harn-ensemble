@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jamys of Kestel
   title: ""
@@ -9,9 +10,6 @@ name:
 id: j70pHFJDiYWFrc89
 packFolder: fffguilded
 shortcode: jamysofkestel
-img: images/fffv1/token/FFF_320-1_Miller.png
-portrait: images/fffv1/FFF_320-1_Miller.jpg
-tokenImg: images/fffv1/token/FFF_320-1_Miller.png
 type: being
 social:
   occupation: Miller
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff3201tok
+  portrait: fff3201
   templatePriority: 1
   gender: male
   species: human

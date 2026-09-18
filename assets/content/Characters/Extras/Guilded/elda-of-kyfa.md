@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Elda of Kyfa
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Iv0kpjakXbM1hOSE
 packFolder: extrasguilded
 shortcode: eldaofkyfa
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

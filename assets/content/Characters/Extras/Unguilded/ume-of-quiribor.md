@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ume of Quiribor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: qYshVAaUlR2dr5SI
 packFolder: extrasunguilded
 shortcode: umeofquiribor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Fisherman

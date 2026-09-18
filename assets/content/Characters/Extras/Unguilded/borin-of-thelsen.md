@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Borin of Thelsen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: PKtr9LFsHZ3AbCrG
 packFolder: extrasunguilded
 shortcode: borinofthelsen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sage/Tutor
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Textbook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 3

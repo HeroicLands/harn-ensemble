@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chend of Chusselsen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HLxSIj8mwhf9K4ri
 packFolder: extrasunguilded
 shortcode: chendofchusselsen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sage/Tutor

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sir Chadrin Benere
   title: Sir
@@ -9,9 +10,6 @@ name:
 id: TJDHmy9dazsUhB7b
 packFolder: fffnobles
 shortcode: sirchadrinbenere
-img: images/fffv1/token/FFF_506-4_Feudal_Knight_HH.png
-portrait: images/fffv1/FFF_506-4_Feudal_Knight_HH.jpg
-tokenImg: images/fffv1/token/FFF_506-4_Feudal_Knight_HH.png
 type: being
 social:
   occupation: Knight Bachelor (HH)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5064tok
+  portrait: fff5064
   templatePriority: 1
   gender: male
   species: human

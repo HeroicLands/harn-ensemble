@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yamapel of Reimek
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Y7o8W6VDoNj9KnMf
 packFolder: extrasnobles
 shortcode: yamapelofreimek
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul High Guard
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Armor Repair kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10

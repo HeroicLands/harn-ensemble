@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kuvel of Chariam
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DEobTQEXjV8YaPcZ
 packFolder: extrasguilded
 shortcode: kuvelofchariam
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Lexigrapher

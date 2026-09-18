@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Corfyn of Cybela
   title: ""
@@ -9,7 +10,6 @@ name:
 id: q07JuM9WANrmkqCH
 packFolder: extrasunguilded
 shortcode: corfynofcybela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Prostitute/Pimp
@@ -101,7 +101,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Doshenkana, 1 dose
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 21
         weight: 0.1

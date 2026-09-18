@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Helis of Krollater
   title: ""
@@ -9,7 +10,6 @@ name:
 id: htXiSMgtQQoP1Cza
 packFolder: extrasclergy
 shortcode: helisofkrollater
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arbrin of Parina
   title: ""
@@ -9,7 +10,6 @@ name:
 id: WskrA660UqeXsaWa
 packFolder: extrasunguilded
 shortcode: arbrinofparina
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

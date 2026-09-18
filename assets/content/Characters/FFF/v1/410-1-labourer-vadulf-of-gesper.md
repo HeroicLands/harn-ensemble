@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Vadulf of Gesper
   title: ""
@@ -9,9 +10,6 @@ name:
 id: bA9xc7ZXJEJdXRha
 packFolder: fffunguilded
 shortcode: vadulfofgesper
-img: images/fffv1/token/FFF_410-1_Labourer.png
-portrait: images/fffv1/FFF_410-1_Labourer.jpg
-tokenImg: images/fffv1/token/FFF_410-1_Labourer.png
 type: being
 social:
   occupation: Labourer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4101tok
+  portrait: fff4101
   templatePriority: 1
   gender: male
   species: human

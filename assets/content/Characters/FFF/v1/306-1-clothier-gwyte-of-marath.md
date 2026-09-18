@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwyte of Marath
   title: ""
@@ -9,9 +10,6 @@ name:
 id: wuD1xj7qCGqD9aqZ
 packFolder: fffguilded
 shortcode: gwyteofmarath
-img: images/fffv1/token/FFF_306-1_Clothier.png
-portrait: images/fffv1/FFF_306-1_Clothier.jpg
-tokenImg: images/fffv1/token/FFF_306-1_Clothier.png
 type: being
 social:
   occupation: Clothier
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff3061tok
+  portrait: fff3061
   templatePriority: 1
   gender: male
   species: human

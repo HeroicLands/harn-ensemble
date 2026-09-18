@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Erelyn of Clean
   title: ""
@@ -9,7 +10,6 @@ name:
 id: d2Al3OvUqNSXboUI
 packFolder: extrasnobles
 shortcode: erelynofclean
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

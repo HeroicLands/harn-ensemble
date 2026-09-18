@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terza of Stuk
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RpR8Rdqgt8oGOZGo
 packFolder: extrasnobles
 shortcode: terzaofstuk
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald

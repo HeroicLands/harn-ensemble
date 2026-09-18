@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Erebane of Puckill
   title: ""
@@ -9,7 +10,6 @@ name:
 id: D0Vb3C6MyysrUlcH
 packFolder: extrasguilded
 shortcode: erebaneofpuckill
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

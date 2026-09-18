@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jendra of Kantar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TAYCQdjAFa4bfTZN
 packFolder: extrasserfs
 shortcode: jendraofkantar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

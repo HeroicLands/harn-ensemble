@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Grallax of Siven
   title: ""
@@ -9,7 +10,6 @@ name:
 id: qk4ioTrMlqOjygKL
 packFolder: extrasclergy
 shortcode: grallaxofsiven
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

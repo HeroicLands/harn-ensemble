@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Huw of Islwyn
   title: ""
@@ -9,9 +10,6 @@ name:
 id: LrbNBVZPSC528SpZ
 packFolder: fffnobles
 shortcode: huwofislwyn
-img: images/fffv1/token/FFF_502-1_Stewart.png
-portrait: images/fffv1/FFF_502-1_Stewart.jpg
-tokenImg: images/fffv1/token/FFF_502-1_Stewart.png
 type: being
 social:
   occupation: Steward
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5021tok
+  portrait: fff5021
   templatePriority: 1
   gender: male
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Eryla Cobb
   title: ""
@@ -9,9 +10,6 @@ name:
 id: HMdk5hHSK8CiaDIO
 packFolder: fffmilitary
 shortcode: erylacobb
-img: images/fffv1/token/FFF_115-3_Mercenary_MF.png
-portrait: images/fffv1/FFF_115-3_Mercenary_MF.jpg
-tokenImg: images/fffv1/token/FFF_115-3_Mercenary_MF.png
 type: being
 social:
   occupation: Mercenary (MF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff1153tok
+  portrait: fff1153
   templatePriority: 1
   gender: male
   species: human

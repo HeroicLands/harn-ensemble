@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mabresen
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 3gj42cB0umNbiGez
 packFolder: fffmages
 shortcode: mabresen
-img: images/fff-13/FFF_704a_Fyvrian_Shek-Pvar-headshot.webp
-portrait: images/fff-13/FFF_704a_Fyvrian_Shek-Pvar.webp
-tokenImg: images/fff-13/FFF_704a_Fyvrian_Shek-Pvar-token.webp
 type: being
 social:
   occupation: Shek-Pvar
@@ -23,6 +21,9 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff704ahead
+  tokenIcon: fff704atok
+  portrait: fff704a
   templatePriority: 1
   gender: male
   species: human
@@ -136,26 +137,30 @@ hm3:
     - { shortcode: penquill, type: miscgear, system: { quantity: 4 } }
     - name: Parchment scraps
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: fyvria, type: skill, system: { masteryLevel: 86 } }
     - { shortcode: neutral, type: skill, system: { masteryLevel: 45 } }
     - name: Theron's Larder
       type: spell
-      img: systems/hm3/images/icons/svg/tree.svg
+      data:
+        icon: sohl-none-icon-tree
       system:
         convocation: Fyvria
     - { shortcode: verdanthand, type: spell }
     - name: Love Perfume
       type: spell
-      img: systems/hm3/images/icons/svg/tree.svg
+      data:
+        icon: sohl-none-icon-tree
       system:
         convocation: Fyvria
         level: 2
     - name: M'Nogai Reaping
       type: spell
-      img: systems/hm3/images/icons/svg/tree.svg
+      data:
+        icon: sohl-none-icon-tree
       system:
         convocation: Fyvria
         level: 3

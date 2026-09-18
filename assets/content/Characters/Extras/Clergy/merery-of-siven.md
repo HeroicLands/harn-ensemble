@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merery of Siven
   title: ""
@@ -9,7 +10,6 @@ name:
 id: btJJeUNBRIpGTS02
 packFolder: extrasclergy
 shortcode: mereryofsiven
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

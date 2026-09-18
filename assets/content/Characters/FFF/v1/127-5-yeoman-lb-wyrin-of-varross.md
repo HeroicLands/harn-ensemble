@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Wyrin of Varross
   title: ""
@@ -9,9 +10,6 @@ name:
 id: P3R0iAgl7VVSTJzh
 packFolder: fffmilitary
 shortcode: wyrinofvarross
-img: images/fffv1/token/FFF_127-5_Yeoman_LB.png
-portrait: images/fffv1/FFF_127-5_Yeoman_LB.jpg
-tokenImg: images/fffv1/token/FFF_127-5_Yeoman_LB.png
 type: being
 social:
   occupation: Yeoman (LB)
@@ -24,6 +22,8 @@ harnworld:
     - peoni
     - sarajin
 data:
+  icon: fff1275tok
+  portrait: fff1275
   templatePriority: 1
   gender: male
   species: human

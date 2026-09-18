@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veteran Bel of Vylosane
   title: Veteran
@@ -9,7 +10,6 @@ name:
 id: hCoPLPC9lVqvQ3Re
 packFolder: extrasguards
 shortcode: veteranbelofvylosane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -117,7 +117,8 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

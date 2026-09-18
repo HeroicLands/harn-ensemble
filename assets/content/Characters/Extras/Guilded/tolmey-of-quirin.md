@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tolmey of Quirin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: JdEblvot6YJiElaT
 packFolder: extrasguilded
 shortcode: tolmeyofquirin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

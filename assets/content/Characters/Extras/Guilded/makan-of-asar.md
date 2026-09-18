@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Makan of Asar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: S341gsYcDhixWT7n
 packFolder: extrasguilded
 shortcode: makanofasar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

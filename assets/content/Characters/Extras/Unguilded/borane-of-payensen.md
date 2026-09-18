@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Borane of Payensen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 7q4ZWoyJS2YVmuz6
 packFolder: extrasunguilded
 shortcode: boraneofpayensen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

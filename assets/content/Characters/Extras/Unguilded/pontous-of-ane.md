@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pontous of Ane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: OnznlAsInSFDXwoo
 packFolder: extrasunguilded
 shortcode: pontousofane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hunter/Trapper

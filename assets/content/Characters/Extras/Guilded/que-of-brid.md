@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Que of Brid
   title: ""
@@ -9,7 +10,6 @@ name:
 id: folsDEd24lHggfHo
 packFolder: extrasguilded
 shortcode: queofbrid
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

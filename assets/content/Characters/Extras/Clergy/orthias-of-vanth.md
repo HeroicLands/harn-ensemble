@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Orthias of Vanth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Wgdeqb0VsfW8L687
 packFolder: extrasclergy
 shortcode: orthiasofvanth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

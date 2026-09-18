@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zuke of Yorlis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: JJ1EIAfcsNTLzRnJ
 packFolder: extrasguilded
 shortcode: zukeofyorlis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright

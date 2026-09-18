@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Andy of Kroll
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GHtrgZMjg5nE5IsS
 packFolder: extrasclergy
 shortcode: andyofkroll
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

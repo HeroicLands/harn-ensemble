@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Keldarien of Dethselwen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: eHYaP5Xh23DqcqWj
 packFolder: extrasunguilded
 shortcode: keldarienofdethselwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe
@@ -119,7 +119,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

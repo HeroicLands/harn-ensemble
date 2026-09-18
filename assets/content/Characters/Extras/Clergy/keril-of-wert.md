@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Keril of Wert
   title: ""
@@ -9,7 +10,6 @@ name:
 id: kVtlM7gjETWXQa8h
 packFolder: extrasclergy
 shortcode: kerilofwert
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

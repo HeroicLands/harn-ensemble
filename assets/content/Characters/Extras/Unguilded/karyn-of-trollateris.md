@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Karyn of Trollateris
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zi5kEzFaO7yQ6xpf
 packFolder: extrasunguilded
 shortcode: karynoftrollateris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

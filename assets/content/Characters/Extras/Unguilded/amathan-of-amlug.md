@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amathan of Amlug
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Rjqvc1Bl8VPoaUNb
 packFolder: extrasunguilded
 shortcode: amathanofamlug
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Horsebow

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Koril Kalymsen Aemon
   title: ""
@@ -9,9 +10,6 @@ name:
 id: Kt0ilzmS7FHBqOTr
 packFolder: fffguilded
 shortcode: korilkalymsenaemon
-img: images/fffv1/token/FFF_318-1_Mercantyler.png
-portrait: images/fffv1/FFF_318-1_Mercantyler.jpg
-tokenImg: images/fffv1/token/FFF_318-1_Mercantyler.png
 type: being
 social:
   occupation: Mercantyler
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3181tok
+  portrait: fff3181
   templatePriority: 1
   gender: male
   species: human

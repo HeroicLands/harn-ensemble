@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mya of Risalsin
   title: ""
@@ -9,9 +10,6 @@ name:
 id: qzHmILrtfj7CeQbU
 packFolder: fffclergy
 shortcode: myaofrisalsin
-img: images/fffv1/token/FFF_601-1_Priestess_Agrik.png
-portrait: images/fffv1/FFF_601-1_Priestess_Agrik.jpg
-tokenImg: images/fffv1/token/FFF_601-1_Priestess_Agrik.png
 type: being
 social:
   occupation: Agrikan Priestess
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - agrik
 data:
+  icon: fff6011tok
+  portrait: fff6011
   templatePriority: 1
   gender: female
   species: human

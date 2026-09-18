@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amdirvelchan of Alphadassen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DHoiMG9M9sSeXc8A
 packFolder: extrasunguilded
 shortcode: amdirvelchanofalphadassen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Guardian
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: "Debt to Money Lender: Angol of Quirien for 338d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sebelson of Hiltex
   title: ""
@@ -9,7 +10,6 @@ name:
 id: LfKENWSp3ufWb6Kv
 packFolder: extrasnobles
 shortcode: sebelsonofhiltex
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

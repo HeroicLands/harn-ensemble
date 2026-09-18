@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Borane of Sunis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Pv8jQq0SVMfXW5B2
 packFolder: extrasmages
 shortcode: boraneofsunis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Savorya**"
@@ -133,7 +133,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Rings of Mystic Wondor
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -141,7 +142,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

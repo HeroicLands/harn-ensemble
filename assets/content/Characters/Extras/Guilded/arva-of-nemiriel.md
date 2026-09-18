@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arva of Nemiriel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: T1pay16VaAYNv4F7
 packFolder: extrasguilded
 shortcode: arvaofnemiriel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miller/Millwright
@@ -110,19 +110,22 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Leggins, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Necklace, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 240
         weight: 0.25
     - { shortcode: tankardwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

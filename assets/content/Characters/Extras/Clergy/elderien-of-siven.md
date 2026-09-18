@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Elderien of Siven
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ylQK2qchbSpmqxw4
 packFolder: extrasclergy
 shortcode: elderienofsiven
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

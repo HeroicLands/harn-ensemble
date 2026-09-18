@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gina of Hosathias
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0ot8Cojs5E2OYg8m
 packFolder: extrasguilded
 shortcode: ginaofhosathias
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary

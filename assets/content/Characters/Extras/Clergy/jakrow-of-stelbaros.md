@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jakrow of Stelbaros
   title: ""
@@ -9,7 +10,6 @@ name:
 id: QysLzkQM9bVrGzBv
 packFolder: extrasclergy
 shortcode: jakrowofstelbaros
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

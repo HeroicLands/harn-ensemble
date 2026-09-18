@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lycia of Dulkne
   title: ""
@@ -9,7 +10,6 @@ name:
 id: s6IWtVynMRJwi9mM
 packFolder: extrasguilded
 shortcode: lyciaofdulkne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Charcoaler
@@ -101,7 +101,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Axe, wood handle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 3
@@ -110,7 +111,8 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

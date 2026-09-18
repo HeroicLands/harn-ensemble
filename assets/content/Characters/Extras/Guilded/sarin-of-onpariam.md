@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sarin of Onpariam
   title: ""
@@ -9,7 +10,6 @@ name:
 id: tBpxbOJFWcVIrVok
 packFolder: extrasguilded
 shortcode: sarinofonpariam
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Physician

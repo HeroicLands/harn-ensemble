@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Inrant of Tabralgurty
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8ETNYbWf9eEIN84Y
 packFolder: extrasguards
 shortcode: inrantoftabralgurty
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Merwas of Hipaeus for 112d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: RndSh, type: weapongear }

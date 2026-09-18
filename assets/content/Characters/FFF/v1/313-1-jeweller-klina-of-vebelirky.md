@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Klina of Vebelirky
   title: ""
@@ -9,9 +10,6 @@ name:
 id: t4zG9cK9yT1qVGI5
 packFolder: fffguilded
 shortcode: klinaofvebelirky
-img: images/fffv1/token/FFF_313-1_Jeweller.png
-portrait: images/fffv1/FFF_313-1_Jeweller.jpg
-tokenImg: images/fffv1/token/FFF_313-1_Jeweller.png
 type: being
 social:
   occupation: Jeweller
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3131tok
+  portrait: fff3131
   templatePriority: 1
   gender: male
   species: human

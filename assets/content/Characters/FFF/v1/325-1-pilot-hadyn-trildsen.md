@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hadyn Trildsen
   title: ""
@@ -9,9 +10,6 @@ name:
 id: P8gejvyLNHxIidxr
 packFolder: fffguilded
 shortcode: hadyntrildsen
-img: images/fffv1/token/FFF_325-1_Pilot.png
-portrait: images/fffv1/FFF_325-1_Pilot.jpg
-tokenImg: images/fffv1/token/FFF_325-1_Pilot.png
 type: being
 social:
   occupation: Pilot
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3251tok
+  portrait: fff3251
   templatePriority: 1
   gender: male
   species: human

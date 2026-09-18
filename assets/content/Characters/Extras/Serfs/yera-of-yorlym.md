@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yera of Yorlym
   title: ""
@@ -9,7 +10,6 @@ name:
 id: MRH9L5zH6AWGHQIJ
 packFolder: extrasserfs
 shortcode: yeraofyorlym
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: Bklr, type: weapongear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sir Rollard d'Audrieu
   title: Sir
@@ -9,9 +10,6 @@ name:
 id: otiVCxlD88xv2bcy
 packFolder: fffnobles
 shortcode: sirrollarddaudrieu
-img: images/fffv1/token/FFF_506-1_Feudal_Knight_HH.png
-portrait: images/fffv1/FFF_506-1_Feudal_Knight_HH.jpg
-tokenImg: images/fffv1/token/FFF_506-1_Feudal_Knight_HH.png
 type: being
 social:
   occupation: Tournament knight
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - christian
 data:
+  icon: fff5061tok
+  portrait: fff5061
   templatePriority: 1
   gender: male
   species: human

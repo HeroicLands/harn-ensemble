@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aladez of Kass
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GJyjk2QOG3LusAYd
 packFolder: extrasnobles
 shortcode: aladezofkass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: cookingkitportable, type: miscgear }
@@ -113,7 +114,8 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

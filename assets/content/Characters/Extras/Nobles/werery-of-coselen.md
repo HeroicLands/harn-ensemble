@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Werery of Coselen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: y4nlArbIGA7IccJH
 packFolder: extrasnobles
 shortcode: wereryofcoselen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herald

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bresyn of Ibine
   title: ""
@@ -9,7 +10,6 @@ name:
 id: b9ZcHWPXXxZHGM1m
 packFolder: extrasguilded
 shortcode: bresynofibine
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thief
@@ -106,13 +106,15 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 1
     - name: Opiates, 1oz
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }

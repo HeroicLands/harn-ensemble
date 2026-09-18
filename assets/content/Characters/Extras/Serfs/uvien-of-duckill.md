@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Uvien of Duckill
   title: ""
@@ -9,7 +10,6 @@ name:
 id: wELkBoumn5s0OxAp
 packFolder: extrasserfs
 shortcode: uvienofduckill
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

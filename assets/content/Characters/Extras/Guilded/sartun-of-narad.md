@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sartun of Narad
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zkPPF2G3OFcWGQLE
 packFolder: extrasguilded
 shortcode: sartunofnarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thespian

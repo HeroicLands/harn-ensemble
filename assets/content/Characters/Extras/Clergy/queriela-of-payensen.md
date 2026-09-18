@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Queriela of Payensen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vA11ZnNfovyGNtC7
 packFolder: extrasclergy
 shortcode: querielaofpayensen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

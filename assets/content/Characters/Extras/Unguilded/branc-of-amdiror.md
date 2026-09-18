@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Branc of Amdiror
   title: ""
@@ -9,7 +10,6 @@ name:
 id: C3yTkw78KFV80ndM
 packFolder: extrasunguilded
 shortcode: brancofamdiror
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Ranger, Light

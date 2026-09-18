@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pallisa of Ele
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ATadREhkJHFp6gnr
 packFolder: extrasguilded
 shortcode: pallisaofele
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

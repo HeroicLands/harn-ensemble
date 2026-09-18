@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Myrelyn of Lumeden
   title: ""
@@ -9,7 +10,6 @@ name:
 id: K7OUdkElL9LjNO3R
 packFolder: extrasclergy
 shortcode: myrelynoflumeden
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

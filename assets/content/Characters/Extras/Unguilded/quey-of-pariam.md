@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Quey of Pariam
   title: ""
@@ -9,7 +10,6 @@ name:
 id: b3z6tMDYgnEgg9av
 packFolder: extrasunguilded
 shortcode: queyofpariam
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: cagesmwooden, type: miscgear }
     - name: Doshenkana, 10 doses
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 175
         weight: 1

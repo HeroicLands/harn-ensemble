@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Marwin of Irin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: O5BIimC3GakpFXxu
 packFolder: extrasclergy
 shortcode: marwinofirin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

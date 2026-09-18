@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Raeda of Aweil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: OUvRXHmDJm7YgAip
 packFolder: extrasnobles
 shortcode: raedaofaweil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

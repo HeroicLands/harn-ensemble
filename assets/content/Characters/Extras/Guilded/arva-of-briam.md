@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arva of Briam
   title: ""
@@ -9,7 +10,6 @@ name:
 id: qOGBR8EJHJPI1W2k
 packFolder: extrasguilded
 shortcode: arvaofbriam
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lorid of Eylosathasil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: qcUJlcXDwZoB1oMb
 packFolder: extrasunguilded
 shortcode: loridofeylosathasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

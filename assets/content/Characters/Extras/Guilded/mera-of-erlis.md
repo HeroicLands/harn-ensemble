@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mera of Erlis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TjbkVqYcVIf2iBwv
 packFolder: extrasguilded
 shortcode: meraoferlis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer
@@ -109,14 +109,16 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Broach, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.03
     - { shortcode: tndrbx, type: miscgear }
     - name: Frankincense, oz, jar
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 80
         weight: 0.25

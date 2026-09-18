@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Barien of Ewel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YrSOu9dwIyZhgDSv
 packFolder: extrasnobles
 shortcode: barienofewel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

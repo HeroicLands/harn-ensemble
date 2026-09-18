@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tolmey of Tobira
   title: ""
@@ -9,7 +10,6 @@ name:
 id: kA6VBcGqUNkfHzgd
 packFolder: extrasserfs
 shortcode: tolmeyoftobira
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

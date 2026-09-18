@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lavro of Sedir
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sWohDlkTyQ1MaTC4
 packFolder: extrasserfs
 shortcode: lavroofsedir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Farmer
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: Pfrk, type: weapongear }
     - name: Saw, hack
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 10
         weight: 2

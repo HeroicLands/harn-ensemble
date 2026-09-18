@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Erech of Ikswic
   title: ""
@@ -9,7 +10,6 @@ name:
 id: xyUfdjf8BwDZgpS7
 packFolder: extrasnobles
 shortcode: erechofikswic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

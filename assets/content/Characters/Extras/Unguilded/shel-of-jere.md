@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shel of Jere
   title: ""
@@ -9,7 +10,6 @@ name:
 id: QOiuCqGvBNgPdRPX
 packFolder: extrasunguilded
 shortcode: shelofjere
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

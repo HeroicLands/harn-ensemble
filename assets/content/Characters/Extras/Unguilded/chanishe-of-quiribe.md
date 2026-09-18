@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chanishe of Quiribe
   title: ""
@@ -9,7 +10,6 @@ name:
 id: kZZLysXzrF04hwZm
 packFolder: extrasunguilded
 shortcode: chanisheofquiribe
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

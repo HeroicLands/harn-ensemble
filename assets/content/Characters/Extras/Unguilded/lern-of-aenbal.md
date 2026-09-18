@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lern of Aenbal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: e0yzk3npulzxEjFm
 packFolder: extrasunguilded
 shortcode: lernofaenbal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Low Guard
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: "Debt to Money Lender: Thelren of Symdal for 1770d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

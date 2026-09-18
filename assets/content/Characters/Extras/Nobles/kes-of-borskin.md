@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kes of Borskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: X6zPINxnhCeOSIM9
 packFolder: extrasnobles
 shortcode: kesofborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

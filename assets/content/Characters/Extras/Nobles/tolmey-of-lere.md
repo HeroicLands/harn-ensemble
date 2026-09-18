@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tolmey of Lere
   title: ""
@@ -9,7 +10,6 @@ name:
 id: diVMdXyU62HCzgSN
 packFolder: extrasnobles
 shortcode: tolmeyoflere
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.25

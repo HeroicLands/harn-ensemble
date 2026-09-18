@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tabifa of Borskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pa4wQpD8WxAMh2oc
 packFolder: extrasserfs
 shortcode: tabifaofborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

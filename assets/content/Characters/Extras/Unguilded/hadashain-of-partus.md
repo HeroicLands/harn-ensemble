@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hadashain of Partus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 9ln6np43wuzA42qD
 packFolder: extrasunguilded
 shortcode: hadashainofpartus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia
@@ -113,7 +113,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 45
         weight: 0.05

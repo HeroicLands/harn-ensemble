@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Albalny of Chel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ZEVRjcDMxNVfRhNf
 packFolder: extrasnobles
 shortcode: albalnyofchel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

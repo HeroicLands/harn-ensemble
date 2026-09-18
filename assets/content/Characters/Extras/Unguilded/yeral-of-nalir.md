@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yeral of Nalir
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TmxaJPIfcyBywneI
 packFolder: extrasunguilded
 shortcode: yeralofnalir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

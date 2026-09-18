@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Husraas of Kjalis
   title: ""
@@ -9,9 +10,6 @@ name:
 id: Dgri4vubIECwxvd7
 packFolder: fffguilded
 shortcode: husraasofkjalis
-img: images/fffv1/token/FFF_329-1_Shipwright.png
-portrait: images/fffv1/FFF_329-1_Shipwright.jpg
-tokenImg: images/fffv1/token/FFF_329-1_Shipwright.png
 type: being
 social:
   occupation: Shipwright
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3291tok
+  portrait: fff3291
   templatePriority: 1
   gender: male
   species: human

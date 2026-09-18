@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cheselyn of Ardrass
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pvWMyXCZfRVzxmx1
 packFolder: extrasunguilded
 shortcode: cheselynofardrass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cartographer/Artist

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Breth of Merlesh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bXnv7uCO3gn9SUnB
 packFolder: extrasguilded
 shortcode: brethofmerlesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dorane of Tulkne
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oTLOL2jJZxBK1UIE
 packFolder: extrasunguilded
 shortcode: doraneoftulkne
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

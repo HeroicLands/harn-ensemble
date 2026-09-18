@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pallisa of Veris
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FVQLxkFOC9ILjyk6
 packFolder: extrasguilded
 shortcode: pallisaofveris
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jond of Merke
   title: ""
@@ -9,7 +10,6 @@ name:
 id: wlsl5iFTghE2jrjS
 packFolder: extrasguilded
 shortcode: jondofmerke
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Miner
@@ -104,14 +104,16 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Axe, wood handle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 3
     - { shortcode: beltpouchl3, type: containergear }
     - name: Circlet, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 300
         weight: 0.3125

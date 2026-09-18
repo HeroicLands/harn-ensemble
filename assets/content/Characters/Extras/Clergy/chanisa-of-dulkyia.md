@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chanisa of Dulkyia
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 0DjRf29tJ2RcpJJd
 packFolder: extrasclergy
 shortcode: chanisaofdulkyia
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tharo of Bideth
   title: ""
@@ -9,9 +10,6 @@ name:
 id: zfHZeMOSxVjH1jmT
 packFolder: fffunguilded
 shortcode: tharoofbideth
-img: images/fffv1/token/FFF_416-1_Serf_Half_Villein.png
-portrait: images/fffv1/FFF_416-1_Serf_Half_Villein.jpg
-tokenImg: images/fffv1/token/FFF_416-1_Serf_Half_Villein.png
 type: being
 social:
   occupation: Half-Villein
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4161tok
+  portrait: fff4161
   templatePriority: 1
   gender: male
   species: human

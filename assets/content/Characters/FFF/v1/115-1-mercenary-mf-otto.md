@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Otto
   title: ""
@@ -9,9 +10,6 @@ name:
 id: HDRSNCscXIBC8Rxv
 packFolder: fffmilitary
 shortcode: otto
-img: images/fffv1/token/FFF_115-1_Mercenary_MF.png
-portrait: images/fffv1/FFF_115-1_Mercenary_MF.jpg
-tokenImg: images/fffv1/token/FFF_115-1_Mercenary_MF.png
 type: being
 social:
   occupation: Mercenary (MF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - naveh
 data:
+  icon: fff1151tok
+  portrait: fff1151
   templatePriority: 1
   gender: male
   species: human

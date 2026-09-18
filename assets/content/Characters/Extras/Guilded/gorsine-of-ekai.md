@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gorsine of Ekai
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 3G55dD18TNOpyvVJ
 packFolder: extrasguilded
 shortcode: gorsineofekai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Jeweler
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rosak of Shonarasarion
   title: ""
@@ -9,7 +10,6 @@ name:
 id: iysDVuqi9zkY2ccS
 packFolder: extrasguilded
 shortcode: rosakofshonarasarion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary

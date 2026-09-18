@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terza of Musbers
   title: ""
@@ -9,7 +10,6 @@ name:
 id: PQoOcGMDQc4y5qIa
 packFolder: extrasguilded
 shortcode: terzaofmusbers
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

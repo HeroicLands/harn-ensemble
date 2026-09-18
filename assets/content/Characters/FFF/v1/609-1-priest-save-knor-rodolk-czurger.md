@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rodolk Czurger
   title: ""
@@ -9,9 +10,6 @@ name:
 id: za7GGGs1Aubj6oLi
 packFolder: fffclergy
 shortcode: rodolkczurger
-img: images/fffv1/token/FFF_609-1_Priest_Save_Knor.png
-portrait: images/fffv1/FFF_609-1_Priest_Save_Knor.jpg
-tokenImg: images/fffv1/token/FFF_609-1_Priest_Save_Knor.png
 type: being
 social:
   occupation: Priest of Save K'nor
@@ -26,6 +24,8 @@ harnworld:
     - morgath
     - naveh
 data:
+  icon: fff6091tok
+  portrait: fff6091
   templatePriority: 1
   gender: male
   species: human
@@ -214,7 +214,8 @@ hm3:
     - { shortcode: navehconsecration, type: invocation }
     - name: "Exorcism V; Save K'nor: Light of Uhla"
       type: invocation
-      img: systems/hm3/images/icons/png/naveh.png
+      data:
+        icon: hm3-none-icon-naveh
       system:
         diety: Naveh
         circle: 2

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yaelderien of Ciltex
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 9wLgX3SxLP6HYcsA
 packFolder: extrasclergy
 shortcode: yaelderienofciltex
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

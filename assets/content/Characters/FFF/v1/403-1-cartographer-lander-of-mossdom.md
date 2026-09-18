@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lander of Mossdom
   title: ""
@@ -9,9 +10,6 @@ name:
 id: UZY4fDaKJLgDoyKQ
 packFolder: fffunguilded
 shortcode: landerofmossdom
-img: images/fffv1/token/FFF_403-1_Cartographer.png
-portrait: images/fffv1/FFF_403-1_Cartographer.jpg
-tokenImg: images/fffv1/token/FFF_403-1_Cartographer.png
 type: being
 social:
   occupation: Cartographer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff4031tok
+  portrait: fff4031
   templatePriority: 1
   gender: male
   species: human

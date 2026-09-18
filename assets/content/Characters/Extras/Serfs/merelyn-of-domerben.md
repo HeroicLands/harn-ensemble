@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merelyn of Domerben
   title: ""
@@ -9,7 +10,6 @@ name:
 id: qnLVoo73zwc3dRav
 packFolder: extrasserfs
 shortcode: merelynofdomerben
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

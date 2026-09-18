@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwelena of Kapire
   title: ""
@@ -9,7 +10,6 @@ name:
 id: FDXxxbYBLQs9JOkZ
 packFolder: extrasunguilded
 shortcode: gwelenaofkapire
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Militia

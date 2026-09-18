@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arath of Ubelon
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ytNQgqlvHeyd69i5
 packFolder: extrasserfs
 shortcode: arathofubelon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

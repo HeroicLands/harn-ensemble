@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Captain Raenar of Briam
   title: Captain
@@ -9,7 +10,6 @@ name:
 id: Igg3sZ6a2ZTAasJY
 packFolder: extrasguards
 shortcode: captainraenarofbriam
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

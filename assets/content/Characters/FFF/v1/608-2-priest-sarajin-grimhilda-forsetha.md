@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Grimhilda Forsetha
   title: ""
@@ -9,9 +10,6 @@ name:
 id: RKgUGKh2miBd4DxZ
 packFolder: fffclergy
 shortcode: grimhildaforsetha
-img: images/fffv1/token/FFF_608-2_Priest_Sarajin.png
-portrait: images/fffv1/FFF_608-2_Priest_Sarajin.jpg
-tokenImg: images/fffv1/token/FFF_608-2_Priest_Sarajin.png
 type: being
 social:
   occupation: Priestess of Sarajin
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff6082tok
+  portrait: fff6082
   templatePriority: 1
   gender: female
   species: human
@@ -198,7 +198,8 @@ hm3:
     - { shortcode: idjarsmantle, type: invocation }
     - name: Talagaad's Honour
       type: invocation
-      img: systems/hm3/images/icons/png/sarajin.png
+      data:
+        icon: hm3-none-icon-sarajin
       system:
         diety: Sarajin
         circle: 4

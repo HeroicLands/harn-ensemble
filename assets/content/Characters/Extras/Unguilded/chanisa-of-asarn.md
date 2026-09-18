@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chanisa of Asarn
   title: ""
@@ -9,7 +10,6 @@ name:
 id: I8307YIRJDIckP2W
 packFolder: extrasunguilded
 shortcode: chanisaofasarn
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

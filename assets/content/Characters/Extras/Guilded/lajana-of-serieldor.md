@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lajana of Serieldor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: x6yoCqbkrsIvfNK8
 packFolder: extrasguilded
 shortcode: lajanaofserieldor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hideworker
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03
@@ -115,7 +116,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Textilcraft kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 5

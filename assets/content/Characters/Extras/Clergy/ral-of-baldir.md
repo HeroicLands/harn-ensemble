@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ral of Baldir
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 05qrNRov8EvB9JxL
 packFolder: extrasclergy
 shortcode: ralofbaldir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir
@@ -143,14 +143,16 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Cord of Querelia-Sim
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - { shortcode: bellhand, type: miscgear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

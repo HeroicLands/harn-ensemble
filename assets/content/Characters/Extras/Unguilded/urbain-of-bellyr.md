@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Urbain of Bellyr
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ZaZSRYYBc7o05yq1
 packFolder: extrasunguilded
 shortcode: urbainofbellyr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

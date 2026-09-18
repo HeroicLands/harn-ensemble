@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Baloth of Dethasil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HhRYKdpEmWriwXNc
 packFolder: extrasunguilded
 shortcode: balothofdethasil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

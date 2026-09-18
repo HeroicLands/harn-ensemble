@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Carex of Speh
   title: ""
@@ -9,9 +10,6 @@ name:
 id: nxSFrUyBX8xu7U3X
 packFolder: fffguilded
 shortcode: carexofspeh
-img: images/fffv1/token/FFF_332-2_Burglar.png
-portrait: images/fffv1/FFF_332-2_Burglar.jpg
-tokenImg: images/fffv1/token/FFF_332-2_Burglar.png
 type: being
 social:
   occupation: Lia-Kavair
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3322tok
+  portrait: fff3322
   templatePriority: 1
   gender: male
   species: human

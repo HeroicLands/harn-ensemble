@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Karyn of Fraul
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DbS5u4siD1ptZxWU
 packFolder: extrasguilded
 shortcode: karynoffraul
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Metalsmith
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10

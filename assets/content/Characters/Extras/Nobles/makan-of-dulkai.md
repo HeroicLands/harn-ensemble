@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Makan of Dulkai
   title: ""
@@ -9,7 +10,6 @@ name:
 id: n6mmZpE4NZFicuyr
 packFolder: extrasnobles
 shortcode: makanofdulkai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

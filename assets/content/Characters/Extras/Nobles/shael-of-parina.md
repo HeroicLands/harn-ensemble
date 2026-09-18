@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shael of Parina
   title: ""
@@ -9,7 +10,6 @@ name:
 id: fqXSweQBlCUjtTtR
 packFolder: extrasnobles
 shortcode: shaelofparina
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Medium Foot

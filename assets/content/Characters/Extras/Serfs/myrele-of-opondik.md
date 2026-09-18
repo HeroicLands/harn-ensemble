@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Myrele of Opondik
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jDdHrTJnGuolb5RA
 packFolder: extrasserfs
 shortcode: myreleofopondik
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Barit of Dyselphus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HyGZ1kpNirlCvuCk
 packFolder: extrasguilded
 shortcode: baritofdyselphus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary
@@ -105,13 +105,15 @@ hm3:
     - { shortcode: backbagmed, type: containergear }
     - name: Comb, ivory
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

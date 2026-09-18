@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kelen of Ubernin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: bJCzEUvA1BINDDZw
 packFolder: extrasguilded
 shortcode: kelenofubernin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hideworker
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: hidesheep, type: miscgear }
     - name: Textilcraft kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 5

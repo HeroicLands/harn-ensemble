@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Danishemlena of Kramel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ug8ktmIXMtPAH5Ge
 packFolder: extrasguilded
 shortcode: danishemlenaofkramel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Timberwright
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

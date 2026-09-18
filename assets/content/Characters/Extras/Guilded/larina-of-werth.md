@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Larina of Werth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: dWuzcRycocjaiNg4
 packFolder: extrasguilded
 shortcode: larinaofwerth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ondarn Khorild
   title: ""
@@ -9,9 +10,6 @@ name:
 id: UHhx7MSVKR5Zszng
 packFolder: fffguilded
 shortcode: ondarnkhorild
-img: images/fffv1/token/FFF_310-1_Harper.png
-portrait: images/fffv1/FFF_310-1_Harper.jpg
-tokenImg: images/fffv1/token/FFF_310-1_Harper.png
 type: being
 social:
   occupation: Harper
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3101tok
+  portrait: fff3101
   templatePriority: 1
   gender: male
   species: human

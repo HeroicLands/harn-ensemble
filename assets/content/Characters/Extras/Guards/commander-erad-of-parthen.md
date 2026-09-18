@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Commander Erad of Parthen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: lu8Wt40epajvr1lZ
 packFolder: extrasguards
 shortcode: commandereradofparthen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

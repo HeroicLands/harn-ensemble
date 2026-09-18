@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zuke of Hudusinda
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oFSLtxlijpRafg7G
 packFolder: extrasserfs
 shortcode: zukeofhudusinda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gen of Zenda
   title: ""
@@ -9,7 +10,6 @@ name:
 id: wItloPJMPSaZVlv5
 packFolder: extrasmages
 shortcode: genofzenda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Savorya****"

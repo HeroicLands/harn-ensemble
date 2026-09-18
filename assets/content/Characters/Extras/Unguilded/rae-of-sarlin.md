@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rae of Sarlin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8nGLwIJt89Kqiurx
 packFolder: extrasunguilded
 shortcode: raeofsarlin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

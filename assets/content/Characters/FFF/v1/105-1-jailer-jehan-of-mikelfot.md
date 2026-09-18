@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jehan of Mikelfot
   title: ""
@@ -9,9 +10,6 @@ name:
 id: AVNsB95rsRck3egC
 packFolder: fffmilitary
 shortcode: jehanofmikelfot
-img: images/fffv1/token/FFF_105-1_Jailer.png
-portrait: images/fffv1/FFF_105-1_Jailer.jpg
-tokenImg: images/fffv1/token/FFF_105-1_Jailer.png
 type: being
 social:
   occupation: Jailer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1051tok
+  portrait: fff1051
   templatePriority: 1
   gender: male
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Laserele of Hardras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sY1tirPHWSNyCkqI
 packFolder: extrasserfs
 shortcode: lasereleofhardras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Seelie of Kestel
   title: ""
@@ -9,9 +10,6 @@ name:
 id: VOy3LZUdyhYtFwqS
 packFolder: fffguilded
 shortcode: seelieofkestel
-img: images/fffv1/token/FFF_302-1_Apothecary.png
-portrait: images/fffv1/FFF_302-1_Apothecary.jpg
-tokenImg: images/fffv1/token/FFF_302-1_Apothecary.png
 type: being
 social:
   occupation: Apothecary
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3021tok
+  portrait: fff3021
   templatePriority: 1
   gender: female
   species: human
@@ -150,7 +150,8 @@ hm3:
     - { shortcode: vialglassm, type: miscgear, system: { quantity: 5 } }
     - name: Panier, medium
       type: containergear
-      img: systems/hm3/images/icons/svg/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         value: 8
         weight: 2

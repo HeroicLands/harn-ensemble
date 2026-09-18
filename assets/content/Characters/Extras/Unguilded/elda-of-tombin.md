@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Elda of Tombin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: da1GRkcJAL4R6Onx
 packFolder: extrasunguilded
 shortcode: eldaoftombin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mak of Theikak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Ef3xya3CCOmtK8z9
 packFolder: extrasunguilded
 shortcode: makoftheikak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Anklet, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.125

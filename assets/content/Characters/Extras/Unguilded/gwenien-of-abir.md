@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwenien of Abir
   title: ""
@@ -9,7 +10,6 @@ name:
 id: R1SgydlC9jQ3U0ZV
 packFolder: extrasunguilded
 shortcode: gwenienofabir
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Shortbow
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }

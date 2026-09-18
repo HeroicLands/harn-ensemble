@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Saryn of Drelin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: lw4DB4DZ84mi4jHT
 packFolder: extrasclergy
 shortcode: sarynofdrelin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

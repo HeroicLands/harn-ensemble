@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Thelren of Lere
   title: ""
@@ -9,7 +10,6 @@ name:
 id: smQzwW3olMyviJPb
 packFolder: extrasguards
 shortcode: thelrenoflere
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

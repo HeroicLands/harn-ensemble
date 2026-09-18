@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Maeghelime of Charion
   title: ""
@@ -9,7 +10,6 @@ name:
 id: e2Jou9sP2MkRZkUj
 packFolder: extrasclergy
 shortcode: maeghelimeofcharion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

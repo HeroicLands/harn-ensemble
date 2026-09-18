@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sai of Nalian
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jm0feL0pSF1wiArq
 packFolder: extrasunguilded
 shortcode: saiofnalian
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Light

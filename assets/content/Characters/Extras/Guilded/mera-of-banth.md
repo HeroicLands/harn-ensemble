@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mera of Banth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Tf52tUCpXcwPbuw1
 packFolder: extrasguilded
 shortcode: meraofbanth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Metalsmith

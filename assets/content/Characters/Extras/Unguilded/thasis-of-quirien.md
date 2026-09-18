@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Thasis of Quirien
   title: ""
@@ -9,7 +10,6 @@ name:
 id: cR1wpUlLY0sWTxh7
 packFolder: extrasunguilded
 shortcode: thasisofquirien
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Doshenkana, 10 doses
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 175
         weight: 1

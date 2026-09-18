@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Obrayzelared of Khonan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: uJNRExeT4n9aCw0C
 packFolder: extrasunguilded
 shortcode: obrayzelaredofkhonan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

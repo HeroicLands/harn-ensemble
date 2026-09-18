@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tula of Sethaleh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jJZ3sjLdPQ3nh8Q3
 packFolder: extrasunguilded
 shortcode: tulaofsethaleh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Longbow
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: LBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

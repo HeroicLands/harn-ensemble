@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Segina of Pasen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: s6abUy7T4yDGKrga
 packFolder: extrasguilded
 shortcode: seginaofpasen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Timberwright

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gral of Darinarad
   title: ""
@@ -9,7 +10,6 @@ name:
 id: iejIb0WG2UTPeug5
 packFolder: extrasunguilded
 shortcode: gralofdarinarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01

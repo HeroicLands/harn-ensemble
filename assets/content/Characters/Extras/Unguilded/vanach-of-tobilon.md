@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Vanach of Tobilon
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RDjfythp8dALsWXQ
 packFolder: extrasunguilded
 shortcode: vanachoftobilon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sage/Tutor
@@ -107,20 +107,23 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03
     - { shortcode: spoonwooden, type: miscgear }
     - name: Textbook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 3
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

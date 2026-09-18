@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Digger
   title: ""
@@ -9,9 +10,6 @@ name:
 id: UChsLQBJKBQG7CpD
 packFolder: fffunguilded
 shortcode: digger
-img: images/fffv1/token/FFF_423-1_Urban_Poor.png
-portrait: images/fffv1/FFF_423-1_Urban_Poor.jpg
-tokenImg: images/fffv1/token/FFF_423-1_Urban_Poor.png
 type: being
 social:
   occupation: Day labourer
@@ -24,6 +22,8 @@ harnworld:
     - peoni
     - larani
 data:
+  icon: fff4231tok
+  portrait: fff4231
   templatePriority: 1
   gender: male
   species: human

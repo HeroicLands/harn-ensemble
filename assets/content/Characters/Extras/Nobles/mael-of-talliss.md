@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mael of Talliss
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 5VSO0AcyQ4Hp7CeD
 packFolder: extrasnobles
 shortcode: maeloftalliss
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician

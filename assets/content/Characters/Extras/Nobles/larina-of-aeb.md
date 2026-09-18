@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Larina of Aeb
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Q3p6Um8QBuo4jzGh
 packFolder: extrasnobles
 shortcode: larinaofaeb
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

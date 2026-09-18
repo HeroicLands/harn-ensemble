@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lorid of Ashelya
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DGghxUr2nx6Mwk5I
 packFolder: extrasclergy
 shortcode: loridofashelya
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cellen of Arnagarananc
   title: ""
@@ -9,7 +10,6 @@ name:
 id: hjVRbxgeHtxB7z6L
 packFolder: extrasnobles
 shortcode: cellenofarnagarananc
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight
@@ -117,7 +117,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

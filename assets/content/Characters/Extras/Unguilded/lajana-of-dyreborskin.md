@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lajana of Dyreborskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: T1jF4kLEepMWxTw5
 packFolder: extrasunguilded
 shortcode: lajanaofdyreborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: inkwellgla, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

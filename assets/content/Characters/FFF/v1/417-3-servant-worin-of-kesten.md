@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Worin of Kesten
   title: ""
@@ -9,9 +10,6 @@ name:
 id: vLZajD1ySS1AoUHR
 packFolder: fffunguilded
 shortcode: worinofkesten
-img: images/fffv1/token/FFF_417-3_Servant.png
-portrait: images/fffv1/FFF_417-3_Servant.jpg
-tokenImg: images/fffv1/token/FFF_417-3_Servant.png
 type: being
 social:
   occupation: Servant
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4173tok
+  portrait: fff4173
   templatePriority: 1
   gender: male
   species: human

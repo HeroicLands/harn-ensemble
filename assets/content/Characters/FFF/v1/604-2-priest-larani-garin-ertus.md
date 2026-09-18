@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Garin Ertus
   title: ""
@@ -9,9 +10,6 @@ name:
 id: lotJIbkkci8IzCN8
 packFolder: fffclergy
 shortcode: garinertus
-img: images/fffv1/token/FFF_604-2_Priest_Larani.png
-portrait: images/fffv1/FFF_604-2_Priest_Larani.jpg
-tokenImg: images/fffv1/token/FFF_604-2_Priest_Larani.png
 type: being
 social:
   occupation: Laranian Priest
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff6042tok
+  portrait: fff6042
   templatePriority: 1
   gender: male
   species: human
@@ -156,7 +156,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Holy Symbol, silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         value: 32
         weight: 0.1

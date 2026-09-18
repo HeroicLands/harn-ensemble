@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Haffyth of Marby
   title: ""
@@ -9,7 +10,6 @@ name:
 id: hGpTbXjzVlukChhj
 packFolder: extrasunguilded
 shortcode: haffythofmarby
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Farmer

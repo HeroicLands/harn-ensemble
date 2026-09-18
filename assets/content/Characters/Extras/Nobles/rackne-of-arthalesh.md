@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Rackne of Arthalesh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vvIY5CPe7oPoGezx
 packFolder: extrasnobles
 shortcode: rackneofarthalesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff
@@ -120,7 +120,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

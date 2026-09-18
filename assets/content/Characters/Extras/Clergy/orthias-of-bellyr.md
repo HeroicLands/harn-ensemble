@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Orthias of Bellyr
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ghzFGm9g5oX6TcFk
 packFolder: extrasclergy
 shortcode: orthiasofbellyr
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

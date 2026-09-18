@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Karyse of Alwen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: z890aoDNMpGy53y5
 packFolder: extrasserfs
 shortcode: karyseofalwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

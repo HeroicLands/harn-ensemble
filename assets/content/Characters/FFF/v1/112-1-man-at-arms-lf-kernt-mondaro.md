@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kernt Mondaro
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 2OLRDJqmkgcdo5wJ
 packFolder: fffmilitary
 shortcode: kerntmondaro
-img: images/fffv1/token/FFF_112-1_Man_at_Arms_LF.png
-portrait: images/fffv1/FFF_112-1_Man_at_Arms_LF.jpg
-tokenImg: images/fffv1/token/FFF_112-1_Man_at_Arms_LF.png
 type: being
 social:
   occupation: Man-at-Arms (LF)
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff1121tok
+  portrait: fff1121
   templatePriority: 1
   gender: male
   species: human

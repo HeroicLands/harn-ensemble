@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jehan of Asain
   title: ""
@@ -9,7 +10,6 @@ name:
 id: P6spKWydDdXS0ODs
 packFolder: extrasclergy
 shortcode: jehanofasain
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

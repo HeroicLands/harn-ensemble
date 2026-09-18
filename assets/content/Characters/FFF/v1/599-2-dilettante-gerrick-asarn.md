@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gerrick Asarn
   title: ""
@@ -9,9 +10,6 @@ name:
 id: zRHCVBVaIN8CG7Z6
 packFolder: fffnobles
 shortcode: gerrickasarn
-img: images/fffv1/token/FFF_599-2_Dilettante.png
-portrait: images/fffv1/FFF_599-2_Dilettante.jpg
-tokenImg: images/fffv1/token/FFF_599-2_Dilettante.png
 type: being
 social:
   occupation: Patrician
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff5992tok
+  portrait: fff5992
   templatePriority: 1
   gender: male
   species: human

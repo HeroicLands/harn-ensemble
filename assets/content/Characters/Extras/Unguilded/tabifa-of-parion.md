@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tabifa of Parion
   title: ""
@@ -9,7 +10,6 @@ name:
 id: S9GOt6EWwLKCIhzM
 packFolder: extrasunguilded
 shortcode: tabifaofparion
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

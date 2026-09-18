@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tamyth of Laplaemen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: oH7I2eUVl1WCh5oh
 packFolder: extrasunguilded
 shortcode: tamythoflaplaemen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Militia

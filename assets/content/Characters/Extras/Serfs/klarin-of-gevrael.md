@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Klarin of Gevrael
   title: ""
@@ -9,7 +10,6 @@ name:
 id: iba1YIkon5VjNRvz
 packFolder: extrasserfs
 shortcode: klarinofgevrael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Gladiator
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

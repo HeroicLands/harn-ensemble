@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sta of Chatil
   title: ""
@@ -9,7 +10,6 @@ name:
 id: dlTElfsXUrtWi91a
 packFolder: extrasclergy
 shortcode: staofchatil
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

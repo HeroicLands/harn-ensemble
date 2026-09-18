@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Graga of Talliss
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ti7bQPT9mey2cEvS
 packFolder: extrasguilded
 shortcode: gragaoftalliss
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Clothier

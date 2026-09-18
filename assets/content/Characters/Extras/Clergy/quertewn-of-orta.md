@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Quertewn of Orta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HWHvhlmItgpycvxv
 packFolder: extrasclergy
 shortcode: quertewnoforta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

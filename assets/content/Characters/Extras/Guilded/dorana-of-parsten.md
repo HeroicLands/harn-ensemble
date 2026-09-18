@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dorana of Parsten
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 2qzRQI3N35cEFeiC
 packFolder: extrasguilded
 shortcode: doranaofparsten
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Glassworker

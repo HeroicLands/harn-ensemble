@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dorane of Ardrass
   title: ""
@@ -9,7 +10,6 @@ name:
 id: vaYqCKP87vICQ5MI
 packFolder: extrasclergy
 shortcode: doraneofardrass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

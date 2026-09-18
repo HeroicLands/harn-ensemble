@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bae of Kephis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: RoovwrAL0otsyeKC
 packFolder: extrasguilded
 shortcode: baeofkephis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper

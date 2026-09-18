@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Charigal of Rythin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: KocIaIldItE4bUKX
 packFolder: extrasclergy
 shortcode: charigalofrythin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani
@@ -136,13 +136,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Broach, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.03
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

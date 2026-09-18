@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yelicia of Varsin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Z4iBxrNmZbnDb4nE
 packFolder: extrasunguilded
 shortcode: yeliciaofvarsin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

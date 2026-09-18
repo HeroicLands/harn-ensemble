@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Urlin of Sarl
   title: ""
@@ -9,7 +10,6 @@ name:
 id: j2fIxqZKzU7vQaYN
 packFolder: extrasguards
 shortcode: urlinofsarl
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Light

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Captain Shotro of Guinda
   title: Captain
@@ -9,7 +10,6 @@ name:
 id: t2gUt5qsF9PTaUbQ
 packFolder: extrasguards
 shortcode: captainshotroofguinda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Guardsman, Heavy

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Saryn of Armel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XZ0v0U0aae5EvpnY
 packFolder: extrasunguilded
 shortcode: sarynofarmel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Longbow
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: LBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Edir of Pyth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YaWwL7exH5VRybGk
 packFolder: extrasguilded
 shortcode: edirofpyth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mason
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Mason's kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 36
         weight: 15

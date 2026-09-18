@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Boser of Tulkai
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DOyV3EQd9EWV4TfM
 packFolder: extrasguilded
 shortcode: boseroftulkai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Apothecary

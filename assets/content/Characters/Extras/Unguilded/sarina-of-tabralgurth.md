@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sarina of Tabralgurth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ARmSTfV025bd0sPZ
 packFolder: extrasunguilded
 shortcode: sarinaoftabralgurth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

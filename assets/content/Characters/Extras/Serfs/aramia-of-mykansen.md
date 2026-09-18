@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aramia of Mykansen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: x4yvG6N33reexm0E
 packFolder: extrasserfs
 shortcode: aramiaofmykansen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

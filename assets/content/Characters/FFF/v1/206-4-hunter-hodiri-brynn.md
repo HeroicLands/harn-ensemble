@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Brynn
   title: ""
@@ -9,9 +10,6 @@ name:
 id: xXKM2CAPcBrSpgks
 packFolder: fffbarbarians
 shortcode: brynn
-img: images/fffv1/token/FFF_206-4_Hunter_Hodiri.png
-portrait: images/fffv1/FFF_206-4_Hunter_Hodiri.jpg
-tokenImg: images/fffv1/token/FFF_206-4_Hunter_Hodiri.png
 type: being
 social:
   occupation: Hunter
@@ -22,6 +20,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff2064tok
+  portrait: fff2064
   templatePriority: 1
   gender: male
   species: human

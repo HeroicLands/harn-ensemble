@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Taran the Lame
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 8acm9Zl7OcmNQ4d6
 packFolder: fffbarbarians
 shortcode: taranthelame
-img: images/fffv1/token/FFF_206-1_Hunter_Ymodi.png
-portrait: images/fffv1/FFF_206-1_Hunter_Ymodi.jpg
-tokenImg: images/fffv1/token/FFF_206-1_Hunter_Ymodi.png
 type: being
 social:
   occupation: Hunter
@@ -24,6 +22,8 @@ harnworld:
     - "custom|Ymodi"
     - sarajin
 data:
+  icon: fff2061tok
+  portrait: fff2061
   templatePriority: 1
   gender: male
   species: human
@@ -119,7 +119,8 @@ hm3:
           value: 15
     - name: Ymodi
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 14

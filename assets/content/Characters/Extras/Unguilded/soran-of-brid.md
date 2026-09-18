@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Soran of Brid
   title: ""
@@ -9,7 +10,6 @@ name:
 id: MGq6a9AV72fEh2Hm
 packFolder: extrasunguilded
 shortcode: soranofbrid
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Shortbow
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }

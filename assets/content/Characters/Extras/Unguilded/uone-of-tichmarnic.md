@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Uone of Tichmarnic
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8REdubUXTs9MzPEp
 packFolder: extrasunguilded
 shortcode: uoneoftichmarnic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Yeoman, Longbow
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: LBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Borana of Armel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: fpZ0l6ABm15FdFck
 packFolder: extrasclergy
 shortcode: boranaofarmel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

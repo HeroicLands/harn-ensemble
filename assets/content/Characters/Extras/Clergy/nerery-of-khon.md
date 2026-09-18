@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Nerery of Khon
   title: ""
@@ -9,7 +10,6 @@ name:
 id: A8JcwZ73LjNuo4Zr
 packFolder: extrasclergy
 shortcode: nereryofkhon
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

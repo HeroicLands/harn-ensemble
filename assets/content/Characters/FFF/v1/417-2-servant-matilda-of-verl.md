@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Matilda of Verl
   title: ""
@@ -9,9 +10,6 @@ name:
 id: PGB2gBNjPVucIFKf
 packFolder: fffunguilded
 shortcode: matildaofverl
-img: images/fffv1/token/FFF_417-2_Servant.png
-portrait: images/fffv1/FFF_417-2_Servant.jpg
-tokenImg: images/fffv1/token/FFF_417-2_Servant.png
 type: being
 social:
   occupation: Household Cook
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4172tok
+  portrait: fff4172
   templatePriority: 1
   gender: female
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Raeda of Jurbosq
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EiCHMmXOe8FVvllO
 packFolder: extrasserfs
 shortcode: raedaofjurbosq
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman

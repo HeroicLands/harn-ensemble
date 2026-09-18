@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Agar of Caramdirphen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: IaQj6Ut2wVhZmNl7
 packFolder: extrasnobles
 shortcode: agarofcaramdirphen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: LKni, type: weapongear }
     - name: Divining Aid
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

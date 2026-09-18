@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shotro of Iesh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GZj7M7JXN6ZSeU0h
 packFolder: extrasguilded
 shortcode: shotroofiesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Tentmaker
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Broach, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.03

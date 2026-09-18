@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yaelinelle of Balin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TS8LS4pPsNteXkhG
 packFolder: extrasclergy
 shortcode: yaelinelleofbalin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

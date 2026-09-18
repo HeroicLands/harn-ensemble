@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jarn of Bulbakar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ymmT6lj89BQ9Pmna
 packFolder: extrasunguilded
 shortcode: jarnofbulbakar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Khuzdul Clansman

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Masyne of Wenal
   title: ""
@@ -9,7 +10,6 @@ name:
 id: a6aZnWh70L5NaXe8
 packFolder: extrasclergy
 shortcode: masyneofwenal
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jaslyne of Wyth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: abdUt9aQxQitkP4W
 packFolder: extrasguilded
 shortcode: jaslyneofwyth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Litigant

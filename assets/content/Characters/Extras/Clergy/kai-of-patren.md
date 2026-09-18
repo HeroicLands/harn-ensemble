@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kai of Patren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: eJm7BjF4PbZzwNyo
 packFolder: extrasclergy
 shortcode: kaiofpatren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

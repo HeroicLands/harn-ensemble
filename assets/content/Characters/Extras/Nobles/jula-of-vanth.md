@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jula of Vanth
   title: ""
@@ -9,7 +10,6 @@ name:
 id: LdJk7Sx59VR9xPQ2
 packFolder: extrasnobles
 shortcode: julaofvanth
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

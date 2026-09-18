@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Karyse of Ver
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 7HBlCtfbiIkbOkrk
 packFolder: extrasclergy
 shortcode: karyseofver
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

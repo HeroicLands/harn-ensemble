@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jarn of Dyselsenasta
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pjRq6pdegvUTCtJF
 packFolder: extrasunguilded
 shortcode: jarnofdyselsenasta
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cook/Servant

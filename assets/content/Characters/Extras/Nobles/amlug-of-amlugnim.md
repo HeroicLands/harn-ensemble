@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Amlug of Amlugnim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: L7ayRuxUNz7tdW9A
 packFolder: extrasnobles
 shortcode: amlugofamlugnim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sindarin Knight

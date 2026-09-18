@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Shemlena of Sunis
   title: ""
@@ -9,7 +10,6 @@ name:
 id: lMLAZy7c8fD3zvD9
 packFolder: extrasclergy
 shortcode: shemlenaofsunis
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea
@@ -133,7 +133,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

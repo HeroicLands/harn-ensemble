@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Houla of Coselphus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: i2gSoz06gUaAcUuj
 packFolder: extrasunguilded
 shortcode: houlaofcoselphus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hunter/Trapper

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Peri the Lame
   title: ""
@@ -9,9 +10,6 @@ name:
 id: 28qhtq2eCMTuP70o
 packFolder: fffguilded
 shortcode: perithelame
-img: images/fffv1/token/FFF_335-1_Woodcrafter.png
-portrait: images/fffv1/FFF_335-1_Woodcrafter.jpg
-tokenImg: images/fffv1/token/FFF_335-1_Woodcrafter.png
 type: being
 social:
   occupation: Woodcrafter
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3351tok
+  portrait: fff3351
   templatePriority: 1
   gender: male
   species: human

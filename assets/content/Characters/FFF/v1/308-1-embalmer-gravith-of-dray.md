@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gravith of Dray
   title: ""
@@ -9,9 +10,6 @@ name:
 id: rNdQ4oqbCEsEL6p0
 packFolder: fffguilded
 shortcode: gravithofdray
-img: images/fffv1/token/FFF_308-1_Embalmer.png
-portrait: images/fffv1/FFF_308-1_Embalmer.jpg
-tokenImg: images/fffv1/token/FFF_308-1_Embalmer.png
 type: being
 social:
   occupation: Embalmer
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3081tok
+  portrait: fff3081
   templatePriority: 1
   gender: male
   species: human

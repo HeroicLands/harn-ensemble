@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kistyne of Narasane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DHyQJQf2mBl1lYHf
 packFolder: extrasguilded
 shortcode: kistyneofnarasane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thief
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Lockpick kit
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 1

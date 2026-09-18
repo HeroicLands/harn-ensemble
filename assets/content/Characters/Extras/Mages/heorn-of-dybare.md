@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Heorn of Dybare
   title: ""
@@ -9,7 +10,6 @@ name:
 id: lHRYHtAkgBhmIFzB
 packFolder: extrasmages
 shortcode: heornofdybare
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Peleahn***"

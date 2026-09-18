@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Mysiline of Melvoen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: hds2EJMTT8kd0mJi
 packFolder: extrasguilded
 shortcode: mysilineofmelvoen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Shylir of Ibine for 79d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: flutewoode, type: miscgear }

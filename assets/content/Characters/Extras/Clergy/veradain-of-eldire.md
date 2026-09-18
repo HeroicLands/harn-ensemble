@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Veradain of Eldire
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TI8zb00ne2q4UOr7
 packFolder: extrasclergy
 shortcode: veradainofeldire
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani
@@ -128,7 +128,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.25

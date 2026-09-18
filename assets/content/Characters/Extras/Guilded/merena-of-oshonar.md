@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Merena of Oshonar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: boBuKBVPjyVeLz4J
 packFolder: extrasguilded
 shortcode: merenaofoshonar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Timberwright
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Saw, hack
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 10
         weight: 2

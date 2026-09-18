@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Urikarn of Penda
   title: ""
@@ -9,7 +10,6 @@ name:
 id: HxdkilWP3FXBY6e3
 packFolder: extrasnobles
 shortcode: urikarnofpenda
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chieftan
@@ -112,14 +112,16 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - name: Broach, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.03
     - { shortcode: cookingkitportable, type: miscgear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01

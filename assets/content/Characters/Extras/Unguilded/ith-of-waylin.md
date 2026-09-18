@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Ith of Waylin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: D6zKkp3dJtcuuVf0
 packFolder: extrasunguilded
 shortcode: ithofwaylin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Animal Trainer
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.25
@@ -113,7 +114,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

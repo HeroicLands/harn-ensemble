@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gor of Armelerdy
   title: ""
@@ -9,7 +10,6 @@ name:
 id: jslXJk5nmcnM8tyv
 packFolder: extrasguilded
 shortcode: gorofarmelerdy
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer

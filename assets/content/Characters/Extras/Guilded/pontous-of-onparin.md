@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pontous of Onparin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: VjuHZQdbHpaofFMz
 packFolder: extrasguilded
 shortcode: pontousofonparin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Alchemist
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Scale/balance
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 72
         weight: 5

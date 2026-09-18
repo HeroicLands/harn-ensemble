@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Serelen of Merak
   title: ""
@@ -9,7 +10,6 @@ name:
 id: zGqh9F373KsLDA8J
 packFolder: extrasguilded
 shortcode: serelenofmerak
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Potter

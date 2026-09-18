@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sir Letos Lamrend
   title: Sir
@@ -9,9 +10,6 @@ name:
 id: bAMzqD5qntz3i3Em
 packFolder: fffnobles
 shortcode: sirletoslamrend
-img: images/fffv1/token/FFF_508-1_Knight_Patrician_HH.png
-portrait: images/fffv1/FFF_508-1_Knight_Patrician_HH.jpg
-tokenImg: images/fffv1/token/FFF_508-1_Knight_Patrician_HH.png
 type: being
 social:
   occupation: Patrician Knight
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff5081tok
+  portrait: fff5081
   templatePriority: 1
   gender: male
   species: human

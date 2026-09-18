@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Zabian of Lund
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4eGgTwqnMQ5zd1q2
 packFolder: extrasnobles
 shortcode: zabianoflund
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Baliff

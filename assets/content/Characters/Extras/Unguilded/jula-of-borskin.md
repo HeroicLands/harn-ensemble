@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jula of Borskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pG534kKJa93Jga8k
 packFolder: extrasunguilded
 shortcode: julaofborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Hunter/Trapper

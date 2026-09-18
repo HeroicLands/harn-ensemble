@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bryle of Sedirin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: fREx2tYjGtFlF6kg
 packFolder: extrasclergy
 shortcode: bryleofsedirin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

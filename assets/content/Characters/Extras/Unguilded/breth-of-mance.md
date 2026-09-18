@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Breth of Mance
   title: ""
@@ -9,7 +10,6 @@ name:
 id: POKeKVo1fJj54Zsv
 packFolder: extrasunguilded
 shortcode: brethofmance
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Wineskin, small, leather
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
   system:

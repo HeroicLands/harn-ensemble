@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lycia of Taldim
   title: ""
@@ -9,7 +10,6 @@ name:
 id: SV40Od6msozRfO4N
 packFolder: extrasunguilded
 shortcode: lyciaoftaldim
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Farmer
@@ -105,7 +105,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Axe, wood handle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 3
@@ -114,7 +115,8 @@ hm3:
     - { shortcode: Pfrk, type: weapongear }
     - name: Saw, hack
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 10
         weight: 2

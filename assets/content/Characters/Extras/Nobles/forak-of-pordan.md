@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Forak of Pordan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: l9CWWkHN58jFT9QU
 packFolder: extrasnobles
 shortcode: forakofpordan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Patrician
@@ -115,7 +115,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

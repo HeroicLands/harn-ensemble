@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Anlaela of Iaras
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AUFJjrhn6EdI7uuz
 packFolder: extrasclergy
 shortcode: anlaelaofiaras
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Siem
@@ -136,7 +136,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Sli-Hordrh
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

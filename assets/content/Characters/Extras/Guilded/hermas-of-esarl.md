@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Hermas of Esarl
   title: ""
@@ -9,7 +10,6 @@ name:
 id: YxdyY4RTfLYzUWqO
 packFolder: extrasguilded
 shortcode: hermasofesarl
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shipwright
@@ -109,7 +109,8 @@ hm3:
     - { shortcode: carpentrykitportable, type: miscgear }
     - name: "Debt to Money Lender: Graldin of Gorra for 534d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

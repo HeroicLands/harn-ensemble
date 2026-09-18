@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Aramia of Sar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: DPV5L5ZtW8SyydZ8
 packFolder: extrasnobles
 shortcode: aramiaofsar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

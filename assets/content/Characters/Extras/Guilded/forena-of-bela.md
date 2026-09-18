@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Forena of Bela
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 821MYeuijvWiOcHK
 packFolder: extrasguilded
 shortcode: forenaofbela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Tentmaker

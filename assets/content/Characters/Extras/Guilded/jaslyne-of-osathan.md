@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jaslyne of Osathan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: iG9FeW7c6M2xRyXv
 packFolder: extrasguilded
 shortcode: jaslyneofosathan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

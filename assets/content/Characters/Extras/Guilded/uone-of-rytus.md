@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Uone of Rytus
   title: ""
@@ -9,7 +10,6 @@ name:
 id: GGomYuBY0ZfOQqLu
 packFolder: extrasguilded
 shortcode: uoneofrytus
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Woodcrafter

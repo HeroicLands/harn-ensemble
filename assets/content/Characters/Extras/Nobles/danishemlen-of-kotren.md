@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Danishemlen of Kotren
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Di7KE2nh9F7tvBYb
 packFolder: extrasnobles
 shortcode: danishemlenofkotren
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Viking Huscarl, Light Horse

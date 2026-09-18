@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Uviene of Ardine
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Nt8f9Xva3m4uJP9m
 packFolder: extrasguilded
 shortcode: uvieneofardine
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Chandler

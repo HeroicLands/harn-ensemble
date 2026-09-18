@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Bresyne of Merlesh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XxSbD3MMRGKnqTXi
 packFolder: extrasunguilded
 shortcode: bresyneofmerlesh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Shaman
@@ -102,7 +102,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 48 } }
     - name: Tribal
       type: skill
-      img: systems/hm3/images/icons/svg/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 13
@@ -122,7 +123,8 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Habin of Armelvoen for 238d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

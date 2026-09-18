@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cheselyne of Elwen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TFG3PGAAgKdjG9Ta
 packFolder: extrasguilded
 shortcode: cheselyneofelwen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer

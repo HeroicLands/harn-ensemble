@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Maccus of Tixena
   title: ""
@@ -9,9 +10,6 @@ name:
 id: cNLfCZnFAc0oKHjd
 packFolder: fffmages
 shortcode: maccusoftixena
-img: images/fffv1/token/FFF_703-1_Shek_Pvar_Jmorvi.png
-portrait: images/fffv1/FFF_703-1_Shek_Pvar_Jmorvi.jpg
-tokenImg: images/fffv1/token/FFF_703-1_Shek_Pvar_Jmorvi.png
 type: being
 social:
   occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)
@@ -24,6 +22,8 @@ harnworld:
     - peoni
     - saveknor
 data:
+  icon: fff7031tok
+  portrait: fff7031
   templatePriority: 1
   gender: male
   species: human
@@ -177,13 +177,15 @@ hm3:
     - { shortcode: sightofeneldir, type: spell }
     - name: Perfect Casting (unique spell)
       type: spell
-      img: systems/hm3/images/icons/svg/anvil.svg
+      data:
+        icon: sohl-none-icon-anvil
       system:
         convocation: Jmorvi
         level: 2
     - name: Purification of Silver (unique spell)
       type: spell
-      img: systems/hm3/images/icons/svg/anvil.svg
+      data:
+        icon: sohl-none-icon-anvil
       system:
         convocation: Jmorvi
         level: 3

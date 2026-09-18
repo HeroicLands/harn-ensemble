@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Milniq of Ordas
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TwEovUNyRWoQ87vA
 packFolder: extrasunguilded
 shortcode: milniqofordas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Medium

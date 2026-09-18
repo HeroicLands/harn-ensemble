@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Drigal of Khonan
   title: ""
@@ -9,7 +10,6 @@ name:
 id: E3LbZbiKpQXhQ1o0
 packFolder: extrasunguilded
 shortcode: drigalofkhonan
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ratter

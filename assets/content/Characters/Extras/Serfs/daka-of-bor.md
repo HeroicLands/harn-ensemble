@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Daka of Bor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AanuATq6CGNq4LVA
 packFolder: extrasserfs
 shortcode: dakaofbor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

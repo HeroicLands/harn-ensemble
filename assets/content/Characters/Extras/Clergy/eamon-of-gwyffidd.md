@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Eamon of Gwyffidd
   title: ""
@@ -9,7 +10,6 @@ name:
 id: EbULUgSqrh8W8c7X
 packFolder: extrasclergy
 shortcode: eamonofgwyffidd
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Larani

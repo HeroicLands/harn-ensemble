@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pallisa of Kass
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 4oqbYsKhLScsevuA
 packFolder: extrasguilded
 shortcode: pallisaofkass
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

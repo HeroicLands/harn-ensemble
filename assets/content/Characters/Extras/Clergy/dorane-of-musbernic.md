@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dorane of Musbernic
   title: ""
@@ -9,7 +10,6 @@ name:
 id: pVSEBHjNiIgihUlN
 packFolder: extrasclergy
 shortcode: doraneofmusbernic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Halea

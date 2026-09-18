@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Belsin of Kai
   title: ""
@@ -9,7 +10,6 @@ name:
 id: hGC4zFm9mzzxEsbt
 packFolder: extrasunguilded
 shortcode: belsinofkai
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Beggar

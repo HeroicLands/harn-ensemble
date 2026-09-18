@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Chend of Mar
   title: ""
@@ -9,7 +10,6 @@ name:
 id: gJKpIklWwjD42ep2
 packFolder: extrasserfs
 shortcode: chendofmar
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Herdsman
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Arabithasis of Then for 56d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

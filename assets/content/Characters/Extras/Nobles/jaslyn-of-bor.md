@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jaslyn of Bor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: z5WMjZOu5IglAg9W
 packFolder: extrasnobles
 shortcode: jaslynofbor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Heavy

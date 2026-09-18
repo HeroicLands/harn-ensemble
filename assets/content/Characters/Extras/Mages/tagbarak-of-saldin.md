@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tagbarak of Saldin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: Z7jkv3fvceHx8Ubl
 packFolder: extrasmages
 shortcode: tagbarakofsaldin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: "Shek-Pvar/Peleahn****"
@@ -126,7 +126,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Alchemical Recipe book
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 5
@@ -135,7 +136,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

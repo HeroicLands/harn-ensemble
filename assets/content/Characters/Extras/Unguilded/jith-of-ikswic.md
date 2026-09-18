@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jith of Ikswic
   title: ""
@@ -9,7 +10,6 @@ name:
 id: yPuwqFQCCzkKRX7T
 packFolder: extrasunguilded
 shortcode: jithofikswic
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Light

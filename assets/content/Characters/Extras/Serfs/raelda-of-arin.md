@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Raelda of Arin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: h86ZmZxeLfMdictv
 packFolder: extrasserfs
 shortcode: raeldaofarin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Servant

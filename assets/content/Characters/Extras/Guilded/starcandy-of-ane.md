@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Starcandy of Ane
   title: ""
@@ -9,7 +10,6 @@ name:
 id: wHFVqcYTj1ZDqMuj
 packFolder: extrasguilded
 shortcode: starcandyofane
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -108,7 +108,8 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Keric of Ubela for 162d"
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: lute, type: miscgear }
@@ -116,7 +117,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Tabol
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 2

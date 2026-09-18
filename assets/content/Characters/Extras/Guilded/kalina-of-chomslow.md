@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kalina of Chomslow
   title: ""
@@ -9,7 +10,6 @@ name:
 id: AFZau78XCMEAqfqN
 packFolder: extrasguilded
 shortcode: kalinaofchomslow
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Ostler

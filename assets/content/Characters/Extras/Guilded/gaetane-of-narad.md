@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gaetane of Narad
   title: ""
@@ -9,7 +10,6 @@ name:
 id: i483ELK64UdhC0hZ
 packFolder: extrasguilded
 shortcode: gaetaneofnarad
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Mercantyler

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Tomus of Avorde
   title: ""
@@ -9,7 +10,6 @@ name:
 id: IKKhHqpLSymGYJSY
 packFolder: extrasclergy
 shortcode: tomusofavorde
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Naveh

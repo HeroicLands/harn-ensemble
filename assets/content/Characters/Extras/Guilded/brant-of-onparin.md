@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Brant of Onparin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: TcTxCHk0FIWmIdM9
 packFolder: extrasguilded
 shortcode: brantofonparin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Salter

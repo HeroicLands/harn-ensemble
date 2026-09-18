@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Solinela of Chorlym
   title: ""
@@ -9,7 +10,6 @@ name:
 id: yi8a0Fhr6r1wLshv
 packFolder: extrasnobles
 shortcode: solinelaofchorlym
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Feudal Knight, Medium

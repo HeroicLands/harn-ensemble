@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Andel Gebar
   title: ""
@@ -9,9 +10,6 @@ name:
 id: xHdUwDJj30SyHfyL
 packFolder: fffnobles
 shortcode: andelgebar
-img: images/fffv1/token/FFF_510-1_Royal_Government.png
-portrait: images/fffv1/FFF_510-1_Royal_Government.jpg
-tokenImg: images/fffv1/token/FFF_510-1_Royal_Government.png
 type: being
 social:
   occupation: Exchequer Clerk
@@ -24,6 +22,8 @@ harnworld:
     - halea
     - saveknor
 data:
+  icon: fff5101tok
+  portrait: fff5101
   templatePriority: 1
   gender: male
   species: human

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Haradah of Borskin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: KRjJ5QU5YUBjIzIM
 packFolder: extrasunguilded
 shortcode: haradahofborskin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Scribe
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

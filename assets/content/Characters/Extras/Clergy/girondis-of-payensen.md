@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Girondis of Payensen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: rwjD02o0eDuSFRep
 packFolder: extrasclergy
 shortcode: girondisofpayensen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Morgath

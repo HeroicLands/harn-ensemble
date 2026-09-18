@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lusiline of Kotrelin
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ekafYMhXpRllm9pn
 packFolder: extrasunguilded
 shortcode: lusilineofkotrelin
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Toymaker

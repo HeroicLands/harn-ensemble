@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Val of Grath
   title: ""
@@ -9,7 +10,6 @@ name:
 id: fY1Ose92rTPdkPVI
 packFolder: extrasguilded
 shortcode: valofgrath
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Seaman
@@ -114,7 +114,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Leggins, waxed canvas
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tankardwooden, type: miscgear }

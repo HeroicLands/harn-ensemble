@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Yelisa of Placka
   title: ""
@@ -9,7 +10,6 @@ name:
 id: fH7OoXNscmZ0BMSX
 packFolder: extrasguilded
 shortcode: yelisaofplacka
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Pilot
@@ -114,14 +114,16 @@ hm3:
     - { shortcode: SlsCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

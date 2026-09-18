@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Quertena of Veriel
   title: ""
@@ -9,7 +10,6 @@ name:
 id: SKVsDL49yKz1TnAK
 packFolder: extrasunguilded
 shortcode: quertenaofveriel
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Thatcher
@@ -106,7 +106,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ladder, 20'
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 15
         weight: 30

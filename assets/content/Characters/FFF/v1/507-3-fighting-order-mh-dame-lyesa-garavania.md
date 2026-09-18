@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Dame Lyesa Garavania
   title: Dame
@@ -9,9 +10,6 @@ name:
 id: OypR6vo7Y9D5crQ7
 packFolder: fffnobles
 shortcode: damelyesagaravania
-img: images/fffv1/token/FFF_507-3_Fighting_Order_MH.png
-portrait: images/fffv1/FFF_507-3_Fighting_Order_MH.jpg
-tokenImg: images/fffv1/token/FFF_507-3_Fighting_Order_MH.png
 type: being
 social:
   occupation: Knight
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - agrik
 data:
+  icon: fff5073tok
+  portrait: fff5073
   templatePriority: 1
   gender: female
   species: human

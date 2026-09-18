@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Oren of Kestel
   title: ""
@@ -9,9 +10,6 @@ name:
 id: RWymnuimvX4tvFSL
 packFolder: fffnobles
 shortcode: orenofkestel
-img: images/fffv1/token/FFF_503-1_Page.png
-portrait: images/fffv1/FFF_503-1_Page.jpg
-tokenImg: images/fffv1/token/FFF_503-1_Page.png
 type: being
 social:
   occupation: Page
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5031tok
+  portrait: fff5031
   templatePriority: 1
   gender: male
   species: human

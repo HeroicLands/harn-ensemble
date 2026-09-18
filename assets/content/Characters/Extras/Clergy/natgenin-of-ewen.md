@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Natgenin of Ewen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: qCLU55Hqlhb2yXus
 packFolder: extrasclergy
 shortcode: natgeninofewen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

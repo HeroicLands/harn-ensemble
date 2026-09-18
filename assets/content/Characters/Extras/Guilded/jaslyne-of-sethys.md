@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Jaslyne of Sethys
   title: ""
@@ -9,7 +10,6 @@ name:
 id: XnUyV36g1kiFcHGy
 packFolder: extrasguilded
 shortcode: jaslyneofsethys
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Perfumer
@@ -104,7 +104,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Bone/Horn
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01
@@ -112,7 +113,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Perfume, oz, bottle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 11
         weight: 0.25

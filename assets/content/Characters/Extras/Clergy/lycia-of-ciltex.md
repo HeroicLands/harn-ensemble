@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lycia of Ciltex
   title: ""
@@ -9,7 +10,6 @@ name:
 id: BqyHw1xZPAfsYTZ7
 packFolder: extrasclergy
 shortcode: lyciaofciltex
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Sarajin

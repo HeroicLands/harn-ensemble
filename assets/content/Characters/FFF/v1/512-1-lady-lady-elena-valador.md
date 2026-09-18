@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lady Elena Valador
   title: Lady
@@ -9,9 +10,6 @@ name:
 id: BlophomZelxk7f6x
 packFolder: fffnobles
 shortcode: ladyelenavalador
-img: images/fffv1/token/FFF_512-1_Lady.png
-portrait: images/fffv1/FFF_512-1_Lady.jpg
-tokenImg: images/fffv1/token/FFF_512-1_Lady.png
 type: being
 social:
   occupation: Chatelaine
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5121tok
+  portrait: fff5121
   templatePriority: 1
   gender: female
   species: human
@@ -160,7 +160,8 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - name: Silk scarf
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 124 } }

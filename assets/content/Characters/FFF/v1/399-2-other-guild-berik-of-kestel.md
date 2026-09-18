@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Berik of Kestel
   title: ""
@@ -9,9 +10,6 @@ name:
 id: tdj4wiuYXKyinfOG
 packFolder: fffguilded
 shortcode: berikofkestel
-img: images/fffv1/token/FFF_399-2_Other_Guild.png
-portrait: images/fffv1/FFF_399-2_Other_Guild.jpg
-tokenImg: images/fffv1/token/FFF_399-2_Other_Guild.png
 type: being
 social:
   occupation: Other (Guild) - Child
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff3992tok
+  portrait: fff3992
   templatePriority: 1
   gender: male
   species: human
@@ -119,7 +119,8 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - name: Belt, rope
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: SSton, type: missilegear, name: Stone (Sling), system: { quantity: 20 } }

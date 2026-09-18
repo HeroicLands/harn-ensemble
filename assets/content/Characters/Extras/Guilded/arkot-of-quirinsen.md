@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Arkot of Quirinsen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 5OSlAn4X9IWitoae
 packFolder: extrasguilded
 shortcode: arkotofquirinsen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Perfumer
@@ -107,7 +107,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Perfume, oz, bottle
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 11
         weight: 0.25

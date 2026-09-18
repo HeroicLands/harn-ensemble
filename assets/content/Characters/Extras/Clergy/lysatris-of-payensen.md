@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Lysatris of Payensen
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 1udlLJ7MfNLcu94M
 packFolder: extrasclergy
 shortcode: lysatrisofpayensen
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Ilvir

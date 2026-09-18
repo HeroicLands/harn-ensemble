@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Kesyne of Elbardas
   title: ""
@@ -9,7 +10,6 @@ name:
 id: sFJHShgSlSvLWmuH
 packFolder: extrasclergy
 shortcode: kesyneofelbardas
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Peoni

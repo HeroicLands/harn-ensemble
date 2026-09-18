@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Cheselyne of Ver
   title: ""
@@ -9,7 +10,6 @@ name:
 id: D2OtulC9Wpdhropi
 packFolder: extrasguilded
 shortcode: cheselyneofver
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Innkeeper

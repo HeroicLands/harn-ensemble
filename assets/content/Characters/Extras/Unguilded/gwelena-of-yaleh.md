@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gwelena of Yaleh
   title: ""
@@ -9,7 +10,6 @@ name:
 id: W7x1YINnTIjGc7mo
 packFolder: extrasunguilded
 shortcode: gwelenaofyaleh
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Sage/Tutor
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Textbook
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 3

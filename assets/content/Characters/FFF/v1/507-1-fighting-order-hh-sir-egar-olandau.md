@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Sir Egar Olandau
   title: Sir
@@ -9,9 +10,6 @@ name:
 id: fT3OK3pjLfcN9riV
 packFolder: fffnobles
 shortcode: siregarolandau
-img: images/fffv1/token/FFF_507-1_Fighting_Order_HH.png
-portrait: images/fffv1/FFF_507-1_Fighting_Order_HH.jpg
-tokenImg: images/fffv1/token/FFF_507-1_Fighting_Order_HH.png
 type: being
 social:
   occupation: Fighting order knight
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - agrik
 data:
+  icon: fff5071tok
+  portrait: fff5071
   templatePriority: 1
   gender: male
   species: human

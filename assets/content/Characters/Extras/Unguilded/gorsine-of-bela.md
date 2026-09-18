@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Gorsine of Bela
   title: ""
@@ -9,7 +10,6 @@ name:
 id: h6HLP7lBA88CzxBY
 packFolder: extrasunguilded
 shortcode: gorsineofbela
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Imperial Legionnaire, Shortbow
@@ -110,7 +110,8 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagmed, type: containergear }

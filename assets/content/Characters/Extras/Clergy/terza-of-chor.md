@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Terza of Chor
   title: ""
@@ -9,7 +10,6 @@ name:
 id: ZvCb4ktyzQXordjv
 packFolder: extrasclergy
 shortcode: terzaofchor
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Cleric/Agrik

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Anlaelderila of Chelya
   title: ""
@@ -9,7 +10,6 @@ name:
 id: VSDDcwqhOgcAfjH7
 packFolder: extrasguilded
 shortcode: anlaelderilaofchelya
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Embalmer

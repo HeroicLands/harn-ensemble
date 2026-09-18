@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Anax of Junius
   title: ""
@@ -9,9 +10,6 @@ name:
 id: uqI4EAEZSpu2tj3v
 packFolder: fffmilitary
 shortcode: anaxofjunius
-img: images/fffv1/token/FFF_104-1_Gladiator.png
-portrait: images/fffv1/FFF_104-1_Gladiator.jpg
-tokenImg: images/fffv1/token/FFF_104-1_Gladiator.png
 type: being
 social:
   occupation: Manservant
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1041tok
+  portrait: fff1041
   templatePriority: 1
   gender: male
   species: human

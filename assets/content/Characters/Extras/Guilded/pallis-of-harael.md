@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: Pallis of Harael
   title: ""
@@ -9,7 +10,6 @@ name:
 id: 8RBH36aOALh9ooII
 packFolder: extrasguilded
 shortcode: pallisofharael
-portrait: systems/hm3/images/svg/knight-silhouette.svg
 type: being
 social:
   occupation: Harper/Skald
@@ -112,7 +112,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/hm3/images/icons/svg/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 45
         weight: 0.05
