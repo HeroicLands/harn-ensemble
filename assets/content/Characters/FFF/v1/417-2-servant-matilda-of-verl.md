@@ -693,9 +693,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4172|Matilda of Verl]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4172|Matilda of Verl]]{float: top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

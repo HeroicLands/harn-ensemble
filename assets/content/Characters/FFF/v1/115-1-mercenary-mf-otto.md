@@ -742,9 +742,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1151|Otto]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1151|Otto]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Imperial

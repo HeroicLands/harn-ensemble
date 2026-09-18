@@ -742,9 +742,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5062|Dame Afaewynn Barthy]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5062|Dame Afaewynn Barthy]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

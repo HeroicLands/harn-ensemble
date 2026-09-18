@@ -711,9 +711,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3292|Kayly Frye]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3292|Kayly Frye]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

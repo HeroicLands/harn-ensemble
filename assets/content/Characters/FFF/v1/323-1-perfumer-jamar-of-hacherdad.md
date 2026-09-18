@@ -722,9 +722,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3231|Jamar of Hacherdad]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3231|Jamar of Hacherdad]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

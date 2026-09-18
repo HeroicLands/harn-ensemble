@@ -688,9 +688,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4161|Tharo of Bideth]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4161|Tharo of Bideth]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

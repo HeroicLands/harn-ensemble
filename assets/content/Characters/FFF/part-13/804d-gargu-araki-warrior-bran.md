@@ -141,9 +141,9 @@ hm3:
     move: 8
 ---
 
-![[fff804d|Bran]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff804d|Bran]]{float: top-left}
 
 **Species**: Gargu-araki
 **Sex**: Male

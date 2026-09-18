@@ -665,9 +665,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3311|Bors of Halle]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3311|Bors of Halle]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

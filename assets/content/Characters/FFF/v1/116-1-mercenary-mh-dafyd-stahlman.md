@@ -715,9 +715,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1161|Dafyd Stahlman]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1161|Dafyd Stahlman]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

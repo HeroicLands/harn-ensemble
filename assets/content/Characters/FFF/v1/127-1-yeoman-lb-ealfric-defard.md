@@ -742,9 +742,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1271|Ealfric Defard]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1271|Ealfric Defard]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -837,9 +837,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6061|Riatha Deherne]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6061|Riatha Deherne]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

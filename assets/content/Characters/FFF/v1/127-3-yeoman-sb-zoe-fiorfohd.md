@@ -737,9 +737,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1273|Zoe Fiorfohd]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1273|Zoe Fiorfohd]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

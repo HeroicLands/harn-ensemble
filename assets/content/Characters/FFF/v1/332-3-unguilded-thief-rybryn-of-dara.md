@@ -684,9 +684,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3323|Rybryn of Dara]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3323|Rybryn of Dara]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

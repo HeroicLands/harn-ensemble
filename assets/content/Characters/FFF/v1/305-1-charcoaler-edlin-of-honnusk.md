@@ -678,9 +678,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3051|Edlin of Honnusk]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3051|Edlin of Honnusk]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

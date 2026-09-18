@@ -148,9 +148,9 @@ hm3:
     move: 11
 ---
 
-![[fff801c|Drogor]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff801c|Drogor]]{float: top-left}
 
 **Species**: Gargu-hyeka
 **Sex**: Male

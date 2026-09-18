@@ -719,9 +719,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4141|Wybert Graon]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4141|Wybert Graon]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

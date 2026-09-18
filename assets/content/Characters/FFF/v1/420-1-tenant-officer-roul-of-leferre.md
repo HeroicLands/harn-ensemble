@@ -703,9 +703,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4201|Roul of Leferre]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4201|Roul of Leferre]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

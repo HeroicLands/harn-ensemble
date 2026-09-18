@@ -667,9 +667,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3111|Barris of Gorn]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3111|Barris of Gorn]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

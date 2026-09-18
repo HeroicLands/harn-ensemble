@@ -154,9 +154,9 @@ hm3:
     move: 11
 ---
 
-![[fff8991|Derbis]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff8991|Derbis]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Ogre

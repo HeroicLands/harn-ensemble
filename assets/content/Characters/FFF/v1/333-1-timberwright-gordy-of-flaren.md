@@ -697,9 +697,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3331|Gordy of Flaren]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3331|Gordy of Flaren]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

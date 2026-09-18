@@ -665,9 +665,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4131|Bolgar the Mad]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4131|Bolgar the Mad]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

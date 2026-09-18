@@ -855,9 +855,9 @@ sohl:
         disabled: false
 ---
 
-![[fff7051|Elros of Merin]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff7051|Elros of Merin]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

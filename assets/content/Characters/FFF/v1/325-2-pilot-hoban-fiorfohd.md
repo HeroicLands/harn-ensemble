@@ -703,9 +703,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3252|Hoban Fiorfohd]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3252|Hoban Fiorfohd]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

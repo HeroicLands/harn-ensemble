@@ -706,9 +706,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4051|Onfroi of Metical]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4051|Onfroi of Metical]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

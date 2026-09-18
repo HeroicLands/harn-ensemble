@@ -745,9 +745,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5072|Sir Samuel of Zoben]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5072|Sir Samuel of Zoben]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

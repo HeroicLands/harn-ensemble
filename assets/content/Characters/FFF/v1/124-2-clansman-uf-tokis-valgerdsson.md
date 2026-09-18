@@ -707,9 +707,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1242|Tokis Valgerdsson]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1242|Tokis Valgerdsson]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

@@ -739,9 +739,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4174|Ortilla of Islwyn]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4174|Ortilla of Islwyn]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

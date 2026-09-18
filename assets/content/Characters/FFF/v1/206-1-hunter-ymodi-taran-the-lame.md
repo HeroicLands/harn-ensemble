@@ -735,9 +735,9 @@ sohl:
         disabled: false
 ---
 
-![[fff2061|Taran the Lame]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff2061|Taran the Lame]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

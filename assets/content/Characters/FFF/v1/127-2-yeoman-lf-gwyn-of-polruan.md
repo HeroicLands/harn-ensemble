@@ -707,9 +707,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1272|Gwyn of Polruan]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1272|Gwyn of Polruan]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -740,9 +740,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3211|Odell of Risene]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3211|Odell of Risene]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

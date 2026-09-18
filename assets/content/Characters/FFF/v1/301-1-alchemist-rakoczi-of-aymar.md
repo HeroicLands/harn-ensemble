@@ -683,9 +683,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3011|Rakoczi of Aymar]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3011|Rakoczi of Aymar]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

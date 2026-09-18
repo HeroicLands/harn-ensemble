@@ -708,9 +708,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3061|Gwyte of Marath]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3061|Gwyte of Marath]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

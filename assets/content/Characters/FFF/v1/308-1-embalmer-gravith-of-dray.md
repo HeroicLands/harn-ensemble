@@ -702,9 +702,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3081|Gravith of Dray]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3081|Gravith of Dray]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

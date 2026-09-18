@@ -740,9 +740,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3291|Husraas of Kjalis]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3291|Husraas of Kjalis]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

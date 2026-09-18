@@ -734,9 +734,9 @@ sohl:
         disabled: false
 ---
 
-![[fff2064|Brynn]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff2064|Brynn]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

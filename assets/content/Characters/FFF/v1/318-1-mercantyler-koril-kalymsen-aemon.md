@@ -686,9 +686,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3181|Koril Kalymsen Aemon]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3181|Koril Kalymsen Aemon]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

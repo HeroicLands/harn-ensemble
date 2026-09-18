@@ -716,9 +716,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3112|Hjotra Sokkol]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3112|Hjotra Sokkol]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

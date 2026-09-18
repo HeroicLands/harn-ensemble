@@ -805,9 +805,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6021|Sigyn of Leden]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6021|Sigyn of Leden]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

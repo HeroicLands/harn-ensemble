@@ -705,9 +705,9 @@ sohl:
         disabled: false
 ---
 
-![[fff2063|Kit'tiara Wampusha]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff2063|Kit'tiara Wampusha]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

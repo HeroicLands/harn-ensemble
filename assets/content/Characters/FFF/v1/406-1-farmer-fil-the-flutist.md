@@ -693,9 +693,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4061|Fil the Flutist]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4061|Fil the Flutist]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

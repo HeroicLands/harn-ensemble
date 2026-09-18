@@ -699,9 +699,9 @@ sohl:
         disabled: false
 ---
 
-![[fff2011|Brun]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff2011|Brun]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

@@ -834,9 +834,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6082|Grimhilda Forsetha]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6082|Grimhilda Forsetha]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Ivinian

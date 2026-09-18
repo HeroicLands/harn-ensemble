@@ -139,9 +139,9 @@ hm3:
     move: 10
 ---
 
-![[fff802b|Umaka]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff802b|Umaka]]{float: top-left}
 
 **Species**: Gargu-hyeka
 **Sex**: Female

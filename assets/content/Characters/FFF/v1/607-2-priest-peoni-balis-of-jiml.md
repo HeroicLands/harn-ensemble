@@ -662,9 +662,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6072|Balis of Jiml]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6072|Balis of Jiml]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

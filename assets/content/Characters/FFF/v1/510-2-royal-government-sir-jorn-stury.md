@@ -753,9 +753,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5102|Sir Jorn Stury]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5102|Sir Jorn Stury]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

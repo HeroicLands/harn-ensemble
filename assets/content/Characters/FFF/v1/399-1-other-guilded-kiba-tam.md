@@ -732,9 +732,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3991|Kiba Tam]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3991|Kiba Tam]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

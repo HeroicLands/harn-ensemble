@@ -806,9 +806,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6041|Rayald Cotrael]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6041|Rayald Cotrael]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

@@ -648,9 +648,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3141|Dagwyn of Khael]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3141|Dagwyn of Khael]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

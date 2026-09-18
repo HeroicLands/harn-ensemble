@@ -128,9 +128,9 @@ hm3:
     move: 13
 ---
 
-![[fff804e|Pinka]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff804e|Pinka]]{float: top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Male

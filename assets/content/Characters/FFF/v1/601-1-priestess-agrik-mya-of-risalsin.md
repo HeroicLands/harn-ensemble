@@ -835,9 +835,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6011|Mya of Risalsin]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6011|Mya of Risalsin]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

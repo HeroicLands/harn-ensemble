@@ -687,9 +687,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4021|Warorel Iasen]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4021|Warorel Iasen]]{float: top-left}
 
 **Apparent Age**: Middle age
 **Culture**: Feudal

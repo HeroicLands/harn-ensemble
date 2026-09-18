@@ -677,9 +677,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3321|Vakon Lemetyer]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3321|Vakon Lemetyer]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

@@ -160,9 +160,9 @@ hm3:
     move: 13
 ---
 
-![[fff803b|Tabeas]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff803b|Tabeas]]{float: top-left}
 
 **Species**: Gargu-kyani
 **Sex**: Female

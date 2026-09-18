@@ -125,9 +125,9 @@ hm3:
     move: 10
 ---
 
-![[fff802a|Feeri]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff802a|Feeri]]{float: top-left}
 
 **Species**: Gargu-Araki
 **Sex**: Female

@@ -790,9 +790,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6031|Mansu Quig]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6031|Mansu Quig]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Jarin

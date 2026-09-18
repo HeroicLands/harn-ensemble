@@ -717,9 +717,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3183|Gavin of Wem]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3183|Gavin of Wem]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

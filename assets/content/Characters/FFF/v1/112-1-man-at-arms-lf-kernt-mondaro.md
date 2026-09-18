@@ -734,9 +734,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1121|Kernt Mondaro]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1121|Kernt Mondaro]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -144,9 +144,9 @@ hm3:
     move: 11
 ---
 
-![[fff804g|Borka]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff804g|Borka]]{float: top-left}
 
 **Species**: Gargun (aberrant)
 **Sex**: Male

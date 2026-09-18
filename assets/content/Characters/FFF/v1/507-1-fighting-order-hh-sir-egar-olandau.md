@@ -837,9 +837,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5071|Sir Egar Olandau]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5071|Sir Egar Olandau]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -722,9 +722,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4191|Romont of Addy]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4191|Romont of Addy]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

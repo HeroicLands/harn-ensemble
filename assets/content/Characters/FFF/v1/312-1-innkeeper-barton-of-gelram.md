@@ -674,9 +674,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3121|Barton of Gelram]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3121|Barton of Gelram]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

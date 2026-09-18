@@ -755,9 +755,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3102|Pelyn of Valas]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3102|Pelyn of Valas]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

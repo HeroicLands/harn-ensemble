@@ -754,9 +754,9 @@ sohl:
         disabled: false
 ---
 
-![[fff704a|Mabresen]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff704a|Mabresen]]{float: top-left}
 
 **Species**: Human
 **Sex**: Male

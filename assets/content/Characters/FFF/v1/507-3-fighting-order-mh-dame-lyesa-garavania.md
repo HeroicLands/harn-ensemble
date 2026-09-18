@@ -771,9 +771,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5073|Dame Lyesa Garavania]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5073|Dame Lyesa Garavania]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

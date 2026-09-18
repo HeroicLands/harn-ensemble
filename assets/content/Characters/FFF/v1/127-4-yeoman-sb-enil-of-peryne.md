@@ -740,9 +740,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1274|Enil of Peryne]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1274|Enil of Peryne]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

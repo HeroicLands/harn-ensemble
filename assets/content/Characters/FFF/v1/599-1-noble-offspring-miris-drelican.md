@@ -669,9 +669,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5991|Miris Drelican]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5991|Miris Drelican]]{float: top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

@@ -677,9 +677,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4231|Digger]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4231|Digger]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

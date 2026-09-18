@@ -709,9 +709,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3221|Dersory of Talkene]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3221|Dersory of Talkene]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

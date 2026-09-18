@@ -832,9 +832,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6081|Bjarr Pelerom]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6081|Bjarr Pelerom]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

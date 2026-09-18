@@ -705,9 +705,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3341|Jorg Beitis]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3341|Jorg Beitis]]{float: top-left}
 
 **Apparent Age**: Middle Aged
 **Culture**: Viking

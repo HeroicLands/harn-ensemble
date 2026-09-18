@@ -137,9 +137,9 @@ hm3:
     move: 9
 ---
 
-![[fff801b|Kaeuck]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff801b|Kaeuck]]{float: top-left}
 
 **Species**: Gargu-hyeka
 **Sex**: Male

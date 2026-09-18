@@ -141,9 +141,9 @@ hm3:
     move: 7
 ---
 
-![[fff804a|Feazurk]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff804a|Feazurk]]{float: top-left}
 
 **Species**: Gargu-viasal
 **Sex**: Male

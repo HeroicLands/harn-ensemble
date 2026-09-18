@@ -720,9 +720,9 @@ sohl:
         disabled: false
 ---
 
-![[fff2062|Muga Psawei]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff2062|Muga Psawei]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Tribal

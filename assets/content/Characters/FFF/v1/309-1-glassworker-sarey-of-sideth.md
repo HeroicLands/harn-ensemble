@@ -679,9 +679,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3091|Sarey of Sideth]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3091|Sarey of Sideth]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

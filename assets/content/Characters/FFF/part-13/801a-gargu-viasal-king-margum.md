@@ -141,9 +141,9 @@ hm3:
     move: 12
 ---
 
-![[fff801a|Margum]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff801a|Margum]]{float: top-left}
 
 **Species**: Gargu-viasal
 **Sex**: Male

@@ -777,9 +777,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3031|Merrimam Grimwul]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3031|Merrimam Grimwul]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

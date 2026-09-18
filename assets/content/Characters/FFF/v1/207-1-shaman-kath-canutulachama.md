@@ -675,9 +675,9 @@ sohl:
         disabled: false
 ---
 
-![[fff2071|Canutulachama]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff2071|Canutulachama]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Tribal

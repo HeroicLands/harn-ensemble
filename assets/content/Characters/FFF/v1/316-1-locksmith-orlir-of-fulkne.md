@@ -675,9 +675,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3161|Orlir of Fulkne]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3161|Orlir of Fulkne]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

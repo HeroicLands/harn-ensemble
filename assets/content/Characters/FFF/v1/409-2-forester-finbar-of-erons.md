@@ -707,9 +707,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4092|Finbar of Erons]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4092|Finbar of Erons]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

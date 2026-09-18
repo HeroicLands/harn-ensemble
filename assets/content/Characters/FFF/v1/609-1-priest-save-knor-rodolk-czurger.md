@@ -949,9 +949,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6091|Rodolk Czurger]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6091|Rodolk Czurger]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

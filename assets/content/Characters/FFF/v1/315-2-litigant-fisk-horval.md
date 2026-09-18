@@ -730,9 +730,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3152|Fisk Horval]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3152|Fisk Horval]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Ivinian

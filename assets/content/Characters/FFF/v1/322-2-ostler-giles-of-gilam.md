@@ -690,9 +690,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3222|Giles of Gilam]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3222|Giles of Gilam]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

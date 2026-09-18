@@ -803,9 +803,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6042|Garin Ertus]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6042|Garin Ertus]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

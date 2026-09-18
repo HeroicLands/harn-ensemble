@@ -722,9 +722,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3242|Llawaur Tam]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3242|Llawaur Tam]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

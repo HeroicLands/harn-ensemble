@@ -745,9 +745,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6051|Silas Marchant]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6051|Silas Marchant]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

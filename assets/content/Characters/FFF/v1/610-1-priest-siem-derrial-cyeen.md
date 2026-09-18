@@ -806,9 +806,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6101|Derrial Cyeen]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6101|Derrial Cyeen]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

@@ -736,9 +736,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1181|Lavro of Orostal]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1181|Lavro of Orostal]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

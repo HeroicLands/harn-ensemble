@@ -147,9 +147,9 @@ hm3:
     move: 13
 ---
 
-![[fff804b|Taatulk]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff804b|Taatulk]]{float: top-left}
 
 **Species**: Gargu-kyani
 **Sex**: Male

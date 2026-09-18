@@ -707,9 +707,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4211|Wyte of Fyrwey]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4211|Wyte of Fyrwey]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

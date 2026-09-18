@@ -701,9 +701,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3131|Klina of Vebelirky]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3131|Klina of Vebelirky]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Imperial

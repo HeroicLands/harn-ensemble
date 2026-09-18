@@ -722,9 +722,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1041|Anax of Junius]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1041|Anax of Junius]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

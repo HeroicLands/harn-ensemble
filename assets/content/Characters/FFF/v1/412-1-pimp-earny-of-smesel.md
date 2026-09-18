@@ -660,9 +660,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4121|Earny of Smesel]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4121|Earny of Smesel]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

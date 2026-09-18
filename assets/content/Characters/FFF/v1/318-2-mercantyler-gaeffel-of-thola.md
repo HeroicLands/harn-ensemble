@@ -764,9 +764,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3182|Gaeffel of Thola]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3182|Gaeffel of Thola]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

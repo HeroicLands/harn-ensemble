@@ -723,9 +723,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5042|Uldis Harand]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5042|Uldis Harand]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

@@ -705,9 +705,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5011|Artanar Nalas]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5011|Artanar Nalas]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

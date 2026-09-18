@@ -139,9 +139,9 @@ hm3:
     move: 19
 ---
 
-![[fff804f|"Fetch"]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff804f|"Fetch"]]{float: top-left}
 
 **Species**: Gargu-araki
 **Sex**: Male

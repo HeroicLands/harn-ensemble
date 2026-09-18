@@ -714,9 +714,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5063|Sir Morhgan Cade]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5063|Sir Morhgan Cade]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

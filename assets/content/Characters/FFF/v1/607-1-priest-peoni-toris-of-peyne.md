@@ -772,9 +772,9 @@ sohl:
         disabled: false
 ---
 
-![[fff6071|Toris of Peyne]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff6071|Toris of Peyne]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

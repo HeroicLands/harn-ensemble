@@ -679,9 +679,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3041|Kalas of Aralsar]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3041|Kalas of Aralsar]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Imperial

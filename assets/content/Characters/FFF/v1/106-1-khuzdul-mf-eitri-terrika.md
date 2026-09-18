@@ -808,9 +808,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1061|Eitri Terrika]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1061|Eitri Terrika]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Khuzdul

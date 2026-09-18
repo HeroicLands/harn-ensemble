@@ -745,9 +745,9 @@ sohl:
         disabled: false
 ---
 
-![[fff5051|Lord Emmon Wisby]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff5051|Lord Emmon Wisby]]{float: top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

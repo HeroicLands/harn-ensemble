@@ -789,9 +789,9 @@ sohl:
         disabled: false
 ---
 
-![[fff1221|Melas Renier]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff1221|Melas Renier]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

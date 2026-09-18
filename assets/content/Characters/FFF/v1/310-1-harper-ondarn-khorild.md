@@ -667,9 +667,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3101|Ondarn Khorild]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3101|Ondarn Khorild]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

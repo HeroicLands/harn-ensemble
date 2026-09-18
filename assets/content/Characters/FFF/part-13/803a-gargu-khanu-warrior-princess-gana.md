@@ -180,9 +180,9 @@ hm3:
     move: 13
 ---
 
-![[fff803a|Gana]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff803a|Gana]]{float: top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Female

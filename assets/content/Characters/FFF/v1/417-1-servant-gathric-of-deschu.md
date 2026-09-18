@@ -676,9 +676,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4171|Gathric of Deschu]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4171|Gathric of Deschu]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

@@ -668,9 +668,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3351|Peri the Lame]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3351|Peri the Lame]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

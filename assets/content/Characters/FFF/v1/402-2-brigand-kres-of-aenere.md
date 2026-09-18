@@ -722,9 +722,9 @@ sohl:
         disabled: false
 ---
 
-![[fff4022|Kres of Aenere]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff4022|Kres of Aenere]]{float: top-left}
 
 **Apparent Age**: Middle age
 **Culture**: Feudal

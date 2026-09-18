@@ -682,9 +682,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3223|Esar of Keriel]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3223|Esar of Keriel]]{float: top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

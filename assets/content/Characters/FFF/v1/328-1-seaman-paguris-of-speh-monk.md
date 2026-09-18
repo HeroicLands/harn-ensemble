@@ -702,9 +702,9 @@ sohl:
         disabled: false
 ---
 
-![[fff3281|Paguris of Speh (Monk)]]{float: top-left}
-
 # Appearance {#appearance}
+
+![[fff3281|Paguris of Speh (Monk)]]{float: top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal
