@@ -11,6 +11,19 @@ compatibility:
     minimum: "14.359"
     verified: "14.367"
 
+# Declares the two systems the packs below stamp against — required for
+# `_stats.systemId` / `systemVersion`, and separate from `requiresSystem`
+# (absent here), which would gate the whole module to one of them.
+systems:
+    hm3:
+        manifest: https://github.com/HeroicLands/HarnMaster-3-FoundryVTT/releases/download/v1.6.3/system.json
+        compatibility:
+            verified: "1.6.3"
+    sohl:
+        manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.5/system.json
+        compatibility:
+            verified: "0.8.5"
+
 itemBuilders: [sohl, hm3]
 
 # A `journals` pack was declared here from the initial commit and never had a
