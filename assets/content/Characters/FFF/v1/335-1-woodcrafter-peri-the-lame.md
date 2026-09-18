@@ -9,8 +9,6 @@ name:
 id: 28qhtq2eCMTuP70o
 packFolder: fffguilded
 shortcode: perithelame
-img: images/fffv1/token/fff3351tok.png
-portrait: images/fffv1/fff3351.jpg
 type: being
 social:
   occupation: Woodcrafter
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3351tok
+  portrait: fff3351
   templatePriority: 1
   gender: male
   species: human

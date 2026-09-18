@@ -9,8 +9,6 @@ name:
 id: ia2zjJrUeoSAxFzi
 packFolder: fffguilded
 shortcode: geitergautisson
-img: images/fffv1/token/fff3103tok.png
-portrait: images/fffv1/fff3103.jpg
 type: being
 social:
   occupation: Skald
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3103tok
+  portrait: fff3103
   templatePriority: 1
   gender: male
   species: human

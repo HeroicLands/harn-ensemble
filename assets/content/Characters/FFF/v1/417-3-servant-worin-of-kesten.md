@@ -9,8 +9,6 @@ name:
 id: vLZajD1ySS1AoUHR
 packFolder: fffunguilded
 shortcode: worinofkesten
-img: images/fffv1/token/fff4173tok.png
-portrait: images/fffv1/fff4173.jpg
 type: being
 social:
   occupation: Servant
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4173tok
+  portrait: fff4173
   templatePriority: 1
   gender: male
   species: human

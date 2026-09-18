@@ -106,7 +106,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Earing, Gold with gem
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 425
         weight: 0.01

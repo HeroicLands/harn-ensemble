@@ -9,8 +9,6 @@ name:
 id: P3R0iAgl7VVSTJzh
 packFolder: fffmilitary
 shortcode: wyrinofvarross
-img: images/fffv1/token/fff1275tok.png
-portrait: images/fffv1/fff1275.jpg
 type: being
 social:
   occupation: Yeoman (LB)
@@ -23,6 +21,8 @@ harnworld:
     - peoni
     - sarajin
 data:
+  icon: fff1275tok
+  portrait: fff1275
   templatePriority: 1
   gender: male
   species: human

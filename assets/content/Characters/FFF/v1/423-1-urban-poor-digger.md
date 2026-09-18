@@ -9,8 +9,6 @@ name:
 id: UChsLQBJKBQG7CpD
 packFolder: fffunguilded
 shortcode: digger
-img: images/fffv1/token/fff4231tok.png
-portrait: images/fffv1/fff4231.jpg
 type: being
 social:
   occupation: Day labourer
@@ -23,6 +21,8 @@ harnworld:
     - peoni
     - larani
 data:
+  icon: fff4231tok
+  portrait: fff4231
   templatePriority: 1
   gender: male
   species: human

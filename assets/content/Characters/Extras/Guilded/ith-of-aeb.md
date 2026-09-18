@@ -105,7 +105,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Portable writing Kite
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }

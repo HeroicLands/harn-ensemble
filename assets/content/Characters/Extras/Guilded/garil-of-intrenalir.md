@@ -101,7 +101,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10

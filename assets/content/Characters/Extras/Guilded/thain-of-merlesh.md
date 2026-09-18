@@ -108,7 +108,8 @@ hm3:
     - { shortcode: penmetal, type: miscgear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 45
         weight: 0.05
@@ -116,7 +117,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

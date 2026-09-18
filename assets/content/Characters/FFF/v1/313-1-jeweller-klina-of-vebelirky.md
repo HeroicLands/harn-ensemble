@@ -9,8 +9,6 @@ name:
 id: t4zG9cK9yT1qVGI5
 packFolder: fffguilded
 shortcode: klinaofvebelirky
-img: images/fffv1/token/fff3131tok.png
-portrait: images/fffv1/fff3131.jpg
 type: being
 social:
   occupation: Jeweller
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3131tok
+  portrait: fff3131
   templatePriority: 1
   gender: male
   species: human

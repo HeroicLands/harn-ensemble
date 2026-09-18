@@ -9,8 +9,6 @@ name:
 id: za7GGGs1Aubj6oLi
 packFolder: fffclergy
 shortcode: rodolkczurger
-img: images/fffv1/token/fff6091tok.png
-portrait: images/fffv1/fff6091.jpg
 type: being
 social:
   occupation: Priest of Save K'nor
@@ -25,6 +23,8 @@ harnworld:
     - morgath
     - naveh
 data:
+  icon: fff6091tok
+  portrait: fff6091
   templatePriority: 1
   gender: male
   species: human
@@ -213,7 +213,8 @@ hm3:
     - { shortcode: navehconsecration, type: invocation }
     - name: "Exorcism V; Save K'nor: Light of Uhla"
       type: invocation
-      img: systems/hm3/images/icons/png/naveh.png
+      data:
+        icon: hm3-none-icon-naveh
       system:
         diety: Naveh
         circle: 2

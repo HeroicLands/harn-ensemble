@@ -109,14 +109,16 @@ hm3:
     - { shortcode: LKni, type: weapongear }
     - name: Anklet, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 120
         weight: 0.125
     - { shortcode: LtLeg, type: armorgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

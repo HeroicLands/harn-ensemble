@@ -9,8 +9,6 @@ name:
 id: zzb52YxzVJETrKFW
 packFolder: fffunguilded
 shortcode: kresofaenere
-img: images/fffv1/token/fff4022tok.png
-portrait: images/fffv1/fff4022.jpg
 type: being
 social:
   occupation: Brigand
@@ -23,6 +21,8 @@ harnworld:
     - peoni
     - agrik
 data:
+  icon: fff4022tok
+  portrait: fff4022
   templatePriority: 1
   gender: male
   species: human

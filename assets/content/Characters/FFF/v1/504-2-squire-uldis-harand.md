@@ -9,8 +9,6 @@ name:
 id: mjXgbj1zV1ay1LZW
 packFolder: fffnobles
 shortcode: uldisharand
-img: images/fffv1/token/fff5042tok.png
-portrait: images/fffv1/fff5042.jpg
 type: being
 social:
   occupation: Squire
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5042tok
+  portrait: fff5042
   templatePriority: 1
   gender: male
   species: human

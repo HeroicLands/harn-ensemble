@@ -109,7 +109,8 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: Circlet, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 300
         weight: 0.3125

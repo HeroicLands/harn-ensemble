@@ -113,13 +113,15 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Pendant, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 900
         weight: 0.05
     - name: Scabbard, sword
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

@@ -111,7 +111,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: "Debt to Money Lender: Noralyn of Wejik for 536d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

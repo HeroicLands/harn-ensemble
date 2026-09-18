@@ -9,8 +9,6 @@ name:
 id: LrbNBVZPSC528SpZ
 packFolder: fffnobles
 shortcode: huwofislwyn
-img: images/fffv1/token/fff5021tok.png
-portrait: images/fffv1/fff5021.jpg
 type: being
 social:
   occupation: Steward
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5021tok
+  portrait: fff5021
   templatePriority: 1
   gender: male
   species: human

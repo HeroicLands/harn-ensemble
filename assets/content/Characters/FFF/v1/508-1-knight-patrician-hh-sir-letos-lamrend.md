@@ -9,8 +9,6 @@ name:
 id: bAMzqD5qntz3i3Em
 packFolder: fffnobles
 shortcode: sirletoslamrend
-img: images/fffv1/token/fff5081tok.png
-portrait: images/fffv1/fff5081.jpg
 type: being
 social:
   occupation: Patrician Knight
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff5081tok
+  portrait: fff5081
   templatePriority: 1
   gender: male
   species: human

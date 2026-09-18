@@ -9,8 +9,6 @@ name:
 id: 2MzjJhA8lpULDhlf
 packFolder: fffunguilded
 shortcode: ygwelveforsetha
-img: images/fffv1/token/fff4152tok.png
-portrait: images/fffv1/fff4152.jpg
 type: being
 social:
   occupation: Scribe
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff4152tok
+  portrait: fff4152
   templatePriority: 1
   gender: female
   species: human

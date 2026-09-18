@@ -9,8 +9,6 @@ name:
 id: otiVCxlD88xv2bcy
 packFolder: fffnobles
 shortcode: sirrollarddaudrieu
-img: images/fffv1/token/fff5061tok.png
-portrait: images/fffv1/fff5061.jpg
 type: being
 social:
   occupation: Tournament knight
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - christian
 data:
+  icon: fff5061tok
+  portrait: fff5061
   templatePriority: 1
   gender: male
   species: human

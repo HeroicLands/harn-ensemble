@@ -103,13 +103,15 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Broach, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03
     - name: Lockpick kit
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 1

@@ -9,8 +9,6 @@ name:
 id: P8gejvyLNHxIidxr
 packFolder: fffguilded
 shortcode: hadyntrildsen
-img: images/fffv1/token/fff3251tok.png
-portrait: images/fffv1/fff3251.jpg
 type: being
 social:
   occupation: Pilot
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3251tok
+  portrait: fff3251
   templatePriority: 1
   gender: male
   species: human

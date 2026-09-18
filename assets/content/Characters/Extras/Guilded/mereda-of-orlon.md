@@ -102,7 +102,8 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - name: Saw, hack
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 10
         weight: 2

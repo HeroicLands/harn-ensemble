@@ -9,8 +9,6 @@ name:
 id: oRNGkprsEqxEhkDw
 packFolder: fffmilitary
 shortcode: ealfricdefard
-img: images/fffv1/token/fff1271tok.png
-portrait: images/fffv1/fff1271.jpg
 type: being
 social:
   occupation: Yeoman Archer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff1271tok
+  portrait: fff1271
   templatePriority: 1
   gender: male
   species: human

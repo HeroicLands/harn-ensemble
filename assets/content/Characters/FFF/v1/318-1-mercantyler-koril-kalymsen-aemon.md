@@ -9,8 +9,6 @@ name:
 id: Kt0ilzmS7FHBqOTr
 packFolder: fffguilded
 shortcode: korilkalymsenaemon
-img: images/fffv1/token/fff3181tok.png
-portrait: images/fffv1/fff3181.jpg
 type: being
 social:
   occupation: Mercantyler
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3181tok
+  portrait: fff3181
   templatePriority: 1
   gender: male
   species: human

@@ -9,8 +9,6 @@ name:
 id: vqAkD6vWfrDHgzDH
 packFolder: fffguilded
 shortcode: pagurisofspehmonk
-img: images/fffv1/token/fff3281tok.png
-portrait: images/fffv1/fff3281.jpg
 type: being
 social:
   occupation: Seaman
@@ -23,6 +21,8 @@ harnworld:
     - peoni
     - eder
 data:
+  icon: fff3281tok
+  portrait: fff3281
   templatePriority: 1
   gender: male
   species: human

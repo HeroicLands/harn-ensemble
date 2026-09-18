@@ -9,8 +9,6 @@ name:
 id: cvnkHX7g7glN0XmA
 packFolder: fffunguilded
 shortcode: roulofleferre
-img: images/fffv1/token/fff4201tok.png
-portrait: images/fffv1/fff4201.jpg
 type: being
 social:
   occupation: Reeve
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4201tok
+  portrait: fff4201
   templatePriority: 1
   gender: male
   species: human

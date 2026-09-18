@@ -9,9 +9,6 @@ name:
 id: WsoowZSwGZT5T7K8
 packFolder: fffnonhumans
 shortcode: borka
-img: images/fff-13/fff804ghead.webp
-portrait: images/fff-13/fff804g.webp
-tokenImg: images/fff-13/fff804gtok.webp
 type: being
 social:
   occupation: Warrior
@@ -22,6 +19,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff804ghead
+  tokenIcon: fff804gtok
+  portrait: fff804g
   gender: male
   species: gargu (aberrant)
   height: 3.02
@@ -94,7 +94,8 @@ hm3:
     - { shortcode: sword, type: skill, name: Mankar (Sword), system: { masteryLevel: 114 } }
     - name: Bite
       type: skill
-      img: systems/sohl/assets/icons/game-icons/skoll/fangs.svg
+      data:
+        icon: sohl-none-icon-fangs
       system:
         type: Combat
         skillBase.value: 19
@@ -104,7 +105,8 @@ hm3:
     - { shortcode: Mankar, type: weapongear }
     - name: Bite
       type: weapongear
-      img: systems/sohl/assets/icons/game-icons/skoll/fangs.svg
+      data:
+        icon: sohl-none-icon-fangs
       system:
         assocSkill: Bite
         blunt: 1
@@ -115,7 +117,8 @@ hm3:
     - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -125,7 +128,8 @@ hm3:
         protection.fire: 3
     - name: Linen Girdle
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         value: 20
         weight: 1.5

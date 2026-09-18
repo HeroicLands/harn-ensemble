@@ -9,8 +9,6 @@ name:
 id: lotJIbkkci8IzCN8
 packFolder: fffclergy
 shortcode: garinertus
-img: images/fffv1/token/fff6042tok.png
-portrait: images/fffv1/fff6042.jpg
 type: being
 social:
   occupation: Laranian Priest
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff6042tok
+  portrait: fff6042
   templatePriority: 1
   gender: male
   species: human
@@ -155,7 +155,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Holy Symbol, silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         value: 32
         weight: 0.1

@@ -101,7 +101,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 65 } }
     - name: Tribal
       type: skill
-      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 10
@@ -121,13 +122,15 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Korin of Obelon for 206d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

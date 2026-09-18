@@ -105,7 +105,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.25

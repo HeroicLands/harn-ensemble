@@ -109,7 +109,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
@@ -117,14 +118,16 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 75
         weight: 0.5
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

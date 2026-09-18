@@ -9,8 +9,6 @@ name:
 id: XbtouNxhhTn7NMUw
 packFolder: fffguilded
 shortcode: barrisofgorn
-img: images/fffv1/token/fff3111tok.png
-portrait: images/fffv1/fff3111.jpg
 type: being
 social:
   occupation: Hideworker
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3111tok
+  portrait: fff3111
   templatePriority: 1
   gender: male
   species: human

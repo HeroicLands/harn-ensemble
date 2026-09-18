@@ -9,8 +9,6 @@ name:
 id: HxtAGRO4FSTP0v3G
 packFolder: fffguilded
 shortcode: gavinofwem
-img: images/fffv1/token/fff3183tok.png
-portrait: images/fffv1/fff3183.jpg
 type: being
 social:
   occupation: Caravan Master
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3183tok
+  portrait: fff3183
   templatePriority: 1
   gender: male
   species: human

@@ -109,7 +109,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: "Debt to Money Lender: Marabain of Guindan for 30d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: RndSh, type: weapongear }
@@ -118,7 +119,8 @@ hm3:
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

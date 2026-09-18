@@ -9,8 +9,6 @@ name:
 id: PGB2gBNjPVucIFKf
 packFolder: fffunguilded
 shortcode: matildaofverl
-img: images/fffv1/token/fff4172tok.png
-portrait: images/fffv1/fff4172.jpg
 type: being
 social:
   occupation: Household Cook
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4172tok
+  portrait: fff4172
   templatePriority: 1
   gender: female
   species: human

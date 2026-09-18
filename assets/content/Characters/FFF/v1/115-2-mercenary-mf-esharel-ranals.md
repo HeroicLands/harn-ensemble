@@ -9,8 +9,6 @@ name:
 id: cLnhyY4QXQWraFxa
 packFolder: fffmilitary
 shortcode: esharelranals
-img: images/fffv1/token/fff1152tok.png
-portrait: images/fffv1/fff1152.jpg
 type: being
 social:
   occupation: Sea Captain
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1152tok
+  portrait: fff1152
   templatePriority: 1
   gender: male
   species: human

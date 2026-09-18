@@ -4,11 +4,11 @@ id: iQzDh13KVsOrpbqc
 type: affiliation
 subType: venture
 shortcode: fffpentacle
-img: null
 name:
   full: The Pentacle
   aliases: []
 data:
+  icon: null
   templatePriority: null
 sohl:
   relation: []

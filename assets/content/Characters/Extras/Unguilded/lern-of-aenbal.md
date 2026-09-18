@@ -113,7 +113,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: "Debt to Money Lender: Thelren of Symdal for 1770d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

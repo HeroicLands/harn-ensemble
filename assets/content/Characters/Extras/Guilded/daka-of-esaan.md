@@ -104,14 +104,16 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Notebook
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
     - { shortcode: firstaidbagwinstruments, type: miscgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

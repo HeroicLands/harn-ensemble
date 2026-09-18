@@ -104,7 +104,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

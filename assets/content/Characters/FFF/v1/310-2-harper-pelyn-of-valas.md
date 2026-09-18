@@ -9,8 +9,6 @@ name:
 id: UqgarIHQjd1s0Let
 packFolder: fffguilded
 shortcode: pelynofvalas
-img: images/fffv1/token/fff3102tok.png
-portrait: images/fffv1/fff3102.jpg
 type: being
 social:
   occupation: Harper
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3102tok
+  portrait: fff3102
   templatePriority: 1
   gender: female
   species: human
@@ -212,7 +212,8 @@ hm3:
     - { shortcode: harpjarind, type: miscgear }
     - name: Velvet Harp Bag
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 27 } }

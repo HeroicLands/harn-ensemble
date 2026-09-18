@@ -9,8 +9,6 @@ name:
 id: DNQtPuSTCANb2wPN
 packFolder: fffunguilded
 shortcode: wybertgraon
-img: images/fffv1/token/fff4141tok.png
-portrait: images/fffv1/fff4141.jpg
 type: being
 social:
   occupation: Sage/Tutor
@@ -23,6 +21,8 @@ harnworld:
     - larani
     - saveknor
 data:
+  icon: fff4141tok
+  portrait: fff4141
   templatePriority: 1
   gender: male
   species: human

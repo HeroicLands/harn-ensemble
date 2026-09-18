@@ -9,8 +9,6 @@ name:
 id: HWc0GmXxH3cKR2B4
 packFolder: fffguilded
 shortcode: inaraserra
-img: images/fffv1/token/fff3071tok.png
-portrait: images/fffv1/fff3071.jpg
 type: being
 social:
   occupation: Courtesan
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3071tok
+  portrait: fff3071
   templatePriority: 1
   gender: female
   species: human

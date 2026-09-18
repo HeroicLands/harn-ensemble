@@ -9,8 +9,6 @@ name:
 id: q57uLJi7Vt34DjOC
 packFolder: fffunguilded
 shortcode: arwalinofrogila
-img: images/fffv1/token/fff4091tok.png
-portrait: images/fffv1/fff4091.jpg
 type: being
 social:
   occupation: Huntsman
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4091tok
+  portrait: fff4091
   templatePriority: 1
   gender: male
   species: human

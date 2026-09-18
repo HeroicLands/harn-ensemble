@@ -4,11 +4,11 @@ id: PeEqzUUEjeOJRTQu
 type: affiliation
 subType: venture
 shortcode: fffchybisans
-img: null
 name:
   full: The Chybisans
   aliases: []
 data:
+  icon: null
   templatePriority: null
 sohl:
   relation: []

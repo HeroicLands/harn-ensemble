@@ -115,7 +115,8 @@ hm3:
     - { shortcode: pipes, type: miscgear }
     - name: Recorder
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 4
         weight: 0.5

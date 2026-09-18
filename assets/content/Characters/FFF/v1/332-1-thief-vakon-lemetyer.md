@@ -9,8 +9,6 @@ name:
 id: x0wP2qykwZWZSX7M
 packFolder: fffguilded
 shortcode: vakonlemetyer
-img: images/fffv1/token/fff3321tok.png
-portrait: images/fffv1/fff3321.jpg
 type: being
 social:
   occupation: Thief
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3321tok
+  portrait: fff3321
   templatePriority: 1
   gender: male
   species: human

@@ -111,13 +111,15 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 15
         weight: 0.01
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10

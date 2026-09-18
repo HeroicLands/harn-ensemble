@@ -9,8 +9,6 @@ name:
 id: zfHZeMOSxVjH1jmT
 packFolder: fffunguilded
 shortcode: tharoofbideth
-img: images/fffv1/token/fff4161tok.png
-portrait: images/fffv1/fff4161.jpg
 type: being
 social:
   occupation: Half-Villein
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4161tok
+  portrait: fff4161
   templatePriority: 1
   gender: male
   species: human

@@ -9,8 +9,6 @@ name:
 id: uqI4EAEZSpu2tj3v
 packFolder: fffmilitary
 shortcode: anaxofjunius
-img: images/fffv1/token/fff1041tok.png
-portrait: images/fffv1/fff1041.jpg
 type: being
 social:
   occupation: Manservant
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1041tok
+  portrait: fff1041
   templatePriority: 1
   gender: male
   species: human

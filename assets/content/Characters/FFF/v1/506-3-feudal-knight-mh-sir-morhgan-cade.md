@@ -9,8 +9,6 @@ name:
 id: q4Dsf9m89eR2J6oj
 packFolder: fffnobles
 shortcode: sirmorhgancade
-img: images/fffv1/token/fff5063tok.png
-portrait: images/fffv1/fff5063.jpg
 type: being
 social:
   occupation: Knight Bachelor (MH)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - morgath
 data:
+  icon: fff5063tok
+  portrait: fff5063
   templatePriority: 1
   gender: male
   species: human

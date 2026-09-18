@@ -9,8 +9,6 @@ name:
 id: xHdUwDJj30SyHfyL
 packFolder: fffnobles
 shortcode: andelgebar
-img: images/fffv1/token/fff5101tok.png
-portrait: images/fffv1/fff5101.jpg
 type: being
 social:
   occupation: Exchequer Clerk
@@ -23,6 +21,8 @@ harnworld:
     - halea
     - saveknor
 data:
+  icon: fff5101tok
+  portrait: fff5101
   templatePriority: 1
   gender: male
   species: human

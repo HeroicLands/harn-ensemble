@@ -9,8 +9,6 @@ name:
 id: wuD1xj7qCGqD9aqZ
 packFolder: fffguilded
 shortcode: gwyteofmarath
-img: images/fffv1/token/fff3061tok.png
-portrait: images/fffv1/fff3061.jpg
 type: being
 social:
   occupation: Clothier
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff3061tok
+  portrait: fff3061
   templatePriority: 1
   gender: male
   species: human

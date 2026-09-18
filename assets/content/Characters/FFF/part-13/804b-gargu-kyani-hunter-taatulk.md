@@ -9,9 +9,6 @@ name:
 id: yHTXrQJNtmgOTo45
 packFolder: fffnonhumans
 shortcode: taatulk
-img: images/fff-13/fff804bhead.webp
-portrait: images/fff-13/fff804b.webp
-tokenImg: images/fff-13/fff804btok.webp
 type: being
 social:
   occupation: Warrior
@@ -22,6 +19,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff804bhead
+  tokenIcon: fff804btok
+  portrait: fff804b
   gender: male
   species: kyani
   age: 6
@@ -125,7 +125,8 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

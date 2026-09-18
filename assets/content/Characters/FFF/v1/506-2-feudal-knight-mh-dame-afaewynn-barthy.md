@@ -9,8 +9,6 @@ name:
 id: Tw7v46qDPFLQrmPJ
 packFolder: fffnobles
 shortcode: dameafaewynnbarthy
-img: images/fffv1/token/fff5062tok.png
-portrait: images/fffv1/fff5062.jpg
 type: being
 social:
   occupation: Knight Bachelor (MH)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5062tok
+  portrait: fff5062
   templatePriority: 1
   gender: female
   species: human

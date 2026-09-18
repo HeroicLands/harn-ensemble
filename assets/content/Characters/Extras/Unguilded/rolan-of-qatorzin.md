@@ -101,7 +101,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 60 } }
     - name: Tribal
       type: skill
-      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 7
@@ -121,13 +122,15 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: "Debt to Money Lender: Lam of Chatil for 97d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

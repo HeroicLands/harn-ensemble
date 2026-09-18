@@ -113,7 +113,8 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - name: Tabol
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 2

@@ -9,8 +9,6 @@ name:
 id: Dgri4vubIECwxvd7
 packFolder: fffguilded
 shortcode: husraasofkjalis
-img: images/fffv1/token/fff3291tok.png
-portrait: images/fffv1/fff3291.jpg
 type: being
 social:
   occupation: Shipwright
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3291tok
+  portrait: fff3291
   templatePriority: 1
   gender: male
   species: human

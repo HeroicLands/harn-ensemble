@@ -9,8 +9,6 @@ name:
 id: eBYgq5F1jBQfU1Tj
 packFolder: fffguilded
 shortcode: kalasofaralsar
-img: images/fffv1/token/fff3041tok.png
-portrait: images/fffv1/fff3041.jpg
 type: being
 social:
   occupation: Chandler
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3041tok
+  portrait: fff3041
   templatePriority: 1
   gender: male
   species: human

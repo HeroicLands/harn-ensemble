@@ -103,7 +103,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Wineskin, small, leather
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
   system:

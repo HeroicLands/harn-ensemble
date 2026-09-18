@@ -9,8 +9,6 @@ name:
 id: cNLfCZnFAc0oKHjd
 packFolder: fffmages
 shortcode: maccusoftixena
-img: images/fffv1/token/fff7031tok.png
-portrait: images/fffv1/fff7031.jpg
 type: being
 social:
   occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)
@@ -23,6 +21,8 @@ harnworld:
     - peoni
     - saveknor
 data:
+  icon: fff7031tok
+  portrait: fff7031
   templatePriority: 1
   gender: male
   species: human
@@ -176,13 +176,15 @@ hm3:
     - { shortcode: sightofeneldir, type: spell }
     - name: Perfect Casting (unique spell)
       type: spell
-      img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+      data:
+        icon: sohl-none-icon-anvil
       system:
         convocation: Jmorvi
         level: 2
     - name: Purification of Silver (unique spell)
       type: spell
-      img: systems/sohl/assets/icons/game-icons/lorc/anvil.svg
+      data:
+        icon: sohl-none-icon-anvil
       system:
         convocation: Jmorvi
         level: 3

@@ -109,7 +109,8 @@ hm3:
     - { shortcode: PAxe, type: weapongear }
     - name: Armor Repair kit
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10
@@ -117,7 +118,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Circlet, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 300
         weight: 0.3125

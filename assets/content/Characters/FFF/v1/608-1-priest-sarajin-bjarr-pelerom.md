@@ -9,8 +9,6 @@ name:
 id: k7q33nHXUCmbrB3b
 packFolder: fffclergy
 shortcode: bjarrpelerom
-img: images/fffv1/token/fff6081tok.png
-portrait: images/fffv1/fff6081.jpg
 type: being
 social:
   occupation: Runemaster
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff6081tok
+  portrait: fff6081
   templatePriority: 1
   gender: male
   species: human
@@ -205,7 +205,8 @@ hm3:
     - { shortcode: sarajinpassageofthesoul, type: invocation }
     - name: Suerlji's Defence
       type: invocation
-      img: systems/hm3/images/icons/png/sarajin.png
+      data:
+        icon: hm3-none-icon-sarajin
       system:
         diety: Sarajin
         circle: 3

@@ -9,8 +9,6 @@ name:
 id: J9U0KvmS9VfntWx5
 packFolder: fffnonhumans
 shortcode: derbis
-img: images/fffv1/token/fff8991tok.png
-portrait: images/fffv1/fff8991.jpg
 type: being
 social:
   occupation: Hunter
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - urklam
 data:
+  icon: fff8991tok
+  portrait: fff8991
   gender: male
   species: ogre
   height: 2.79

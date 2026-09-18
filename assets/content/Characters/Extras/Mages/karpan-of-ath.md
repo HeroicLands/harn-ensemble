@@ -121,7 +121,8 @@ hm3:
     - { shortcode: ablarinsfield, type: spell }
     - name: Aeric's Whisper
       type: spell
-      img: systems/sohl/assets/icons/other/wind.svg
+      data:
+        icon: sohl-none-icon-wind
       system:
         convocation: Lyahvi
     - { shortcode: cloakofkalaerin, type: spell }
@@ -160,13 +161,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Bag/Box of Karadh
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Putrid Bowl of Erag-Kanau
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -174,7 +177,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
@@ -182,7 +186,8 @@ hm3:
     - { shortcode: waterskinsm, type: miscgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

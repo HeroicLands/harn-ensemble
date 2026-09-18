@@ -111,7 +111,8 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03
@@ -120,7 +121,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

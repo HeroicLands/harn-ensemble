@@ -111,7 +111,8 @@ hm3:
     - { shortcode: carpentrykitportable, type: miscgear }
     - name: "Debt to Money Lender: Elan of Pthes for 460d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: SlsCap, type: armorgear }
@@ -119,7 +120,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

@@ -102,7 +102,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Broach, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03
@@ -110,13 +111,15 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 4800
         weight: 0.25
     - name: Ring, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 600
         weight: 0.03

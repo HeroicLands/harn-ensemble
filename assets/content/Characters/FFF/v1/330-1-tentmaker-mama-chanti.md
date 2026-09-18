@@ -9,8 +9,6 @@ name:
 id: DXII1oXhOLZBU8FB
 packFolder: fffguilded
 shortcode: mamachanti
-img: images/fffv1/token/fff3301tok.png
-portrait: images/fffv1/fff3301.jpg
 type: being
 social:
   occupation: Tentmaker
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3301tok
+  portrait: fff3301
   templatePriority: 1
   gender: female
   species: human
@@ -119,7 +119,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Yarn and Needles
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 15 } }

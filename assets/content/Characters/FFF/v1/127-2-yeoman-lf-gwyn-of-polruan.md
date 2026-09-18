@@ -9,8 +9,6 @@ name:
 id: tCS1ybQdOAdXw8qP
 packFolder: fffmilitary
 shortcode: gwynofpolruan
-img: images/fffv1/token/fff1272tok.png
-portrait: images/fffv1/fff1272.jpg
 type: being
 social:
   occupation: Yeoman (LF)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1272tok
+  portrait: fff1272
   templatePriority: 1
   gender: male
   species: human

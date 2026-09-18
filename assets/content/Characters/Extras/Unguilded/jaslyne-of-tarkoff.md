@@ -110,14 +110,16 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Textbook
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 3
     - { shortcode: tndrbx, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

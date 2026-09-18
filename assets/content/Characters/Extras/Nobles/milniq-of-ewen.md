@@ -113,7 +113,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 15
         weight: 0.01
@@ -121,13 +122,15 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 45
         weight: 0.05
     - name: Ring, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 600
         weight: 0.03

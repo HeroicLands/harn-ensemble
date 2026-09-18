@@ -9,9 +9,6 @@ name:
 id: xmbb9aLzr8VGhxZu
 packFolder: fffnonhumans
 shortcode: akeur
-img: images/fff-13/fff804chead.webp
-portrait: images/fff-13/fff804c.webp
-tokenImg: images/fff-13/fff804ctok.webp
 type: being
 social:
   occupation: Gladiator
@@ -22,6 +19,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff804chead
+  tokenIcon: fff804ctok
+  portrait: fff804c
   gender: male
   species: gargu-khanu
   age: 11
@@ -117,7 +117,8 @@ hm3:
     - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
     - name: Gargun Hide
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -127,7 +128,8 @@ hm3:
         protection.fire: 3
     - name: Ring, Brass
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         quantity: 20
         value: 1

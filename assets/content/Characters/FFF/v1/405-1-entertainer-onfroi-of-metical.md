@@ -9,8 +9,6 @@ name:
 id: zGz4dPoGVKfmdnUR
 packFolder: fffunguilded
 shortcode: onfroiofmetical
-img: images/fffv1/token/fff4051tok.png
-portrait: images/fffv1/fff4051.jpg
 type: being
 social:
   occupation: Entertainer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4051tok
+  portrait: fff4051
   templatePriority: 1
   gender: male
   species: human
@@ -130,25 +130,29 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Balls, wooden
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         quantity: 6
         weight: 1
     - { shortcode: torch, type: miscgear, system: { quantity: 3 } }
     - name: Handkerchief
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         quantity: 6
         weight: 1
     - name: Begging bowl
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Taburi target
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LTunic, type: armorgear }

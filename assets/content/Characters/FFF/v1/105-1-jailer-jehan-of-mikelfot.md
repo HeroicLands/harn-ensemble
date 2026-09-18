@@ -9,8 +9,6 @@ name:
 id: AVNsB95rsRck3egC
 packFolder: fffmilitary
 shortcode: jehanofmikelfot
-img: images/fffv1/token/fff1051tok.png
-portrait: images/fffv1/fff1051.jpg
 type: being
 social:
   occupation: Jailer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1051tok
+  portrait: fff1051
   templatePriority: 1
   gender: male
   species: human

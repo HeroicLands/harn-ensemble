@@ -9,8 +9,6 @@ name:
 id: OypR6vo7Y9D5crQ7
 packFolder: fffnobles
 shortcode: damelyesagaravania
-img: images/fffv1/token/fff5073tok.png
-portrait: images/fffv1/fff5073.jpg
 type: being
 social:
   occupation: Knight
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - agrik
 data:
+  icon: fff5073tok
+  portrait: fff5073
   templatePriority: 1
   gender: female
   species: human

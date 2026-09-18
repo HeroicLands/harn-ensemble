@@ -9,8 +9,6 @@ name:
 id: SyAnstLAXUJg1mNZ
 packFolder: fffnobles
 shortcode: taranensal
-img: images/fffv1/token/fff5041tok.png
-portrait: images/fffv1/fff5041.jpg
 type: being
 social:
   occupation: Squire
@@ -21,6 +19,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff5041tok
+  portrait: fff5041
   templatePriority: 1
   gender: male
   species: human

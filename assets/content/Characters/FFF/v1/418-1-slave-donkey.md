@@ -9,8 +9,6 @@ name:
 id: X9QMQDMRJ2tSGvPK
 packFolder: fffunguilded
 shortcode: donkey
-img: images/fffv1/token/fff4181tok.png
-portrait: images/fffv1/fff4181.jpg
 type: being
 social:
   occupation: Slave
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4181tok
+  portrait: fff4181
   templatePriority: 1
   gender: male
   species: human
@@ -103,7 +103,8 @@ hm3:
     - { shortcode: dodge, type: skill, system: { masteryLevel: 81, skillBase: { value: 15 } } }
     - name: Shackles
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: CLoin, type: armorgear }

@@ -112,13 +112,15 @@ hm3:
     - { shortcode: HBw, type: weapongear }
     - name: Spoon of Yavari
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - name: Anklet, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 120
         weight: 0.125

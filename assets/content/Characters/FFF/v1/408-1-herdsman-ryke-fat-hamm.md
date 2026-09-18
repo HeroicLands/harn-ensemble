@@ -10,8 +10,6 @@ name:
 id: eINyh83Kik2WzPWJ
 packFolder: fffunguilded
 shortcode: rykefathamm
-img: images/fffv1/token/fff4081tok.png
-portrait: images/fffv1/fff4081.jpg
 type: being
 social:
   occupation: Herdsman/Beggar
@@ -23,6 +21,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4081tok
+  portrait: fff4081
   templatePriority: 1
   gender: male
   species: human

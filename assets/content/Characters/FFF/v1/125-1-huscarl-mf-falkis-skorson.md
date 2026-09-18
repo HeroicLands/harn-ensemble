@@ -9,8 +9,6 @@ name:
 id: 8op3vcqRYg32R2Bb
 packFolder: fffmilitary
 shortcode: falkisskorson
-img: images/fffv1/token/fff1251tok.png
-portrait: images/fffv1/fff1251.jpg
 type: being
 social:
   occupation: Huscarl (MF)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff1251tok
+  portrait: fff1251
   templatePriority: 1
   gender: male
   species: human

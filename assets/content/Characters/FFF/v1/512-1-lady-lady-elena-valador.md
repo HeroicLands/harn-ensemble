@@ -9,8 +9,6 @@ name:
 id: BlophomZelxk7f6x
 packFolder: fffnobles
 shortcode: ladyelenavalador
-img: images/fffv1/token/fff5121tok.png
-portrait: images/fffv1/fff5121.jpg
 type: being
 social:
   occupation: Chatelaine
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5121tok
+  portrait: fff5121
   templatePriority: 1
   gender: female
   species: human
@@ -159,7 +159,8 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - name: Silk scarf
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 124 } }

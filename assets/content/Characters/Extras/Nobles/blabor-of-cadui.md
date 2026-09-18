@@ -114,14 +114,16 @@ hm3:
     - { shortcode: LKni, type: weapongear }
     - name: Bag/Box of Karadh
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Circlet, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 300
         weight: 0.3125

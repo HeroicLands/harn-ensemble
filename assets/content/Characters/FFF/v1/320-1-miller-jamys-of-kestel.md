@@ -9,8 +9,6 @@ name:
 id: j70pHFJDiYWFrc89
 packFolder: fffguilded
 shortcode: jamysofkestel
-img: images/fffv1/token/fff3201tok.png
-portrait: images/fffv1/fff3201.jpg
 type: being
 social:
   occupation: Miller
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff3201tok
+  portrait: fff3201
   templatePriority: 1
   gender: male
   species: human

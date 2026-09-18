@@ -9,8 +9,6 @@ name:
 id: jAo8s9jZuqDYS5uE
 packFolder: fffbarbarians
 shortcode: canutulachama
-img: images/fffv1/token/fff2071tok.png
-portrait: images/fffv1/fff2071.jpg
 type: being
 social:
   occupation: Shaman
@@ -21,6 +19,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff2071tok
+  portrait: fff2071
   templatePriority: 1
   gender: male
   species: human

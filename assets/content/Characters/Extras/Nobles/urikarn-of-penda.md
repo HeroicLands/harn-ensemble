@@ -111,14 +111,16 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - name: Broach, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 3
         weight: 0.03
     - { shortcode: cookingkitportable, type: miscgear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01

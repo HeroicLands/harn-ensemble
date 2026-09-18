@@ -9,8 +9,6 @@ name:
 id: myAxxYx2A8oZ5RXO
 packFolder: fffguilded
 shortcode: odellofrisene
-img: images/fffv1/token/fff3211tok.png
-portrait: images/fffv1/fff3211.jpg
 type: being
 social:
   occupation: Miner
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3211tok
+  portrait: fff3211
   templatePriority: 1
   gender: male
   species: human

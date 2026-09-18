@@ -9,8 +9,6 @@ name:
 id: sJ8YQArkYr9NyWD7
 packFolder: fffguilded
 shortcode: bartonofgelram
-img: images/fffv1/token/fff3121tok.png
-portrait: images/fffv1/fff3121.jpg
 type: being
 social:
   occupation: Innkeeper
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3121tok
+  portrait: fff3121
   templatePriority: 1
   gender: male
   species: human
@@ -125,7 +125,8 @@ hm3:
     - { shortcode: Clb, type: weapongear }
     - name: Cleaver
       type: weapongear
-      img: systems/sohl/assets/icons/other/axe.svg
+      data:
+        icon: sohl-none-icon-axe
       system:
         value: 72
         weight: 3

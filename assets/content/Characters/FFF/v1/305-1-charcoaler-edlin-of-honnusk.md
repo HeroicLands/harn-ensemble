@@ -9,8 +9,6 @@ name:
 id: IABsoOo9Wrvq3gef
 packFolder: fffguilded
 shortcode: edlinofhonnusk
-img: images/fffv1/token/fff3051tok.png
-portrait: images/fffv1/fff3051.jpg
 type: being
 social:
   occupation: Charcoaler
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3051tok
+  portrait: fff3051
   templatePriority: 1
   gender: male
   species: human

@@ -106,7 +106,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Alchemical Recipe book
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 5
@@ -117,7 +118,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 75
         weight: 0.5

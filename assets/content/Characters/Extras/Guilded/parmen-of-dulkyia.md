@@ -103,13 +103,15 @@ hm3:
     - { shortcode: backbagmed, type: containergear }
     - name: Metalcrafter's kit
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 24
         weight: 10
     - name: Ring, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 600
         weight: 0.03

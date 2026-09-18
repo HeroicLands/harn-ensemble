@@ -9,8 +9,6 @@ name:
 id: HA20lpK82ZkXFWXH
 packFolder: fffguilded
 shortcode: jamarofhacherdad
-img: images/fffv1/token/fff3231tok.png
-portrait: images/fffv1/fff3231.jpg
 type: being
 social:
   occupation: Perfumer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - nalma
 data:
+  icon: fff3231tok
+  portrait: fff3231
   templatePriority: 1
   gender: male
   species: human

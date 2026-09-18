@@ -9,8 +9,6 @@ name:
 id: haxul5DyGPaSevm2
 packFolder: fffguilded
 shortcode: orliroffulkne
-img: images/fffv1/token/fff3161tok.png
-portrait: images/fffv1/fff3161.jpg
 type: being
 social:
   occupation: Locksmith
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3161tok
+  portrait: fff3161
   templatePriority: 1
   gender: male
   species: human

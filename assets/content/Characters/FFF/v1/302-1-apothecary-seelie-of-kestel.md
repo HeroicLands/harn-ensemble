@@ -9,8 +9,6 @@ name:
 id: VOy3LZUdyhYtFwqS
 packFolder: fffguilded
 shortcode: seelieofkestel
-img: images/fffv1/token/fff3021tok.png
-portrait: images/fffv1/fff3021.jpg
 type: being
 social:
   occupation: Apothecary
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3021tok
+  portrait: fff3021
   templatePriority: 1
   gender: female
   species: human
@@ -149,7 +149,8 @@ hm3:
     - { shortcode: vialglassm, type: miscgear, system: { quantity: 5 } }
     - name: Panier, medium
       type: containergear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         value: 8
         weight: 2

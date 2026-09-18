@@ -101,7 +101,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 36 } }
     - name: Tribal
       type: skill
-      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 11
@@ -119,19 +120,22 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Valeth of Durnwak for 119d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Earing, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01

@@ -9,8 +9,6 @@ name:
 id: sthqPBiIzMN0umog
 packFolder: fffmilitary
 shortcode: tokisvalgerdsson
-img: images/fffv1/token/fff1242tok.png
-portrait: images/fffv1/fff1242.jpg
 type: being
 social:
   occupation: Clansman (UF)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff1242tok
+  portrait: fff1242
   templatePriority: 1
   gender: male
   species: human

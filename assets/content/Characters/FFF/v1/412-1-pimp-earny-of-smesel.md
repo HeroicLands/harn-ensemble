@@ -9,8 +9,6 @@ name:
 id: F50ca7QxQTd0R0an
 packFolder: fffunguilded
 shortcode: earnyofsmesel
-img: images/fffv1/token/fff4121tok.png
-portrait: images/fffv1/fff4121.jpg
 type: being
 social:
   occupation: Pimp
@@ -21,6 +19,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff4121tok
+  portrait: fff4121
   templatePriority: 1
   gender: male
   species: human

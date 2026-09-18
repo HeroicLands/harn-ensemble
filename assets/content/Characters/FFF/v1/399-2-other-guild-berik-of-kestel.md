@@ -9,8 +9,6 @@ name:
 id: tdj4wiuYXKyinfOG
 packFolder: fffguilded
 shortcode: berikofkestel
-img: images/fffv1/token/fff3992tok.png
-portrait: images/fffv1/fff3992.jpg
 type: being
 social:
   occupation: Other (Guild) - Child
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff3992tok
+  portrait: fff3992
   templatePriority: 1
   gender: male
   species: human
@@ -118,7 +118,8 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - name: Belt, rope
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: SSton, type: missilegear, name: Stone (Sling), system: { quantity: 20 } }

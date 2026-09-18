@@ -9,8 +9,6 @@ name:
 id: o1TBjF89VeUt8Gxh
 packFolder: fffmilitary
 shortcode: sergeantyerickoferam
-img: images/fffv1/token/fff1031tok.png
-portrait: images/fffv1/fff1031.jpg
 type: being
 social:
   occupation: Fighting Order (MF)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff1031tok
+  portrait: fff1031
   templatePriority: 1
   gender: male
   species: human

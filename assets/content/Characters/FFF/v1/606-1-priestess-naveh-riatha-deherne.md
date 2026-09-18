@@ -9,8 +9,6 @@ name:
 id: 78QD3CkEWFGwFie3
 packFolder: fffclergy
 shortcode: riathadeherne
-img: images/fffv1/token/fff6061tok.png
-portrait: images/fffv1/fff6061.jpg
 type: being
 social:
   occupation: Navehan Priestess
@@ -23,6 +21,8 @@ harnworld:
     - naveh
     - peoni
 data:
+  icon: fff6061tok
+  portrait: fff6061
   templatePriority: 1
   gender: female
   species: human
@@ -179,7 +179,8 @@ hm3:
     - { shortcode: yulprisuniversalantidote, type: miscgear, system: { quantity: 6 } }
     - name: Wool Scarf
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: WTunic, type: armorgear }
@@ -195,7 +196,8 @@ hm3:
     - { shortcode: veshastale, type: invocation }
     - name: Eyes of Dekjis
       type: invocation
-      img: systems/hm3/images/icons/png/peoni.png
+      data:
+        icon: hm3-none-icon-peoni
       system:
         diety: Peoni
         circle: 3

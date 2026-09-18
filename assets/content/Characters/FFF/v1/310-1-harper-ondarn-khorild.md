@@ -9,8 +9,6 @@ name:
 id: UHhx7MSVKR5Zszng
 packFolder: fffguilded
 shortcode: ondarnkhorild
-img: images/fffv1/token/fff3101tok.png
-portrait: images/fffv1/fff3101.jpg
 type: being
 social:
   occupation: Harper
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3101tok
+  portrait: fff3101
   templatePriority: 1
   gender: male
   species: human

@@ -103,7 +103,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01
@@ -111,7 +112,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Mason's kit
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 36
         weight: 15

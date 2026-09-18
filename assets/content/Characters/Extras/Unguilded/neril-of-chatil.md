@@ -114,7 +114,8 @@ hm3:
     - { shortcode: ShrtSwd, type: weapongear }
     - name: Anklet, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.125
@@ -123,7 +124,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 45
         weight: 0.05

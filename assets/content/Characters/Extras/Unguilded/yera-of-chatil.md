@@ -105,7 +105,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 48 } }
     - name: Tribal
       type: skill
-      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 11
@@ -126,7 +127,8 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - name: "Debt to Money Lender: Habin of Hilrin for 180d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

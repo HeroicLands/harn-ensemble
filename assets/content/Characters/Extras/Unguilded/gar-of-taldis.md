@@ -108,7 +108,8 @@ hm3:
     - { shortcode: cagesmwooden, type: miscgear }
     - name: Doshenkana, 10 doses
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 175
         weight: 1
@@ -116,7 +117,8 @@ hm3:
     - { shortcode: lanternmet, type: miscgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.05

@@ -9,8 +9,6 @@ name:
 id: jW8F24E2EwEro9xh
 packFolder: fffunguilded
 shortcode: koraofserdica
-img: images/fffv1/token/fff4991tok.png
-portrait: images/fffv1/fff4991.jpg
 type: being
 social:
   occupation: Wise Woman
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - "custom|Old Jarin"
 data:
+  icon: fff4991tok
+  portrait: fff4991
   templatePriority: 1
   gender: female
   species: human
@@ -110,7 +110,8 @@ hm3:
           value: 15
     - name: Old Jarin
       type: skill
-      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 15

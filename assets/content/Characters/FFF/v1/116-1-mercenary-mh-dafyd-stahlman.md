@@ -9,8 +9,6 @@ name:
 id: oiUcJk2TCeTO6X26
 packFolder: fffmilitary
 shortcode: dafydstahlman
-img: images/fffv1/token/fff1161tok.png
-portrait: images/fffv1/fff1161.jpg
 type: being
 social:
   occupation: Mercenary (MH)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - agrik
 data:
+  icon: fff1161tok
+  portrait: fff1161
   templatePriority: 1
   gender: male
   species: human

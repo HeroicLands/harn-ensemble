@@ -111,7 +111,8 @@ hm3:
     - { shortcode: carpentrykitportable, type: miscgear }
     - name: "Debt to Money Lender: Verallax of Parin for 207d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

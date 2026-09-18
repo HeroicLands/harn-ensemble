@@ -127,7 +127,8 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 75
         weight: 0.5

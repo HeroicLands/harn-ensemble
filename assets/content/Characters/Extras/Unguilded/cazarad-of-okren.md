@@ -101,7 +101,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 52 } }
     - name: Tribal
       type: skill
-      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 11
@@ -121,13 +122,15 @@ hm3:
     - { shortcode: SBw, type: weapongear }
     - name: Arrow, dozen
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: beltpouchl3, type: containergear }
     - name: "Debt to Money Lender: Garostarlamnarias of Porde for 363d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: ropehempperft330lbcap, type: miscgear }

@@ -107,13 +107,15 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 225
         weight: 0.01
     - name: Fishhooks, dozen
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

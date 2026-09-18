@@ -9,8 +9,6 @@ name:
 id: 19nAFdKfLgGHbkzx
 packFolder: fffnobles
 shortcode: lordemmonwisby
-img: images/fffv1/token/fff5051tok.png
-portrait: images/fffv1/fff5051.jpg
 type: being
 social:
   occupation: Herald
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5051tok
+  portrait: fff5051
   templatePriority: 1
   gender: male
   species: human

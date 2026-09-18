@@ -9,8 +9,6 @@ name:
 id: I16NOoLaxr3RXM8E
 packFolder: fffunguilded
 shortcode: romontofaddy
-img: images/fffv1/token/fff4191tok.png
-portrait: images/fffv1/fff4191.jpg
 type: being
 social:
   occupation: Teamster
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4191tok
+  portrait: fff4191
   templatePriority: 1
   gender: male
   species: human

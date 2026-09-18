@@ -9,8 +9,6 @@ name:
 id: aghrGYgVl3ACbIz7
 packFolder: fffnobles
 shortcode: sirjornstury
-img: images/fffv1/token/fff5102tok.png
-portrait: images/fffv1/fff5102.jpg
 type: being
 social:
   occupation: Royal Agent
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5102tok
+  portrait: fff5102
   templatePriority: 1
   gender: male
   species: human

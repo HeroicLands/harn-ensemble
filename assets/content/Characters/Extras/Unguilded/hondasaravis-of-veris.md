@@ -101,13 +101,15 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Axe, wood handle
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 3
     - name: "Debt to Money Lender: Hollo of Kare for 17d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }

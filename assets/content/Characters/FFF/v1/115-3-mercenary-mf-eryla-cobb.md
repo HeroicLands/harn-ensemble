@@ -9,8 +9,6 @@ name:
 id: HMdk5hHSK8CiaDIO
 packFolder: fffmilitary
 shortcode: erylacobb
-img: images/fffv1/token/fff1153tok.png
-portrait: images/fffv1/fff1153.jpg
 type: being
 social:
   occupation: Mercenary (MF)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff1153tok
+  portrait: fff1153
   templatePriority: 1
   gender: male
   species: human

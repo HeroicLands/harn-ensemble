@@ -9,8 +9,6 @@ name:
 id: p0Fuj2jIfStY3daR
 packFolder: fffunguilded
 shortcode: gathricofdeschu
-img: images/fffv1/token/fff4171tok.png
-portrait: images/fffv1/fff4171.jpg
 type: being
 social:
   occupation: Servant
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4171tok
+  portrait: fff4171
   templatePriority: 1
   gender: male
   species: human

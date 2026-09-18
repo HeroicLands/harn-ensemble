@@ -9,8 +9,6 @@ name:
 id: fmub4svRhzTqgHvi
 packFolder: fffmilitary
 shortcode: melasrenier
-img: images/fffv1/token/fff1221tok.png
-portrait: images/fffv1/fff1221.jpg
 type: being
 social:
   occupation: Ranger
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1221tok
+  portrait: fff1221
   templatePriority: 1
   gender: male
   species: sindarin
@@ -206,17 +206,20 @@ hm3:
     - { shortcode: MByr, type: armorgear }
     - name: Boots of Turentan
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Cloak of Turentan
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: Cord of Querelia-Sim
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

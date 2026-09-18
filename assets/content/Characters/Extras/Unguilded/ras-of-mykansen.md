@@ -109,7 +109,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.25

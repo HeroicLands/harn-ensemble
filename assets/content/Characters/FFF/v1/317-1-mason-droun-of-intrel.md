@@ -9,8 +9,6 @@ name:
 id: LichuZPDbvMhBsKm
 packFolder: fffguilded
 shortcode: drounofintrel
-img: images/fffv1/token/fff3171tok.png
-portrait: images/fffv1/fff3171.jpg
 type: being
 social:
   occupation: Mason
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3171tok
+  portrait: fff3171
   templatePriority: 1
   gender: male
   species: human

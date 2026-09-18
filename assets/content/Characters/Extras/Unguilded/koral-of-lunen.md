@@ -101,7 +101,8 @@ hm3:
     - { shortcode: weatherlore, type: skill, system: { masteryLevel: 48 } }
     - name: Tribal
       type: skill
-      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 12

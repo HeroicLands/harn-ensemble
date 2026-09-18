@@ -9,9 +9,6 @@ name:
 id: EJWcOWDJi0AriwyB
 packFolder: fffnonhumans
 shortcode: fetch
-img: images/fff-13/fff804fhead.webp
-portrait: images/fff-13/fff804f.webp
-tokenImg: images/fff-13/fff804ftok.webp
 type: being
 social:
   occupation: Thief
@@ -22,6 +19,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff804fhead
+  tokenIcon: fff804ftok
+  portrait: fff804f
   gender: male
   species: gargu-araki
   age: 7
@@ -121,7 +121,8 @@ hm3:
     - { shortcode: FtLgKn, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

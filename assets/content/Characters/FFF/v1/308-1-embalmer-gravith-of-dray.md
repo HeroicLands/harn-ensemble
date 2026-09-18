@@ -9,8 +9,6 @@ name:
 id: rNdQ4oqbCEsEL6p0
 packFolder: fffguilded
 shortcode: gravithofdray
-img: images/fffv1/token/fff3081tok.png
-portrait: images/fffv1/fff3081.jpg
 type: being
 social:
   occupation: Embalmer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3081tok
+  portrait: fff3081
   templatePriority: 1
   gender: male
   species: human

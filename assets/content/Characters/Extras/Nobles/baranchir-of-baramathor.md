@@ -110,7 +110,8 @@ hm3:
     - { shortcode: LKni, type: weapongear }
     - name: Green Eye of Turembor
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -122,7 +123,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

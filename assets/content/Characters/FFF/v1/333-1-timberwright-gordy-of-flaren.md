@@ -9,8 +9,6 @@ name:
 id: rbMRdFECTlSZuiP7
 packFolder: fffguilded
 shortcode: gordyofflaren
-img: images/fffv1/token/fff3331tok.png
-portrait: images/fffv1/fff3331.jpg
 type: being
 social:
   occupation: Timberwright
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3331tok
+  portrait: fff3331
   templatePriority: 1
   gender: male
   species: human

@@ -107,7 +107,8 @@ hm3:
     - { shortcode: ablarinsfield, type: spell }
     - name: Aeric's Whisper
       type: spell
-      img: systems/sohl/assets/icons/other/wind.svg
+      data:
+        icon: sohl-none-icon-wind
       system:
         convocation: Lyahvi
     - { shortcode: cloakofkalaerin, type: spell }
@@ -136,14 +137,16 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: L'kiri-Wysan
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
     - { shortcode: tndrbx, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2

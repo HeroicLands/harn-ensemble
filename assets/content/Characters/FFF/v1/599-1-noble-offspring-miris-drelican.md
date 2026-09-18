@@ -9,8 +9,6 @@ name:
 id: f3ABHIZWjs5Fq7o6
 packFolder: fffnobles
 shortcode: mirisdrelican
-img: images/fffv1/token/fff5991tok.png
-portrait: images/fffv1/fff5991.jpg
 type: being
 social:
   occupation: Noble Offspring
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5991tok
+  portrait: fff5991
   templatePriority: 1
   gender: male
   species: human

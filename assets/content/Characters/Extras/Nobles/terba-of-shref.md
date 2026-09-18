@@ -114,7 +114,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 15
         weight: 0.01
@@ -122,7 +123,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

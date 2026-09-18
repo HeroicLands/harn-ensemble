@@ -9,8 +9,6 @@ name:
 id: jqxwcglOWSbmKmea
 packFolder: fffmages
 shortcode: elrosofmerin
-img: images/fffv1/token/fff7051tok.png
-portrait: images/fffv1/fff7051.jpg
 type: being
 social:
   occupation: Ship Captain
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff7051tok
+  portrait: fff7051
   templatePriority: 1
   gender: male
   species: human
@@ -165,7 +165,8 @@ hm3:
     - { shortcode: azurehand, type: spell }
     - name: Power of Vadan
       type: spell
-      img: systems/sohl/assets/icons/game-icons/skoll/pentacle.svg
+      data:
+        icon: sohl-none-icon-pentacle
       system:
         convocation: Odivshe
     - { shortcode: chalsassponge, type: spell }
@@ -173,7 +174,8 @@ hm3:
     - { shortcode: mouthoflathal, type: spell }
     - name: Merin's Waves
       type: spell
-      img: systems/sohl/assets/icons/game-icons/skoll/pentacle.svg
+      data:
+        icon: sohl-none-icon-pentacle
       system:
         convocation: Odivshe
         level: 3
@@ -187,7 +189,8 @@ hm3:
     - { shortcode: lothskey, type: spell }
     - name: Aeric's Whisper
       type: spell
-      img: systems/sohl/assets/icons/other/wind.svg
+      data:
+        icon: sohl-none-icon-wind
       system:
         convocation: Lyahvi
     - { shortcode: pence, type: miscgear, system: { quantity: 237 } }

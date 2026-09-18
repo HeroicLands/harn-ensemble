@@ -9,8 +9,6 @@ name:
 id: h6AmrO8QAYJ1tYnX
 packFolder: fffunguilded
 shortcode: draminnaradas
-img: images/fffv1/token/fff4011tok.png
-portrait: images/fffv1/fff4011.jpg
 type: being
 social:
   occupation: Animal Trainer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4011tok
+  portrait: fff4011
   templatePriority: 1
   gender: male
   species: human

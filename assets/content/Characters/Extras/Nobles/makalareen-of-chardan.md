@@ -116,7 +116,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01
@@ -124,7 +125,8 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Scabbard, sword
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 48
         weight: 1

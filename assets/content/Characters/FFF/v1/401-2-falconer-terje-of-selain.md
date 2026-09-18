@@ -9,8 +9,6 @@ name:
 id: lcDjXC4Bp1fhprQv
 packFolder: fffunguilded
 shortcode: terjeofselain
-img: images/fffv1/token/fff4012tok.png
-portrait: images/fffv1/fff4012.jpg
 type: being
 social:
   occupation: Falconer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4012tok
+  portrait: fff4012
   templatePriority: 1
   gender: male
   species: human

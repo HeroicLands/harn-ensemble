@@ -9,8 +9,6 @@ name:
 id: wTSGybbTCUf7Xdgi
 packFolder: fffguilded
 shortcode: rybrynofdara
-img: images/fffv1/token/fff3323tok.png
-portrait: images/fffv1/fff3323.jpg
 type: being
 social:
   occupation: Unguilded thief
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff3323tok
+  portrait: fff3323
   templatePriority: 1
   gender: female
   species: human

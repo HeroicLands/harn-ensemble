@@ -9,8 +9,6 @@ name:
 id: qvLzM1HO7661euis
 packFolder: fffclergy
 shortcode: balisofjiml
-img: images/fffv1/token/fff6072tok.png
-portrait: images/fffv1/fff6072.jpg
 type: being
 social:
   occupation: Peonian Acolyte
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff6072tok
+  portrait: fff6072
   templatePriority: 1
   gender: male
   species: human

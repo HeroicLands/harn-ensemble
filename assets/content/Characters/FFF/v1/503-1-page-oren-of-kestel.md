@@ -9,8 +9,6 @@ name:
 id: RWymnuimvX4tvFSL
 packFolder: fffnobles
 shortcode: orenofkestel
-img: images/fffv1/token/fff5031tok.png
-portrait: images/fffv1/fff5031.jpg
 type: being
 social:
   occupation: Page
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5031tok
+  portrait: fff5031
   templatePriority: 1
   gender: male
   species: human

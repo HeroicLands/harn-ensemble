@@ -9,8 +9,6 @@ name:
 id: mKKZFqqi9mBqoiFw
 packFolder: fffguilded
 shortcode: llawaurtam
-img: images/fffv1/token/fff3242tok.png
-portrait: images/fffv1/fff3242.jpg
 type: being
 social:
   occupation: Physician
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3242tok
+  portrait: fff3242
   templatePriority: 1
   gender: male
   species: human
@@ -176,7 +176,8 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - name: Fork
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: Very pretentious
         weight: 1

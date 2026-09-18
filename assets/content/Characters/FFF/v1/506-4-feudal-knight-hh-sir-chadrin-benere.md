@@ -9,8 +9,6 @@ name:
 id: TJDHmy9dazsUhB7b
 packFolder: fffnobles
 shortcode: sirchadrinbenere
-img: images/fffv1/token/fff5064tok.png
-portrait: images/fffv1/fff5064.jpg
 type: being
 social:
   occupation: Knight Bachelor (HH)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5064tok
+  portrait: fff5064
   templatePriority: 1
   gender: male
   species: human

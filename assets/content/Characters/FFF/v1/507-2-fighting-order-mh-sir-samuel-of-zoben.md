@@ -9,8 +9,6 @@ name:
 id: 9o0fxrdxnNpPstOe
 packFolder: fffnobles
 shortcode: sirsamuelofzoben
-img: images/fffv1/token/fff5072tok.png
-portrait: images/fffv1/fff5072.jpg
 type: being
 social:
   occupation: Knight/Spy
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5072tok
+  portrait: fff5072
   templatePriority: 1
   gender: male
   species: human

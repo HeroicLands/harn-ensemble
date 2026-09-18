@@ -9,8 +9,6 @@ name:
 id: fxyjVCZd3d3TokVH
 packFolder: fffmilitary
 shortcode: enilofperyne
-img: images/fffv1/token/fff1274tok.png
-portrait: images/fffv1/fff1274.jpg
 type: being
 social:
   occupation: Yeoman (SB)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1274tok
+  portrait: fff1274
   templatePriority: 1
   gender: male
   species: human

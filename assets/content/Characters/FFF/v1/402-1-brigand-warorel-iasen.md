@@ -9,8 +9,6 @@ name:
 id: 0wZyta0rVtXJ1YDp
 packFolder: fffunguilded
 shortcode: waroreliasen
-img: images/fffv1/token/fff4021tok.png
-portrait: images/fffv1/fff4021.jpg
 type: being
 social:
   occupation: Brigand
@@ -21,6 +19,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff4021tok
+  portrait: fff4021
   templatePriority: 1
   gender: male
   species: human

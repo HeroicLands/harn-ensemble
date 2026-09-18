@@ -9,8 +9,6 @@ name:
 id: HArxJjxZFXt5sqO8
 packFolder: fffmages
 shortcode: shanseagaravania
-img: images/fffv1/token/fff7061tok.png
-portrait: images/fffv1/fff7061.jpg
 type: being
 social:
   occupation: Savoryan Shek-Pvar
@@ -21,6 +19,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff7061tok
+  portrait: fff7061
   templatePriority: 1
   gender: female
   species: human
@@ -163,7 +163,8 @@ hm3:
     - { shortcode: neutral, type: skill, system: { masteryLevel: 80, skillBase: { value: 16 } } }
     - name: Dispel
       type: spell
-      img: systems/sohl/assets/icons/game-icons/skoll/pentacle.svg
+      data:
+        icon: sohl-none-icon-pentacle
       system:
         convocation: Neutral
     - { shortcode: focus, type: spell }

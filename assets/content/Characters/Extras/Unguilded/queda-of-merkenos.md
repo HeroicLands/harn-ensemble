@@ -100,7 +100,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Elprequir, 1 dose
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 18
         weight: 0.1
@@ -108,13 +109,15 @@ hm3:
     - { shortcode: mirrorbron, type: miscgear }
     - name: Opiates, 1 oz
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 106
         weight: 0.1
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.05

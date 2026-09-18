@@ -101,7 +101,8 @@ hm3:
     - { shortcode: fishingkitportable, type: miscgear }
     - name: Fishing line, 50'
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 10
         weight: 0.5

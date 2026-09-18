@@ -9,8 +9,6 @@ name:
 id: wxCq5wuoFDXB55JX
 packFolder: fffbarbarians
 shortcode: mugapsawei
-img: images/fffv1/token/fff2062tok.png
-portrait: images/fffv1/fff2062.jpg
 type: being
 social:
   occupation: Hunter
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - korr
 data:
+  icon: fff2062tok
+  portrait: fff2062
   templatePriority: 1
   gender: male
   species: human

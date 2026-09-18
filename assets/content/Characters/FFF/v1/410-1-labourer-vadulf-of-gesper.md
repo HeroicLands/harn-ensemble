@@ -9,8 +9,6 @@ name:
 id: bA9xc7ZXJEJdXRha
 packFolder: fffunguilded
 shortcode: vadulfofgesper
-img: images/fffv1/token/fff4101tok.png
-portrait: images/fffv1/fff4101.jpg
 type: being
 social:
   occupation: Labourer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4101tok
+  portrait: fff4101
   templatePriority: 1
   gender: male
   species: human

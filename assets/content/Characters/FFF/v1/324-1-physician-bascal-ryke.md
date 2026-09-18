@@ -9,8 +9,6 @@ name:
 id: EH1Rs3rQVVy0oBAt
 packFolder: fffguilded
 shortcode: bascalryke
-img: images/fffv1/token/fff3241tok.png
-portrait: images/fffv1/fff3241.jpg
 type: being
 social:
   occupation: Physician
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3241tok
+  portrait: fff3241
   templatePriority: 1
   gender: male
   species: human

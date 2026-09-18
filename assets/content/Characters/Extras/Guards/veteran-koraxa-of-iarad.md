@@ -113,13 +113,15 @@ hm3:
     - { shortcode: ShrtSwd, type: weapongear }
     - name: Anklet, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 120
         weight: 0.125
     - name: "Debt to Money Lender: Pamjul of Fengeldir for 32d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

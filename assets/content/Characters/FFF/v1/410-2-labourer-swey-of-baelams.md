@@ -9,8 +9,6 @@ name:
 id: w2vH7cnipVCJSRLA
 packFolder: fffunguilded
 shortcode: sweyofbaelams
-img: images/fffv1/token/fff4102tok.png
-portrait: images/fffv1/fff4102.jpg
 type: being
 social:
   occupation: Labourer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4102tok
+  portrait: fff4102
   templatePriority: 1
   gender: male
   species: human

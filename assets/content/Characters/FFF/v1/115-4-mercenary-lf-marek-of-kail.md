@@ -9,8 +9,6 @@ name:
 id: aRJme3GFrpfTgRe6
 packFolder: fffmilitary
 shortcode: marekofkail
-img: images/fffv1/token/fff1154tok.png
-portrait: images/fffv1/fff1154.jpg
 type: being
 social:
   occupation: Mercenary (LF)
@@ -23,6 +21,8 @@ harnworld:
     - larani
     - peoni
 data:
+  icon: fff1154tok
+  portrait: fff1154
   templatePriority: 1
   gender: male
   species: human

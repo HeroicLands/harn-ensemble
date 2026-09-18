@@ -9,8 +9,6 @@ name:
 id: ssnt13YqynwruYqK
 packFolder: fffmilitary
 shortcode: lavrooforostal
-img: images/fffv1/token/fff1181tok.png
-portrait: images/fffv1/fff1181.jpg
 type: being
 social:
   occupation: Scout (SB)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff1181tok
+  portrait: fff1181
   templatePriority: 1
   gender: male
   species: human

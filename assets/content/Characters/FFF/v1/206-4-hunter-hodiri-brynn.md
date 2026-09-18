@@ -9,8 +9,6 @@ name:
 id: xXKM2CAPcBrSpgks
 packFolder: fffbarbarians
 shortcode: brynn
-img: images/fffv1/token/fff2064tok.png
-portrait: images/fffv1/fff2064.jpg
 type: being
 social:
   occupation: Hunter
@@ -21,6 +19,8 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff2064tok
+  portrait: fff2064
   templatePriority: 1
   gender: male
   species: human

@@ -101,14 +101,16 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01
     - { shortcode: LtCap, type: armorgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

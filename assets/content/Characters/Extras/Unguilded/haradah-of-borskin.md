@@ -113,7 +113,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

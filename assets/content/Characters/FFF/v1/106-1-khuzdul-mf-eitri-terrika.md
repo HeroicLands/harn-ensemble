@@ -9,8 +9,6 @@ name:
 id: m0mas15prhAdcHKM
 packFolder: fffmilitary
 shortcode: eitriterrika
-img: images/fffv1/token/fff1061tok.png
-portrait: images/fffv1/fff1061.jpg
 type: being
 social:
   occupation: Clansman (MF)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1061tok
+  portrait: fff1061
   templatePriority: 1
   gender: male
   species: khuzdul

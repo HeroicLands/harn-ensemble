@@ -105,7 +105,8 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - name: Leggins, leather
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }

@@ -9,8 +9,6 @@ name:
 id: FFlbxLmRBPnYXtRh
 packFolder: fffguilded
 shortcode: fiskhorval
-img: images/fffv1/token/fff3152tok.png
-portrait: images/fffv1/fff3152.jpg
 type: being
 social:
   occupation: Lawspeaker
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sarajin
 data:
+  icon: fff3152tok
+  portrait: fff3152
   templatePriority: 1
   gender: male
   species: human

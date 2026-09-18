@@ -9,8 +9,6 @@ name:
 id: FhJJONaF4YMgTlz6
 packFolder: fffguilded
 shortcode: rakocziofaymar
-img: images/fffv1/token/fff3011tok.png
-portrait: images/fffv1/fff3011.jpg
 type: being
 social:
   occupation: Alchemist
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff3011tok
+  portrait: fff3011
   templatePriority: 1
   gender: male
   species: human
@@ -127,14 +127,16 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Vial of Strong Acid
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         quantity: 2
         weight: 1
     - { shortcode: limestonep, type: miscgear }
     - name: Iron Flask of Quicksilver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: LTunic, type: armorgear }

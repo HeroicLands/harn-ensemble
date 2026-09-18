@@ -9,8 +9,6 @@ name:
 id: YNSUEn5YOAx5neoX
 packFolder: fffclergy
 shortcode: torisofpeyne
-img: images/fffv1/token/fff6071tok.png
-portrait: images/fffv1/fff6071.jpg
 type: being
 social:
   occupation: Peonian Priest
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff6071tok
+  portrait: fff6071
   templatePriority: 1
   gender: male
   species: human
@@ -169,7 +169,8 @@ hm3:
     - { shortcode: parchment, type: miscgear }
     - name: Notebook
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         value: 50
         weight: 2

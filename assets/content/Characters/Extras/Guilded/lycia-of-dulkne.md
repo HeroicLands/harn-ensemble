@@ -100,7 +100,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Axe, wood handle
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 3
@@ -109,7 +110,8 @@ hm3:
     - { shortcode: RCap, type: armorgear }
     - name: Ring, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 30
         weight: 0.03

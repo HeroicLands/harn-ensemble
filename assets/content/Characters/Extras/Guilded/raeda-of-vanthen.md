@@ -104,7 +104,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Alchemical Recipe book
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 150
         weight: 5
@@ -113,7 +114,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Scale/balance
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 72
         weight: 5

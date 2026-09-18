@@ -9,9 +9,6 @@ name:
 id: 3gj42cB0umNbiGez
 packFolder: fffmages
 shortcode: mabresen
-img: images/fff-13/fff704ahead.webp
-portrait: images/fff-13/fff704a.webp
-tokenImg: images/fff-13/fff704atok.webp
 type: being
 social:
   occupation: Shek-Pvar
@@ -23,6 +20,9 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff704ahead
+  tokenIcon: fff704atok
+  portrait: fff704a
   templatePriority: 1
   gender: male
   species: human
@@ -136,26 +136,30 @@ hm3:
     - { shortcode: penquill, type: miscgear, system: { quantity: 4 } }
     - name: Parchment scraps
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: fyvria, type: skill, system: { masteryLevel: 86 } }
     - { shortcode: neutral, type: skill, system: { masteryLevel: 45 } }
     - name: Theron's Larder
       type: spell
-      img: systems/sohl/assets/icons/other/tree.svg
+      data:
+        icon: sohl-none-icon-tree
       system:
         convocation: Fyvria
     - { shortcode: verdanthand, type: spell }
     - name: Love Perfume
       type: spell
-      img: systems/sohl/assets/icons/other/tree.svg
+      data:
+        icon: sohl-none-icon-tree
       system:
         convocation: Fyvria
         level: 2
     - name: M'Nogai Reaping
       type: spell
-      img: systems/sohl/assets/icons/other/tree.svg
+      data:
+        icon: sohl-none-icon-tree
       system:
         convocation: Fyvria
         level: 3

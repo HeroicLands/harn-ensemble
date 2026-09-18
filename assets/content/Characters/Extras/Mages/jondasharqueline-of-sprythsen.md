@@ -134,7 +134,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Bag/Box of Indethan
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -143,7 +144,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Notebook
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 50
         weight: 2
@@ -151,7 +153,8 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - name: Runestones, Set
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 40
         weight: 2
@@ -159,7 +162,8 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - name: Tarot Cards, deck
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 75
         weight: 0.5

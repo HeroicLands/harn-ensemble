@@ -9,9 +9,6 @@ name:
 id: 4s2kMbsyAnjadFUk
 packFolder: fffnonhumans
 shortcode: feazurk
-img: images/fff-13/fff804ahead.webp
-portrait: images/fff-13/fff804a.webp
-tokenImg: images/fff-13/fff804atok.webp
 type: being
 social:
   occupation: Warrior
@@ -22,6 +19,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff804ahead
+  tokenIcon: fff804atok
+  portrait: fff804a
   gender: male
   species: viasal
   age: 12
@@ -116,7 +116,8 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -128,7 +129,8 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - name: Amulet, Stone
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         notes: Enchanted, Amulet of Feazurk
         value: 1

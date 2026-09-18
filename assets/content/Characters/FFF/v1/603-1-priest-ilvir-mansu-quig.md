@@ -9,8 +9,6 @@ name:
 id: a77bAdISmJuD2xNf
 packFolder: fffclergy
 shortcode: mansuquig
-img: images/fffv1/token/fff6031tok.png
-portrait: images/fffv1/fff6031.jpg
 type: being
 social:
   occupation: Ilviran Priest
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff6031tok
+  portrait: fff6031
   templatePriority: 1
   gender: male
   species: human
@@ -162,7 +162,8 @@ hm3:
     - { shortcode: ilvirpassageofthesoul, type: invocation }
     - name: Labour of Chuchlaen
       type: invocation
-      img: systems/hm3/images/icons/png/ilvir.png
+      data:
+        icon: hm3-none-icon-ilvir
       system:
         diety: Ilvir
         circle: 2
@@ -172,7 +173,8 @@ hm3:
     - { shortcode: ilvirdivination, type: invocation }
     - name: Succour of Bakyn
       type: invocation
-      img: systems/hm3/images/icons/png/ilvir.png
+      data:
+        icon: hm3-none-icon-ilvir
       system:
         diety: Ilvir
         circle: 4

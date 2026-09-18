@@ -143,13 +143,15 @@ hm3:
     - { shortcode: bellhand, type: miscgear }
     - name: Holy Symbol, brass
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 12
         weight: 0.1
     - name: Holy Symbol, wood
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.1

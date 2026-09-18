@@ -112,12 +112,14 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Bow(Heartbow)
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - name: "Debt to Money Lender: Artenarin of Quirien for 264d"
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }

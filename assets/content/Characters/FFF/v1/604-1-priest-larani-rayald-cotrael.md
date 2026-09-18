@@ -9,8 +9,6 @@ name:
 id: CKvwdB1vq5rOrGta
 packFolder: fffclergy
 shortcode: rayaldcotrael
-img: images/fffv1/token/fff6041tok.png
-portrait: images/fffv1/fff6041.jpg
 type: being
 social:
   occupation: Laranian Priest
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff6041tok
+  portrait: fff6041
   templatePriority: 1
   gender: male
   species: human
@@ -168,7 +168,8 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - name: Holy Symbol, gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         notes: Larani
         value: 120

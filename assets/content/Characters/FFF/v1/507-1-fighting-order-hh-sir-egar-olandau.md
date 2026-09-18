@@ -9,8 +9,6 @@ name:
 id: fT3OK3pjLfcN9riV
 packFolder: fffnobles
 shortcode: siregarolandau
-img: images/fffv1/token/fff5071tok.png
-portrait: images/fffv1/fff5071.jpg
 type: being
 social:
   occupation: Fighting order knight
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - agrik
 data:
+  icon: fff5071tok
+  portrait: fff5071
   templatePriority: 1
   gender: male
   species: human

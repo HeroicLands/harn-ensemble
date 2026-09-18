@@ -103,7 +103,8 @@ hm3:
     - { shortcode: fishingkitportable, type: miscgear }
     - name: Fishing line, 50'
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 10
         weight: 0.5
@@ -111,7 +112,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Pendant, Copper
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 8
         weight: 0.05

@@ -9,8 +9,6 @@ name:
 id: YodiswBfSMxgPVLK
 packFolder: fffguilded
 shortcode: dagwynofkhael
-img: images/fffv1/token/fff3141tok.png
-portrait: images/fffv1/fff3141.jpg
 type: being
 social:
   occupation: Lexigrapher
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3141tok
+  portrait: fff3141
   templatePriority: 1
   gender: female
   species: human

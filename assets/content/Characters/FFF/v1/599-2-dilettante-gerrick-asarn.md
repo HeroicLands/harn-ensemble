@@ -9,8 +9,6 @@ name:
 id: zRHCVBVaIN8CG7Z6
 packFolder: fffnobles
 shortcode: gerrickasarn
-img: images/fffv1/token/fff5992tok.png
-portrait: images/fffv1/fff5992.jpg
 type: being
 social:
   occupation: Patrician
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff5992tok
+  portrait: fff5992
   templatePriority: 1
   gender: male
   species: human

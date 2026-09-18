@@ -109,13 +109,15 @@ hm3:
     - { shortcode: BrdSwd, type: weapongear }
     - name: Anklet, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2400
         weight: 0.125
     - name: Broach, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 600
         weight: 0.03

@@ -107,21 +107,24 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Fishhooks, dozen
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1
     - { shortcode: fishingkitportable, type: miscgear }
     - name: Fishing line, 50'
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 10
         weight: 0.5
     - { shortcode: tndrbx, type: miscgear }
     - name: Net, 2 fathom
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 120
         weight: 5
@@ -129,7 +132,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

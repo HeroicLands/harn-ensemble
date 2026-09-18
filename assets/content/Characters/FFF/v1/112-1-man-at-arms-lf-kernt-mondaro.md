@@ -9,8 +9,6 @@ name:
 id: 2OLRDJqmkgcdo5wJ
 packFolder: fffmilitary
 shortcode: kerntmondaro
-img: images/fffv1/token/fff1121tok.png
-portrait: images/fffv1/fff1121.jpg
 type: being
 social:
   occupation: Man-at-Arms (LF)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff1121tok
+  portrait: fff1121
   templatePriority: 1
   gender: male
   species: human

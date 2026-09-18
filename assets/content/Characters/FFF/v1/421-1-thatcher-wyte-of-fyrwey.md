@@ -9,8 +9,6 @@ name:
 id: awKuFaoeX8MPhTj1
 packFolder: fffunguilded
 shortcode: wyteoffyrwey
-img: images/fffv1/token/fff4211tok.png
-portrait: images/fffv1/fff4211.jpg
 type: being
 social:
   occupation: Thatcher
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - ilvir
 data:
+  icon: fff4211tok
+  portrait: fff4211
   templatePriority: 1
   gender: male
   species: human

@@ -9,8 +9,6 @@ name:
 id: zIkSmQfFvJZkJ652
 packFolder: fffbarbarians
 shortcode: kittiarawampusha
-img: images/fffv1/token/fff2063tok.png
-portrait: images/fffv1/fff2063.jpg
 type: being
 social:
   occupation: Hunter
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - sha
 data:
+  icon: fff2063tok
+  portrait: fff2063
   templatePriority: 1
   gender: female
   species: human

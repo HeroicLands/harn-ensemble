@@ -9,8 +9,6 @@ name:
 id: AaGuFCouBtmrPRdj
 packFolder: fffclergy
 shortcode: albinofrihale
-img: images/fffv1/token/fff6062tok.png
-portrait: images/fffv1/fff6062.jpg
 type: being
 social:
   occupation: Priest of Naveh
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - naveh
 data:
+  icon: fff6062tok
+  portrait: fff6062
   templatePriority: 1
   gender: male
   species: human
@@ -195,7 +195,8 @@ hm3:
     - { shortcode: drumhand, type: miscgear }
     - name: Contact Poison
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: disguised as wax for strings
         weight: 1

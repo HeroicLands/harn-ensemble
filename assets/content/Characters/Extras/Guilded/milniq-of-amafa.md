@@ -107,7 +107,8 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - name: Mason's kit
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 36
         weight: 15

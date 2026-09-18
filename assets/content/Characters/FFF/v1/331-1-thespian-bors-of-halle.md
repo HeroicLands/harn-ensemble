@@ -9,8 +9,6 @@ name:
 id: GYWvGsJdLbkbcVDO
 packFolder: fffguilded
 shortcode: borsofhalle
-img: images/fffv1/token/fff3311tok.png
-portrait: images/fffv1/fff3311.jpg
 type: being
 social:
   occupation: Thespian
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3311tok
+  portrait: fff3311
   templatePriority: 1
   gender: male
   species: human

@@ -9,9 +9,6 @@ name:
 id: XqN3urYzkpHLsZb5
 packFolder: fffnonhumans
 shortcode: umaka
-img: images/fff-13/fff802bhead.webp
-portrait: images/fff-13/fff802b.webp
-tokenImg: images/fff-13/fff802btok.webp
 type: being
 social:
   occupation: Queen
@@ -22,6 +19,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff802bhead
+  tokenIcon: fff802btok
+  portrait: fff802b
   gender: female
   species: hyeka
   age: 20
@@ -117,7 +117,8 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -127,7 +128,8 @@ hm3:
         protection.fire: 3
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         notes: Bone and Stone Chip Necklace
         value: 5

@@ -9,8 +9,6 @@ name:
 id: nN0ZeHNkQv29VR0P
 packFolder: fffclergy
 shortcode: derrialcyeen
-img: images/fffv1/token/fff6101tok.png
-portrait: images/fffv1/fff6101.jpg
 type: being
 social:
   occupation: Priest of Siem
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff6101tok
+  portrait: fff6101
   templatePriority: 1
   gender: male
   species: human

@@ -9,8 +9,6 @@ name:
 id: uMJgJveyseH1IrT8
 packFolder: fffguilded
 shortcode: gilesofgilam
-img: images/fffv1/token/fff3222tok.png
-portrait: images/fffv1/fff3222.jpg
 type: being
 social:
   occupation: Journeyman Ostler
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3222tok
+  portrait: fff3222
   templatePriority: 1
   gender: male
   species: human

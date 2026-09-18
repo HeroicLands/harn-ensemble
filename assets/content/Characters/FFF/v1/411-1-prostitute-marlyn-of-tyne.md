@@ -9,8 +9,6 @@ name:
 id: 6aFAjW9NHXMcKepf
 packFolder: fffunguilded
 shortcode: marlynoftyne
-img: images/fffv1/token/fff4111tok.png
-portrait: images/fffv1/fff4111.jpg
 type: being
 social:
   occupation: Prostitute
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4111tok
+  portrait: fff4111
   templatePriority: 1
   gender: female
   species: human

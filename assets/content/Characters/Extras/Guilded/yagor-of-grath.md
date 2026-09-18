@@ -109,7 +109,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Frankincense, oz, jar
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 80
         weight: 0.25
@@ -118,7 +119,8 @@ hm3:
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 2
         weight: 0.1

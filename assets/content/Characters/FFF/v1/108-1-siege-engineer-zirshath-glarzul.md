@@ -9,8 +9,6 @@ name:
 id: W22UXBOpDZqnS5oe
 packFolder: fffmilitary
 shortcode: zirshathglarzul
-img: images/fffv1/token/fff1081tok.png
-portrait: images/fffv1/fff1081.jpg
 type: being
 social:
   occupation: Siege Engineer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1081tok
+  portrait: fff1081
   templatePriority: 1
   gender: male
   species: khuzdul
@@ -213,20 +213,23 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Ring, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         quantity: 2
         value: 600
         weight: 0.03
     - name: Ring, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         value: 30
         weight: 0.03
     - name: Broach, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         value: 600
         weight: 0.03

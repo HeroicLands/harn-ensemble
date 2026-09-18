@@ -106,7 +106,8 @@ hm3:
     - { shortcode: backbagmed, type: containergear }
     - name: Earing, Silver
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 15
         weight: 0.01

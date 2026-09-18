@@ -133,7 +133,8 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - name: Pendant, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 5
         weight: 0.05

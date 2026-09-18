@@ -9,8 +9,6 @@ name:
 id: 57qWk1toAOdwLZ27
 packFolder: fffunguilded
 shortcode: filtheflutist
-img: images/fffv1/token/fff4061tok.png
-portrait: images/fffv1/fff4061.jpg
 type: being
 social:
   occupation: Farmer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff4061tok
+  portrait: fff4061
   templatePriority: 1
   gender: male
   species: human

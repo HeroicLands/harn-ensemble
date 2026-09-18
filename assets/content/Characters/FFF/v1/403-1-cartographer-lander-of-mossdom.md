@@ -9,8 +9,6 @@ name:
 id: UZY4fDaKJLgDoyKQ
 packFolder: fffunguilded
 shortcode: landerofmossdom
-img: images/fffv1/token/fff4031tok.png
-portrait: images/fffv1/fff4031.jpg
 type: being
 social:
   occupation: Cartographer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff4031tok
+  portrait: fff4031
   templatePriority: 1
   gender: male
   species: human

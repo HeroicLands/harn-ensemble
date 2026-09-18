@@ -9,8 +9,6 @@ name:
 id: I0KXgGBzbsH784FH
 packFolder: fffnobles
 shortcode: artanarnalas
-img: images/fffv1/token/fff5011tok.png
-portrait: images/fffv1/fff5011.jpg
 type: being
 social:
   occupation: Bailiff
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - larani
 data:
+  icon: fff5011tok
+  portrait: fff5011
   templatePriority: 1
   gender: male
   species: human

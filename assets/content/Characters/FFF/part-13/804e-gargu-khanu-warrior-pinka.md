@@ -9,9 +9,6 @@ name:
 id: hFoale7BdhL9OV3F
 packFolder: fffnonhumans
 shortcode: pinka
-img: images/fff-13/fff804ehead.webp
-portrait: images/fff-13/fff804e.webp
-tokenImg: images/fff-13/fff804etok.webp
 type: being
 social:
   occupation: Warrior
@@ -22,6 +19,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff804ehead
+  tokenIcon: fff804etok
+  portrait: fff804e
   gender: male
   species: khanu
   age: 10
@@ -92,7 +92,8 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -102,7 +103,8 @@ hm3:
         protection.fire: 3
     - name: Kurbul Girdle
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         value: 80
         weight: 4
@@ -115,7 +117,8 @@ hm3:
     - { shortcode: KHlfHelm, type: armorgear }
     - name: Necklace, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/sack.svg
+      data:
+        icon: sohl-none-icon-sack
       system:
         notes: Gargun Teeth Necklace
         value: 5

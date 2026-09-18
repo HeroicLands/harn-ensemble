@@ -9,8 +9,6 @@ name:
 id: cHaUpTHhhkvOD5XM
 packFolder: fffclergy
 shortcode: sigynofleden
-img: images/fffv1/token/fff6021tok.png
-portrait: images/fffv1/fff6021.jpg
 type: being
 social:
   occupation: Shenasene
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff6021tok
+  portrait: fff6021
   templatePriority: 1
   gender: female
   species: human
@@ -169,7 +169,8 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - name: Exquisite clothes
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: No armor value
         weight: 1

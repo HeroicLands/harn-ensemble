@@ -9,8 +9,6 @@ name:
 id: vH8CEFvFCDQc2AlS
 packFolder: fffguilded
 shortcode: merrimamgrimwul
-img: images/fffv1/token/fff3031tok.png
-portrait: images/fffv1/fff3031.jpg
 type: being
 social:
   occupation: Astrologer
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff3031tok
+  portrait: fff3031
   templatePriority: 1
   gender: male
   species: human

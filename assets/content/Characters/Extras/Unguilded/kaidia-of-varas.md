@@ -108,7 +108,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Necklace, Gold
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 4800
         weight: 0.25

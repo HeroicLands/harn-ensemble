@@ -9,8 +9,6 @@ name:
 id: GG4L9Xd23Q5kFfeY
 packFolder: fffguilded
 shortcode: gaeffelofthola
-img: images/fffv1/token/fff3182tok.png
-portrait: images/fffv1/fff3182.jpg
 type: being
 social:
   occupation: Mercantyler
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3182tok
+  portrait: fff3182
   templatePriority: 1
   gender: male
   species: human

@@ -106,7 +106,8 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - name: Earing, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.01
@@ -118,7 +119,8 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 20
         weight: 0.1

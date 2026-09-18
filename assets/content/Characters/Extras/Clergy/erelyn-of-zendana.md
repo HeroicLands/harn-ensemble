@@ -132,7 +132,8 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - name: Unknown/broken magical item
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0

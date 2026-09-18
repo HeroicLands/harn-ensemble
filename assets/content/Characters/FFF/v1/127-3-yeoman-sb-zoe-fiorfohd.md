@@ -9,8 +9,6 @@ name:
 id: RVwOS24RmbplzdmD
 packFolder: fffmilitary
 shortcode: zoefiorfohd
-img: images/fffv1/token/fff1273tok.png
-portrait: images/fffv1/fff1273.jpg
 type: being
 social:
   occupation: Yeoman (SB)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - siem
 data:
+  icon: fff1273tok
+  portrait: fff1273
   templatePriority: 1
   gender: female
   species: human

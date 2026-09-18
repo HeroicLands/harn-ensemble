@@ -111,7 +111,8 @@ hm3:
     - { shortcode: HBw, type: weapongear }
     - name: Unknown/broken Earthmaster item
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         weight: 1
         value: 0
@@ -120,7 +121,8 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - name: Ring, Bone/Horn
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         value: 1
         weight: 0.03

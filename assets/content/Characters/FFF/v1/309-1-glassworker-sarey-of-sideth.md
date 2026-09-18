@@ -9,8 +9,6 @@ name:
 id: 75cCiClOM8WKxeBm
 packFolder: fffguilded
 shortcode: sareyofsideth
-img: images/fffv1/token/fff3091tok.png
-portrait: images/fffv1/fff3091.jpg
 type: being
 social:
   occupation: Glassworker
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - halea
 data:
+  icon: fff3091tok
+  portrait: fff3091
   templatePriority: 1
   gender: male
   species: human

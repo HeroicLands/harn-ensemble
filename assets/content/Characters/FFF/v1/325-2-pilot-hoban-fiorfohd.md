@@ -9,8 +9,6 @@ name:
 id: dB9zMBkQJSKNOVu4
 packFolder: fffguilded
 shortcode: hobanfiorfohd
-img: images/fffv1/token/fff3252tok.png
-portrait: images/fffv1/fff3252.jpg
 type: being
 social:
   occupation: Pilot
@@ -23,6 +21,8 @@ harnworld:
     - peoni
     - eder
 data:
+  icon: fff3252tok
+  portrait: fff3252
   templatePriority: 1
   gender: male
   species: human

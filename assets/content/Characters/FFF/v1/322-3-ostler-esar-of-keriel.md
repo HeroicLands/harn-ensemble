@@ -9,8 +9,6 @@ name:
 id: dLuiueIsJHF3I55g
 packFolder: fffguilded
 shortcode: esarofkeriel
-img: images/fffv1/token/fff3223tok.png
-portrait: images/fffv1/fff3223.jpg
 type: being
 social:
   occupation: Apprentice Ostler
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - peoni
 data:
+  icon: fff3223tok
+  portrait: fff3223
   templatePriority: 1
   gender: male
   species: human

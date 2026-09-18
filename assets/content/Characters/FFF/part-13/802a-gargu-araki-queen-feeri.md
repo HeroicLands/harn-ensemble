@@ -9,9 +9,6 @@ name:
 id: q3CWI4spzMWAUE77
 packFolder: fffnonhumans
 shortcode: feeri
-img: images/fff-13/fff802ahead.webp
-portrait: images/fff-13/fff802a.webp
-tokenImg: images/fff-13/fff802atok.webp
 type: being
 social:
   occupation: Queen
@@ -22,6 +19,9 @@ harnworld:
   realm: ""
   ritual: []
 data:
+  icon: fff802ahead
+  tokenIcon: fff802atok
+  portrait: fff802a
   gender: female
   species: araki
   age: 14
@@ -111,7 +111,8 @@ hm3:
     - { shortcode: Head, type: weapongear }
     - name: Gargun Hide
       type: armorgear
-      img: systems/sohl/assets/icons/noun/armor.svg
+      data:
+        icon: sohl-none-icon-armor
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"

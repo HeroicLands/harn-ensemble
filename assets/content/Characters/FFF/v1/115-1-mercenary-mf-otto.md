@@ -9,8 +9,6 @@ name:
 id: HDRSNCscXIBC8Rxv
 packFolder: fffmilitary
 shortcode: otto
-img: images/fffv1/token/fff1151tok.png
-portrait: images/fffv1/fff1151.jpg
 type: being
 social:
   occupation: Mercenary (MF)
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - naveh
 data:
+  icon: fff1151tok
+  portrait: fff1151
   templatePriority: 1
   gender: male
   species: human

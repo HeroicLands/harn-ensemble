@@ -9,8 +9,6 @@ name:
 id: rN8CITlJzwED2WvW
 packFolder: fffclergy
 shortcode: silasmarchant
-img: images/fffv1/token/fff6051tok.png
-portrait: images/fffv1/fff6051.jpg
 type: being
 social:
   occupation: Priest of Morgath
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - morgath
 data:
+  icon: fff6051tok
+  portrait: fff6051
   templatePriority: 1
   gender: male
   species: human
@@ -153,7 +153,8 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - name: Staff of Draining Doom
       type: miscgear
-      img: systems/sohl/assets/icons/other/miscgear.svg
+      data:
+        icon: sohl-none-icon-miscgear
       system:
         notes: Enchanted, 4 charges remaining (HM3 Treasure 21)
         weight: 1
@@ -166,7 +167,8 @@ hm3:
     - { shortcode: morgathcommune, type: invocation }
     - name: Speak with the Dead
       type: invocation
-      img: systems/hm3/images/icons/png/morgath.png
+      data:
+        icon: hm3-none-icon-morgath
       system:
         diety: Morgath
         circle: 2

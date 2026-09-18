@@ -9,8 +9,6 @@ name:
 id: AFQOLZIVfy1eFIZV
 packFolder: fffguilded
 shortcode: kibatam
-img: images/fffv1/token/fff3991tok.png
-portrait: images/fffv1/fff3991.jpg
 type: being
 social:
   occupation: Guildsman's offspring
@@ -23,6 +21,8 @@ harnworld:
     - halea
     - agrik
 data:
+  icon: fff3991tok
+  portrait: fff3991
   templatePriority: 1
   gender: female
   species: human

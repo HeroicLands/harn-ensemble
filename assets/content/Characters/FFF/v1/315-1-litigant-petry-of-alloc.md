@@ -9,8 +9,6 @@ name:
 id: NTpfBJMBRsq9IrV9
 packFolder: fffguilded
 shortcode: petryofalloc
-img: images/fffv1/token/fff3151tok.png
-portrait: images/fffv1/fff3151.jpg
 type: being
 social:
   occupation: Litigant
@@ -22,6 +20,8 @@ harnworld:
   ritual:
     - saveknor
 data:
+  icon: fff3151tok
+  portrait: fff3151
   templatePriority: 1
   gender: male
   species: human

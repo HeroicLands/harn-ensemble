@@ -9,8 +9,6 @@ name:
 id: 8acm9Zl7OcmNQ4d6
 packFolder: fffbarbarians
 shortcode: taranthelame
-img: images/fffv1/token/fff2061tok.png
-portrait: images/fffv1/fff2061.jpg
 type: being
 social:
   occupation: Hunter
@@ -23,6 +21,8 @@ harnworld:
     - "custom|Ymodi"
     - sarajin
 data:
+  icon: fff2061tok
+  portrait: fff2061
   templatePriority: 1
   gender: male
   species: human
@@ -118,7 +118,8 @@ hm3:
           value: 15
     - name: Ymodi
       type: skill
-      img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+      data:
+        icon: sohl-none-icon-circle
       system:
         type: Ritual
         skillBase.value: 14
