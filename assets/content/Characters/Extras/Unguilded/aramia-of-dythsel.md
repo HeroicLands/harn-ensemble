@@ -110,7 +110,6 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: aralius-feniri
     move: 11

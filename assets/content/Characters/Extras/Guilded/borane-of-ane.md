@@ -110,7 +110,6 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: angberelius
     move: 11

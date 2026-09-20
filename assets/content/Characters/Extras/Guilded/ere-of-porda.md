@@ -112,7 +112,6 @@ hm3:
         weight: 1
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: nadai
     move: 11

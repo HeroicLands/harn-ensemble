@@ -122,7 +122,6 @@ hm3:
       system:
         value: 1
         weight: 0.03
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: skorus
     move: 10

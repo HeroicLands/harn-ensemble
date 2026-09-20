@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 66
         skillBase:
           value: 13
@@ -113,6 +114,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 68
         skillBase:
           value: 13
@@ -122,6 +124,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 70
         skillBase:
           value: 13
@@ -138,6 +141,7 @@ hm3:
       type: skill
       name: Hawkcraft (Animalcraft)
       system:
+        shortcode: hawkcraftanimalcraft
         masteryLevel: 85
         skillBase:
           value: 16

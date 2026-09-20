@@ -120,7 +120,6 @@ hm3:
         value: 8
         weight: 0.05
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tai
     move: 12

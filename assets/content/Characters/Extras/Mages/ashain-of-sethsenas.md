@@ -113,7 +113,6 @@ hm3:
     - { shortcode: curseofbalrin, type: spell }
     - { shortcode: figureofaumos, type: spell }
     - { shortcode: fiendofalsaidom, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }
@@ -125,7 +124,6 @@ hm3:
     - { shortcode: zynastap, type: spell }
     - { shortcode: falsesoul, type: spell }
     - { shortcode: feel, type: spell }
-    - { shortcode: focus, type: spell }
     - { shortcode: balmofgresan, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 1437 } }
     - { shortcode: pursebuckram, type: containergear }

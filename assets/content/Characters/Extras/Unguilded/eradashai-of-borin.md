@@ -119,7 +119,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: Bklr, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ahnu
     move: 11

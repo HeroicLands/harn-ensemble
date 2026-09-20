@@ -105,6 +105,7 @@ hm3:
       type: skill
       name: Longbow (Bow)
       system:
+        shortcode: longbowbow
         masteryLevel: 50
         skillBase:
           value: 12
@@ -119,6 +120,7 @@ hm3:
       type: skill
       name: Cowcraft (Agriculture)
       system:
+        shortcode: cowcraftagriculture
         masteryLevel: 41
         skillBase:
           value: 12

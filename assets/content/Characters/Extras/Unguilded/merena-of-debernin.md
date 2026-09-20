@@ -84,16 +84,27 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 84 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 77 } }
     - { shortcode: language, type: skill, name: Language(Ivinian), system: { masteryLevel: 65 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 89 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 89
     - { shortcode: oratory, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 39 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 55 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 106 } }
-    - { shortcode: script, type: skill, name: Script(Script(Runic)), system: { masteryLevel: 94 } }
+    - shortcode: script
+      type: skill
+      name: Script(Script(Runic))
+      system:
+        shortcode: scriptrunic
+        masteryLevel: 94
     - shortcode: script
       type: skill
       name: Script(Script(Selenian))
       system:
+        shortcode: scriptselenian
         masteryLevel: 94
     - { shortcode: initiative, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 80 } }
@@ -102,7 +113,6 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 1902 } }
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: CvCloak, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }

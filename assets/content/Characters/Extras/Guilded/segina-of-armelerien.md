@@ -89,8 +89,18 @@ hm3:
       system:
         masteryLevel: 61
     - { shortcode: musician, type: skill, name: Flute (Musician), system: { masteryLevel: 84 } }
-    - { shortcode: musician, type: skill, name: Harp (Musician), system: { masteryLevel: 36 } }
-    - { shortcode: musician, type: skill, name: Lute (Musician), system: { masteryLevel: 72 } }
+    - shortcode: musician
+      type: skill
+      name: Harp (Musician)
+      system:
+        shortcode: harpmusician
+        masteryLevel: 36
+    - shortcode: musician
+      type: skill
+      name: Lute (Musician)
+      system:
+        shortcode: lutemusician
+        masteryLevel: 72
     - { shortcode: oratory, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 96 } }
@@ -119,7 +129,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: lute, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
     sunsign: tarael

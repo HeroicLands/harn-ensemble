@@ -84,7 +84,12 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 45 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 112 } }
     - { shortcode: language, type: skill, name: Language(Jarinese), system: { masteryLevel: 60 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 86 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 86
     - { shortcode: oratory, type: skill, system: { masteryLevel: 88 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 72 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 40 } }

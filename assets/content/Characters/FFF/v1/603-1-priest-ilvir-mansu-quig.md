@@ -107,6 +107,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 65
         skillBase:
           value: 11
@@ -114,6 +115,7 @@ hm3:
       type: skill
       name: "Language: Ivashi"
       system:
+        shortcode: languageivashi
         masteryLevel: 80
         skillBase:
           value: 11

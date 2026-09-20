@@ -118,7 +118,6 @@ hm3:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: TwrSh, type: weapongear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tai
     move: 12

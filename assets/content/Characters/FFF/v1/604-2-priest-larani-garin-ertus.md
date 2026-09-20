@@ -105,6 +105,7 @@ hm3:
       type: skill
       name: "Language: Emela"
       system:
+        shortcode: languageemela
         masteryLevel: 84
         skillBase:
           value: 14
@@ -119,6 +120,7 @@ hm3:
       type: skill
       name: "Script: Khruni"
       system:
+        shortcode: scriptkhruni
         masteryLevel: 86
         skillBase:
           value: 16
@@ -133,6 +135,7 @@ hm3:
       type: skill
       name: Knight (Shield)
       system:
+        shortcode: knightshield
         masteryLevel: 76
         skillBase:
           value: 15
@@ -141,6 +144,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 78
         skillBase:
           value: 15

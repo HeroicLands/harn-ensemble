@@ -110,7 +110,6 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: Bklr, type: weapongear }
-    - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
       data:

@@ -99,6 +99,7 @@ hm3:
       type: skill
       name: "Language: Jarinese (Bujoc)"
       system:
+        shortcode: languagejarinesebujoc
         masteryLevel: 68
         skillBase:
           value: 15
@@ -106,6 +107,7 @@ hm3:
       type: skill
       name: "Language: Jarinese (Hodiri)"
       system:
+        shortcode: languagejarinesehodiri
         masteryLevel: 47
         skillBase:
           value: 15

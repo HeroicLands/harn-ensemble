@@ -112,6 +112,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 48
         skillBase:
           value: 10
@@ -128,6 +129,7 @@ hm3:
       type: skill
       name: Sheepcraft (Agriculture)
       system:
+        shortcode: sheepcraftagriculture
         masteryLevel: 70
         skillBase:
           value: 16

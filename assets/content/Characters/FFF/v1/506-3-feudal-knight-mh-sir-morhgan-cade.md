@@ -113,6 +113,7 @@ hm3:
       type: skill
       name: Ball & Chain (Flail)
       system:
+        shortcode: ballchainflail
         masteryLevel: 90
         skillBase:
           value: 13
@@ -121,6 +122,7 @@ hm3:
       type: skill
       name: Lance (Polearm)
       system:
+        shortcode: lancepolearm
         masteryLevel: 98
         skillBase:
           value: 14
@@ -129,6 +131,7 @@ hm3:
       type: skill
       name: Kite (Shield)
       system:
+        shortcode: kiteshield
         masteryLevel: 98
         skillBase:
           value: 14
@@ -137,6 +140,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 84
         skillBase:
           value: 14

@@ -110,7 +110,6 @@ hm3:
     - { shortcode: favrinsbar, type: spell }
     - { shortcode: powerofsharadorn, type: spell }
     - { shortcode: dreamofgalega, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 11 } }
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: CvCloak, type: armorgear }

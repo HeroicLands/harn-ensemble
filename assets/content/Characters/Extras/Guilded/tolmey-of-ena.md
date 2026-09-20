@@ -90,7 +90,6 @@ hm3:
     - { shortcode: dagger, type: skill, system: { masteryLevel: 32 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 68 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 52 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: fletching, type: skill, system: { masteryLevel: 24 } }
     - { shortcode: metalcraft, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: mining, type: skill, system: { masteryLevel: 27 } }
@@ -116,7 +115,6 @@ hm3:
         value: 24
         weight: 10
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tai
     move: 14

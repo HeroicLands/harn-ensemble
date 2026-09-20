@@ -102,6 +102,7 @@ hm3:
       type: skill
       name: Flute (Musician)
       system:
+        shortcode: flutemusician
         masteryLevel: 51
         skillBase:
           value: 12
@@ -109,6 +110,7 @@ hm3:
       type: skill
       name: Harp (Musician)
       system:
+        shortcode: harpmusician
         masteryLevel: 60
         skillBase:
           value: 12
@@ -133,6 +135,7 @@ hm3:
       type: skill
       name: "Language: Besha"
       system:
+        shortcode: languagebesha
         masteryLevel: 85
         skillBase:
           value: 15
@@ -147,6 +150,7 @@ hm3:
       type: skill
       name: "Script: Neramic"
       system:
+        shortcode: scriptneramic
         masteryLevel: 84
         skillBase:
           value: 14
@@ -160,6 +164,7 @@ hm3:
       type: skill
       name: Taburi (Dagger)
       system:
+        shortcode: taburidagger
         masteryLevel: 80
         skillBase:
           value: 16
@@ -172,6 +177,7 @@ hm3:
       type: skill
       name: "Herblore: Herblore: Poison"
       system:
+        shortcode: herbloreherblorepoison
         masteryLevel: 80
         skillBase:
           value: 13
@@ -183,6 +189,7 @@ hm3:
       type: skill
       name: "Survival: Urban"
       system:
+        shortcode: survivalurban
         masteryLevel: 58
         skillBase:
           value: 13

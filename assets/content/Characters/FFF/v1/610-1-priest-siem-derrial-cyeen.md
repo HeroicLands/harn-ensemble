@@ -112,6 +112,7 @@ hm3:
       type: skill
       name: "Language: Sindarin"
       system:
+        shortcode: languagesindarin
         masteryLevel: 84
         skillBase:
           value: 14
@@ -119,6 +120,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 84
         skillBase:
           value: 14
@@ -133,6 +135,7 @@ hm3:
       type: skill
       name: "Script: Selenian"
       system:
+        shortcode: scriptselenian
         masteryLevel: 83
         skillBase:
           value: 13
@@ -146,6 +149,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 88
         skillBase:
           value: 11
@@ -155,6 +159,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 76
         skillBase:
           value: 15
@@ -163,6 +168,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 68
         skillBase:
           value: 13
@@ -171,6 +177,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 78
         skillBase:
           value: 12
@@ -179,6 +186,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 86
         skillBase:
           value: 16

@@ -111,7 +111,6 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ahnu-angberelius
     move: 9

@@ -102,6 +102,7 @@ hm3:
       type: skill
       name: "Language: High Azeryani"
       system:
+        shortcode: languagehighazeryani
         masteryLevel: 62
         skillBase:
           value: 15
@@ -109,6 +110,7 @@ hm3:
       type: skill
       name: "Language: Low Azeryani"
       system:
+        shortcode: languagelowazeryani
         masteryLevel: 61
         skillBase:
           value: 15
@@ -123,6 +125,7 @@ hm3:
       type: skill
       name: "Script: Ayaran"
       system:
+        shortcode: scriptayaran
         masteryLevel: 70
         skillBase:
           value: 15
@@ -145,6 +148,7 @@ hm3:
       type: skill
       name: Gold Gold & Silversmith 15 Silversmith (Metalcraft)
       system:
+        shortcode: goldgoldsilversmith15silversmithmetalcraft
         masteryLevel: 82
         skillBase:
           value: 15

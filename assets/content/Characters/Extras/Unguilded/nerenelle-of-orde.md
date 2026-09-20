@@ -92,7 +92,12 @@ hm3:
     - { shortcode: net, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: animalcraft, type: skill, name: Dog (Animalcraft), system: { masteryLevel: 77 } }
-    - { shortcode: animalcraft, type: skill, name: Rat (Animalcraft), system: { masteryLevel: 55 } }
+    - shortcode: animalcraft
+      type: skill
+      name: Rat (Animalcraft)
+      system:
+        shortcode: ratanimalcraft
+        masteryLevel: 55
     - { shortcode: herblore, type: skill, system: { masteryLevel: 24 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 430 } }
     - { shortcode: pursebuckram, type: containergear }
@@ -110,7 +115,6 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: lado
     move: 13

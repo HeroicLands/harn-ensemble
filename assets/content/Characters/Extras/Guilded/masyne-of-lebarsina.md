@@ -108,7 +108,6 @@ hm3:
         weight: 3
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: nadai
     move: 10

@@ -111,7 +111,6 @@ hm3:
     - { shortcode: hlandorsflash, type: spell }
     - { shortcode: globeofsetath, type: spell }
     - { shortcode: prismofgethan, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

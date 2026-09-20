@@ -94,7 +94,12 @@ hm3:
     - { shortcode: dagger, type: skill, system: { masteryLevel: 70 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 112 } }
     - { shortcode: sword, type: skill, name: Broadsword (Sword), system: { masteryLevel: 80 } }
-    - { shortcode: sword, type: skill, name: Longknife (Sword), system: { masteryLevel: 80 } }
+    - shortcode: sword
+      type: skill
+      name: Longknife (Sword)
+      system:
+        shortcode: longknifesword
+        masteryLevel: 80
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 96 } }
     - { shortcode: physician, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 2096 } }

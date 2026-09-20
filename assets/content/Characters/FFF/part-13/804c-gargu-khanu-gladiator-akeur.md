@@ -94,7 +94,12 @@ hm3:
         masteryLevel: 60
     - { shortcode: singing, type: skill, system: { masteryLevel: 30 } }
     - { shortcode: language, type: skill, name: "Language: Khanu", system: { masteryLevel: 62 } }
-    - { shortcode: language, type: skill, name: "Language: Harnic", system: { masteryLevel: 36 } }
+    - shortcode: language
+      type: skill
+      name: "Language: Harnic"
+      system:
+        shortcode: languageharnic
+        masteryLevel: 36
     - { shortcode: initiative, type: skill, system: { masteryLevel: 84 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 108 } }
     - { shortcode: dodge, type: skill, system: { masteryLevel: 89 } }

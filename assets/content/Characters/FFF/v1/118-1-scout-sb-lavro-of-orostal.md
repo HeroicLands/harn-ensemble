@@ -107,6 +107,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 88
         skillBase:
           value: 15
@@ -116,6 +117,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 90
         skillBase:
           value: 15
@@ -125,6 +127,7 @@ hm3:
       type: skill
       name: Longknife (Sword)
       system:
+        shortcode: longknifesword
         masteryLevel: 86
         skillBase:
           value: 15
@@ -139,6 +142,7 @@ hm3:
       type: skill
       name: "Fletching: Shortbow"
       system:
+        shortcode: fletchingshortbow
         masteryLevel: 74
         skillBase:
           value: 15
@@ -150,6 +154,7 @@ hm3:
       type: skill
       name: Sheepcraft (Agriculture)
       system:
+        shortcode: sheepcraftagriculture
         masteryLevel: 89
         skillBase:
           value: 13

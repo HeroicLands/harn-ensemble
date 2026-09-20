@@ -115,6 +115,7 @@ hm3:
       type: skill
       name: Kite (Shield)
       system:
+        shortcode: kiteshield
         masteryLevel: 76
         skillBase:
           value: 11
@@ -124,6 +125,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 70
         skillBase:
           value: 11

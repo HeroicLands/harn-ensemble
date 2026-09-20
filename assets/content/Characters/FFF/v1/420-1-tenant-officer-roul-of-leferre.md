@@ -106,6 +106,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 56
         skillBase:
           value: 14
@@ -114,6 +115,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 72
         skillBase:
           value: 14
@@ -128,6 +130,7 @@ hm3:
       type: skill
       name: Cowcraft (Agriculture)
       system:
+        shortcode: cowcraftagriculture
         masteryLevel: 70
         skillBase:
           value: 13
@@ -135,6 +138,7 @@ hm3:
       type: skill
       name: Pigcraft (Agriculture)
       system:
+        shortcode: pigcraftagriculture
         masteryLevel: 78
         skillBase:
           value: 13
@@ -142,6 +146,7 @@ hm3:
       type: skill
       name: Oxcraft (Agriculture)
       system:
+        shortcode: oxcraftagriculture
         masteryLevel: 76
         skillBase:
           value: 13

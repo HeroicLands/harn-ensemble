@@ -94,7 +94,12 @@ hm3:
         masteryLevel: 100
     - { shortcode: singing, type: skill, system: { masteryLevel: 30 } }
     - { shortcode: language, type: skill, name: "Language: Hyeka", system: { masteryLevel: 62 } }
-    - { shortcode: language, type: skill, name: "Language: Harnic", system: { masteryLevel: 18 } }
+    - shortcode: language
+      type: skill
+      name: "Language: Harnic"
+      system:
+        shortcode: languageharnic
+        masteryLevel: 18
     - { shortcode: agrik, type: skill, system: { masteryLevel: 39 } }
     - { shortcode: larani, type: skill, system: { masteryLevel: 12 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 72 } }

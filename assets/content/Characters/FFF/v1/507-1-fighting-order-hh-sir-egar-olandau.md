@@ -105,6 +105,7 @@ hm3:
       type: skill
       name: "Language: Surikal"
       system:
+        shortcode: languagesurikal
         masteryLevel: 48
         skillBase:
           value: 12
@@ -119,6 +120,7 @@ hm3:
       type: skill
       name: "Script: Zerin"
       system:
+        shortcode: scriptzerin
         masteryLevel: 84
         skillBase:
           value: 14
@@ -132,6 +134,7 @@ hm3:
       type: skill
       name: Mace (Club)
       system:
+        shortcode: maceclub
         masteryLevel: 90
         skillBase:
           value: 15
@@ -141,6 +144,7 @@ hm3:
       type: skill
       name: Lance (Polearm)
       system:
+        shortcode: lancepolearm
         masteryLevel: 102
         skillBase:
           value: 15
@@ -149,6 +153,7 @@ hm3:
       type: skill
       name: Knight (Shield)
       system:
+        shortcode: knightshield
         masteryLevel: 98
         skillBase:
           value: 16
@@ -157,6 +162,7 @@ hm3:
       type: skill
       name: Bastard Sword (Sword)
       system:
+        shortcode: bastardswordsword
         masteryLevel: 102
         skillBase:
           value: 15
@@ -166,6 +172,7 @@ hm3:
       type: skill
       name: "Heraldry: Rethem"
       system:
+        shortcode: heraldryrethem
         masteryLevel: 42
         skillBase:
           value: 15

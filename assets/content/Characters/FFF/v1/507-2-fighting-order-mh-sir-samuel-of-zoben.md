@@ -98,6 +98,7 @@ hm3:
       type: skill
       name: "Language: Jarin"
       system:
+        shortcode: languagejarin
         masteryLevel: 45
         skillBase:
           value: 13
@@ -124,6 +125,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 64
         skillBase:
           value: 13
@@ -133,6 +135,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 70
         skillBase:
           value: 14
@@ -140,6 +143,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 78
         skillBase:
           value: 14
@@ -147,6 +151,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 90
         skillBase:
           value: 14

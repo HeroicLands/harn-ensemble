@@ -106,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 56
         skillBase:
           value: 13
@@ -126,6 +127,7 @@ hm3:
       type: skill
       name: Battleaxe (Axe)
       system:
+        shortcode: battleaxeaxe
         masteryLevel: 98
         skillBase:
           value: 17
@@ -133,6 +135,7 @@ hm3:
       type: skill
       name: Shorkana (Axe)
       system:
+        shortcode: shorkanaaxe
         masteryLevel: 98
         skillBase:
           value: 17
@@ -142,6 +145,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 84
         skillBase:
           value: 14
@@ -167,6 +171,7 @@ hm3:
       type: skill
       name: Horsecraft (Animalcraft)
       system:
+        shortcode: horsecraftanimalcraft
         masteryLevel: 26
         skillBase:
           value: 13

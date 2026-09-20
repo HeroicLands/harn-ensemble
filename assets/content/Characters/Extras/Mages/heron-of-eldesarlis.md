@@ -107,7 +107,6 @@ hm3:
     - { shortcode: eyesofniyar, type: spell }
     - { shortcode: orbofzatara, type: spell }
     - { shortcode: charachisfever, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 105 } }
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: CvCloak, type: armorgear }

@@ -116,6 +116,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 48
         skillBase:
           value: 13
@@ -124,6 +125,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 44
         skillBase:
           value: 13

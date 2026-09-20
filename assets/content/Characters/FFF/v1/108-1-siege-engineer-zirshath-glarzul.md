@@ -99,6 +99,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 60
         skillBase:
           value: 15
@@ -113,6 +114,7 @@ hm3:
       type: skill
       name: "Script: Cipher"
       system:
+        shortcode: scriptcipher
         masteryLevel: 58
         skillBase:
           value: 13
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 80
         skillBase:
           value: 13
@@ -132,6 +135,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 80
         skillBase:
           value: 15
@@ -141,6 +145,7 @@ hm3:
       type: skill
       name: Keltan (Dagger)
       system:
+        shortcode: keltandagger
         masteryLevel: 76
         skillBase:
           value: 15
@@ -149,6 +154,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 72
         skillBase:
           value: 14
@@ -157,6 +163,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 74
         skillBase:
           value: 15
@@ -170,6 +177,7 @@ hm3:
       type: skill
       name: Siege-works (Engineering)
       system:
+        shortcode: siegeworksengineering
         masteryLevel: 90
         skillBase:
           value: 13
@@ -178,6 +186,7 @@ hm3:
       type: skill
       name: Carving/Engraving (Masonry)
       system:
+        shortcode: carvingengravingmasonry
         masteryLevel: 114
         skillBase:
           value: 14
@@ -193,6 +202,7 @@ hm3:
       type: skill
       name: Mineralogy (Mining)
       system:
+        shortcode: mineralogymining
         masteryLevel: 44
         skillBase:
           value: 13

@@ -113,6 +113,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 58
         skillBase:
           value: 13
@@ -121,6 +122,7 @@ hm3:
       type: skill
       name: Taburi (Dagger)
       system:
+        shortcode: taburidagger
         masteryLevel: 86
         skillBase:
           value: 16

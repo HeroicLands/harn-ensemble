@@ -113,6 +113,7 @@ hm3:
       type: skill
       name: "Language: Besha"
       system:
+        shortcode: languagebesha
         masteryLevel: 84
         skillBase:
           value: 14
@@ -127,6 +128,7 @@ hm3:
       type: skill
       name: "Script: Neramic"
       system:
+        shortcode: scriptneramic
         masteryLevel: 84
         skillBase:
           value: 14
@@ -148,6 +150,7 @@ hm3:
       type: skill
       name: "Herblore: Medicinal"
       system:
+        shortcode: herbloremedicinal
         masteryLevel: 74
         skillBase:
           value: 14
@@ -155,6 +158,7 @@ hm3:
       type: skill
       name: "Herblore: Herblore: Poison"
       system:
+        shortcode: herbloreherblorepoison
         masteryLevel: 74
         skillBase:
           value: 14

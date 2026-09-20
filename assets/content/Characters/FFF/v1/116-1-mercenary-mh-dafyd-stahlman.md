@@ -114,6 +114,7 @@ hm3:
       type: skill
       name: Lance (Polearm)
       system:
+        shortcode: lancepolearm
         masteryLevel: 70
         skillBase:
           value: 14
@@ -122,6 +123,7 @@ hm3:
       type: skill
       name: Kite (Shield)
       system:
+        shortcode: kiteshield
         masteryLevel: 80
         skillBase:
           value: 14
@@ -131,6 +133,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 84
         skillBase:
           value: 14

@@ -87,7 +87,12 @@ hm3:
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 30 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 24 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 79 } }
-    - { shortcode: script, type: skill, name: Script(Script(Runic)), system: { masteryLevel: 79 } }
+    - shortcode: script
+      type: skill
+      name: Script(Script(Runic))
+      system:
+        shortcode: scriptrunic
+        masteryLevel: 79
     - { shortcode: initiative, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 55 } }
     - { shortcode: inkcraft, type: skill, system: { masteryLevel: 96 } }

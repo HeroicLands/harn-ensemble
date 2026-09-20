@@ -111,6 +111,7 @@ hm3:
       type: skill
       name: Meat Cleaver (Axe)
       system:
+        shortcode: meatcleaveraxe
         masteryLevel: 68
         skillBase:
           value: 13
@@ -119,6 +120,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 70
         skillBase:
           value: 14
@@ -134,6 +136,7 @@ hm3:
       type: skill
       name: Cooking (Cookery)
       system:
+        shortcode: cookingcookery
         masteryLevel: 91
         skillBase:
           value: 17
@@ -141,6 +144,7 @@ hm3:
       type: skill
       name: Baking (Cookery)
       system:
+        shortcode: bakingcookery
         masteryLevel: 94
         skillBase:
           value: 17
@@ -165,6 +169,7 @@ hm3:
       type: skill
       name: Needlework (Textilecraft)
       system:
+        shortcode: needleworktextilecraft
         masteryLevel: 62
         skillBase:
           value: 14

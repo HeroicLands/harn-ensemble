@@ -101,6 +101,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 73
         skillBase:
           value: 13
@@ -108,6 +109,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 44
         skillBase:
           value: 13
@@ -127,6 +129,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 94
         skillBase:
           value: 14
@@ -135,6 +138,7 @@ hm3:
       type: skill
       name: Keltan (Dagger)
       system:
+        shortcode: keltandagger
         masteryLevel: 68
         skillBase:
           value: 13
@@ -143,6 +147,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 86
         skillBase:
           value: 16
@@ -151,6 +156,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 78
         skillBase:
           value: 15

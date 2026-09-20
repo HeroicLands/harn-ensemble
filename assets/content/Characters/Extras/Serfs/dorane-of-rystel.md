@@ -99,7 +99,6 @@ hm3:
     - { shortcode: SgClk, type: armorgear }
     - { shortcode: WClk, type: armorgear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: WLeg, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: WTunic, type: armorgear }

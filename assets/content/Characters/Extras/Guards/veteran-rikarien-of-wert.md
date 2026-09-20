@@ -122,7 +122,6 @@ hm3:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: lado
     move: 11

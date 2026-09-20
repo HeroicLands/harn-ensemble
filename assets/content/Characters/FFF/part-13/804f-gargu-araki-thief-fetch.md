@@ -92,7 +92,12 @@ hm3:
     - { shortcode: singing, type: skill, system: { masteryLevel: 51 } }
     - { shortcode: lovecraft, type: skill, system: { masteryLevel: 16 } }
     - { shortcode: language, type: skill, name: "Language: Hyeka", system: { masteryLevel: 62 } }
-    - { shortcode: language, type: skill, name: "Language: Harnic", system: { masteryLevel: 62 } }
+    - shortcode: language
+      type: skill
+      name: "Language: Harnic"
+      system:
+        shortcode: languageharnic
+        masteryLevel: 62
     - { shortcode: script, type: skill, name: "Script: Lakise", system: { masteryLevel: 36 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 72 } }

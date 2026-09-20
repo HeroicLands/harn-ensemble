@@ -96,7 +96,12 @@ hm3:
     - { shortcode: net, type: skill, system: { masteryLevel: 39 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: animalcraft, type: skill, name: Dog (Animalcraft), system: { masteryLevel: 48 } }
-    - { shortcode: animalcraft, type: skill, name: Rat (Animalcraft), system: { masteryLevel: 72 } }
+    - shortcode: animalcraft
+      type: skill
+      name: Rat (Animalcraft)
+      system:
+        shortcode: ratanimalcraft
+        masteryLevel: 72
     - { shortcode: herblore, type: skill, system: { masteryLevel: 22 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 65 } }
     - { shortcode: pursebuckram, type: containergear }

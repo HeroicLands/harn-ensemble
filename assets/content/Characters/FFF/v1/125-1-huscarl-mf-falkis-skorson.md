@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: Battleaxe (Axe)
       system:
+        shortcode: battleaxeaxe
         masteryLevel: 90
         skillBase:
           value: 14
@@ -111,6 +112,7 @@ hm3:
       type: skill
       name: Shorkana (Axe)
       system:
+        shortcode: shorkanaaxe
         masteryLevel: 85
         skillBase:
           value: 14
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: Keltan (Dagger)
       system:
+        shortcode: keltandagger
         masteryLevel: 72
         skillBase:
           value: 15
@@ -128,6 +131,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 76
         skillBase:
           value: 14

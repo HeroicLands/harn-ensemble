@@ -93,6 +93,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 62
         skillBase:
           value: 12
@@ -108,6 +109,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 72
         skillBase:
           value: 12
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: Battleaxe (Axe)
       system:
+        shortcode: battleaxeaxe
         masteryLevel: 84
         skillBase:
           value: 14
@@ -128,6 +131,7 @@ hm3:
       type: skill
       name: Crossbow (Bow)
       system:
+        shortcode: crossbowbow
         masteryLevel: 44
         skillBase:
           value: 14
@@ -135,6 +139,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 74
         skillBase:
           value: 14
@@ -145,6 +150,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 88
         skillBase:
           value: 13
@@ -153,6 +159,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 84
         skillBase:
           value: 13

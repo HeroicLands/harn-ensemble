@@ -107,6 +107,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 76
         skillBase:
           value: 16

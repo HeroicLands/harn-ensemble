@@ -119,7 +119,6 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: nadai
     move: 9

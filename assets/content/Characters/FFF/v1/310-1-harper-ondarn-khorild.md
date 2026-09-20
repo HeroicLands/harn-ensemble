@@ -95,6 +95,7 @@ hm3:
       type: skill
       name: Flute (Musician)
       system:
+        shortcode: flutemusician
         masteryLevel: 70
         skillBase:
           value: 16
@@ -102,6 +103,7 @@ hm3:
       type: skill
       name: Harp (Musician)
       system:
+        shortcode: harpmusician
         masteryLevel: 85
         skillBase:
           value: 16

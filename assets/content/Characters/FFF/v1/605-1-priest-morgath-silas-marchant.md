@@ -105,6 +105,7 @@ hm3:
       type: skill
       name: "Language: Ormauk"
       system:
+        shortcode: languageormauk
         masteryLevel: 47
         skillBase:
           value: 13
@@ -119,6 +120,7 @@ hm3:
       type: skill
       name: "Script: Nuvesarl"
       system:
+        shortcode: scriptnuvesarl
         masteryLevel: 80
         skillBase:
           value: 10
@@ -133,6 +135,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 44
         skillBase:
           value: 11

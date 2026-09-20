@@ -86,8 +86,18 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 55 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 50 } }
     - { shortcode: language, type: skill, name: Language(Ivinian), system: { masteryLevel: 55 } }
-    - { shortcode: language, type: skill, name: Language(Karuia), system: { masteryLevel: 44 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 61 } }
+    - shortcode: language
+      type: skill
+      name: Language(Karuia)
+      system:
+        shortcode: languagekaruia
+        masteryLevel: 44
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 61
     - { shortcode: lovecraft, type: skill, system: { masteryLevel: 91 } }
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 28 } }
     - { shortcode: musician, type: skill, system: { masteryLevel: 20 } }
@@ -95,8 +105,18 @@ hm3:
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 84 } }
-    - { shortcode: script, type: skill, name: Script(Script(Runic)), system: { masteryLevel: 84 } }
-    - { shortcode: script, type: skill, name: Script(Zerin), system: { masteryLevel: 84 } }
+    - shortcode: script
+      type: skill
+      name: Script(Script(Runic))
+      system:
+        shortcode: scriptrunic
+        masteryLevel: 84
+    - shortcode: script
+      type: skill
+      name: Script(Zerin)
+      system:
+        shortcode: scriptzerin
+        masteryLevel: 84
     - { shortcode: initiative, type: skill, system: { masteryLevel: 32 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: drawing, type: skill, system: { masteryLevel: 26 } }

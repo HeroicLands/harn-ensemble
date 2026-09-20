@@ -105,7 +105,6 @@ hm3:
     - { shortcode: LtTunic, type: armorgear }
     - { shortcode: LTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
-    - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
     sunsign: tai

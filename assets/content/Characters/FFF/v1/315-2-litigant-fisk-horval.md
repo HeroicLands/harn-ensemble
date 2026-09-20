@@ -98,6 +98,7 @@ hm3:
       type: skill
       name: "Language: Harbaalese"
       system:
+        shortcode: languageharbaalese
         masteryLevel: 64
         skillBase:
           value: 16
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 48
         skillBase:
           value: 16
@@ -112,6 +114,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 48
         skillBase:
           value: 16
@@ -126,6 +129,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 60
         skillBase:
           value: 14
@@ -138,6 +142,7 @@ hm3:
       type: skill
       name: Shorkana (Axe)
       system:
+        shortcode: shorkanaaxe
         masteryLevel: 84
         skillBase:
           value: 13
@@ -147,6 +152,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 80
         skillBase:
           value: 12
@@ -156,6 +162,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 80
         skillBase:
           value: 12

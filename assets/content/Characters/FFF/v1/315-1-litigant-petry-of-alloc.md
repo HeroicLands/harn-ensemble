@@ -91,6 +91,7 @@ hm3:
       type: skill
       name: Diplomacy (Rhetoric)
       system:
+        shortcode: diplomacyrhetoric
         masteryLevel: 94
         skillBase:
           value: 14
@@ -106,6 +107,7 @@ hm3:
       type: skill
       name: "Language: Trierzi"
       system:
+        shortcode: languagetrierzi
         masteryLevel: 93
         skillBase:
           value: 13
@@ -127,6 +129,7 @@ hm3:
       type: skill
       name: Astromancy (Astrology)
       system:
+        shortcode: astromancyastrology
         masteryLevel: 62
         skillBase:
           value: 13
@@ -135,6 +138,7 @@ hm3:
       type: skill
       name: Sketching (Drawing)
       system:
+        shortcode: sketchingdrawing
         masteryLevel: 46
         skillBase:
           value: 12
@@ -144,6 +148,7 @@ hm3:
       type: skill
       name: "Law: Chybisa"
       system:
+        shortcode: lawchybisa
         masteryLevel: 74
         skillBase:
           value: 13
@@ -151,6 +156,7 @@ hm3:
       type: skill
       name: "Law: Trierzon"
       system:
+        shortcode: lawtrierzon
         masteryLevel: 80
         skillBase:
           value: 13
@@ -158,6 +164,7 @@ hm3:
       type: skill
       name: "Law: Melderyn"
       system:
+        shortcode: lawmelderyn
         masteryLevel: 83
         skillBase:
           value: 13
@@ -166,6 +173,7 @@ hm3:
       type: skill
       name: Lythian Tarot (Tarotry)
       system:
+        shortcode: lythiantarottarotry
         masteryLevel: 66
         skillBase:
           value: 14

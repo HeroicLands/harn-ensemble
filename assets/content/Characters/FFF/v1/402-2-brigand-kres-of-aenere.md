@@ -107,6 +107,7 @@ hm3:
       type: skill
       name: Crossbow (Bow)
       system:
+        shortcode: crossbowbow
         masteryLevel: 92
         skillBase:
           value: 16
@@ -117,6 +118,7 @@ hm3:
       type: skill
       name: Buckler (Shield)
       system:
+        shortcode: bucklershield
         masteryLevel: 74
         skillBase:
           value: 15
@@ -125,6 +127,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 84
         skillBase:
           value: 16
@@ -140,6 +143,7 @@ hm3:
       type: skill
       name: Crossbow Bolts (Fletching)
       system:
+        shortcode: crossbowboltsfletching
         masteryLevel: 60
         skillBase:
           value: 16

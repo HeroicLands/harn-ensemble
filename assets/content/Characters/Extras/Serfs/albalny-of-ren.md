@@ -90,7 +90,7 @@ hm3:
     - { shortcode: initiative, type: skill, system: { masteryLevel: 72 } }
     - { shortcode: sling, type: skill, system: { masteryLevel: 66 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 96 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 108 } }
+    - { shortcode: unarmed, type: skill, system: { shortcode: unarmed2, masteryLevel: 108 } }
     - { shortcode: physician, type: skill, system: { masteryLevel: 27 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 1236 } }
     - { shortcode: pursebuckram, type: containergear }

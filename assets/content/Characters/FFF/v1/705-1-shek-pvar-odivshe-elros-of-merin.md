@@ -90,6 +90,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 68
         skillBase:
           value: 14
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Ivinian"
       system:
+        shortcode: languageivinian
         masteryLevel: 45
         skillBase:
           value: 13
@@ -112,6 +114,7 @@ hm3:
       type: skill
       name: "Language: Emela"
       system:
+        shortcode: languageemela
         masteryLevel: 58
         skillBase:
           value: 13
@@ -134,6 +137,7 @@ hm3:
       type: skill
       name: "Drawing: Maps & Charts"
       system:
+        shortcode: drawingmapscharts
         masteryLevel: 84
         skillBase:
           value: 12

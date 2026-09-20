@@ -98,7 +98,6 @@ hm3:
     - { shortcode: WCBoot, type: armorgear }
     - { shortcode: WClk, type: armorgear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }

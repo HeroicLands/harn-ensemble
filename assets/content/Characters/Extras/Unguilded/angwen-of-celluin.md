@@ -112,7 +112,6 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: lado
     move: 11

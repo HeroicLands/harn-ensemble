@@ -108,7 +108,6 @@ hm3:
     - { shortcode: temperingofpytama, type: spell }
     - { shortcode: sirikscant, type: spell }
     - { shortcode: anvilofpytama, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

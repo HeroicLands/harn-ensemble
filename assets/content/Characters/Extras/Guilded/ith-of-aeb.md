@@ -112,7 +112,6 @@ hm3:
       system:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: masara
     move: 12

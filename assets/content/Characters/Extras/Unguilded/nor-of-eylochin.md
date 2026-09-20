@@ -131,7 +131,6 @@ hm3:
         value: 120
         weight: 5
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
       data:

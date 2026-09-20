@@ -111,7 +111,6 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ulandus
     move: 10

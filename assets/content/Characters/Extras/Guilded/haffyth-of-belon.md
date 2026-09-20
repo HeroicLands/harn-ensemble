@@ -89,7 +89,6 @@ hm3:
     - { shortcode: club, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 48 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: fletching, type: skill, system: { masteryLevel: 30 } }
     - { shortcode: metalcraft, type: skill, system: { masteryLevel: 50 } }
     - { shortcode: mining, type: skill, system: { masteryLevel: 30 } }

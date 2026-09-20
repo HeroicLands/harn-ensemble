@@ -127,7 +127,6 @@ hm3:
         value: 50
         weight: 2
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
       data:

@@ -121,7 +121,6 @@ hm3:
     - { shortcode: favrinsbar, type: spell }
     - { shortcode: powerofsharadorn, type: spell }
     - { shortcode: dreamofgalega, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }
@@ -144,7 +143,6 @@ hm3:
     - { shortcode: firstaidbagwinstruments, type: miscgear }
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
     sunsign: ulandus

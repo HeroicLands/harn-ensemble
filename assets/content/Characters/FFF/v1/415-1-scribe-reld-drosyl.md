@@ -98,6 +98,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 84
         skillBase:
           value: 14
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Jarinese"
       system:
+        shortcode: languagejarinese
         masteryLevel: 84
         skillBase:
           value: 14
@@ -112,6 +114,7 @@ hm3:
       type: skill
       name: "Language: Khuzan"
       system:
+        shortcode: languagekhuzan
         masteryLevel: 84
         skillBase:
           value: 14
@@ -119,6 +122,7 @@ hm3:
       type: skill
       name: "Language: Sindarin"
       system:
+        shortcode: languagesindarin
         masteryLevel: 84
         skillBase:
           value: 14
@@ -133,6 +137,7 @@ hm3:
       type: skill
       name: "Script: Runic"
       system:
+        shortcode: scriptrunic
         masteryLevel: 86
         skillBase:
           value: 16
@@ -140,6 +145,7 @@ hm3:
       type: skill
       name: "Script: Selenian"
       system:
+        shortcode: scriptselenian
         masteryLevel: 86
         skillBase:
           value: 16
@@ -154,6 +160,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 68
         skillBase:
           value: 13

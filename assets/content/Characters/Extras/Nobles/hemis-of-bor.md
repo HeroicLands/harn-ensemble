@@ -90,7 +90,6 @@ hm3:
     - { shortcode: dagger, type: skill, name: Knife (Dagger), system: { masteryLevel: 44 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 78 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 78 } }
     - { shortcode: fletching, type: skill, system: { masteryLevel: 33 } }
     - { shortcode: foraging, type: skill, system: { masteryLevel: 90 } }
     - { shortcode: hidework, type: skill, system: { masteryLevel: 26 } }

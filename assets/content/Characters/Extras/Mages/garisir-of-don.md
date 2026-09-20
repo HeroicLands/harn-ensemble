@@ -112,7 +112,6 @@ hm3:
     - { shortcode: sirikscant, type: spell }
     - { shortcode: anvilofpytama, type: spell }
     - { shortcode: fistofkuhan, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: forgeofobras, type: spell }
     - { shortcode: tharasinsward, type: spell }

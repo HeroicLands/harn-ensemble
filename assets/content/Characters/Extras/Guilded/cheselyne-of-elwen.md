@@ -107,7 +107,6 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: LtCap, type: armorgear }
   system:
     sunsign: aralius
     move: 12

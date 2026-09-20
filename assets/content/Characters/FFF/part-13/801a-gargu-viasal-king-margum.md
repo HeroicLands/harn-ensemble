@@ -98,8 +98,18 @@ hm3:
       name: "Language: Gargu-viasal"
       system:
         masteryLevel: 70
-    - { shortcode: language, type: skill, name: "Language: Khuzan", system: { masteryLevel: 42 } }
-    - { shortcode: language, type: skill, name: "Language: Harnic", system: { masteryLevel: 28 } }
+    - shortcode: language
+      type: skill
+      name: "Language: Khuzan"
+      system:
+        shortcode: languagekhuzan
+        masteryLevel: 42
+    - shortcode: language
+      type: skill
+      name: "Language: Harnic"
+      system:
+        shortcode: languageharnic
+        masteryLevel: 28
     - { shortcode: initiative, type: skill, system: { masteryLevel: 65 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 72 } }
     - { shortcode: dodge, type: skill, system: { masteryLevel: 60 } }

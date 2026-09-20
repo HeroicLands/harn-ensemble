@@ -91,6 +91,7 @@ hm3:
       type: skill
       name: Haggling (Rhetoric)
       system:
+        shortcode: hagglingrhetoric
         masteryLevel: 60
         skillBase:
           value: 11
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 56
         skillBase:
           value: 13
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: Poleaxe (Polearm)
       system:
+        shortcode: poleaxepolearm
         masteryLevel: 64
         skillBase:
           value: 13
@@ -127,6 +130,7 @@ hm3:
       type: skill
       name: Billhook (Polearm)
       system:
+        shortcode: billhookpolearm
         masteryLevel: 64
         skillBase:
           value: 13

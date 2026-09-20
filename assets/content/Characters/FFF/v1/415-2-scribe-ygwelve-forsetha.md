@@ -99,6 +99,7 @@ hm3:
       type: skill
       name: "Language: Harbaalese"
       system:
+        shortcode: languageharbaalese
         masteryLevel: 76
         skillBase:
           value: 16
@@ -106,6 +107,7 @@ hm3:
       type: skill
       name: "Language: Shorka"
       system:
+        shortcode: languageshorka
         masteryLevel: 70
         skillBase:
           value: 16
@@ -113,6 +115,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 66
         skillBase:
           value: 16
@@ -120,6 +123,7 @@ hm3:
       type: skill
       name: "Language: Emela"
       system:
+        shortcode: languageemela
         masteryLevel: 48
         skillBase:
           value: 16
@@ -134,6 +138,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 83
         skillBase:
           value: 13

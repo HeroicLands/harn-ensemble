@@ -115,6 +115,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 58
         skillBase:
           value: 12
@@ -124,6 +125,7 @@ hm3:
       type: skill
       name: Horse tack (Hidework)
       system:
+        shortcode: horsetackhidework
         masteryLevel: 54
         skillBase:
           value: 13
@@ -146,6 +148,7 @@ hm3:
       type: skill
       name: Ferrier (Metalcraft)
       system:
+        shortcode: ferriermetalcraft
         masteryLevel: 46
         skillBase:
           value: 11

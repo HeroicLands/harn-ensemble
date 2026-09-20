@@ -108,6 +108,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 85
         skillBase:
           value: 15
@@ -122,6 +123,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 84
         skillBase:
           value: 14
@@ -135,6 +137,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 54
         skillBase:
           value: 12
@@ -163,6 +166,7 @@ hm3:
       type: skill
       name: Embroidery (Textilecraft)
       system:
+        shortcode: embroiderytextilecraft
         masteryLevel: 44
         skillBase:
           value: 14

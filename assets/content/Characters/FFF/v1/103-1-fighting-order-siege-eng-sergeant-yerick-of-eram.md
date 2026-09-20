@@ -90,6 +90,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 74
         skillBase:
           value: 12
@@ -125,6 +126,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 94
         skillBase:
           value: 13
@@ -134,6 +136,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 84
         skillBase:
           value: 14
@@ -148,6 +151,7 @@ hm3:
       type: skill
       name: Siege-works (Engineering)
       system:
+        shortcode: siegeworksengineering
         masteryLevel: 64
         skillBase:
           value: 14

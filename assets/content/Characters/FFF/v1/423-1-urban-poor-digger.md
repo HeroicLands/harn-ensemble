@@ -118,6 +118,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 74
         skillBase:
           value: 14

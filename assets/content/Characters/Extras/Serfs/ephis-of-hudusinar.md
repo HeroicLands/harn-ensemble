@@ -111,7 +111,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: Pfrk, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: aralius
     move: 14

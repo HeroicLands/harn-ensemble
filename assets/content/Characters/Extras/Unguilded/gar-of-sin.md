@@ -114,7 +114,6 @@ hm3:
         value: 15
         weight: 30
     - { shortcode: ropehempperft330lbcap, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: feniri
     move: 9

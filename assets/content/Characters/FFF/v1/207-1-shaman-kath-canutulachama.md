@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 36
         skillBase:
           value: 11

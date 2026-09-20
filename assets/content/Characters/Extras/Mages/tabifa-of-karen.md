@@ -119,7 +119,6 @@ hm3:
     - { shortcode: hlandorsflash, type: spell }
     - { shortcode: globeofsetath, type: spell }
     - { shortcode: prismofgethan, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: entorasmirror, type: spell }
     - { shortcode: beamofnolar, type: spell }
     - { shortcode: vaporofhirin, type: spell }
@@ -135,7 +134,6 @@ hm3:
     - { shortcode: zynastap, type: spell }
     - { shortcode: falsesoul, type: spell }
     - { shortcode: feel, type: spell }
-    - { shortcode: focus, type: spell }
     - { shortcode: wellofanasiron, type: spell }
     - { shortcode: estensmirror, type: spell }
     - { shortcode: sanctum, type: spell }

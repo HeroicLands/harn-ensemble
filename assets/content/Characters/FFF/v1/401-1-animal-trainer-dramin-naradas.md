@@ -103,6 +103,7 @@ hm3:
       type: skill
       name: Mules (Riding)
       system:
+        shortcode: mulesriding
         masteryLevel: 68
         skillBase:
           value: 15
@@ -111,6 +112,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 66
         skillBase:
           value: 13
@@ -128,6 +130,7 @@ hm3:
       type: skill
       name: Dogcraft (Animalcraft)
       system:
+        shortcode: dogcraftanimalcraft
         masteryLevel: 61
         skillBase:
           value: 15
@@ -137,6 +140,7 @@ hm3:
       type: skill
       name: Horsecraft (Animalcraft)
       system:
+        shortcode: horsecraftanimalcraft
         masteryLevel: 86
         skillBase:
           value: 15
@@ -145,6 +149,7 @@ hm3:
       type: skill
       name: Chains (Metalcraft)
       system:
+        shortcode: chainsmetalcraft
         masteryLevel: 44
         skillBase:
           value: 15
@@ -152,6 +157,7 @@ hm3:
       type: skill
       name: Mulecraft (Animalcraft)
       system:
+        shortcode: mulecraftanimalcraft
         masteryLevel: 74
         skillBase:
           value: 15
@@ -162,6 +168,7 @@ hm3:
       type: skill
       name: Bears (Tracking)
       system:
+        shortcode: bearstracking
         masteryLevel: 74
         skillBase:
           value: 15

@@ -98,6 +98,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 72
         skillBase:
           value: 12

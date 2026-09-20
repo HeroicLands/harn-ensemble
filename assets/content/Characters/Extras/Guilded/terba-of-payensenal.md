@@ -85,8 +85,18 @@ hm3:
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 78 } }
     - { shortcode: musician, type: skill, name: Gittern (Musician), system: { masteryLevel: 39 } }
-    - { shortcode: musician, type: skill, name: Harp (Musician), system: { masteryLevel: 65 } }
-    - { shortcode: musician, type: skill, name: Pipes (Musician), system: { masteryLevel: 39 } }
+    - shortcode: musician
+      type: skill
+      name: Harp (Musician)
+      system:
+        shortcode: harpmusician
+        masteryLevel: 65
+    - shortcode: musician
+      type: skill
+      name: Pipes (Musician)
+      system:
+        shortcode: pipesmusician
+        masteryLevel: 39
     - { shortcode: oratory, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 42 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 78 } }

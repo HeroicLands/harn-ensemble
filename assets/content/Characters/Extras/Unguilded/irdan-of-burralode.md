@@ -117,7 +117,6 @@ hm3:
         value: 5
         weight: 0.25
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: masara
     move: 10

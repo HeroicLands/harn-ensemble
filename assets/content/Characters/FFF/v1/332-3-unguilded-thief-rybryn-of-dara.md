@@ -122,6 +122,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 72
         skillBase:
           value: 18

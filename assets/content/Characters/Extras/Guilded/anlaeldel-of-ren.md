@@ -111,7 +111,6 @@ hm3:
         value: 8
         weight: 0.25
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: aralius
     move: 11

@@ -89,14 +89,25 @@ hm3:
       type: skill
       name: Language(Old Jarinese)
       system:
+        shortcode: languageoldjarinese
         masteryLevel: 91
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 89 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 89
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 45 } }
     - { shortcode: oratory, type: skill, system: { masteryLevel: 70 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 45 } }
     - { shortcode: script, type: skill, name: Script(Khruni), system: { masteryLevel: 100 } }
-    - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 115 } }
+    - shortcode: script
+      type: skill
+      name: Script(Lakaise)
+      system:
+        shortcode: scriptlakaise
+        masteryLevel: 115
     - { shortcode: initiative, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 48 } }
     - shortcode: animalcraft

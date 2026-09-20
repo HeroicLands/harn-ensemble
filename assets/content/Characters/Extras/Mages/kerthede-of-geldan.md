@@ -113,7 +113,6 @@ hm3:
     - { shortcode: eyesofniyar, type: spell }
     - { shortcode: orbofzatara, type: spell }
     - { shortcode: charachisfever, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }
@@ -125,7 +124,6 @@ hm3:
     - { shortcode: zynastap, type: spell }
     - { shortcode: falsesoul, type: spell }
     - { shortcode: feel, type: spell }
-    - { shortcode: focus, type: spell }
     - { shortcode: wellofanasiron, type: spell }
     - { shortcode: estensmirror, type: spell }
     - { shortcode: sightofeneldir, type: spell }

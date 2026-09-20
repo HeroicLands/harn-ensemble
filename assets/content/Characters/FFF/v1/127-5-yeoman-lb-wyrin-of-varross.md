@@ -93,6 +93,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 35
         skillBase:
           value: 11
@@ -115,6 +116,7 @@ hm3:
       type: skill
       name: Longbow (Bow)
       system:
+        shortcode: longbowbow
         masteryLevel: 102
         skillBase:
           value: 17
@@ -124,6 +126,7 @@ hm3:
       type: skill
       name: Buckler (Shield)
       system:
+        shortcode: bucklershield
         masteryLevel: 90
         skillBase:
           value: 15
@@ -132,6 +135,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 64
         skillBase:
           value: 15
@@ -141,6 +145,7 @@ hm3:
       type: skill
       name: "Fletching: Longbow"
       system:
+        shortcode: fletchinglongbow
         masteryLevel: 82
         skillBase:
           value: 18
@@ -149,6 +154,7 @@ hm3:
       type: skill
       name: "Folklore: Chybisa"
       system:
+        shortcode: folklorechybisa
         masteryLevel: 42
         skillBase:
           value: 9
@@ -158,6 +164,7 @@ hm3:
       type: skill
       name: "Heraldry: Chybisa"
       system:
+        shortcode: heraldrychybisa
         masteryLevel: 48
         skillBase:
           value: 16

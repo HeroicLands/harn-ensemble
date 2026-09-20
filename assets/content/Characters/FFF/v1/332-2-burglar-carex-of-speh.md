@@ -114,6 +114,7 @@ hm3:
       type: skill
       name: Sickle (Axe)
       system:
+        shortcode: sickleaxe
         masteryLevel: 66
         skillBase:
           value: 16
@@ -123,6 +124,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 78
         skillBase:
           value: 15
@@ -138,6 +140,7 @@ hm3:
       type: skill
       name: Thatching (Woodcraft)
       system:
+        shortcode: thatchingwoodcraft
         masteryLevel: 86
         skillBase:
           value: 17

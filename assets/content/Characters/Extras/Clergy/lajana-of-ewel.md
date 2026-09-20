@@ -88,6 +88,7 @@ hm3:
       type: skill
       name: Language, Unguilded
       system:
+        shortcode: languageunguilded
         masteryLevel: 61
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 45 } }
     - { shortcode: musician, type: skill, system: { masteryLevel: 20 } }
@@ -95,7 +96,12 @@ hm3:
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 66 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 39 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 94 } }
-    - { shortcode: script, type: skill, name: Script(Selenian), system: { masteryLevel: 94 } }
+    - shortcode: script
+      type: skill
+      name: Script(Selenian)
+      system:
+        shortcode: scriptselenian
+        masteryLevel: 94
     - { shortcode: initiative, type: skill, system: { masteryLevel: 28 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 35 } }
     - { shortcode: astrology, type: skill, system: { masteryLevel: 65 } }

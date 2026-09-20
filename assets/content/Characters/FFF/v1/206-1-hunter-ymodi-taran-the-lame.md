@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 40
         skillBase:
           value: 15
@@ -107,6 +108,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 45
         skillBase:
           value: 15
@@ -114,6 +116,7 @@ hm3:
       type: skill
       name: "Language: Gargun (Kyani)"
       system:
+        shortcode: languagegargunkyani
         masteryLevel: 45
         skillBase:
           value: 15
@@ -137,6 +140,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 60
         skillBase:
           value: 17
@@ -146,6 +150,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 74
         skillBase:
           value: 16
@@ -155,6 +160,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 78
         skillBase:
           value: 17

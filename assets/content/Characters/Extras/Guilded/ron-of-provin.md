@@ -87,6 +87,7 @@ hm3:
       type: skill
       name: Language, Unguilded
       system:
+        shortcode: languageunguilded
         masteryLevel: 61
     - { shortcode: oratory, type: skill, system: { masteryLevel: 24 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 48 } }
@@ -114,7 +115,6 @@ hm3:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: RCap, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: hirin-tarael
     move: 17

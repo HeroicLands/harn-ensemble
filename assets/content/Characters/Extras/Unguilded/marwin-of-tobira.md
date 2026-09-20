@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: Rat (Animalcraft)
       system:
+        shortcode: ratanimalcraft
         masteryLevel: 112
     - { shortcode: herblore, type: skill, system: { masteryLevel: 33 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 1771 } }

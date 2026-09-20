@@ -120,7 +120,6 @@ hm3:
         convocation: Lyahvi
     - { shortcode: cloakofkalaerin, type: spell }
     - { shortcode: hlandorsflash, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

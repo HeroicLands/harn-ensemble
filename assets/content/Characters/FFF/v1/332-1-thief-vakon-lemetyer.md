@@ -107,6 +107,7 @@ hm3:
       type: skill
       name: "Language: Jarinese"
       system:
+        shortcode: languagejarinese
         masteryLevel: 62
         skillBase:
           value: 12

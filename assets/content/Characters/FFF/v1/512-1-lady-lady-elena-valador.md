@@ -106,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Emela"
       system:
+        shortcode: languageemela
         masteryLevel: 47
         skillBase:
           value: 14
@@ -151,6 +152,7 @@ hm3:
       type: skill
       name: Needlework (Textilecraft)
       system:
+        shortcode: needleworktextilecraft
         masteryLevel: 56
         skillBase:
           value: 13

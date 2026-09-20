@@ -109,7 +109,6 @@ hm3:
     - { shortcode: temperingofpytama, type: spell }
     - { shortcode: sirikscant, type: spell }
     - { shortcode: anvilofpytama, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: ablarinsfield, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
@@ -122,7 +121,6 @@ hm3:
     - { shortcode: zynastap, type: spell }
     - { shortcode: falsesoul, type: spell }
     - { shortcode: feel, type: spell }
-    - { shortcode: focus, type: spell }
     - { shortcode: fistofkuhan, type: spell }
     - { shortcode: forgeofobras, type: spell }
     - { shortcode: tharasinsward, type: spell }

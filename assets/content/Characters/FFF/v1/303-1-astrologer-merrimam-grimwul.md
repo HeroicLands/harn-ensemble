@@ -98,6 +98,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 70
         skillBase:
           value: 15
@@ -113,6 +114,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 79
         skillBase:
           value: 14
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: "Language: Trierzi"
       system:
+        shortcode: languagetrierzi
         masteryLevel: 66
         skillBase:
           value: 14
@@ -127,6 +130,7 @@ hm3:
       type: skill
       name: "Language: Byrian"
       system:
+        shortcode: languagebyrian
         masteryLevel: 37
         skillBase:
           value: 14
@@ -134,6 +138,7 @@ hm3:
       type: skill
       name: "Language: High Azeryani"
       system:
+        shortcode: languagehighazeryani
         masteryLevel: 36
         skillBase:
           value: 14
@@ -141,6 +146,7 @@ hm3:
       type: skill
       name: "Language: Azeri"
       system:
+        shortcode: languageazeri
         masteryLevel: 29
         skillBase:
           value: 14
@@ -148,6 +154,7 @@ hm3:
       type: skill
       name: "Language: Sindarin"
       system:
+        shortcode: languagesindarin
         masteryLevel: 17
         skillBase:
           value: 14
@@ -162,6 +169,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 86
         skillBase:
           value: 16
@@ -169,6 +177,7 @@ hm3:
       type: skill
       name: "Script: Selenian"
       system:
+        shortcode: scriptselenian
         masteryLevel: 55
         skillBase:
           value: 16
@@ -176,6 +185,7 @@ hm3:
       type: skill
       name: "Script: Neramic"
       system:
+        shortcode: scriptneramic
         masteryLevel: 54
         skillBase:
           value: 16
@@ -183,6 +193,7 @@ hm3:
       type: skill
       name: "Script: Hekori"
       system:
+        shortcode: scripthekori
         masteryLevel: 52
         skillBase:
           value: 16
@@ -190,6 +201,7 @@ hm3:
       type: skill
       name: "Script: Tianta"
       system:
+        shortcode: scripttianta
         masteryLevel: 34
         skillBase:
           value: 16
@@ -204,6 +216,7 @@ hm3:
       type: skill
       name: Astromancy (Astrology)
       system:
+        shortcode: astromancyastrology
         masteryLevel: 104
         skillBase:
           value: 18
@@ -211,6 +224,7 @@ hm3:
       type: skill
       name: Astronomy (Astrology)
       system:
+        shortcode: astronomyastrology
         masteryLevel: 92
         skillBase:
           value: 18

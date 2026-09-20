@@ -112,7 +112,6 @@ hm3:
     - { shortcode: handofiliam, type: spell }
     - { shortcode: favrinsbar, type: spell }
     - { shortcode: powerofsharadorn, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

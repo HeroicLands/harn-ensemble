@@ -99,6 +99,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 73
         skillBase:
           value: 13
@@ -113,6 +114,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 82
         skillBase:
           value: 12
@@ -125,6 +127,7 @@ hm3:
       type: skill
       name: "Riding: Mule"
       system:
+        shortcode: ridingmule
         masteryLevel: 58
         skillBase:
           value: 13
@@ -133,6 +136,7 @@ hm3:
       type: skill
       name: Battleaxe (Axe)
       system:
+        shortcode: battleaxeaxe
         masteryLevel: 94
         skillBase:
           value: 17
@@ -147,6 +151,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 96
         skillBase:
           value: 17
@@ -154,6 +159,7 @@ hm3:
       type: skill
       name: Shorkana (Axe)
       system:
+        shortcode: shorkanaaxe
         masteryLevel: 89
         skillBase:
           value: 17
@@ -162,6 +168,7 @@ hm3:
       type: skill
       name: Mace (Club)
       system:
+        shortcode: maceclub
         masteryLevel: 72
         skillBase:
           value: 16
@@ -170,6 +177,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 82
         skillBase:
           value: 14
@@ -179,6 +187,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 82
         skillBase:
           value: 14
@@ -193,6 +202,7 @@ hm3:
       type: skill
       name: Machinery (Engineering)
       system:
+        shortcode: machineryengineering
         masteryLevel: 62
         skillBase:
           value: 14

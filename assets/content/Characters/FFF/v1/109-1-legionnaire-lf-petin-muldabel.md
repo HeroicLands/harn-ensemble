@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 88
         skillBase:
           value: 15
@@ -111,6 +112,7 @@ hm3:
       type: skill
       name: Tower (Shield)
       system:
+        shortcode: towershield
         masteryLevel: 88
         skillBase:
           value: 15
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 78
         skillBase:
           value: 15

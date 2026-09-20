@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: Battleaxe (Axe)
       system:
+        shortcode: battleaxeaxe
         masteryLevel: 100
         skillBase:
           value: 21
@@ -108,6 +109,7 @@ hm3:
       type: skill
       name: Longbow (Bow)
       system:
+        shortcode: longbowbow
         masteryLevel: 90
         skillBase:
           value: 18
@@ -117,6 +119,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 60
         skillBase:
           value: 13
@@ -149,6 +152,7 @@ hm3:
       type: psionic
       name: "Telepathy: Other Species"
       system:
+        shortcode: telepathyotherspecies
         masteryLevel: 36
   system:
     sunsign: ""

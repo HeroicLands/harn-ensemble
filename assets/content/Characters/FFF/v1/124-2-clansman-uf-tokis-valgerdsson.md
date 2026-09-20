@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 90
         skillBase:
           value: 16
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Keltan (Dagger)
       system:
+        shortcode: keltandagger
         masteryLevel: 76
         skillBase:
           value: 15
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 70
         skillBase:
           value: 15
@@ -130,6 +133,7 @@ hm3:
       type: skill
       name: "Fletching: Shortbow"
       system:
+        shortcode: fletchingshortbow
         masteryLevel: 62
         skillBase:
           value: 17

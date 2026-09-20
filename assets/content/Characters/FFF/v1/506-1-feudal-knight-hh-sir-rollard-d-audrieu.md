@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Latin"
       system:
+        shortcode: languagelatin
         masteryLevel: 83
         skillBase:
           value: 13
@@ -107,6 +108,7 @@ hm3:
       type: skill
       name: "Language: Anglo-Saxon"
       system:
+        shortcode: languageanglosaxon
         masteryLevel: 45
         skillBase:
           value: 13
@@ -114,6 +116,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 28
         skillBase:
           value: 13
@@ -134,6 +137,7 @@ hm3:
       type: skill
       name: Mace (Club)
       system:
+        shortcode: maceclub
         masteryLevel: 82
         skillBase:
           value: 15
@@ -143,6 +147,7 @@ hm3:
       type: skill
       name: Lance (Polearm)
       system:
+        shortcode: lancepolearm
         masteryLevel: 94
         skillBase:
           value: 15
@@ -151,6 +156,7 @@ hm3:
       type: skill
       name: Knight (Shield)
       system:
+        shortcode: knightshield
         masteryLevel: 112
         skillBase:
           value: 17
@@ -159,6 +165,7 @@ hm3:
       type: skill
       name: Bastard Sword (Sword)
       system:
+        shortcode: bastardswordsword
         masteryLevel: 110
         skillBase:
           value: 17
@@ -169,6 +176,7 @@ hm3:
       type: skill
       name: "Heraldry: Norman"
       system:
+        shortcode: heraldrynorman
         masteryLevel: 50
         skillBase:
           value: 14
@@ -176,6 +184,7 @@ hm3:
       type: skill
       name: "Heraldry: Harnic"
       system:
+        shortcode: heraldryharnic
         masteryLevel: 29
         skillBase:
           value: 14

@@ -113,7 +113,6 @@ hm3:
     - { shortcode: scythe, type: miscgear }
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: hirin
     move: 12

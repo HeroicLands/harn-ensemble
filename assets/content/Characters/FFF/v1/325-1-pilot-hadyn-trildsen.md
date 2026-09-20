@@ -103,6 +103,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 74
         skillBase:
           value: 14
@@ -122,6 +123,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 42
         skillBase:
           value: 13
@@ -131,6 +133,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 56
         skillBase:
           value: 13

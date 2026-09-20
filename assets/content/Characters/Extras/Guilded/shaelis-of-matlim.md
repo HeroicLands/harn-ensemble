@@ -89,8 +89,18 @@ hm3:
       system:
         masteryLevel: 61
     - { shortcode: musician, type: skill, name: Gittern (Musician), system: { masteryLevel: 84 } }
-    - { shortcode: musician, type: skill, name: Lute (Musician), system: { masteryLevel: 60 } }
-    - { shortcode: musician, type: skill, name: Recorder (Musician), system: { masteryLevel: 84 } }
+    - shortcode: musician
+      type: skill
+      name: Lute (Musician)
+      system:
+        shortcode: lutemusician
+        masteryLevel: 60
+    - shortcode: musician
+      type: skill
+      name: Recorder (Musician)
+      system:
+        shortcode: recordermusician
+        masteryLevel: 84
     - { shortcode: oratory, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 33 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 66 } }

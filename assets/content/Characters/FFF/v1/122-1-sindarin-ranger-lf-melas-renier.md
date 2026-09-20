@@ -107,6 +107,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 94
         skillBase:
           value: 14
@@ -114,6 +115,7 @@ hm3:
       type: skill
       name: "Language: Jarinese"
       system:
+        shortcode: languagejarinese
         masteryLevel: 70
         skillBase:
           value: 14
@@ -121,6 +123,7 @@ hm3:
       type: skill
       name: "Language: Khuzan"
       system:
+        shortcode: languagekhuzan
         masteryLevel: 70
         skillBase:
           value: 14
@@ -128,6 +131,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 45
         skillBase:
           value: 14
@@ -142,6 +146,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 86
         skillBase:
           value: 16
@@ -149,6 +154,7 @@ hm3:
       type: skill
       name: "Script: Runic"
       system:
+        shortcode: scriptrunic
         masteryLevel: 60
         skillBase:
           value: 16
@@ -172,6 +178,7 @@ hm3:
       type: skill
       name: Longknife (Sword)
       system:
+        shortcode: longknifesword
         masteryLevel: 114
         skillBase:
           value: 14

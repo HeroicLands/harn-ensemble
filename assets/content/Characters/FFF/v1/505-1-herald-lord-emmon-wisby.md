@@ -94,6 +94,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 80
         skillBase:
           value: 14
@@ -109,6 +110,7 @@ hm3:
       type: skill
       name: "Language: Jarinese"
       system:
+        shortcode: languagejarinese
         masteryLevel: 98
         skillBase:
           value: 14
@@ -116,6 +118,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 76
         skillBase:
           value: 14
@@ -130,6 +133,7 @@ hm3:
       type: skill
       name: "Script: Khruni"
       system:
+        shortcode: scriptkhruni
         masteryLevel: 85
         skillBase:
           value: 14
@@ -137,6 +141,7 @@ hm3:
       type: skill
       name: "Script: Ciphers"
       system:
+        shortcode: scriptciphers
         masteryLevel: 76
         skillBase:
           value: 14
@@ -150,6 +155,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 48
         skillBase:
           value: 12
@@ -159,6 +165,7 @@ hm3:
       type: skill
       name: Lance (Polearm)
       system:
+        shortcode: lancepolearm
         masteryLevel: 44
         skillBase:
           value: 12
@@ -167,6 +174,7 @@ hm3:
       type: skill
       name: Knight (Shield)
       system:
+        shortcode: knightshield
         masteryLevel: 60
         skillBase:
           value: 13
@@ -175,6 +183,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 70
         skillBase:
           value: 12

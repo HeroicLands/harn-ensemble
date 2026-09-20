@@ -125,6 +125,7 @@ hm3:
       type: skill
       name: Dak (Shipwright)
       system:
+        shortcode: dakshipwright
         masteryLevel: 98
         skillBase:
           value: 17
@@ -132,6 +133,7 @@ hm3:
       type: skill
       name: Sails (Shipwright)
       system:
+        shortcode: sailsshipwright
         masteryLevel: 98
         skillBase:
           value: 17
@@ -139,6 +141,7 @@ hm3:
       type: skill
       name: Ropes (Shipwright)
       system:
+        shortcode: ropesshipwright
         masteryLevel: 98
         skillBase:
           value: 17

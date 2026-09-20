@@ -111,7 +111,6 @@ hm3:
     - { shortcode: ordealoffrida, type: spell }
     - { shortcode: spiritblock, type: spell }
     - { shortcode: ablarinsfield, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

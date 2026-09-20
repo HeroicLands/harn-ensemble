@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 55
         skillBase:
           value: 15
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Sickle (Axe)
       system:
+        shortcode: sickleaxe
         masteryLevel: 62
         skillBase:
           value: 15
@@ -122,6 +124,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 68
         skillBase:
           value: 16
@@ -153,6 +156,7 @@ hm3:
       type: skill
       name: Thatching (Woodcraft)
       system:
+        shortcode: thatchingwoodcraft
         masteryLevel: 74
         skillBase:
           value: 17

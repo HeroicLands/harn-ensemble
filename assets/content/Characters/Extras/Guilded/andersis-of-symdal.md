@@ -88,8 +88,18 @@ hm3:
       system:
         masteryLevel: 74
     - { shortcode: musician, type: skill, name: Flute (Musician), system: { masteryLevel: 77 } }
-    - { shortcode: musician, type: skill, name: Harp (Musician), system: { masteryLevel: 44 } }
-    - { shortcode: musician, type: skill, name: Lute (Musician), system: { masteryLevel: 66 } }
+    - shortcode: musician
+      type: skill
+      name: Harp (Musician)
+      system:
+        shortcode: harpmusician
+        masteryLevel: 44
+    - shortcode: musician
+      type: skill
+      name: Lute (Musician)
+      system:
+        shortcode: lutemusician
+        masteryLevel: 66
     - { shortcode: oratory, type: skill, system: { masteryLevel: 55 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 77 } }

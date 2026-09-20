@@ -93,6 +93,7 @@ hm3:
       type: skill
       name: Persuasion (Rhetoric)
       system:
+        shortcode: persuasionrhetoric
         masteryLevel: 42
         skillBase:
           value: 13
@@ -124,6 +125,7 @@ hm3:
       type: skill
       name: Mulecraft (Animalcraft)
       system:
+        shortcode: mulecraftanimalcraft
         masteryLevel: 56
         skillBase:
           value: 14

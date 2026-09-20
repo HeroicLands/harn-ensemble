@@ -88,7 +88,12 @@ hm3:
       name: Language(Old Jarinese)
       system:
         masteryLevel: 56
-    - { shortcode: language, type: skill, name: "Language, Guilded", system: { masteryLevel: 102 } }
+    - shortcode: language
+      type: skill
+      name: Language, Guilded
+      system:
+        shortcode: languageguilded
+        masteryLevel: 102
     - { shortcode: oratory, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 112 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 39 } }

@@ -105,6 +105,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 80
         skillBase:
           value: 13
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 65
         skillBase:
           value: 13
@@ -126,6 +128,7 @@ hm3:
       type: skill
       name: "Script: Neramic"
       system:
+        shortcode: scriptneramic
         masteryLevel: 115
         skillBase:
           value: 15
@@ -133,6 +136,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 115
         skillBase:
           value: 15
@@ -140,6 +144,7 @@ hm3:
       type: skill
       name: "Script: Runic"
       system:
+        shortcode: scriptrunic
         masteryLevel: 80
         skillBase:
           value: 15

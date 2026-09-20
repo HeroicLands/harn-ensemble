@@ -114,6 +114,7 @@ hm3:
       type: skill
       name: Keltan (Dagger)
       system:
+        shortcode: keltandagger
         masteryLevel: 62
         skillBase:
           value: 12
@@ -122,6 +123,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 74
         skillBase:
           value: 14
@@ -131,6 +133,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 70
         skillBase:
           value: 14
@@ -141,6 +144,7 @@ hm3:
       type: skill
       name: Mineralogy (Mining)
       system:
+        shortcode: mineralogymining
         masteryLevel: 64
         skillBase:
           value: 14

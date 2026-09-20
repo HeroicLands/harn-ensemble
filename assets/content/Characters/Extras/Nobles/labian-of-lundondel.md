@@ -123,7 +123,6 @@ hm3:
         weight: 1
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: skorus
     move: 15

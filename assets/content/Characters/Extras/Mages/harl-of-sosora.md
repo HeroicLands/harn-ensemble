@@ -112,7 +112,6 @@ hm3:
     - { shortcode: favrinsbar, type: spell }
     - { shortcode: powerofsharadorn, type: spell }
     - { shortcode: dreamofgalega, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

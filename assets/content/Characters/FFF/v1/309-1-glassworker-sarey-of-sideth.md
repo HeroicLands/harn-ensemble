@@ -110,6 +110,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 44
         skillBase:
           value: 13

@@ -104,7 +104,6 @@ hm3:
     - { shortcode: WCBoot, type: armorgear }
     - { shortcode: SgClk, type: armorgear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: SgLeg, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
@@ -127,7 +126,6 @@ hm3:
         value: 11
         weight: 0.25
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
     sunsign: angberelius

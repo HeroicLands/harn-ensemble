@@ -90,6 +90,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 86
         skillBase:
           value: 14
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 73
         skillBase:
           value: 13
@@ -119,6 +121,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 82
         skillBase:
           value: 15
@@ -128,6 +131,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 86
         skillBase:
           value: 15
@@ -141,6 +145,7 @@ hm3:
       type: skill
       name: Cattlecraft (Agriculture)
       system:
+        shortcode: cattlecraftagriculture
         masteryLevel: 53
         skillBase:
           value: 12
@@ -162,6 +167,7 @@ hm3:
       type: skill
       name: "Piloting: Dak"
       system:
+        shortcode: pilotingdak
         masteryLevel: 60
         skillBase:
           value: 14

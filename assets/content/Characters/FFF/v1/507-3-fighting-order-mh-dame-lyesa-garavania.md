@@ -91,6 +91,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 56
         skillBase:
           value: 14
@@ -106,6 +107,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 67
         skillBase:
           value: 14
@@ -113,6 +115,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 63
         skillBase:
           value: 14
@@ -127,6 +130,7 @@ hm3:
       type: skill
       name: "Script: Neramic"
       system:
+        shortcode: scriptneramic
         masteryLevel: 83
         skillBase:
           value: 13
@@ -134,6 +138,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 67
         skillBase:
           value: 13
@@ -147,6 +152,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 70
         skillBase:
           value: 14
@@ -155,6 +161,7 @@ hm3:
       type: skill
       name: Mace (Club)
       system:
+        shortcode: maceclub
         masteryLevel: 78
         skillBase:
           value: 13
@@ -164,6 +171,7 @@ hm3:
       type: skill
       name: Lance (Polearm)
       system:
+        shortcode: lancepolearm
         masteryLevel: 78
         skillBase:
           value: 13
@@ -172,6 +180,7 @@ hm3:
       type: skill
       name: Kite (Shield)
       system:
+        shortcode: kiteshield
         masteryLevel: 84
         skillBase:
           value: 13
@@ -180,6 +189,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 64
         skillBase:
           value: 13

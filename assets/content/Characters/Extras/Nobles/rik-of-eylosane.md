@@ -115,7 +115,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: nadai
     move: 9

@@ -92,6 +92,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 70
         skillBase:
           value: 14
@@ -120,6 +121,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 74
         skillBase:
           value: 15
@@ -129,6 +131,7 @@ hm3:
       type: skill
       name: Lance (Polearm)
       system:
+        shortcode: lancepolearm
         masteryLevel: 46
         skillBase:
           value: 15
@@ -137,6 +140,7 @@ hm3:
       type: skill
       name: Knight (Shield)
       system:
+        shortcode: knightshield
         masteryLevel: 84
         skillBase:
           value: 17
@@ -144,6 +148,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 92
         skillBase:
           value: 17
@@ -153,6 +158,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 96
         skillBase:
           value: 18
@@ -160,6 +166,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 90
         skillBase:
           value: 18
@@ -167,6 +174,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 93
         skillBase:
           value: 18

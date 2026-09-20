@@ -98,6 +98,7 @@ hm3:
       type: skill
       name: "Language: Jarinese"
       system:
+        shortcode: languagejarinese
         masteryLevel: 36
         skillBase:
           value: 12
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 48
         skillBase:
           value: 12
@@ -112,6 +114,7 @@ hm3:
       type: skill
       name: "Language: Kath"
       system:
+        shortcode: languagekath
         masteryLevel: 24
         skillBase:
           value: 12
@@ -119,6 +122,7 @@ hm3:
       type: skill
       name: "Language: Taelda"
       system:
+        shortcode: languagetaelda
         masteryLevel: 48
         skillBase:
           value: 12
@@ -140,6 +144,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 74
         skillBase:
           value: 11
@@ -148,6 +153,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 80
         skillBase:
           value: 12

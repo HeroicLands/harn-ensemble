@@ -93,6 +93,7 @@ hm3:
       type: skill
       name: Intimidation (Rhetoric)
       system:
+        shortcode: intimidationrhetoric
         masteryLevel: 62
         skillBase:
           value: 9
@@ -113,6 +114,7 @@ hm3:
       type: skill
       name: Taburi (Dagger)
       system:
+        shortcode: taburidagger
         masteryLevel: 68
         skillBase:
           value: 15
