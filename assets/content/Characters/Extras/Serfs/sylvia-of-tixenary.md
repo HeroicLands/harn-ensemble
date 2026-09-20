@@ -111,7 +111,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
-    - { shortcode: Pfrk, type: weapongear }
+    - { shortcode: Pfrk, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }

@@ -109,7 +109,7 @@ hm3:
       system:
         value: 20
         weight: 0.1
-    - { shortcode: pursesilk, type: miscgear }
+    - { shortcode: pursesilk, type: containergear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood

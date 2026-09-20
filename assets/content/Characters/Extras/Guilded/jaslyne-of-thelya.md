@@ -109,7 +109,7 @@ hm3:
         weight: 0.1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
-    - { shortcode: pursesilk, type: miscgear }
+    - { shortcode: pursesilk, type: containergear }
     - name: Comb, wood
       type: miscgear
       data:

@@ -110,7 +110,7 @@ hm3:
         weight: 0.1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
-    - { shortcode: pursesilk, type: miscgear }
+    - { shortcode: pursesilk, type: containergear }
     - name: Ring, Silver
       type: miscgear
       data:

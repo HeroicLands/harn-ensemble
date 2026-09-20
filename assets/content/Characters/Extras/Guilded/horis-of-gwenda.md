@@ -110,7 +110,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
-    - { shortcode: pursesilk, type: miscgear }
+    - { shortcode: pursesilk, type: containergear }
     - { shortcode: tankardwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear

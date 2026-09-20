@@ -105,7 +105,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: LtCap, type: armorgear }
-    - { shortcode: Pfrk, type: weapongear }
+    - { shortcode: Pfrk, type: miscgear }
     - { shortcode: scythe, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
