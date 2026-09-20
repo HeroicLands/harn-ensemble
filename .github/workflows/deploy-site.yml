@@ -7,11 +7,15 @@
 # stays here is the build: `npm run build:site`, which the shared workflow runs
 # and knows nothing else about.
 #
-# No `min-pages` / `max-pages`. The shared workflow reads `publish.site` from
-# `package-build.config.yaml` and derives the bound from it — then fails the run
-# if a caller passes either input. The bound is a property of what the package
-# publishes, not a knob the caller sets, so it follows the mode without this
-# file restating it.
+# `min-pages` / `max-pages` are REQUIRED in `content` mode — the shared
+# workflow reads `publish.site` from the same config the build reads, and
+# fails the run rather than deploy an ungoverned page count. `min-pages` is a
+# floor set below a complete build's page count, not an assertion about
+# today's count: it catches a collapsed build, not a change in how many notes
+# this package carries. `max-pages` is a ceiling with the same margin the
+# other way. Measured: a complete build carries 2535 pages. Set with headroom
+# on both sides of that figure — a floor and a ceiling that catch a collapsed
+# or runaway build, not a description of today's count.
 #
 # No `_headers` either: HeroicLands/.github#7 is making the shared workflow
 # supply the default, rather than four repositories each carrying the same six
@@ -37,6 +41,11 @@ jobs:
             # Not derived from the package name: a Pages project's name is its
             # deployment history, so it is stated rather than computed.
             project: harn-ensemble
+            # Measured: a complete build carries 2535 pages (2534 content + 1
+            # homepage). Set with headroom on both sides to catch a collapsed or
+            # runaway build.
+            min-pages: 2200
+            max-pages: 3100
         secrets:
             CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
             CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
