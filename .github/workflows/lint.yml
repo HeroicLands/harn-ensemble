@@ -17,12 +17,12 @@
 #
 # ## The compile is a second job
 #
-# It is the only check here that reaches the network — a satellite fetches the
-# pinned system release its actors resolve against — so it has a failure surface
-# none of the lint steps have, and mixing the two would make a third party's
-# outage read as a content failure. And a compile failure and a lint failure are
-# both worth seeing in one run, rather than whichever comes first hiding the
-# other.
+# Both jobs fetch the same dependency content indexes — a satellite fetches the
+# pinned system release the address, content-link and compile checks all
+# resolve against — so both share that failure surface, and mixing the compile
+# into the lint job would make a third party's outage read as a content
+# failure. And a compile failure and a lint failure are both worth seeing in
+# one run, rather than whichever comes first hiding the other.
 #
 # Every run is cold: `build/` is gitignored and holds the dependency catalogue
 # too, so a runner starts with nothing.
@@ -54,11 +54,13 @@ jobs:
                   node-version: 24
                   cache: npm
 
-            # Every check below reads the tracked tree and needs only the
-            # toolchain: nothing here fetches a dependency catalogue, compiles a
-            # pack, or reaches the network.
             - name: Install dependencies
               run: npm ci
+
+            # The address and content-link checks below resolve against the
+            # dependency content indexes this fetches.
+            - name: Fetch dependency indexes
+              run: npm run build:deps
 
             # Prettier over the whole tree.
             - name: Check formatting
@@ -101,6 +103,11 @@ jobs:
 
             - name: Install dependencies
               run: npm ci
+
+            # The compile below resolves embedded items against the
+            # dependency content indexes this fetches.
+            - name: Fetch dependency indexes
+              run: npm run build:deps
 
             # Stages the tree, compiles every pack, and emits the content index
             # — the cold build a tree that has already built once cannot

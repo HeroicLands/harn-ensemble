@@ -770,39 +770,3 @@ Modifier to EyeColor of +25 (from 49) {Complexion=Dark, Species=Human}
 Scant frame resulted in +2 agility mod.
 
 Modifier to StartingEquipment of +100 (from 1) {SocialClass=Serf}
-
-Age: 28
-
-Birthday: 22 Peonu 692
-
-Culture: Feudal
-
-Social Class: Serf
-
-Sibling Rank: 6th child of 11
-
-Siblings: MFMMMFMFFMf
-
-Parentage: Adopted
-
-Estrangement: Average
-
-Clanhead: Aunt/Uncle
-
-## Notes
-
-Modifier to Frame of -3 (from 7) {Sex=Female, Species=Human}
-
-Modifier to AttributesAGL of +2 (from 9) {Frame=Scant}
-
-Modifier to AttributesAUR of +2 (from 13) {Sex=Female, Species=Human}
-
-Modifier to HairColor of +25 (from 40) {Complexion=Fair, Species=Human}
-
-Modifier to EyeColor of -10 (from 22) {Complexion=Fair, Species=Human}
-
-106lbs weight resulted in -3 strength mod.
-
-Scant frame resulted in +2 agility mod.
-
-Modifier to StartingEquipment of +100 (from 12) {SocialClass=Serf}
