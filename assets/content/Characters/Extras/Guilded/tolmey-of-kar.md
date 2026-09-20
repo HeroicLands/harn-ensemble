@@ -769,31 +769,3 @@ Leprosy mod to Comeliness: -8
 Light frame resulted in +1 agility mod.
 
 Modifier to StartingEquipment of +300 (from 41) {SocialClass=Guilded}
-
-Age: 36
-
-Birthday: 24 Navek 684
-
-Culture: Feudal
-
-Social Class: Unguilded
-
-Sibling Rank: 2nd child of 3
-
-Siblings: MFF
-
-Parentage: Offspring
-
-Offspring: Both parents alive and living together
-
-Estrangement: Unpopular
-
-Clanhead: Cousin
-
-## Notes
-
-Modifier to Frame of -3 (from 12) {Sex=Female, Species=Human}
-
-Modifier to AttributesAUR of +2 (from 7) {Sex=Female, Species=Human}
-
-Modifier to StartingEquipment of +200 (from 7) {SocialClass=Unguilded}
