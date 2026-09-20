@@ -108,6 +108,9 @@ site:
     # every other package-owned picture resolve against it.
     assets: https://cdn.heroiclands.org
 
+    # Site's <meta name="description">
+    description: Over a thousand ready-made NPCs for you to use in your games in the Hârn setting.
+
     # Every section this package publishes, so /harnensemble/<section>/ answers
     # with a titled page rather than a directory listing. A section is a note's
     # own `type` (`sectionOf`), not a directory name, and a page is written into
@@ -147,6 +150,8 @@ packageBuild:
         - { from: README.md, to: README.md }
 
     manifest:
+        # Foundry package browser listing
+        descriptionHtml: Over a thousand ready-made NPCs for you to use in your games in the Hârn setting.
         title: Ensemble of Hârn NPCs
         authors:
             - name: Toasty
