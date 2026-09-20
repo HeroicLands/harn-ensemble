@@ -84,13 +84,23 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 66 } }
     - { shortcode: language, type: skill, name: Language(Emela), system: { masteryLevel: 52 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 63 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 63
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: oratory, type: skill, system: { masteryLevel: 84 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 45 } }
     - { shortcode: script, type: skill, name: Script(Khruni), system: { masteryLevel: 83 } }
-    - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 83 } }
+    - shortcode: script
+      type: skill
+      name: Script(Lakaise)
+      system:
+        shortcode: scriptlakaise
+        masteryLevel: 83
     - { shortcode: initiative, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: agriculture, type: skill, system: { masteryLevel: 55 } }

@@ -115,6 +115,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 64
         skillBase:
           value: 15
@@ -125,6 +126,7 @@ hm3:
       type: skill
       name: Silversmith (Jewelcraft)
       system:
+        shortcode: silversmithjewelcraft
         masteryLevel: 92
         skillBase:
           value: 15
@@ -140,6 +142,7 @@ hm3:
       type: skill
       name: Mineralogy (Mining)
       system:
+        shortcode: mineralogymining
         masteryLevel: 36
         skillBase:
           value: 16

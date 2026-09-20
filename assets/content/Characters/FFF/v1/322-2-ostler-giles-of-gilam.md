@@ -125,6 +125,7 @@ hm3:
       type: skill
       name: Mulecraft (Animalcraft)
       system:
+        shortcode: mulecraftanimalcraft
         masteryLevel: 50
         skillBase:
           value: 12

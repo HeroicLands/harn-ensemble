@@ -117,7 +117,6 @@ hm3:
     - { shortcode: curseofbalrin, type: spell }
     - { shortcode: figureofaumos, type: spell }
     - { shortcode: fiendofalsaidom, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

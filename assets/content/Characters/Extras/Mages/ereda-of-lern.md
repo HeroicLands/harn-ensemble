@@ -110,7 +110,6 @@ hm3:
     - { shortcode: sirikscant, type: spell }
     - { shortcode: anvilofpytama, type: spell }
     - { shortcode: fistofkuhan, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

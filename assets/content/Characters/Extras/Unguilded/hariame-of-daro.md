@@ -83,12 +83,22 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: language, type: skill, name: Language(Ivinian), system: { masteryLevel: 30 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 70 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 70
     - { shortcode: oratory, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 27 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 106 } }
-    - { shortcode: script, type: skill, name: Script(Script(Runic)), system: { masteryLevel: 94 } }
+    - shortcode: script
+      type: skill
+      name: Script(Script(Runic))
+      system:
+        shortcode: scriptrunic
+        masteryLevel: 94
     - { shortcode: initiative, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 54 } }
     - { shortcode: folklore, type: skill, system: { masteryLevel: 91 } }
@@ -98,7 +108,6 @@ hm3:
     - { shortcode: WCBoot, type: armorgear }
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: WClk, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }

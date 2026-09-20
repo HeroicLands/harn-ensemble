@@ -107,6 +107,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 62
         skillBase:
           value: 12
@@ -115,6 +116,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 62
         skillBase:
           value: 13
@@ -125,6 +127,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 72
         skillBase:
           value: 15

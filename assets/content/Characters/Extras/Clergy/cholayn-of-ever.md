@@ -85,14 +85,24 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 50 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: language, type: skill, name: Language(Sindarin), system: { masteryLevel: 52 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 89 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 89
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: musician, type: skill, system: { masteryLevel: 27 } }
     - { shortcode: oratory, type: skill, system: { masteryLevel: 84 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 33 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 83 } }
-    - { shortcode: script, type: skill, name: Script(Selenian), system: { masteryLevel: 83 } }
+    - shortcode: script
+      type: skill
+      name: Script(Selenian)
+      system:
+        shortcode: scriptselenian
+        masteryLevel: 83
     - { shortcode: initiative, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: astrology, type: skill, system: { masteryLevel: 64 } }

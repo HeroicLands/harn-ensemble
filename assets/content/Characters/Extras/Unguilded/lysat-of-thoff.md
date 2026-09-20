@@ -116,7 +116,6 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: hirin
     move: 12

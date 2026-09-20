@@ -113,7 +113,6 @@ hm3:
         weight: 10
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: nadai-hirin
     move: 17

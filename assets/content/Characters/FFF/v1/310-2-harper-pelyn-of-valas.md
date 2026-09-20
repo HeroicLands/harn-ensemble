@@ -98,6 +98,7 @@ hm3:
       type: skill
       name: Harp (Musician)
       system:
+        shortcode: harpmusician
         masteryLevel: 86
         skillBase:
           value: 17
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: Horn (Musician)
       system:
+        shortcode: hornmusician
         masteryLevel: 61
         skillBase:
           value: 17
@@ -123,6 +125,7 @@ hm3:
       type: skill
       name: "Language: Emela"
       system:
+        shortcode: languageemela
         masteryLevel: 66
         skillBase:
           value: 15
@@ -130,6 +133,7 @@ hm3:
       type: skill
       name: "Language: Palithanian"
       system:
+        shortcode: languagepalithanian
         masteryLevel: 50
         skillBase:
           value: 15
@@ -137,6 +141,7 @@ hm3:
       type: skill
       name: "Language: Shorka"
       system:
+        shortcode: languageshorka
         masteryLevel: 52
         skillBase:
           value: 15
@@ -144,6 +149,7 @@ hm3:
       type: skill
       name: "Language: Trierzi"
       system:
+        shortcode: languagetrierzi
         masteryLevel: 54
         skillBase:
           value: 15
@@ -171,6 +177,7 @@ hm3:
       type: skill
       name: "Folklore: Shorkyne"
       system:
+        shortcode: folkloreshorkyne
         masteryLevel: 50
         skillBase:
           value: 16
@@ -178,6 +185,7 @@ hm3:
       type: skill
       name: "Folklore: Emelrene"
       system:
+        shortcode: folkloreemelrene
         masteryLevel: 73
         skillBase:
           value: 16
@@ -185,6 +193,7 @@ hm3:
       type: skill
       name: "Folklore: Palithane"
       system:
+        shortcode: folklorepalithane
         masteryLevel: 54
         skillBase:
           value: 16
@@ -192,6 +201,7 @@ hm3:
       type: skill
       name: "Folklore: Trierzon"
       system:
+        shortcode: folkloretrierzon
         masteryLevel: 56
         skillBase:
           value: 16

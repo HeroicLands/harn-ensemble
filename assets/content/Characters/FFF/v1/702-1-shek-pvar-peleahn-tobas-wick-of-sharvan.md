@@ -129,6 +129,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 54
         skillBase:
           value: 12
@@ -137,6 +138,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 78
         skillBase:
           value: 11
@@ -200,9 +202,6 @@ hm3:
       system:
         notes: Imposes a -50 penalty to mind affecting spells targeted on the wearer
         weight: 1
-    - { shortcode: ShrtSwd, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: Stf, type: weapongear }
     - { shortcode: peleahn, type: skill, system: { masteryLevel: 99, skillBase: { value: 16 } } }
     - { shortcode: neutral, type: skill, system: { masteryLevel: 92, skillBase: { value: 15 } } }
     - shortcode: pyrokinesis

@@ -109,7 +109,6 @@ hm3:
     - { shortcode: fishingkitportable, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tai
     move: 13

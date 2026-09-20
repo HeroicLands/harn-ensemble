@@ -115,7 +115,6 @@ hm3:
         value: 10
         weight: 2
     - { shortcode: tankardpew, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
     sunsign: lado

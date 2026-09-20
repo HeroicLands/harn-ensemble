@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: Parchment making (Hidework)
       system:
+        shortcode: parchmentmakinghidework
         masteryLevel: 76
         skillBase:
           value: 14

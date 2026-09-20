@@ -89,13 +89,19 @@ hm3:
       type: skill
       name: Language, Unguilded
       system:
+        shortcode: languageunguilded
         masteryLevel: 89
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: oratory, type: skill, system: { masteryLevel: 78 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 83 } }
-    - { shortcode: script, type: skill, name: Script(Runic), system: { masteryLevel: 83 } }
+    - shortcode: script
+      type: skill
+      name: Script(Runic)
+      system:
+        shortcode: scriptrunic
+        masteryLevel: 83
     - { shortcode: axe, type: skill, system: { masteryLevel: 112 } }
     - { shortcode: dagger, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 63 } }

@@ -108,7 +108,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear

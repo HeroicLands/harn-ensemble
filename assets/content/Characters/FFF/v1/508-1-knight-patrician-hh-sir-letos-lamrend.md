@@ -118,6 +118,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 70
         skillBase:
           value: 14
@@ -128,6 +129,7 @@ hm3:
       type: skill
       name: Kite (Shield)
       system:
+        shortcode: kiteshield
         masteryLevel: 80
         skillBase:
           value: 16
@@ -135,6 +137,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 82
         skillBase:
           value: 16
@@ -143,6 +146,7 @@ hm3:
       type: skill
       name: Bastard Sword (Sword)
       system:
+        shortcode: bastardswordsword
         masteryLevel: 80
         skillBase:
           value: 15

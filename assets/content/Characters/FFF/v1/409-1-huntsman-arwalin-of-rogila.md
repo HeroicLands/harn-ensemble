@@ -103,6 +103,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 70
         skillBase:
           value: 14
@@ -111,6 +112,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 74
         skillBase:
           value: 14
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: Buckler (Shield)
       system:
+        shortcode: bucklershield
         masteryLevel: 68
         skillBase:
           value: 13
@@ -138,6 +141,7 @@ hm3:
       type: skill
       name: Oxcraft (Agriculture)
       system:
+        shortcode: oxcraftagriculture
         masteryLevel: 52
         skillBase:
           value: 14

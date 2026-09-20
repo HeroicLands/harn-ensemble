@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Jarinese (Azadmere)"
       system:
+        shortcode: languagejarineseazadmere
         masteryLevel: 72
         skillBase:
           value: 12
@@ -107,6 +108,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 72
         skillBase:
           value: 12
@@ -121,6 +123,7 @@ hm3:
       type: skill
       name: "Script: Runic"
       system:
+        shortcode: scriptrunic
         masteryLevel: 62
         skillBase:
           value: 15
@@ -136,6 +139,7 @@ hm3:
       type: skill
       name: Mule Whip (Whip)
       system:
+        shortcode: mulewhipwhip
         masteryLevel: 64
         skillBase:
           value: 14

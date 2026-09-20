@@ -89,6 +89,7 @@ hm3:
       type: skill
       name: Language, Unguilded
       system:
+        shortcode: languageunguilded
         masteryLevel: 61
     - { shortcode: oratory, type: skill, system: { masteryLevel: 84 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 88 } }
@@ -127,7 +128,6 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: angberelius
     move: 12

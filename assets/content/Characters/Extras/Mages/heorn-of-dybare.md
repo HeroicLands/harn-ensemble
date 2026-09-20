@@ -105,7 +105,6 @@ hm3:
     - { shortcode: skinoflexesh, type: spell }
     - { shortcode: eyesofniyar, type: spell }
     - { shortcode: orbofzatara, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: charachisfever, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 195 } }

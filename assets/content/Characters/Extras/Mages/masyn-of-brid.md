@@ -107,7 +107,6 @@ hm3:
     - { shortcode: sirikscant, type: spell }
     - { shortcode: anvilofpytama, type: spell }
     - { shortcode: fistofkuhan, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 333 } }
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: CvCloak, type: armorgear }

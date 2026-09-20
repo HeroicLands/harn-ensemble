@@ -110,7 +110,6 @@ hm3:
         weight: 0.03
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ulandus
     move: 8

@@ -132,7 +132,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: ropehempperft330lbcap, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: angberelius
     move: 9

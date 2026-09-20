@@ -83,19 +83,22 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 88 } }
     - { shortcode: language, type: skill, name: Language(Jarinese), system: { masteryLevel: 30 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 60 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 60
     - { shortcode: oratory, type: skill, system: { masteryLevel: 22 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 80 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 30 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 90 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 44 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: law, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: mathematics, type: skill, system: { masteryLevel: 33 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 757 } }
     - { shortcode: pursebuckram, type: containergear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }
@@ -106,7 +109,6 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: WCap, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ulandus
     move: 7

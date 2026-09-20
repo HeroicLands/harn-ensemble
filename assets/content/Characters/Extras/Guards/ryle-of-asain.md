@@ -122,7 +122,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tai
     move: 5

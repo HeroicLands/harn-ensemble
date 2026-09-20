@@ -84,7 +84,12 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 91 } }
     - { shortcode: language, type: skill, name: Language(Jarinese), system: { masteryLevel: 36 } }
-    - { shortcode: language, type: skill, name: "Language, Guilded", system: { masteryLevel: 72 } }
+    - shortcode: language
+      type: skill
+      name: Language, Guilded
+      system:
+        shortcode: languageguilded
+        masteryLevel: 72
     - { shortcode: oratory, type: skill, system: { masteryLevel: 90 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 108 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 33 } }
@@ -104,7 +109,6 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: backbagmed, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: RCap, type: armorgear }
     - { shortcode: papercasel, type: miscgear }
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }

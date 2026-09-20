@@ -99,6 +99,7 @@ hm3:
       type: skill
       name: "Language: High Azeryani"
       system:
+        shortcode: languagehighazeryani
         masteryLevel: 64
         skillBase:
           value: 12
@@ -106,6 +107,7 @@ hm3:
       type: skill
       name: "Language: Karejian"
       system:
+        shortcode: languagekarejian
         masteryLevel: 66
         skillBase:
           value: 12
@@ -113,6 +115,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 68
         skillBase:
           value: 12
@@ -127,6 +130,7 @@ hm3:
       type: skill
       name: "Script: Ayaran"
       system:
+        shortcode: scriptayaran
         masteryLevel: 68
         skillBase:
           value: 12
@@ -134,6 +138,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 64
         skillBase:
           value: 12
@@ -148,6 +153,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 52
         skillBase:
           value: 13
@@ -156,6 +162,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 50
         skillBase:
           value: 12

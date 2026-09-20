@@ -92,6 +92,7 @@ hm3:
       type: skill
       name: Language, Unguilded
       system:
+        shortcode: languageunguilded
         masteryLevel: 74
     - { shortcode: oratory, type: skill, system: { masteryLevel: 77 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 84 } }

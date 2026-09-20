@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 60
         skillBase:
           value: 14
@@ -122,6 +123,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 76
         skillBase:
           value: 14
@@ -151,7 +153,6 @@ hm3:
     - { shortcode: WTunic, type: armorgear }
     - { shortcode: WLeg, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 51 } }
   system:
     sunsign: ahnu

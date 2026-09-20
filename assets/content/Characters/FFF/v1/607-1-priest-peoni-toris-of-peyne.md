@@ -106,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Emela"
       system:
+        shortcode: languageemela
         masteryLevel: 82
         skillBase:
           value: 12
@@ -120,6 +121,7 @@ hm3:
       type: skill
       name: "Script: Khruni"
       system:
+        shortcode: scriptkhruni
         masteryLevel: 85
         skillBase:
           value: 15
@@ -133,6 +135,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 70
         skillBase:
           value: 16

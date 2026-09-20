@@ -115,7 +115,6 @@ hm3:
         value: 240
         weight: 0.25
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
   system:
     sunsign: hirin

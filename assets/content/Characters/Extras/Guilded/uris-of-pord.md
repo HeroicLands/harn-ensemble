@@ -92,7 +92,12 @@ hm3:
     - { shortcode: singing, type: skill, system: { masteryLevel: 39 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 72 } }
     - { shortcode: sword, type: skill, name: Bastard Sword (Sword), system: { masteryLevel: 56 } }
-    - { shortcode: sword, type: skill, name: Broadsword (Sword), system: { masteryLevel: 42 } }
+    - shortcode: sword
+      type: skill
+      name: Broadsword (Sword)
+      system:
+        shortcode: broadswordsword
+        masteryLevel: 42
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 80 } }
     - { shortcode: fletching, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: metalcraft, type: skill, system: { masteryLevel: 98 } }

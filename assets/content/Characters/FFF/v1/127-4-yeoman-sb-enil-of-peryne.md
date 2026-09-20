@@ -107,6 +107,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 102
         skillBase:
           value: 18
@@ -116,6 +117,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 98
         skillBase:
           value: 17
@@ -124,6 +126,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 96
         skillBase:
           value: 17
@@ -138,6 +141,7 @@ hm3:
       type: skill
       name: Cowcraft (Agriculture)
       system:
+        shortcode: cowcraftagriculture
         masteryLevel: 74
         skillBase:
           value: 13
@@ -146,6 +150,7 @@ hm3:
       type: skill
       name: Shortbow (Fletching)
       system:
+        shortcode: shortbowfletching
         masteryLevel: 94
         skillBase:
           value: 20
@@ -156,6 +161,7 @@ hm3:
       type: skill
       name: Pigcraft (Agriculture)
       system:
+        shortcode: pigcraftagriculture
         masteryLevel: 68
         skillBase:
           value: 13
@@ -163,6 +169,7 @@ hm3:
       type: skill
       name: Sheepcraft (Agriculture)
       system:
+        shortcode: sheepcraftagriculture
         masteryLevel: 70
         skillBase:
           value: 13

@@ -121,6 +121,7 @@ hm3:
       type: skill
       name: Goatcraft (Agriculture)
       system:
+        shortcode: goatcraftagriculture
         masteryLevel: 33
         skillBase:
           value: 14

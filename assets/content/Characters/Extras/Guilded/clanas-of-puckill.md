@@ -88,7 +88,12 @@ hm3:
       name: Language(Old Jarinese)
       system:
         masteryLevel: 30
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 60 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 60
     - { shortcode: oratory, type: skill, system: { masteryLevel: 24 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 27 } }

@@ -88,6 +88,7 @@ hm3:
       type: skill
       name: Language, Unguilded
       system:
+        shortcode: languageunguilded
         masteryLevel: 62
     - { shortcode: oratory, type: skill, system: { masteryLevel: 26 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 72 } }
@@ -103,7 +104,6 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: SgClk, type: armorgear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: SgLeg, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: SgTunic, type: armorgear }
@@ -112,7 +112,6 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: WCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: masara
     move: 7

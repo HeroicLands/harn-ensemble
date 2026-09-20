@@ -127,7 +127,6 @@ hm3:
         value: 1
         weight: 0.03
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ulandus
     move: 9

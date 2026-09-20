@@ -85,7 +85,12 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 66 } }
     - { shortcode: language, type: skill, name: Language(Jarinese), system: { masteryLevel: 7 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 64 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 64
     - { shortcode: oratory, type: skill, system: { masteryLevel: 32 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 42 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 24 } }
@@ -134,7 +139,6 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ahnu
     move: 13

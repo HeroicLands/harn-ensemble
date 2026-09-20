@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Jarinese"
       system:
+        shortcode: languagejarinese
         masteryLevel: 71
         skillBase:
           value: 11
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Battleaxe (Axe)
       system:
+        shortcode: battleaxeaxe
         masteryLevel: 86
         skillBase:
           value: 16
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 72
         skillBase:
           value: 15
@@ -130,6 +133,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 80
         skillBase:
           value: 13
@@ -139,6 +143,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 84
         skillBase:
           value: 13
@@ -146,6 +151,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 86
         skillBase:
           value: 13
@@ -162,6 +168,7 @@ hm3:
       type: skill
       name: Goatcraft (Agriculture)
       system:
+        shortcode: goatcraftagriculture
         masteryLevel: 50
         skillBase:
           value: 12

@@ -112,7 +112,6 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: RHbk, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ahnu
     move: 8

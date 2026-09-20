@@ -91,7 +91,6 @@ hm3:
     - { shortcode: flail, type: skill, name: Grailflail (Flail), system: { masteryLevel: 48 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 112 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 98 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 98 } }
     - { shortcode: physician, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 1468 } }
     - { shortcode: pursebuckram, type: containergear }

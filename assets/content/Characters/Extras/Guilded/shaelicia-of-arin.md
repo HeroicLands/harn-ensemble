@@ -85,8 +85,18 @@ hm3:
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 32 } }
     - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 64 } }
     - { shortcode: musician, type: skill, name: Flute (Musician), system: { masteryLevel: 84 } }
-    - { shortcode: musician, type: skill, name: Harp (Musician), system: { masteryLevel: 48 } }
-    - { shortcode: musician, type: skill, name: Lute (Musician), system: { masteryLevel: 48 } }
+    - shortcode: musician
+      type: skill
+      name: Harp (Musician)
+      system:
+        shortcode: harpmusician
+        masteryLevel: 48
+    - shortcode: musician
+      type: skill
+      name: Lute (Musician)
+      system:
+        shortcode: lutemusician
+        masteryLevel: 48
     - { shortcode: oratory, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 35 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 80 } }
@@ -111,7 +121,6 @@ hm3:
     - { shortcode: flutewoode, type: miscgear }
     - { shortcode: harpaeolia, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
   system:
     sunsign: ulandus-aralius

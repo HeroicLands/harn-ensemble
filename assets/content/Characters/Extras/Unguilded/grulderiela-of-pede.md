@@ -90,7 +90,7 @@ hm3:
     - { shortcode: flail, type: skill, name: Grailflail (Flail), system: { masteryLevel: 30 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 45 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 50 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 60 } }
+    - { shortcode: unarmed, type: skill, system: { shortcode: unarmed2, masteryLevel: 60 } }
     - { shortcode: fletching, type: skill, system: { masteryLevel: 30 } }
     - { shortcode: foraging, type: skill, system: { masteryLevel: 91 } }
     - { shortcode: hidework, type: skill, system: { masteryLevel: 20 } }

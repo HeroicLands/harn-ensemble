@@ -128,7 +128,6 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: KnSh, type: weapongear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
     sunsign: ulandus-lado

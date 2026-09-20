@@ -84,13 +84,17 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 54 } }
     - { shortcode: language, type: skill, name: Language(Jarinese), system: { masteryLevel: 44 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 72 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 72
     - { shortcode: oratory, type: skill, system: { masteryLevel: 26 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 66 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 84 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 36 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: law, type: skill, system: { masteryLevel: 33 } }
     - { shortcode: mathematics, type: skill, system: { masteryLevel: 33 } }

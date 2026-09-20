@@ -84,7 +84,12 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 70 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 99 } }
     - { shortcode: language, type: skill, name: Language(Jarinese), system: { masteryLevel: 48 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 74 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 74
     - { shortcode: oratory, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 96 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 39 } }
@@ -97,7 +102,6 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 1553 } }
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: CvCloak, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }

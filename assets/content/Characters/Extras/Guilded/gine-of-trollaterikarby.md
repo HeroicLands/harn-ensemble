@@ -104,7 +104,6 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: lado-masara
     move: 7

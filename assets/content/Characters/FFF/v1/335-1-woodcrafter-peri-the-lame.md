@@ -109,6 +109,7 @@ hm3:
       type: skill
       name: Cowcraft (Agriculture)
       system:
+        shortcode: cowcraftagriculture
         masteryLevel: 38
         skillBase:
           value: 9

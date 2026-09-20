@@ -113,7 +113,6 @@ hm3:
     - { shortcode: galrasenhancement, type: spell }
     - { shortcode: lothskey, type: spell }
     - { shortcode: ordealoffrida, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: ablarinsfield, type: spell }
     - name: Aeric's Whisper
       type: spell
@@ -135,7 +134,6 @@ hm3:
     - { shortcode: zynastap, type: spell }
     - { shortcode: falsesoul, type: spell }
     - { shortcode: feel, type: spell }
-    - { shortcode: focus, type: spell }
     - { shortcode: wellofanasiron, type: spell }
     - { shortcode: estensmirror, type: spell }
     - { shortcode: azurehand, type: spell }

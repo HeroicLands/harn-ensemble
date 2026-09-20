@@ -84,7 +84,12 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 40 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 63 } }
     - { shortcode: language, type: skill, name: Language(Emela), system: { masteryLevel: 33 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 61 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 61
     - { shortcode: oratory, type: skill, system: { masteryLevel: 24 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 66 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 36 } }

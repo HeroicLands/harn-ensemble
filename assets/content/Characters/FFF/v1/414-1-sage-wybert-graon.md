@@ -99,6 +99,7 @@ hm3:
       type: skill
       name: "Language: Khuzan"
       system:
+        shortcode: languagekhuzan
         masteryLevel: 68
         skillBase:
           value: 17
@@ -113,6 +114,7 @@ hm3:
       type: skill
       name: "Script: Runic"
       system:
+        shortcode: scriptrunic
         masteryLevel: 85
         skillBase:
           value: 15
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: "Script: Selenian"
       system:
+        shortcode: scriptselenian
         masteryLevel: 45
         skillBase:
           value: 15
@@ -134,6 +137,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 52
         skillBase:
           value: 13
@@ -142,6 +146,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 48
         skillBase:
           value: 12

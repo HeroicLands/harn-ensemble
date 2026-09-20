@@ -98,6 +98,7 @@ hm3:
       type: skill
       name: "Language: Jarinese"
       system:
+        shortcode: languagejarinese
         masteryLevel: 60
         skillBase:
           value: 12
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 45
         skillBase:
           value: 12
@@ -125,6 +127,7 @@ hm3:
       type: skill
       name: Warhammer (Axe)
       system:
+        shortcode: warhammeraxe
         masteryLevel: 86
         skillBase:
           value: 15
@@ -133,6 +136,7 @@ hm3:
       type: skill
       name: Crossbow (Bow)
       system:
+        shortcode: crossbowbow
         masteryLevel: 60
         skillBase:
           value: 15
@@ -140,6 +144,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 78
         skillBase:
           value: 15
@@ -149,6 +154,7 @@ hm3:
       type: skill
       name: Keltan (Dagger)
       system:
+        shortcode: keltandagger
         masteryLevel: 66
         skillBase:
           value: 15
@@ -157,6 +163,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 76
         skillBase:
           value: 14

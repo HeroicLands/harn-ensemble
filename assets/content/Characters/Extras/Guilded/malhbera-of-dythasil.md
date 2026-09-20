@@ -119,7 +119,6 @@ hm3:
         weight: 2
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: lado
     move: 9

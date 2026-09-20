@@ -119,7 +119,6 @@ hm3:
         weight: 2
     - { shortcode: firstaidbagwinstruments, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood
       type: miscgear

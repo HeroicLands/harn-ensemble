@@ -144,7 +144,6 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ahnu
     move: 9

@@ -87,13 +87,23 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: language, type: skill, name: Language(Besha), system: { masteryLevel: 56 } }
-    - { shortcode: language, type: skill, name: "Language, Guilded", system: { masteryLevel: 74 } }
+    - shortcode: language
+      type: skill
+      name: Language, Guilded
+      system:
+        shortcode: languageguilded
+        masteryLevel: 74
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: oratory, type: skill, system: { masteryLevel: 70 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 42 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 83 } }
-    - { shortcode: script, type: skill, name: Script(Neramic), system: { masteryLevel: 83 } }
+    - shortcode: script
+      type: skill
+      name: Script(Neramic)
+      system:
+        shortcode: scriptneramic
+        masteryLevel: 83
     - { shortcode: dagger, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 78 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 50 } }

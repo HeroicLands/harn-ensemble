@@ -111,7 +111,6 @@ hm3:
     - { shortcode: galrasenhancement, type: spell }
     - { shortcode: lothskey, type: spell }
     - { shortcode: ordealoffrida, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

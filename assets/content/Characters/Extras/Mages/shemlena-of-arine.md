@@ -112,7 +112,6 @@ hm3:
     - { shortcode: breathofdhivu, type: spell }
     - { shortcode: mouthoflathal, type: spell }
     - { shortcode: pallofveshel, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: ablarinsfield, type: spell }
     - { shortcode: curseofbalrin, type: spell }
     - { shortcode: figureofaumos, type: spell }
@@ -128,7 +127,6 @@ hm3:
     - { shortcode: zynastap, type: spell }
     - { shortcode: falsesoul, type: spell }
     - { shortcode: feel, type: spell }
-    - { shortcode: focus, type: spell }
     - { shortcode: balmofgresan, type: spell }
     - { shortcode: perfectionofsif, type: spell }
     - { shortcode: violeteye, type: spell }

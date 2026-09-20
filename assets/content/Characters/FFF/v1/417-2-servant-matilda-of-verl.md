@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 50
         skillBase:
           value: 12

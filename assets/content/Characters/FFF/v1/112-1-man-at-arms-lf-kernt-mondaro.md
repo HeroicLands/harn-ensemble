@@ -92,6 +92,7 @@ hm3:
       type: skill
       name: Dice Games (Legerdemain)
       system:
+        shortcode: dicegameslegerdemain
         masteryLevel: 66
         skillBase:
           value: 13
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 52
         skillBase:
           value: 13
@@ -125,6 +127,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 78
         skillBase:
           value: 13
@@ -134,6 +137,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 80
         skillBase:
           value: 14
@@ -143,6 +147,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 78
         skillBase:
           value: 13
@@ -156,6 +161,7 @@ hm3:
       type: skill
       name: Cows (Agriculture)
       system:
+        shortcode: cowsagriculture
         masteryLevel: 60
         skillBase:
           value: 13

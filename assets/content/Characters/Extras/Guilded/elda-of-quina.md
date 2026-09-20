@@ -125,7 +125,6 @@ hm3:
       system:
         value: 75
         weight: 0.5
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: masara
     move: 11

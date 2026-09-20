@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 60
         skillBase:
           value: 12
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Battleaxe (Axe)
       system:
+        shortcode: battleaxeaxe
         masteryLevel: 88
         skillBase:
           value: 17
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 80
         skillBase:
           value: 14
@@ -128,6 +131,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 58
         skillBase:
           value: 12
@@ -136,6 +140,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 80
         skillBase:
           value: 13
@@ -145,6 +150,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 60
         skillBase:
           value: 13

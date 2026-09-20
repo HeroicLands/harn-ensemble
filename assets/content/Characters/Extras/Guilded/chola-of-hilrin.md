@@ -85,8 +85,18 @@ hm3:
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 62 } }
     - { shortcode: musician, type: skill, name: Flute (Musician), system: { masteryLevel: 42 } }
-    - { shortcode: musician, type: skill, name: Lute (Musician), system: { masteryLevel: 56 } }
-    - { shortcode: musician, type: skill, name: Recorder (Musician), system: { masteryLevel: 42 } }
+    - shortcode: musician
+      type: skill
+      name: Lute (Musician)
+      system:
+        shortcode: lutemusician
+        masteryLevel: 56
+    - shortcode: musician
+      type: skill
+      name: Recorder (Musician)
+      system:
+        shortcode: recordermusician
+        masteryLevel: 42
     - { shortcode: oratory, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 91 } }

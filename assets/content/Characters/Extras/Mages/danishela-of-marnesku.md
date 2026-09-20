@@ -108,7 +108,6 @@ hm3:
     - { shortcode: mouthoflathal, type: spell }
     - { shortcode: pallofveshel, type: spell }
     - { shortcode: curseofbalrin, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 311 } }

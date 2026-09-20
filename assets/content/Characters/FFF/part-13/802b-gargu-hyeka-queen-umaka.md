@@ -96,7 +96,12 @@ hm3:
       name: "Language: Gargu-hyeka"
       system:
         masteryLevel: 65
-    - { shortcode: language, type: skill, name: "Language: Harnic", system: { masteryLevel: 52 } }
+    - shortcode: language
+      type: skill
+      name: "Language: Harnic"
+      system:
+        shortcode: languageharnic
+        masteryLevel: 52
     - { shortcode: initiative, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: dodge, type: skill, system: { masteryLevel: 20 } }

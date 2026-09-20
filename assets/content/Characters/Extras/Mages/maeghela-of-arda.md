@@ -118,7 +118,6 @@ hm3:
       system:
         convocation: Lyahvi
     - { shortcode: cloakofkalaerin, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

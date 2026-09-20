@@ -116,7 +116,6 @@ hm3:
     - { shortcode: globeofsetath, type: spell }
     - { shortcode: prismofgethan, type: spell }
     - { shortcode: entorasmirror, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: beamofnolar, type: spell }
     - { shortcode: vaporofhirin, type: spell }
     - { shortcode: maslorscharm, type: spell }

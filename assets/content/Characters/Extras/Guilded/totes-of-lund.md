@@ -90,7 +90,6 @@ hm3:
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 82 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 44 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: drawing, type: skill, system: { masteryLevel: 42 } }
     - { shortcode: mathematics, type: skill, system: { masteryLevel: 24 } }
     - { shortcode: piloting, type: skill, system: { masteryLevel: 60 } }

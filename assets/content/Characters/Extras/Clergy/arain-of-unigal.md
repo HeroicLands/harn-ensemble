@@ -84,14 +84,29 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 32 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 44 } }
     - { shortcode: language, type: skill, name: Language(Azeri), system: { masteryLevel: 36 } }
-    - { shortcode: language, type: skill, name: Language(Ormauk), system: { masteryLevel: 36 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 62 } }
+    - shortcode: language
+      type: skill
+      name: Language(Ormauk)
+      system:
+        shortcode: languageormauk
+        masteryLevel: 36
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 62
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: oratory, type: skill, system: { masteryLevel: 42 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 82 } }
-    - { shortcode: script, type: skill, name: Script(Nuvesarl), system: { masteryLevel: 82 } }
+    - shortcode: script
+      type: skill
+      name: Script(Nuvesarl)
+      system:
+        shortcode: scriptnuvesarl
+        masteryLevel: 82
     - { shortcode: dagger, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 60 } }

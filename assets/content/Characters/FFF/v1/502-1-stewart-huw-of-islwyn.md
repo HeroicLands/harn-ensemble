@@ -92,6 +92,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 76
         skillBase:
           value: 13

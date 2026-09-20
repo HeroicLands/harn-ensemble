@@ -102,6 +102,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 74
         skillBase:
           value: 13
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Buckler (Shield)
       system:
+        shortcode: bucklershield
         masteryLevel: 80
         skillBase:
           value: 14

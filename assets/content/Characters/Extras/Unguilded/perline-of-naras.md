@@ -105,7 +105,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tarael-tai
     move: 12

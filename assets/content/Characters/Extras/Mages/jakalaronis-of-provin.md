@@ -123,7 +123,6 @@ hm3:
         icon: sohl-none-icon-wind
       system:
         convocation: Lyahvi
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

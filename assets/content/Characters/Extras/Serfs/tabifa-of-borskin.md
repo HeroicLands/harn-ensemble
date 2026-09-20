@@ -106,7 +106,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: angberelius
     move: 13

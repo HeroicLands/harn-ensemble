@@ -102,7 +102,6 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: WClk, type: armorgear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: SgLeg, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: LtTunic, type: armorgear }

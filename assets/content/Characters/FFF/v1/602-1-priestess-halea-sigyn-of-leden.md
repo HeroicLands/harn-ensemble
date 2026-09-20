@@ -113,6 +113,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 75
         skillBase:
           value: 15
@@ -120,6 +121,7 @@ hm3:
       type: skill
       name: "Language: Karuia"
       system:
+        shortcode: languagekaruia
         masteryLevel: 85
         skillBase:
           value: 15
@@ -127,6 +129,7 @@ hm3:
       type: skill
       name: "Language: Trierzi"
       system:
+        shortcode: languagetrierzi
         masteryLevel: 60
         skillBase:
           value: 15
@@ -141,6 +144,7 @@ hm3:
       type: skill
       name: "Script: Zerin"
       system:
+        shortcode: scriptzerin
         masteryLevel: 83
         skillBase:
           value: 13
@@ -148,6 +152,7 @@ hm3:
       type: skill
       name: "Script: Runic"
       system:
+        shortcode: scriptrunic
         masteryLevel: 83
         skillBase:
           value: 13

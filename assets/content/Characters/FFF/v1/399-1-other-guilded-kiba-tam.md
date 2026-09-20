@@ -102,6 +102,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 77
         skillBase:
           value: 17
@@ -109,6 +110,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 77
         skillBase:
           value: 17
@@ -123,6 +125,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 87
         skillBase:
           value: 17
@@ -136,6 +139,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 78
         skillBase:
           value: 14
@@ -145,6 +149,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 80
         skillBase:
           value: 14
@@ -153,6 +158,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 80
         skillBase:
           value: 14
@@ -177,6 +183,7 @@ hm3:
       type: skill
       name: Needlework (Textilecraft)
       system:
+        shortcode: needleworktextilecraft
         masteryLevel: 56
         skillBase:
           value: 15

@@ -90,6 +90,7 @@ hm3:
       type: skill
       name: Intimidation (Rhetoric)
       system:
+        shortcode: intimidationrhetoric
         masteryLevel: 88
         skillBase:
           value: 14
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 52
         skillBase:
           value: 13
@@ -127,6 +129,7 @@ hm3:
       type: skill
       name: Cowcraft (Agriculture)
       system:
+        shortcode: cowcraftagriculture
         masteryLevel: 20
         skillBase:
           value: 14
@@ -137,6 +140,7 @@ hm3:
       type: skill
       name: Torture (Physician)
       system:
+        shortcode: torturephysician
         masteryLevel: 76
         skillBase:
           value: 14

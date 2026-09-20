@@ -116,7 +116,6 @@ hm3:
     - { shortcode: prismofgethan, type: spell }
     - { shortcode: entorasmirror, type: spell }
     - { shortcode: beamofnolar, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 246 } }
     - { shortcode: pursebuckram, type: containergear }

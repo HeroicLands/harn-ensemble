@@ -121,7 +121,6 @@ hm3:
         weight: 0.1
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - name: Comb, wood
       type: miscgear
       data:

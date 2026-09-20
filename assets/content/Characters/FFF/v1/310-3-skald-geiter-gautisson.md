@@ -96,6 +96,7 @@ hm3:
       type: skill
       name: Lur [Small trumpet] (Musician)
       system:
+        shortcode: lursmalltrumpetmusician
         masteryLevel: 56
         skillBase:
           value: 13
@@ -103,6 +104,7 @@ hm3:
       type: skill
       name: Kantele [Hand-harp] (Musician)
       system:
+        shortcode: kantelehandharpmusician
         masteryLevel: 60
         skillBase:
           value: 13
@@ -120,6 +122,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 42
         skillBase:
           value: 13
@@ -134,6 +137,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 47
         skillBase:
           value: 14
@@ -146,6 +150,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 52
         skillBase:
           value: 12
@@ -156,6 +161,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 52
         skillBase:
           value: 13
@@ -178,6 +184,7 @@ hm3:
       type: skill
       name: Carving (Woodcraft)
       system:
+        shortcode: carvingwoodcraft
         masteryLevel: 60
         skillBase:
           value: 14

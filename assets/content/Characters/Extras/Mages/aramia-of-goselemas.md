@@ -109,7 +109,6 @@ hm3:
     - { shortcode: lothskey, type: spell }
     - { shortcode: ordealoffrida, type: spell }
     - { shortcode: spiritblock, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: azurehand, type: spell }
     - { shortcode: powerofvaldan, type: spell }

@@ -109,7 +109,6 @@ hm3:
     - { shortcode: galrasenhancement, type: spell }
     - { shortcode: lothskey, type: spell }
     - { shortcode: ordealoffrida, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: ablarinsfield, type: spell }
     - name: Aeric's Whisper
       type: spell
@@ -184,7 +183,6 @@ hm3:
       system:
         value: 75
         weight: 0.5
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tarael
     move: 12

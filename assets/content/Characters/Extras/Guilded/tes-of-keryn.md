@@ -83,7 +83,12 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 66 } }
     - { shortcode: language, type: skill, name: Language(Emela), system: { masteryLevel: 36 } }
-    - { shortcode: language, type: skill, name: "Language, Guilded", system: { masteryLevel: 72 } }
+    - shortcode: language
+      type: skill
+      name: Language, Guilded
+      system:
+        shortcode: languageguilded
+        masteryLevel: 72
     - { shortcode: oratory, type: skill, system: { masteryLevel: 28 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 96 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 42 } }

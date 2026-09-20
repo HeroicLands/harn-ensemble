@@ -101,6 +101,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 75
         skillBase:
           value: 15
@@ -108,6 +109,7 @@ hm3:
       type: skill
       name: "Language: High Azeryani"
       system:
+        shortcode: languagehighazeryani
         masteryLevel: 75
         skillBase:
           value: 15
@@ -115,6 +117,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 75
         skillBase:
           value: 15
@@ -129,6 +132,7 @@ hm3:
       type: skill
       name: "Script: Arayan"
       system:
+        shortcode: scriptarayan
         masteryLevel: 87
         skillBase:
           value: 17
@@ -136,6 +140,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 87
         skillBase:
           value: 17
@@ -150,6 +155,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 46
         skillBase:
           value: 15
@@ -166,6 +172,7 @@ hm3:
       type: skill
       name: Surgery (Physician)
       system:
+        shortcode: surgeryphysician
         masteryLevel: 119
         skillBase:
           value: 19

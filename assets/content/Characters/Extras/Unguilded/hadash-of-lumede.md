@@ -96,7 +96,6 @@ hm3:
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: WxCvCloak, type: armorgear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }

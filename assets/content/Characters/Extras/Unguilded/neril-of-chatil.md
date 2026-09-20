@@ -133,7 +133,6 @@ hm3:
         weight: 0.05
     - { shortcode: TwrSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: hirin
     move: 12

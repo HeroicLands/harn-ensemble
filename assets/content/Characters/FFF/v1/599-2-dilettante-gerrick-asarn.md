@@ -91,6 +91,7 @@ hm3:
       type: skill
       name: Negotiation (Rhetoric)
       system:
+        shortcode: negotiationrhetoric
         masteryLevel: 90
         skillBase:
           value: 15

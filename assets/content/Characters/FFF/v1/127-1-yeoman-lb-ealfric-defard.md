@@ -106,6 +106,7 @@ hm3:
       type: skill
       name: Longbow (Bow)
       system:
+        shortcode: longbowbow
         masteryLevel: 110
         skillBase:
           value: 17
@@ -115,6 +116,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 90
         skillBase:
           value: 17
@@ -123,6 +125,7 @@ hm3:
       type: skill
       name: Falchion (Sword)
       system:
+        shortcode: falchionsword
         masteryLevel: 86
         skillBase:
           value: 17
@@ -136,6 +139,7 @@ hm3:
       type: skill
       name: Cowcraft (Agriculture)
       system:
+        shortcode: cowcraftagriculture
         masteryLevel: 37
         skillBase:
           value: 12
@@ -162,6 +166,7 @@ hm3:
       type: skill
       name: "Weaponcraft: Longbow"
       system:
+        shortcode: weaponcraftlongbow
         masteryLevel: 86
         skillBase:
           value: 15

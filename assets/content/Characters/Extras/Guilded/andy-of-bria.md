@@ -90,7 +90,6 @@ hm3:
     - { shortcode: flail, type: skill, name: Grailflail (Flail), system: { masteryLevel: 30 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 52 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: fletching, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: metalcraft, type: skill, system: { masteryLevel: 72 } }
     - { shortcode: mining, type: skill, system: { masteryLevel: 36 } }

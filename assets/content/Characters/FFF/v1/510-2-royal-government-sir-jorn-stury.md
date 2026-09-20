@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Trierzi"
       system:
+        shortcode: languagetrierzi
         masteryLevel: 64
         skillBase:
           value: 14
@@ -107,6 +108,7 @@ hm3:
       type: skill
       name: "Language: Emela"
       system:
+        shortcode: languageemela
         masteryLevel: 64
         skillBase:
           value: 14
@@ -127,6 +129,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 84
         skillBase:
           value: 16
@@ -136,6 +139,7 @@ hm3:
       type: skill
       name: Lance (Polearm)
       system:
+        shortcode: lancepolearm
         masteryLevel: 96
         skillBase:
           value: 15
@@ -144,6 +148,7 @@ hm3:
       type: skill
       name: Knight (Shield)
       system:
+        shortcode: knightshield
         masteryLevel: 90
         skillBase:
           value: 14
@@ -152,6 +157,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 78
         skillBase:
           value: 14

@@ -106,7 +106,6 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: nadai
     move: 14

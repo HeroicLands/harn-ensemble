@@ -94,7 +94,12 @@ hm3:
     - { shortcode: initiative, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: spear, type: skill, name: Javelin (Spear), system: { masteryLevel: 80 } }
     - { shortcode: sword, type: skill, name: Bastard Sword (Sword), system: { masteryLevel: 81 } }
-    - { shortcode: sword, type: skill, name: Broadsword (Sword), system: { masteryLevel: 72 } }
+    - shortcode: sword
+      type: skill
+      name: Broadsword (Sword)
+      system:
+        shortcode: broadswordsword
+        masteryLevel: 72
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 84 } }
     - { shortcode: physician, type: skill, system: { masteryLevel: 20 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 530 } }

@@ -111,6 +111,7 @@ hm3:
       type: skill
       name: Needlework (Textilecraft)
       system:
+        shortcode: needleworktextilecraft
         masteryLevel: 62
         skillBase:
           value: 7

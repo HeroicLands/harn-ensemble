@@ -99,6 +99,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 54
         skillBase:
           value: 14
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 84
         skillBase:
           value: 14
@@ -121,6 +123,7 @@ hm3:
       type: skill
       name: Buckler (Shield)
       system:
+        shortcode: bucklershield
         masteryLevel: 64
         skillBase:
           value: 14
@@ -131,6 +134,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 70
         skillBase:
           value: 14
@@ -161,7 +165,6 @@ hm3:
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 12 } }
     - { shortcode: quiverlgsh, type: miscgear }
-    - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 14 } }
   system:
     sunsign: tarael

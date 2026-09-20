@@ -102,7 +102,6 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
   system:
     sunsign: lado

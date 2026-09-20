@@ -110,6 +110,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 63
         skillBase:
           value: 13
@@ -117,6 +118,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 63
         skillBase:
           value: 13

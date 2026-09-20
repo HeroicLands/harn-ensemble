@@ -116,7 +116,6 @@ hm3:
     - { shortcode: beamofnolar, type: spell }
     - { shortcode: vaporofhirin, type: spell }
     - { shortcode: maslorscharm, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

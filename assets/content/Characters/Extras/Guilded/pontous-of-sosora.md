@@ -96,7 +96,6 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 1252 } }
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LTunic, type: armorgear }

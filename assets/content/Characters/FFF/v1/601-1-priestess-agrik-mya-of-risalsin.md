@@ -96,6 +96,7 @@ hm3:
       type: skill
       name: Intimidation (Rhetoric)
       system:
+        shortcode: intimidationrhetoric
         masteryLevel: 90
         skillBase:
           value: 15
@@ -111,6 +112,7 @@ hm3:
       type: skill
       name: "Language: Azeryani"
       system:
+        shortcode: languageazeryani
         masteryLevel: 85
         skillBase:
           value: 15
@@ -118,6 +120,7 @@ hm3:
       type: skill
       name: "Language: Surikal"
       system:
+        shortcode: languagesurikal
         masteryLevel: 66
         skillBase:
           value: 15
@@ -132,6 +135,7 @@ hm3:
       type: skill
       name: "Script: Zerin"
       system:
+        shortcode: scriptzerin
         masteryLevel: 83
         skillBase:
           value: 13
@@ -145,6 +149,7 @@ hm3:
       type: skill
       name: Sickle (Axe)
       system:
+        shortcode: sickleaxe
         masteryLevel: 44
         skillBase:
           value: 11
@@ -153,6 +158,7 @@ hm3:
       type: skill
       name: Mace (Club)
       system:
+        shortcode: maceclub
         masteryLevel: 48
         skillBase:
           value: 11
@@ -162,6 +168,7 @@ hm3:
       type: skill
       name: Knight (Shield)
       system:
+        shortcode: knightshield
         masteryLevel: 54
         skillBase:
           value: 12
@@ -181,6 +188,7 @@ hm3:
       type: skill
       name: Torture (Physician)
       system:
+        shortcode: torturephysician
         masteryLevel: 80
         skillBase:
           value: 15

@@ -102,6 +102,7 @@ hm3:
       type: skill
       name: "Language: Jarin"
       system:
+        shortcode: languagejarin
         masteryLevel: 40
         skillBase:
           value: 14
@@ -109,6 +110,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 30
         skillBase:
           value: 14
@@ -116,6 +118,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 26
         skillBase:
           value: 14
@@ -128,6 +131,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 80
         skillBase:
           value: 18
@@ -137,6 +141,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 98
         skillBase:
           value: 18
@@ -146,6 +151,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 116
         skillBase:
           value: 21

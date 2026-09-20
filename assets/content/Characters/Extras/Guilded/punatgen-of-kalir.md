@@ -105,7 +105,6 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
     sunsign: lado

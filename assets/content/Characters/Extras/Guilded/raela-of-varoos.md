@@ -96,7 +96,6 @@ hm3:
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }

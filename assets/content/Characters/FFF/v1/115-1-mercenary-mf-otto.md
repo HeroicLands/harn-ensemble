@@ -112,6 +112,7 @@ hm3:
       type: skill
       name: "Language: Besha"
       system:
+        shortcode: languagebesha
         masteryLevel: 81
         skillBase:
           value: 11
@@ -126,6 +127,7 @@ hm3:
       type: skill
       name: "Script: Neramic"
       system:
+        shortcode: scriptneramic
         masteryLevel: 83
         skillBase:
           value: 13
@@ -139,6 +141,7 @@ hm3:
       type: skill
       name: Taburi (Dagger)
       system:
+        shortcode: taburidagger
         masteryLevel: 84
         skillBase:
           value: 14
@@ -147,6 +150,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 78
         skillBase:
           value: 15
@@ -156,6 +160,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 80
         skillBase:
           value: 15

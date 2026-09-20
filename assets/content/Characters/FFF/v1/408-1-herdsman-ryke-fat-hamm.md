@@ -94,6 +94,7 @@ hm3:
       type: skill
       name: Begging (Rhetoric)
       system:
+        shortcode: beggingrhetoric
         masteryLevel: 46
         skillBase:
           value: 8
@@ -114,6 +115,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 88
         skillBase:
           value: 19
@@ -122,6 +124,7 @@ hm3:
       type: skill
       name: Hand (Sling)
       system:
+        shortcode: handsling
         masteryLevel: 102
         skillBase:
           value: 18
@@ -130,6 +133,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 70
         skillBase:
           value: 14
@@ -145,6 +149,7 @@ hm3:
       type: skill
       name: Sheepcraft (Agriculture)
       system:
+        shortcode: sheepcraftagriculture
         masteryLevel: 73
         skillBase:
           value: 10
@@ -154,6 +159,7 @@ hm3:
       type: skill
       name: Sheep (Tracking)
       system:
+        shortcode: sheeptracking
         masteryLevel: 90
         skillBase:
           value: 15
@@ -168,6 +174,7 @@ hm3:
       type: skill
       name: Carving (Woodcraft)
       system:
+        shortcode: carvingwoodcraft
         masteryLevel: 66
         skillBase:
           value: 14

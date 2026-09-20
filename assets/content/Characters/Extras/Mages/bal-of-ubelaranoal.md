@@ -108,7 +108,6 @@ hm3:
     - { shortcode: shadowofyanar, type: spell }
     - { shortcode: breathofdhivu, type: spell }
     - { shortcode: mouthoflathal, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: pallofveshel, type: spell }
     - { shortcode: curseofbalrin, type: spell }
     - { shortcode: eyeofkemdal, type: spell }

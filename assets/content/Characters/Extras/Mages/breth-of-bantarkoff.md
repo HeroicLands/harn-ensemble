@@ -128,7 +128,6 @@ hm3:
     - { shortcode: curseofbalrin, type: spell }
     - { shortcode: figureofaumos, type: spell }
     - { shortcode: fiendofalsaidom, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }
@@ -140,7 +139,6 @@ hm3:
     - { shortcode: zynastap, type: spell }
     - { shortcode: falsesoul, type: spell }
     - { shortcode: feel, type: spell }
-    - { shortcode: focus, type: spell }
     - { shortcode: wellofanasiron, type: spell }
     - { shortcode: sightofeneldir, type: spell }
     - { shortcode: wardofsirik, type: spell }

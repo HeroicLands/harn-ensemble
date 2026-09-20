@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Ivinian"
       system:
+        shortcode: languageivinian
         masteryLevel: 71
         skillBase:
           value: 11
@@ -107,6 +108,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 59
         skillBase:
           value: 11
@@ -121,6 +123,7 @@ hm3:
       type: skill
       name: "Script: Lakise"
       system:
+        shortcode: scriptlakise
         masteryLevel: 85
         skillBase:
           value: 15

@@ -117,6 +117,7 @@ hm3:
       type: skill
       name: "Language: Azeri"
       system:
+        shortcode: languageazeri
         masteryLevel: 49
         skillBase:
           value: 16
@@ -124,6 +125,7 @@ hm3:
       type: skill
       name: "Language: Surikal"
       system:
+        shortcode: languagesurikal
         masteryLevel: 24
         skillBase:
           value: 16
@@ -131,6 +133,7 @@ hm3:
       type: skill
       name: "Language: Ormauk"
       system:
+        shortcode: languageormauk
         masteryLevel: 18
         skillBase:
           value: 16
@@ -145,6 +148,7 @@ hm3:
       type: skill
       name: "Script: Tianta"
       system:
+        shortcode: scripttianta
         masteryLevel: 85
         skillBase:
           value: 15
@@ -152,6 +156,7 @@ hm3:
       type: skill
       name: "Script: Runic"
       system:
+        shortcode: scriptrunic
         masteryLevel: 85
         skillBase:
           value: 15
@@ -169,6 +174,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 66
         skillBase:
           value: 12

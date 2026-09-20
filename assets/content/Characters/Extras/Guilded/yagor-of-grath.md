@@ -116,7 +116,6 @@ hm3:
       system:
         value: 80
         weight: 0.25
-    - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
     - name: Comb, wood

@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: "Language: Gargu-arak"
       system:
+        shortcode: languagegarguarak
         masteryLevel: 65
     - { shortcode: script, type: skill, name: "Scripts: Lakise", system: { masteryLevel: 98 } }
     - { shortcode: saveknor, type: skill, system: { masteryLevel: 60 } }
@@ -120,7 +121,12 @@ hm3:
       name: "Folklore: Magical Artifacts"
       system:
         masteryLevel: 96
-    - { shortcode: folklore, type: skill, name: "Folklore: Gargun", system: { masteryLevel: 96 } }
+    - shortcode: folklore
+      type: skill
+      name: "Folklore: Gargun"
+      system:
+        shortcode: folkloregargun
+        masteryLevel: 96
     - { shortcode: foraging, type: skill, system: { masteryLevel: 83 } }
     - { shortcode: herblore, type: skill, system: { masteryLevel: 77 } }
     - { shortcode: mathematics, type: skill, system: { masteryLevel: 82 } }

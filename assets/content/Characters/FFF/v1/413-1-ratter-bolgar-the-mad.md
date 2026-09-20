@@ -117,6 +117,7 @@ hm3:
       type: skill
       name: Ratcraft (Animalcraft)
       system:
+        shortcode: ratcraftanimalcraft
         masteryLevel: 63
         skillBase:
           value: 9

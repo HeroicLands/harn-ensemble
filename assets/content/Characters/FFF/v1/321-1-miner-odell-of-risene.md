@@ -106,6 +106,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 56
         skillBase:
           value: 13
@@ -114,6 +115,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 84
         skillBase:
           value: 15
@@ -122,6 +124,7 @@ hm3:
       type: skill
       name: Shortsword (Sword)
       system:
+        shortcode: shortswordsword
         masteryLevel: 58
         skillBase:
           value: 12
@@ -141,6 +144,7 @@ hm3:
       type: skill
       name: Tunnelling (Engineering)
       system:
+        shortcode: tunnellingengineering
         masteryLevel: 52
         skillBase:
           value: 12
@@ -153,6 +157,7 @@ hm3:
       type: skill
       name: Sheepcraft (Agriculture)
       system:
+        shortcode: sheepcraftagriculture
         masteryLevel: 33
         skillBase:
           value: 11

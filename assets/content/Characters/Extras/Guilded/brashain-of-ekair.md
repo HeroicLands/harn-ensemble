@@ -121,7 +121,6 @@ hm3:
       system:
         value: 30
         weight: 0.03
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
     sunsign: ulandus

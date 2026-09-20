@@ -117,7 +117,6 @@ hm3:
     - { shortcode: entorasmirror, type: spell }
     - { shortcode: beamofnolar, type: spell }
     - { shortcode: vaporofhirin, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: pence, type: miscgear, system: { quantity: 534 } }

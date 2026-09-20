@@ -110,6 +110,7 @@ hm3:
       type: skill
       name: Shortbow (Bow)
       system:
+        shortcode: shortbowbow
         masteryLevel: 46
         skillBase:
           value: 12

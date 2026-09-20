@@ -130,7 +130,6 @@ hm3:
     - { shortcode: KiSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: skorus
     move: 16

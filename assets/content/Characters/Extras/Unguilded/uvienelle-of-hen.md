@@ -90,7 +90,6 @@ hm3:
     - { shortcode: dagger, type: skill, name: Knife (Dagger), system: { masteryLevel: 50 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 105 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 60 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: physician, type: skill, system: { masteryLevel: 22 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 444 } }
     - { shortcode: pursebuckram, type: containergear }

@@ -92,6 +92,7 @@ hm3:
       type: skill
       name: Script(Script(Selenian))
       system:
+        shortcode: scriptselenian
         masteryLevel: 96
     - { shortcode: initiative, type: skill, system: { masteryLevel: 50 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 40 } }

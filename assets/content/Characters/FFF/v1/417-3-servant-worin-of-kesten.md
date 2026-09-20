@@ -106,6 +106,7 @@ hm3:
       type: skill
       name: Horsewhip (Whip)
       system:
+        shortcode: horsewhipwhip
         masteryLevel: 48
         skillBase:
           value: 13

@@ -96,7 +96,6 @@ hm3:
     - { shortcode: pursebuckram, type: containergear }
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: CHood, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }
     - { shortcode: LtTunic, type: armorgear }
@@ -119,7 +118,6 @@ hm3:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: feniri
     move: 10

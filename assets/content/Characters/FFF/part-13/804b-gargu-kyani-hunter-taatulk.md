@@ -112,6 +112,7 @@ hm3:
       type: skill
       name: Bear (Animalcraft)
       system:
+        shortcode: bearanimalcraft
         masteryLevel: 65
     - { shortcode: drawing, type: skill, system: { masteryLevel: 45 } }
     - { shortcode: foraging, type: skill, system: { masteryLevel: 75 } }

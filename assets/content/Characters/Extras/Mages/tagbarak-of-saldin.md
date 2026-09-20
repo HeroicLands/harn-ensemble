@@ -109,7 +109,6 @@ hm3:
     - { shortcode: eyesofniyar, type: spell }
     - { shortcode: orbofzatara, type: spell }
     - { shortcode: charachisfever, type: spell }
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }

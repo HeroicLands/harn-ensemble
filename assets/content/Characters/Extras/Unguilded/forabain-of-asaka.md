@@ -139,7 +139,6 @@ hm3:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: hirin
     move: 13

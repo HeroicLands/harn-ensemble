@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Gargu-khanu"
       system:
+        shortcode: languagegargukhanu
         masteryLevel: 39
     - { shortcode: initiative, type: skill, system: { masteryLevel: 50 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 56 } }

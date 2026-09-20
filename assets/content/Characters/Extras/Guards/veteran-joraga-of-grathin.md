@@ -116,7 +116,6 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tai
     move: 11

@@ -122,7 +122,6 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: hirin-nadai
     move: 15

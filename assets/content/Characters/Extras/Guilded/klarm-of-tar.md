@@ -113,7 +113,6 @@ hm3:
         value: 1
         weight: 0.03
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tarael
     move: 16

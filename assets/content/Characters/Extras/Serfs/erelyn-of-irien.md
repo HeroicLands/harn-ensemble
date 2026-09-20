@@ -121,7 +121,6 @@ hm3:
         weight: 2
     - { shortcode: scythe, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: lado
     move: 15

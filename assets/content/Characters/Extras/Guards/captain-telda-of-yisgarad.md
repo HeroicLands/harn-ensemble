@@ -117,7 +117,6 @@ hm3:
     - { shortcode: RHbk, type: armorgear }
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: angberelius
     move: 14

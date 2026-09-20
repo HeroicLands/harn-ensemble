@@ -108,6 +108,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 76
         skillBase:
           value: 14
@@ -116,6 +117,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 83
         skillBase:
           value: 14
@@ -135,6 +137,7 @@ hm3:
       type: skill
       name: Horsecraft (Animalcraft)
       system:
+        shortcode: horsecraftanimalcraft
         masteryLevel: 76
         skillBase:
           value: 15
@@ -142,6 +145,7 @@ hm3:
       type: skill
       name: Mulecraft (Animalcraft)
       system:
+        shortcode: mulecraftanimalcraft
         masteryLevel: 75
         skillBase:
           value: 15

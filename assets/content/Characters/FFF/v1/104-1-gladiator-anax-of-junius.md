@@ -104,6 +104,7 @@ hm3:
       type: skill
       name: Handaxe (Axe)
       system:
+        shortcode: handaxeaxe
         masteryLevel: 90
         skillBase:
           value: 17
@@ -113,6 +114,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 88
         skillBase:
           value: 17
@@ -121,6 +123,7 @@ hm3:
       type: skill
       name: Round (Shield)
       system:
+        shortcode: roundshield
         masteryLevel: 94
         skillBase:
           value: 18
@@ -129,6 +132,7 @@ hm3:
       type: skill
       name: Staff (Spear)
       system:
+        shortcode: staffspear
         masteryLevel: 90
         skillBase:
           value: 17
@@ -137,6 +141,7 @@ hm3:
       type: skill
       name: Broadsword (Sword)
       system:
+        shortcode: broadswordsword
         masteryLevel: 96
         skillBase:
           value: 18
@@ -150,6 +155,7 @@ hm3:
       type: skill
       name: Vegetables (Agriculture)
       system:
+        shortcode: vegetablesagriculture
         masteryLevel: 82
         skillBase:
           value: 16
@@ -157,6 +163,7 @@ hm3:
       type: skill
       name: Flowers (Agriculture)
       system:
+        shortcode: flowersagriculture
         masteryLevel: 80
         skillBase:
           value: 16

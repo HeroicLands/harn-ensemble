@@ -84,12 +84,22 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: language, type: skill, name: Language(Jarinese), system: { masteryLevel: 39 } }
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 63 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 63
     - { shortcode: oratory, type: skill, system: { masteryLevel: 26 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 81 } }
-    - { shortcode: script, type: skill, name: Script(Script(Runic)), system: { masteryLevel: 92 } }
+    - shortcode: script
+      type: skill
+      name: Script(Script(Runic))
+      system:
+        shortcode: scriptrunic
+        masteryLevel: 92
     - { shortcode: initiative, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 60 } }
     - { shortcode: folklore, type: skill, system: { masteryLevel: 84 } }
@@ -99,7 +109,6 @@ hm3:
     - { shortcode: WCBoot, type: armorgear }
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: WClk, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
     - { shortcode: CHood, type: armorgear }
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: CShoe, type: armorgear }
@@ -118,7 +127,6 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
     - name: Vellum, 10 sheets
       type: miscgear
       data:

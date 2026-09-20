@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: Interrogation (Rhetoric)
       system:
+        shortcode: interrogationrhetoric
         masteryLevel: 82
         skillBase:
           value: 14
@@ -128,6 +129,7 @@ hm3:
       type: skill
       name: Bullwhip (Whip)
       system:
+        shortcode: bullwhipwhip
         masteryLevel: 74
         skillBase:
           value: 16
@@ -138,6 +140,7 @@ hm3:
       type: skill
       name: "Herblore: Poison"
       system:
+        shortcode: herblorepoison
         masteryLevel: 70
         skillBase:
           value: 17
@@ -147,6 +150,7 @@ hm3:
       type: skill
       name: Surgeon (Physician)
       system:
+        shortcode: surgeonphysician
         masteryLevel: 60
         skillBase:
           value: 18
@@ -154,6 +158,7 @@ hm3:
       type: skill
       name: Torturer (Physician)
       system:
+        shortcode: torturerphysician
         masteryLevel: 92
         skillBase:
           value: 18

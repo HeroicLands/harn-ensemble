@@ -118,7 +118,6 @@ hm3:
         icon: sohl-none-icon-wind
       system:
         convocation: Lyahvi
-    - { shortcode: dispell, type: spell }
     - { shortcode: eyeofkemdal, type: spell }
     - { shortcode: maintain, type: spell }
     - { shortcode: tongueofpvara, type: spell }
@@ -130,7 +129,6 @@ hm3:
     - { shortcode: zynastap, type: spell }
     - { shortcode: falsesoul, type: spell }
     - { shortcode: feel, type: spell }
-    - { shortcode: focus, type: spell }
     - { shortcode: jerilaszone, type: spell }
     - { shortcode: veilofiros, type: spell }
     - { shortcode: caraksward, type: spell }

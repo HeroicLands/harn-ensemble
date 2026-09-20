@@ -90,7 +90,6 @@ hm3:
     - { shortcode: dagger, type: skill, name: Knife (Dagger), system: { masteryLevel: 84 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 112 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 96 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 96 } }
     - { shortcode: physician, type: skill, system: { masteryLevel: 26 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 2620 } }
     - { shortcode: pursebuckram, type: containergear }
@@ -106,7 +105,6 @@ hm3:
     - { shortcode: Bklr, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tarael
     move: 10

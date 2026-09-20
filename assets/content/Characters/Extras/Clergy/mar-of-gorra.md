@@ -90,8 +90,14 @@ hm3:
       type: skill
       name: Language(Old Jarinese)
       system:
+        shortcode: languageoldjarinese
         masteryLevel: 56
-    - { shortcode: language, type: skill, name: "Language, Serf", system: { masteryLevel: 64 } }
+    - shortcode: language
+      type: skill
+      name: Language, Serf
+      system:
+        shortcode: languageserf
+        masteryLevel: 64
     - { shortcode: lovecraft, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: musician, type: skill, system: { masteryLevel: 18 } }
@@ -99,8 +105,18 @@ hm3:
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 56 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 80 } }
-    - { shortcode: script, type: skill, name: Script(Script(Runic)), system: { masteryLevel: 80 } }
-    - { shortcode: script, type: skill, name: Script(Zerin), system: { masteryLevel: 80 } }
+    - shortcode: script
+      type: skill
+      name: Script(Script(Runic))
+      system:
+        shortcode: scriptrunic
+        masteryLevel: 80
+    - shortcode: script
+      type: skill
+      name: Script(Zerin)
+      system:
+        shortcode: scriptzerin
+        masteryLevel: 80
     - { shortcode: initiative, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: unarmed, type: skill, system: { masteryLevel: 36 } }
     - { shortcode: drawing, type: skill, system: { masteryLevel: 18 } }

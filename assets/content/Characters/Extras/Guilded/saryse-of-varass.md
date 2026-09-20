@@ -120,7 +120,6 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: ahnu
     move: 14

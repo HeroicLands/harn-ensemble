@@ -91,6 +91,7 @@ hm3:
       type: skill
       name: Diplomacy (Rhetoric)
       system:
+        shortcode: diplomacyrhetoric
         masteryLevel: 82
         skillBase:
           value: 15
@@ -98,6 +99,7 @@ hm3:
       type: skill
       name: Intimidation (Rhetoric)
       system:
+        shortcode: intimidationrhetoric
         masteryLevel: 92
         skillBase:
           value: 15
@@ -113,6 +115,7 @@ hm3:
       type: skill
       name: "Language: Azeri"
       system:
+        shortcode: languageazeri
         masteryLevel: 85
         skillBase:
           value: 15
@@ -127,6 +130,7 @@ hm3:
       type: skill
       name: "Script: Tianta"
       system:
+        shortcode: scripttianta
         masteryLevel: 85
         skillBase:
           value: 15
@@ -147,6 +151,7 @@ hm3:
       type: skill
       name: Valuation (Agriculture)
       system:
+        shortcode: valuationagriculture
         masteryLevel: 66
         skillBase:
           value: 12
@@ -160,6 +165,7 @@ hm3:
       type: skill
       name: Valuation (Animalcraft)
       system:
+        shortcode: valuationanimalcraft
         masteryLevel: 70
         skillBase:
           value: 13
@@ -174,6 +180,7 @@ hm3:
       type: skill
       name: Valuation (Engineering)
       system:
+        shortcode: valuationengineering
         masteryLevel: 68
         skillBase:
           value: 14
@@ -184,6 +191,7 @@ hm3:
       type: skill
       name: Precedence (Law)
       system:
+        shortcode: precedencelaw
         masteryLevel: 62
         skillBase:
           value: 15
@@ -197,6 +205,7 @@ hm3:
       type: skill
       name: Bookkeeping (Mathematics)
       system:
+        shortcode: bookkeepingmathematics
         masteryLevel: 72
         skillBase:
           value: 18

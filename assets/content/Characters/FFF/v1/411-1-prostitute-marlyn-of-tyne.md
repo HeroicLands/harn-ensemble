@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 33
         skillBase:
           value: 12
@@ -112,6 +113,7 @@ hm3:
       type: skill
       name: Knife (Dagger)
       system:
+        shortcode: knifedagger
         masteryLevel: 64
         skillBase:
           value: 16

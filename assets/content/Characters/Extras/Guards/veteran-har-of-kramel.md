@@ -120,7 +120,6 @@ hm3:
         value: 1
         weight: 0.03
     - { shortcode: RndSh, type: weapongear }
-    - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
     sunsign: aralius

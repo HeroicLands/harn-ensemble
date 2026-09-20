@@ -117,7 +117,6 @@ hm3:
         value: 24
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
   system:
     sunsign: tai
     move: 15

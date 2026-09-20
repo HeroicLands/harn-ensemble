@@ -93,6 +93,7 @@ hm3:
       type: skill
       name: Command (Rhetoric)
       system:
+        shortcode: commandrhetoric
         masteryLevel: 88
         skillBase:
           value: 15
@@ -129,6 +130,7 @@ hm3:
       type: skill
       name: Cowcraft (Agriculture)
       system:
+        shortcode: cowcraftagriculture
         masteryLevel: 79
         skillBase:
           value: 15
@@ -145,6 +147,7 @@ hm3:
       type: skill
       name: Bookkeeping (Mathematics)
       system:
+        shortcode: bookkeepingmathematics
         masteryLevel: 68
         skillBase:
           value: 15

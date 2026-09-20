@@ -100,6 +100,7 @@ hm3:
       type: skill
       name: "Language: Harnic"
       system:
+        shortcode: languageharnic
         masteryLevel: 14
         skillBase:
           value: 13
@@ -134,6 +135,7 @@ hm3:
       type: skill
       name: "Weaponcraft: Stone tools"
       system:
+        shortcode: weaponcraftstonetools
         masteryLevel: 72
         skillBase:
           value: 17

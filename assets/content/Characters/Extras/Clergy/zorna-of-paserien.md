@@ -85,18 +85,29 @@ hm3:
     - { shortcode: awareness, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: intrigue, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: language, type: skill, name: Language(Azeryani), system: { masteryLevel: 39 } }
-    - { shortcode: language, type: skill, name: Language(Surikal), system: { masteryLevel: 39 } }
+    - shortcode: language
+      type: skill
+      name: Language(Surikal)
+      system:
+        shortcode: languagesurikal
+        masteryLevel: 39
     - shortcode: language
       type: skill
       name: Language, Unguilded
       system:
+        shortcode: languageunguilded
         masteryLevel: 63
     - { shortcode: mentalconflict, type: skill, system: { masteryLevel: 65 } }
     - { shortcode: oratory, type: skill, system: { masteryLevel: 48 } }
     - { shortcode: rhetoric, type: skill, system: { masteryLevel: 52 } }
     - { shortcode: singing, type: skill, system: { masteryLevel: 39 } }
     - { shortcode: script, type: skill, name: Script(Lakaise), system: { masteryLevel: 96 } }
-    - { shortcode: script, type: skill, name: Script(Zerin), system: { masteryLevel: 83 } }
+    - shortcode: script
+      type: skill
+      name: Script(Zerin)
+      system:
+        shortcode: scriptzerin
+        masteryLevel: 83
     - { shortcode: axe, type: skill, name: Sickle (Axe), system: { masteryLevel: 56 } }
     - { shortcode: club, type: skill, name: Mace (Club), system: { masteryLevel: 56 } }
     - { shortcode: initiative, type: skill, system: { masteryLevel: 78 } }

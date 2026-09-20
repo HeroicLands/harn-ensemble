@@ -90,6 +90,7 @@ hm3:
       type: skill
       name: Negotiation (Rhetoric)
       system:
+        shortcode: negotiationrhetoric
         masteryLevel: 70
         skillBase:
           value: 14
@@ -105,6 +106,7 @@ hm3:
       type: skill
       name: "Language: Orbaalese"
       system:
+        shortcode: languageorbaalese
         masteryLevel: 63
         skillBase:
           value: 14
@@ -119,6 +121,7 @@ hm3:
       type: skill
       name: "Script: Runic"
       system:
+        shortcode: scriptrunic
         masteryLevel: 85
         skillBase:
           value: 15
@@ -133,6 +136,7 @@ hm3:
       type: skill
       name: Stick (Club)
       system:
+        shortcode: stickclub
         masteryLevel: 64
         skillBase:
           value: 12
@@ -142,6 +146,7 @@ hm3:
       type: skill
       name: Buckler (Shield)
       system:
+        shortcode: bucklershield
         masteryLevel: 60
         skillBase:
           value: 14
@@ -159,6 +164,7 @@ hm3:
       type: skill
       name: Valuation (Metalcraft)
       system:
+        shortcode: valuationmetalcraft
         masteryLevel: 60
         skillBase:
           value: 13
@@ -173,6 +179,7 @@ hm3:
       type: skill
       name: Valuation (Textilecraft)
       system:
+        shortcode: valuationtextilecraft
         masteryLevel: 54
         skillBase:
           value: 15
@@ -187,6 +194,7 @@ hm3:
       type: skill
       name: Valuation (Weaponcraft)
       system:
+        shortcode: valuationweaponcraft
         masteryLevel: 60
         skillBase:
           value: 16
