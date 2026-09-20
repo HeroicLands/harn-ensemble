@@ -12,25 +12,18 @@ compatibility:
 # packs matches the system it runs.
 systems:
     hm3:
-        manifest: https://github.com/HeroicLands/HarnMaster-3-FoundryVTT/releases/download/v1.6.3/system.json
+        manifest: https://github.com/HeroicLands/HarnMaster-3-FoundryVTT/releases/download/v1.6.4/system.json
         compatibility:
-            verified: "1.6.3"
+            verified: "1.6.4"
     sohl:
         manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.5/system.json
         compatibility:
             verified: "0.8.5"
 
-# `sohl`'s `{ model: skill-init }` embeds on a being resolve against its own
-# Item catalog, so `itemCatalog: true` extracts that release's packs as a
-# resolution source, pinned to the `verified` version below.
-#
-# HM3 embeds items the same way but declares no matching relationship here:
-# every published HarnMaster-3-FoundryVTT release predates `flags.metadataUrl`
-# (needs a release built with package-build 18 or later), so its content index
-# cannot be cached, and `deps fetch` fetches every declared relationship's
-# index unconditionally — so declaring it anyway would fail the fetch for
-# `sohl` too. The `actors-hm3` pack does not compile until a compatible HM3
-# release exists.
+# `sohl`'s `{ model: skill-init }` and HM3's own being items embed against
+# each system's own Item catalog, so `itemCatalog: true` extracts each
+# release's packs as a resolution source, pinned to the `verified` version
+# beside it.
 relationships:
     systems:
         - id: sohl
@@ -38,6 +31,12 @@ relationships:
           manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.5/system.json
           compatibility:
               verified: "0.8.5"
+          itemCatalog: true
+        - id: hm3
+          type: system
+          manifest: https://github.com/HeroicLands/HarnMaster-3-FoundryVTT/releases/download/v1.6.4/system.json
+          compatibility:
+              verified: "1.6.4"
           itemCatalog: true
 
 itemBuilders: [sohl, hm3]
