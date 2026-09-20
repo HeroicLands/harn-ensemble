@@ -37,6 +37,7 @@ data:
     complexion: plain
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 11
     sta: 13
@@ -324,93 +325,92 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 104 } }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 68 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 83 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 97 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 57 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: lang, type: skill, name: "Language: Khuzan", system: { masteryLevelBase: 80 } }
-    - { shortcode: script, type: skill, name: "Script: Selenian", system: { masteryLevelBase: 87 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 73 } }
-    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 84 } }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: glas, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 48 } }
-    - shortcode: anmcft
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 11 } }
+    - { model: attribute-end, system: { scoreBase: 13 } }
+    - { model: attribute-dex, system: { scoreBase: 15 } }
+    - { model: attribute-agl, system: { scoreBase: 10 } }
+    - { model: attribute-per, system: { scoreBase: 18 } }
+    - { model: attribute-snt, system: { scoreBase: 15 } }
+    - { model: attribute-cml, system: { scoreBase: 8 } }
+    - { model: attribute-aur, system: { scoreBase: 18 } }
+    - { model: attribute-wil, system: { scoreBase: 16 } }
+    - { model: attribute-rea, system: { scoreBase: 17 } }
+    - { model: attribute-cre, system: { scoreBase: 18 } }
+    - { model: attribute-emp, system: { scoreBase: 14 } }
+    - { model: attribute-elo, system: { scoreBase: 17 } }
+    - { model: attribute-mor, system: { scoreBase: 13 } }
+    - { model: attribute-voi, system: { scoreBase: 15 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 48 } }
+    - { model: skill-cmd }
+    - { model: skill-cook, system: { masteryLevelBase: 104 } }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 68 } }
+    - { model: skill-folklr, system: { masteryLevelBase: 83 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 80 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 97 } }
+    - { model: skill-jump, system: { masteryLevelBase: 40 } }
+    - { model: skill-melee, system: { masteryLevelBase: 56 } }
+    - { model: skill-dge, system: { masteryLevelBase: 50 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 51 } }
+    - { model: skill-ridg, system: { masteryLevelBase: 28 } }
+    - { model: skill-sing, system: { masteryLevelBase: 45 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 45 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 57 } }
+    - { model: skill-spirit }
+    - { model: skill-swim, system: { masteryLevelBase: 52 } }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 56 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lgdm, system: { masteryLevelBase: 51 } }
+    - { model: skill-lang, name: "Language: Khuzan", system: { masteryLevelBase: 80 } }
+    - { model: skill-script, name: "Script: Selenian", system: { masteryLevelBase: 87 } }
+    - { model: skill-agri, system: { masteryLevelBase: 39 } }
+    - { model: mysticalability-alch, system: { masteryLevelBase: 73 } }
+    - { model: mysticalability-astr, system: { masteryLevelBase: 84 } }
+    - { model: skill-brew, system: { masteryLevelBase: 34 } }
+    - { model: skill-embl, system: { masteryLevelBase: 30 } }
+    - { model: skill-fish, system: { masteryLevelBase: 48 } }
+    - { model: skill-glas, system: { masteryLevelBase: 48 } }
+    - { model: skill-herb, system: { masteryLevelBase: 48 } }
+    - model: skill-anmcft
       name: Horsecraft (Animalcraft)
       system:
         masteryLevelBase: 28
-    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: lock, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: runecft, type: mysticalability, system: { masteryLevelBase: 91 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 83 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: WTunic, type: armorgear }
-    - { shortcode: WLeg, type: armorgear }
-    - { shortcode: SlkTunic, type: armorgear }
-    - { shortcode: beltwaist, type: miscgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 68 } }
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 20 } }
+    - { model: skill-jewl, system: { masteryLevelBase: 48 } }
+    - { model: skill-lock, system: { masteryLevelBase: 48 } }
+    - { model: skill-math, system: { masteryLevelBase: 90 } }
+    - { model: skill-mtlc, system: { masteryLevelBase: 70 } }
+    - { model: skill-pilt, system: { masteryLevelBase: 32 } }
+    - { model: mysticalability-runecft, system: { masteryLevelBase: 91 } }
+    - { model: skill-smsh, system: { masteryLevelBase: 24 } }
+    - { model: mysticalability-tarot, system: { masteryLevelBase: 83 } }
+    - { model: skill-trak, system: { masteryLevelBase: 32 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 28 } }
+    - { model: weapongear-Dgr }
+    - { model: weapongear-Stf }
+    - { model: containergear-beltpouchl3 }
+    - { model: miscgear-tndrbx }
+    - { model: armorgear-WTunic }
+    - { model: armorgear-WLeg }
+    - { model: armorgear-SlkTunic }
+    - { model: miscgear-beltwaist }
+    - { model: armorgear-LtShoe }
+    - { model: miscgear-pence, system: { quantity: 68 } }
+    - { model: miscgear-gldcrwn, system: { quantity: 20 } }
     - { name: Save-K'nor, type: affiliation, system: { shortcode: saveknor, subType: divine } }
     - { name: Fyvria, type: affiliation, system: { shortcode: fyvria, subType: arcane } }
     - { name: Jmorvi, type: affiliation, system: { shortcode: jmorvi, subType: arcane } }
@@ -1554,4 +1554,4 @@ The King Needs You. Kirill has been watching the PCs closely, testing them with 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

@@ -38,6 +38,7 @@ data:
     extra_features:
       - Hand tremor
 hm3:
+  type: character
   attributes:
     str: 10
     sta: 13
@@ -148,70 +149,69 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 38 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 115 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 83 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 58 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 86 } }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 47 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 25 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 88 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - shortcode: lang
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 10 } }
+    - { model: attribute-end, system: { scoreBase: 13 } }
+    - { model: attribute-dex, system: { scoreBase: 11 } }
+    - { model: attribute-agl, system: { scoreBase: 9 } }
+    - { model: attribute-per, system: { scoreBase: 13 } }
+    - { model: attribute-snt, system: { scoreBase: 12 } }
+    - { model: attribute-cml, system: { scoreBase: 15 } }
+    - { model: attribute-aur, system: { scoreBase: 12 } }
+    - { model: attribute-wil, system: { scoreBase: 14 } }
+    - { model: attribute-rea, system: { scoreBase: 15 } }
+    - { model: attribute-cre, system: { scoreBase: 16 } }
+    - { model: attribute-emp, system: { scoreBase: 11 } }
+    - { model: attribute-elo, system: { scoreBase: 15 } }
+    - { model: attribute-mor, system: { scoreBase: 14 } }
+    - { model: attribute-voi, system: { scoreBase: 15 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 52 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 38 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr, system: { masteryLevelBase: 115 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 48 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 83 } }
+    - { model: skill-jump, system: { masteryLevelBase: 34 } }
+    - { model: skill-melee, system: { masteryLevelBase: 58 } }
+    - { model: skill-dge, system: { masteryLevelBase: 45 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 86 } }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 47 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 25 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 88 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 44 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - model: skill-lang
       name: "Language: Jarinese (Hodiri)"
       system:
         masteryLevelBase: 47
-    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 45 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 98 } }
-    - { shortcode: Clb, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: LRobe, type: armorgear }
-    - { shortcode: CvCloak, type: armorgear }
-    - { shortcode: CHood, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 24 } }
+    - { model: mysticalability-astr, system: { masteryLevelBase: 45 } }
+    - { model: skill-herb, system: { masteryLevelBase: 98 } }
+    - { model: weapongear-Clb }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-LRobe }
+    - { model: armorgear-CvCloak }
+    - { model: armorgear-CHood }
+    - { model: armorgear-LtShoe }
+    - { model: miscgear-pence, system: { quantity: 24 } }
   system:
     body:
       structure:
@@ -726,4 +726,4 @@ Access. Kora is well known in the settlements along Genin's Trail as both a heal
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

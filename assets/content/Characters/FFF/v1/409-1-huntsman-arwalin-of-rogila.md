@@ -37,6 +37,7 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 16
     sta: 14
@@ -173,78 +174,77 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: archery, type: skill, name: Shortbow (Bow), system: { masteryLevelBase: 74 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 73 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 31 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 61 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 57 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 67 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 73 } }
-    - shortcode: agri
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 16 } }
+    - { model: attribute-end, system: { scoreBase: 14 } }
+    - { model: attribute-dex, system: { scoreBase: 11 } }
+    - { model: attribute-agl, system: { scoreBase: 12 } }
+    - { model: attribute-per, system: { scoreBase: 15 } }
+    - { model: attribute-snt, system: { scoreBase: 12 } }
+    - { model: attribute-cml, system: { scoreBase: 15 } }
+    - { model: attribute-aur, system: { scoreBase: 8 } }
+    - { model: attribute-wil, system: { scoreBase: 10 } }
+    - { model: attribute-rea, system: { scoreBase: 11 } }
+    - { model: attribute-cre, system: { scoreBase: 16 } }
+    - { model: attribute-emp, system: { scoreBase: 7 } }
+    - { model: attribute-elo, system: { scoreBase: 15 } }
+    - { model: attribute-mor, system: { scoreBase: 15 } }
+    - { model: attribute-voi, system: { scoreBase: 17 } }
+    - { model: skill-archery, name: Shortbow (Bow), system: { masteryLevelBase: 74 } }
+    - { model: skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 73 } }
+    - { model: skill-cmd }
+    - { model: skill-cook, system: { masteryLevelBase: 49 } }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 75 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 31 } }
+    - { model: skill-jump, system: { masteryLevelBase: 54 } }
+    - { model: skill-melee, system: { masteryLevelBase: 62 } }
+    - { model: skill-dge, system: { masteryLevelBase: 62 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 33 } }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 52 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 61 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 57 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 67 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 73 } }
+    - model: skill-agri
       name: Oxcraft (Agriculture)
       system:
         masteryLevelBase: 52
-    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 37 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 31 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 83 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 25 } }
-    - { shortcode: Bklr, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: HAxe, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: QTnc, type: armorgear }
-    - { shortcode: CvCloak, type: armorgear }
-    - { shortcode: QCwl, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 58 } }
+    - { model: skill-fltch, system: { masteryLevelBase: 37 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 33 } }
+    - { model: skill-hide, system: { masteryLevelBase: 31 } }
+    - { model: skill-trak, system: { masteryLevelBase: 83 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 25 } }
+    - { model: weapongear-Bklr }
+    - { model: weapongear-Dgr }
+    - { model: weapongear-HAxe }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-LTunic }
+    - { model: armorgear-LLeg }
+    - { model: armorgear-QTnc }
+    - { model: armorgear-CvCloak }
+    - { model: armorgear-QCwl }
+    - { model: armorgear-LtCBoot }
+    - { model: miscgear-pence, system: { quantity: 58 } }
     - { name: Peoni, type: affiliation, system: { shortcode: peoni, subType: divine } }
     - name: Peoni
       type: skill
@@ -769,4 +769,4 @@ This is the Wild Man? An overly paranoid manor lord has heard rumours of a wild 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

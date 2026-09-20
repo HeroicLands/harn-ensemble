@@ -37,6 +37,7 @@ data:
     complexion: average
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 10
     sta: 13
@@ -220,76 +221,75 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 59 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 41 } }
-    - shortcode: folklr
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 10 } }
+    - { model: attribute-end, system: { scoreBase: 13 } }
+    - { model: attribute-dex, system: { scoreBase: 12 } }
+    - { model: attribute-agl, system: { scoreBase: 17 } }
+    - { model: attribute-per, system: { scoreBase: 14 } }
+    - { model: attribute-snt, system: { scoreBase: 10 } }
+    - { model: attribute-cml, system: { scoreBase: 11 } }
+    - { model: attribute-aur, system: { scoreBase: 18 } }
+    - { model: attribute-wil, system: { scoreBase: 14 } }
+    - { model: attribute-rea, system: { scoreBase: 13 } }
+    - { model: attribute-cre, system: { scoreBase: 18 } }
+    - { model: attribute-emp, system: { scoreBase: 13 } }
+    - { model: attribute-elo, system: { scoreBase: 17 } }
+    - { model: attribute-mor, system: { scoreBase: 11 } }
+    - { model: attribute-voi, system: { scoreBase: 18 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 59 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 56 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 41 } }
+    - model: skill-folklr
       name: "Folklore: Agrikan"
       system:
         masteryLevelBase: 54
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: pysn, type: skill, name: Torture (Physician), system: { masteryLevelBase: 80 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 43 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Surikal", system: { masteryLevelBase: 66 } }
-    - { shortcode: script, type: skill, name: "Script: Zerin", system: { masteryLevelBase: 83 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: RTunic, type: armorgear }
-    - { shortcode: RLeg, type: armorgear }
-    - { shortcode: WVest, type: armorgear }
-    - { shortcode: KAil, type: armorgear }
-    - { shortcode: KBrst, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: PlHHelm, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 130 } }
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 90 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 72 } }
+    - { model: skill-jump, system: { masteryLevelBase: 62 } }
+    - { model: skill-melee, system: { masteryLevelBase: 51 } }
+    - { model: skill-dge, system: { masteryLevelBase: 85 } }
+    - { model: skill-pysn, name: Torture (Physician), system: { masteryLevelBase: 80 } }
+    - { model: skill-ridg, system: { masteryLevelBase: 48 } }
+    - { model: skill-sing, system: { masteryLevelBase: 95 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 51 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 43 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 56 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Surikal", system: { masteryLevelBase: 66 } }
+    - { model: skill-script, name: "Script: Zerin", system: { masteryLevelBase: 83 } }
+    - { model: skill-embl, system: { masteryLevelBase: 28 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 42 } }
+    - { model: skill-law, system: { masteryLevelBase: 32 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-Dgr }
+    - { model: armorgear-RTunic }
+    - { model: armorgear-RLeg }
+    - { model: armorgear-WVest }
+    - { model: armorgear-KAil }
+    - { model: armorgear-KBrst }
+    - { model: armorgear-LtCBoot }
+    - { model: armorgear-PlHHelm }
+    - { model: miscgear-pence, system: { quantity: 130 } }
+    - { model: miscgear-gldcrwn, system: { quantity: 2 } }
     - { name: Agrik, type: affiliation, system: { shortcode: agrik, subType: divine } }
     - name: Agrik
       type: skill
@@ -891,4 +891,4 @@ Monster Hunting. The Octagonal Pit wants a particular type of ivashu for the are
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

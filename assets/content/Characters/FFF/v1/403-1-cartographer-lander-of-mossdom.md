@@ -37,6 +37,7 @@ data:
     complexion: average
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 11
     sta: 6
@@ -140,71 +141,71 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: archery, type: skill, name: Shortbow (Bow), system: { masteryLevelBase: 46 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 46 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 59 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 47 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 73 } }
-    - { shortcode: script, type: skill, name: "Script: Lakise", system: { masteryLevelBase: 83 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 37 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: mirrorbron, type: miscgear }
-    - { shortcode: VRobe, type: armorgear }
-    - { shortcode: WCap, type: armorgear }
-    - { shortcode: beltwaist, type: miscgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: quiverlgsh, type: containergear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 37 } }
+    - { model: attribute-str, system: { scoreBase: 11 } }
+    - { model: attribute-end, system: { scoreBase: 6 } }
+    - { model: attribute-dex, system: { scoreBase: 13 } }
+    - { model: attribute-agl, system: { scoreBase: 11 } }
+    - { model: attribute-per, system: { scoreBase: 12 } }
+    - { model: attribute-snt, system: { scoreBase: 8 } }
+    - { model: attribute-cml, system: { scoreBase: 9 } }
+    - { model: attribute-aur, system: { scoreBase: 10 } }
+    - { model: attribute-wil, system: { scoreBase: 10 } }
+    - { model: attribute-rea, system: { scoreBase: 14 } }
+    - { model: attribute-cre, system: { scoreBase: 15 } }
+    - { model: attribute-emp, system: { scoreBase: 8 } }
+    - { model: attribute-elo, system: { scoreBase: 12 } }
+    - { model: attribute-mor, system: { scoreBase: 12 } }
+    - { model: attribute-voi, system: { scoreBase: 14 } }
+    - { model: skill-archery, name: Shortbow (Bow), system: { masteryLevelBase: 46 } }
+    - { model: skill-awar, system: { masteryLevelBase: 49 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 49 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 62 } }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 46 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 39 } }
+    - { model: skill-jump, system: { masteryLevelBase: 49 } }
+    - { model: skill-melee, system: { masteryLevelBase: 59 } }
+    - { model: skill-dge, system: { masteryLevelBase: 62 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 47 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 42 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 54 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 73 } }
+    - { model: skill-script, name: "Script: Lakise", system: { masteryLevelBase: 83 } }
+    - { model: skill-hide, system: { masteryLevelBase: 37 } }
+    - { model: skill-law, system: { masteryLevelBase: 30 } }
+    - { model: skill-math, system: { masteryLevelBase: 45 } }
+    - { model: weapongear-Dgr }
+    - { model: containergear-beltpouchl3 }
+    - { model: miscgear-tndrbx }
+    - { model: miscgear-mirrorbron }
+    - { model: armorgear-VRobe }
+    - { model: armorgear-WCap }
+    - { model: miscgear-beltwaist }
+    - { model: armorgear-LtShoe }
+    - { model: containergear-quiverlgsh }
+    - { model: miscgear-pence, system: { quantity: 37 } }
     - { name: Halea, type: affiliation, system: { shortcode: halea, subType: divine } }
     - name: Halea
       type: skill
@@ -725,4 +726,4 @@ I Can Show You the Way. The PCs need to travel somewhere they have never been. L
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

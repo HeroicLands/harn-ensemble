@@ -39,6 +39,7 @@ data:
     extra_features:
       - Sometimes speaks in nonsense sentences
 hm3:
+  type: character
   attributes:
     str: 13
     sta: 14
@@ -191,71 +192,70 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: archery, type: skill, name: Shortbow (Bow), system: { masteryLevelBase: 78 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 81 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 86 } }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 84 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 99 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 74 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 82 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 59 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 78 } }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 77 } }
-    - { shortcode: script, type: skill, name: "Script: Lakise", system: { masteryLevelBase: 87 } }
-    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 44 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 81 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 112 } }
-    - { shortcode: runecft, type: mysticalability, system: { masteryLevelBase: 117 } }
-    - shortcode: txtl
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 13 } }
+    - { model: attribute-end, system: { scoreBase: 14 } }
+    - { model: attribute-dex, system: { scoreBase: 15 } }
+    - { model: attribute-agl, system: { scoreBase: 16 } }
+    - { model: attribute-per, system: { scoreBase: 12 } }
+    - { model: attribute-snt, system: { scoreBase: 10 } }
+    - { model: attribute-cml, system: { scoreBase: 16 } }
+    - { model: attribute-aur, system: { scoreBase: 18 } }
+    - { model: attribute-wil, system: { scoreBase: 15 } }
+    - { model: attribute-rea, system: { scoreBase: 18 } }
+    - { model: attribute-cre, system: { scoreBase: 18 } }
+    - { model: attribute-emp, system: { scoreBase: 17 } }
+    - { model: attribute-elo, system: { scoreBase: 15 } }
+    - { model: attribute-mor, system: { scoreBase: 12 } }
+    - { model: attribute-voi, system: { scoreBase: 13 } }
+    - { model: skill-archery, name: Shortbow (Bow), system: { masteryLevelBase: 78 } }
+    - { model: skill-awar, system: { masteryLevelBase: 48 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 81 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce, system: { masteryLevelBase: 86 } }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 84 } }
+    - { model: skill-folklr, system: { masteryLevelBase: 99 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 95 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 54 } }
+    - { model: skill-jump, system: { masteryLevelBase: 74 } }
+    - { model: skill-melee, system: { masteryLevelBase: 72 } }
+    - { model: skill-dge, system: { masteryLevelBase: 90 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 39 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 82 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 59 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-acro, system: { masteryLevelBase: 78 } }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 77 } }
+    - { model: skill-script, name: "Script: Lakise", system: { masteryLevelBase: 87 } }
+    - { model: mysticalability-astr, system: { masteryLevelBase: 44 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 81 } }
+    - { model: skill-math, system: { masteryLevelBase: 112 } }
+    - { model: mysticalability-runecft, system: { masteryLevelBase: 117 } }
+    - model: skill-txtl
       name: Needlework (Textilecraft)
       system:
         masteryLevelBase: 56
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: LDress, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-LDress }
+    - { model: armorgear-LtShoe }
     - { name: Halea, type: affiliation, system: { shortcode: halea, subType: divine } }
     - { name: Agrik, type: affiliation, system: { shortcode: agrik, subType: divine } }
     - name: Halea
@@ -784,4 +784,4 @@ Ominous Portents. While in port, the PCs encounter a girl travelling with a larg
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

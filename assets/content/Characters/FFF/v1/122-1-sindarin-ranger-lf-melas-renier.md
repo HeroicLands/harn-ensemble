@@ -37,6 +37,7 @@ data:
     complexion: handsome
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 14
     sta: 14
@@ -242,85 +243,83 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 117 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 67 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 93 } }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 105 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 114 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 108 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 82 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 100 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: musc, type: skill, name: Harp (Musician), system: { masteryLevelBase: 76 } }
-    - shortcode: lang
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 14 } }
+    - { model: attribute-end, system: { scoreBase: 14 } }
+    - { model: attribute-dex, system: { scoreBase: 14 } }
+    - { model: attribute-agl, system: { scoreBase: 18 } }
+    - { model: attribute-per, system: { scoreBase: 18 } }
+    - { model: attribute-snt, system: { scoreBase: 15 } }
+    - { model: attribute-cml, system: { scoreBase: 15 } }
+    - { model: attribute-aur, system: { scoreBase: 17 } }
+    - { model: attribute-wil, system: { scoreBase: 15 } }
+    - { model: attribute-rea, system: { scoreBase: 13 } }
+    - { model: attribute-cre, system: { scoreBase: 18 } }
+    - { model: attribute-emp, system: { scoreBase: 14 } }
+    - { model: attribute-elo, system: { scoreBase: 15 } }
+    - { model: attribute-mor, system: { scoreBase: 16 } }
+    - { model: attribute-voi, system: { scoreBase: 15 } }
+    - { model: skill-archery, system: { masteryLevelBase: 117 } }
+    - { model: skill-awar, system: { masteryLevelBase: 95 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 75 } }
+    - { model: skill-cmd }
+    - { model: skill-cook, system: { masteryLevelBase: 67 } }
+    - { model: skill-dnce, system: { masteryLevelBase: 93 } }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 105 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 80 } }
+    - { model: skill-jump, system: { masteryLevelBase: 85 } }
+    - { model: skill-melee, system: { masteryLevelBase: 114 } }
+    - { model: skill-dge, system: { masteryLevelBase: 108 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 85 } }
+    - { model: skill-ridg, system: { masteryLevelBase: 82 } }
+    - { model: skill-sing, system: { masteryLevelBase: 75 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 100 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 95 } }
+    - { model: skill-spirit }
+    - { model: skill-swim, system: { masteryLevelBase: 85 } }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 90 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-musc, name: Harp (Musician), system: { masteryLevelBase: 76 } }
+    - model: skill-lang
       name: "Language: Orbaalese"
       system:
         masteryLevelBase: 45
-    - { shortcode: script, type: skill, name: "Script: Runic", system: { masteryLevelBase: 60 } }
-    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 82 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 80 } }
-    - shortcode: anmcft
-      type: skill
+    - { model: skill-script, name: "Script: Runic", system: { masteryLevelBase: 60 } }
+    - { model: skill-fltch, system: { masteryLevelBase: 90 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 82 } }
+    - { model: skill-herb, system: { masteryLevelBase: 80 } }
+    - model: skill-anmcft
       name: Horsecraft (Animalcraft)
       system:
         masteryLevelBase: 83
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: LKni, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: LtGlove, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: MByr, type: armorgear }
+    - { model: skill-trak, system: { masteryLevelBase: 95 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 72 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-LKni }
+    - { model: weapongear-Dgr }
+    - { model: armorgear-LLeg }
+    - { model: armorgear-LTunic }
+    - { model: armorgear-LtGlove }
+    - { model: armorgear-LtShoe }
+    - { model: armorgear-MByr }
     - { name: Cord of Querelia-Sim, type: miscgear, system: { value: 0, weight: 1 } }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 70 } }
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
+    - { model: containergear-beltpouchl3 }
+    - { model: miscgear-pence, system: { quantity: 70 } }
+    - { model: miscgear-gldcrwn, system: { quantity: 3 } }
     - { name: Siem, type: affiliation, system: { shortcode: siem, subType: divine } }
     - name: Siem
       type: skill
@@ -845,4 +844,4 @@ Dying request: Melas has been severely injured. He makes a dying request of the 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

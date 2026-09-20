@@ -40,6 +40,7 @@ data:
       - Moustache
       - beard
 hm3:
+  type: character
   attributes:
     str: 14
     sta: 10
@@ -190,83 +191,81 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: archery, type: skill, name: Longbow (Bow), system: { masteryLevelBase: 102 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - shortcode: folklr
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 14 } }
+    - { model: attribute-end, system: { scoreBase: 10 } }
+    - { model: attribute-dex, system: { scoreBase: 16 } }
+    - { model: attribute-agl, system: { scoreBase: 14 } }
+    - { model: attribute-per, system: { scoreBase: 14 } }
+    - { model: attribute-snt, system: { scoreBase: 11 } }
+    - { model: attribute-cml, system: { scoreBase: 7 } }
+    - { model: attribute-aur, system: { scoreBase: 9 } }
+    - { model: attribute-wil, system: { scoreBase: 14 } }
+    - { model: attribute-rea, system: { scoreBase: 10 } }
+    - { model: attribute-cre, system: { scoreBase: 9 } }
+    - { model: attribute-emp, system: { scoreBase: 12 } }
+    - { model: attribute-elo, system: { scoreBase: 12 } }
+    - { model: attribute-mor, system: { scoreBase: 17 } }
+    - { model: attribute-voi, system: { scoreBase: 8 } }
+    - { model: skill-archery, name: Longbow (Bow), system: { masteryLevelBase: 102 } }
+    - { model: skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 60 } }
+    - { model: skill-cmd }
+    - { model: skill-cook, system: { masteryLevelBase: 52 } }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - model: skill-folklr
       name: "Folklore: Chybisa"
       system:
         masteryLevelBase: 42
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 84 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 71 } }
-    - shortcode: fltch
-      type: skill
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 84 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 33 } }
+    - { model: skill-jump, system: { masteryLevelBase: 64 } }
+    - { model: skill-melee, system: { masteryLevelBase: 70 } }
+    - { model: skill-dge, system: { masteryLevelBase: 70 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 30 } }
+    - { model: skill-ridg, system: { masteryLevelBase: 45 } }
+    - { model: skill-sing, system: { masteryLevelBase: 27 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 75 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 52 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 72 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 71 } }
+    - model: skill-fltch
       name: "Fletching: Longbow"
       system:
         masteryLevelBase: 82
-    - { shortcode: hrld, type: skill, name: "Heraldry: Chybisa", system: { masteryLevelBase: 48 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: Bklr, type: weapongear }
-    - { shortcode: LBw50, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: quiverlgsh, type: containergear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: QTnc, type: armorgear }
-    - { shortcode: MByr, type: armorgear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: CvCloak, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 109 } }
+    - { model: skill-hrld, name: "Heraldry: Chybisa", system: { masteryLevelBase: 48 } }
+    - { model: skill-hide, system: { masteryLevelBase: 42 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 30 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-BrdSwd }
+    - { model: weapongear-Dgr }
+    - { model: weapongear-Bklr }
+    - { model: weapongear-LBw50 }
+    - { model: containergear-beltpouchl3 }
+    - { model: containergear-quiverlgsh }
+    - { model: armorgear-LtCBoot }
+    - { model: armorgear-LLeg }
+    - { model: armorgear-QTnc }
+    - { model: armorgear-MByr }
+    - { model: armorgear-LTunic }
+    - { model: armorgear-CvCloak }
+    - { model: miscgear-pence, system: { quantity: 109 } }
     - { name: Peoni, type: affiliation, system: { shortcode: peoni, subType: divine } }
     - { name: Sarajin, type: affiliation, system: { shortcode: sarajin, subType: divine } }
     - name: Peoni
@@ -797,4 +796,4 @@ Unpleasant Encounter: A noble or Ivinian PC may take exception of Wyrin, a non-I
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

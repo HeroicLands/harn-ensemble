@@ -37,6 +37,7 @@ data:
     extra_features:
       - Scars
 hm3:
+  type: character
   attributes:
     str: 13
     sta: 16
@@ -216,4 +217,4 @@ A Suitor. The PCs (most likely working with the local militia) are mopping up a 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (https://www.lythia.com/game_aides/fff-gargu/), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (<https://www.lythia.com/game_aides/fff-gargu/>), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

@@ -36,6 +36,7 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 11
     sta: 12
@@ -197,4 +198,4 @@ Put My Son Down! The PCs somehow captured Fetch, unaware of his civilized ways. 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (https://www.lythia.com/game_aides/fff-gargu/), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (<https://www.lythia.com/game_aides/fff-gargu/>), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

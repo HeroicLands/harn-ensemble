@@ -39,6 +39,7 @@ data:
       - Obese
       - Left-handed
 hm3:
+  type: character
   attributes:
     str: 10
     sta: 14
@@ -165,82 +166,80 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 53 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 53 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 69 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 77 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 94 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 73 } }
-    - { shortcode: script, type: skill, name: "Script: Lakise", system: { masteryLevelBase: 82 } }
-    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 34 } }
-    - shortcode: hide
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 10 } }
+    - { model: attribute-end, system: { scoreBase: 14 } }
+    - { model: attribute-dex, system: { scoreBase: 13 } }
+    - { model: attribute-agl, system: { scoreBase: 15 } }
+    - { model: attribute-per, system: { scoreBase: 12 } }
+    - { model: attribute-snt, system: { scoreBase: 12 } }
+    - { model: attribute-cml, system: { scoreBase: 15 } }
+    - { model: attribute-aur, system: { scoreBase: 12 } }
+    - { model: attribute-wil, system: { scoreBase: 10 } }
+    - { model: attribute-rea, system: { scoreBase: 13 } }
+    - { model: attribute-cre, system: { scoreBase: 12 } }
+    - { model: attribute-emp, system: { scoreBase: 12 } }
+    - { model: attribute-elo, system: { scoreBase: 13 } }
+    - { model: attribute-mor, system: { scoreBase: 9 } }
+    - { model: attribute-voi, system: { scoreBase: 15 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 51 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 53 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 53 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 69 } }
+    - { model: skill-jump, system: { masteryLevelBase: 45 } }
+    - { model: skill-melee, system: { masteryLevelBase: 52 } }
+    - { model: skill-dge, system: { masteryLevelBase: 77 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg, system: { masteryLevelBase: 94 } }
+    - { model: skill-sing, system: { masteryLevelBase: 51 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 34 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 50 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 73 } }
+    - { model: skill-script, name: "Script: Lakise", system: { masteryLevelBase: 82 } }
+    - { model: mysticalability-alch, system: { masteryLevelBase: 34 } }
+    - model: skill-hide
       name: Horse tack (Hidework)
       system:
         masteryLevelBase: 54
-    - shortcode: anmcft
-      type: skill
+    - model: skill-anmcft
       name: Horsecraft (Animalcraft)
       system:
         masteryLevelBase: 86
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 41 } }
-    - { shortcode: mtlc, type: skill, name: Ferrier (Metalcraft), system: { masteryLevelBase: 46 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: ShrtSwd, type: weapongear }
-    - { shortcode: VCap, type: armorgear }
-    - { shortcode: VTunic, type: armorgear }
-    - { shortcode: VLeg, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 95 } }
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+    - { model: skill-law, system: { masteryLevelBase: 27 } }
+    - { model: skill-math, system: { masteryLevelBase: 41 } }
+    - { model: skill-mtlc, name: Ferrier (Metalcraft), system: { masteryLevelBase: 46 } }
+    - { model: weapongear-Dgr }
+    - { model: weapongear-ShrtSwd }
+    - { model: armorgear-VCap }
+    - { model: armorgear-VTunic }
+    - { model: armorgear-VLeg }
+    - { model: armorgear-WClk }
+    - { model: armorgear-LtCBoot }
+    - { model: containergear-beltpouchl3 }
+    - { model: miscgear-pence, system: { quantity: 95 } }
+    - { model: miscgear-gldcrwn, system: { quantity: 2 } }
     - { name: Halea, type: affiliation, system: { shortcode: halea, subType: divine } }
     - name: Halea
       type: skill
@@ -763,4 +762,4 @@ Blackmail. Dersory has recently discovered that he can sometimes hear what other
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

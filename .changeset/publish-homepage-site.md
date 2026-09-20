@@ -42,7 +42,7 @@ come back: three pages, and a red deploy.
 
 **The deploy calls the shared workflow.** The runner, the completeness guard, the
 hosting project, the custom domain and the upload are identical for every package
-publishing a subtree of www.heroiclands.org, so they live once in
+publishing a subtree of <www.heroiclands.org>, so they live once in
 `HeroicLands/.github` and this repository calls them with one input. It passes no
 `min-pages` / `max-pages`: in `homepage` mode the shared workflow reads
 `publish.site` from `package-build.config.yaml`, fixes the bound at exactly one,

@@ -39,6 +39,7 @@ data:
       - Left handed
       - Musty smell
 hm3:
+  type: character
   attributes:
     str: 7
     sta: 11
@@ -185,73 +186,72 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 96 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 66 } }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Ivashi", system: { masteryLevelBase: 80 } }
-    - { shortcode: script, type: skill, name: "Script: Khruni", system: { masteryLevelBase: 83 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 80 } }
-    - shortcode: anmcft
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 7 } }
+    - { model: attribute-end, system: { scoreBase: 11 } }
+    - { model: attribute-dex, system: { scoreBase: 13 } }
+    - { model: attribute-agl, system: { scoreBase: 17 } }
+    - { model: attribute-per, system: { scoreBase: 15 } }
+    - { model: attribute-snt, system: { scoreBase: 15 } }
+    - { model: attribute-cml, system: { scoreBase: 12 } }
+    - { model: attribute-aur, system: { scoreBase: 12 } }
+    - { model: attribute-wil, system: { scoreBase: 14 } }
+    - { model: attribute-rea, system: { scoreBase: 9 } }
+    - { model: attribute-cre, system: { scoreBase: 13 } }
+    - { model: attribute-emp, system: { scoreBase: 11 } }
+    - { model: attribute-elo, system: { scoreBase: 13 } }
+    - { model: attribute-mor, system: { scoreBase: 11 } }
+    - { model: attribute-voi, system: { scoreBase: 9 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 80 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 54 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 60 } }
+    - { model: skill-folklr, system: { masteryLevelBase: 70 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 96 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 65 } }
+    - { model: skill-jump, system: { masteryLevelBase: 60 } }
+    - { model: skill-melee, system: { masteryLevelBase: 60 } }
+    - { model: skill-dge, system: { masteryLevelBase: 80 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 66 } }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 27 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 80 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim, system: { masteryLevelBase: 40 } }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 49 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Ivashi", system: { masteryLevelBase: 80 } }
+    - { model: skill-script, name: "Script: Khruni", system: { masteryLevelBase: 83 } }
+    - { model: skill-agri, system: { masteryLevelBase: 30 } }
+    - { model: skill-embl, system: { masteryLevelBase: 60 } }
+    - { model: skill-herb, system: { masteryLevelBase: 80 } }
+    - model: skill-anmcft
       name: Ivashucraft (Animalcraft)
       system:
         masteryLevelBase: 85
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 40 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: LRobe, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 19 } }
+    - { model: skill-law, system: { masteryLevelBase: 28 } }
+    - { model: mysticalability-tarot, system: { masteryLevelBase: 40 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-Dgr }
+    - { model: armorgear-LtShoe }
+    - { model: armorgear-LRobe }
+    - { model: miscgear-pence, system: { quantity: 19 } }
     - { name: Ilvir, type: affiliation, system: { shortcode: ilvir, subType: divine } }
     - name: Ilvir
       type: skill
@@ -846,4 +846,4 @@ The Hunters. A rare Polan-Tekek has been spotted in the woods nearby. The PCs ar
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

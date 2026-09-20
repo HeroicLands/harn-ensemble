@@ -39,6 +39,7 @@ data:
       - Overweight
       - A purple birthmark on his right hand
 hm3:
+  type: character
   attributes:
     str: 11
     sta: 12
@@ -174,72 +175,72 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 46 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 57 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 43 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 72 } }
-    - { shortcode: script, type: skill, name: "Script: Runic", system: { masteryLevelBase: 62 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: law, type: skill, name: "Law: Jarin", system: { masteryLevelBase: 26 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 46 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 87 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: bpchsmslk, type: containergear }
-    - { shortcode: VRobe, type: armorgear }
-    - { shortcode: VCap, type: armorgear }
-    - { shortcode: VLeg, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 40 } }
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 4 } }
+    - { model: attribute-str, system: { scoreBase: 11 } }
+    - { model: attribute-end, system: { scoreBase: 12 } }
+    - { model: attribute-dex, system: { scoreBase: 12 } }
+    - { model: attribute-agl, system: { scoreBase: 14 } }
+    - { model: attribute-per, system: { scoreBase: 15 } }
+    - { model: attribute-snt, system: { scoreBase: 15 } }
+    - { model: attribute-cml, system: { scoreBase: 11 } }
+    - { model: attribute-aur, system: { scoreBase: 8 } }
+    - { model: attribute-wil, system: { scoreBase: 11 } }
+    - { model: attribute-rea, system: { scoreBase: 15 } }
+    - { model: attribute-cre, system: { scoreBase: 12 } }
+    - { model: attribute-emp, system: { scoreBase: 7 } }
+    - { model: attribute-elo, system: { scoreBase: 9 } }
+    - { model: attribute-mor, system: { scoreBase: 13 } }
+    - { model: attribute-voi, system: { scoreBase: 11 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 46 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 40 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 49 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 57 } }
+    - { model: skill-jump, system: { masteryLevelBase: 49 } }
+    - { model: skill-melee, system: { masteryLevelBase: 60 } }
+    - { model: skill-dge, system: { masteryLevelBase: 70 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg, system: { masteryLevelBase: 51 } }
+    - { model: skill-sing, system: { masteryLevelBase: 34 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 27 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 43 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 72 } }
+    - { model: skill-script, name: "Script: Runic", system: { masteryLevelBase: 62 } }
+    - { model: skill-hide, system: { masteryLevelBase: 56 } }
+    - { model: skill-jewl, system: { masteryLevelBase: 49 } }
+    - { model: skill-law, name: "Law: Jarin", system: { masteryLevelBase: 26 } }
+    - { model: skill-math, system: { masteryLevelBase: 46 } }
+    - { model: skill-txtl, system: { masteryLevelBase: 87 } }
+    - { model: weapongear-Dgr }
+    - { model: containergear-bpchsmslk }
+    - { model: armorgear-VRobe }
+    - { model: armorgear-VCap }
+    - { model: armorgear-VLeg }
+    - { model: armorgear-WClk }
+    - { model: armorgear-LtShoe }
+    - { model: miscgear-pence, system: { quantity: 40 } }
+    - { model: miscgear-gldcrwn, system: { quantity: 4 } }
     - { name: Ilvir, type: affiliation, system: { shortcode: ilvir, subType: divine } }
     - name: Ilvir
       type: skill
@@ -764,4 +765,4 @@ An Honest Job. Gwyte needs agents to represent his interests in Kaldor, includin
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

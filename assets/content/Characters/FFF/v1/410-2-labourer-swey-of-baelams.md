@@ -40,6 +40,7 @@ data:
       - parasites
       - dwarfism
 hm3:
+  type: character
   attributes:
     str: 10
     sta: 11
@@ -156,72 +157,71 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 37 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 53 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 37 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 38 } }
-    - { shortcode: musc, type: skill, name: Drum (Musician), system: { masteryLevelBase: 51 } }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 63 } }
-    - shortcode: anmcft
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 10 } }
+    - { model: attribute-end, system: { scoreBase: 11 } }
+    - { model: attribute-dex, system: { scoreBase: 6 } }
+    - { model: attribute-agl, system: { scoreBase: 8 } }
+    - { model: attribute-per, system: { scoreBase: 12 } }
+    - { model: attribute-snt, system: { scoreBase: 8 } }
+    - { model: attribute-cml, system: { scoreBase: 5 } }
+    - { model: attribute-aur, system: { scoreBase: 16 } }
+    - { model: attribute-wil, system: { scoreBase: 18 } }
+    - { model: attribute-rea, system: { scoreBase: 13 } }
+    - { model: attribute-cre, system: { scoreBase: 11 } }
+    - { model: attribute-emp, system: { scoreBase: 10 } }
+    - { model: attribute-elo, system: { scoreBase: 13 } }
+    - { model: attribute-mor, system: { scoreBase: 11 } }
+    - { model: attribute-voi, system: { scoreBase: 7 } }
+    - { model: skill-archery, system: { masteryLevelBase: 37 } }
+    - { model: skill-awar, system: { masteryLevelBase: 56 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 36 } }
+    - { model: skill-cmd }
+    - { model: skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 64 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 53 } }
+    - { model: skill-jump, system: { masteryLevelBase: 37 } }
+    - { model: skill-melee, system: { masteryLevelBase: 40 } }
+    - { model: skill-dge, system: { masteryLevelBase: 40 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg, system: { masteryLevelBase: 44 } }
+    - { model: skill-sing, system: { masteryLevelBase: 44 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 32 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 55 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-acro, system: { masteryLevelBase: 38 } }
+    - { model: skill-musc, name: Drum (Musician), system: { masteryLevelBase: 51 } }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 63 } }
+    - model: skill-anmcft
       name: Horsecraft (Animalcraft)
       system:
         masteryLevelBase: 55
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: quiverlgsh, type: containergear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 8 } }
+    - { model: skill-txtl, system: { masteryLevelBase: 33 } }
+    - { model: weapongear-Dgr }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-LTunic }
+    - { model: armorgear-LLeg }
+    - { model: armorgear-LtShoe }
+    - { model: containergear-quiverlgsh }
+    - { model: miscgear-pence, system: { quantity: 8 } }
     - { name: Peoni, type: affiliation, system: { shortcode: peoni, subType: divine } }
     - name: Peoni
       type: skill
@@ -748,4 +748,4 @@ Stable Boy: Swey is assigned to take care of the PCs horses by the local ostler.
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
