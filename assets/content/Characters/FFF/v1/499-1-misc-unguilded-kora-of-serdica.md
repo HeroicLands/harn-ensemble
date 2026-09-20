@@ -117,7 +117,6 @@ hm3:
         icon: sohl-none-icon-circle
       system:
         type: Ritual
-        skillBase.value: 15
         masteryLevel: 75
         ritual.piety: 98
         skillBase:
