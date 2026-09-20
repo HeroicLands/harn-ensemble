@@ -2,7 +2,6 @@
     "name": "harn-ensemble",
     "version": "0.0.0",
     "private": true,
-    "description": "Hârn Ensemble — over a thousand NPCs for you to use in your games in the Hârn setting.",
     "license": "CC-BY-NC-SA-4.0",
     "repository": {
         "type": "git",
@@ -59,7 +58,7 @@
     "devDependencies": {
         "@changesets/cli": "^3.0.2",
         "@heroiclands/hugo-theme": "^0.6.0",
-        "@heroiclands/package-build": "^22.1.0",
+        "@heroiclands/package-build": "^22.2.0",
         "npm-run-all": "^4.1.5"
     }
 }
