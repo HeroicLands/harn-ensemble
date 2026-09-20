@@ -110,7 +110,7 @@ hm3:
         weight: 3
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pipesmokin, type: miscgear }
-    - { shortcode: Pfrk, type: weapongear }
+    - { shortcode: Pfrk, type: miscgear }
     - name: Saw, hack
       type: miscgear
       data:

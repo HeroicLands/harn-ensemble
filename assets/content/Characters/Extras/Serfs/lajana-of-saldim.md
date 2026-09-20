@@ -108,7 +108,7 @@ hm3:
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
-    - { shortcode: Pfrk, type: weapongear }
+    - { shortcode: Pfrk, type: miscgear }
   system:
     sunsign: masara-skorus
     move: 18

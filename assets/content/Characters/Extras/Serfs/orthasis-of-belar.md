@@ -112,7 +112,7 @@ hm3:
         value: 12
         weight: 3
     - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: Pfrk, type: weapongear }
+    - { shortcode: Pfrk, type: miscgear }
     - { shortcode: spadeshovel, type: miscgear }
     - name: Comb, wood
       type: miscgear
