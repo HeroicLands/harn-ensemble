@@ -39,6 +39,7 @@ data:
       - a limp
       - Carry a long narrow package
 hm3:
+  type: character
   attributes:
     str: 15
     sta: 13
@@ -170,73 +171,73 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 38 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Ivinian", system: { masteryLevelBase: 72 } }
-    - { shortcode: script, type: skill, name: "Script: Runic", system: { masteryLevelBase: 82 } }
-    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 100 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: LCap, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: WTunic, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: MByr, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 105 } }
+    - { model: attribute-str, system: { scoreBase: 15 } }
+    - { model: attribute-end, system: { scoreBase: 13 } }
+    - { model: attribute-dex, system: { scoreBase: 13 } }
+    - { model: attribute-agl, system: { scoreBase: 10 } }
+    - { model: attribute-per, system: { scoreBase: 14 } }
+    - { model: attribute-snt, system: { scoreBase: 14 } }
+    - { model: attribute-cml, system: { scoreBase: 11 } }
+    - { model: attribute-aur, system: { scoreBase: 15 } }
+    - { model: attribute-wil, system: { scoreBase: 13 } }
+    - { model: attribute-rea, system: { scoreBase: 14 } }
+    - { model: attribute-cre, system: { scoreBase: 12 } }
+    - { model: attribute-emp, system: { scoreBase: 12 } }
+    - { model: attribute-elo, system: { scoreBase: 10 } }
+    - { model: attribute-mor, system: { scoreBase: 14 } }
+    - { model: attribute-voi, system: { scoreBase: 10 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 70 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 52 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 60 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 56 } }
+    - { model: skill-jump, system: { masteryLevelBase: 44 } }
+    - { model: skill-melee, system: { masteryLevelBase: 62 } }
+    - { model: skill-dge, system: { masteryLevelBase: 55 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 26 } }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 38 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 40 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 52 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Ivinian", system: { masteryLevelBase: 72 } }
+    - { model: skill-script, name: "Script: Runic", system: { masteryLevelBase: 82 } }
+    - { model: skill-fltch, system: { masteryLevelBase: 60 } }
+    - { model: skill-mtlc, system: { masteryLevelBase: 95 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 100 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-BrdSwd }
+    - { model: weapongear-Spr, system: { quantity: 0 } }
+    - { model: weapongear-RndSh }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-LCap }
+    - { model: armorgear-LLeg }
+    - { model: armorgear-WTunic }
+    - { model: armorgear-WClk }
+    - { model: armorgear-LtCBoot }
+    - { model: armorgear-MByr }
+    - { model: miscgear-pence, system: { quantity: 105 } }
     - { name: Sarajin, type: affiliation, system: { shortcode: sarajin, subType: divine } }
     - name: Sarajin
       type: skill
@@ -763,4 +764,4 @@ The Gift. For no apparent reason, a man walks up to one of the PCs in a crowded 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

@@ -38,6 +38,7 @@ data:
     complexion: average
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 12
     sta: 11
@@ -174,75 +175,75 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 78 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 35 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Khuzan", system: { masteryLevelBase: 68 } }
-    - { shortcode: script, type: skill, name: "Script: Selenian", system: { masteryLevelBase: 45 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 91 } }
-    - { shortcode: Kni, type: weapongear }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: keys, type: miscgear }
-    - { shortcode: inkwellgla, type: containergear }
-    - { shortcode: penquill, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: bookbase, type: miscgear }
-    - { shortcode: WRobe, type: armorgear }
-    - { shortcode: WLeg, type: armorgear }
-    - { shortcode: ECap, type: armorgear }
-    - { shortcode: beltwaist, type: miscgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 172 } }
+    - { model: attribute-str, system: { scoreBase: 12 } }
+    - { model: attribute-end, system: { scoreBase: 11 } }
+    - { model: attribute-dex, system: { scoreBase: 13 } }
+    - { model: attribute-agl, system: { scoreBase: 7 } }
+    - { model: attribute-per, system: { scoreBase: 13 } }
+    - { model: attribute-snt, system: { scoreBase: 11 } }
+    - { model: attribute-cml, system: { scoreBase: 12 } }
+    - { model: attribute-aur, system: { scoreBase: 11 } }
+    - { model: attribute-wil, system: { scoreBase: 14 } }
+    - { model: attribute-rea, system: { scoreBase: 17 } }
+    - { model: attribute-cre, system: { scoreBase: 18 } }
+    - { model: attribute-emp, system: { scoreBase: 12 } }
+    - { model: attribute-elo, system: { scoreBase: 17 } }
+    - { model: attribute-mor, system: { scoreBase: 12 } }
+    - { model: attribute-voi, system: { scoreBase: 16 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 48 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 44 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 51 } }
+    - { model: skill-folklr, system: { masteryLevelBase: 78 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 48 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 80 } }
+    - { model: skill-jump, system: { masteryLevelBase: 36 } }
+    - { model: skill-melee, system: { masteryLevelBase: 48 } }
+    - { model: skill-dge, system: { masteryLevelBase: 35 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg, system: { masteryLevelBase: 44 } }
+    - { model: skill-sing, system: { masteryLevelBase: 45 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 42 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 48 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Khuzan", system: { masteryLevelBase: 68 } }
+    - { model: skill-script, name: "Script: Selenian", system: { masteryLevelBase: 45 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 56 } }
+    - { model: skill-law, system: { masteryLevelBase: 70 } }
+    - { model: skill-math, system: { masteryLevelBase: 91 } }
+    - { model: weapongear-Kni }
+    - { model: weapongear-Stf }
+    - { model: containergear-beltpouchl3 }
+    - { model: miscgear-tndrbx }
+    - { model: miscgear-keys }
+    - { model: containergear-inkwellgla }
+    - { model: miscgear-penquill, system: { quantity: 4 } }
+    - { model: miscgear-bookbase }
+    - { model: armorgear-WRobe }
+    - { model: armorgear-WLeg }
+    - { model: armorgear-ECap }
+    - { model: miscgear-beltwaist }
+    - { model: armorgear-LtCBoot }
+    - { model: miscgear-pence, system: { quantity: 172 } }
     - { name: Larani, type: affiliation, system: { shortcode: larani, subType: divine } }
     - { name: Save-K'nor, type: affiliation, system: { shortcode: saveknor, subType: divine } }
     - name: Larani
@@ -773,4 +774,4 @@ Anyone Speak Dwarven? The PCs have obtained a map or book written in Khuzan and 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

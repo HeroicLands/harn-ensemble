@@ -38,6 +38,7 @@ data:
     extra_features:
       - Foreign accent
 hm3:
+  type: character
   attributes:
     str: 13
     sta: 16
@@ -230,79 +231,79 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 84 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 76 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 68 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 91 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 63 } }
-    - { shortcode: script, type: skill, name: "Script: Lakise", system: { masteryLevelBase: 67 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: Lnc, type: weapongear }
-    - { shortcode: KiSh, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: RCowl, type: armorgear }
-    - { shortcode: RTunic, type: armorgear }
-    - { shortcode: RLeg, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: LtGlove, type: armorgear }
-    - { shortcode: MCwl, type: armorgear }
-    - { shortcode: MHbk, type: armorgear }
-    - { shortcode: MLeg, type: armorgear }
-    - { shortcode: CScoat, type: armorgear }
-    - { shortcode: Pl34Hlm, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 188 } }
+    - { model: attribute-str, system: { scoreBase: 13 } }
+    - { model: attribute-end, system: { scoreBase: 16 } }
+    - { model: attribute-dex, system: { scoreBase: 13 } }
+    - { model: attribute-agl, system: { scoreBase: 11 } }
+    - { model: attribute-per, system: { scoreBase: 13 } }
+    - { model: attribute-snt, system: { scoreBase: 13 } }
+    - { model: attribute-cml, system: { scoreBase: 13 } }
+    - { model: attribute-aur, system: { scoreBase: 15 } }
+    - { model: attribute-wil, system: { scoreBase: 15 } }
+    - { model: attribute-rea, system: { scoreBase: 12 } }
+    - { model: attribute-cre, system: { scoreBase: 12 } }
+    - { model: attribute-emp, system: { scoreBase: 13 } }
+    - { model: attribute-elo, system: { scoreBase: 16 } }
+    - { model: attribute-mor, system: { scoreBase: 8 } }
+    - { model: attribute-voi, system: { scoreBase: 16 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 48 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr, system: { masteryLevelBase: 39 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 84 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 76 } }
+    - { model: skill-jump, system: { masteryLevelBase: 60 } }
+    - { model: skill-melee, system: { masteryLevelBase: 68 } }
+    - { model: skill-dge, system: { masteryLevelBase: 55 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg, system: { masteryLevelBase: 91 } }
+    - { model: skill-sing, system: { masteryLevelBase: 42 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 60 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 52 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 56 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 63 } }
+    - { model: skill-script, name: "Script: Lakise", system: { masteryLevelBase: 67 } }
+    - { model: skill-agri, system: { masteryLevelBase: 30 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 28 } }
+    - { model: skill-law, system: { masteryLevelBase: 56 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 34 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-BrdSwd }
+    - { model: weapongear-Dgr }
+    - { model: weapongear-Lnc }
+    - { model: weapongear-KiSh }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-RCowl }
+    - { model: armorgear-RTunic }
+    - { model: armorgear-RLeg }
+    - { model: armorgear-LtShoe }
+    - { model: armorgear-LtGlove }
+    - { model: armorgear-MCwl }
+    - { model: armorgear-MHbk }
+    - { model: armorgear-MLeg }
+    - { model: armorgear-CScoat }
+    - { model: armorgear-Pl34Hlm }
+    - { model: miscgear-pence, system: { quantity: 188 } }
     - { name: Agrik, type: affiliation, system: { shortcode: agrik, subType: divine } }
     - name: Agrik
       type: skill
@@ -823,4 +824,4 @@ Infiltrated: Lyesa believes the PCs have some connections with a group harbourin
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

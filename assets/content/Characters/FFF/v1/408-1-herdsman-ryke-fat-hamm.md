@@ -41,6 +41,7 @@ data:
       - Beard
       - moustache
 hm3:
+  type: character
   attributes:
     str: 13
     sta: 10
@@ -186,75 +187,74 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 86 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 47 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 69 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 69 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 29 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 94 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 41 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 74 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 58 } }
-    - { shortcode: slng, type: skill, name: Hand (Sling), system: { masteryLevelBase: 102 } }
-    - shortcode: agri
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 13 } }
+    - { model: attribute-end, system: { scoreBase: 10 } }
+    - { model: attribute-dex, system: { scoreBase: 18 } }
+    - { model: attribute-agl, system: { scoreBase: 14 } }
+    - { model: attribute-per, system: { scoreBase: 18 } }
+    - { model: attribute-snt, system: { scoreBase: 16 } }
+    - { model: attribute-cml, system: { scoreBase: 6 } }
+    - { model: attribute-aur, system: { scoreBase: 14 } }
+    - { model: attribute-wil, system: { scoreBase: 10 } }
+    - { model: attribute-rea, system: { scoreBase: 10 } }
+    - { model: attribute-cre, system: { scoreBase: 13 } }
+    - { model: attribute-emp, system: { scoreBase: 10 } }
+    - { model: attribute-elo, system: { scoreBase: 6 } }
+    - { model: attribute-mor, system: { scoreBase: 11 } }
+    - { model: attribute-voi, system: { scoreBase: 5 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 86 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 62 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 47 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 54 } }
+    - { model: skill-jump, system: { masteryLevelBase: 69 } }
+    - { model: skill-melee, system: { masteryLevelBase: 69 } }
+    - { model: skill-dge, system: { masteryLevelBase: 70 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 29 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 94 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 41 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 74 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 58 } }
+    - { model: skill-slng, name: Hand (Sling), system: { masteryLevelBase: 102 } }
+    - model: skill-agri
       name: Sheepcraft (Agriculture)
       system:
         masteryLevelBase: 73
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 47 } }
-    - { shortcode: trak, type: skill, name: Sheep (Tracking), system: { masteryLevelBase: 90 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: Kni, type: weapongear }
-    - { shortcode: Slng, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: LCap, type: armorgear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 12 } }
+    - { model: skill-brew, system: { masteryLevelBase: 49 } }
+    - { model: skill-herb, system: { masteryLevelBase: 47 } }
+    - { model: skill-trak, name: Sheep (Tracking), system: { masteryLevelBase: 90 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-Stf }
+    - { model: weapongear-Kni }
+    - { model: weapongear-Slng }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-LCap }
+    - { model: armorgear-LTunic }
+    - { model: armorgear-LLeg }
+    - { model: miscgear-pence, system: { quantity: 12 } }
     - { name: Peoni, type: affiliation, system: { shortcode: peoni, subType: divine } }
     - name: Peoni
       type: skill
@@ -773,4 +773,4 @@ Elusive Shadow. While walking through town, the PCs get the eerie feeling they a
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

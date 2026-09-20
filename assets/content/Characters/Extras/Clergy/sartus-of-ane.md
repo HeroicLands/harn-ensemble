@@ -36,6 +36,7 @@ data:
     complexion: attractive
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 18
     sta: 8
@@ -140,70 +141,70 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 66 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: dge, type: skill }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language, Serf", system: { masteryLevelBase: 64 } }
-    - { shortcode: script, type: skill, name: Script(Runic), system: { masteryLevelBase: 83 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: runecft, type: mysticalability, system: { masteryLevelBase: 42 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: pence, type: miscgear, system: { quantity: 719 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: CShoe, type: armorgear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: Kni, type: weapongear }
+    - { model: attribute-str, system: { scoreBase: 18 } }
+    - { model: attribute-end, system: { scoreBase: 8 } }
+    - { model: attribute-dex, system: { scoreBase: 6 } }
+    - { model: attribute-agl, system: { scoreBase: 8 } }
+    - { model: attribute-per, system: { scoreBase: 9 } }
+    - { model: attribute-snt, system: { scoreBase: 7 } }
+    - { model: attribute-cml, system: { scoreBase: 13 } }
+    - { model: attribute-aur, system: { scoreBase: 11 } }
+    - { model: attribute-wil, system: { scoreBase: 13 } }
+    - { model: attribute-rea, system: { scoreBase: 14 } }
+    - { model: attribute-cre, system: { scoreBase: 17 } }
+    - { model: attribute-emp, system: { scoreBase: 12 } }
+    - { model: attribute-elo, system: { scoreBase: 14 } }
+    - { model: attribute-mor, system: { scoreBase: 8 } }
+    - { model: attribute-voi, system: { scoreBase: 13 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 40 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 40 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 26 } }
+    - { model: skill-folklr, system: { masteryLevelBase: 45 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 66 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 52 } }
+    - { model: skill-jump, system: { masteryLevelBase: 44 } }
+    - { model: skill-melee, system: { masteryLevelBase: 49 } }
+    - { model: skill-dge }
+    - { model: skill-pysn, system: { masteryLevelBase: 26 } }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 44 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 44 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 65 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language, Serf", system: { masteryLevelBase: 64 } }
+    - { model: skill-script, name: Script(Runic), system: { masteryLevelBase: 83 } }
+    - { model: skill-embl, system: { masteryLevelBase: 27 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 60 } }
+    - { model: skill-law, system: { masteryLevelBase: 56 } }
+    - { model: mysticalability-runecft, system: { masteryLevelBase: 42 } }
+    - { model: skill-smsh, system: { masteryLevelBase: 30 } }
+    - { model: miscgear-pence, system: { quantity: 719 } }
+    - { model: containergear-pouchbuckram }
+    - { model: armorgear-LLeg }
+    - { model: armorgear-CShoe }
+    - { model: armorgear-LTunic }
+    - { model: weapongear-Dgr }
+    - { model: weapongear-Kni }
     - { name: Sarajin, type: affiliation, system: { shortcode: sarajin, subType: divine } }
     - name: Sarajin
       type: skill

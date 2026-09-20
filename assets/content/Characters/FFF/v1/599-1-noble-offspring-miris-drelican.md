@@ -39,6 +39,7 @@ data:
       - Expensive
       - foppish clothes
 hm3:
+  type: character
   attributes:
     str: 7
     sta: 15
@@ -141,66 +142,66 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 71 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 18 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 86 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 71 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 43 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 83 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 74 } }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 84 } }
-    - { shortcode: script, type: skill, name: "Script: Lakise", system: { masteryLevelBase: 84 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 18 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 19 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 18 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 77 } }
+    - { model: attribute-str, system: { scoreBase: 7 } }
+    - { model: attribute-end, system: { scoreBase: 15 } }
+    - { model: attribute-dex, system: { scoreBase: 17 } }
+    - { model: attribute-agl, system: { scoreBase: 18 } }
+    - { model: attribute-per, system: { scoreBase: 12 } }
+    - { model: attribute-snt, system: { scoreBase: 10 } }
+    - { model: attribute-cml, system: { scoreBase: 17 } }
+    - { model: attribute-aur, system: { scoreBase: 8 } }
+    - { model: attribute-wil, system: { scoreBase: 16 } }
+    - { model: attribute-rea, system: { scoreBase: 12 } }
+    - { model: attribute-cre, system: { scoreBase: 17 } }
+    - { model: attribute-emp, system: { scoreBase: 12 } }
+    - { model: attribute-elo, system: { scoreBase: 16 } }
+    - { model: attribute-mor, system: { scoreBase: 11 } }
+    - { model: attribute-voi, system: { scoreBase: 15 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 51 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 75 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce, system: { masteryLevelBase: 60 } }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 71 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 18 } }
+    - { model: skill-jump, system: { masteryLevelBase: 86 } }
+    - { model: skill-melee, system: { masteryLevelBase: 24 } }
+    - { model: skill-dge, system: { masteryLevelBase: 90 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 16 } }
+    - { model: skill-ridg, system: { masteryLevelBase: 71 } }
+    - { model: skill-sing, system: { masteryLevelBase: 43 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 83 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 27 } }
+    - { model: skill-spirit }
+    - { model: skill-swim, system: { masteryLevelBase: 74 } }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 54 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-acro, system: { masteryLevelBase: 85 } }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 84 } }
+    - { model: skill-script, name: "Script: Lakise", system: { masteryLevelBase: 84 } }
+    - { model: skill-agri, system: { masteryLevelBase: 18 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 19 } }
+    - { model: skill-law, system: { masteryLevelBase: 15 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 18 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-Dgr }
+    - { model: miscgear-pence, system: { quantity: 77 } }
     - { name: Larani, type: affiliation, system: { shortcode: larani, subType: divine } }
     - name: Larani
       type: skill
@@ -719,4 +720,4 @@ Mouse. Miris has an insatiable curiosity, incredible climbing skills and the abi
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

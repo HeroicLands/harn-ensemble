@@ -37,6 +37,7 @@ data:
     complexion: average
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 13
     sta: 12
@@ -198,79 +199,77 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 58 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill, name: Baking (Cookery), system: { masteryLevelBase: 94 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 59 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 73 } }
-    - { shortcode: script, type: skill, name: "Script: Lakise", system: { masteryLevelBase: 84 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 79 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 46 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 46 } }
-    - shortcode: anmcft
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 13 } }
+    - { model: attribute-end, system: { scoreBase: 12 } }
+    - { model: attribute-dex, system: { scoreBase: 14 } }
+    - { model: attribute-agl, system: { scoreBase: 12 } }
+    - { model: attribute-per, system: { scoreBase: 17 } }
+    - { model: attribute-snt, system: { scoreBase: 17 } }
+    - { model: attribute-cml, system: { scoreBase: 12 } }
+    - { model: attribute-aur, system: { scoreBase: 16 } }
+    - { model: attribute-wil, system: { scoreBase: 12 } }
+    - { model: attribute-rea, system: { scoreBase: 12 } }
+    - { model: attribute-cre, system: { scoreBase: 14 } }
+    - { model: attribute-emp, system: { scoreBase: 13 } }
+    - { model: attribute-elo, system: { scoreBase: 14 } }
+    - { model: attribute-mor, system: { scoreBase: 14 } }
+    - { model: attribute-voi, system: { scoreBase: 15 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 58 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 50 } }
+    - { model: skill-cmd }
+    - { model: skill-cook, name: Baking (Cookery), system: { masteryLevelBase: 94 } }
+    - { model: skill-dnce, system: { masteryLevelBase: 44 } }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr, system: { masteryLevelBase: 56 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 51 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 72 } }
+    - { model: skill-jump, system: { masteryLevelBase: 50 } }
+    - { model: skill-melee, system: { masteryLevelBase: 62 } }
+    - { model: skill-dge, system: { masteryLevelBase: 60 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 36 } }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 44 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 59 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 73 } }
+    - { model: skill-script, name: "Script: Lakise", system: { masteryLevelBase: 84 } }
+    - { model: skill-agri, system: { masteryLevelBase: 54 } }
+    - { model: skill-brew, system: { masteryLevelBase: 79 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 46 } }
+    - { model: skill-herb, system: { masteryLevelBase: 46 } }
+    - model: skill-anmcft
       name: Horsecraft (Animalcraft)
       system:
         masteryLevelBase: 40
-    - shortcode: txtl
-      type: skill
+    - model: skill-txtl
       name: Needlework (Textilecraft)
       system:
         masteryLevelBase: 62
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: Kni, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: LDress, type: armorgear }
-    - { shortcode: LtApn, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 117 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-Kni }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-LDress }
+    - { model: armorgear-LtApn }
+    - { model: armorgear-LtShoe }
+    - { model: miscgear-pence, system: { quantity: 117 } }
     - { name: Larani, type: affiliation, system: { shortcode: larani, subType: divine } }
     - name: Larani
       type: skill
@@ -771,7 +770,7 @@ sohl:
 **Armor**: Good quality cloth dress, leather apron and shoes, and knife. Add cleaver if she is working in the kitchen.
 **Other Equipment**: Belt pouch
 **Valuables**: 117d in silver in a money pouch
-**Notes**: See the Caldeth Townhouse article, available at www.Lythia.com Downloads/Places, for more information on the townhouse and staff.
+**Notes**: See the Caldeth Townhouse article, available at <www.Lythia.com> Downloads/Places, for more information on the townhouse and staff.
 
 ## Biography
 
@@ -793,4 +792,4 @@ Customer. The representative of an important household, Ortilla is responsible f
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

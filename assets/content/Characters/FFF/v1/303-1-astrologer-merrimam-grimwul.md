@@ -39,6 +39,7 @@ data:
       - Beard
       - moustache
 hm3:
+  type: character
   attributes:
     str: 10
     sta: 12
@@ -239,76 +240,75 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 68 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 41 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 66 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 68 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 43 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 57 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: pysn, type: skill }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 43 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: srvl, type: skill }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 58 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Sindarin", system: { masteryLevelBase: 17 } }
-    - { shortcode: script, type: skill, name: "Script: Tianta", system: { masteryLevelBase: 34 } }
-    - shortcode: astr
-      type: mysticalability
+    - { model: attribute-str, system: { scoreBase: 10 } }
+    - { model: attribute-end, system: { scoreBase: 12 } }
+    - { model: attribute-dex, system: { scoreBase: 11 } }
+    - { model: attribute-agl, system: { scoreBase: 10 } }
+    - { model: attribute-per, system: { scoreBase: 15 } }
+    - { model: attribute-snt, system: { scoreBase: 11 } }
+    - { model: attribute-cml, system: { scoreBase: 13 } }
+    - { model: attribute-aur, system: { scoreBase: 17 } }
+    - { model: attribute-wil, system: { scoreBase: 12 } }
+    - { model: attribute-rea, system: { scoreBase: 16 } }
+    - { model: attribute-cre, system: { scoreBase: 18 } }
+    - { model: attribute-emp, system: { scoreBase: 12 } }
+    - { model: attribute-elo, system: { scoreBase: 12 } }
+    - { model: attribute-mor, system: { scoreBase: 12 } }
+    - { model: attribute-voi, system: { scoreBase: 13 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 68 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 41 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 66 } }
+    - { model: skill-folklr, system: { masteryLevelBase: 68 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 49 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 90 } }
+    - { model: skill-jump, system: { masteryLevelBase: 43 } }
+    - { model: skill-melee, system: { masteryLevelBase: 57 } }
+    - { model: skill-dge, system: { masteryLevelBase: 50 } }
+    - { model: skill-pysn }
+    - { model: skill-ridg, system: { masteryLevelBase: 43 } }
+    - { model: skill-sing, system: { masteryLevelBase: 40 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 44 } }
+    - { model: skill-srvl }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 58 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Sindarin", system: { masteryLevelBase: 17 } }
+    - { model: skill-script, name: "Script: Tianta", system: { masteryLevelBase: 34 } }
+    - model: mysticalability-astr
       name: Astronomy (Astrology)
       system:
         masteryLevelBase: 92
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 38 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 74 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: VTunic, type: armorgear }
-    - { shortcode: VVest, type: armorgear }
-    - { shortcode: VLeg, type: armorgear }
-    - { shortcode: VCap, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 144 } }
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 5 } }
+    - { model: skill-law, system: { masteryLevelBase: 38 } }
+    - { model: skill-math, system: { masteryLevelBase: 55 } }
+    - { model: mysticalability-tarot, system: { masteryLevelBase: 74 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-Dgr }
+    - { model: armorgear-VTunic }
+    - { model: armorgear-VVest }
+    - { model: armorgear-VLeg }
+    - { model: armorgear-VCap }
+    - { model: armorgear-LtShoe }
+    - { model: containergear-beltpouchl3 }
+    - { model: miscgear-pence, system: { quantity: 144 } }
+    - { model: miscgear-gldcrwn, system: { quantity: 5 } }
     - { name: Save-K'nor, type: affiliation, system: { shortcode: saveknor, subType: divine } }
     - name: Save K'nor
       type: skill
@@ -831,4 +831,4 @@ Can I Tell Your Fortune? Merrimam has noticed one of the PCs' high aura and offe
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

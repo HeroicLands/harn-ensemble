@@ -39,6 +39,7 @@ data:
       - Heavily scarred face
       - bear claw totem necklace
 hm3:
+  type: character
   attributes:
     str: 11
     sta: 12
@@ -201,4 +202,4 @@ A Friend in Need is a Friend Indeed. The PCs come across a wolf in a trap. Taatu
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (https://www.lythia.com/game_aides/fff-gargu/), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (<https://www.lythia.com/game_aides/fff-gargu/>), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

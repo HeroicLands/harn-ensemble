@@ -41,6 +41,7 @@ data:
     extra_features:
       - Scars
 hm3:
+  type: character
   attributes:
     str: 13
     sta: 10
@@ -232,77 +233,77 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 107 } }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 88 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 69 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: musc, type: skill, name: Lute (Musician), system: { masteryLevelBase: 45 } }
-    - { shortcode: lang, type: skill, name: "Language: Ormauk", system: { masteryLevelBase: 18 } }
-    - { shortcode: script, type: skill, name: "Script: Runic", system: { masteryLevelBase: 85 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 38 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 58 } }
-    - { shortcode: lock, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 69 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: penquill, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: inkwellgla, type: containergear }
-    - { shortcode: RTunic, type: armorgear }
-    - { shortcode: RLeg, type: armorgear }
-    - { shortcode: VCap, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 96 } }
+    - { model: attribute-str, system: { scoreBase: 13 } }
+    - { model: attribute-end, system: { scoreBase: 10 } }
+    - { model: attribute-dex, system: { scoreBase: 11 } }
+    - { model: attribute-agl, system: { scoreBase: 14 } }
+    - { model: attribute-per, system: { scoreBase: 15 } }
+    - { model: attribute-snt, system: { scoreBase: 14 } }
+    - { model: attribute-cml, system: { scoreBase: 9 } }
+    - { model: attribute-aur, system: { scoreBase: 11 } }
+    - { model: attribute-wil, system: { scoreBase: 18 } }
+    - { model: attribute-rea, system: { scoreBase: 17 } }
+    - { model: attribute-cre, system: { scoreBase: 18 } }
+    - { model: attribute-emp, system: { scoreBase: 12 } }
+    - { model: attribute-elo, system: { scoreBase: 15 } }
+    - { model: attribute-mor, system: { scoreBase: 8 } }
+    - { model: attribute-voi, system: { scoreBase: 10 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 52 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 52 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 52 } }
+    - { model: skill-folklr, system: { masteryLevelBase: 107 } }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 88 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 69 } }
+    - { model: skill-jump, system: { masteryLevelBase: 56 } }
+    - { model: skill-melee, system: { masteryLevelBase: 56 } }
+    - { model: skill-dge, system: { masteryLevelBase: 80 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 32 } }
+    - { model: skill-ridg, system: { masteryLevelBase: 14 } }
+    - { model: skill-sing, system: { masteryLevelBase: 54 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 51 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 49 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 52 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-acro, system: { masteryLevelBase: 44 } }
+    - { model: skill-musc, name: Lute (Musician), system: { masteryLevelBase: 45 } }
+    - { model: skill-lang, name: "Language: Ormauk", system: { masteryLevelBase: 18 } }
+    - { model: skill-script, name: "Script: Runic", system: { masteryLevelBase: 85 } }
+    - { model: skill-embl, system: { masteryLevelBase: 34 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 38 } }
+    - { model: skill-law, system: { masteryLevelBase: 58 } }
+    - { model: skill-lock, system: { masteryLevelBase: 36 } }
+    - { model: skill-math, system: { masteryLevelBase: 69 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-Stf }
+    - { model: weapongear-Dgr }
+    - { model: containergear-beltpouchl3 }
+    - { model: miscgear-penquill, system: { quantity: 4 } }
+    - { model: containergear-inkwellgla }
+    - { model: armorgear-RTunic }
+    - { model: armorgear-RLeg }
+    - { model: armorgear-VCap }
+    - { model: armorgear-WClk }
+    - { model: armorgear-LtCBoot }
+    - { model: miscgear-pence, system: { quantity: 96 } }
     - { name: Save-K'nor, type: affiliation, system: { shortcode: saveknor, subType: divine } }
     - { name: Agrik, type: affiliation, system: { shortcode: agrik, subType: divine } }
     - { name: Morgath, type: affiliation, system: { shortcode: morgath, subType: divine } }
@@ -1003,4 +1004,4 @@ Move Along. The local lord has penetrated Rodolk's disguise. He has little love 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

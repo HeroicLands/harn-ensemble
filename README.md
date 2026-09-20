@@ -129,11 +129,11 @@ The module includes:
 
 # Copyright
 
-Characters marked as **FFFv1** are from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luschek and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby. The following copyright statement is from the "Friends, Foes, and Followers Volume 1", and applies to all of the works sourced from **FFFv1**.
+Characters marked as **FFFv1** are from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luschek and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby. The following copyright statement is from the "Friends, Foes, and Followers Volume 1", and applies to all of the works sourced from **FFFv1**.
 
 > A Hârn Writers’ Guild Book, 2020\
 > Self-published by Hârn Writers’ Guild.\
-> Available for download free at http://www.lythia.com/
+> Available for download free at <http://www.lythia.com/>
 >
 > This work, created by Kerry R. Mould et al, is a derivative work of copyrighted material published by Columbia Games Inc. and is released for free distribution and personal use by Kerry R. Mould without the permission or endorsement of N. Robin Crossby or Columbia Games Inc. No modification of said work may be made without the explicit written permission of the author, Kerry R. Mould. Hârn, HârnWorld and HârnMaster are trademarks of Columbia Games Inc. Use of these or other trademarks are not intended as a challenge of the status of said trademarks. All distribution must keep this copyright and trademark notice intact.
 >
@@ -142,7 +142,7 @@ Characters marked as **FFFv1** are from "Friends, Foes, and Followers, Vol. 1" o
 
 Kerry Mould gave written permission on 29 July 2021 to convert "Friends, Foes, and Followers V1" to Foundry VTT, and confirmed the result the following day. That is the "explicit written permission of the author" the notice above requires. It covers this derivative Foundry VTT embodiment of the data — rendered as faithfully as the game systems allow — and not modification or redistribution of the original document, which remains as published. A condition of that permission is that all contributors, and all of the art sponsors, are credited.
 
-The "FFF Gargun" are from "Friends, Foes, and Followers - Part 13" (https://www.lythia.com/game_aides/fff-gargu/) on Lythia.com, by Shawn Bond with artwork by Richard Luschek, and edited by Brent Bailey and Kerry Mould.
+The "FFF Gargun" are from "Friends, Foes, and Followers - Part 13" (<https://www.lythia.com/game_aides/fff-gargu/>) on Lythia.com, by Shawn Bond with artwork by Richard Luschek, and edited by Brent Bailey and Kerry Mould.
 
 All other characters are original content, copyright Tom Rodriguez (c) 2020-2026.
 
@@ -150,7 +150,7 @@ This module is "[Fanon](https://www.lythia.com/about/publishing-fan-written-mate
 
 # License
 
-Ensemble of Hârn NPCs is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+Ensemble of Hârn NPCs is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 # Sponsors
 

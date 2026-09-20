@@ -37,6 +37,7 @@ data:
     complexion: average
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 15
     sta: 10
@@ -182,75 +183,74 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: archery, type: skill, name: Shortbow (Bow), system: { masteryLevelBase: 66 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 69 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 89 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 61 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 69 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 25 } }
-    - { shortcode: ridg, type: skill, name: Mules (Riding), system: { masteryLevelBase: 68 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 47 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 63 } }
-    - shortcode: anmcft
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 15 } }
+    - { model: attribute-end, system: { scoreBase: 10 } }
+    - { model: attribute-dex, system: { scoreBase: 14 } }
+    - { model: attribute-agl, system: { scoreBase: 13 } }
+    - { model: attribute-per, system: { scoreBase: 12 } }
+    - { model: attribute-snt, system: { scoreBase: 12 } }
+    - { model: attribute-cml, system: { scoreBase: 11 } }
+    - { model: attribute-aur, system: { scoreBase: 12 } }
+    - { model: attribute-wil, system: { scoreBase: 15 } }
+    - { model: attribute-rea, system: { scoreBase: 12 } }
+    - { model: attribute-cre, system: { scoreBase: 13 } }
+    - { model: attribute-emp, system: { scoreBase: 15 } }
+    - { model: attribute-elo, system: { scoreBase: 14 } }
+    - { model: attribute-mor, system: { scoreBase: 16 } }
+    - { model: attribute-voi, system: { scoreBase: 13 } }
+    - { model: skill-archery, name: Shortbow (Bow), system: { masteryLevelBase: 66 } }
+    - { model: skill-awar, system: { masteryLevelBase: 54 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 69 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 89 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 49 } }
+    - { model: skill-jump, system: { masteryLevelBase: 61 } }
+    - { model: skill-melee, system: { masteryLevelBase: 69 } }
+    - { model: skill-dge, system: { masteryLevelBase: 65 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 25 } }
+    - { model: skill-ridg, name: Mules (Riding), system: { masteryLevelBase: 68 } }
+    - { model: skill-sing, system: { masteryLevelBase: 45 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 47 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 70 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 62 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 63 } }
+    - model: skill-anmcft
       name: Mulecraft (Animalcraft)
       system:
         masteryLevelBase: 74
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 37 } }
-    - { shortcode: mtlc, type: skill, name: Chains (Metalcraft), system: { masteryLevelBase: 44 } }
-    - { shortcode: trak, type: skill, name: Bears (Tracking), system: { masteryLevelBase: 74 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: Clb, type: weapongear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: LtVest, type: armorgear }
-    - { shortcode: LtCap, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: quiverlgsh, type: containergear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 39 } }
+    - { model: skill-hide, system: { masteryLevelBase: 37 } }
+    - { model: skill-mtlc, name: Chains (Metalcraft), system: { masteryLevelBase: 44 } }
+    - { model: skill-trak, name: Bears (Tracking), system: { masteryLevelBase: 74 } }
+    - { model: containergear-pouchbuckram }
+    - { model: weapongear-Clb }
+    - { model: armorgear-LTunic }
+    - { model: armorgear-LLeg }
+    - { model: armorgear-LtVest }
+    - { model: armorgear-LtCap }
+    - { model: armorgear-LtShoe }
+    - { model: containergear-quiverlgsh }
+    - { model: containergear-beltpouchl3 }
+    - { model: miscgear-pence, system: { quantity: 39 } }
     - { name: Peoni, type: affiliation, system: { shortcode: peoni, subType: divine } }
     - name: Peoni
       type: skill
@@ -769,4 +769,4 @@ Fierce Protector. The PCs see Riatha with Navehans and follow her back to her qu
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

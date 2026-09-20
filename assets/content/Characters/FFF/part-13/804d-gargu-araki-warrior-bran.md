@@ -36,6 +36,7 @@ data:
     complexion: shifty
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 10
     sta: 11
@@ -197,4 +198,4 @@ This Should Be Easy. The PCs are assaulting a gargun hive. They corner a little 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (https://www.lythia.com/game_aides/fff-gargu/), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (<https://www.lythia.com/game_aides/fff-gargu/>), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

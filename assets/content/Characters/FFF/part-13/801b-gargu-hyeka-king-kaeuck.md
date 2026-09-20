@@ -39,6 +39,7 @@ data:
       - Belt of human hands
       - human hair tassels
 hm3:
+  type: character
   attributes:
     str: 10
     sta: 14
@@ -193,4 +194,4 @@ A Pound of Flesh. The PCs are hired by a wealthy mercantyler who managed to surv
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (https://www.lythia.com/game_aides/fff-gargu/), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (<https://www.lythia.com/game_aides/fff-gargu/>), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

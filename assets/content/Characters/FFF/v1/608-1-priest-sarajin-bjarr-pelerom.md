@@ -40,6 +40,7 @@ data:
       - Moustache
       - beard
 hm3:
+  type: character
   attributes:
     str: 13
     sta: 15
@@ -220,80 +221,78 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 29 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 31 } }
-    - shortcode: folklr
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 13 } }
+    - { model: attribute-end, system: { scoreBase: 15 } }
+    - { model: attribute-dex, system: { scoreBase: 9 } }
+    - { model: attribute-agl, system: { scoreBase: 12 } }
+    - { model: attribute-per, system: { scoreBase: 13 } }
+    - { model: attribute-snt, system: { scoreBase: 10 } }
+    - { model: attribute-cml, system: { scoreBase: 14 } }
+    - { model: attribute-aur, system: { scoreBase: 18 } }
+    - { model: attribute-wil, system: { scoreBase: 15 } }
+    - { model: attribute-rea, system: { scoreBase: 14 } }
+    - { model: attribute-cre, system: { scoreBase: 18 } }
+    - { model: attribute-emp, system: { scoreBase: 15 } }
+    - { model: attribute-elo, system: { scoreBase: 18 } }
+    - { model: attribute-mor, system: { scoreBase: 13 } }
+    - { model: attribute-voi, system: { scoreBase: 15 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 52 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 29 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw, system: { masteryLevelBase: 31 } }
+    - model: skill-folklr
       name: "Folklore: Ivinian"
       system:
         masteryLevelBase: 50
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 78 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 49 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 67 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 46 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 38 } }
-    - { shortcode: script, type: skill, name: "Script: Runic", system: { masteryLevelBase: 83 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 29 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 31 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 34 } }
-    - shortcode: runecft
-      type: mysticalability
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 90 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 78 } }
+    - { model: skill-jump, system: { masteryLevelBase: 49 } }
+    - { model: skill-melee, system: { masteryLevelBase: 60 } }
+    - { model: skill-dge, system: { masteryLevelBase: 67 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 32 } }
+    - { model: skill-ridg, system: { masteryLevelBase: 40 } }
+    - { model: skill-sing, system: { masteryLevelBase: 46 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 48 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 52 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 48 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 38 } }
+    - { model: skill-script, name: "Script: Runic", system: { masteryLevelBase: 83 } }
+    - { model: skill-embl, system: { masteryLevelBase: 29 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 31 } }
+    - { model: skill-law, system: { masteryLevelBase: 42 } }
+    - { model: skill-pilt, system: { masteryLevelBase: 34 } }
+    - model: mysticalability-runecft
       name: Runelore (Runecraft)
       system:
         masteryLevelBase: 63
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 25 } }
-    - { shortcode: HAxe, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: WTunic, type: armorgear }
-    - { shortcode: WLeg, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 116 } }
+    - { model: skill-smsh, system: { masteryLevelBase: 36 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 25 } }
+    - { model: weapongear-HAxe }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-WTunic }
+    - { model: armorgear-WLeg }
+    - { model: armorgear-WClk }
+    - { model: armorgear-LtKBoot }
+    - { model: miscgear-pence, system: { quantity: 116 } }
     - { name: Sarajin, type: affiliation, system: { shortcode: sarajin, subType: divine } }
     - name: Sarajin
       type: skill
@@ -864,7 +863,7 @@ sohl:
 **Armor**: Wool tunic and leggings, Wool cloak embroidered with runes, leather knee boots, handaxe and keltan.
 **Other Equipment**: Belt pouch
 **Valuables**: 116d in silver
-**Notes**: For information on Runemasters see the article by Aaron Kavli http://www.lythia.com/harnworld/runemasters-ivinia/
+**Notes**: For information on Runemasters see the article by Aaron Kavli <http://www.lythia.com/harnworld/runemasters-ivinia/>
 
 ## Biography
 
@@ -888,4 +887,4 @@ Guide. The PCs are travelling to Orbaal and need a guide/translator. Bjarr offer
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

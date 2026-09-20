@@ -39,6 +39,7 @@ data:
       - Hay fever
       - Missing his front tooth
 hm3:
+  type: character
   attributes:
     str: 12
     sta: 16
@@ -194,78 +195,77 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 68 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 86 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 47 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 59 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 66 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: ridg, type: skill }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 47 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 53 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - shortcode: lgdm
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 12 } }
+    - { model: attribute-end, system: { scoreBase: 16 } }
+    - { model: attribute-dex, system: { scoreBase: 14 } }
+    - { model: attribute-agl, system: { scoreBase: 13 } }
+    - { model: attribute-per, system: { scoreBase: 14 } }
+    - { model: attribute-snt, system: { scoreBase: 17 } }
+    - { model: attribute-cml, system: { scoreBase: 11 } }
+    - { model: attribute-aur, system: { scoreBase: 16 } }
+    - { model: attribute-wil, system: { scoreBase: 11 } }
+    - { model: attribute-rea, system: { scoreBase: 15 } }
+    - { model: attribute-cre, system: { scoreBase: 15 } }
+    - { model: attribute-emp, system: { scoreBase: 11 } }
+    - { model: attribute-elo, system: { scoreBase: 11 } }
+    - { model: attribute-mor, system: { scoreBase: 11 } }
+    - { model: attribute-voi, system: { scoreBase: 12 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 68 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 60 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 86 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 47 } }
+    - { model: skill-jump, system: { masteryLevelBase: 59 } }
+    - { model: skill-melee, system: { masteryLevelBase: 70 } }
+    - { model: skill-dge, system: { masteryLevelBase: 66 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 32 } }
+    - { model: skill-ridg }
+    - { model: skill-sing, system: { masteryLevelBase: 40 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 47 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 62 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 53 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - model: skill-lgdm
       name: Dice Games (Legerdemain)
       system:
         masteryLevelBase: 66
-    - { shortcode: lang, type: skill, name: "Language: Harnic", system: { masteryLevelBase: 63 } }
-    - { shortcode: agri, type: skill, name: Cows (Agriculture), system: { masteryLevelBase: 60 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: pouchbuckram, type: containergear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: GTnc, type: armorgear }
-    - { shortcode: PlHHelm, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: Falcn, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: HAxe, type: weapongear }
-    - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 87 } }
+    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 63 } }
+    - { model: skill-agri, name: Cows (Agriculture), system: { masteryLevelBase: 60 } }
+    - { model: skill-hrld, system: { masteryLevelBase: 24 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 27 } }
+    - { model: containergear-pouchbuckram }
+    - { model: armorgear-LTunic }
+    - { model: armorgear-LLeg }
+    - { model: armorgear-GTnc }
+    - { model: armorgear-PlHHelm }
+    - { model: armorgear-LtCBoot }
+    - { model: containergear-beltpouchl3 }
+    - { model: weapongear-Falcn }
+    - { model: weapongear-Dgr }
+    - { model: weapongear-HAxe }
+    - { model: weapongear-Spr, system: { quantity: 0 } }
+    - { model: weapongear-RndSh }
+    - { model: miscgear-pence, system: { quantity: 87 } }
     - { name: Larani, type: affiliation, system: { shortcode: larani, subType: divine } }
     - name: Larani
       type: skill
@@ -786,4 +786,4 @@ Unemployed. Andel caught Kernt gambling (again), and has dismissed him from his 
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

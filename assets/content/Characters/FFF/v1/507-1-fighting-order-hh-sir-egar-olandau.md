@@ -38,6 +38,7 @@ data:
     extra_features:
       - Scars
 hm3:
+  type: character
   attributes:
     str: 15
     sta: 12
@@ -217,81 +218,80 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 4 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: archery, type: skill }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 47 } }
-    - { shortcode: chrm, type: skill }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 69 } }
-    - { shortcode: cmd, type: skill }
-    - { shortcode: cook, type: skill }
-    - { shortcode: dnce, type: skill }
-    - { shortcode: dscr, type: skill }
-    - { shortcode: draw, type: skill }
-    - { shortcode: folklr, type: skill }
-    - { shortcode: guil, type: skill }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 98 } }
-    - { shortcode: shok, type: skill }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 68 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 84 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 98 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 37 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: spirit, type: skill }
-    - { shortcode: swim, type: skill }
-    - { shortcode: thtcs, type: skill }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 61 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
-    - { shortcode: sprt, type: mysticalability }
-    - { shortcode: lang, type: skill, name: "Language: Surikal", system: { masteryLevelBase: 48 } }
-    - { shortcode: script, type: skill, name: "Script: Zerin", system: { masteryLevelBase: 84 } }
-    - { shortcode: hrld, type: skill, name: "Heraldry: Rethem", system: { masteryLevelBase: 42 } }
-    - shortcode: anmcft
-      type: skill
+    - { model: attribute-str, system: { scoreBase: 15 } }
+    - { model: attribute-end, system: { scoreBase: 12 } }
+    - { model: attribute-dex, system: { scoreBase: 15 } }
+    - { model: attribute-agl, system: { scoreBase: 15 } }
+    - { model: attribute-per, system: { scoreBase: 9 } }
+    - { model: attribute-snt, system: { scoreBase: 10 } }
+    - { model: attribute-cml, system: { scoreBase: 9 } }
+    - { model: attribute-aur, system: { scoreBase: 9 } }
+    - { model: attribute-wil, system: { scoreBase: 14 } }
+    - { model: attribute-rea, system: { scoreBase: 14 } }
+    - { model: attribute-cre, system: { scoreBase: 4 } }
+    - { model: attribute-emp, system: { scoreBase: 10 } }
+    - { model: attribute-elo, system: { scoreBase: 10 } }
+    - { model: attribute-mor, system: { scoreBase: 8 } }
+    - { model: attribute-voi, system: { scoreBase: 8 } }
+    - { model: skill-archery }
+    - { model: skill-awar, system: { masteryLevelBase: 47 } }
+    - { model: skill-chrm }
+    - { model: skill-clmb, system: { masteryLevelBase: 69 } }
+    - { model: skill-cmd }
+    - { model: skill-cook }
+    - { model: skill-dnce }
+    - { model: skill-dscr }
+    - { model: skill-draw }
+    - { model: skill-folklr }
+    - { model: skill-guil }
+    - { model: skill-init, system: { masteryLevelBase: 98 } }
+    - { model: skill-shok }
+    - { model: skill-intr, system: { masteryLevelBase: 48 } }
+    - { model: skill-jump, system: { masteryLevelBase: 68 } }
+    - { model: skill-melee, system: { masteryLevelBase: 84 } }
+    - { model: skill-dge, system: { masteryLevelBase: 75 } }
+    - { model: skill-pysn, system: { masteryLevelBase: 42 } }
+    - { model: skill-ridg, system: { masteryLevelBase: 98 } }
+    - { model: skill-sing, system: { masteryLevelBase: 39 } }
+    - { model: skill-stlth, system: { masteryLevelBase: 37 } }
+    - { model: skill-srvl, system: { masteryLevelBase: 75 } }
+    - { model: skill-spirit }
+    - { model: skill-swim }
+    - { model: skill-thtcs }
+    - { model: skill-thro, system: { masteryLevelBase: 61 } }
+    - { model: skill-bflkbite }
+    - { model: skill-bflkgrab }
+    - { model: skill-bflkheadbutt }
+    - { model: skill-bflkkick }
+    - { model: skill-limbblock }
+    - { model: skill-press }
+    - { model: skill-bflkpunch }
+    - { model: skill-trip }
+    - { model: mysticalability-sprt }
+    - { model: skill-lang, name: "Language: Surikal", system: { masteryLevelBase: 48 } }
+    - { model: skill-script, name: "Script: Zerin", system: { masteryLevelBase: 84 } }
+    - { model: skill-hrld, name: "Heraldry: Rethem", system: { masteryLevelBase: 42 } }
+    - model: skill-anmcft
       name: Horsecraft (Animalcraft)
       system:
         masteryLevelBase: 36
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: KnSh, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: BstdSwd, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: QCwl, type: armorgear }
-    - { shortcode: GTnc, type: armorgear }
-    - { shortcode: MCwl, type: armorgear }
-    - { shortcode: MHbk, type: armorgear }
-    - { shortcode: Pl34Hlm, type: armorgear }
-    - { shortcode: LtTrsr, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: RMtn, type: armorgear }
-    - { shortcode: CScoat, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 76 } }
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
+    - { model: skill-law, system: { masteryLevelBase: 36 } }
+    - { model: skill-wpnc, system: { masteryLevelBase: 45 } }
+    - { model: weapongear-KnSh }
+    - { model: weapongear-Dgr }
+    - { model: weapongear-BstdSwd }
+    - { model: containergear-beltpouchl3 }
+    - { model: armorgear-QCwl }
+    - { model: armorgear-GTnc }
+    - { model: armorgear-MCwl }
+    - { model: armorgear-MHbk }
+    - { model: armorgear-Pl34Hlm }
+    - { model: armorgear-LtTrsr }
+    - { model: armorgear-LtKBoot }
+    - { model: armorgear-RMtn }
+    - { model: armorgear-CScoat }
+    - { model: miscgear-pence, system: { quantity: 76 } }
+    - { model: miscgear-gldcrwn, system: { quantity: 2 } }
     - { name: Agrik, type: affiliation, system: { shortcode: agrik, subType: divine } }
     - name: Agrik
       type: skill
@@ -891,4 +891,4 @@ Preaching: Sir Egar is preaching Agrikan dogma, trying to inspire his men and/or
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (<https://www.lythia.com/game_aides/friends-foes-followers-volume-1/>), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.

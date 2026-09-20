@@ -34,6 +34,7 @@ data:
     complexion: ugly
     extra_features: []
 hm3:
+  type: character
   attributes:
     str: 38
     sta: 32
@@ -198,4 +199,4 @@ Mabresen's Monster. A child-sized figure concealed head to toe in robes approach
 
 ## Credits
 
-This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (https://www.lythia.com/game_aides/fff-gargu/), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This character is taken from "Friends, Foes, and Followers, Part 13" on Lythia.com (<https://www.lythia.com/game_aides/fff-gargu/>), by Shawn Bond, with illustrations by Richard Luscheck, and is "fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
