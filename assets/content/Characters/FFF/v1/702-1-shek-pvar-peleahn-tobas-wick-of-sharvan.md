@@ -148,17 +148,7 @@ hm3:
       data:
         icon: sohl-none-icon-pentacle
       system:
-        skillBase.value: 16
         masteryLevel: 90
-        skillBase:
-          value: 16
-    - name: Arcane Discipline
-      type: skill
-      data:
-        icon: sohl-none-icon-pentacle
-      system:
-        skillBase.value: 16
-        masteryLevel: 65
         skillBase:
           value: 16
     - { shortcode: cookery, type: skill, system: { masteryLevel: 63, skillBase: { value: 14 } } }
