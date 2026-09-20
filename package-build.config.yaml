@@ -1,6 +1,3 @@
-# See `@heroiclands/package-build` for the full documentation.
-#
-
 contentPackage: harnensemble
 packageKind: modules
 
@@ -11,9 +8,8 @@ compatibility:
     minimum: "14.359"
     verified: "14.367"
 
-# The two systems the packs below stamp against — declaration only, not a
-# restriction; this module ships no `requiresSystem`, so a world loads
-# whichever pack matches the system it runs.
+# This module ships no `requiresSystem`, so a world loads whichever of these
+# packs matches the system it runs.
 systems:
     hm3:
         manifest: https://github.com/HeroicLands/HarnMaster-3-FoundryVTT/releases/download/v1.6.3/system.json
@@ -24,19 +20,17 @@ systems:
         compatibility:
             verified: "0.8.5"
 
-# A being's `{ model: skill-init }` embeds resolve against `sohl`'s own Item
-# catalog. This extracts that release's Item packs as a resolution source,
-# pinned to `verified` below. `npm run build:deps` fetches them; a cold cache
-# fails naming that command rather than reaching the network itself.
+# `sohl`'s `{ model: skill-init }` embeds on a being resolve against its own
+# Item catalog, so `itemCatalog: true` extracts that release's packs as a
+# resolution source, pinned to the `verified` version below.
 #
-# HM3 embeds the same way (`{ shortcode: init, type: skill }`) but has no
-# matching relationship here: every published HarnMaster-3-FoundryVTT release,
-# including the current `v1.6.3`, predates `flags.metadataUrl` (needs a release
-# built with package-build 18 or later), so `deps fetch` cannot cache its
-# content index — and `deps fetch` fetches every declared relationship's index
-# unconditionally, so declaring the relationship anyway would fail the fetch
-# for `sohl` too. The `actors-hm3` pack does not compile until a compatible
-# HM3 release exists.
+# HM3 embeds items the same way but declares no matching relationship here:
+# every published HarnMaster-3-FoundryVTT release predates `flags.metadataUrl`
+# (needs a release built with package-build 18 or later), so its content index
+# cannot be cached, and `deps fetch` fetches every declared relationship's
+# index unconditionally — so declaring it anyway would fail the fetch for
+# `sohl` too. The `actors-hm3` pack does not compile until a compatible HM3
+# release exists.
 relationships:
     systems:
         - id: sohl
@@ -48,15 +42,12 @@ relationships:
 
 itemBuilders: [sohl, hm3]
 
-# A being's `{#appearance}` and `{#dossier}` prose renders onto its Actor and
-# compiles into a JournalEntry of its own — every doc-carrying note does, since
-# the journal is the note's own prose rather than something a note must opt
-# into. `journals` holds one, undivided by system, since a JournalEntry is not
-# a system-specific document.
+# `journals` is undivided by system: a being's `{#appearance}` and `{#dossier}`
+# prose compiles into a JournalEntry, which is not a system-specific document.
 #
-# `items-sohl` holds the one document class this package's `affiliation` notes
-# compile to under `sohl`: no system maps `affiliation` to an Actor or a
-# JournalEntry, so an Item pack is the whole of what they need.
+# `items-sohl` is the only document class `affiliation` notes compile to
+# under `sohl`, since no system maps `affiliation` to an Actor or a
+# JournalEntry.
 packs:
     - name: actors-hm3
       label: Actors
@@ -75,58 +66,24 @@ packs:
       type: JournalEntry
       default: true
 
-# `site` is a mode, not a switch: every package publishes an authored homepage at
-# https://www.heroiclands.org/<contentPackage>/ — here /harnensemble/, an address
-# that derives from `contentPackage` above and not from the repository name — and
-# the mode says how much *else* is published. `homepage` publishes that one page
-# and nothing beneath it; `content` publishes every page the content tree
-# compiles to.
-#
-# `content`, because this tree is worth reading outside Foundry. A note here is
-# an NPC and its properties — a name, an occupation, the numbers a GM reads off
-# at the table — and a roster of two and a half thousand of those is a reference:
-# as useful on the web, and as the release PDF (#53), as it is in a compendium.
-# The mode is also the switch the PDF is fenced behind
-# (HeroicLands/package-build#316), so publishing the pages and publishing the
-# document is one decision rather than two that could come to disagree.
-#
-# Publishing pages creates no dependency edge, which is the question the retired
-# `publish.manifests` key used to answer. A link manifest was that edge — it let
-# other packages cite these addresses and made the module something the project
-# had to keep. Since package-build 19 there is no manifest to emit and the edge
-# is simply the absence of a dependency declaration; a reader follows a URL, a
-# build does not.
+# `content`: a note here is an NPC and its properties, and a roster of them
+# is a reference worth reading outside Foundry — on the web and in the
+# release PDF, not only in a compendium.
 publish:
     site: content
 
-# How this repository frames what it publishes. `publish.address` is absent, so
-# the prefix is its default `""` — this package's content *is* its site, so the
-# tree mounts at the package root and a page publishes at
-# /harnensemble/<type>-<shortcode>/.
 site:
-    # The host every package's imagery is served from — a being's portrait and
-    # every other package-owned picture resolve against it.
     assets: https://cdn.heroiclands.org
 
-    # Site's <meta name="description">
     description: Over a thousand ready-made NPCs for you to use in your games in the Hârn setting.
 
-    # Every section this package publishes, so /harnensemble/<section>/ answers
-    # with a titled page rather than a directory listing. A section is a note's
-    # own `type` (`sectionOf`), not a directory name, and a page is written into
-    # that section's directory — so a declared section's landing lists its own
-    # pages and needs nothing else said about it. A section left undeclared here
-    # still gets a bare landing, but with no title.
-    #
-    # Two sections, because the tree publishes two types: 2,512 `being` notes and
-    # 5 `affiliation`. The 17 `folder` notes are structure for the compendium,
-    # not pages, and address nothing on the web.
+    # Two sections, because the tree publishes two types: `being` and
+    # `affiliation`. `folder` notes are structure for the compendium, not
+    # pages, and address nothing on the web.
     sections:
         affiliation: { title: Affiliations }
         being: { title: Characters }
 
-    # The "page not found" page. Its template is the theme's, since every
-    # consumer needs one; the wording and the routes back are ours.
     notfound:
         tagline: This site has no page at
         sitenoun: site
@@ -135,9 +92,8 @@ site:
               url: /
               text: What the module is, and how to install it.
 
-    # `markup.highlight.style` is genuinely this repository's own choice — the
-    # generator does not write it, unlike `markup.goldmark.renderer.unsafe`,
-    # which it fixes for every site.
+    # `markup.highlight.style` is this repository's own choice — the generator
+    # fixes `markup.goldmark.renderer.unsafe` for every site, but not this key.
     hugo:
         markup:
             highlight:
@@ -150,7 +106,6 @@ packageBuild:
         - { from: README.md, to: README.md }
 
     manifest:
-        # Foundry package browser listing
         descriptionHtml: Over a thousand ready-made NPCs for you to use in your games in the Hârn setting.
         title: Ensemble of Hârn NPCs
         authors:
