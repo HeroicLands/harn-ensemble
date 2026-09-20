@@ -14,10 +14,10 @@ whichever of the two it runs.
   the actor, and the affiliations of Friends, Foes and Followers ship as Song
   of Heroic Lands items.
 - Everything sits inside one Hârn Ensemble folder; each compendium files its
-  NPCs under Extras and Friends, Foes and Followers. Extras holds Clergy,
-  Guards, Guilded, Mages, Nobles, Serfs, Thraals and Slaves, and Unguilded;
-  Friends, Foes and Followers holds Barbarians, Clergy, Guilded, Mages,
-  Military, Nobles, Non-Humans and Unguilded.
+  NPCs under Extras and Friends, Foes and Followers.
+- Extras holds Clergy, Guards, Guilded, Mages, Nobles, Serfs, Thraals and
+  Slaves, and Unguilded; Friends, Foes and Followers holds Barbarians,
+  Clergy, Guilded, Mages, Military, Nobles, Non-Humans and Unguilded.
 - An NPC opened under HârnMaster 3 shows its sunsign and its movement rate
   on the sheet.
 
@@ -26,5 +26,6 @@ whichever of the two it runs.
 - The module's page is at
   [www.heroiclands.org/harnensemble/](https://www.heroiclands.org/harnensemble/)
   — what it is, the manifest URL to paste into Foundry, and the two systems
-  it serves. Every NPC and every affiliation has its own page there, and the
-  header carries the same navigation as the rest of heroiclands.org.
+  it serves.
+- Every NPC and every affiliation has its own page there, and the header
+  carries the same navigation as the rest of heroiclands.org.
