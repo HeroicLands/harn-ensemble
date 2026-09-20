@@ -108,7 +108,7 @@ hm3:
       system:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
-    - { shortcode: Pfrk, type: weapongear }
+    - { shortcode: Pfrk, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:

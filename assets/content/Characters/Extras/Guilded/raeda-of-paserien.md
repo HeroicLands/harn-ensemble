@@ -109,7 +109,7 @@ hm3:
         value: 18
         weight: 0.1
     - { shortcode: pipesmokin, type: miscgear }
-    - { shortcode: pursesilk, type: miscgear }
+    - { shortcode: pursesilk, type: containergear }
     - { shortcode: spoonwooden, type: miscgear }
     - name: Comb, wood
       type: miscgear

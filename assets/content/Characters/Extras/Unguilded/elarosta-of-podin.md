@@ -112,7 +112,7 @@ hm3:
         weight: 3
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: LtCap, type: armorgear }
-    - { shortcode: Pfrk, type: weapongear }
+    - { shortcode: Pfrk, type: miscgear }
     - { shortcode: scythe, type: miscgear }
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
