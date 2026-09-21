@@ -90,6 +90,8 @@ site:
         markup:
             highlight:
                 style: monokai
+        params:
+            search: true
 
 packageBuild:
     assets:
