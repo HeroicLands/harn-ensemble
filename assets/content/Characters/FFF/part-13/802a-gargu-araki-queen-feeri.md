@@ -25,7 +25,7 @@ data:
   gender: female
   species: araki
   age: 14
-  birthday: 705/2/7
+  born: 705/2/7
   height: 0.91
   weight: 49.9
   frame: massive

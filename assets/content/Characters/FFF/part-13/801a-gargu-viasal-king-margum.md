@@ -25,7 +25,7 @@ data:
   gender: male
   species: gargu-viasal
   age: 15
-  birthday: 704/9/20
+  born: 704/9/20
   height: 1.27
   weight: 47.63
   frame: heavy

@@ -26,7 +26,7 @@ data:
   gender: male
   species: human
   age: 8
-  birthday: 712/7/23
+  born: 712/7/23
   height: 1.27
   weight: 24.95
   frame: scant

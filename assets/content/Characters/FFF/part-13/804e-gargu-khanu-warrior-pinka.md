@@ -25,7 +25,7 @@ data:
   gender: male
   species: khanu
   age: 10
-  birthday: 709/1/8
+  born: 709/1/8
   height: 1.68
   weight: 78.93
   frame: massive

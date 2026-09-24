@@ -24,7 +24,7 @@ data:
   gender: female
   species: khuzdul
   age: 92
-  birthday: 628/8/23
+  born: 628/8/23
   height: 1.22
   weight: 45.36
   frame: heavy

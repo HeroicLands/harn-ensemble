@@ -27,7 +27,7 @@ data:
   gender: male
   species: gargu-hyeka
   age: 15
-  birthday: 704/6/10
+  born: 704/6/10
   height: 1.22
   weight: 45.36
   frame: heavy

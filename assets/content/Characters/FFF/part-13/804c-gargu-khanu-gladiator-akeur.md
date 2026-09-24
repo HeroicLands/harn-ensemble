@@ -25,7 +25,7 @@ data:
   gender: male
   species: gargu-khanu
   age: 11
-  birthday: 708/1/2
+  born: 708/1/2
   height: 1.35
   weight: 51.26
   frame: heavy
