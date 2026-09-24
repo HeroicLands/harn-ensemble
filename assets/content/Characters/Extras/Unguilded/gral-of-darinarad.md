@@ -24,7 +24,7 @@ data:
   gender: male
   species: human
   age: 36
-  birthday: 684/3/18
+  born: 684/3/18
   height: 1.83
   weight: 112.04
   frame: light

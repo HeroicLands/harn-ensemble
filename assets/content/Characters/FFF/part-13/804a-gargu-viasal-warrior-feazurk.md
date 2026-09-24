@@ -25,7 +25,7 @@ data:
   gender: male
   species: viasal
   age: 12
-  birthday: 707/8/5
+  born: 707/8/5
   height: 1.12
   weight: 40.82
   frame: heavy

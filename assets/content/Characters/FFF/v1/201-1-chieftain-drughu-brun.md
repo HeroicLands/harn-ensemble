@@ -26,7 +26,7 @@ data:
   gender: male
   species: human (drughu)
   age: 28
-  birthday: 691/8/14
+  born: 691/8/14
   height: 1.68
   weight: 78.93
   frame: massive

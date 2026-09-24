@@ -24,7 +24,7 @@ data:
   gender: male
   species: sindarin
   age: 245
-  birthday: 475/5/18
+  born: 475/5/18
   height: 1.65
   weight: 63.96
   frame: medium

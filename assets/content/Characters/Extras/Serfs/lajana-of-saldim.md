@@ -24,7 +24,7 @@ data:
   gender: female
   species: human
   age: 23
-  birthday: 697/11/4
+  born: 697/11/4
   height: 1.65
   weight: 57.15
   frame: light

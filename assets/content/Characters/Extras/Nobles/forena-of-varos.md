@@ -24,7 +24,7 @@ data:
   gender: female
   species: human
   age: 50
-  birthday: 670/1/19
+  born: 670/1/19
   height: 1.75
   weight: 84.37
   frame: scant

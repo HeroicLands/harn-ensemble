@@ -25,7 +25,7 @@ data:
   gender: female
   species: hyeka
   age: 20
-  birthday: 699/12/15
+  born: 699/12/15
   height: 1.09
   weight: 73.48
   frame: massive

@@ -25,7 +25,7 @@ data:
   gender: male
   species: gargu-araki
   age: 12
-  birthday: 707/5/16
+  born: 707/5/16
   height: 0.97
   weight: 32.66
   frame: medium

@@ -25,7 +25,7 @@ data:
   gender: male
   species: kyani
   age: 6
-  birthday: 713/10/13
+  born: 713/10/13
   height: 1.12
   weight: 37.65
   frame: medium

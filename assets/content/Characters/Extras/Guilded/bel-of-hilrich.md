@@ -24,7 +24,7 @@ data:
   gender: male
   species: human
   age: 21
-  birthday: 699/7/12
+  born: 699/7/12
   height: 1.78
   weight: 122.02
   frame: massive

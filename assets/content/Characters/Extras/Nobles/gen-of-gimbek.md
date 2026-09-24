@@ -24,7 +24,7 @@ data:
   gender: male
   species: khuzdul
   age: 108
-  birthday: 612/6/6
+  born: 612/6/6
   height: 1.37
   weight: 57.61
   frame: massive

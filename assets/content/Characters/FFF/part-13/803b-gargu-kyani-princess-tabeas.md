@@ -25,7 +25,7 @@ data:
   gender: female
   species: kyani
   age: 10
-  birthday: 709/4/21
+  born: 709/4/21
   height: 1.02
   weight: 34.02
   frame: medium

@@ -24,7 +24,7 @@ data:
   gender: female
   species: sindarin
   age: 292
-  birthday: 428/10/30
+  born: 428/10/30
   height: 1.63
   weight: 68.04
   frame: heavy
