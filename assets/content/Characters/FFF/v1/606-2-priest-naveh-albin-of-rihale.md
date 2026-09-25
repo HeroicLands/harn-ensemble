@@ -235,82 +235,82 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { model: attribute-str, system: { scoreBase: 11 } }
-    - { model: attribute-end, system: { scoreBase: 10 } }
-    - { model: attribute-dex, system: { scoreBase: 15 } }
-    - { model: attribute-agl, system: { scoreBase: 13 } }
-    - { model: attribute-per, system: { scoreBase: 11 } }
-    - { model: attribute-snt, system: { scoreBase: 11 } }
-    - { model: attribute-cml, system: { scoreBase: 8 } }
-    - { model: attribute-aur, system: { scoreBase: 9 } }
-    - { model: attribute-wil, system: { scoreBase: 16 } }
-    - { model: attribute-rea, system: { scoreBase: 14 } }
-    - { model: attribute-cre, system: { scoreBase: 13 } }
-    - { model: attribute-emp, system: { scoreBase: 10 } }
-    - { model: attribute-elo, system: { scoreBase: 16 } }
-    - { model: attribute-mor, system: { scoreBase: 3 } }
-    - { model: attribute-voi, system: { scoreBase: 14 } }
-    - { model: skill-archery }
-    - { model: skill-awar, system: { masteryLevelBase: 59 } }
-    - { model: skill-chrm }
-    - { model: skill-clmb, system: { masteryLevelBase: 53 } }
-    - { model: skill-cmd }
-    - { model: skill-cook }
-    - { model: skill-dnce }
-    - { model: skill-dscr }
-    - { model: skill-draw, system: { masteryLevelBase: 42 } }
-    - { model: skill-folklr, system: { masteryLevelBase: 66 } }
-    - { model: skill-guil }
-    - { model: skill-init, system: { masteryLevelBase: 97 } }
-    - { model: skill-shok }
-    - { model: skill-intr, system: { masteryLevelBase: 53 } }
-    - { model: skill-jump, system: { masteryLevelBase: 60 } }
-    - { model: skill-melee, system: { masteryLevelBase: 80 } }
-    - { model: skill-dge, system: { masteryLevelBase: 66 } }
-    - { model: skill-pysn, system: { masteryLevelBase: 43 } }
-    - { model: skill-ridg }
-    - { model: skill-sing, system: { masteryLevelBase: 79 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 92 } }
-    - { model: skill-srvl, name: "Survival: Urban", system: { masteryLevelBase: 58 } }
-    - { model: skill-spirit }
-    - { model: skill-swim }
-    - { model: skill-thtcs }
-    - { model: skill-thro, system: { masteryLevelBase: 74 } }
-    - { model: skill-bflkbite }
-    - { model: skill-bflkgrab }
-    - { model: skill-bflkheadbutt }
-    - { model: skill-bflkkick }
-    - { model: skill-limbblock }
-    - { model: skill-press }
-    - { model: skill-bflkpunch }
-    - { model: skill-trip }
-    - { model: mysticalability-sprt }
-    - { model: skill-acro, system: { masteryLevelBase: 43 } }
-    - { model: skill-lgdm, system: { masteryLevelBase: 60 } }
-    - { model: skill-musc, name: Harp (Musician), system: { masteryLevelBase: 60 } }
-    - { model: skill-lang, name: "Language: Besha", system: { masteryLevelBase: 85 } }
-    - { model: skill-script, name: "Script: Neramic", system: { masteryLevelBase: 84 } }
-    - { model: skill-embl, system: { masteryLevelBase: 26 } }
-    - { model: skill-hrld, system: { masteryLevelBase: 30 } }
-    - model: skill-herb
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 3 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-skill-archery }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 59 } }
+    - { model: sohl-sohl-skill-chrm }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 53 } }
+    - { model: sohl-sohl-skill-cmd }
+    - { model: sohl-sohl-skill-cook }
+    - { model: sohl-sohl-skill-dnce }
+    - { model: sohl-sohl-skill-dscr }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 66 } }
+    - { model: sohl-sohl-skill-guil }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 97 } }
+    - { model: sohl-sohl-skill-shok }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 53 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 66 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 43 } }
+    - { model: sohl-sohl-skill-ridg }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 79 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 92 } }
+    - { model: sohl-sohl-skill-srvl, name: "Survival: Urban", system: { masteryLevelBase: 58 } }
+    - { model: sohl-sohl-skill-spirit }
+    - { model: sohl-sohl-skill-swim }
+    - { model: sohl-sohl-skill-thtcs }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 74 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
+    - { model: sohl-sohl-mysticalability-sprt }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 43 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-musc, name: Harp (Musician), system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-lang, name: "Language: Besha", system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-script, name: "Script: Neramic", system: { masteryLevelBase: 84 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 30 } }
+    - model: sohl-sohl-skill-herb
       name: "Herblore: Herblore: Poison"
       system:
         masteryLevelBase: 80
-    - { model: skill-law, system: { masteryLevelBase: 30 } }
-    - { model: skill-lock, system: { masteryLevelBase: 32 } }
-    - { model: weapongear-Dgr }
-    - { model: containergear-beltpouchl3 }
-    - { model: miscgear-tndrbx }
-    - { model: miscgear-harpaeolia }
-    - { model: miscgear-flutewoode, system: { quantity: 3 } }
-    - { model: miscgear-drumhand }
-    - { model: armorgear-LTunic }
-    - { model: armorgear-LLeg }
-    - { model: armorgear-CvCloak }
-    - { model: miscgear-beltwaist }
-    - { model: armorgear-LtShoe }
-    - { model: weapongear-Taburi }
-    - { model: miscgear-pence, system: { quantity: 49 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-lock, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-weapongear-Dgr }
+    - { model: sohl-sohl-containergear-beltpouchl3 }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-harpaeolia }
+    - { model: sohl-sohl-miscgear-flutewoode, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-drumhand }
+    - { model: sohl-sohl-armorgear-LTunic }
+    - { model: sohl-sohl-armorgear-LLeg }
+    - { model: sohl-sohl-armorgear-CvCloak }
+    - { model: sohl-sohl-miscgear-beltwaist }
+    - { model: sohl-sohl-armorgear-LtShoe }
+    - { model: sohl-sohl-weapongear-Taburi }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 49 } }
     - { name: Naveh, type: affiliation, system: { shortcode: naveh, subType: divine } }
     - name: Naveh
       type: skill

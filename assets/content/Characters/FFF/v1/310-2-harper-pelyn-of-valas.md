@@ -235,69 +235,69 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { model: attribute-str, system: { scoreBase: 10 } }
-    - { model: attribute-end, system: { scoreBase: 13 } }
-    - { model: attribute-dex, system: { scoreBase: 16 } }
-    - { model: attribute-agl, system: { scoreBase: 13 } }
-    - { model: attribute-per, system: { scoreBase: 18 } }
-    - { model: attribute-snt, system: { scoreBase: 14 } }
-    - { model: attribute-cml, system: { scoreBase: 15 } }
-    - { model: attribute-aur, system: { scoreBase: 12 } }
-    - { model: attribute-wil, system: { scoreBase: 12 } }
-    - { model: attribute-rea, system: { scoreBase: 16 } }
-    - { model: attribute-cre, system: { scoreBase: 18 } }
-    - { model: attribute-emp, system: { scoreBase: 8 } }
-    - { model: attribute-elo, system: { scoreBase: 14 } }
-    - { model: attribute-mor, system: { scoreBase: 12 } }
-    - { model: attribute-voi, system: { scoreBase: 17 } }
-    - { model: skill-archery }
-    - { model: skill-awar, system: { masteryLevelBase: 68 } }
-    - { model: skill-chrm }
-    - { model: skill-clmb, system: { masteryLevelBase: 61 } }
-    - { model: skill-cmd }
-    - { model: skill-cook, system: { masteryLevelBase: 67 } }
-    - { model: skill-dnce, system: { masteryLevelBase: 72 } }
-    - { model: skill-dscr }
-    - { model: skill-draw }
-    - model: skill-folklr
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-skill-archery }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 68 } }
+    - { model: sohl-sohl-skill-chrm }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 61 } }
+    - { model: sohl-sohl-skill-cmd }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 67 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 72 } }
+    - { model: sohl-sohl-skill-dscr }
+    - { model: sohl-sohl-skill-draw }
+    - model: sohl-sohl-skill-folklr
       name: "Folklore: Trierzon"
       system:
         masteryLevelBase: 56
-    - { model: skill-guil }
-    - { model: skill-init, system: { masteryLevelBase: 55 } }
-    - { model: skill-shok }
-    - { model: skill-intr, system: { masteryLevelBase: 55 } }
-    - { model: skill-jump, system: { masteryLevelBase: 58 } }
-    - { model: skill-melee, system: { masteryLevelBase: 78 } }
-    - { model: skill-dge, system: { masteryLevelBase: 65 } }
-    - { model: skill-pysn, system: { masteryLevelBase: 36 } }
-    - { model: skill-ridg }
-    - { model: skill-sing, system: { masteryLevelBase: 94 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 49 } }
-    - { model: skill-srvl, system: { masteryLevelBase: 57 } }
-    - { model: skill-spirit }
-    - { model: skill-swim }
-    - { model: skill-thtcs }
-    - { model: skill-thro, system: { masteryLevelBase: 55 } }
-    - { model: skill-bflkbite }
-    - { model: skill-bflkgrab }
-    - { model: skill-bflkheadbutt }
-    - { model: skill-bflkkick }
-    - { model: skill-limbblock }
-    - { model: skill-press }
-    - { model: skill-bflkpunch }
-    - { model: skill-trip }
-    - { model: mysticalability-sprt }
-    - { model: skill-musc, name: Horn (Musician), system: { masteryLevelBase: 61 } }
-    - { model: skill-lang, name: "Language: Trierzi", system: { masteryLevelBase: 54 } }
-    - { model: skill-script, name: "Script: Lakise", system: { masteryLevelBase: 85 } }
-    - { model: skill-hrld, system: { masteryLevelBase: 35 } }
-    - { model: weapongear-Dgr }
-    - { model: armorgear-VTunic }
-    - { model: armorgear-VLeg }
-    - { model: armorgear-LtShoe }
-    - { model: miscgear-harpjarind }
-    - { model: miscgear-pence, system: { quantity: 27 } }
+    - { model: sohl-sohl-skill-guil }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-shok }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 58 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 78 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-ridg }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 94 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 49 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 57 } }
+    - { model: sohl-sohl-skill-spirit }
+    - { model: sohl-sohl-skill-swim }
+    - { model: sohl-sohl-skill-thtcs }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
+    - { model: sohl-sohl-mysticalability-sprt }
+    - { model: sohl-sohl-skill-musc, name: Horn (Musician), system: { masteryLevelBase: 61 } }
+    - { model: sohl-sohl-skill-lang, name: "Language: Trierzi", system: { masteryLevelBase: 54 } }
+    - { model: sohl-sohl-skill-script, name: "Script: Lakise", system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-weapongear-Dgr }
+    - { model: sohl-sohl-armorgear-VTunic }
+    - { model: sohl-sohl-armorgear-VLeg }
+    - { model: sohl-sohl-armorgear-LtShoe }
+    - { model: sohl-sohl-miscgear-harpjarind }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 27 } }
     - { name: Halea, type: affiliation, system: { shortcode: halea, subType: divine } }
     - name: Halea
       type: skill

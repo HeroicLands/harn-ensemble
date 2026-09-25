@@ -133,66 +133,66 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { model: attribute-str, system: { scoreBase: 11 } }
-    - { model: attribute-end, system: { scoreBase: 3 } }
-    - { model: attribute-dex, system: { scoreBase: 7 } }
-    - { model: attribute-agl, system: { scoreBase: 4 } }
-    - { model: attribute-per, system: { scoreBase: 3 } }
-    - { model: attribute-snt, system: { scoreBase: 5 } }
-    - { model: attribute-cml, system: { scoreBase: 6 } }
-    - { model: attribute-aur, system: { scoreBase: 13 } }
-    - { model: attribute-wil, system: { scoreBase: 17 } }
-    - { model: attribute-rea, system: { scoreBase: 14 } }
-    - { model: attribute-cre, system: { scoreBase: 4 } }
-    - { model: attribute-emp, system: { scoreBase: 14 } }
-    - { model: attribute-elo, system: { scoreBase: 16 } }
-    - { model: attribute-mor, system: { scoreBase: 13 } }
-    - { model: attribute-voi, system: { scoreBase: 14 } }
-    - { model: skill-archery }
-    - { model: skill-awar, system: { masteryLevelBase: 20 } }
-    - { model: skill-chrm }
-    - { model: skill-clmb, system: { masteryLevelBase: 14 } }
-    - { model: skill-cmd }
-    - { model: skill-cook, system: { masteryLevelBase: 30 } }
-    - { model: skill-dnce }
-    - { model: skill-dscr }
-    - { model: skill-draw }
-    - { model: skill-folklr, system: { masteryLevelBase: 96 } }
-    - { model: skill-guil }
-    - { model: skill-init, system: { masteryLevelBase: 26 } }
-    - { model: skill-shok }
-    - { model: skill-intr, system: { masteryLevelBase: 77 } }
-    - { model: skill-jump, system: { masteryLevelBase: 12 } }
-    - { model: skill-melee }
-    - { model: skill-dge, system: { masteryLevelBase: 20 } }
-    - { model: skill-pysn }
-    - { model: skill-ridg }
-    - { model: skill-sing, system: { masteryLevelBase: 30 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 16 } }
-    - { model: skill-srvl }
-    - { model: skill-spirit }
-    - { model: skill-swim }
-    - { model: skill-thtcs }
-    - { model: skill-thro, system: { masteryLevelBase: 18 } }
-    - { model: skill-bflkbite }
-    - { model: skill-bflkgrab }
-    - { model: skill-bflkheadbutt }
-    - { model: skill-bflkkick }
-    - { model: skill-limbblock }
-    - { model: skill-press }
-    - { model: skill-bflkpunch }
-    - { model: skill-trip }
-    - { model: mysticalability-sprt }
-    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 75 } }
-    - { model: skill-hide, system: { masteryLevelBase: 40 } }
-    - model: skill-txtl
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 3 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 4 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 3 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 4 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-skill-archery }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-chrm }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-cmd }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dnce }
+    - { model: sohl-sohl-skill-dscr }
+    - { model: sohl-sohl-skill-draw }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 96 } }
+    - { model: sohl-sohl-skill-guil }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-shok }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 77 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-melee }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-pysn }
+    - { model: sohl-sohl-skill-ridg }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-srvl }
+    - { model: sohl-sohl-skill-spirit }
+    - { model: sohl-sohl-skill-swim }
+    - { model: sohl-sohl-skill-thtcs }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 18 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
+    - { model: sohl-sohl-mysticalability-sprt }
+    - { model: sohl-sohl-skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 40 } }
+    - model: sohl-sohl-skill-txtl
       name: Needlework (Textilecraft)
       system:
         masteryLevelBase: 62
-    - { model: armorgear-LDress }
-    - { model: armorgear-LtShoe }
-    - { model: containergear-beltpouchl3 }
-    - { model: miscgear-pence, system: { quantity: 15 } }
+    - { model: sohl-sohl-armorgear-LDress }
+    - { model: sohl-sohl-armorgear-LtShoe }
+    - { model: sohl-sohl-containergear-beltpouchl3 }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 15 } }
     - { name: Halea, type: affiliation, system: { shortcode: halea, subType: divine } }
     - name: Halea
       type: skill

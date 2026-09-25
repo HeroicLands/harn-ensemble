@@ -124,78 +124,78 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { model: attribute-str, system: { scoreBase: 11 } }
-    - { model: attribute-end, system: { scoreBase: 18 } }
-    - { model: attribute-dex, system: { scoreBase: 9 } }
-    - { model: attribute-agl, system: { scoreBase: 8 } }
-    - { model: attribute-per, system: { scoreBase: 14 } }
-    - { model: attribute-snt, system: { scoreBase: 14 } }
-    - { model: attribute-cml, system: { scoreBase: 9 } }
-    - { model: attribute-aur, system: { scoreBase: 10 } }
-    - { model: attribute-wil, system: { scoreBase: 11 } }
-    - { model: attribute-rea, system: { scoreBase: 10 } }
-    - { model: attribute-cre, system: { scoreBase: 16 } }
-    - { model: attribute-emp, system: { scoreBase: 8 } }
-    - { model: attribute-elo, system: { scoreBase: 8 } }
-    - { model: attribute-mor, system: { scoreBase: 15 } }
-    - { model: attribute-voi, system: { scoreBase: 7 } }
-    - { model: skill-archery }
-    - { model: skill-awar, system: { masteryLevelBase: 65 } }
-    - { model: skill-chrm }
-    - { model: skill-clmb, system: { masteryLevelBase: 45 } }
-    - { model: skill-cmd }
-    - { model: skill-cook }
-    - { model: skill-dnce }
-    - { model: skill-dscr }
-    - { model: skill-draw }
-    - { model: skill-folklr }
-    - { model: skill-guil }
-    - { model: skill-init, system: { masteryLevelBase: 90 } }
-    - { model: skill-shok }
-    - { model: skill-intr, system: { masteryLevelBase: 50 } }
-    - { model: skill-jump, system: { masteryLevelBase: 45 } }
-    - { model: skill-melee, system: { masteryLevelBase: 64 } }
-    - { model: skill-dge }
-    - { model: skill-pysn, system: { masteryLevelBase: 22 } }
-    - { model: skill-ridg }
-    - { model: skill-sing, system: { masteryLevelBase: 40 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 44 } }
-    - { model: skill-srvl, system: { masteryLevelBase: 40 } }
-    - { model: skill-spirit }
-    - { model: skill-swim }
-    - { model: skill-thtcs }
-    - { model: skill-thro, system: { masteryLevelBase: 50 } }
-    - { model: skill-bflkbite }
-    - { model: skill-bflkgrab }
-    - { model: skill-bflkheadbutt }
-    - { model: skill-bflkkick }
-    - { model: skill-limbblock }
-    - { model: skill-press }
-    - { model: skill-bflkpunch }
-    - { model: skill-trip }
-    - { model: mysticalability-sprt }
-    - { model: skill-lang, name: "Language, Guilded", system: { masteryLevelBase: 69 } }
-    - { model: skill-hrld, system: { masteryLevelBase: 50 } }
-    - { model: skill-pilt, system: { masteryLevelBase: 20 } }
-    - { model: skill-smsh, system: { masteryLevelBase: 30 } }
-    - { model: skill-wpnc, system: { masteryLevelBase: 30 } }
-    - { model: miscgear-pence, system: { quantity: 863 } }
-    - { model: containergear-pouchbuckram }
-    - { model: armorgear-LtCBoot }
-    - { model: armorgear-RClk }
-    - { model: armorgear-PlHHelm }
-    - { model: armorgear-BLeg }
-    - { model: armorgear-LtShoe }
-    - { model: armorgear-CTunic }
-    - { model: weapongear-BAxe }
-    - { model: weapongear-Dgr }
-    - { model: containergear-backbagmed }
-    - { model: miscgear-tndrbx }
-    - { model: armorgear-RCap }
-    - { model: weapongear-RndSh }
-    - { model: miscgear-spoonpewte }
-    - { model: miscgear-tankardpew }
-    - { model: containergear-wtrskin }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-skill-archery }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-chrm }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-cmd }
+    - { model: sohl-sohl-skill-cook }
+    - { model: sohl-sohl-skill-dnce }
+    - { model: sohl-sohl-skill-dscr }
+    - { model: sohl-sohl-skill-draw }
+    - { model: sohl-sohl-skill-folklr }
+    - { model: sohl-sohl-skill-guil }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 90 } }
+    - { model: sohl-sohl-skill-shok }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-dge }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-ridg }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-spirit }
+    - { model: sohl-sohl-skill-swim }
+    - { model: sohl-sohl-skill-thtcs }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
+    - { model: sohl-sohl-mysticalability-sprt }
+    - { model: sohl-sohl-skill-lang, name: "Language, Guilded", system: { masteryLevelBase: 69 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-pilt, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 863 } }
+    - { model: sohl-sohl-containergear-pouchbuckram }
+    - { model: sohl-sohl-armorgear-LtCBoot }
+    - { model: sohl-sohl-armorgear-RClk }
+    - { model: sohl-sohl-armorgear-PlHHelm }
+    - { model: sohl-sohl-armorgear-BLeg }
+    - { model: sohl-sohl-armorgear-LtShoe }
+    - { model: sohl-sohl-armorgear-CTunic }
+    - { model: sohl-sohl-weapongear-BAxe }
+    - { model: sohl-sohl-weapongear-Dgr }
+    - { model: sohl-sohl-containergear-backbagmed }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-armorgear-RCap }
+    - { model: sohl-sohl-weapongear-RndSh }
+    - { model: sohl-sohl-miscgear-spoonpewte }
+    - { model: sohl-sohl-miscgear-tankardpew }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
