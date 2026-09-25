@@ -25,7 +25,7 @@ data:
   icon: fff4231tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 37
   height: 1.73
   weight: 63.5
@@ -137,6 +137,7 @@ hm3:
     - { shortcode: LRobe, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
   system:
+    species: human
     sunsign: lado
     move: 8
 sohl:

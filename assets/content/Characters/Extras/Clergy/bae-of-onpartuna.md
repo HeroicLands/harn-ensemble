@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 47
   born: 673/10/14
   height: 1.73
@@ -151,6 +151,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: RndSh, type: weapongear }
   system:
+    species: human
     sunsign: skorus
     move: 13
 sohl:

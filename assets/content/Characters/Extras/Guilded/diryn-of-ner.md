@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 30
   born: 690/6/10
   height: 1.68
@@ -113,6 +113,7 @@ hm3:
     - { shortcode: tankardpew, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
   system:
+    species: human
     sunsign: nadai
     move: 15
 sohl:

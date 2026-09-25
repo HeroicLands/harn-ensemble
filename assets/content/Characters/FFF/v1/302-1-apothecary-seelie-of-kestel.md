@@ -24,7 +24,7 @@ data:
   icon: fff3021tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 30
   born: 690/3/16
   height: 1.63
@@ -160,6 +160,7 @@ hm3:
     - { shortcode: jugsmall, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 38 } }
   system:
+    species: human
     sunsign: feniri
     move: 13
 sohl:

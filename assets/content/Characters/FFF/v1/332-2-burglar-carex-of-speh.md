@@ -24,7 +24,7 @@ data:
   icon: fff3322tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 32
   born: 687/2/24
   height: 1.7
@@ -156,6 +156,7 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 60 } }
   system:
+    species: human
     sunsign: aralius
     move: 18
 sohl:

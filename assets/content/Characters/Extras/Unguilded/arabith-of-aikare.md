@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 33
   born: 687/6/8
   height: 1.7
@@ -114,6 +114,7 @@ hm3:
     - { shortcode: RHbk, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: nadai-angberelius
     move: 10
 sohl:

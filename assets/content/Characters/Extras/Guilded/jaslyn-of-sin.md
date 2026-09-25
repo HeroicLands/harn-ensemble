@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 40
   born: 680/7/4
   height: 1.55
@@ -120,6 +120,7 @@ hm3:
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: nadai-hirin
     move: 5
 sohl:

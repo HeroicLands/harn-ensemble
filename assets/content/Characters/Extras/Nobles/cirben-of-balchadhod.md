@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: sindarin
+  species: sindarinflk
   age: 208
   born: 512/7/23
   height: 1.68
@@ -120,6 +120,7 @@ hm3:
         value: 2
         weight: 0.1
   system:
+    species: sindarin
     sunsign: hirin
     move: 13
 sohl:

@@ -25,7 +25,7 @@ data:
   icon: fff2061tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 29
   born: 690/7/5
   height: 1.78
@@ -198,6 +198,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 23 } }
   system:
+    species: human
     sunsign: nadai-hirin
     move: 7
 sohl:

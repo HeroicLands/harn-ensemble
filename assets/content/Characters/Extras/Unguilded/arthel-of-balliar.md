@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: sindarin
+  species: sindarinflk
   age: 235
   born: 485/5/5
   height: 1.57
@@ -115,6 +115,7 @@ hm3:
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
   system:
+    species: sindarin
     sunsign: angberelius-ahnu
     move: 8
 sohl:

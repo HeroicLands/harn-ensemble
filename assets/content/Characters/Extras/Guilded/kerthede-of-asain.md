@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 26
   born: 694/2/1
   height: 1.68
@@ -109,6 +109,7 @@ hm3:
     - { shortcode: waterskinsm, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
   system:
+    species: human
     sunsign: ulandus
     move: 14
 sohl:

@@ -24,7 +24,7 @@ data:
   icon: fff3081tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 42
   born: 677/11/18
   height: 1.73
@@ -171,6 +171,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 237 } }
   system:
+    species: human
     sunsign: masara
     move: 6
 sohl:

@@ -23,7 +23,7 @@ data:
   icon: fff804fhead
   tokenIcon: fff804ftok
   gender: male
-  species: gargu-araki
+  species: gargunflk
   age: 7
   born: 712/1/2
   height: 0.91
@@ -141,6 +141,7 @@ hm3:
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 20 } }
     - { shortcode: quiverlgsh, type: miscgear }
   system:
+    species: gargu-araki
     sunsign: lado-ulandus
     move: 19
 ---

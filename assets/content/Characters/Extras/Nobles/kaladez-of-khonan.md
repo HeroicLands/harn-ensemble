@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 38
   born: 682/11/18
   height: 1.78
@@ -119,6 +119,7 @@ hm3:
         weight: 1
     - { shortcode: pipesmokin, type: miscgear }
   system:
+    species: human
     sunsign: masara
     move: 6
 sohl:

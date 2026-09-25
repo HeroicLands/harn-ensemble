@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 31
   born: 689/10/28
   height: 1.75
@@ -115,6 +115,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
   system:
+    species: human
     sunsign: skorus
     move: 7
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: sindarin
+  species: sindarinflk
   age: 206
   born: 514/6/8
   height: 1.6
@@ -119,6 +119,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: LtLeg, type: armorgear }
   system:
+    species: sindarin
     sunsign: nadai-angberelius
     move: 13
 sohl:

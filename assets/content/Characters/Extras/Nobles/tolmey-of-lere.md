@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 48
   born: 672/11/29
   height: 1.65
@@ -121,6 +121,7 @@ hm3:
         weight: 0.25
     - { shortcode: KiSh, type: weapongear }
   system:
+    species: human
     sunsign: masara
     move: 15
 sohl:

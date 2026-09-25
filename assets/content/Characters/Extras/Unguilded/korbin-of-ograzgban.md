@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 109
   born: 611/6/20
   height: 1.47
@@ -125,6 +125,7 @@ hm3:
         value: 8
         weight: 0.25
   system:
+    species: khuzdul
     sunsign: nadai
     move: 10
 sohl:

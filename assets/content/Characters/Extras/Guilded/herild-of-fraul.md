@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 25
   born: 695/10/19
   height: 1.78
@@ -125,6 +125,7 @@ hm3:
         value: 20
         weight: 0.1
   system:
+    species: human
     sunsign: skorus
     move: 6
 sohl:

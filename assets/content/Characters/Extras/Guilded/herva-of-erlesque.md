@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 33
   born: 687/12/27
   height: 1.57
@@ -123,6 +123,7 @@ hm3:
         weight: 0.05
     - { shortcode: pickminers, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 14
 sohl:

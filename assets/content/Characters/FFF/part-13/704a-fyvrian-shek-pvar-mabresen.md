@@ -25,7 +25,7 @@ data:
   tokenIcon: fff704atok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 46
   born: 673/12/15
   height: 1.52
@@ -174,6 +174,7 @@ hm3:
     - { shortcode: dispell, type: spell }
     - { shortcode: focus, type: spell }
   system:
+    species: human
     sunsign: lado
     move: 9
 sohl:

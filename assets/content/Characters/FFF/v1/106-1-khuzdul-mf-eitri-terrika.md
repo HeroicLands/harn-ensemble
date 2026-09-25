@@ -24,7 +24,7 @@ data:
   icon: fff1061tok
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 100
   born: 619/3/11
   height: 1.45
@@ -260,6 +260,7 @@ hm3:
     - { shortcode: pipewd, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 360 } }
   system:
+    species: khuzdul
     sunsign: feniri
     move: 15
 sohl:

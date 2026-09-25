@@ -25,7 +25,7 @@ data:
   icon: fff1275tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 21
   born: 698/7/20
   height: 1.75
@@ -193,6 +193,7 @@ hm3:
     - { shortcode: CvCloak, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 109 } }
   system:
+    species: human
     sunsign: hirin
     move: 14
 sohl:

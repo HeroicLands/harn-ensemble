@@ -24,7 +24,7 @@ data:
   icon: fff1221tok
   templatePriority: 1
   gender: male
-  species: sindarin
+  species: sindarinflk
   age: 2430
   born: 1711/7/21
   height: 1.65
@@ -245,6 +245,7 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 70 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
   system:
+    species: sindarin
     sunsign: hirin
     move: 18
 sohl:

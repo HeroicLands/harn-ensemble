@@ -24,7 +24,7 @@ data:
   icon: fff3222tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 23
   born: 696/8/23
   height: 1.75
@@ -149,6 +149,7 @@ hm3:
     - { shortcode: LtGlove, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 24 } }
   system:
+    species: human
     sunsign: tarael
     move: 10
 sohl:

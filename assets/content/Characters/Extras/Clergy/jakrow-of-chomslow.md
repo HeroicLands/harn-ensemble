@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 35
   born: 685/5/20
   height: 1.7
@@ -154,6 +154,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: bellhand, type: miscgear }
   system:
+    species: human
     sunsign: angberelius
     move: 12
 sohl:

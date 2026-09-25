@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 31
   born: 689/10/20
   height: 1.68
@@ -127,6 +127,7 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: waxsealing, type: miscgear }
   system:
+    species: human
     sunsign: skorus
     move: 10
 sohl:

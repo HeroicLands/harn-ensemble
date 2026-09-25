@@ -24,7 +24,7 @@ data:
   icon: fff3323tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 18
   born: 701/6/8
   height: 1.78
@@ -146,6 +146,7 @@ hm3:
     - { shortcode: LCowl, type: armorgear }
     - { shortcode: pence, type: miscgear }
   system:
+    species: human
     sunsign: nadai-angberelius
     move: 16
 sohl:

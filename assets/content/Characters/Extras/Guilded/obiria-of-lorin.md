@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 35
   born: 685/1/25
   height: 1.3
@@ -123,6 +123,7 @@ hm3:
         value: 2
         weight: 0.1
   system:
+    species: human
     sunsign: ulandus
     move: 10
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 40
   born: 680/12/28
   height: 1.57
@@ -126,6 +126,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: Bklr, type: weapongear }
   system:
+    species: human
     sunsign: lado
     move: 9
 sohl:

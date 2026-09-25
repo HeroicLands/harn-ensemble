@@ -23,7 +23,7 @@ data:
   icon: fff804ghead
   tokenIcon: fff804gtok
   gender: male
-  species: gargu (aberrant)
+  species: gargunflk
   height: 3.02
   weight: 185.97
   frame: huge
@@ -141,6 +141,7 @@ hm3:
         protection.piercing: 1
         protection.fire: 1
   system:
+    species: gargu (aberrant)
     sunsign: ""
     move: 11
 ---

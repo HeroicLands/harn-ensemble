@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 24
   born: 696/4/18
   height: 1.75
@@ -132,6 +132,7 @@ hm3:
     - { shortcode: WTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
   system:
+    species: human
     sunsign: ahnu
     move: 13
 sohl:

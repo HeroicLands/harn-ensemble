@@ -41,8 +41,18 @@ request.
    documentation improvement per pull request.
 4. **Verify it.** `npm run lint` must pass, and `npm run build` must compile every
    note into its pack.
-5. **Commit** in Conventional-Commits style, and **open a pull request** with
+5. **Commit** with a sentence-style subject ending in the issue number, and
+   **open a pull request** with
    `Closes #<n>` and a what/why description.
+
+## Species references
+
+A being's `data.species` names a local folk note under `assets/content/Lore/Folk`.
+Use its shortcode: `humanflk`, `sindarinflk`, `khuzdulflk`, `gargunflk`, or
+`ogreflk`. Human regional identities share `humanflk`; the Gargun varieties share
+`gargunflk`. Keep the native mechanical species string in `hm3.system.species`;
+it overrides the shared value when compiling an HM3 Actor. Other system-specific
+mechanics remain in the corresponding system block.
 
 ## Prohibited content
 

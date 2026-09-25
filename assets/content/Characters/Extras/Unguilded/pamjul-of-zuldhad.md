@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 104
   born: 616/7/20
   height: 1.24
@@ -135,6 +135,7 @@ hm3:
         value: 2
         weight: 0.1
   system:
+    species: khuzdul
     sunsign: hirin
     move: 10
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 97
   born: 623/5/21
   height: 1.32
@@ -132,6 +132,7 @@ hm3:
         value: 2
         weight: 0.1
   system:
+    species: khuzdul
     sunsign: angberelius
     move: 7
 sohl:

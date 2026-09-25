@@ -25,7 +25,7 @@ data:
   icon: fff6061tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 27
   born: 692/8/17
   height: 1.55
@@ -211,6 +211,7 @@ hm3:
     - { shortcode: veshassense, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 12 } }
   system:
+    species: human
     sunsign: tarael
     move: 12
 sohl:

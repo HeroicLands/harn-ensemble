@@ -23,7 +23,7 @@ data:
   icon: fff804dhead
   tokenIcon: fff804dtok
   gender: male
-  species: gargu-araki
+  species: gargunflk
   age: 12
   born: 707/5/16
   height: 0.97
@@ -139,6 +139,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 39 } }
   system:
+    species: gargu-araki
     sunsign: angberelius
     move: 8
 ---

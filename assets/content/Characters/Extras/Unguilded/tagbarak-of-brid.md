@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 36
   born: 684/4/16
   height: 1.6
@@ -130,6 +130,7 @@ hm3:
         weight: 0.1
     - { shortcode: waxsealing, type: miscgear }
   system:
+    species: human
     sunsign: ahnu
     move: 9
 sohl:

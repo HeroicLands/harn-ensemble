@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 31
   born: 689/3/25
   height: 1.63
@@ -136,6 +136,7 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: KiSh, type: weapongear }
   system:
+    species: human
     sunsign: feniri
     move: 9
 sohl:

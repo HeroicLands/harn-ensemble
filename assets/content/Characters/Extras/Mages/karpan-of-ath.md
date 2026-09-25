@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 41
   born: 679/6/29
   height: 1.65
@@ -192,6 +192,7 @@ hm3:
         weight: 1
         value: 0
   system:
+    species: human
     sunsign: nadai
     move: 11
 sohl:

@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 23
   born: 697/12/4
   height: 1.78
@@ -130,6 +130,7 @@ hm3:
         weight: 1
     - { shortcode: LtCap, type: armorgear }
   system:
+    species: human
     sunsign: lado
     move: 6
 sohl:

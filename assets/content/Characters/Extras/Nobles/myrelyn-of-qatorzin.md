@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 28
   born: 692/6/18
   height: 1.68
@@ -118,6 +118,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: LtCap, type: armorgear }
   system:
+    species: human
     sunsign: nadai
     move: 17
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 26
   born: 694/3/14
   height: 1.68
@@ -116,6 +116,7 @@ hm3:
         weight: 5
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: feniri
     move: 12
 sohl:

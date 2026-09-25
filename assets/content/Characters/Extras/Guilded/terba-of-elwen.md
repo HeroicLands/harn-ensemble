@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 25
   born: 695/7/13
   height: 1.65
@@ -114,6 +114,7 @@ hm3:
         weight: 2
     - { shortcode: tankardpew, type: miscgear }
   system:
+    species: human
     sunsign: hirin
     move: 16
 sohl:

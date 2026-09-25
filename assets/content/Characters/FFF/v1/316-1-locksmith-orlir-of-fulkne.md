@@ -24,7 +24,7 @@ data:
   icon: fff3161tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 36
   born: 683/1/28
   height: 1.75
@@ -140,6 +140,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 132 } }
   system:
+    species: human
     sunsign: ulandus
     move: 12
 sohl:

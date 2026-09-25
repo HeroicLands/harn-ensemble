@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 38
   born: 682/1/11
   height: 1.75
@@ -120,6 +120,7 @@ hm3:
     - { shortcode: tankardpew, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
   system:
+    species: human
     sunsign: ulandus
     move: 3
 sohl:

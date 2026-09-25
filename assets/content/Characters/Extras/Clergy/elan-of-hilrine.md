@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 30
   born: 690/11/22
   height: 1.75
@@ -147,6 +147,7 @@ hm3:
         value: 24
         weight: 1
   system:
+    species: human
     sunsign: masara
     move: 8
 sohl:

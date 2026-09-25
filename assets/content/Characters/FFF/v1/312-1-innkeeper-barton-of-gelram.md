@@ -24,7 +24,7 @@ data:
   icon: fff3121tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 24
   born: 695/11/23
   height: 1.68
@@ -138,6 +138,7 @@ hm3:
         piercing: 2
     - { shortcode: pence, type: miscgear, system: { quantity: 13 } }
   system:
+    species: human
     sunsign: masara
     move: 14
 sohl:

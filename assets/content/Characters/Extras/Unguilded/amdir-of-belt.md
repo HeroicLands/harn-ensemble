@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: sindarin
+  species: sindarinflk
   age: 227
   born: 493/10/5
   height: 1.57
@@ -114,6 +114,7 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: sindarin
     sunsign: skorus
     move: 7
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 26
   born: 694/7/24
   height: 1.75
@@ -105,6 +105,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: backbagsmcanvas, type: containergear }
   system:
+    species: human
     sunsign: hirin
     move: 9
 sohl:

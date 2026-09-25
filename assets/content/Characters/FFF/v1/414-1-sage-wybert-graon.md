@@ -25,7 +25,7 @@ data:
   icon: fff4141tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 53
   born: 667/9/22
   height: 1.75
@@ -175,6 +175,7 @@ hm3:
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 172 } }
   system:
+    species: human
     sunsign: tai
     move: 7
 sohl:

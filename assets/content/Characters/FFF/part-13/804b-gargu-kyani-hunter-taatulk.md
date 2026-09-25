@@ -23,7 +23,7 @@ data:
   icon: fff804bhead
   tokenIcon: fff804btok
   gender: male
-  species: kyani
+  species: gargunflk
   age: 6
   born: 713/10/13
   height: 1.12
@@ -145,6 +145,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 31 } }
   system:
+    species: kyani
     sunsign: skorus
     move: 13
 ---

@@ -24,7 +24,7 @@ data:
   icon: fff4051tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 21
   born: 699/11/16
   height: 1.65
@@ -167,6 +167,7 @@ hm3:
     - { shortcode: Taburi, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 3 } }
   system:
+    species: human
     sunsign: masara
     move: 12
 sohl:

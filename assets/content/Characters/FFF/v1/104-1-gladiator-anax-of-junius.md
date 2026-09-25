@@ -24,7 +24,7 @@ data:
   icon: fff1041tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 33
   born: 686/7/27
   height: 1.85
@@ -191,6 +191,7 @@ hm3:
     - { shortcode: Stf, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 14 } }
   system:
+    species: human
     sunsign: hirin
     move: 16
 sohl:

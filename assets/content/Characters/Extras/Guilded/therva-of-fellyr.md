@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 30
   born: 690/1/28
   height: 1.73
@@ -113,6 +113,7 @@ hm3:
         weight: 2
     - { shortcode: firstaidbagwinstruments, type: miscgear }
   system:
+    species: human
     sunsign: ulandus
     move: 8
 sohl:

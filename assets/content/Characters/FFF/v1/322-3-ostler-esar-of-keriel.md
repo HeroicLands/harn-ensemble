@@ -24,7 +24,7 @@ data:
   icon: fff3223tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 23
   born: 696/4/3
   height: 1.83
@@ -142,6 +142,7 @@ hm3:
     - { shortcode: WCap, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 55 } }
   system:
+    species: human
     sunsign: feniri-ahnu
     move: 15
 sohl:

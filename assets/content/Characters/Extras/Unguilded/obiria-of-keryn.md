@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 23
   born: 697/5/6
   height: 1.78
@@ -123,6 +123,7 @@ hm3:
         weight: 1
     - { shortcode: tndrbx, type: miscgear }
   system:
+    species: human
     sunsign: angberelius-ahnu
     move: 11
 sohl:

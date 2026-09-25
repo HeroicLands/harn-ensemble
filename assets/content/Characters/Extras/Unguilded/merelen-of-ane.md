@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 20
   born: 700/4/17
   height: 1.7
@@ -130,6 +130,7 @@ hm3:
         value: 20
         weight: 0.1
   system:
+    species: human
     sunsign: ahnu
     move: 17
 sohl:

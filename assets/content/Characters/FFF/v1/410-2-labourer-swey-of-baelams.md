@@ -24,7 +24,7 @@ data:
   icon: fff4102tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 19
   born: 700/4/27
   height: 1.22
@@ -154,6 +154,7 @@ hm3:
     - { shortcode: prescience, type: psionic, name: Prescience (F2), system: { masteryLevel: 41 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 8 } }
   system:
+    species: human
     sunsign: ahnu
     move: 8
 sohl:

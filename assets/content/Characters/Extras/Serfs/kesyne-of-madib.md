@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 29
   born: 691/11/10
   height: 1.73
@@ -112,6 +112,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: masara
     move: 9
 sohl:

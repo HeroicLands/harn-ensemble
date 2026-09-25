@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 34
   born: 686/1/3
   height: 1.78
@@ -117,6 +117,7 @@ hm3:
         weight: 0.05
     - { shortcode: tankardpew, type: miscgear }
   system:
+    species: human
     sunsign: lado-ulandus
     move: 9
 sohl:

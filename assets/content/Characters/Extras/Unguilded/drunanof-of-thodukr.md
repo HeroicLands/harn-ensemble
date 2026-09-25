@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: khuzdul
+  species: khuzdulflk
   age: 112
   born: 608/12/21
   height: 1.37
@@ -112,6 +112,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
   system:
+    species: khuzdul
     sunsign: lado
     move: 4
 sohl:

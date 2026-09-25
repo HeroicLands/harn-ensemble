@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 26
   born: 694/1/30
   height: 1.65
@@ -113,6 +113,7 @@ hm3:
         weight: 1
     - { shortcode: ropehempperft330lbcap, type: miscgear }
   system:
+    species: human
     sunsign: ulandus
     move: 10
 sohl:

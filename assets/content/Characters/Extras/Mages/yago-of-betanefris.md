@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 27
   born: 693/1/26
   height: 1.7
@@ -138,6 +138,7 @@ hm3:
         weight: 2
     - { shortcode: writingkitportable, type: miscgear }
   system:
+    species: human
     sunsign: ulandus
     move: 10
 sohl:

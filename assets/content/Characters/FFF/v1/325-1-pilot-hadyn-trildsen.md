@@ -24,7 +24,7 @@ data:
   icon: fff3251tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 38
   born: 681/11/9
   height: 1.8
@@ -169,6 +169,7 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 134 } }
   system:
+    species: human
     sunsign: masara
     move: 15
 sohl:

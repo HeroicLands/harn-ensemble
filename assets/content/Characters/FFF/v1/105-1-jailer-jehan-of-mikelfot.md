@@ -24,7 +24,7 @@ data:
   icon: fff1051tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 26
   born: 694/12/15
   height: 1.7
@@ -168,6 +168,7 @@ hm3:
     - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 31 } }
   system:
+    species: human
     sunsign: lado
     move: 13
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 100
   born: 620/5/10
   height: 1.27
@@ -119,6 +119,7 @@ hm3:
         weight: 0.03
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: khuzdul
     sunsign: angberelius
     move: 12
 sohl:

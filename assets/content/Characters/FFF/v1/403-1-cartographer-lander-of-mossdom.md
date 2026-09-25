@@ -24,7 +24,7 @@ data:
   icon: fff4031tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 30
   born: 689/10/12
   height: 1.83
@@ -137,6 +137,7 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 37 } }
   system:
+    species: human
     sunsign: skorus
     move: 11
 sohl:
