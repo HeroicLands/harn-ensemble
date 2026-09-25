@@ -196,83 +196,83 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { model: attribute-str, system: { scoreBase: 16 } }
-    - { model: attribute-end, system: { scoreBase: 12 } }
-    - { model: attribute-dex, system: { scoreBase: 15 } }
-    - { model: attribute-agl, system: { scoreBase: 13 } }
-    - { model: attribute-per, system: { scoreBase: 18 } }
-    - { model: attribute-snt, system: { scoreBase: 15 } }
-    - { model: attribute-cml, system: { scoreBase: 10 } }
-    - { model: attribute-aur, system: { scoreBase: 8 } }
-    - { model: attribute-wil, system: { scoreBase: 15 } }
-    - { model: attribute-rea, system: { scoreBase: 13 } }
-    - { model: attribute-cre, system: { scoreBase: 16 } }
-    - { model: attribute-emp, system: { scoreBase: 12 } }
-    - { model: attribute-elo, system: { scoreBase: 11 } }
-    - { model: attribute-mor, system: { scoreBase: 11 } }
-    - { model: attribute-voi, system: { scoreBase: 9 } }
-    - { model: skill-archery, name: Shortbow (Bow), system: { masteryLevelBase: 88 } }
-    - { model: skill-awar, system: { masteryLevelBase: 80 } }
-    - { model: skill-chrm }
-    - { model: skill-clmb, system: { masteryLevelBase: 69 } }
-    - { model: skill-cmd }
-    - { model: skill-cook }
-    - { model: skill-dnce }
-    - { model: skill-dscr }
-    - { model: skill-draw }
-    - { model: skill-folklr }
-    - { model: skill-guil }
-    - { model: skill-init, system: { masteryLevelBase: 74 } }
-    - { model: skill-shok }
-    - { model: skill-intr, system: { masteryLevelBase: 42 } }
-    - { model: skill-jump, system: { masteryLevelBase: 60 } }
-    - { model: skill-melee, system: { masteryLevelBase: 81 } }
-    - { model: skill-dge, system: { masteryLevelBase: 66 } }
-    - { model: skill-pysn, system: { masteryLevelBase: 30 } }
-    - { model: skill-ridg, system: { masteryLevelBase: 65 } }
-    - { model: skill-sing, system: { masteryLevelBase: 37 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 86 } }
-    - { model: skill-srvl, system: { masteryLevelBase: 67 } }
-    - { model: skill-spirit }
-    - { model: skill-swim }
-    - { model: skill-thtcs }
-    - { model: skill-thro, system: { masteryLevelBase: 61 } }
-    - { model: skill-bflkbite }
-    - { model: skill-bflkgrab }
-    - { model: skill-bflkheadbutt }
-    - { model: skill-bflkkick }
-    - { model: skill-limbblock }
-    - { model: skill-press }
-    - { model: skill-bflkpunch }
-    - { model: skill-trip }
-    - { model: mysticalability-sprt }
-    - { model: skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 62 } }
-    - model: skill-agri
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-skill-archery, name: Shortbow (Bow), system: { masteryLevelBase: 88 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-chrm }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 69 } }
+    - { model: sohl-sohl-skill-cmd }
+    - { model: sohl-sohl-skill-cook }
+    - { model: sohl-sohl-skill-dnce }
+    - { model: sohl-sohl-skill-dscr }
+    - { model: sohl-sohl-skill-draw }
+    - { model: sohl-sohl-skill-folklr }
+    - { model: sohl-sohl-skill-guil }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 74 } }
+    - { model: sohl-sohl-skill-shok }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 81 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 66 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 37 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 86 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 67 } }
+    - { model: sohl-sohl-skill-spirit }
+    - { model: sohl-sohl-skill-swim }
+    - { model: sohl-sohl-skill-thtcs }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 61 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
+    - { model: sohl-sohl-mysticalability-sprt }
+    - { model: sohl-sohl-skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 62 } }
+    - model: sohl-sohl-skill-agri
       name: Sheepcraft (Agriculture)
       system:
         masteryLevelBase: 89
-    - model: skill-fltch
+    - model: sohl-sohl-skill-fltch
       name: "Fletching: Shortbow"
       system:
         masteryLevelBase: 74
-    - { model: skill-hrld, system: { masteryLevelBase: 35 } }
-    - { model: skill-hide, system: { masteryLevelBase: 36 } }
-    - { model: skill-trak, system: { masteryLevelBase: 92 } }
-    - { model: skill-wpnc, system: { masteryLevelBase: 35 } }
-    - { model: containergear-pouchbuckram }
-    - { model: weapongear-Spr, system: { quantity: 0 } }
-    - { model: weapongear-LKni }
-    - { model: weapongear-Dgr }
-    - { model: armorgear-LtTunic }
-    - { model: armorgear-LtTrsr }
-    - { model: armorgear-LtCBoot }
-    - { model: armorgear-LtCap }
-    - { model: armorgear-KCou }
-    - { model: armorgear-KVamb }
-    - { model: armorgear-WClk }
-    - { model: armorgear-CHood }
-    - { model: containergear-quiverlgsh }
-    - { model: miscgear-pence, system: { quantity: 93 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 92 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-containergear-pouchbuckram }
+    - { model: sohl-sohl-weapongear-Spr, system: { quantity: 0 } }
+    - { model: sohl-sohl-weapongear-LKni }
+    - { model: sohl-sohl-weapongear-Dgr }
+    - { model: sohl-sohl-armorgear-LtTunic }
+    - { model: sohl-sohl-armorgear-LtTrsr }
+    - { model: sohl-sohl-armorgear-LtCBoot }
+    - { model: sohl-sohl-armorgear-LtCap }
+    - { model: sohl-sohl-armorgear-KCou }
+    - { model: sohl-sohl-armorgear-KVamb }
+    - { model: sohl-sohl-armorgear-WClk }
+    - { model: sohl-sohl-armorgear-CHood }
+    - { model: sohl-sohl-containergear-quiverlgsh }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 93 } }
     - { name: Peoni, type: affiliation, system: { shortcode: peoni, subType: divine } }
     - name: Peoni
       type: skill

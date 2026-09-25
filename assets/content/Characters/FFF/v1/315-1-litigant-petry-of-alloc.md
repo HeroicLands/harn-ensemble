@@ -193,77 +193,77 @@ hm3:
 sohl:
   kbcat: archetype
   items:
-    - { model: attribute-str, system: { scoreBase: 10 } }
-    - { model: attribute-end, system: { scoreBase: 10 } }
-    - { model: attribute-dex, system: { scoreBase: 5 } }
-    - { model: attribute-agl, system: { scoreBase: 7 } }
-    - { model: attribute-per, system: { scoreBase: 15 } }
-    - { model: attribute-snt, system: { scoreBase: 11 } }
-    - { model: attribute-cml, system: { scoreBase: 17 } }
-    - { model: attribute-aur, system: { scoreBase: 11 } }
-    - { model: attribute-wil, system: { scoreBase: 14 } }
-    - { model: attribute-rea, system: { scoreBase: 14 } }
-    - { model: attribute-cre, system: { scoreBase: 18 } }
-    - { model: attribute-emp, system: { scoreBase: 10 } }
-    - { model: attribute-elo, system: { scoreBase: 12 } }
-    - { model: attribute-mor, system: { scoreBase: 13 } }
-    - { model: attribute-voi, system: { scoreBase: 11 } }
-    - { model: skill-archery }
-    - { model: skill-awar, system: { masteryLevelBase: 59 } }
-    - { model: skill-chrm }
-    - { model: skill-clmb, system: { masteryLevelBase: 37 } }
-    - { model: skill-cmd }
-    - { model: skill-cook }
-    - { model: skill-dnce }
-    - { model: skill-dscr }
-    - { model: skill-draw, name: Sketching (Drawing), system: { masteryLevelBase: 46 } }
-    - { model: skill-folklr }
-    - { model: skill-guil }
-    - { model: skill-init, system: { masteryLevelBase: 48 } }
-    - { model: skill-shok }
-    - { model: skill-intr, system: { masteryLevelBase: 84 } }
-    - { model: skill-jump, system: { masteryLevelBase: 34 } }
-    - { model: skill-melee, system: { masteryLevelBase: 32 } }
-    - { model: skill-dge, system: { masteryLevelBase: 35 } }
-    - { model: skill-pysn }
-    - { model: skill-ridg, system: { masteryLevelBase: 18 } }
-    - { model: skill-sing, system: { masteryLevelBase: 44 } }
-    - { model: skill-stlth, system: { masteryLevelBase: 39 } }
-    - { model: skill-srvl }
-    - { model: skill-spirit }
-    - { model: skill-swim }
-    - { model: skill-thtcs }
-    - { model: skill-thro, system: { masteryLevelBase: 48 } }
-    - { model: skill-bflkbite }
-    - { model: skill-bflkgrab }
-    - { model: skill-bflkheadbutt }
-    - { model: skill-bflkkick }
-    - { model: skill-limbblock }
-    - { model: skill-press }
-    - { model: skill-bflkpunch }
-    - { model: skill-trip }
-    - { model: mysticalability-sprt }
-    - { model: skill-lang, name: "Language: Trierzi", system: { masteryLevelBase: 93 } }
-    - { model: skill-script, name: "Script: Lakise", system: { masteryLevelBase: 81 } }
-    - model: mysticalability-astr
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-skill-archery }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 59 } }
+    - { model: sohl-sohl-skill-chrm }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 37 } }
+    - { model: sohl-sohl-skill-cmd }
+    - { model: sohl-sohl-skill-cook }
+    - { model: sohl-sohl-skill-dnce }
+    - { model: sohl-sohl-skill-dscr }
+    - { model: sohl-sohl-skill-draw, name: Sketching (Drawing), system: { masteryLevelBase: 46 } }
+    - { model: sohl-sohl-skill-folklr }
+    - { model: sohl-sohl-skill-guil }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-shok }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 84 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 34 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-skill-pysn }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 18 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-srvl }
+    - { model: sohl-sohl-skill-spirit }
+    - { model: sohl-sohl-skill-swim }
+    - { model: sohl-sohl-skill-thtcs }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
+    - { model: sohl-sohl-mysticalability-sprt }
+    - { model: sohl-sohl-skill-lang, name: "Language: Trierzi", system: { masteryLevelBase: 93 } }
+    - { model: sohl-sohl-skill-script, name: "Script: Lakise", system: { masteryLevelBase: 81 } }
+    - model: sohl-sohl-mysticalability-astr
       name: Astromancy (Astrology)
       system:
         masteryLevelBase: 62
-    - { model: skill-hrld, system: { masteryLevelBase: 34 } }
-    - { model: skill-law, name: "Law: Melderyn", system: { masteryLevelBase: 83 } }
-    - model: mysticalability-tarot
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 34 } }
+    - { model: sohl-sohl-skill-law, name: "Law: Melderyn", system: { masteryLevelBase: 83 } }
+    - model: sohl-sohl-mysticalability-tarot
       name: Lythian Tarot (Tarotry)
       system:
         masteryLevelBase: 66
-    - { model: weapongear-Dgr }
-    - { model: armorgear-VTunic }
-    - { model: armorgear-VLeg }
-    - { model: armorgear-VClk }
-    - { model: armorgear-VCowl }
-    - { model: armorgear-LtCBoot }
-    - { model: containergear-bpchsmslk }
-    - { model: miscgear-pence, system: { quantity: 211 } }
-    - { model: miscgear-gldcrwn }
+    - { model: sohl-sohl-weapongear-Dgr }
+    - { model: sohl-sohl-armorgear-VTunic }
+    - { model: sohl-sohl-armorgear-VLeg }
+    - { model: sohl-sohl-armorgear-VClk }
+    - { model: sohl-sohl-armorgear-VCowl }
+    - { model: sohl-sohl-armorgear-LtCBoot }
+    - { model: sohl-sohl-containergear-bpchsmslk }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 211 } }
+    - { model: sohl-sohl-miscgear-gldcrwn }
     - { name: Save-K'nor, type: affiliation, system: { shortcode: saveknor, subType: divine } }
     - name: Save K'nor
       type: skill
