@@ -25,7 +25,7 @@ data:
   icon: fff1154tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 24
   born: 695/2/12
   height: 1.83
@@ -168,6 +168,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 67 } }
   system:
+    species: human
     sunsign: aralius
     move: 15
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 57
   born: 663/11/18
   height: 1.7
@@ -123,6 +123,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: masara
     move: 7
 sohl:

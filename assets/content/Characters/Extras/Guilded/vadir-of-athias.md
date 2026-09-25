@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 40
   born: 680/1/5
   height: 1.65
@@ -116,6 +116,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: ulandus-lado
     move: 10
 sohl:

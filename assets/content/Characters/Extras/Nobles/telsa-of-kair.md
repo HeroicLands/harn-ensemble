@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 41
   born: 679/11/26
   height: 1.6
@@ -118,6 +118,7 @@ hm3:
     - { shortcode: tankardpew, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: masara
     move: 12
 sohl:

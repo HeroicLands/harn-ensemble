@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 20
   born: 700/12/11
   height: 1.85
@@ -112,6 +112,7 @@ hm3:
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 8
 sohl:

@@ -24,7 +24,7 @@ data:
   icon: fff3211tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 48
   born: 671/11/21
   height: 1.78
@@ -193,6 +193,7 @@ hm3:
     - { shortcode: flaskofoilmetal, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 61 } }
   system:
+    species: human
     sunsign: masara
     move: 11
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 38
   born: 682/12/7
   height: 1.65
@@ -114,6 +114,7 @@ hm3:
         weight: 1
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 10
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: sindarin
+  species: sindarinflk
   age: 245
   born: 475/5/18
   height: 1.65
@@ -117,6 +117,7 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: sindarin
     sunsign: angberelius
     move: 12
 sohl:

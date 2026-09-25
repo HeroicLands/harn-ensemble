@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 27
   born: 693/8/18
   height: 1.68
@@ -139,6 +139,7 @@ hm3:
         weight: 0.1
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: tarael
     move: 13
 sohl:

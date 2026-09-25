@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 36
   born: 684/6/17
   height: 1.88
@@ -121,6 +121,7 @@ hm3:
         weight: 0.03
     - { shortcode: ropehempperft330lbcap, type: miscgear }
   system:
+    species: human
     sunsign: nadai
     move: 14
 sohl:

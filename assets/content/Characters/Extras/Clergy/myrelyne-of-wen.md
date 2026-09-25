@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 41
   born: 679/9/20
   height: 1.65
@@ -151,6 +151,7 @@ hm3:
         weight: 0.1
     - { shortcode: KiSh, type: weapongear }
   system:
+    species: human
     sunsign: tai
     move: 12
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 21
   born: 699/8/6
   height: 1.7
@@ -115,6 +115,7 @@ hm3:
         weight: 2
     - { shortcode: spadeshovel, type: miscgear }
   system:
+    species: human
     sunsign: tarael-hirin
     move: 12
 sohl:

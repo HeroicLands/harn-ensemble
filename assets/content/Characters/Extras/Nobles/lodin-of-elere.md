@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 50
   born: 670/4/3
   height: 1.88
@@ -128,6 +128,7 @@ hm3:
         weight: 0.03
     - { shortcode: RndSh, type: weapongear }
   system:
+    species: human
     sunsign: feniri-ahnu
     move: 10
 sohl:

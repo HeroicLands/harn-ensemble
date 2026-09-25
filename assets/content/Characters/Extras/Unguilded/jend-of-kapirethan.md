@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 21
   born: 699/3/3
   height: 1.57
@@ -117,6 +117,7 @@ hm3:
     - { shortcode: TwrSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: feniri-aralius
     move: 10
 sohl:

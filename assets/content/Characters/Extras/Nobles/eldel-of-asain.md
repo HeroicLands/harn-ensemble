@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 41
   born: 679/1/5
   height: 1.73
@@ -126,6 +126,7 @@ hm3:
         weight: 0.05
     - { shortcode: pipesmokin, type: miscgear }
   system:
+    species: human
     sunsign: ulandus-lado
     move: 9
 sohl:

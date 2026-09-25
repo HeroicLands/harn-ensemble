@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 23
   born: 697/2/23
   height: 1.83
@@ -123,6 +123,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: aralius
     move: 11
 sohl:

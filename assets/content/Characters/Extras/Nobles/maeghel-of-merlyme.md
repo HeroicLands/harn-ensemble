@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 47
   born: 673/6/17
   height: 1.6
@@ -115,6 +115,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: nadai
     move: 11
 sohl:

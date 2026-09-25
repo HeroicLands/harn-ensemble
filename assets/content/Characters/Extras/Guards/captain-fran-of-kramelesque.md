@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 34
   born: 686/11/20
   height: 1.8
@@ -119,6 +119,7 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: masara
     move: 15
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 32
   born: 688/4/21
   height: 1.7
@@ -110,6 +110,7 @@ hm3:
     - { shortcode: cookingkitportable, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: ahnu
     move: 14
 sohl:

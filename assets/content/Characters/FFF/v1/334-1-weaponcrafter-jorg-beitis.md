@@ -24,7 +24,7 @@ data:
   icon: fff3341tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 39
   height: 1.88
   weight: 81.65
@@ -170,6 +170,7 @@ hm3:
     - { shortcode: MByr, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 105 } }
   system:
+    species: human
     sunsign: saraju
     move: 10
 sohl:

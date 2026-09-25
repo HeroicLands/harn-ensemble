@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 28
   born: 692/12/29
   height: 1.8
@@ -105,6 +105,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 16
 sohl:

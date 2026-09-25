@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 31
   born: 689/9/10
   height: 1.65
@@ -132,6 +132,7 @@ hm3:
     - { shortcode: ropehempperft330lbcap, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: tai
     move: 12
 sohl:

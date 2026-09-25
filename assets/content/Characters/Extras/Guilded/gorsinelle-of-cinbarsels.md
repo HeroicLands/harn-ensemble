@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 37
   born: 683/6/4
   height: 1.75
@@ -112,6 +112,7 @@ hm3:
     - { shortcode: brushhair, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: angberelius
     move: 11
 sohl:

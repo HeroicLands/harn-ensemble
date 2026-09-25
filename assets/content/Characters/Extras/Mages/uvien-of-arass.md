@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 35
   born: 685/4/4
   height: 1.68
@@ -147,6 +147,7 @@ hm3:
     - { shortcode: writingkitportable, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: ahnu-feniri
     move: 9
 sohl:

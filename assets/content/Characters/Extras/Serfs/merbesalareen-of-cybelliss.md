@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 17
   born: 703/7/6
   height: 1.55
@@ -113,6 +113,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: hirin-nadai
     move: 11
 sohl:

@@ -24,7 +24,7 @@ data:
   icon: fff5991tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 13
   born: 706/6/30
   height: 1.57
@@ -137,6 +137,7 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 77 } }
   system:
+    species: human
     sunsign: nadai
     move: 18
 sohl:

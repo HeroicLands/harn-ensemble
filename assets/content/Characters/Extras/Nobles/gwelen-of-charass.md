@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 53
   born: 667/6/5
   height: 1.57
@@ -135,6 +135,7 @@ hm3:
     - { shortcode: papercasel, type: miscgear }
     - { shortcode: writingkitportable, type: miscgear }
   system:
+    species: human
     sunsign: angberelius-nadai
     move: 13
 sohl:

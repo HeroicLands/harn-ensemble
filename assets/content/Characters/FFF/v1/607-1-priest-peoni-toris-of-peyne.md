@@ -24,7 +24,7 @@ data:
   icon: fff6071tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 36
   born: 683/12/1
   height: 1.73
@@ -190,6 +190,7 @@ hm3:
     - { shortcode: peonipassageofthesoul, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 15 } }
   system:
+    species: human
     sunsign: masara/lado
     move: 12
 sohl:

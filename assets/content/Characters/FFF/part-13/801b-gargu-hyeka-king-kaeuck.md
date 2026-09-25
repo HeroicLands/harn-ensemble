@@ -23,7 +23,7 @@ data:
   icon: fff801bhead
   tokenIcon: fff801btok
   gender: male
-  species: hyeka
+  species: gargunflk
   age: 11
   born: 708/5/25
   height: 1.27
@@ -134,6 +134,7 @@ hm3:
     - { shortcode: LLeg, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 42 } }
   system:
+    species: hyeka
     sunsign: angberelius
     move: 9
 ---

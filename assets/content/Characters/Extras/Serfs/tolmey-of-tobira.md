@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 34
   born: 686/1/19
   height: 1.73
@@ -104,6 +104,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: textilecraftkit, type: miscgear }
   system:
+    species: human
     sunsign: ulandus
     move: 15
 sohl:

@@ -24,7 +24,7 @@ data:
   icon: fff4152tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 21
   born: 698/7/30
   height: 1.68
@@ -206,6 +206,7 @@ hm3:
         masteryLevel: 23
     - { shortcode: pence, type: miscgear, system: { quantity: 83 } }
   system:
+    species: human
     sunsign: hirin
     move: 13
 sohl:

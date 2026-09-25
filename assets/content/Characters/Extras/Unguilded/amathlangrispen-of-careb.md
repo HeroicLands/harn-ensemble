@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: sindarin
+  species: sindarinflk
   age: 180
   born: 540/12/1
   height: 1.63
@@ -114,6 +114,7 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: sindarin
     sunsign: masara-lado
     move: 8
 sohl:

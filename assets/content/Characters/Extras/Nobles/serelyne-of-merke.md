@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 36
   born: 684/5/20
   height: 1.75
@@ -119,6 +119,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: angberelius
     move: 14
 sohl:

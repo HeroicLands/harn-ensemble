@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 98
   born: 622/10/11
   height: 0.94
@@ -120,6 +120,7 @@ hm3:
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: khuzdul
     sunsign: skorus
     move: 11
 sohl:

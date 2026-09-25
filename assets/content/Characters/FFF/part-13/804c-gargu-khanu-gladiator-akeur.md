@@ -23,7 +23,7 @@ data:
   icon: fff804chead
   tokenIcon: fff804ctok
   gender: male
-  species: gargu-khanu
+  species: gargunflk
   age: 11
   born: 708/1/2
   height: 1.35
@@ -144,6 +144,7 @@ hm3:
     - { shortcode: LtLeg, type: armorgear }
     - { shortcode: KAil, type: armorgear }
   system:
+    species: gargu-khanu
     sunsign: lado-ulandus
     move: 14
 ---

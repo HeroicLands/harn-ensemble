@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 31
   born: 689/2/4
   height: 1.63
@@ -121,6 +121,7 @@ hm3:
         value: 75
         weight: 0.5
   system:
+    species: human
     sunsign: aralius-ulandus
     move: 8
 sohl:

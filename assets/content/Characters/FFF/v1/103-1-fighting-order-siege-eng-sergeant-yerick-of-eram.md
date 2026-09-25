@@ -24,7 +24,7 @@ data:
   icon: fff1031tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 46
   born: 673/6/22
   height: 1.7
@@ -179,6 +179,7 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: pence, type: miscgear, system: { quantity: 66 } }
   system:
+    species: human
     sunsign: nadai
     move: 11
 sohl:

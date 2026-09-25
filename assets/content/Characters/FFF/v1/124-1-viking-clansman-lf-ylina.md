@@ -24,7 +24,7 @@ data:
   icon: fff1241tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 25
   born: 694/3/17
   height: 1.7
@@ -206,6 +206,7 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 168 } }
   system:
+    species: human
     sunsign: feniri
     move: 12
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 27
   born: 693/8/4
   height: 1.73
@@ -117,6 +117,7 @@ hm3:
         weight: 2
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: hirin-tarael
     move: 9
 sohl:

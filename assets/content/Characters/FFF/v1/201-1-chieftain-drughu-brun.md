@@ -24,7 +24,7 @@ data:
   icon: fff2011tok
   templatePriority: 1
   gender: male
-  species: human (drughu)
+  species: humanflk
   age: 28
   born: 691/8/14
   height: 1.68
@@ -163,6 +163,7 @@ hm3:
     - { shortcode: prescience, type: psionic, name: Prescience (F2), system: { masteryLevel: 60 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 40 } }
   system:
+    species: human (drughu)
     sunsign: tarael
     move: 16
 sohl:

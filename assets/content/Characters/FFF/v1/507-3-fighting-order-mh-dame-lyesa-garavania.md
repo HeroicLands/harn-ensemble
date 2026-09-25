@@ -24,7 +24,7 @@ data:
   icon: fff5073tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 32
   born: 687/3/19
   height: 1.63
@@ -236,6 +236,7 @@ hm3:
         masteryLevel: 30
     - { shortcode: pence, type: miscgear, system: { quantity: 188 } }
   system:
+    species: human
     sunsign: feniri
     move: 11
 sohl:

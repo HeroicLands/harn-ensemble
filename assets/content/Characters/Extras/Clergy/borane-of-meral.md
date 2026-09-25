@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 27
   born: 693/8/25
   height: 1.73
@@ -143,6 +143,7 @@ hm3:
     - { shortcode: CTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
   system:
+    species: human
     sunsign: tarael
     move: 8
 sohl:

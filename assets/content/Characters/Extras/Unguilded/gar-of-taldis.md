@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 34
   born: 686/9/7
   height: 1.8
@@ -131,6 +131,7 @@ hm3:
         weight: 0.05
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: tai
     move: 11
 sohl:

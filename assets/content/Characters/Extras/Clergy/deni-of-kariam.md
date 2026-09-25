@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 34
   born: 686/7/8
   height: 1.8
@@ -156,6 +156,7 @@ hm3:
         value: 18
         weight: 0.1
   system:
+    species: human
     sunsign: hirin
     move: 6
 sohl:

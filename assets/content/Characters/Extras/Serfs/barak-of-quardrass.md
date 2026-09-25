@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 38
   born: 682/6/27
   height: 1.68
@@ -120,6 +120,7 @@ hm3:
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: nadai
     move: 12
 sohl:

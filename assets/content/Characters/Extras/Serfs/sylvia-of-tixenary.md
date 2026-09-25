@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 22
   born: 698/7/5
   height: 1.65
@@ -116,6 +116,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: nadai-hirin
     move: 14
 sohl:

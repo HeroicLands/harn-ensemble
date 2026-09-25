@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 36
   born: 684/8/9
   height: 1.85
@@ -133,6 +133,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
   system:
+    species: human
     sunsign: tarael
     move: 14
 sohl:

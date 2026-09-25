@@ -25,7 +25,7 @@ data:
   icon: fff4022tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 29
   born: 690/6/17
   height: 1.8
@@ -173,6 +173,7 @@ hm3:
     - { shortcode: BltCxb, type: missilegear, name: Bolt (Crossbow), system: { quantity: 12 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 16 } }
   system:
+    species: human
     sunsign: nadai
     move: 12
 sohl:

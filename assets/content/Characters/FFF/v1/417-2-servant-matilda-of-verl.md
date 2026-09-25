@@ -24,7 +24,7 @@ data:
   icon: fff4172tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 14
   born: 705/7/1
   height: 1.5
@@ -160,6 +160,7 @@ hm3:
     - { shortcode: telepathy, type: psionic, name: Telepathy (F3), system: { masteryLevel: 36 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 9 } }
   system:
+    species: human
     sunsign: ulandus
     move: 14
 sohl:

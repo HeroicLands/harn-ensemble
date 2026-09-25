@@ -24,7 +24,7 @@ data:
   icon: fff3051tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 50
   born: 669/5/14
   height: 1.83
@@ -138,6 +138,7 @@ hm3:
     - { shortcode: beltwaist, type: miscgear }
     - { shortcode: LtShoe, type: armorgear }
   system:
+    species: human
     sunsign: angberelius
     move: 16
 sohl:

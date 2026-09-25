@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 45
   born: 675/2/22
   height: 1.65
@@ -116,6 +116,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: KnSh, type: weapongear }
   system:
+    species: human
     sunsign: aralius
     move: 15
 sohl:

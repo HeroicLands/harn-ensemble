@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 36
   born: 684/2/5
   height: 1.65
@@ -118,6 +118,7 @@ hm3:
         weight: 0.03
     - { shortcode: TwrSh, type: weapongear }
   system:
+    species: human
     sunsign: aralius-ulandus
     move: 7
 sohl:

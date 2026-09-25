@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 20
   born: 700/11/16
   height: 1.7
@@ -131,6 +131,7 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
   system:
+    species: human
     sunsign: masara
     move: 13
 sohl:

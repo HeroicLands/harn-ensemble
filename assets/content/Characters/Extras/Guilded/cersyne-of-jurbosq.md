@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 33
   born: 687/12/4
   height: 1.57
@@ -110,6 +110,7 @@ hm3:
     - { shortcode: spadeshovel, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 10
 sohl:

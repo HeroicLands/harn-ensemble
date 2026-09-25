@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 20
   born: 700/12/12
   height: 1.83
@@ -108,6 +108,7 @@ hm3:
     - { shortcode: textilecraftkit, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 13
 sohl:

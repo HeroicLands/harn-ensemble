@@ -23,7 +23,7 @@ data:
   icon: fff804ehead
   tokenIcon: fff804etok
   gender: male
-  species: khanu
+  species: gargunflk
   age: 10
   born: 709/1/8
   height: 1.68
@@ -125,6 +125,7 @@ hm3:
         value: 5
         weight: 0.25
   system:
+    species: khanu
     sunsign: ulandus
     move: 13
 ---

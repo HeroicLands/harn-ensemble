@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 28
   born: 692/10/26
   height: 1.73
@@ -147,6 +147,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
   system:
+    species: human
     sunsign: skorus
     move: 11
 sohl:

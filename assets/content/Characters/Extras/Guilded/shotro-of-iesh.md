@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 35
   born: 685/4/4
   height: 1.8
@@ -120,6 +120,7 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: ahnu-feniri
     move: 8
 sohl:

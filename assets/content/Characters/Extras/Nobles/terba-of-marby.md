@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 42
   born: 678/4/16
   height: 1.6
@@ -113,6 +113,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: RndSh, type: weapongear }
   system:
+    species: human
     sunsign: ahnu
     move: 16
 sohl:

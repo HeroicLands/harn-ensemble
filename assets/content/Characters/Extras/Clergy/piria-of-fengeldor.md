@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 38
   born: 682/12/11
   height: 1.55
@@ -146,6 +146,7 @@ hm3:
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: Kni, type: weapongear }
   system:
+    species: human
     sunsign: lado
     move: 11
 sohl:

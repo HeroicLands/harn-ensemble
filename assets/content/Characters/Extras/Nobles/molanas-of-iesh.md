@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 46
   born: 674/2/10
   height: 1.65
@@ -132,6 +132,7 @@ hm3:
         weight: 1
     - { shortcode: KnSh, type: weapongear }
   system:
+    species: human
     sunsign: aralius
     move: 4
 sohl:

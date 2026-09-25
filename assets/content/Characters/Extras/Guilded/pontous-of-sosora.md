@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 37
   born: 683/1/3
   height: 1.63
@@ -119,6 +119,7 @@ hm3:
         weight: 0.05
     - { shortcode: tndrbx, type: miscgear }
   system:
+    species: human
     sunsign: lado-ulandus
     move: 6
 sohl:

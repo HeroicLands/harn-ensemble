@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 106
   born: 614/5/8
   height: 1.42
@@ -118,6 +118,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: spoonpewte, type: miscgear }
   system:
+    species: khuzdul
     sunsign: angberelius
     move: 11
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 19
   born: 701/11/6
   height: 1.75
@@ -104,6 +104,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: WCap, type: armorgear }
   system:
+    species: human
     sunsign: masara
     move: 12
 sohl:

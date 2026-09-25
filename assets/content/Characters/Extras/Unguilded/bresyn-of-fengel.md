@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 42
   born: 678/10/19
   height: 1.91
@@ -119,6 +119,7 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: skorus
     move: 9
 sohl:

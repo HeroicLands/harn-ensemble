@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 132
   born: 588/3/13
   height: 1.5
@@ -127,6 +127,7 @@ hm3:
         weight: 0.03
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: khuzdul
     sunsign: feniri
     move: 6
 sohl:

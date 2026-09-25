@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 26
   born: 694/3/20
   height: 1.78
@@ -106,6 +106,7 @@ hm3:
     - { shortcode: spoonwooden, type: miscgear }
     - { shortcode: woodcarvingkitportable, type: miscgear }
   system:
+    species: human
     sunsign: feniri
     move: 8
 sohl:

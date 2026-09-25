@@ -23,7 +23,7 @@ data:
   icon: fff5041tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 15
   born: 704/3/15
   height: 1.63
@@ -138,6 +138,7 @@ hm3:
     - { shortcode: LtGntl, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
   system:
+    species: human
     sunsign: feniri
     move: 17
 sohl:

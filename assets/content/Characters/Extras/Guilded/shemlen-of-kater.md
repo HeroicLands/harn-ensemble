@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 30
   born: 690/9/20
   height: 1.8
@@ -115,6 +115,7 @@ hm3:
     - { shortcode: firstaidbagwinstruments, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: tai
     move: 9
 sohl:

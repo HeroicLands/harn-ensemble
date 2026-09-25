@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 18
   born: 702/7/4
   height: 1.7
@@ -114,6 +114,7 @@ hm3:
         weight: 1
     - { shortcode: RndSh, type: weapongear }
   system:
+    species: human
     sunsign: nadai-hirin
     move: 12
 sohl:

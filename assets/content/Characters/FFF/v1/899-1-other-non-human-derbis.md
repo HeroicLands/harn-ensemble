@@ -23,7 +23,7 @@ harnworld:
 data:
   icon: fff8991tok
   gender: male
-  species: ogre
+  species: ogreflk
   height: 2.79
   weight: 226.8
   frame: massive
@@ -155,6 +155,7 @@ hm3:
         shortcode: telepathyotherspecies
         masteryLevel: 36
   system:
+    species: ogre
     sunsign: ""
     move: 11
 ---

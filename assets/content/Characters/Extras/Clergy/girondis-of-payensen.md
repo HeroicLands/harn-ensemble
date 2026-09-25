@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 24
   born: 696/3/18
   height: 1.6
@@ -143,6 +143,7 @@ hm3:
     - { shortcode: SgTunic, type: armorgear }
     - { shortcode: Kni, type: weapongear }
   system:
+    species: human
     sunsign: feniri
     move: 5
 sohl:

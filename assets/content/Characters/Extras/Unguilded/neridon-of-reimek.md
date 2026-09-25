@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 100
   born: 620/2/3
   height: 1.24
@@ -123,6 +123,7 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: khuzdul
     sunsign: ulandus-aralius
     move: 0
 sohl:

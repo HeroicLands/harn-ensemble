@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 38
   born: 682/9/11
   height: 1.68
@@ -127,6 +127,7 @@ hm3:
         weight: 0.03
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: tai
     move: 13
 sohl:

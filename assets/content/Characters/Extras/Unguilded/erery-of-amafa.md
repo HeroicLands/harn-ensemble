@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 32
   born: 688/8/30
   height: 1.8
@@ -117,6 +117,7 @@ hm3:
     - { shortcode: flaskofoilmetal, type: miscgear }
     - { shortcode: lanternmet, type: miscgear }
   system:
+    species: human
     sunsign: tarael
     move: 12
 sohl:

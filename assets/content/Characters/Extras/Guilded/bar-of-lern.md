@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 40
   born: 680/6/5
   height: 1.68
@@ -116,6 +116,7 @@ hm3:
         weight: 15
     - { shortcode: tndrbx, type: miscgear }
   system:
+    species: human
     sunsign: angberelius-nadai
     move: 11
 sohl:

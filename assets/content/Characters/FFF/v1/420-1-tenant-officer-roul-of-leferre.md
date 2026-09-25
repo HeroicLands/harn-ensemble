@@ -24,7 +24,7 @@ data:
   icon: fff4201tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 38
   born: 681/10/6
   height: 1.75
@@ -166,6 +166,7 @@ hm3:
     - { shortcode: KHlfHelm, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 36 } }
   system:
+    species: human
     sunsign: skorus
     move: 11
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 24
   born: 696/3/14
   height: 1.68
@@ -122,6 +122,7 @@ hm3:
         value: 20
         weight: 0.1
   system:
+    species: human
     sunsign: feniri
     move: 10
 sohl:

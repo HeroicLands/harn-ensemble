@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 31
   born: 689/9/26
   height: 1.55
@@ -139,6 +139,7 @@ hm3:
         value: 75
         weight: 0.5
   system:
+    species: human
     sunsign: tai
     move: 10
 sohl:

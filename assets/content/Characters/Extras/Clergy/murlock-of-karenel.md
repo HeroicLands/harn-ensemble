@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 46
   born: 674/12/23
   height: 1.7
@@ -160,6 +160,7 @@ hm3:
         value: 8
         weight: 0.1
   system:
+    species: human
     sunsign: lado
     move: 13
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 25
   born: 695/3/24
   height: 1.7
@@ -120,6 +120,7 @@ hm3:
     - { shortcode: TwrSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: feniri
     move: 13
 sohl:

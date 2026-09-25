@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 23
   born: 697/12/9
   height: 1.65
@@ -122,6 +122,7 @@ hm3:
     - { shortcode: firstaidbagwinstruments, type: miscgear }
     - { shortcode: writingkitportable, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 17
 sohl:

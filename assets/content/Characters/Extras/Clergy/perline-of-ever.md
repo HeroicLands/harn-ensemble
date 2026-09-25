@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 42
   born: 678/1/22
   height: 1.73
@@ -150,6 +150,7 @@ hm3:
     - { shortcode: Mce, type: weapongear }
     - { shortcode: Kni, type: weapongear }
   system:
+    species: human
     sunsign: ulandus
     move: 12
 sohl:

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: khuzdul
+  species: khuzdulflk
   age: 127
   born: 593/1/28
   height: 1.57
@@ -122,6 +122,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: khuzdul
     sunsign: ulandus
     move: 7
 sohl:

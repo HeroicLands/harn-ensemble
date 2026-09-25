@@ -24,7 +24,7 @@ data:
   icon: fff3112tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 36
   born: 683/6/7
   height: 1.78
@@ -183,6 +183,7 @@ hm3:
     - { shortcode: MByr, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 102 } }
   system:
+    species: human
     sunsign: angberelius-nadai
     move: 12
 sohl:

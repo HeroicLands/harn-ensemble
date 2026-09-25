@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 24
   born: 696/12/14
   height: 1.7
@@ -133,6 +133,7 @@ hm3:
         weight: 0.1
     - { shortcode: waxsealing, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 16
 sohl:

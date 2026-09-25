@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 28
   born: 692/3/2
   height: 1.57
@@ -111,6 +111,7 @@ hm3:
     - { shortcode: spoonpewte, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
   system:
+    species: human
     sunsign: aralius-feniri
     move: 11
 sohl:

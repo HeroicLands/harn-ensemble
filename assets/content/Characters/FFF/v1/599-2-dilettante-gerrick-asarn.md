@@ -24,7 +24,7 @@ data:
   icon: fff5992tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 30
   born: 689/8/5
   height: 1.91
@@ -129,6 +129,7 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 100 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 5 } }
   system:
+    species: human
     sunsign: hirin-tarael
     move: 10
 sohl:

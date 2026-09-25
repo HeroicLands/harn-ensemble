@@ -24,7 +24,7 @@ data:
   icon: fff3103tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 18
   born: 701/1/28
   height: 1.83
@@ -199,6 +199,7 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 54 } }
   system:
+    species: human
     sunsign: ulandus
     move: 13
 sohl:

@@ -24,7 +24,7 @@ data:
   icon: fff1081tok
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 89
   born: 630/7/2
   height: 1.35
@@ -250,6 +250,7 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 267 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 4 } }
   system:
+    species: khuzdul
     sunsign: nadai
     move: 8
 sohl:

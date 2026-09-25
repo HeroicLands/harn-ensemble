@@ -25,7 +25,7 @@ data:
   icon: fff3252tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 34
   born: 685/12/20
   height: 1.83
@@ -158,6 +158,7 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 88 } }
   system:
+    species: human
     sunsign: lado
     move: 12
 sohl:

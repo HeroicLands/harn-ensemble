@@ -23,7 +23,7 @@ data:
   icon: fff803bhead
   tokenIcon: fff803btok
   gender: female
-  species: kyani
+  species: gargunflk
   age: 10
   born: 709/4/21
   height: 1.02
@@ -157,6 +157,7 @@ hm3:
     - { shortcode: PlAil, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 180 } }
   system:
+    species: kyani
     sunsign: ahnu
     move: 13
 ---

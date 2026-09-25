@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 37
   born: 683/2/2
   height: 1.75
@@ -121,6 +121,7 @@ hm3:
         weight: 0.25
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: ulandus-aralius
     move: 13
 sohl:

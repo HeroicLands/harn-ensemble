@@ -24,7 +24,7 @@ data:
   icon: fff5064tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 24
   born: 695/4/12
   height: 1.88
@@ -190,6 +190,7 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 778 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
   system:
+    species: human
     sunsign: ahnu
     move: 12
 sohl:

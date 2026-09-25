@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: sindarin
+  species: sindarinflk
   age: 152
   born: 568/7/19
   height: 1.78
@@ -126,6 +126,7 @@ hm3:
     - { shortcode: tankardwooden, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: sindarin
     sunsign: hirin
     move: 13
 sohl:

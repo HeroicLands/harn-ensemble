@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 31
   born: 689/5/25
   height: 1.6
@@ -137,6 +137,7 @@ hm3:
         weight: 0.5
     - { shortcode: woodcarvingkitportable, type: miscgear }
   system:
+    species: human
     sunsign: angberelius
     move: 17
 sohl:

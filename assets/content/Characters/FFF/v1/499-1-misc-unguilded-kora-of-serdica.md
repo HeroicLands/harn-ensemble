@@ -24,7 +24,7 @@ data:
   icon: fff4991tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 59
   born: 660/11/24
   height: 1.55
@@ -145,6 +145,7 @@ hm3:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 24 } }
   system:
+    species: human
     sunsign: masara
     move: 9
 sohl:

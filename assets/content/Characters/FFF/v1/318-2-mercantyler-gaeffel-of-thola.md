@@ -24,7 +24,7 @@ data:
   icon: fff3182tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 22
   born: 697/9/26
   height: 1.5
@@ -214,6 +214,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 61 } }
   system:
+    species: human
     sunsign: tai
     move: 17
 sohl:

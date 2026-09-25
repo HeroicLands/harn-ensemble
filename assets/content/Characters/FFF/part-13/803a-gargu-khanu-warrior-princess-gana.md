@@ -23,7 +23,7 @@ data:
   icon: fff803ahead
   tokenIcon: fff803atok
   gender: female
-  species: gargu-khanu
+  species: gargunflk
   age: 12
   born: 707/4/16
   height: 1.32
@@ -178,6 +178,7 @@ hm3:
         weight: 0.01
     - { shortcode: pence, type: miscgear, system: { quantity: 150 } }
   system:
+    species: gargu-khanu
     sunsign: ahnu
     move: 13
 ---

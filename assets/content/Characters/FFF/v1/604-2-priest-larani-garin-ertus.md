@@ -24,7 +24,7 @@ data:
   icon: fff6042tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 23
   born: 696/8/15
   height: 1.83
@@ -185,6 +185,7 @@ hm3:
     - { shortcode: heraldoftheendoflife, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 99 } }
   system:
+    species: human
     sunsign: tarael
     move: 17
 sohl:

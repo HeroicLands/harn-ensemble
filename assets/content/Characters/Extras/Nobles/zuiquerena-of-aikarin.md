@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 26
   born: 694/1/23
   height: 1.47
@@ -117,6 +117,7 @@ hm3:
     - { shortcode: KiSh, type: weapongear }
     - { shortcode: tankardwooden, type: miscgear }
   system:
+    species: human
     sunsign: ulandus
     move: 14
 sohl:

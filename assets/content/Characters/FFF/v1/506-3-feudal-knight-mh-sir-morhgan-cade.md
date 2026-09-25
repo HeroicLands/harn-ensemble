@@ -24,7 +24,7 @@ data:
   icon: fff5063tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 33
   born: 686/3/19
   height: 1.78
@@ -174,6 +174,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 103 } }
   system:
+    species: human
     sunsign: feniri
     move: 11
 sohl:

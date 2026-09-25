@@ -24,7 +24,7 @@ data:
   icon: fff3301tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 93
   born: 626/5/14
   height: 1.55
@@ -127,6 +127,7 @@ hm3:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 15 } }
   system:
+    species: human
     sunsign: angberelius
     move: 4
 sohl:

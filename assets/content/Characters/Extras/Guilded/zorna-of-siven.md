@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 21
   born: 699/4/15
   height: 1.63
@@ -112,6 +112,7 @@ hm3:
         weight: 1
     - { shortcode: WCap, type: armorgear }
   system:
+    species: human
     sunsign: ahnu
     move: 14
 sohl:

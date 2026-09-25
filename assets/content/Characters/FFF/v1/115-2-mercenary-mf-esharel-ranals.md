@@ -24,7 +24,7 @@ data:
   icon: fff1152tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 39
   born: 680/8/8
   height: 1.88
@@ -203,6 +203,7 @@ hm3:
     - { shortcode: beltpouchl3, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 189 } }
   system:
+    species: human
     sunsign: tarael
     move: 12
 sohl:

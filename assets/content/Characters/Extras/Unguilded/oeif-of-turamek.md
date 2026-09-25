@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: khuzdul
+  species: khuzdulflk
   age: 93
   born: 627/9/23
   height: 1.3
@@ -127,6 +127,7 @@ hm3:
         value: 2
         weight: 0.1
   system:
+    species: khuzdul
     sunsign: tai
     move: 10
 sohl:

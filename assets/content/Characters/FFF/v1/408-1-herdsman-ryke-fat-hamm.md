@@ -25,7 +25,7 @@ data:
   icon: fff4081tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 43
   born: 676/6/16
   height: 1.73
@@ -189,6 +189,7 @@ hm3:
     - { shortcode: ArwSbw, type: missilegear, name: Arrow (Shortbow), system: { quantity: 12 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 12 } }
   system:
+    species: human
     sunsign: nadai
     move: 14
 sohl:

@@ -23,7 +23,7 @@ data:
   icon: fff802bhead
   tokenIcon: fff802btok
   gender: female
-  species: hyeka
+  species: gargunflk
   age: 20
   born: 699/12/15
   height: 1.09
@@ -141,6 +141,7 @@ hm3:
         value: 5
         weight: 0.25
   system:
+    species: hyeka
     sunsign: lado
     move: 10
 ---

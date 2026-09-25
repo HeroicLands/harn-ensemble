@@ -23,7 +23,7 @@ data:
   icon: fff804ahead
   tokenIcon: fff804atok
   gender: male
-  species: viasal
+  species: gargunflk
   age: 12
   born: 707/8/5
   height: 1.12
@@ -138,6 +138,7 @@ hm3:
         weight: 0.3125
     - { shortcode: pence, type: miscgear, system: { quantity: 50 } }
   system:
+    species: viasal
     sunsign: tarael-hirin
     move: 7
 ---

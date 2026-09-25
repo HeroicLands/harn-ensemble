@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: khuzdul
+  species: khuzdulflk
   age: 119
   born: 601/2/23
   height: 1.5
@@ -111,6 +111,7 @@ hm3:
     - { shortcode: backbagsmcanvas, type: containergear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: khuzdul
     sunsign: aralius
     move: 12
 sohl:

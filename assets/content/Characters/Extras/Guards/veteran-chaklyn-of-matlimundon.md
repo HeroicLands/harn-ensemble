@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 31
   born: 689/12/21
   height: 1.6
@@ -124,6 +124,7 @@ hm3:
     - { shortcode: RndSh, type: weapongear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: lado
     move: 17
 sohl:

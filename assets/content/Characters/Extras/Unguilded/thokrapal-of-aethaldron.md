@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: khuzdul
+  species: khuzdulflk
   age: 92
   born: 628/8/23
   height: 1.22
@@ -124,6 +124,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: khuzdul
     sunsign: tarael
     move: 12
 sohl:

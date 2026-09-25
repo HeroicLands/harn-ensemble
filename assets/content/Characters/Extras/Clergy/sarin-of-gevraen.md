@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 26
   born: 694/10/2
   height: 1.78
@@ -134,6 +134,7 @@ hm3:
     - { shortcode: CTunic, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
   system:
+    species: human
     sunsign: tai-skorus
     move: 16
 sohl:

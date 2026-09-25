@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 36
   born: 684/5/11
   height: 1.57
@@ -151,6 +151,7 @@ hm3:
         value: 8
         weight: 0.1
   system:
+    species: human
     sunsign: angberelius
     move: 7
 sohl:

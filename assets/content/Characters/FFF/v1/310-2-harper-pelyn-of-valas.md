@@ -24,7 +24,7 @@ data:
   icon: fff3102tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 32
   born: 687/1/10
   height: 1.75
@@ -229,6 +229,7 @@ hm3:
         weight: 1
     - { shortcode: pence, type: miscgear, system: { quantity: 27 } }
   system:
+    species: human
     sunsign: ulandus
     move: 13
 sohl:

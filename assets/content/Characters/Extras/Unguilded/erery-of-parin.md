@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 37
   born: 683/2/13
   height: 1.55
@@ -134,6 +134,7 @@ hm3:
     - { shortcode: waxsealing, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: aralius
     move: 11
 sohl:

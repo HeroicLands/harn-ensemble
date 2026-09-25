@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 39
   born: 681/9/1
   height: 1.63
@@ -107,6 +107,7 @@ hm3:
     - { shortcode: LtCap, type: armorgear }
     - { shortcode: WCap, type: armorgear }
   system:
+    species: human
     sunsign: tarael
     move: 9
 sohl:

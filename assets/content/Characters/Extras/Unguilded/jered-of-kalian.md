@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 27
   born: 693/6/22
   height: 1.6
@@ -121,6 +121,7 @@ hm3:
     - { shortcode: mirrorbron, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
   system:
+    species: human
     sunsign: nadai
     move: 12
 sohl:

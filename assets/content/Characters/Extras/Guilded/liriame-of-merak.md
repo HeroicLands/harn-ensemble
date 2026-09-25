@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 39
   born: 681/8/11
   height: 1.7
@@ -106,6 +106,7 @@ hm3:
     - { shortcode: pipesmokin, type: miscgear }
     - { shortcode: textilecraftkit, type: miscgear }
   system:
+    species: human
     sunsign: tarael
     move: 13
 sohl:

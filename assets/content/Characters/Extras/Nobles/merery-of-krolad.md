@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 25
   born: 695/6/25
   height: 1.8
@@ -113,6 +113,7 @@ hm3:
     - { shortcode: KiSh, type: weapongear }
     - { shortcode: tndrbx, type: miscgear }
   system:
+    species: human
     sunsign: nadai
     move: 14
 sohl:

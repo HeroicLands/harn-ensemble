@@ -23,7 +23,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 30
   born: 690/2/22
   height: 1.83
@@ -140,6 +140,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: RndSh, type: weapongear }
   system:
+    species: human
     sunsign: aralius
     move: 12
 sohl:

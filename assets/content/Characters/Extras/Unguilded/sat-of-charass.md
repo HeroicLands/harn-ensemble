@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 32
   born: 688/8/23
   height: 1.7
@@ -104,6 +104,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: tankardpew, type: miscgear }
   system:
+    species: human
     sunsign: tarael
     move: 14
 sohl:

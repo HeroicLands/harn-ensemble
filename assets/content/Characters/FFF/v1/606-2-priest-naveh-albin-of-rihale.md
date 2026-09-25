@@ -24,7 +24,7 @@ data:
   icon: fff6062tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 34
   born: 686/7/5
   height: 1.68
@@ -229,6 +229,7 @@ hm3:
     - { shortcode: houseinkamil, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 49 } }
   system:
+    species: human
     sunsign: nadai-hirin
     move: 13
 sohl:

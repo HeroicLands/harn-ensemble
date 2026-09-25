@@ -25,7 +25,7 @@ data:
   icon: fff801chead
   tokenIcon: fff801ctok
   gender: male
-  species: gargu-hyeka
+  species: gargunflk
   age: 15
   born: 704/6/10
   height: 1.22
@@ -150,6 +150,7 @@ hm3:
     - { shortcode: KVamb, type: armorgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 36 } }
   system:
+    species: gargu-hyeka
     sunsign: nadal
     move: 11
 ---

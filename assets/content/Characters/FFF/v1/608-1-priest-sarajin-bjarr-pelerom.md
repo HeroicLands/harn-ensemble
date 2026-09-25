@@ -24,7 +24,7 @@ data:
   icon: fff6081tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 42
   born: 677/9/4
   height: 1.8
@@ -223,6 +223,7 @@ hm3:
     - { shortcode: fakangsedge, type: invocation }
     - { shortcode: pence, type: miscgear, system: { quantity: 116 } }
   system:
+    species: human
     sunsign: tai-tarael
     move: 12
 sohl:

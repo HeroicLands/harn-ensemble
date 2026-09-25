@@ -23,7 +23,7 @@ data:
   icon: fff802ahead
   tokenIcon: fff802atok
   gender: female
-  species: araki
+  species: gargunflk
   age: 14
   born: 705/2/7
   height: 0.91
@@ -122,6 +122,7 @@ hm3:
         protection.piercing: 1
         protection.fire: 3
   system:
+    species: araki
     sunsign: aralius
     move: 10
 ---

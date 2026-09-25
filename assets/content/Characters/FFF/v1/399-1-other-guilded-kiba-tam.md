@@ -25,7 +25,7 @@ data:
   icon: fff3991tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 17
   born: 702/9/27
   height: 1.73
@@ -194,6 +194,7 @@ hm3:
     - { shortcode: prescience, type: psionic, name: Prescience (F2), system: { masteryLevel: 37 } }
     - { shortcode: telepathy, type: psionic, name: Telepathy (F3), system: { masteryLevel: 44 } }
   system:
+    species: human
     sunsign: tai
     move: 16
 sohl:

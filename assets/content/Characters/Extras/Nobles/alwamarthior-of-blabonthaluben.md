@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: sindarin
+  species: sindarinflk
   age: 193
   born: 527/12/7
   height: 1.55
@@ -123,6 +123,7 @@ hm3:
         weight: 1
         value: 0
   system:
+    species: sindarin
     sunsign: lado
     move: 17
 sohl:

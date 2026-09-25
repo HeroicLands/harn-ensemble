@@ -24,7 +24,7 @@ data:
   icon: fff6011tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 24
   born: 695/11/22
   height: 1.78
@@ -224,6 +224,7 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 130 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 2 } }
   system:
+    species: human
     sunsign: masara
     move: 17
 sohl:

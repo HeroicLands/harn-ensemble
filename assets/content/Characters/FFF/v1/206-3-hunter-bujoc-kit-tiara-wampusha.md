@@ -24,7 +24,7 @@ data:
   icon: fff2063tok
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 20
   born: 699/8/18
   height: 1.73
@@ -167,6 +167,7 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 14 } }
   system:
+    species: human
     sunsign: tarael
     move: 13
 sohl:

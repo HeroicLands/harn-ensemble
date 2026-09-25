@@ -24,7 +24,7 @@ data:
   icon: fff2062tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 34
   born: 685/6/9
   height: 2.18
@@ -181,6 +181,7 @@ hm3:
     - { shortcode: quiverlgsh, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 8 } }
   system:
+    species: human
     sunsign: angberelius/nadai
     move: 11
 sohl:

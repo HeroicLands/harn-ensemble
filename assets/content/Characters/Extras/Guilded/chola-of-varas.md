@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 40
   born: 680/4/12
   height: 1.75
@@ -117,6 +117,7 @@ hm3:
         weight: 1
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: ahnu
     move: 12
 sohl:

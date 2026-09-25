@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 26
   born: 694/10/14
   height: 1.24
@@ -148,6 +148,7 @@ hm3:
         weight: 0.5
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: skorus
     move: 6
 sohl:

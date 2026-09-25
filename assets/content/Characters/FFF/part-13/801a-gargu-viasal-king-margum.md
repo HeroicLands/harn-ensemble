@@ -23,7 +23,7 @@ data:
   icon: fff801ahead
   tokenIcon: fff801atok
   gender: male
-  species: gargu-viasal
+  species: gargunflk
   age: 15
   born: 704/9/20
   height: 1.27
@@ -148,6 +148,7 @@ hm3:
     - { shortcode: SShHaub, type: armorgear }
     - { shortcode: KRebr, type: armorgear }
   system:
+    species: gargu-viasal
     sunsign: tai
     move: 12
 ---

@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 43
   born: 677/9/14
   height: 1.83
@@ -107,6 +107,7 @@ hm3:
     - { shortcode: Kni, type: weapongear }
     - { shortcode: spoonwooden, type: miscgear }
   system:
+    species: human
     sunsign: tai
     move: 13
 sohl:

@@ -24,7 +24,7 @@ data:
   icon: fff5061tok
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 33
   height: 1.85
   weight: 87.09
@@ -225,6 +225,7 @@ hm3:
     - { shortcode: pence, type: miscgear, system: { quantity: 108 } }
     - { shortcode: gldcrwn, type: miscgear, system: { quantity: 10 } }
   system:
+    species: human
     sunsign: ""
     move: 12
 sohl:

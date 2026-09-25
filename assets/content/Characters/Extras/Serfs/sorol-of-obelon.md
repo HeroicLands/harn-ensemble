@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: human
+  species: humanflk
   age: 35
   born: 685/1/26
   height: 1.75
@@ -124,6 +124,7 @@ hm3:
     - { shortcode: scythe, type: miscgear }
     - { shortcode: spadeshovel, type: miscgear }
   system:
+    species: human
     sunsign: ulandus
     move: 10
 sohl:

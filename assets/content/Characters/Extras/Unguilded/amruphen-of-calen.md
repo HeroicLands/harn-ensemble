@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: sindarin
+  species: sindarinflk
   age: 255
   born: 465/1/5
   height: 1.65
@@ -130,6 +130,7 @@ hm3:
     - { shortcode: KnSh, type: weapongear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: sindarin
     sunsign: ulandus-lado
     move: 14
 sohl:

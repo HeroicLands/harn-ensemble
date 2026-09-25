@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: male
-  species: khuzdul
+  species: khuzdulflk
   age: 85
   born: 635/3/27
   height: 1.37
@@ -122,6 +122,7 @@ hm3:
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: pipesmokin, type: miscgear }
   system:
+    species: khuzdul
     sunsign: feniri
     move: 9
 sohl:

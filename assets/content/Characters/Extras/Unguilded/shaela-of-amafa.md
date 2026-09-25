@@ -22,7 +22,7 @@ harnworld:
 data:
   templatePriority: 1
   gender: female
-  species: human
+  species: humanflk
   age: 24
   born: 696/11/24
   height: 1.73
@@ -135,6 +135,7 @@ hm3:
     - { shortcode: waxsealing, type: miscgear }
     - { shortcode: waterskinsm, type: miscgear }
   system:
+    species: human
     sunsign: masara
     move: 14
 sohl:
