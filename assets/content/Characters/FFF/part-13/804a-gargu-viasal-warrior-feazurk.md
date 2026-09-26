@@ -1,14 +1,8 @@
 ---
-tags:
-  - character
-name:
-  full: Feazurk
-  title: ""
-  given: Feazurk
-  clan: ""
-  aliases: []
 shortcode: feazurk
+name: {full: Feazurk, title: "", given: Feazurk, clan: "", aliases: []}
 type: being
+tags: [character]
 data:
   icon: fff804ahead
   tokenIcon: fff804atok
@@ -24,18 +18,11 @@ data:
     hair_color: dark red
     skin_color: pallid
     complexion: ugly
-    extra_features:
-      - Scars
-  harnworld:
-    realm: ""
-    ritual: []
+    extra_features: [Scars]
+  harnworld: {realm: "", ritual: []}
   id: 4s2kMbsyAnjadFUk
   packFolder: fffnonhumans
-  social:
-    occupation: Warrior
-    class: warrior
-    society: gargun (viasal)
-    organizations: []
+  social: {occupation: Warrior, class: warrior, society: gargun (viasal), organizations: []}
 hm3:
   type: character
   attributes:
@@ -53,72 +40,66 @@ hm3:
     cml: 2
     mor: 4
   items:
-    - { shortcode: skull, type: armorlocation }
-    - { shortcode: face, type: armorlocation }
-    - { shortcode: neck, type: armorlocation }
-    - { shortcode: lshoulder, type: armorlocation }
-    - { shortcode: rshoulder, type: armorlocation }
-    - { shortcode: luparm, type: armorlocation }
-    - { shortcode: ruparm, type: armorlocation }
-    - { shortcode: lelb, type: armorlocation }
-    - { shortcode: relb, type: armorlocation }
-    - { shortcode: lhand, type: armorlocation }
-    - { shortcode: rhand, type: armorlocation }
-    - { shortcode: thorax, type: armorlocation }
-    - { shortcode: abdm, type: armorlocation }
-    - { shortcode: groin, type: armorlocation }
-    - { shortcode: lhip, type: armorlocation }
-    - { shortcode: rhip, type: armorlocation }
-    - { shortcode: lthigh, type: armorlocation }
-    - { shortcode: rthigh, type: armorlocation }
-    - { shortcode: lknee, type: armorlocation }
-    - { shortcode: rknee, type: armorlocation }
-    - { shortcode: lcalf, type: armorlocation }
-    - { shortcode: rcalf, type: armorlocation }
-    - { shortcode: lfoot, type: armorlocation }
-    - { shortcode: rfoot, type: armorlocation }
-    - { shortcode: climbing, type: skill, system: { masteryLevel: 48 } }
-    - { shortcode: condition, type: skill, system: { masteryLevel: 55 } }
-    - { shortcode: jumping, type: skill, system: { masteryLevel: 63 } }
-    - { shortcode: stealth, type: skill, system: { masteryLevel: 41 } }
-    - { shortcode: throwing, type: skill, system: { masteryLevel: 56 } }
-    - { shortcode: acrobatics, type: skill, system: { masteryLevel: 22 } }
-    - { shortcode: awareness, type: skill, system: { masteryLevel: 60 } }
-    - { shortcode: intrigue, type: skill, system: { masteryLevel: 27 } }
-    - { shortcode: oratory, type: skill, system: { masteryLevel: 14 } }
-    - shortcode: rhetoric
-      type: skill
-      name: Intimidation (Rhetoric)
-      system:
-        masteryLevel: 30
-    - { shortcode: singing, type: skill, system: { masteryLevel: 24 } }
+    - {shortcode: skull, type: armorlocation}
+    - {shortcode: face, type: armorlocation}
+    - {shortcode: neck, type: armorlocation}
+    - {shortcode: lshoulder, type: armorlocation}
+    - {shortcode: rshoulder, type: armorlocation}
+    - {shortcode: luparm, type: armorlocation}
+    - {shortcode: ruparm, type: armorlocation}
+    - {shortcode: lelb, type: armorlocation}
+    - {shortcode: relb, type: armorlocation}
+    - {shortcode: lhand, type: armorlocation}
+    - {shortcode: rhand, type: armorlocation}
+    - {shortcode: thorax, type: armorlocation}
+    - {shortcode: abdm, type: armorlocation}
+    - {shortcode: groin, type: armorlocation}
+    - {shortcode: lhip, type: armorlocation}
+    - {shortcode: rhip, type: armorlocation}
+    - {shortcode: lthigh, type: armorlocation}
+    - {shortcode: rthigh, type: armorlocation}
+    - {shortcode: lknee, type: armorlocation}
+    - {shortcode: rknee, type: armorlocation}
+    - {shortcode: lcalf, type: armorlocation}
+    - {shortcode: rcalf, type: armorlocation}
+    - {shortcode: lfoot, type: armorlocation}
+    - {shortcode: rfoot, type: armorlocation}
+    - {shortcode: climbing, type: skill, system: {masteryLevel: 48}}
+    - {shortcode: condition, type: skill, system: {masteryLevel: 55}}
+    - {shortcode: jumping, type: skill, system: {masteryLevel: 63}}
+    - {shortcode: stealth, type: skill, system: {masteryLevel: 41}}
+    - {shortcode: throwing, type: skill, system: {masteryLevel: 56}}
+    - {shortcode: acrobatics, type: skill, system: {masteryLevel: 22}}
+    - {shortcode: awareness, type: skill, system: {masteryLevel: 60}}
+    - {shortcode: intrigue, type: skill, system: {masteryLevel: 27}}
+    - {shortcode: oratory, type: skill, system: {masteryLevel: 14}}
+    - {shortcode: rhetoric, type: skill, name: Intimidation (Rhetoric), system: {masteryLevel: 30}}
+    - {shortcode: singing, type: skill, system: {masteryLevel: 24}}
     - shortcode: language
       type: skill
       name: "Language: Gargu-viasal"
-      system:
-        masteryLevel: 58
-    - { shortcode: initiative, type: skill, system: { masteryLevel: 60 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 66 } }
-    - { shortcode: dodge, type: skill, system: { masteryLevel: 40 } }
-    - { shortcode: spear, type: skill, system: { masteryLevel: 70 } }
-    - { shortcode: dagger, type: skill, system: { masteryLevel: 40 } }
-    - { shortcode: shield, type: skill, name: Round (Shield), system: { masteryLevel: 60 } }
-    - { shortcode: sword, type: skill, name: Mang (Sword), system: { masteryLevel: 84 } }
-    - { shortcode: foraging, type: skill, system: { masteryLevel: 30 } }
-    - { shortcode: hidework, type: skill, system: { masteryLevel: 24 } }
-    - { shortcode: survival, type: skill, system: { masteryLevel: 45 } }
-    - { shortcode: tracking, type: skill, system: { masteryLevel: 61 } }
-    - { shortcode: weatherlore, type: skill, system: { masteryLevel: 33 } }
-    - { shortcode: SprThr, type: missilegear, name: Spear (thrown) }
-    - { shortcode: Spr, type: weapongear, system: { quantity: 0 } }
-    - { shortcode: Mang, type: weapongear }
-    - { shortcode: FtLgKn, type: weapongear }
-    - { shortcode: HndArm, type: weapongear }
-    - { shortcode: Head, type: weapongear }
+      system: {masteryLevel: 58}
+    - {shortcode: initiative, type: skill, system: {masteryLevel: 60}}
+    - {shortcode: unarmed, type: skill, system: {masteryLevel: 66}}
+    - {shortcode: dodge, type: skill, system: {masteryLevel: 40}}
+    - {shortcode: spear, type: skill, system: {masteryLevel: 70}}
+    - {shortcode: dagger, type: skill, system: {masteryLevel: 40}}
+    - {shortcode: shield, type: skill, name: Round (Shield), system: {masteryLevel: 60}}
+    - {shortcode: sword, type: skill, name: Mang (Sword), system: {masteryLevel: 84}}
+    - {shortcode: foraging, type: skill, system: {masteryLevel: 30}}
+    - {shortcode: hidework, type: skill, system: {masteryLevel: 24}}
+    - {shortcode: survival, type: skill, system: {masteryLevel: 45}}
+    - {shortcode: tracking, type: skill, system: {masteryLevel: 61}}
+    - {shortcode: weatherlore, type: skill, system: {masteryLevel: 33}}
+    - {shortcode: SprThr, type: missilegear, name: Spear (thrown)}
+    - {shortcode: Spr, type: weapongear, system: {quantity: 0}}
+    - {shortcode: Mang, type: weapongear}
+    - {shortcode: FtLgKn, type: weapongear}
+    - {shortcode: HndArm, type: weapongear}
+    - {shortcode: Head, type: weapongear}
     - name: Gargun Hide
       type: armorgear
-      data:
-        icon: sohl-none-icon-armor
+      data: {icon: sohl-none-icon-armor}
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -126,21 +107,14 @@ hm3:
         protection.edged: 3
         protection.piercing: 1
         protection.fire: 3
-    - { shortcode: PlVamb, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
+    - {shortcode: PlVamb, type: armorgear}
+    - {shortcode: LLeg, type: armorgear}
     - name: Amulet, Stone
       type: miscgear
-      data:
-        icon: sohl-none-icon-sack
-      system:
-        notes: Enchanted, Amulet of Feazurk
-        value: 1
-        weight: 0.3125
-    - { shortcode: pence, type: miscgear, system: { quantity: 50 } }
-  system:
-    species: viasal
-    sunsign: tarael-hirin
-    move: 7
+      data: {icon: sohl-none-icon-sack}
+      system: {notes: "Enchanted, Amulet of Feazurk", value: 1, weight: 0.3125}
+    - {shortcode: pence, type: miscgear, system: {quantity: 50}}
+  system: {species: viasal, sunsign: tarael-hirin, move: 7}
 ---
 
 # Appearance {#appearance}

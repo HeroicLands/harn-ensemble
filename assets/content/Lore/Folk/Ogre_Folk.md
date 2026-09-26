@@ -1,12 +1,10 @@
 ---
-tags: []
-description: "The Ogre Folk"
+shortcode: ogreflk
+name: {full: Ogre Folk, aliases: []}
 type: lore
 subType: folk
-name:
-  full: Ogre Folk
-  aliases: []
-shortcode: ogreflk
+description: "The Ogre Folk"
+tags: []
 ---
 
 The Ogre folk of Kethira.

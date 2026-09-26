@@ -1,6 +1,6 @@
 ---
-type: homepage
 shortcode: root
+type: homepage
 ---
 
 A Foundry VTT module holding over a thousand ready-made NPCs for the Hârn

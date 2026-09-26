@@ -1,12 +1,10 @@
 ---
-tags: []
-description: "The Gargun Folk"
+shortcode: gargunflk
+name: {full: Gargun Folk, aliases: []}
 type: lore
 subType: folk
-name:
-  full: Gargun Folk
-  aliases: []
-shortcode: gargunflk
+description: "The Gargun Folk"
+tags: []
 ---
 
 The Gargun folk of Kethira.

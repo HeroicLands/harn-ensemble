@@ -1,10 +1,6 @@
 ---
-name:
-  full: "Non-Humans"
 shortcode: fffnonhumans
+name: {full: "Non-Humans"}
 type: folder
-data:
-  parent: fff
-  color: "#7D4DAD"
-  id: gO37pwFIr5B44hdV
+data: {parent: fff, color: "#7D4DAD", id: gO37pwFIr5B44hdV}
 ---

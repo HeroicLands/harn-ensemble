@@ -1,14 +1,8 @@
 ---
-tags:
-  - character
-name:
-  full: Pinka
-  title: ""
-  given: Pinka
-  clan: ""
-  aliases: []
 shortcode: pinka
+name: {full: Pinka, title: "", given: Pinka, clan: "", aliases: []}
 type: being
+tags: [character]
 data:
   icon: fff804ehead
   tokenIcon: fff804etok
@@ -24,20 +18,11 @@ data:
     hair_color: black
     skin_color: pallid
     complexion: ugly
-    extra_features:
-      - Stooped posture
-      - drooling
-      - confused look
-  harnworld:
-    realm: ""
-    ritual: []
+    extra_features: [Stooped posture, drooling, confused look]
+  harnworld: {realm: "", ritual: []}
   id: hFoale7BdhL9OV3F
   packFolder: fffnonhumans
-  social:
-    occupation: Warrior
-    class: warrior
-    society: gargun (khanu)
-    organizations: []
+  social: {occupation: Warrior, class: warrior, society: gargun (khanu), organizations: []}
 hm3:
   type: character
   attributes:
@@ -55,46 +40,45 @@ hm3:
     cml: 5
     mor: 10
   items:
-    - { shortcode: skull, type: armorlocation }
-    - { shortcode: face, type: armorlocation }
-    - { shortcode: neck, type: armorlocation }
-    - { shortcode: lshoulder, type: armorlocation }
-    - { shortcode: rshoulder, type: armorlocation }
-    - { shortcode: luparm, type: armorlocation }
-    - { shortcode: ruparm, type: armorlocation }
-    - { shortcode: lelb, type: armorlocation }
-    - { shortcode: relb, type: armorlocation }
-    - { shortcode: lhand, type: armorlocation }
-    - { shortcode: rhand, type: armorlocation }
-    - { shortcode: thorax, type: armorlocation }
-    - { shortcode: abdm, type: armorlocation }
-    - { shortcode: groin, type: armorlocation }
-    - { shortcode: lhip, type: armorlocation }
-    - { shortcode: rhip, type: armorlocation }
-    - { shortcode: lthigh, type: armorlocation }
-    - { shortcode: rthigh, type: armorlocation }
-    - { shortcode: lknee, type: armorlocation }
-    - { shortcode: rknee, type: armorlocation }
-    - { shortcode: lcalf, type: armorlocation }
-    - { shortcode: rcalf, type: armorlocation }
-    - { shortcode: lfoot, type: armorlocation }
-    - { shortcode: rfoot, type: armorlocation }
-    - { shortcode: climbing, type: skill, system: { masteryLevel: 60 } }
-    - { shortcode: condition, type: skill, system: { masteryLevel: 98 } }
-    - { shortcode: jumping, type: skill, system: { masteryLevel: 56 } }
-    - { shortcode: awareness, type: skill, system: { masteryLevel: 28 } }
-    - { shortcode: initiative, type: skill, system: { masteryLevel: 35 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 90 } }
-    - { shortcode: dodge, type: skill, system: { masteryLevel: 60 } }
-    - { shortcode: axe, type: skill, name: Battleaxe (Axe), system: { masteryLevel: 112 } }
-    - { shortcode: BAxe, type: weapongear }
-    - { shortcode: FtLgKn, type: weapongear }
-    - { shortcode: HndArm, type: weapongear }
-    - { shortcode: Head, type: weapongear }
+    - {shortcode: skull, type: armorlocation}
+    - {shortcode: face, type: armorlocation}
+    - {shortcode: neck, type: armorlocation}
+    - {shortcode: lshoulder, type: armorlocation}
+    - {shortcode: rshoulder, type: armorlocation}
+    - {shortcode: luparm, type: armorlocation}
+    - {shortcode: ruparm, type: armorlocation}
+    - {shortcode: lelb, type: armorlocation}
+    - {shortcode: relb, type: armorlocation}
+    - {shortcode: lhand, type: armorlocation}
+    - {shortcode: rhand, type: armorlocation}
+    - {shortcode: thorax, type: armorlocation}
+    - {shortcode: abdm, type: armorlocation}
+    - {shortcode: groin, type: armorlocation}
+    - {shortcode: lhip, type: armorlocation}
+    - {shortcode: rhip, type: armorlocation}
+    - {shortcode: lthigh, type: armorlocation}
+    - {shortcode: rthigh, type: armorlocation}
+    - {shortcode: lknee, type: armorlocation}
+    - {shortcode: rknee, type: armorlocation}
+    - {shortcode: lcalf, type: armorlocation}
+    - {shortcode: rcalf, type: armorlocation}
+    - {shortcode: lfoot, type: armorlocation}
+    - {shortcode: rfoot, type: armorlocation}
+    - {shortcode: climbing, type: skill, system: {masteryLevel: 60}}
+    - {shortcode: condition, type: skill, system: {masteryLevel: 98}}
+    - {shortcode: jumping, type: skill, system: {masteryLevel: 56}}
+    - {shortcode: awareness, type: skill, system: {masteryLevel: 28}}
+    - {shortcode: initiative, type: skill, system: {masteryLevel: 35}}
+    - {shortcode: unarmed, type: skill, system: {masteryLevel: 90}}
+    - {shortcode: dodge, type: skill, system: {masteryLevel: 60}}
+    - {shortcode: axe, type: skill, name: Battleaxe (Axe), system: {masteryLevel: 112}}
+    - {shortcode: BAxe, type: weapongear}
+    - {shortcode: FtLgKn, type: weapongear}
+    - {shortcode: HndArm, type: weapongear}
+    - {shortcode: Head, type: weapongear}
     - name: Gargun Hide
       type: armorgear
-      data:
-        icon: sohl-none-icon-armor
+      data: {icon: sohl-none-icon-armor}
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -104,8 +88,7 @@ hm3:
         protection.fire: 3
     - name: Kurbul Girdle
       type: armorgear
-      data:
-        icon: sohl-none-icon-armor
+      data: {icon: sohl-none-icon-armor}
       system:
         value: 80
         weight: 4
@@ -115,19 +98,12 @@ hm3:
         protection.edged: 5
         protection.piercing: 4
         protection.fire: 3
-    - { shortcode: KHlfHelm, type: armorgear }
+    - {shortcode: KHlfHelm, type: armorgear}
     - name: Necklace, Bone/Horn
       type: miscgear
-      data:
-        icon: sohl-none-icon-sack
-      system:
-        notes: Gargun Teeth Necklace
-        value: 5
-        weight: 0.25
-  system:
-    species: khanu
-    sunsign: ulandus
-    move: 13
+      data: {icon: sohl-none-icon-sack}
+      system: {notes: Gargun Teeth Necklace, value: 5, weight: 0.25}
+  system: {species: khanu, sunsign: ulandus, move: 13}
 ---
 
 # Appearance {#appearance}

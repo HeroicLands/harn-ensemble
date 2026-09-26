@@ -1,14 +1,8 @@
 ---
-tags:
-  - character
-name:
-  full: Hjotra Sokkol
-  title: ""
-  given: Hjotra
-  clan: Sokkol
-  aliases: []
 shortcode: hjotrasokkol
+name: {full: Hjotra Sokkol, title: "", given: Hjotra, clan: Sokkol, aliases: []}
 type: being
+tags: [character]
 data:
   icon: fff3112tok
   templatePriority: 1
@@ -24,19 +18,11 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: average
-    extra_features:
-      - Crooked left forearm
-  harnworld:
-    realm: ""
-    ritual:
-      - sarajin
+    extra_features: [Crooked left forearm]
+  harnworld: {realm: "", ritual: [sarajin]}
   id: 7sF0UGfk4SwrXTDS
   packFolder: fffguilded
-  social:
-    occupation: Hideworker
-    class: freeman
-    society: viking
-    organizations: []
+  social: {occupation: Hideworker, class: freeman, society: viking, organizations: []}
 hm3:
   type: character
   attributes:
@@ -54,209 +40,171 @@ hm3:
     cml: 12
     mor: 13
   items:
-    - { shortcode: skull, type: armorlocation }
-    - { shortcode: face, type: armorlocation }
-    - { shortcode: neck, type: armorlocation }
-    - { shortcode: lshoulder, type: armorlocation }
-    - { shortcode: rshoulder, type: armorlocation }
-    - { shortcode: luparm, type: armorlocation }
-    - { shortcode: ruparm, type: armorlocation }
-    - { shortcode: lelb, type: armorlocation }
-    - { shortcode: relb, type: armorlocation }
-    - { shortcode: lhand, type: armorlocation }
-    - { shortcode: rhand, type: armorlocation }
-    - { shortcode: thorax, type: armorlocation }
-    - { shortcode: abdm, type: armorlocation }
-    - { shortcode: groin, type: armorlocation }
-    - { shortcode: lhip, type: armorlocation }
-    - { shortcode: rhip, type: armorlocation }
-    - { shortcode: lthigh, type: armorlocation }
-    - { shortcode: rthigh, type: armorlocation }
-    - { shortcode: lknee, type: armorlocation }
-    - { shortcode: rknee, type: armorlocation }
-    - { shortcode: lcalf, type: armorlocation }
-    - { shortcode: rcalf, type: armorlocation }
-    - { shortcode: lfoot, type: armorlocation }
-    - { shortcode: rfoot, type: armorlocation }
-    - { shortcode: climbing, type: skill, system: { masteryLevel: 48, skillBase: { value: 12 } } }
-    - { shortcode: condition, type: skill, system: { masteryLevel: 70, skillBase: { value: 14 } } }
-    - { shortcode: jumping, type: skill, system: { masteryLevel: 56, skillBase: { value: 14 } } }
-    - { shortcode: stealth, type: skill, system: { masteryLevel: 60, skillBase: { value: 15 } } }
-    - { shortcode: throwing, type: skill, system: { masteryLevel: 48, skillBase: { value: 12 } } }
-    - { shortcode: awareness, type: skill, system: { masteryLevel: 80, skillBase: { value: 13 } } }
-    - { shortcode: intrigue, type: skill, system: { masteryLevel: 60, skillBase: { value: 13 } } }
-    - { shortcode: oratory, type: skill, system: { masteryLevel: 22, skillBase: { value: 11 } } }
-    - { shortcode: rhetoric, type: skill, system: { masteryLevel: 67, skillBase: { value: 13 } } }
-    - { shortcode: singing, type: skill, system: { masteryLevel: 39, skillBase: { value: 13 } } }
+    - {shortcode: skull, type: armorlocation}
+    - {shortcode: face, type: armorlocation}
+    - {shortcode: neck, type: armorlocation}
+    - {shortcode: lshoulder, type: armorlocation}
+    - {shortcode: rshoulder, type: armorlocation}
+    - {shortcode: luparm, type: armorlocation}
+    - {shortcode: ruparm, type: armorlocation}
+    - {shortcode: lelb, type: armorlocation}
+    - {shortcode: relb, type: armorlocation}
+    - {shortcode: lhand, type: armorlocation}
+    - {shortcode: rhand, type: armorlocation}
+    - {shortcode: thorax, type: armorlocation}
+    - {shortcode: abdm, type: armorlocation}
+    - {shortcode: groin, type: armorlocation}
+    - {shortcode: lhip, type: armorlocation}
+    - {shortcode: rhip, type: armorlocation}
+    - {shortcode: lthigh, type: armorlocation}
+    - {shortcode: rthigh, type: armorlocation}
+    - {shortcode: lknee, type: armorlocation}
+    - {shortcode: rknee, type: armorlocation}
+    - {shortcode: lcalf, type: armorlocation}
+    - {shortcode: rcalf, type: armorlocation}
+    - {shortcode: lfoot, type: armorlocation}
+    - {shortcode: rfoot, type: armorlocation}
+    - {shortcode: climbing, type: skill, system: {masteryLevel: 48, skillBase: {value: 12}}}
+    - {shortcode: condition, type: skill, system: {masteryLevel: 70, skillBase: {value: 14}}}
+    - {shortcode: jumping, type: skill, system: {masteryLevel: 56, skillBase: {value: 14}}}
+    - {shortcode: stealth, type: skill, system: {masteryLevel: 60, skillBase: {value: 15}}}
+    - {shortcode: throwing, type: skill, system: {masteryLevel: 48, skillBase: {value: 12}}}
+    - {shortcode: awareness, type: skill, system: {masteryLevel: 80, skillBase: {value: 13}}}
+    - {shortcode: intrigue, type: skill, system: {masteryLevel: 60, skillBase: {value: 13}}}
+    - {shortcode: oratory, type: skill, system: {masteryLevel: 22, skillBase: {value: 11}}}
+    - {shortcode: rhetoric, type: skill, system: {masteryLevel: 67, skillBase: {value: 13}}}
+    - {shortcode: singing, type: skill, system: {masteryLevel: 39, skillBase: {value: 13}}}
     - shortcode: language
       type: skill
       name: "Languages: Ivinian"
-      system:
-        masteryLevel: 73
-        skillBase:
-          value: 13
+      system: {masteryLevel: 73, skillBase: {value: 13}}
     - shortcode: language
       type: skill
       name: "Language: Orbaalese"
-      system:
-        shortcode: languageorbaalese
-        masteryLevel: 73
-        skillBase:
-          value: 13
+      system: {shortcode: languageorbaalese, masteryLevel: 73, skillBase: {value: 13}}
     - shortcode: language
       type: skill
       name: "Language: Jarinese"
-      system:
-        shortcode: languagejarinese
-        masteryLevel: 52
-        skillBase:
-          value: 13
+      system: {shortcode: languagejarinese, masteryLevel: 52, skillBase: {value: 13}}
     - shortcode: language
       type: skill
       name: "Language: Harnic"
-      system:
-        shortcode: languageharnic
-        masteryLevel: 39
-        skillBase:
-          value: 13
+      system: {shortcode: languageharnic, masteryLevel: 39, skillBase: {value: 13}}
     - shortcode: script
       type: skill
       name: "Script: Runic"
-      system:
-        masteryLevel: 80
-        skillBase:
-          value: 10
-    - { shortcode: sarajin, type: skill, system: { masteryLevel: 12, skillBase: { value: 12 } } }
-    - { shortcode: initiative, type: skill, system: { masteryLevel: 75, skillBase: { value: 15 } } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 52, skillBase: { value: 13 } } }
-    - { shortcode: dodge, type: skill, system: { masteryLevel: 83, skillBase: { value: 12 } } }
-    - { shortcode: axe, type: skill, system: { masteryLevel: 52, skillBase: { value: 13 } } }
+      system: {masteryLevel: 80, skillBase: {value: 10}}
+    - {shortcode: sarajin, type: skill, system: {masteryLevel: 12, skillBase: {value: 12}}}
+    - {shortcode: initiative, type: skill, system: {masteryLevel: 75, skillBase: {value: 15}}}
+    - {shortcode: unarmed, type: skill, system: {masteryLevel: 52, skillBase: {value: 13}}}
+    - {shortcode: dodge, type: skill, system: {masteryLevel: 83, skillBase: {value: 12}}}
+    - {shortcode: axe, type: skill, system: {masteryLevel: 52, skillBase: {value: 13}}}
     - shortcode: axe
       type: skill
       name: Shorkana (Axe)
-      system:
-        shortcode: shorkanaaxe
-        masteryLevel: 64
-        skillBase:
-          value: 13
-    - { shortcode: dagger, type: skill, system: { masteryLevel: 75, skillBase: { value: 12 } } }
-    - { shortcode: shield, type: skill, system: { masteryLevel: 52, skillBase: { value: 11 } } }
+      system: {shortcode: shorkanaaxe, masteryLevel: 64, skillBase: {value: 13}}
+    - {shortcode: dagger, type: skill, system: {masteryLevel: 75, skillBase: {value: 12}}}
+    - {shortcode: shield, type: skill, system: {masteryLevel: 52, skillBase: {value: 11}}}
     - shortcode: shield
       type: skill
       name: Round (Shield)
-      system:
-        shortcode: roundshield
-        masteryLevel: 64
-        skillBase:
-          value: 11
-    - { shortcode: spear, type: skill, system: { masteryLevel: 55, skillBase: { value: 12 } } }
-    - { shortcode: sword, type: skill, system: { masteryLevel: 47, skillBase: { value: 14 } } }
+      system: {shortcode: roundshield, masteryLevel: 64, skillBase: {value: 11}}
+    - {shortcode: spear, type: skill, system: {masteryLevel: 55, skillBase: {value: 12}}}
+    - {shortcode: sword, type: skill, system: {masteryLevel: 47, skillBase: {value: 14}}}
     - shortcode: sword
       type: skill
       name: Broadsword (Sword)
-      system:
-        shortcode: broadswordsword
-        masteryLevel: 54
-        skillBase:
-          value: 14
-    - { shortcode: alchemy, type: skill, system: { masteryLevel: 33, skillBase: { value: 11 } } }
-    - { shortcode: brewing, type: skill, system: { masteryLevel: 55, skillBase: { value: 11 } } }
-    - { shortcode: cookery, type: skill, system: { masteryLevel: 65, skillBase: { value: 11 } } }
-    - { shortcode: hidework, type: skill, system: { masteryLevel: 75, skillBase: { value: 12 } } }
-    - { shortcode: physician, type: skill, system: { masteryLevel: 35, skillBase: { value: 10 } } }
-    - { shortcode: survival, type: skill, system: { masteryLevel: 50, skillBase: { value: 11 } } }
-    - shortcode: textilecraft
-      type: skill
-      system:
-        masteryLevel: 65
-        skillBase:
-          value: 10
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: LLeg, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: LtVest, type: armorgear }
-    - { shortcode: BvCloak, type: armorgear }
-    - { shortcode: MByr, type: armorgear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 102 } }
-  system:
-    species: human
-    sunsign: angberelius-nadai
-    move: 12
+      system: {shortcode: broadswordsword, masteryLevel: 54, skillBase: {value: 14}}
+    - {shortcode: alchemy, type: skill, system: {masteryLevel: 33, skillBase: {value: 11}}}
+    - {shortcode: brewing, type: skill, system: {masteryLevel: 55, skillBase: {value: 11}}}
+    - {shortcode: cookery, type: skill, system: {masteryLevel: 65, skillBase: {value: 11}}}
+    - {shortcode: hidework, type: skill, system: {masteryLevel: 75, skillBase: {value: 12}}}
+    - {shortcode: physician, type: skill, system: {masteryLevel: 35, skillBase: {value: 10}}}
+    - {shortcode: survival, type: skill, system: {masteryLevel: 50, skillBase: {value: 11}}}
+    - {shortcode: textilecraft, type: skill, system: {masteryLevel: 65, skillBase: {value: 10}}}
+    - {shortcode: BrdSwd, type: weapongear}
+    - {shortcode: RndSh, type: weapongear}
+    - {shortcode: Dgr, type: weapongear}
+    - {shortcode: beltpouchl3, type: containergear}
+    - {shortcode: LTunic, type: armorgear}
+    - {shortcode: LLeg, type: armorgear}
+    - {shortcode: LtCBoot, type: armorgear}
+    - {shortcode: LtVest, type: armorgear}
+    - {shortcode: BvCloak, type: armorgear}
+    - {shortcode: MByr, type: armorgear}
+    - {shortcode: pence, type: miscgear, system: {quantity: 102}}
+  system: {species: human, sunsign: angberelius-nadai, move: 12}
 sohl:
   kbcat: archetype
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-skill-archery }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-chrm }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-cmd }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-dnce }
-    - { model: sohl-sohl-skill-dscr }
-    - { model: sohl-sohl-skill-draw }
-    - { model: sohl-sohl-skill-folklr }
-    - { model: sohl-sohl-skill-guil }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-skill-shok }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 58 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 83 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 35 } }
-    - { model: sohl-sohl-skill-ridg }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 50 } }
-    - { model: sohl-sohl-skill-spirit }
-    - { model: sohl-sohl-skill-swim }
-    - { model: sohl-sohl-skill-thtcs }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-bflkbite }
-    - { model: sohl-sohl-skill-bflkgrab }
-    - { model: sohl-sohl-skill-bflkheadbutt }
-    - { model: sohl-sohl-skill-bflkkick }
-    - { model: sohl-sohl-skill-limbblock }
-    - { model: sohl-sohl-skill-press }
-    - { model: sohl-sohl-skill-bflkpunch }
-    - { model: sohl-sohl-skill-trip }
-    - { model: sohl-sohl-mysticalability-sprt }
-    - { model: sohl-sohl-skill-lang, name: "Language: Harnic", system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-script, name: "Script: Runic", system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-mysticalability-alch, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-weapongear-BrdSwd }
-    - { model: sohl-sohl-weapongear-RndSh }
-    - { model: sohl-sohl-weapongear-Dgr }
-    - { model: sohl-sohl-containergear-beltpouchl3 }
-    - { model: sohl-sohl-armorgear-LTunic }
-    - { model: sohl-sohl-armorgear-LLeg }
-    - { model: sohl-sohl-armorgear-LtCBoot }
-    - { model: sohl-sohl-armorgear-LtVest }
-    - { model: sohl-sohl-armorgear-BvCloak }
-    - { model: sohl-sohl-armorgear-MByr }
-    - { model: sohl-sohl-miscgear-pence, system: { quantity: 102 } }
-    - { name: Sarajin, type: affiliation, system: { shortcode: sarajin, subType: divine } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-snt, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
+    - {model: sohl-sohl-skill-archery}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-chrm}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-cmd}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-skill-dnce}
+    - {model: sohl-sohl-skill-dscr}
+    - {model: sohl-sohl-skill-draw}
+    - {model: sohl-sohl-skill-folklr}
+    - {model: sohl-sohl-skill-guil}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-shok}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 58}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 83}}
+    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 35}}
+    - {model: sohl-sohl-skill-ridg}
+    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 50}}
+    - {model: sohl-sohl-skill-spirit}
+    - {model: sohl-sohl-skill-swim}
+    - {model: sohl-sohl-skill-thtcs}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-bflkbite}
+    - {model: sohl-sohl-skill-bflkgrab}
+    - {model: sohl-sohl-skill-bflkheadbutt}
+    - {model: sohl-sohl-skill-bflkkick}
+    - {model: sohl-sohl-skill-limbblock}
+    - {model: sohl-sohl-skill-press}
+    - {model: sohl-sohl-skill-bflkpunch}
+    - {model: sohl-sohl-skill-trip}
+    - {model: sohl-sohl-mysticalability-sprt}
+    - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-weapongear-BrdSwd}
+    - {model: sohl-sohl-weapongear-RndSh}
+    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-containergear-beltpouchl3}
+    - {model: sohl-sohl-armorgear-LTunic}
+    - {model: sohl-sohl-armorgear-LLeg}
+    - {model: sohl-sohl-armorgear-LtCBoot}
+    - {model: sohl-sohl-armorgear-LtVest}
+    - {model: sohl-sohl-armorgear-BvCloak}
+    - {model: sohl-sohl-armorgear-MByr}
+    - {model: sohl-sohl-miscgear-pence, system: {quantity: 102}}
+    - {name: Sarajin, type: affiliation, system: {shortcode: sarajin, subType: divine}}
     - name: Sarajin
       type: skill
       system:
@@ -268,59 +216,45 @@ sohl:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 1
-          - name: Arms
-            shortcode: armszone
-            probWeight: 4
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 4
-          - name: Legs
-            shortcode: legszone
-            probWeight: 6
+          - {name: Head, shortcode: headzone, probWeight: 1}
+          - {name: Arms, shortcode: armszone, probWeight: 4}
+          - {name: Torso, shortcode: torsozone, probWeight: 4}
+          - {name: Legs, shortcode: legszone, probWeight: 6}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
+            roles: [vital]
             canHoldItem: false
             probWeight: 1
           - name: Right Arm
             shortcode: rarmpart
             bodyZoneCode: armszone
-            roles:
-              - manipulator
+            roles: [manipulator]
             canHoldItem: true
             probWeight: 2
           - name: Left Arm
             shortcode: larmpart
             bodyZoneCode: armszone
-            roles:
-              - manipulator
+            roles: [manipulator]
             canHoldItem: true
             probWeight: 2
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 4
           - name: Right Leg
             shortcode: rlegpart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Left Leg
             shortcode: llegpart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
         locations:
@@ -331,11 +265,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 500
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Eye
             shortcode: leyeloc
             bodyPartCode: headpart
@@ -343,11 +273,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 15
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Eye
             shortcode: reyeloc
             bodyPartCode: headpart
@@ -355,11 +281,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 15
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Nose
             shortcode: noseloc
             bodyPartCode: headpart
@@ -367,11 +289,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Cheek
             shortcode: lcheekloc
             bodyPartCode: headpart
@@ -379,11 +297,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 60
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Cheek
             shortcode: rcheekloc
             bodyPartCode: headpart
@@ -391,11 +305,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 60
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Ear
             shortcode: learloc
             bodyPartCode: headpart
@@ -403,11 +313,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 15
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Ear
             shortcode: rearloc
             bodyPartCode: headpart
@@ -415,11 +321,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 15
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Mouth
             shortcode: mouthloc
             bodyPartCode: headpart
@@ -427,11 +329,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Jaw
             shortcode: jawloc
             bodyPartCode: headpart
@@ -439,11 +337,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 60
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -451,11 +345,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 200
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Shoulder
             shortcode: rshldloc
             bodyPartCode: rarmpart
@@ -463,11 +353,7 @@ sohl:
             amputability: none
             shockValue: 3
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Upper Arm
             shortcode: rupaloc
             bodyPartCode: rarmpart
@@ -475,11 +361,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Elbow
             shortcode: relbloc
             bodyPartCode: rarmpart
@@ -487,11 +369,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Forearm
             shortcode: rfraloc
             bodyPartCode: rarmpart
@@ -499,11 +377,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Hand
             shortcode: rhandloc
             bodyPartCode: rarmpart
@@ -511,11 +385,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Shoulder
             shortcode: lshldloc
             bodyPartCode: larmpart
@@ -523,11 +393,7 @@ sohl:
             amputability: none
             shockValue: 3
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Upper Arm
             shortcode: lupaloc
             bodyPartCode: larmpart
@@ -535,11 +401,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Elbow
             shortcode: lelbloc
             bodyPartCode: larmpart
@@ -547,11 +409,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Forearm
             shortcode: lfraloc
             bodyPartCode: larmpart
@@ -559,11 +417,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Hand
             shortcode: lhandloc
             bodyPartCode: larmpart
@@ -571,11 +425,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Thorax
             shortcode: thrxloc
             bodyPartCode: torsopart
@@ -583,11 +433,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 40
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Abdomen
             shortcode: abdmnloc
             bodyPartCode: torsopart
@@ -595,11 +441,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 40
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Pelvis
             shortcode: plvisloc
             bodyPartCode: torsopart
@@ -607,11 +449,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Thigh
             shortcode: rthghloc
             bodyPartCode: rlegpart
@@ -619,11 +457,7 @@ sohl:
             amputability: low
             shockValue: 3
             probWeight: 40
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Knee
             shortcode: rkneeloc
             bodyPartCode: rlegpart
@@ -631,11 +465,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Calf
             shortcode: rcalfloc
             bodyPartCode: rlegpart
@@ -643,11 +473,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Foot
             shortcode: rfootloc
             bodyPartCode: rlegpart
@@ -655,11 +481,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Thigh
             shortcode: lthghloc
             bodyPartCode: llegpart
@@ -667,11 +489,7 @@ sohl:
             amputability: low
             shockValue: 3
             probWeight: 40
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Knee
             shortcode: lkneeloc
             bodyPartCode: llegpart
@@ -679,11 +497,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Calf
             shortcode: lcalfloc
             bodyPartCode: llegpart
@@ -691,11 +505,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 30
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Foot
             shortcode: lfootloc
             bodyPartCode: llegpart
@@ -703,14 +513,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 20
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
-      weight:
-        base: null
-        calc: (9 * str) + 50
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
+      weight: {base: null, calc: (9 * str) + 50}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: enc + 5

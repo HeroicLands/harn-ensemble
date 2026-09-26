@@ -1,12 +1,10 @@
 ---
-tags: []
-description: "The Sindarin Folk"
+shortcode: sindarinflk
+name: {full: Sindarin Folk, aliases: []}
 type: lore
 subType: folk
-name:
-  full: Sindarin Folk
-  aliases: []
-shortcode: sindarinflk
+description: "The Sindarin Folk"
+tags: []
 ---
 
 The Sindarin folk of Kethira.

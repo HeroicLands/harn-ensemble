@@ -1,12 +1,10 @@
 ---
-tags: []
-description: "The Khuzdul Folk"
+shortcode: khuzdulflk
+name: {full: Khuzdul Folk, aliases: []}
 type: lore
 subType: folk
-name:
-  full: Khuzdul Folk
-  aliases: []
-shortcode: khuzdulflk
+description: "The Khuzdul Folk"
+tags: []
 ---
 
 The Khuzdul folk of Kethira.
