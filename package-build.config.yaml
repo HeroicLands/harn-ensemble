@@ -16,9 +16,9 @@ systems:
         compatibility:
             verified: "1.6.5"
     sohl:
-        manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.5/system.json
+        manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.7/system.json
         compatibility:
-            verified: "0.8.5"
+            verified: "0.8.7"
 
 # `sohl`'s `{ model: skill-init }` and HM3's own being items embed against
 # each system's own Item catalog, so `itemCatalog: true` extracts each
@@ -28,9 +28,9 @@ relationships:
     systems:
         - id: sohl
           type: system
-          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.5/system.json
+          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.7/system.json
           compatibility:
-              verified: "0.8.5"
+              verified: "0.8.7"
           itemCatalog: true
         - id: hm3
           type: system
