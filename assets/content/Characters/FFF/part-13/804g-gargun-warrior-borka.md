@@ -1,24 +1,8 @@
 ---
-tags:
-  - character
-name:
-  full: Borka
-  title: ""
-  given: Borka
-  clan: ""
-  aliases: []
-id: WsoowZSwGZT5T7K8
-packFolder: fffnonhumans
 shortcode: borka
+name: {full: Borka, title: "", given: Borka, clan: "", aliases: []}
 type: being
-social:
-  occupation: Warrior
-  class: warrior
-  society: gargun
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
+tags: [character]
 data:
   icon: fff804ghead
   tokenIcon: fff804gtok
@@ -33,6 +17,10 @@ data:
     skin_color: ""
     complexion: ugly
     extra_features: []
+  harnworld: {realm: "", ritual: []}
+  id: WsoowZSwGZT5T7K8
+  packFolder: fffnonhumans
+  social: {occupation: Warrior, class: warrior, society: gargun, organizations: []}
 hm3:
   type: character
   attributes:
@@ -50,76 +38,62 @@ hm3:
     cml: 3
     mor: 7
   items:
-    - { shortcode: skull, type: armorlocation }
-    - { shortcode: face, type: armorlocation }
-    - { shortcode: neck, type: armorlocation }
-    - { shortcode: lshoulder, type: armorlocation }
-    - { shortcode: rshoulder, type: armorlocation }
-    - { shortcode: luparm, type: armorlocation }
-    - { shortcode: ruparm, type: armorlocation }
-    - { shortcode: lelb, type: armorlocation }
-    - { shortcode: relb, type: armorlocation }
-    - { shortcode: lhand, type: armorlocation }
-    - { shortcode: rhand, type: armorlocation }
-    - { shortcode: thorax, type: armorlocation }
-    - { shortcode: abdm, type: armorlocation }
-    - { shortcode: groin, type: armorlocation }
-    - { shortcode: lhip, type: armorlocation }
-    - { shortcode: rhip, type: armorlocation }
-    - { shortcode: lthigh, type: armorlocation }
-    - { shortcode: rthigh, type: armorlocation }
-    - { shortcode: lknee, type: armorlocation }
-    - { shortcode: rknee, type: armorlocation }
-    - { shortcode: lcalf, type: armorlocation }
-    - { shortcode: rcalf, type: armorlocation }
-    - { shortcode: lfoot, type: armorlocation }
-    - { shortcode: rfoot, type: armorlocation }
-    - { shortcode: climbing, type: skill, system: { masteryLevel: 57 } }
-    - { shortcode: condition, type: skill, system: { masteryLevel: 120 } }
-    - { shortcode: jumping, type: skill, system: { masteryLevel: 54 } }
-    - { shortcode: stealth, type: skill, system: { masteryLevel: 44 } }
-    - { shortcode: throwing, type: skill, system: { masteryLevel: 62 } }
-    - { shortcode: awareness, type: skill, system: { masteryLevel: 54 } }
-    - { shortcode: intrigue, type: skill, system: { masteryLevel: 24 } }
-    - { shortcode: oratory, type: skill, system: { masteryLevel: 8 } }
-    - shortcode: rhetoric
-      type: skill
-      name: Intimidation (Rhetoric)
-      system:
-        masteryLevel: 28
-    - { shortcode: singing, type: skill, system: { masteryLevel: 7 } }
-    - { shortcode: language, type: skill, name: "Language: Harnic", system: { masteryLevel: 21 } }
-    - { shortcode: initiative, type: skill, system: { masteryLevel: 54 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 114 } }
-    - { shortcode: dodge, type: skill, system: { masteryLevel: 72 } }
-    - { shortcode: sword, type: skill, name: Mankar (Sword), system: { masteryLevel: 114 } }
+    - {shortcode: skull, type: armorlocation}
+    - {shortcode: face, type: armorlocation}
+    - {shortcode: neck, type: armorlocation}
+    - {shortcode: lshoulder, type: armorlocation}
+    - {shortcode: rshoulder, type: armorlocation}
+    - {shortcode: luparm, type: armorlocation}
+    - {shortcode: ruparm, type: armorlocation}
+    - {shortcode: lelb, type: armorlocation}
+    - {shortcode: relb, type: armorlocation}
+    - {shortcode: lhand, type: armorlocation}
+    - {shortcode: rhand, type: armorlocation}
+    - {shortcode: thorax, type: armorlocation}
+    - {shortcode: abdm, type: armorlocation}
+    - {shortcode: groin, type: armorlocation}
+    - {shortcode: lhip, type: armorlocation}
+    - {shortcode: rhip, type: armorlocation}
+    - {shortcode: lthigh, type: armorlocation}
+    - {shortcode: rthigh, type: armorlocation}
+    - {shortcode: lknee, type: armorlocation}
+    - {shortcode: rknee, type: armorlocation}
+    - {shortcode: lcalf, type: armorlocation}
+    - {shortcode: rcalf, type: armorlocation}
+    - {shortcode: lfoot, type: armorlocation}
+    - {shortcode: rfoot, type: armorlocation}
+    - {shortcode: climbing, type: skill, system: {masteryLevel: 57}}
+    - {shortcode: condition, type: skill, system: {masteryLevel: 120}}
+    - {shortcode: jumping, type: skill, system: {masteryLevel: 54}}
+    - {shortcode: stealth, type: skill, system: {masteryLevel: 44}}
+    - {shortcode: throwing, type: skill, system: {masteryLevel: 62}}
+    - {shortcode: awareness, type: skill, system: {masteryLevel: 54}}
+    - {shortcode: intrigue, type: skill, system: {masteryLevel: 24}}
+    - {shortcode: oratory, type: skill, system: {masteryLevel: 8}}
+    - {shortcode: rhetoric, type: skill, name: Intimidation (Rhetoric), system: {masteryLevel: 28}}
+    - {shortcode: singing, type: skill, system: {masteryLevel: 7}}
+    - {shortcode: language, type: skill, name: "Language: Harnic", system: {masteryLevel: 21}}
+    - {shortcode: initiative, type: skill, system: {masteryLevel: 54}}
+    - {shortcode: unarmed, type: skill, system: {masteryLevel: 114}}
+    - {shortcode: dodge, type: skill, system: {masteryLevel: 72}}
+    - {shortcode: sword, type: skill, name: Mankar (Sword), system: {masteryLevel: 114}}
     - name: Bite
       type: skill
-      data:
-        icon: sohl-none-icon-fangs
-      system:
-        type: Combat
-        skillBase.value: 19
-        masteryLevel: 114
-    - { shortcode: herblore, type: skill, system: { masteryLevel: 70 } }
-    - { shortcode: survival, type: skill, system: { masteryLevel: 60 } }
-    - { shortcode: Mankar, type: weapongear }
+      data: {icon: sohl-none-icon-fangs}
+      system: {type: Combat, skillBase.value: 19, masteryLevel: 114}
+    - {shortcode: herblore, type: skill, system: {masteryLevel: 70}}
+    - {shortcode: survival, type: skill, system: {masteryLevel: 60}}
+    - {shortcode: Mankar, type: weapongear}
     - name: Bite
       type: weapongear
-      data:
-        icon: sohl-none-icon-fangs
-      system:
-        assocSkill: Bite
-        blunt: 1
-        edged: -1
-        piercing: 5
-    - { shortcode: HndArm, type: weapongear }
-    - { shortcode: Head, type: weapongear }
-    - { shortcode: FtLgKn, type: weapongear }
+      data: {icon: sohl-none-icon-fangs}
+      system: {assocSkill: Bite, blunt: 1, edged: -1, piercing: 5}
+    - {shortcode: HndArm, type: weapongear}
+    - {shortcode: Head, type: weapongear}
+    - {shortcode: FtLgKn, type: weapongear}
     - name: Gargun Hide
       type: armorgear
-      data:
-        icon: sohl-none-icon-armor
+      data: {icon: sohl-none-icon-armor}
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -129,8 +103,7 @@ hm3:
         protection.fire: 3
     - name: Linen Girdle
       type: armorgear
-      data:
-        icon: sohl-none-icon-armor
+      data: {icon: sohl-none-icon-armor}
       system:
         value: 20
         weight: 1.5
@@ -140,10 +113,7 @@ hm3:
         protection.edged: 1
         protection.piercing: 1
         protection.fire: 1
-  system:
-    species: gargu (aberrant)
-    sunsign: ""
-    move: 11
+  system: {species: gargu (aberrant), sunsign: "", move: 11}
 ---
 
 # Appearance {#appearance}

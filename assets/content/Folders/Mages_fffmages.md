@@ -1,10 +1,6 @@
 ---
-name:
-  full: "Mages"
 shortcode: fffmages
+name: {full: "Mages"}
 type: folder
-id: 04kLAsFXMI0eqqgT
-data:
-  parent: fff
-  color: "#5F87E7"
+data: {parent: fff, color: "#5F87E7", id: 04kLAsFXMI0eqqgT}
 ---

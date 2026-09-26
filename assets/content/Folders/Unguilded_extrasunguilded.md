@@ -1,10 +1,6 @@
 ---
-name:
-  full: "Unguilded"
 shortcode: extrasunguilded
+name: {full: "Unguilded"}
 type: folder
-id: wqZxeSsm1ABX2AGx
-data:
-  parent: extras
-  color: "#1B7E2A"
+data: {parent: extras, color: "#1B7E2A", id: wqZxeSsm1ABX2AGx}
 ---

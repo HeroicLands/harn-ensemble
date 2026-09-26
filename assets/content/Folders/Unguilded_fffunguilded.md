@@ -1,10 +1,6 @@
 ---
-name:
-  full: "Unguilded"
 shortcode: fffunguilded
+name: {full: "Unguilded"}
 type: folder
-id: i4hECpF8Vz6XJURd
-data:
-  parent: fff
-  color: "#1B7E2A"
+data: {parent: fff, color: "#1B7E2A", id: i4hECpF8Vz6XJURd}
 ---

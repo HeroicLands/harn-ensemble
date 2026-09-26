@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Extras"
 shortcode: extras
+name: {full: "Extras"}
 type: folder
-id: f6QSkXsiJzV2kaFG
-data:
-  color: "#2193E0"
+data: {color: "#2193E0", id: f6QSkXsiJzV2kaFG}
 ---

@@ -1,10 +1,6 @@
 ---
-name:
-  full: "Nobles"
 shortcode: extrasnobles
+name: {full: "Nobles"}
 type: folder
-id: wYO4XEaOHdLCVUM0
-data:
-  parent: extras
-  color: "#06A295"
+data: {parent: extras, color: "#06A295", id: wYO4XEaOHdLCVUM0}
 ---

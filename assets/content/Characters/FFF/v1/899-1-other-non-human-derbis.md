@@ -1,25 +1,8 @@
 ---
-tags:
-  - character
-name:
-  full: Derbis
-  title: ""
-  given: Derbis
-  clan: ""
-  aliases: []
-id: J9U0KvmS9VfntWx5
-packFolder: fffnonhumans
 shortcode: derbis
+name: {full: Derbis, title: "", given: Derbis, clan: "", aliases: []}
 type: being
-social:
-  occupation: Hunter
-  class: n/a
-  society: ogre
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - urklam
+tags: [character]
 data:
   icon: fff8991tok
   gender: male
@@ -33,6 +16,10 @@ data:
     skin_color: pale
     complexion: frightening
     extra_features: []
+  harnworld: {realm: "", ritual: [urklam]}
+  id: J9U0KvmS9VfntWx5
+  packFolder: fffnonhumans
+  social: {occupation: Hunter, class: n/a, society: ogre, organizations: []}
 hm3:
   type: character
   attributes:
@@ -50,114 +37,86 @@ hm3:
     cml: 5
     mor: 10
   items:
-    - { shortcode: skull, type: armorlocation }
-    - { shortcode: face, type: armorlocation }
-    - { shortcode: neck, type: armorlocation }
-    - { shortcode: lshoulder, type: armorlocation }
-    - { shortcode: rshoulder, type: armorlocation }
-    - { shortcode: luparm, type: armorlocation }
-    - { shortcode: ruparm, type: armorlocation }
-    - { shortcode: lelb, type: armorlocation }
-    - { shortcode: relb, type: armorlocation }
-    - { shortcode: lhand, type: armorlocation }
-    - { shortcode: rhand, type: armorlocation }
-    - { shortcode: thorax, type: armorlocation }
-    - { shortcode: abdm, type: armorlocation }
-    - { shortcode: groin, type: armorlocation }
-    - { shortcode: lhip, type: armorlocation }
-    - { shortcode: rhip, type: armorlocation }
-    - { shortcode: lthigh, type: armorlocation }
-    - { shortcode: rthigh, type: armorlocation }
-    - { shortcode: lknee, type: armorlocation }
-    - { shortcode: rknee, type: armorlocation }
-    - { shortcode: lcalf, type: armorlocation }
-    - { shortcode: rcalf, type: armorlocation }
-    - { shortcode: lfoot, type: armorlocation }
-    - { shortcode: rfoot, type: armorlocation }
-    - { shortcode: climbing, type: skill, system: { masteryLevel: 71, skillBase: { value: 16 } } }
-    - { shortcode: condition, type: skill, system: { masteryLevel: 120, skillBase: { value: 24 } } }
-    - { shortcode: jumping, type: skill, system: { masteryLevel: 81, skillBase: { value: 16 } } }
-    - { shortcode: stealth, type: skill, system: { masteryLevel: 66, skillBase: { value: 14 } } }
-    - { shortcode: throwing, type: skill, system: { masteryLevel: 74, skillBase: { value: 18 } } }
-    - { shortcode: awareness, type: skill, system: { masteryLevel: 104, skillBase: { value: 16 } } }
-    - { shortcode: intrigue, type: skill, system: { masteryLevel: 48, skillBase: { value: 14 } } }
-    - { shortcode: oratory, type: skill, system: { masteryLevel: 17, skillBase: { value: 6 } } }
-    - { shortcode: rhetoric, type: skill, system: { masteryLevel: 33, skillBase: { value: 9 } } }
-    - { shortcode: singing, type: skill, system: { masteryLevel: 30, skillBase: { value: 8 } } }
+    - {shortcode: skull, type: armorlocation}
+    - {shortcode: face, type: armorlocation}
+    - {shortcode: neck, type: armorlocation}
+    - {shortcode: lshoulder, type: armorlocation}
+    - {shortcode: rshoulder, type: armorlocation}
+    - {shortcode: luparm, type: armorlocation}
+    - {shortcode: ruparm, type: armorlocation}
+    - {shortcode: lelb, type: armorlocation}
+    - {shortcode: relb, type: armorlocation}
+    - {shortcode: lhand, type: armorlocation}
+    - {shortcode: rhand, type: armorlocation}
+    - {shortcode: thorax, type: armorlocation}
+    - {shortcode: abdm, type: armorlocation}
+    - {shortcode: groin, type: armorlocation}
+    - {shortcode: lhip, type: armorlocation}
+    - {shortcode: rhip, type: armorlocation}
+    - {shortcode: lthigh, type: armorlocation}
+    - {shortcode: rthigh, type: armorlocation}
+    - {shortcode: lknee, type: armorlocation}
+    - {shortcode: rknee, type: armorlocation}
+    - {shortcode: lcalf, type: armorlocation}
+    - {shortcode: rcalf, type: armorlocation}
+    - {shortcode: lfoot, type: armorlocation}
+    - {shortcode: rfoot, type: armorlocation}
+    - {shortcode: climbing, type: skill, system: {masteryLevel: 71, skillBase: {value: 16}}}
+    - {shortcode: condition, type: skill, system: {masteryLevel: 120, skillBase: {value: 24}}}
+    - {shortcode: jumping, type: skill, system: {masteryLevel: 81, skillBase: {value: 16}}}
+    - {shortcode: stealth, type: skill, system: {masteryLevel: 66, skillBase: {value: 14}}}
+    - {shortcode: throwing, type: skill, system: {masteryLevel: 74, skillBase: {value: 18}}}
+    - {shortcode: awareness, type: skill, system: {masteryLevel: 104, skillBase: {value: 16}}}
+    - {shortcode: intrigue, type: skill, system: {masteryLevel: 48, skillBase: {value: 14}}}
+    - {shortcode: oratory, type: skill, system: {masteryLevel: 17, skillBase: {value: 6}}}
+    - {shortcode: rhetoric, type: skill, system: {masteryLevel: 33, skillBase: {value: 9}}}
+    - {shortcode: singing, type: skill, system: {masteryLevel: 30, skillBase: {value: 8}}}
     - shortcode: language
       type: skill
       name: "Language: Ogre"
-      system:
-        masteryLevel: 65
-        skillBase:
-          value: 13
-    - { shortcode: urklam, type: skill, system: { masteryLevel: 25, skillBase: { value: 13 } } }
-    - { shortcode: initiative, type: skill, system: { masteryLevel: 90, skillBase: { value: 14 } } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 71, skillBase: { value: 16 } } }
-    - { shortcode: dodge, type: skill, system: { masteryLevel: 61, skillBase: { value: 11 } } }
-    - { shortcode: axe, type: skill, system: { masteryLevel: 70, skillBase: { value: 21 } } }
+      system: {masteryLevel: 65, skillBase: {value: 13}}
+    - {shortcode: urklam, type: skill, system: {masteryLevel: 25, skillBase: {value: 13}}}
+    - {shortcode: initiative, type: skill, system: {masteryLevel: 90, skillBase: {value: 14}}}
+    - {shortcode: unarmed, type: skill, system: {masteryLevel: 71, skillBase: {value: 16}}}
+    - {shortcode: dodge, type: skill, system: {masteryLevel: 61, skillBase: {value: 11}}}
+    - {shortcode: axe, type: skill, system: {masteryLevel: 70, skillBase: {value: 21}}}
     - shortcode: axe
       type: skill
       name: Battleaxe (Axe)
-      system:
-        shortcode: battleaxeaxe
-        masteryLevel: 100
-        skillBase:
-          value: 21
-    - { shortcode: bow, type: skill, system: { masteryLevel: 65, skillBase: { value: 18 } } }
+      system: {shortcode: battleaxeaxe, masteryLevel: 100, skillBase: {value: 21}}
+    - {shortcode: bow, type: skill, system: {masteryLevel: 65, skillBase: {value: 18}}}
     - shortcode: bow
       type: skill
       name: Longbow (Bow)
-      system:
-        shortcode: longbowbow
-        masteryLevel: 90
-        skillBase:
-          value: 18
-    - { shortcode: club, type: skill, system: { masteryLevel: 115, skillBase: { value: 21 } } }
-    - { shortcode: dagger, type: skill, system: { masteryLevel: 50, skillBase: { value: 13 } } }
+      system: {shortcode: longbowbow, masteryLevel: 90, skillBase: {value: 18}}
+    - {shortcode: club, type: skill, system: {masteryLevel: 115, skillBase: {value: 21}}}
+    - {shortcode: dagger, type: skill, system: {masteryLevel: 50, skillBase: {value: 13}}}
     - shortcode: dagger
       type: skill
       name: Knife (Dagger)
-      system:
-        shortcode: knifedagger
-        masteryLevel: 60
-        skillBase:
-          value: 13
-    - { shortcode: fletching, type: skill, system: { masteryLevel: 70, skillBase: { value: 13 } } }
-    - { shortcode: foraging, type: skill, system: { masteryLevel: 80, skillBase: { value: 13 } } }
-    - { shortcode: hidework, type: skill, system: { masteryLevel: 65, skillBase: { value: 15 } } }
-    - { shortcode: survival, type: skill, system: { masteryLevel: 83, skillBase: { value: 15 } } }
-    - { shortcode: tracking, type: skill, system: { masteryLevel: 90, skillBase: { value: 16 } } }
-    - { shortcode: BAxe, type: weapongear }
-    - { shortcode: MgStr, type: weapongear }
-    - { shortcode: LBw, type: weapongear }
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: LtTunic, type: armorgear }
-    - { shortcode: LtCap, type: armorgear }
-    - { shortcode: KVamb, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: ArwLbw, type: missilegear, name: Arrow (Longbow), system: { quantity: 6 } }
-    - { shortcode: quiverlgsh, type: miscgear }
-    - shortcode: sensitivity
-      type: psionic
-      name: Sensitivity (F1)
-      system:
-        masteryLevel: 36
-    - shortcode: telepathy
-      type: psionic
-      name: "Telepathy: Ogres"
-      system:
-        masteryLevel: 90
+      system: {shortcode: knifedagger, masteryLevel: 60, skillBase: {value: 13}}
+    - {shortcode: fletching, type: skill, system: {masteryLevel: 70, skillBase: {value: 13}}}
+    - {shortcode: foraging, type: skill, system: {masteryLevel: 80, skillBase: {value: 13}}}
+    - {shortcode: hidework, type: skill, system: {masteryLevel: 65, skillBase: {value: 15}}}
+    - {shortcode: survival, type: skill, system: {masteryLevel: 83, skillBase: {value: 15}}}
+    - {shortcode: tracking, type: skill, system: {masteryLevel: 90, skillBase: {value: 16}}}
+    - {shortcode: BAxe, type: weapongear}
+    - {shortcode: MgStr, type: weapongear}
+    - {shortcode: LBw, type: weapongear}
+    - {shortcode: BrdSwd, type: weapongear}
+    - {shortcode: LtTunic, type: armorgear}
+    - {shortcode: LtCap, type: armorgear}
+    - {shortcode: KVamb, type: armorgear}
+    - {shortcode: LtShoe, type: armorgear}
+    - {shortcode: ArwLbw, type: missilegear, name: Arrow (Longbow), system: {quantity: 6}}
+    - {shortcode: quiverlgsh, type: miscgear}
+    - {shortcode: sensitivity, type: psionic, name: Sensitivity (F1), system: {masteryLevel: 36}}
+    - {shortcode: telepathy, type: psionic, name: "Telepathy: Ogres", system: {masteryLevel: 90}}
     - shortcode: telepathy
       type: psionic
       name: "Telepathy: Other Species"
-      system:
-        shortcode: telepathyotherspecies
-        masteryLevel: 36
-  system:
-    species: ogre
-    sunsign: ""
-    move: 11
+      system: {shortcode: telepathyotherspecies, masteryLevel: 36}
+  system: {species: ogre, sunsign: "", move: 11}
 ---
 
 # Appearance {#appearance}

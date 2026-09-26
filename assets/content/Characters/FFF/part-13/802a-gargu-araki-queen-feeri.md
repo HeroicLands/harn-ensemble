@@ -1,24 +1,8 @@
 ---
-tags:
-  - character
-name:
-  full: Feeri
-  title: ""
-  given: Feeri
-  clan: ""
-  aliases: []
-id: q3CWI4spzMWAUE77
-packFolder: fffnonhumans
 shortcode: feeri
+name: {full: Feeri, title: "", given: Feeri, clan: "", aliases: []}
 type: being
-social:
-  occupation: Queen
-  class: queen
-  society: gargun (araki)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
+tags: [character]
 data:
   icon: fff802ahead
   tokenIcon: fff802atok
@@ -34,8 +18,11 @@ data:
     hair_color: tawny
     skin_color: pallid
     complexion: hideous
-    extra_features:
-      - Obese
+    extra_features: [Obese]
+  harnworld: {realm: "", ritual: []}
+  id: q3CWI4spzMWAUE77
+  packFolder: fffnonhumans
+  social: {occupation: Queen, class: queen, society: gargun (araki), organizations: []}
 hm3:
   type: character
   attributes:
@@ -53,67 +40,58 @@ hm3:
     cml: 3
     mor: 7
   items:
-    - { shortcode: skull, type: armorlocation }
-    - { shortcode: face, type: armorlocation }
-    - { shortcode: neck, type: armorlocation }
-    - { shortcode: lshoulder, type: armorlocation }
-    - { shortcode: rshoulder, type: armorlocation }
-    - { shortcode: luparm, type: armorlocation }
-    - { shortcode: ruparm, type: armorlocation }
-    - { shortcode: lelb, type: armorlocation }
-    - { shortcode: relb, type: armorlocation }
-    - { shortcode: lhand, type: armorlocation }
-    - { shortcode: rhand, type: armorlocation }
-    - { shortcode: thorax, type: armorlocation }
-    - { shortcode: abdm, type: armorlocation }
-    - { shortcode: groin, type: armorlocation }
-    - { shortcode: lhip, type: armorlocation }
-    - { shortcode: rhip, type: armorlocation }
-    - { shortcode: lthigh, type: armorlocation }
-    - { shortcode: rthigh, type: armorlocation }
-    - { shortcode: lknee, type: armorlocation }
-    - { shortcode: rknee, type: armorlocation }
-    - { shortcode: lcalf, type: armorlocation }
-    - { shortcode: rcalf, type: armorlocation }
-    - { shortcode: lfoot, type: armorlocation }
-    - { shortcode: rfoot, type: armorlocation }
-    - { shortcode: climbing, type: skill }
-    - { shortcode: condition, type: skill, system: { masteryLevel: 78 } }
-    - { shortcode: jumping, type: skill }
-    - { shortcode: stealth, type: skill, system: { masteryLevel: 44 } }
-    - { shortcode: throwing, type: skill, system: { masteryLevel: 62 } }
-    - { shortcode: awareness, type: skill, system: { masteryLevel: 61 } }
-    - { shortcode: intrigue, type: skill, system: { masteryLevel: 33 } }
-    - { shortcode: oratory, type: skill, system: { masteryLevel: 20 } }
-    - shortcode: rhetoric
-      type: skill
-      name: Intimidation (Rhetoric)
-      system:
-        masteryLevel: 36
-    - { shortcode: singing, type: skill, system: { masteryLevel: 33 } }
-    - shortcode: language
-      type: skill
-      name: "Language: Gargu-araki"
-      system:
-        masteryLevel: 60
-    - { shortcode: initiative, type: skill, system: { masteryLevel: 57 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 55 } }
-    - { shortcode: dodge, type: skill }
-    - { shortcode: sword, type: skill, name: Mankar (Sword), system: { masteryLevel: 55 } }
-    - { shortcode: bow, type: skill, name: Shortbow (Bow), system: { masteryLevel: 58 } }
-    - { shortcode: dagger, type: skill, system: { masteryLevel: 60 } }
-    - { shortcode: shield, type: skill, name: Round (Shield), system: { masteryLevel: 55 } }
-    - { shortcode: club, type: skill, system: { masteryLevel: 48 } }
-    - { shortcode: herblore, type: skill, system: { masteryLevel: 70 } }
-    - { shortcode: survival, type: skill, system: { masteryLevel: 48 } }
-    - { shortcode: tracking, type: skill, system: { masteryLevel: 75 } }
-    - { shortcode: FtLgKn, type: weapongear }
-    - { shortcode: HndArm, type: weapongear }
-    - { shortcode: Head, type: weapongear }
+    - {shortcode: skull, type: armorlocation}
+    - {shortcode: face, type: armorlocation}
+    - {shortcode: neck, type: armorlocation}
+    - {shortcode: lshoulder, type: armorlocation}
+    - {shortcode: rshoulder, type: armorlocation}
+    - {shortcode: luparm, type: armorlocation}
+    - {shortcode: ruparm, type: armorlocation}
+    - {shortcode: lelb, type: armorlocation}
+    - {shortcode: relb, type: armorlocation}
+    - {shortcode: lhand, type: armorlocation}
+    - {shortcode: rhand, type: armorlocation}
+    - {shortcode: thorax, type: armorlocation}
+    - {shortcode: abdm, type: armorlocation}
+    - {shortcode: groin, type: armorlocation}
+    - {shortcode: lhip, type: armorlocation}
+    - {shortcode: rhip, type: armorlocation}
+    - {shortcode: lthigh, type: armorlocation}
+    - {shortcode: rthigh, type: armorlocation}
+    - {shortcode: lknee, type: armorlocation}
+    - {shortcode: rknee, type: armorlocation}
+    - {shortcode: lcalf, type: armorlocation}
+    - {shortcode: rcalf, type: armorlocation}
+    - {shortcode: lfoot, type: armorlocation}
+    - {shortcode: rfoot, type: armorlocation}
+    - {shortcode: climbing, type: skill}
+    - {shortcode: condition, type: skill, system: {masteryLevel: 78}}
+    - {shortcode: jumping, type: skill}
+    - {shortcode: stealth, type: skill, system: {masteryLevel: 44}}
+    - {shortcode: throwing, type: skill, system: {masteryLevel: 62}}
+    - {shortcode: awareness, type: skill, system: {masteryLevel: 61}}
+    - {shortcode: intrigue, type: skill, system: {masteryLevel: 33}}
+    - {shortcode: oratory, type: skill, system: {masteryLevel: 20}}
+    - {shortcode: rhetoric, type: skill, name: Intimidation (Rhetoric), system: {masteryLevel: 36}}
+    - {shortcode: singing, type: skill, system: {masteryLevel: 33}}
+    - {shortcode: language, type: skill, name: "Language: Gargu-araki", system: {masteryLevel: 60}}
+    - {shortcode: initiative, type: skill, system: {masteryLevel: 57}}
+    - {shortcode: unarmed, type: skill, system: {masteryLevel: 55}}
+    - {shortcode: dodge, type: skill}
+    - {shortcode: sword, type: skill, name: Mankar (Sword), system: {masteryLevel: 55}}
+    - {shortcode: bow, type: skill, name: Shortbow (Bow), system: {masteryLevel: 58}}
+    - {shortcode: dagger, type: skill, system: {masteryLevel: 60}}
+    - {shortcode: shield, type: skill, name: Round (Shield), system: {masteryLevel: 55}}
+    - {shortcode: club, type: skill, system: {masteryLevel: 48}}
+    - {shortcode: herblore, type: skill, system: {masteryLevel: 70}}
+    - {shortcode: survival, type: skill, system: {masteryLevel: 48}}
+    - {shortcode: tracking, type: skill, system: {masteryLevel: 75}}
+    - {shortcode: FtLgKn, type: weapongear}
+    - {shortcode: HndArm, type: weapongear}
+    - {shortcode: Head, type: weapongear}
     - name: Gargun Hide
       type: armorgear
-      data:
-        icon: sohl-none-icon-armor
+      data: {icon: sohl-none-icon-armor}
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -121,10 +99,7 @@ hm3:
         protection.edged: 3
         protection.piercing: 1
         protection.fire: 3
-  system:
-    species: araki
-    sunsign: aralius
-    move: 10
+  system: {species: araki, sunsign: aralius, move: 10}
 ---
 
 # Appearance {#appearance}

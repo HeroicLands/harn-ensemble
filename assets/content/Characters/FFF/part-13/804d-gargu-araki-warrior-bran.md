@@ -1,24 +1,8 @@
 ---
-tags:
-  - character
-name:
-  full: Bran
-  title: ""
-  given: Bran
-  clan: ""
-  aliases: []
-id: f6i26XWJPVGgm6VV
-packFolder: fffnonhumans
 shortcode: bran
+name: {full: Bran, title: "", given: Bran, clan: "", aliases: []}
 type: being
-social:
-  occupation: Warrior
-  class: slave
-  society: gargun (araki)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
+tags: [character]
 data:
   icon: fff804dhead
   tokenIcon: fff804dtok
@@ -35,6 +19,10 @@ data:
     skin_color: ""
     complexion: shifty
     extra_features: []
+  harnworld: {realm: "", ritual: []}
+  id: f6i26XWJPVGgm6VV
+  packFolder: fffnonhumans
+  social: {occupation: Warrior, class: slave, society: gargun (araki), organizations: []}
 hm3:
   type: character
   attributes:
@@ -52,79 +40,68 @@ hm3:
     cml: 5
     mor: 5
   items:
-    - { shortcode: skull, type: armorlocation }
-    - { shortcode: face, type: armorlocation }
-    - { shortcode: neck, type: armorlocation }
-    - { shortcode: lshoulder, type: armorlocation }
-    - { shortcode: rshoulder, type: armorlocation }
-    - { shortcode: luparm, type: armorlocation }
-    - { shortcode: ruparm, type: armorlocation }
-    - { shortcode: lelb, type: armorlocation }
-    - { shortcode: relb, type: armorlocation }
-    - { shortcode: lhand, type: armorlocation }
-    - { shortcode: rhand, type: armorlocation }
-    - { shortcode: thorax, type: armorlocation }
-    - { shortcode: abdm, type: armorlocation }
-    - { shortcode: groin, type: armorlocation }
-    - { shortcode: lhip, type: armorlocation }
-    - { shortcode: rhip, type: armorlocation }
-    - { shortcode: lthigh, type: armorlocation }
-    - { shortcode: rthigh, type: armorlocation }
-    - { shortcode: lknee, type: armorlocation }
-    - { shortcode: rknee, type: armorlocation }
-    - { shortcode: lcalf, type: armorlocation }
-    - { shortcode: rcalf, type: armorlocation }
-    - { shortcode: lfoot, type: armorlocation }
-    - { shortcode: rfoot, type: armorlocation }
-    - { shortcode: acrobatics, type: skill, system: { masteryLevel: 20 } }
-    - { shortcode: climbing, type: skill, system: { masteryLevel: 54 } }
-    - { shortcode: condition, type: skill, system: { masteryLevel: 56 } }
-    - { shortcode: jumping, type: skill, system: { masteryLevel: 40 } }
-    - { shortcode: stealth, type: skill, system: { masteryLevel: 46 } }
-    - { shortcode: throwing, type: skill, system: { masteryLevel: 53 } }
-    - { shortcode: awareness, type: skill, system: { masteryLevel: 52 } }
-    - { shortcode: intrigue, type: skill, system: { masteryLevel: 57 } }
-    - { shortcode: oratory, type: skill, system: { masteryLevel: 18 } }
-    - shortcode: rhetoric
-      type: skill
-      name: Intimidation (Rhetoric)
-      system:
-        masteryLevel: 36
-    - { shortcode: singing, type: skill, system: { masteryLevel: 36 } }
-    - shortcode: language
-      type: skill
-      name: "Language: Gargu-arak"
-      system:
-        masteryLevel: 62
+    - {shortcode: skull, type: armorlocation}
+    - {shortcode: face, type: armorlocation}
+    - {shortcode: neck, type: armorlocation}
+    - {shortcode: lshoulder, type: armorlocation}
+    - {shortcode: rshoulder, type: armorlocation}
+    - {shortcode: luparm, type: armorlocation}
+    - {shortcode: ruparm, type: armorlocation}
+    - {shortcode: lelb, type: armorlocation}
+    - {shortcode: relb, type: armorlocation}
+    - {shortcode: lhand, type: armorlocation}
+    - {shortcode: rhand, type: armorlocation}
+    - {shortcode: thorax, type: armorlocation}
+    - {shortcode: abdm, type: armorlocation}
+    - {shortcode: groin, type: armorlocation}
+    - {shortcode: lhip, type: armorlocation}
+    - {shortcode: rhip, type: armorlocation}
+    - {shortcode: lthigh, type: armorlocation}
+    - {shortcode: rthigh, type: armorlocation}
+    - {shortcode: lknee, type: armorlocation}
+    - {shortcode: rknee, type: armorlocation}
+    - {shortcode: lcalf, type: armorlocation}
+    - {shortcode: rcalf, type: armorlocation}
+    - {shortcode: lfoot, type: armorlocation}
+    - {shortcode: rfoot, type: armorlocation}
+    - {shortcode: acrobatics, type: skill, system: {masteryLevel: 20}}
+    - {shortcode: climbing, type: skill, system: {masteryLevel: 54}}
+    - {shortcode: condition, type: skill, system: {masteryLevel: 56}}
+    - {shortcode: jumping, type: skill, system: {masteryLevel: 40}}
+    - {shortcode: stealth, type: skill, system: {masteryLevel: 46}}
+    - {shortcode: throwing, type: skill, system: {masteryLevel: 53}}
+    - {shortcode: awareness, type: skill, system: {masteryLevel: 52}}
+    - {shortcode: intrigue, type: skill, system: {masteryLevel: 57}}
+    - {shortcode: oratory, type: skill, system: {masteryLevel: 18}}
+    - {shortcode: rhetoric, type: skill, name: Intimidation (Rhetoric), system: {masteryLevel: 36}}
+    - {shortcode: singing, type: skill, system: {masteryLevel: 36}}
+    - {shortcode: language, type: skill, name: "Language: Gargu-arak", system: {masteryLevel: 62}}
     - shortcode: language
       type: skill
       name: "Language: Gargu-khanu"
-      system:
-        shortcode: languagegargukhanu
-        masteryLevel: 39
-    - { shortcode: initiative, type: skill, system: { masteryLevel: 50 } }
-    - { shortcode: unarmed, type: skill, system: { masteryLevel: 56 } }
-    - { shortcode: dodge, type: skill, system: { masteryLevel: 59 } }
-    - { shortcode: bow, type: skill, name: Shortbow (Bow), system: { masteryLevel: 54 } }
-    - { shortcode: club, type: skill, system: { masteryLevel: 61 } }
-    - { shortcode: dagger, type: skill, system: { masteryLevel: 65 } }
-    - { shortcode: shield, type: skill, system: { masteryLevel: 69 } }
-    - { shortcode: sword, type: skill, name: Mang (Sword), system: { masteryLevel: 83 } }
-    - { shortcode: agriculture, type: skill, system: { masteryLevel: 36 } }
-    - { shortcode: animalcraft, type: skill, system: { masteryLevel: 20 } }
-    - { shortcode: drawing, type: skill, system: { masteryLevel: 30 } }
-    - { shortcode: herblore, type: skill, system: { masteryLevel: 72 } }
-    - { shortcode: hidework, type: skill, system: { masteryLevel: 24 } }
-    - { shortcode: survival, type: skill, system: { masteryLevel: 52 } }
-    - { shortcode: tracking, type: skill, system: { masteryLevel: 60 } }
-    - { shortcode: Mang, type: weapongear }
-    - { shortcode: HndArm, type: weapongear }
-    - { shortcode: Head, type: weapongear }
-    - { shortcode: FtLgKn, type: weapongear }
+      system: {shortcode: languagegargukhanu, masteryLevel: 39}
+    - {shortcode: initiative, type: skill, system: {masteryLevel: 50}}
+    - {shortcode: unarmed, type: skill, system: {masteryLevel: 56}}
+    - {shortcode: dodge, type: skill, system: {masteryLevel: 59}}
+    - {shortcode: bow, type: skill, name: Shortbow (Bow), system: {masteryLevel: 54}}
+    - {shortcode: club, type: skill, system: {masteryLevel: 61}}
+    - {shortcode: dagger, type: skill, system: {masteryLevel: 65}}
+    - {shortcode: shield, type: skill, system: {masteryLevel: 69}}
+    - {shortcode: sword, type: skill, name: Mang (Sword), system: {masteryLevel: 83}}
+    - {shortcode: agriculture, type: skill, system: {masteryLevel: 36}}
+    - {shortcode: animalcraft, type: skill, system: {masteryLevel: 20}}
+    - {shortcode: drawing, type: skill, system: {masteryLevel: 30}}
+    - {shortcode: herblore, type: skill, system: {masteryLevel: 72}}
+    - {shortcode: hidework, type: skill, system: {masteryLevel: 24}}
+    - {shortcode: survival, type: skill, system: {masteryLevel: 52}}
+    - {shortcode: tracking, type: skill, system: {masteryLevel: 60}}
+    - {shortcode: Mang, type: weapongear}
+    - {shortcode: HndArm, type: weapongear}
+    - {shortcode: Head, type: weapongear}
+    - {shortcode: FtLgKn, type: weapongear}
     - name: Gargun Hide
       type: armorgear
-      data:
-        icon: sohl-none-icon-armor
+      data: {icon: sohl-none-icon-armor}
       system:
         material: Hide
         locations: "['Skull', 'Face', 'Neck', 'Shoulder', 'Upper Arm', 'Elbow', 'Forearm', 'Hand', 'Thorax', 'Abdomen', 'Hip', 'Groin', 'Thigh', 'Knee', 'Calf', 'Foot']"
@@ -132,16 +109,13 @@ hm3:
         protection.edged: 3
         protection.piercing: 1
         protection.fire: 3
-    - { shortcode: MByr, type: armorgear }
-    - { shortcode: PlGrvs, type: armorgear }
-    - { shortcode: LTunic, type: armorgear }
-    - { shortcode: beltwaist, type: miscgear }
-    - { shortcode: beltpouchl3, type: containergear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 39 } }
-  system:
-    species: gargu-araki
-    sunsign: angberelius
-    move: 8
+    - {shortcode: MByr, type: armorgear}
+    - {shortcode: PlGrvs, type: armorgear}
+    - {shortcode: LTunic, type: armorgear}
+    - {shortcode: beltwaist, type: miscgear}
+    - {shortcode: beltpouchl3, type: containergear}
+    - {shortcode: pence, type: miscgear, system: {quantity: 39}}
+  system: {species: gargu-araki, sunsign: angberelius, move: 8}
 ---
 
 # Appearance {#appearance}

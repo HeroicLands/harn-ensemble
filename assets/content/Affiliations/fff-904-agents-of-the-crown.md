@@ -1,17 +1,11 @@
 ---
-tags: []
-id: tcM3VLVYfSXzCDFd
+shortcode: fffagntscrwn
+name: {full: Agents of the Crown, aliases: []}
 type: affiliation
 subType: venture
-shortcode: fffagntscrwn
-name:
-  full: Agents of the Crown
-  aliases: []
-data:
-  icon: null
-  templatePriority: null
-sohl:
-  relation: []
+tags: []
+data: {icon: null, templatePriority: null, id: tcM3VLVYfSXzCDFd}
+sohl: {relation: []}
 ---
 
 This company of adventurers represent the long arm of the crown and courts in Melderyni (or any other feudal kingdom). Answerable directly to the King through the to the Inquisitor-General and Chancellor, a Royal Agent is a man to be feared and respected. If you are honest and have committed no crime, you have nothing to fear.

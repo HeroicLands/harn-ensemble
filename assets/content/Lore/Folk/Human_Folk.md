@@ -1,12 +1,10 @@
 ---
-tags: []
-description: "The Human Folk"
+shortcode: humanflk
+name: {full: Human Folk, aliases: []}
 type: lore
 subType: folk
-name:
-  full: Human Folk
-  aliases: []
-shortcode: humanflk
+description: "The Human Folk"
+tags: []
 ---
 
 Humans are by far the most populous folk species. They live in farming villages,

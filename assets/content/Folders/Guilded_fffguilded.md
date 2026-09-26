@@ -1,10 +1,6 @@
 ---
-name:
-  full: "Guilded"
 shortcode: fffguilded
+name: {full: "Guilded"}
 type: folder
-id: dbDLVOgUtgVgjgnJ
-data:
-  parent: fff
-  color: "#999008"
+data: {parent: fff, color: "#999008", id: dbDLVOgUtgVgjgnJ}
 ---
