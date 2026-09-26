@@ -7,19 +7,8 @@ name:
   given: Lander
   clan: Mossdom
   aliases: []
-id: UZY4fDaKJLgDoyKQ
-packFolder: fffunguilded
 shortcode: landerofmossdom
 type: being
-social:
-  occupation: Cartographer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff4031tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: UZY4fDaKJLgDoyKQ
+  packFolder: fffunguilded
+  social:
+    occupation: Cartographer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

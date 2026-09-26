@@ -7,19 +7,8 @@ name:
   given: Cholayn
   clan: Ever
   aliases: []
-id: XFWqNDR7AICyYHrV
-packFolder: extrasclergy
 shortcode: cholaynofever
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: XFWqNDR7AICyYHrV
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Hondasaravis
   clan: Veris
   aliases: []
-id: vToEF5ErAevivllI
-packFolder: extrasunguilded
 shortcode: hondasaravisofveris
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vToEF5ErAevivllI
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Cheselyn
   clan: Athan
   aliases: []
-id: 6jH2rttASPaJ3uze
-packFolder: extrasclergy
 shortcode: cheselynofathan
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: 6jH2rttASPaJ3uze
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

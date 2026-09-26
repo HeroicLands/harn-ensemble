@@ -7,18 +7,8 @@ name:
   given: Pallis
   clan: Vanthesta
   aliases: []
-id: hUUmEcao2RDGhkBI
-packFolder: extrasguilded
 shortcode: pallisofvanthesta
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hUUmEcao2RDGhkBI
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Kalwis
   clan: Musbern
   aliases: []
-id: QfDeF3PyxmpRdgzk
-packFolder: extrasmages
 shortcode: kalwisofmusbern
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi***"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QfDeF3PyxmpRdgzk
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi***"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

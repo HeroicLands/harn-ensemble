@@ -7,19 +7,8 @@ name:
   given: Merelyn
   clan: Eyloch
   aliases: []
-id: pKAUfBre0bFzszLN
-packFolder: extrasclergy
 shortcode: merelynofeyloch
 type: being
-social:
-  occupation: Cleric/Larani
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: pKAUfBre0bFzszLN
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

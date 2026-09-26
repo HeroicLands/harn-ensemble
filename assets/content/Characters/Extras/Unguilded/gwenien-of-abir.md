@@ -7,18 +7,8 @@ name:
   given: Gwenien
   clan: Abir
   aliases: []
-id: R1SgydlC9jQ3U0ZV
-packFolder: extrasunguilded
 shortcode: gwenienofabir
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: R1SgydlC9jQ3U0ZV
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

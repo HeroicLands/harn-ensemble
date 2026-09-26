@@ -7,19 +7,8 @@ name:
   given: Veradain
   clan: Eldire
   aliases: []
-id: TI8zb00ne2q4UOr7
-packFolder: extrasclergy
 shortcode: veradainofeldire
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: TI8zb00ne2q4UOr7
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

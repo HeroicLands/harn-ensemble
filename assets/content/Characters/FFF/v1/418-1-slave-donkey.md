@@ -7,19 +7,8 @@ name:
   given: Donkey
   clan: ""
   aliases: []
-id: X9QMQDMRJ2tSGvPK
-packFolder: fffunguilded
 shortcode: donkey
 type: being
-social:
-  occupation: Slave
-  class: slave
-  society: imperial
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4181tok
   templatePriority: 1
@@ -40,6 +29,17 @@ data:
       - parasites
       - pox marks
       - missing both thumbs
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: X9QMQDMRJ2tSGvPK
+  packFolder: fffunguilded
+  social:
+    occupation: Slave
+    class: slave
+    society: imperial
+    organizations: []
 hm3:
   type: character
   attributes:

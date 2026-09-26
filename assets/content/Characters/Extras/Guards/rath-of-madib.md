@@ -7,18 +7,8 @@ name:
   given: Rath
   clan: Madib
   aliases: []
-id: StCJR8ySR6WXk9S1
-packFolder: extrasguards
 shortcode: rathofmadib
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: StCJR8ySR6WXk9S1
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

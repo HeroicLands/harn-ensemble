@@ -7,18 +7,8 @@ name:
   given: Chola
   clan: Quinda
   aliases: []
-id: cn5owaQupJXlWleo
-packFolder: extrasunguilded
 shortcode: cholaofquinda
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: cn5owaQupJXlWleo
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

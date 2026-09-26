@@ -7,18 +7,8 @@ name:
   given: Borane
   clan: Vylosath
   aliases: []
-id: bu8sfyJszY3tAT3W
-packFolder: extrasguilded
 shortcode: boraneofvylosath
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bu8sfyJszY3tAT3W
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

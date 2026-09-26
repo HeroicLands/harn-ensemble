@@ -7,19 +7,8 @@ name:
   given: Jola
   clan: Musbern
   aliases: []
-id: 48hjVhDqEnrnRNv1
-packFolder: extrasclergy
 shortcode: jolaofmusbern
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: 48hjVhDqEnrnRNv1
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

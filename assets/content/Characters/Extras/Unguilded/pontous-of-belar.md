@@ -7,18 +7,8 @@ name:
   given: Pontous
   clan: Belar
   aliases: []
-id: gRimrD9xTZdFem3I
-packFolder: extrasunguilded
 shortcode: pontousofbelar
 type: being
-social:
-  occupation: Animal Trainer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gRimrD9xTZdFem3I
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Dorane
   clan: Tulkne
   aliases: []
-id: oTLOL2jJZxBK1UIE
-packFolder: extrasunguilded
 shortcode: doraneoftulkne
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oTLOL2jJZxBK1UIE
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

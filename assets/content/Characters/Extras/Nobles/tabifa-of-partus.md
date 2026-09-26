@@ -7,18 +7,8 @@ name:
   given: Tabifa
   clan: Partus
   aliases: []
-id: 18tocDuUmBgEFpPD
-packFolder: extrasnobles
 shortcode: tabifaofpartus
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 18tocDuUmBgEFpPD
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

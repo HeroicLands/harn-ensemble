@@ -7,18 +7,8 @@ name:
   given: Itis
   clan: Aethal
   aliases: []
-id: ntTqd86lmEPj4ur7
-packFolder: extrasunguilded
 shortcode: itisofaethal
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ntTqd86lmEPj4ur7
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

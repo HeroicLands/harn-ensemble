@@ -7,18 +7,8 @@ name:
   given: Feldar
   clan: Yaleh
   aliases: []
-id: rw0NWTTW8DhFgjRt
-packFolder: extrasguilded
 shortcode: feldarofyaleh
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rw0NWTTW8DhFgjRt
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Alwamarthior
   clan: Blabonthaluben
   aliases: []
-id: 02wWA1H8Ollzy5hV
-packFolder: extrasnobles
 shortcode: alwamarthiorofblabonthaluben
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 02wWA1H8Ollzy5hV
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Lusilena
   clan: Ele
   aliases: []
-id: Qr5RTp0BbahmMl2K
-packFolder: extrasclergy
 shortcode: lusilenaofele
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: Qr5RTp0BbahmMl2K
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

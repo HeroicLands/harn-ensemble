@@ -7,18 +7,8 @@ name:
   given: Boseral
   clan: Hosanefris
   aliases: []
-id: bzGLDFn4G4LdnN8q
-packFolder: extrasunguilded
 shortcode: boseralofhosanefris
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bzGLDFn4G4LdnN8q
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

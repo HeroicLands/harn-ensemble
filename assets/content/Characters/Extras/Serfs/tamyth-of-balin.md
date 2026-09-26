@@ -7,18 +7,8 @@ name:
   given: Tamyth
   clan: Balin
   aliases: []
-id: ioDH08AssQt3OUPI
-packFolder: extrasserfs
 shortcode: tamythofbalin
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ioDH08AssQt3OUPI
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Tolmey
   clan: Ner
   aliases: []
-id: GPBmurbzrMPg430k
-packFolder: extrasclergy
 shortcode: tolmeyofner
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: GPBmurbzrMPg430k
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

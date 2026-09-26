@@ -7,18 +7,8 @@ name:
   given: Solina
   clan: Rabetane
   aliases: []
-id: 7ZOqD0g9IjpFAaZz
-packFolder: extrasnobles
 shortcode: solinaofrabetane
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7ZOqD0g9IjpFAaZz
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

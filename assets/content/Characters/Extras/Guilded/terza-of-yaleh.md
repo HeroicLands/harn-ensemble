@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Yaleh
   aliases: []
-id: ylj45a0fHgPFjYql
-packFolder: extrasguilded
 shortcode: terzaofyaleh
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ylj45a0fHgPFjYql
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

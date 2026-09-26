@@ -7,18 +7,8 @@ name:
   given: Krik
   clan: Asanerik
   aliases: []
-id: ETJW4HcTBHtiXMet
-packFolder: extrasguards
 shortcode: krikofasanerik
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ETJW4HcTBHtiXMet
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

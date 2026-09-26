@@ -7,18 +7,8 @@ name:
   given: Bresyn
   clan: Ibine
   aliases: []
-id: b9ZcHWPXXxZHGM1m
-packFolder: extrasguilded
 shortcode: bresynofibine
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b9ZcHWPXXxZHGM1m
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

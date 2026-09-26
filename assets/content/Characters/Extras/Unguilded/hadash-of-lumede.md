@@ -7,18 +7,8 @@ name:
   given: Hadash
   clan: Lumede
   aliases: []
-id: ON6PlPiIcoLEpYbf
-packFolder: extrasunguilded
 shortcode: hadashoflumede
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ON6PlPiIcoLEpYbf
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

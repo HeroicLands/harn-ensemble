@@ -7,18 +7,8 @@ name:
   given: Angem
   clan: Agarwen
   aliases: []
-id: CMgqh02GNDRVlkVf
-packFolder: extrasnobles
 shortcode: angemofagarwen
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CMgqh02GNDRVlkVf
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

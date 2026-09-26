@@ -7,18 +7,8 @@ name:
   given: Embrance
   clan: Shref
   aliases: []
-id: QNKNfhHp38dJHTw4
-packFolder: extrasnobles
 shortcode: embranceofshref
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QNKNfhHp38dJHTw4
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

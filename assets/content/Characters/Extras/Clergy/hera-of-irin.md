@@ -7,19 +7,8 @@ name:
   given: Hera
   clan: Irin
   aliases: []
-id: 0iDJIx0hzEgPlahI
-packFolder: extrasclergy
 shortcode: heraofirin
 type: being
-social:
-  occupation: Cleric/Larani
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 0iDJIx0hzEgPlahI
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

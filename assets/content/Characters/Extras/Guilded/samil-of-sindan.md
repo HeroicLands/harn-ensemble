@@ -7,18 +7,8 @@ name:
   given: Samil
   clan: Sindan
   aliases: []
-id: FZAIXJ3KRjaFv5WY
-packFolder: extrasguilded
 shortcode: samilofsindan
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FZAIXJ3KRjaFv5WY
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

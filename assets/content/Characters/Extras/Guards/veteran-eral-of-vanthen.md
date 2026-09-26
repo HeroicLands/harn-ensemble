@@ -7,18 +7,8 @@ name:
   given: Eral
   clan: Vanthen
   aliases: []
-id: Dbb07ScAB6olshCe
-packFolder: extrasguards
 shortcode: veteraneralofvanthen
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Dbb07ScAB6olshCe
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

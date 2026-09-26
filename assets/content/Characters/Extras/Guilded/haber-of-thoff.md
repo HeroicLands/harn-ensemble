@@ -7,18 +7,8 @@ name:
   given: Haber
   clan: Thoff
   aliases: []
-id: V0aueT4LxMCOydee
-packFolder: extrasguilded
 shortcode: haberofthoff
 type: being
-social:
-  occupation: Pilot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: V0aueT4LxMCOydee
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

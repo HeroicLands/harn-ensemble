@@ -7,18 +7,8 @@ name:
   given: Marlyse
   clan: Cinbarn
   aliases: []
-id: l2ypbRMy2FjTluvt
-packFolder: extrasguilded
 shortcode: marlyseofcinbarn
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: l2ypbRMy2FjTluvt
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

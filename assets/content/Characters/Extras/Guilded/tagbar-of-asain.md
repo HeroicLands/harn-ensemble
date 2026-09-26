@@ -7,18 +7,8 @@ name:
   given: Tagbar
   clan: Asain
   aliases: []
-id: 65YQJCeLnKbE03Cl
-packFolder: extrasguilded
 shortcode: tagbarofasain
 type: being
-social:
-  occupation: Harper/Skald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 65YQJCeLnKbE03Cl
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

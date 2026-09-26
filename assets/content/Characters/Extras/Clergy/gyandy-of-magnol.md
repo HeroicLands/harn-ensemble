@@ -7,19 +7,8 @@ name:
   given: Gyandy
   clan: Magnol
   aliases: []
-id: 1xn23cBau59VvXzU
-packFolder: extrasclergy
 shortcode: gyandyofmagnol
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: 1xn23cBau59VvXzU
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

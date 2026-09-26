@@ -7,18 +7,8 @@ name:
   given: Houla
   clan: Wesaldim
   aliases: []
-id: Aytei0IiRyLDaQsy
-packFolder: extrasguards
 shortcode: houlaofwesaldim
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Aytei0IiRyLDaQsy
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

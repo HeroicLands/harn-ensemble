@@ -7,18 +7,8 @@ name:
   given: Frand
   clan: Merke
   aliases: []
-id: ZZjV2GiYZDnodyUI
-packFolder: extrasunguilded
 shortcode: frandofmerke
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZZjV2GiYZDnodyUI
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

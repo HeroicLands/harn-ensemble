@@ -7,18 +7,8 @@ name:
   given: Ithan
   clan: Pythselwethen
   aliases: []
-id: TWgtrHXlxQZMeuDy
-packFolder: extrasunguilded
 shortcode: ithanofpythselwethen
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TWgtrHXlxQZMeuDy
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

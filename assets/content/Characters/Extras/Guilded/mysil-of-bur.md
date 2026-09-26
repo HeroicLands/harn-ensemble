@@ -7,18 +7,8 @@ name:
   given: Mysil
   clan: Bur
   aliases: []
-id: RIxiNyFd7zltUF32
-packFolder: extrasguilded
 shortcode: mysilofbur
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RIxiNyFd7zltUF32
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

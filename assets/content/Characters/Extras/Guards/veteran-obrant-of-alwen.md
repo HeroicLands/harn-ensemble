@@ -7,18 +7,8 @@ name:
   given: Obrant
   clan: Alwen
   aliases: []
-id: PRILqS6obJL3b9MS
-packFolder: extrasguards
 shortcode: veteranobrantofalwen
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PRILqS6obJL3b9MS
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

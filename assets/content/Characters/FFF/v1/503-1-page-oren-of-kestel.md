@@ -7,19 +7,8 @@ name:
   given: Oren
   clan: Kestel
   aliases: []
-id: RWymnuimvX4tvFSL
-packFolder: fffnobles
 shortcode: orenofkestel
 type: being
-social:
-  occupation: Page
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5031tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: RWymnuimvX4tvFSL
+  packFolder: fffnobles
+  social:
+    occupation: Page
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

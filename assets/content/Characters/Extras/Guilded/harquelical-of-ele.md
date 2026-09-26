@@ -7,18 +7,8 @@ name:
   given: Harquelical
   clan: Ele
   aliases: []
-id: iNGV4MRrbnJqwldJ
-packFolder: extrasguilded
 shortcode: harquelicalofele
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iNGV4MRrbnJqwldJ
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

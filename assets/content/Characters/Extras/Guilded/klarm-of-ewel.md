@@ -7,18 +7,8 @@ name:
   given: Klarm
   clan: Ewel
   aliases: []
-id: lt50ZCvRhp3Av9By
-packFolder: extrasguilded
 shortcode: klarmofewel
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lt50ZCvRhp3Av9By
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

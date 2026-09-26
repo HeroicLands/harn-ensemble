@@ -7,18 +7,8 @@ name:
   given: Erdin
   clan: Fulkai
   aliases: []
-id: BivNeuQxRduNg8WI
-packFolder: extrasunguilded
 shortcode: erdinoffulkai
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BivNeuQxRduNg8WI
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

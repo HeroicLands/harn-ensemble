@@ -7,18 +7,8 @@ name:
   given: Jaslyne
   clan: Wyth
   aliases: []
-id: abdUt9aQxQitkP4W
-packFolder: extrasguilded
 shortcode: jaslyneofwyth
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: abdUt9aQxQitkP4W
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

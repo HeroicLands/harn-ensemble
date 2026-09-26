@@ -7,18 +7,8 @@ name:
   given: Gine
   clan: Sel
   aliases: []
-id: 6a75QF3edCXb49MA
-packFolder: extrasunguilded
 shortcode: gineofsel
 type: being
-social:
-  occupation: Scribe
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6a75QF3edCXb49MA
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Jehan
   clan: Mikelfot
   aliases: []
-id: AVNsB95rsRck3egC
-packFolder: fffmilitary
 shortcode: jehanofmikelfot
 type: being
-social:
-  occupation: Jailer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff1051tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: AVNsB95rsRck3egC
+  packFolder: fffmilitary
+  social:
+    occupation: Jailer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

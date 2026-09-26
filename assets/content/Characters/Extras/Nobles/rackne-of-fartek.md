@@ -7,18 +7,8 @@ name:
   given: Rackne
   clan: Fartek
   aliases: []
-id: uWGsCfkr82v6GjZT
-packFolder: extrasnobles
 shortcode: rackneoffartek
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uWGsCfkr82v6GjZT
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

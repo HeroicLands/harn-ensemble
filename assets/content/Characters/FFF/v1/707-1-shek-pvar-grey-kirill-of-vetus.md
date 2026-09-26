@@ -7,19 +7,8 @@ name:
   given: Kirill
   clan: Vetus
   aliases: []
-id: aUAhUMbDkL0Qu2Xl
-packFolder: fffmages
 shortcode: kirillofvetus
 type: being
-social:
-  occupation: Gray Mage
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - saveknor
 data:
   icon: fff7071tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - saveknor
+  id: aUAhUMbDkL0Qu2Xl
+  packFolder: fffmages
+  social:
+    occupation: Gray Mage
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

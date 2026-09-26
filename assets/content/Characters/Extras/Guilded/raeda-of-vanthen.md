@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Vanthen
   aliases: []
-id: epRrjqmWlWbA3xVx
-packFolder: extrasguilded
 shortcode: raedaofvanthen
 type: being
-social:
-  occupation: Alchemist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: epRrjqmWlWbA3xVx
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

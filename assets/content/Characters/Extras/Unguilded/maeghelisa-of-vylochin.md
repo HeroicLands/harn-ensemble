@@ -7,18 +7,8 @@ name:
   given: Maeghelisa
   clan: Vylochin
   aliases: []
-id: rMCaHGRGHmMkuuSr
-packFolder: extrasunguilded
 shortcode: maeghelisaofvylochin
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rMCaHGRGHmMkuuSr
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

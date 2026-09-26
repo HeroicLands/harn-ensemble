@@ -7,18 +7,8 @@ name:
   given: Chola
   clan: Debernin
   aliases: []
-id: aj2V43Pv2A5q50XD
-packFolder: extrasunguilded
 shortcode: cholaofdebernin
 type: being
-social:
-  occupation: Imperial Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aj2V43Pv2A5q50XD
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

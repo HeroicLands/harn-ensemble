@@ -7,18 +7,8 @@ name:
   given: Soline
   clan: Patrel
   aliases: []
-id: avcFq3C90Xe8DUSd
-packFolder: extrasguilded
 shortcode: solineofpatrel
 type: being
-social:
-  occupation: Thief
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: avcFq3C90Xe8DUSd
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

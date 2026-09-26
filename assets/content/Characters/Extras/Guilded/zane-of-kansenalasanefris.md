@@ -7,18 +7,8 @@ name:
   given: Zane
   clan: Kansenalasanefris
   aliases: []
-id: ox1iY7X0ksvjCFYm
-packFolder: extrasguilded
 shortcode: zaneofkansenalasanefris
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ox1iY7X0ksvjCFYm
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Rik
   clan: Eylosane
   aliases: []
-id: siObBkcsRlGG7MWf
-packFolder: extrasnobles
 shortcode: rikofeylosane
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: siObBkcsRlGG7MWf
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

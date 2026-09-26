@@ -7,18 +7,8 @@ name:
   given: Denien
   clan: Keryn
   aliases: []
-id: 8JF1xleHgVdQYyyL
-packFolder: extrasmages
 shortcode: denienofkeryn
 type: being
-social:
-  occupation: "Shek-Pvar/Jmorvi*****"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8JF1xleHgVdQYyyL
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Jmorvi*****"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

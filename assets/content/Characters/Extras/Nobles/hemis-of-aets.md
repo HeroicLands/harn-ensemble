@@ -7,18 +7,8 @@ name:
   given: Hemis
   clan: Aets
   aliases: []
-id: 8DbZMrrsZF8RQRQP
-packFolder: extrasnobles
 shortcode: hemisofaets
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8DbZMrrsZF8RQRQP
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

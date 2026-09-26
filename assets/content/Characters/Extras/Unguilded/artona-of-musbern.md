@@ -7,18 +7,8 @@ name:
   given: Artona
   clan: Musbern
   aliases: []
-id: PQ5lECs1gd3xY3BN
-packFolder: extrasunguilded
 shortcode: artonaofmusbern
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PQ5lECs1gd3xY3BN
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

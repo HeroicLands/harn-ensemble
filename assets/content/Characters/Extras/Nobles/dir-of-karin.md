@@ -7,18 +7,8 @@ name:
   given: Dir
   clan: Karin
   aliases: []
-id: 4vP7txbgYLngpNn8
-packFolder: extrasnobles
 shortcode: dirofkarin
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4vP7txbgYLngpNn8
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

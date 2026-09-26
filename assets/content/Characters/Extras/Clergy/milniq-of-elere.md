@@ -7,19 +7,8 @@ name:
   given: Milniq
   clan: Elere
   aliases: []
-id: EudvBuSsDFGnu9lC
-packFolder: extrasclergy
 shortcode: milniqofelere
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: EudvBuSsDFGnu9lC
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

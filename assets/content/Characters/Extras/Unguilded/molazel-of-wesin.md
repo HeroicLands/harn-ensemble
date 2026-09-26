@@ -7,18 +7,8 @@ name:
   given: Molazel
   clan: Wesin
   aliases: []
-id: jyPcWf2a8nTn5pQA
-packFolder: extrasunguilded
 shortcode: molazelofwesin
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jyPcWf2a8nTn5pQA
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

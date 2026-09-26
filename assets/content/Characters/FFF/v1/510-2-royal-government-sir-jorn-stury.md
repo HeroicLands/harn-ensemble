@@ -7,19 +7,8 @@ name:
   given: Jorn
   clan: Stury
   aliases: []
-id: aghrGYgVl3ACbIz7
-packFolder: fffnobles
 shortcode: sirjornstury
 type: being
-social:
-  occupation: Royal Agent
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5102tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - His left leg has a slight limp
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: aghrGYgVl3ACbIz7
+  packFolder: fffnobles
+  social:
+    occupation: Royal Agent
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

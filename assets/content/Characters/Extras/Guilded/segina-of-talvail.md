@@ -7,18 +7,8 @@ name:
   given: Segina
   clan: Talvail
   aliases: []
-id: 7MLalk3RcsUlgfnS
-packFolder: extrasguilded
 shortcode: seginaoftalvail
 type: being
-social:
-  occupation: Woodcrafter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7MLalk3RcsUlgfnS
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

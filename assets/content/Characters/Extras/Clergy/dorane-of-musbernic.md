@@ -7,19 +7,8 @@ name:
   given: Dorane
   clan: Musbernic
   aliases: []
-id: pVSEBHjNiIgihUlN
-packFolder: extrasclergy
 shortcode: doraneofmusbernic
 type: being
-social:
-  occupation: Cleric/Halea
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: pVSEBHjNiIgihUlN
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

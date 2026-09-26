@@ -7,18 +7,8 @@ name:
   given: Jerebal
   clan: Aeb
   aliases: []
-id: eKK9KQX0ir448tBN
-packFolder: extrasguards
 shortcode: captainjerebalofaeb
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eKK9KQX0ir448tBN
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

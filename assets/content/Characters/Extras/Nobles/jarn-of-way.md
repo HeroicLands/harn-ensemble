@@ -7,18 +7,8 @@ name:
   given: Jarn
   clan: Way
   aliases: []
-id: tkZ7BfJbXLOeMNyw
-packFolder: extrasnobles
 shortcode: jarnofway
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tkZ7BfJbXLOeMNyw
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

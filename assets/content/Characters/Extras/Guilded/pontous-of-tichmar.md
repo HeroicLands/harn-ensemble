@@ -7,18 +7,8 @@ name:
   given: Pontous
   clan: Tichmar
   aliases: []
-id: yBmD79ZQdE3QG35F
-packFolder: extrasguilded
 shortcode: pontousoftichmar
 type: being
-social:
-  occupation: Weaponcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yBmD79ZQdE3QG35F
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

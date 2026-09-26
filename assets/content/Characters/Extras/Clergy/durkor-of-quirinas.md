@@ -7,19 +7,8 @@ name:
   given: Durkor
   clan: Quirinas
   aliases: []
-id: i1rDwojdg5JC2YAY
-packFolder: extrasclergy
 shortcode: durkorofquirinas
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: i1rDwojdg5JC2YAY
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

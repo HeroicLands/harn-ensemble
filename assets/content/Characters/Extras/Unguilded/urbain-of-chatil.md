@@ -7,18 +7,8 @@ name:
   given: Urbain
   clan: Chatil
   aliases: []
-id: gvumeJfCKh1NRfo3
-packFolder: extrasunguilded
 shortcode: urbainofchatil
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gvumeJfCKh1NRfo3
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

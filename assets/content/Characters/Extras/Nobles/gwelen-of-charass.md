@@ -7,18 +7,8 @@ name:
   given: Gwelen
   clan: Charass
   aliases: []
-id: dz6PKQ0vrvVYTkLA
-packFolder: extrasnobles
 shortcode: gwelenofcharass
 type: being
-social:
-  occupation: Herald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dz6PKQ0vrvVYTkLA
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

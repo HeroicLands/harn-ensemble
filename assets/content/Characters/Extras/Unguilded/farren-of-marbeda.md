@@ -7,18 +7,8 @@ name:
   given: Farren
   clan: Marbeda
   aliases: []
-id: rWK8Y7XEa0Xw8n2B
-packFolder: extrasunguilded
 shortcode: farrenofmarbeda
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rWK8Y7XEa0Xw8n2B
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

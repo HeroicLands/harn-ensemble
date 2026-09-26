@@ -7,18 +7,8 @@ name:
   given: Sar
   clan: Quiribor
   aliases: []
-id: fWXT9UBLwEnwwWtT
-packFolder: extrasguilded
 shortcode: sarofquiribor
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fWXT9UBLwEnwwWtT
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

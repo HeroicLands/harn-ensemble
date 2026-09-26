@@ -7,18 +7,8 @@ name:
   given: Denyl
   clan: Melemas
   aliases: []
-id: SvFNVwCqVwzrBOGI
-packFolder: extrasguilded
 shortcode: denylofmelemas
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SvFNVwCqVwzrBOGI
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

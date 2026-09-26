@@ -7,18 +7,8 @@ name:
   given: Soline
   clan: Dethaen
   aliases: []
-id: a6BnebGXPEdKLoIV
-packFolder: extrasunguilded
 shortcode: solineofdethaen
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: a6BnebGXPEdKLoIV
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

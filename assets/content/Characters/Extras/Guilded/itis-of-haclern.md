@@ -7,18 +7,8 @@ name:
   given: Itis
   clan: Haclern
   aliases: []
-id: 3N1mvbuzhQMKaH0S
-packFolder: extrasguilded
 shortcode: itisofhaclern
 type: being
-social:
-  occupation: Alchemist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3N1mvbuzhQMKaH0S
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

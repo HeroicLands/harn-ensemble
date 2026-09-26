@@ -7,18 +7,8 @@ name:
   given: Perlath
   clan: Lumeden
   aliases: []
-id: hDeJi4SRaIotoCzI
-packFolder: extrasnobles
 shortcode: perlathoflumeden
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hDeJi4SRaIotoCzI
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

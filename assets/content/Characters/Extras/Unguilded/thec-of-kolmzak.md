@@ -7,18 +7,8 @@ name:
   given: Thec
   clan: Kolmzak
   aliases: []
-id: oZhu5UrfTj2C3Vsx
-packFolder: extrasunguilded
 shortcode: thecofkolmzak
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oZhu5UrfTj2C3Vsx
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

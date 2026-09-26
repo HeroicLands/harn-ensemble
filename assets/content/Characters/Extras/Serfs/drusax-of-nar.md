@@ -7,18 +7,8 @@ name:
   given: Drusax
   clan: Nar
   aliases: []
-id: GWRcMFyHCevNRM2f
-packFolder: extrasserfs
 shortcode: drusaxofnar
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GWRcMFyHCevNRM2f
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

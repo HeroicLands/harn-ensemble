@@ -7,18 +7,8 @@ name:
   given: Cersyn
   clan: Pendech
   aliases: []
-id: FMXsryN2e8SLt54O
-packFolder: extrasguilded
 shortcode: cersynofpendech
 type: being
-social:
-  occupation: Locksmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FMXsryN2e8SLt54O
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

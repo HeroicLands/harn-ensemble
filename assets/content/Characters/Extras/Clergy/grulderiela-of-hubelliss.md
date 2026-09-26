@@ -7,19 +7,8 @@ name:
   given: Grulderiela
   clan: Hubelliss
   aliases: []
-id: 5H6qGoQJCgGPMGqB
-packFolder: extrasclergy
 shortcode: grulderielaofhubelliss
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 5H6qGoQJCgGPMGqB
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

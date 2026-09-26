@@ -7,18 +7,8 @@ name:
   given: Merala
   clan: Tombine
   aliases: []
-id: QiuZaddCfqFlQnuC
-packFolder: extrasunguilded
 shortcode: meralaoftombine
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QiuZaddCfqFlQnuC
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

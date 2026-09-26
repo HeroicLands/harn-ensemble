@@ -7,18 +7,8 @@ name:
   given: Amdirnoen
   clan: Amluguruiamdireb
   aliases: []
-id: sCCGCaweVntaaGW6
-packFolder: extrasunguilded
 shortcode: amdirnoenofamluguruiamdireb
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sCCGCaweVntaaGW6
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Caro
   clan: Onparselsen
   aliases: []
-id: xRY5vH8rZz3Wp7UH
-packFolder: extrasclergy
 shortcode: caroofonparselsen
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: xRY5vH8rZz3Wp7UH
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

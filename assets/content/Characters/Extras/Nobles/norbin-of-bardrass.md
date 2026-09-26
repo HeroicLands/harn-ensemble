@@ -7,18 +7,8 @@ name:
   given: Norbin
   clan: Bardrass
   aliases: []
-id: mVzxKnCo3lJldivN
-packFolder: extrasnobles
 shortcode: norbinofbardrass
 type: being
-social:
-  occupation: Herald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mVzxKnCo3lJldivN
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Theikak
   clan: Agamapel
   aliases: []
-id: q7CbyxJQfmuqpW0F
-packFolder: extrasnobles
 shortcode: theikakofagamapel
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: q7CbyxJQfmuqpW0F
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

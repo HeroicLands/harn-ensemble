@@ -7,18 +7,8 @@ name:
   given: Jasyn
   clan: Selesque
   aliases: []
-id: UD3OjQblpfBC6log
-packFolder: extrasunguilded
 shortcode: jasynofselesque
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UD3OjQblpfBC6log
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

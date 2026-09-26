@@ -7,19 +7,8 @@ name:
   given: Ashain
   clan: Tal
   aliases: []
-id: k455ij14uMPRT9on
-packFolder: extrasclergy
 shortcode: ashainoftal
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: k455ij14uMPRT9on
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

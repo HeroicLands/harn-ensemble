@@ -7,18 +7,8 @@ name:
   given: Garal
   clan: Oeif
   aliases: []
-id: 4xrn7HD8STwBLxrR
-packFolder: extrasnobles
 shortcode: garalofoeif
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4xrn7HD8STwBLxrR
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

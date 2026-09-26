@@ -7,18 +7,8 @@ name:
   given: Kirlinen
   clan: Charcaras
   aliases: []
-id: HM0BIDOIklGtZVbZ
-packFolder: extrasunguilded
 shortcode: kirlinenofcharcaras
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HM0BIDOIklGtZVbZ
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Silas
   clan: Wen
   aliases: []
-id: QeR8rc1yMd0Jc9WS
-packFolder: extrasguilded
 shortcode: silasofwen
 type: being
-social:
-  occupation: Salter
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QeR8rc1yMd0Jc9WS
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

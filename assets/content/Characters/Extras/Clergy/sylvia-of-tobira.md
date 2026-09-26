@@ -7,19 +7,8 @@ name:
   given: Sylvia
   clan: Tobira
   aliases: []
-id: l2o34oU7qUbaN0UN
-packFolder: extrasclergy
 shortcode: sylviaoftobira
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: l2o34oU7qUbaN0UN
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

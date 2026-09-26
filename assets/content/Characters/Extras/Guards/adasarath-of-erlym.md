@@ -7,18 +7,8 @@ name:
   given: Adasarath
   clan: Erlym
   aliases: []
-id: VUNFJgCfcL7y3Bwq
-packFolder: extrasguards
 shortcode: adasarathoferlym
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VUNFJgCfcL7y3Bwq
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

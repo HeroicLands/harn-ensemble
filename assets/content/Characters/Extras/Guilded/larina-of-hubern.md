@@ -7,18 +7,8 @@ name:
   given: Larina
   clan: Hubern
   aliases: []
-id: IfJs0MVULwOR6I3X
-packFolder: extrasguilded
 shortcode: larinaofhubern
 type: being
-social:
-  occupation: Litigant
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IfJs0MVULwOR6I3X
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

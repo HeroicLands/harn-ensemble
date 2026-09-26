@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Tallim
   aliases: []
-id: bAPwS7dH8cjXk4xK
-packFolder: extrasunguilded
 shortcode: tolmeyoftallim
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bAPwS7dH8cjXk4xK
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

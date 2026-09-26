@@ -7,18 +7,8 @@ name:
   given: Gaetane
   clan: Parsten
   aliases: []
-id: J5AxEyNFZfiKxLqk
-packFolder: extrasunguilded
 shortcode: gaetaneofparsten
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: J5AxEyNFZfiKxLqk
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

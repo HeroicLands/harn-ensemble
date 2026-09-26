@@ -7,19 +7,8 @@ name:
   given: Kuvel
   clan: Artus
   aliases: []
-id: a8TZFxxqLfOnYQ40
-packFolder: extrasclergy
 shortcode: kuvelofartus
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: a8TZFxxqLfOnYQ40
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

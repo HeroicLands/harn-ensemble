@@ -7,18 +7,8 @@ name:
   given: Mera
   clan: Erlis
   aliases: []
-id: TjbkVqYcVIf2iBwv
-packFolder: extrasguilded
 shortcode: meraoferlis
 type: being
-social:
-  occupation: Embalmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TjbkVqYcVIf2iBwv
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

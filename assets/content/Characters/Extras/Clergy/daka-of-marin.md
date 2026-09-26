@@ -7,19 +7,8 @@ name:
   given: Daka
   clan: Marin
   aliases: []
-id: q5xHXVlFGzUhXLkx
-packFolder: extrasclergy
 shortcode: dakaofmarin
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: q5xHXVlFGzUhXLkx
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

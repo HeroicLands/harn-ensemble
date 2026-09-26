@@ -7,18 +7,8 @@ name:
   given: Arva
   clan: Orda
   aliases: []
-id: RjcNlbqLzU9LN14a
-packFolder: extrasunguilded
 shortcode: arvaoforda
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RjcNlbqLzU9LN14a
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

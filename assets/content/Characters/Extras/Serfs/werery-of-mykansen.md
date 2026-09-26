@@ -7,18 +7,8 @@ name:
   given: Werery
   clan: Mykansen
   aliases: []
-id: SOlnTNHlUC58bdbL
-packFolder: extrasserfs
 shortcode: wereryofmykansen
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SOlnTNHlUC58bdbL
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

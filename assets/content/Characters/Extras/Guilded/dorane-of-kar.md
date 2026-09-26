@@ -7,18 +7,8 @@ name:
   given: Dorane
   clan: Kar
   aliases: []
-id: mIPgrLvGG84yYrrM
-packFolder: extrasguilded
 shortcode: doraneofkar
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mIPgrLvGG84yYrrM
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

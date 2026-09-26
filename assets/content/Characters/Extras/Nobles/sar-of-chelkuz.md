@@ -7,18 +7,8 @@ name:
   given: Sar
   clan: Chelkuz
   aliases: []
-id: 9whNl5vslqVCkBKn
-packFolder: extrasnobles
 shortcode: sarofchelkuz
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9whNl5vslqVCkBKn
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

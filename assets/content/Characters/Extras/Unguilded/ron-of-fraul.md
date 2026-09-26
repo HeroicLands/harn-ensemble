@@ -7,18 +7,8 @@ name:
   given: Ron
   clan: Fraul
   aliases: []
-id: sNQCrfnKfrlKARL8
-packFolder: extrasunguilded
 shortcode: ronoffraul
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sNQCrfnKfrlKARL8
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

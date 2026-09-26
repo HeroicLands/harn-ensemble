@@ -7,18 +7,8 @@ name:
   given: Kele
   clan: Wejik
   aliases: []
-id: 63xeWNdH0qapAXra
-packFolder: extrasguilded
 shortcode: keleofwejik
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 63xeWNdH0qapAXra
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

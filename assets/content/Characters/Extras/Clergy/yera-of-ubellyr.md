@@ -7,19 +7,8 @@ name:
   given: Yera
   clan: Ubellyr
   aliases: []
-id: jF5XVOnHRfGEJ1cY
-packFolder: extrasclergy
 shortcode: yeraofubellyr
 type: being
-social:
-  occupation: Cleric/Halea
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: jF5XVOnHRfGEJ1cY
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

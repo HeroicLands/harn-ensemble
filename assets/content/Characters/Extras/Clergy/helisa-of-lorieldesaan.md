@@ -7,19 +7,8 @@ name:
   given: Helisa
   clan: Lorieldesaan
   aliases: []
-id: 5VxxpHh1RVvgYhmi
-packFolder: extrasclergy
 shortcode: helisaoflorieldesaan
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: 5VxxpHh1RVvgYhmi
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

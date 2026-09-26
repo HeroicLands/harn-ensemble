@@ -7,18 +7,8 @@ name:
   given: Feldur
   clan: Ane
   aliases: []
-id: GEgTfPNERS8ZGM4I
-packFolder: extrasguards
 shortcode: captainfeldurofane
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GEgTfPNERS8ZGM4I
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

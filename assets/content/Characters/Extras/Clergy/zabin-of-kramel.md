@@ -7,19 +7,8 @@ name:
   given: Zabin
   clan: Kramel
   aliases: []
-id: WJFwtmmpjpglANcD
-packFolder: extrasclergy
 shortcode: zabinofkramel
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: WJFwtmmpjpglANcD
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

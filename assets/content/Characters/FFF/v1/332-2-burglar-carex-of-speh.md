@@ -7,19 +7,8 @@ name:
   given: Carex
   clan: Speh
   aliases: []
-id: nxSFrUyBX8xu7U3X
-packFolder: fffguilded
 shortcode: carexofspeh
 type: being
-social:
-  occupation: Lia-Kavair
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3322tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Beard
       - moustache
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: nxSFrUyBX8xu7U3X
+  packFolder: fffguilded
+  social:
+    occupation: Lia-Kavair
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

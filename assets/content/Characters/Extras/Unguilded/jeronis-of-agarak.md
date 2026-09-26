@@ -7,18 +7,8 @@ name:
   given: Jeronis
   clan: Agarak
   aliases: []
-id: nNnSg3EUMNf7sSfj
-packFolder: extrasunguilded
 shortcode: jeronisofagarak
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nNnSg3EUMNf7sSfj
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

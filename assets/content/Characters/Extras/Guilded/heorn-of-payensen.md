@@ -7,18 +7,8 @@ name:
   given: Heorn
   clan: Payensen
   aliases: []
-id: DdbxsYfHnYJ4Zjfl
-packFolder: extrasguilded
 shortcode: heornofpayensen
 type: being
-social:
-  occupation: Pilot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DdbxsYfHnYJ4Zjfl
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

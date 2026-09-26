@@ -7,18 +7,8 @@ name:
   given: Yago
   clan: Kair
   aliases: []
-id: z9Yts8yOrB2ySeXj
-packFolder: extrasguilded
 shortcode: yagoofkair
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: z9Yts8yOrB2ySeXj
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

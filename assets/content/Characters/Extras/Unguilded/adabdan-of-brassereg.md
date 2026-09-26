@@ -7,18 +7,8 @@ name:
   given: Adabdan
   clan: Brassereg
   aliases: []
-id: h8KnjjH0Ib0IKghw
-packFolder: extrasunguilded
 shortcode: adabdanofbrassereg
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: h8KnjjH0Ib0IKghw
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

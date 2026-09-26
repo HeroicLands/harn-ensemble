@@ -7,18 +7,8 @@ name:
   given: Merery
   clan: Krolad
   aliases: []
-id: 8cXUQpO12N4vpWAE
-packFolder: extrasnobles
 shortcode: mereryofkrolad
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8cXUQpO12N4vpWAE
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

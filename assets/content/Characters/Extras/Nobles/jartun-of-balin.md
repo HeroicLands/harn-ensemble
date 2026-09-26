@@ -7,18 +7,8 @@ name:
   given: Jartun
   clan: Balin
   aliases: []
-id: zeLa0rIKYtdn9Tb7
-packFolder: extrasnobles
 shortcode: jartunofbalin
 type: being
-social:
-  occupation: Patrician
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zeLa0rIKYtdn9Tb7
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Bresyne
   clan: Tich
   aliases: []
-id: IOUA0yiiiKO5vaUK
-packFolder: extrasunguilded
 shortcode: bresyneoftich
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IOUA0yiiiKO5vaUK
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

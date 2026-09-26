@@ -7,18 +7,8 @@ name:
   given: Kalared
   clan: Lebarsuel
   aliases: []
-id: F2p8EWfZFiI7YeL5
-packFolder: extrasunguilded
 shortcode: kalaredoflebarsuel
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F2p8EWfZFiI7YeL5
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

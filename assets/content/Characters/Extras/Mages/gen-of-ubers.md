@@ -7,18 +7,8 @@ name:
   given: Gen
   clan: Ubers
   aliases: []
-id: Uc93DIesa27CyHLr
-packFolder: extrasmages
 shortcode: genofubers
 type: being
-social:
-  occupation: "Shek-Pvar/Fyvria****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Uc93DIesa27CyHLr
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Fyvria****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

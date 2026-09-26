@@ -7,18 +7,8 @@ name:
   given: Gaetane
   clan: Narad
   aliases: []
-id: i483ELK64UdhC0hZ
-packFolder: extrasguilded
 shortcode: gaetaneofnarad
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: i483ELK64UdhC0hZ
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

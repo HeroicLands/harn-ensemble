@@ -7,19 +7,8 @@ name:
   given: Jithin
   clan: Ubern
   aliases: []
-id: 7xy9H2k0Lu49fu8z
-packFolder: extrasclergy
 shortcode: jithinofubern
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 7xy9H2k0Lu49fu8z
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

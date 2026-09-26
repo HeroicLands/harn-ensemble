@@ -7,19 +7,8 @@ name:
   given: Merena
   clan: Spryth
   aliases: []
-id: Ri4rTIgwdwNFaCD7
-packFolder: extrasclergy
 shortcode: merenaofspryth
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: Ri4rTIgwdwNFaCD7
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

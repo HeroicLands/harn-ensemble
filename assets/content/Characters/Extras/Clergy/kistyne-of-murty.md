@@ -7,19 +7,8 @@ name:
   given: Kistyne
   clan: Murty
   aliases: []
-id: GJgBNkhPIV4hIAGX
-packFolder: extrasclergy
 shortcode: kistyneofmurty
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: GJgBNkhPIV4hIAGX
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

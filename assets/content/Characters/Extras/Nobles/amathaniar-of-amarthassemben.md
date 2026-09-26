@@ -7,18 +7,8 @@ name:
   given: Amathaniar
   clan: Amarthassemben
   aliases: []
-id: i5zNOcZdL27wnZSJ
-packFolder: extrasnobles
 shortcode: amathaniarofamarthassemben
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: i5zNOcZdL27wnZSJ
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

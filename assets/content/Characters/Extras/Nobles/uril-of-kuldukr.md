@@ -7,18 +7,8 @@ name:
   given: Uril
   clan: Kuldukr
   aliases: []
-id: WC6BtOn4G8dSDiN3
-packFolder: extrasnobles
 shortcode: urilofkuldukr
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WC6BtOn4G8dSDiN3
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Kele
   clan: Gevraelin
   aliases: []
-id: peuxsqoUAcPPfrBH
-packFolder: extrasunguilded
 shortcode: keleofgevraelin
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: peuxsqoUAcPPfrBH
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

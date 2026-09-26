@@ -7,18 +7,8 @@ name:
   given: Lanazir
   clan: Mariborin
   aliases: []
-id: EzQxc1ZLtwsTVj4d
-packFolder: extrasguilded
 shortcode: lanazirofmariborin
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EzQxc1ZLtwsTVj4d
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

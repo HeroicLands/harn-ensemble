@@ -7,18 +7,8 @@ name:
   given: Jend
   clan: Manchin
   aliases: []
-id: N2lOTkbGDaaHNsOf
-packFolder: extrasnobles
 shortcode: jendofmanchin
 type: being
-social:
-  occupation: Herald
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: N2lOTkbGDaaHNsOf
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

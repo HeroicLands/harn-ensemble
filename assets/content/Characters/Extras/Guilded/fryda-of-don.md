@@ -7,18 +7,8 @@ name:
   given: Fryda
   clan: Don
   aliases: []
-id: 6YY12fd653dvT6NM
-packFolder: extrasguilded
 shortcode: frydaofdon
 type: being
-social:
-  occupation: Mason
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6YY12fd653dvT6NM
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

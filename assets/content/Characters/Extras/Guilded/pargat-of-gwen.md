@@ -7,18 +7,8 @@ name:
   given: Pargat
   clan: Gwen
   aliases: []
-id: JobWDSfvWWZ1MPyJ
-packFolder: extrasguilded
 shortcode: pargatofgwen
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JobWDSfvWWZ1MPyJ
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

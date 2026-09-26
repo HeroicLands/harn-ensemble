@@ -7,19 +7,8 @@ name:
   given: Quey
   clan: Chorlon
   aliases: []
-id: hbXXb2ydwJ3hFY5N
-packFolder: extrasclergy
 shortcode: queyofchorlon
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: hbXXb2ydwJ3hFY5N
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

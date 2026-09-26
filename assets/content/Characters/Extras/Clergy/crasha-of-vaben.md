@@ -7,19 +7,8 @@ name:
   given: Crasha
   clan: Vaben
   aliases: []
-id: zK8VbDJT82OHCxDs
-packFolder: extrasclergy
 shortcode: crashaofvaben
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: zK8VbDJT82OHCxDs
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

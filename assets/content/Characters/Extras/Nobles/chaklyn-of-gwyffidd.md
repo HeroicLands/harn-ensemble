@@ -7,18 +7,8 @@ name:
   given: Chaklyn
   clan: Gwyffidd
   aliases: []
-id: jQjjaEtGJGJr27XH
-packFolder: extrasnobles
 shortcode: chaklynofgwyffidd
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jQjjaEtGJGJr27XH
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

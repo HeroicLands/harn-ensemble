@@ -7,18 +7,8 @@ name:
   given: Milniq
   clan: Ewen
   aliases: []
-id: ridsgsorc2BFKdUa
-packFolder: extrasnobles
 shortcode: milniqofewen
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ridsgsorc2BFKdUa
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

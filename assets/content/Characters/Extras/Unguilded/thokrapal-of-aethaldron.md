@@ -7,18 +7,8 @@ name:
   given: Thokrapal
   clan: Aethaldron
   aliases: []
-id: ekhjqEEb8bj6KgDV
-packFolder: extrasunguilded
 shortcode: thokrapalofaethaldron
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ekhjqEEb8bj6KgDV
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

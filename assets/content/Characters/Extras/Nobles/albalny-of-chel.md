@@ -7,18 +7,8 @@ name:
   given: Albalny
   clan: Chel
   aliases: []
-id: ZEVRjcDMxNVfRhNf
-packFolder: extrasnobles
 shortcode: albalnyofchel
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZEVRjcDMxNVfRhNf
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

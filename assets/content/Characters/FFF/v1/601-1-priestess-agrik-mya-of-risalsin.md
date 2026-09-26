@@ -7,19 +7,8 @@ name:
   given: Mya
   clan: Risalsin
   aliases: []
-id: qzHmILrtfj7CeQbU
-packFolder: fffclergy
 shortcode: myaofrisalsin
 type: being
-social:
-  occupation: Agrikan Priestess
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   icon: fff6011tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: qzHmILrtfj7CeQbU
+  packFolder: fffclergy
+  social:
+    occupation: Agrikan Priestess
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

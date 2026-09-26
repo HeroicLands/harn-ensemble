@@ -7,19 +7,8 @@ name:
   given: She
   clan: Chelkuz
   aliases: []
-id: 0U52ERl0SjKNEE1q
-packFolder: extrasclergy
 shortcode: sheofchelkuz
 type: being
-social:
-  occupation: Cleric/Halea
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: 0U52ERl0SjKNEE1q
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

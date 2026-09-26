@@ -7,18 +7,8 @@ name:
   given: Seral
   clan: Madib
   aliases: []
-id: 4mOZeehSmy18qrZO
-packFolder: extrasguilded
 shortcode: seralofmadib
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4mOZeehSmy18qrZO
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Eweniene
   clan: Aras
   aliases: []
-id: 7nxELEY0DmHcaqRP
-packFolder: extrasserfs
 shortcode: ewenieneofaras
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7nxELEY0DmHcaqRP
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

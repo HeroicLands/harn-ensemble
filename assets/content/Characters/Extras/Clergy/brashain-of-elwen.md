@@ -7,19 +7,8 @@ name:
   given: Brashain
   clan: Elwen
   aliases: []
-id: 6bMHiBn6tkqVVIRI
-packFolder: extrasclergy
 shortcode: brashainofelwen
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: 6bMHiBn6tkqVVIRI
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

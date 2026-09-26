@@ -7,18 +7,8 @@ name:
   given: Labin
   clan: Pthenda
   aliases: []
-id: 4k2EXh3GSgBG4ky5
-packFolder: extrasguilded
 shortcode: labinofpthenda
 type: being
-social:
-  occupation: Timberwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4k2EXh3GSgBG4ky5
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

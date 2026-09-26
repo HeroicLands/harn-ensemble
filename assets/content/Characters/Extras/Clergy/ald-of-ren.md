@@ -7,19 +7,8 @@ name:
   given: Ald
   clan: Ren
   aliases: []
-id: gG23B2qR7DefX59N
-packFolder: extrasclergy
 shortcode: aldofren
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: gG23B2qR7DefX59N
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

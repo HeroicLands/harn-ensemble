@@ -7,18 +7,8 @@ name:
   given: Serelyne
   clan: Merke
   aliases: []
-id: wBp7pdwblVfs6Qix
-packFolder: extrasnobles
 shortcode: serelyneofmerke
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wBp7pdwblVfs6Qix
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

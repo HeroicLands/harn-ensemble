@@ -7,19 +7,8 @@ name:
   given: Kistyne
   clan: Ren
   aliases: []
-id: qy8hxqSaTgAZ0FPO
-packFolder: extrasunguilded
 shortcode: kistyneofren
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: qy8hxqSaTgAZ0FPO
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

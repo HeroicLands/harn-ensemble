@@ -7,19 +7,8 @@ name:
   given: Jehan
   clan: Asain
   aliases: []
-id: P6spKWydDdXS0ODs
-packFolder: extrasclergy
 shortcode: jehanofasain
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: P6spKWydDdXS0ODs
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

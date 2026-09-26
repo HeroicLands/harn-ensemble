@@ -7,18 +7,8 @@ name:
   given: Loraldis
   clan: Kephis
   aliases: []
-id: 66iS82CyzdXH2usU
-packFolder: extrasunguilded
 shortcode: loraldisofkephis
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 66iS82CyzdXH2usU
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

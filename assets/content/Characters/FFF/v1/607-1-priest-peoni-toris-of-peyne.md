@@ -7,19 +7,8 @@ name:
   given: Toris
   clan: Peyne
   aliases: []
-id: YNSUEn5YOAx5neoX
-packFolder: fffclergy
 shortcode: torisofpeyne
 type: being
-social:
-  occupation: Peonian Priest
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff6071tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: plain
     extra_features:
       - Mild hunchback
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: YNSUEn5YOAx5neoX
+  packFolder: fffclergy
+  social:
+    occupation: Peonian Priest
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

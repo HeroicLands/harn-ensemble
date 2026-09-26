@@ -7,20 +7,8 @@ name:
   given: Paguris
   clan: Speh
   aliases: []
-id: vqAkD6vWfrDHgzDH
-packFolder: fffguilded
 shortcode: pagurisofspehmonk
 type: being
-social:
-  occupation: Seaman
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
-    - eder
 data:
   icon: fff3281tok
   templatePriority: 1
@@ -38,6 +26,18 @@ data:
     complexion: average
     extra_features:
       - Able Seaman's tattoo
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+      - eder
+  id: vqAkD6vWfrDHgzDH
+  packFolder: fffguilded
+  social:
+    occupation: Seaman
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

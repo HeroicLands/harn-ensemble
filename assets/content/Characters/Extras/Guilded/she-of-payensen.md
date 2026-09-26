@@ -7,18 +7,8 @@ name:
   given: She
   clan: Payensen
   aliases: []
-id: NyXfXr8kIG47jNrG
-packFolder: extrasguilded
 shortcode: sheofpayensen
 type: being
-social:
-  occupation: Courtesan
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NyXfXr8kIG47jNrG
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

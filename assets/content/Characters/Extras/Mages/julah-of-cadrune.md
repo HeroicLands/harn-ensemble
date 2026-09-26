@@ -7,18 +7,8 @@ name:
   given: Julah
   clan: Cadrune
   aliases: []
-id: ak0EhV3484h4rtzd
-packFolder: extrasmages
 shortcode: julahofcadrune
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ak0EhV3484h4rtzd
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Tamyth
   clan: Hen
   aliases: []
-id: nRbcihFxtHt806ZY
-packFolder: extrasclergy
 shortcode: tamythofhen
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: nRbcihFxtHt806ZY
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

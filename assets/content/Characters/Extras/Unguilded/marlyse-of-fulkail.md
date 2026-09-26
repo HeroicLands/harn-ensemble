@@ -7,18 +7,8 @@ name:
   given: Marlyse
   clan: Fulkail
   aliases: []
-id: Eizvo54yDs5UH78J
-packFolder: extrasunguilded
 shortcode: marlyseoffulkail
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Eizvo54yDs5UH78J
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

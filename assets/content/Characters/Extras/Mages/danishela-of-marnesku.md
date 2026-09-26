@@ -7,18 +7,8 @@ name:
   given: Danishela
   clan: Marnesku
   aliases: []
-id: 2bOgDNODi7ro5InL
-packFolder: extrasmages
 shortcode: danishelaofmarnesku
 type: being
-social:
-  occupation: "Shek-Pvar/Odivshe****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2bOgDNODi7ro5InL
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Odivshe****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

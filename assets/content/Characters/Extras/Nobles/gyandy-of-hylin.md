@@ -7,18 +7,8 @@ name:
   given: Gyandy
   clan: Hylin
   aliases: []
-id: Y8SN80d6jkBBYZic
-packFolder: extrasnobles
 shortcode: gyandyofhylin
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Y8SN80d6jkBBYZic
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

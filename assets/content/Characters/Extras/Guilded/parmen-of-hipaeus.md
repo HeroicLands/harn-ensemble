@@ -7,18 +7,8 @@ name:
   given: Parmen
   clan: Hipaeus
   aliases: []
-id: olWl1e2AARNUftU8
-packFolder: extrasguilded
 shortcode: parmenofhipaeus
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: olWl1e2AARNUftU8
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

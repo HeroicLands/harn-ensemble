@@ -7,18 +7,8 @@ name:
   given: Anlaelicia
   clan: Melvoen
   aliases: []
-id: lZ0LH8I1GpjuakPa
-packFolder: extrasunguilded
 shortcode: anlaeliciaofmelvoen
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lZ0LH8I1GpjuakPa
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

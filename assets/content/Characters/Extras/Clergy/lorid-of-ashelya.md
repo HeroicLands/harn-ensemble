@@ -7,19 +7,8 @@ name:
   given: Lorid
   clan: Ashelya
   aliases: []
-id: DGghxUr2nx6Mwk5I
-packFolder: extrasclergy
 shortcode: loridofashelya
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: DGghxUr2nx6Mwk5I
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

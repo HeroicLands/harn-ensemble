@@ -7,19 +7,8 @@ name:
   given: Arva
   clan: Chels
   aliases: []
-id: fDTsko2O0ezZVxYV
-packFolder: extrasclergy
 shortcode: arvaofchels
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: fDTsko2O0ezZVxYV
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

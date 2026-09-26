@@ -7,18 +7,8 @@ name:
   given: Mar
   clan: Uerth
   aliases: []
-id: cWnzSJM3M4D9H2wJ
-packFolder: extrasguards
 shortcode: marofuerth
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: cWnzSJM3M4D9H2wJ
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

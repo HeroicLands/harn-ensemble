@@ -7,18 +7,8 @@ name:
   given: Gar
   clan: Sin
   aliases: []
-id: 4LlejUJnMUc158u7
-packFolder: extrasunguilded
 shortcode: garofsin
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4LlejUJnMUc158u7
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

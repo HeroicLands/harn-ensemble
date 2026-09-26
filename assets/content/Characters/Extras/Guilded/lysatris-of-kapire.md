@@ -7,18 +7,8 @@ name:
   given: Lysatris
   clan: Kapire
   aliases: []
-id: PlgIW2RSOGDLW9KK
-packFolder: extrasguilded
 shortcode: lysatrisofkapire
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PlgIW2RSOGDLW9KK
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

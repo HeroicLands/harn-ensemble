@@ -7,18 +7,8 @@ name:
   given: Dir
   clan: Chuzyn
   aliases: []
-id: Ho3yiMGgw4Y0sSTN
-packFolder: extrasserfs
 shortcode: dirofchuzyn
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Ho3yiMGgw4Y0sSTN
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,20 +7,8 @@ name:
   given: Andel
   clan: Gebar
   aliases: []
-id: xHdUwDJj30SyHfyL
-packFolder: fffnobles
 shortcode: andelgebar
 type: being
-social:
-  occupation: Exchequer Clerk
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
-    - saveknor
 data:
   icon: fff5101tok
   templatePriority: 1
@@ -37,6 +25,18 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+      - saveknor
+  id: xHdUwDJj30SyHfyL
+  packFolder: fffnobles
+  social:
+    occupation: Exchequer Clerk
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

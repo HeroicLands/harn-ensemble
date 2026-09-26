@@ -7,18 +7,8 @@ name:
   given: Uviene
   clan: Merlesh
   aliases: []
-id: yFjkGBqbbtJLF2MO
-packFolder: extrasnobles
 shortcode: uvieneofmerlesh
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yFjkGBqbbtJLF2MO
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

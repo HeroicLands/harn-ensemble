@@ -7,18 +7,8 @@ name:
   given: Thasis
   clan: Tarsindan
   aliases: []
-id: x0pkfEQdPgI6n0Vp
-packFolder: extrasguilded
 shortcode: thasisoftarsindan
 type: being
-social:
-  occupation: Chandler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: x0pkfEQdPgI6n0Vp
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Hobir
   clan: Gyll
   aliases: []
-id: f0JlvtxQ84rTkHfk
-packFolder: extrasclergy
 shortcode: hobirofgyll
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: f0JlvtxQ84rTkHfk
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

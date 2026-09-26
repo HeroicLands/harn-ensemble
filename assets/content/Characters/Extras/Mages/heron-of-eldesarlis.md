@@ -7,18 +7,8 @@ name:
   given: Heron
   clan: Eldesarlis
   aliases: []
-id: b2uEHjrfdUmSHbPu
-packFolder: extrasmages
 shortcode: heronofeldesarlis
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn*"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b2uEHjrfdUmSHbPu
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn*"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Thelren
   clan: Erlesh
   aliases: []
-id: 4Is45GA3GJwQLDDA
-packFolder: extrasguards
 shortcode: veteranthelrenoferlesh
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4Is45GA3GJwQLDDA
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Kelen
   clan: Yorlym
   aliases: []
-id: NpYle6LyO4H2qFuh
-packFolder: extrasmages
 shortcode: kelenofyorlym
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NpYle6LyO4H2qFuh
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

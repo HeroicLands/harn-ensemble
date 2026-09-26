@@ -7,18 +7,8 @@ name:
   given: Anglanc
   clan: Aglain
   aliases: []
-id: jUJ9jTBf76O1cGeC
-packFolder: extrasunguilded
 shortcode: anglancofaglain
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jUJ9jTBf76O1cGeC
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

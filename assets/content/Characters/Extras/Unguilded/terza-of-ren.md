@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Ren
   aliases: []
-id: 0nOSc4vuNScIc9YP
-packFolder: extrasunguilded
 shortcode: terzaofren
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0nOSc4vuNScIc9YP
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

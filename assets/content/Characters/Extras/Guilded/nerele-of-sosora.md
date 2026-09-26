@@ -7,18 +7,8 @@ name:
   given: Nerele
   clan: Sosora
   aliases: []
-id: CfUxG3tfwKjLBySU
-packFolder: extrasguilded
 shortcode: nereleofsosora
 type: being
-social:
-  occupation: Glassworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CfUxG3tfwKjLBySU
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

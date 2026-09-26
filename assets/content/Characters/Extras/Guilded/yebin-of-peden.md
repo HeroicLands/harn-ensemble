@@ -7,18 +7,8 @@ name:
   given: Yebin
   clan: Peden
   aliases: []
-id: aQxQwJRnvrNAvZbA
-packFolder: extrasguilded
 shortcode: yebinofpeden
 type: being
-social:
-  occupation: Chandler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aQxQwJRnvrNAvZbA
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

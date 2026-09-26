@@ -7,18 +7,8 @@ name:
   given: Segine
   clan: Puckill
   aliases: []
-id: 0HDPaLBguGTq0G48
-packFolder: extrasunguilded
 shortcode: segineofpuckill
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0HDPaLBguGTq0G48
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

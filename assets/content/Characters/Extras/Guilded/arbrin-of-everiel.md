@@ -7,18 +7,8 @@ name:
   given: Arbrin
   clan: Everiel
   aliases: []
-id: Hfwtt2MIc42CRpJ0
-packFolder: extrasguilded
 shortcode: arbrinofeveriel
 type: being
-social:
-  occupation: Innkeeper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Hfwtt2MIc42CRpJ0
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Erelyne
   clan: Madib
   aliases: []
-id: 1iNu6B8xoGlbUfyH
-packFolder: extrasguilded
 shortcode: erelyneofmadib
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1iNu6B8xoGlbUfyH
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Haradah
   clan: Borskin
   aliases: []
-id: KRjJ5QU5YUBjIzIM
-packFolder: extrasunguilded
 shortcode: haradahofborskin
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KRjJ5QU5YUBjIzIM
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

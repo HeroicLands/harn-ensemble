@@ -7,18 +7,8 @@ name:
   given: Uris
   clan: Pord
   aliases: []
-id: O2jKQB5BAfpuO5YC
-packFolder: extrasguilded
 shortcode: urisofpord
 type: being
-social:
-  occupation: Weaponcrafter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: O2jKQB5BAfpuO5YC
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

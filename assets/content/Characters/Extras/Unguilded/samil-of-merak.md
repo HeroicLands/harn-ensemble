@@ -7,18 +7,8 @@ name:
   given: Samil
   clan: Merak
   aliases: []
-id: Lrc5QbZYhpuHpdvY
-packFolder: extrasunguilded
 shortcode: samilofmerak
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Lrc5QbZYhpuHpdvY
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

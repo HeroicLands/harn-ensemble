@@ -7,19 +7,8 @@ name:
   given: Geiter
   clan: Gautisson
   aliases: []
-id: ia2zjJrUeoSAxFzi
-packFolder: fffguilded
 shortcode: geitergautisson
 type: being
-social:
-  occupation: Skald
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff3103tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: ia2zjJrUeoSAxFzi
+  packFolder: fffguilded
+  social:
+    occupation: Skald
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Krak
   clan: Goselemas
   aliases: []
-id: Y7chZhxBQ1MaVoYY
-packFolder: extrasguilded
 shortcode: krakofgoselemas
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Y7chZhxBQ1MaVoYY
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

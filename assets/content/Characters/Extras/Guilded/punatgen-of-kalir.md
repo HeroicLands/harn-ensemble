@@ -7,18 +7,8 @@ name:
   given: Punatgen
   clan: Kalir
   aliases: []
-id: DkDM6XFFOxCPOHfV
-packFolder: extrasguilded
 shortcode: punatgenofkalir
 type: being
-social:
-  occupation: Clothier
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DkDM6XFFOxCPOHfV
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

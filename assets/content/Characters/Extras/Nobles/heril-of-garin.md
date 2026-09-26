@@ -7,18 +7,8 @@ name:
   given: Heril
   clan: Garin
   aliases: []
-id: 3h5liYi46TWj2tyU
-packFolder: extrasnobles
 shortcode: herilofgarin
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3h5liYi46TWj2tyU
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Dagwyn
   clan: Khael
   aliases: []
-id: YodiswBfSMxgPVLK
-packFolder: fffguilded
 shortcode: dagwynofkhael
 type: being
-social:
-  occupation: Lexigrapher
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3141tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: beautiful
     extra_features:
       - Cataracts
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: YodiswBfSMxgPVLK
+  packFolder: fffguilded
+  social:
+    occupation: Lexigrapher
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

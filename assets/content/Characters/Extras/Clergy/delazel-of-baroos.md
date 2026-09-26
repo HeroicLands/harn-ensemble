@@ -7,19 +7,8 @@ name:
   given: Delazel
   clan: Baroos
   aliases: []
-id: 8GZpXxy6lxSOWBEY
-packFolder: extrasclergy
 shortcode: delazelofbaroos
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: 8GZpXxy6lxSOWBEY
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

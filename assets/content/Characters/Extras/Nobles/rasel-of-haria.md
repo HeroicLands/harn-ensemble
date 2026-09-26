@@ -7,18 +7,8 @@ name:
   given: Rasel
   clan: Haria
   aliases: []
-id: Y8dxNZkTotZHZloX
-packFolder: extrasnobles
 shortcode: raselofharia
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Y8dxNZkTotZHZloX
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

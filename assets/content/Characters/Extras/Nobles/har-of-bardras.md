@@ -7,18 +7,8 @@ name:
   given: Har
   clan: Bardras
   aliases: []
-id: 3KfetA10ZmPkpsN9
-packFolder: extrasnobles
 shortcode: harofbardras
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3KfetA10ZmPkpsN9
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

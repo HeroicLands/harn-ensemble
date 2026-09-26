@@ -7,19 +7,8 @@ name:
   given: Albin
   clan: Rihale
   aliases: []
-id: AaGuFCouBtmrPRdj
-packFolder: fffclergy
 shortcode: albinofrihale
 type: being
-social:
-  occupation: Priest of Naveh
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   icon: fff6062tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: AaGuFCouBtmrPRdj
+  packFolder: fffclergy
+  social:
+    occupation: Priest of Naveh
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

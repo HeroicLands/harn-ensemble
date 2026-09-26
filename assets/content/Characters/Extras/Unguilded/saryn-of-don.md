@@ -7,18 +7,8 @@ name:
   given: Saryn
   clan: Don
   aliases: []
-id: JbVwGJfdW6G5PDDD
-packFolder: extrasunguilded
 shortcode: sarynofdon
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JbVwGJfdW6G5PDDD
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

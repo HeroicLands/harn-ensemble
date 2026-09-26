@@ -7,18 +7,8 @@ name:
   given: Yamapel
   clan: Reimek
   aliases: []
-id: Y7o8W6VDoNj9KnMf
-packFolder: extrasnobles
 shortcode: yamapelofreimek
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Y7o8W6VDoNj9KnMf
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

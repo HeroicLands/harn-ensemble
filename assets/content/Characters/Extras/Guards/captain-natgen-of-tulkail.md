@@ -7,18 +7,8 @@ name:
   given: Natgen
   clan: Tulkail
   aliases: []
-id: 0x97Kc6HHcUdO9lX
-packFolder: extrasguards
 shortcode: captainnatgenoftulkail
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0x97Kc6HHcUdO9lX
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

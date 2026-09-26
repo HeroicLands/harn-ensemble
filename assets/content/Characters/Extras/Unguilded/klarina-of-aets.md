@@ -7,18 +7,8 @@ name:
   given: Klarina
   clan: Aets
   aliases: []
-id: AJqgGBW3O4IgXqKF
-packFolder: extrasunguilded
 shortcode: klarinaofaets
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AJqgGBW3O4IgXqKF
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

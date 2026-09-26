@@ -7,18 +7,8 @@ name:
   given: Iame
   clan: Thornin
   aliases: []
-id: 0V7LWvMokxbfMZyC
-packFolder: extrasunguilded
 shortcode: iameofthornin
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0V7LWvMokxbfMZyC
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

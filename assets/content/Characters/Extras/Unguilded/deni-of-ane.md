@@ -7,18 +7,8 @@ name:
   given: Deni
   clan: Ane
   aliases: []
-id: AzEEzQULYpkSMUdm
-packFolder: extrasunguilded
 shortcode: deniofane
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AzEEzQULYpkSMUdm
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

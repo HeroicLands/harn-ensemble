@@ -7,20 +7,8 @@ name:
   given: Drogor
   clan: ""
   aliases: []
-id: Rh0S96u4K4HWf1BO
-packFolder: fffnonhumans
 shortcode: drogor
 type: being
-social:
-  occupation: King
-  class: king
-  society: gargun
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
-    - larani
 data:
   icon: fff801chead
   tokenIcon: fff801ctok
@@ -38,6 +26,18 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+      - larani
+  id: Rh0S96u4K4HWf1BO
+  packFolder: fffnonhumans
+  social:
+    occupation: King
+    class: king
+    society: gargun
+    organizations: []
 hm3:
   type: character
   attributes:

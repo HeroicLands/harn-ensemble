@@ -7,19 +7,8 @@ name:
   given: Tabifa
   clan: Stiem
   aliases: []
-id: 0BCQ6WcGGPA0uyIG
-packFolder: extrasclergy
 shortcode: tabifaofstiem
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 0BCQ6WcGGPA0uyIG
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

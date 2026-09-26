@@ -7,19 +7,8 @@ name:
   given: Marwin
   clan: Irin
   aliases: []
-id: O5BIimC3GakpFXxu
-packFolder: extrasclergy
 shortcode: marwinofirin
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: O5BIimC3GakpFXxu
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

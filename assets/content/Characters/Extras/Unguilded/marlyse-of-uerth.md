@@ -7,18 +7,8 @@ name:
   given: Marlyse
   clan: Uerth
   aliases: []
-id: 07oDmVhqZCS6Jhi2
-packFolder: extrasunguilded
 shortcode: marlyseofuerth
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 07oDmVhqZCS6Jhi2
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

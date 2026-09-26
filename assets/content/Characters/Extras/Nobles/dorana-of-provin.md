@@ -7,18 +7,8 @@ name:
   given: Dorana
   clan: Provin
   aliases: []
-id: J9xIemHlv7UeG1hs
-packFolder: extrasnobles
 shortcode: doranaofprovin
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: J9xIemHlv7UeG1hs
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

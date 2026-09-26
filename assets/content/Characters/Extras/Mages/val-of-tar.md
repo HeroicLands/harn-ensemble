@@ -7,18 +7,8 @@ name:
   given: Val
   clan: Tar
   aliases: []
-id: f9MM2whvgAXsInOT
-packFolder: extrasmages
 shortcode: valoftar
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi*****"
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: f9MM2whvgAXsInOT
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi*****"
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

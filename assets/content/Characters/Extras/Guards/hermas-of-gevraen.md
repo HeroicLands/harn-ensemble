@@ -7,18 +7,8 @@ name:
   given: Hermas
   clan: Gevraen
   aliases: []
-id: qZymIrMfEUCiddd2
-packFolder: extrasguards
 shortcode: hermasofgevraen
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qZymIrMfEUCiddd2
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Geacelsin
   clan: Musbers
   aliases: []
-id: NMeHuFs736GQHPTR
-packFolder: extrasnobles
 shortcode: geacelsinofmusbers
 type: being
-social:
-  occupation: Patrician
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NMeHuFs736GQHPTR
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

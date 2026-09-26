@@ -7,19 +7,8 @@ name:
   given: Rybryn
   clan: Dara
   aliases: []
-id: wTSGybbTCUf7Xdgi
-packFolder: fffguilded
 shortcode: rybrynofdara
 type: being
-social:
-  occupation: Unguilded thief
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff3323tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Very quick
       - agile
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: wTSGybbTCUf7Xdgi
+  packFolder: fffguilded
+  social:
+    occupation: Unguilded thief
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

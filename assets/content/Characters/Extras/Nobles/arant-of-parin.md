@@ -7,18 +7,8 @@ name:
   given: Arant
   clan: Parin
   aliases: []
-id: 2feMI7fHCV8cmYiW
-packFolder: extrasnobles
 shortcode: arantofparin
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2feMI7fHCV8cmYiW
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Elan
   clan: Hilrine
   aliases: []
-id: YYvjSvoI8dEIydeE
-packFolder: extrasclergy
 shortcode: elanofhilrine
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: YYvjSvoI8dEIydeE
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

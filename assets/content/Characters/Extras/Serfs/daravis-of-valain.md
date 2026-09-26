@@ -7,18 +7,8 @@ name:
   given: Daravis
   clan: Valain
   aliases: []
-id: kNyFsIOON3dWPL0z
-packFolder: extrasserfs
 shortcode: daravisofvalain
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kNyFsIOON3dWPL0z
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Korance
   clan: Bellyr
   aliases: []
-id: PnDFW46qUmtpuEs3
-packFolder: extrasclergy
 shortcode: koranceofbellyr
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: PnDFW46qUmtpuEs3
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

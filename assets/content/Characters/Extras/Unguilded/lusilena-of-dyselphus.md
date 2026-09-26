@@ -7,18 +7,8 @@ name:
   given: Lusilena
   clan: Dyselphus
   aliases: []
-id: dK9veC2MEagmktf1
-packFolder: extrasunguilded
 shortcode: lusilenaofdyselphus
 type: being
-social:
-  occupation: Fisherman
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dK9veC2MEagmktf1
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

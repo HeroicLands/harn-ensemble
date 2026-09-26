@@ -7,18 +7,8 @@ name:
   given: Pavin
   clan: Krollater
   aliases: []
-id: b6Hn6FeEcqkR2SyD
-packFolder: extrasguilded
 shortcode: pavinofkrollater
 type: being
-social:
-  occupation: Clothier
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b6Hn6FeEcqkR2SyD
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Bryle
   clan: Tarkoff
   aliases: []
-id: A6CUm19s3sv8uI28
-packFolder: extrasguilded
 shortcode: bryleoftarkoff
 type: being
-social:
-  occupation: Physician
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: A6CUm19s3sv8uI28
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Lern
   clan: Jorwynn
   aliases: []
-id: EKTB3rP6tlJp4dko
-packFolder: extrasclergy
 shortcode: lernofjorwynn
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: EKTB3rP6tlJp4dko
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

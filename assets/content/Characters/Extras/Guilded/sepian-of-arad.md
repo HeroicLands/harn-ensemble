@@ -7,18 +7,8 @@ name:
   given: Sepian
   clan: Arad
   aliases: []
-id: hX1MsMbGMRfe12SG
-packFolder: extrasguilded
 shortcode: sepianofarad
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hX1MsMbGMRfe12SG
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

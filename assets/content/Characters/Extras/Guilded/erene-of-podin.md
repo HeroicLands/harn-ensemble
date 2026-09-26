@@ -7,18 +7,8 @@ name:
   given: Erene
   clan: Podin
   aliases: []
-id: 0ZUZGiNkWux6zDEA
-packFolder: extrasguilded
 shortcode: ereneofpodin
 type: being
-social:
-  occupation: Miner
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0ZUZGiNkWux6zDEA
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

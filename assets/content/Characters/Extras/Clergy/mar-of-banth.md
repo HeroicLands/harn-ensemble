@@ -7,19 +7,8 @@ name:
   given: Mar
   clan: Banth
   aliases: []
-id: AnjLuYRHTstK2ds9
-packFolder: extrasclergy
 shortcode: marofbanth
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: AnjLuYRHTstK2ds9
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

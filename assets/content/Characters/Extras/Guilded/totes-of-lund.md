@@ -7,18 +7,8 @@ name:
   given: Totes
   clan: Lund
   aliases: []
-id: DQvHjr6h7tLXPP82
-packFolder: extrasguilded
 shortcode: totesoflund
 type: being
-social:
-  occupation: Pilot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DQvHjr6h7tLXPP82
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Arian
   clan: Naras
   aliases: []
-id: OkfTTzZg9WKDDVhX
-packFolder: extrasguilded
 shortcode: arianofnaras
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OkfTTzZg9WKDDVhX
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

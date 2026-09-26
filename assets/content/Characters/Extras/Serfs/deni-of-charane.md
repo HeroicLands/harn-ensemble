@@ -7,18 +7,8 @@ name:
   given: Deni
   clan: Charane
   aliases: []
-id: yDTyc12pa3j9X8M2
-packFolder: extrasserfs
 shortcode: deniofcharane
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yDTyc12pa3j9X8M2
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

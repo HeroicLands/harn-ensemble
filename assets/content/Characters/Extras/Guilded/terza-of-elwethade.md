@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Elwethade
   aliases: []
-id: anlVa3Dtluoyqyoo
-packFolder: extrasguilded
 shortcode: terzaofelwethade
 type: being
-social:
-  occupation: Weaponcrafter
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: anlVa3Dtluoyqyoo
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

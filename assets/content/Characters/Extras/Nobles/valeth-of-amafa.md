@@ -7,18 +7,8 @@ name:
   given: Valeth
   clan: Amafa
   aliases: []
-id: QcqkSgLBUVpyliKh
-packFolder: extrasnobles
 shortcode: valethofamafa
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QcqkSgLBUVpyliKh
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

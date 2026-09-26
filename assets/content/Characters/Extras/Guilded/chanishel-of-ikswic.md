@@ -7,18 +7,8 @@ name:
   given: Chanishel
   clan: Ikswic
   aliases: []
-id: OZ48FCinq7KbrR4Y
-packFolder: extrasguilded
 shortcode: chanishelofikswic
 type: being
-social:
-  occupation: Chandler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OZ48FCinq7KbrR4Y
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

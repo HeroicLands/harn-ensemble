@@ -7,19 +7,8 @@ name:
   given: Kistyne
   clan: Wethen
   aliases: []
-id: iBb1lcHzkChyuDYP
-packFolder: extrasclergy
 shortcode: kistyneofwethen
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: iBb1lcHzkChyuDYP
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Maeghela
   clan: Loriel
   aliases: []
-id: 6XRLwwabXEhk0A5F
-packFolder: extrasclergy
 shortcode: maeghelaofloriel
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: 6XRLwwabXEhk0A5F
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

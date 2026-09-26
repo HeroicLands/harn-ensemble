@@ -7,18 +7,8 @@ name:
   given: Herva
   clan: Sindal
   aliases: []
-id: efJLtx71D7OyZcnm
-packFolder: extrasnobles
 shortcode: hervaofsindal
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: efJLtx71D7OyZcnm
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

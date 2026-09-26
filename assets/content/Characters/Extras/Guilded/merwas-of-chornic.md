@@ -7,18 +7,8 @@ name:
   given: Merwas
   clan: Chornic
   aliases: []
-id: TRKA3fnFqP7vVCU6
-packFolder: extrasguilded
 shortcode: merwasofchornic
 type: being
-social:
-  occupation: Thief
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TRKA3fnFqP7vVCU6
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

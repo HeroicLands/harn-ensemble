@@ -7,19 +7,8 @@ name:
   given: Marak
   clan: Mykanthelkuz
   aliases: []
-id: H3jn3bI0V7lfhNZS
-packFolder: extrasclergy
 shortcode: marakofmykanthelkuz
 type: being
-social:
-  occupation: Cleric/Siem
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: H3jn3bI0V7lfhNZS
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

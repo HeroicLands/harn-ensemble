@@ -7,19 +7,8 @@ name:
   given: Ral
   clan: Baldir
   aliases: []
-id: 05qrNRov8EvB9JxL
-packFolder: extrasclergy
 shortcode: ralofbaldir
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: 05qrNRov8EvB9JxL
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

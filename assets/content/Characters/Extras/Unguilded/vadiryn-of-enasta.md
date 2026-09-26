@@ -7,19 +7,8 @@ name:
   given: Vadiryn
   clan: Enasta
   aliases: []
-id: FnoUiCXjoQ8UqSHT
-packFolder: extrasunguilded
 shortcode: vadirynofenasta
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: FnoUiCXjoQ8UqSHT
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

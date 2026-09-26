@@ -7,18 +7,8 @@ name:
   given: Lorago
   clan: Charad
   aliases: []
-id: QzCl3S9gHsE33xxv
-packFolder: extrasunguilded
 shortcode: loragoofcharad
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QzCl3S9gHsE33xxv
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Zabith
   clan: Guindan
   aliases: []
-id: h4xTwmKDxMA1latK
-packFolder: extrasguilded
 shortcode: zabithofguindan
 type: being
-social:
-  occupation: Lexigrapher
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: h4xTwmKDxMA1latK
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

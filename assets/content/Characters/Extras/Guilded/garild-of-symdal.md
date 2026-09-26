@@ -7,18 +7,8 @@ name:
   given: Garild
   clan: Symdal
   aliases: []
-id: MTjBJXUrSlSvgulO
-packFolder: extrasguilded
 shortcode: garildofsymdal
 type: being
-social:
-  occupation: Mercantyler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MTjBJXUrSlSvgulO
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

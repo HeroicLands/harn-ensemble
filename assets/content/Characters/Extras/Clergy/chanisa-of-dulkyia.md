@@ -7,19 +7,8 @@ name:
   given: Chanisa
   clan: Dulkyia
   aliases: []
-id: 0DjRf29tJ2RcpJJd
-packFolder: extrasclergy
 shortcode: chanisaofdulkyia
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 0DjRf29tJ2RcpJJd
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

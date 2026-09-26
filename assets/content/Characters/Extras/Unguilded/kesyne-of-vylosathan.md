@@ -7,18 +7,8 @@ name:
   given: Kesyne
   clan: Vylosathan
   aliases: []
-id: wwNCDedxnZmhL8rX
-packFolder: extrasunguilded
 shortcode: kesyneofvylosathan
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wwNCDedxnZmhL8rX
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Maeghel
   clan: Osan
   aliases: []
-id: EitHiyik2rYT6GNx
-packFolder: extrasguilded
 shortcode: maeghelofosan
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EitHiyik2rYT6GNx
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

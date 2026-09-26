@@ -7,18 +7,8 @@ name:
   given: Alwen
   clan: Asgarlan
   aliases: []
-id: 1fP2c6Q87lLDgP7K
-packFolder: extrasnobles
 shortcode: alwenofasgarlan
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1fP2c6Q87lLDgP7K
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

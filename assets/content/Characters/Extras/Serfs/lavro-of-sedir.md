@@ -7,18 +7,8 @@ name:
   given: Lavro
   clan: Sedir
   aliases: []
-id: sWohDlkTyQ1MaTC4
-packFolder: extrasserfs
 shortcode: lavroofsedir
 type: being
-social:
-  occupation: Farmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sWohDlkTyQ1MaTC4
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

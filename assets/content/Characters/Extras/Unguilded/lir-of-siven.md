@@ -7,18 +7,8 @@ name:
   given: Lir
   clan: Siven
   aliases: []
-id: jfxTZKDYrkWR88tq
-packFolder: extrasunguilded
 shortcode: lirofsiven
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jfxTZKDYrkWR88tq
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

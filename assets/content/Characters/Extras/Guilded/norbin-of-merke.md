@@ -7,18 +7,8 @@ name:
   given: Norbin
   clan: Merke
   aliases: []
-id: WjAAvmIpmCFEDr1s
-packFolder: extrasguilded
 shortcode: norbinofmerke
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WjAAvmIpmCFEDr1s
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

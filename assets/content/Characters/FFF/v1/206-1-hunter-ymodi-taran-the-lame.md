@@ -7,20 +7,8 @@ name:
   given: Taran
   clan: the Lame
   aliases: []
-id: 8acm9Zl7OcmNQ4d6
-packFolder: fffbarbarians
 shortcode: taranthelame
 type: being
-social:
-  occupation: Hunter
-  class: tribesman
-  society: tribal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Ymodi"
-    - sarajin
 data:
   icon: fff2061tok
   templatePriority: 1
@@ -38,6 +26,18 @@ data:
     complexion: attractive
     extra_features:
       - Deformed left leg
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Ymodi"
+      - sarajin
+  id: 8acm9Zl7OcmNQ4d6
+  packFolder: fffbarbarians
+  social:
+    occupation: Hunter
+    class: tribesman
+    society: tribal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Mardenyl
   clan: Lune
   aliases: []
-id: nj9kMcW8VgPZb55m
-packFolder: extrasguards
 shortcode: mardenyloflune
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nj9kMcW8VgPZb55m
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

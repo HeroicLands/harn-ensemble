@@ -7,18 +7,8 @@ name:
   given: Lamnar
   clan: Kapire
   aliases: []
-id: As6w9lAIVodZpiLT
-packFolder: extrasunguilded
 shortcode: lamnarofkapire
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: As6w9lAIVodZpiLT
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Rokki
   clan: Sunigal
   aliases: []
-id: p3eLhSxehiJj5XQU
-packFolder: extrasguilded
 shortcode: rokkiofsunigal
 type: being
-social:
-  occupation: Lexigrapher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: p3eLhSxehiJj5XQU
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

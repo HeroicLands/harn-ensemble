@@ -7,18 +7,8 @@ name:
   given: Avaphen
   clan: Amathedhereniar
   aliases: []
-id: AYJ0BnMHaWtCuRLY
-packFolder: extrasunguilded
 shortcode: avaphenofamathedhereniar
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AYJ0BnMHaWtCuRLY
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

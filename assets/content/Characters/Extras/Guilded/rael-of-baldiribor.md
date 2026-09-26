@@ -7,18 +7,8 @@ name:
   given: Rael
   clan: Baldiribor
   aliases: []
-id: kT4yjXVjc854BdHx
-packFolder: extrasguilded
 shortcode: raelofbaldiribor
 type: being
-social:
-  occupation: Astrologer
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kT4yjXVjc854BdHx
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

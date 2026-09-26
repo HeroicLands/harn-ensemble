@@ -7,19 +7,8 @@ name:
   given: Elderien
   clan: Siven
   aliases: []
-id: ylQK2qchbSpmqxw4
-packFolder: extrasclergy
 shortcode: elderienofsiven
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: ylQK2qchbSpmqxw4
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

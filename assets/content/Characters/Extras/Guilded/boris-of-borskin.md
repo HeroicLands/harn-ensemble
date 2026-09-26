@@ -7,18 +7,8 @@ name:
   given: Boris
   clan: Borskin
   aliases: []
-id: F9GWfbZJrLitvClp
-packFolder: extrasguilded
 shortcode: borisofborskin
 type: being
-social:
-  occupation: Harper/Skald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F9GWfbZJrLitvClp
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Ash
   clan: Patren
   aliases: []
-id: eYqAdNNVfd5k78gu
-packFolder: extrasunguilded
 shortcode: ashofpatren
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eYqAdNNVfd5k78gu
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

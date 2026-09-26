@@ -7,18 +7,8 @@ name:
   given: Uvienelle
   clan: Hen
   aliases: []
-id: L4EhvsK63lIsodza
-packFolder: extrasunguilded
 shortcode: uvienelleofhen
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: L4EhvsK63lIsodza
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

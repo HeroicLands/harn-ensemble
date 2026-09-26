@@ -7,18 +7,8 @@ name:
   given: Jessthias
   clan: Aweil
   aliases: []
-id: t8lWnnIseT3isxw4
-packFolder: extrasunguilded
 shortcode: jessthiasofaweil
 type: being
-social:
-  occupation: Sage/Tutor
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: t8lWnnIseT3isxw4
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

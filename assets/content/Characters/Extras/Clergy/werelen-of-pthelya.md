@@ -7,19 +7,8 @@ name:
   given: Werelen
   clan: Pthelya
   aliases: []
-id: iFtlQCOSBICSPEZH
-packFolder: extrasclergy
 shortcode: werelenofpthelya
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: iFtlQCOSBICSPEZH
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Telsa
   clan: Varoos
   aliases: []
-id: bTcklGbl92EUIrIC
-packFolder: extrasnobles
 shortcode: telsaofvaroos
 type: being
-social:
-  occupation: Patrician
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bTcklGbl92EUIrIC
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

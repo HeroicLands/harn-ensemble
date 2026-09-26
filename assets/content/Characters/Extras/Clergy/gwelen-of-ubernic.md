@@ -7,19 +7,8 @@ name:
   given: Gwelen
   clan: Ubernic
   aliases: []
-id: vC8tqvWwpum3WkGf
-packFolder: extrasclergy
 shortcode: gwelenofubernic
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: vC8tqvWwpum3WkGf
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

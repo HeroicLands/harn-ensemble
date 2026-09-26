@@ -7,18 +7,8 @@ name:
   given: Yigal
   clan: Dyselweth
   aliases: []
-id: dBC0rOPuGWb88hBA
-packFolder: extrasguilded
 shortcode: yigalofdyselweth
 type: being
-social:
-  occupation: Tentmaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dBC0rOPuGWb88hBA
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

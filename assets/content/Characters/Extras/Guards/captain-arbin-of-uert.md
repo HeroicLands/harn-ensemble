@@ -7,18 +7,8 @@ name:
   given: Arbin
   clan: Uert
   aliases: []
-id: o8TWdE7rfsezGYKa
-packFolder: extrasguards
 shortcode: captainarbinofuert
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: o8TWdE7rfsezGYKa
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

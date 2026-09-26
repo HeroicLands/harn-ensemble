@@ -7,18 +7,8 @@ name:
   given: Cheselyne
   clan: Merke
   aliases: []
-id: bZhYSvXCMnkp522R
-packFolder: extrasnobles
 shortcode: cheselyneofmerke
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bZhYSvXCMnkp522R
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

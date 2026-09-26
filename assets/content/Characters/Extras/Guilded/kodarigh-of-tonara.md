@@ -7,18 +7,8 @@ name:
   given: Kodarigh
   clan: Tonara
   aliases: []
-id: OGm52OLdRmkgkeT9
-packFolder: extrasguilded
 shortcode: kodarighoftonara
 type: being
-social:
-  occupation: Locksmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OGm52OLdRmkgkeT9
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

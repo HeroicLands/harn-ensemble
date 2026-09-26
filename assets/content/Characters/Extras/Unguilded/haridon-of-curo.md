@@ -7,18 +7,8 @@ name:
   given: Haridon
   clan: Curo
   aliases: []
-id: 0q3UjMVFhHSpeNh2
-packFolder: extrasunguilded
 shortcode: haridonofcuro
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0q3UjMVFhHSpeNh2
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Shel
   clan: Jere
   aliases: []
-id: QOiuCqGvBNgPdRPX
-packFolder: extrasunguilded
 shortcode: shelofjere
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QOiuCqGvBNgPdRPX
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

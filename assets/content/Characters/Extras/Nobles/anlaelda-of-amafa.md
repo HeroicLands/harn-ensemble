@@ -7,18 +7,8 @@ name:
   given: Anlaelda
   clan: Amafa
   aliases: []
-id: i5hvzGd507sYKtQN
-packFolder: extrasnobles
 shortcode: anlaeldaofamafa
 type: being
-social:
-  occupation: Baliff
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: i5hvzGd507sYKtQN
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

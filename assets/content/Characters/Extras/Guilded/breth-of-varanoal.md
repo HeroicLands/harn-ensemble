@@ -7,18 +7,8 @@ name:
   given: Breth
   clan: Varanoal
   aliases: []
-id: XAetsqafK28MkAy1
-packFolder: extrasguilded
 shortcode: brethofvaranoal
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XAetsqafK28MkAy1
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

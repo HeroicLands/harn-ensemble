@@ -7,19 +7,8 @@ name:
   given: Kele
   clan: Jere
   aliases: []
-id: lFYWs73hcKys63aa
-packFolder: extrasclergy
 shortcode: keleofjere
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: lFYWs73hcKys63aa
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

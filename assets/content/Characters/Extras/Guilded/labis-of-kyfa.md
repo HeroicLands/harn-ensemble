@@ -7,18 +7,8 @@ name:
   given: Labis
   clan: Kyfa
   aliases: []
-id: MXMGtemwPsJvqPq5
-packFolder: extrasguilded
 shortcode: labisofkyfa
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MXMGtemwPsJvqPq5
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

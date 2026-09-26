@@ -7,18 +7,8 @@ name:
   given: Merena
   clan: Tulkne
   aliases: []
-id: OyyzCp3VYVvF8r9P
-packFolder: extrasnobles
 shortcode: merenaoftulkne
 type: being
-social:
-  occupation: Herald
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OyyzCp3VYVvF8r9P
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

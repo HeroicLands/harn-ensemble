@@ -7,18 +7,8 @@ name:
   given: Aril
   clan: Cinbarn
   aliases: []
-id: Srt4sq2RKzBN2VDu
-packFolder: extrasguilded
 shortcode: arilofcinbarn
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Srt4sq2RKzBN2VDu
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

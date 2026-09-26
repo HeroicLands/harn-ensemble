@@ -7,18 +7,8 @@ name:
   given: Anlaela
   clan: Kail
   aliases: []
-id: HyjvPwy7IQ6L4BZ9
-packFolder: extrasunguilded
 shortcode: anlaelaofkail
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HyjvPwy7IQ6L4BZ9
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

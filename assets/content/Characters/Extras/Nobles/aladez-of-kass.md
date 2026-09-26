@@ -7,18 +7,8 @@ name:
   given: Aladez
   clan: Kass
   aliases: []
-id: GJyjk2QOG3LusAYd
-packFolder: extrasnobles
 shortcode: aladezofkass
 type: being
-social:
-  occupation: Chieftan
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GJyjk2QOG3LusAYd
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

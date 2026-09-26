@@ -7,18 +7,8 @@ name:
   given: Uone
   clan: Rytus
   aliases: []
-id: GGomYuBY0ZfOQqLu
-packFolder: extrasguilded
 shortcode: uoneofrytus
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GGomYuBY0ZfOQqLu
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

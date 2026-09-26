@@ -7,18 +7,8 @@ name:
   given: Silen
   clan: Merkenos
   aliases: []
-id: dGbzvtb6Xjn83QYb
-packFolder: extrasunguilded
 shortcode: silenofmerkenos
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dGbzvtb6Xjn83QYb
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

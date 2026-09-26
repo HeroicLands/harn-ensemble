@@ -7,19 +7,8 @@ name:
   given: Gor
   clan: Thes
   aliases: []
-id: 2ib7IlB3MCXbIqjB
-packFolder: extrasclergy
 shortcode: gorofthes
 type: being
-social:
-  occupation: Cleric/Larani
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 2ib7IlB3MCXbIqjB
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

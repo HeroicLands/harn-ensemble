@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Ren
   aliases: []
-id: L9ed53zkx80B4pvM
-packFolder: extrasguilded
 shortcode: sylviaofren
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: L9ed53zkx80B4pvM
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

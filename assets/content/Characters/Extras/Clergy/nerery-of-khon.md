@@ -7,19 +7,8 @@ name:
   given: Nerery
   clan: Khon
   aliases: []
-id: A8JcwZ73LjNuo4Zr
-packFolder: extrasclergy
 shortcode: nereryofkhon
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: A8JcwZ73LjNuo4Zr
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

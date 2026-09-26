@@ -7,18 +7,8 @@ name:
   given: Nath
   clan: Rysten
   aliases: []
-id: 8yDl3pcGeEaDuZnK
-packFolder: extrasguilded
 shortcode: nathofrysten
 type: being
-social:
-  occupation: Thief
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8yDl3pcGeEaDuZnK
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

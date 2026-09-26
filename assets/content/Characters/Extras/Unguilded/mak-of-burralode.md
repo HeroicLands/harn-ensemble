@@ -7,18 +7,8 @@ name:
   given: Mak
   clan: Burralode
   aliases: []
-id: xKrdgH8YhIE7H6ui
-packFolder: extrasunguilded
 shortcode: makofburralode
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xKrdgH8YhIE7H6ui
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

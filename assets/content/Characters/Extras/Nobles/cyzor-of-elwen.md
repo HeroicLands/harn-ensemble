@@ -7,18 +7,8 @@ name:
   given: Cyzor
   clan: Elwen
   aliases: []
-id: tPlUQHe9uk3CrRCd
-packFolder: extrasnobles
 shortcode: cyzorofelwen
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tPlUQHe9uk3CrRCd
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

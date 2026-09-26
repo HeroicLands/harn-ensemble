@@ -7,19 +7,8 @@ name:
   given: Char
   clan: Orlon
   aliases: []
-id: DLSVu1eoA7VXETng
-packFolder: extrasclergy
 shortcode: charoforlon
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: DLSVu1eoA7VXETng
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

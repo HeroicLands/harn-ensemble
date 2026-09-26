@@ -7,19 +7,8 @@ name:
   given: Seelie
   clan: Kestel
   aliases: []
-id: VOy3LZUdyhYtFwqS
-packFolder: fffguilded
 shortcode: seelieofkestel
 type: being
-social:
-  occupation: Apothecary
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3021tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: VOy3LZUdyhYtFwqS
+  packFolder: fffguilded
+  social:
+    occupation: Apothecary
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

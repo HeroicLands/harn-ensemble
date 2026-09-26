@@ -7,18 +7,8 @@ name:
   given: Jorlak
   clan: Asain
   aliases: []
-id: EdO09j0lpN6ggWJp
-packFolder: extrasguilded
 shortcode: jorlakofasain
 type: being
-social:
-  occupation: Salter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EdO09j0lpN6ggWJp
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

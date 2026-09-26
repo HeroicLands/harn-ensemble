@@ -7,18 +7,8 @@ name:
   given: Marlyse
   clan: Chorlon
   aliases: []
-id: TPqvtKhSh0nxHLjB
-packFolder: extrasguilded
 shortcode: marlyseofchorlon
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TPqvtKhSh0nxHLjB
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

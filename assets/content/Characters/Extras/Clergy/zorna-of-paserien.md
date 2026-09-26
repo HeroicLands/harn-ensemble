@@ -7,19 +7,8 @@ name:
   given: Zorna
   clan: Paserien
   aliases: []
-id: ydhIG5wTDb2Ojrvp
-packFolder: extrasclergy
 shortcode: zornaofpaserien
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: ydhIG5wTDb2Ojrvp
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

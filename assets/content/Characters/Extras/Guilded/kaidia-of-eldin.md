@@ -7,18 +7,8 @@ name:
   given: Kaidia
   clan: Eldin
   aliases: []
-id: HhXT5EE20NsCSqY4
-packFolder: extrasguilded
 shortcode: kaidiaofeldin
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HhXT5EE20NsCSqY4
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Afaewynn
   clan: Barthy
   aliases: []
-id: Tw7v46qDPFLQrmPJ
-packFolder: fffnobles
 shortcode: dameafaewynnbarthy
 type: being
-social:
-  occupation: Knight Bachelor (MH)
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5062tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: Tw7v46qDPFLQrmPJ
+  packFolder: fffnobles
+  social:
+    occupation: Knight Bachelor (MH)
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Zuke
   clan: Everdy
   aliases: []
-id: bIW2QHlCmtPkN0aa
-packFolder: extrasclergy
 shortcode: zukeofeverdy
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: bIW2QHlCmtPkN0aa
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

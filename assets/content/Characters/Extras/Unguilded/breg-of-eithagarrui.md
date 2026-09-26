@@ -7,18 +7,8 @@ name:
   given: Breg
   clan: Eithagarrui
   aliases: []
-id: rRtXVMRGhvn1AVbj
-packFolder: extrasunguilded
 shortcode: bregofeithagarrui
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rRtXVMRGhvn1AVbj
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

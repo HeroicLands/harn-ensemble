@@ -7,18 +7,8 @@ name:
   given: Ras
   clan: Mykansen
   aliases: []
-id: 5iQytIgJet3SsM7M
-packFolder: extrasunguilded
 shortcode: rasofmykansen
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5iQytIgJet3SsM7M
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

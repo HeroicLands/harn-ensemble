@@ -7,18 +7,8 @@ name:
   given: Lajana
   clan: Ikswic
   aliases: []
-id: NWiYgyPjB9MfRaev
-packFolder: extrasnobles
 shortcode: lajanaofikswic
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NWiYgyPjB9MfRaev
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

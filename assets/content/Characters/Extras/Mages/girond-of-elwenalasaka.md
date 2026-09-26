@@ -7,18 +7,8 @@ name:
   given: Girond
   clan: Elwenalasaka
   aliases: []
-id: nQeiJhS9HcklWYBw
-packFolder: extrasmages
 shortcode: girondofelwenalasaka
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya*****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nQeiJhS9HcklWYBw
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya*****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

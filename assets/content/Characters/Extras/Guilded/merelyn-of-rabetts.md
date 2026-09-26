@@ -7,18 +7,8 @@ name:
   given: Merelyn
   clan: Rabetts
   aliases: []
-id: WQdS1gjXxrc789hp
-packFolder: extrasguilded
 shortcode: merelynofrabetts
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WQdS1gjXxrc789hp
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

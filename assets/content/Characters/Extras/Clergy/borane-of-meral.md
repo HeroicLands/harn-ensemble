@@ -7,19 +7,8 @@ name:
   given: Borane
   clan: Meral
   aliases: []
-id: 45hzVh4KgtbuMj1T
-packFolder: extrasclergy
 shortcode: boraneofmeral
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: 45hzVh4KgtbuMj1T
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

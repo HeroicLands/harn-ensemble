@@ -7,18 +7,8 @@ name:
   given: Cazaran
   clan: Karin
   aliases: []
-id: kED0kN1JJYyqgrLU
-packFolder: extrasunguilded
 shortcode: cazaranofkarin
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kED0kN1JJYyqgrLU
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

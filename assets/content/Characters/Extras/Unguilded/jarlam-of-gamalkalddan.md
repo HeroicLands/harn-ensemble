@@ -7,18 +7,8 @@ name:
   given: Jarlam
   clan: Gamalkalddan
   aliases: []
-id: Z84OS0ezrdwOCivT
-packFolder: extrasunguilded
 shortcode: jarlamofgamalkalddan
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Z84OS0ezrdwOCivT
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

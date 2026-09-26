@@ -7,18 +7,8 @@ name:
   given: Ashain
   clan: Sethsenas
   aliases: []
-id: alPwoPU5RvBDhWre
-packFolder: extrasmages
 shortcode: ashainofsethsenas
 type: being
-social:
-  occupation: "Shek-Pvar/Odivshe***"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: alPwoPU5RvBDhWre
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Odivshe***"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

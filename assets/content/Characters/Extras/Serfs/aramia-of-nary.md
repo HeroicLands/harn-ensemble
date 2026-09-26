@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Nary
   aliases: []
-id: vXHNZuq0wKagun9N
-packFolder: extrasserfs
 shortcode: aramiaofnary
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vXHNZuq0wKagun9N
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Dar
   clan: Karion
   aliases: []
-id: Rh544ocXGASkoZPN
-packFolder: extrasunguilded
 shortcode: darofkarion
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Rh544ocXGASkoZPN
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

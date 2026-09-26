@@ -7,18 +7,8 @@ name:
   given: Borane
   clan: Quarliss
   aliases: []
-id: 2fszUEpUyTtvfo86
-packFolder: extrasguilded
 shortcode: boraneofquarliss
 type: being
-social:
-  occupation: Physician
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2fszUEpUyTtvfo86
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

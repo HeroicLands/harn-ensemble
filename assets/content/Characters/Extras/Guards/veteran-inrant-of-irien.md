@@ -7,18 +7,8 @@ name:
   given: Inrant
   clan: Irien
   aliases: []
-id: 4PM6g21QQcRfbmOZ
-packFolder: extrasguards
 shortcode: veteraninrantofirien
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4PM6g21QQcRfbmOZ
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

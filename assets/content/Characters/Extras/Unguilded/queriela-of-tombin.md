@@ -7,18 +7,8 @@ name:
   given: Queriela
   clan: Tombin
   aliases: []
-id: VHM577MlKlcWHH07
-packFolder: extrasunguilded
 shortcode: querielaoftombin
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VHM577MlKlcWHH07
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

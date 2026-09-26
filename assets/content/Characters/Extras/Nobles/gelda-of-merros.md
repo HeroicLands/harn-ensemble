@@ -7,18 +7,8 @@ name:
   given: Gelda
   clan: Merros
   aliases: []
-id: tFRq0wInBuGrhn7T
-packFolder: extrasnobles
 shortcode: geldaofmerros
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tFRq0wInBuGrhn7T
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

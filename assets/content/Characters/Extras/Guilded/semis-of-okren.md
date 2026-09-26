@@ -7,18 +7,8 @@ name:
   given: Semis
   clan: Okren
   aliases: []
-id: Y3wzBpRonGVYCmpu
-packFolder: extrasguilded
 shortcode: semisofokren
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Y3wzBpRonGVYCmpu
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

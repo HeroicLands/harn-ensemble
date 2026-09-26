@@ -7,18 +7,8 @@ name:
   given: Peshmuga
   clan: Mykansenalis
   aliases: []
-id: MvES4sWFAaujP0rF
-packFolder: extrasguilded
 shortcode: peshmugaofmykansenalis
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MvES4sWFAaujP0rF
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

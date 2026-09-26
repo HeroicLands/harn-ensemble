@@ -7,18 +7,8 @@ name:
   given: Delazel
   clan: Wulverdas
   aliases: []
-id: 2JdDpt9sxdQ9wooa
-packFolder: extrasguilded
 shortcode: delazelofwulverdas
 type: being
-social:
-  occupation: Seaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2JdDpt9sxdQ9wooa
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Teldarakan
   clan: Onpartus
   aliases: []
-id: SGVoD7Spcrm7eisc
-packFolder: extrasunguilded
 shortcode: teldarakanofonpartus
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SGVoD7Spcrm7eisc
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

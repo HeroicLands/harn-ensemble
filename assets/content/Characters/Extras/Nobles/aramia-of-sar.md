@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Sar
   aliases: []
-id: DPV5L5ZtW8SyydZ8
-packFolder: extrasnobles
 shortcode: aramiaofsar
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DPV5L5ZtW8SyydZ8
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

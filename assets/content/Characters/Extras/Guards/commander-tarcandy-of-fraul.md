@@ -7,18 +7,8 @@ name:
   given: Commander
   clan: Tarcandy Fraul
   aliases: []
-id: C4m0SFlOStdomSCD
-packFolder: extrasguards
 shortcode: commandertarcandyoffraul
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: C4m0SFlOStdomSCD
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

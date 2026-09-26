@@ -7,18 +7,8 @@ name:
   given: Jond
   clan: Jaesinda
   aliases: []
-id: JX8Q0uN5xkDa8t2m
-packFolder: extrasguilded
 shortcode: jondofjaesinda
 type: being
-social:
-  occupation: Alchemist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JX8Q0uN5xkDa8t2m
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

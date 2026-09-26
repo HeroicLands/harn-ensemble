@@ -7,18 +7,8 @@ name:
   given: Gorsine
   clan: Aweil
   aliases: []
-id: Jq9rcwyFPRV6wUZD
-packFolder: extrasguilded
 shortcode: gorsineofaweil
 type: being
-social:
-  occupation: Seaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Jq9rcwyFPRV6wUZD
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

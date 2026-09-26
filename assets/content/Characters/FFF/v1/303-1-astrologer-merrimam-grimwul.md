@@ -7,19 +7,8 @@ name:
   given: Merrimam
   clan: Grimwul
   aliases: []
-id: vH8CEFvFCDQc2AlS
-packFolder: fffguilded
 shortcode: merrimamgrimwul
 type: being
-social:
-  occupation: Astrologer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - saveknor
 data:
   icon: fff3031tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Beard
       - moustache
+  harnworld:
+    realm: ""
+    ritual:
+      - saveknor
+  id: vH8CEFvFCDQc2AlS
+  packFolder: fffguilded
+  social:
+    occupation: Astrologer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

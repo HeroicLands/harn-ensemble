@@ -7,18 +7,8 @@ name:
   given: Arthel
   clan: Balliar
   aliases: []
-id: JGFDiEmahtpO1PbL
-packFolder: extrasunguilded
 shortcode: arthelofballiar
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JGFDiEmahtpO1PbL
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

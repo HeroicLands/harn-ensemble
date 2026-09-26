@@ -7,18 +7,8 @@ name:
   given: Piria
   clan: Varaner
   aliases: []
-id: YD65C35oqIqKVegg
-packFolder: extrasunguilded
 shortcode: piriaofvaraner
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YD65C35oqIqKVegg
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

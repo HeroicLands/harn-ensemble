@@ -7,18 +7,8 @@ name:
   given: Milniq
   clan: Slarance
   aliases: []
-id: KgvvdfTe767P8jH2
-packFolder: extrasunguilded
 shortcode: milniqofslarance
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KgvvdfTe767P8jH2
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

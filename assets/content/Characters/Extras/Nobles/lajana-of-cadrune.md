@@ -7,18 +7,8 @@ name:
   given: Lajana
   clan: Cadrune
   aliases: []
-id: tcsFt2LMJ4lOBZmg
-packFolder: extrasnobles
 shortcode: lajanaofcadrune
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tcsFt2LMJ4lOBZmg
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Jesan
   clan: Puckill
   aliases: []
-id: xbYaGd0sIwoc0vCA
-packFolder: extrasguards
 shortcode: jesanofpuckill
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xbYaGd0sIwoc0vCA
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

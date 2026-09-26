@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Sunigal
   aliases: []
-id: G9hIh3eVutHY7ECy
-packFolder: extrasmages
 shortcode: terzaofsunigal
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn****"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: G9hIh3eVutHY7ECy
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn****"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

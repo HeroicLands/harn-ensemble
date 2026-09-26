@@ -7,18 +7,8 @@ name:
   given: Breth
   clan: Mance
   aliases: []
-id: POKeKVo1fJj54Zsv
-packFolder: extrasunguilded
 shortcode: brethofmance
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: POKeKVo1fJj54Zsv
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

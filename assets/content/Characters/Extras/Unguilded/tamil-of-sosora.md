@@ -7,18 +7,8 @@ name:
   given: Tamil
   clan: Sosora
   aliases: []
-id: S0u4Tzuur6D3pZNy
-packFolder: extrasunguilded
 shortcode: tamilofsosora
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: S0u4Tzuur6D3pZNy
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

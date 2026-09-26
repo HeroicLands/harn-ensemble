@@ -7,19 +7,8 @@ name:
   given: Bryle
   clan: Laplaemen
   aliases: []
-id: BfWvDzoAwhh2pqJR
-packFolder: extrasclergy
 shortcode: bryleoflaplaemen
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: BfWvDzoAwhh2pqJR
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Milniq
   clan: Jorwynn
   aliases: []
-id: FZhdzUwvKNfz7xtp
-packFolder: extrasunguilded
 shortcode: milniqofjorwynn
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FZhdzUwvKNfz7xtp
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

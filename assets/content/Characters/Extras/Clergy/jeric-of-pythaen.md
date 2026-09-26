@@ -7,19 +7,8 @@ name:
   given: Jeric
   clan: Pythaen
   aliases: []
-id: 5PH7TTLjUCphjSwb
-packFolder: extrasclergy
 shortcode: jericofpythaen
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: 5PH7TTLjUCphjSwb
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

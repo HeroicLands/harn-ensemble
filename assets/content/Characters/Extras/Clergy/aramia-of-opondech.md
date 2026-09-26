@@ -7,19 +7,8 @@ name:
   given: Aramia
   clan: Opondech
   aliases: []
-id: GZka9ctxplMI6nwM
-packFolder: extrasclergy
 shortcode: aramiaofopondech
 type: being
-social:
-  occupation: Cleric/Siem
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: GZka9ctxplMI6nwM
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

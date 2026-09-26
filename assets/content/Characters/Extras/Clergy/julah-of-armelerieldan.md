@@ -7,19 +7,8 @@ name:
   given: Julah
   clan: Armelerieldan
   aliases: []
-id: OTZXDCvP7jAz8RCH
-packFolder: extrasclergy
 shortcode: julahofarmelerieldan
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: OTZXDCvP7jAz8RCH
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

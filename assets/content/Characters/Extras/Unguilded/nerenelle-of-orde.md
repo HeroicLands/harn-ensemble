@@ -7,18 +7,8 @@ name:
   given: Nerenelle
   clan: Orde
   aliases: []
-id: EakicwVhZKWQcgIN
-packFolder: extrasunguilded
 shortcode: nerenelleoforde
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EakicwVhZKWQcgIN
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

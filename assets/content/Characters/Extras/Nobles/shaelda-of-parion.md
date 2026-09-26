@@ -7,18 +7,8 @@ name:
   given: Shaelda
   clan: Parion
   aliases: []
-id: MMRxSfw744rbllV2
-packFolder: extrasnobles
 shortcode: shaeldaofparion
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MMRxSfw744rbllV2
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

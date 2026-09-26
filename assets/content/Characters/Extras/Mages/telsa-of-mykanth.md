@@ -7,18 +7,8 @@ name:
   given: Telsa
   clan: Mykanth
   aliases: []
-id: bKvxY1lV5mfABmWa
-packFolder: extrasmages
 shortcode: telsaofmykanth
 type: being
-social:
-  occupation: "Shek-Pvar/Fyvria****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bKvxY1lV5mfABmWa
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Fyvria****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Borana
   clan: Abira
   aliases: []
-id: gmx6SJVnClQfaLBx
-packFolder: extrasunguilded
 shortcode: boranaofabira
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gmx6SJVnClQfaLBx
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

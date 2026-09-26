@@ -7,18 +7,8 @@ name:
   given: Orin
   clan: Ubela
   aliases: []
-id: BW4Wcl5ricFI7kiq
-packFolder: extrasguilded
 shortcode: orinofubela
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BW4Wcl5ricFI7kiq
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

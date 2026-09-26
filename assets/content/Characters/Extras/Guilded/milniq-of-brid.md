@@ -7,18 +7,8 @@ name:
   given: Milniq
   clan: Brid
   aliases: []
-id: 9XNPvopMnGzsqIqg
-packFolder: extrasguilded
 shortcode: milniqofbrid
 type: being
-social:
-  occupation: Chandler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9XNPvopMnGzsqIqg
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

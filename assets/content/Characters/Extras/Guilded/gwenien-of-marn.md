@@ -7,18 +7,8 @@ name:
   given: Gwenien
   clan: Marn
   aliases: []
-id: Q6pGGGyA7Tp3PWBq
-packFolder: extrasguilded
 shortcode: gwenienofmarn
 type: being
-social:
-  occupation: Tentmaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Q6pGGGyA7Tp3PWBq
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

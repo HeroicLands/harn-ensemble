@@ -7,18 +7,8 @@ name:
   given: Merena
   clan: Debernin
   aliases: []
-id: PgMBjTQITH7GCxOI
-packFolder: extrasunguilded
 shortcode: merenaofdebernin
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PgMBjTQITH7GCxOI
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

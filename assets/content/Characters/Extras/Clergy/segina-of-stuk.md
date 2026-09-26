@@ -7,19 +7,8 @@ name:
   given: Segina
   clan: Stuk
   aliases: []
-id: Zc9Kxo5kp0RZU8c9
-packFolder: extrasclergy
 shortcode: seginaofstuk
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: Zc9Kxo5kp0RZU8c9
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

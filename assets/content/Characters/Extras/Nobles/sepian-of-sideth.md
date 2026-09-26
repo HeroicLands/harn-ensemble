@@ -7,18 +7,8 @@ name:
   given: Sepian
   clan: Sideth
   aliases: []
-id: xlBiFxs52Pe6Os9X
-packFolder: extrasnobles
 shortcode: sepianofsideth
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xlBiFxs52Pe6Os9X
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

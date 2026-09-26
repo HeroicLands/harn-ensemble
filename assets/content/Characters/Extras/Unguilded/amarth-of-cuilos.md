@@ -7,18 +7,8 @@ name:
   given: Amarth
   clan: Cuilos
   aliases: []
-id: YSnPgG6pE6HQahg6
-packFolder: extrasunguilded
 shortcode: amarthofcuilos
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YSnPgG6pE6HQahg6
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

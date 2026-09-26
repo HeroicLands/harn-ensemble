@@ -7,19 +7,8 @@ name:
   given: Halime
   clan: Yisgaras
   aliases: []
-id: E1xaY2VHybPabsrf
-packFolder: extrasclergy
 shortcode: halimeofyisgaras
 type: being
-social:
-  occupation: Cleric/Siem
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: E1xaY2VHybPabsrf
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

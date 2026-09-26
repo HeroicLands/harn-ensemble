@@ -7,18 +7,8 @@ name:
   given: Arva
   clan: Chel
   aliases: []
-id: yMeayC8AyAobdiwL
-packFolder: extrasguilded
 shortcode: arvaofchel
 type: being
-social:
-  occupation: Potter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yMeayC8AyAobdiwL
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

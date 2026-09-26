@@ -7,18 +7,8 @@ name:
   given: Cyzorgin
   clan: Kramele
   aliases: []
-id: CTa9tfwRjXbADVmH
-packFolder: extrasguards
 shortcode: cyzorginofkramele
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CTa9tfwRjXbADVmH
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

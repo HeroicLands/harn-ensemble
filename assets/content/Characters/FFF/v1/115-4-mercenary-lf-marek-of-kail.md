@@ -7,20 +7,8 @@ name:
   given: Marek
   clan: Kail
   aliases: []
-id: aRJme3GFrpfTgRe6
-packFolder: fffmilitary
 shortcode: marekofkail
 type: being
-social:
-  occupation: Mercenary (LF)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
-    - peoni
 data:
   icon: fff1154tok
   templatePriority: 1
@@ -37,6 +25,18 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+      - peoni
+  id: aRJme3GFrpfTgRe6
+  packFolder: fffmilitary
+  social:
+    occupation: Mercenary (LF)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

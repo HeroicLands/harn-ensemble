@@ -7,19 +7,8 @@ name:
   given: Sylvia
   clan: Dythin
   aliases: []
-id: a4Oq2gaHK7raG4Zt
-packFolder: extrasclergy
 shortcode: sylviaofdythin
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: a4Oq2gaHK7raG4Zt
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

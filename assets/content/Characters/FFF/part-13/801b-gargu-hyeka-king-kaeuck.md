@@ -7,18 +7,8 @@ name:
   given: Kaeuck
   clan: ""
   aliases: []
-id: Df28UjH6GUtBDEX7
-packFolder: fffnonhumans
 shortcode: kaeuck
 type: being
-social:
-  occupation: King
-  class: king
-  society: gargun (hyeka)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff801bhead
   tokenIcon: fff801btok
@@ -38,6 +28,16 @@ data:
       - Wheezing
       - Belt of human hands
       - human hair tassels
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Df28UjH6GUtBDEX7
+  packFolder: fffnonhumans
+  social:
+    occupation: King
+    class: king
+    society: gargun (hyeka)
+    organizations: []
 hm3:
   type: character
   attributes:

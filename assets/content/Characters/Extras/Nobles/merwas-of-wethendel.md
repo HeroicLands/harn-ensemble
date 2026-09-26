@@ -7,18 +7,8 @@ name:
   given: Merwas
   clan: Wethendel
   aliases: []
-id: DEQzNZdCmk1nP1Um
-packFolder: extrasnobles
 shortcode: merwasofwethendel
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DEQzNZdCmk1nP1Um
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

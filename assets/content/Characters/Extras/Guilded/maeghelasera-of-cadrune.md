@@ -7,18 +7,8 @@ name:
   given: Maeghelasera
   clan: Cadrune
   aliases: []
-id: PKazpLfyMk5RMmcR
-packFolder: extrasguilded
 shortcode: maeghelaseraofcadrune
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PKazpLfyMk5RMmcR
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

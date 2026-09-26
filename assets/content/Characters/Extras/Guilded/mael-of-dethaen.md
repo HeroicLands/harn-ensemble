@@ -7,18 +7,8 @@ name:
   given: Mael
   clan: Dethaen
   aliases: []
-id: j0oBpwAbRi6aTOHd
-packFolder: extrasguilded
 shortcode: maelofdethaen
 type: being
-social:
-  occupation: Litigant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: j0oBpwAbRi6aTOHd
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

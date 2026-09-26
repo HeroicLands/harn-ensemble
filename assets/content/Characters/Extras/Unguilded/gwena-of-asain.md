@@ -7,18 +7,8 @@ name:
   given: Gwena
   clan: Asain
   aliases: []
-id: MIBEMYBwAIu4Ya7V
-packFolder: extrasunguilded
 shortcode: gwenaofasain
 type: being
-social:
-  occupation: Thatcher
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MIBEMYBwAIu4Ya7V
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

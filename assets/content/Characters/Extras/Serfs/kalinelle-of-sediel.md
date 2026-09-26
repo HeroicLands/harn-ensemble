@@ -7,18 +7,8 @@ name:
   given: Kalinelle
   clan: Sediel
   aliases: []
-id: KMmFSlhdSTjGmmtA
-packFolder: extrasserfs
 shortcode: kalinelleofsediel
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KMmFSlhdSTjGmmtA
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

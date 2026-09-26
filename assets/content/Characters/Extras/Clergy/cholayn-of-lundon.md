@@ -7,19 +7,8 @@ name:
   given: Cholayn
   clan: Lundon
   aliases: []
-id: LDAbEajVwlWh07Bw
-packFolder: extrasclergy
 shortcode: cholaynoflundon
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: LDAbEajVwlWh07Bw
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Chatil
   aliases: []
-id: GtQoPm6rAr13dzuN
-packFolder: extrasguilded
 shortcode: zornaofchatil
 type: being
-social:
-  occupation: Mercantyler
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GtQoPm6rAr13dzuN
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

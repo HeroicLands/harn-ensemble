@@ -7,18 +7,8 @@ name:
   given: Inrant
   clan: Tabralgurty
   aliases: []
-id: 8ETNYbWf9eEIN84Y
-packFolder: extrasguards
 shortcode: inrantoftabralgurty
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8ETNYbWf9eEIN84Y
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Bjarr
   clan: Pelerom
   aliases: []
-id: k7q33nHXUCmbrB3b
-packFolder: fffclergy
 shortcode: bjarrpelerom
 type: being
-social:
-  occupation: Runemaster
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff6081tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Missing his right arm below the elbow
       - Moustache
       - beard
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: k7q33nHXUCmbrB3b
+  packFolder: fffclergy
+  social:
+    occupation: Runemaster
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

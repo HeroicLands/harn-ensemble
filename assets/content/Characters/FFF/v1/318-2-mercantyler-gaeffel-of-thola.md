@@ -7,19 +7,8 @@ name:
   given: Gaeffel
   clan: Thola
   aliases: []
-id: GG4L9Xd23Q5kFfeY
-packFolder: fffguilded
 shortcode: gaeffelofthola
 type: being
-social:
-  occupation: Mercantyler
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3182tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: GG4L9Xd23Q5kFfeY
+  packFolder: fffguilded
+  social:
+    occupation: Mercantyler
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

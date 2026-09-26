@@ -7,18 +7,8 @@ name:
   given: Jere
   clan: Baroos
   aliases: []
-id: 5R4UQ00cZrOpFMR6
-packFolder: extrasguilded
 shortcode: jereofbaroos
 type: being
-social:
-  occupation: Locksmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5R4UQ00cZrOpFMR6
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

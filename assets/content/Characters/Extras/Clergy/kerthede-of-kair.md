@@ -7,19 +7,8 @@ name:
   given: Kerthede
   clan: Kair
   aliases: []
-id: StsxsZodiBiMRdeD
-packFolder: extrasclergy
 shortcode: kerthedeofkair
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: StsxsZodiBiMRdeD
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Hennigal
   clan: Charcaras
   aliases: []
-id: B25ULSZDwhmZ0ouG
-packFolder: extrasclergy
 shortcode: hennigalofcharcaras
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: B25ULSZDwhmZ0ouG
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Andersis
   clan: Symdal
   aliases: []
-id: v1ajhAFCgGF5fzl3
-packFolder: extrasguilded
 shortcode: andersisofsymdal
 type: being
-social:
-  occupation: Harper/Skald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: v1ajhAFCgGF5fzl3
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

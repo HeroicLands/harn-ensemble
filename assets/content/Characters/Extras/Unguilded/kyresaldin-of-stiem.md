@@ -7,18 +7,8 @@ name:
   given: Kyresaldin
   clan: Stiem
   aliases: []
-id: dFRbmOlgDI6djvb6
-packFolder: extrasunguilded
 shortcode: kyresaldinofstiem
 type: being
-social:
-  occupation: Fisherman
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dFRbmOlgDI6djvb6
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

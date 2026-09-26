@@ -7,18 +7,8 @@ name:
   given: Pelime
   clan: Sarin
   aliases: []
-id: rWn0F97XinedYglw
-packFolder: extrasserfs
 shortcode: pelimeofsarin
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rWn0F97XinedYglw
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

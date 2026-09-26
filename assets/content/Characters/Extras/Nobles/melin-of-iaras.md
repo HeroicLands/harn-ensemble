@@ -7,18 +7,8 @@ name:
   given: Melin
   clan: Iaras
   aliases: []
-id: wjZqxugArDsTdgcD
-packFolder: extrasnobles
 shortcode: melinofiaras
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wjZqxugArDsTdgcD
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

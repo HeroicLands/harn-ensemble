@@ -7,18 +7,8 @@ name:
   given: Lusilina
   clan: Durnwak
   aliases: []
-id: uLRsfMf8WHh6hxT8
-packFolder: extrasnobles
 shortcode: lusilinaofdurnwak
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uLRsfMf8WHh6hxT8
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

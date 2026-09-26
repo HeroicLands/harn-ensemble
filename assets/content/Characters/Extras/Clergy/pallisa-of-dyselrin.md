@@ -7,19 +7,8 @@ name:
   given: Pallisa
   clan: Dyselrin
   aliases: []
-id: FIsWSwzlbCK0bjzC
-packFolder: extrasclergy
 shortcode: pallisaofdyselrin
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: FIsWSwzlbCK0bjzC
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

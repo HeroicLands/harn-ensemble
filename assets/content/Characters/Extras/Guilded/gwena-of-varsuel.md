@@ -7,18 +7,8 @@ name:
   given: Gwena
   clan: Varsuel
   aliases: []
-id: PcvyoUZwa0MP5xTP
-packFolder: extrasguilded
 shortcode: gwenaofvarsuel
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PcvyoUZwa0MP5xTP
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

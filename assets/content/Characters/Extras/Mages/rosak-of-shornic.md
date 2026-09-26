@@ -7,18 +7,8 @@ name:
   given: Rosak
   clan: Shornic
   aliases: []
-id: LzLc04trthkZh8lp
-packFolder: extrasmages
 shortcode: rosakofshornic
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi*****"
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LzLc04trthkZh8lp
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi*****"
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

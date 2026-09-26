@@ -7,18 +7,8 @@ name:
   given: Sorol
   clan: Obelon
   aliases: []
-id: vss1P51dpUdOvzbR
-packFolder: extrasserfs
 shortcode: sorolofobelon
 type: being
-social:
-  occupation: Farmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vss1P51dpUdOvzbR
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

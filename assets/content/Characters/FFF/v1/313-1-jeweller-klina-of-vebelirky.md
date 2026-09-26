@@ -7,19 +7,8 @@ name:
   given: Klina
   clan: Vebelirky
   aliases: []
-id: t4zG9cK9yT1qVGI5
-packFolder: fffguilded
 shortcode: klinaofvebelirky
 type: being
-social:
-  occupation: Jeweller
-  class: freeman
-  society: imperial
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3131tok
   templatePriority: 1
@@ -40,6 +29,17 @@ data:
       - cats
       - Beard
       - moustache
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: t4zG9cK9yT1qVGI5
+  packFolder: fffguilded
+  social:
+    occupation: Jeweller
+    class: freeman
+    society: imperial
+    organizations: []
 hm3:
   type: character
   attributes:

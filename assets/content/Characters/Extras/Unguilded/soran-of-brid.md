@@ -7,18 +7,8 @@ name:
   given: Soran
   clan: Brid
   aliases: []
-id: MGq6a9AV72fEh2Hm
-packFolder: extrasunguilded
 shortcode: soranofbrid
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MGq6a9AV72fEh2Hm
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

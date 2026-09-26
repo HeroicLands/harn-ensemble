@@ -7,18 +7,8 @@ name:
   given: Forena
   clan: Varos
   aliases: []
-id: 14Ra5OjXkKStMXo3
-packFolder: extrasnobles
 shortcode: forenaofvaros
 type: being
-social:
-  occupation: Baliff
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 14Ra5OjXkKStMXo3
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

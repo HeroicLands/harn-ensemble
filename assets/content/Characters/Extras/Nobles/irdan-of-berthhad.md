@@ -7,18 +7,8 @@ name:
   given: Irdan
   clan: Berthhad
   aliases: []
-id: 73p16XTqTeBwTnrq
-packFolder: extrasnobles
 shortcode: irdanofberthhad
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 73p16XTqTeBwTnrq
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Sarin
   clan: Kotrel
   aliases: []
-id: 2XLXoU2UE5OzW4jZ
-packFolder: extrasguilded
 shortcode: sarinofkotrel
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2XLXoU2UE5OzW4jZ
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

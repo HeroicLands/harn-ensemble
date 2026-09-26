@@ -7,18 +7,8 @@ name:
   given: Chima
   clan: Ibin
   aliases: []
-id: Wc0RcAtxnKWoOOG6
-packFolder: extrasguilded
 shortcode: chimaofibin
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Wc0RcAtxnKWoOOG6
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

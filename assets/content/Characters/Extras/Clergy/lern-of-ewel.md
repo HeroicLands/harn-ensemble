@@ -7,19 +7,8 @@ name:
   given: Lern
   clan: Ewel
   aliases: []
-id: ehFPs7Cd4tI5EDs5
-packFolder: extrasclergy
 shortcode: lernofewel
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: ehFPs7Cd4tI5EDs5
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

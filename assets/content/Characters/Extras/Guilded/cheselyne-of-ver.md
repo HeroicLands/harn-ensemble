@@ -7,18 +7,8 @@ name:
   given: Cheselyne
   clan: Ver
   aliases: []
-id: D2OtulC9Wpdhropi
-packFolder: extrasguilded
 shortcode: cheselyneofver
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: D2OtulC9Wpdhropi
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

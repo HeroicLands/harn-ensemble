@@ -7,19 +7,8 @@ name:
   given: Fryda
   clan: Patren
   aliases: []
-id: AVp3IgYnn7JRsyGB
-packFolder: extrasclergy
 shortcode: frydaofpatren
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: AVp3IgYnn7JRsyGB
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

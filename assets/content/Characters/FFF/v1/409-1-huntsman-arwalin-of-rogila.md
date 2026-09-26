@@ -7,19 +7,8 @@ name:
   given: Arwalin
   clan: Rogila
   aliases: []
-id: q57uLJi7Vt34DjOC
-packFolder: fffunguilded
 shortcode: arwalinofrogila
 type: being
-social:
-  occupation: Huntsman
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4091tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: q57uLJi7Vt34DjOC
+  packFolder: fffunguilded
+  social:
+    occupation: Huntsman
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

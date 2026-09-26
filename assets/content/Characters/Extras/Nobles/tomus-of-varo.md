@@ -7,18 +7,8 @@ name:
   given: Tomus
   clan: Varo
   aliases: []
-id: pEk2shciB9E1W8n6
-packFolder: extrasnobles
 shortcode: tomusofvaro
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pEk2shciB9E1W8n6
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

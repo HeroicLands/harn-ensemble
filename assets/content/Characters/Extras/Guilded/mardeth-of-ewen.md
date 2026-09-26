@@ -7,18 +7,8 @@ name:
   given: Mardeth
   clan: Ewen
   aliases: []
-id: IPNYnIfLYXua6fR1
-packFolder: extrasguilded
 shortcode: mardethofewen
 type: being
-social:
-  occupation: Tentmaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IPNYnIfLYXua6fR1
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

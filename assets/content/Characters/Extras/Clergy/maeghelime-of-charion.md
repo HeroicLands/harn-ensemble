@@ -7,19 +7,8 @@ name:
   given: Maeghelime
   clan: Charion
   aliases: []
-id: e2Jou9sP2MkRZkUj
-packFolder: extrasclergy
 shortcode: maeghelimeofcharion
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: e2Jou9sP2MkRZkUj
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

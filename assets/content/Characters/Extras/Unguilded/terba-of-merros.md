@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Merros
   aliases: []
-id: WXse7loX1Y4aJc4N
-packFolder: extrasunguilded
 shortcode: terbaofmerros
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WXse7loX1Y4aJc4N
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

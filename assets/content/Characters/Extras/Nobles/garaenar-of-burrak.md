@@ -7,18 +7,8 @@ name:
   given: Garaenar
   clan: Burrak
   aliases: []
-id: HOaI9dN8aemdq1RN
-packFolder: extrasnobles
 shortcode: garaenarofburrak
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HOaI9dN8aemdq1RN
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Merery
   clan: Roll
   aliases: []
-id: LPP4EsQS9lqZvGor
-packFolder: extrasunguilded
 shortcode: mereryofroll
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LPP4EsQS9lqZvGor
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

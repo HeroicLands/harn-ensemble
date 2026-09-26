@@ -7,19 +7,8 @@ name:
   given: Uvien
   clan: Sidethaen
   aliases: []
-id: cI5GIWEg3ztZ2fpp
-packFolder: extrasclergy
 shortcode: uvienofsidethaen
 type: being
-social:
-  occupation: Cleric/Siem
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: cI5GIWEg3ztZ2fpp
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

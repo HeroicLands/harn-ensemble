@@ -7,18 +7,8 @@ name:
   given: Urlidol
   clan: Siven
   aliases: []
-id: MnjLY4gX4fHzJqLd
-packFolder: extrasunguilded
 shortcode: urlidolofsiven
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MnjLY4gX4fHzJqLd
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

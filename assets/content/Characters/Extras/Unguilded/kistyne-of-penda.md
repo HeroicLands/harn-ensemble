@@ -7,19 +7,8 @@ name:
   given: Kistyne
   clan: Penda
   aliases: []
-id: EieN4BXIkxE43zWT
-packFolder: extrasunguilded
 shortcode: kistyneofpenda
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: EieN4BXIkxE43zWT
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

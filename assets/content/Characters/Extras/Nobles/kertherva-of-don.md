@@ -7,18 +7,8 @@ name:
   given: Kertherva
   clan: Don
   aliases: []
-id: nVNOptzHVh6mMFwA
-packFolder: extrasnobles
 shortcode: kerthervaofdon
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nVNOptzHVh6mMFwA
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

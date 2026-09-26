@@ -7,19 +7,8 @@ name:
   given: Jorg
   clan: Beitis
   aliases: []
-id: xCn0clbStVq5JJZh
-packFolder: fffguilded
 shortcode: jorgbeitis
 type: being
-social:
-  occupation: Weaponcrafter
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff3341tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
       - Burn scars on his left hand
       - a limp
       - Carry a long narrow package
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: xCn0clbStVq5JJZh
+  packFolder: fffguilded
+  social:
+    occupation: Weaponcrafter
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

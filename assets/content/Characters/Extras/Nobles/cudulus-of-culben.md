@@ -7,18 +7,8 @@ name:
   given: Cudulus
   clan: Culben
   aliases: []
-id: NM6TXsyS6SZu4KIG
-packFolder: extrasnobles
 shortcode: cudulusofculben
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NM6TXsyS6SZu4KIG
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

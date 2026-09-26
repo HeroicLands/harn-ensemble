@@ -7,18 +7,8 @@ name:
   given: Ters
   clan: Veris
   aliases: []
-id: POU1H91z3t4jL5u6
-packFolder: extrasunguilded
 shortcode: tersofveris
 type: being
-social:
-  occupation: Cook/Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: POU1H91z3t4jL5u6
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

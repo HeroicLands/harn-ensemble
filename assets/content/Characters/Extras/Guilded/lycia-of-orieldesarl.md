@@ -7,18 +7,8 @@ name:
   given: Lycia
   clan: Orieldesarl
   aliases: []
-id: SLkz73mYnt047IJw
-packFolder: extrasguilded
 shortcode: lyciaoforieldesarl
 type: being
-social:
-  occupation: Weaponcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SLkz73mYnt047IJw
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

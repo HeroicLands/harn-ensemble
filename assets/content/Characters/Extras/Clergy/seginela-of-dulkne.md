@@ -7,19 +7,8 @@ name:
   given: Seginela
   clan: Dulkne
   aliases: []
-id: ssfASX755rH4yEtL
-packFolder: extrasclergy
 shortcode: seginelaofdulkne
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: ssfASX755rH4yEtL
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

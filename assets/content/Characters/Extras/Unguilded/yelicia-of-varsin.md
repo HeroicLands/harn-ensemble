@@ -7,18 +7,8 @@ name:
   given: Yelicia
   clan: Varsin
   aliases: []
-id: Z4iBxrNmZbnDb4nE
-packFolder: extrasunguilded
 shortcode: yeliciaofvarsin
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Z4iBxrNmZbnDb4nE
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

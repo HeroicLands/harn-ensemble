@@ -7,19 +7,8 @@ name:
   given: Dorane
   clan: Ardrass
   aliases: []
-id: vaYqCKP87vICQ5MI
-packFolder: extrasclergy
 shortcode: doraneofardrass
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: vaYqCKP87vICQ5MI
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

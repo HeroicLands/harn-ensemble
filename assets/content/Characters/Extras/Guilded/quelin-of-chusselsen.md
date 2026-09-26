@@ -7,18 +7,8 @@ name:
   given: Quelin
   clan: Chusselsen
   aliases: []
-id: J2wyTGkwOKfuTLMJ
-packFolder: extrasguilded
 shortcode: quelinofchusselsen
 type: being
-social:
-  occupation: Alchemist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: J2wyTGkwOKfuTLMJ
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Gwenien
   clan: Mykanth
   aliases: []
-id: DiWAyyJl6ZRsDzjQ
-packFolder: extrasguilded
 shortcode: gwenienofmykanth
 type: being
-social:
-  occupation: Potter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DiWAyyJl6ZRsDzjQ
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

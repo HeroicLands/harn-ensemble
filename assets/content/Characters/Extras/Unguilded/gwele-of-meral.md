@@ -7,18 +7,8 @@ name:
   given: Gwele
   clan: Meral
   aliases: []
-id: vAKeXMBkqVJRjwEM
-packFolder: extrasunguilded
 shortcode: gweleofmeral
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vAKeXMBkqVJRjwEM
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

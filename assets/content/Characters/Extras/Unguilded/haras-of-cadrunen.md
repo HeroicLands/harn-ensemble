@@ -7,18 +7,8 @@ name:
   given: Haras
   clan: Cadrunen
   aliases: []
-id: yQs7W8gvx3tyCc6j
-packFolder: extrasunguilded
 shortcode: harasofcadrunen
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yQs7W8gvx3tyCc6j
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Aera
   clan: Armelvoen
   aliases: []
-id: R6g9IOdcJhDeqoU6
-packFolder: extrasguards
 shortcode: aeraofarmelvoen
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: R6g9IOdcJhDeqoU6
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

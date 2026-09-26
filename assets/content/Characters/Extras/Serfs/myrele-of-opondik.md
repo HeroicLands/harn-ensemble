@@ -7,18 +7,8 @@ name:
   given: Myrele
   clan: Opondik
   aliases: []
-id: jDdHrTJnGuolb5RA
-packFolder: extrasserfs
 shortcode: myreleofopondik
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jDdHrTJnGuolb5RA
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Gwyn
   clan: Polruan
   aliases: []
-id: tCS1ybQdOAdXw8qP
-packFolder: fffmilitary
 shortcode: gwynofpolruan
 type: being
-social:
-  occupation: Yeoman (LF)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff1272tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: tCS1ybQdOAdXw8qP
+  packFolder: fffmilitary
+  social:
+    occupation: Yeoman (LF)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

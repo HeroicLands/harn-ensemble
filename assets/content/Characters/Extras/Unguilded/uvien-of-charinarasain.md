@@ -7,18 +7,8 @@ name:
   given: Uvien
   clan: Charinarasain
   aliases: []
-id: sPxqIaLWBpFHXYIR
-packFolder: extrasunguilded
 shortcode: uvienofcharinarasain
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sPxqIaLWBpFHXYIR
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

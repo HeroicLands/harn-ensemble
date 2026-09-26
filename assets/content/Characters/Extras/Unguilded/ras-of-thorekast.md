@@ -7,18 +7,8 @@ name:
   given: Ras
   clan: Thorekast
   aliases: []
-id: SfwRMnJug4Fy5LYe
-packFolder: extrasunguilded
 shortcode: rasofthorekast
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SfwRMnJug4Fy5LYe
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Fere
   clan: Falesh
   aliases: []
-id: ZVtKXJbAsYq2MZjr
-packFolder: extrasunguilded
 shortcode: fereoffalesh
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZVtKXJbAsYq2MZjr
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

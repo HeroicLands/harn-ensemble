@@ -7,18 +7,8 @@ name:
   given: Sta
   clan: Partus
   aliases: []
-id: XLVRZwALJc4xgDWj
-packFolder: extrasguilded
 shortcode: staofpartus
 type: being
-social:
-  occupation: Timberwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XLVRZwALJc4xgDWj
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

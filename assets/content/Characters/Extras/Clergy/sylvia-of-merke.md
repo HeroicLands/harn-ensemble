@@ -7,19 +7,8 @@ name:
   given: Sylvia
   clan: Merke
   aliases: []
-id: X7AK6k1DHx5Q9HVL
-packFolder: extrasclergy
 shortcode: sylviaofmerke
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: X7AK6k1DHx5Q9HVL
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Yigarigaralyn
   clan: Gwena
   aliases: []
-id: X7MNuUxZtnGI1fOy
-packFolder: extrasunguilded
 shortcode: yigarigaralynofgwena
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: X7MNuUxZtnGI1fOy
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

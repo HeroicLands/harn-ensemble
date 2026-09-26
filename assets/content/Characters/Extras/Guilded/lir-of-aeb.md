@@ -7,18 +7,8 @@ name:
   given: Lir
   clan: Aeb
   aliases: []
-id: KjYDv5yNdGLNPcpf
-packFolder: extrasguilded
 shortcode: lirofaeb
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KjYDv5yNdGLNPcpf
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Eamon
   clan: Gwyffidd
   aliases: []
-id: EbULUgSqrh8W8c7X
-packFolder: extrasclergy
 shortcode: eamonofgwyffidd
 type: being
-social:
-  occupation: Cleric/Larani
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: EbULUgSqrh8W8c7X
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

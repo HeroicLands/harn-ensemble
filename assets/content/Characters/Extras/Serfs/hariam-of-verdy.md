@@ -7,18 +7,8 @@ name:
   given: Hariam
   clan: Verdy
   aliases: []
-id: W10efbf2oOFs4TRm
-packFolder: extrasserfs
 shortcode: hariamofverdy
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: W10efbf2oOFs4TRm
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

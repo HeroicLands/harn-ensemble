@@ -7,18 +7,8 @@ name:
   given: Jendra
   clan: Aets
   aliases: []
-id: 2rq1c38ruOhHPA6y
-packFolder: extrasguilded
 shortcode: jendraofaets
 type: being
-social:
-  occupation: Salter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2rq1c38ruOhHPA6y
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

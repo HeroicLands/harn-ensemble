@@ -7,20 +7,8 @@ name:
   given: Finbar
   clan: Erons
   aliases: []
-id: gs7OGJYJuhURyJOU
-packFolder: fffunguilded
 shortcode: finbaroferons
 type: being
-social:
-  occupation: Forester
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
-    - halea
 data:
   icon: fff4092tok
   templatePriority: 1
@@ -37,6 +25,18 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+      - halea
+  id: gs7OGJYJuhURyJOU
+  packFolder: fffunguilded
+  social:
+    occupation: Forester
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

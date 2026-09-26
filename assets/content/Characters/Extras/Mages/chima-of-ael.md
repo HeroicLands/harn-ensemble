@@ -7,18 +7,8 @@ name:
   given: Chima
   clan: Ael
   aliases: []
-id: IGGSh5n56U88s0Jl
-packFolder: extrasmages
 shortcode: chimaofael
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IGGSh5n56U88s0Jl
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Satris
   clan: Tar
   aliases: []
-id: YCKiFhtPo0nEiSbz
-packFolder: extrasunguilded
 shortcode: satrisoftar
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YCKiFhtPo0nEiSbz
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

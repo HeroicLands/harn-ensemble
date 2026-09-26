@@ -7,18 +7,8 @@ name:
   given: Makan
   clan: Asar
   aliases: []
-id: S341gsYcDhixWT7n
-packFolder: extrasguilded
 shortcode: makanofasar
 type: being
-social:
-  occupation: Potter
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: S341gsYcDhixWT7n
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

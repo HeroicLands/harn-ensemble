@@ -7,18 +7,8 @@ name:
   given: Werelen
   clan: Tobilon
   aliases: []
-id: w1eslNfiXCSRucS5
-packFolder: extrasunguilded
 shortcode: werelenoftobilon
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: w1eslNfiXCSRucS5
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

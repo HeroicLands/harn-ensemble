@@ -7,18 +7,8 @@ name:
   given: Uviene
   clan: Sin
   aliases: []
-id: uPOXX9fNKQmndsap
-packFolder: extrasguilded
 shortcode: uvieneofsin
 type: being
-social:
-  occupation: Apothecary
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uPOXX9fNKQmndsap
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

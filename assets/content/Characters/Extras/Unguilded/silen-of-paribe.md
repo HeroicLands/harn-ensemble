@@ -7,18 +7,8 @@ name:
   given: Silen
   clan: Paribe
   aliases: []
-id: sTazOcbwr4V7llMq
-packFolder: extrasunguilded
 shortcode: silenofparibe
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sTazOcbwr4V7llMq
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

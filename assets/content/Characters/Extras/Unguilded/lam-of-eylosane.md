@@ -7,18 +7,8 @@ name:
   given: Lam
   clan: Eylosane
   aliases: []
-id: 3HPnjwzNg3j2cASa
-packFolder: extrasunguilded
 shortcode: lamofeylosane
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3HPnjwzNg3j2cASa
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

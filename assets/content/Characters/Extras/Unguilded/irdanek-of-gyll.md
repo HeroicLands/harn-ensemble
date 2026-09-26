@@ -7,18 +7,8 @@ name:
   given: Irdanek
   clan: Gyll
   aliases: []
-id: o0TjrpJIwiUEGUIy
-packFolder: extrasunguilded
 shortcode: irdanekofgyll
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: o0TjrpJIwiUEGUIy
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

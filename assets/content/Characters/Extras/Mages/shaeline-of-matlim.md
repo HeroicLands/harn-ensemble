@@ -7,18 +7,8 @@ name:
   given: Shaeline
   clan: Matlim
   aliases: []
-id: pkX4W8xUFzrKTe9W
-packFolder: extrasmages
 shortcode: shaelineofmatlim
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pkX4W8xUFzrKTe9W
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

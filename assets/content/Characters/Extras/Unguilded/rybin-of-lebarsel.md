@@ -7,18 +7,8 @@ name:
   given: Rybin
   clan: Lebarsel
   aliases: []
-id: KqAlbETjIBCiKMkH
-packFolder: extrasunguilded
 shortcode: rybinoflebarsel
 type: being
-social:
-  occupation: Sage/Tutor
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KqAlbETjIBCiKMkH
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

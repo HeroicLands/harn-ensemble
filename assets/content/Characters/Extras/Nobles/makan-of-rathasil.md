@@ -7,18 +7,8 @@ name:
   given: Makan
   clan: Rathasil
   aliases: []
-id: KZ7IyswtumPbQitS
-packFolder: extrasnobles
 shortcode: makanofrathasil
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KZ7IyswtumPbQitS
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

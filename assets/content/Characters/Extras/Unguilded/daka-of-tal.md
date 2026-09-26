@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Tal
   aliases: []
-id: TFpZmzsyx4J3TWKQ
-packFolder: extrasunguilded
 shortcode: dakaoftal
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TFpZmzsyx4J3TWKQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

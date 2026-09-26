@@ -7,18 +7,8 @@ name:
   given: Angol
   clan: Buritta
   aliases: []
-id: BoUl7sW8Metk48Vx
-packFolder: extrasunguilded
 shortcode: angolofburitta
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BoUl7sW8Metk48Vx
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

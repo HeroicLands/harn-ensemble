@@ -7,18 +7,8 @@ name:
   given: Lycia
   clan: Dulkne
   aliases: []
-id: s6IWtVynMRJwi9mM
-packFolder: extrasguilded
 shortcode: lyciaofdulkne
 type: being
-social:
-  occupation: Charcoaler
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: s6IWtVynMRJwi9mM
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

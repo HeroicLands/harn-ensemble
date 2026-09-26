@@ -7,18 +7,8 @@ name:
   given: Gral
   clan: Rikarion
   aliases: []
-id: X9zEaOVeLyU7qAba
-packFolder: extrasguilded
 shortcode: gralofrikarion
 type: being
-social:
-  occupation: Physician
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: X9zEaOVeLyU7qAba
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

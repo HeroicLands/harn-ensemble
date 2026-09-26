@@ -7,18 +7,8 @@ name:
   given: Querenela
   clan: Rystelesh
   aliases: []
-id: xB65DpyyvceUCvTg
-packFolder: extrasunguilded
 shortcode: querenelaofrystelesh
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xB65DpyyvceUCvTg
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

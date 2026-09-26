@@ -7,18 +7,8 @@ name:
   given: Pallis
   clan: Iribor
   aliases: []
-id: KtG02LilAS3YDDQ6
-packFolder: extrasunguilded
 shortcode: pallisofiribor
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KtG02LilAS3YDDQ6
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

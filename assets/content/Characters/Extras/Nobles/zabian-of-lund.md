@@ -7,18 +7,8 @@ name:
   given: Zabian
   clan: Lund
   aliases: []
-id: 4eGgTwqnMQ5zd1q2
-packFolder: extrasnobles
 shortcode: zabianoflund
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4eGgTwqnMQ5zd1q2
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

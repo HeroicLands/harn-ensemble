@@ -7,18 +7,8 @@ name:
   given: Merbesalareen
   clan: Cybelliss
   aliases: []
-id: xbtdpJODXafTeE4j
-packFolder: extrasserfs
 shortcode: merbesalareenofcybelliss
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xbtdpJODXafTeE4j
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

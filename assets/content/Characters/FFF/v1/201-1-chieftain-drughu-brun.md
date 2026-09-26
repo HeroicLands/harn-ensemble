@@ -7,19 +7,8 @@ name:
   given: Brun
   clan: ""
   aliases: []
-id: B3o2Cu05ziblcSXY
-packFolder: fffbarbarians
 shortcode: brun
 type: being
-social:
-  occupation: Chieftain
-  class: tribesman
-  society: tribal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - yavanna
 data:
   icon: fff2011tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Parasites (Fleas)
       - Several large tattoos
+  harnworld:
+    realm: ""
+    ritual:
+      - yavanna
+  id: B3o2Cu05ziblcSXY
+  packFolder: fffbarbarians
+  social:
+    occupation: Chieftain
+    class: tribesman
+    society: tribal
+    organizations: []
 hm3:
   type: character
   attributes:

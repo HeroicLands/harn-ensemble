@@ -7,19 +7,8 @@ name:
   given: Lanazir
   clan: Onparsel
   aliases: []
-id: 2y6eZOStzMA2tJT6
-packFolder: extrasclergy
 shortcode: lanazirofonparsel
 type: being
-social:
-  occupation: Cleric/Larani
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 2y6eZOStzMA2tJT6
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

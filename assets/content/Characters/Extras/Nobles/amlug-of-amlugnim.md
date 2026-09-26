@@ -7,18 +7,8 @@ name:
   given: Amlug
   clan: Amlugnim
   aliases: []
-id: L7ayRuxUNz7tdW9A
-packFolder: extrasnobles
 shortcode: amlugofamlugnim
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: L7ayRuxUNz7tdW9A
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Hel
   clan: Kar
   aliases: []
-id: U3tCzLG74QJ5MsKe
-packFolder: extrasnobles
 shortcode: helofkar
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: U3tCzLG74QJ5MsKe
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

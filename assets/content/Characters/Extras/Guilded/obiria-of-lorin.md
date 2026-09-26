@@ -7,18 +7,8 @@ name:
   given: Obiria
   clan: Lorin
   aliases: []
-id: MgctVN3M9WIpmzrZ
-packFolder: extrasguilded
 shortcode: obiriaoflorin
 type: being
-social:
-  occupation: Perfumer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MgctVN3M9WIpmzrZ
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

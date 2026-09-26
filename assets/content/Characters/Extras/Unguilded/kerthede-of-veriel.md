@@ -7,19 +7,8 @@ name:
   given: Kerthede
   clan: Veriel
   aliases: []
-id: StlcishYppLdjcFu
-packFolder: extrasunguilded
 shortcode: kerthedeofveriel
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: StlcishYppLdjcFu
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

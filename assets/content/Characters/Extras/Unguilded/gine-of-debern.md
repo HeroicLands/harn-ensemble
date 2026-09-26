@@ -7,18 +7,8 @@ name:
   given: Gine
   clan: Debern
   aliases: []
-id: eVZckYuDWkt9eUq4
-packFolder: extrasunguilded
 shortcode: gineofdebern
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eVZckYuDWkt9eUq4
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

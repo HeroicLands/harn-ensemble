@@ -7,18 +7,8 @@ name:
   given: Shemlen
   clan: Kater
   aliases: []
-id: tSj9wCuW9HbxIiuL
-packFolder: extrasguilded
 shortcode: shemlenofkater
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tSj9wCuW9HbxIiuL
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

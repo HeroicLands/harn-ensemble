@@ -7,19 +7,8 @@ name:
   given: Kesyn
   clan: Sosora
   aliases: []
-id: GzazT6WHbyyFvfap
-packFolder: extrasclergy
 shortcode: kesynofsosora
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: GzazT6WHbyyFvfap
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

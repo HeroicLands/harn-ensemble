@@ -7,18 +7,8 @@ name:
   given: Yaelime
   clan: Sten
   aliases: []
-id: AYRTTXcu6EQXTLdk
-packFolder: extrasserfs
 shortcode: yaelimeofsten
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AYRTTXcu6EQXTLdk
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

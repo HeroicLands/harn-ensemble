@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Magnol
   aliases: []
-id: AzwV5g2EZmGcJxH4
-packFolder: extrasguilded
 shortcode: sylviaofmagnol
 type: being
-social:
-  occupation: Alchemist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AzwV5g2EZmGcJxH4
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

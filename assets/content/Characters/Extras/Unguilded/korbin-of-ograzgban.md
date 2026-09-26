@@ -7,18 +7,8 @@ name:
   given: Korbin
   clan: Ograzgban
   aliases: []
-id: OF2r8P81Iq3Paa5p
-packFolder: extrasunguilded
 shortcode: korbinofograzgban
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OF2r8P81Iq3Paa5p
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

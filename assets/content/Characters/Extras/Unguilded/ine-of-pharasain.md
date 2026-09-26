@@ -7,18 +7,8 @@ name:
   given: Ine
   clan: Pharasain
   aliases: []
-id: B9VZE1c9QMXHSoxZ
-packFolder: extrasunguilded
 shortcode: ineofpharasain
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: B9VZE1c9QMXHSoxZ
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Herala
   clan: Drel
   aliases: []
-id: xP9wPyjrCImM7S5L
-packFolder: extrasguilded
 shortcode: heralaofdrel
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xP9wPyjrCImM7S5L
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

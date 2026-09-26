@@ -7,18 +7,8 @@ name:
   given: Kaldis
   clan: Partuna
   aliases: []
-id: hdDbNA9hFqivJoEM
-packFolder: extrasserfs
 shortcode: kaldisofpartuna
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hdDbNA9hFqivJoEM
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

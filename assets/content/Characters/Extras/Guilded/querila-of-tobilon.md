@@ -7,18 +7,8 @@ name:
   given: Querila
   clan: Tobilon
   aliases: []
-id: Mk9AVoXAniGl7LpV
-packFolder: extrasguilded
 shortcode: querilaoftobilon
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Mk9AVoXAniGl7LpV
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

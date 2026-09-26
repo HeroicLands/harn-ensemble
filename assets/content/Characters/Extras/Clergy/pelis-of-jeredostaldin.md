@@ -7,19 +7,8 @@ name:
   given: Pelis
   clan: Jeredostaldin
   aliases: []
-id: W5F4jCAv4WicdBNG
-packFolder: extrasclergy
 shortcode: pelisofjeredostaldin
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: W5F4jCAv4WicdBNG
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

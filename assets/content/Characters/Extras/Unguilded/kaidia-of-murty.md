@@ -7,18 +7,8 @@ name:
   given: Kaidia
   clan: Murty
   aliases: []
-id: LOrkfledfiSDYFHz
-packFolder: extrasunguilded
 shortcode: kaidiaofmurty
 type: being
-social:
-  occupation: Fisherman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LOrkfledfiSDYFHz
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

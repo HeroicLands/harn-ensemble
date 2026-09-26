@@ -7,18 +7,8 @@ name:
   given: Gwena
   clan: Geldis
   aliases: []
-id: 011wYmgtE2WxY6Hk
-packFolder: extrasguilded
 shortcode: gwenaofgeldis
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 011wYmgtE2WxY6Hk
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

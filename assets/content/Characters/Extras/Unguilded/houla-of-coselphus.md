@@ -7,18 +7,8 @@ name:
   given: Houla
   clan: Coselphus
   aliases: []
-id: i2gSoz06gUaAcUuj
-packFolder: extrasunguilded
 shortcode: houlaofcoselphus
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: i2gSoz06gUaAcUuj
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Amari
   clan: Thesson
   aliases: []
-id: kkcD7Aq5akr7KCez
-packFolder: extrasguilded
 shortcode: amarithesson
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kkcD7Aq5akr7KCez
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

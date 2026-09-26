@@ -7,18 +7,8 @@ name:
   given: Kelen
   clan: Artuna
   aliases: []
-id: YQHrhH126BF6vQtt
-packFolder: extrasserfs
 shortcode: kelenofartuna
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YQHrhH126BF6vQtt
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

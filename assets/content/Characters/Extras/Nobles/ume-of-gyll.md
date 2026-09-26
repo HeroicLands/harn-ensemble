@@ -7,18 +7,8 @@ name:
   given: Ume
   clan: Gyll
   aliases: []
-id: QVSwZVIjrzjN78xX
-packFolder: extrasnobles
 shortcode: umeofgyll
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QVSwZVIjrzjN78xX
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

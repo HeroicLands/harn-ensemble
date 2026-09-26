@@ -7,18 +7,8 @@ name:
   given: Nath
   clan: Yisgarael
   aliases: []
-id: pFc5joY8ZNaKF9EV
-packFolder: extrasguilded
 shortcode: nathofyisgarael
 type: being
-social:
-  occupation: Clothier
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pFc5joY8ZNaKF9EV
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

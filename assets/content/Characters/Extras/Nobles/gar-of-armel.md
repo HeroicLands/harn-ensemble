@@ -7,18 +7,8 @@ name:
   given: Gar
   clan: Armel
   aliases: []
-id: b8awmErD0zpXuvPZ
-packFolder: extrasnobles
 shortcode: garofarmel
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b8awmErD0zpXuvPZ
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

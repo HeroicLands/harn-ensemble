@@ -7,18 +7,8 @@ name:
   given: Meline
   clan: Chuzyn
   aliases: []
-id: j8qGLcVy5sscsdRA
-packFolder: extrasguilded
 shortcode: melineofchuzyn
 type: being
-social:
-  occupation: Innkeeper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: j8qGLcVy5sscsdRA
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

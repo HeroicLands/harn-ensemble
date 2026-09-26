@@ -7,18 +7,8 @@ name:
   given: Jarn
   clan: Trochi
   aliases: []
-id: UgM4Vm00EAQKnNSi
-packFolder: extrasnobles
 shortcode: jarnoftrochi
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UgM4Vm00EAQKnNSi
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Gwelen
   clan: Sel
   aliases: []
-id: g8jWUN0MpJGuZgMv
-packFolder: extrasclergy
 shortcode: gwelenofsel
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: g8jWUN0MpJGuZgMv
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

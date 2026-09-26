@@ -7,18 +7,8 @@ name:
   given: Karn
   clan: Karin
   aliases: []
-id: YozxfWp0XGKeQSeD
-packFolder: extrasunguilded
 shortcode: karnofkarin
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YozxfWp0XGKeQSeD
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

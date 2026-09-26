@@ -7,18 +7,8 @@ name:
   given: Ashain
   clan: Chorlon
   aliases: []
-id: fsSkgWLzPrysNeOm
-packFolder: extrasguilded
 shortcode: ashainofchorlon
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fsSkgWLzPrysNeOm
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

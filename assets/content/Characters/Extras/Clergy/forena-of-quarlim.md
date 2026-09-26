@@ -7,19 +7,8 @@ name:
   given: Forena
   clan: Quarlim
   aliases: []
-id: xej7JitWoJTZSJN6
-packFolder: extrasclergy
 shortcode: forenaofquarlim
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: xej7JitWoJTZSJN6
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

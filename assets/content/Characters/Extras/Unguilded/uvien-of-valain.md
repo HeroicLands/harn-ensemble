@@ -7,18 +7,8 @@ name:
   given: Uvien
   clan: Valain
   aliases: []
-id: 656WjwRBCwjRdNmz
-packFolder: extrasunguilded
 shortcode: uvienofvalain
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 656WjwRBCwjRdNmz
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

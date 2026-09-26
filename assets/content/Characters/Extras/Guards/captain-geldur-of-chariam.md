@@ -7,18 +7,8 @@ name:
   given: Geldur
   clan: Chariam
   aliases: []
-id: fa7Teq9QtJlzNLhG
-packFolder: extrasguards
 shortcode: captaingeldurofchariam
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fa7Teq9QtJlzNLhG
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

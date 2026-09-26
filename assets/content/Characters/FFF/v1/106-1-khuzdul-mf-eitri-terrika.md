@@ -7,19 +7,8 @@ name:
   given: Eitri
   clan: Terrika
   aliases: []
-id: m0mas15prhAdcHKM
-packFolder: fffmilitary
 shortcode: eitriterrika
 type: being
-social:
-  occupation: Clansman (MF)
-  class: freeman
-  society: khuzdul
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   icon: fff1061tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Moustache & beard
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: m0mas15prhAdcHKM
+  packFolder: fffmilitary
+  social:
+    occupation: Clansman (MF)
+    class: freeman
+    society: khuzdul
+    organizations: []
 hm3:
   type: character
   attributes:

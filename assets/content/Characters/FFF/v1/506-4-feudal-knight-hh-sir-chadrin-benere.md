@@ -7,19 +7,8 @@ name:
   given: Chadrin
   clan: Benere
   aliases: []
-id: TJDHmy9dazsUhB7b
-packFolder: fffnobles
 shortcode: sirchadrinbenere
 type: being
-social:
-  occupation: Knight Bachelor (HH)
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5064tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Often drinking or drunk
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: TJDHmy9dazsUhB7b
+  packFolder: fffnobles
+  social:
+    occupation: Knight Bachelor (HH)
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

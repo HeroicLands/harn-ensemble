@@ -7,18 +7,8 @@ name:
   given: Areen
   clan: Serien
   aliases: []
-id: eNeswL3AtVntzRot
-packFolder: extrasunguilded
 shortcode: areenofserien
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eNeswL3AtVntzRot
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

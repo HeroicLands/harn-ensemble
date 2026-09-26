@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Musbers
   aliases: []
-id: PQoOcGMDQc4y5qIa
-packFolder: extrasguilded
 shortcode: terzaofmusbers
 type: being
-social:
-  occupation: Mercantyler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PQoOcGMDQc4y5qIa
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

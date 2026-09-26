@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Kar
   aliases: []
-id: DGJuyAtCK4DQpcR8
-packFolder: extrasguilded
 shortcode: tolmeyofkar
 type: being
-social:
-  occupation: Woodcrafter
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DGJuyAtCK4DQpcR8
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Stuk
   aliases: []
-id: vIQZOf7LtvIMx3jm
-packFolder: extrasguilded
 shortcode: sylviaofstuk
 type: being
-social:
-  occupation: Seaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vIQZOf7LtvIMx3jm
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

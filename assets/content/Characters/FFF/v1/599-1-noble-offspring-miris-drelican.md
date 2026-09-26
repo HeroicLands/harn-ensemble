@@ -7,19 +7,8 @@ name:
   given: Miris
   clan: Drelican
   aliases: []
-id: f3ABHIZWjs5Fq7o6
-packFolder: fffnobles
 shortcode: mirisdrelican
 type: being
-social:
-  occupation: Noble Offspring
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5991tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Expensive
       - foppish clothes
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: f3ABHIZWjs5Fq7o6
+  packFolder: fffnobles
+  social:
+    occupation: Noble Offspring
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

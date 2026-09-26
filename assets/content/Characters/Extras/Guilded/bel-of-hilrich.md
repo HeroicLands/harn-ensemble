@@ -7,18 +7,8 @@ name:
   given: Bel
   clan: Hilrich
   aliases: []
-id: erI5MfLE7qLtvtEu
-packFolder: extrasguilded
 shortcode: belofhilrich
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: erI5MfLE7qLtvtEu
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

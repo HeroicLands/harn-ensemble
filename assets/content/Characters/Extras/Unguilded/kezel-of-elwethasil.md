@@ -7,19 +7,8 @@ name:
   given: Kezel
   clan: Elwethasil
   aliases: []
-id: sZwqC7rv13cpno6k
-packFolder: extrasunguilded
 shortcode: kezelofelwethasil
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: sZwqC7rv13cpno6k
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

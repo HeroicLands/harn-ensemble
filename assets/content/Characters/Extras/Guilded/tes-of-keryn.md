@@ -7,18 +7,8 @@ name:
   given: Tes
   clan: Keryn
   aliases: []
-id: DgTXQI1hu3wnsXjL
-packFolder: extrasguilded
 shortcode: tesofkeryn
 type: being
-social:
-  occupation: Mercantyler
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DgTXQI1hu3wnsXjL
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

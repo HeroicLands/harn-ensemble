@@ -7,18 +7,8 @@ name:
   given: Liriam
   clan: Sar
   aliases: []
-id: WdNMLA8z7dG038Gy
-packFolder: extrasunguilded
 shortcode: liriamofsar
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WdNMLA8z7dG038Gy
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

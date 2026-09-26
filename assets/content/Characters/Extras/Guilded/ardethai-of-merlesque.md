@@ -7,18 +7,8 @@ name:
   given: Ardethai
   clan: Merlesque
   aliases: []
-id: qGL9pOftY774BXYP
-packFolder: extrasguilded
 shortcode: ardethaiofmerlesque
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qGL9pOftY774BXYP
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

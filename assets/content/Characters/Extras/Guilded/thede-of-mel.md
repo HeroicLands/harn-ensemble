@@ -7,18 +7,8 @@ name:
   given: Thede
   clan: Mel
   aliases: []
-id: CYLCxEGzigXYqlwQ
-packFolder: extrasguilded
 shortcode: thedeofmel
 type: being
-social:
-  occupation: Clothier
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CYLCxEGzigXYqlwQ
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

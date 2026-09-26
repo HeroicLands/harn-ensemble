@@ -7,18 +7,8 @@ name:
   given: Har
   clan: Homslow
   aliases: []
-id: POlT5xZhMpk9fwNb
-packFolder: extrasguilded
 shortcode: harofhomslow
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: POlT5xZhMpk9fwNb
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

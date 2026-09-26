@@ -7,18 +7,8 @@ name:
   given: Milniq
   clan: Yisgaranoal
   aliases: []
-id: Khx4JOABdz7FH5xT
-packFolder: extrasunguilded
 shortcode: milniqofyisgaranoal
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Khx4JOABdz7FH5xT
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

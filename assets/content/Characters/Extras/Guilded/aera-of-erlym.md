@@ -7,18 +7,8 @@ name:
   given: Aera
   clan: Erlym
   aliases: []
-id: xWmNhoN1usSh2OVe
-packFolder: extrasguilded
 shortcode: aeraoferlym
 type: being
-social:
-  occupation: Pilot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xWmNhoN1usSh2OVe
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

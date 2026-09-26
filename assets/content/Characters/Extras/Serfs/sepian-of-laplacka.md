@@ -7,18 +7,8 @@ name:
   given: Sepian
   clan: Laplacka
   aliases: []
-id: z1VZl0zQ2dbP7sDa
-packFolder: extrasserfs
 shortcode: sepianoflaplacka
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: z1VZl0zQ2dbP7sDa
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

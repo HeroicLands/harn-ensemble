@@ -7,19 +7,8 @@ name:
   given: Artanar
   clan: Nalas
   aliases: []
-id: I0KXgGBzbsH784FH
-packFolder: fffnobles
 shortcode: artanarnalas
 type: being
-social:
-  occupation: Bailiff
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5011tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Persistent cough
       - Trembling hands
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: I0KXgGBzbsH784FH
+  packFolder: fffnobles
+  social:
+    occupation: Bailiff
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

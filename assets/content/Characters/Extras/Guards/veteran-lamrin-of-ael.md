@@ -7,18 +7,8 @@ name:
   given: Lamrin
   clan: Ael
   aliases: []
-id: 2PxFY54YrnXA2MAl
-packFolder: extrasguards
 shortcode: veteranlamrinofael
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2PxFY54YrnXA2MAl
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

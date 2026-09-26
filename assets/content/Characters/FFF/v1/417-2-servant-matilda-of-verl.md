@@ -7,19 +7,8 @@ name:
   given: Matilda
   clan: Verl
   aliases: []
-id: PGB2gBNjPVucIFKf
-packFolder: fffunguilded
 shortcode: matildaofverl
 type: being
-social:
-  occupation: Household Cook
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4172tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: PGB2gBNjPVucIFKf
+  packFolder: fffunguilded
+  social:
+    occupation: Household Cook
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

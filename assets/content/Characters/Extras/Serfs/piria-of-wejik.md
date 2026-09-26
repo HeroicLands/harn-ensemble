@@ -7,18 +7,8 @@ name:
   given: Piria
   clan: Wejik
   aliases: []
-id: uwEYHkuJz7PXT4dH
-packFolder: extrasserfs
 shortcode: piriaofwejik
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uwEYHkuJz7PXT4dH
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

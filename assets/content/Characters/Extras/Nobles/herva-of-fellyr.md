@@ -7,18 +7,8 @@ name:
   given: Herva
   clan: Fellyr
   aliases: []
-id: HUyozPBoqrFYT9CG
-packFolder: extrasnobles
 shortcode: hervaoffellyr
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HUyozPBoqrFYT9CG
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

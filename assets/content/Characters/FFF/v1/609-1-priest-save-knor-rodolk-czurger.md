@@ -7,22 +7,8 @@ name:
   given: Rodolk
   clan: Czurger
   aliases: []
-id: za7GGGs1Aubj6oLi
-packFolder: fffclergy
 shortcode: rodolkczurger
 type: being
-social:
-  occupation: Priest of Save K'nor
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - saveknor
-    - agrik
-    - morgath
-    - naveh
 data:
   icon: fff6091tok
   templatePriority: 1
@@ -40,6 +26,20 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - saveknor
+      - agrik
+      - morgath
+      - naveh
+  id: za7GGGs1Aubj6oLi
+  packFolder: fffclergy
+  social:
+    occupation: Priest of Save K'nor
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

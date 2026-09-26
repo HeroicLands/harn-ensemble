@@ -7,19 +7,8 @@ name:
   given: Chima
   clan: Avordan
   aliases: []
-id: Mjvs6a4C0uq5m99B
-packFolder: extrasclergy
 shortcode: chimaofavordan
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: Mjvs6a4C0uq5m99B
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

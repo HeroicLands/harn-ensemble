@@ -7,18 +7,8 @@ name:
   given: Rylwe
   clan: Okren
   aliases: []
-id: dY1pGVReAri5c0k7
-packFolder: extrasguilded
 shortcode: rylweofokren
 type: being
-social:
-  occupation: Potter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dY1pGVReAri5c0k7
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

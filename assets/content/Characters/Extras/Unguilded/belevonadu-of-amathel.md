@@ -7,18 +7,8 @@ name:
   given: Belevonadu
   clan: Amathel
   aliases: []
-id: nRCSP7hzcTSMI9c1
-packFolder: extrasunguilded
 shortcode: belevonaduofamathel
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nRCSP7hzcTSMI9c1
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

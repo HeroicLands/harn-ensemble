@@ -7,18 +7,8 @@ name:
   given: Danishelasyn
   clan: Chuzyn
   aliases: []
-id: YhW27mNuFNKz64vu
-packFolder: extrasguilded
 shortcode: danishelasynofchuzyn
 type: being
-social:
-  occupation: Pilot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YhW27mNuFNKz64vu
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

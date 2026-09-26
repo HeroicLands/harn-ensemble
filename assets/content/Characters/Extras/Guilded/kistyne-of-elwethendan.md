@@ -7,18 +7,8 @@ name:
   given: Kistyne
   clan: Elwethendan
   aliases: []
-id: WWpTMnlthUWINYD8
-packFolder: extrasguilded
 shortcode: kistyneofelwethendan
 type: being
-social:
-  occupation: Lexigrapher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WWpTMnlthUWINYD8
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

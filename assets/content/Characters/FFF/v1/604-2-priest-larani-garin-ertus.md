@@ -7,19 +7,8 @@ name:
   given: Garin
   clan: Ertus
   aliases: []
-id: lotJIbkkci8IzCN8
-packFolder: fffclergy
 shortcode: garinertus
 type: being
-social:
-  occupation: Laranian Priest
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff6042tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: lotJIbkkci8IzCN8
+  packFolder: fffclergy
+  social:
+    occupation: Laranian Priest
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

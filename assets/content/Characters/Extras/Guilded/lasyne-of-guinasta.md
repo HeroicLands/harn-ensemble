@@ -7,18 +7,8 @@ name:
   given: Lasyne
   clan: Guinasta
   aliases: []
-id: vWMV17tJRyCgdBfR
-packFolder: extrasguilded
 shortcode: lasyneofguinasta
 type: being
-social:
-  occupation: Tentmaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vWMV17tJRyCgdBfR
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

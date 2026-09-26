@@ -7,18 +7,8 @@ name:
   given: Horin
   clan: Rollateriel
   aliases: []
-id: MnzS7ea5QSZFLHdk
-packFolder: extrasnobles
 shortcode: horinofrollateriel
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MnzS7ea5QSZFLHdk
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

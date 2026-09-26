@@ -7,18 +7,8 @@ name:
   given: Hera
   clan: Uerth
   aliases: []
-id: lkRXwcAGaz36Zqvb
-packFolder: extrasnobles
 shortcode: heraofuerth
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lkRXwcAGaz36Zqvb
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

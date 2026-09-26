@@ -7,18 +7,8 @@ name:
   given: Charlamnar
   clan: Guina
   aliases: []
-id: ey9sB4kk08y9y5WF
-packFolder: extrasguilded
 shortcode: charlamnarofguina
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ey9sB4kk08y9y5WF
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

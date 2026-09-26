@@ -7,18 +7,8 @@ name:
   given: Merenelle
   clan: Durnwak
   aliases: []
-id: P4LUcSPZYmhQ0a58
-packFolder: extrasguilded
 shortcode: merenelleofdurnwak
 type: being
-social:
-  occupation: Jeweler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: P4LUcSPZYmhQ0a58
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

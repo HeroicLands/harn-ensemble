@@ -7,19 +7,8 @@ name:
   given: Halid
   clan: Aikarin
   aliases: []
-id: SYq7MpGQc2xE4BEN
-packFolder: extrasclergy
 shortcode: halidofaikarin
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: SYq7MpGQc2xE4BEN
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

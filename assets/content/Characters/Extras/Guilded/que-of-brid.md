@@ -7,18 +7,8 @@ name:
   given: Que
   clan: Brid
   aliases: []
-id: folsDEd24lHggfHo
-packFolder: extrasguilded
 shortcode: queofbrid
 type: being
-social:
-  occupation: Apothecary
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: folsDEd24lHggfHo
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

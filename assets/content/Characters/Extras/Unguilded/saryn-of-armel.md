@@ -7,18 +7,8 @@ name:
   given: Saryn
   clan: Armel
   aliases: []
-id: XZ0v0U0aae5EvpnY
-packFolder: extrasunguilded
 shortcode: sarynofarmel
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XZ0v0U0aae5EvpnY
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

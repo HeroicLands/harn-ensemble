@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Esarn
   aliases: []
-id: HvgNXt1IWsqBrc8s
-packFolder: extrasunguilded
 shortcode: raedaofesarn
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HvgNXt1IWsqBrc8s
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

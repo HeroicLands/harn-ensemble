@@ -7,19 +7,8 @@ name:
   given: Muga
   clan: Psawei
   aliases: []
-id: wxCq5wuoFDXB55JX
-packFolder: fffbarbarians
 shortcode: mugapsawei
 type: being
-social:
-  occupation: Hunter
-  class: tribesman
-  society: tribal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - korr
 data:
   icon: fff2062tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Gigantism
       - Well groomed beard
       - moustache
+  harnworld:
+    realm: ""
+    ritual:
+      - korr
+  id: wxCq5wuoFDXB55JX
+  packFolder: fffbarbarians
+  social:
+    occupation: Hunter
+    class: tribesman
+    society: tribal
+    organizations: []
 hm3:
   type: character
   attributes:

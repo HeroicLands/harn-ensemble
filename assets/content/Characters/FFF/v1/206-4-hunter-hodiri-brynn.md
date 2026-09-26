@@ -7,18 +7,8 @@ name:
   given: Brynn
   clan: ""
   aliases: []
-id: xXKM2CAPcBrSpgks
-packFolder: fffbarbarians
 shortcode: brynn
 type: being
-social:
-  occupation: Hunter
-  class: tribesman
-  society: tribal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff2064tok
   templatePriority: 1
@@ -38,6 +28,16 @@ data:
       - Scars on both cheeks
       - Beard
       - tribal tattoos
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xXKM2CAPcBrSpgks
+  packFolder: fffbarbarians
+  social:
+    occupation: Hunter
+    class: tribesman
+    society: tribal
+    organizations: []
 hm3:
   type: character
   attributes:

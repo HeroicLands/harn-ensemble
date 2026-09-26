@@ -7,18 +7,8 @@ name:
   given: Dir
   clan: Jorwynn
   aliases: []
-id: nZjA2Z6wUI1RM6iE
-packFolder: extrasguilded
 shortcode: dirofjorwynn
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nZjA2Z6wUI1RM6iE
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

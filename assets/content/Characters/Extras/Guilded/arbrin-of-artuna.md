@@ -7,18 +7,8 @@ name:
   given: Arbrin
   clan: Artuna
   aliases: []
-id: MBaLLBGGVzrZm9M6
-packFolder: extrasguilded
 shortcode: arbrinofartuna
 type: being
-social:
-  occupation: Shipwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MBaLLBGGVzrZm9M6
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

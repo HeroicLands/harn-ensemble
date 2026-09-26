@@ -7,18 +7,8 @@ name:
   given: Cirben
   clan: Balchadhod
   aliases: []
-id: 4uPsPhgKl3M0J9vC
-packFolder: extrasnobles
 shortcode: cirbenofbalchadhod
 type: being
-social:
-  occupation: Sindarin Knight
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4uPsPhgKl3M0J9vC
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

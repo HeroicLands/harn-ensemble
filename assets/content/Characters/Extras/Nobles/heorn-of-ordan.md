@@ -7,18 +7,8 @@ name:
   given: Heorn
   clan: Ordan
   aliases: []
-id: YsFDmMC5vafV1sS0
-packFolder: extrasnobles
 shortcode: heornofordan
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YsFDmMC5vafV1sS0
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

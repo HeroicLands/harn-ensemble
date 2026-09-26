@@ -7,19 +7,8 @@ name:
   given: Keribon
   clan: Kapire
   aliases: []
-id: vT7RJFM5Q0mnA8GQ
-packFolder: extrasclergy
 shortcode: keribonofkapire
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: vT7RJFM5Q0mnA8GQ
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

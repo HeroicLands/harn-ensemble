@@ -7,18 +7,8 @@ name:
   given: Jakan
   clan: Quarliss
   aliases: []
-id: Sa8IbabehVCuBKIK
-packFolder: extrasguilded
 shortcode: jakanofquarliss
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Sa8IbabehVCuBKIK
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Borane
   clan: Ane
   aliases: []
-id: FXcKCSfIERrrwMwE
-packFolder: extrasguilded
 shortcode: boraneofane
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FXcKCSfIERrrwMwE
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

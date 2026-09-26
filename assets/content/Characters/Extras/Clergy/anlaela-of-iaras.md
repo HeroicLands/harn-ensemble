@@ -7,19 +7,8 @@ name:
   given: Anlaela
   clan: Iaras
   aliases: []
-id: AUFJjrhn6EdI7uuz
-packFolder: extrasclergy
 shortcode: anlaelaofiaras
 type: being
-social:
-  occupation: Cleric/Siem
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: AUFJjrhn6EdI7uuz
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

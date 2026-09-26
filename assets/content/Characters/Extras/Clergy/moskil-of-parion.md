@@ -7,19 +7,8 @@ name:
   given: Moskil
   clan: Parion
   aliases: []
-id: QAcbmXLJ9nijhuVS
-packFolder: extrasclergy
 shortcode: moskilofparion
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: QAcbmXLJ9nijhuVS
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

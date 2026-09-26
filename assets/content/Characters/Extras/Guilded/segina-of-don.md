@@ -7,18 +7,8 @@ name:
   given: Segina
   clan: Don
   aliases: []
-id: pGUHpD7wnFMGBbX6
-packFolder: extrasguilded
 shortcode: seginaofdon
 type: being
-social:
-  occupation: Charcoaler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pGUHpD7wnFMGBbX6
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

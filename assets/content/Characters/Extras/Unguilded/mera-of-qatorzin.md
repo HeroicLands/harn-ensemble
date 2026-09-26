@@ -7,18 +7,8 @@ name:
   given: Mera
   clan: Qatorzin
   aliases: []
-id: 3WMsScO4AM1Bq3Xy
-packFolder: extrasunguilded
 shortcode: meraofqatorzin
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3WMsScO4AM1Bq3Xy
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

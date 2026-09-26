@@ -7,18 +7,8 @@ name:
   given: Jarn
   clan: Kramelvoen
   aliases: []
-id: ElPk8IZbspDhi8GK
-packFolder: extrasguards
 shortcode: jarnofkramelvoen
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ElPk8IZbspDhi8GK
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

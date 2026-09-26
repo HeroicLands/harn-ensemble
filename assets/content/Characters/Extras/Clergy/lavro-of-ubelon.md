@@ -7,19 +7,8 @@ name:
   given: Lavro
   clan: Ubelon
   aliases: []
-id: HaCXYJXgMOh8Rx99
-packFolder: extrasclergy
 shortcode: lavroofubelon
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: HaCXYJXgMOh8Rx99
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

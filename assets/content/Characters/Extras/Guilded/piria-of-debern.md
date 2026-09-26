@@ -7,18 +7,8 @@ name:
   given: Piria
   clan: Debern
   aliases: []
-id: laEFZgIFE9VcRKJT
-packFolder: extrasguilded
 shortcode: piriaofdebern
 type: being
-social:
-  occupation: Embalmer
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: laEFZgIFE9VcRKJT
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

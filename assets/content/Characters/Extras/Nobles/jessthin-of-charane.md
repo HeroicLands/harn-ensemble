@@ -7,18 +7,8 @@ name:
   given: Jessthin
   clan: Charane
   aliases: []
-id: nM0UrDaE4XHBOWmm
-packFolder: extrasnobles
 shortcode: jessthinofcharane
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nM0UrDaE4XHBOWmm
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

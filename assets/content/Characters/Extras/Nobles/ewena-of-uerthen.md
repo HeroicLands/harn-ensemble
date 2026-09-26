@@ -7,18 +7,8 @@ name:
   given: Ewena
   clan: Uerthen
   aliases: []
-id: 5LNpPbiLKGh0Gp0s
-packFolder: extrasnobles
 shortcode: ewenaofuerthen
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5LNpPbiLKGh0Gp0s
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

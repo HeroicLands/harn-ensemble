@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Narael
   aliases: []
-id: Nov02nUTRj3uQ4Ud
-packFolder: extrasserfs
 shortcode: tolmeyofnarael
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Nov02nUTRj3uQ4Ud
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Karn
   clan: Ren
   aliases: []
-id: kAzbZhknE15karYe
-packFolder: extrasguilded
 shortcode: karnofren
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kAzbZhknE15karYe
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

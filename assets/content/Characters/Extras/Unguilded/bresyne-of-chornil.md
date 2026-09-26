@@ -7,18 +7,8 @@ name:
   given: Bresyne
   clan: Chornil
   aliases: []
-id: kCGUP2o5AGfbTV6f
-packFolder: extrasunguilded
 shortcode: bresyneofchornil
 type: being
-social:
-  occupation: Ratter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kCGUP2o5AGfbTV6f
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Uldis
   clan: Harand
   aliases: []
-id: mjXgbj1zV1ay1LZW
-packFolder: fffnobles
 shortcode: uldisharand
 type: being
-social:
-  occupation: Squire
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5042tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: mjXgbj1zV1ay1LZW
+  packFolder: fffnobles
+  social:
+    occupation: Squire
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

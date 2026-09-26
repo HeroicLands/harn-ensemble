@@ -7,18 +7,8 @@ name:
   given: Feldin
   clan: Dulkne
   aliases: []
-id: jbxtNBwPGJBAxVfM
-packFolder: extrasguilded
 shortcode: feldinofdulkne
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jbxtNBwPGJBAxVfM
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

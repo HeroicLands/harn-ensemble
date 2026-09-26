@@ -7,18 +7,8 @@ name:
   given: Karyse
   clan: Alwen
   aliases: []
-id: z890aoDNMpGy53y5
-packFolder: extrasserfs
 shortcode: karyseofalwen
 type: being
-social:
-  occupation: Servant
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: z890aoDNMpGy53y5
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

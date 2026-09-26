@@ -7,18 +7,8 @@ name:
   given: Borane
   clan: Sunis
   aliases: []
-id: Pv8jQq0SVMfXW5B2
-packFolder: extrasmages
 shortcode: boraneofsunis
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya**"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Pv8jQq0SVMfXW5B2
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya**"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

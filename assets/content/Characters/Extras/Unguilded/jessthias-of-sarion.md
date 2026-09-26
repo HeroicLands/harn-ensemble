@@ -7,18 +7,8 @@ name:
   given: Jessthias
   clan: Sarion
   aliases: []
-id: wwRRRrw19ompnSeL
-packFolder: extrasunguilded
 shortcode: jessthiasofsarion
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wwRRRrw19ompnSeL
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

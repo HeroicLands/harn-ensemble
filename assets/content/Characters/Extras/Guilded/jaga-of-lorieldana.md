@@ -7,18 +7,8 @@ name:
   given: Jaga
   clan: Lorieldana
   aliases: []
-id: UuxZ1w0lG3VAlA8D
-packFolder: extrasguilded
 shortcode: jagaoflorieldana
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UuxZ1w0lG3VAlA8D
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

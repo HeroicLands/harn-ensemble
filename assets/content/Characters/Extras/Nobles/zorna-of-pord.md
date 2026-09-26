@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Pord
   aliases: []
-id: vhWShf4w2fgf8gtd
-packFolder: extrasnobles
 shortcode: zornaofpord
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vhWShf4w2fgf8gtd
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

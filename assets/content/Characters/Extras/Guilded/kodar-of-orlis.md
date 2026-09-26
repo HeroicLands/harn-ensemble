@@ -7,18 +7,8 @@ name:
   given: Kodar
   clan: Orlis
   aliases: []
-id: ypvjV2wOBjl3VVjX
-packFolder: extrasguilded
 shortcode: kodaroforlis
 type: being
-social:
-  occupation: Miner
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ypvjV2wOBjl3VVjX
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

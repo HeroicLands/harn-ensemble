@@ -7,18 +7,8 @@ name:
   given: Jendra
   clan: Kantar
   aliases: []
-id: TAYCQdjAFa4bfTZN
-packFolder: extrasserfs
 shortcode: jendraofkantar
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TAYCQdjAFa4bfTZN
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

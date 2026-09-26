@@ -7,18 +7,8 @@ name:
   given: Cellamathor
   clan: Arophen
   aliases: []
-id: e5sUVEbZcY9EAUUk
-packFolder: extrasunguilded
 shortcode: cellamathorofarophen
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: e5sUVEbZcY9EAUUk
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

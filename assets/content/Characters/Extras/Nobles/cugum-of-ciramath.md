@@ -7,18 +7,8 @@ name:
   given: Cugum
   clan: Ciramath
   aliases: []
-id: vcnDI8KU1VgRVqGZ
-packFolder: extrasnobles
 shortcode: cugumofciramath
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vcnDI8KU1VgRVqGZ
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

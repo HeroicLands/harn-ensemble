@@ -7,19 +7,8 @@ name:
   given: Gravith
   clan: Dray
   aliases: []
-id: rNdQ4oqbCEsEL6p0
-packFolder: fffguilded
 shortcode: gravithofdray
 type: being
-social:
-  occupation: Embalmer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3081tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Limp
       - right leg
       - Slight stoop
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: rNdQ4oqbCEsEL6p0
+  packFolder: fffguilded
+  social:
+    occupation: Embalmer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

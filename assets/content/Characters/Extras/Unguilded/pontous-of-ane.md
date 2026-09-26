@@ -7,18 +7,8 @@ name:
   given: Pontous
   clan: Ane
   aliases: []
-id: OnznlAsInSFDXwoo
-packFolder: extrasunguilded
 shortcode: pontousofane
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OnznlAsInSFDXwoo
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

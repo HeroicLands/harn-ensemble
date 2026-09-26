@@ -7,19 +7,8 @@ name:
   given: Tolmey
   clan: Onparsin
   aliases: []
-id: 55wgiUH0JZ1KgJqA
-packFolder: extrasclergy
 shortcode: tolmeyofonparsin
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: 55wgiUH0JZ1KgJqA
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

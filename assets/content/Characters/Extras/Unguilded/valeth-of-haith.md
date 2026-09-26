@@ -7,18 +7,8 @@ name:
   given: Valeth
   clan: Haith
   aliases: []
-id: 0Dyzk8Ox97Yd0xdJ
-packFolder: extrasunguilded
 shortcode: valethofhaith
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0Dyzk8Ox97Yd0xdJ
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

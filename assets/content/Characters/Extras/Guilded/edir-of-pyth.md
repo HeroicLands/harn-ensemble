@@ -7,18 +7,8 @@ name:
   given: Edir
   clan: Pyth
   aliases: []
-id: YaWwL7exH5VRybGk
-packFolder: extrasguilded
 shortcode: edirofpyth
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YaWwL7exH5VRybGk
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

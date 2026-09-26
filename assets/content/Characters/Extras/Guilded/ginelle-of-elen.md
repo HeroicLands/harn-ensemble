@@ -7,18 +7,8 @@ name:
   given: Ginelle
   clan: Elen
   aliases: []
-id: mUbccL4t5Dv0XDRw
-packFolder: extrasguilded
 shortcode: ginelleofelen
 type: being
-social:
-  occupation: Astrologer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mUbccL4t5Dv0XDRw
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

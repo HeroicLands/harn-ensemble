@@ -7,18 +7,8 @@ name:
   given: Forenela
   clan: Merak
   aliases: []
-id: rHT0EFgDIYYgx9JE
-packFolder: extrasguilded
 shortcode: forenelaofmerak
 type: being
-social:
-  occupation: Pilot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rHT0EFgDIYYgx9JE
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Worin
   clan: Kesten
   aliases: []
-id: vLZajD1ySS1AoUHR
-packFolder: fffunguilded
 shortcode: worinofkesten
 type: being
-social:
-  occupation: Servant
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4173tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: vLZajD1ySS1AoUHR
+  packFolder: fffunguilded
+  social:
+    occupation: Servant
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

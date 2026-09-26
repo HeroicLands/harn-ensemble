@@ -7,18 +7,8 @@ name:
   given: Mar
   clan: Chus
   aliases: []
-id: QNCf7bWsBMzPWfs2
-packFolder: extrasguilded
 shortcode: marofchus
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QNCf7bWsBMzPWfs2
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Merele
   clan: Cybel
   aliases: []
-id: zfQfmVGbprzAvKHT
-packFolder: extrasserfs
 shortcode: mereleofcybel
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zfQfmVGbprzAvKHT
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Erand
   clan: Asain
   aliases: []
-id: SgsoOSCF3UlbrkqO
-packFolder: extrasclergy
 shortcode: erandofasain
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: SgsoOSCF3UlbrkqO
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Laserery
   clan: Marn
   aliases: []
-id: YzUdBLOHEcv89rca
-packFolder: extrasguilded
 shortcode: lasereryofmarn
 type: being
-social:
-  occupation: Tentmaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YzUdBLOHEcv89rca
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

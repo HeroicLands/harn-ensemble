@@ -7,18 +7,8 @@ name:
   given: Serery
   clan: Borskin
   aliases: []
-id: 2xG9BXpKgRXgX7nn
-packFolder: extrasmages
 shortcode: sereryofborskin
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2xG9BXpKgRXgX7nn
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

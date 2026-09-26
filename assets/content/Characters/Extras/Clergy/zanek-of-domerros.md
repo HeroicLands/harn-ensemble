@@ -7,19 +7,8 @@ name:
   given: Zanek
   clan: Domerros
   aliases: []
-id: Gxlu7PjYKNXyAkuO
-packFolder: extrasclergy
 shortcode: zanekofdomerros
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: Gxlu7PjYKNXyAkuO
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

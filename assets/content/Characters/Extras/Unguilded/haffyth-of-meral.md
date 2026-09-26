@@ -7,18 +7,8 @@ name:
   given: Haffyth
   clan: Meral
   aliases: []
-id: mauQIJbuz7pLQzI6
-packFolder: extrasunguilded
 shortcode: haffythofmeral
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mauQIJbuz7pLQzI6
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

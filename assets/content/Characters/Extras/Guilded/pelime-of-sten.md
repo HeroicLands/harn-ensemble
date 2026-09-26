@@ -7,18 +7,8 @@ name:
   given: Pelime
   clan: Sten
   aliases: []
-id: wqNDsujtXU57lel7
-packFolder: extrasguilded
 shortcode: pelimeofsten
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wqNDsujtXU57lel7
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

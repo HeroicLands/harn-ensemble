@@ -7,18 +7,8 @@ name:
   given: Agaru
   clan: Agarwenedrilph
   aliases: []
-id: MGFJkAx422EPdOXF
-packFolder: extrasunguilded
 shortcode: agaruofagarwenedrilph
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MGFJkAx422EPdOXF
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

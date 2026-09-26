@@ -7,18 +7,8 @@ name:
   given: Anlael
   clan: Aelin
   aliases: []
-id: UddzsCAUsmWroNwb
-packFolder: extrasunguilded
 shortcode: anlaelofaelin
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UddzsCAUsmWroNwb
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

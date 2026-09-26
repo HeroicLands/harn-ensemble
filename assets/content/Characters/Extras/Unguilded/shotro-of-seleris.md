@@ -7,18 +7,8 @@ name:
   given: Shotro
   clan: Seleris
   aliases: []
-id: NxKqZmIZVn1eDeCv
-packFolder: extrasunguilded
 shortcode: shotroofseleris
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NxKqZmIZVn1eDeCv
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

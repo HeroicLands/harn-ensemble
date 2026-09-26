@@ -7,19 +7,8 @@ name:
   given: Roul
   clan: Leferre
   aliases: []
-id: cvnkHX7g7glN0XmA
-packFolder: fffunguilded
 shortcode: roulofleferre
 type: being
-social:
-  occupation: Reeve
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4201tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: attractive
     extra_features:
       - Squints
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: cvnkHX7g7glN0XmA
+  packFolder: fffunguilded
+  social:
+    occupation: Reeve
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

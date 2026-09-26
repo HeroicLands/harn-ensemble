@@ -7,18 +7,8 @@ name:
   given: Marcand
   clan: Tarsuel
   aliases: []
-id: umeOpD7vejUGG33h
-packFolder: extrasguards
 shortcode: veteranmarcandoftarsuel
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: umeOpD7vejUGG33h
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

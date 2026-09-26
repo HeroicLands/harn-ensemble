@@ -7,19 +7,8 @@ name:
   given: Hollo
   clan: Elbaro
   aliases: []
-id: cPg48NJmoVjuvhCc
-packFolder: extrasclergy
 shortcode: holloofelbaro
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: cPg48NJmoVjuvhCc
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

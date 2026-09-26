@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Duplo
   aliases: []
-id: 5kiga0OHUMn4LMkW
-packFolder: extrasunguilded
 shortcode: terbaofduplo
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5kiga0OHUMn4LMkW
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

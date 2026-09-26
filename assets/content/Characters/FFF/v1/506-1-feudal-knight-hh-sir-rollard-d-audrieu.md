@@ -7,19 +7,8 @@ name:
   given: Rollard
   clan: d'Audrieu
   aliases: []
-id: otiVCxlD88xv2bcy
-packFolder: fffnobles
 shortcode: sirrollarddaudrieu
 type: being
-social:
-  occupation: Tournament knight
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - christian
 data:
   icon: fff5061tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Strange accent
+  harnworld:
+    realm: ""
+    ritual:
+      - christian
+  id: otiVCxlD88xv2bcy
+  packFolder: fffnobles
+  social:
+    occupation: Tournament knight
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

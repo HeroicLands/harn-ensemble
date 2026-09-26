@@ -7,18 +7,8 @@ name:
   given: Barit
   clan: Dyselphus
   aliases: []
-id: HyGZ1kpNirlCvuCk
-packFolder: extrasguilded
 shortcode: baritofdyselphus
 type: being
-social:
-  occupation: Apothecary
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HyGZ1kpNirlCvuCk
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

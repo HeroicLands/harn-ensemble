@@ -7,19 +7,8 @@ name:
   given: Zuique
   clan: Placka
   aliases: []
-id: GyXMXNj9HtonAOUH
-packFolder: extrasclergy
 shortcode: zuiqueofplacka
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: GyXMXNj9HtonAOUH
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

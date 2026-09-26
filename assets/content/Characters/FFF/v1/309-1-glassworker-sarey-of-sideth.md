@@ -7,19 +7,8 @@ name:
   given: Sarey
   clan: Sideth
   aliases: []
-id: 75cCiClOM8WKxeBm
-packFolder: fffguilded
 shortcode: sareyofsideth
 type: being
-social:
-  occupation: Glassworker
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3091tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: 75cCiClOM8WKxeBm
+  packFolder: fffguilded
+  social:
+    occupation: Glassworker
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

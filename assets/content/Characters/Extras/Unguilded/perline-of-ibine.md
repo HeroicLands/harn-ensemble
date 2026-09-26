@@ -7,18 +7,8 @@ name:
   given: Perline
   clan: Ibine
   aliases: []
-id: CRD95sSfo34sMD8P
-packFolder: extrasunguilded
 shortcode: perlineofibine
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CRD95sSfo34sMD8P
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Querela
   clan: Symdal
   aliases: []
-id: hEvnX3LpBJ9NLWPb
-packFolder: extrasunguilded
 shortcode: querelaofsymdal
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hEvnX3LpBJ9NLWPb
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

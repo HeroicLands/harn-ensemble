@@ -7,18 +7,8 @@ name:
   given: Zuiquerena
   clan: Aikarin
   aliases: []
-id: DIXywUKvSXlnkLUq
-packFolder: extrasnobles
 shortcode: zuiquerenaofaikarin
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DIXywUKvSXlnkLUq
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

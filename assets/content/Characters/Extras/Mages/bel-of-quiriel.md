@@ -7,18 +7,8 @@ name:
   given: Bel
   clan: Quiriel
   aliases: []
-id: ro7t6SFGcs8gwXSf
-packFolder: extrasmages
 shortcode: belofquiriel
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ro7t6SFGcs8gwXSf
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

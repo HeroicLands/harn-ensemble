@@ -7,19 +7,8 @@ name:
   given: Kistyne
   clan: Shre
   aliases: []
-id: GvCqkfgoLW1fNRcj
-packFolder: extrasclergy
 shortcode: kistyneofshre
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: GvCqkfgoLW1fNRcj
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Noragor
   clan: Erlesh
   aliases: []
-id: PTHWv9X54fm5Rfvg
-packFolder: extrasclergy
 shortcode: noragoroferlesh
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: PTHWv9X54fm5Rfvg
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

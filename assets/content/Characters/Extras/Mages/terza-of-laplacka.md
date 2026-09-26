@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Laplacka
   aliases: []
-id: mcOZ5ulcWOhx1BFO
-packFolder: extrasmages
 shortcode: terzaoflaplacka
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mcOZ5ulcWOhx1BFO
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

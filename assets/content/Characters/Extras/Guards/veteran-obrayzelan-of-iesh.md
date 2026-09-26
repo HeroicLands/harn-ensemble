@@ -7,18 +7,8 @@ name:
   given: Obrayzelan
   clan: Iesh
   aliases: []
-id: TPqRUlv5m57iyAex
-packFolder: extrasguards
 shortcode: veteranobrayzelanofiesh
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TPqRUlv5m57iyAex
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

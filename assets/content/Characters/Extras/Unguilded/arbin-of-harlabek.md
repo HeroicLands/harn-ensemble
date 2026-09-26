@@ -7,18 +7,8 @@ name:
   given: Arbin
   clan: Harlabek
   aliases: []
-id: sa40LkHoXVA9wBfC
-packFolder: extrasunguilded
 shortcode: arbinofharlabek
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sa40LkHoXVA9wBfC
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Daroos
   aliases: []
-id: qzQY1UdTJIGOuVYz
-packFolder: extrasguilded
 shortcode: aramiaofdaroos
 type: being
-social:
-  occupation: Lexigrapher
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qzQY1UdTJIGOuVYz
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

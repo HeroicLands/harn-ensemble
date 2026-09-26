@@ -7,18 +7,8 @@ name:
   given: Cheselyne
   clan: Parsinda
   aliases: []
-id: TgbsAqGudw9mHSH3
-packFolder: extrasguilded
 shortcode: cheselyneofparsinda
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TgbsAqGudw9mHSH3
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

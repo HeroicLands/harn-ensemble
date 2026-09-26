@@ -7,18 +7,8 @@ name:
   given: Evenodelared
   clan: Debernic
   aliases: []
-id: Fg4FDHOXRKNxHpvo
-packFolder: extrasunguilded
 shortcode: evenodelaredofdebernic
 type: being
-social:
-  occupation: Toymaker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Fg4FDHOXRKNxHpvo
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

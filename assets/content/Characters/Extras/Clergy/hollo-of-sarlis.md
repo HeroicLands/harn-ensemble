@@ -7,19 +7,8 @@ name:
   given: Hollo
   clan: Sarlis
   aliases: []
-id: pSe2g3q7ypNKwqpn
-packFolder: extrasclergy
 shortcode: holloofsarlis
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: pSe2g3q7ypNKwqpn
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Ral
   clan: Weth
   aliases: []
-id: AVXIma9S3IBAoNQ8
-packFolder: extrasmages
 shortcode: ralofweth
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi***"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AVXIma9S3IBAoNQ8
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi***"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

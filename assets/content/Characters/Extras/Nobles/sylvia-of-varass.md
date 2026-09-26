@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Varass
   aliases: []
-id: tYbveIPLMKMGsu4s
-packFolder: extrasnobles
 shortcode: sylviaofvarass
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tYbveIPLMKMGsu4s
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Maeghelasar
   clan: Veris
   aliases: []
-id: TFSAetsa7CXRt0Hj
-packFolder: extrasclergy
 shortcode: maeghelasarofveris
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: TFSAetsa7CXRt0Hj
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

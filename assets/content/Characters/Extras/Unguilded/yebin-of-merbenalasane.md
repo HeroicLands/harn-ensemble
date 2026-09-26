@@ -7,18 +7,8 @@ name:
   given: Yebin
   clan: Merbenalasane
   aliases: []
-id: CzDoccGz8P4Al4me
-packFolder: extrasunguilded
 shortcode: yebinofmerbenalasane
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CzDoccGz8P4Al4me
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

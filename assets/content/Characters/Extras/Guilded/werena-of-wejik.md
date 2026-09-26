@@ -7,18 +7,8 @@ name:
   given: Werena
   clan: Wejik
   aliases: []
-id: HNsKMKvzMX9qc986
-packFolder: extrasguilded
 shortcode: werenaofwejik
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HNsKMKvzMX9qc986
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

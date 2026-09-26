@@ -7,18 +7,8 @@ name:
   given: Ume
   clan: Quiribor
   aliases: []
-id: qYshVAaUlR2dr5SI
-packFolder: extrasunguilded
 shortcode: umeofquiribor
 type: being
-social:
-  occupation: Fisherman
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qYshVAaUlR2dr5SI
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

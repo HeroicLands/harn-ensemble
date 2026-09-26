@@ -7,18 +7,8 @@ name:
   given: She
   clan: Tobilon
   aliases: []
-id: v47zYAQ4HyB2fSPv
-packFolder: extrasguilded
 shortcode: sheoftobilon
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: v47zYAQ4HyB2fSPv
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Quey
   clan: Pariam
   aliases: []
-id: b3z6tMDYgnEgg9av
-packFolder: extrasunguilded
 shortcode: queyofpariam
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b3z6tMDYgnEgg9av
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Gwyte
   clan: Marath
   aliases: []
-id: wuD1xj7qCGqD9aqZ
-packFolder: fffguilded
 shortcode: gwyteofmarath
 type: being
-social:
-  occupation: Clothier
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   icon: fff3061tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Overweight
       - A purple birthmark on his right hand
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: wuD1xj7qCGqD9aqZ
+  packFolder: fffguilded
+  social:
+    occupation: Clothier
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

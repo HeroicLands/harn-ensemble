@@ -7,18 +7,8 @@ name:
   given: Karyn
   clan: Trollateris
   aliases: []
-id: zi5kEzFaO7yQ6xpf
-packFolder: extrasunguilded
 shortcode: karynoftrollateris
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zi5kEzFaO7yQ6xpf
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

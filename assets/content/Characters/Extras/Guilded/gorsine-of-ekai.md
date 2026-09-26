@@ -7,18 +7,8 @@ name:
   given: Gorsine
   clan: Ekai
   aliases: []
-id: 3G55dD18TNOpyvVJ
-packFolder: extrasguilded
 shortcode: gorsineofekai
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3G55dD18TNOpyvVJ
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

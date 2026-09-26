@@ -7,18 +7,8 @@ name:
   given: Shotro
   clan: Debern
   aliases: []
-id: yQYpfgx1lcpCj04k
-packFolder: extrasserfs
 shortcode: shotroofdebern
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yQYpfgx1lcpCj04k
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

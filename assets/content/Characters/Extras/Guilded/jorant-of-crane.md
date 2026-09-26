@@ -7,18 +7,8 @@ name:
   given: Jorant
   clan: Crane
   aliases: []
-id: 5zz57ODwoblfy3aF
-packFolder: extrasguilded
 shortcode: jorantofcrane
 type: being
-social:
-  occupation: Salter
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5zz57ODwoblfy3aF
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Serala
   clan: Onparsuel
   aliases: []
-id: fqzaN1FZMqb6EgD7
-packFolder: extrasguilded
 shortcode: seralaofonparsuel
 type: being
-social:
-  occupation: Tentmaker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fqzaN1FZMqb6EgD7
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

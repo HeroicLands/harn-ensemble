@@ -7,18 +7,8 @@ name:
   given: Ithasis
   clan: Kapire
   aliases: []
-id: FsZ5JuQWQbUg8sM8
-packFolder: extrasguards
 shortcode: captainithasisofkapire
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FsZ5JuQWQbUg8sM8
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

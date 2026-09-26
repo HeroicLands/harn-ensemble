@@ -7,19 +7,8 @@ name:
   given: Myrelyn
   clan: Lumeden
   aliases: []
-id: K7OUdkElL9LjNO3R
-packFolder: extrasclergy
 shortcode: myrelynoflumeden
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: K7OUdkElL9LjNO3R
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

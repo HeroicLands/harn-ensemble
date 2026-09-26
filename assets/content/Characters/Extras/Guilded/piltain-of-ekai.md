@@ -7,18 +7,8 @@ name:
   given: Piltain
   clan: Ekai
   aliases: []
-id: k32Sgd4BR3RhRmXA
-packFolder: extrasguilded
 shortcode: piltainofekai
 type: being
-social:
-  occupation: Thief
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: k32Sgd4BR3RhRmXA
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

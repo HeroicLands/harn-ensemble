@@ -7,18 +7,8 @@ name:
   given: Chola
   clan: Varas
   aliases: []
-id: bK0Ymcc4k9lbS8QL
-packFolder: extrasguilded
 shortcode: cholaofvaras
 type: being
-social:
-  occupation: Locksmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bK0Ymcc4k9lbS8QL
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

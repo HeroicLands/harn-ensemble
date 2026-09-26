@@ -7,18 +7,8 @@ name:
   given: Grallax
   clan: Cadrune
   aliases: []
-id: 2QTo1rU1sZI5YlR6
-packFolder: extrasunguilded
 shortcode: grallaxofcadrune
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2QTo1rU1sZI5YlR6
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

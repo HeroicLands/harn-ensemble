@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Sethasil
   aliases: []
-id: nl9NU4nUZbW3m364
-packFolder: extrasunguilded
 shortcode: sylviaofsethasil
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nl9NU4nUZbW3m364
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

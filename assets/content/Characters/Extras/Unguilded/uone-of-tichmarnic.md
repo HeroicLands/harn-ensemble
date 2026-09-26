@@ -7,18 +7,8 @@ name:
   given: Uone
   clan: Tichmarnic
   aliases: []
-id: 8REdubUXTs9MzPEp
-packFolder: extrasunguilded
 shortcode: uoneoftichmarnic
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8REdubUXTs9MzPEp
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Wereda
   clan: Yisgaraneriel
   aliases: []
-id: pDZL3zLkd6gc8zBy
-packFolder: extrasunguilded
 shortcode: weredaofyisgaraneriel
 type: being
-social:
-  occupation: Thatcher
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pDZL3zLkd6gc8zBy
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

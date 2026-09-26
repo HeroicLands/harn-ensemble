@@ -7,18 +7,8 @@ name:
   given: Sarin
   clan: Varoos
   aliases: []
-id: RsqfU58Xu3nUdvmi
-packFolder: extrasnobles
 shortcode: sarinofvaroos
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RsqfU58Xu3nUdvmi
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

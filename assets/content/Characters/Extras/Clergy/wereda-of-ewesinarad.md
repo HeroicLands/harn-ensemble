@@ -7,19 +7,8 @@ name:
   given: Wereda
   clan: Ewesinarad
   aliases: []
-id: P2d6XqB7p43xv4eG
-packFolder: extrasclergy
 shortcode: weredaofewesinarad
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: P2d6XqB7p43xv4eG
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Arkot
   clan: Lundondech
   aliases: []
-id: gt8WA96S0xFsD9B8
-packFolder: extrasguilded
 shortcode: arkotoflundondech
 type: being
-social:
-  occupation: Pilot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gt8WA96S0xFsD9B8
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

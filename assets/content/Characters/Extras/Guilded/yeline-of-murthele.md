@@ -7,18 +7,8 @@ name:
   given: Yeline
   clan: Murthele
   aliases: []
-id: IegpiR0E8ApJw3od
-packFolder: extrasguilded
 shortcode: yelineofmurthele
 type: being
-social:
-  occupation: Ostler
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IegpiR0E8ApJw3od
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

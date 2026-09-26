@@ -7,19 +7,8 @@ name:
   given: Piria
   clan: Fengeldor
   aliases: []
-id: bgqxFt4DfM5Sf2Wi
-packFolder: extrasclergy
 shortcode: piriaoffengeldor
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: bgqxFt4DfM5Sf2Wi
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

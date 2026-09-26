@@ -7,18 +7,8 @@ name:
   given: Yebin
   clan: Quarlim
   aliases: []
-id: x1HiejlRfKQ3spK0
-packFolder: extrasunguilded
 shortcode: yebinofquarlim
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: x1HiejlRfKQ3spK0
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

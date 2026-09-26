@@ -7,18 +7,8 @@ name:
   given: Gina
   clan: Unis
   aliases: []
-id: CTQ6LXOPhSIhqlxA
-packFolder: extrasguilded
 shortcode: ginaofunis
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CTQ6LXOPhSIhqlxA
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

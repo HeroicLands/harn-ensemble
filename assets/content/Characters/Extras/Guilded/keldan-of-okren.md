@@ -7,18 +7,8 @@ name:
   given: Keldan
   clan: Okren
   aliases: []
-id: oTyUVze5gYHUb9i5
-packFolder: extrasguilded
 shortcode: keldanofokren
 type: being
-social:
-  occupation: Tentmaker
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oTyUVze5gYHUb9i5
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

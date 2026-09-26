@@ -7,18 +7,8 @@ name:
   given: Lir
   clan: Saldir
   aliases: []
-id: ZHp1lVcGM0ax29O3
-packFolder: extrasunguilded
 shortcode: lirofsaldir
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZHp1lVcGM0ax29O3
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

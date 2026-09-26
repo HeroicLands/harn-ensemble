@@ -7,18 +7,8 @@ name:
   given: Braspen
   clan: Amlugior
   aliases: []
-id: LDPY4XU4Ge9KgEnm
-packFolder: extrasunguilded
 shortcode: braspenofamlugior
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LDPY4XU4Ge9KgEnm
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

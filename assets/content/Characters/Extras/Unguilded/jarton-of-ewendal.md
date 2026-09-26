@@ -7,18 +7,8 @@ name:
   given: Jarton
   clan: Ewendal
   aliases: []
-id: NcTOWVnRRLaUVZDj
-packFolder: extrasunguilded
 shortcode: jartonofewendal
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NcTOWVnRRLaUVZDj
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

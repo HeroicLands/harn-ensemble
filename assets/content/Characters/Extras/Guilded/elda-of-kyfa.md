@@ -7,18 +7,8 @@ name:
   given: Elda
   clan: Kyfa
   aliases: []
-id: Iv0kpjakXbM1hOSE
-packFolder: extrasguilded
 shortcode: eldaofkyfa
 type: being
-social:
-  occupation: Ostler
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Iv0kpjakXbM1hOSE
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

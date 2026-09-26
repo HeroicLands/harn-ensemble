@@ -7,18 +7,8 @@ name:
   given: Chanisa
   clan: Stel
   aliases: []
-id: 4gTVdrLE8DXFTlGc
-packFolder: extrasguilded
 shortcode: chanisaofstel
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4gTVdrLE8DXFTlGc
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Sta
   clan: Chatil
   aliases: []
-id: dlTElfsXUrtWi91a
-packFolder: extrasclergy
 shortcode: staofchatil
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: dlTElfsXUrtWi91a
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

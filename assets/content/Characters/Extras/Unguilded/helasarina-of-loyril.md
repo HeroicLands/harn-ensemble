@@ -7,18 +7,8 @@ name:
   given: Helasarina
   clan: Loyril
   aliases: []
-id: ri3W2ibrniy12a28
-packFolder: extrasunguilded
 shortcode: helasarinaofloyril
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ri3W2ibrniy12a28
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

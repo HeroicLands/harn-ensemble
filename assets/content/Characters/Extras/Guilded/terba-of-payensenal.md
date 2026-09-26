@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Payensenal
   aliases: []
-id: F7sN398EZHonSVRA
-packFolder: extrasguilded
 shortcode: terbaofpayensenal
 type: being
-social:
-  occupation: Harper/Skald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F7sN398EZHonSVRA
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

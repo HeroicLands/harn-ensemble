@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Symdal
   aliases: []
-id: 8y9yYsK3fx4mRSYQ
-packFolder: extrasguilded
 shortcode: raedaofsymdal
 type: being
-social:
-  occupation: Apothecary
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8y9yYsK3fx4mRSYQ
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

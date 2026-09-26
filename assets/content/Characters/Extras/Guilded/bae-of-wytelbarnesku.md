@@ -7,18 +7,8 @@ name:
   given: Bae
   clan: Wytelbarnesku
   aliases: []
-id: hOikLUMUyn7PqMTM
-packFolder: extrasguilded
 shortcode: baeofwytelbarnesku
 type: being
-social:
-  occupation: Weaponcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hOikLUMUyn7PqMTM
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

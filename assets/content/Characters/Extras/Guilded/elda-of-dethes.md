@@ -7,18 +7,8 @@ name:
   given: Elda
   clan: Dethes
   aliases: []
-id: pRd1ZULSkixFXc9Y
-packFolder: extrasguilded
 shortcode: eldaofdethes
 type: being
-social:
-  occupation: Potter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pRd1ZULSkixFXc9Y
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Amdir
   clan: Belt
   aliases: []
-id: RKthCfokTmQLgOWA
-packFolder: extrasunguilded
 shortcode: amdirofbelt
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RKthCfokTmQLgOWA
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

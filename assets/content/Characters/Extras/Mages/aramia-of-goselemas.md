@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Goselemas
   aliases: []
-id: IMgjVxOcwURCb98l
-packFolder: extrasmages
 shortcode: aramiaofgoselemas
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya***"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IMgjVxOcwURCb98l
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya***"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Orthil
   clan: Barn
   aliases: []
-id: hPR7LXyWtLtxxnpw
-packFolder: extrasnobles
 shortcode: orthilofbarn
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hPR7LXyWtLtxxnpw
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

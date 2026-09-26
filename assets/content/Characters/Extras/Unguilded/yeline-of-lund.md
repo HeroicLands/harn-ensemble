@@ -7,18 +7,8 @@ name:
   given: Yeline
   clan: Lund
   aliases: []
-id: CU7YAsrMM09Y0cj7
-packFolder: extrasunguilded
 shortcode: yelineoflund
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CU7YAsrMM09Y0cj7
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

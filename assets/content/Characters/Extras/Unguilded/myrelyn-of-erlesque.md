@@ -7,19 +7,8 @@ name:
   given: Myrelyn
   clan: Erlesque
   aliases: []
-id: n9cpr5zHUDYjiiMZ
-packFolder: extrasunguilded
 shortcode: myrelynoferlesque
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: n9cpr5zHUDYjiiMZ
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Eldel
   clan: Asain
   aliases: []
-id: bN1V0OfaGg3VZL5o
-packFolder: extrasnobles
 shortcode: eldelofasain
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bN1V0OfaGg3VZL5o
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

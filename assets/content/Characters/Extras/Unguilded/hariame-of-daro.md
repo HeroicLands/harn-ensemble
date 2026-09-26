@@ -7,18 +7,8 @@ name:
   given: Hariame
   clan: Daro
   aliases: []
-id: GQz7Ee67ItcB3GdL
-packFolder: extrasunguilded
 shortcode: hariameofdaro
 type: being
-social:
-  occupation: Sage/Tutor
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GQz7Ee67ItcB3GdL
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

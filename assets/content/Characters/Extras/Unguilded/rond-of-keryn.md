@@ -7,18 +7,8 @@ name:
   given: Rond
   clan: Keryn
   aliases: []
-id: kdP1iDUTfmBJ6AlG
-packFolder: extrasunguilded
 shortcode: rondofkeryn
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kdP1iDUTfmBJ6AlG
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

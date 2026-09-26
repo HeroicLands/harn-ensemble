@@ -7,19 +7,8 @@ name:
   given: Egar
   clan: Olandau
   aliases: []
-id: fT3OK3pjLfcN9riV
-packFolder: fffnobles
 shortcode: siregarolandau
 type: being
-social:
-  occupation: Fighting order knight
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   icon: fff5071tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: fT3OK3pjLfcN9riV
+  packFolder: fffnobles
+  social:
+    occupation: Fighting order knight
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

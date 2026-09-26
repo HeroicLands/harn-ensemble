@@ -7,18 +7,8 @@ name:
   given: Geacelsis
   clan: Duplo
   aliases: []
-id: 9kn0HDiIv5iOG5fq
-packFolder: extrasserfs
 shortcode: geacelsisofduplo
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9kn0HDiIv5iOG5fq
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

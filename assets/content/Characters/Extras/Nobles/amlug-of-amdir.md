@@ -7,18 +7,8 @@ name:
   given: Amlug
   clan: Amdir
   aliases: []
-id: htiqjgMhjf2YSCDW
-packFolder: extrasnobles
 shortcode: amlugofamdir
 type: being
-social:
-  occupation: Sindarin Knight
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: htiqjgMhjf2YSCDW
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

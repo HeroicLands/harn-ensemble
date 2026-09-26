@@ -7,18 +7,8 @@ name:
   given: Baloth
   clan: Dethasil
   aliases: []
-id: HhRYKdpEmWriwXNc
-packFolder: extrasunguilded
 shortcode: balothofdethasil
 type: being
-social:
-  occupation: Cook/Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HhRYKdpEmWriwXNc
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

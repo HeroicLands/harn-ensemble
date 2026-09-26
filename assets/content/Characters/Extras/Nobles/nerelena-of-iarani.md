@@ -7,18 +7,8 @@ name:
   given: Nerelena
   clan: Iarani
   aliases: []
-id: ELjrTTrAaNhs5SzL
-packFolder: extrasnobles
 shortcode: nerelenaofiarani
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ELjrTTrAaNhs5SzL
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

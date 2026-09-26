@@ -7,19 +7,8 @@ name:
   given: Dersory
   clan: Talkene
   aliases: []
-id: OTri8XJRvBsWZT3S
-packFolder: fffguilded
 shortcode: dersoryoftalkene
 type: being
-social:
-  occupation: Ostler
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3221tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Obese
       - Left-handed
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: OTri8XJRvBsWZT3S
+  packFolder: fffguilded
+  social:
+    occupation: Ostler
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

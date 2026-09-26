@@ -7,18 +7,8 @@ name:
   given: Que
   clan: Aeb
   aliases: []
-id: 2RKb4knOuoBFgm24
-packFolder: extrasguilded
 shortcode: queofaeb
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2RKb4knOuoBFgm24
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

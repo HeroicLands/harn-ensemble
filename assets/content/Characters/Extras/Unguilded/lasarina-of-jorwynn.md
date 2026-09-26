@@ -7,18 +7,8 @@ name:
   given: Lasarina
   clan: Jorwynn
   aliases: []
-id: GGLAHZbotsqBCBoz
-packFolder: extrasunguilded
 shortcode: lasarinaofjorwynn
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GGLAHZbotsqBCBoz
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

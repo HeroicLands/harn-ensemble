@@ -7,19 +7,8 @@ name:
   given: Terje
   clan: Selain
   aliases: []
-id: lcDjXC4Bp1fhprQv
-packFolder: fffunguilded
 shortcode: terjeofselain
 type: being
-social:
-  occupation: Falconer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4012tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: lcDjXC4Bp1fhprQv
+  packFolder: fffunguilded
+  social:
+    occupation: Falconer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Kes
   clan: Yale
   aliases: []
-id: 0ukNqdWbo3x79RfI
-packFolder: extrasnobles
 shortcode: kesofyale
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0ukNqdWbo3x79RfI
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

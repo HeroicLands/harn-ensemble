@@ -7,19 +7,8 @@ name:
   given: Marant
   clan: Merros
   aliases: []
-id: bnzsBOQV8AuQiC7K
-packFolder: extrasclergy
 shortcode: marantofmerros
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: bnzsBOQV8AuQiC7K
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

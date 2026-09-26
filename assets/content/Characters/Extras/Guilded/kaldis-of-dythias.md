@@ -7,18 +7,8 @@ name:
   given: Kaldis
   clan: Dythias
   aliases: []
-id: FBw9gs2e4NTgN9wJ
-packFolder: extrasguilded
 shortcode: kaldisofdythias
 type: being
-social:
-  occupation: Salter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FBw9gs2e4NTgN9wJ
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

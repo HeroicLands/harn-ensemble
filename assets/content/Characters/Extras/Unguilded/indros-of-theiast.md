@@ -7,18 +7,8 @@ name:
   given: Indros
   clan: Theiast
   aliases: []
-id: QLgb6f337cM9U3O5
-packFolder: extrasunguilded
 shortcode: indrosoftheiast
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QLgb6f337cM9U3O5
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

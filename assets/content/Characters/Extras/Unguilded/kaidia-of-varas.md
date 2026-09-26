@@ -7,18 +7,8 @@ name:
   given: Kaidia
   clan: Varas
   aliases: []
-id: k3lJHGWBuWrB3T0K
-packFolder: extrasunguilded
 shortcode: kaidiaofvaras
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: k3lJHGWBuWrB3T0K
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

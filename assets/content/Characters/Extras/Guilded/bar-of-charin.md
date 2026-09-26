@@ -7,18 +7,8 @@ name:
   given: Bar
   clan: Charin
   aliases: []
-id: gQXXbSvULx2cfTuw
-packFolder: extrasguilded
 shortcode: barofcharin
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gQXXbSvULx2cfTuw
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Kaidia
   clan: Kephis
   aliases: []
-id: QMfG2l9Xb8D7e4Cu
-packFolder: extrasguilded
 shortcode: kaidiaofkephis
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QMfG2l9Xb8D7e4Cu
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

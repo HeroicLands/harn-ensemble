@@ -7,19 +7,8 @@ name:
   given: Tharo
   clan: Bideth
   aliases: []
-id: zfHZeMOSxVjH1jmT
-packFolder: fffunguilded
 shortcode: tharoofbideth
 type: being
-social:
-  occupation: Half-Villein
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4161tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Moustache
       - scrawny beard
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: zfHZeMOSxVjH1jmT
+  packFolder: fffunguilded
+  social:
+    occupation: Half-Villein
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

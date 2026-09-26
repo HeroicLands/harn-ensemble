@@ -7,19 +7,8 @@ name:
   given: Borana
   clan: Domerak
   aliases: []
-id: I9OxxfChQ7kpFqb6
-packFolder: extrasclergy
 shortcode: boranaofdomerak
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: I9OxxfChQ7kpFqb6
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

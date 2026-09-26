@@ -7,18 +7,8 @@ name:
   given: Werery
   clan: Orin
   aliases: []
-id: LVhj0BDmu3KfzEz1
-packFolder: extrasunguilded
 shortcode: wereryoforin
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LVhj0BDmu3KfzEz1
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

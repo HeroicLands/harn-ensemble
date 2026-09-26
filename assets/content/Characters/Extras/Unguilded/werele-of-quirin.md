@@ -7,18 +7,8 @@ name:
   given: Werele
   clan: Quirin
   aliases: []
-id: InNvfn0D6rb9rp4M
-packFolder: extrasunguilded
 shortcode: wereleofquirin
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: InNvfn0D6rb9rp4M
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

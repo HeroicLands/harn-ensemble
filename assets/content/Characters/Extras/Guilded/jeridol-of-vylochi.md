@@ -7,18 +7,8 @@ name:
   given: Jeridol
   clan: Vylochi
   aliases: []
-id: AEoqxeGUS6Yag13v
-packFolder: extrasguilded
 shortcode: jeridolofvylochi
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AEoqxeGUS6Yag13v
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

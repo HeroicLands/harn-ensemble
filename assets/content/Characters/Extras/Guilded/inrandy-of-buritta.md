@@ -7,18 +7,8 @@ name:
   given: Inrandy
   clan: Buritta
   aliases: []
-id: QNHskGY71sCOwb98
-packFolder: extrasguilded
 shortcode: inrandyofburitta
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QNHskGY71sCOwb98
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

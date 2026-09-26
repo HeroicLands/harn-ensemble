@@ -7,18 +7,8 @@ name:
   given: Merala
   clan: Elwenal
   aliases: []
-id: e3ZaRUg1Tz1MZmSv
-packFolder: extrasguilded
 shortcode: meralaofelwenal
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: e3ZaRUg1Tz1MZmSv
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

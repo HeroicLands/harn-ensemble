@@ -7,18 +7,8 @@ name:
   given: Aramathlain
   clan: Cidinnog
   aliases: []
-id: aYizQLTiS4jYWPE3
-packFolder: extrasunguilded
 shortcode: aramathlainofcidinnog
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aYizQLTiS4jYWPE3
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

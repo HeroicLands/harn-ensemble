@@ -7,18 +7,8 @@ name:
   given: Earny
   clan: Smesel
   aliases: []
-id: F50ca7QxQTd0R0an
-packFolder: fffunguilded
 shortcode: earnyofsmesel
 type: being
-social:
-  occupation: Pimp
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff4121tok
   templatePriority: 1
@@ -38,6 +28,16 @@ data:
       - Ringworm
       - missing his front teeth
       - Very violent
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F50ca7QxQTd0R0an
+  packFolder: fffunguilded
+  social:
+    occupation: Pimp
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Parsume
   clan: Magarak
   aliases: []
-id: AHRnmdwmTBnB2s85
-packFolder: extrasunguilded
 shortcode: parsumeofmagarak
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AHRnmdwmTBnB2s85
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

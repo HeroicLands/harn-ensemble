@@ -7,18 +7,8 @@ name:
   given: Agarchiphen
   clan: Bain
   aliases: []
-id: XngTJmE6DyaIrrs8
-packFolder: extrasnobles
 shortcode: agarchiphenofbain
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XngTJmE6DyaIrrs8
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

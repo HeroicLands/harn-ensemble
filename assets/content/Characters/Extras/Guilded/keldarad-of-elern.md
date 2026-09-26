@@ -7,18 +7,8 @@ name:
   given: Keldarad
   clan: Elern
   aliases: []
-id: 7rmBn5GYokbKf1Yd
-packFolder: extrasguilded
 shortcode: keldaradofelern
 type: being
-social:
-  occupation: Alchemist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7rmBn5GYokbKf1Yd
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Ewena
   clan: Cosel
   aliases: []
-id: O82i6ZaDX2qsRMEk
-packFolder: extrasguilded
 shortcode: ewenaofcosel
 type: being
-social:
-  occupation: Locksmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: O82i6ZaDX2qsRMEk
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

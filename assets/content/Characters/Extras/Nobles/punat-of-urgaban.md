@@ -7,18 +7,8 @@ name:
   given: Punat
   clan: Urgaban
   aliases: []
-id: IrIYd2njUxgH4J8F
-packFolder: extrasnobles
 shortcode: punatofurgaban
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IrIYd2njUxgH4J8F
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

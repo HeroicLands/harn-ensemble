@@ -1,6 +1,5 @@
 ---
 tags: []
-id: tcM3VLVYfSXzCDFd
 type: affiliation
 subType: venture
 shortcode: fffagntscrwn
@@ -10,6 +9,7 @@ name:
 data:
   icon: null
   templatePriority: null
+  id: tcM3VLVYfSXzCDFd
 sohl:
   relation: []
 ---

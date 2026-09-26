@@ -7,19 +7,8 @@ name:
   given: Marlyse
   clan: Durnwak
   aliases: []
-id: hofCBPSWkHKM5yFB
-packFolder: extrasclergy
 shortcode: marlyseofdurnwak
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: hofCBPSWkHKM5yFB
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

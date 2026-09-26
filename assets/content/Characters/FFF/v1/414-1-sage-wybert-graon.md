@@ -7,20 +7,8 @@ name:
   given: Wybert
   clan: Graon
   aliases: []
-id: DNQtPuSTCANb2wPN
-packFolder: fffunguilded
 shortcode: wybertgraon
 type: being
-social:
-  occupation: Sage/Tutor
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
-    - saveknor
 data:
   icon: fff4141tok
   templatePriority: 1
@@ -37,6 +25,18 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+      - saveknor
+  id: DNQtPuSTCANb2wPN
+  packFolder: fffunguilded
+  social:
+    occupation: Sage/Tutor
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

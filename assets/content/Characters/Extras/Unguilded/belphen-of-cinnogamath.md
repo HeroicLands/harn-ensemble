@@ -7,18 +7,8 @@ name:
   given: Belphen
   clan: Cinnogamath
   aliases: []
-id: ek8HNZJeTLOAYLoT
-packFolder: extrasunguilded
 shortcode: belphenofcinnogamath
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ek8HNZJeTLOAYLoT
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

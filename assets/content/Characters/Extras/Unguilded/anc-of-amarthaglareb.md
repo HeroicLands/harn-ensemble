@@ -7,18 +7,8 @@ name:
   given: Anc
   clan: Amarthaglareb
   aliases: []
-id: aQUDwWjvC4a7LUKh
-packFolder: extrasunguilded
 shortcode: ancofamarthaglareb
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aQUDwWjvC4a7LUKh
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

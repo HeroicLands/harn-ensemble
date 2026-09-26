@@ -7,18 +7,8 @@ name:
   given: Drusax
   clan: Reisten
   aliases: []
-id: sQbrcal4pPdxzBy6
-packFolder: extrasunguilded
 shortcode: drusaxofreisten
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sQbrcal4pPdxzBy6
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

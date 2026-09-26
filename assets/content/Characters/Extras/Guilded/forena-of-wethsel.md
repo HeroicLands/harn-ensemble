@@ -7,18 +7,8 @@ name:
   given: Forena
   clan: Wethsel
   aliases: []
-id: ji6eYbCKQ4TURnro
-packFolder: extrasguilded
 shortcode: forenaofwethsel
 type: being
-social:
-  occupation: Clothier
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ji6eYbCKQ4TURnro
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

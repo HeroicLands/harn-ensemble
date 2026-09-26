@@ -7,18 +7,8 @@ name:
   given: Kaidia
   clan: Sin
   aliases: []
-id: DF9KXnKU4aE44COp
-packFolder: extrasserfs
 shortcode: kaidiaofsin
 type: being
-social:
-  occupation: Farmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DF9KXnKU4aE44COp
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

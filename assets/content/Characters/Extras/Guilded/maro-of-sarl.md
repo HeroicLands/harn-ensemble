@@ -7,18 +7,8 @@ name:
   given: Maro
   clan: Sarl
   aliases: []
-id: WasKcGuYRBPpcIqg
-packFolder: extrasguilded
 shortcode: maroofsarl
 type: being
-social:
-  occupation: Apothecary
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WasKcGuYRBPpcIqg
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

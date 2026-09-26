@@ -7,18 +7,8 @@ name:
   given: Solina
   clan: Sedirethalesh
   aliases: []
-id: PdfpAnyT8W6r4VeI
-packFolder: extrasserfs
 shortcode: solinaofsedirethalesh
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PdfpAnyT8W6r4VeI
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

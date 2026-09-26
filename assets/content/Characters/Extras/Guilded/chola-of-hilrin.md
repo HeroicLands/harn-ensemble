@@ -7,18 +7,8 @@ name:
   given: Chola
   clan: Hilrin
   aliases: []
-id: mxSBGPS3cgKlqZvp
-packFolder: extrasguilded
 shortcode: cholaofhilrin
 type: being
-social:
-  occupation: Harper/Skald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mxSBGPS3cgKlqZvp
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

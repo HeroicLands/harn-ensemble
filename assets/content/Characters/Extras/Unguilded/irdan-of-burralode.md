@@ -7,18 +7,8 @@ name:
   given: Irdan
   clan: Burralode
   aliases: []
-id: sAIuZK5Yr56M8tGJ
-packFolder: extrasunguilded
 shortcode: irdanofburralode
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sAIuZK5Yr56M8tGJ
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

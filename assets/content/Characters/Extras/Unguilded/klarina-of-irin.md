@@ -7,18 +7,8 @@ name:
   given: Klarina
   clan: Irin
   aliases: []
-id: k4NiLU8ubM4APZdu
-packFolder: extrasunguilded
 shortcode: klarinaofirin
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: k4NiLU8ubM4APZdu
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

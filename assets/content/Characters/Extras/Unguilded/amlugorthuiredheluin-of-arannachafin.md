@@ -7,18 +7,8 @@ name:
   given: Amlugorthuiredheluin
   clan: Arannachafin
   aliases: []
-id: ZMHA0ifEfrdnzwxs
-packFolder: extrasunguilded
 shortcode: amlugorthuiredheluinofarannachafin
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZMHA0ifEfrdnzwxs
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

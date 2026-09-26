@@ -7,18 +7,8 @@ name:
   given: Pamjul
   clan: Patren
   aliases: []
-id: zwrRtU1H25ZzFh4z
-packFolder: extrasguilded
 shortcode: pamjulofpatren
 type: being
-social:
-  occupation: Clothier
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zwrRtU1H25ZzFh4z
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

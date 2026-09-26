@@ -7,18 +7,8 @@ name:
   given: Keldurkael
   clan: Thes
   aliases: []
-id: YVvuLk0wrZzbm45k
-packFolder: extrasguilded
 shortcode: keldurkaelofthes
 type: being
-social:
-  occupation: Salter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YVvuLk0wrZzbm45k
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

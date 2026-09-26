@@ -7,18 +7,8 @@ name:
   given: Teldur
   clan: Erleshre
   aliases: []
-id: 8JtiDifCMq47GT0Z
-packFolder: extrasguilded
 shortcode: telduroferleshre
 type: being
-social:
-  occupation: Embalmer
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8JtiDifCMq47GT0Z
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

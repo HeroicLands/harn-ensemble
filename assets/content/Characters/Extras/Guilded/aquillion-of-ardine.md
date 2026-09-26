@@ -7,18 +7,8 @@ name:
   given: Aquillion
   clan: Ardine
   aliases: []
-id: ypmP9Ov5RNZbnG0R
-packFolder: extrasguilded
 shortcode: aquillionofardine
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ypmP9Ov5RNZbnG0R
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

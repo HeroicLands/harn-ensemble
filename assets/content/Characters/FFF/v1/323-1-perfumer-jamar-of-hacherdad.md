@@ -7,19 +7,8 @@ name:
   given: Jamar
   clan: Hacherdad
   aliases: []
-id: HA20lpK82ZkXFWXH
-packFolder: fffguilded
 shortcode: jamarofhacherdad
 type: being
-social:
-  occupation: Perfumer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - nalma
 data:
   icon: fff3231tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - nalma
+  id: HA20lpK82ZkXFWXH
+  packFolder: fffguilded
+  social:
+    occupation: Perfumer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Gine
   clan: Sar
   aliases: []
-id: 4a6MZQiIiWwrTjfR
-packFolder: extrasguilded
 shortcode: gineofsar
 type: being
-social:
-  occupation: Jeweler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4a6MZQiIiWwrTjfR
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

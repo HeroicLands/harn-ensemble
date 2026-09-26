@@ -7,19 +7,8 @@ name:
   given: Teldur
   clan: Wythias
   aliases: []
-id: Eh0tjgNTVV42UM15
-packFolder: extrasclergy
 shortcode: teldurofwythias
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: Eh0tjgNTVV42UM15
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

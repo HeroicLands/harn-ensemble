@@ -7,18 +7,8 @@ name:
   given: Kesyne
   clan: Gorra
   aliases: []
-id: JIRHxbKYmGijrcLU
-packFolder: extrasunguilded
 shortcode: kesyneofgorra
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JIRHxbKYmGijrcLU
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

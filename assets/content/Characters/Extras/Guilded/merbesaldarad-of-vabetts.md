@@ -7,18 +7,8 @@ name:
   given: Merbesaldarad
   clan: Vabetts
   aliases: []
-id: 9rPJcrOnpenC0p7Y
-packFolder: extrasguilded
 shortcode: merbesaldaradofvabetts
 type: being
-social:
-  occupation: Chandler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9rPJcrOnpenC0p7Y
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

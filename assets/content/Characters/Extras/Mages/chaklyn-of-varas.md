@@ -7,18 +7,8 @@ name:
   given: Chaklyn
   clan: Varas
   aliases: []
-id: viwyAQHi7ryzvW2N
-packFolder: extrasmages
 shortcode: chaklynofvaras
 type: being
-social:
-  occupation: "Shek-Pvar/Fyvria**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: viwyAQHi7ryzvW2N
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Fyvria**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

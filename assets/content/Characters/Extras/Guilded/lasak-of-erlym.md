@@ -7,18 +7,8 @@ name:
   given: Lasak
   clan: Erlym
   aliases: []
-id: nBj8rphLt3ulpl47
-packFolder: extrasguilded
 shortcode: lasakoferlym
 type: being
-social:
-  occupation: Mason
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nBj8rphLt3ulpl47
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

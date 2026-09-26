@@ -7,18 +7,8 @@ name:
   given: Pontous
   clan: Curo
   aliases: []
-id: i10K2p9MnafLmrGT
-packFolder: extrasguilded
 shortcode: pontousofcuro
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: i10K2p9MnafLmrGT
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

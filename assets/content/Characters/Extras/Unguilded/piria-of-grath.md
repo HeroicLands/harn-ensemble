@@ -7,18 +7,8 @@ name:
   given: Piria
   clan: Grath
   aliases: []
-id: OnQSTFetmcCgwk6K
-packFolder: extrasunguilded
 shortcode: piriaofgrath
 type: being
-social:
-  occupation: Sage/Tutor
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OnQSTFetmcCgwk6K
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

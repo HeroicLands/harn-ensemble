@@ -7,19 +7,8 @@ name:
   given: Tagbar
   clan: Hilrichmarion
   aliases: []
-id: C7K67w3KGHIheBFp
-packFolder: extrasclergy
 shortcode: tagbarofhilrichmarion
 type: being
-social:
-  occupation: Cleric/Siem
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: C7K67w3KGHIheBFp
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

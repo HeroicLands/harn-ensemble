@@ -7,18 +7,8 @@ name:
   given: Raelda
   clan: Arin
   aliases: []
-id: h86ZmZxeLfMdictv
-packFolder: extrasserfs
 shortcode: raeldaofarin
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: h86ZmZxeLfMdictv
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

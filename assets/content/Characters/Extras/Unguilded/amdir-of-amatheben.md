@@ -7,18 +7,8 @@ name:
   given: Amdir
   clan: Amatheben
   aliases: []
-id: vIug1MQtiQTyeRnc
-packFolder: extrasunguilded
 shortcode: amdirofamatheben
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vIug1MQtiQTyeRnc
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

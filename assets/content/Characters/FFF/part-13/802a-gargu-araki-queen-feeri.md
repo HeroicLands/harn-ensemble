@@ -7,18 +7,8 @@ name:
   given: Feeri
   clan: ""
   aliases: []
-id: q3CWI4spzMWAUE77
-packFolder: fffnonhumans
 shortcode: feeri
 type: being
-social:
-  occupation: Queen
-  class: queen
-  society: gargun (araki)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff802ahead
   tokenIcon: fff802atok
@@ -36,6 +26,16 @@ data:
     complexion: hideous
     extra_features:
       - Obese
+  harnworld:
+    realm: ""
+    ritual: []
+  id: q3CWI4spzMWAUE77
+  packFolder: fffnonhumans
+  social:
+    occupation: Queen
+    class: queen
+    society: gargun (araki)
+    organizations: []
 hm3:
   type: character
   attributes:

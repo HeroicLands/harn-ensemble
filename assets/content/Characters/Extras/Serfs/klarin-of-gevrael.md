@@ -7,18 +7,8 @@ name:
   given: Klarin
   clan: Gevrael
   aliases: []
-id: iba1YIkon5VjNRvz
-packFolder: extrasserfs
 shortcode: klarinofgevrael
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iba1YIkon5VjNRvz
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

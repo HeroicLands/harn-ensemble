@@ -7,18 +7,8 @@ name:
   given: Borane
   clan: Avordan
   aliases: []
-id: f7som2cPUFTmdBPq
-packFolder: extrasnobles
 shortcode: boraneofavordan
 type: being
-social:
-  occupation: Patrician
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: f7som2cPUFTmdBPq
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

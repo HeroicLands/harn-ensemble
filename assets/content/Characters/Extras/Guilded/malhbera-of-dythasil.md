@@ -7,18 +7,8 @@ name:
   given: Malhbera
   clan: Dythasil
   aliases: []
-id: Bjp6Y2CZhc92M2NI
-packFolder: extrasguilded
 shortcode: malhberaofdythasil
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Bjp6Y2CZhc92M2NI
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Marath
   clan: Sosora
   aliases: []
-id: JuVBqtVzHx5MDlQV
-packFolder: extrasunguilded
 shortcode: marathofsosora
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JuVBqtVzHx5MDlQV
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

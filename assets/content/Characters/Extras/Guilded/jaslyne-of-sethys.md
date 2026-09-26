@@ -7,18 +7,8 @@ name:
   given: Jaslyne
   clan: Sethys
   aliases: []
-id: XnUyV36g1kiFcHGy
-packFolder: extrasguilded
 shortcode: jaslyneofsethys
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XnUyV36g1kiFcHGy
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

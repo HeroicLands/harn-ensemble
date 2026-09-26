@@ -7,18 +7,8 @@ name:
   given: Farren
   clan: Stiem
   aliases: []
-id: gKbey1NkFuFLdd64
-packFolder: extrasguilded
 shortcode: farrenofstiem
 type: being
-social:
-  occupation: Weaponcrafter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gKbey1NkFuFLdd64
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

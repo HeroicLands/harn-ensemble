@@ -7,18 +7,8 @@ name:
   given: Feazurk
   clan: ""
   aliases: []
-id: 4s2kMbsyAnjadFUk
-packFolder: fffnonhumans
 shortcode: feazurk
 type: being
-social:
-  occupation: Warrior
-  class: warrior
-  society: gargun (viasal)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff804ahead
   tokenIcon: fff804atok
@@ -36,6 +26,16 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4s2kMbsyAnjadFUk
+  packFolder: fffnonhumans
+  social:
+    occupation: Warrior
+    class: warrior
+    society: gargun (viasal)
+    organizations: []
 hm3:
   type: character
   attributes:

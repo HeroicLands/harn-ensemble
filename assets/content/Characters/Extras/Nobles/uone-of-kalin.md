@@ -7,18 +7,8 @@ name:
   given: Uone
   clan: Kalin
   aliases: []
-id: Ow4xGZZEU2cydHJ6
-packFolder: extrasnobles
 shortcode: uoneofkalin
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Ow4xGZZEU2cydHJ6
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

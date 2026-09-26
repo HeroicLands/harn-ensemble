@@ -7,18 +7,8 @@ name:
   given: Mysilena
   clan: Kramel
   aliases: []
-id: mmrX81hEdI6D0VZ0
-packFolder: extrasguilded
 shortcode: mysilenaofkramel
 type: being
-social:
-  occupation: Weaponcrafter
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mmrX81hEdI6D0VZ0
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

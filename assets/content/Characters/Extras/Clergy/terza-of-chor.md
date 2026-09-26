@@ -7,19 +7,8 @@ name:
   given: Terza
   clan: Chor
   aliases: []
-id: ZvCb4ktyzQXordjv
-packFolder: extrasclergy
 shortcode: terzaofchor
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: ZvCb4ktyzQXordjv
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Jola
   clan: Ewena
   aliases: []
-id: G7srEnIlE4R6dmJk
-packFolder: extrasunguilded
 shortcode: jolaofewena
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: G7srEnIlE4R6dmJk
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

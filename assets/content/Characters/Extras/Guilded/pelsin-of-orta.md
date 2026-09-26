@@ -7,18 +7,8 @@ name:
   given: Pelsin
   clan: Orta
   aliases: []
-id: 2HkLKXcXCMtx8TS8
-packFolder: extrasguilded
 shortcode: pelsinoforta
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2HkLKXcXCMtx8TS8
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

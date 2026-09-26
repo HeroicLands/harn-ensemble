@@ -7,18 +7,8 @@ name:
   given: Val
   clan: Grath
   aliases: []
-id: fY1Ose92rTPdkPVI
-packFolder: extrasguilded
 shortcode: valofgrath
 type: being
-social:
-  occupation: Seaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fY1Ose92rTPdkPVI
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

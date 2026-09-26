@@ -7,18 +7,8 @@ name:
   given: Hobir
   clan: Verien
   aliases: []
-id: H9wkgkHhVXRZ4Qy8
-packFolder: extrasunguilded
 shortcode: hobirofverien
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: H9wkgkHhVXRZ4Qy8
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

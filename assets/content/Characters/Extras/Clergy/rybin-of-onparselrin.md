@@ -7,19 +7,8 @@ name:
   given: Rybin
   clan: Onparselrin
   aliases: []
-id: 4F1Qzu8qY0O8NPFn
-packFolder: extrasclergy
 shortcode: rybinofonparselrin
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: 4F1Qzu8qY0O8NPFn
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Nar
   clan: Eldan
   aliases: []
-id: uo0FWB2cDd8iv5l4
-packFolder: extrasnobles
 shortcode: narofeldan
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uo0FWB2cDd8iv5l4
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

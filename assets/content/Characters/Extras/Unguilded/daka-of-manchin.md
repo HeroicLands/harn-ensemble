@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Manchin
   aliases: []
-id: kyZlHhGNZ5TKjd2Y
-packFolder: extrasunguilded
 shortcode: dakaofmanchin
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kyZlHhGNZ5TKjd2Y
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

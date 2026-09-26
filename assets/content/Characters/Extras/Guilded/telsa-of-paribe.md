@@ -7,18 +7,8 @@ name:
   given: Telsa
   clan: Paribe
   aliases: []
-id: b3t6y6hX1XAKZerA
-packFolder: extrasguilded
 shortcode: telsaofparibe
 type: being
-social:
-  occupation: Pilot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b3t6y6hX1XAKZerA
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

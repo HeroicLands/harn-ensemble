@@ -7,18 +7,8 @@ name:
   given: Martun
   clan: Ubela
   aliases: []
-id: a38xtwYPaZ7i0Yih
-packFolder: extrasguilded
 shortcode: martunofubela
 type: being
-social:
-  occupation: Timberwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: a38xtwYPaZ7i0Yih
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

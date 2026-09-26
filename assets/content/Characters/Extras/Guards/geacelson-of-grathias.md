@@ -7,18 +7,8 @@ name:
   given: Geacelson
   clan: Grathias
   aliases: []
-id: oaLKzP4Bu1tJLLia
-packFolder: extrasguards
 shortcode: geacelsonofgrathias
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oaLKzP4Bu1tJLLia
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

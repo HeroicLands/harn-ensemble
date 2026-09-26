@@ -7,18 +7,8 @@ name:
   given: Trunethasis
   clan: Darin
   aliases: []
-id: OUhz3oq16z61v3NP
-packFolder: extrasguilded
 shortcode: trunethasisofdarin
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OUhz3oq16z61v3NP
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

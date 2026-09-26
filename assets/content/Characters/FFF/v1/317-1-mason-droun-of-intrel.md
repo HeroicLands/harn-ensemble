@@ -7,19 +7,8 @@ name:
   given: Droun
   clan: Intrel
   aliases: []
-id: LichuZPDbvMhBsKm
-packFolder: fffguilded
 shortcode: drounofintrel
 type: being
-social:
-  occupation: Mason
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3171tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Moustache
       - goatee
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: LichuZPDbvMhBsKm
+  packFolder: fffguilded
+  social:
+    occupation: Mason
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

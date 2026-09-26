@@ -7,18 +7,8 @@ name:
   given: Nor
   clan: Eylochin
   aliases: []
-id: Qf8ivThVUUEVCCU6
-packFolder: extrasunguilded
 shortcode: norofeylochin
 type: being
-social:
-  occupation: Fisherman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Qf8ivThVUUEVCCU6
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

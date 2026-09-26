@@ -7,18 +7,8 @@ name:
   given: Merelyn
   clan: Dyselsen
   aliases: []
-id: wtHkIvPziqNtKaFl
-packFolder: extrasguilded
 shortcode: merelynofdyselsen
 type: being
-social:
-  occupation: Courtesan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wtHkIvPziqNtKaFl
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

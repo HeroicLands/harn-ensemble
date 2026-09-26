@@ -7,18 +7,8 @@ name:
   given: Tulah
   clan: Tombine
   aliases: []
-id: xFMTUdHR2RIWfeWr
-packFolder: extrasguilded
 shortcode: tulahoftombine
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xFMTUdHR2RIWfeWr
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

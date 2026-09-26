@@ -7,18 +7,8 @@ name:
   given: Gral
   clan: Darinarad
   aliases: []
-id: iejIb0WG2UTPeug5
-packFolder: extrasunguilded
 shortcode: gralofdarinarad
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iejIb0WG2UTPeug5
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

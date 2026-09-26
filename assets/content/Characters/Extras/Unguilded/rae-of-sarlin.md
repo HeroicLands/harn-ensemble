@@ -7,18 +7,8 @@ name:
   given: Rae
   clan: Sarlin
   aliases: []
-id: 8nGLwIJt89Kqiurx
-packFolder: extrasunguilded
 shortcode: raeofsarlin
 type: being
-social:
-  occupation: Cook/Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8nGLwIJt89Kqiurx
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

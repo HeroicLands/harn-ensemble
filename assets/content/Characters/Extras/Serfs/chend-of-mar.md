@@ -7,18 +7,8 @@ name:
   given: Chend
   clan: Mar
   aliases: []
-id: gJKpIklWwjD42ep2
-packFolder: extrasserfs
 shortcode: chendofmar
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gJKpIklWwjD42ep2
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

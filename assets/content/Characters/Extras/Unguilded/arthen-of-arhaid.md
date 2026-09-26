@@ -7,18 +7,8 @@ name:
   given: Arthen
   clan: Arhaid
   aliases: []
-id: G0ad9UyjzbTzgepA
-packFolder: extrasunguilded
 shortcode: arthenofarhaid
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: G0ad9UyjzbTzgepA
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

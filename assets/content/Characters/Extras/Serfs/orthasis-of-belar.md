@@ -7,18 +7,8 @@ name:
   given: Orthasis
   clan: Belar
   aliases: []
-id: TFVH42wNn04bY970
-packFolder: extrasserfs
 shortcode: orthasisofbelar
 type: being
-social:
-  occupation: Farmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TFVH42wNn04bY970
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

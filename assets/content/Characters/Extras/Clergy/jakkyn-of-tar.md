@@ -7,19 +7,8 @@ name:
   given: Jakkyn
   clan: Tar
   aliases: []
-id: 6gHPWK1oJXdbxFgX
-packFolder: extrasclergy
 shortcode: jakkynoftar
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: 6gHPWK1oJXdbxFgX
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

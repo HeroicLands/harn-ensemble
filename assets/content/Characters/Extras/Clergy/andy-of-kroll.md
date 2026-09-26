@@ -7,19 +7,8 @@ name:
   given: Andy
   clan: Kroll
   aliases: []
-id: GHtrgZMjg5nE5IsS
-packFolder: extrasclergy
 shortcode: andyofkroll
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: GHtrgZMjg5nE5IsS
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

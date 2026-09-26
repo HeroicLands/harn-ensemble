@@ -7,19 +7,8 @@ name:
   given: Yaelinelle
   clan: Balin
   aliases: []
-id: TS8LS4pPsNteXkhG
-packFolder: extrasclergy
 shortcode: yaelinelleofbalin
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: TS8LS4pPsNteXkhG
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

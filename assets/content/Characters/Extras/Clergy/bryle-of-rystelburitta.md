@@ -7,19 +7,8 @@ name:
   given: Bryle
   clan: Rystelburitta
   aliases: []
-id: BYWAyPUrLarQlBDG
-packFolder: extrasclergy
 shortcode: bryleofrystelburitta
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: BYWAyPUrLarQlBDG
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

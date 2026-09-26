@@ -7,18 +7,8 @@ name:
   given: Telsa
   clan: Ibin
   aliases: []
-id: OOGK1nt2MoCoar0E
-packFolder: extrasunguilded
 shortcode: telsaofibin
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OOGK1nt2MoCoar0E
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

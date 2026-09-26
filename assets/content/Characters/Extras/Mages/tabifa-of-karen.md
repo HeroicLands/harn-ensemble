@@ -7,18 +7,8 @@ name:
   given: Tabifa
   clan: Karen
   aliases: []
-id: Ty4tXhfu22BvK8eT
-packFolder: extrasmages
 shortcode: tabifaofkaren
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi*****"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Ty4tXhfu22BvK8eT
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi*****"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

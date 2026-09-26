@@ -7,18 +7,8 @@ name:
   given: Shaela
   clan: Okrenarani
   aliases: []
-id: Jlto3BX6b0C9ZFyO
-packFolder: extrasmages
 shortcode: shaelaofokrenarani
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Jlto3BX6b0C9ZFyO
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Clanas
   clan: Puckill
   aliases: []
-id: qVmQepV7GRgY6yjq
-packFolder: extrasguilded
 shortcode: clanasofpuckill
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qVmQepV7GRgY6yjq
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

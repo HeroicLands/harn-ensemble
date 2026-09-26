@@ -7,18 +7,8 @@ name:
   given: Garil
   clan: Intrenalir
   aliases: []
-id: PhA51FvRxrhXOjGz
-packFolder: extrasguilded
 shortcode: garilofintrenalir
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PhA51FvRxrhXOjGz
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

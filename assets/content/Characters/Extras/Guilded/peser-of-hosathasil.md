@@ -7,18 +7,8 @@ name:
   given: Peser
   clan: Hosathasil
   aliases: []
-id: ZwlAfP6Zm1ZINbGF
-packFolder: extrasguilded
 shortcode: peserofhosathasil
 type: being
-social:
-  occupation: Shipwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZwlAfP6Zm1ZINbGF
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

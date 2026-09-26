@@ -7,18 +7,8 @@ name:
   given: Karyn
   clan: Harass
   aliases: []
-id: tvFkRGImj30B0liH
-packFolder: extrasguilded
 shortcode: karynofharass
 type: being
-social:
-  occupation: Thespian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tvFkRGImj30B0liH
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

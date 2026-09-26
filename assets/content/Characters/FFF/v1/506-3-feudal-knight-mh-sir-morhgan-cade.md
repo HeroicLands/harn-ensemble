@@ -7,19 +7,8 @@ name:
   given: Morhgan
   clan: Cade
   aliases: []
-id: q4Dsf9m89eR2J6oj
-packFolder: fffnobles
 shortcode: sirmorhgancade
 type: being
-social:
-  occupation: Knight Bachelor (MH)
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   icon: fff5063tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Pallid complexion
       - Bad breath
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: q4Dsf9m89eR2J6oj
+  packFolder: fffnobles
+  social:
+    occupation: Knight Bachelor (MH)
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

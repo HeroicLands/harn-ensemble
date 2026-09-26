@@ -7,18 +7,8 @@ name:
   given: Ereda
   clan: Baets
   aliases: []
-id: xmFX7gOtcarDy4Nn
-packFolder: extrasunguilded
 shortcode: eredaofbaets
 type: being
-social:
-  occupation: Scribe
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xmFX7gOtcarDy4Nn
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

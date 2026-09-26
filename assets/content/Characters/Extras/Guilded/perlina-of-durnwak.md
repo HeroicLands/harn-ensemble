@@ -7,18 +7,8 @@ name:
   given: Perlina
   clan: Durnwak
   aliases: []
-id: OBCRRhDuXCNHcjxF
-packFolder: extrasguilded
 shortcode: perlinaofdurnwak
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OBCRRhDuXCNHcjxF
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

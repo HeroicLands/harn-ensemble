@@ -7,19 +7,8 @@ name:
   given: Orthias
   clan: Avorda
   aliases: []
-id: 03kJhd2GpzQoEjWg
-packFolder: extrasclergy
 shortcode: orthiasofavorda
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: 03kJhd2GpzQoEjWg
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

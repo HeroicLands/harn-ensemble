@@ -7,18 +7,8 @@ name:
   given: Gina
   clan: Hosathias
   aliases: []
-id: 0ot8Cojs5E2OYg8m
-packFolder: extrasguilded
 shortcode: ginaofhosathias
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0ot8Cojs5E2OYg8m
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Masyn
   clan: Etane
   aliases: []
-id: l5r3440Fq0xiafiz
-packFolder: extrasunguilded
 shortcode: masynofetane
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: l5r3440Fq0xiafiz
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

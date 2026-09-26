@@ -7,18 +7,8 @@ name:
   given: Teldane
   clan: Varadas
   aliases: []
-id: tEQ94umeY2F0CqoE
-packFolder: extrasunguilded
 shortcode: teldaneofvaradas
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tEQ94umeY2F0CqoE
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

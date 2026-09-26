@@ -7,18 +7,8 @@ name:
   given: Cazarad
   clan: Asaka
   aliases: []
-id: 2eMn2IPa8K9eTQ8u
-packFolder: extrasnobles
 shortcode: cazaradofasaka
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2eMn2IPa8K9eTQ8u
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

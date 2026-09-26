@@ -7,18 +7,8 @@ name:
   given: Corfyn
   clan: Deth
   aliases: []
-id: O3YZf6vlf1bfVraA
-packFolder: extrasunguilded
 shortcode: corfynofdeth
 type: being
-social:
-  occupation: Feudal Militia
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: O3YZf6vlf1bfVraA
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

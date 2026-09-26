@@ -7,18 +7,8 @@ name:
   given: Baranchir
   clan: Baramathor
   aliases: []
-id: NmU1ZLPDLukxMgRo
-packFolder: extrasnobles
 shortcode: baranchirofbaramathor
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NmU1ZLPDLukxMgRo
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

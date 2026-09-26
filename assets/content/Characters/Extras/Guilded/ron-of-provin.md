@@ -7,18 +7,8 @@ name:
   given: Ron
   clan: Provin
   aliases: []
-id: 1u0NccWajJogNic1
-packFolder: extrasguilded
 shortcode: ronofprovin
 type: being
-social:
-  occupation: Innkeeper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1u0NccWajJogNic1
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

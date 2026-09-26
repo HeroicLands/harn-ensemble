@@ -7,18 +7,8 @@ name:
   given: Morrin
   clan: Nanikul
   aliases: []
-id: lxpLkKDgcj3Lg4TT
-packFolder: extrasnobles
 shortcode: morrinofnanikul
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lxpLkKDgcj3Lg4TT
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

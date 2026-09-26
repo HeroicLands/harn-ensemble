@@ -7,18 +7,8 @@ name:
   given: Soline
   clan: Seth
   aliases: []
-id: dQUWmSJgvPtrktGK
-packFolder: extrasguilded
 shortcode: solineofseth
 type: being
-social:
-  occupation: Potter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dQUWmSJgvPtrktGK
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

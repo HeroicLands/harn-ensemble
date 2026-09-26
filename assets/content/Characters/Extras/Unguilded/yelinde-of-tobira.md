@@ -7,18 +7,8 @@ name:
   given: Yelinde
   clan: Tobira
   aliases: []
-id: TQZmr9hkvaiYuwjg
-packFolder: extrasunguilded
 shortcode: yelindeoftobira
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TQZmr9hkvaiYuwjg
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Jaslyn
   clan: Durnwak
   aliases: []
-id: mSIvZoi6epchtNf0
-packFolder: extrasclergy
 shortcode: jaslynofdurnwak
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: mSIvZoi6epchtNf0
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

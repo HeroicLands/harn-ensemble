@@ -7,18 +7,8 @@ name:
   given: Koridol
   clan: Lumede
   aliases: []
-id: rtZ1uVrOzKAurpfy
-packFolder: extrasmages
 shortcode: koridoloflumede
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn***"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rtZ1uVrOzKAurpfy
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn***"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

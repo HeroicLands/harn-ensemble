@@ -7,19 +7,8 @@ name:
   given: Barris
   clan: Gorn
   aliases: []
-id: XbtouNxhhTn7NMUw
-packFolder: fffguilded
 shortcode: barrisofgorn
 type: being
-social:
-  occupation: Hideworker
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3111tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Missing teeth
       - Smells bad
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: XbtouNxhhTn7NMUw
+  packFolder: fffguilded
+  social:
+    occupation: Hideworker
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

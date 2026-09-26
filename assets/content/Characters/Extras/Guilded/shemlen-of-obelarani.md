@@ -7,18 +7,8 @@ name:
   given: Shemlen
   clan: Obelarani
   aliases: []
-id: 1ZdgIVie0AYDaKen
-packFolder: extrasguilded
 shortcode: shemlenofobelarani
 type: being
-social:
-  occupation: Hideworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1ZdgIVie0AYDaKen
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

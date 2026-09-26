@@ -7,18 +7,8 @@ name:
   given: Cholayn
   clan: Asain
   aliases: []
-id: RbrY3biKtSbhybea
-packFolder: extrasunguilded
 shortcode: cholaynofasain
 type: being
-social:
-  occupation: Imperial Militia
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RbrY3biKtSbhybea
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

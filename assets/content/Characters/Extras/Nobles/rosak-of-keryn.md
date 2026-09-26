@@ -7,18 +7,8 @@ name:
   given: Rosak
   clan: Keryn
   aliases: []
-id: 69qUQ4XK4mk8GBSF
-packFolder: extrasnobles
 shortcode: rosakofkeryn
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 69qUQ4XK4mk8GBSF
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

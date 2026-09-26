@@ -7,19 +7,8 @@ name:
   given: Shemlena
   clan: Sunis
   aliases: []
-id: lMLAZy7c8fD3zvD9
-packFolder: extrasclergy
 shortcode: shemlenaofsunis
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: lMLAZy7c8fD3zvD9
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

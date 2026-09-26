@@ -7,18 +7,8 @@ name:
   given: She
   clan: Asan
   aliases: []
-id: S44yjv8H8BokCWMo
-packFolder: extrasnobles
 shortcode: sheofasan
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: S44yjv8H8BokCWMo
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

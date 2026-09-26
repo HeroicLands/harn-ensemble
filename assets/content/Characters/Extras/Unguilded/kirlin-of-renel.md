@@ -7,18 +7,8 @@ name:
   given: Kirlin
   clan: Renel
   aliases: []
-id: zDmG1dEzqfUNdW77
-packFolder: extrasunguilded
 shortcode: kirlinofrenel
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zDmG1dEzqfUNdW77
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

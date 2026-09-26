@@ -7,18 +7,8 @@ name:
   given: Hadah
   clan: Hosanerikaren
   aliases: []
-id: aMjJ0vyE5IWdnuyE
-packFolder: extrasguilded
 shortcode: hadahofhosanerikaren
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aMjJ0vyE5IWdnuyE
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Lasyn
   clan: Baets
   aliases: []
-id: f6s31p5I0TAdJgIH
-packFolder: extrasunguilded
 shortcode: lasynofbaets
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: f6s31p5I0TAdJgIH
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

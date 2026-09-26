@@ -7,18 +7,8 @@ name:
   given: Eldel
   clan: Hen
   aliases: []
-id: oBRwLnjmXRalWGiW
-packFolder: extrasnobles
 shortcode: eldelofhen
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oBRwLnjmXRalWGiW
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

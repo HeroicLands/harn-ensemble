@@ -7,18 +7,8 @@ name:
   given: Pelime
   clan: Onparth
   aliases: []
-id: GfVSG3bsHzl0OHO0
-packFolder: extrasguilded
 shortcode: pelimeofonparth
 type: being
-social:
-  occupation: Alchemist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GfVSG3bsHzl0OHO0
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

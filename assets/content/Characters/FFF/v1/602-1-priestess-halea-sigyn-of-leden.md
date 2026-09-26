@@ -7,19 +7,8 @@ name:
   given: Sigyn
   clan: Leden
   aliases: []
-id: cHaUpTHhhkvOD5XM
-packFolder: fffclergy
 shortcode: sigynofleden
 type: being
-social:
-  occupation: Shenasene
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff6021tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: cHaUpTHhhkvOD5XM
+  packFolder: fffclergy
+  social:
+    occupation: Shenasene
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

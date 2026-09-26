@@ -7,18 +7,8 @@ name:
   given: Mereda
   clan: Vanth
   aliases: []
-id: a79JZWHh6YOkpqh2
-packFolder: extrasunguilded
 shortcode: meredaofvanth
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: a79JZWHh6YOkpqh2
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

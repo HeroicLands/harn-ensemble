@@ -7,18 +7,8 @@ name:
   given: Segina
   clan: Parsel
   aliases: []
-id: pS13LckYVLVeo0BM
-packFolder: extrasunguilded
 shortcode: seginaofparsel
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pS13LckYVLVeo0BM
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

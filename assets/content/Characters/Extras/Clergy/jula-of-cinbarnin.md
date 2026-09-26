@@ -7,19 +7,8 @@ name:
   given: Jula
   clan: Cinbarnin
   aliases: []
-id: JNaUJwOQp0zycXiv
-packFolder: extrasclergy
 shortcode: julaofcinbarnin
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: JNaUJwOQp0zycXiv
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

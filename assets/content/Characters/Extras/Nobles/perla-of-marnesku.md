@@ -7,18 +7,8 @@ name:
   given: Perla
   clan: Marnesku
   aliases: []
-id: UDspR7WDhxrXzwiC
-packFolder: extrasnobles
 shortcode: perlaofmarnesku
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UDspR7WDhxrXzwiC
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

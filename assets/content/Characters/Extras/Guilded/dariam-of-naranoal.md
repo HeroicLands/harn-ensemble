@@ -7,18 +7,8 @@ name:
   given: Dariam
   clan: Naranoal
   aliases: []
-id: Q3YJXnnDxwUPJVGv
-packFolder: extrasguilded
 shortcode: dariamofnaranoal
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Q3YJXnnDxwUPJVGv
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

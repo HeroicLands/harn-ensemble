@@ -7,19 +7,8 @@ name:
   given: Jesa
   clan: Sidethasil
   aliases: []
-id: rK0mk7LBZUTk26t3
-packFolder: extrasclergy
 shortcode: jesaofsidethasil
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: rK0mk7LBZUTk26t3
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

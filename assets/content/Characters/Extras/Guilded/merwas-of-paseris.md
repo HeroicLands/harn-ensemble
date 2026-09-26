@@ -7,18 +7,8 @@ name:
   given: Merwas
   clan: Paseris
   aliases: []
-id: J9aYVjIyZp4LUs5a
-packFolder: extrasguilded
 shortcode: merwasofpaseris
 type: being
-social:
-  occupation: Physician
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: J9aYVjIyZp4LUs5a
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

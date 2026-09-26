@@ -7,18 +7,8 @@ name:
   given: Celeg
   clan: Annamath
   aliases: []
-id: fEBVMmAVJES3NhUX
-packFolder: extrasnobles
 shortcode: celegofannamath
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fEBVMmAVJES3NhUX
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

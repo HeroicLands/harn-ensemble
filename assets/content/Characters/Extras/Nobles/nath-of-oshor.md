@@ -7,18 +7,8 @@ name:
   given: Nath
   clan: Oshor
   aliases: []
-id: O2xw6s6BcZia76YK
-packFolder: extrasnobles
 shortcode: nathofoshor
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: O2xw6s6BcZia76YK
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

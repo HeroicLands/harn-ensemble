@@ -7,19 +7,8 @@ name:
   given: Gorsine
   clan: Raben
   aliases: []
-id: eztQzdabwjV8IMmo
-packFolder: extrasclergy
 shortcode: gorsineofraben
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: eztQzdabwjV8IMmo
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

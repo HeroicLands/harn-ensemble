@@ -7,18 +7,8 @@ name:
   given: Pontous
   clan: Onparin
   aliases: []
-id: VjuHZQdbHpaofFMz
-packFolder: extrasguilded
 shortcode: pontousofonparin
 type: being
-social:
-  occupation: Alchemist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VjuHZQdbHpaofFMz
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

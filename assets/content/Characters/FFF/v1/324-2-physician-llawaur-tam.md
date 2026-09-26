@@ -7,19 +7,8 @@ name:
   given: Llawaur
   clan: Tam
   aliases: []
-id: mKKZFqqi9mBqoiFw
-packFolder: fffguilded
 shortcode: llawaurtam
 type: being
-social:
-  occupation: Physician
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3242tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Very well dressed
       - noticeable accent
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: mKKZFqqi9mBqoiFw
+  packFolder: fffguilded
+  social:
+    occupation: Physician
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

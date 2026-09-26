@@ -7,18 +7,8 @@ name:
   given: Obiris
   clan: Sel
   aliases: []
-id: eFvZygz9CV63TwE2
-packFolder: extrasmages
 shortcode: obirisofsel
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi****"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eFvZygz9CV63TwE2
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi****"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

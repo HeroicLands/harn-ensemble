@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Manchi
   aliases: []
-id: rz5IOIuztzyzkNEB
-packFolder: extrasunguilded
 shortcode: sylviaofmanchi
 type: being
-social:
-  occupation: Fisherman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rz5IOIuztzyzkNEB
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Maeghela
   clan: Stiem
   aliases: []
-id: 2vPVvMNmwg5WnuxA
-packFolder: extrasclergy
 shortcode: maeghelaofstiem
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 2vPVvMNmwg5WnuxA
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

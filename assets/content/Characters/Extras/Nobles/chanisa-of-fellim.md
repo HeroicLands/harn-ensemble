@@ -7,18 +7,8 @@ name:
   given: Chanisa
   clan: Fellim
   aliases: []
-id: KnNVQke9AxHqUWgQ
-packFolder: extrasnobles
 shortcode: chanisaoffellim
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KnNVQke9AxHqUWgQ
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

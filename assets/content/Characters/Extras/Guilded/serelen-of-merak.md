@@ -7,18 +7,8 @@ name:
   given: Serelen
   clan: Merak
   aliases: []
-id: zGqh9F373KsLDA8J
-packFolder: extrasguilded
 shortcode: serelenofmerak
 type: being
-social:
-  occupation: Potter
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zGqh9F373KsLDA8J
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

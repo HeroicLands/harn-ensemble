@@ -7,18 +7,8 @@ name:
   given: Shaeldel
   clan: Arda
   aliases: []
-id: HljUuYJFAW6uYaxg
-packFolder: extrasnobles
 shortcode: shaeldelofarda
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HljUuYJFAW6uYaxg
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

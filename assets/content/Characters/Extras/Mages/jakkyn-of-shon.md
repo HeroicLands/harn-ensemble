@@ -7,18 +7,8 @@ name:
   given: Jakkyn
   clan: Shon
   aliases: []
-id: gRVAxTgqKBxsseGj
-packFolder: extrasmages
 shortcode: jakkynofshon
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gRVAxTgqKBxsseGj
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

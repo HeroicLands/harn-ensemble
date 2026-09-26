@@ -7,18 +7,8 @@ name:
   given: Mael
   clan: Mariam
   aliases: []
-id: pFNZINNFSFMh8Pp3
-packFolder: extrasguilded
 shortcode: maelofmariam
 type: being
-social:
-  occupation: Clothier
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pFNZINNFSFMh8Pp3
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

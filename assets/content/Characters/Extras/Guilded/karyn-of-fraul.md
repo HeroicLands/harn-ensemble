@@ -7,18 +7,8 @@ name:
   given: Karyn
   clan: Fraul
   aliases: []
-id: DbS5u4siD1ptZxWU
-packFolder: extrasguilded
 shortcode: karynoffraul
 type: being
-social:
-  occupation: Metalsmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DbS5u4siD1ptZxWU
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

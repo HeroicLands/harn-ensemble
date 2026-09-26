@@ -7,19 +7,8 @@ name:
   given: Wyte
   clan: Fyrwey
   aliases: []
-id: awKuFaoeX8MPhTj1
-packFolder: fffunguilded
 shortcode: wyteoffyrwey
 type: being
-social:
-  occupation: Thatcher
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   icon: fff4211tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Moustache
       - beard
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: awKuFaoeX8MPhTj1
+  packFolder: fffunguilded
+  social:
+    occupation: Thatcher
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

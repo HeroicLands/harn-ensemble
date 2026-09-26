@@ -7,18 +7,8 @@ name:
   given: Gina
   clan: Mund
   aliases: []
-id: 08nbDa1NJ4xSgq3i
-packFolder: extrasunguilded
 shortcode: ginaofmund
 type: being
-social:
-  occupation: Cook/Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 08nbDa1NJ4xSgq3i
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

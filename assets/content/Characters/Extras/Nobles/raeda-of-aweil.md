@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Aweil
   aliases: []
-id: OUvRXHmDJm7YgAip
-packFolder: extrasnobles
 shortcode: raedaofaweil
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OUvRXHmDJm7YgAip
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

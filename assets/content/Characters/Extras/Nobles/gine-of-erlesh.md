@@ -7,18 +7,8 @@ name:
   given: Gine
   clan: Erlesh
   aliases: []
-id: RgocDNrxrGgDiJAw
-packFolder: extrasnobles
 shortcode: gineoferlesh
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RgocDNrxrGgDiJAw
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

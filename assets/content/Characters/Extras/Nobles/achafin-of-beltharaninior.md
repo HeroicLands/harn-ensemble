@@ -7,18 +7,8 @@ name:
   given: Achafin
   clan: Beltharaninior
   aliases: []
-id: 27SGmlHZAOSNBQuK
-packFolder: extrasnobles
 shortcode: achafinofbeltharaninior
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 27SGmlHZAOSNBQuK
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

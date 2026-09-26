@@ -7,18 +7,8 @@ name:
   given: Caronis
   clan: Stuk
   aliases: []
-id: RNBeY0Z1kd4AIOTH
-packFolder: extrasguilded
 shortcode: caronisofstuk
 type: being
-social:
-  occupation: Ostler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RNBeY0Z1kd4AIOTH
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

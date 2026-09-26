@@ -7,19 +7,8 @@ name:
   given: Orthias
   clan: Bellyr
   aliases: []
-id: ghzFGm9g5oX6TcFk
-packFolder: extrasclergy
 shortcode: orthiasofbellyr
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: ghzFGm9g5oX6TcFk
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

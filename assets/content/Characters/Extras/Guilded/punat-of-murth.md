@@ -7,18 +7,8 @@ name:
   given: Punat
   clan: Murth
   aliases: []
-id: 4oI1JoRatFs2Mdve
-packFolder: extrasguilded
 shortcode: punatofmurth
 type: being
-social:
-  occupation: Metalsmith
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4oI1JoRatFs2Mdve
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

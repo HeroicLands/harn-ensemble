@@ -7,18 +7,8 @@ name:
   given: Chendra
   clan: Erlesh
   aliases: []
-id: Y5TsVBVkQPK2wcFN
-packFolder: extrasmages
 shortcode: chendraoferlesh
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Y5TsVBVkQPK2wcFN
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

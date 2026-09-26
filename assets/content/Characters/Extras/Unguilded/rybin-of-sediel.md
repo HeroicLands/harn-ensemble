@@ -7,18 +7,8 @@ name:
   given: Rybin
   clan: Sediel
   aliases: []
-id: tCrd3cFLnU1llUSj
-packFolder: extrasunguilded
 shortcode: rybinofsediel
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tCrd3cFLnU1llUSj
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

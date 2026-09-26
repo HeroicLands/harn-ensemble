@@ -7,18 +7,8 @@ name:
   given: Sta
   clan: Tulkyia
   aliases: []
-id: gxIVSxiiAlzhEPtG
-packFolder: extrasguilded
 shortcode: staoftulkyia
 type: being
-social:
-  occupation: Perfumer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gxIVSxiiAlzhEPtG
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

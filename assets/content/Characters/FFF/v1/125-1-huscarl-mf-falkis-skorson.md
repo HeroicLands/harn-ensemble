@@ -7,19 +7,8 @@ name:
   given: Falkis
   clan: Skorson
   aliases: []
-id: 8op3vcqRYg32R2Bb
-packFolder: fffmilitary
 shortcode: falkisskorson
 type: being
-social:
-  occupation: Huscarl (MF)
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff1251tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: 8op3vcqRYg32R2Bb
+  packFolder: fffmilitary
+  social:
+    occupation: Huscarl (MF)
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

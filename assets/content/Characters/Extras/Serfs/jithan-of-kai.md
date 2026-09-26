@@ -7,18 +7,8 @@ name:
   given: Jithan
   clan: Kai
   aliases: []
-id: jqQs93eCDllXVIZZ
-packFolder: extrasserfs
 shortcode: jithanofkai
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jqQs93eCDllXVIZZ
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

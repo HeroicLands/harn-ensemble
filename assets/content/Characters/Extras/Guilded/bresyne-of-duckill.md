@@ -7,18 +7,8 @@ name:
   given: Bresyne
   clan: Duckill
   aliases: []
-id: 6uyEFMq1OcK5K8H0
-packFolder: extrasguilded
 shortcode: bresyneofduckill
 type: being
-social:
-  occupation: Clothier
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6uyEFMq1OcK5K8H0
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

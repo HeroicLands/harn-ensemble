@@ -8,19 +8,8 @@ name:
   clan: Sharvan
   aliases:
     - Wick
-id: JMNJxMJPgR4E2QMp
-packFolder: fffmages
 shortcode: tobaswickofsharvan
 type: being
-social:
-  occupation: Peleahn Shek-Pvar
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - saveknor
 data:
   icon: fff7021tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
     extra_features:
       - Burn scars on his hands
       - left side of his face
+  harnworld:
+    realm: ""
+    ritual:
+      - saveknor
+  id: JMNJxMJPgR4E2QMp
+  packFolder: fffmages
+  social:
+    occupation: Peleahn Shek-Pvar
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

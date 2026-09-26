@@ -7,19 +7,8 @@ name:
   given: Yerick
   clan: Eram
   aliases: []
-id: o1TBjF89VeUt8Gxh
-packFolder: fffmilitary
 shortcode: sergeantyerickoferam
 type: being
-social:
-  occupation: Fighting Order (MF)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff1031tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: o1TBjF89VeUt8Gxh
+  packFolder: fffmilitary
+  social:
+    occupation: Fighting Order (MF)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

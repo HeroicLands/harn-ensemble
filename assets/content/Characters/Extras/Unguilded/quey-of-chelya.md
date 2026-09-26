@@ -7,18 +7,8 @@ name:
   given: Quey
   clan: Chelya
   aliases: []
-id: FYA9CN5yD4tRn1EH
-packFolder: extrasunguilded
 shortcode: queyofchelya
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FYA9CN5yD4tRn1EH
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

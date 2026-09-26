@@ -7,18 +7,8 @@ name:
   given: Lodin
   clan: Stuk
   aliases: []
-id: GWUDJqf1dDFZUjgk
-packFolder: extrasunguilded
 shortcode: lodinofstuk
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GWUDJqf1dDFZUjgk
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

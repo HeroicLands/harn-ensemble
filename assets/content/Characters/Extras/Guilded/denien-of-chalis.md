@@ -7,18 +7,8 @@ name:
   given: Denien
   clan: Chalis
   aliases: []
-id: JWc2AtqJbohQnuSp
-packFolder: extrasguilded
 shortcode: denienofchalis
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JWc2AtqJbohQnuSp
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

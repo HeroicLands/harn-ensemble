@@ -7,18 +7,8 @@ name:
   given: Dickon
   clan: Kephis
   aliases: []
-id: Mz6E3lPJlTx7z6ir
-packFolder: extrasserfs
 shortcode: dickonofkephis
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Mz6E3lPJlTx7z6ir
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

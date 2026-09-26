@@ -7,18 +7,8 @@ name:
   given: Ras
   clan: Laplaemen
   aliases: []
-id: UxEynsTCDaSWpJWL
-packFolder: extrasunguilded
 shortcode: rasoflaplaemen
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UxEynsTCDaSWpJWL
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

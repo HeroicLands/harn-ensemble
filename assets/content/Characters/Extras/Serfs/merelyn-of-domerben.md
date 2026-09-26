@@ -7,18 +7,8 @@ name:
   given: Merelyn
   clan: Domerben
   aliases: []
-id: qnLVoo73zwc3dRav
-packFolder: extrasserfs
 shortcode: merelynofdomerben
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qnLVoo73zwc3dRav
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

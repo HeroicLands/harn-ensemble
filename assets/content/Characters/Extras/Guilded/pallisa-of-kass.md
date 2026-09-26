@@ -7,18 +7,8 @@ name:
   given: Pallisa
   clan: Kass
   aliases: []
-id: 4oqbYsKhLScsevuA
-packFolder: extrasguilded
 shortcode: pallisaofkass
 type: being
-social:
-  occupation: Ostler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4oqbYsKhLScsevuA
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

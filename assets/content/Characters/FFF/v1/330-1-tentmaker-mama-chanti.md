@@ -7,19 +7,8 @@ name:
   given: Mama
   clan: Chanti
   aliases: []
-id: DXII1oXhOLZBU8FB
-packFolder: fffguilded
 shortcode: mamachanti
 type: being
-social:
-  occupation: Tentmaker
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3301tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: DXII1oXhOLZBU8FB
+  packFolder: fffguilded
+  social:
+    occupation: Tentmaker
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

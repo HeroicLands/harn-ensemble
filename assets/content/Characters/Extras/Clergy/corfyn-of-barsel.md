@@ -7,19 +7,8 @@ name:
   given: Corfyn
   clan: Barsel
   aliases: []
-id: GAUXS2PWxQI9IdVT
-packFolder: extrasclergy
 shortcode: corfynofbarsel
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: GAUXS2PWxQI9IdVT
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Mysilen
   clan: Wejik
   aliases: []
-id: r6wSyibT9paQpWSJ
-packFolder: extrasserfs
 shortcode: mysilenofwejik
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: r6wSyibT9paQpWSJ
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

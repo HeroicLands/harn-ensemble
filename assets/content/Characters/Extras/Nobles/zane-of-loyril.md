@@ -7,18 +7,8 @@ name:
   given: Zane
   clan: Loyril
   aliases: []
-id: ULquQrHPnPYjJyYQ
-packFolder: extrasnobles
 shortcode: zaneofloyril
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ULquQrHPnPYjJyYQ
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

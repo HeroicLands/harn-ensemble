@@ -7,19 +7,8 @@ name:
   given: Tulah
   clan: Elen
   aliases: []
-id: OnydGoB5uAqOIA8c
-packFolder: extrasclergy
 shortcode: tulahofelen
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: OnydGoB5uAqOIA8c
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

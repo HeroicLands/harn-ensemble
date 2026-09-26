@@ -7,19 +7,8 @@ name:
   given: Bryle
   clan: Sedirin
   aliases: []
-id: fREx2tYjGtFlF6kg
-packFolder: extrasclergy
 shortcode: bryleofsedirin
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: fREx2tYjGtFlF6kg
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

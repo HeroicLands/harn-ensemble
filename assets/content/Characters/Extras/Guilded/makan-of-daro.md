@@ -7,18 +7,8 @@ name:
   given: Makan
   clan: Daro
   aliases: []
-id: hnD8uAvwiJeRQIQT
-packFolder: extrasguilded
 shortcode: makanofdaro
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hnD8uAvwiJeRQIQT
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

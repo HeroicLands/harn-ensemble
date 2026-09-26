@@ -7,18 +7,8 @@ name:
   given: Lavro
   clan: Quiribor
   aliases: []
-id: Mm8KA5USnRxERfGD
-packFolder: extrasunguilded
 shortcode: lavroofquiribor
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Mm8KA5USnRxERfGD
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Borana
   clan: Armel
   aliases: []
-id: fpZ0l6ABm15FdFck
-packFolder: extrasclergy
 shortcode: boranaofarmel
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: fpZ0l6ABm15FdFck
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

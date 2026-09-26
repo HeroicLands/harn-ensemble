@@ -7,18 +7,8 @@ name:
   given: Ronis
   clan: Faleh
   aliases: []
-id: ooFLhWQukwxoGYj4
-packFolder: extrasunguilded
 shortcode: ronisoffaleh
 type: being
-social:
-  occupation: Toymaker
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ooFLhWQukwxoGYj4
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

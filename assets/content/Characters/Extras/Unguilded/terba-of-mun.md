@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Mun
   aliases: []
-id: iFvGvqVeAk4aJlhh
-packFolder: extrasunguilded
 shortcode: terbaofmun
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iFvGvqVeAk4aJlhh
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

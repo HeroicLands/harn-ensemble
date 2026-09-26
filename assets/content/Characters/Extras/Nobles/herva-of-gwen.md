@@ -7,18 +7,8 @@ name:
   given: Herva
   clan: Gwen
   aliases: []
-id: 0GcHiA7vUFPbrRUs
-packFolder: extrasnobles
 shortcode: hervaofgwen
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0GcHiA7vUFPbrRUs
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

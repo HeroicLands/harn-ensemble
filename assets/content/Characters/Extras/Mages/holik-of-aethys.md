@@ -7,18 +7,8 @@ name:
   given: Holik
   clan: Aethys
   aliases: []
-id: 8aJ6hnPHEDWgQb8R
-packFolder: extrasmages
 shortcode: holikofaethys
 type: being
-social:
-  occupation: "Shek-Pvar/Odivshe****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8aJ6hnPHEDWgQb8R
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Odivshe****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

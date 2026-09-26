@@ -7,18 +7,8 @@ name:
   given: Lodin
   clan: Homslow
   aliases: []
-id: UXxgsSwdaPZkBDWZ
-packFolder: extrasnobles
 shortcode: lodinofhomslow
 type: being
-social:
-  occupation: Baliff
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UXxgsSwdaPZkBDWZ
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

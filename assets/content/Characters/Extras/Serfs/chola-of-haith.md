@@ -7,18 +7,8 @@ name:
   given: Chola
   clan: Haith
   aliases: []
-id: e4Xp9zj0BkamrlWM
-packFolder: extrasserfs
 shortcode: cholaofhaith
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: e4Xp9zj0BkamrlWM
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

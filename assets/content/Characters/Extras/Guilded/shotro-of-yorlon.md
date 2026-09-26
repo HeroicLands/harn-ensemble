@@ -7,18 +7,8 @@ name:
   given: Shotro
   clan: Yorlon
   aliases: []
-id: pg4lTef2Kx0oRBsP
-packFolder: extrasguilded
 shortcode: shotroofyorlon
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pg4lTef2Kx0oRBsP
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Pallisa
   clan: Abir
   aliases: []
-id: G4UMHAetar95QxWZ
-packFolder: extrasunguilded
 shortcode: pallisaofabir
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: G4UMHAetar95QxWZ
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

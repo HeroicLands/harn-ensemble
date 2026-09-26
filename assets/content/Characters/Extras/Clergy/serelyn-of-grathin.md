@@ -7,19 +7,8 @@ name:
   given: Serelyn
   clan: Grathin
   aliases: []
-id: x1YHZWh4K0JTNLlQ
-packFolder: extrasclergy
 shortcode: serelynofgrathin
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: x1YHZWh4K0JTNLlQ
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

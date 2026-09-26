@@ -7,18 +7,8 @@ name:
   given: Jend
   clan: Kanthen
   aliases: []
-id: 2dFAtYI8nTSIKduh
-packFolder: extrasunguilded
 shortcode: jendofkanthen
 type: being
-social:
-  occupation: Imperial Militia
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2dFAtYI8nTSIKduh
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

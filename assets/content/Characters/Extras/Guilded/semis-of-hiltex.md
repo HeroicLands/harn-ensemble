@@ -7,18 +7,8 @@ name:
   given: Semis
   clan: Hiltex
   aliases: []
-id: zc0GhebYZQmjl3pq
-packFolder: extrasguilded
 shortcode: semisofhiltex
 type: being
-social:
-  occupation: Mercantyler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zc0GhebYZQmjl3pq
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

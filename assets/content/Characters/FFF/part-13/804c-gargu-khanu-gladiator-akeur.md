@@ -7,18 +7,8 @@ name:
   given: Akeur
   clan: ""
   aliases: []
-id: xmbb9aLzr8VGhxZu
-packFolder: fffnonhumans
 shortcode: akeur
 type: being
-social:
-  occupation: Gladiator
-  class: warrior
-  society: gargun
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff804chead
   tokenIcon: fff804ctok
@@ -36,6 +26,16 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xmbb9aLzr8VGhxZu
+  packFolder: fffnonhumans
+  social:
+    occupation: Gladiator
+    class: warrior
+    society: gargun
+    organizations: []
 hm3:
   type: character
   attributes:

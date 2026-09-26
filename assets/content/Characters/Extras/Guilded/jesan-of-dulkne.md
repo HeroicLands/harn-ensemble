@@ -7,18 +7,8 @@ name:
   given: Jesan
   clan: Dulkne
   aliases: []
-id: RiihD1Ektnjrf2qq
-packFolder: extrasguilded
 shortcode: jesanofdulkne
 type: being
-social:
-  occupation: Glassworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RiihD1Ektnjrf2qq
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Hela
   clan: Borskin
   aliases: []
-id: VppN4q3N0MoJjvu1
-packFolder: extrasunguilded
 shortcode: helaofborskin
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VppN4q3N0MoJjvu1
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

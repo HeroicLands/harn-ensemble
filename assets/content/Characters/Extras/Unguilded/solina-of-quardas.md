@@ -7,18 +7,8 @@ name:
   given: Solina
   clan: Quardas
   aliases: []
-id: QL37tftlcYbh5a63
-packFolder: extrasunguilded
 shortcode: solinaofquardas
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QL37tftlcYbh5a63
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

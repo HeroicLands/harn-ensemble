@@ -7,18 +7,8 @@ name:
   given: Tulah
   clan: Quirin
   aliases: []
-id: KnpCRmpKsFXm3foB
-packFolder: extrasguilded
 shortcode: tulahofquirin
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KnpCRmpKsFXm3foB
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

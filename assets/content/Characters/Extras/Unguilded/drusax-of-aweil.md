@@ -7,18 +7,8 @@ name:
   given: Drusax
   clan: Aweil
   aliases: []
-id: Lbr1uvGReArobl5d
-packFolder: extrasunguilded
 shortcode: drusaxofaweil
 type: being
-social:
-  occupation: Farmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Lbr1uvGReArobl5d
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Kuvel
   clan: Chariam
   aliases: []
-id: DEobTQEXjV8YaPcZ
-packFolder: extrasguilded
 shortcode: kuvelofchariam
 type: being
-social:
-  occupation: Lexigrapher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DEobTQEXjV8YaPcZ
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

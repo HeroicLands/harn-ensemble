@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Stiem
   aliases: []
-id: rwMC7dpXuT0sX8c3
-packFolder: extrasguilded
 shortcode: tolmeyofstiem
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rwMC7dpXuT0sX8c3
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Breth
   clan: Merlesh
   aliases: []
-id: bXnv7uCO3gn9SUnB
-packFolder: extrasguilded
 shortcode: brethofmerlesh
 type: being
-social:
-  occupation: Chandler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bXnv7uCO3gn9SUnB
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

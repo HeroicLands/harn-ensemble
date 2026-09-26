@@ -7,18 +7,8 @@ name:
   given: Cheselyn
   clan: Ardrass
   aliases: []
-id: pvWMyXCZfRVzxmx1
-packFolder: extrasunguilded
 shortcode: cheselynofardrass
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pvWMyXCZfRVzxmx1
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

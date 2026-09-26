@@ -7,18 +7,8 @@ name:
   given: Merelyn
   clan: Tichmarn
   aliases: []
-id: 5HpaXfuFoEj6iN7O
-packFolder: extrasguilded
 shortcode: merelynoftichmarn
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5HpaXfuFoEj6iN7O
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

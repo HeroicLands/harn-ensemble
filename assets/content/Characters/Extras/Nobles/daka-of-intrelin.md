@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Intrelin
   aliases: []
-id: VtficWuPQ9JiZCk2
-packFolder: extrasnobles
 shortcode: dakaofintrelin
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VtficWuPQ9JiZCk2
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

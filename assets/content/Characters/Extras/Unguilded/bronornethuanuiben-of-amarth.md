@@ -7,18 +7,8 @@ name:
   given: Bronornethuanuiben
   clan: Amarth
   aliases: []
-id: DgI3TSwPIZGXrefQ
-packFolder: extrasunguilded
 shortcode: bronornethuanuibenofamarth
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DgI3TSwPIZGXrefQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

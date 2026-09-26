@@ -7,18 +7,8 @@ name:
   given: Tarlen
   clan: Belarass
   aliases: []
-id: LCeRfRl1NMYy23SX
-packFolder: extrasnobles
 shortcode: tarlenofbelarass
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LCeRfRl1NMYy23SX
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

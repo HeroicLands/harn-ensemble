@@ -7,18 +7,8 @@ name:
   given: Shansea
   clan: Garavania
   aliases: []
-id: HArxJjxZFXt5sqO8
-packFolder: fffmages
 shortcode: shanseagaravania
 type: being
-social:
-  occupation: Savoryan Shek-Pvar
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff7061tok
   templatePriority: 1
@@ -36,6 +26,16 @@ data:
     complexion: ugly
     extra_features:
       - Foreign accent
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HArxJjxZFXt5sqO8
+  packFolder: fffmages
+  social:
+    occupation: Savoryan Shek-Pvar
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

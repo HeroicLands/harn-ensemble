@@ -7,19 +7,8 @@ name:
   given: Pallis
   clan: Marn
   aliases: []
-id: KrkN51j9I0xln0Ln
-packFolder: extrasclergy
 shortcode: pallisofmarn
 type: being
-social:
-  occupation: Cleric/Halea
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: KrkN51j9I0xln0Ln
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

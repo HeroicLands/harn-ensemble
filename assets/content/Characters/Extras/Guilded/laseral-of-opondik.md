@@ -7,18 +7,8 @@ name:
   given: Laseral
   clan: Opondik
   aliases: []
-id: uClbvCJuWohJ7WCS
-packFolder: extrasguilded
 shortcode: laseralofopondik
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uClbvCJuWohJ7WCS
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

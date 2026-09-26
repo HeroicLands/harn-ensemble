@@ -7,18 +7,8 @@ name:
   given: Klarina
   clan: Parsuel
   aliases: []
-id: oCJ6m21d0Cr1K6ga
-packFolder: extrasguilded
 shortcode: klarinaofparsuel
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oCJ6m21d0Cr1K6ga
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

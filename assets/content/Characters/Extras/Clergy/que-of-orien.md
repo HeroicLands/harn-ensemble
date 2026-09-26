@@ -7,19 +7,8 @@ name:
   given: Que
   clan: Orien
   aliases: []
-id: QrpSpdNJHRNc057A
-packFolder: extrasclergy
 shortcode: queoforien
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: QrpSpdNJHRNc057A
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Irdan
   clan: Tarstelbarenel
   aliases: []
-id: 9wqKZ5ms4FF2k8Xf
-packFolder: extrasunguilded
 shortcode: irdanoftarstelbarenel
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9wqKZ5ms4FF2k8Xf
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

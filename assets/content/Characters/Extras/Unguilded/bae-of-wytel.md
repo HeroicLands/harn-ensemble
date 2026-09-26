@@ -7,18 +7,8 @@ name:
   given: Bae
   clan: Wytel
   aliases: []
-id: XfcR2DM80CqsdqMp
-packFolder: extrasunguilded
 shortcode: baeofwytel
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XfcR2DM80CqsdqMp
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

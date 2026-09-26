@@ -7,18 +7,8 @@ name:
   given: Pallis
   clan: Harael
   aliases: []
-id: 8RBH36aOALh9ooII
-packFolder: extrasguilded
 shortcode: pallisofharael
 type: being
-social:
-  occupation: Harper/Skald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8RBH36aOALh9ooII
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

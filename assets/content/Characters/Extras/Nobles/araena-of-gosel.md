@@ -7,18 +7,8 @@ name:
   given: Araena
   clan: Gosel
   aliases: []
-id: VtmSsKAtUtya37xe
-packFolder: extrasnobles
 shortcode: araenaofgosel
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VtmSsKAtUtya37xe
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Gaetane
   clan: Pharcaras
   aliases: []
-id: bX2iV78uJVJWPBgL
-packFolder: extrasunguilded
 shortcode: gaetaneofpharcaras
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bX2iV78uJVJWPBgL
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Urlock
   clan: Lunen
   aliases: []
-id: QxwYzLRZVH7MeleG
-packFolder: extrasclergy
 shortcode: urlockoflunen
 type: being
-social:
-  occupation: Cleric/Siem
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: QxwYzLRZVH7MeleG
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

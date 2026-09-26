@@ -7,18 +7,8 @@ name:
   given: Arandy
   clan: Laplacka
   aliases: []
-id: cciB45OnafBGHkFN
-packFolder: extrasnobles
 shortcode: arandyoflaplacka
 type: being
-social:
-  occupation: Herald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: cciB45OnafBGHkFN
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

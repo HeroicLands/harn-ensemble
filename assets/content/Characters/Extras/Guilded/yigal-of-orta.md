@@ -7,18 +7,8 @@ name:
   given: Yigal
   clan: Orta
   aliases: []
-id: AUwsWMRRGsy2UfGD
-packFolder: extrasguilded
 shortcode: yigaloforta
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AUwsWMRRGsy2UfGD
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

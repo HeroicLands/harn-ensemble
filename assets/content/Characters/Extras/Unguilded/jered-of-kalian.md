@@ -7,18 +7,8 @@ name:
   given: Jered
   clan: Kalian
   aliases: []
-id: odVc8jJ0KDpAawR2
-packFolder: extrasunguilded
 shortcode: jeredofkalian
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: odVc8jJ0KDpAawR2
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

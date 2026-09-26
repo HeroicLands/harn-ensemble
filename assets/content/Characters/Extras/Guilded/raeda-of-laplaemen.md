@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Laplaemen
   aliases: []
-id: 4OGIiu4bckxo8QDc
-packFolder: extrasguilded
 shortcode: raedaoflaplaemen
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4OGIiu4bckxo8QDc
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Gordy
   clan: Flaren
   aliases: []
-id: rbMRdFECTlSZuiP7
-packFolder: fffguilded
 shortcode: gordyofflaren
 type: being
-social:
-  occupation: Timberwright
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3331tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: ugly
     extra_features:
       - Acne scars on face
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: rbMRdFECTlSZuiP7
+  packFolder: fffguilded
+  social:
+    occupation: Timberwright
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Lir
   clan: Renel
   aliases: []
-id: ei6z8CUmqaXo8cnD
-packFolder: extrasclergy
 shortcode: lirofrenel
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: ei6z8CUmqaXo8cnD
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

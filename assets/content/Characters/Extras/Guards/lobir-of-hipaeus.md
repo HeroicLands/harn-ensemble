@@ -7,18 +7,8 @@ name:
   given: Lobir
   clan: Hipaeus
   aliases: []
-id: LsjIlgkTeOQp4Ww4
-packFolder: extrasguards
 shortcode: lobirofhipaeus
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LsjIlgkTeOQp4Ww4
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

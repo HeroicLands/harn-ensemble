@@ -7,18 +7,8 @@ name:
   given: Baran
   clan: Cellenamluger
   aliases: []
-id: TscFMskw9HRRCnZ6
-packFolder: extrasunguilded
 shortcode: baranofcellenamluger
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TscFMskw9HRRCnZ6
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

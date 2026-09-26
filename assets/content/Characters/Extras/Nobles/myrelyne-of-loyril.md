@@ -7,18 +7,8 @@ name:
   given: Myrelyne
   clan: Loyril
   aliases: []
-id: R2BG5gRcJs68bxFx
-packFolder: extrasnobles
 shortcode: myrelyneofloyril
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: R2BG5gRcJs68bxFx
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

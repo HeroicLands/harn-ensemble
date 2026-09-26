@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Opondik
   aliases: []
-id: 0yDtjKs97CKT7kRx
-packFolder: extrasguilded
 shortcode: sylviaofopondik
 type: being
-social:
-  occupation: Charcoaler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0yDtjKs97CKT7kRx
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

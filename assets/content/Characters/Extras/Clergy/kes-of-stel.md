@@ -7,19 +7,8 @@ name:
   given: Kes
   clan: Stel
   aliases: []
-id: jYJz9z14hPRtUB2a
-packFolder: extrasclergy
 shortcode: kesofstel
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: jYJz9z14hPRtUB2a
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

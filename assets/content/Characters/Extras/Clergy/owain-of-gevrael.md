@@ -7,19 +7,8 @@ name:
   given: Owain
   clan: Gevrael
   aliases: []
-id: rlRCY8VvX9yaMpye
-packFolder: extrasclergy
 shortcode: owainofgevrael
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: rlRCY8VvX9yaMpye
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

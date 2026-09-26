@@ -7,18 +7,8 @@ name:
   given: Tarkot
   clan: Erlesh
   aliases: []
-id: kTqj5AXh2rXH4176
-packFolder: extrasunguilded
 shortcode: tarkotoferlesh
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kTqj5AXh2rXH4176
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

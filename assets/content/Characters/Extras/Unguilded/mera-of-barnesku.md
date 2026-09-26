@@ -7,18 +7,8 @@ name:
   given: Mera
   clan: Barnesku
   aliases: []
-id: ieFl8xnmrFE9x2bO
-packFolder: extrasunguilded
 shortcode: meraofbarnesku
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ieFl8xnmrFE9x2bO
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

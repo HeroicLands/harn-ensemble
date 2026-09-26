@@ -7,18 +7,8 @@ name:
   given: Hobir
   clan: Errum
   aliases: []
-id: X175GuDw7vA9JGpJ
-packFolder: extrasunguilded
 shortcode: hobiroferrum
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: X175GuDw7vA9JGpJ
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

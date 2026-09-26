@@ -7,18 +7,8 @@ name:
   given: Obiris
   clan: Rysten
   aliases: []
-id: 4qo8CvoW8DO7Rwio
-packFolder: extrasnobles
 shortcode: obirisofrysten
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4qo8CvoW8DO7Rwio
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

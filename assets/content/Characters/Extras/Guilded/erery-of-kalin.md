@@ -7,18 +7,8 @@ name:
   given: Erery
   clan: Kalin
   aliases: []
-id: 7x7odFf4KvMCsyUP
-packFolder: extrasguilded
 shortcode: ereryofkalin
 type: being
-social:
-  occupation: Shipwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7x7odFf4KvMCsyUP
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

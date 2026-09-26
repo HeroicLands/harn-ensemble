@@ -7,18 +7,8 @@ name:
   given: Iris
   clan: Obelar
   aliases: []
-id: ZSDaUkIFoN8Q0bX0
-packFolder: extrasguilded
 shortcode: irisofobelar
 type: being
-social:
-  occupation: Miner
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZSDaUkIFoN8Q0bX0
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

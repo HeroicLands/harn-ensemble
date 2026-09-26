@@ -7,18 +7,8 @@ name:
   given: Arva
   clan: Nemiriel
   aliases: []
-id: T1pay16VaAYNv4F7
-packFolder: extrasguilded
 shortcode: arvaofnemiriel
 type: being
-social:
-  occupation: Miller/Millwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: T1pay16VaAYNv4F7
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

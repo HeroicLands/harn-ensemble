@@ -7,18 +7,8 @@ name:
   given: Marlyse
   clan: Kyfa
   aliases: []
-id: GxYEXAjUUThZ0uJn
-packFolder: extrasguilded
 shortcode: marlyseofkyfa
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GxYEXAjUUThZ0uJn
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

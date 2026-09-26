@@ -7,19 +7,8 @@ name:
   given: Lyesa
   clan: Garavania
   aliases: []
-id: OypR6vo7Y9D5crQ7
-packFolder: fffnobles
 shortcode: damelyesagaravania
 type: being
-social:
-  occupation: Knight
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   icon: fff5073tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: attractive
     extra_features:
       - Foreign accent
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: OypR6vo7Y9D5crQ7
+  packFolder: fffnobles
+  social:
+    occupation: Knight
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

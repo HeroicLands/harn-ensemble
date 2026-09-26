@@ -7,19 +7,8 @@ name:
   given: Hadyn
   clan: Trildsen
   aliases: []
-id: P8gejvyLNHxIidxr
-packFolder: fffguilded
 shortcode: hadyntrildsen
 type: being
-social:
-  occupation: Pilot
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff3251tok
   templatePriority: 1
@@ -40,6 +29,17 @@ data:
       - Scar on right cheek
       - Moustache
       - beard
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: P8gejvyLNHxIidxr
+  packFolder: fffguilded
+  social:
+    occupation: Pilot
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

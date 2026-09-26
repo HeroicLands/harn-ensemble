@@ -7,18 +7,8 @@ name:
   given: Ryle
   clan: Zenda
   aliases: []
-id: WkpeCxdqGjkxZObD
-packFolder: extrasunguilded
 shortcode: ryleofzenda
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WkpeCxdqGjkxZObD
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

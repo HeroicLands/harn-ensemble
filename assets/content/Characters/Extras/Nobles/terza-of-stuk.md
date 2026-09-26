@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Stuk
   aliases: []
-id: RpR8Rdqgt8oGOZGo
-packFolder: extrasnobles
 shortcode: terzaofstuk
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RpR8Rdqgt8oGOZGo
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

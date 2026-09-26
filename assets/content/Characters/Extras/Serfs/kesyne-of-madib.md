@@ -7,18 +7,8 @@ name:
   given: Kesyne
   clan: Madib
   aliases: []
-id: VFjtgIhiS8GnNaFJ
-packFolder: extrasserfs
 shortcode: kesyneofmadib
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VFjtgIhiS8GnNaFJ
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

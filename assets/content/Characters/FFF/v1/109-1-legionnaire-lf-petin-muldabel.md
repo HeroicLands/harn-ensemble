@@ -7,19 +7,8 @@ name:
   given: Petin
   clan: Muldabel
   aliases: []
-id: S4NHCjrce7sfnCtA
-packFolder: fffmilitary
 shortcode: petinmuldabel
 type: being
-social:
-  occupation: Legionnaire (LF)
-  class: freeman
-  society: imperial
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff1091tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: S4NHCjrce7sfnCtA
+  packFolder: fffmilitary
+  social:
+    occupation: Legionnaire (LF)
+    class: freeman
+    society: imperial
+    organizations: []
 hm3:
   type: character
   attributes:

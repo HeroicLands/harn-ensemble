@@ -7,18 +7,8 @@ name:
   given: Lusiline
   clan: Kotrelin
   aliases: []
-id: ekafYMhXpRllm9pn
-packFolder: extrasunguilded
 shortcode: lusilineofkotrelin
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ekafYMhXpRllm9pn
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

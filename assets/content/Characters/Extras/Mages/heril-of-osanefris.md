@@ -7,18 +7,8 @@ name:
   given: Heril
   clan: Osanefris
   aliases: []
-id: CojMCxUGPSxW4odC
-packFolder: extrasmages
 shortcode: herilofosanefris
 type: being
-social:
-  occupation: "Shek-Pvar/Fyvria*****"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CojMCxUGPSxW4odC
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Fyvria*****"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Zuke
   clan: Valasan
   aliases: []
-id: 0ngS2ZEU3w7AnRsn
-packFolder: extrasguilded
 shortcode: zukeofvalasan
 type: being
-social:
-  occupation: Mercantyler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0ngS2ZEU3w7AnRsn
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Chaklyne
   clan: Lebarsin
   aliases: []
-id: 7f11WNjOHh1dO8aH
-packFolder: extrasclergy
 shortcode: chaklyneoflebarsin
 type: being
-social:
-  occupation: Cleric/Siem
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: 7f11WNjOHh1dO8aH
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

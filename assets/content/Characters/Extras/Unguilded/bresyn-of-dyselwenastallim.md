@@ -7,18 +7,8 @@ name:
   given: Bresyn
   clan: Dyselwenastallim
   aliases: []
-id: 0sEfMPt9MtHj3kf8
-packFolder: extrasunguilded
 shortcode: bresynofdyselwenastallim
 type: being
-social:
-  occupation: Fisherman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0sEfMPt9MtHj3kf8
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

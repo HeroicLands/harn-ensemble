@@ -7,19 +7,8 @@ name:
   given: Merala
   clan: Marben
   aliases: []
-id: hPTEMJxEkYXmtWih
-packFolder: extrasclergy
 shortcode: meralaofmarben
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: hPTEMJxEkYXmtWih
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

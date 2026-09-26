@@ -7,18 +7,8 @@ name:
   given: Charild
   clan: Marnin
   aliases: []
-id: XWVi84pKsl1BgBl5
-packFolder: extrasunguilded
 shortcode: charildofmarnin
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XWVi84pKsl1BgBl5
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Geacelshin
   clan: Kar
   aliases: []
-id: fQCs2nh7HLQmofi6
-packFolder: extrasclergy
 shortcode: geacelshinofkar
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: fQCs2nh7HLQmofi6
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

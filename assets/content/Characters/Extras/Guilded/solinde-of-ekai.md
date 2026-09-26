@@ -7,18 +7,8 @@ name:
   given: Solinde
   clan: Ekai
   aliases: []
-id: oDUQNV2NSyPDEF1q
-packFolder: extrasguilded
 shortcode: solindeofekai
 type: being
-social:
-  occupation: Potter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oDUQNV2NSyPDEF1q
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

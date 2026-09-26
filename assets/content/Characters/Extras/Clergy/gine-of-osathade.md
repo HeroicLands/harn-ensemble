@@ -7,19 +7,8 @@ name:
   given: Gine
   clan: Osathade
   aliases: []
-id: J2BfVVgk8dOTn8BK
-packFolder: extrasclergy
 shortcode: gineofosathade
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: J2BfVVgk8dOTn8BK
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

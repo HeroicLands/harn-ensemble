@@ -7,19 +7,8 @@ name:
   given: Ketras
   clan: Ael
   aliases: []
-id: YzQ4ElAoDqpJ4G6j
-packFolder: extrasclergy
 shortcode: ketrasofael
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: YzQ4ElAoDqpJ4G6j
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

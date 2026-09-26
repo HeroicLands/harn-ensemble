@@ -7,18 +7,8 @@ name:
   given: Denien
   clan: Dyselerik
   aliases: []
-id: sf3enulxjA8WKM58
-packFolder: extrasguilded
 shortcode: denienofdyselerik
 type: being
-social:
-  occupation: Harper/Skald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sf3enulxjA8WKM58
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

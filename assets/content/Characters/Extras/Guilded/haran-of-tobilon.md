@@ -7,18 +7,8 @@ name:
   given: Haran
   clan: Tobilon
   aliases: []
-id: 24FyQ7w2Kl5yHkot
-packFolder: extrasguilded
 shortcode: haranoftobilon
 type: being
-social:
-  occupation: Weaponcrafter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 24FyQ7w2Kl5yHkot
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

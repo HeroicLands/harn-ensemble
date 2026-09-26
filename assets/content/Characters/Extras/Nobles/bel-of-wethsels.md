@@ -7,18 +7,8 @@ name:
   given: Bel
   clan: Wethsels
   aliases: []
-id: DPHFYmg0q4llFXU4
-packFolder: extrasnobles
 shortcode: belofwethsels
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DPHFYmg0q4llFXU4
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Jeribon
   clan: Matlim
   aliases: []
-id: bAJuAa6HbJOoqDzD
-packFolder: extrasserfs
 shortcode: jeribonofmatlim
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bAJuAa6HbJOoqDzD
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

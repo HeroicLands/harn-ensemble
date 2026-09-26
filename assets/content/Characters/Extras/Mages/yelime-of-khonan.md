@@ -7,18 +7,8 @@ name:
   given: Yelime
   clan: Khonan
   aliases: []
-id: eGAgAUpSCSIe9Rm0
-packFolder: extrasmages
 shortcode: yelimeofkhonan
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn**"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eGAgAUpSCSIe9Rm0
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn**"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

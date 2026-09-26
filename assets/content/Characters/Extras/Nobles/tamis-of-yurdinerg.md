@@ -7,18 +7,8 @@ name:
   given: Tamis
   clan: Yurdinerg
   aliases: []
-id: ESlMe9kpoTgX60xg
-packFolder: extrasnobles
 shortcode: tamisofyurdinerg
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ESlMe9kpoTgX60xg
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

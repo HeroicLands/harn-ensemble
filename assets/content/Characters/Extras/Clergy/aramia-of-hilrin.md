@@ -7,19 +7,8 @@ name:
   given: Aramia
   clan: Hilrin
   aliases: []
-id: y6KZbUYdO2fQoRxS
-packFolder: extrasclergy
 shortcode: aramiaofhilrin
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: y6KZbUYdO2fQoRxS
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

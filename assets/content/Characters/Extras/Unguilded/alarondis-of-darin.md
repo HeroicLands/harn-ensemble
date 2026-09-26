@@ -7,18 +7,8 @@ name:
   given: Alarondis
   clan: Darin
   aliases: []
-id: vIYYDBcb9JU6IDM2
-packFolder: extrasunguilded
 shortcode: alarondisofdarin
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vIYYDBcb9JU6IDM2
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Amdir
   clan: Astor
   aliases: []
-id: WjWzufK1Q9JB7LCQ
-packFolder: extrasunguilded
 shortcode: amdirofastor
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WjWzufK1Q9JB7LCQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

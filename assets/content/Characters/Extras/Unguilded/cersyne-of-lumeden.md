@@ -7,18 +7,8 @@ name:
   given: Cersyne
   clan: Lumeden
   aliases: []
-id: urEV82T3snkPOT3M
-packFolder: extrasunguilded
 shortcode: cersyneoflumeden
 type: being
-social:
-  occupation: Imperial Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: urEV82T3snkPOT3M
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

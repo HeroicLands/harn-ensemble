@@ -7,19 +7,8 @@ name:
   given: Kayly
   clan: Frye
   aliases: []
-id: iXr9ICXqiaPxI71J
-packFolder: fffguilded
 shortcode: kaylyfrye
 type: being
-social:
-  occupation: Shipwright
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3292tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Always bubbly
       - happy
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: iXr9ICXqiaPxI71J
+  packFolder: fffguilded
+  social:
+    occupation: Shipwright
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

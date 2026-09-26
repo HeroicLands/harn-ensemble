@@ -7,18 +7,8 @@ name:
   given: Tamyth
   clan: Oshornic
   aliases: []
-id: oVl6LGYUbuy8jpL3
-packFolder: extrasguilded
 shortcode: tamythofoshornic
 type: being
-social:
-  occupation: Hideworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oVl6LGYUbuy8jpL3
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

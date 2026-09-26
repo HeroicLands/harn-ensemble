@@ -7,18 +7,8 @@ name:
   given: Aldane
   clan: Symdalin
   aliases: []
-id: SwaFaLydCR9uo3eB
-packFolder: extrasguilded
 shortcode: aldaneofsymdalin
 type: being
-social:
-  occupation: Miller/Millwright
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SwaFaLydCR9uo3eB
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

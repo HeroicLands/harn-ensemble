@@ -7,18 +7,8 @@ name:
   given: Jessthias
   clan: Parion
   aliases: []
-id: ZX9tZrUTWHvQDDUJ
-packFolder: extrasguilded
 shortcode: jessthiasofparion
 type: being
-social:
-  occupation: Alchemist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZX9tZrUTWHvQDDUJ
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

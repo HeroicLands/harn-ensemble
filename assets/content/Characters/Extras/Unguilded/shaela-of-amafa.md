@@ -7,18 +7,8 @@ name:
   given: Shaela
   clan: Amafa
   aliases: []
-id: OmGvnRAYROTOulHw
-packFolder: extrasunguilded
 shortcode: shaelaofamafa
 type: being
-social:
-  occupation: Scribe
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OmGvnRAYROTOulHw
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

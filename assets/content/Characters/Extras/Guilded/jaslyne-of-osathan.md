@@ -7,18 +7,8 @@ name:
   given: Jaslyne
   clan: Osathan
   aliases: []
-id: iG9FeW7c6M2xRyXv
-packFolder: extrasguilded
 shortcode: jaslyneofosathan
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iG9FeW7c6M2xRyXv
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

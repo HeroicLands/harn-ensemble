@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Ubelaradas
   aliases: []
-id: SEehwh1Kifj4zLQv
-packFolder: extrasnobles
 shortcode: tolmeyofubelaradas
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SEehwh1Kifj4zLQv
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Canutulachama
   clan: ""
   aliases: []
-id: jAo8s9jZuqDYS5uE
-packFolder: fffbarbarians
 shortcode: canutulachama
 type: being
-social:
-  occupation: Shaman
-  class: tribesman
-  society: tribal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff2071tok
   templatePriority: 1
@@ -35,6 +25,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jAo8s9jZuqDYS5uE
+  packFolder: fffbarbarians
+  social:
+    occupation: Shaman
+    class: tribesman
+    society: tribal
+    organizations: []
 hm3:
   type: character
   attributes:

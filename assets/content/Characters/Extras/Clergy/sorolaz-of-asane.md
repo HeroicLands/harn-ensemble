@@ -7,19 +7,8 @@ name:
   given: Sorolaz
   clan: Asane
   aliases: []
-id: YdB0G62Yuzd7KoCh
-packFolder: extrasclergy
 shortcode: sorolazofasane
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: YdB0G62Yuzd7KoCh
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

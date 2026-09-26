@@ -7,18 +7,8 @@ name:
   given: Therva
   clan: Fellyr
   aliases: []
-id: liS3ExXdAmCk0xiw
-packFolder: extrasguilded
 shortcode: thervaoffellyr
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: liS3ExXdAmCk0xiw
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

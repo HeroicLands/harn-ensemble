@@ -7,18 +7,8 @@ name:
   given: Yera
   clan: Yorlym
   aliases: []
-id: MRH9L5zH6AWGHQIJ
-packFolder: extrasserfs
 shortcode: yeraofyorlym
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MRH9L5zH6AWGHQIJ
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

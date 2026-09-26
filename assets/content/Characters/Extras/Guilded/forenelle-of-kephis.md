@@ -7,18 +7,8 @@ name:
   given: Forenelle
   clan: Kephis
   aliases: []
-id: OEPcP9uPdETOpUzT
-packFolder: extrasguilded
 shortcode: forenelleofkephis
 type: being
-social:
-  occupation: Chandler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OEPcP9uPdETOpUzT
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

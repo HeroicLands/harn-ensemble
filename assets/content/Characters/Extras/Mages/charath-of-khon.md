@@ -7,18 +7,8 @@ name:
   given: Charath
   clan: Khon
   aliases: []
-id: 7pkyVyZKab62OLn6
-packFolder: extrasmages
 shortcode: charathofkhon
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya*****"
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7pkyVyZKab62OLn6
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya*****"
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

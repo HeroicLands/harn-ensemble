@@ -7,19 +7,8 @@ name:
   given: Balis
   clan: Jiml
   aliases: []
-id: qvLzM1HO7661euis
-packFolder: fffclergy
 shortcode: balisofjiml
 type: being
-social:
-  occupation: Peonian Acolyte
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff6072tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Scarred ear
       - blind wandering eye
       - Thick accent
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: qvLzM1HO7661euis
+  packFolder: fffclergy
+  social:
+    occupation: Peonian Acolyte
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

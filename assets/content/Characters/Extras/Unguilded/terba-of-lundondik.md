@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Lundondik
   aliases: []
-id: 1vRlA9jG46ez82VW
-packFolder: extrasunguilded
 shortcode: terbaoflundondik
 type: being
-social:
-  occupation: Animal Trainer
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1vRlA9jG46ez82VW
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

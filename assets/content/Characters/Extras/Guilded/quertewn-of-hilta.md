@@ -7,18 +7,8 @@ name:
   given: Quertewn
   clan: Hilta
   aliases: []
-id: WPOkiNHqHAkEY63k
-packFolder: extrasguilded
 shortcode: quertewnofhilta
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WPOkiNHqHAkEY63k
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

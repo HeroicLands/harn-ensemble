@@ -7,19 +7,8 @@ name:
   given: Orlir
   clan: Fulkne
   aliases: []
-id: haxul5DyGPaSevm2
-packFolder: fffguilded
 shortcode: orliroffulkne
 type: being
-social:
-  occupation: Locksmith
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3161tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Moustache
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: haxul5DyGPaSevm2
+  packFolder: fffguilded
+  social:
+    occupation: Locksmith
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Sarina
   clan: Merlesque
   aliases: []
-id: cZRPadbgt6lterav
-packFolder: extrasclergy
 shortcode: sarinaofmerlesque
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: cZRPadbgt6lterav
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

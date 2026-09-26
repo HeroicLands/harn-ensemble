@@ -7,18 +7,8 @@ name:
   given: Warorel
   clan: Iasen
   aliases: []
-id: 0wZyta0rVtXJ1YDp
-packFolder: fffunguilded
 shortcode: waroreliasen
 type: being
-social:
-  occupation: Brigand
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff4021tok
   templatePriority: 1
@@ -36,6 +26,16 @@ data:
     complexion: plain
     extra_features:
       - Pox marks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0wZyta0rVtXJ1YDp
+  packFolder: fffunguilded
+  social:
+    occupation: Brigand
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

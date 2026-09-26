@@ -7,18 +7,8 @@ name:
   given: Danishemlena
   clan: Kramel
   aliases: []
-id: ug8ktmIXMtPAH5Ge
-packFolder: extrasguilded
 shortcode: danishemlenaofkramel
 type: being
-social:
-  occupation: Timberwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ug8ktmIXMtPAH5Ge
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Chariborskin
   aliases: []
-id: 1G1FeyBvBvK9mEZi
-packFolder: extrasunguilded
 shortcode: raedaofchariborskin
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1G1FeyBvBvK9mEZi
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

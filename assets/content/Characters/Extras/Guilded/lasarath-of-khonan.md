@@ -7,18 +7,8 @@ name:
   given: Lasarath
   clan: Khonan
   aliases: []
-id: eeCITBtBuatoPgk7
-packFolder: extrasguilded
 shortcode: lasarathofkhonan
 type: being
-social:
-  occupation: Chandler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eeCITBtBuatoPgk7
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

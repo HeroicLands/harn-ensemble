@@ -7,18 +7,8 @@ name:
   given: Kistyne
   clan: Hudusin
   aliases: []
-id: 1KB3fjFxxvK9xhQ8
-packFolder: extrasunguilded
 shortcode: kistyneofhudusin
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1KB3fjFxxvK9xhQ8
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

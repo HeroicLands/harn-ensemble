@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Erlesque
   aliases: []
-id: jtQZW2WfsYrevTBg
-packFolder: extrasunguilded
 shortcode: dakaoferlesque
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jtQZW2WfsYrevTBg
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

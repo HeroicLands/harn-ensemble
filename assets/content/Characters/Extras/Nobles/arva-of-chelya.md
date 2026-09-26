@@ -7,18 +7,8 @@ name:
   given: Arva
   clan: Chelya
   aliases: []
-id: ImdYS6pzCh6mVRW4
-packFolder: extrasnobles
 shortcode: arvaofchelya
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ImdYS6pzCh6mVRW4
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Derrial
   clan: Cyeen
   aliases: []
-id: nN0ZeHNkQv29VR0P
-packFolder: fffclergy
 shortcode: derrialcyeen
 type: being
-social:
-  occupation: Priest of Siem
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   icon: fff6101tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Moustache & short goatee
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: nN0ZeHNkQv29VR0P
+  packFolder: fffclergy
+  social:
+    occupation: Priest of Siem
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Ereda
   clan: Grath
   aliases: []
-id: x4zWWIO4gpvmLUkV
-packFolder: extrasunguilded
 shortcode: eredaofgrath
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: x4zWWIO4gpvmLUkV
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

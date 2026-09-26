@@ -7,18 +7,8 @@ name:
   given: Ewena
   clan: Marn
   aliases: []
-id: AjpWw0zkULe2sT46
-packFolder: extrasguilded
 shortcode: ewenaofmarn
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AjpWw0zkULe2sT46
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Murlidon
   clan: Belaranchi
   aliases: []
-id: a1YG8ex21DsAC67L
-packFolder: extrasclergy
 shortcode: murlidonofbelaranchi
 type: being
-social:
-  occupation: Cleric/Halea
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: a1YG8ex21DsAC67L
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Giles
   clan: Gilam
   aliases: []
-id: uMJgJveyseH1IrT8
-packFolder: fffguilded
 shortcode: gilesofgilam
 type: being
-social:
-  occupation: Journeyman Ostler
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3222tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Freckles
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: uMJgJveyseH1IrT8
+  packFolder: fffguilded
+  social:
+    occupation: Journeyman Ostler
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

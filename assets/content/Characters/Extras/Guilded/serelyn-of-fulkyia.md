@@ -7,18 +7,8 @@ name:
   given: Serelyn
   clan: Fulkyia
   aliases: []
-id: lC9gl5hHjQgWVQVg
-packFolder: extrasguilded
 shortcode: serelynoffulkyia
 type: being
-social:
-  occupation: Pilot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lC9gl5hHjQgWVQVg
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

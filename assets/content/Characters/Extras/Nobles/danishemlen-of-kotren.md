@@ -7,18 +7,8 @@ name:
   given: Danishemlen
   clan: Kotren
   aliases: []
-id: Di7KE2nh9F7tvBYb
-packFolder: extrasnobles
 shortcode: danishemlenofkotren
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Di7KE2nh9F7tvBYb
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

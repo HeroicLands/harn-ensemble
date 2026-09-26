@@ -7,18 +7,8 @@ name:
   given: Calen
   clan: Esseren
   aliases: []
-id: fGeZWE8iUHufRV7F
-packFolder: extrasunguilded
 shortcode: calenofesseren
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fGeZWE8iUHufRV7F
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

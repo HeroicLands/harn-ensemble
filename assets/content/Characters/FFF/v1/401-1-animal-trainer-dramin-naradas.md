@@ -7,19 +7,8 @@ name:
   given: Dramin
   clan: Naradas
   aliases: []
-id: h6AmrO8QAYJ1tYnX
-packFolder: fffunguilded
 shortcode: draminnaradas
 type: being
-social:
-  occupation: Animal Trainer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4011tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: h6AmrO8QAYJ1tYnX
+  packFolder: fffunguilded
+  social:
+    occupation: Animal Trainer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

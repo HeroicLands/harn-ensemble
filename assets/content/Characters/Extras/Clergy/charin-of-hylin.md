@@ -7,19 +7,8 @@ name:
   given: Charin
   clan: Hylin
   aliases: []
-id: fLb85P1ggx1PYEUA
-packFolder: extrasclergy
 shortcode: charinofhylin
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: fLb85P1ggx1PYEUA
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

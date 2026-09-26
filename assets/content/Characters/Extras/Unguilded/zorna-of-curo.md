@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Curo
   aliases: []
-id: 4I8cDjM1uEDEo0Rb
-packFolder: extrasunguilded
 shortcode: zornaofcuro
 type: being
-social:
-  occupation: Sage/Tutor
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4I8cDjM1uEDEo0Rb
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

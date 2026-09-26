@@ -7,19 +7,8 @@ name:
   given: Terba
   clan: Brid
   aliases: []
-id: MsPoOntWpOuRbhAm
-packFolder: extrasclergy
 shortcode: terbaofbrid
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: MsPoOntWpOuRbhAm
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

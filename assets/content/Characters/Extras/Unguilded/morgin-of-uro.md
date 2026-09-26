@@ -7,18 +7,8 @@ name:
   given: Morgin
   clan: Uro
   aliases: []
-id: 2yyH5giDztfo30YH
-packFolder: extrasunguilded
 shortcode: morginofuro
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2yyH5giDztfo30YH
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

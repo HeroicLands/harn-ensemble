@@ -7,19 +7,8 @@ name:
   given: Bresyne
   clan: Merlesh
   aliases: []
-id: XxSbD3MMRGKnqTXi
-packFolder: extrasunguilded
 shortcode: bresyneofmerlesh
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: XxSbD3MMRGKnqTXi
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

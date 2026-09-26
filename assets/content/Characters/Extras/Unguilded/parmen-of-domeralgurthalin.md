@@ -7,18 +7,8 @@ name:
   given: Parmen
   clan: Domeralgurthalin
   aliases: []
-id: c57Ao4DRnfjLHGrp
-packFolder: extrasunguilded
 shortcode: parmenofdomeralgurthalin
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: c57Ao4DRnfjLHGrp
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

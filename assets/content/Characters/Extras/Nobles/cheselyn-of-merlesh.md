@@ -7,18 +7,8 @@ name:
   given: Cheselyn
   clan: Merlesh
   aliases: []
-id: Pm7Lq9smcVBbZwPn
-packFolder: extrasnobles
 shortcode: cheselynofmerlesh
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Pm7Lq9smcVBbZwPn
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

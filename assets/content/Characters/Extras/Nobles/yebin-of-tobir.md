@@ -7,18 +7,8 @@ name:
   given: Yebin
   clan: Tobir
   aliases: []
-id: 1HNJ4PKlYExadhU7
-packFolder: extrasnobles
 shortcode: yebinoftobir
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1HNJ4PKlYExadhU7
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

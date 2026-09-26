@@ -7,18 +7,8 @@ name:
   given: Cheselyne
   clan: Symdal
   aliases: []
-id: HJXOD7NkUH7TZNJ1
-packFolder: extrasunguilded
 shortcode: cheselyneofsymdal
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HJXOD7NkUH7TZNJ1
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

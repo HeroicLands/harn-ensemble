@@ -7,19 +7,8 @@ name:
   given: Saryn
   clan: Drelin
   aliases: []
-id: lw4DB4DZ84mi4jHT
-packFolder: extrasclergy
 shortcode: sarynofdrelin
 type: being
-social:
-  occupation: Cleric/Larani
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: lw4DB4DZ84mi4jHT
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

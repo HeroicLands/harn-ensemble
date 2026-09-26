@@ -7,18 +7,8 @@ name:
   given: Harlabal
   clan: Harlabal
   aliases: []
-id: KU5uo8Z0MCguGsRy
-packFolder: extrasunguilded
 shortcode: harlabalofharlabal
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KU5uo8Z0MCguGsRy
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

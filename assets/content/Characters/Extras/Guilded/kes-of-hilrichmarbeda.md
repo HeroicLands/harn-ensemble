@@ -7,18 +7,8 @@ name:
   given: Kes
   clan: Hilrichmarbeda
   aliases: []
-id: gjRLqazmv0JxPn0e
-packFolder: extrasguilded
 shortcode: kesofhilrichmarbeda
 type: being
-social:
-  occupation: Woodcrafter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gjRLqazmv0JxPn0e
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

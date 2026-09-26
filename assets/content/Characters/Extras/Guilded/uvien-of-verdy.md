@@ -7,18 +7,8 @@ name:
   given: Uvien
   clan: Verdy
   aliases: []
-id: qec47HIWSsMntC9S
-packFolder: extrasguilded
 shortcode: uvienofverdy
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qec47HIWSsMntC9S
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

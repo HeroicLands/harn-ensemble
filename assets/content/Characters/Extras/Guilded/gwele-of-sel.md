@@ -7,18 +7,8 @@ name:
   given: Gwele
   clan: Sel
   aliases: []
-id: yFatEyBRBd9DSYEb
-packFolder: extrasguilded
 shortcode: gweleofsel
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yFatEyBRBd9DSYEb
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

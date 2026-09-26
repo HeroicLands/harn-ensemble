@@ -7,18 +7,8 @@ name:
   given: Kor
   clan: Siven
   aliases: []
-id: cX50coPOQrCYUXfF
-packFolder: extrasguilded
 shortcode: korofsiven
 type: being
-social:
-  occupation: Metalsmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: cX50coPOQrCYUXfF
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

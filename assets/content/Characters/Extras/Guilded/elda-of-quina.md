@@ -7,18 +7,8 @@ name:
   given: Elda
   clan: Quina
   aliases: []
-id: HVRnOJyJHbUscntS
-packFolder: extrasguilded
 shortcode: eldaofquina
 type: being
-social:
-  occupation: Astrologer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HVRnOJyJHbUscntS
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

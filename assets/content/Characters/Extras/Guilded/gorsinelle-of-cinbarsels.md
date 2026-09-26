@@ -7,18 +7,8 @@ name:
   given: Gorsinelle
   clan: Cinbarsels
   aliases: []
-id: t2qvWopsz6TKEu3A
-packFolder: extrasguilded
 shortcode: gorsinelleofcinbarsels
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: t2qvWopsz6TKEu3A
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

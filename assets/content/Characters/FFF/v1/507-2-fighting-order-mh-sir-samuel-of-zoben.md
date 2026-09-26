@@ -7,19 +7,8 @@ name:
   given: Samuel
   clan: Zoben
   aliases: []
-id: 9o0fxrdxnNpPstOe
-packFolder: fffnobles
 shortcode: sirsamuelofzoben
 type: being
-social:
-  occupation: Knight/Spy
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5072tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: handsome
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 9o0fxrdxnNpPstOe
+  packFolder: fffnobles
+  social:
+    occupation: Knight/Spy
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

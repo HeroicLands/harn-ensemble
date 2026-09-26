@@ -7,18 +7,8 @@ name:
   given: Lusilinela
   clan: Jorwynn
   aliases: []
-id: dkbmiK7FsdpNvHo0
-packFolder: extrasguilded
 shortcode: lusilinelaofjorwynn
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dkbmiK7FsdpNvHo0
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

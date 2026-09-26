@@ -7,18 +7,8 @@ name:
   given: Jehan
   clan: Goselrin
   aliases: []
-id: vTEOxEAIoTz8n07O
-packFolder: extrasguilded
 shortcode: jehanofgoselrin
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vTEOxEAIoTz8n07O
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

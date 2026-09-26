@@ -7,19 +7,8 @@ name:
   given: Kelena
   clan: Homelvoen
   aliases: []
-id: HHcvJ9JQknGYolzi
-packFolder: extrasclergy
 shortcode: kelenaofhomelvoen
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: HHcvJ9JQknGYolzi
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

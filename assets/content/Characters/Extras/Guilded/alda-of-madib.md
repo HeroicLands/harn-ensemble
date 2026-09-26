@@ -7,18 +7,8 @@ name:
   given: Alda
   clan: Madib
   aliases: []
-id: Z1hByZPu6kmaaFqj
-packFolder: extrasguilded
 shortcode: aldaofmadib
 type: being
-social:
-  occupation: Harper/Skald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Z1hByZPu6kmaaFqj
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

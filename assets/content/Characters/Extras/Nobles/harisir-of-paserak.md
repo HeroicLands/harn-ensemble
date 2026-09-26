@@ -7,18 +7,8 @@ name:
   given: Harisir
   clan: Paserak
   aliases: []
-id: oWelKdywtTzpK9LK
-packFolder: extrasnobles
 shortcode: harisirofpaserak
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oWelKdywtTzpK9LK
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

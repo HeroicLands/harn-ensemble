@@ -7,18 +7,8 @@ name:
   given: Shaelda
   clan: Jorwynn
   aliases: []
-id: UMoEcIIY19moVkpU
-packFolder: extrasunguilded
 shortcode: shaeldaofjorwynn
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UMoEcIIY19moVkpU
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

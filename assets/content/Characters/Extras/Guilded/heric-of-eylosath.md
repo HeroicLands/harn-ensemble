@@ -7,18 +7,8 @@ name:
   given: Heric
   clan: Eylosath
   aliases: []
-id: F4wVkg218c13C9Cl
-packFolder: extrasguilded
 shortcode: hericofeylosath
 type: being
-social:
-  occupation: Locksmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F4wVkg218c13C9Cl
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

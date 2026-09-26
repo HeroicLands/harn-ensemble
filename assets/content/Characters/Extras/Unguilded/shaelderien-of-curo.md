@@ -7,18 +7,8 @@ name:
   given: Shaelderien
   clan: Curo
   aliases: []
-id: xEN2Qkxaon3QvbDG
-packFolder: extrasunguilded
 shortcode: shaelderienofcuro
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xEN2Qkxaon3QvbDG
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

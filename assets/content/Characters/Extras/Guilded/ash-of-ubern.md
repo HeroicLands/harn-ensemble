@@ -7,18 +7,8 @@ name:
   given: Ash
   clan: Ubern
   aliases: []
-id: LLd2GD3ej1iFxq1s
-packFolder: extrasguilded
 shortcode: ashofubern
 type: being
-social:
-  occupation: Timberwright
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LLd2GD3ej1iFxq1s
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

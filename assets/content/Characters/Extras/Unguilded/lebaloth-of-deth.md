@@ -7,18 +7,8 @@ name:
   given: Lebaloth
   clan: Deth
   aliases: []
-id: JhfcxuTU8PSuBSDc
-packFolder: extrasunguilded
 shortcode: lebalothofdeth
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JhfcxuTU8PSuBSDc
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

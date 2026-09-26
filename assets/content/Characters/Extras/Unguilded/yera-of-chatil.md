@@ -7,19 +7,8 @@ name:
   given: Yera
   clan: Chatil
   aliases: []
-id: UdhaiK2I9QlPERwR
-packFolder: extrasunguilded
 shortcode: yeraofchatil
 type: being
-social:
-  occupation: Shaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: UdhaiK2I9QlPERwR
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Vanach
   clan: Tobilon
   aliases: []
-id: RDjfythp8dALsWXQ
-packFolder: extrasunguilded
 shortcode: vanachoftobilon
 type: being
-social:
-  occupation: Sage/Tutor
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RDjfythp8dALsWXQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

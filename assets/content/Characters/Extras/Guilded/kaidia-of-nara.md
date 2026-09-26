@@ -7,18 +7,8 @@ name:
   given: Kaidia
   clan: Nara
   aliases: []
-id: Yf1ZNMH6zWBnRnNs
-packFolder: extrasguilded
 shortcode: kaidiaofnara
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Yf1ZNMH6zWBnRnNs
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

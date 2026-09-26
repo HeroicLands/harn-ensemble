@@ -7,18 +7,8 @@ name:
   given: Chendra
   clan: Porde
   aliases: []
-id: ltp4MpRu0B5AWXuQ
-packFolder: extrasunguilded
 shortcode: chendraofporde
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ltp4MpRu0B5AWXuQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

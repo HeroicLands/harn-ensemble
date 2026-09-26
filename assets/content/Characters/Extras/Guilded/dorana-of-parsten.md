@@ -7,18 +7,8 @@ name:
   given: Dorana
   clan: Parsten
   aliases: []
-id: 2qzRQI3N35cEFeiC
-packFolder: extrasguilded
 shortcode: doranaofparsten
 type: being
-social:
-  occupation: Glassworker
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2qzRQI3N35cEFeiC
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

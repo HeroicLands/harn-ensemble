@@ -7,18 +7,8 @@ name:
   given: Amarth
   clan: Berphen
   aliases: []
-id: RVcEmkAFU7PVB1B3
-packFolder: extrasunguilded
 shortcode: amarthofberphen
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RVcEmkAFU7PVB1B3
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

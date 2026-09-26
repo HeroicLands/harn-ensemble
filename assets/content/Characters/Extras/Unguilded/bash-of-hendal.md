@@ -7,18 +7,8 @@ name:
   given: Bash
   clan: Hendal
   aliases: []
-id: CuMttJJWCfM8dEDk
-packFolder: extrasunguilded
 shortcode: bashofhendal
 type: being
-social:
-  occupation: Imperial Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CuMttJJWCfM8dEDk
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

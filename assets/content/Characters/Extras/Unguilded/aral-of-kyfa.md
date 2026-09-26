@@ -7,18 +7,8 @@ name:
   given: Aral
   clan: Kyfa
   aliases: []
-id: iCX77oMupOOYNtXg
-packFolder: extrasunguilded
 shortcode: aralofkyfa
 type: being
-social:
-  occupation: Animal Trainer
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iCX77oMupOOYNtXg
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

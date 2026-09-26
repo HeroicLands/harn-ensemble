@@ -7,19 +7,8 @@ name:
   given: Piltain
   clan: Chus
   aliases: []
-id: 7fh8NuOnbI4OwoMA
-packFolder: extrasclergy
 shortcode: piltainofchus
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: 7fh8NuOnbI4OwoMA
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

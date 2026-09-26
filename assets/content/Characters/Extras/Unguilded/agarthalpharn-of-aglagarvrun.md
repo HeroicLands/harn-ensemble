@@ -7,18 +7,8 @@ name:
   given: Agarthalpharn
   clan: Aglagarvrun
   aliases: []
-id: uvCm6CKaLOgKlBv3
-packFolder: extrasunguilded
 shortcode: agarthalpharnofaglagarvrun
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uvCm6CKaLOgKlBv3
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

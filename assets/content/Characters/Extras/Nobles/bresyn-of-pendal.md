@@ -7,18 +7,8 @@ name:
   given: Bresyn
   clan: Pendal
   aliases: []
-id: aFrkI04jl8PXUe8v
-packFolder: extrasnobles
 shortcode: bresynofpendal
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aFrkI04jl8PXUe8v
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

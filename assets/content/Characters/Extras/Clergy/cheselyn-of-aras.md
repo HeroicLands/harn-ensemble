@@ -7,19 +7,8 @@ name:
   given: Cheselyn
   clan: Aras
   aliases: []
-id: A5KzhYlvtVc3JDUz
-packFolder: extrasclergy
 shortcode: cheselynofaras
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: A5KzhYlvtVc3JDUz
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Shref
   aliases: []
-id: zuqnpHhDMJVE45lg
-packFolder: extrasguilded
 shortcode: sylviaofshref
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zuqnpHhDMJVE45lg
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

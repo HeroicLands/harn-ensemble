@@ -7,18 +7,8 @@ name:
   given: Perlina
   clan: Athias
   aliases: []
-id: vQgNzv9PjSUHvhOn
-packFolder: extrasguilded
 shortcode: perlinaofathias
 type: being
-social:
-  occupation: Hideworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vQgNzv9PjSUHvhOn
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

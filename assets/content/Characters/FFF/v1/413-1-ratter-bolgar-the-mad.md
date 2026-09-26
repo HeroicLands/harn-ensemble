@@ -7,19 +7,8 @@ name:
   given: Bolgar
   clan: the Mad
   aliases: []
-id: YrqliPUW5NTc4A8R
-packFolder: fffunguilded
 shortcode: bolgarthemad
 type: being
-social:
-  occupation: Ratter
-  class: freeman ex-serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4131tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: YrqliPUW5NTc4A8R
+  packFolder: fffunguilded
+  social:
+    occupation: Ratter
+    class: freeman ex-serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

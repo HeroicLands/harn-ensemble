@@ -7,18 +7,8 @@ name:
   given: Lycia
   clan: Taldim
   aliases: []
-id: SV40Od6msozRfO4N
-packFolder: extrasunguilded
 shortcode: lyciaoftaldim
 type: being
-social:
-  occupation: Farmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SV40Od6msozRfO4N
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

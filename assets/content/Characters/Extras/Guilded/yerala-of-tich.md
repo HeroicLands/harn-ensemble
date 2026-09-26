@@ -7,18 +7,8 @@ name:
   given: Yerala
   clan: Tich
   aliases: []
-id: IDTbfeXjQHzejQ1f
-packFolder: extrasguilded
 shortcode: yeralaoftich
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IDTbfeXjQHzejQ1f
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

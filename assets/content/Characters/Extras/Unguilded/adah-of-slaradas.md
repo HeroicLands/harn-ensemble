@@ -7,18 +7,8 @@ name:
   given: Adah
   clan: Slaradas
   aliases: []
-id: j4PTVxqKTmR11Cjj
-packFolder: extrasunguilded
 shortcode: adahofslaradas
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: j4PTVxqKTmR11Cjj
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

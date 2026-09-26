@@ -7,18 +7,8 @@ name:
   given: Jehan
   clan: Tobrid
   aliases: []
-id: 7BtEx6jw8I6b9617
-packFolder: extrasunguilded
 shortcode: jehanoftobrid
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7BtEx6jw8I6b9617
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

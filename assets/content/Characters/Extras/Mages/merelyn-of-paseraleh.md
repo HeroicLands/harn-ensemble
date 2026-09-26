@@ -7,18 +7,8 @@ name:
   given: Merelyn
   clan: Paseraleh
   aliases: []
-id: Dl79q0xCaljTQZX3
-packFolder: extrasmages
 shortcode: merelynofpaseraleh
 type: being
-social:
-  occupation: "Shek-Pvar/Fyvria****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Dl79q0xCaljTQZX3
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Fyvria****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

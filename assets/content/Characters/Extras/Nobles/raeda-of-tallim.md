@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Tallim
   aliases: []
-id: O9a25XsUGJu0aVDT
-packFolder: extrasnobles
 shortcode: raedaoftallim
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: O9a25XsUGJu0aVDT
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

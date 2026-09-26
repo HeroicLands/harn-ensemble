@@ -7,19 +7,8 @@ name:
   given: Arain
   clan: Unigal
   aliases: []
-id: HpzyFvBVxT5Mh5JH
-packFolder: extrasclergy
 shortcode: arainofunigal
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: HpzyFvBVxT5Mh5JH
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Jolayn
   clan: Hosan
   aliases: []
-id: rxfAwU7lHU8VdcnY
-packFolder: extrasguilded
 shortcode: jolaynofhosan
 type: being
-social:
-  occupation: Apothecary
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rxfAwU7lHU8VdcnY
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Thain
   clan: Merlesh
   aliases: []
-id: qU3g38QGH7OUDrIK
-packFolder: extrasguilded
 shortcode: thainofmerlesh
 type: being
-social:
-  occupation: Lexigrapher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qU3g38QGH7OUDrIK
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

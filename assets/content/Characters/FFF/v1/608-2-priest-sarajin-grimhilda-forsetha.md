@@ -7,19 +7,8 @@ name:
   given: Grimhilda
   clan: Forsetha
   aliases: []
-id: RKgUGKh2miBd4DxZ
-packFolder: fffclergy
 shortcode: grimhildaforsetha
 type: being
-social:
-  occupation: Priestess of Sarajin
-  class: noble
-  society: ivinian
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff6082tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: attractive
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: RKgUGKh2miBd4DxZ
+  packFolder: fffclergy
+  social:
+    occupation: Priestess of Sarajin
+    class: noble
+    society: ivinian
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Tamisene
   clan: Kyfa
   aliases: []
-id: RAlN28RNS9HmT1am
-packFolder: extrasclergy
 shortcode: tamiseneofkyfa
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: RAlN28RNS9HmT1am
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

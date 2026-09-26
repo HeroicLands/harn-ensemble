@@ -7,19 +7,8 @@ name:
   given: Kalwis
   clan: Homslow
   aliases: []
-id: m98jbQvdLVom37qO
-packFolder: extrasclergy
 shortcode: kalwisofhomslow
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: m98jbQvdLVom37qO
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

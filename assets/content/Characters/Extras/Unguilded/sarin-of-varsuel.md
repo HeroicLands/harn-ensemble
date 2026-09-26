@@ -7,18 +7,8 @@ name:
   given: Sarin
   clan: Varsuel
   aliases: []
-id: G7lP9ziN2LAU38D8
-packFolder: extrasunguilded
 shortcode: sarinofvarsuel
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: G7lP9ziN2LAU38D8
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

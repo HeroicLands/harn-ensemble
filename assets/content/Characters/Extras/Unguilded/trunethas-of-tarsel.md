@@ -7,18 +7,8 @@ name:
   given: Trunethas
   clan: Tarsel
   aliases: []
-id: qco8eIKFhdHuatBW
-packFolder: extrasunguilded
 shortcode: trunethasoftarsel
 type: being
-social:
-  occupation: Imperial Militia
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qco8eIKFhdHuatBW
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

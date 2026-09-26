@@ -7,19 +7,8 @@ name:
   given: Emmon
   clan: Wisby
   aliases: []
-id: 19nAFdKfLgGHbkzx
-packFolder: fffnobles
 shortcode: lordemmonwisby
 type: being
-social:
-  occupation: Herald
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5051tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Limp
       - Moustache
       - beard
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 19nAFdKfLgGHbkzx
+  packFolder: fffnobles
+  social:
+    occupation: Herald
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

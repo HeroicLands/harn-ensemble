@@ -7,18 +7,8 @@ name:
   given: Vaberant
   clan: Chelsen
   aliases: []
-id: jRaVhUbB3HIHMESE
-packFolder: extrasunguilded
 shortcode: vaberantofchelsen
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jRaVhUbB3HIHMESE
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

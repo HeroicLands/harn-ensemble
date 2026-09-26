@@ -7,18 +7,8 @@ name:
   given: Norbin
   clan: Asain
   aliases: []
-id: ZnaNfvzUeBlIS6hl
-packFolder: extrasunguilded
 shortcode: norbinofasain
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZnaNfvzUeBlIS6hl
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Ardeth
   clan: Duck
   aliases: []
-id: 44bbzBhpkakyHwOX
-packFolder: extrasguilded
 shortcode: ardethofduck
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 44bbzBhpkakyHwOX
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

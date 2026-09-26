@@ -7,18 +7,8 @@ name:
   given: Ardenyl
   clan: Vantarkoff
   aliases: []
-id: 3PD4g0W7CtoK22Q0
-packFolder: extrasguilded
 shortcode: ardenylofvantarkoff
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3PD4g0W7CtoK22Q0
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

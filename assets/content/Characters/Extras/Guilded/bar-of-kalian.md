@@ -7,18 +7,8 @@ name:
   given: Bar
   clan: Kalian
   aliases: []
-id: AJM9eGi0LI6v14Nt
-packFolder: extrasguilded
 shortcode: barofkalian
 type: being
-social:
-  occupation: Miller/Millwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AJM9eGi0LI6v14Nt
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

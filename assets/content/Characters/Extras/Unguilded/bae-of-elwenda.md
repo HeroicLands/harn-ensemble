@@ -7,18 +7,8 @@ name:
   given: Bae
   clan: Elwenda
   aliases: []
-id: HeECNQ46IYvWd6UH
-packFolder: extrasunguilded
 shortcode: baeofelwenda
 type: being
-social:
-  occupation: Imperial Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HeECNQ46IYvWd6UH
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

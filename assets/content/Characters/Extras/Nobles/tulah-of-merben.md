@@ -7,18 +7,8 @@ name:
   given: Tulah
   clan: Merben
   aliases: []
-id: EVU6m4OAL7zp2PJY
-packFolder: extrasnobles
 shortcode: tulahofmerben
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EVU6m4OAL7zp2PJY
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Gathric
   clan: Deschu
   aliases: []
-id: p0Fuj2jIfStY3daR
-packFolder: fffunguilded
 shortcode: gathricofdeschu
 type: being
-social:
-  occupation: Servant
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4171tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Left handed
       - Broken nose
       - scars
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: p0Fuj2jIfStY3daR
+  packFolder: fffunguilded
+  social:
+    occupation: Servant
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Jondasharqueline
   clan: Sprythsen
   aliases: []
-id: upobA7LAgX4Fc5OE
-packFolder: extrasmages
 shortcode: jondasharquelineofsprythsen
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: upobA7LAgX4Fc5OE
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

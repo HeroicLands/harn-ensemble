@@ -7,18 +7,8 @@ name:
   given: Chymelical
   clan: Tobrid
   aliases: []
-id: wgFL4svcwrEOuduu
-packFolder: extrasnobles
 shortcode: chymelicaloftobrid
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wgFL4svcwrEOuduu
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

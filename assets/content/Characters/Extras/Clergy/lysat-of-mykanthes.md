@@ -7,19 +7,8 @@ name:
   given: Lysat
   clan: Mykanthes
   aliases: []
-id: tP9RyYCMlsUhd3Dj
-packFolder: extrasclergy
 shortcode: lysatofmykanthes
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: tP9RyYCMlsUhd3Dj
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

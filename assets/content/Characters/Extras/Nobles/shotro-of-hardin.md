@@ -7,18 +7,8 @@ name:
   given: Shotro
   clan: Hardin
   aliases: []
-id: 8lrcOmj8ctlXogRU
-packFolder: extrasnobles
 shortcode: shotroofhardin
 type: being
-social:
-  occupation: Baliff
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8lrcOmj8ctlXogRU
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

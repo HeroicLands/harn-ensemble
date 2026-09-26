@@ -7,19 +7,8 @@ name:
   given: Dafydd
   clan: Merros
   aliases: []
-id: hI5nwdWYSISOANAM
-packFolder: extrasclergy
 shortcode: dafyddofmerros
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: hI5nwdWYSISOANAM
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

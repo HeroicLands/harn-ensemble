@@ -7,18 +7,8 @@ name:
   given: Sarton
   clan: Paseralesh
   aliases: []
-id: UgyOrYF3xVaMMnQj
-packFolder: extrasguards
 shortcode: sartonofpaseralesh
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UgyOrYF3xVaMMnQj
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

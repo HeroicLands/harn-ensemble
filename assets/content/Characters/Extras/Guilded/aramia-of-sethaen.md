@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Sethaen
   aliases: []
-id: PWJGn7ovj83wc9SR
-packFolder: extrasguilded
 shortcode: aramiaofsethaen
 type: being
-social:
-  occupation: Locksmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PWJGn7ovj83wc9SR
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

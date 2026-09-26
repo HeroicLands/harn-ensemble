@@ -7,18 +7,8 @@ name:
   given: Sar
   clan: Tobilon
   aliases: []
-id: roSPYeMv2I2QDmQv
-packFolder: extrasnobles
 shortcode: saroftobilon
 type: being
-social:
-  occupation: Baliff
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: roSPYeMv2I2QDmQv
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

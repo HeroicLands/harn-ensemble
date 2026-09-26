@@ -7,18 +7,8 @@ name:
   given: Ith
   clan: Waylin
   aliases: []
-id: D6zKkp3dJtcuuVf0
-packFolder: extrasunguilded
 shortcode: ithofwaylin
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: D6zKkp3dJtcuuVf0
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

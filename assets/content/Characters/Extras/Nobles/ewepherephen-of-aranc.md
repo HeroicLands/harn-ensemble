@@ -7,18 +7,8 @@ name:
   given: Ewepherephen
   clan: Aranc
   aliases: []
-id: HtOIA65nKPA0jYc5
-packFolder: extrasnobles
 shortcode: ewepherephenofaranc
 type: being
-social:
-  occupation: Sindarin Knight
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HtOIA65nKPA0jYc5
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

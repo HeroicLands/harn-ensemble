@@ -7,18 +7,8 @@ name:
   given: Ephis
   clan: Hudusinar
   aliases: []
-id: k26KTIn03q1bBjRN
-packFolder: extrasserfs
 shortcode: ephisofhudusinar
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: k26KTIn03q1bBjRN
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Drigarondis
   clan: Oshonan
   aliases: []
-id: rzLWaBaEx1nlx3Ns
-packFolder: extrasclergy
 shortcode: drigarondisofoshonan
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: rzLWaBaEx1nlx3Ns
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

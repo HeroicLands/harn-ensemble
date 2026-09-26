@@ -7,19 +7,8 @@ name:
   given: Maeghelime
   clan: Clean
   aliases: []
-id: u87R3Jd9i7HCXs69
-packFolder: extrasclergy
 shortcode: maeghelimeofclean
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: u87R3Jd9i7HCXs69
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

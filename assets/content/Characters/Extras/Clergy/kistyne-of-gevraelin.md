@@ -7,19 +7,8 @@ name:
   given: Kistyne
   clan: Gevraelin
   aliases: []
-id: wAcJJ6UzKpzR0739
-packFolder: extrasclergy
 shortcode: kistyneofgevraelin
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: wAcJJ6UzKpzR0739
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Jorlathbar
   clan: Arin
   aliases: []
-id: dHKtUQVYAVn8zH4G
-packFolder: extrasguilded
 shortcode: jorlathbarofarin
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dHKtUQVYAVn8zH4G
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

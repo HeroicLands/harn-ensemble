@@ -7,18 +7,8 @@ name:
   given: Helicia
   clan: Shre
   aliases: []
-id: UKtDGvrDc804qjJv
-packFolder: extrasguilded
 shortcode: heliciaofshre
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UKtDGvrDc804qjJv
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

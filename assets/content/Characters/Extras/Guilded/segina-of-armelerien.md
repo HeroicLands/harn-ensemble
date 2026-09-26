@@ -7,18 +7,8 @@ name:
   given: Segina
   clan: Armelerien
   aliases: []
-id: UKQem1oF5yHEXsWg
-packFolder: extrasguilded
 shortcode: seginaofarmelerien
 type: being
-social:
-  occupation: Harper/Skald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UKQem1oF5yHEXsWg
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

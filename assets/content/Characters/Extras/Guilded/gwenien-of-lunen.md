@@ -7,18 +7,8 @@ name:
   given: Gwenien
   clan: Lunen
   aliases: []
-id: oY72JImMQ90lBx1x
-packFolder: extrasguilded
 shortcode: gwenienoflunen
 type: being
-social:
-  occupation: Potter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oY72JImMQ90lBx1x
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

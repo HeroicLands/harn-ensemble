@@ -7,18 +7,8 @@ name:
   given: Raeldel
   clan: Patren
   aliases: []
-id: EOTEzIhFpIAutMHM
-packFolder: extrasserfs
 shortcode: raeldelofpatren
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EOTEzIhFpIAutMHM
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

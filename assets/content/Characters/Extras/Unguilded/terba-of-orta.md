@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Orta
   aliases: []
-id: 1qnrdHs9e7HTrfRd
-packFolder: extrasunguilded
 shortcode: terbaoforta
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1qnrdHs9e7HTrfRd
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

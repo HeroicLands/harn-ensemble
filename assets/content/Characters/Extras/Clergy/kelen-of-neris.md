@@ -7,19 +7,8 @@ name:
   given: Kelen
   clan: Neris
   aliases: []
-id: cbm3bDIFIzXmSDIi
-packFolder: extrasclergy
 shortcode: kelenofneris
 type: being
-social:
-  occupation: Cleric/Siem
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: cbm3bDIFIzXmSDIi
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

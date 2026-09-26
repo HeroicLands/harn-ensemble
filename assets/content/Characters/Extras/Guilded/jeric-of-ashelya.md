@@ -7,18 +7,8 @@ name:
   given: Jeric
   clan: Ashelya
   aliases: []
-id: uoIPXXZhPyNzLD5a
-packFolder: extrasguilded
 shortcode: jericofashelya
 type: being
-social:
-  occupation: Weaponcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uoIPXXZhPyNzLD5a
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

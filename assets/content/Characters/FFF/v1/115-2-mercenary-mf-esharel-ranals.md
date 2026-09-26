@@ -7,19 +7,8 @@ name:
   given: Esharel
   clan: Ranals
   aliases: []
-id: cLnhyY4QXQWraFxa
-packFolder: fffmilitary
 shortcode: esharelranals
 type: being
-social:
-  occupation: Sea Captain
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   icon: fff1152tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: cLnhyY4QXQWraFxa
+  packFolder: fffmilitary
+  social:
+    occupation: Sea Captain
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

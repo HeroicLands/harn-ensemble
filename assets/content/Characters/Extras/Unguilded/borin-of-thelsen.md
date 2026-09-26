@@ -7,18 +7,8 @@ name:
   given: Borin
   clan: Thelsen
   aliases: []
-id: PKtr9LFsHZ3AbCrG
-packFolder: extrasunguilded
 shortcode: borinofthelsen
 type: being
-social:
-  occupation: Sage/Tutor
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PKtr9LFsHZ3AbCrG
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

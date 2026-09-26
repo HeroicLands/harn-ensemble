@@ -7,18 +7,8 @@ name:
   given: Masyne
   clan: Stokos
   aliases: []
-id: BOYhzmBfZljhMVDD
-packFolder: extrasguilded
 shortcode: masyneofstokos
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BOYhzmBfZljhMVDD
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

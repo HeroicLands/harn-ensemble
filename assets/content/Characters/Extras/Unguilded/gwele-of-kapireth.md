@@ -7,18 +7,8 @@ name:
   given: Gwele
   clan: Kapireth
   aliases: []
-id: qjvVfBT8SdSBUxMO
-packFolder: extrasunguilded
 shortcode: gweleofkapireth
 type: being
-social:
-  occupation: Toymaker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qjvVfBT8SdSBUxMO
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

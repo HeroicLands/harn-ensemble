@@ -7,19 +7,8 @@ name:
   given: Masyne
   clan: Wenal
   aliases: []
-id: a6aZnWh70L5NaXe8
-packFolder: extrasclergy
 shortcode: masyneofwenal
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: a6aZnWh70L5NaXe8
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

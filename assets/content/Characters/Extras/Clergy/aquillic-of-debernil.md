@@ -7,19 +7,8 @@ name:
   given: Aquillic
   clan: Debernil
   aliases: []
-id: anmqmntoi7t5bodJ
-packFolder: extrasclergy
 shortcode: aquillicofdebernil
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: anmqmntoi7t5bodJ
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

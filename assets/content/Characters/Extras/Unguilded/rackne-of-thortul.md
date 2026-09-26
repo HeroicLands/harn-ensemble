@@ -7,18 +7,8 @@ name:
   given: Rackne
   clan: Thortul
   aliases: []
-id: 9ekWap2PJJFfVZgT
-packFolder: extrasunguilded
 shortcode: rackneofthortul
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9ekWap2PJJFfVZgT
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

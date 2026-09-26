@@ -7,18 +7,8 @@ name:
   given: Diryn
   clan: Kass
   aliases: []
-id: XZH9hWLTEW2n5G9P
-packFolder: extrasguilded
 shortcode: dirynofkass
 type: being
-social:
-  occupation: Alchemist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XZH9hWLTEW2n5G9P
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

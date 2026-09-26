@@ -7,18 +7,8 @@ name:
   given: Vaber
   clan: Nalis
   aliases: []
-id: 0pWEBvI11IqbOpYv
-packFolder: extrasunguilded
 shortcode: vaberofnalis
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0pWEBvI11IqbOpYv
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

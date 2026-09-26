@@ -7,18 +7,8 @@ name:
   given: Kistyne
   clan: Ner
   aliases: []
-id: yu9aYkyLUjM8aPdk
-packFolder: extrasguilded
 shortcode: kistyneofner
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yu9aYkyLUjM8aPdk
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

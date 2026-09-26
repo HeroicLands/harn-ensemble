@@ -7,18 +7,8 @@ name:
   given: Cholayn
   clan: Varo
   aliases: []
-id: FKDExocAb2BYbYZr
-packFolder: extrasguilded
 shortcode: cholaynofvaro
 type: being
-social:
-  occupation: Clothier
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FKDExocAb2BYbYZr
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

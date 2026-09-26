@@ -7,18 +7,8 @@ name:
   given: Perla
   clan: Iaras
   aliases: []
-id: WUiamTNWkWPl4AeT
-packFolder: extrasunguilded
 shortcode: perlaofiaras
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WUiamTNWkWPl4AeT
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

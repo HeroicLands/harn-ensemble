@@ -7,18 +7,8 @@ name:
   given: Vadiryn
   clan: Intrel
   aliases: []
-id: W6ixFtpe7PcpcOXg
-packFolder: extrasguilded
 shortcode: vadirynofintrel
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: W6ixFtpe7PcpcOXg
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

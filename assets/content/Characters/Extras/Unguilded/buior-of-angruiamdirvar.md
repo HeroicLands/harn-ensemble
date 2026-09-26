@@ -7,18 +7,8 @@ name:
   given: Buior
   clan: Angruiamdirvar
   aliases: []
-id: rTkeT6ygjG1Ur0wC
-packFolder: extrasunguilded
 shortcode: buiorofangruiamdirvar
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rTkeT6ygjG1Ur0wC
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

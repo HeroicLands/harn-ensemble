@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Tobira
   aliases: []
-id: kA6VBcGqUNkfHzgd
-packFolder: extrasserfs
 shortcode: tolmeyoftobira
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kA6VBcGqUNkfHzgd
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

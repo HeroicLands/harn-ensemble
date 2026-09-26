@@ -7,18 +7,8 @@ name:
   given: Telsa
   clan: Kair
   aliases: []
-id: vxTlrDy110q1M7ju
-packFolder: extrasnobles
 shortcode: telsaofkair
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vxTlrDy110q1M7ju
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

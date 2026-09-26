@@ -7,18 +7,8 @@ name:
   given: Burkot
   clan: Aets
   aliases: []
-id: otAeO0pKA4z0xw4s
-packFolder: extrasguilded
 shortcode: burkotofaets
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: otAeO0pKA4z0xw4s
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

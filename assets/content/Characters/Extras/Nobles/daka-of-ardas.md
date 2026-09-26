@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Ardas
   aliases: []
-id: N9ThcWwxaT4Bgb36
-packFolder: extrasnobles
 shortcode: dakaofardas
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: N9ThcWwxaT4Bgb36
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

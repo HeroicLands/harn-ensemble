@@ -7,18 +7,8 @@ name:
   given: Piltain
   clan: Pasena
   aliases: []
-id: W2euhcy5gZWm4cZ5
-packFolder: extrasguilded
 shortcode: piltainofpasena
 type: being
-social:
-  occupation: Thespian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: W2euhcy5gZWm4cZ5
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

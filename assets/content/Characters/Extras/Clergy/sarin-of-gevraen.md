@@ -7,19 +7,8 @@ name:
   given: Sarin
   clan: Gevraen
   aliases: []
-id: bxsV4Mi7t2GriNMd
-packFolder: extrasclergy
 shortcode: sarinofgevraen
 type: being
-social:
-  occupation: Cleric/Larani
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: bxsV4Mi7t2GriNMd
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

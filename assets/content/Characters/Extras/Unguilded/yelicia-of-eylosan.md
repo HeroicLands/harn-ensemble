@@ -7,18 +7,8 @@ name:
   given: Yelicia
   clan: Eylosan
   aliases: []
-id: qJYcAd3V20NUwVZg
-packFolder: extrasunguilded
 shortcode: yeliciaofeylosan
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qJYcAd3V20NUwVZg
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

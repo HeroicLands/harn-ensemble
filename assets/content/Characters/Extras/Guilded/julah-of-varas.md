@@ -7,18 +7,8 @@ name:
   given: Julah
   clan: Varas
   aliases: []
-id: qQSvtbJ56jCdojkv
-packFolder: extrasguilded
 shortcode: julahofvaras
 type: being
-social:
-  occupation: Miller/Millwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qQSvtbJ56jCdojkv
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

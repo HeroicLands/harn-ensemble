@@ -7,18 +7,8 @@ name:
   given: Moskil
   clan: Charas
   aliases: []
-id: WnCpTogsKPTJJ8Jt
-packFolder: extrasnobles
 shortcode: moskilofcharas
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WnCpTogsKPTJJ8Jt
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Larm
   clan: Domerak
   aliases: []
-id: lYHpKTWePBpyyPXA
-packFolder: extrasguilded
 shortcode: larmofdomerak
 type: being
-social:
-  occupation: Litigant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lYHpKTWePBpyyPXA
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Elros
   clan: Merin
   aliases: []
-id: jqxwcglOWSbmKmea
-packFolder: fffmages
 shortcode: elrosofmerin
 type: being
-social:
-  occupation: Ship Captain
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - saveknor
 data:
   icon: fff7051tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - saveknor
+  id: jqxwcglOWSbmKmea
+  packFolder: fffmages
+  social:
+    occupation: Ship Captain
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

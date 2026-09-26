@@ -7,18 +7,8 @@ name:
   given: Heral
   clan: Varael
   aliases: []
-id: bbhaOS0CgHUMu1ZK
-packFolder: extrasnobles
 shortcode: heralofvarael
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bbhaOS0CgHUMu1ZK
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

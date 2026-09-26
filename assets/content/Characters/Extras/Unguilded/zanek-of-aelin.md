@@ -7,18 +7,8 @@ name:
   given: Zanek
   clan: Aelin
   aliases: []
-id: 3Vn9H9i3pdL6xhqk
-packFolder: extrasunguilded
 shortcode: zanekofaelin
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3Vn9H9i3pdL6xhqk
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

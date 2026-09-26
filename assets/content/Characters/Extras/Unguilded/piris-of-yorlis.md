@@ -7,18 +7,8 @@ name:
   given: Piris
   clan: Yorlis
   aliases: []
-id: 8mPnijIWrzng5Xmu
-packFolder: extrasunguilded
 shortcode: pirisofyorlis
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8mPnijIWrzng5Xmu
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

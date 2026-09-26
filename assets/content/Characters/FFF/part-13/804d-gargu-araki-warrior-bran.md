@@ -7,18 +7,8 @@ name:
   given: Bran
   clan: ""
   aliases: []
-id: f6i26XWJPVGgm6VV
-packFolder: fffnonhumans
 shortcode: bran
 type: being
-social:
-  occupation: Warrior
-  class: slave
-  society: gargun (araki)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff804dhead
   tokenIcon: fff804dtok
@@ -35,6 +25,16 @@ data:
     skin_color: ""
     complexion: shifty
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: f6i26XWJPVGgm6VV
+  packFolder: fffnonhumans
+  social:
+    occupation: Warrior
+    class: slave
+    society: gargun (araki)
+    organizations: []
 hm3:
   type: character
   attributes:

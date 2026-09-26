@@ -7,18 +7,8 @@ name:
   given: Quertena
   clan: Veriel
   aliases: []
-id: SKVsDL49yKz1TnAK
-packFolder: extrasunguilded
 shortcode: quertenaofveriel
 type: being
-social:
-  occupation: Thatcher
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SKVsDL49yKz1TnAK
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

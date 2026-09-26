@@ -7,18 +7,8 @@ name:
   given: Klarina
   clan: Okren
   aliases: []
-id: blS48G32JL8QLun5
-packFolder: extrasunguilded
 shortcode: klarinaofokren
 type: being
-social:
-  occupation: Cook/Servant
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: blS48G32JL8QLun5
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

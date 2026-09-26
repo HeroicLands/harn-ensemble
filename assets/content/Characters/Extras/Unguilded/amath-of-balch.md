@@ -7,18 +7,8 @@ name:
   given: Amath
   clan: Balch
   aliases: []
-id: 7KmIhxJjr1L0bRR5
-packFolder: extrasunguilded
 shortcode: amathofbalch
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7KmIhxJjr1L0bRR5
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

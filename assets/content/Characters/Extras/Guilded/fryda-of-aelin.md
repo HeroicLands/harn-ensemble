@@ -7,18 +7,8 @@ name:
   given: Fryda
   clan: Aelin
   aliases: []
-id: ZSw6XuFIMqNWLIfO
-packFolder: extrasguilded
 shortcode: frydaofaelin
 type: being
-social:
-  occupation: Tentmaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZSw6XuFIMqNWLIfO
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

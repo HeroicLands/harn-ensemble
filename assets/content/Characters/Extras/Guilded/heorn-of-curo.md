@@ -7,18 +7,8 @@ name:
   given: Heorn
   clan: Curo
   aliases: []
-id: rcq6wxZuiDKCT9iu
-packFolder: extrasguilded
 shortcode: heornofcuro
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rcq6wxZuiDKCT9iu
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

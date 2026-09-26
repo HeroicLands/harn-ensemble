@@ -7,18 +7,8 @@ name:
   given: Rybin
   clan: Provin
   aliases: []
-id: 7SROldkaPaLD0E7o
-packFolder: extrasguilded
 shortcode: rybinofprovin
 type: being
-social:
-  occupation: Tentmaker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7SROldkaPaLD0E7o
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

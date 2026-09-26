@@ -7,18 +7,8 @@ name:
   given: Nor
   clan: Lorinsen
   aliases: []
-id: dNl6o5K0a7d2IMKT
-packFolder: extrasmages
 shortcode: noroflorinsen
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi***"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dNl6o5K0a7d2IMKT
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi***"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

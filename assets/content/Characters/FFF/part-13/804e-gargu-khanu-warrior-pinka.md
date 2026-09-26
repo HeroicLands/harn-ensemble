@@ -7,18 +7,8 @@ name:
   given: Pinka
   clan: ""
   aliases: []
-id: hFoale7BdhL9OV3F
-packFolder: fffnonhumans
 shortcode: pinka
 type: being
-social:
-  occupation: Warrior
-  class: warrior
-  society: gargun (khanu)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff804ehead
   tokenIcon: fff804etok
@@ -38,6 +28,16 @@ data:
       - Stooped posture
       - drooling
       - confused look
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hFoale7BdhL9OV3F
+  packFolder: fffnonhumans
+  social:
+    occupation: Warrior
+    class: warrior
+    society: gargun (khanu)
+    organizations: []
 hm3:
   type: character
   attributes:

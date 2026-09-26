@@ -7,18 +7,8 @@ name:
   given: Merery
   clan: Kyfa
   aliases: []
-id: PBDgj3JUC4R8H74v
-packFolder: extrasguilded
 shortcode: mereryofkyfa
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PBDgj3JUC4R8H74v
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

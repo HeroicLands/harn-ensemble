@@ -7,19 +7,8 @@ name:
   given: Ylina
   clan: ""
   aliases: []
-id: 3NhXGurVjakRvw5J
-packFolder: fffmilitary
 shortcode: ylina
 type: being
-social:
-  occupation: Shieldmaiden
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff1241tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: 3NhXGurVjakRvw5J
+  packFolder: fffmilitary
+  social:
+    occupation: Shieldmaiden
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

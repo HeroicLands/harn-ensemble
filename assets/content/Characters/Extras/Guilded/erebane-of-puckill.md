@@ -7,18 +7,8 @@ name:
   given: Erebane
   clan: Puckill
   aliases: []
-id: D0Vb3C6MyysrUlcH
-packFolder: extrasguilded
 shortcode: erebaneofpuckill
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: D0Vb3C6MyysrUlcH
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

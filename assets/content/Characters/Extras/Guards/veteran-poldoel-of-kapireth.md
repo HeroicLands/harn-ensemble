@@ -7,18 +7,8 @@ name:
   given: Poldoel
   clan: Kapireth
   aliases: []
-id: ai4AAeZfsRWJ9WYh
-packFolder: extrasguards
 shortcode: veteranpoldoelofkapireth
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ai4AAeZfsRWJ9WYh
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

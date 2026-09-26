@@ -7,18 +7,8 @@ name:
   given: Mera
   clan: Banth
   aliases: []
-id: Tf52tUCpXcwPbuw1
-packFolder: extrasguilded
 shortcode: meraofbanth
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Tf52tUCpXcwPbuw1
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

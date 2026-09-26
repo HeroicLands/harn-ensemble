@@ -7,19 +7,8 @@ name:
   given: Odell
   clan: Risene
   aliases: []
-id: myAxxYx2A8oZ5RXO
-packFolder: fffguilded
 shortcode: odellofrisene
 type: being
-social:
-  occupation: Miner
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3211tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: plain
     extra_features:
       - Parasites (fleas)
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: myAxxYx2A8oZ5RXO
+  packFolder: fffguilded
+  social:
+    occupation: Miner
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

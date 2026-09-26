@@ -7,18 +7,8 @@ name:
   given: Haralyn
   clan: Kolmzak
   aliases: []
-id: ij40UBRiUQisZQXy
-packFolder: extrasunguilded
 shortcode: haralynofkolmzak
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ij40UBRiUQisZQXy
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

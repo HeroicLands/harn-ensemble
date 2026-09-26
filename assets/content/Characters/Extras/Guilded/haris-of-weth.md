@@ -7,18 +7,8 @@ name:
   given: Haris
   clan: Weth
   aliases: []
-id: kEbTsF0iA6ZMpXG9
-packFolder: extrasguilded
 shortcode: harisofweth
 type: being
-social:
-  occupation: Pilot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kEbTsF0iA6ZMpXG9
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

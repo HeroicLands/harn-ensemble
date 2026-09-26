@@ -7,18 +7,8 @@ name:
   given: Lorel
   clan: Sediribe
   aliases: []
-id: mIjuMuBqGOhoJBZX
-packFolder: extrasunguilded
 shortcode: lorelofsediribe
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mIjuMuBqGOhoJBZX
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

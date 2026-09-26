@@ -7,18 +7,8 @@ name:
   given: Raela
   clan: Varoos
   aliases: []
-id: 2t7hQGdkz4NG6Lgu
-packFolder: extrasguilded
 shortcode: raelaofvaroos
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2t7hQGdkz4NG6Lgu
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

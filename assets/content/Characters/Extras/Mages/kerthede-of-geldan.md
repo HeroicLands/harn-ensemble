@@ -7,18 +7,8 @@ name:
   given: Kerthede
   clan: Geldan
   aliases: []
-id: 4HJn47nT3fihJLfy
-packFolder: extrasmages
 shortcode: kerthedeofgeldan
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn*****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4HJn47nT3fihJLfy
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn*****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Gina
   clan: Patren
   aliases: []
-id: ycwqwII8FzMqjG6m
-packFolder: extrasclergy
 shortcode: ginaofpatren
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: ycwqwII8FzMqjG6m
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

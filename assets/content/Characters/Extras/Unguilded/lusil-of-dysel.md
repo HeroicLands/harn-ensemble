@@ -7,18 +7,8 @@ name:
   given: Lusil
   clan: Dysel
   aliases: []
-id: 8UyxMtmHcG8hkQYP
-packFolder: extrasunguilded
 shortcode: lusilofdysel
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8UyxMtmHcG8hkQYP
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Kalwis
   clan: Orta
   aliases: []
-id: e1oazyZIMghgeXrK
-packFolder: extrasserfs
 shortcode: kalwisoforta
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: e1oazyZIMghgeXrK
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

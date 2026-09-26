@@ -7,18 +7,8 @@ name:
   given: Sorolanazir
   clan: Sideth
   aliases: []
-id: KTTDxOogdAIZNk6p
-packFolder: extrasunguilded
 shortcode: sorolanazirofsideth
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KTTDxOogdAIZNk6p
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Perlina
   clan: Arion
   aliases: []
-id: K4usQCDDA9hKrFW6
-packFolder: extrasguilded
 shortcode: perlinaofarion
 type: being
-social:
-  occupation: Thespian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: K4usQCDDA9hKrFW6
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

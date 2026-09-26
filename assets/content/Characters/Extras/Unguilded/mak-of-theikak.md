@@ -7,18 +7,8 @@ name:
   given: Mak
   clan: Theikak
   aliases: []
-id: Ef3xya3CCOmtK8z9
-packFolder: extrasunguilded
 shortcode: makoftheikak
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Ef3xya3CCOmtK8z9
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

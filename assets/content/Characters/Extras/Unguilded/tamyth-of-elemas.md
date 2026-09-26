@@ -7,18 +7,8 @@ name:
   given: Tamyth
   clan: Elemas
   aliases: []
-id: VaCiVbL0zV7QkIvv
-packFolder: extrasunguilded
 shortcode: tamythofelemas
 type: being
-social:
-  occupation: Herdsman
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VaCiVbL0zV7QkIvv
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

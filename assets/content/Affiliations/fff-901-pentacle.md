@@ -1,6 +1,5 @@
 ---
 tags: []
-id: iQzDh13KVsOrpbqc
 type: affiliation
 subType: venture
 shortcode: fffpentacle
@@ -10,6 +9,7 @@ name:
 data:
   icon: null
   templatePriority: null
+  id: iQzDh13KVsOrpbqc
 sohl:
   relation: []
 ---

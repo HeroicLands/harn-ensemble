@@ -7,18 +7,8 @@ name:
   given: Pamjul
   clan: Pendech
   aliases: []
-id: MYajmOR41XiQYXeV
-packFolder: extrasserfs
 shortcode: pamjulofpendech
 type: being
-social:
-  occupation: Cook/Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MYajmOR41XiQYXeV
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

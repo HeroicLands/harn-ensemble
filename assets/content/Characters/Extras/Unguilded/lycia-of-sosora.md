@@ -7,18 +7,8 @@ name:
   given: Lycia
   clan: Sosora
   aliases: []
-id: Jeuh7ALxQdj1IMCs
-packFolder: extrasunguilded
 shortcode: lyciaofsosora
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Jeuh7ALxQdj1IMCs
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

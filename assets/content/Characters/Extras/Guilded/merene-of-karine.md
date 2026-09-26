@@ -7,18 +7,8 @@ name:
   given: Merene
   clan: Karine
   aliases: []
-id: D8F67vB9uF9N4yHU
-packFolder: extrasguilded
 shortcode: mereneofkarine
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: D8F67vB9uF9N4yHU
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

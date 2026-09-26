@@ -7,19 +7,8 @@ name:
   given: Lamnar
   clan: Madib
   aliases: []
-id: DC89tV9INkekuwys
-packFolder: extrasclergy
 shortcode: lamnarofmadib
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: DC89tV9INkekuwys
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

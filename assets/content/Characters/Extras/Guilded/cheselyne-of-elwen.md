@@ -7,18 +7,8 @@ name:
   given: Cheselyne
   clan: Elwen
   aliases: []
-id: TFG3PGAAgKdjG9Ta
-packFolder: extrasguilded
 shortcode: cheselyneofelwen
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TFG3PGAAgKdjG9Ta
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

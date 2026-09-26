@@ -7,19 +7,8 @@ name:
   given: Peshmuga
   clan: Dulkyia
   aliases: []
-id: lpd2jgHecfTJjthN
-packFolder: extrasclergy
 shortcode: peshmugaofdulkyia
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: lpd2jgHecfTJjthN
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

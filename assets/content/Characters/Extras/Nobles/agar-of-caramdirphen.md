@@ -7,18 +7,8 @@ name:
   given: Agar
   clan: Caramdirphen
   aliases: []
-id: IaQj6Ut2wVhZmNl7
-packFolder: extrasnobles
 shortcode: agarofcaramdirphen
 type: being
-social:
-  occupation: Sindarin Knight
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IaQj6Ut2wVhZmNl7
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

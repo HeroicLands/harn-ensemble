@@ -7,18 +7,8 @@ name:
   given: Milniq
   clan: Dulkai
   aliases: []
-id: JtuiGKbslwfk9SHD
-packFolder: extrasguilded
 shortcode: milniqofdulkai
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JtuiGKbslwfk9SHD
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

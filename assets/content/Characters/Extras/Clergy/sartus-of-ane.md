@@ -7,19 +7,8 @@ name:
   given: Sartus
   clan: Ane
   aliases: []
-id: Sdl2sLfewZrbnKxj
-packFolder: extrasclergy
 shortcode: sartusofane
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: Sdl2sLfewZrbnKxj
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

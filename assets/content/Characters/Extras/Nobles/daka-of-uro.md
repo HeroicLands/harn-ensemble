@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Uro
   aliases: []
-id: PefocV9Z6cdXHDol
-packFolder: extrasnobles
 shortcode: dakaofuro
 type: being
-social:
-  occupation: Patrician
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PefocV9Z6cdXHDol
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

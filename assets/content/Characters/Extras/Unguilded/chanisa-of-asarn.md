@@ -7,18 +7,8 @@ name:
   given: Chanisa
   clan: Asarn
   aliases: []
-id: I8307YIRJDIckP2W
-packFolder: extrasunguilded
 shortcode: chanisaofasarn
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: I8307YIRJDIckP2W
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

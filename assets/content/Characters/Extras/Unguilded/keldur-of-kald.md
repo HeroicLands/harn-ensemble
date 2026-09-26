@@ -7,18 +7,8 @@ name:
   given: Keldur
   clan: Kald
   aliases: []
-id: SFqkAWjqdKu0Gc84
-packFolder: extrasunguilded
 shortcode: keldurofkald
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SFqkAWjqdKu0Gc84
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

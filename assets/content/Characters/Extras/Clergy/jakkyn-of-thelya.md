@@ -7,19 +7,8 @@ name:
   given: Jakkyn
   clan: Thelya
   aliases: []
-id: kaFWjXeR2UtSh3nw
-packFolder: extrasclergy
 shortcode: jakkynofthelya
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: kaFWjXeR2UtSh3nw
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Sediel
   aliases: []
-id: UQ78h2zoSXt37Ydu
-packFolder: extrasunguilded
 shortcode: dakaofsediel
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UQ78h2zoSXt37Ydu
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

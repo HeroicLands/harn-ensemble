@@ -7,19 +7,8 @@ name:
   given: Shaeldel
   clan: Asane
   aliases: []
-id: P39dBQh14b30eavf
-packFolder: extrasclergy
 shortcode: shaeldelofasane
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: P39dBQh14b30eavf
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

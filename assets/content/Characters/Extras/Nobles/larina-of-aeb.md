@@ -7,18 +7,8 @@ name:
   given: Larina
   clan: Aeb
   aliases: []
-id: Q3p6Um8QBuo4jzGh
-packFolder: extrasnobles
 shortcode: larinaofaeb
 type: being
-social:
-  occupation: Baliff
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Q3p6Um8QBuo4jzGh
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

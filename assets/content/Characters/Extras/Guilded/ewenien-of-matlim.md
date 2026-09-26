@@ -7,18 +7,8 @@ name:
   given: Ewenien
   clan: Matlim
   aliases: []
-id: 6FepWshcne0cnKvl
-packFolder: extrasguilded
 shortcode: ewenienofmatlim
 type: being
-social:
-  occupation: Clothier
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6FepWshcne0cnKvl
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Hemis
   clan: Bor
   aliases: []
-id: 3ICKvXrNHAKMvfhW
-packFolder: extrasnobles
 shortcode: hemisofbor
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3ICKvXrNHAKMvfhW
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

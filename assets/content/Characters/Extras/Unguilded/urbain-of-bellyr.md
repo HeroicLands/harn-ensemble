@@ -7,18 +7,8 @@ name:
   given: Urbain
   clan: Bellyr
   aliases: []
-id: ZaZSRYYBc7o05yq1
-packFolder: extrasunguilded
 shortcode: urbainofbellyr
 type: being
-social:
-  occupation: Gladiator
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZaZSRYYBc7o05yq1
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

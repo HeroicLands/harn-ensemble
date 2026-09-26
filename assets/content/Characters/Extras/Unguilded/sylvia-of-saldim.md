@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Saldim
   aliases: []
-id: gbyHt1tYgZDYrAk0
-packFolder: extrasunguilded
 shortcode: sylviaofsaldim
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gbyHt1tYgZDYrAk0
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

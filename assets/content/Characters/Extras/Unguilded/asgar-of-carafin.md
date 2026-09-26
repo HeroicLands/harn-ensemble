@@ -7,18 +7,8 @@ name:
   given: Asgar
   clan: Carafin
   aliases: []
-id: w5HbShr5B5Dx4VCv
-packFolder: extrasunguilded
 shortcode: asgarofcarafin
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: w5HbShr5B5Dx4VCv
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

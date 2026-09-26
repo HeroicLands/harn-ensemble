@@ -7,19 +7,8 @@ name:
   given: Elaz
   clan: Iesh
   aliases: []
-id: Si5mP67W1pRtwyqD
-packFolder: extrasclergy
 shortcode: elazofiesh
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: Si5mP67W1pRtwyqD
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

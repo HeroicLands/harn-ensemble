@@ -7,19 +7,8 @@ name:
   given: Anlaelderila
   clan: Tal
   aliases: []
-id: 5zrRwWP63YLfjMWU
-packFolder: extrasclergy
 shortcode: anlaelderilaoftal
 type: being
-social:
-  occupation: Cleric/Halea
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: 5zrRwWP63YLfjMWU
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Kora
   clan: Serdica
   aliases: []
-id: jW8F24E2EwEro9xh
-packFolder: fffunguilded
 shortcode: koraofserdica
 type: being
-social:
-  occupation: Wise Woman
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Old Jarin"
 data:
   icon: fff4991tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: attractive
     extra_features:
       - Hand tremor
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Old Jarin"
+  id: jW8F24E2EwEro9xh
+  packFolder: fffunguilded
+  social:
+    occupation: Wise Woman
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

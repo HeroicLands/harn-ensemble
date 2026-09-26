@@ -7,18 +7,8 @@ name:
   given: Chola
   clan: Mar
   aliases: []
-id: pcuctFxWu71s2JYa
-packFolder: extrasguilded
 shortcode: cholaofmar
 type: being
-social:
-  occupation: Hideworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pcuctFxWu71s2JYa
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

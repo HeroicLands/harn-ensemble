@@ -7,18 +7,8 @@ name:
   given: Cersyn
   clan: Tichmarnesku
   aliases: []
-id: sSyq8BsMKUMV6WXJ
-packFolder: extrasguilded
 shortcode: cersynoftichmarnesku
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sSyq8BsMKUMV6WXJ
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

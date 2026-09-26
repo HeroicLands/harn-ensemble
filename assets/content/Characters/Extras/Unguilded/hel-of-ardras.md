@@ -7,18 +7,8 @@ name:
   given: Hel
   clan: Ardras
   aliases: []
-id: u1WcRb7zMwXyZqPf
-packFolder: extrasunguilded
 shortcode: helofardras
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: u1WcRb7zMwXyZqPf
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

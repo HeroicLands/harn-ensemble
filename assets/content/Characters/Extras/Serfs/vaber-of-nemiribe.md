@@ -7,18 +7,8 @@ name:
   given: Vaber
   clan: Nemiribe
   aliases: []
-id: 38xB6UdFVZfivd5Y
-packFolder: extrasserfs
 shortcode: vaberofnemiribe
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 38xB6UdFVZfivd5Y
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

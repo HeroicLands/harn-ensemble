@@ -7,18 +7,8 @@ name:
   given: Kalinde
   clan: Irien
   aliases: []
-id: sBJHPJNm4zoRwWhG
-packFolder: extrasguilded
 shortcode: kalindeofirien
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sBJHPJNm4zoRwWhG
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

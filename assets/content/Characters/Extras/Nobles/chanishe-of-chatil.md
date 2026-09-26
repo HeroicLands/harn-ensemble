@@ -7,18 +7,8 @@ name:
   given: Chanishe
   clan: Chatil
   aliases: []
-id: X6CuEVs7tm2VCHUD
-packFolder: extrasnobles
 shortcode: chanisheofchatil
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: X6CuEVs7tm2VCHUD
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

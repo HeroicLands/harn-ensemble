@@ -7,19 +7,8 @@ name:
   given: Yaelderien
   clan: Ciltex
   aliases: []
-id: 9wLgX3SxLP6HYcsA
-packFolder: extrasclergy
 shortcode: yaelderienofciltex
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: 9wLgX3SxLP6HYcsA
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

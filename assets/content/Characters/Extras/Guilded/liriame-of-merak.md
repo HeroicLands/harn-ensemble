@@ -7,18 +7,8 @@ name:
   given: Liriame
   clan: Merak
   aliases: []
-id: F3uqS1KAQlTkXilN
-packFolder: extrasguilded
 shortcode: liriameofmerak
 type: being
-social:
-  occupation: Clothier
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F3uqS1KAQlTkXilN
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

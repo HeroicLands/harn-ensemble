@@ -7,18 +7,8 @@ name:
   given: Dorana
   clan: Keryn
   aliases: []
-id: rMrvdU0hmkKd5mMv
-packFolder: extrasguilded
 shortcode: doranaofkeryn
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rMrvdU0hmkKd5mMv
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

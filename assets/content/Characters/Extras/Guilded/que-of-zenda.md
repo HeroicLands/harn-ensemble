@@ -7,18 +7,8 @@ name:
   given: Que
   clan: Zenda
   aliases: []
-id: CXEiQpPzLCkbmR6g
-packFolder: extrasguilded
 shortcode: queofzenda
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CXEiQpPzLCkbmR6g
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

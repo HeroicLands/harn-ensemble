@@ -7,18 +7,8 @@ name:
   given: Shael
   clan: Tombine
   aliases: []
-id: CuJi38bO3coB1NWI
-packFolder: extrasguilded
 shortcode: shaeloftombine
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CuJi38bO3coB1NWI
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

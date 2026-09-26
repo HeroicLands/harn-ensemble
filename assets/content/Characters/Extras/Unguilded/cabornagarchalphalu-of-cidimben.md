@@ -7,18 +7,8 @@ name:
   given: Cabornagarchalphalu
   clan: Cidimben
   aliases: []
-id: b5uYokLL6xjPvZht
-packFolder: extrasunguilded
 shortcode: cabornagarchalphaluofcidimben
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b5uYokLL6xjPvZht
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

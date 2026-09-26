@@ -7,18 +7,8 @@ name:
   given: Aera
   clan: Crani
   aliases: []
-id: pPRaMBnWmOv6jBBV
-packFolder: extrasguilded
 shortcode: aeraofcrani
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pPRaMBnWmOv6jBBV
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

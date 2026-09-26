@@ -7,18 +7,8 @@ name:
   given: Sat
   clan: Charass
   aliases: []
-id: 9rjI44NHIqx7q2Zy
-packFolder: extrasunguilded
 shortcode: satofcharass
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9rjI44NHIqx7q2Zy
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

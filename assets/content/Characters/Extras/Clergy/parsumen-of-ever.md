@@ -7,19 +7,8 @@ name:
   given: Parsumen
   clan: Ever
   aliases: []
-id: l3G7JpiBwZK7KZgp
-packFolder: extrasclergy
 shortcode: parsumenofever
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: l3G7JpiBwZK7KZgp
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

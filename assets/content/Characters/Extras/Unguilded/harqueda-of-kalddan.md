@@ -7,18 +7,8 @@ name:
   given: Harqueda
   clan: Kalddan
   aliases: []
-id: Fe4NlS4m6YYo6xv9
-packFolder: extrasunguilded
 shortcode: harquedaofkalddan
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Fe4NlS4m6YYo6xv9
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

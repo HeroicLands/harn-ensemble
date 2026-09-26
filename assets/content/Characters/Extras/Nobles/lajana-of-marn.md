@@ -7,18 +7,8 @@ name:
   given: Lajana
   clan: Marn
   aliases: []
-id: ucPI3yxrBVSEEP0V
-packFolder: extrasnobles
 shortcode: lajanaofmarn
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ucPI3yxrBVSEEP0V
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

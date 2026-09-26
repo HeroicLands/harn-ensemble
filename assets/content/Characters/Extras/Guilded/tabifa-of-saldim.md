@@ -7,18 +7,8 @@ name:
   given: Tabifa
   clan: Saldim
   aliases: []
-id: tBU8HHkeWgmGmDbi
-packFolder: extrasguilded
 shortcode: tabifaofsaldim
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tBU8HHkeWgmGmDbi
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

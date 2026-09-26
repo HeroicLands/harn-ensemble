@@ -7,18 +7,8 @@ name:
   given: Kaidia
   clan: Pede
   aliases: []
-id: xbnX5XrfiGSK4p2n
-packFolder: extrasguilded
 shortcode: kaidiaofpede
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xbnX5XrfiGSK4p2n
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

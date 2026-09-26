@@ -7,18 +7,8 @@ name:
   given: Clavro
   clan: Podin
   aliases: []
-id: AD7D9CtSG9a07UuN
-packFolder: extrasguards
 shortcode: clavroofpodin
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AD7D9CtSG9a07UuN
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

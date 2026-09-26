@@ -7,18 +7,8 @@ name:
   given: Piris
   clan: Bela
   aliases: []
-id: 8YvvSpww7EdX776a
-packFolder: extrasguilded
 shortcode: pirisofbela
 type: being
-social:
-  occupation: Woodcrafter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8YvvSpww7EdX776a
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

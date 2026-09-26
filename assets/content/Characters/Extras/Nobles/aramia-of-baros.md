@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Baros
   aliases: []
-id: ajkbOARPp8L3I8Ve
-packFolder: extrasnobles
 shortcode: aramiaofbaros
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ajkbOARPp8L3I8Ve
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Lusilen
   clan: Uerthaen
   aliases: []
-id: Wau8c4I1ou8v3p3e
-packFolder: extrasnobles
 shortcode: lusilenofuerthaen
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Wau8c4I1ou8v3p3e
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

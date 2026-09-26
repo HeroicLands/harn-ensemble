@@ -7,18 +7,8 @@ name:
   given: Krakan
   clan: Elwethasil
   aliases: []
-id: OrWbxVoWHuriJJl1
-packFolder: extrasnobles
 shortcode: krakanofelwethasil
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OrWbxVoWHuriJJl1
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Makala
   clan: Coselen
   aliases: []
-id: iRHsE3WiGs6QWNN1
-packFolder: extrasguilded
 shortcode: makalaofcoselen
 type: being
-social:
-  occupation: Chandler
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iRHsE3WiGs6QWNN1
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

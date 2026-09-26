@@ -7,18 +7,8 @@ name:
   given: Tabifa
   clan: Payensen
   aliases: []
-id: OJuaROl9rjhRXnlD
-packFolder: extrasunguilded
 shortcode: tabifaofpayensen
 type: being
-social:
-  occupation: Fisherman
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OJuaROl9rjhRXnlD
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

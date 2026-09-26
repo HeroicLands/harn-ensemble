@@ -7,18 +7,8 @@ name:
   given: Jaga
   clan: Nalir
   aliases: []
-id: 7rDO9hgPcemp8VLV
-packFolder: extrasguards
 shortcode: jagaofnalir
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7rDO9hgPcemp8VLV
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

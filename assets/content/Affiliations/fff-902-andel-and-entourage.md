@@ -1,6 +1,5 @@
 ---
 tags: []
-id: FVtjQWpvGL7OiPki
 type: affiliation
 subType: venture
 shortcode: fffandelent
@@ -10,6 +9,7 @@ name:
 data:
   icon: null
   templatePriority: null
+  id: FVtjQWpvGL7OiPki
 sohl:
   relation: []
 ---

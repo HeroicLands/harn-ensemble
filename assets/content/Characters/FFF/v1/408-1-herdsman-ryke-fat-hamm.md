@@ -8,19 +8,8 @@ name:
   clan: Hamm
   aliases:
     - Fat
-id: eINyh83Kik2WzPWJ
-packFolder: fffunguilded
 shortcode: rykefathamm
 type: being
-social:
-  occupation: Herdsman/Beggar
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4081tok
   templatePriority: 1
@@ -40,6 +29,17 @@ data:
       - Hunchback
       - Beard
       - moustache
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: eINyh83Kik2WzPWJ
+  packFolder: fffunguilded
+  social:
+    occupation: Herdsman/Beggar
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

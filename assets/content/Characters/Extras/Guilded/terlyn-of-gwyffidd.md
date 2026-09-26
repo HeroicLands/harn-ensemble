@@ -7,18 +7,8 @@ name:
   given: Terlyn
   clan: Gwyffidd
   aliases: []
-id: U2ScHV9QjuDHFOk0
-packFolder: extrasguilded
 shortcode: terlynofgwyffidd
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: U2ScHV9QjuDHFOk0
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

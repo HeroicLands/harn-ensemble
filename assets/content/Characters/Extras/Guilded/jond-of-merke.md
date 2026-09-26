@@ -7,18 +7,8 @@ name:
   given: Jond
   clan: Merke
   aliases: []
-id: wlsl5iFTghE2jrjS
-packFolder: extrasguilded
 shortcode: jondofmerke
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wlsl5iFTghE2jrjS
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

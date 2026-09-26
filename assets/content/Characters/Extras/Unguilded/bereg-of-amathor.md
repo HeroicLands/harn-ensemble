@@ -7,18 +7,8 @@ name:
   given: Bereg
   clan: Amathor
   aliases: []
-id: Tj8WciratY8Lyyap
-packFolder: extrasunguilded
 shortcode: beregofamathor
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Tj8WciratY8Lyyap
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

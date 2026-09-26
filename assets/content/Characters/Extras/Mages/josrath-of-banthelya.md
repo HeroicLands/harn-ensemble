@@ -7,18 +7,8 @@ name:
   given: Josrath
   clan: Banthelya
   aliases: []
-id: iNVmvMgeCzjaMpc0
-packFolder: extrasmages
 shortcode: josrathofbanthelya
 type: being
-social:
-  occupation: "Shek-Pvar/Jmorvi****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iNVmvMgeCzjaMpc0
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Jmorvi****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

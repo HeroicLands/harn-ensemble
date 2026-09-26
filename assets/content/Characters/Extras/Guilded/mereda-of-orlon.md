@@ -7,18 +7,8 @@ name:
   given: Mereda
   clan: Orlon
   aliases: []
-id: AOOyGZPfqLvGri1T
-packFolder: extrasguilded
 shortcode: meredaoforlon
 type: being
-social:
-  occupation: Timberwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AOOyGZPfqLvGri1T
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

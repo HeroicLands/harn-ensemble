@@ -7,19 +7,8 @@ name:
   given: Silasarton
   clan: Jaesinda
   aliases: []
-id: 8DlTMOzuOn081T8n
-packFolder: extrasclergy
 shortcode: silasartonofjaesinda
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 8DlTMOzuOn081T8n
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

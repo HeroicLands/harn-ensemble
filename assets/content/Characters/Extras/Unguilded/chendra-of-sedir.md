@@ -7,18 +7,8 @@ name:
   given: Chendra
   clan: Sedir
   aliases: []
-id: tKEGupSgkop8XFjY
-packFolder: extrasunguilded
 shortcode: chendraofsedir
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tKEGupSgkop8XFjY
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Jamys
   clan: Kestel
   aliases: []
-id: j70pHFJDiYWFrc89
-packFolder: fffguilded
 shortcode: jamysofkestel
 type: being
-social:
-  occupation: Miller
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff3201tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Moustache & beard
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: j70pHFJDiYWFrc89
+  packFolder: fffguilded
+  social:
+    occupation: Miller
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Urik
   clan: Chuzyn
   aliases: []
-id: ue4oz4qaaSr3UPwA
-packFolder: extrasguilded
 shortcode: urikofchuzyn
 type: being
-social:
-  occupation: Embalmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ue4oz4qaaSr3UPwA
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

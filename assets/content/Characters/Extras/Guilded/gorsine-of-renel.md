@@ -7,18 +7,8 @@ name:
   given: Gorsine
   clan: Renel
   aliases: []
-id: hw9l4BGqXzrDHxVt
-packFolder: extrasguilded
 shortcode: gorsineofrenel
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hw9l4BGqXzrDHxVt
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

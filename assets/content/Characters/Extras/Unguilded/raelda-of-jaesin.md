@@ -7,19 +7,8 @@ name:
   given: Raelda
   clan: Jaesin
   aliases: []
-id: aBkLlRSO16skpNK1
-packFolder: extrasunguilded
 shortcode: raeldaofjaesin
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: aBkLlRSO16skpNK1
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

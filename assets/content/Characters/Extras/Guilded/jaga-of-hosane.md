@@ -7,18 +7,8 @@ name:
   given: Jaga
   clan: Hosane
   aliases: []
-id: xHbkACwUHj7LCXIo
-packFolder: extrasguilded
 shortcode: jagaofhosane
 type: being
-social:
-  occupation: Tentmaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xHbkACwUHj7LCXIo
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

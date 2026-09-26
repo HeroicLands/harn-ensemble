@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Elwendal
   aliases: []
-id: A5yJBe6PABPq41g1
-packFolder: extrasunguilded
 shortcode: tolmeyofelwendal
 type: being
-social:
-  occupation: Imperial Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: A5yJBe6PABPq41g1
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

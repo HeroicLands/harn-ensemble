@@ -7,18 +7,8 @@ name:
   given: Sarin
   clan: Zendech
   aliases: []
-id: pfoRSHHYHEvGr3M6
-packFolder: extrasunguilded
 shortcode: sarinofzendech
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pfoRSHHYHEvGr3M6
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

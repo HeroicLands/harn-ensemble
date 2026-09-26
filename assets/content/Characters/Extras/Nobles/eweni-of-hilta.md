@@ -7,18 +7,8 @@ name:
   given: Eweni
   clan: Hilta
   aliases: []
-id: RYwTjjbZUVNa5hl7
-packFolder: extrasnobles
 shortcode: eweniofhilta
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RYwTjjbZUVNa5hl7
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

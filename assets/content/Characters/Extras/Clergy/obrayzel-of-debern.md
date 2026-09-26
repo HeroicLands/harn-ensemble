@@ -7,19 +7,8 @@ name:
   given: Obrayzel
   clan: Debern
   aliases: []
-id: hDfS4QIBSKyrHjK8
-packFolder: extrasclergy
 shortcode: obrayzelofdebern
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: hDfS4QIBSKyrHjK8
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

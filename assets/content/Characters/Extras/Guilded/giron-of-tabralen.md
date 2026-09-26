@@ -7,18 +7,8 @@ name:
   given: Giron
   clan: Tabralen
   aliases: []
-id: kbz2rjsQIrDUXVbe
-packFolder: extrasguilded
 shortcode: gironoftabralen
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kbz2rjsQIrDUXVbe
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

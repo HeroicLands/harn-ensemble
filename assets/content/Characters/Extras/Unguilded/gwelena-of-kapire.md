@@ -7,18 +7,8 @@ name:
   given: Gwelena
   clan: Kapire
   aliases: []
-id: FDXxxbYBLQs9JOkZ
-packFolder: extrasunguilded
 shortcode: gwelenaofkapire
 type: being
-social:
-  occupation: Feudal Militia
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FDXxxbYBLQs9JOkZ
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

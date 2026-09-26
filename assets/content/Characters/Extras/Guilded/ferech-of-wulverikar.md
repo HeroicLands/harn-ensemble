@@ -7,18 +7,8 @@ name:
   given: Ferech
   clan: Wulverikar
   aliases: []
-id: JhyMoQg7gz3h9xzv
-packFolder: extrasguilded
 shortcode: ferechofwulverikar
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JhyMoQg7gz3h9xzv
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

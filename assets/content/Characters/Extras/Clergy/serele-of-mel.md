@@ -7,19 +7,8 @@ name:
   given: Serele
   clan: Mel
   aliases: []
-id: OyYHz6Jmg8eQJOe6
-packFolder: extrasclergy
 shortcode: sereleofmel
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: OyYHz6Jmg8eQJOe6
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

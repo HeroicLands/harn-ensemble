@@ -7,18 +7,8 @@ name:
   given: Mel
   clan: Charanchi
   aliases: []
-id: X6KRHhVPRUpl9mNN
-packFolder: extrasguilded
 shortcode: melofcharanchi
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: X6KRHhVPRUpl9mNN
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

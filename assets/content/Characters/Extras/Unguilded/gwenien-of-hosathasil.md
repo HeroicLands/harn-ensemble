@@ -7,18 +7,8 @@ name:
   given: Gwenien
   clan: Hosathasil
   aliases: []
-id: amojJRTs8T1i5Uqs
-packFolder: extrasunguilded
 shortcode: gwenienofhosathasil
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: amojJRTs8T1i5Uqs
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

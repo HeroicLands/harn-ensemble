@@ -7,19 +7,8 @@ name:
   given: Caro
   clan: Wethys
   aliases: []
-id: tKgg1aAovxmBC45h
-packFolder: extrasclergy
 shortcode: caroofwethys
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: tKgg1aAovxmBC45h
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

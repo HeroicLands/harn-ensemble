@@ -7,18 +7,8 @@ name:
   given: Amartherui
   clan: Amath
   aliases: []
-id: FUaokYDga4VTwh85
-packFolder: extrasnobles
 shortcode: amartheruiofamath
 type: being
-social:
-  occupation: Sindarin Knight
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FUaokYDga4VTwh85
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

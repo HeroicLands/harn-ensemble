@@ -7,18 +7,8 @@ name:
   given: Jakalaronis
   clan: Provin
   aliases: []
-id: fQoP8kISOUCrnq0S
-packFolder: extrasmages
 shortcode: jakalaronisofprovin
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fQoP8kISOUCrnq0S
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

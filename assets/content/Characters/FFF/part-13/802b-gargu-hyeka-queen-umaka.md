@@ -7,18 +7,8 @@ name:
   given: Umaka
   clan: ""
   aliases: []
-id: XqN3urYzkpHLsZb5
-packFolder: fffnonhumans
 shortcode: umaka
 type: being
-social:
-  occupation: Queen
-  class: queen
-  society: gargun (hyeka)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff802bhead
   tokenIcon: fff802btok
@@ -36,6 +26,16 @@ data:
     complexion: ugly
     extra_features:
       - Obese
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XqN3urYzkpHLsZb5
+  packFolder: fffnonhumans
+  social:
+    occupation: Queen
+    class: queen
+    society: gargun (hyeka)
+    organizations: []
 hm3:
   type: character
   attributes:

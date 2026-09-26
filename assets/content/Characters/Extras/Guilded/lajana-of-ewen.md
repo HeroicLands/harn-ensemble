@@ -7,18 +7,8 @@ name:
   given: Lajana
   clan: Ewen
   aliases: []
-id: 9QXwNdSXBqHL1Gev
-packFolder: extrasguilded
 shortcode: lajanaofewen
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9QXwNdSXBqHL1Gev
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

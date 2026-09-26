@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Elwen
   aliases: []
-id: 8JKZDhaiYxKhPD21
-packFolder: extrasguilded
 shortcode: terbaofelwen
 type: being
-social:
-  occupation: Timberwright
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8JKZDhaiYxKhPD21
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Obiria
   clan: Merkenos
   aliases: []
-id: OrUW11ijBG9nQ8dM
-packFolder: extrasunguilded
 shortcode: obiriaofmerkenos
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OrUW11ijBG9nQ8dM
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

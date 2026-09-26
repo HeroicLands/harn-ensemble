@@ -7,18 +7,8 @@ name:
   given: Gemael
   clan: Talvail
   aliases: []
-id: gBDsTSm5m2eEZjGd
-packFolder: extrasguards
 shortcode: gemaeloftalvail
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gBDsTSm5m2eEZjGd
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

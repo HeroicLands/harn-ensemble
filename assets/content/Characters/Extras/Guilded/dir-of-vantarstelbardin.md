@@ -7,18 +7,8 @@ name:
   given: Dir
   clan: Vantarstelbardin
   aliases: []
-id: ElKcMnurerYbVNiE
-packFolder: extrasguilded
 shortcode: dirofvantarstelbardin
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ElKcMnurerYbVNiE
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

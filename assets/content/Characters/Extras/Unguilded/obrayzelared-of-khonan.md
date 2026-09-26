@@ -7,18 +7,8 @@ name:
   given: Obrayzelared
   clan: Khonan
   aliases: []
-id: uJNRExeT4n9aCw0C
-packFolder: extrasunguilded
 shortcode: obrayzelaredofkhonan
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uJNRExeT4n9aCw0C
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

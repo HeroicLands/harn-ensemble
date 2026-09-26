@@ -7,18 +7,8 @@ name:
   given: Telsa
   clan: Keryn
   aliases: []
-id: 0aE65dnN7L8ygnEW
-packFolder: extrasunguilded
 shortcode: telsaofkeryn
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0aE65dnN7L8ygnEW
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

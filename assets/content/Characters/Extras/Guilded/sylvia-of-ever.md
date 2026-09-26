@@ -7,18 +7,8 @@ name:
   given: Sylvia
   clan: Ever
   aliases: []
-id: fA4xvbf6i7unieOF
-packFolder: extrasguilded
 shortcode: sylviaofever
 type: being
-social:
-  occupation: Harper/Skald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fA4xvbf6i7unieOF
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

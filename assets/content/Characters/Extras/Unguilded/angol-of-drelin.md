@@ -7,19 +7,8 @@ name:
   given: Angol
   clan: Drelin
   aliases: []
-id: o7yHfKBPaiJKA4hu
-packFolder: extrasunguilded
 shortcode: angolofdrelin
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: o7yHfKBPaiJKA4hu
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

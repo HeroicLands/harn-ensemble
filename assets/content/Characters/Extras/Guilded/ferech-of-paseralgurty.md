@@ -7,18 +7,8 @@ name:
   given: Ferech
   clan: Paseralgurty
   aliases: []
-id: bxFSjRRdUaqHd7H9
-packFolder: extrasguilded
 shortcode: ferechofpaseralgurty
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bxFSjRRdUaqHd7H9
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

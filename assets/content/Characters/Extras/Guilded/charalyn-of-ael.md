@@ -7,18 +7,8 @@ name:
   given: Charalyn
   clan: Ael
   aliases: []
-id: gWh0GEKOcSdjLycg
-packFolder: extrasguilded
 shortcode: charalynofael
 type: being
-social:
-  occupation: Lexigrapher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gWh0GEKOcSdjLycg
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

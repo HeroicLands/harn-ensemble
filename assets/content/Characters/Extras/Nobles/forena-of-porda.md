@@ -7,18 +7,8 @@ name:
   given: Forena
   clan: Porda
   aliases: []
-id: RLqg7ZRN165fxJOA
-packFolder: extrasnobles
 shortcode: forenaofporda
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RLqg7ZRN165fxJOA
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Zuldagmek
   clan: Agarin
   aliases: []
-id: f8SoAHVkq8I3dupm
-packFolder: extrasunguilded
 shortcode: zuldagmekofagarin
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: f8SoAHVkq8I3dupm
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

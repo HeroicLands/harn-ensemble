@@ -7,18 +7,8 @@ name:
   given: Garisir
   clan: Don
   aliases: []
-id: YOy1nKD4rOVgTTiK
-packFolder: extrasmages
 shortcode: garisirofdon
 type: being
-social:
-  occupation: "Shek-Pvar/Jmorvi**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YOy1nKD4rOVgTTiK
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Jmorvi**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

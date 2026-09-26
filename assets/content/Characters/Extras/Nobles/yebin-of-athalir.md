@@ -7,18 +7,8 @@ name:
   given: Yebin
   clan: Athalir
   aliases: []
-id: 5QqQGdWcSeK2tR8K
-packFolder: extrasnobles
 shortcode: yebinofathalir
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5QqQGdWcSeK2tR8K
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

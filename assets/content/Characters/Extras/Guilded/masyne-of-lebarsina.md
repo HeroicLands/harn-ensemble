@@ -7,18 +7,8 @@ name:
   given: Masyne
   clan: Lebarsina
   aliases: []
-id: 5EqOWHn9pt6kOkio
-packFolder: extrasguilded
 shortcode: masyneoflebarsina
 type: being
-social:
-  occupation: Charcoaler
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5EqOWHn9pt6kOkio
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

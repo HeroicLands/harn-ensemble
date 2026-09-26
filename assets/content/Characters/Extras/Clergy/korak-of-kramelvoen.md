@@ -7,19 +7,8 @@ name:
   given: Korak
   clan: Kramelvoen
   aliases: []
-id: Gt2RfDLCs5GKkfkD
-packFolder: extrasclergy
 shortcode: korakofkramelvoen
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: Gt2RfDLCs5GKkfkD
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

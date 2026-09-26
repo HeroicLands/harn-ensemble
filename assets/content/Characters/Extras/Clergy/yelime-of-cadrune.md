@@ -7,19 +7,8 @@ name:
   given: Yelime
   clan: Cadrune
   aliases: []
-id: y4K8IcIdyzjrHERN
-packFolder: extrasclergy
 shortcode: yelimeofcadrune
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: y4K8IcIdyzjrHERN
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

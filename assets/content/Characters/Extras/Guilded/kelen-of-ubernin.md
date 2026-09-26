@@ -7,18 +7,8 @@ name:
   given: Kelen
   clan: Ubernin
   aliases: []
-id: bJCzEUvA1BINDDZw
-packFolder: extrasguilded
 shortcode: kelenofubernin
 type: being
-social:
-  occupation: Hideworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bJCzEUvA1BINDDZw
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Bogsen
   clan: Crane
   aliases: []
-id: 4m4NNFUaNkRzIRzD
-packFolder: extrasunguilded
 shortcode: bogsenofcrane
 type: being
-social:
-  occupation: Fisherman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4m4NNFUaNkRzIRzD
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Garosta
   clan: Wyth
   aliases: []
-id: mEdZXKYJF7QMCotL
-packFolder: extrasguilded
 shortcode: garostaofwyth
 type: being
-social:
-  occupation: Harper/Skald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mEdZXKYJF7QMCotL
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

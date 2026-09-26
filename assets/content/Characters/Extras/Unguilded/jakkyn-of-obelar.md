@@ -7,18 +7,8 @@ name:
   given: Jakkyn
   clan: Obelar
   aliases: []
-id: AFnFfgFi80fx6f9p
-packFolder: extrasunguilded
 shortcode: jakkynofobelar
 type: being
-social:
-  occupation: Fisherman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AFnFfgFi80fx6f9p
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

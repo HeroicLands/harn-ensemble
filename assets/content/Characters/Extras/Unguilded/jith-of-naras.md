@@ -7,18 +7,8 @@ name:
   given: Jith
   clan: Naras
   aliases: []
-id: viD9QhECRE2ULn6N
-packFolder: extrasunguilded
 shortcode: jithofnaras
 type: being
-social:
-  occupation: Animal Trainer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: viD9QhECRE2ULn6N
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

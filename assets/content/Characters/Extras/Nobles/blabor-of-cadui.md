@@ -7,18 +7,8 @@ name:
   given: Blabor
   clan: Cadui
   aliases: []
-id: iPzNMqt7MWLkgOf7
-packFolder: extrasnobles
 shortcode: blaborofcadui
 type: being
-social:
-  occupation: Sindarin Knight
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iPzNMqt7MWLkgOf7
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Lusil
   clan: Balin
   aliases: []
-id: CW1MrNeR3LdtnBhi
-packFolder: extrasguilded
 shortcode: lusilofbalin
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CW1MrNeR3LdtnBhi
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

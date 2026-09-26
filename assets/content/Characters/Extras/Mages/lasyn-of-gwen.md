@@ -7,18 +7,8 @@ name:
   given: Lasyn
   clan: Gwen
   aliases: []
-id: RzS1dXL8w0a4sOTk
-packFolder: extrasmages
 shortcode: lasynofgwen
 type: being
-social:
-  occupation: "Shek-Pvar/Jmorvi****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RzS1dXL8w0a4sOTk
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Jmorvi****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

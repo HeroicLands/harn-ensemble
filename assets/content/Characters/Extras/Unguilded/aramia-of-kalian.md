@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Kalian
   aliases: []
-id: RcBMa8C6wsSjKS9h
-packFolder: extrasunguilded
 shortcode: aramiaofkalian
 type: being
-social:
-  occupation: Scribe
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RcBMa8C6wsSjKS9h
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

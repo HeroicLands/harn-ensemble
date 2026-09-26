@@ -7,18 +7,8 @@ name:
   given: Asharlath
   clan: Eylosan
   aliases: []
-id: Uq2uTqYsWiT9jhhW
-packFolder: extrasunguilded
 shortcode: asharlathofeylosan
 type: being
-social:
-  occupation: Sage/Tutor
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Uq2uTqYsWiT9jhhW
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

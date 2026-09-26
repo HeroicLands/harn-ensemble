@@ -7,18 +7,8 @@ name:
   given: Anlaelda
   clan: Kater
   aliases: []
-id: cYQlEbaweUXenBFT
-packFolder: extrasguilded
 shortcode: anlaeldaofkater
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: cYQlEbaweUXenBFT
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

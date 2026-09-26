@@ -7,19 +7,8 @@ name:
   given: Deni
   clan: Kariam
   aliases: []
-id: pm3WXYAgDTbUY4dm
-packFolder: extrasclergy
 shortcode: deniofkariam
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: pm3WXYAgDTbUY4dm
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

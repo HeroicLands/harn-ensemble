@@ -7,18 +7,8 @@ name:
   given: Haraenar
   clan: Qatorzin
   aliases: []
-id: DCMFvCpt0t95lP6t
-packFolder: extrasguilded
 shortcode: haraenarofqatorzin
 type: being
-social:
-  occupation: Shipwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DCMFvCpt0t95lP6t
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

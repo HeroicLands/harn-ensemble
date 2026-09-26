@@ -7,18 +7,8 @@ name:
   given: Merena
   clan: Oshonar
   aliases: []
-id: boBuKBVPjyVeLz4J
-packFolder: extrasguilded
 shortcode: merenaofoshonar
 type: being
-social:
-  occupation: Timberwright
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: boBuKBVPjyVeLz4J
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

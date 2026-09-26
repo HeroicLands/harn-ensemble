@@ -7,18 +7,8 @@ name:
   given: Kerid
   clan: Chomelvoen
   aliases: []
-id: qJQg1AoRBqrzAwHs
-packFolder: extrasunguilded
 shortcode: keridofchomelvoen
 type: being
-social:
-  occupation: Sage/Tutor
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qJQg1AoRBqrzAwHs
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

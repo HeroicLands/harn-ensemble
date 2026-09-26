@@ -7,18 +7,8 @@ name:
   given: Bosera
   clan: Erlym
   aliases: []
-id: 5YdC1Uk2EhS9NBXQ
-packFolder: extrasunguilded
 shortcode: boseraoferlym
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5YdC1Uk2EhS9NBXQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

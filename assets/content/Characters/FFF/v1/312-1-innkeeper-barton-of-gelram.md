@@ -7,19 +7,8 @@ name:
   given: Barton
   clan: Gelram
   aliases: []
-id: sJ8YQArkYr9NyWD7
-packFolder: fffguilded
 shortcode: bartonofgelram
 type: being
-social:
-  occupation: Innkeeper
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3121tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: sJ8YQArkYr9NyWD7
+  packFolder: fffguilded
+  social:
+    occupation: Innkeeper
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

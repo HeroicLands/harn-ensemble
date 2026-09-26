@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Magnol
   aliases: []
-id: xOXz3ZztMzHJWdXE
-packFolder: extrasguilded
 shortcode: terbaofmagnol
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xOXz3ZztMzHJWdXE
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

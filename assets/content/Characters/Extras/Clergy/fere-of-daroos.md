@@ -7,19 +7,8 @@ name:
   given: Fere
   clan: Daroos
   aliases: []
-id: iXRJ6lwnswvKCYwy
-packFolder: extrasclergy
 shortcode: fereofdaroos
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: iXRJ6lwnswvKCYwy
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

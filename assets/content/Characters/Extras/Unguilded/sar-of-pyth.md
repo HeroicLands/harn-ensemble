@@ -7,18 +7,8 @@ name:
   given: Sar
   clan: Pyth
   aliases: []
-id: rg4JK9llgP41iZyG
-packFolder: extrasunguilded
 shortcode: sarofpyth
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rg4JK9llgP41iZyG
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

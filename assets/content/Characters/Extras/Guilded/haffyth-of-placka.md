@@ -7,18 +7,8 @@ name:
   given: Haffyth
   clan: Placka
   aliases: []
-id: nbGYwDtGXguWkwgv
-packFolder: extrasguilded
 shortcode: haffythofplacka
 type: being
-social:
-  occupation: Timberwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nbGYwDtGXguWkwgv
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

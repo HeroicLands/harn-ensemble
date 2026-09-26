@@ -7,18 +7,8 @@ name:
   given: Erdin
   clan: Gevrael
   aliases: []
-id: 96jLu9E8JIaxC8Sg
-packFolder: extrasguilded
 shortcode: erdinofgevrael
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 96jLu9E8JIaxC8Sg
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

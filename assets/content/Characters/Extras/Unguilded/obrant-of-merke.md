@@ -7,18 +7,8 @@ name:
   given: Obrant
   clan: Merke
   aliases: []
-id: irCLRCsP3N34kGt3
-packFolder: extrasunguilded
 shortcode: obrantofmerke
 type: being
-social:
-  occupation: Feudal Militia
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: irCLRCsP3N34kGt3
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

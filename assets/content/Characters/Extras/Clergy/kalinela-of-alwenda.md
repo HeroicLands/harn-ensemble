@@ -7,19 +7,8 @@ name:
   given: Kalinela
   clan: Alwenda
   aliases: []
-id: KRYQlry9WppdrShb
-packFolder: extrasclergy
 shortcode: kalinelaofalwenda
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: KRYQlry9WppdrShb
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

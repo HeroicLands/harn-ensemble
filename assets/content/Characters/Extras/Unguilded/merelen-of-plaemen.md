@@ -7,18 +7,8 @@ name:
   given: Merelen
   clan: Plaemen
   aliases: []
-id: PbAjiQEkLcrQ4sE1
-packFolder: extrasunguilded
 shortcode: merelenofplaemen
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PbAjiQEkLcrQ4sE1
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

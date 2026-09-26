@@ -7,18 +7,8 @@ name:
   given: Jarn
   clan: Intren
   aliases: []
-id: lby0K9GfU0kgrSCE
-packFolder: extrasguilded
 shortcode: jarnofintren
 type: being
-social:
-  occupation: Timberwright
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lby0K9GfU0kgrSCE
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

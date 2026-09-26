@@ -7,18 +7,8 @@ name:
   given: Herid
   clan: Cosels
   aliases: []
-id: nAo1gNBkgrEoqHcy
-packFolder: extrasnobles
 shortcode: heridofcosels
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nAo1gNBkgrEoqHcy
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

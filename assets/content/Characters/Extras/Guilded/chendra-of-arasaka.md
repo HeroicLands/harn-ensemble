@@ -7,18 +7,8 @@ name:
   given: Chendra
   clan: Arasaka
   aliases: []
-id: 5MZBLwsR6LjPGO8X
-packFolder: extrasguilded
 shortcode: chendraofarasaka
 type: being
-social:
-  occupation: Ostler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5MZBLwsR6LjPGO8X
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

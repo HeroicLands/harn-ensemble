@@ -7,18 +7,8 @@ name:
   given: Krak
   clan: Valasain
   aliases: []
-id: DtkKtjY4XgkdCGdG
-packFolder: extrasserfs
 shortcode: krakofvalasain
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DtkKtjY4XgkdCGdG
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

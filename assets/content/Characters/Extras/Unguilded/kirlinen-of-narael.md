@@ -7,18 +7,8 @@ name:
   given: Kirlinen
   clan: Narael
   aliases: []
-id: UlA84Fa4W9ECy6uh
-packFolder: extrasunguilded
 shortcode: kirlinenofnarael
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UlA84Fa4W9ECy6uh
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

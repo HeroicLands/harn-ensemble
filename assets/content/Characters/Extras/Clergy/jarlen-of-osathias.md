@@ -7,19 +7,8 @@ name:
   given: Jarlen
   clan: Osathias
   aliases: []
-id: b9C5fbTrpNpoEgU1
-packFolder: extrasclergy
 shortcode: jarlenofosathias
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: b9C5fbTrpNpoEgU1
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Brylwe
   clan: Marn
   aliases: []
-id: gAz8SDnbSQDzFOdM
-packFolder: extrasnobles
 shortcode: brylweofmarn
 type: being
-social:
-  occupation: Herald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gAz8SDnbSQDzFOdM
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

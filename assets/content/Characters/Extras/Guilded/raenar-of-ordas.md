@@ -7,18 +7,8 @@ name:
   given: Raenar
   clan: Ordas
   aliases: []
-id: UcQ4m6b5G2BZkGGH
-packFolder: extrasguilded
 shortcode: raenarofordas
 type: being
-social:
-  occupation: Thespian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UcQ4m6b5G2BZkGGH
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

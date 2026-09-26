@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Chomel
   aliases: []
-id: OHynSlfofzRmyAue
-packFolder: extrasunguilded
 shortcode: zornaofchomel
 type: being
-social:
-  occupation: Sage/Tutor
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OHynSlfofzRmyAue
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Aquillin
   clan: Ewesaan
   aliases: []
-id: 5tWZ6tVRyP4oxZPq
-packFolder: extrasunguilded
 shortcode: aquillinofewesaan
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5tWZ6tVRyP4oxZPq
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

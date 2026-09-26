@@ -7,18 +7,8 @@ name:
   given: Solinela
   clan: Chorlym
   aliases: []
-id: yi8a0Fhr6r1wLshv
-packFolder: extrasnobles
 shortcode: solinelaofchorlym
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yi8a0Fhr6r1wLshv
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Borin
   clan: Musbern
   aliases: []
-id: DBUgv49D5CL2dOHZ
-packFolder: extrasguilded
 shortcode: borinofmusbern
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DBUgv49D5CL2dOHZ
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

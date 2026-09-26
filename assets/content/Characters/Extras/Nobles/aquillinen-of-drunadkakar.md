@@ -7,18 +7,8 @@ name:
   given: Aquillinen
   clan: Drunadkakar
   aliases: []
-id: yl2LtD6jC6RTzQW2
-packFolder: extrasnobles
 shortcode: aquillinenofdrunadkakar
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yl2LtD6jC6RTzQW2
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

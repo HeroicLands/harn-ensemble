@@ -7,18 +7,8 @@ name:
   given: Makan
   clan: Placka
   aliases: []
-id: LyFQ0ELk9ZUS0oo8
-packFolder: extrasguilded
 shortcode: makanofplacka
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LyFQ0ELk9ZUS0oo8
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

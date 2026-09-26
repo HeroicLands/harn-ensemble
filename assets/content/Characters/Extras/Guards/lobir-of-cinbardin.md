@@ -7,18 +7,8 @@ name:
   given: Lobir
   clan: Cinbardin
   aliases: []
-id: KuMUtQzhh4hAT7nK
-packFolder: extrasguards
 shortcode: lobirofcinbardin
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KuMUtQzhh4hAT7nK
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

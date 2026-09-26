@@ -7,18 +7,8 @@ name:
   given: Terba
   clan: Tallis
   aliases: []
-id: OE96NpgvnNWd3Oym
-packFolder: extrasunguilded
 shortcode: terbaoftallis
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OE96NpgvnNWd3Oym
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

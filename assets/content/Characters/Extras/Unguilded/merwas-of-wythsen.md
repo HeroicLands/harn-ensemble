@@ -7,18 +7,8 @@ name:
   given: Merwas
   clan: Wythsen
   aliases: []
-id: jNDzSo3dg8VHTvrk
-packFolder: extrasunguilded
 shortcode: merwasofwythsen
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jNDzSo3dg8VHTvrk
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

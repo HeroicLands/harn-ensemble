@@ -7,18 +7,8 @@ name:
   given: Obrayzel
   clan: Lund
   aliases: []
-id: 4Kg8DN2w29OhiNgB
-packFolder: extrasguilded
 shortcode: obrayzeloflund
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4Kg8DN2w29OhiNgB
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

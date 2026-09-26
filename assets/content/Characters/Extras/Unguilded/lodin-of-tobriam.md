@@ -7,18 +7,8 @@ name:
   given: Lodin
   clan: Tobriam
   aliases: []
-id: bVIGCCERsyonrBQ5
-packFolder: extrasunguilded
 shortcode: lodinoftobriam
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bVIGCCERsyonrBQ5
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Edlin
   clan: Honnusk
   aliases: []
-id: IABsoOo9Wrvq3gef
-packFolder: fffguilded
 shortcode: edlinofhonnusk
 type: being
-social:
-  occupation: Charcoaler
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3051tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: IABsoOo9Wrvq3gef
+  packFolder: fffguilded
+  social:
+    occupation: Charcoaler
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Feldaran
   clan: Lumeden
   aliases: []
-id: 07MzhQm9cvlen5LG
-packFolder: extrasguards
 shortcode: captainfeldaranoflumeden
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 07MzhQm9cvlen5LG
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

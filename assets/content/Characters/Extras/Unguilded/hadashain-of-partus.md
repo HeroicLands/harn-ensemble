@@ -7,18 +7,8 @@ name:
   given: Hadashain
   clan: Partus
   aliases: []
-id: 9ln6np43wuzA42qD
-packFolder: extrasunguilded
 shortcode: hadashainofpartus
 type: being
-social:
-  occupation: Imperial Militia
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9ln6np43wuzA42qD
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

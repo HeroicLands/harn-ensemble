@@ -7,19 +7,8 @@ name:
   given: Ortilla
   clan: Islwyn
   aliases: []
-id: 4JcndVkB4LNsvkyY
-packFolder: fffunguilded
 shortcode: ortillaofislwyn
 type: being
-social:
-  occupation: Chief domestic
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff4174tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 4JcndVkB4LNsvkyY
+  packFolder: fffunguilded
+  social:
+    occupation: Chief domestic
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

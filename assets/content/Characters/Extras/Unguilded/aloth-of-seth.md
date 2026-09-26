@@ -7,18 +7,8 @@ name:
   given: Aloth
   clan: Seth
   aliases: []
-id: Kwt05ZHb5t6KMkKp
-packFolder: extrasunguilded
 shortcode: alothofseth
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Kwt05ZHb5t6KMkKp
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

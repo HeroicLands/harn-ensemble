@@ -7,18 +7,8 @@ name:
   given: Semis
   clan: Irin
   aliases: []
-id: mPNo94KHvuPqaqxD
-packFolder: extrasguilded
 shortcode: semisofirin
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mPNo94KHvuPqaqxD
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

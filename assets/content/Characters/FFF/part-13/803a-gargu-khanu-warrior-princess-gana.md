@@ -7,18 +7,8 @@ name:
   given: Gana
   clan: ""
   aliases: []
-id: VMA4xMJkwXQPk7DM
-packFolder: fffnonhumans
 shortcode: gana
 type: being
-social:
-  occupation: Warrior
-  class: princess
-  society: gargun (khanu)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff803ahead
   tokenIcon: fff803atok
@@ -35,6 +25,16 @@ data:
     skin_color: ""
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VMA4xMJkwXQPk7DM
+  packFolder: fffnonhumans
+  social:
+    occupation: Warrior
+    class: princess
+    society: gargun (khanu)
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Shaelasar
   clan: Chomerros
   aliases: []
-id: eSa5Qpj09ymhG4vY
-packFolder: extrasclergy
 shortcode: shaelasarofchomerros
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: eSa5Qpj09ymhG4vY
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

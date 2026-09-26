@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Rik
   aliases: []
-id: hZoPZKIzhLU4k00k
-packFolder: extrasserfs
 shortcode: dakaofrik
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hZoPZKIzhLU4k00k
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

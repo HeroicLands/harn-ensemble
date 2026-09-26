@@ -7,19 +7,8 @@ name:
   given: Anax
   clan: Junius
   aliases: []
-id: uqI4EAEZSpu2tj3v
-packFolder: fffmilitary
 shortcode: anaxofjunius
 type: being
-social:
-  occupation: Manservant
-  class: freeman ex-slave
-  society: imperial
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff1041tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Extensive scars on his legs
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: uqI4EAEZSpu2tj3v
+  packFolder: fffmilitary
+  social:
+    occupation: Manservant
+    class: freeman ex-slave
+    society: imperial
+    organizations: []
 hm3:
   type: character
   attributes:

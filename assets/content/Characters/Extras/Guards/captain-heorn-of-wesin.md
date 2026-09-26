@@ -7,18 +7,8 @@ name:
   given: Heorn
   clan: Wesin
   aliases: []
-id: Uj3CL9U0CnrJYvJL
-packFolder: extrasguards
 shortcode: captainheornofwesin
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Uj3CL9U0CnrJYvJL
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

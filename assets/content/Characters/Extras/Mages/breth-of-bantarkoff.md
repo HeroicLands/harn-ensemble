@@ -7,18 +7,8 @@ name:
   given: Breth
   clan: Bantarkoff
   aliases: []
-id: NhqeDVirC02PvCCi
-packFolder: extrasmages
 shortcode: brethofbantarkoff
 type: being
-social:
-  occupation: "Shek-Pvar/Odivshe****"
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NhqeDVirC02PvCCi
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Odivshe****"
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

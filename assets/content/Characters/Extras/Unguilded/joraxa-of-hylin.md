@@ -7,18 +7,8 @@ name:
   given: Joraxa
   clan: Hylin
   aliases: []
-id: tBSaWgeV8l2xf6JL
-packFolder: extrasunguilded
 shortcode: joraxaofhylin
 type: being
-social:
-  occupation: Sage/Tutor
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tBSaWgeV8l2xf6JL
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

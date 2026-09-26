@@ -7,18 +7,8 @@ name:
   given: Querenelle
   clan: Gorra
   aliases: []
-id: O0plpn2EPURscRXZ
-packFolder: extrasguilded
 shortcode: querenelleofgorra
 type: being
-social:
-  occupation: Mason
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: O0plpn2EPURscRXZ
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

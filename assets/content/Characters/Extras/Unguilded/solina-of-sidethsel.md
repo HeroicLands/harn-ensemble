@@ -7,18 +7,8 @@ name:
   given: Solina
   clan: Sidethsel
   aliases: []
-id: mmvU4QCAozyp4GxR
-packFolder: extrasunguilded
 shortcode: solinaofsidethsel
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mmvU4QCAozyp4GxR
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

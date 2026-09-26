@@ -7,18 +7,8 @@ name:
   given: Sar
   clan: Chelen
   aliases: []
-id: mdUBj3bn5vK8qfxX
-packFolder: extrasguilded
 shortcode: sarofchelen
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mdUBj3bn5vK8qfxX
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

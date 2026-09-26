@@ -7,18 +7,8 @@ name:
   given: Murlidon
   clan: Marn
   aliases: []
-id: z5xpHQtxnzmW6FLu
-packFolder: extrasnobles
 shortcode: murlidonofmarn
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: z5xpHQtxnzmW6FLu
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

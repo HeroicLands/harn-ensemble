@@ -7,18 +7,8 @@ name:
   given: Cyzor
   clan: Daroos
   aliases: []
-id: OrXQMvzoIiJ78O9h
-packFolder: extrasguards
 shortcode: veterancyzorofdaroos
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OrXQMvzoIiJ78O9h
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

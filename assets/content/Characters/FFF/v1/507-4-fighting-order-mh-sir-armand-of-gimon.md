@@ -7,19 +7,8 @@ name:
   given: Armand
   clan: Gimon
   aliases: []
-id: nMhBtTtcebFzVawZ
-packFolder: fffnobles
 shortcode: sirarmandofgimon
 type: being
-social:
-  occupation: Knight
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5074tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: nMhBtTtcebFzVawZ
+  packFolder: fffnobles
+  social:
+    occupation: Knight
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,20 +7,8 @@ name:
   given: Hoban
   clan: Fiorfohd
   aliases: []
-id: dB9zMBkQJSKNOVu4
-packFolder: fffguilded
 shortcode: hobanfiorfohd
 type: being
-social:
-  occupation: Pilot
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
-    - eder
 data:
   icon: fff3252tok
   templatePriority: 1
@@ -38,6 +26,18 @@ data:
     complexion: average
     extra_features:
       - Outrageous clothes
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+      - eder
+  id: dB9zMBkQJSKNOVu4
+  packFolder: fffguilded
+  social:
+    occupation: Pilot
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

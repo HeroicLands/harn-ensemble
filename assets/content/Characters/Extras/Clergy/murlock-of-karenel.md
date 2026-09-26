@@ -7,19 +7,8 @@ name:
   given: Murlock
   clan: Karenel
   aliases: []
-id: j3Bmzd7BXRjmnPSC
-packFolder: extrasclergy
 shortcode: murlockofkarenel
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: j3Bmzd7BXRjmnPSC
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

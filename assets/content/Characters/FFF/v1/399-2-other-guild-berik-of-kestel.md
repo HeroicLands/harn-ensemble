@@ -7,19 +7,8 @@ name:
   given: Berik
   clan: Kestel
   aliases: []
-id: tdj4wiuYXKyinfOG
-packFolder: fffguilded
 shortcode: berikofkestel
 type: being
-social:
-  occupation: Other (Guild) - Child
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff3992tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: tdj4wiuYXKyinfOG
+  packFolder: fffguilded
+  social:
+    occupation: Other (Guild) - Child
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

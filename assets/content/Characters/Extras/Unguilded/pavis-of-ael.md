@@ -7,18 +7,8 @@ name:
   given: Pavis
   clan: Ael
   aliases: []
-id: T9iErYWqbv4xfGWl
-packFolder: extrasunguilded
 shortcode: pavisofael
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: T9iErYWqbv4xfGWl
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

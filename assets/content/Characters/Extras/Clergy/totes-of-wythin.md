@@ -7,19 +7,8 @@ name:
   given: Totes
   clan: Wythin
   aliases: []
-id: rDh6O8ETQnNlD87C
-packFolder: extrasclergy
 shortcode: totesofwythin
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: rDh6O8ETQnNlD87C
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

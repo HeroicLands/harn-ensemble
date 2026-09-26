@@ -7,18 +7,8 @@ name:
   given: Kele
   clan: Rystelburitta
   aliases: []
-id: 4IP4xM5ILlpXhCvr
-packFolder: extrasunguilded
 shortcode: keleofrystelburitta
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4IP4xM5ILlpXhCvr
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

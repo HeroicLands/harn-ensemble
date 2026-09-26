@@ -7,18 +7,8 @@ name:
   given: Anlael
   clan: Chalin
   aliases: []
-id: u06WQ1fwLbyeV35s
-packFolder: extrasguilded
 shortcode: anlaelofchalin
 type: being
-social:
-  occupation: Jeweler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: u06WQ1fwLbyeV35s
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

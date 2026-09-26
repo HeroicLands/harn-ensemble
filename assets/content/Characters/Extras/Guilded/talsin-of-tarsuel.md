@@ -7,18 +7,8 @@ name:
   given: Talsin
   clan: Tarsuel
   aliases: []
-id: OJMuRRox48A7478D
-packFolder: extrasguilded
 shortcode: talsinoftarsuel
 type: being
-social:
-  occupation: Lexigrapher
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OJMuRRox48A7478D
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

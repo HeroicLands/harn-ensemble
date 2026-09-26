@@ -7,18 +7,8 @@ name:
   given: She
   clan: Onparin
   aliases: []
-id: MtWT9dojtnbmFOJI
-packFolder: extrasguilded
 shortcode: sheofonparin
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MtWT9dojtnbmFOJI
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Targat
   clan: Krollateriel
   aliases: []
-id: W5avifhZOeg01RXi
-packFolder: extrasclergy
 shortcode: targatofkrollateriel
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: W5avifhZOeg01RXi
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

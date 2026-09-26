@@ -7,18 +7,8 @@ name:
   given: Herva
   clan: Lorina
   aliases: []
-id: 0zF4JKcQEvY27zhV
-packFolder: extrasguilded
 shortcode: hervaoflorina
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0zF4JKcQEvY27zhV
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

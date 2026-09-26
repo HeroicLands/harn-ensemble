@@ -7,18 +7,8 @@ name:
   given: Gaetane
   clan: Rystelburitta
   aliases: []
-id: 2NWdrNHHQJabc8pl
-packFolder: extrasunguilded
 shortcode: gaetaneofrystelburitta
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2NWdrNHHQJabc8pl
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

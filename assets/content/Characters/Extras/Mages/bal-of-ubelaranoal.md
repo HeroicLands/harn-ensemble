@@ -7,18 +7,8 @@ name:
   given: Bal
   clan: Ubelaranoal
   aliases: []
-id: EU7hmi3ee0DUxC3d
-packFolder: extrasmages
 shortcode: balofubelaranoal
 type: being
-social:
-  occupation: "Shek-Pvar/Odivshe***"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EU7hmi3ee0DUxC3d
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Odivshe***"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

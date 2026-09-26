@@ -7,18 +7,8 @@ name:
   given: Shaelda
   clan: Mance
   aliases: []
-id: RjrCXxx53I0odGyj
-packFolder: extrasunguilded
 shortcode: shaeldaofmance
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RjrCXxx53I0odGyj
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

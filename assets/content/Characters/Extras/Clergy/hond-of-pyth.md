@@ -7,19 +7,8 @@ name:
   given: Hond
   clan: Pyth
   aliases: []
-id: YJDAyuV1xf9907wT
-packFolder: extrasclergy
 shortcode: hondofpyth
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: YJDAyuV1xf9907wT
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

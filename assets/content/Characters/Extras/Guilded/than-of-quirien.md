@@ -7,18 +7,8 @@ name:
   given: Than
   clan: Quirien
   aliases: []
-id: wsAhbFb6iMXyAE22
-packFolder: extrasguilded
 shortcode: thanofquirien
 type: being
-social:
-  occupation: Glassworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wsAhbFb6iMXyAE22
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

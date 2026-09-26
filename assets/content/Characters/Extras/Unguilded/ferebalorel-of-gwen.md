@@ -7,18 +7,8 @@ name:
   given: Ferebalorel
   clan: Gwen
   aliases: []
-id: C1ZfqgSXN9rSMYfL
-packFolder: extrasunguilded
 shortcode: ferebalorelofgwen
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: C1ZfqgSXN9rSMYfL
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Jolayn
   clan: Guindal
   aliases: []
-id: jhzAD2YNzUdzM7H3
-packFolder: extrasserfs
 shortcode: jolaynofguindal
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jhzAD2YNzUdzM7H3
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

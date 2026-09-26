@@ -7,18 +7,8 @@ name:
   given: Karyse
   clan: Asarlis
   aliases: []
-id: RfsgCCOr5NEf74Jb
-packFolder: extrasunguilded
 shortcode: karyseofasarlis
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RfsgCCOr5NEf74Jb
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

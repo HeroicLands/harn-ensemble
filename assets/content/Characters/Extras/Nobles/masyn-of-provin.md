@@ -7,18 +7,8 @@ name:
   given: Masyn
   clan: Provin
   aliases: []
-id: KDZw4qBp1t0YfpWc
-packFolder: extrasnobles
 shortcode: masynofprovin
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KDZw4qBp1t0YfpWc
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

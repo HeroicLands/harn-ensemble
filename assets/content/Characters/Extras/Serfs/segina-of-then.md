@@ -7,18 +7,8 @@ name:
   given: Segina
   clan: Then
   aliases: []
-id: RGJzYo9qXxJzbwDF
-packFolder: extrasserfs
 shortcode: seginaofthen
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RGJzYo9qXxJzbwDF
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

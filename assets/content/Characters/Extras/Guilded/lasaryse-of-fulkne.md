@@ -7,18 +7,8 @@ name:
   given: Lasaryse
   clan: Fulkne
   aliases: []
-id: 15cbnRTDmSXP2Xfh
-packFolder: extrasguilded
 shortcode: lasaryseoffulkne
 type: being
-social:
-  occupation: Pilot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 15cbnRTDmSXP2Xfh
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

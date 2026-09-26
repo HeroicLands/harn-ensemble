@@ -7,19 +7,8 @@ name:
   given: Mar
   clan: Irinara
   aliases: []
-id: BpxWy5FaIN0PwXuI
-packFolder: extrasclergy
 shortcode: marofirinara
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: BpxWy5FaIN0PwXuI
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

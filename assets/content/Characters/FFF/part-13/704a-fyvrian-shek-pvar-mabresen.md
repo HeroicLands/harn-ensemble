@@ -7,19 +7,8 @@ name:
   given: Mabresen
   clan: ""
   aliases: []
-id: 3gj42cB0umNbiGez
-packFolder: fffmages
 shortcode: mabresen
 type: being
-social:
-  occupation: Shek-Pvar
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - saveknor
 data:
   icon: fff704ahead
   tokenIcon: fff704atok
@@ -42,6 +31,17 @@ data:
       - stench
       - unkempt appearance
       - flies
+  harnworld:
+    realm: ""
+    ritual:
+      - saveknor
+  id: 3gj42cB0umNbiGez
+  packFolder: fffmages
+  social:
+    occupation: Shek-Pvar
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

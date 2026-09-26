@@ -7,18 +7,8 @@ name:
   given: Makan
   clan: Betts
   aliases: []
-id: njhMOgUeauFG0z5Y
-packFolder: extrasunguilded
 shortcode: makanofbetts
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: njhMOgUeauFG0z5Y
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

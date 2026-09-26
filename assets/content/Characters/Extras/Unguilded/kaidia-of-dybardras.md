@@ -7,18 +7,8 @@ name:
   given: Kaidia
   clan: Dybardras
   aliases: []
-id: CE4eSJDwQrKMcazP
-packFolder: extrasunguilded
 shortcode: kaidiaofdybardras
 type: being
-social:
-  occupation: Feudal Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CE4eSJDwQrKMcazP
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

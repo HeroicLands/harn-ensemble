@@ -7,18 +7,8 @@ name:
   given: Yelime
   clan: Ner
   aliases: []
-id: Qbz9TaI3zPfaeCQ3
-packFolder: extrasguilded
 shortcode: yelimeofner
 type: being
-social:
-  occupation: Harper/Skald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Qbz9TaI3zPfaeCQ3
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

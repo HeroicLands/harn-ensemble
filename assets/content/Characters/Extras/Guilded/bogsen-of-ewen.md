@@ -7,18 +7,8 @@ name:
   given: Bogsen
   clan: Ewen
   aliases: []
-id: jMJMXZuxqqN2urhU
-packFolder: extrasguilded
 shortcode: bogsenofewen
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jMJMXZuxqqN2urhU
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

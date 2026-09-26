@@ -7,18 +7,8 @@ name:
   given: Tabifa
   clan: Borskin
   aliases: []
-id: pa4wQpD8WxAMh2oc
-packFolder: extrasserfs
 shortcode: tabifaofborskin
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pa4wQpD8WxAMh2oc
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

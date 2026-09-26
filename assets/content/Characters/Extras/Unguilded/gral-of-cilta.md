@@ -7,18 +7,8 @@ name:
   given: Gral
   clan: Cilta
   aliases: []
-id: 5tGuW4kFUzRH1xE6
-packFolder: extrasunguilded
 shortcode: gralofcilta
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5tGuW4kFUzRH1xE6
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Eamon
   clan: Obyne
   aliases: []
-id: iWbWSxxk8lXMn5jg
-packFolder: extrasunguilded
 shortcode: eamonofobyne
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iWbWSxxk8lXMn5jg
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

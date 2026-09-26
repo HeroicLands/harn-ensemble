@@ -7,18 +7,8 @@ name:
   given: Kistyne
   clan: Elesh
   aliases: []
-id: eyf3UPB4t4pKrFdd
-packFolder: extrasserfs
 shortcode: kistyneofelesh
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eyf3UPB4t4pKrFdd
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

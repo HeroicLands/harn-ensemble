@@ -7,18 +7,8 @@ name:
   given: Uvien
   clan: Quardin
   aliases: []
-id: hq53x3WwP5dQVRhq
-packFolder: extrasunguilded
 shortcode: uvienofquardin
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hq53x3WwP5dQVRhq
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Uviene
   clan: Waylin
   aliases: []
-id: Q5uIWIdZJFYPxUkN
-packFolder: extrasguilded
 shortcode: uvieneofwaylin
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Q5uIWIdZJFYPxUkN
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

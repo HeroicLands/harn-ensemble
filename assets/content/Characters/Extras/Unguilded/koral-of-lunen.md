@@ -7,19 +7,8 @@ name:
   given: Koral
   clan: Lunen
   aliases: []
-id: iul5JmYiaA6dYs2M
-packFolder: extrasunguilded
 shortcode: koraloflunen
 type: being
-social:
-  occupation: Shaman
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: iul5JmYiaA6dYs2M
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

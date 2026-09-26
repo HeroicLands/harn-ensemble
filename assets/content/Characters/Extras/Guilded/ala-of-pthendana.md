@@ -7,18 +7,8 @@ name:
   given: Ala
   clan: Pthendana
   aliases: []
-id: zj663wXUAGOEDqer
-packFolder: extrasguilded
 shortcode: alaofpthendana
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zj663wXUAGOEDqer
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

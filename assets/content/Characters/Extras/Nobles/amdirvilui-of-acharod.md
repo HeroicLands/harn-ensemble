@@ -7,18 +7,8 @@ name:
   given: Amdirvilui
   clan: Acharod
   aliases: []
-id: jYJ8XrctrjE3M8l4
-packFolder: extrasnobles
 shortcode: amdirviluiofacharod
 type: being
-social:
-  occupation: Sindarin Knight
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jYJ8XrctrjE3M8l4
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

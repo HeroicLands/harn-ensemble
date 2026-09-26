@@ -7,19 +7,8 @@ name:
   given: Petry
   clan: Alloc
   aliases: []
-id: NTpfBJMBRsq9IrV9
-packFolder: fffguilded
 shortcode: petryofalloc
 type: being
-social:
-  occupation: Litigant
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - saveknor
 data:
   icon: fff3151tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: handsome
     extra_features:
       - Very pink skin
+  harnworld:
+    realm: ""
+    ritual:
+      - saveknor
+  id: NTpfBJMBRsq9IrV9
+  packFolder: fffguilded
+  social:
+    occupation: Litigant
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

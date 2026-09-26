@@ -7,18 +7,8 @@ name:
   given: Ardenyl
   clan: Roll
   aliases: []
-id: UQNGANsmTX4VdmL7
-packFolder: extrasguilded
 shortcode: ardenylofroll
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: UQNGANsmTX4VdmL7
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

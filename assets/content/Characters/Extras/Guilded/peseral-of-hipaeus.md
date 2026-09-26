@@ -7,18 +7,8 @@ name:
   given: Peseral
   clan: Hipaeus
   aliases: []
-id: cLlykz62QKdGGkW5
-packFolder: extrasguilded
 shortcode: peseralofhipaeus
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: cLlykz62QKdGGkW5
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

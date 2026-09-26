@@ -7,18 +7,8 @@ name:
   given: Pontous
   clan: Sosora
   aliases: []
-id: SuetbMToWUH5cmOJ
-packFolder: extrasguilded
 shortcode: pontousofsosora
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SuetbMToWUH5cmOJ
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

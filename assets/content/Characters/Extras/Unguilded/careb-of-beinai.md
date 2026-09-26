@@ -7,18 +7,8 @@ name:
   given: Careb
   clan: Beinai
   aliases: []
-id: Sdl9TH7jFlqvbguW
-packFolder: extrasunguilded
 shortcode: carebofbeinai
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Sdl9TH7jFlqvbguW
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

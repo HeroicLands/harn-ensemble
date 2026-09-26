@@ -7,18 +7,8 @@ name:
   given: Albalny
   clan: Yisgaradas
   aliases: []
-id: 6LOT55Hwg8nHzL1Q
-packFolder: extrasunguilded
 shortcode: albalnyofyisgaradas
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6LOT55Hwg8nHzL1Q
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Piltain
   clan: Roll
   aliases: []
-id: CwutY5D5fH9StlmK
-packFolder: extrasguilded
 shortcode: piltainofroll
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CwutY5D5fH9StlmK
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

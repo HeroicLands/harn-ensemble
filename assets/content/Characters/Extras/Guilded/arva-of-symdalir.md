@@ -7,18 +7,8 @@ name:
   given: Arva
   clan: Symdalir
   aliases: []
-id: neEvgBQ0nVgJyagD
-packFolder: extrasguilded
 shortcode: arvaofsymdalir
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: neEvgBQ0nVgJyagD
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Saryn
   clan: Asan
   aliases: []
-id: yrZUSqIm5pLmNgJ0
-packFolder: extrasguilded
 shortcode: sarynofasan
 type: being
-social:
-  occupation: Thespian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yrZUSqIm5pLmNgJ0
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

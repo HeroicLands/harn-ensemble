@@ -7,18 +7,8 @@ name:
   given: Karik
   clan: Mykanthes
   aliases: []
-id: udGumiBPXvXdeNfY
-packFolder: extrasunguilded
 shortcode: karikofmykanthes
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: udGumiBPXvXdeNfY
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Perline
   clan: Naras
   aliases: []
-id: XHRVcn8xv23hVSq9
-packFolder: extrasunguilded
 shortcode: perlineofnaras
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XHRVcn8xv23hVSq9
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

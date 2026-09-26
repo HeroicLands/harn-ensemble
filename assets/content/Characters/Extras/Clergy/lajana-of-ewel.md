@@ -7,19 +7,8 @@ name:
   given: Lajana
   clan: Ewel
   aliases: []
-id: efsDi1Xe7k7m9Id8
-packFolder: extrasclergy
 shortcode: lajanaofewel
 type: being
-social:
-  occupation: Cleric/Siem
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: efsDi1Xe7k7m9Id8
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

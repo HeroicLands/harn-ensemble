@@ -7,19 +7,8 @@ name:
   given: Ealfric
   clan: Defard
   aliases: []
-id: oRNGkprsEqxEhkDw
-packFolder: fffmilitary
 shortcode: ealfricdefard
 type: being
-social:
-  occupation: Yeoman Archer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff1271tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Scar (right forearm)
       - Moustache
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: oRNGkprsEqxEhkDw
+  packFolder: fffmilitary
+  social:
+    occupation: Yeoman Archer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

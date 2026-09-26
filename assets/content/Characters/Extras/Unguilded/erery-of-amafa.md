@@ -7,18 +7,8 @@ name:
   given: Erery
   clan: Amafa
   aliases: []
-id: 28NfRXRHA1Rd84NN
-packFolder: extrasunguilded
 shortcode: ereryofamafa
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 28NfRXRHA1Rd84NN
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Ygwelve
   clan: Forsetha
   aliases: []
-id: 2MzjJhA8lpULDhlf
-packFolder: fffunguilded
 shortcode: ygwelveforsetha
 type: being
-social:
-  occupation: Scribe
-  class: freeman
-  society: ivinian
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff4152tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: attractive
     extra_features:
       - Very long braided hair
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: 2MzjJhA8lpULDhlf
+  packFolder: fffunguilded
+  social:
+    occupation: Scribe
+    class: freeman
+    society: ivinian
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Tula
   clan: Sethaleh
   aliases: []
-id: jJZ3sjLdPQ3nh8Q3
-packFolder: extrasunguilded
 shortcode: tulaofsethaleh
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jJZ3sjLdPQ3nh8Q3
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Merery
   clan: Taldin
   aliases: []
-id: FgUl2Yh6TVEUSeX1
-packFolder: extrasclergy
 shortcode: mereryoftaldin
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: FgUl2Yh6TVEUSeX1
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

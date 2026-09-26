@@ -7,18 +7,8 @@ name:
   given: Queda
   clan: Hipaeus
   aliases: []
-id: NkhyjR85RS5tYY7z
-packFolder: extrasguilded
 shortcode: quedaofhipaeus
 type: being
-social:
-  occupation: Locksmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NkhyjR85RS5tYY7z
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

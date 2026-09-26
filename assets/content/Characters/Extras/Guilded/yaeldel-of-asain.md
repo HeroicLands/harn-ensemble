@@ -7,18 +7,8 @@ name:
   given: Yaeldel
   clan: Asain
   aliases: []
-id: YjCciDu7V1HgUOFV
-packFolder: extrasguilded
 shortcode: yaeldelofasain
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YjCciDu7V1HgUOFV
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

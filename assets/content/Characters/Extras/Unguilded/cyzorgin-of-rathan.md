@@ -7,18 +7,8 @@ name:
   given: Cyzorgin
   clan: Rathan
   aliases: []
-id: 8sQPEDasD13wRwxY
-packFolder: extrasunguilded
 shortcode: cyzorginofrathan
 type: being
-social:
-  occupation: Sage/Tutor
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8sQPEDasD13wRwxY
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

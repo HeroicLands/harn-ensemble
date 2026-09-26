@@ -7,18 +7,8 @@ name:
   given: Elderiela
   clan: Ele
   aliases: []
-id: icFGjgVVGVbiblGX
-packFolder: extrasguilded
 shortcode: elderielaofele
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: icFGjgVVGVbiblGX
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Sarin
   clan: Tarkoff
   aliases: []
-id: m7RDwvVJfIUnvKUD
-packFolder: extrasguilded
 shortcode: sarinoftarkoff
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: m7RDwvVJfIUnvKUD
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

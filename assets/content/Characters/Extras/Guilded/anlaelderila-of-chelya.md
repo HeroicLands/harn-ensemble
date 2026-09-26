@@ -7,18 +7,8 @@ name:
   given: Anlaelderila
   clan: Chelya
   aliases: []
-id: VSDDcwqhOgcAfjH7
-packFolder: extrasguilded
 shortcode: anlaelderilaofchelya
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VSDDcwqhOgcAfjH7
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

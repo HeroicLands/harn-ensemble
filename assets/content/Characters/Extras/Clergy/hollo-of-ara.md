@@ -7,19 +7,8 @@ name:
   given: Hollo
   clan: Ara
   aliases: []
-id: aJddiWZ6rGbGx8p7
-packFolder: extrasclergy
 shortcode: holloofara
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: aJddiWZ6rGbGx8p7
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

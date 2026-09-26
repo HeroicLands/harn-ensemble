@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Quardin
   aliases: []
-id: 7cFKA4ZfnI6dHEHw
-packFolder: extrasunguilded
 shortcode: terzaofquardin
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7cFKA4ZfnI6dHEHw
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

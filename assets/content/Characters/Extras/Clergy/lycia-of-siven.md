@@ -7,19 +7,8 @@ name:
   given: Lycia
   clan: Siven
   aliases: []
-id: ANJx9PHmQfxdRLtq
-packFolder: extrasclergy
 shortcode: lyciaofsiven
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: ANJx9PHmQfxdRLtq
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

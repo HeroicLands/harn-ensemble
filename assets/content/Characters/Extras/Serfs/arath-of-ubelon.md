@@ -7,18 +7,8 @@ name:
   given: Arath
   clan: Ubelon
   aliases: []
-id: ytNQgqlvHeyd69i5
-packFolder: extrasserfs
 shortcode: arathofubelon
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ytNQgqlvHeyd69i5
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

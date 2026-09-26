@@ -7,18 +7,8 @@ name:
   given: Aladez
   clan: Theikakakar
   aliases: []
-id: dXiKZfVNINvqBDsM
-packFolder: extrasnobles
 shortcode: aladezoftheikakakar
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dXiKZfVNINvqBDsM
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

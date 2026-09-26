@@ -7,19 +7,8 @@ name:
   given: Karyse
   clan: Hilrichmarn
   aliases: []
-id: Vo308zVWC7dIdGUS
-packFolder: extrasclergy
 shortcode: karyseofhilrichmarn
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: Vo308zVWC7dIdGUS
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

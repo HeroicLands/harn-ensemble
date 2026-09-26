@@ -7,19 +7,8 @@ name:
   given: Starkot
   clan: Erlesh
   aliases: []
-id: d3Bt39HqbrS6qoKh
-packFolder: extrasclergy
 shortcode: starkotoferlesh
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: d3Bt39HqbrS6qoKh
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Fryda
   clan: Sel
   aliases: []
-id: PnfHe9YZru4vh76R
-packFolder: extrasguilded
 shortcode: frydaofsel
 type: being
-social:
-  occupation: Innkeeper
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PnfHe9YZru4vh76R
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

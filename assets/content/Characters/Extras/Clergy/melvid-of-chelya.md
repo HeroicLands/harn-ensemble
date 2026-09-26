@@ -7,19 +7,8 @@ name:
   given: Melvid
   clan: Chelya
   aliases: []
-id: B5vp25TOJHCePB5E
-packFolder: extrasclergy
 shortcode: melvidofchelya
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: B5vp25TOJHCePB5E
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

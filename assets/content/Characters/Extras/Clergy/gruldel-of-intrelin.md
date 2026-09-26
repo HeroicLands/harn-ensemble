@@ -7,19 +7,8 @@ name:
   given: Gruldel
   clan: Intrelin
   aliases: []
-id: 4macLwg8sYliRoJp
-packFolder: extrasclergy
 shortcode: gruldelofintrelin
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: 4macLwg8sYliRoJp
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

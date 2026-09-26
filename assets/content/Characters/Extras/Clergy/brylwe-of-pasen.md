@@ -7,19 +7,8 @@ name:
   given: Brylwe
   clan: Pasen
   aliases: []
-id: L6jwAqJPS64WWZ2P
-packFolder: extrasclergy
 shortcode: brylweofpasen
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: L6jwAqJPS64WWZ2P
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

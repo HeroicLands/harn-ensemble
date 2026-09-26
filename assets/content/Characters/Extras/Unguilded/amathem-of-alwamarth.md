@@ -7,18 +7,8 @@ name:
   given: Amathem
   clan: Alwamarth
   aliases: []
-id: ZwE6MBLJLz4IolV4
-packFolder: extrasunguilded
 shortcode: amathemofalwamarth
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZwE6MBLJLz4IolV4
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

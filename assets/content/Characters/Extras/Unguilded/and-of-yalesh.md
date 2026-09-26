@@ -7,19 +7,8 @@ name:
   given: And
   clan: Yalesh
   aliases: []
-id: sbh1wkY7uVAop1nS
-packFolder: extrasunguilded
 shortcode: andofyalesh
 type: being
-social:
-  occupation: Shaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: sbh1wkY7uVAop1nS
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

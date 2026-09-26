@@ -7,18 +7,8 @@ name:
   given: Uviene
   clan: Ardine
   aliases: []
-id: Nt8f9Xva3m4uJP9m
-packFolder: extrasguilded
 shortcode: uvieneofardine
 type: being
-social:
-  occupation: Chandler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Nt8f9Xva3m4uJP9m
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

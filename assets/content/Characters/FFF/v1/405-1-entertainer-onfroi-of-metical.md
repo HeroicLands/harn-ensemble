@@ -7,19 +7,8 @@ name:
   given: Onfroi
   clan: Metical
   aliases: []
-id: zGz4dPoGVKfmdnUR
-packFolder: fffunguilded
 shortcode: onfroiofmetical
 type: being
-social:
-  occupation: Entertainer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4051tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: zGz4dPoGVKfmdnUR
+  packFolder: fffunguilded
+  social:
+    occupation: Entertainer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

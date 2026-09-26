@@ -7,19 +7,8 @@ name:
   given: Artun
   clan: Partuna
   aliases: []
-id: bkUySi7K2XcwCJoM
-packFolder: extrasclergy
 shortcode: artunofpartuna
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: bkUySi7K2XcwCJoM
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

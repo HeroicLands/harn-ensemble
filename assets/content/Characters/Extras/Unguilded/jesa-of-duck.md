@@ -7,18 +7,8 @@ name:
   given: Jesa
   clan: Duck
   aliases: []
-id: jQIPF90X4lCNb2Ee
-packFolder: extrasunguilded
 shortcode: jesaofduck
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jQIPF90X4lCNb2Ee
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

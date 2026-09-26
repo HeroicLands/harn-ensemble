@@ -7,19 +7,8 @@ name:
   given: Pelinde
   clan: Gevraelin
   aliases: []
-id: Rd5GlRJyiH9TdcW3
-packFolder: extrasclergy
 shortcode: pelindeofgevraelin
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: Rd5GlRJyiH9TdcW3
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

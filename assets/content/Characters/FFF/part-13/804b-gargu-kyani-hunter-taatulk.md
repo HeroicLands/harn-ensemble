@@ -7,18 +7,8 @@ name:
   given: Taatulk
   clan: ""
   aliases: []
-id: yHTXrQJNtmgOTo45
-packFolder: fffnonhumans
 shortcode: taatulk
 type: being
-social:
-  occupation: Warrior
-  class: hunter
-  society: gargun (kyani)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff804bhead
   tokenIcon: fff804btok
@@ -38,6 +28,16 @@ data:
       - Ruined left eye
       - Heavily scarred face
       - bear claw totem necklace
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yHTXrQJNtmgOTo45
+  packFolder: fffnonhumans
+  social:
+    occupation: Warrior
+    class: hunter
+    society: gargun (kyani)
+    organizations: []
 hm3:
   type: character
   attributes:

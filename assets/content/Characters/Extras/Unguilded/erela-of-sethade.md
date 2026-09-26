@@ -7,18 +7,8 @@ name:
   given: Erela
   clan: Sethade
   aliases: []
-id: 3KYI7VUAix6xYBIl
-packFolder: extrasunguilded
 shortcode: erelaofsethade
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3KYI7VUAix6xYBIl
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

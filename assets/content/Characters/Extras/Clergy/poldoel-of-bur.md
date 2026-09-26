@@ -7,19 +7,8 @@ name:
   given: Poldoel
   clan: Bur
   aliases: []
-id: QpirEHWB4ozQ2Blj
-packFolder: extrasclergy
 shortcode: poldoelofbur
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: QpirEHWB4ozQ2Blj
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

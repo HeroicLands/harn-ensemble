@@ -7,18 +7,8 @@ name:
   given: Pelina
   clan: Osathias
   aliases: []
-id: hZQYQEUgUSj4638Y
-packFolder: extrasunguilded
 shortcode: pelinaofosathias
 type: being
-social:
-  occupation: Animal Trainer
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hZQYQEUgUSj4638Y
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

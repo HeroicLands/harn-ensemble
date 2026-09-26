@@ -7,18 +7,8 @@ name:
   given: Shylirisir
   clan: Verien
   aliases: []
-id: oVmnCshuAhJn9eyn
-packFolder: extrasnobles
 shortcode: shylirisirofverien
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oVmnCshuAhJn9eyn
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

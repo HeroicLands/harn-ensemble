@@ -7,18 +7,8 @@ name:
   given: Sat
   clan: Asain
   aliases: []
-id: LJ3T0RAGJd87saW9
-packFolder: extrasnobles
 shortcode: satofasain
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LJ3T0RAGJd87saW9
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Lavro
   clan: Orostal
   aliases: []
-id: ssnt13YqynwruYqK
-packFolder: fffmilitary
 shortcode: lavrooforostal
 type: being
-social:
-  occupation: Scout (SB)
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff1181tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Reddish beard
       - moustache
       - bald
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: ssnt13YqynwruYqK
+  packFolder: fffmilitary
+  social:
+    occupation: Scout (SB)
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

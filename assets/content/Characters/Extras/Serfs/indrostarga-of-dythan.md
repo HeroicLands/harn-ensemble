@@ -7,18 +7,8 @@ name:
   given: Indrostarga
   clan: Dythan
   aliases: []
-id: NhInWE9drcCbVOLJ
-packFolder: extrasserfs
 shortcode: indrostargaofdythan
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NhInWE9drcCbVOLJ
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

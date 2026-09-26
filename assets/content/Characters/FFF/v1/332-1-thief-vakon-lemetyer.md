@@ -7,19 +7,8 @@ name:
   given: Vakon
   clan: Lemetyer
   aliases: []
-id: x0wP2qykwZWZSX7M
-packFolder: fffguilded
 shortcode: vakonlemetyer
 type: being
-social:
-  occupation: Thief
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3321tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Birthmark
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: x0wP2qykwZWZSX7M
+  packFolder: fffguilded
+  social:
+    occupation: Thief
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Otto
   clan: ""
   aliases: []
-id: HDRSNCscXIBC8Rxv
-packFolder: fffmilitary
 shortcode: otto
 type: being
-social:
-  occupation: Mercenary (MF)
-  class: freeman
-  society: imperial
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   icon: fff1151tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Left handed
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: HDRSNCscXIBC8Rxv
+  packFolder: fffmilitary
+  social:
+    occupation: Mercenary (MF)
+    class: freeman
+    society: imperial
+    organizations: []
 hm3:
   type: character
   attributes:

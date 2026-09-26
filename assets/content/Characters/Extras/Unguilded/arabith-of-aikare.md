@@ -7,18 +7,8 @@ name:
   given: Arabith
   clan: Aikare
   aliases: []
-id: a6GKjKixjNYrw6CH
-packFolder: extrasunguilded
 shortcode: arabithofaikare
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: a6GKjKixjNYrw6CH
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

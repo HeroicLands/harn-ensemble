@@ -7,18 +7,8 @@ name:
   given: Amathan
   clan: Amlug
   aliases: []
-id: Rjqvc1Bl8VPoaUNb
-packFolder: extrasunguilded
 shortcode: amathanofamlug
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Rjqvc1Bl8VPoaUNb
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

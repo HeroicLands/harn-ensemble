@@ -7,19 +7,8 @@ name:
   given: Soraga
   clan: Shre
   aliases: []
-id: LZK5F14an4G9vsdU
-packFolder: extrasclergy
 shortcode: soragaofshre
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: LZK5F14an4G9vsdU
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

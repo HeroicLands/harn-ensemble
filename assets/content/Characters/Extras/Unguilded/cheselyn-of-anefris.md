@@ -7,18 +7,8 @@ name:
   given: Cheselyn
   clan: Anefris
   aliases: []
-id: LH6cb6wd0B52w3Y2
-packFolder: extrasunguilded
 shortcode: cheselynofanefris
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LH6cb6wd0B52w3Y2
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

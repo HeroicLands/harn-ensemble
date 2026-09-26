@@ -7,18 +7,8 @@ name:
   given: Jessthias
   clan: Beldor
   aliases: []
-id: bMATLu7vEzGluvqb
-packFolder: extrasguilded
 shortcode: jessthiasofbeldor
 type: being
-social:
-  occupation: Alchemist
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bMATLu7vEzGluvqb
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Bash
   clan: Ashels
   aliases: []
-id: qc1M3hEV3JcYBiEV
-packFolder: extrasnobles
 shortcode: bashofashels
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qc1M3hEV3JcYBiEV
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

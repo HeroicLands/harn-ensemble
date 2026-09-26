@@ -7,18 +7,8 @@ name:
   given: Tamyth
   clan: Ekair
   aliases: []
-id: OyzbrGqp0tWuhQ8w
-packFolder: extrasguilded
 shortcode: tamythofekair
 type: being
-social:
-  occupation: Embalmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OyzbrGqp0tWuhQ8w
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

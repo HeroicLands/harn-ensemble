@@ -7,19 +7,8 @@ name:
   given: Obran
   clan: Kass
   aliases: []
-id: hIydaA7whVgdTL7V
-packFolder: extrasclergy
 shortcode: obranofkass
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: hIydaA7whVgdTL7V
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

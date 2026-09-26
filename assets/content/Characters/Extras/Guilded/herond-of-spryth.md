@@ -7,18 +7,8 @@ name:
   given: Herond
   clan: Spryth
   aliases: []
-id: JddNkybHOJ2v07rG
-packFolder: extrasguilded
 shortcode: herondofspryth
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JddNkybHOJ2v07rG
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

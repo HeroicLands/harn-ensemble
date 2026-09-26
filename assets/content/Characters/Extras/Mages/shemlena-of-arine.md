@@ -7,18 +7,8 @@ name:
   given: Shemlena
   clan: Arine
   aliases: []
-id: CvkI7SkzZ5ohgqka
-packFolder: extrasmages
 shortcode: shemlenaofarine
 type: being
-social:
-  occupation: "Shek-Pvar/Odivshe****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CvkI7SkzZ5ohgqka
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Odivshe****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

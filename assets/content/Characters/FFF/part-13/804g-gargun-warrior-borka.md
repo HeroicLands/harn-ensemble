@@ -7,18 +7,8 @@ name:
   given: Borka
   clan: ""
   aliases: []
-id: WsoowZSwGZT5T7K8
-packFolder: fffnonhumans
 shortcode: borka
 type: being
-social:
-  occupation: Warrior
-  class: warrior
-  society: gargun
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff804ghead
   tokenIcon: fff804gtok
@@ -33,6 +23,16 @@ data:
     skin_color: ""
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WsoowZSwGZT5T7K8
+  packFolder: fffnonhumans
+  social:
+    occupation: Warrior
+    class: warrior
+    society: gargun
+    organizations: []
 hm3:
   type: character
   attributes:

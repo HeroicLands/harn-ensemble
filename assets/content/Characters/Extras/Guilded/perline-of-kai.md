@@ -7,18 +7,8 @@ name:
   given: Perline
   clan: Kai
   aliases: []
-id: XU1ZzOYHBqukjvX0
-packFolder: extrasguilded
 shortcode: perlineofkai
 type: being
-social:
-  occupation: Alchemist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XU1ZzOYHBqukjvX0
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

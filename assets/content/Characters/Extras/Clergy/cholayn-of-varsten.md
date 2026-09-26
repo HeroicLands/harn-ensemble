@@ -7,19 +7,8 @@ name:
   given: Cholayn
   clan: Varsten
   aliases: []
-id: zwdCyQrbk9kLbd3k
-packFolder: extrasclergy
 shortcode: cholaynofvarsten
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: zwdCyQrbk9kLbd3k
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

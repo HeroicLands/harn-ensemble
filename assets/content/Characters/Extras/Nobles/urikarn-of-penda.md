@@ -7,18 +7,8 @@ name:
   given: Urikarn
   clan: Penda
   aliases: []
-id: HxdkilWP3FXBY6e3
-packFolder: extrasnobles
 shortcode: urikarnofpenda
 type: being
-social:
-  occupation: Chieftan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HxdkilWP3FXBY6e3
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Hylin
   aliases: []
-id: RDSJTw9wFeDsRItA
-packFolder: extrasunguilded
 shortcode: terzaofhylin
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RDSJTw9wFeDsRItA
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

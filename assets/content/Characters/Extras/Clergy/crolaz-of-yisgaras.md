@@ -7,19 +7,8 @@ name:
   given: Crolaz
   clan: Yisgaras
   aliases: []
-id: Yn5oRA6ayL5SdEct
-packFolder: extrasclergy
 shortcode: crolazofyisgaras
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: Yn5oRA6ayL5SdEct
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

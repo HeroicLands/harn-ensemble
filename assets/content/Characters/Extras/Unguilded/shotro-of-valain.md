@@ -7,18 +7,8 @@ name:
   given: Shotro
   clan: Valain
   aliases: []
-id: AY3RTHYoPKBRdNRX
-packFolder: extrasunguilded
 shortcode: shotroofvalain
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AY3RTHYoPKBRdNRX
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

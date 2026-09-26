@@ -7,19 +7,8 @@ name:
   given: Dickon
   clan: Tixena
   aliases: []
-id: EiO3xyhGpSuXoLxr
-packFolder: extrasclergy
 shortcode: dickonoftixena
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: EiO3xyhGpSuXoLxr
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

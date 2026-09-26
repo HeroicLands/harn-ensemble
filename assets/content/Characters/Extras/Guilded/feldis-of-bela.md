@@ -7,18 +7,8 @@ name:
   given: Feldis
   clan: Bela
   aliases: []
-id: PjJ6sEqJ7m4zL8tz
-packFolder: extrasguilded
 shortcode: feldisofbela
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PjJ6sEqJ7m4zL8tz
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

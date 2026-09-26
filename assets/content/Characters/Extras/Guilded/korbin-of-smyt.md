@@ -7,18 +7,8 @@ name:
   given: Korbin
   clan: Smyt
   aliases: []
-id: p4ntn6CriEKSQ5qS
-packFolder: extrasguilded
 shortcode: korbinofsmyt
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: p4ntn6CriEKSQ5qS
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

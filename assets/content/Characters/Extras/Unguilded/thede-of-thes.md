@@ -7,18 +7,8 @@ name:
   given: Thede
   clan: Thes
   aliases: []
-id: F5lAfgcUpAhNdKOK
-packFolder: extrasunguilded
 shortcode: thedeofthes
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F5lAfgcUpAhNdKOK
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

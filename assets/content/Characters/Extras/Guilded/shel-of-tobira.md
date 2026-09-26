@@ -7,18 +7,8 @@ name:
   given: Shel
   clan: Tobira
   aliases: []
-id: eENUbfOnYk1n0r5W
-packFolder: extrasguilded
 shortcode: sheloftobira
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eENUbfOnYk1n0r5W
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Terza
   clan: Chus
   aliases: []
-id: OYstODTKyWEaVdtD
-packFolder: extrasclergy
 shortcode: terzaofchus
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: OYstODTKyWEaVdtD
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

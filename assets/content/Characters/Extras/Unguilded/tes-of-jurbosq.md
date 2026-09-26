@@ -7,18 +7,8 @@ name:
   given: Tes
   clan: Jurbosq
   aliases: []
-id: xg5GzUXA5bAIYQ1a
-packFolder: extrasunguilded
 shortcode: tesofjurbosq
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xg5GzUXA5bAIYQ1a
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

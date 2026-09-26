@@ -7,18 +7,8 @@ name:
   given: Pasun
   clan: Dybarn
   aliases: []
-id: D0PmvcjI9WaCyssF
-packFolder: extrasguilded
 shortcode: pasunofdybarn
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: D0PmvcjI9WaCyssF
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

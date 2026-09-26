@@ -7,20 +7,8 @@ name:
   given: Maccus
   clan: Tixena
   aliases: []
-id: cNLfCZnFAc0oKHjd
-packFolder: fffmages
 shortcode: maccusoftixena
 type: being
-social:
-  occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
-    - saveknor
 data:
   icon: fff7031tok
   templatePriority: 1
@@ -38,6 +26,18 @@ data:
     complexion: plain
     extra_features:
       - Birthmark
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+      - saveknor
+  id: cNLfCZnFAc0oKHjd
+  packFolder: fffmages
+  social:
+    occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

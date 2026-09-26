@@ -7,18 +7,8 @@ name:
   given: Amarthor
   clan: Bronadui
   aliases: []
-id: 4KcdMVokOC4CM6ql
-packFolder: extrasunguilded
 shortcode: amarthorofbronadui
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4KcdMVokOC4CM6ql
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

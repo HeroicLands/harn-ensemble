@@ -7,18 +7,8 @@ name:
   given: Uris
   clan: Hilrin
   aliases: []
-id: ZBqfsTC2dtQd4MrH
-packFolder: extrasguards
 shortcode: veteranurisofhilrin
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZBqfsTC2dtQd4MrH
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

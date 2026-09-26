@@ -7,19 +7,8 @@ name:
   given: Elena
   clan: Valador
   aliases: []
-id: BlophomZelxk7f6x
-packFolder: fffnobles
 shortcode: ladyelenavalador
 type: being
-social:
-  occupation: Chatelaine
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5121tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: BlophomZelxk7f6x
+  packFolder: fffnobles
+  social:
+    occupation: Chatelaine
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Uvien
   clan: Arass
   aliases: []
-id: 9dFKbuMhe7bxT9ZK
-packFolder: extrasmages
 shortcode: uvienofarass
 type: being
-social:
-  occupation: "Shek-Pvar/Jmorvi**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9dFKbuMhe7bxT9ZK
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Jmorvi**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Borane
   clan: Fraul
   aliases: []
-id: Qs4zFGgnuCRXKf2v
-packFolder: extrasunguilded
 shortcode: boraneoffraul
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Qs4zFGgnuCRXKf2v
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

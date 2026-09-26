@@ -7,19 +7,8 @@ name:
   given: Kele
   clan: Arasane
   aliases: []
-id: X0GqnI3cBJfSYKz5
-packFolder: extrasclergy
 shortcode: keleofarasane
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: X0GqnI3cBJfSYKz5
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

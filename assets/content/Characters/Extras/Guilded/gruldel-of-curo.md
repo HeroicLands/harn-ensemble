@@ -7,18 +7,8 @@ name:
   given: Gruldel
   clan: Curo
   aliases: []
-id: jHoSV1R3canFW1DC
-packFolder: extrasguilded
 shortcode: gruldelofcuro
 type: being
-social:
-  occupation: Mason
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jHoSV1R3canFW1DC
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

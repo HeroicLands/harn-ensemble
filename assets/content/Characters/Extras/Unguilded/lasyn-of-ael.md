@@ -7,18 +7,8 @@ name:
   given: Lasyn
   clan: Ael
   aliases: []
-id: 6smpeAorEzZ8ARiu
-packFolder: extrasunguilded
 shortcode: lasynofael
 type: being
-social:
-  occupation: Sage/Tutor
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6smpeAorEzZ8ARiu
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

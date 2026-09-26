@@ -7,18 +7,8 @@ name:
   given: Har
   clan: Podine
   aliases: []
-id: 8nogIAPHps3vA2V9
-packFolder: extrasmages
 shortcode: harofpodine
 type: being
-social:
-  occupation: "Shek-Pvar/Lyahvi**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8nogIAPHps3vA2V9
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Lyahvi**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

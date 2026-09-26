@@ -7,18 +7,8 @@ name:
   given: Sar
   clan: Krollateris
   aliases: []
-id: KqvCueOGh5p7rp5o
-packFolder: extrasserfs
 shortcode: sarofkrollateris
 type: being
-social:
-  occupation: Cook/Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KqvCueOGh5p7rp5o
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Koraxa
   clan: Iarad
   aliases: []
-id: 6N3lgLVvEwxwIvbp
-packFolder: extrasguards
 shortcode: veterankoraxaofiarad
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6N3lgLVvEwxwIvbp
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

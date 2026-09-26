@@ -7,18 +7,8 @@ name:
   given: Gen
   clan: Cosele
   aliases: []
-id: TUftJq3NoKSjkQyZ
-packFolder: extrasguilded
 shortcode: genofcosele
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TUftJq3NoKSjkQyZ
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

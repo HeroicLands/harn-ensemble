@@ -7,18 +7,8 @@ name:
   given: Merene
   clan: Ekail
   aliases: []
-id: ioU4Q136jY9fEJn8
-packFolder: extrasguilded
 shortcode: mereneofekail
 type: being
-social:
-  occupation: Perfumer
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ioU4Q136jY9fEJn8
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

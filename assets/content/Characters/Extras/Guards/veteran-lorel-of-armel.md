@@ -7,18 +7,8 @@ name:
   given: Lorel
   clan: Armel
   aliases: []
-id: 6aUqQPaAJqXjLz6v
-packFolder: extrasguards
 shortcode: veteranlorelofarmel
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6aUqQPaAJqXjLz6v
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

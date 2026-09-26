@@ -7,18 +7,8 @@ name:
   given: Tula
   clan: Podin
   aliases: []
-id: CDS95bsqLwtYKQ0P
-packFolder: extrasguilded
 shortcode: tulaofpodin
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CDS95bsqLwtYKQ0P
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

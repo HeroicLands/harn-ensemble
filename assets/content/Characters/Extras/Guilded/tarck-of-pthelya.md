@@ -7,18 +7,8 @@ name:
   given: Tarck
   clan: Pthelya
   aliases: []
-id: LCsMlpoVT9GKH2ya
-packFolder: extrasguilded
 shortcode: tarckofpthelya
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LCsMlpoVT9GKH2ya
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

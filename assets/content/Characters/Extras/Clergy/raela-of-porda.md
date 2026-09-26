@@ -7,19 +7,8 @@ name:
   given: Raela
   clan: Porda
   aliases: []
-id: lYcuQRdn1quuD6ep
-packFolder: extrasclergy
 shortcode: raelaofporda
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: lYcuQRdn1quuD6ep
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

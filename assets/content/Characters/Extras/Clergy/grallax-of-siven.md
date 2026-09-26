@@ -7,19 +7,8 @@ name:
   given: Grallax
   clan: Siven
   aliases: []
-id: qk4ioTrMlqOjygKL
-packFolder: extrasclergy
 shortcode: grallaxofsiven
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: qk4ioTrMlqOjygKL
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

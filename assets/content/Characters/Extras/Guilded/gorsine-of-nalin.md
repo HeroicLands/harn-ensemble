@@ -7,18 +7,8 @@ name:
   given: Gorsine
   clan: Nalin
   aliases: []
-id: X03WaXjfaRKmVQ42
-packFolder: extrasguilded
 shortcode: gorsineofnalin
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: X03WaXjfaRKmVQ42
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

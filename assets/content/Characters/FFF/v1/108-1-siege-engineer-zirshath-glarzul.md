@@ -7,19 +7,8 @@ name:
   given: Zirshath
   clan: Glarzul
   aliases: []
-id: W22UXBOpDZqnS5oe
-packFolder: fffmilitary
 shortcode: zirshathglarzul
 type: being
-social:
-  occupation: Siege Engineer
-  class: freeman
-  society: khuzdul
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   icon: fff1081tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Always carrying a large book
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: W22UXBOpDZqnS5oe
+  packFolder: fffmilitary
+  social:
+    occupation: Siege Engineer
+    class: freeman
+    society: khuzdul
+    organizations: []
 hm3:
   type: character
   attributes:

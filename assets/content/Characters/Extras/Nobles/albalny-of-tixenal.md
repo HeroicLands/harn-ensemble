@@ -7,18 +7,8 @@ name:
   given: Albalny
   clan: Tixenal
   aliases: []
-id: SoX0YlV2waYQw5p9
-packFolder: extrasnobles
 shortcode: albalnyoftixenal
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SoX0YlV2waYQw5p9
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

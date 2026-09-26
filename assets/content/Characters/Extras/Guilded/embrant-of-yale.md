@@ -7,18 +7,8 @@ name:
   given: Embrant
   clan: Yale
   aliases: []
-id: CB3RxkK05youflE8
-packFolder: extrasguilded
 shortcode: embrantofyale
 type: being
-social:
-  occupation: Litigant
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CB3RxkK05youflE8
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

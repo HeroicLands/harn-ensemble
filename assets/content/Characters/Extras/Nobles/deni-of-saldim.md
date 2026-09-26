@@ -7,18 +7,8 @@ name:
   given: Deni
   clan: Saldim
   aliases: []
-id: Oelv7aIgP045wNLG
-packFolder: extrasnobles
 shortcode: deniofsaldim
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Oelv7aIgP045wNLG
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

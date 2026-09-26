@@ -7,18 +7,8 @@ name:
   given: Douril
   clan: Bela
   aliases: []
-id: BU4bOo94FGjJmNnq
-packFolder: extrasmages
 shortcode: dourilofbela
 type: being
-social:
-  occupation: "Shek-Pvar/Odivshe****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BU4bOo94FGjJmNnq
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Odivshe****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

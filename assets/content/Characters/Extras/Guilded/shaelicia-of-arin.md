@@ -7,18 +7,8 @@ name:
   given: Shaelicia
   clan: Arin
   aliases: []
-id: 1wzPBql1gy8dCGxe
-packFolder: extrasguilded
 shortcode: shaeliciaofarin
 type: being
-social:
-  occupation: Harper/Skald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1wzPBql1gy8dCGxe
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

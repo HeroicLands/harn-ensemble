@@ -7,18 +7,8 @@ name:
   given: Shemlen
   clan: Geldor
   aliases: []
-id: 1LXM26SS1dX1Nf3R
-packFolder: extrasunguilded
 shortcode: shemlenofgeldor
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1LXM26SS1dX1Nf3R
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

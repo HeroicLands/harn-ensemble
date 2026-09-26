@@ -7,18 +7,8 @@ name:
   given: Amdirvereg
   clan: Enamarthedherenamlugnarumuiben
   aliases: []
-id: ExLZJnoZiGJWCiyE
-packFolder: extrasnobles
 shortcode: amdirveregofenamarthedherenamlugnarumuiben
 type: being
-social:
-  occupation: Sindarin Knight
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ExLZJnoZiGJWCiyE
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

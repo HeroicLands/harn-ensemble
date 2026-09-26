@@ -7,18 +7,8 @@ name:
   given: Jolayn
   clan: Mund
   aliases: []
-id: Vt682PD74ik1QIJj
-packFolder: extrasguilded
 shortcode: jolaynofmund
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Vt682PD74ik1QIJj
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

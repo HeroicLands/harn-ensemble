@@ -7,19 +7,8 @@ name:
   given: Breth
   clan: Rytus
   aliases: []
-id: lFThn0KpjBQrtRLN
-packFolder: extrasclergy
 shortcode: brethofrytus
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: lFThn0KpjBQrtRLN
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

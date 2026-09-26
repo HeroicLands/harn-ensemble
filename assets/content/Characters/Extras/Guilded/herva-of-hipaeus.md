@@ -7,18 +7,8 @@ name:
   given: Herva
   clan: Hipaeus
   aliases: []
-id: bcfSytUyBYhFkTU7
-packFolder: extrasguilded
 shortcode: hervaofhipaeus
 type: being
-social:
-  occupation: Thief
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bcfSytUyBYhFkTU7
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

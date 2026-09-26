@@ -7,18 +7,8 @@ name:
   given: Yago
   clan: Betanefris
   aliases: []
-id: iREbRwUO5EDtUe7t
-packFolder: extrasmages
 shortcode: yagoofbetanefris
 type: being
-social:
-  occupation: "Shek-Pvar/Fyvria****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iREbRwUO5EDtUe7t
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Fyvria****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

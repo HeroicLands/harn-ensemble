@@ -7,18 +7,8 @@ name:
   given: Sartun
   clan: Narad
   aliases: []
-id: zkPPF2G3OFcWGQLE
-packFolder: extrasguilded
 shortcode: sartunofnarad
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zkPPF2G3OFcWGQLE
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

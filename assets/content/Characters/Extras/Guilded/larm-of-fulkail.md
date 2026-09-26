@@ -7,18 +7,8 @@ name:
   given: Larm
   clan: Fulkail
   aliases: []
-id: EValLtk48ar4mK65
-packFolder: extrasguilded
 shortcode: larmoffulkail
 type: being
-social:
-  occupation: Potter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EValLtk48ar4mK65
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

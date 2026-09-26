@@ -7,18 +7,8 @@ name:
   given: Yvalethasis
   clan: Ren
   aliases: []
-id: LddENqMgSdWGQXnd
-packFolder: extrasunguilded
 shortcode: yvalethasisofren
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LddENqMgSdWGQXnd
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

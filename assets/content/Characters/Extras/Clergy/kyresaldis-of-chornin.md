@@ -7,19 +7,8 @@ name:
   given: Kyresaldis
   clan: Chornin
   aliases: []
-id: BHlqayUOX7Ksv0ha
-packFolder: extrasclergy
 shortcode: kyresaldisofchornin
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: BHlqayUOX7Ksv0ha
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

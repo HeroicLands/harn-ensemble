@@ -7,18 +7,8 @@ name:
   given: Sorolyd
   clan: Fengel
   aliases: []
-id: 23mjFY2g71jJ8RNL
-packFolder: extrasguilded
 shortcode: sorolydoffengel
 type: being
-social:
-  occupation: Miner
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 23mjFY2g71jJ8RNL
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

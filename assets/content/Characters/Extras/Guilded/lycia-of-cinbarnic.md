@@ -7,18 +7,8 @@ name:
   given: Lycia
   clan: Cinbarnic
   aliases: []
-id: h8kIdNklsca1fENK
-packFolder: extrasguilded
 shortcode: lyciaofcinbarnic
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: h8kIdNklsca1fENK
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

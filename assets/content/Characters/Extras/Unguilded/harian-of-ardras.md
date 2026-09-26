@@ -7,18 +7,8 @@ name:
   given: Harian
   clan: Ardras
   aliases: []
-id: 9JV6jKR6NG2DHZrT
-packFolder: extrasunguilded
 shortcode: harianofardras
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9JV6jKR6NG2DHZrT
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Chanisa
   clan: Dybarnesku
   aliases: []
-id: ptzFkYG1cVOsMaY2
-packFolder: extrasnobles
 shortcode: chanisaofdybarnesku
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ptzFkYG1cVOsMaY2
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

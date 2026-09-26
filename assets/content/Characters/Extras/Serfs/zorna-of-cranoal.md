@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Cranoal
   aliases: []
-id: ISKBWgoSl5wARRSf
-packFolder: extrasserfs
 shortcode: zornaofcranoal
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ISKBWgoSl5wARRSf
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

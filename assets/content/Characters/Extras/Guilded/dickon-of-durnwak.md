@@ -7,18 +7,8 @@ name:
   given: Dickon
   clan: Durnwak
   aliases: []
-id: YPHd0pPPNrUkLAUj
-packFolder: extrasguilded
 shortcode: dickonofdurnwak
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YPHd0pPPNrUkLAUj
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

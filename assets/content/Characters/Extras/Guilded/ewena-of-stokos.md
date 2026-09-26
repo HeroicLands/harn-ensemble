@@ -7,18 +7,8 @@ name:
   given: Ewena
   clan: Stokos
   aliases: []
-id: 3F7kvXJXnLnYIJ9O
-packFolder: extrasguilded
 shortcode: ewenaofstokos
 type: being
-social:
-  occupation: Potter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3F7kvXJXnLnYIJ9O
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

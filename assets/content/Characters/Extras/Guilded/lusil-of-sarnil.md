@@ -7,18 +7,8 @@ name:
   given: Lusil
   clan: Sarnil
   aliases: []
-id: JQVxkLpVXQd7iopb
-packFolder: extrasguilded
 shortcode: lusilofsarnil
 type: being
-social:
-  occupation: Alchemist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JQVxkLpVXQd7iopb
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

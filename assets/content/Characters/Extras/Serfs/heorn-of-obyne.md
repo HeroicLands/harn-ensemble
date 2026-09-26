@@ -7,18 +7,8 @@ name:
   given: Heorn
   clan: Obyne
   aliases: []
-id: NN1t41R0EVQDSU2C
-packFolder: extrasserfs
 shortcode: heornofobyne
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NN1t41R0EVQDSU2C
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

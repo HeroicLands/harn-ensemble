@@ -7,18 +7,8 @@ name:
   given: Yelisa
   clan: Placka
   aliases: []
-id: fH7OoXNscmZ0BMSX
-packFolder: extrasguilded
 shortcode: yelisaofplacka
 type: being
-social:
-  occupation: Pilot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fH7OoXNscmZ0BMSX
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

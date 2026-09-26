@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Cranchi
   aliases: []
-id: 1CjxkvVVK5MA6zGQ
-packFolder: extrasunguilded
 shortcode: terzaofcranchi
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1CjxkvVVK5MA6zGQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

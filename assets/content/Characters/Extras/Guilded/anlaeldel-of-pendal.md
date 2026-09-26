@@ -7,18 +7,8 @@ name:
   given: Anlaeldel
   clan: Pendal
   aliases: []
-id: 1Anfs32xROktM3Sf
-packFolder: extrasguilded
 shortcode: anlaeldelofpendal
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1Anfs32xROktM3Sf
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

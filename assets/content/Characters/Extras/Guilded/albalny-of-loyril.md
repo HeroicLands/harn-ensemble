@@ -7,18 +7,8 @@ name:
   given: Albalny
   clan: Loyril
   aliases: []
-id: ffJ6Pepi7yUWmsaf
-packFolder: extrasguilded
 shortcode: albalnyofloyril
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ffJ6Pepi7yUWmsaf
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

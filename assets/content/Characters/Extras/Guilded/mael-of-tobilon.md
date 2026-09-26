@@ -7,18 +7,8 @@ name:
   given: Mael
   clan: Tobilon
   aliases: []
-id: CUUWsIv74Sh1OhY3
-packFolder: extrasguilded
 shortcode: maeloftobilon
 type: being
-social:
-  occupation: Miner
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CUUWsIv74Sh1OhY3
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

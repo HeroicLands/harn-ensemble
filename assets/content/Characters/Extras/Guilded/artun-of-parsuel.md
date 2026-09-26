@@ -7,18 +7,8 @@ name:
   given: Artun
   clan: Parsuel
   aliases: []
-id: MMyWlrHLGY1uPPfe
-packFolder: extrasguilded
 shortcode: artunofparsuel
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MMyWlrHLGY1uPPfe
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

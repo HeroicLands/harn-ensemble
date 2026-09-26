@@ -7,18 +7,8 @@ name:
   given: Cersyn
   clan: Pharion
   aliases: []
-id: oXe6d93blMQR3tO1
-packFolder: extrasguilded
 shortcode: cersynofpharion
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oXe6d93blMQR3tO1
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Tolmey
   clan: Varsuel
   aliases: []
-id: L0sW4kf80QDHNNs9
-packFolder: extrasclergy
 shortcode: tolmeyofvarsuel
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: L0sW4kf80QDHNNs9
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

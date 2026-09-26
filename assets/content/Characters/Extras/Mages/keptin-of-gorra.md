@@ -7,18 +7,8 @@ name:
   given: Keptin
   clan: Gorra
   aliases: []
-id: Hs6lucDfPTjDn1uZ
-packFolder: extrasmages
 shortcode: keptinofgorra
 type: being
-social:
-  occupation: "Shek-Pvar/Fyvria****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Hs6lucDfPTjDn1uZ
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Fyvria****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

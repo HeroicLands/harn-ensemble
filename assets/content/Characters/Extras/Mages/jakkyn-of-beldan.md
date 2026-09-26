@@ -7,18 +7,8 @@ name:
   given: Jakkyn
   clan: Beldan
   aliases: []
-id: ZE3p9NW6NVJEvBz8
-packFolder: extrasmages
 shortcode: jakkynofbeldan
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn**"
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZE3p9NW6NVJEvBz8
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn**"
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

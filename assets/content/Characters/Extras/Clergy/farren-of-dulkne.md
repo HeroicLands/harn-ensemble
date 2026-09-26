@@ -7,19 +7,8 @@ name:
   given: Farren
   clan: Dulkne
   aliases: []
-id: X3yzJuIpsLmPuJAZ
-packFolder: extrasclergy
 shortcode: farrenofdulkne
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: X3yzJuIpsLmPuJAZ
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

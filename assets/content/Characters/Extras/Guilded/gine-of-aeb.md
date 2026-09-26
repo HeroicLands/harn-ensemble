@@ -7,18 +7,8 @@ name:
   given: Gine
   clan: Aeb
   aliases: []
-id: pWDAFFDspDaYSMnA
-packFolder: extrasguilded
 shortcode: gineofaeb
 type: being
-social:
-  occupation: Chandler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pWDAFFDspDaYSMnA
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

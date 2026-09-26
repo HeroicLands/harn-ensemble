@@ -7,19 +7,8 @@ name:
   given: Rolan
   clan: Qatorzin
   aliases: []
-id: syRXfntWTIdVmGqL
-packFolder: extrasunguilded
 shortcode: rolanofqatorzin
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: syRXfntWTIdVmGqL
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

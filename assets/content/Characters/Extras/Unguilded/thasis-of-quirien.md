@@ -7,18 +7,8 @@ name:
   given: Thasis
   clan: Quirien
   aliases: []
-id: cR1wpUlLY0sWTxh7
-packFolder: extrasunguilded
 shortcode: thasisofquirien
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: cR1wpUlLY0sWTxh7
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

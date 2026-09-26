@@ -7,18 +7,8 @@ name:
   given: Malhberance
   clan: Baeth
   aliases: []
-id: 0Yf6TDrZLUiVpuEU
-packFolder: extrasguilded
 shortcode: malhberanceofbaeth
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0Yf6TDrZLUiVpuEU
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

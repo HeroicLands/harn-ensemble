@@ -7,18 +7,8 @@ name:
   given: Jakrow
   clan: Jorwynn
   aliases: []
-id: nK3gpnyb2XruFQ1K
-packFolder: extrasguilded
 shortcode: jakrowofjorwynn
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nK3gpnyb2XruFQ1K
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

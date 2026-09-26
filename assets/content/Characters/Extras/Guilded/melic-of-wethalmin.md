@@ -7,18 +7,8 @@ name:
   given: Melic
   clan: Wethalmin
   aliases: []
-id: 5XHrxzKUEU3ykU4b
-packFolder: extrasguilded
 shortcode: melicofwethalmin
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5XHrxzKUEU3ykU4b
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

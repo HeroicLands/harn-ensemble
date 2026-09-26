@@ -7,18 +7,8 @@ name:
   given: Merala
   clan: Quarlis
   aliases: []
-id: mtnDVQV8nwf4Vw0b
-packFolder: extrasguilded
 shortcode: meralaofquarlis
 type: being
-social:
-  occupation: Perfumer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mtnDVQV8nwf4Vw0b
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

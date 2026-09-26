@@ -7,18 +7,8 @@ name:
   given: Grulderiela
   clan: Pede
   aliases: []
-id: JQbySNMJftXiTDFy
-packFolder: extrasunguilded
 shortcode: grulderielaofpede
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JQbySNMJftXiTDFy
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

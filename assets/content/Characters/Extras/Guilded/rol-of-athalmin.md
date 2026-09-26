@@ -7,18 +7,8 @@ name:
   given: Rol
   clan: Athalmin
   aliases: []
-id: bQRRVhGUKh4hpBaW
-packFolder: extrasguilded
 shortcode: rolofathalmin
 type: being
-social:
-  occupation: Weaponcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bQRRVhGUKh4hpBaW
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

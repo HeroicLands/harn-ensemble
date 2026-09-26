@@ -7,18 +7,8 @@ name:
   given: Burkael
   clan: Partus
   aliases: []
-id: 4KYHomSwAB1UNHAr
-packFolder: extrasserfs
 shortcode: burkaelofpartus
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4KYHomSwAB1UNHAr
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

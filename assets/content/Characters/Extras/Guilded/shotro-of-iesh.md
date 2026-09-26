@@ -7,18 +7,8 @@ name:
   given: Shotro
   clan: Iesh
   aliases: []
-id: GZj7M7JXN6ZSeU0h
-packFolder: extrasguilded
 shortcode: shotroofiesh
 type: being
-social:
-  occupation: Tentmaker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GZj7M7JXN6ZSeU0h
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

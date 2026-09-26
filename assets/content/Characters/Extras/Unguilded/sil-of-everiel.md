@@ -7,18 +7,8 @@ name:
   given: Sil
   clan: Everiel
   aliases: []
-id: Vi5f5Y8gfgXq6Fy5
-packFolder: extrasunguilded
 shortcode: silofeveriel
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Vi5f5Y8gfgXq6Fy5
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

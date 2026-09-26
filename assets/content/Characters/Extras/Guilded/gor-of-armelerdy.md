@@ -7,18 +7,8 @@ name:
   given: Gor
   clan: Armelerdy
   aliases: []
-id: jslXJk5nmcnM8tyv
-packFolder: extrasguilded
 shortcode: gorofarmelerdy
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jslXJk5nmcnM8tyv
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

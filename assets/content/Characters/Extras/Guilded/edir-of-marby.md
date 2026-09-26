@@ -7,18 +7,8 @@ name:
   given: Edir
   clan: Marby
   aliases: []
-id: WHYJ9wigunsF7OMi
-packFolder: extrasguilded
 shortcode: edirofmarby
 type: being
-social:
-  occupation: Timberwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WHYJ9wigunsF7OMi
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

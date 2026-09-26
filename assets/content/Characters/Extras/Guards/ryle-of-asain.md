@@ -7,18 +7,8 @@ name:
   given: Ryle
   clan: Asain
   aliases: []
-id: Az8B1xjX8ZFoZ7aU
-packFolder: extrasguards
 shortcode: ryleofasain
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Az8B1xjX8ZFoZ7aU
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

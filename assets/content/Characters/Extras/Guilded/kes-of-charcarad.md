@@ -7,18 +7,8 @@ name:
   given: Kes
   clan: Charcarad
   aliases: []
-id: yTQhZCljeIks6l7i
-packFolder: extrasguilded
 shortcode: kesofcharcarad
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yTQhZCljeIks6l7i
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

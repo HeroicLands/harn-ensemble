@@ -7,18 +7,8 @@ name:
   given: Halidon
   clan: Sarnesku
   aliases: []
-id: q05KJNEf9CSFrlAk
-packFolder: extrasguards
 shortcode: halidonofsarnesku
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: q05KJNEf9CSFrlAk
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

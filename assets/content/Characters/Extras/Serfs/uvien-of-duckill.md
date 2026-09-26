@@ -7,18 +7,8 @@ name:
   given: Uvien
   clan: Duckill
   aliases: []
-id: wELkBoumn5s0OxAp
-packFolder: extrasserfs
 shortcode: uvienofduckill
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wELkBoumn5s0OxAp
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

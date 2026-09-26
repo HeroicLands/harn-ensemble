@@ -7,20 +7,8 @@ name:
   given: Kiba
   clan: Tam
   aliases: []
-id: AFQOLZIVfy1eFIZV
-packFolder: fffguilded
 shortcode: kibatam
 type: being
-social:
-  occupation: Guildsman's offspring
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
-    - agrik
 data:
   icon: fff3991tok
   templatePriority: 1
@@ -38,6 +26,18 @@ data:
     complexion: beautiful
     extra_features:
       - Sometimes speaks in nonsense sentences
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+      - agrik
+  id: AFQOLZIVfy1eFIZV
+  packFolder: fffguilded
+  social:
+    occupation: Guildsman's offspring
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

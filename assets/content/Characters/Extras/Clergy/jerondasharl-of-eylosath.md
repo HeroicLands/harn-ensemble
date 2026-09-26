@@ -7,19 +7,8 @@ name:
   given: Jerondasharl
   clan: Eylosath
   aliases: []
-id: TvAKQVcyuNUGg7sN
-packFolder: extrasclergy
 shortcode: jerondasharlofeylosath
 type: being
-social:
-  occupation: Cleric/Halea
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: TvAKQVcyuNUGg7sN
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

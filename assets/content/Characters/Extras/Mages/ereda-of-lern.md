@@ -7,18 +7,8 @@ name:
   given: Ereda
   clan: Lern
   aliases: []
-id: V6OI70lvQR5Fidlq
-packFolder: extrasmages
 shortcode: eredaoflern
 type: being
-social:
-  occupation: "Shek-Pvar/Jmorvi****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: V6OI70lvQR5Fidlq
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Jmorvi****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

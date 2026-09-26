@@ -7,18 +7,8 @@ name:
   given: Pontous
   clan: Baldirine
   aliases: []
-id: XSXPb9FCdfDGAq66
-packFolder: extrasserfs
 shortcode: pontousofbaldirine
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XSXPb9FCdfDGAq66
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

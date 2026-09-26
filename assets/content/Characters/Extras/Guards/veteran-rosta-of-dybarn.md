@@ -7,18 +7,8 @@ name:
   given: Rosta
   clan: Dybarn
   aliases: []
-id: 1bNm0PTUz66Hv76D
-packFolder: extrasguards
 shortcode: veteranrostaofdybarn
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1bNm0PTUz66Hv76D
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

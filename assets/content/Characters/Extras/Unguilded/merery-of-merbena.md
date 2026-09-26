@@ -7,18 +7,8 @@ name:
   given: Merery
   clan: Merbena
   aliases: []
-id: eWjhFc6WXvS41XY2
-packFolder: extrasunguilded
 shortcode: mereryofmerbena
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eWjhFc6WXvS41XY2
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

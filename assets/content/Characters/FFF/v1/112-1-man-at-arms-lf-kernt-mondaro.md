@@ -7,19 +7,8 @@ name:
   given: Kernt
   clan: Mondaro
   aliases: []
-id: 2OLRDJqmkgcdo5wJ
-packFolder: fffmilitary
 shortcode: kerntmondaro
 type: being
-social:
-  occupation: Man-at-Arms (LF)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff1121tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Hay fever
       - Missing his front tooth
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: 2OLRDJqmkgcdo5wJ
+  packFolder: fffmilitary
+  social:
+    occupation: Man-at-Arms (LF)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

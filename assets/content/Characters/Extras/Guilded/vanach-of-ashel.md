@@ -7,18 +7,8 @@ name:
   given: Vanach
   clan: Ashel
   aliases: []
-id: PJIGtwkLmI6E4er0
-packFolder: extrasguilded
 shortcode: vanachofashel
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PJIGtwkLmI6E4er0
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

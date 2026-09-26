@@ -7,18 +7,8 @@ name:
   given: Tarlak
   clan: Arion
   aliases: []
-id: Ga6bDecgEilU0T5q
-packFolder: extrasguilded
 shortcode: tarlakofarion
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Ga6bDecgEilU0T5q
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

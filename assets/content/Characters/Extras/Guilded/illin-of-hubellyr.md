@@ -7,18 +7,8 @@ name:
   given: Illin
   clan: Hubellyr
   aliases: []
-id: DB4uKC31s3hcSbb8
-packFolder: extrasguilded
 shortcode: illinofhubellyr
 type: being
-social:
-  occupation: Timberwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DB4uKC31s3hcSbb8
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

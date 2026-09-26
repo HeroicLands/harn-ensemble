@@ -7,18 +7,8 @@ name:
   given: Urbain
   clan: Fartek
   aliases: []
-id: P3aAZwmUrC18OKRh
-packFolder: extrasnobles
 shortcode: urbainoffartek
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: P3aAZwmUrC18OKRh
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Deni
   clan: Hosath
   aliases: []
-id: 0SzbPTkzRe0cxHHJ
-packFolder: extrasunguilded
 shortcode: deniofhosath
 type: being
-social:
-  occupation: Teamster
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0SzbPTkzRe0cxHHJ
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Arka
   clan: Kramel
   aliases: []
-id: 9rLoUXrpXk4mzT4S
-packFolder: extrasunguilded
 shortcode: arkaofkramel
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: 9rLoUXrpXk4mzT4S
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

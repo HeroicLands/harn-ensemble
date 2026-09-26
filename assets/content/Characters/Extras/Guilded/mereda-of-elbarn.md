@@ -7,18 +7,8 @@ name:
   given: Mereda
   clan: Elbarn
   aliases: []
-id: PgHjZGc57PPG2JCr
-packFolder: extrasguilded
 shortcode: meredaofelbarn
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PgHjZGc57PPG2JCr
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

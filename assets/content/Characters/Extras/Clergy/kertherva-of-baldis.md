@@ -7,19 +7,8 @@ name:
   given: Kertherva
   clan: Baldis
   aliases: []
-id: mExfPN6yMYdFaRNO
-packFolder: extrasclergy
 shortcode: kerthervaofbaldis
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: mExfPN6yMYdFaRNO
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

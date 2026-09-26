@@ -7,18 +7,8 @@ name:
   given: Grulderila
   clan: Smyt
   aliases: []
-id: 1hsjZre2NTtqSeTM
-packFolder: extrasunguilded
 shortcode: grulderilaofsmyt
 type: being
-social:
-  occupation: Herdsman
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1hsjZre2NTtqSeTM
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

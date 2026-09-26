@@ -7,18 +7,8 @@ name:
   given: Halmar
   clan: Ciltex
   aliases: []
-id: eCFmMGW94qOMSPdQ
-packFolder: extrasunguilded
 shortcode: halmarofciltex
 type: being
-social:
-  occupation: Imperial Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eCFmMGW94qOMSPdQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

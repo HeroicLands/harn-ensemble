@@ -7,19 +7,8 @@ name:
   given: Marlyse
   clan: Alwethale
   aliases: []
-id: BQ62VXibfTIXxj5e
-packFolder: extrasclergy
 shortcode: marlyseofalwethale
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: BQ62VXibfTIXxj5e
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

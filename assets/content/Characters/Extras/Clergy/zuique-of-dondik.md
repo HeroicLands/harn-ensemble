@@ -7,19 +7,8 @@ name:
   given: Zuique
   clan: Dondik
   aliases: []
-id: ujAD4PoKU7UbyDF7
-packFolder: extrasclergy
 shortcode: zuiqueofdondik
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: ujAD4PoKU7UbyDF7
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

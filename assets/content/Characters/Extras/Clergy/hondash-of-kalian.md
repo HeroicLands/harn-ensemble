@@ -7,19 +7,8 @@ name:
   given: Hondash
   clan: Kalian
   aliases: []
-id: PCW0yun95NZDArmy
-packFolder: extrasclergy
 shortcode: hondashofkalian
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: PCW0yun95NZDArmy
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

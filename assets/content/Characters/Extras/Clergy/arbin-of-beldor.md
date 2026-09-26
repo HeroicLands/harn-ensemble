@@ -7,19 +7,8 @@ name:
   given: Arbin
   clan: Beldor
   aliases: []
-id: XP8hcM9fA2QSSCHT
-packFolder: extrasclergy
 shortcode: arbinofbeldor
 type: being
-social:
-  occupation: Cleric/Halea
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: XP8hcM9fA2QSSCHT
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

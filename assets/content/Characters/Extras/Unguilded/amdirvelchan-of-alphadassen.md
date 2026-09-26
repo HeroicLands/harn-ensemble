@@ -7,18 +7,8 @@ name:
   given: Amdirvelchan
   clan: Alphadassen
   aliases: []
-id: DHoiMG9M9sSeXc8A
-packFolder: extrasunguilded
 shortcode: amdirvelchanofalphadassen
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DHoiMG9M9sSeXc8A
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

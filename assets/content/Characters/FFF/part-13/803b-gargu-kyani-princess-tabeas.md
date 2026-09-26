@@ -7,18 +7,8 @@ name:
   given: Tabeas
   clan: ""
   aliases: []
-id: KBHuaBINAwJLOyIT
-packFolder: fffnonhumans
 shortcode: tabeas
 type: being
-social:
-  occupation: Princess
-  class: princess
-  society: gargun (kyani)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff803bhead
   tokenIcon: fff803btok
@@ -36,6 +26,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KBHuaBINAwJLOyIT
+  packFolder: fffnonhumans
+  social:
+    occupation: Princess
+    class: princess
+    society: gargun (kyani)
+    organizations: []
 hm3:
   type: character
   attributes:

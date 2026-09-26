@@ -7,18 +7,8 @@ name:
   given: Kes
   clan: Haith
   aliases: []
-id: shcUZ4OvFwtaCPHN
-packFolder: extrasguilded
 shortcode: kesofhaith
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: shcUZ4OvFwtaCPHN
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

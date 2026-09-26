@@ -7,18 +7,8 @@ name:
   given: Haril
   clan: Stuk
   aliases: []
-id: oifl6WVaCz3IxHaf
-packFolder: extrasunguilded
 shortcode: harilofstuk
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oifl6WVaCz3IxHaf
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

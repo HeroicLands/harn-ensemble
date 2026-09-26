@@ -7,18 +7,8 @@ name:
   given: Gruldel
   clan: Ibin
   aliases: []
-id: V9VXsbH6TY5Hd8Wd
-packFolder: extrasguilded
 shortcode: gruldelofibin
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: V9VXsbH6TY5Hd8Wd
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Rayald
   clan: Cotrael
   aliases: []
-id: CKvwdB1vq5rOrGta
-packFolder: fffclergy
 shortcode: rayaldcotrael
 type: being
-social:
-  occupation: Laranian Priest
-  class: noble
-  society: imperial
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff6041tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: CKvwdB1vq5rOrGta
+  packFolder: fffclergy
+  social:
+    occupation: Laranian Priest
+    class: noble
+    society: imperial
+    organizations: []
 hm3:
   type: character
   attributes:

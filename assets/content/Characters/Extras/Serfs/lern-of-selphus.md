@@ -7,18 +7,8 @@ name:
   given: Lern
   clan: Selphus
   aliases: []
-id: Q6uN822qUUAzNP2F
-packFolder: extrasserfs
 shortcode: lernofselphus
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Q6uN822qUUAzNP2F
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

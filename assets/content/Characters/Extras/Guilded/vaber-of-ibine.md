@@ -7,18 +7,8 @@ name:
   given: Vaber
   clan: Ibine
   aliases: []
-id: c47SeD6wtrRJNj3P
-packFolder: extrasguilded
 shortcode: vaberofibine
 type: being
-social:
-  occupation: Apothecary
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: c47SeD6wtrRJNj3P
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

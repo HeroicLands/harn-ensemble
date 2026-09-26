@@ -7,18 +7,8 @@ name:
   given: Tabifa
   clan: Saldir
   aliases: []
-id: 76sXJKzuZu6wSP2a
-packFolder: extrasguilded
 shortcode: tabifaofsaldir
 type: being
-social:
-  occupation: Pilot
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 76sXJKzuZu6wSP2a
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

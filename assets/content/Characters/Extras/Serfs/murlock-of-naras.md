@@ -7,18 +7,8 @@ name:
   given: Murlock
   clan: Naras
   aliases: []
-id: ldadZoZ3Oh8LreHX
-packFolder: extrasserfs
 shortcode: murlockofnaras
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ldadZoZ3Oh8LreHX
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

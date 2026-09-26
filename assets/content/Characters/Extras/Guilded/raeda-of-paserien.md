@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Paserien
   aliases: []
-id: cBsjJwJ8oSegsTOL
-packFolder: extrasguilded
 shortcode: raedaofpaserien
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: cBsjJwJ8oSegsTOL
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

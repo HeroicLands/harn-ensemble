@@ -7,18 +7,8 @@ name:
   given: Myrelyn
   clan: Qatorzin
   aliases: []
-id: bSVUg0i7ZcTMFWiu
-packFolder: extrasnobles
 shortcode: myrelynofqatorzin
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bSVUg0i7ZcTMFWiu
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,20 +7,8 @@ name:
   given: Wyrin
   clan: Varross
   aliases: []
-id: P3R0iAgl7VVSTJzh
-packFolder: fffmilitary
 shortcode: wyrinofvarross
 type: being
-social:
-  occupation: Yeoman (LB)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
-    - sarajin
 data:
   icon: fff1275tok
   templatePriority: 1
@@ -39,6 +27,18 @@ data:
     extra_features:
       - Moustache
       - beard
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+      - sarajin
+  id: P3R0iAgl7VVSTJzh
+  packFolder: fffmilitary
+  social:
+    occupation: Yeoman (LB)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Merelyn
   clan: Dythias
   aliases: []
-id: i9AtrTBRjsDCWnxE
-packFolder: extrasguilded
 shortcode: merelynofdythias
 type: being
-social:
-  occupation: Alchemist
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: i9AtrTBRjsDCWnxE
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

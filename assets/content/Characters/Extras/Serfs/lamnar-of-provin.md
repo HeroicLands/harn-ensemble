@@ -7,18 +7,8 @@ name:
   given: Lamnar
   clan: Provin
   aliases: []
-id: 5SUSvrH7D7Cy4Omc
-packFolder: extrasserfs
 shortcode: lamnarofprovin
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5SUSvrH7D7Cy4Omc
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

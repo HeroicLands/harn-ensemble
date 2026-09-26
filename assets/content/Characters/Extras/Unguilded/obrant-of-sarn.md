@@ -7,18 +7,8 @@ name:
   given: Obrant
   clan: Sarn
   aliases: []
-id: BHVvbOzw5GAJTRq5
-packFolder: extrasunguilded
 shortcode: obrantofsarn
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BHVvbOzw5GAJTRq5
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

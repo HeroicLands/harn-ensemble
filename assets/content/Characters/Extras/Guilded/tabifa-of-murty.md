@@ -7,18 +7,8 @@ name:
   given: Tabifa
   clan: Murty
   aliases: []
-id: M31UzTobA886sM5v
-packFolder: extrasguilded
 shortcode: tabifaofmurty
 type: being
-social:
-  occupation: Thespian
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: M31UzTobA886sM5v
+  packFolder: extrasguilded
+  social:
+    occupation: Thespian
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Shotro
   clan: Gwen
   aliases: []
-id: mQWtjLQmMDILSGzM
-packFolder: extrasguilded
 shortcode: shotroofgwen
 type: being
-social:
-  occupation: Lexigrapher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mQWtjLQmMDILSGzM
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

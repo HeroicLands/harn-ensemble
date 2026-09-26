@@ -7,18 +7,8 @@ name:
   given: Poldoel
   clan: Homeleris
   aliases: []
-id: 5YzFISuAqM347y29
-packFolder: extrasunguilded
 shortcode: poldoelofhomeleris
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5YzFISuAqM347y29
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

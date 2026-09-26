@@ -7,18 +7,8 @@ name:
   given: Ardeth
   clan: Quardan
   aliases: []
-id: NsyFif5mRxv0OxTh
-packFolder: extrasguilded
 shortcode: ardethofquardan
 type: being
-social:
-  occupation: Pilot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NsyFif5mRxv0OxTh
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

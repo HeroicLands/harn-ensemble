@@ -7,19 +7,8 @@ name:
   given: Merery
   clan: Siven
   aliases: []
-id: btJJeUNBRIpGTS02
-packFolder: extrasclergy
 shortcode: mereryofsiven
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: btJJeUNBRIpGTS02
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

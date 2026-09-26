@@ -7,19 +7,8 @@ name:
   given: Clavro
   clan: Rabeta
   aliases: []
-id: j4ByXiX1Y6CNU2Bg
-packFolder: extrasclergy
 shortcode: clavroofrabeta
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: j4ByXiX1Y6CNU2Bg
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

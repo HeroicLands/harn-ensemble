@@ -7,19 +7,8 @@ name:
   given: Marlyn
   clan: Tyne
   aliases: []
-id: 6aFAjW9NHXMcKepf
-packFolder: fffunguilded
 shortcode: marlynoftyne
 type: being
-social:
-  occupation: Prostitute
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4111tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: plain
     extra_features:
       - Birthmark on right hand
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: 6aFAjW9NHXMcKepf
+  packFolder: fffunguilded
+  social:
+    occupation: Prostitute
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

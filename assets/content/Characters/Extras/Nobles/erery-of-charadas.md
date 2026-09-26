@@ -7,18 +7,8 @@ name:
   given: Erery
   clan: Charadas
   aliases: []
-id: 7Z900tnxiMe6bcS8
-packFolder: extrasnobles
 shortcode: ereryofcharadas
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7Z900tnxiMe6bcS8
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

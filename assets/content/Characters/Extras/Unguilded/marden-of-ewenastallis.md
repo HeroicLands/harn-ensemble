@@ -7,18 +7,8 @@ name:
   given: Marden
   clan: Ewenastallis
   aliases: []
-id: OccPtxCCA6umRX7c
-packFolder: extrasunguilded
 shortcode: mardenofewenastallis
 type: being
-social:
-  occupation: Hunter/Trapper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: OccPtxCCA6umRX7c
+  packFolder: extrasunguilded
+  social:
+    occupation: Hunter/Trapper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

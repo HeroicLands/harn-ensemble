@@ -7,18 +7,8 @@ name:
   given: Zuique
   clan: Wethale
   aliases: []
-id: HK3Fytl3kpJ1sJBL
-packFolder: extrasunguilded
 shortcode: zuiqueofwethale
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HK3Fytl3kpJ1sJBL
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

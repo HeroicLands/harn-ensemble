@@ -7,18 +7,8 @@ name:
   given: Hennigarasha
   clan: Elwethen
   aliases: []
-id: QaSvN0xSR4HPHXC9
-packFolder: extrasguilded
 shortcode: hennigarashaofelwethen
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: QaSvN0xSR4HPHXC9
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

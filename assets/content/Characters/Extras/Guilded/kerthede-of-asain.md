@@ -7,18 +7,8 @@ name:
   given: Kerthede
   clan: Asain
   aliases: []
-id: kGYk4hQarIqXm5J0
-packFolder: extrasguilded
 shortcode: kerthedeofasain
 type: being
-social:
-  occupation: Shipwright
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kGYk4hQarIqXm5J0
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

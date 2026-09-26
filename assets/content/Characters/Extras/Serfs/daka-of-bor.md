@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Bor
   aliases: []
-id: AanuATq6CGNq4LVA
-packFolder: extrasserfs
 shortcode: dakaofbor
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AanuATq6CGNq4LVA
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

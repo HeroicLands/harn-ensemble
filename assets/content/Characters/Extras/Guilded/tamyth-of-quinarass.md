@@ -7,18 +7,8 @@ name:
   given: Tamyth
   clan: Quinarass
   aliases: []
-id: Fcg4Hg9k1rWX7zEw
-packFolder: extrasguilded
 shortcode: tamythofquinarass
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Fcg4Hg9k1rWX7zEw
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

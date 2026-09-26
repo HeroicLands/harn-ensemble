@@ -7,18 +7,8 @@ name:
   given: Saryse
   clan: Avordas
   aliases: []
-id: YUfgutLpwWAvyj0K
-packFolder: extrasunguilded
 shortcode: saryseofavordas
 type: being
-social:
-  occupation: Feudal Militia
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YUfgutLpwWAvyj0K
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Militia
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

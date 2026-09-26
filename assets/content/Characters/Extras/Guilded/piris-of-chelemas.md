@@ -7,18 +7,8 @@ name:
   given: Piris
   clan: Chelemas
   aliases: []
-id: KQGqB0XcZkfT5Wx3
-packFolder: extrasguilded
 shortcode: pirisofchelemas
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KQGqB0XcZkfT5Wx3
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

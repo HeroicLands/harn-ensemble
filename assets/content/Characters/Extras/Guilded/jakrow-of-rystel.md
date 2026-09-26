@@ -7,18 +7,8 @@ name:
   given: Jakrow
   clan: Rystel
   aliases: []
-id: M6TXzPNSUWQZdMeu
-packFolder: extrasguilded
 shortcode: jakrowofrystel
 type: being
-social:
-  occupation: Perfumer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: M6TXzPNSUWQZdMeu
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

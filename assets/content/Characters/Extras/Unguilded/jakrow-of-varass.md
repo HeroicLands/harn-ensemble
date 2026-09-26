@@ -7,18 +7,8 @@ name:
   given: Jakrow
   clan: Varass
   aliases: []
-id: yyzKNKu9r24seoQB
-packFolder: extrasunguilded
 shortcode: jakrowofvarass
 type: being
-social:
-  occupation: Thatcher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yyzKNKu9r24seoQB
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

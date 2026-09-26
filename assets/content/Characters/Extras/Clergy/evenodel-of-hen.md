@@ -7,19 +7,8 @@ name:
   given: Evenodel
   clan: Hen
   aliases: []
-id: KAIhwmbkqoNbolcI
-packFolder: extrasclergy
 shortcode: evenodelofhen
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: KAIhwmbkqoNbolcI
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

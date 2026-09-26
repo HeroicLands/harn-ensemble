@@ -7,18 +7,8 @@ name:
   given: Parmen
   clan: Dulkyia
   aliases: []
-id: sjZOtY3W15kwzpJR
-packFolder: extrasguilded
 shortcode: parmenofdulkyia
 type: being
-social:
-  occupation: Metalsmith
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sjZOtY3W15kwzpJR
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

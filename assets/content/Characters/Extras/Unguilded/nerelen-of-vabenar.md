@@ -7,18 +7,8 @@ name:
   given: Nerelen
   clan: Vabenar
   aliases: []
-id: nRV1ywajod6JBs0o
-packFolder: extrasunguilded
 shortcode: nerelenofvabenar
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nRV1ywajod6JBs0o
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

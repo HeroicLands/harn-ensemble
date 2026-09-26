@@ -7,19 +7,8 @@ name:
   given: Tokis
   clan: Valgerdsson
   aliases: []
-id: sthqPBiIzMN0umog
-packFolder: fffmilitary
 shortcode: tokisvalgerdsson
 type: being
-social:
-  occupation: Clansman (UF)
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff1242tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: sthqPBiIzMN0umog
+  packFolder: fffmilitary
+  social:
+    occupation: Clansman (UF)
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

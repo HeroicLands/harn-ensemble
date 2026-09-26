@@ -7,18 +7,8 @@ name:
   given: Erech
   clan: Ikswic
   aliases: []
-id: xyUfdjf8BwDZgpS7
-packFolder: extrasnobles
 shortcode: erechofikswic
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xyUfdjf8BwDZgpS7
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

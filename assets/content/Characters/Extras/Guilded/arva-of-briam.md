@@ -7,18 +7,8 @@ name:
   given: Arva
   clan: Briam
   aliases: []
-id: qOGBR8EJHJPI1W2k
-packFolder: extrasguilded
 shortcode: arvaofbriam
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qOGBR8EJHJPI1W2k
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

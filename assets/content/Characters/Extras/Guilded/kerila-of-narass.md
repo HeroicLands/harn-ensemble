@@ -7,18 +7,8 @@ name:
   given: Kerila
   clan: Narass
   aliases: []
-id: l14M8vLnalnzuLRV
-packFolder: extrasguilded
 shortcode: kerilaofnarass
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: l14M8vLnalnzuLRV
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

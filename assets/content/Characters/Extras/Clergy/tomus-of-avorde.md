@@ -7,19 +7,8 @@ name:
   given: Tomus
   clan: Avorde
   aliases: []
-id: IKKhHqpLSymGYJSY
-packFolder: extrasclergy
 shortcode: tomusofavorde
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: IKKhHqpLSymGYJSY
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

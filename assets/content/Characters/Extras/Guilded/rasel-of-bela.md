@@ -7,18 +7,8 @@ name:
   given: Rasel
   clan: Bela
   aliases: []
-id: 6MH8cNwZli4LGWix
-packFolder: extrasguilded
 shortcode: raselofbela
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6MH8cNwZli4LGWix
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

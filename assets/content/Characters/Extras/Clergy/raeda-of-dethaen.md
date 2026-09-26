@@ -7,19 +7,8 @@ name:
   given: Raeda
   clan: Dethaen
   aliases: []
-id: df04DNrQMnMQ7zHR
-packFolder: extrasclergy
 shortcode: raedaofdethaen
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: df04DNrQMnMQ7zHR
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

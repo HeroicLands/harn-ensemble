@@ -7,19 +7,8 @@ name:
   given: Hadain
   clan: Whyce
   aliases: []
-id: eCvAaFAA0AQcUMD8
-packFolder: extrasclergy
 shortcode: hadainofwhyce
 type: being
-social:
-  occupation: Cleric/Siem
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: eCvAaFAA0AQcUMD8
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

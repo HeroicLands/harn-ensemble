@@ -7,18 +7,8 @@ name:
   given: Kaladez
   clan: Rik
   aliases: []
-id: djSaUuFRrjSdY5mf
-packFolder: extrasguilded
 shortcode: kaladezofrik
 type: being
-social:
-  occupation: Potter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: djSaUuFRrjSdY5mf
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

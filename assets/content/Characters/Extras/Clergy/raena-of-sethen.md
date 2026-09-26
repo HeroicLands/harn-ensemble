@@ -7,19 +7,8 @@ name:
   given: Raena
   clan: Sethen
   aliases: []
-id: Q0RPb6SlAX5sD5JB
-packFolder: extrasclergy
 shortcode: raenaofsethen
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: Q0RPb6SlAX5sD5JB
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

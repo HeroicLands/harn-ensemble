@@ -7,18 +7,8 @@ name:
   given: Nathbar
   clan: Paserien
   aliases: []
-id: nIt4jVK6X5UUc1Oy
-packFolder: extrasunguilded
 shortcode: nathbarofpaserien
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nIt4jVK6X5UUc1Oy
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

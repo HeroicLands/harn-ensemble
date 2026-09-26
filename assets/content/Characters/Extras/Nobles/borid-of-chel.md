@@ -7,18 +7,8 @@ name:
   given: Borid
   clan: Chel
   aliases: []
-id: YKwrld6QM7Jjie8P
-packFolder: extrasnobles
 shortcode: boridofchel
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YKwrld6QM7Jjie8P
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

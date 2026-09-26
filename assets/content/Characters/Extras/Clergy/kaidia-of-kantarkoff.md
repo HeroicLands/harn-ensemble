@@ -7,19 +7,8 @@ name:
   given: Kaidia
   clan: Kantarkoff
   aliases: []
-id: oh38NmgEWgWYSOjZ
-packFolder: extrasclergy
 shortcode: kaidiaofkantarkoff
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: oh38NmgEWgWYSOjZ
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

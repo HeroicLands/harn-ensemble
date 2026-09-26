@@ -7,18 +7,8 @@ name:
   given: Andy
   clan: Vanthes
   aliases: []
-id: 4oauX3z8PGsgdeNv
-packFolder: extrasunguilded
 shortcode: andyofvanthes
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4oauX3z8PGsgdeNv
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

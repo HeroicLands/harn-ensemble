@@ -7,18 +7,8 @@ name:
   given: Shaelderien
   clan: Bellis
   aliases: []
-id: 94g9lOHQKrSYFkPs
-packFolder: extrasnobles
 shortcode: shaelderienofbellis
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 94g9lOHQKrSYFkPs
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

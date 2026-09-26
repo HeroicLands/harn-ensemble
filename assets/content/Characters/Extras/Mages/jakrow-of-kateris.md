@@ -7,18 +7,8 @@ name:
   given: Jakrow
   clan: Kateris
   aliases: []
-id: 4p8xmgxfa6EDwJQr
-packFolder: extrasmages
 shortcode: jakrowofkateris
 type: being
-social:
-  occupation: "Shek-Pvar/Jmorvi****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4p8xmgxfa6EDwJQr
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Jmorvi****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

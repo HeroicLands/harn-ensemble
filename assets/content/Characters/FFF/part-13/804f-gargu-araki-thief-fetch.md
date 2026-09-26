@@ -7,18 +7,8 @@ name:
   given: Fetch
   clan: ""
   aliases: []
-id: EJWcOWDJi0AriwyB
-packFolder: fffnonhumans
 shortcode: fetch
 type: being
-social:
-  occupation: Thief
-  class: warrior
-  society: gargun (araki)
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff804fhead
   tokenIcon: fff804ftok
@@ -35,6 +25,16 @@ data:
     skin_color: pallid
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EJWcOWDJi0AriwyB
+  packFolder: fffnonhumans
+  social:
+    occupation: Thief
+    class: warrior
+    society: gargun (araki)
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Cheleshref
   aliases: []
-id: nAUvDtscaEVJLTSe
-packFolder: extrasguilded
 shortcode: zornaofcheleshref
 type: being
-social:
-  occupation: Litigant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nAUvDtscaEVJLTSe
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

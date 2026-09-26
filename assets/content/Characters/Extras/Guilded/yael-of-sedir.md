@@ -7,18 +7,8 @@ name:
   given: Yael
   clan: Sedir
   aliases: []
-id: I97m8OB0Ip8DCFdH
-packFolder: extrasguilded
 shortcode: yaelofsedir
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: I97m8OB0Ip8DCFdH
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

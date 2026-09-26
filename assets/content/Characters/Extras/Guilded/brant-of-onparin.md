@@ -7,18 +7,8 @@ name:
   given: Brant
   clan: Onparin
   aliases: []
-id: TcTxCHk0FIWmIdM9
-packFolder: extrasguilded
 shortcode: brantofonparin
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: TcTxCHk0FIWmIdM9
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

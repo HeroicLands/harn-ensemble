@@ -7,18 +7,8 @@ name:
   given: Herild
   clan: Fraul
   aliases: []
-id: gWTGxx9dEHVuqsfW
-packFolder: extrasguilded
 shortcode: herildoffraul
 type: being
-social:
-  occupation: Lexigrapher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gWTGxx9dEHVuqsfW
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

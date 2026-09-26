@@ -7,18 +7,8 @@ name:
   given: Charallax
   clan: Lundondel
   aliases: []
-id: uMSPAhz9SL6YJ3kw
-packFolder: extrasguards
 shortcode: captaincharallaxoflundondel
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uMSPAhz9SL6YJ3kw
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

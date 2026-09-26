@@ -7,18 +7,8 @@ name:
   given: Rikarpan
   clan: Yalesh
   aliases: []
-id: 1TD3BBljbZ0yhwR2
-packFolder: extrasguilded
 shortcode: rikarpanofyalesh
 type: being
-social:
-  occupation: Timberwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1TD3BBljbZ0yhwR2
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Sar
   clan: Sarlis
   aliases: []
-id: bEJC47YgbmJL9TsG
-packFolder: extrasunguilded
 shortcode: sarofsarlis
 type: being
-social:
-  occupation: Fisherman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bEJC47YgbmJL9TsG
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

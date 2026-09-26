@@ -7,19 +7,8 @@ name:
   given: Adain
   clan: Whyce
   aliases: []
-id: FlC3o3Vi8UHh03IR
-packFolder: extrasclergy
 shortcode: adainofwhyce
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: FlC3o3Vi8UHh03IR
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

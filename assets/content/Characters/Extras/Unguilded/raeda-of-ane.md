@@ -7,18 +7,8 @@ name:
   given: Raeda
   clan: Ane
   aliases: []
-id: LcxZjCHgcI184pxB
-packFolder: extrasunguilded
 shortcode: raedaofane
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LcxZjCHgcI184pxB
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

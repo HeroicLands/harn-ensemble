@@ -7,18 +7,8 @@ name:
   given: Kistyne
   clan: Gorra
   aliases: []
-id: vfCIuNQQLdnZkKlr
-packFolder: extrasguilded
 shortcode: kistyneofgorra
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vfCIuNQQLdnZkKlr
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

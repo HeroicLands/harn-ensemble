@@ -7,19 +7,8 @@ name:
   given: Sarin
   clan: Whyce
   aliases: []
-id: Sn15Is8R40oLmnnS
-packFolder: extrasclergy
 shortcode: sarinofwhyce
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: Sn15Is8R40oLmnnS
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

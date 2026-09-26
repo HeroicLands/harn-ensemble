@@ -7,18 +7,8 @@ name:
   given: Jasyn
   clan: Vabeta
   aliases: []
-id: SzBOFMxtowM4qOWz
-packFolder: extrasguilded
 shortcode: jasynofvabeta
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SzBOFMxtowM4qOWz
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

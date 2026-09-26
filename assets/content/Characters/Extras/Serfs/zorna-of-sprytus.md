@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Sprytus
   aliases: []
-id: 2kddLTxZKKilxLt3
-packFolder: extrasserfs
 shortcode: zornaofsprytus
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2kddLTxZKKilxLt3
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Tamil
   clan: Kass
   aliases: []
-id: N9vkGu8Yw2lEb6sw
-packFolder: extrasguilded
 shortcode: tamilofkass
 type: being
-social:
-  occupation: Lexigrapher
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: N9vkGu8Yw2lEb6sw
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

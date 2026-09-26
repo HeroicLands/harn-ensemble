@@ -7,18 +7,8 @@ name:
   given: Marlyse
   clan: Tulkair
   aliases: []
-id: i5wcSMBh9jjofkLv
-packFolder: extrasunguilded
 shortcode: marlyseoftulkair
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: i5wcSMBh9jjofkLv
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Gyand
   clan: Narani
   aliases: []
-id: aXIAnxIDdjLWh5kj
-packFolder: extrasguilded
 shortcode: gyandofnarani
 type: being
-social:
-  occupation: Woodcrafter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aXIAnxIDdjLWh5kj
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Gaetane
   clan: Hiltex
   aliases: []
-id: XQlm4TtLQQXdx9dJ
-packFolder: extrasunguilded
 shortcode: gaetaneofhiltex
 type: being
-social:
-  occupation: Beggar
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XQlm4TtLQQXdx9dJ
+  packFolder: extrasunguilded
+  social:
+    occupation: Beggar
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

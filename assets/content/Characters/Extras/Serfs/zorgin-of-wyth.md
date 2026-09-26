@@ -7,18 +7,8 @@ name:
   given: Zorgin
   clan: Wyth
   aliases: []
-id: AHsLQJIIk5tWEqgr
-packFolder: extrasserfs
 shortcode: zorginofwyth
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AHsLQJIIk5tWEqgr
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

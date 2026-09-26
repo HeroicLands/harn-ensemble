@@ -7,18 +7,8 @@ name:
   given: Amathlangrispen
   clan: Careb
   aliases: []
-id: oeWYV7x5RqcLjQYC
-packFolder: extrasunguilded
 shortcode: amathlangrispenofcareb
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oeWYV7x5RqcLjQYC
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

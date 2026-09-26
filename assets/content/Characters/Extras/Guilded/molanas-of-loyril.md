@@ -7,18 +7,8 @@ name:
   given: Molanas
   clan: Loyril
   aliases: []
-id: SpRXFyBjTi48jLs7
-packFolder: extrasguilded
 shortcode: molanasofloyril
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SpRXFyBjTi48jLs7
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

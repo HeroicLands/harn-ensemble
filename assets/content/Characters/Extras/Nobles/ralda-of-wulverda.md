@@ -7,18 +7,8 @@ name:
   given: Ralda
   clan: Wulverda
   aliases: []
-id: I1gECalZDBKpeYfe
-packFolder: extrasnobles
 shortcode: raldaofwulverda
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: I1gECalZDBKpeYfe
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

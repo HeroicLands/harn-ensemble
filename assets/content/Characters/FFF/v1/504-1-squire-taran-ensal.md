@@ -7,18 +7,8 @@ name:
   given: Taran
   clan: Ensal
   aliases: []
-id: SyAnstLAXUJg1mNZ
-packFolder: fffnobles
 shortcode: taranensal
 type: being
-social:
-  occupation: Squire
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   icon: fff5041tok
   templatePriority: 1
@@ -36,6 +26,16 @@ data:
     complexion: average
     extra_features:
       - Freckles
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SyAnstLAXUJg1mNZ
+  packFolder: fffnobles
+  social:
+    occupation: Squire
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Feldarad
   clan: Leredostaldim
   aliases: []
-id: Y3f8yRA7zdh1JsJX
-packFolder: extrasguards
 shortcode: veteranfeldaradofleredostaldim
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Y3f8yRA7zdh1JsJX
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Genor
   clan: Obyne
   aliases: []
-id: woXoUtvSPN7Nh2Ao
-packFolder: extrasunguilded
 shortcode: genorofobyne
 type: being
-social:
-  occupation: Animal Trainer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: woXoUtvSPN7Nh2Ao
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

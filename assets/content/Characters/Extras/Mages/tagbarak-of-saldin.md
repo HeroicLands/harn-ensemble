@@ -7,18 +7,8 @@ name:
   given: Tagbarak
   clan: Saldin
   aliases: []
-id: Z7jkv3fvceHx8Ubl
-packFolder: extrasmages
 shortcode: tagbarakofsaldin
 type: being
-social:
-  occupation: "Shek-Pvar/Peleahn****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Z7jkv3fvceHx8Ubl
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Peleahn****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

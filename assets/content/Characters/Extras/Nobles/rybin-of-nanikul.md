@@ -7,18 +7,8 @@ name:
   given: Rybin
   clan: Nanikul
   aliases: []
-id: JoWFTvXJ8ZvyrYzT
-packFolder: extrasnobles
 shortcode: rybinofnanikul
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JoWFTvXJ8ZvyrYzT
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

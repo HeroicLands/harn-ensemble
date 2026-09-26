@@ -7,18 +7,8 @@ name:
   given: Keldarien
   clan: Dethselwen
   aliases: []
-id: eHYaP5Xh23DqcqWj
-packFolder: extrasunguilded
 shortcode: keldarienofdethselwen
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: eHYaP5Xh23DqcqWj
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

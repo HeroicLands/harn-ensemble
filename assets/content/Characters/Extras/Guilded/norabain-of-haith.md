@@ -7,18 +7,8 @@ name:
   given: Norabain
   clan: Haith
   aliases: []
-id: 7WQrK8WBjTiAWzxZ
-packFolder: extrasguilded
 shortcode: norabainofhaith
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7WQrK8WBjTiAWzxZ
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

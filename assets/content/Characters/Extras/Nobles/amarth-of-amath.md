@@ -7,18 +7,8 @@ name:
   given: Amarth
   clan: Amath
   aliases: []
-id: uXmTNLxIJl4hHt3b
-packFolder: extrasnobles
 shortcode: amarthofamath
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uXmTNLxIJl4hHt3b
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

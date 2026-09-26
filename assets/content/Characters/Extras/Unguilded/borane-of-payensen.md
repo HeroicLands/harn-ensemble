@@ -7,18 +7,8 @@ name:
   given: Borane
   clan: Payensen
   aliases: []
-id: 7q4ZWoyJS2YVmuz6
-packFolder: extrasunguilded
 shortcode: boraneofpayensen
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7q4ZWoyJS2YVmuz6
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

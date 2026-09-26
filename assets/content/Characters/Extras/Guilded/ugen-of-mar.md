@@ -7,18 +7,8 @@ name:
   given: Ugen
   clan: Mar
   aliases: []
-id: dkyp8W8HvNk6pDMD
-packFolder: extrasguilded
 shortcode: ugenofmar
 type: being
-social:
-  occupation: Glassworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dkyp8W8HvNk6pDMD
+  packFolder: extrasguilded
+  social:
+    occupation: Glassworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Gruldel
   clan: Wytelburitta
   aliases: []
-id: WU2y632668WIQCY9
-packFolder: extrasclergy
 shortcode: gruldelofwytelburitta
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: WU2y632668WIQCY9
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

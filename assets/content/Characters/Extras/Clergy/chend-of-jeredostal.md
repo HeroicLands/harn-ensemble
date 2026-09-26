@@ -7,19 +7,8 @@ name:
   given: Chend
   clan: Jeredostal
   aliases: []
-id: uvdD8Isazk8bBrfs
-packFolder: extrasclergy
 shortcode: chendofjeredostal
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: uvdD8Isazk8bBrfs
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

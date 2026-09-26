@@ -7,19 +7,8 @@ name:
   given: Gweni
   clan: Ael
   aliases: []
-id: xxaYqwYfcibggNan
-packFolder: extrasclergy
 shortcode: gweniofael
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: xxaYqwYfcibggNan
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

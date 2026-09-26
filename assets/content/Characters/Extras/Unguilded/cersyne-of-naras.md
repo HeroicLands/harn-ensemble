@@ -7,18 +7,8 @@ name:
   given: Cersyne
   clan: Naras
   aliases: []
-id: 97MxfuSJbvBkaFMk
-packFolder: extrasunguilded
 shortcode: cersyneofnaras
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 97MxfuSJbvBkaFMk
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

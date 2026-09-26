@@ -7,18 +7,8 @@ name:
   given: Orthin
   clan: Ubern
   aliases: []
-id: bseZwxgM9jCyjpD4
-packFolder: extrasguilded
 shortcode: orthinofubern
 type: being
-social:
-  occupation: Embalmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bseZwxgM9jCyjpD4
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

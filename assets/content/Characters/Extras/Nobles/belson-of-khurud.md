@@ -7,18 +7,8 @@ name:
   given: Belson
   clan: Khurud
   aliases: []
-id: hZOYI5MhO1Ycc18Z
-packFolder: extrasnobles
 shortcode: belsonofkhurud
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hZOYI5MhO1Ycc18Z
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

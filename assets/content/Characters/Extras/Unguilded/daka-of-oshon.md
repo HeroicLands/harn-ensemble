@@ -7,18 +7,8 @@ name:
   given: Daka
   clan: Oshon
   aliases: []
-id: ettqHEILYKt1zxys
-packFolder: extrasunguilded
 shortcode: dakaofoshon
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ettqHEILYKt1zxys
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

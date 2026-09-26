@@ -7,18 +7,8 @@ name:
   given: Vadir
   clan: Arasaner
   aliases: []
-id: deFkCGYRScXZWIcR
-packFolder: extrasnobles
 shortcode: vadirofarasaner
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: deFkCGYRScXZWIcR
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Boser
   clan: Tulkai
   aliases: []
-id: DOyV3EQd9EWV4TfM
-packFolder: extrasguilded
 shortcode: boseroftulkai
 type: being
-social:
-  occupation: Apothecary
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DOyV3EQd9EWV4TfM
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

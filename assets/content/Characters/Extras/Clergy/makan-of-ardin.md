@@ -7,19 +7,8 @@ name:
   given: Makan
   clan: Ardin
   aliases: []
-id: eVWW7mrVM0dtTiVV
-packFolder: extrasclergy
 shortcode: makanofardin
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: eVWW7mrVM0dtTiVV
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

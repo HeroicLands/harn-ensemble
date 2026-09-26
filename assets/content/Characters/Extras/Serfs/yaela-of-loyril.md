@@ -7,18 +7,8 @@ name:
   given: Yaela
   clan: Loyril
   aliases: []
-id: lAC6kZeqkTuguNWs
-packFolder: extrasserfs
 shortcode: yaelaofloyril
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lAC6kZeqkTuguNWs
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

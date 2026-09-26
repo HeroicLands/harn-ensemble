@@ -7,18 +7,8 @@ name:
   given: Maeghel
   clan: Tarkoff
   aliases: []
-id: jZCnPXLZLl2LyCVL
-packFolder: extrasnobles
 shortcode: maegheloftarkoff
 type: being
-social:
-  occupation: Viking Huscarl, Light Horse
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jZCnPXLZLl2LyCVL
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Light Horse
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

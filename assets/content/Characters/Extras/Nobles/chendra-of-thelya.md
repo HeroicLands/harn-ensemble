@@ -7,18 +7,8 @@ name:
   given: Chendra
   clan: Thelya
   aliases: []
-id: jhjzLbjVuQ13ZqvZ
-packFolder: extrasnobles
 shortcode: chendraofthelya
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jhjzLbjVuQ13ZqvZ
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Kesyne
   clan: Elbardas
   aliases: []
-id: sFJHShgSlSvLWmuH
-packFolder: extrasclergy
 shortcode: kesyneofelbardas
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: sFJHShgSlSvLWmuH
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

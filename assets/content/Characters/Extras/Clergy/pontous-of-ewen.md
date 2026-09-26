@@ -7,19 +7,8 @@ name:
   given: Pontous
   clan: Ewen
   aliases: []
-id: FCwPxOTewlLyMd6z
-packFolder: extrasclergy
 shortcode: pontousofewen
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: FCwPxOTewlLyMd6z
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

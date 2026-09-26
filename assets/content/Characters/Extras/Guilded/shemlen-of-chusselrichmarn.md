@@ -7,18 +7,8 @@ name:
   given: Shemlen
   clan: Chusselrichmarn
   aliases: []
-id: hqbIuEgEZls5u4rM
-packFolder: extrasguilded
 shortcode: shemlenofchusselrichmarn
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hqbIuEgEZls5u4rM
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Letos
   clan: Lamrend
   aliases: []
-id: bAMzqD5qntz3i3Em
-packFolder: fffnobles
 shortcode: sirletoslamrend
 type: being
-social:
-  occupation: Patrician Knight
-  class: noble
-  society: imperial
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   icon: fff5081tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Missing a front tooth
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: bAMzqD5qntz3i3Em
+  packFolder: fffnobles
+  social:
+    occupation: Patrician Knight
+    class: noble
+    society: imperial
+    organizations: []
 hm3:
   type: character
   attributes:

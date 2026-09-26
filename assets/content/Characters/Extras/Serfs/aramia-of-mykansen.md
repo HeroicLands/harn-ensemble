@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Mykansen
   aliases: []
-id: x4yvG6N33reexm0E
-packFolder: extrasserfs
 shortcode: aramiaofmykansen
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: x4yvG6N33reexm0E
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

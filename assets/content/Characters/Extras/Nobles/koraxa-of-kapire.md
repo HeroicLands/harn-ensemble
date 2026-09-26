@@ -7,18 +7,8 @@ name:
   given: Koraxa
   clan: Kapire
   aliases: []
-id: ovL2jGyD4OGm9nFX
-packFolder: extrasnobles
 shortcode: koraxaofkapire
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ovL2jGyD4OGm9nFX
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

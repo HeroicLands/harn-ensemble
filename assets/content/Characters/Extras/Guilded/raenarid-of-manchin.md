@@ -7,18 +7,8 @@ name:
   given: Raenarid
   clan: Manchin
   aliases: []
-id: 1BUNo8tsNnY55Kvm
-packFolder: extrasguilded
 shortcode: raenaridofmanchin
 type: being
-social:
-  occupation: Chandler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1BUNo8tsNnY55Kvm
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

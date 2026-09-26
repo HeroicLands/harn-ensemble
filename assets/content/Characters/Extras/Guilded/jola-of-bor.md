@@ -7,18 +7,8 @@ name:
   given: Jola
   clan: Bor
   aliases: []
-id: x6V80AUA54A5Eri4
-packFolder: extrasguilded
 shortcode: jolaofbor
 type: being
-social:
-  occupation: Seaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: x6V80AUA54A5Eri4
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

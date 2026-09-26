@@ -7,18 +7,8 @@ name:
   given: Forena
   clan: Curo
   aliases: []
-id: 8YdFSZKQYXB5tRxC
-packFolder: extrasserfs
 shortcode: forenaofcuro
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8YdFSZKQYXB5tRxC
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

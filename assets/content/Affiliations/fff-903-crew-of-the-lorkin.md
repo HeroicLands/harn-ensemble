@@ -1,6 +1,5 @@
 ---
 tags: []
-id: mdK3o95SY1otZiLK
 type: affiliation
 subType: venture
 shortcode: fffcrewlorkin
@@ -10,6 +9,7 @@ name:
 data:
   icon: null
   templatePriority: null
+  id: mdK3o95SY1otZiLK
 sohl:
   relation: []
 ---

@@ -7,18 +7,8 @@ name:
   given: Ith
   clan: Intrenel
   aliases: []
-id: drjkh4ewHSJmXiuf
-packFolder: extrasunguilded
 shortcode: ithofintrenel
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: drjkh4ewHSJmXiuf
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Dickon
   clan: Ashel
   aliases: []
-id: ryBYaS3NyM6xq4FF
-packFolder: extrasunguilded
 shortcode: dickonofashel
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ryBYaS3NyM6xq4FF
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

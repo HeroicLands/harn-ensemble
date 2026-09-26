@@ -7,18 +7,8 @@ name:
   given: Piria
   clan: Manchin
   aliases: []
-id: uyoxzDzxaJrxbUOA
-packFolder: extrasnobles
 shortcode: piriaofmanchin
 type: being
-social:
-  occupation: Feudal Knight, Heavy
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: uyoxzDzxaJrxbUOA
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Heavy
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

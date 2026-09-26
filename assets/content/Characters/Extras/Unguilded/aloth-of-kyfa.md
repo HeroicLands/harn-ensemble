@@ -7,18 +7,8 @@ name:
   given: Aloth
   clan: Kyfa
   aliases: []
-id: aDNZWCNd3VrkE7Fn
-packFolder: extrasunguilded
 shortcode: alothofkyfa
 type: being
-social:
-  occupation: Cook/Servant
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aDNZWCNd3VrkE7Fn
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

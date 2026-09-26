@@ -7,19 +7,8 @@ name:
   given: Myrelyne
   clan: Mykantar
   aliases: []
-id: LmdAA2iYVTHNc9ul
-packFolder: extrasclergy
 shortcode: myrelyneofmykantar
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: LmdAA2iYVTHNc9ul
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

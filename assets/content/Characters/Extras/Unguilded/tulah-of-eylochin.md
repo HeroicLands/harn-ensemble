@@ -7,18 +7,8 @@ name:
   given: Tulah
   clan: Eylochin
   aliases: []
-id: whzVj3jYBl1W98jU
-packFolder: extrasunguilded
 shortcode: tulahofeylochin
 type: being
-social:
-  occupation: Thatcher
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: whzVj3jYBl1W98jU
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

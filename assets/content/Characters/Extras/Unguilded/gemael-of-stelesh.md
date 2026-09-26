@@ -7,18 +7,8 @@ name:
   given: Gemael
   clan: Stelesh
   aliases: []
-id: f664epQ5OEZb0MLx
-packFolder: extrasunguilded
 shortcode: gemaelofstelesh
 type: being
-social:
-  occupation: Imperial Legionnaire, Shortbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: f664epQ5OEZb0MLx
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Shortbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

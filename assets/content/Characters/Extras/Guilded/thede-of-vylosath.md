@@ -7,18 +7,8 @@ name:
   given: Thede
   clan: Vylosath
   aliases: []
-id: ehdK6UaEDGZmpcER
-packFolder: extrasguilded
 shortcode: thedeofvylosath
 type: being
-social:
-  occupation: Alchemist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ehdK6UaEDGZmpcER
+  packFolder: extrasguilded
+  social:
+    occupation: Alchemist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

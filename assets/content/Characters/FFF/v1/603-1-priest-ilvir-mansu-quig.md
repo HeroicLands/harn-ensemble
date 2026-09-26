@@ -7,19 +7,8 @@ name:
   given: Mansu
   clan: Quig
   aliases: []
-id: a77bAdISmJuD2xNf
-packFolder: fffclergy
 shortcode: mansuquig
 type: being
-social:
-  occupation: Ilviran Priest
-  class: freeman
-  society: jarin
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   icon: fff6031tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Left handed
       - Musty smell
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: a77bAdISmJuD2xNf
+  packFolder: fffclergy
+  social:
+    occupation: Ilviran Priest
+    class: freeman
+    society: jarin
+    organizations: []
 hm3:
   type: character
   attributes:

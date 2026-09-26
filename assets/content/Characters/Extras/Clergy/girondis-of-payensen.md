@@ -7,19 +7,8 @@ name:
   given: Girondis
   clan: Payensen
   aliases: []
-id: rwjD02o0eDuSFRep
-packFolder: extrasclergy
 shortcode: girondisofpayensen
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: rwjD02o0eDuSFRep
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Werelyne
   clan: Stiem
   aliases: []
-id: 9iwqIzO4486qSrzP
-packFolder: extrasserfs
 shortcode: werelyneofstiem
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9iwqIzO4486qSrzP
+  packFolder: extrasserfs
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

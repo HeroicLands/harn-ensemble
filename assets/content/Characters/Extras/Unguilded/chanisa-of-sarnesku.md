@@ -7,18 +7,8 @@ name:
   given: Chanisa
   clan: Sarnesku
   aliases: []
-id: 7b10qiTtD7x7vZ5O
-packFolder: extrasunguilded
 shortcode: chanisaofsarnesku
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7b10qiTtD7x7vZ5O
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

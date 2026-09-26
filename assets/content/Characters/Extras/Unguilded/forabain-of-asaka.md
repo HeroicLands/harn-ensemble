@@ -7,19 +7,8 @@ name:
   given: Forabain
   clan: Asaka
   aliases: []
-id: 7C7vGNn3RPQNyaCd
-packFolder: extrasunguilded
 shortcode: forabainofasaka
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: 7C7vGNn3RPQNyaCd
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

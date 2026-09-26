@@ -7,18 +7,8 @@ name:
   given: Evenodelareen
   clan: Jurbosq
   aliases: []
-id: dKNMSQEoK8llpqyV
-packFolder: extrasunguilded
 shortcode: evenodelareenofjurbosq
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dKNMSQEoK8llpqyV
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

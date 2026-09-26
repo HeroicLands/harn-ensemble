@@ -7,18 +7,8 @@ name:
   given: Eweni
   clan: Tulkne
   aliases: []
-id: ovGjrmsPKDBFIH3s
-packFolder: extrasguilded
 shortcode: ewenioftulkne
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ovGjrmsPKDBFIH3s
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

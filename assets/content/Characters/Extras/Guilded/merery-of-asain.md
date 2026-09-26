@@ -7,18 +7,8 @@ name:
   given: Merery
   clan: Asain
   aliases: []
-id: GM3Jft9OwmH21U6O
-packFolder: extrasguilded
 shortcode: mereryofasain
 type: being
-social:
-  occupation: Pilot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GM3Jft9OwmH21U6O
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

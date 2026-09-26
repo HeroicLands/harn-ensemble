@@ -7,18 +7,8 @@ name:
   given: Habis
   clan: Hudusin
   aliases: []
-id: iAD2jY6TbYqRxd5m
-packFolder: extrasguilded
 shortcode: habisofhudusin
 type: being
-social:
-  occupation: Ostler
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iAD2jY6TbYqRxd5m
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

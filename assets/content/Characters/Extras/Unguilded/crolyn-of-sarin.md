@@ -7,18 +7,8 @@ name:
   given: Crolyn
   clan: Sarin
   aliases: []
-id: XXIKlDL7sNzTmWhm
-packFolder: extrasunguilded
 shortcode: crolynofsarin
 type: being
-social:
-  occupation: Teamster
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XXIKlDL7sNzTmWhm
+  packFolder: extrasunguilded
+  social:
+    occupation: Teamster
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

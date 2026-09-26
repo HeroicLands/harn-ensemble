@@ -7,19 +7,8 @@ name:
   given: Kalina
   clan: Cinbaren
   aliases: []
-id: FsT9uzpy9QiM055Q
-packFolder: extrasclergy
 shortcode: kalinaofcinbaren
 type: being
-social:
-  occupation: Cleric/Larani
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: FsT9uzpy9QiM055Q
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

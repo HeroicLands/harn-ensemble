@@ -7,19 +7,8 @@ name:
   given: Pelis
   clan: Nar
   aliases: []
-id: KlDexgtulsTqpl2e
-packFolder: extrasclergy
 shortcode: pelisofnar
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: KlDexgtulsTqpl2e
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

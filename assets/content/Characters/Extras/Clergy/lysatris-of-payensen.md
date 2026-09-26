@@ -7,19 +7,8 @@ name:
   given: Lysatris
   clan: Payensen
   aliases: []
-id: 1udlLJ7MfNLcu94M
-packFolder: extrasclergy
 shortcode: lysatrisofpayensen
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: 1udlLJ7MfNLcu94M
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

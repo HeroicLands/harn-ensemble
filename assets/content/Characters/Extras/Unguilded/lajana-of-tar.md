@@ -7,18 +7,8 @@ name:
   given: Lajana
   clan: Tar
   aliases: []
-id: kbB4rAo4cuOfHm8s
-packFolder: extrasunguilded
 shortcode: lajanaoftar
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kbB4rAo4cuOfHm8s
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Tamyth
   clan: Goselerdy
   aliases: []
-id: a28Ss29eA5TMVqMq
-packFolder: extrasguilded
 shortcode: tamythofgoselerdy
 type: being
-social:
-  occupation: Jeweler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: a28Ss29eA5TMVqMq
+  packFolder: extrasguilded
+  social:
+    occupation: Jeweler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

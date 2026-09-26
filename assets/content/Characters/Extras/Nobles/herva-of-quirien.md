@@ -7,18 +7,8 @@ name:
   given: Herva
   clan: Quirien
   aliases: []
-id: vy4Rf0Cgzc5rMJuE
-packFolder: extrasnobles
 shortcode: hervaofquirien
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vy4Rf0Cgzc5rMJuE
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

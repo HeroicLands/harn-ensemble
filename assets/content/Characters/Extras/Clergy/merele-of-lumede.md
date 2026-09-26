@@ -7,19 +7,8 @@ name:
   given: Merele
   clan: Lumede
   aliases: []
-id: CkfRC1LslLnAXRAT
-packFolder: extrasclergy
 shortcode: mereleoflumede
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: CkfRC1LslLnAXRAT
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

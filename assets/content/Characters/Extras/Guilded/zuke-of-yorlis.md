@@ -7,18 +7,8 @@ name:
   given: Zuke
   clan: Yorlis
   aliases: []
-id: JJ1EIAfcsNTLzRnJ
-packFolder: extrasguilded
 shortcode: zukeofyorlis
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JJ1EIAfcsNTLzRnJ
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

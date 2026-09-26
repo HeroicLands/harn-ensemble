@@ -7,18 +7,8 @@ name:
   given: Martewn
   clan: Trollaterikarbeda
   aliases: []
-id: 4cmqXZbsHXiAZ6Ub
-packFolder: extrasunguilded
 shortcode: martewnoftrollaterikarbeda
 type: being
-social:
-  occupation: Cook/Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4cmqXZbsHXiAZ6Ub
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

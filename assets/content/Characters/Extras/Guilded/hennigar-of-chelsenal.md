@@ -7,18 +7,8 @@ name:
   given: Hennigar
   clan: Chelsenal
   aliases: []
-id: imdZbwAOWOzwmxIz
-packFolder: extrasguilded
 shortcode: hennigarofchelsenal
 type: being
-social:
-  occupation: Hideworker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: imdZbwAOWOzwmxIz
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

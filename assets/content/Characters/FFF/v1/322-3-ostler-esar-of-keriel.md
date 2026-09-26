@@ -7,19 +7,8 @@ name:
   given: Esar
   clan: Keriel
   aliases: []
-id: dLuiueIsJHF3I55g
-packFolder: fffguilded
 shortcode: esarofkeriel
 type: being
-social:
-  occupation: Apprentice Ostler
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3223tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: plain
     extra_features:
       - Ambidextrous
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: dLuiueIsJHF3I55g
+  packFolder: fffguilded
+  social:
+    occupation: Apprentice Ostler
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

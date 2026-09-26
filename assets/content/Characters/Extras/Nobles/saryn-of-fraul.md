@@ -7,18 +7,8 @@ name:
   given: Saryn
   clan: Fraul
   aliases: []
-id: 0oN5jdBHLmhA9FAk
-packFolder: extrasnobles
 shortcode: sarynoffraul
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0oN5jdBHLmhA9FAk
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

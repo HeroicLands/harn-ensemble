@@ -7,19 +7,8 @@ name:
   given: Koril
   clan: Kalymsen Aemon
   aliases: []
-id: Kt0ilzmS7FHBqOTr
-packFolder: fffguilded
 shortcode: korilkalymsenaemon
 type: being
-social:
-  occupation: Mercantyler
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff3181tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: attractive
     extra_features:
       - Neat beard
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: Kt0ilzmS7FHBqOTr
+  packFolder: fffguilded
+  social:
+    occupation: Mercantyler
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

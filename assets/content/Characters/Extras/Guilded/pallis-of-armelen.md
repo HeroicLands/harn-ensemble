@@ -7,18 +7,8 @@ name:
   given: Pallis
   clan: Armelen
   aliases: []
-id: kPf27E6UQHwRysKS
-packFolder: extrasguilded
 shortcode: pallisofarmelen
 type: being
-social:
-  occupation: Astrologer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: kPf27E6UQHwRysKS
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

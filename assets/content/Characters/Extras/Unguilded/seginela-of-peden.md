@@ -7,18 +7,8 @@ name:
   given: Seginela
   clan: Peden
   aliases: []
-id: 4ZwB2fGPwdoyholo
-packFolder: extrasunguilded
 shortcode: seginelaofpeden
 type: being
-social:
-  occupation: Sage/Tutor
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4ZwB2fGPwdoyholo
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

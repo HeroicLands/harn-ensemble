@@ -7,18 +7,8 @@ name:
   given: Chendra
   clan: Murthalis
   aliases: []
-id: WtXKHpo0KGMDAzT9
-packFolder: extrasnobles
 shortcode: chendraofmurthalis
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WtXKHpo0KGMDAzT9
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

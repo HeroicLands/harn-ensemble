@@ -7,18 +7,8 @@ name:
   given: Danishemlen
   clan: Arad
   aliases: []
-id: MbeEOjeqJ4hTEbD3
-packFolder: extrasnobles
 shortcode: danishemlenofarad
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MbeEOjeqJ4hTEbD3
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

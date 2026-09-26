@@ -7,18 +7,8 @@ name:
   given: Vadir
   clan: Athias
   aliases: []
-id: oIqNlTo4zfeoBERg
-packFolder: extrasguilded
 shortcode: vadirofathias
 type: being
-social:
-  occupation: Ostler
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oIqNlTo4zfeoBERg
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

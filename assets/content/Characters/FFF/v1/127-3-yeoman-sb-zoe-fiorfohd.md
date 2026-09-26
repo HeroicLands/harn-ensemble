@@ -7,19 +7,8 @@ name:
   given: Zoe
   clan: Fiorfohd
   aliases: []
-id: RVwOS24RmbplzdmD
-packFolder: fffmilitary
 shortcode: zoefiorfohd
 type: being
-social:
-  occupation: Yeoman (SB)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   icon: fff1273tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Dark complexion
       - long curly hair
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: RVwOS24RmbplzdmD
+  packFolder: fffmilitary
+  social:
+    occupation: Yeoman (SB)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

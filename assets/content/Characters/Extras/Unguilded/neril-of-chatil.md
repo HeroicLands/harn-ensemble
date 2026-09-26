@@ -7,18 +7,8 @@ name:
   given: Neril
   clan: Chatil
   aliases: []
-id: qA9xOa32yjCKWf5u
-packFolder: extrasunguilded
 shortcode: nerilofchatil
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qA9xOa32yjCKWf5u
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

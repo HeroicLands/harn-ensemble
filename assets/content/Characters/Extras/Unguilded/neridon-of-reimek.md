@@ -7,18 +7,8 @@ name:
   given: Neridon
   clan: Reimek
   aliases: []
-id: T6DmN7zesMk4S468
-packFolder: extrasunguilded
 shortcode: neridonofreimek
 type: being
-social:
-  occupation: Khuzdul Low Guard
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: T6DmN7zesMk4S468
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Low Guard
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

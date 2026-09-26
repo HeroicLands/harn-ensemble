@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Varos
   aliases: []
-id: 8goNSHH8azdnRcZH
-packFolder: extrasguilded
 shortcode: zornaofvaros
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8goNSHH8azdnRcZH
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

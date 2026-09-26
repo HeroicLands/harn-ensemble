@@ -7,18 +7,8 @@ name:
   given: Elarosta
   clan: Podin
   aliases: []
-id: RK1oN9H1eMD7NptU
-packFolder: extrasunguilded
 shortcode: elarostaofpodin
 type: being
-social:
-  occupation: Farmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RK1oN9H1eMD7NptU
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

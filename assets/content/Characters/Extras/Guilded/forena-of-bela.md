@@ -7,18 +7,8 @@ name:
   given: Forena
   clan: Bela
   aliases: []
-id: 821MYeuijvWiOcHK
-packFolder: extrasguilded
 shortcode: forenaofbela
 type: being
-social:
-  occupation: Tentmaker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 821MYeuijvWiOcHK
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

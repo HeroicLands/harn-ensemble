@@ -7,19 +7,8 @@ name:
   given: Vadulf
   clan: Gesper
   aliases: []
-id: bA9xc7ZXJEJdXRha
-packFolder: fffunguilded
 shortcode: vadulfofgesper
 type: being
-social:
-  occupation: Labourer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4101tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: plain
     extra_features:
       - Stooped shoulders
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: bA9xc7ZXJEJdXRha
+  packFolder: fffunguilded
+  social:
+    occupation: Labourer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

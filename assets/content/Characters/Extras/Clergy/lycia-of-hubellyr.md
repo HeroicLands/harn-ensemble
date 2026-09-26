@@ -7,19 +7,8 @@ name:
   given: Lycia
   clan: Hubellyr
   aliases: []
-id: 8jOMig6yvG1sS4Cq
-packFolder: extrasclergy
 shortcode: lyciaofhubellyr
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: 8jOMig6yvG1sS4Cq
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Melas
   clan: Renier
   aliases: []
-id: fmub4svRhzTqgHvi
-packFolder: fffmilitary
 shortcode: melasrenier
 type: being
-social:
-  occupation: Ranger
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   icon: fff1221tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: handsome
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: fmub4svRhzTqgHvi
+  packFolder: fffmilitary
+  social:
+    occupation: Ranger
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

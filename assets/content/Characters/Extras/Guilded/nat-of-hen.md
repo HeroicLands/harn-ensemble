@@ -7,18 +7,8 @@ name:
   given: Nat
   clan: Hen
   aliases: []
-id: hnlIMiuhVaNTFzbC
-packFolder: extrasguilded
 shortcode: natofhen
 type: being
-social:
-  occupation: Mercantyler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hnlIMiuhVaNTFzbC
+  packFolder: extrasguilded
+  social:
+    occupation: Mercantyler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

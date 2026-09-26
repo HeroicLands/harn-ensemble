@@ -7,19 +7,8 @@ name:
   given: Gorsine
   clan: Katerik
   aliases: []
-id: Q1dE2S3nGvuWgW1q
-packFolder: extrasclergy
 shortcode: gorsineofkaterik
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: Q1dE2S3nGvuWgW1q
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Kerthede
   clan: Kass
   aliases: []
-id: 0xhs94jd3fDawHZ9
-packFolder: extrasguilded
 shortcode: kerthedeofkass
 type: being
-social:
-  occupation: Tentmaker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0xhs94jd3fDawHZ9
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,20 +7,8 @@ name:
   given: Digger
   clan: ""
   aliases: []
-id: UChsLQBJKBQG7CpD
-packFolder: fffunguilded
 shortcode: digger
 type: being
-social:
-  occupation: Day labourer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
-    - larani
 data:
   icon: fff4231tok
   templatePriority: 1
@@ -39,6 +27,18 @@ data:
       - Several scars
       - a limp
       - Speaks very slowly
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+      - larani
+  id: UChsLQBJKBQG7CpD
+  packFolder: fffunguilded
+  social:
+    occupation: Day labourer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

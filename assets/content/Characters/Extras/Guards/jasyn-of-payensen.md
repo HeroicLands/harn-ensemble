@@ -7,18 +7,8 @@ name:
   given: Jasyn
   clan: Payensen
   aliases: []
-id: lPIvVXsXgVZJ7Doa
-packFolder: extrasguards
 shortcode: jasynofpayensen
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: lPIvVXsXgVZJ7Doa
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

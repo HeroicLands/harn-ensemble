@@ -7,18 +7,8 @@ name:
   given: Kistyne
   clan: Narasane
   aliases: []
-id: DHyQJQf2mBl1lYHf
-packFolder: extrasguilded
 shortcode: kistyneofnarasane
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DHyQJQf2mBl1lYHf
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

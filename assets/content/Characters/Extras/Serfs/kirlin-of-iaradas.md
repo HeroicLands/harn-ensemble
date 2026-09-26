@@ -7,18 +7,8 @@ name:
   given: Kirlin
   clan: Iaradas
   aliases: []
-id: bvTAh7Uvv4xQfwif
-packFolder: extrasserfs
 shortcode: kirlinofiaradas
 type: being
-social:
-  occupation: Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bvTAh7Uvv4xQfwif
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

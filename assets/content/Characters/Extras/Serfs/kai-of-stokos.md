@@ -7,18 +7,8 @@ name:
   given: Kai
   clan: Stokos
   aliases: []
-id: M7QXKSOFk1UJmnrT
-packFolder: extrasserfs
 shortcode: kaiofstokos
 type: being
-social:
-  occupation: Servant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: M7QXKSOFk1UJmnrT
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

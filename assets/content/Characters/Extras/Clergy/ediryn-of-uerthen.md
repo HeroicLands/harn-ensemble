@@ -7,19 +7,8 @@ name:
   given: Ediryn
   clan: Uerthen
   aliases: []
-id: f3c76brHpNwlnvPL
-packFolder: extrasclergy
 shortcode: edirynofuerthen
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: f3c76brHpNwlnvPL
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

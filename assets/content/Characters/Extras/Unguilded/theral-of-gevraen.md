@@ -7,18 +7,8 @@ name:
   given: Theral
   clan: Gevraen
   aliases: []
-id: ivJX4K2geuxnNl3F
-packFolder: extrasunguilded
 shortcode: theralofgevraen
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ivJX4K2geuxnNl3F
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

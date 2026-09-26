@@ -7,18 +7,8 @@ name:
   given: Bel
   clan: Vylosane
   aliases: []
-id: hCoPLPC9lVqvQ3Re
-packFolder: extrasguards
 shortcode: veteranbelofvylosane
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hCoPLPC9lVqvQ3Re
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

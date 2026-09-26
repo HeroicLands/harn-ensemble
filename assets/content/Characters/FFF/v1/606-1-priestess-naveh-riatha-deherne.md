@@ -7,20 +7,8 @@ name:
   given: Riatha
   clan: Deherne
   aliases: []
-id: 78QD3CkEWFGwFie3
-packFolder: fffclergy
 shortcode: riathadeherne
 type: being
-social:
-  occupation: Navehan Priestess
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
-    - peoni
 data:
   icon: fff6061tok
   templatePriority: 1
@@ -37,6 +25,18 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+      - peoni
+  id: 78QD3CkEWFGwFie3
+  packFolder: fffclergy
+  social:
+    occupation: Navehan Priestess
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

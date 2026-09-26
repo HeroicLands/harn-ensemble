@@ -7,18 +7,8 @@ name:
   given: Gorsine
   clan: Obyne
   aliases: []
-id: Tm8gTnbwQzeiMeNQ
-packFolder: extrasunguilded
 shortcode: gorsineofobyne
 type: being
-social:
-  occupation: Fisherman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Tm8gTnbwQzeiMeNQ
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

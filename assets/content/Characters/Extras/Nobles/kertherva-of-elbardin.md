@@ -7,18 +7,8 @@ name:
   given: Kertherva
   clan: Elbardin
   aliases: []
-id: 9iBGBfEPhU2JGbsR
-packFolder: extrasnobles
 shortcode: kerthervaofelbardin
 type: being
-social:
-  occupation: Viking Huscarl, Medium Foot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9iBGBfEPhU2JGbsR
+  packFolder: extrasnobles
+  social:
+    occupation: Viking Huscarl, Medium Foot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

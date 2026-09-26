@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Hilrich
   aliases: []
-id: iehHuxL21aeTqX4v
-packFolder: extrasserfs
 shortcode: tolmeyofhilrich
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: iehHuxL21aeTqX4v
+  packFolder: extrasserfs
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

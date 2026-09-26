@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Ena
   aliases: []
-id: zUhvYlJ55HSxw0kl
-packFolder: extrasguilded
 shortcode: tolmeyofena
 type: being
-social:
-  occupation: Weaponcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zUhvYlJ55HSxw0kl
+  packFolder: extrasguilded
+  social:
+    occupation: Weaponcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

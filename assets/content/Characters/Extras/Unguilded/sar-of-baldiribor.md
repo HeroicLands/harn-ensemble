@@ -7,18 +7,8 @@ name:
   given: Sar
   clan: Baldiribor
   aliases: []
-id: ZsKMW8VCordGTzKw
-packFolder: extrasunguilded
 shortcode: sarofbaldiribor
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZsKMW8VCordGTzKw
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

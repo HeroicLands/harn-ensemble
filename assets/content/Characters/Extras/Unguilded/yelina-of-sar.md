@@ -7,18 +7,8 @@ name:
   given: Yelina
   clan: Sar
   aliases: []
-id: hbJ8HYGmM0XPXPV1
-packFolder: extrasunguilded
 shortcode: yelinaofsar
 type: being
-social:
-  occupation: Fisherman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: hbJ8HYGmM0XPXPV1
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

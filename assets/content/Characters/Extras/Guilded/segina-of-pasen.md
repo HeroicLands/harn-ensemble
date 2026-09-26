@@ -7,18 +7,8 @@ name:
   given: Segina
   clan: Pasen
   aliases: []
-id: s6abUy7T4yDGKrga
-packFolder: extrasguilded
 shortcode: seginaofpasen
 type: being
-social:
-  occupation: Timberwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: s6abUy7T4yDGKrga
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

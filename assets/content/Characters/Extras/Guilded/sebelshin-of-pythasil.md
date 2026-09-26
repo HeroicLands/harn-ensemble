@@ -7,18 +7,8 @@ name:
   given: Sebelshin
   clan: Pythasil
   aliases: []
-id: FPTXZ0Da2zAE7agf
-packFolder: extrasguilded
 shortcode: sebelshinofpythasil
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FPTXZ0Da2zAE7agf
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

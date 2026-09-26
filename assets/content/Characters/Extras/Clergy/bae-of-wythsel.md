@@ -7,19 +7,8 @@ name:
   given: Bae
   clan: Wythsel
   aliases: []
-id: JfRFkXVlDcjNp1fa
-packFolder: extrasclergy
 shortcode: baeofwythsel
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: JfRFkXVlDcjNp1fa
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

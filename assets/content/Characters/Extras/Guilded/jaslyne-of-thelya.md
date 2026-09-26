@@ -7,18 +7,8 @@ name:
   given: Jaslyne
   clan: Thelya
   aliases: []
-id: Wfgp6rum7sQjgrxF
-packFolder: extrasguilded
 shortcode: jaslyneofthelya
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Wfgp6rum7sQjgrxF
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

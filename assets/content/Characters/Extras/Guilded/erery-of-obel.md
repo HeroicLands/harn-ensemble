@@ -7,18 +7,8 @@ name:
   given: Erery
   clan: Obel
   aliases: []
-id: sEWfx5L12pLYoHf3
-packFolder: extrasguilded
 shortcode: ereryofobel
 type: being
-social:
-  occupation: Embalmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sEWfx5L12pLYoHf3
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

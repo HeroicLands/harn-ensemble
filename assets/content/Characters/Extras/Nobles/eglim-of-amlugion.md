@@ -7,18 +7,8 @@ name:
   given: Eglim
   clan: Amlugion
   aliases: []
-id: RAtXWoiSzDVI0WUA
-packFolder: extrasnobles
 shortcode: eglimofamlugion
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: RAtXWoiSzDVI0WUA
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

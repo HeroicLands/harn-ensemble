@@ -7,19 +7,8 @@ name:
   given: Inara
   clan: Serra
   aliases: []
-id: HWc0GmXxH3cKR2B4
-packFolder: fffguilded
 shortcode: inaraserra
 type: being
-social:
-  occupation: Courtesan
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3071tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: HWc0GmXxH3cKR2B4
+  packFolder: fffguilded
+  social:
+    occupation: Courtesan
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

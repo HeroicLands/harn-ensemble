@@ -7,18 +7,8 @@ name:
   given: Marwin
   clan: Charin
   aliases: []
-id: Wi88DmdIhmn0Tr5H
-packFolder: extrasnobles
 shortcode: marwinofcharin
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Wi88DmdIhmn0Tr5H
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

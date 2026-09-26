@@ -7,18 +7,8 @@ name:
   given: Amartheriphen
   clan: Eith
   aliases: []
-id: oJqhGW42pmmvRIQ0
-packFolder: extrasnobles
 shortcode: amartheriphenofeith
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oJqhGW42pmmvRIQ0
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

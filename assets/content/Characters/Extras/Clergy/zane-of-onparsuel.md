@@ -7,19 +7,8 @@ name:
   given: Zane
   clan: Onparsuel
   aliases: []
-id: RNcanxWZVaTeWmdr
-packFolder: extrasclergy
 shortcode: zaneofonparsuel
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: RNcanxWZVaTeWmdr
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

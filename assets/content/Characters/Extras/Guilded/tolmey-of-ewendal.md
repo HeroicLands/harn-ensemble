@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Ewendal
   aliases: []
-id: 7Ss5sAIShofZGYFZ
-packFolder: extrasguilded
 shortcode: tolmeyofewendal
 type: being
-social:
-  occupation: Seaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7Ss5sAIShofZGYFZ
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Molanas
   clan: Iesh
   aliases: []
-id: 2C7XhUPGznfPBSOn
-packFolder: extrasnobles
 shortcode: molanasofiesh
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 2C7XhUPGznfPBSOn
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

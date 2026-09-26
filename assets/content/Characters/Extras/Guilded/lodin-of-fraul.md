@@ -7,18 +7,8 @@ name:
   given: Lodin
   clan: Fraul
   aliases: []
-id: sf7pR0ua0YPfGN0r
-packFolder: extrasguilded
 shortcode: lodinoffraul
 type: being
-social:
-  occupation: Ostler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sf7pR0ua0YPfGN0r
+  packFolder: extrasguilded
+  social:
+    occupation: Ostler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

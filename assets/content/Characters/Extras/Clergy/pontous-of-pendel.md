@@ -7,19 +7,8 @@ name:
   given: Pontous
   clan: Pendel
   aliases: []
-id: zcvtdFafmnzaFbys
-packFolder: extrasclergy
 shortcode: pontousofpendel
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: zcvtdFafmnzaFbys
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

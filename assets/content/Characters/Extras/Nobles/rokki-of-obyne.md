@@ -7,18 +7,8 @@ name:
   given: Rokki
   clan: Obyne
   aliases: []
-id: jQO1UpZLYjDoLUSO
-packFolder: extrasnobles
 shortcode: rokkiofobyne
 type: being
-social:
-  occupation: Herald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jQO1UpZLYjDoLUSO
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

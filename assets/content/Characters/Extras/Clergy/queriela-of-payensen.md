@@ -7,19 +7,8 @@ name:
   given: Queriela
   clan: Payensen
   aliases: []
-id: vA11ZnNfovyGNtC7
-packFolder: extrasclergy
 shortcode: querielaofpayensen
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: vA11ZnNfovyGNtC7
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

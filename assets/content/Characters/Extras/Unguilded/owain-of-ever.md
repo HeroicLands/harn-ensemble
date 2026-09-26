@@ -7,18 +7,8 @@ name:
   given: Owain
   clan: Ever
   aliases: []
-id: nFjADSQsmRHZ5eo6
-packFolder: extrasunguilded
 shortcode: owainofever
 type: being
-social:
-  occupation: Herdsman
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: nFjADSQsmRHZ5eo6
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

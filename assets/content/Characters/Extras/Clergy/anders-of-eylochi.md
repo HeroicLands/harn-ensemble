@@ -7,19 +7,8 @@ name:
   given: Anders
   clan: Eylochi
   aliases: []
-id: keV3cuAw1MMALalJ
-packFolder: extrasclergy
 shortcode: andersofeylochi
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: keV3cuAw1MMALalJ
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

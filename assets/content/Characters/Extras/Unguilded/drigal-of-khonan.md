@@ -7,18 +7,8 @@ name:
   given: Drigal
   clan: Khonan
   aliases: []
-id: E3LbZbiKpQXhQ1o0
-packFolder: extrasunguilded
 shortcode: drigalofkhonan
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: E3LbZbiKpQXhQ1o0
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

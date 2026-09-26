@@ -7,18 +7,8 @@ name:
   given: Perla
   clan: Everda
   aliases: []
-id: ia5OOEXd67uI3yCx
-packFolder: extrasserfs
 shortcode: perlaofeverda
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ia5OOEXd67uI3yCx
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

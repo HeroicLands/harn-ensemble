@@ -7,18 +7,8 @@ name:
   given: Obrayzelanas
   clan: Hosane
   aliases: []
-id: pP5zwv42yuJs6Un7
-packFolder: extrasguilded
 shortcode: obrayzelanasofhosane
 type: being
-social:
-  occupation: Litigant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pP5zwv42yuJs6Un7
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

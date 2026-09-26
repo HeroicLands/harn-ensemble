@@ -7,18 +7,8 @@ name:
   given: Maeghel
   clan: Cilta
   aliases: []
-id: Qd3S7sSOmBtm7BCS
-packFolder: extrasguilded
 shortcode: maeghelofcilta
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Qd3S7sSOmBtm7BCS
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

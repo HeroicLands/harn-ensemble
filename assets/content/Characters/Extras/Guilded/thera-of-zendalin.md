@@ -7,18 +7,8 @@ name:
   given: Thera
   clan: Zendalin
   aliases: []
-id: AavfJ2WyEocoD2wN
-packFolder: extrasguilded
 shortcode: theraofzendalin
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: AavfJ2WyEocoD2wN
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

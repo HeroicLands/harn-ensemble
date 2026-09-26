@@ -7,19 +7,8 @@ name:
   given: Vanas
   clan: Debern
   aliases: []
-id: lZeyO1tgXJXd3kQI
-packFolder: extrasclergy
 shortcode: vanasofdebern
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: lZeyO1tgXJXd3kQI
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

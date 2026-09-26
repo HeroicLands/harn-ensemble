@@ -7,18 +7,8 @@ name:
   given: Merelen
   clan: Ane
   aliases: []
-id: ewOoSkJbybFcezDD
-packFolder: extrasunguilded
 shortcode: merelenofane
 type: being
-social:
-  occupation: Scribe
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ewOoSkJbybFcezDD
+  packFolder: extrasunguilded
+  social:
+    occupation: Scribe
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Dorane
   clan: Veris
   aliases: []
-id: 9N51idbHVbV0dtCv
-packFolder: extrasunguilded
 shortcode: doraneofveris
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9N51idbHVbV0dtCv
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

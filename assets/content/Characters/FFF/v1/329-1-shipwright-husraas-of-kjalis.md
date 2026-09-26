@@ -7,19 +7,8 @@ name:
   given: Husraas
   clan: Kjalis
   aliases: []
-id: Dgri4vubIECwxvd7
-packFolder: fffguilded
 shortcode: husraasofkjalis
 type: being
-social:
-  occupation: Shipwright
-  class: freeman
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff3291tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Stutterer
       - Moustache
       - beard
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: Dgri4vubIECwxvd7
+  packFolder: fffguilded
+  social:
+    occupation: Shipwright
+    class: freeman
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

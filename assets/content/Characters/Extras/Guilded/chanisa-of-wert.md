@@ -7,18 +7,8 @@ name:
   given: Chanisa
   clan: Wert
   aliases: []
-id: L9QAhSkKwoGQIERt
-packFolder: extrasguilded
 shortcode: chanisaofwert
 type: being
-social:
-  occupation: Pilot
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: L9QAhSkKwoGQIERt
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

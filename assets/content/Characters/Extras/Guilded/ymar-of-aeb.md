@@ -7,18 +7,8 @@ name:
   given: Ymar
   clan: Aeb
   aliases: []
-id: Tj0eHQvbWha6ua2K
-packFolder: extrasguilded
 shortcode: ymarofaeb
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Tj0eHQvbWha6ua2K
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Hermas
   clan: Esarl
   aliases: []
-id: YxdyY4RTfLYzUWqO
-packFolder: extrasguilded
 shortcode: hermasofesarl
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YxdyY4RTfLYzUWqO
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

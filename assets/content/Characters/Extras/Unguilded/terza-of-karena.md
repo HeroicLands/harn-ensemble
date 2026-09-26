@@ -7,18 +7,8 @@ name:
   given: Terza
   clan: Karena
   aliases: []
-id: SaY7rm8xkqzMOd3y
-packFolder: extrasunguilded
 shortcode: terzaofkarena
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SaY7rm8xkqzMOd3y
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

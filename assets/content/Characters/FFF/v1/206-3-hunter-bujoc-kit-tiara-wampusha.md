@@ -7,19 +7,8 @@ name:
   given: Kit'tiara
   clan: Wampusha
   aliases: []
-id: zIkSmQfFvJZkJ652
-packFolder: fffbarbarians
 shortcode: kittiarawampusha
 type: being
-social:
-  occupation: Hunter
-  class: tribesman
-  society: tribal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sha
 data:
   icon: fff2063tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: attractive
     extra_features:
       - Hair is cut short like a man
+  harnworld:
+    realm: ""
+    ritual:
+      - sha
+  id: zIkSmQfFvJZkJ652
+  packFolder: fffbarbarians
+  social:
+    occupation: Hunter
+    class: tribesman
+    society: tribal
+    organizations: []
 hm3:
   type: character
   attributes:

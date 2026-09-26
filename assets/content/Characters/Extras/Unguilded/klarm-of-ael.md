@@ -7,18 +7,8 @@ name:
   given: Klarm
   clan: Ael
   aliases: []
-id: F7KMMyk0N5PBMlq0
-packFolder: extrasunguilded
 shortcode: klarmofael
 type: being
-social:
-  occupation: Laborer/Longshoreman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F7KMMyk0N5PBMlq0
+  packFolder: extrasunguilded
+  social:
+    occupation: Laborer/Longshoreman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

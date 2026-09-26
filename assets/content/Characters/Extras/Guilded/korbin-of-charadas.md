@@ -7,18 +7,8 @@ name:
   given: Korbin
   clan: Charadas
   aliases: []
-id: IpBfN8UWCZkOpQhS
-packFolder: extrasguilded
 shortcode: korbinofcharadas
 type: being
-social:
-  occupation: Apothecary
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: IpBfN8UWCZkOpQhS
+  packFolder: extrasguilded
+  social:
+    occupation: Apothecary
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

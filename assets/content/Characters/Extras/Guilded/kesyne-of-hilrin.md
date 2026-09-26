@@ -7,18 +7,8 @@ name:
   given: Kesyne
   clan: Hilrin
   aliases: []
-id: DiIrz0p5vSjEw8im
-packFolder: extrasguilded
 shortcode: kesyneofhilrin
 type: being
-social:
-  occupation: Miner
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DiIrz0p5vSjEw8im
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

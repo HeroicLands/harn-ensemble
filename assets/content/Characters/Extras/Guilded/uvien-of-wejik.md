@@ -7,18 +7,8 @@ name:
   given: Uvien
   clan: Wejik
   aliases: []
-id: rGv8PHqam2TzWyg8
-packFolder: extrasguilded
 shortcode: uvienofwejik
 type: being
-social:
-  occupation: Perfumer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rGv8PHqam2TzWyg8
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Laseral
   clan: Pendel
   aliases: []
-id: tMxgzG7HNoWmI0Db
-packFolder: extrasnobles
 shortcode: laseralofpendel
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tMxgzG7HNoWmI0Db
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Bae
   clan: Chus
   aliases: []
-id: BvAHTXI86WQoaAeY
-packFolder: extrasunguilded
 shortcode: baeofchus
 type: being
-social:
-  occupation: Cook/Servant
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BvAHTXI86WQoaAeY
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

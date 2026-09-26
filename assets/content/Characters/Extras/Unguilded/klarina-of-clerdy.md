@@ -7,18 +7,8 @@ name:
   given: Klarina
   clan: Clerdy
   aliases: []
-id: Raij3zcZsRwikfRO
-packFolder: extrasunguilded
 shortcode: klarinaofclerdy
 type: being
-social:
-  occupation: Animal Trainer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Raij3zcZsRwikfRO
+  packFolder: extrasunguilded
+  social:
+    occupation: Animal Trainer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

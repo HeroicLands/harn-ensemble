@@ -7,18 +7,8 @@ name:
   given: Zor
   clan: Kansen
   aliases: []
-id: EjwKy9nxGHX4KbJO
-packFolder: extrasguilded
 shortcode: zorofkansen
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EjwKy9nxGHX4KbJO
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

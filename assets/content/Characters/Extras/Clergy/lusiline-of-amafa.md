@@ -7,19 +7,8 @@ name:
   given: Lusiline
   clan: Amafa
   aliases: []
-id: n8dIagkTkjhS9ISP
-packFolder: extrasclergy
 shortcode: lusilineofamafa
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: n8dIagkTkjhS9ISP
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

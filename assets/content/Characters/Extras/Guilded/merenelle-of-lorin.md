@@ -7,18 +7,8 @@ name:
   given: Merenelle
   clan: Lorin
   aliases: []
-id: 8scZJ1cKZE48o45s
-packFolder: extrasguilded
 shortcode: merenelleoflorin
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 8scZJ1cKZE48o45s
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

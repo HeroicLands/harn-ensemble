@@ -7,18 +7,8 @@ name:
   given: Telsa
   clan: Anerien
   aliases: []
-id: EG8mEK0hMePafRw4
-packFolder: extrasunguilded
 shortcode: telsaofanerien
 type: being
-social:
-  occupation: Feudal Yeoman, Longbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EG8mEK0hMePafRw4
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Longbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

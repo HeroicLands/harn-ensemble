@@ -7,18 +7,8 @@ name:
   given: Fryda
   clan: Borskin
   aliases: []
-id: VVuWnk45xHduNrUH
-packFolder: extrasguilded
 shortcode: frydaofborskin
 type: being
-social:
-  occupation: Potter
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VVuWnk45xHduNrUH
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

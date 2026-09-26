@@ -7,18 +7,8 @@ name:
   given: Gweni
   clan: Asain
   aliases: []
-id: f7nvsmHt9NFbJaQc
-packFolder: extrasguilded
 shortcode: gweniofasain
 type: being
-social:
-  occupation: Tentmaker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: pale
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: f7nvsmHt9NFbJaQc
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

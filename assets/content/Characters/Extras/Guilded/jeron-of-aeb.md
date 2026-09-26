@@ -7,18 +7,8 @@ name:
   given: Jeron
   clan: Aeb
   aliases: []
-id: 9ObwVMW5dOj8XWaI
-packFolder: extrasguilded
 shortcode: jeronofaeb
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 9ObwVMW5dOj8XWaI
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

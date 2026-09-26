@@ -7,19 +7,8 @@ name:
   given: Helasar
   clan: Osathalmin
   aliases: []
-id: 2QobfI8V2g0BRzqn
-packFolder: extrasclergy
 shortcode: helasarofosathalmin
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: 2QobfI8V2g0BRzqn
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

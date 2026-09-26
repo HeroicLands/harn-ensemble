@@ -7,18 +7,8 @@ name:
   given: Peser
   clan: Quardas
   aliases: []
-id: oCwWGzx0FEeEgBw1
-packFolder: extrasguilded
 shortcode: peserofquardas
 type: being
-social:
-  occupation: Hideworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oCwWGzx0FEeEgBw1
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Tabifa
   clan: Cadrunen
   aliases: []
-id: rakeV9KscBSZUUFL
-packFolder: extrasguilded
 shortcode: tabifaofcadrunen
 type: being
-social:
-  occupation: Metalsmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rakeV9KscBSZUUFL
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Lorel
   clan: Elwen
   aliases: []
-id: pUzXSdtuSm2B9v1e
-packFolder: extrasunguilded
 shortcode: lorelofelwen
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: pUzXSdtuSm2B9v1e
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

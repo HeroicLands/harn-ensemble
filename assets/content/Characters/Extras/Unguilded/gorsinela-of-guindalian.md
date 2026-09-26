@@ -7,18 +7,8 @@ name:
   given: Gorsinela
   clan: Guindalian
   aliases: []
-id: EuJXK8HgvF0KlcSv
-packFolder: extrasunguilded
 shortcode: gorsinelaofguindalian
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EuJXK8HgvF0KlcSv
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

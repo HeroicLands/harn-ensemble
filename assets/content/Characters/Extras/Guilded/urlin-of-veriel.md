@@ -7,18 +7,8 @@ name:
   given: Urlin
   clan: Veriel
   aliases: []
-id: JtUsw7diExvUN74S
-packFolder: extrasguilded
 shortcode: urlinofveriel
 type: being
-social:
-  occupation: Embalmer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JtUsw7diExvUN74S
+  packFolder: extrasguilded
+  social:
+    occupation: Embalmer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

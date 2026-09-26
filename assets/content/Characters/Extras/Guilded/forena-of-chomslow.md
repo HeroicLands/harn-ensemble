@@ -7,18 +7,8 @@ name:
   given: Forena
   clan: Chomslow
   aliases: []
-id: VCBO8nVkbh399MVC
-packFolder: extrasguilded
 shortcode: forenaofchomslow
 type: being
-social:
-  occupation: Miller/Millwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VCBO8nVkbh399MVC
+  packFolder: extrasguilded
+  social:
+    occupation: Miller/Millwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

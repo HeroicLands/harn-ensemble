@@ -7,19 +7,8 @@ name:
   given: Rakoczi
   clan: Aymar
   aliases: []
-id: FhJJONaF4YMgTlz6
-packFolder: fffguilded
 shortcode: rakocziofaymar
 type: being
-social:
-  occupation: Alchemist
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - saveknor
 data:
   icon: fff3011tok
   templatePriority: 1
@@ -41,6 +30,17 @@ data:
       - mood swings
       - tremors
       - Moustache & beard
+  harnworld:
+    realm: ""
+    ritual:
+      - saveknor
+  id: FhJJONaF4YMgTlz6
+  packFolder: fffguilded
+  social:
+    occupation: Alchemist
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

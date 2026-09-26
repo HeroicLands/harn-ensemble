@@ -7,19 +7,8 @@ name:
   given: Rosak
   clan: Tabral
   aliases: []
-id: 2MVRcbas6uLuGRPc
-packFolder: extrasclergy
 shortcode: rosakoftabral
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: 2MVRcbas6uLuGRPc
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

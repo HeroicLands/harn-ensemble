@@ -7,18 +7,8 @@ name:
   given: Rokki
   clan: Jere
   aliases: []
-id: ZpIexom3uc9SJEIF
-packFolder: extrasserfs
 shortcode: rokkiofjere
 type: being
-social:
-  occupation: Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ZpIexom3uc9SJEIF
+  packFolder: extrasserfs
+  social:
+    occupation: Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

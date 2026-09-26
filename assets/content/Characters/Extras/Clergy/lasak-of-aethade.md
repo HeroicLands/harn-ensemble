@@ -7,19 +7,8 @@ name:
   given: Lasak
   clan: Aethade
   aliases: []
-id: K4Nz8jmfPGsdDiYa
-packFolder: extrasclergy
 shortcode: lasakofaethade
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: K4Nz8jmfPGsdDiYa
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

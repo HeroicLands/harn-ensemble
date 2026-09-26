@@ -7,18 +7,8 @@ name:
   given: Lern
   clan: Tabral
   aliases: []
-id: sYegmJcMsUAAompg
-packFolder: extrasguilded
 shortcode: lernoftabral
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: sYegmJcMsUAAompg
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

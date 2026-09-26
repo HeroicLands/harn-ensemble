@@ -7,19 +7,8 @@ name:
   given: Quelic
   clan: Yorlym
   aliases: []
-id: bquhWkZkFWIYfsSY
-packFolder: extrasclergy
 shortcode: quelicofyorlym
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: bquhWkZkFWIYfsSY
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

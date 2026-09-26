@@ -7,18 +7,8 @@ name:
   given: Habin
   clan: Gevrael
   aliases: []
-id: q3Fs2WCw3qaFc4Sz
-packFolder: extrasguilded
 shortcode: habinofgevrael
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: q3Fs2WCw3qaFc4Sz
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

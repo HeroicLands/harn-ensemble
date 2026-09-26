@@ -7,18 +7,8 @@ name:
   given: Zorna
   clan: Quinaranoal
   aliases: []
-id: 1K39tpfOHWwKp3qk
-packFolder: extrasguilded
 shortcode: zornaofquinaranoal
 type: being
-social:
-  occupation: Courtesan
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1K39tpfOHWwKp3qk
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

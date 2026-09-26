@@ -7,18 +7,8 @@ name:
   given: Jola
   clan: Chatil
   aliases: []
-id: F8U1MeXAXQbSeg61
-packFolder: extrasguilded
 shortcode: jolaofchatil
 type: being
-social:
-  occupation: Chandler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: F8U1MeXAXQbSeg61
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

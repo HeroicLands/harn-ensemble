@@ -7,18 +7,8 @@ name:
   given: Amdirnur
   clan: Amath
   aliases: []
-id: 4rM5t9V3eHQfSTMe
-packFolder: extrasunguilded
 shortcode: amdirnurofamath
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 4rM5t9V3eHQfSTMe
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

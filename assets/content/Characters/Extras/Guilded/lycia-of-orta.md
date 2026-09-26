@@ -7,18 +7,8 @@ name:
   given: Lycia
   clan: Orta
   aliases: []
-id: o9yzG51JNFgnc5aU
-packFolder: extrasguilded
 shortcode: lyciaoforta
 type: being
-social:
-  occupation: Potter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: o9yzG51JNFgnc5aU
+  packFolder: extrasguilded
+  social:
+    occupation: Potter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

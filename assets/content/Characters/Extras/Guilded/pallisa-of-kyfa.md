@@ -7,18 +7,8 @@ name:
   given: Pallisa
   clan: Kyfa
   aliases: []
-id: b6xsgSOQ6TTCD2c0
-packFolder: extrasguilded
 shortcode: pallisaofkyfa
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b6xsgSOQ6TTCD2c0
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

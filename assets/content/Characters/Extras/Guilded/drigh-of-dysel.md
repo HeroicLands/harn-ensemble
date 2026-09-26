@@ -7,18 +7,8 @@ name:
   given: Drigh
   clan: Dysel
   aliases: []
-id: WuGUitidBgg85Qex
-packFolder: extrasguilded
 shortcode: drighofdysel
 type: being
-social:
-  occupation: Metalsmith
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WuGUitidBgg85Qex
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

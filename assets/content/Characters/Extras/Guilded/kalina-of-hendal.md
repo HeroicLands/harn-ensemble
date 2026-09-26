@@ -7,18 +7,8 @@ name:
   given: Kalina
   clan: Hendal
   aliases: []
-id: qW08jv9DcBXKfIWn
-packFolder: extrasguilded
 shortcode: kalinaofhendal
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Hemophilia"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: qW08jv9DcBXKfIWn
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

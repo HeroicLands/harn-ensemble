@@ -7,18 +7,8 @@ name:
   given: Chaklyn
   clan: Oshon
   aliases: []
-id: tRR9Uh1SYdgE0Mai
-packFolder: extrasserfs
 shortcode: chaklynofoshon
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tRR9Uh1SYdgE0Mai
+  packFolder: extrasserfs
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

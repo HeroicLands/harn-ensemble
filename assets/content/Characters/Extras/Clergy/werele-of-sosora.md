@@ -7,19 +7,8 @@ name:
   given: Werele
   clan: Sosora
   aliases: []
-id: TCN3Cya5c3sGBAUT
-packFolder: extrasclergy
 shortcode: wereleofsosora
 type: being
-social:
-  occupation: Cleric/Halea
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: TCN3Cya5c3sGBAUT
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

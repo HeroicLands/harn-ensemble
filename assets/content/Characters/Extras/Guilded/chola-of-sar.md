@@ -7,18 +7,8 @@ name:
   given: Chola
   clan: Sar
   aliases: []
-id: XnsQ9Iwi8x8nKwRG
-packFolder: extrasguilded
 shortcode: cholaofsar
 type: being
-social:
-  occupation: Metalsmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XnsQ9Iwi8x8nKwRG
+  packFolder: extrasguilded
+  social:
+    occupation: Metalsmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

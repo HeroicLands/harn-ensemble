@@ -7,18 +7,8 @@ name:
   given: Sorabain
   clan: Onparsuel
   aliases: []
-id: 1IEsNl5b3eV2eXDu
-packFolder: extrasguilded
 shortcode: sorabainofonparsuel
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1IEsNl5b3eV2eXDu
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

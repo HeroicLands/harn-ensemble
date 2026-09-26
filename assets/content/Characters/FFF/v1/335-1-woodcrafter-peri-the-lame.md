@@ -7,19 +7,8 @@ name:
   given: Peri
   clan: the Lame
   aliases: []
-id: 28qhtq2eCMTuP70o
-packFolder: fffguilded
 shortcode: perithelame
 type: being
-social:
-  occupation: Woodcrafter
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3351tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Lame right foot
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: 28qhtq2eCMTuP70o
+  packFolder: fffguilded
+  social:
+    occupation: Woodcrafter
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

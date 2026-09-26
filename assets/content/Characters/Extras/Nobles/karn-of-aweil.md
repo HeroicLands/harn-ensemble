@@ -7,18 +7,8 @@ name:
   given: Karn
   clan: Aweil
   aliases: []
-id: GiOaeO0UIW5OyLW7
-packFolder: extrasnobles
 shortcode: karnofaweil
 type: being
-social:
-  occupation: Herald
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: GiOaeO0UIW5OyLW7
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

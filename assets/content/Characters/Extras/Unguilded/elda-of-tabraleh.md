@@ -7,18 +7,8 @@ name:
   given: Elda
   clan: Tabraleh
   aliases: []
-id: B1VzhqkEPVZA55k2
-packFolder: extrasunguilded
 shortcode: eldaoftabraleh
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: B1VzhqkEPVZA55k2
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

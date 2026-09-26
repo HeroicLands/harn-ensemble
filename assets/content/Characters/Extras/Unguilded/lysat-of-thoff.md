@@ -7,18 +7,8 @@ name:
   given: Lysat
   clan: Thoff
   aliases: []
-id: p4NtgDtongxF1e7q
-packFolder: extrasunguilded
 shortcode: lysatofthoff
 type: being
-social:
-  occupation: Cook/Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: p4NtgDtongxF1e7q
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Bel
   clan: Arass
   aliases: []
-id: DPJ9LK3XBQE3OfzP
-packFolder: extrasguilded
 shortcode: belofarass
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: DPJ9LK3XBQE3OfzP
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

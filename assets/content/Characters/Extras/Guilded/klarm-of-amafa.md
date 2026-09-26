@@ -7,18 +7,8 @@ name:
   given: Klarm
   clan: Amafa
   aliases: []
-id: bNus6f9rvTE1tBWX
-packFolder: extrasguilded
 shortcode: klarmofamafa
 type: being
-social:
-  occupation: Courtesan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bNus6f9rvTE1tBWX
+  packFolder: extrasguilded
+  social:
+    occupation: Courtesan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

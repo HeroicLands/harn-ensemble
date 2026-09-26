@@ -7,19 +7,8 @@ name:
   given: Derbis
   clan: ""
   aliases: []
-id: J9U0KvmS9VfntWx5
-packFolder: fffnonhumans
 shortcode: derbis
 type: being
-social:
-  occupation: Hunter
-  class: n/a
-  society: ogre
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - urklam
 data:
   icon: fff8991tok
   gender: male
@@ -33,6 +22,17 @@ data:
     skin_color: pale
     complexion: frightening
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - urklam
+  id: J9U0KvmS9VfntWx5
+  packFolder: fffnonhumans
+  social:
+    occupation: Hunter
+    class: n/a
+    society: ogre
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Sat
   clan: Dulkai
   aliases: []
-id: zdfIZnqxTlrwEFJ8
-packFolder: extrasguilded
 shortcode: satofdulkai
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: zdfIZnqxTlrwEFJ8
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

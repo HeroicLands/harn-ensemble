@@ -7,18 +7,8 @@ name:
   given: Jend
   clan: Kapirethan
   aliases: []
-id: izWdUwbbrBQf9Sx8
-packFolder: extrasunguilded
 shortcode: jendofkapirethan
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual: []
+  id: izWdUwbbrBQf9Sx8
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

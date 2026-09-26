@@ -7,18 +7,8 @@ name:
   given: Gwelena
   clan: Daroos
   aliases: []
-id: I5HWSZ6oKPoyl6co
-packFolder: extrasguilded
 shortcode: gwelenaofdaroos
 type: being
-social:
-  occupation: Chandler
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: I5HWSZ6oKPoyl6co
+  packFolder: extrasguilded
+  social:
+    occupation: Chandler
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

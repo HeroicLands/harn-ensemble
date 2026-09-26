@@ -7,18 +7,8 @@ name:
   given: Dorane
   clan: Chuzyn
   aliases: []
-id: bGCXC24RjgkbPVel
-packFolder: extrasnobles
 shortcode: doraneofchuzyn
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: bGCXC24RjgkbPVel
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

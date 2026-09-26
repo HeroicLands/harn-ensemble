@@ -7,18 +7,8 @@ name:
   given: Oeif
   clan: Turamek
   aliases: []
-id: KBDkGiSGpwIjvbm5
-packFolder: extrasunguilded
 shortcode: oeifofturamek
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: KBDkGiSGpwIjvbm5
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

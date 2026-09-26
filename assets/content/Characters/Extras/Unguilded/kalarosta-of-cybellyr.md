@@ -7,18 +7,8 @@ name:
   given: Kalarosta
   clan: Cybellyr
   aliases: []
-id: ycCQjGXHvAikHQJ6
-packFolder: extrasunguilded
 shortcode: kalarostaofcybellyr
 type: being
-social:
-  occupation: Thatcher
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: ycCQjGXHvAikHQJ6
+  packFolder: extrasunguilded
+  social:
+    occupation: Thatcher
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

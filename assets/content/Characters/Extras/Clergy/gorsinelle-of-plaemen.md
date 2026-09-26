@@ -7,19 +7,8 @@ name:
   given: Gorsinelle
   clan: Plaemen
   aliases: []
-id: fMLyHiCHKTXZYOhX
-packFolder: extrasclergy
 shortcode: gorsinelleofplaemen
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: fMLyHiCHKTXZYOhX
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Bae
   clan: Tobilon
   aliases: []
-id: WMaHCKrrDPaRr5Ji
-packFolder: extrasunguilded
 shortcode: baeoftobilon
 type: being
-social:
-  occupation: Herdsman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: WMaHCKrrDPaRr5Ji
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

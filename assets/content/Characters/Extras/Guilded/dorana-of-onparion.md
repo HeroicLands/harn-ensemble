@@ -7,18 +7,8 @@ name:
   given: Dorana
   clan: Onparion
   aliases: []
-id: vBOgdkql1FTO9OIu
-packFolder: extrasguilded
 shortcode: doranaofonparion
 type: being
-social:
-  occupation: Innkeeper
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: vBOgdkql1FTO9OIu
+  packFolder: extrasguilded
+  social:
+    occupation: Innkeeper
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

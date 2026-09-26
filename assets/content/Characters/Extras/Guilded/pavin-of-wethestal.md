@@ -7,18 +7,8 @@ name:
   given: Pavin
   clan: Wethestal
   aliases: []
-id: FIpCkrCfFNKCAySs
-packFolder: extrasguilded
 shortcode: pavinofwethestal
 type: being
-social:
-  occupation: Salter
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: FIpCkrCfFNKCAySs
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

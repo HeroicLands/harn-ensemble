@@ -7,19 +7,8 @@ name:
   given: Gina
   clan: Troch
   aliases: []
-id: wkOM0hmZzQeHElQM
-packFolder: extrasclergy
 shortcode: ginaoftroch
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: wkOM0hmZzQeHElQM
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Giza
   clan: Garin
   aliases: []
-id: X2BvyRKMP4UOk3b4
-packFolder: extrasnobles
 shortcode: gizaofgarin
 type: being
-social:
-  occupation: Khuzdul High Guard
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: X2BvyRKMP4UOk3b4
+  packFolder: extrasnobles
+  social:
+    occupation: Khuzdul High Guard
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

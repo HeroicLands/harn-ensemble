@@ -7,19 +7,8 @@ name:
   given: Romont
   clan: Addy
   aliases: []
-id: I16NOoLaxr3RXM8E
-packFolder: fffunguilded
 shortcode: romontofaddy
 type: being
-social:
-  occupation: Teamster
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4191tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Moustache
       - beard
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: I16NOoLaxr3RXM8E
+  packFolder: fffunguilded
+  social:
+    occupation: Teamster
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

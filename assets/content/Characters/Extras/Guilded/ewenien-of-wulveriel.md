@@ -7,18 +7,8 @@ name:
   given: Ewenien
   clan: Wulveriel
   aliases: []
-id: BGh7HL7ZhOlY6V22
-packFolder: extrasguilded
 shortcode: ewenienofwulveriel
 type: being
-social:
-  occupation: Locksmith
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BGh7HL7ZhOlY6V22
+  packFolder: extrasguilded
+  social:
+    occupation: Locksmith
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

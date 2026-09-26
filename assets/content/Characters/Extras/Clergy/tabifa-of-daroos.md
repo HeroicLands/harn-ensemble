@@ -7,19 +7,8 @@ name:
   given: Tabifa
   clan: Daroos
   aliases: []
-id: j1YKl3IMvLev7QWJ
-packFolder: extrasclergy
 shortcode: tabifaofdaroos
 type: being
-social:
-  occupation: Cleric/Larani
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: j1YKl3IMvLev7QWJ
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Larani
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

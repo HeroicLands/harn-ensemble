@@ -7,18 +7,8 @@ name:
   given: Borana
   clan: Nemirin
   aliases: []
-id: CoP38YVRTLarZHoO
-packFolder: extrasmages
 shortcode: boranaofnemirin
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CoP38YVRTLarZHoO
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

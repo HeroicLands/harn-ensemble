@@ -7,18 +7,8 @@ name:
   given: Ash
   clan: Intrel
   aliases: []
-id: 7YtLU0rWVyAUSAi5
-packFolder: extrasguilded
 shortcode: ashofintrel
 type: being
-social:
-  occupation: Thief
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7YtLU0rWVyAUSAi5
+  packFolder: extrasguilded
+  social:
+    occupation: Thief
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

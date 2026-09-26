@@ -7,19 +7,8 @@ name:
   given: Jakrow
   clan: Stelbaros
   aliases: []
-id: QysLzkQM9bVrGzBv
-packFolder: extrasclergy
 shortcode: jakrowofstelbaros
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: QysLzkQM9bVrGzBv
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

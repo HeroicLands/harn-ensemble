@@ -7,18 +7,8 @@ name:
   given: Keptin
   clan: Krollater
   aliases: []
-id: mAazF8OB1jrJdr9Q
-packFolder: extrasnobles
 shortcode: keptinofkrollater
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: mAazF8OB1jrJdr9Q
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Querielasyne
   clan: Erlym
   aliases: []
-id: 3BHLeCyEwgRiT7Sq
-packFolder: extrasnobles
 shortcode: querielasyneoferlym
 type: being
-social:
-  occupation: Herald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 3BHLeCyEwgRiT7Sq
+  packFolder: extrasnobles
+  social:
+    occupation: Herald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

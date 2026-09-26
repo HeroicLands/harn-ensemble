@@ -7,19 +7,8 @@ name:
   given: Jorak
   clan: Osath
   aliases: []
-id: 38Jqg1t5nNJx00Bl
-packFolder: extrasclergy
 shortcode: jorakofosath
 type: being
-social:
-  occupation: Cleric/Sarajin
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: 38Jqg1t5nNJx00Bl
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Sarajin
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

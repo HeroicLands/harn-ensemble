@@ -7,18 +7,8 @@ name:
   given: Bar
   clan: Lern
   aliases: []
-id: 0nliWW9eZzH2Yaa3
-packFolder: extrasguilded
 shortcode: baroflern
 type: being
-social:
-  occupation: Mason
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 0nliWW9eZzH2Yaa3
+  packFolder: extrasguilded
+  social:
+    occupation: Mason
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

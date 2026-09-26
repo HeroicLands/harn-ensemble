@@ -7,18 +7,8 @@ name:
   given: Gelda
   clan: Kare
   aliases: []
-id: NSamEti7WzI6eoSN
-packFolder: extrasguilded
 shortcode: geldaofkare
 type: being
-social:
-  occupation: Shipwright
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NSamEti7WzI6eoSN
+  packFolder: extrasguilded
+  social:
+    occupation: Shipwright
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

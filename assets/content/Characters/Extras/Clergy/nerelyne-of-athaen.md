@@ -7,19 +7,8 @@ name:
   given: Nerelyne
   clan: Athaen
   aliases: []
-id: XbShm5qYQymcaGS8
-packFolder: extrasclergy
 shortcode: nerelyneofathaen
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: XbShm5qYQymcaGS8
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

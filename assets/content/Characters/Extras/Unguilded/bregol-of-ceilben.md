@@ -7,18 +7,8 @@ name:
   given: Bregol
   clan: Ceilben
   aliases: []
-id: b0pJS460Iwlxy6T1
-packFolder: extrasunguilded
 shortcode: bregolofceilben
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: b0pJS460Iwlxy6T1
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

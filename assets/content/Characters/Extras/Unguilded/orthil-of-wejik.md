@@ -7,18 +7,8 @@ name:
   given: Orthil
   clan: Wejik
   aliases: []
-id: O3hwbpStmWDWwzt4
-packFolder: extrasunguilded
 shortcode: orthilofwejik
 type: being
-social:
-  occupation: Cartographer/Artist
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: O3hwbpStmWDWwzt4
+  packFolder: extrasunguilded
+  social:
+    occupation: Cartographer/Artist
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

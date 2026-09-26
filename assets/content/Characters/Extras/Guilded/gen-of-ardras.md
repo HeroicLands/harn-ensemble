@@ -7,18 +7,8 @@ name:
   given: Gen
   clan: Ardras
   aliases: []
-id: LhNJ1ET5z2DSssdX
-packFolder: extrasguilded
 shortcode: genofardras
 type: being
-social:
-  occupation: Charcoaler
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LhNJ1ET5z2DSssdX
+  packFolder: extrasguilded
+  social:
+    occupation: Charcoaler
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

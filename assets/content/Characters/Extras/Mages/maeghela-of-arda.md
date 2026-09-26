@@ -7,18 +7,8 @@ name:
   given: Maeghela
   clan: Arda
   aliases: []
-id: NccIUnDU4wwhZdyA
-packFolder: extrasmages
 shortcode: maeghelaofarda
 type: being
-social:
-  occupation: "Shek-Pvar/Savorya****"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NccIUnDU4wwhZdyA
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Savorya****"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

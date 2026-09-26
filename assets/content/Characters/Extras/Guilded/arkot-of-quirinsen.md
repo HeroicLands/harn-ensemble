@@ -7,18 +7,8 @@ name:
   given: Arkot
   clan: Quirinsen
   aliases: []
-id: 5OSlAn4X9IWitoae
-packFolder: extrasguilded
 shortcode: arkotofquirinsen
 type: being
-social:
-  occupation: Perfumer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 5OSlAn4X9IWitoae
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Parmen
   clan: Betane
   aliases: []
-id: YnovGMQmg5DpJYBU
-packFolder: extrasguilded
 shortcode: parmenofbetane
 type: being
-social:
-  occupation: Tentmaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: YnovGMQmg5DpJYBU
+  packFolder: extrasguilded
+  social:
+    occupation: Tentmaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

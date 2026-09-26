@@ -7,19 +7,8 @@ name:
   given: Keril
   clan: Wert
   aliases: []
-id: kVtlM7gjETWXQa8h
-packFolder: extrasclergy
 shortcode: kerilofwert
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: kVtlM7gjETWXQa8h
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

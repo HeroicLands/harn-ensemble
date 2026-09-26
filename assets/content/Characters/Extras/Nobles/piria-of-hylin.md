@@ -7,18 +7,8 @@ name:
   given: Piria
   clan: Hylin
   aliases: []
-id: tAEgxE9WPPWFOfUy
-packFolder: extrasnobles
 shortcode: piriaofhylin
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tAEgxE9WPPWFOfUy
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

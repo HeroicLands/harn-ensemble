@@ -7,19 +7,8 @@ name:
   given: Merwas
   clan: Curo
   aliases: []
-id: 1JRa3xYjOLTAzyzv
-packFolder: extrasclergy
 shortcode: merwasofcuro
 type: being
-social:
-  occupation: Cleric/Siem
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: 1JRa3xYjOLTAzyzv
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

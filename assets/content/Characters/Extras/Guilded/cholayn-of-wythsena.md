@@ -7,18 +7,8 @@ name:
   given: Cholayn
   clan: Wythsena
   aliases: []
-id: XaDJ7kJagqheSXIq
-packFolder: extrasguilded
 shortcode: cholaynofwythsena
 type: being
-social:
-  occupation: Seaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XaDJ7kJagqheSXIq
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

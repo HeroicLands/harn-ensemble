@@ -7,18 +7,8 @@ name:
   given: Ron
   clan: Gyll
   aliases: []
-id: yXMMDvoWtObNdaLu
-packFolder: extrasunguilded
 shortcode: ronofgyll
 type: being
-social:
-  occupation: Fisherman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yXMMDvoWtObNdaLu
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

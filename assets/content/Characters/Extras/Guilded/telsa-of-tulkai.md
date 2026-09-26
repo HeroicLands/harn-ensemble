@@ -7,18 +7,8 @@ name:
   given: Telsa
   clan: Tulkai
   aliases: []
-id: xwud6lZ064Tsw03A
-packFolder: extrasguilded
 shortcode: telsaoftulkai
 type: being
-social:
-  occupation: Physician
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: xwud6lZ064Tsw03A
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

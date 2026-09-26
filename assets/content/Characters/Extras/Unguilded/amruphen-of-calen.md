@@ -7,18 +7,8 @@ name:
   given: Amruphen
   clan: Calen
   aliases: []
-id: Eu4pxKVU885Jga9l
-packFolder: extrasunguilded
 shortcode: amruphenofcalen
 type: being
-social:
-  occupation: Sindarin Horsebow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Eu4pxKVU885Jga9l
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Horsebow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

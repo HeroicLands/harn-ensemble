@@ -7,18 +7,8 @@ name:
   given: Kai
   clan: Dythaen
   aliases: []
-id: inpKrZhSWOCOz66D
-packFolder: extrasmages
 shortcode: kaiofdythaen
 type: being
-social:
-  occupation: "Shek-Pvar/Odivshe**"
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: inpKrZhSWOCOz66D
+  packFolder: extrasmages
+  social:
+    occupation: "Shek-Pvar/Odivshe**"
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

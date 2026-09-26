@@ -7,18 +7,8 @@ name:
   given: Urbain
   clan: Sprythsen
   aliases: []
-id: L4mGxCYUzZFwUWyn
-packFolder: extrasunguilded
 shortcode: urbainofsprythsen
 type: being
-social:
-  occupation: Toymaker
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: L4mGxCYUzZFwUWyn
+  packFolder: extrasunguilded
+  social:
+    occupation: Toymaker
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Karyse
   clan: Ver
   aliases: []
-id: 7HBlCtfbiIkbOkrk
-packFolder: extrasclergy
 shortcode: karyseofver
 type: being
-social:
-  occupation: Cleric/Agrik
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: 7HBlCtfbiIkbOkrk
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Agrik
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

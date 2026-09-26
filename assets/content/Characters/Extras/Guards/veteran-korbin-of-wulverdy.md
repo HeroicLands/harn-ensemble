@@ -7,18 +7,8 @@ name:
   given: Korbin
   clan: Wulverdy
   aliases: []
-id: 1ooH3VgPLr3QKJMU
-packFolder: extrasguards
 shortcode: veterankorbinofwulverdy
 type: being
-social:
-  occupation: Feudal Guardsman, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1ooH3VgPLr3QKJMU
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Gragor
   clan: Obyne
   aliases: []
-id: Zp4nWd2LkjCrJqSa
-packFolder: extrasguilded
 shortcode: gragorofobyne
 type: being
-social:
-  occupation: Physician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - "*Epilepsy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Zp4nWd2LkjCrJqSa
+  packFolder: extrasguilded
+  social:
+    occupation: Physician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

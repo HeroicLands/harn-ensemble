@@ -7,18 +7,8 @@ name:
   given: Tamyth
   clan: Laplaemen
   aliases: []
-id: oH7I2eUVl1WCh5oh
-packFolder: extrasunguilded
 shortcode: tamythoflaplaemen
 type: being
-social:
-  occupation: Imperial Militia
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: oH7I2eUVl1WCh5oh
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

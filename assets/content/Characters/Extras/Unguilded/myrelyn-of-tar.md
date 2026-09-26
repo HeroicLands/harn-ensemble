@@ -7,18 +7,8 @@ name:
   given: Myrelyn
   clan: Tar
   aliases: []
-id: gFL4dbXBr5EIwBtW
-packFolder: extrasunguilded
 shortcode: myrelynoftar
 type: being
-social:
-  occupation: Imperial Militia
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gFL4dbXBr5EIwBtW
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

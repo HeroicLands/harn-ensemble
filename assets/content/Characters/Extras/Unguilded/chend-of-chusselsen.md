@@ -7,18 +7,8 @@ name:
   given: Chend
   clan: Chusselsen
   aliases: []
-id: HLxSIj8mwhf9K4ri
-packFolder: extrasunguilded
 shortcode: chendofchusselsen
 type: being
-social:
-  occupation: Sage/Tutor
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Ear Missing/Deaf
+  harnworld:
+    realm: ""
+    ritual: []
+  id: HLxSIj8mwhf9K4ri
+  packFolder: extrasunguilded
+  social:
+    occupation: Sage/Tutor
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Kalas
   clan: Aralsar
   aliases: []
-id: eBYgq5F1jBQfU1Tj
-packFolder: fffguilded
 shortcode: kalasofaralsar
 type: being
-social:
-  occupation: Chandler
-  class: freeman
-  society: imperial
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3041tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Overweight
       - Moustache
       - beard
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: eBYgq5F1jBQfU1Tj
+  packFolder: fffguilded
+  social:
+    occupation: Chandler
+    class: freeman
+    society: imperial
+    organizations: []
 hm3:
   type: character
   attributes:

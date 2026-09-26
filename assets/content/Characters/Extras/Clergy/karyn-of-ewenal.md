@@ -7,19 +7,8 @@ name:
   given: Karyn
   clan: Ewenal
   aliases: []
-id: 0YfFmfDdwzN6IQKp
-packFolder: extrasclergy
 shortcode: karynofewenal
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: 0YfFmfDdwzN6IQKp
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

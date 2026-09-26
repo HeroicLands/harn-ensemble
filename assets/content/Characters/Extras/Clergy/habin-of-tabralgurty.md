@@ -7,19 +7,8 @@ name:
   given: Habin
   clan: Tabralgurty
   aliases: []
-id: N4ejmsYwZGeOrzGd
-packFolder: extrasclergy
 shortcode: habinoftabralgurty
 type: being
-social:
-  occupation: Cleric/Naveh
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - naveh
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - Monochromasia
+  harnworld:
+    realm: ""
+    ritual:
+      - naveh
+  id: N4ejmsYwZGeOrzGd
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Naveh
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

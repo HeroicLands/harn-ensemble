@@ -7,18 +7,8 @@ name:
   given: Piris
   clan: Lunen
   aliases: []
-id: SjQfhHz2GG52WPH8
-packFolder: extrasguilded
 shortcode: pirisoflunen
 type: being
-social:
-  occupation: Lexigrapher
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual: []
+  id: SjQfhHz2GG52WPH8
+  packFolder: extrasguilded
+  social:
+    occupation: Lexigrapher
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

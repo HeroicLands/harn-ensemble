@@ -7,19 +7,8 @@ name:
   given: Bascal
   clan: Ryke
   aliases: []
-id: EH1Rs3rQVVy0oBAt
-packFolder: fffguilded
 shortcode: bascalryke
 type: being
-social:
-  occupation: Physician
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff3241tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Purple birthmark on right ear
       - Dresses all in black
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: EH1Rs3rQVVy0oBAt
+  packFolder: fffguilded
+  social:
+    occupation: Physician
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

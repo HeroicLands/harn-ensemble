@@ -7,18 +7,8 @@ name:
   given: Larina
   clan: Werth
   aliases: []
-id: dWuzcRycocjaiNg4
-packFolder: extrasguilded
 shortcode: larinaofwerth
 type: being
-social:
-  occupation: Litigant
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: dWuzcRycocjaiNg4
+  packFolder: extrasguilded
+  social:
+    occupation: Litigant
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Cheselyne
   clan: Quinda
   aliases: []
-id: cB9BzFS4Q0SyeMt9
-packFolder: extrasclergy
 shortcode: cheselyneofquinda
 type: being
-social:
-  occupation: Cleric/Siem
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - siem
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual:
+      - siem
+  id: cB9BzFS4Q0SyeMt9
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Siem
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

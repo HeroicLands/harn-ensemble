@@ -7,18 +7,8 @@ name:
   given: Amath
   clan: Ancharnamathrodh
   aliases: []
-id: XYfvT78tvPowV5aB
-packFolder: extrasunguilded
 shortcode: amathofancharnamathrodh
 type: being
-social:
-  occupation: Sindarin Ranger, Light
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Dwarfism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: XYfvT78tvPowV5aB
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Ranger, Light
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

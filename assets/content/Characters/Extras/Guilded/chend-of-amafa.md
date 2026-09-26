@@ -7,18 +7,8 @@ name:
   given: Chend
   clan: Amafa
   aliases: []
-id: EDuOvJ25mEon40tC
-packFolder: extrasguilded
 shortcode: chendofamafa
 type: being
-social:
-  occupation: Salter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EDuOvJ25mEon40tC
+  packFolder: extrasguilded
+  social:
+    occupation: Salter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

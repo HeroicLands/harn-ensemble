@@ -7,19 +7,8 @@ name:
   given: Iame
   clan: Vanth
   aliases: []
-id: 7H5txtSpvq368iVd
-packFolder: extrasclergy
 shortcode: iameofvanth
 type: being
-social:
-  occupation: Cleric/Peoni
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Birthmarks
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: 7H5txtSpvq368iVd
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Peoni
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

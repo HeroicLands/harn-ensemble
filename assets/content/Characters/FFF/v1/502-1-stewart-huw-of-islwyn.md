@@ -7,19 +7,8 @@ name:
   given: Huw
   clan: Islwyn
   aliases: []
-id: LrbNBVZPSC528SpZ
-packFolder: fffnobles
 shortcode: huwofislwyn
 type: being
-social:
-  occupation: Steward
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - larani
 data:
   icon: fff5021tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: average
     extra_features:
       - Moustache
+  harnworld:
+    realm: ""
+    ritual:
+      - larani
+  id: LrbNBVZPSC528SpZ
+  packFolder: fffnobles
+  social:
+    occupation: Steward
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

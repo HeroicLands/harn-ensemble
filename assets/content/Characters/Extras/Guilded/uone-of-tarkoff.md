@@ -7,18 +7,8 @@ name:
   given: Uone
   clan: Tarkoff
   aliases: []
-id: VKA4NvMwG1XcHGqL
-packFolder: extrasguilded
 shortcode: uoneoftarkoff
 type: being
-social:
-  occupation: Woodcrafter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Deformed/Missing Arm
+  harnworld:
+    realm: ""
+    ritual: []
+  id: VKA4NvMwG1XcHGqL
+  packFolder: extrasguilded
+  social:
+    occupation: Woodcrafter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

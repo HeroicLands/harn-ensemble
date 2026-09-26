@@ -7,18 +7,8 @@ name:
   given: Tamis
   clan: Pasen
   aliases: []
-id: jr6dhgx8xQC1rtBY
-packFolder: extrasnobles
 shortcode: tamisofpasen
 type: being
-social:
-  occupation: Chieftan
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: jr6dhgx8xQC1rtBY
+  packFolder: extrasnobles
+  social:
+    occupation: Chieftan
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Swey
   clan: Baelams
   aliases: []
-id: w2vH7cnipVCJSRLA
-packFolder: fffunguilded
 shortcode: sweyofbaelams
 type: being
-social:
-  occupation: Labourer
-  class: freeman ex-slave
-  society: viking
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4102tok
   templatePriority: 1
@@ -39,6 +28,17 @@ data:
       - Pox marks
       - parasites
       - dwarfism
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: w2vH7cnipVCJSRLA
+  packFolder: fffunguilded
+  social:
+    occupation: Labourer
+    class: freeman ex-slave
+    society: viking
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Klarm
   clan: Ryth
   aliases: []
-id: LH7xr1zHVw9r0cF7
-packFolder: extrasguilded
 shortcode: klarmofryth
 type: being
-social:
-  occupation: Pilot
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LH7xr1zHVw9r0cF7
+  packFolder: extrasguilded
+  social:
+    occupation: Pilot
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

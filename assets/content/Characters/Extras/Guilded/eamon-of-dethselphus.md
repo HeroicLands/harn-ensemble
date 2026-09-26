@@ -7,18 +7,8 @@ name:
   given: Eamon
   clan: Dethselphus
   aliases: []
-id: aYgE64ARa8Wjy8YN
-packFolder: extrasguilded
 shortcode: eamonofdethselphus
 type: being
-social:
-  occupation: Perfumer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aYgE64ARa8Wjy8YN
+  packFolder: extrasguilded
+  social:
+    occupation: Perfumer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

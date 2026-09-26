@@ -7,19 +7,8 @@ name:
   given: Enil
   clan: Peryne
   aliases: []
-id: fxyjVCZd3d3TokVH
-packFolder: fffmilitary
 shortcode: enilofperyne
 type: being
-social:
-  occupation: Yeoman (SB)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff1274tok
   templatePriority: 1
@@ -40,6 +29,17 @@ data:
       - Stammers a lot
       - very unsure of himself
       - bows to everyone
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: fxyjVCZd3d3TokVH
+  packFolder: fffmilitary
+  social:
+    occupation: Yeoman (SB)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

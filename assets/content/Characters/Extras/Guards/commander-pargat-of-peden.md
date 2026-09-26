@@ -7,18 +7,8 @@ name:
   given: Commander
   clan: Pargat Peden
   aliases: []
-id: p8JEeLesKGZP7Kb7
-packFolder: extrasguards
 shortcode: commanderpargatofpeden
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: p8JEeLesKGZP7Kb7
+  packFolder: extrasguards
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

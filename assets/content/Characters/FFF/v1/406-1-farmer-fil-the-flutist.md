@@ -7,19 +7,8 @@ name:
   given: Fil
   clan: the Flutist
   aliases: []
-id: 57qWk1toAOdwLZ27
-packFolder: fffunguilded
 shortcode: filtheflutist
 type: being
-social:
-  occupation: Farmer
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
 data:
   icon: fff4061tok
   templatePriority: 1
@@ -37,6 +26,17 @@ data:
     complexion: plain
     extra_features:
       - Beard
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+  id: 57qWk1toAOdwLZ27
+  packFolder: fffunguilded
+  social:
+    occupation: Farmer
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

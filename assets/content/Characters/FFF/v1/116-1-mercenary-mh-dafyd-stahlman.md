@@ -7,19 +7,8 @@ name:
   given: Dafyd
   clan: Stahlman
   aliases: []
-id: oiUcJk2TCeTO6X26
-packFolder: fffmilitary
 shortcode: dafydstahlman
 type: being
-social:
-  occupation: Mercenary (MH)
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - agrik
 data:
   icon: fff1161tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - agrik
+  id: oiUcJk2TCeTO6X26
+  packFolder: fffmilitary
+  social:
+    occupation: Mercenary (MH)
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Diryn
   clan: Ner
   aliases: []
-id: BvNKdC5eBgBkfgnT
-packFolder: extrasguilded
 shortcode: dirynofner
 type: being
-social:
-  occupation: Clothier
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: swarthy
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: BvNKdC5eBgBkfgnT
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

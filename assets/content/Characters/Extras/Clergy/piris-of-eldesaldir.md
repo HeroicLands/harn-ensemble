@@ -7,19 +7,8 @@ name:
   given: Piris
   clan: Eldesaldir
   aliases: []
-id: ZJrn4FC0ahwpPyrt
-packFolder: extrasclergy
 shortcode: pirisofeldesaldir
 type: being
-social:
-  occupation: Cleric/Ilvir
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +24,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: ZJrn4FC0ahwpPyrt
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Ilvir
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

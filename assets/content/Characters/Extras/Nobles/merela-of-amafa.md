@@ -7,18 +7,8 @@ name:
   given: Merela
   clan: Amafa
   aliases: []
-id: rCqXXRHxGSeSSoiD
-packFolder: extrasnobles
 shortcode: merelaofamafa
 type: being
-social:
-  occupation: Patrician
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - "*Poxmarks (healed)"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: rCqXXRHxGSeSSoiD
+  packFolder: extrasnobles
+  social:
+    occupation: Patrician
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

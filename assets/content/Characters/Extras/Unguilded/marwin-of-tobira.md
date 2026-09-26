@@ -7,18 +7,8 @@ name:
   given: Marwin
   clan: Tobira
   aliases: []
-id: EKHsdMLY3sDaFKAA
-packFolder: extrasunguilded
 shortcode: marwinoftobira
 type: being
-social:
-  occupation: Ratter
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - One Eye Missing/Blind
+  harnworld:
+    realm: ""
+    ritual: []
+  id: EKHsdMLY3sDaFKAA
+  packFolder: extrasunguilded
+  social:
+    occupation: Ratter
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Orthias
   clan: Vanth
   aliases: []
-id: Wgdeqb0VsfW8L687
-packFolder: extrasclergy
 shortcode: orthiasofvanth
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: plain
     extra_features:
       - Obesity
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: Wgdeqb0VsfW8L687
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

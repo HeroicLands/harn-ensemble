@@ -7,18 +7,8 @@ name:
   given: Uthelren
   clan: Aweil
   aliases: []
-id: LlRQdaITQpT3SpI8
-packFolder: extrasunguilded
 shortcode: uthelrenofaweil
 type: being
-social:
-  occupation: Gladiator
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - One Leg Missing/Deformed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: LlRQdaITQpT3SpI8
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

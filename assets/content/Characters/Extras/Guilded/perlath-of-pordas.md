@@ -7,18 +7,8 @@ name:
   given: Perlath
   clan: Pordas
   aliases: []
-id: 7SZIVbSGg9GX1TOz
-packFolder: extrasguilded
 shortcode: perlathofpordas
 type: being
-social:
-  occupation: Seaman
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 7SZIVbSGg9GX1TOz
+  packFolder: extrasguilded
+  social:
+    occupation: Seaman
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

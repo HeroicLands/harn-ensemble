@@ -7,19 +7,8 @@ name:
   given: Rik
   clan: Kroll
   aliases: []
-id: dywtu6fvqnHiSSCJ
-packFolder: extrasclergy
 shortcode: rikofkroll
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: average
     extra_features:
       - Allergy
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: dywtu6fvqnHiSSCJ
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

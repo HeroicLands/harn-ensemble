@@ -7,18 +7,8 @@ name:
   given: Lamrin
   clan: Don
   aliases: []
-id: JZyJxjFlHNsMmDOL
-packFolder: extrasserfs
 shortcode: lamrinofdon
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: ugly
     extra_features:
       - "*Leprosy"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: JZyJxjFlHNsMmDOL
+  packFolder: extrasserfs
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

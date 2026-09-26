@@ -7,18 +7,8 @@ name:
   given: Malhber
   clan: Penda
   aliases: []
-id: MCsDyg8DFeP4j1A4
-packFolder: extrasunguilded
 shortcode: malhberofpenda
 type: being
-social:
-  occupation: Feudal Yeoman, Shortbow
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: MCsDyg8DFeP4j1A4
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Yeoman, Shortbow
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

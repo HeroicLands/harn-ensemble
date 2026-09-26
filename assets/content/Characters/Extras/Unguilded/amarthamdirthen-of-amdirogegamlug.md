@@ -7,18 +7,8 @@ name:
   given: Amarthamdirthen
   clan: Amdirogegamlug
   aliases: []
-id: CrJvlT4WbIp8Jiak
-packFolder: extrasunguilded
 shortcode: amarthamdirthenofamdirogegamlug
 type: being
-social:
-  occupation: Sindarin Guardian
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: CrJvlT4WbIp8Jiak
+  packFolder: extrasunguilded
+  social:
+    occupation: Sindarin Guardian
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

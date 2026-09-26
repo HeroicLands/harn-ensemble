@@ -7,18 +7,8 @@ name:
   given: Maeghel
   clan: Merlyme
   aliases: []
-id: wU6pihX0I3ihnRxR
-packFolder: extrasnobles
 shortcode: maeghelofmerlyme
 type: being
-social:
-  occupation: Baliff
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: ugly
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: wU6pihX0I3ihnRxR
+  packFolder: extrasnobles
+  social:
+    occupation: Baliff
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

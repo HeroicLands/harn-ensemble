@@ -7,20 +7,8 @@ name:
   given: Kres
   clan: Aenere
   aliases: []
-id: zzb52YxzVJETrKFW
-packFolder: fffunguilded
 shortcode: kresofaenere
 type: being
-social:
-  occupation: Brigand
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - peoni
-    - agrik
 data:
   icon: fff4022tok
   templatePriority: 1
@@ -38,6 +26,18 @@ data:
     complexion: average
     extra_features:
       - Never smiles
+  harnworld:
+    realm: ""
+    ritual:
+      - peoni
+      - agrik
+  id: zzb52YxzVJETrKFW
+  packFolder: fffunguilded
+  social:
+    occupation: Brigand
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

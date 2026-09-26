@@ -7,18 +7,8 @@ name:
   given: Aramia
   clan: Dythsel
   aliases: []
-id: tWjUfbfFMt0eLoEx
-packFolder: extrasunguilded
 shortcode: aramiaofdythsel
 type: being
-social:
-  occupation: Imperial Militia
-  class: guilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: fair
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: tWjUfbfFMt0eLoEx
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Militia
+    class: guilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

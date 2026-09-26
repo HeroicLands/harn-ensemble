@@ -7,18 +7,8 @@ name:
   given: Bulbadul
   clan: Ermek
   aliases: []
-id: PNGMCLOZQJD8soI0
-packFolder: extrasunguilded
 shortcode: bulbadulofermek
 type: being
-social:
-  occupation: Khuzdul Clansman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Albinism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: PNGMCLOZQJD8soI0
+  packFolder: extrasunguilded
+  social:
+    occupation: Khuzdul Clansman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

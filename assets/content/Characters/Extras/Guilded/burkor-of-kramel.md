@@ -7,18 +7,8 @@ name:
   given: Burkor
   clan: Kramel
   aliases: []
-id: fG6pP7C73C87OTDd
-packFolder: extrasguilded
 shortcode: burkorofkramel
 type: being
-social:
-  occupation: Astrologer
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Sterile
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fG6pP7C73C87OTDd
+  packFolder: extrasguilded
+  social:
+    occupation: Astrologer
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

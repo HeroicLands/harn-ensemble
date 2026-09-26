@@ -7,18 +7,8 @@ name:
   given: Krik
   clan: Darin
   aliases: []
-id: fNfGTZHezegeJiWa
-packFolder: extrasunguilded
 shortcode: krikofdarin
 type: being
-social:
-  occupation: Prostitute/Pimp
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: fNfGTZHezegeJiWa
+  packFolder: extrasunguilded
+  social:
+    occupation: Prostitute/Pimp
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

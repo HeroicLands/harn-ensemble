@@ -7,18 +7,8 @@ name:
   given: Sarina
   clan: Borskin
   aliases: []
-id: gBvAqKyhxbuEduwI
-packFolder: extrasunguilded
 shortcode: sarinaofborskin
 type: being
-social:
-  occupation: Cook/Servant
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: beautiful
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gBvAqKyhxbuEduwI
+  packFolder: extrasunguilded
+  social:
+    occupation: Cook/Servant
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

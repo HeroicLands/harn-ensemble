@@ -7,18 +7,8 @@ name:
   given: Amlugren
   clan: Amlugruin
   aliases: []
-id: W6hf0VWjtYwrsZj3
-packFolder: extrasnobles
 shortcode: amlugrenofamlugruin
 type: being
-social:
-  occupation: Sindarin Knight
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: W6hf0VWjtYwrsZj3
+  packFolder: extrasnobles
+  social:
+    occupation: Sindarin Knight
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

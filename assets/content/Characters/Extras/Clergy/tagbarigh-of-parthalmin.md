@@ -7,19 +7,8 @@ name:
   given: Tagbarigh
   clan: Parthalmin
   aliases: []
-id: i08OaXycxtFCP2Tm
-packFolder: extrasclergy
 shortcode: tagbarighofparthalmin
 type: being
-social:
-  occupation: Cleric/Morgath
-  class: noble
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - morgath
 data:
   templatePriority: 1
   gender: male
@@ -36,6 +25,17 @@ data:
     complexion: ugly
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual:
+      - morgath
+  id: i08OaXycxtFCP2Tm
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Morgath
+    class: noble
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

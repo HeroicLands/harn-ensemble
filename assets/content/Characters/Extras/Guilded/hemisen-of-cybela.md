@@ -7,18 +7,8 @@ name:
   given: Hemisen
   clan: Cybela
   aliases: []
-id: Qdw4OnB9CZSdUHfh
-packFolder: extrasguilded
 shortcode: hemisenofcybela
 type: being
-social:
-  occupation: Hideworker
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: plain
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: Qdw4OnB9CZSdUHfh
+  packFolder: extrasguilded
+  social:
+    occupation: Hideworker
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

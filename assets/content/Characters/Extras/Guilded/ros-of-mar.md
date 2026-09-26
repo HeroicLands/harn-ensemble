@@ -7,18 +7,8 @@ name:
   given: Ros
   clan: Mar
   aliases: []
-id: z5oSf9nH9KjC16k5
-packFolder: extrasguilded
 shortcode: rosofmar
 type: being
-social:
-  occupation: Timberwright
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Scars
+  harnworld:
+    realm: ""
+    ritual: []
+  id: z5oSf9nH9KjC16k5
+  packFolder: extrasguilded
+  social:
+    occupation: Timberwright
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

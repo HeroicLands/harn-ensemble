@@ -7,18 +7,8 @@ name:
   given: Tolmey
   clan: Ewesarl
   aliases: []
-id: 6FPFAAx699YTEc8E
-packFolder: extrasunguilded
 shortcode: tolmeyofewesarl
 type: being
-social:
-  occupation: Feudal Guardsman, Heavy
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6FPFAAx699YTEc8E
+  packFolder: extrasunguilded
+  social:
+    occupation: Feudal Guardsman, Heavy
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

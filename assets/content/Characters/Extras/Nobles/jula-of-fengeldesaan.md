@@ -7,18 +7,8 @@ name:
   given: Jula
   clan: Fengeldesaan
   aliases: []
-id: 6Bpk0WpKGKCZ2FsJ
-packFolder: extrasnobles
 shortcode: julaoffengeldesaan
 type: being
-social:
-  occupation: Feudal Knight, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: medium
     complexion: average
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 6Bpk0WpKGKCZ2FsJ
+  packFolder: extrasnobles
+  social:
+    occupation: Feudal Knight, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

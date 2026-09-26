@@ -7,18 +7,8 @@ name:
   given: Parmen
   clan: Tich
   aliases: []
-id: 96x3XXWubDsGwsCV
-packFolder: extrasunguilded
 shortcode: parmenoftich
 type: being
-social:
-  occupation: Farmer
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Gigantism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 96x3XXWubDsGwsCV
+  packFolder: extrasunguilded
+  social:
+    occupation: Farmer
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

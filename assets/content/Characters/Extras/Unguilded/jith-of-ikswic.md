@@ -7,18 +7,8 @@ name:
   given: Jith
   clan: Ikswic
   aliases: []
-id: yPuwqFQCCzkKRX7T
-packFolder: extrasunguilded
 shortcode: jithofikswic
 type: being
-social:
-  occupation: Imperial Legionnaire, Light
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - Addiction
+  harnworld:
+    realm: ""
+    ritual: []
+  id: yPuwqFQCCzkKRX7T
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Light
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

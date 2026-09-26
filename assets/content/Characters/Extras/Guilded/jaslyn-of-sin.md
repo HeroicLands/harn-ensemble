@@ -7,18 +7,8 @@ name:
   given: Jaslyn
   clan: Sin
   aliases: []
-id: llQPxZ6pepsN9AFg
-packFolder: extrasguilded
 shortcode: jaslynofsin
 type: being
-social:
-  occupation: Miner
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: llQPxZ6pepsN9AFg
+  packFolder: extrasguilded
+  social:
+    occupation: Miner
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,19 +7,8 @@ name:
   given: Eryla
   clan: Cobb
   aliases: []
-id: HMdk5hHSK8CiaDIO
-packFolder: fffmilitary
 shortcode: erylacobb
 type: being
-social:
-  occupation: Mercenary (MF)
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - ilvir
 data:
   icon: fff1153tok
   templatePriority: 1
@@ -38,6 +27,17 @@ data:
     extra_features:
       - Crude
       - lecherous
+  harnworld:
+    realm: ""
+    ritual:
+      - ilvir
+  id: HMdk5hHSK8CiaDIO
+  packFolder: fffmilitary
+  social:
+    occupation: Mercenary (MF)
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

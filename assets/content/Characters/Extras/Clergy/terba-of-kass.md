@@ -7,19 +7,8 @@ name:
   given: Terba
   clan: Kass
   aliases: []
-id: VzhDRNVUAzFNYxgD
-packFolder: extrasclergy
 shortcode: terbaofkass
 type: being
-social:
-  occupation: Cleric/Halea
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: VzhDRNVUAzFNYxgD
+  packFolder: extrasclergy
+  social:
+    occupation: Cleric/Halea
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

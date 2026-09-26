@@ -7,19 +7,8 @@ name:
   given: Bors
   clan: Halle
   aliases: []
-id: GYWvGsJdLbkbcVDO
-packFolder: fffguilded
 shortcode: borsofhalle
 type: being
-social:
-  occupation: Thespian
-  class: freeman
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - halea
 data:
   icon: fff3311tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: medium
     complexion: attractive
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - halea
+  id: GYWvGsJdLbkbcVDO
+  packFolder: fffguilded
+  social:
+    occupation: Thespian
+    class: freeman
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

@@ -7,18 +7,8 @@ name:
   given: Gweni
   clan: Keryn
   aliases: []
-id: 1KHMIqomxfHLWme1
-packFolder: extrasunguilded
 shortcode: gweniofkeryn
 type: being
-social:
-  occupation: Herdsman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: average
     extra_features:
       - Hirsutism
+  harnworld:
+    realm: ""
+    ritual: []
+  id: 1KHMIqomxfHLWme1
+  packFolder: extrasunguilded
+  social:
+    occupation: Herdsman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

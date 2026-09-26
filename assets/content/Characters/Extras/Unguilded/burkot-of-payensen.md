@@ -7,18 +7,8 @@ name:
   given: Burkot
   clan: Payensen
   aliases: []
-id: G4OSDJ2fICS3sdfp
-packFolder: extrasunguilded
 shortcode: burkotofpayensen
 type: being
-social:
-  occupation: Gladiator
-  class: unguilded
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: male
@@ -34,6 +24,16 @@ data:
     skin_color: dark
     complexion: beautiful
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual: []
+  id: G4OSDJ2fICS3sdfp
+  packFolder: extrasunguilded
+  social:
+    occupation: Gladiator
+    class: unguilded
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

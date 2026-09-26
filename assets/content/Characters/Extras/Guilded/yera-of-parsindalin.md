@@ -7,18 +7,8 @@ name:
   given: Yera
   clan: Parsindalin
   aliases: []
-id: NGHoXHmdTvh1u4OD
-packFolder: extrasguilded
 shortcode: yeraofparsindalin
 type: being
-social:
-  occupation: Clothier
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Ambidexterous
+  harnworld:
+    realm: ""
+    ritual: []
+  id: NGHoXHmdTvh1u4OD
+  packFolder: extrasguilded
+  social:
+    occupation: Clothier
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

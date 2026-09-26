@@ -7,18 +7,8 @@ name:
   given: Kalina
   clan: Erlesh
   aliases: []
-id: gJR690IF0qyd2t5I
-packFolder: extrasguilded
 shortcode: kalinaoferlesh
 type: being
-social:
-  occupation: Harper/Skald
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: plain
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual: []
+  id: gJR690IF0qyd2t5I
+  packFolder: extrasguilded
+  social:
+    occupation: Harper/Skald
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

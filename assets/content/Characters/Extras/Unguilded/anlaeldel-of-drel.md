@@ -7,18 +7,8 @@ name:
   given: Anlaeldel
   clan: Drel
   aliases: []
-id: aXWh6C9BpRCctS9m
-packFolder: extrasunguilded
 shortcode: anlaeldelofdrel
 type: being
-social:
-  occupation: Imperial Legionnaire, Medium
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Left-Handed
+  harnworld:
+    realm: ""
+    ritual: []
+  id: aXWh6C9BpRCctS9m
+  packFolder: extrasunguilded
+  social:
+    occupation: Imperial Legionnaire, Medium
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

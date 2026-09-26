@@ -7,18 +7,8 @@ name:
   given: Gwenienelle
   clan: Unigal
   aliases: []
-id: D0kh7cFI1rL07x9f
-packFolder: extrasunguilded
 shortcode: gwenienelleofunigal
 type: being
-social:
-  occupation: Fisherman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual: []
 data:
   templatePriority: 1
   gender: female
@@ -35,6 +25,16 @@ data:
     complexion: attractive
     extra_features:
       - Lycanthropy
+  harnworld:
+    realm: ""
+    ritual: []
+  id: D0kh7cFI1rL07x9f
+  packFolder: extrasunguilded
+  social:
+    occupation: Fisherman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

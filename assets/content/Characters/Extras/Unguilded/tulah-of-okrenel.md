@@ -7,19 +7,8 @@ name:
   given: Tulah
   clan: Okrenel
   aliases: []
-id: ToDMtrACDjGngOiF
-packFolder: extrasunguilded
 shortcode: tulahofokrenel
 type: being
-social:
-  occupation: Shaman
-  class: serf
-  society: feudal
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - "custom|Tribal"
 data:
   templatePriority: 1
   gender: female
@@ -36,6 +25,17 @@ data:
     complexion: attractive
     extra_features:
       - "*Parasites"
+  harnworld:
+    realm: ""
+    ritual:
+      - "custom|Tribal"
+  id: ToDMtrACDjGngOiF
+  packFolder: extrasunguilded
+  social:
+    occupation: Shaman
+    class: serf
+    society: feudal
+    organizations: []
 hm3:
   type: character
   attributes:

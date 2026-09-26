@@ -7,19 +7,8 @@ name:
   given: Fisk
   clan: Horval
   aliases: []
-id: FFlbxLmRBPnYXtRh
-packFolder: fffguilded
 shortcode: fiskhorval
 type: being
-social:
-  occupation: Lawspeaker
-  class: noble
-  society: ivinian
-  organizations: []
-harnworld:
-  realm: ""
-  ritual:
-    - sarajin
 data:
   icon: fff3152tok
   templatePriority: 1
@@ -36,6 +25,17 @@ data:
     skin_color: fair
     complexion: handsome
     extra_features: []
+  harnworld:
+    realm: ""
+    ritual:
+      - sarajin
+  id: FFlbxLmRBPnYXtRh
+  packFolder: fffguilded
+  social:
+    occupation: Lawspeaker
+    class: noble
+    society: ivinian
+    organizations: []
 hm3:
   type: character
   attributes:
