@@ -553,7 +553,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5072|Sir Samuel of Zoben]]{float: top-left}
+![[fff5072|Sir Samuel of Zoben]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

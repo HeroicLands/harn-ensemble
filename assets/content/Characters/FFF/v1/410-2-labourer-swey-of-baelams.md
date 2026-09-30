@@ -509,7 +509,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4102|Swey of Baelams]]{float: top-left}
+![[fff4102|Swey of Baelams]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

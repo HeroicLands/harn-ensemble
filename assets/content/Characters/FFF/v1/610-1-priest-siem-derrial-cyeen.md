@@ -601,7 +601,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6101|Derrial Cyeen]]{float: top-left}
+![[fff6101|Derrial Cyeen]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

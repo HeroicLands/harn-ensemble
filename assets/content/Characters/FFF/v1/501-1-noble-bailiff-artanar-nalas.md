@@ -511,7 +511,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5011|Artanar Nalas]]{float: top-left}
+![[fff5011|Artanar Nalas]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

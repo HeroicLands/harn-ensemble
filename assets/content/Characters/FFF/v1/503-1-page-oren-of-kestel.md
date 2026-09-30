@@ -510,7 +510,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5031|Oren of Kestel]]{float: top-left}
+![[fff5031|Oren of Kestel]]{float=top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

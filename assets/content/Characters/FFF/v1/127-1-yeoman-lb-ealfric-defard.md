@@ -538,7 +538,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1271|Ealfric Defard]]{float: top-left}
+![[fff1271|Ealfric Defard]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

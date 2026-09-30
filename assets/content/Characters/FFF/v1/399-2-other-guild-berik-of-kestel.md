@@ -495,7 +495,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3992|Berik of Kestel]]{float: top-left}
+![[fff3992|Berik of Kestel]]{float=top-left}
 
 **Apparent Age**: Child
 **Culture**: Feudal

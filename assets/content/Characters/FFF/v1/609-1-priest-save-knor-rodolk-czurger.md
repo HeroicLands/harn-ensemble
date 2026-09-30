@@ -160,7 +160,7 @@ hm3:
     - {shortcode: navehconsecration, type: invocation}
     - name: "Exorcism V; Save K'nor: Light of Uhla"
       type: invocation
-      data: {icon: hm3-none-icon-naveh}
+      data: {icon: harnensemble-none-icon-naveh}
       system: {diety: Naveh, circle: 2}
     - {shortcode: wisdomofthesheaalaecor, type: invocation}
     - {shortcode: altheaslamp, type: invocation}
@@ -749,7 +749,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6091|Rodolk Czurger]]{float: top-left}
+![[fff6091|Rodolk Czurger]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

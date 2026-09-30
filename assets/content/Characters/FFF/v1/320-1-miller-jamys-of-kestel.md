@@ -572,7 +572,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3201|Jamys of Kestel]]{float: top-left}
+![[fff3201|Jamys of Kestel]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -527,7 +527,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff2063|Kit'tiara Wampusha]]{float: top-left}
+![[fff2063|Kit'tiara Wampusha]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

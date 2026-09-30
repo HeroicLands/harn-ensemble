@@ -554,7 +554,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1241|Ylina]]{float: top-left}
+![[fff1241|Ylina]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

@@ -547,7 +547,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1275|Wyrin of Varross]]{float: top-left}
+![[fff1275|Wyrin of Varross]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

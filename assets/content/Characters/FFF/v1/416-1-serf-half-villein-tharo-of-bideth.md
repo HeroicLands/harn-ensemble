@@ -502,7 +502,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4161|Tharo of Bideth]]{float: top-left}
+![[fff4161|Tharo of Bideth]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

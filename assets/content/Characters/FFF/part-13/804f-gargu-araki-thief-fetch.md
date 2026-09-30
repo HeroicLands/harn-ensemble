@@ -126,7 +126,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff804f|"Fetch"]]{float: top-left}
+![[fff804f|"Fetch"]]{float=top-left}
 
 **Species**: Gargu-araki
 **Sex**: Male

@@ -550,7 +550,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1152|Esharel Ranals]]{float: top-left}
+![[fff1152|Esharel Ranals]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

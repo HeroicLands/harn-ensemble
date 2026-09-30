@@ -529,7 +529,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3242|Llawaur Tam]]{float: top-left}
+![[fff3242|Llawaur Tam]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

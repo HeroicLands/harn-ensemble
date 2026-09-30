@@ -660,7 +660,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7051|Elros of Merin]]{float: top-left}
+![[fff7051|Elros of Merin]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

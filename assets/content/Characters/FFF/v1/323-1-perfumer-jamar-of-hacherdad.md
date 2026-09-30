@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3231|Jamar of Hacherdad]]{float: top-left}
+![[fff3231|Jamar of Hacherdad]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

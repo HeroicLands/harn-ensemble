@@ -488,7 +488,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3301|Mama Chanti]]{float: top-left}
+![[fff3301|Mama Chanti]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3071|Inara Serra]]{float: top-left}
+![[fff3071|Inara Serra]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

@@ -519,7 +519,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3061|Gwyte of Marath]]{float: top-left}
+![[fff3061|Gwyte of Marath]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

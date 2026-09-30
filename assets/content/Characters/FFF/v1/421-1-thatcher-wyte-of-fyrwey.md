@@ -519,7 +519,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4211|Wyte of Fyrwey]]{float: top-left}
+![[fff4211|Wyte of Fyrwey]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -134,7 +134,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff801c|Drogor]]{float: top-left}
+![[fff801c|Drogor]]{float=top-left}
 
 **Species**: Gargu-hyeka
 **Sex**: Male

@@ -549,7 +549,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1151|Otto]]{float: top-left}
+![[fff1151|Otto]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Imperial

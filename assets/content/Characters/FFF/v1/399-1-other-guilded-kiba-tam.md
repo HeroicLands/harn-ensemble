@@ -535,7 +535,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3991|Kiba Tam]]{float: top-left}
+![[fff3991|Kiba Tam]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

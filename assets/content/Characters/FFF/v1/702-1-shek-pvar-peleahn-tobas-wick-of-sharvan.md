@@ -815,7 +815,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7021|Tobas "Wick" of Sharvan]]{float: top-left}
+![[fff7021|Tobas "Wick" of Sharvan]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

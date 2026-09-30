@@ -483,7 +483,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3141|Dagwyn of Khael]]{float: top-left}
+![[fff3141|Dagwyn of Khael]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

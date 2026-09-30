@@ -533,7 +533,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3151|Petry of Alloc]]{float: top-left}
+![[fff3151|Petry of Alloc]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -524,7 +524,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1051|Jehan of Mikelfot]]{float: top-left}
+![[fff1051|Jehan of Mikelfot]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

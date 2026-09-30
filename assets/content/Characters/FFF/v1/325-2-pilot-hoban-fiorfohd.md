@@ -523,7 +523,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3252|Hoban Fiorfohd]]{float: top-left}
+![[fff3252|Hoban Fiorfohd]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

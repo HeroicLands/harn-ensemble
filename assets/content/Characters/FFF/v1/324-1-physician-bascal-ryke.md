@@ -491,7 +491,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3241|Bascal Ryke]]{float: top-left}
+![[fff3241|Bascal Ryke]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -510,7 +510,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5021|Huw of Islwyn]]{float: top-left}
+![[fff5021|Huw of Islwyn]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

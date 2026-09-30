@@ -585,7 +585,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1061|Eitri Terrika]]{float: top-left}
+![[fff1061|Eitri Terrika]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Khuzdul

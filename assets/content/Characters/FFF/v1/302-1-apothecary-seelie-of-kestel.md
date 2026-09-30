@@ -516,7 +516,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3021|Seelie of Kestel]]{float: top-left}
+![[fff3021|Seelie of Kestel]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -123,7 +123,7 @@ hm3:
     - {shortcode: ilvirpassageofthesoul, type: invocation}
     - name: Labour of Chuchlaen
       type: invocation
-      data: {icon: hm3-none-icon-ilvir}
+      data: {icon: harnensemble-none-icon-ilvir}
       system: {diety: Ilvir, circle: 2}
     - {shortcode: vlastatears, type: invocation}
     - {shortcode: bellowoftheaklash, type: invocation}
@@ -131,7 +131,7 @@ hm3:
     - {shortcode: ilvirdivination, type: invocation}
     - name: Succour of Bakyn
       type: invocation
-      data: {icon: hm3-none-icon-ilvir}
+      data: {icon: harnensemble-none-icon-ilvir}
       system: {diety: Ilvir, circle: 4}
     - {shortcode: pence, type: miscgear, system: {quantity: 19}}
   system: {species: human, sunsign: nadai, move: 12}
@@ -599,7 +599,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6031|Mansu Quig]]{float: top-left}
+![[fff6031|Mansu Quig]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Jarin

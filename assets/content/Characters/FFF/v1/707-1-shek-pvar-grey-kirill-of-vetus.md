@@ -1282,7 +1282,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7071|Kirill of Vetus]]{float: top-left}
+![[fff7071|Kirill of Vetus]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -567,7 +567,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5061|Sir Rollard d'Audrieu]]{float: top-left}
+![[fff5061|Sir Rollard d'Audrieu]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

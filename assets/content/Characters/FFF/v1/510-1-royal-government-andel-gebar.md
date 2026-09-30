@@ -551,7 +551,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5101|Andel Gebar]]{float: top-left}
+![[fff5101|Andel Gebar]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

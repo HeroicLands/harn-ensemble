@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1161|Dafyd Stahlman]]{float: top-left}
+![[fff1161|Dafyd Stahlman]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

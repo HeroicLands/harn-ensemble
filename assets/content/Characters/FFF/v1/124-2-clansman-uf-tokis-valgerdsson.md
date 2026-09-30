@@ -522,7 +522,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1242|Tokis Valgerdsson]]{float: top-left}
+![[fff1242|Tokis Valgerdsson]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

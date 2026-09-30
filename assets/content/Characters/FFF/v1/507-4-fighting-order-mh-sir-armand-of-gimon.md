@@ -544,7 +544,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5074|Sir Armand of Gimon]]{float: top-left}
+![[fff5074|Sir Armand of Gimon]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

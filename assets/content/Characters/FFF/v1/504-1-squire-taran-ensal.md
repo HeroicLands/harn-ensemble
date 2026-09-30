@@ -497,7 +497,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5041|Taran Ensal]]{float: top-left}
+![[fff5041|Taran Ensal]]{float=top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

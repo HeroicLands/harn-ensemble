@@ -545,7 +545,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1273|Zoe Fiorfohd]]{float: top-left}
+![[fff1273|Zoe Fiorfohd]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

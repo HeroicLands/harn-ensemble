@@ -523,7 +523,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4091|Arwalin of Rogila]]{float: top-left}
+![[fff4091|Arwalin of Rogila]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

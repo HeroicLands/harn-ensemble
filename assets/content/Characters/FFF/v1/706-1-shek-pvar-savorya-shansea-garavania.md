@@ -628,7 +628,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7061|Shansea Garavania]]{float: top-left}
+![[fff7061|Shansea Garavania]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

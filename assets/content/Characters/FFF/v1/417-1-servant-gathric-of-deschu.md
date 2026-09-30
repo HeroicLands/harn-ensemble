@@ -501,7 +501,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4171|Gathric of Deschu]]{float: top-left}
+![[fff4171|Gathric of Deschu]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

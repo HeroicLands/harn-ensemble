@@ -521,7 +521,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3251|Hadyn Trildsen]]{float: top-left}
+![[fff3251|Hadyn Trildsen]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

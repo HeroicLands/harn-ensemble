@@ -647,7 +647,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7031|Maccus of Tixena]]{float: top-left}
+![[fff7031|Maccus of Tixena]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

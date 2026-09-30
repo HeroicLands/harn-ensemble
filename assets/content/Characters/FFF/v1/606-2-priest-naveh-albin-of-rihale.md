@@ -654,7 +654,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6062|Albin of Rihale]]{float: top-left}
+![[fff6062|Albin of Rihale]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

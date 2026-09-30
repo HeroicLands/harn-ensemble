@@ -466,7 +466,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4181|Donkey]]{float: top-left}
+![[fff4181|Donkey]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Imperial

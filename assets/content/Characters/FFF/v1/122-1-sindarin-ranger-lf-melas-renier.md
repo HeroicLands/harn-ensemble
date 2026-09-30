@@ -569,7 +569,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1221|Melas Renier]]{float: top-left}
+![[fff1221|Melas Renier]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

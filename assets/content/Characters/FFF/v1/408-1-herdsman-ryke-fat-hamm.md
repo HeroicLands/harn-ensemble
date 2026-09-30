@@ -525,7 +525,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4081|Ryke "Fat" Hamm]]{float: top-left}
+![[fff4081|Ryke "Fat" Hamm]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

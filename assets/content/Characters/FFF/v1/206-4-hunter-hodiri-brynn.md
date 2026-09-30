@@ -535,7 +535,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff2064|Brynn]]{float: top-left}
+![[fff2064|Brynn]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

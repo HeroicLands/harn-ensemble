@@ -543,7 +543,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3103|Geiter Gautisson]]{float: top-left}
+![[fff3103|Geiter Gautisson]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

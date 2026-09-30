@@ -500,7 +500,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4172|Matilda of Verl]]{float: top-left}
+![[fff4172|Matilda of Verl]]{float=top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

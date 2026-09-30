@@ -124,7 +124,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff804c|Akeur]]{float: top-left}
+![[fff804c|Akeur]]{float=top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Male

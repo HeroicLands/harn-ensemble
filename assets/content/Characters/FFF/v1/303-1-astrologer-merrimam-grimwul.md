@@ -559,7 +559,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3031|Merrimam Grimwul]]{float: top-left}
+![[fff3031|Merrimam Grimwul]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

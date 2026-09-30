@@ -576,7 +576,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff704a|Mabresen]]{float: top-left}
+![[fff704a|Mabresen]]{float=top-left}
 
 **Species**: Human
 **Sex**: Male

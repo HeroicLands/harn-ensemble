@@ -488,7 +488,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4121|Earny of Smesel]]{float: top-left}
+![[fff4121|Earny of Smesel]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

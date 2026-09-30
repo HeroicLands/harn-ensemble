@@ -90,6 +90,7 @@ site:
 packageBuild:
     assets:
         - { from: assets/images, to: assets/images }
+        - { from: assets/icons, to: assets/icons }
         - { from: LICENSE, to: LICENSE }
         - { from: README.md, to: README.md }
 

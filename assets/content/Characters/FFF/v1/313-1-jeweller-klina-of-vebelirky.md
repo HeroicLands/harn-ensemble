@@ -515,7 +515,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3131|Klina of Vebelirky]]{float: top-left}
+![[fff3131|Klina of Vebelirky]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Imperial

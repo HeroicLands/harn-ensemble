@@ -539,7 +539,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5042|Uldis Harand]]{float: top-left}
+![[fff5042|Uldis Harand]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

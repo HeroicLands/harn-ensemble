@@ -526,7 +526,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1031|Sergeant Yerick of Eram]]{float: top-left}
+![[fff1031|Sergeant Yerick of Eram]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

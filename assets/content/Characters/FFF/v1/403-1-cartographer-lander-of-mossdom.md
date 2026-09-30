@@ -503,7 +503,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4031|Lander of Mossdom]]{float: top-left}
+![[fff4031|Lander of Mossdom]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

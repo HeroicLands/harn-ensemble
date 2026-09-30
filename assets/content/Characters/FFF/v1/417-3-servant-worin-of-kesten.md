@@ -506,7 +506,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4173|Worin of Kesten]]{float: top-left}
+![[fff4173|Worin of Kesten]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

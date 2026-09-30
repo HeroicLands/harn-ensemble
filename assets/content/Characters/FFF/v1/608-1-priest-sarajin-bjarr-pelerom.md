@@ -148,7 +148,7 @@ hm3:
     - {shortcode: sarajinpassageofthesoul, type: invocation}
     - name: Suerlji's Defence
       type: invocation
-      data: {icon: hm3-none-icon-sarajin}
+      data: {icon: harnensemble-none-icon-sarajin}
       system: {diety: Sarajin, circle: 3}
     - {shortcode: sarajindivination, type: invocation}
     - {shortcode: eynwifsapple, type: invocation}
@@ -622,7 +622,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6081|Bjarr Pelerom]]{float: top-left}
+![[fff6081|Bjarr Pelerom]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

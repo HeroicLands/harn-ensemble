@@ -577,7 +577,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6071|Toris of Peyne]]{float: top-left}
+![[fff6071|Toris of Peyne]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

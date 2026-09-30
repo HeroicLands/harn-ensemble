@@ -553,7 +553,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5062|Dame Afaewynn Barthy]]{float: top-left}
+![[fff5062|Dame Afaewynn Barthy]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

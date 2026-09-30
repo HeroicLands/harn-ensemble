@@ -524,7 +524,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4051|Onfroi of Metical]]{float: top-left}
+![[fff4051|Onfroi of Metical]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

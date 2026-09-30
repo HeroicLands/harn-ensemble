@@ -511,7 +511,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3322|Carex of Speh]]{float: top-left}
+![[fff3322|Carex of Speh]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

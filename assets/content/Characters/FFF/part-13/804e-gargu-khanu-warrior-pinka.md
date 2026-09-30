@@ -108,7 +108,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff804e|Pinka]]{float: top-left}
+![[fff804e|Pinka]]{float=top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Male

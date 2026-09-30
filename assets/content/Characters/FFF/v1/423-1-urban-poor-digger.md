@@ -503,7 +503,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4231|Digger]]{float: top-left}
+![[fff4231|Digger]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

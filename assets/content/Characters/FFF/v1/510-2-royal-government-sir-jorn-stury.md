@@ -557,7 +557,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5102|Sir Jorn Stury]]{float: top-left}
+![[fff5102|Sir Jorn Stury]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

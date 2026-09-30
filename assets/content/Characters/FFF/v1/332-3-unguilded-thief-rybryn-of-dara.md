@@ -507,7 +507,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3323|Rybryn of Dara]]{float: top-left}
+![[fff3323|Rybryn of Dara]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

@@ -533,7 +533,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5063|Sir Morhgan Cade]]{float: top-left}
+![[fff5063|Sir Morhgan Cade]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -537,7 +537,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4022|Kres of Aenere]]{float: top-left}
+![[fff4022|Kres of Aenere]]{float=top-left}
 
 **Apparent Age**: Middle age
 **Culture**: Feudal

@@ -529,7 +529,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4092|Finbar of Erons]]{float: top-left}
+![[fff4092|Finbar of Erons]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

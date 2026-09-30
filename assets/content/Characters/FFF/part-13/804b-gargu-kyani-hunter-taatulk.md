@@ -122,7 +122,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff804b|Taatulk]]{float: top-left}
+![[fff804b|Taatulk]]{float=top-left}
 
 **Species**: Gargu-kyani
 **Sex**: Male

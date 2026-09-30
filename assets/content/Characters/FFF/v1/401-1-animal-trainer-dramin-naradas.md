@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4011|Dramin Naradas]]{float: top-left}
+![[fff4011|Dramin Naradas]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

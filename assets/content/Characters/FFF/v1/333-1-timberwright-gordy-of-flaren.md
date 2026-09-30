@@ -510,7 +510,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3331|Gordy of Flaren]]{float: top-left}
+![[fff3331|Gordy of Flaren]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

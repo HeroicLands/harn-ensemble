@@ -495,7 +495,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5991|Miris Drelican]]{float: top-left}
+![[fff5991|Miris Drelican]]{float=top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

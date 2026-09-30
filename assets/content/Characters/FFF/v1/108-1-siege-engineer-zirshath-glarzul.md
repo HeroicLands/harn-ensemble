@@ -569,7 +569,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1081|Zirshath Glarzul]]{float: top-left}
+![[fff1081|Zirshath Glarzul]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Khuzdul

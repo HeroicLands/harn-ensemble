@@ -633,7 +633,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6011|Mya of Risalsin]]{float: top-left}
+![[fff6011|Mya of Risalsin]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

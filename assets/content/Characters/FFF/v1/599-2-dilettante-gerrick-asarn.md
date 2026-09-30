@@ -489,7 +489,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5992|Gerrick Asarn]]{float: top-left}
+![[fff5992|Gerrick Asarn]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

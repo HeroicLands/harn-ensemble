@@ -536,7 +536,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1181|Lavro of Orostal]]{float: top-left}
+![[fff1181|Lavro of Orostal]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

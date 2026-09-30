@@ -546,7 +546,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5064|Sir Chadrin Benere]]{float: top-left}
+![[fff5064|Sir Chadrin Benere]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

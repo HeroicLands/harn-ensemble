@@ -507,7 +507,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff2011|Brun]]{float: top-left}
+![[fff2011|Brun]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

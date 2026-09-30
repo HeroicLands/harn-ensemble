@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4151|Reld Drosyl]]{float: top-left}
+![[fff4151|Reld Drosyl]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

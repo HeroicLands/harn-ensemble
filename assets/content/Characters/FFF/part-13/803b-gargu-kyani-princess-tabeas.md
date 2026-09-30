@@ -131,7 +131,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff803b|Tabeas]]{float: top-left}
+![[fff803b|Tabeas]]{float=top-left}
 
 **Species**: Gargu-kyani
 **Sex**: Female

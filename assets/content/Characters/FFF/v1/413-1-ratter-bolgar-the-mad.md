@@ -493,7 +493,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4131|Bolgar the Mad]]{float: top-left}
+![[fff4131|Bolgar the Mad]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

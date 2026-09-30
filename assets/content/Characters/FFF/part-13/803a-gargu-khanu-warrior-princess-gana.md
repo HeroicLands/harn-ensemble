@@ -142,7 +142,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff803a|Gana]]{float: top-left}
+![[fff803a|Gana]]{float=top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Female

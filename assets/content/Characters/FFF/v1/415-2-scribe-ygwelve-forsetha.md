@@ -538,7 +538,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4152|Ygwelve Forsetha]]{float: top-left}
+![[fff4152|Ygwelve Forsetha]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Ivinian

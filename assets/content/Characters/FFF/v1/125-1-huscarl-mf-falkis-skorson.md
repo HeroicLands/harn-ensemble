@@ -521,7 +521,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1251|Falkis Skorson]]{float: top-left}
+![[fff1251|Falkis Skorson]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

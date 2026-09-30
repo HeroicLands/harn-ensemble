@@ -509,7 +509,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3091|Sarey of Sideth]]{float: top-left}
+![[fff3091|Sarey of Sideth]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

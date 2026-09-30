@@ -506,7 +506,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3011|Rakoczi of Aymar]]{float: top-left}
+![[fff3011|Rakoczi of Aymar]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

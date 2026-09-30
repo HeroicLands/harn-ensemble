@@ -538,7 +538,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4012|Terje of Selain]]{float: top-left}
+![[fff4012|Terje of Selain]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

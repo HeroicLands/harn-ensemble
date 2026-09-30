@@ -492,7 +492,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4991|Kora of Serdica]]{float: top-left}
+![[fff4991|Kora of Serdica]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

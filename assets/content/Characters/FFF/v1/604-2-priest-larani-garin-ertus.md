@@ -621,7 +621,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6042|Garin Ertus]]{float: top-left}
+![[fff6042|Garin Ertus]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

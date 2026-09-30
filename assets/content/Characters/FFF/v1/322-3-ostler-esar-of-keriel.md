@@ -509,7 +509,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3223|Esar of Keriel]]{float: top-left}
+![[fff3223|Esar of Keriel]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

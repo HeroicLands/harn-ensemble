@@ -519,7 +519,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5121|Lady Elena Valador]]{float: top-left}
+![[fff5121|Lady Elena Valador]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -500,7 +500,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3311|Bors of Halle]]{float: top-left}
+![[fff3311|Bors of Halle]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

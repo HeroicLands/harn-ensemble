@@ -536,7 +536,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff2062|Muga Psawei]]{float: top-left}
+![[fff2062|Muga Psawei]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Tribal

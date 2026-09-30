@@ -114,7 +114,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff801b|Kaeuck]]{float: top-left}
+![[fff801b|Kaeuck]]{float=top-left}
 
 **Species**: Gargu-hyeka
 **Sex**: Male

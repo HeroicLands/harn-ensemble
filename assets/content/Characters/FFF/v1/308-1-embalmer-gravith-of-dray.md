@@ -519,7 +519,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3081|Gravith of Dray]]{float: top-left}
+![[fff3081|Gravith of Dray]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

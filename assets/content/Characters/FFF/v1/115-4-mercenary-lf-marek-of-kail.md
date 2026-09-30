@@ -535,7 +535,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1154|Marek of Kail]]{float: top-left}
+![[fff1154|Marek of Kail]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

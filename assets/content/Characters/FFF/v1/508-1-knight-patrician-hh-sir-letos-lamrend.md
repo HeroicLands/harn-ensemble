@@ -543,7 +543,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5081|Sir Letos Lamrend]]{float: top-left}
+![[fff5081|Sir Letos Lamrend]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

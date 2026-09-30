@@ -499,7 +499,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3051|Edlin of Honnusk]]{float: top-left}
+![[fff3051|Edlin of Honnusk]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

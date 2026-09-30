@@ -487,7 +487,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4101|Vadulf of Gesper]]{float: top-left}
+![[fff4101|Vadulf of Gesper]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

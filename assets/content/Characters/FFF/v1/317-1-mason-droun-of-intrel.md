@@ -507,7 +507,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3171|Droun of Intrel]]{float: top-left}
+![[fff3171|Droun of Intrel]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -512,7 +512,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1091|Petin Muldabel]]{float: top-left}
+![[fff1091|Petin Muldabel]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial
