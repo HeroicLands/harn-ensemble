@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 25
-  born: 694/4/8
+  born: 694.98
   height: 1.5
   weight: 60.33
   frame: heavy

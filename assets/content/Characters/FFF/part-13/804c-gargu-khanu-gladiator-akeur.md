@@ -9,7 +9,7 @@ data:
   gender: male
   species: gargunflk
   age: 11
-  born: 708/1/2
+  born: 708.2
   height: 1.35
   weight: 51.26
   frame: heavy

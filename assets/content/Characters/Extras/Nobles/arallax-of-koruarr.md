@@ -8,7 +8,7 @@ data:
   gender: male
   species: khuzdulflk
   age: 122
-  born: 598/5/11
+  born: 598.131
   height: 1.4
   weight: 44.45
   frame: light
