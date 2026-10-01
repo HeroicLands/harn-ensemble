@@ -2,9 +2,11 @@
 shortcode: bregofamath
 name: {full: Breg of Amath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: female
   species: sindarinflk
   age: 198

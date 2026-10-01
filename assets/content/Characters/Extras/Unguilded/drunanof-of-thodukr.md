@@ -2,9 +2,11 @@
 shortcode: drunanofofthodukr
 name: {full: Drunanof of Thodukr, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: khuzdulflk
   age: 112

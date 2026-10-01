@@ -2,10 +2,12 @@
 shortcode: mirisdrelican
 name: {full: Miris Drelican, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5991tok
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: male
   species: humanflk
   age: 13

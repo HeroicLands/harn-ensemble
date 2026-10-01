@@ -2,10 +2,12 @@
 shortcode: bjarrpelerom
 name: {full: Bjarr Pelerom, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6081tok
   templatePriority: 1
+  archetypes: [cleric, scholar]
   gender: male
   species: humanflk
   age: 42

@@ -2,9 +2,11 @@
 shortcode: grallaxofsiven
 name: {full: Grallax of Siven, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: male
   species: humanflk
   age: 37

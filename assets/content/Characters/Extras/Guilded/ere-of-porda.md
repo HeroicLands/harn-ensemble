@@ -2,9 +2,11 @@
 shortcode: ereofporda
 name: {full: Ere of Porda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: male
   species: humanflk
   age: 33

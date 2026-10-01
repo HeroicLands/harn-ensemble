@@ -2,10 +2,12 @@
 shortcode: pelynofvalas
 name: {full: Pelyn of Valas, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3102tok
   templatePriority: 1
+  archetypes: [entertainer]
   gender: female
   species: humanflk
   age: 32

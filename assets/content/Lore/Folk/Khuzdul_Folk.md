@@ -4,7 +4,7 @@ name: {full: Khuzdul Folk, aliases: []}
 type: lore
 subType: folk
 description: "The Khuzdul Folk"
-tags: []
+tags: [draft]
 ---
 
 The Khuzdul folk of Kethira.

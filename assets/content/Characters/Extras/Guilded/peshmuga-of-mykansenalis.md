@@ -2,9 +2,11 @@
 shortcode: peshmugaofmykansenalis
 name: {full: Peshmuga of Mykansenalis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: male
   species: humanflk
   age: 18

@@ -2,9 +2,11 @@
 shortcode: illionofmanchi
 name: {full: Illion of Manchi, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, scholar]
   gender: male
   species: humanflk
   age: 27

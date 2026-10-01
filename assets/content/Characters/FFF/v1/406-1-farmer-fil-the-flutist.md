@@ -2,10 +2,12 @@
 shortcode: filtheflutist
 name: {full: Fil the Flutist, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4061tok
   templatePriority: 1
+  archetypes: [entertainer]
   gender: male
   species: humanflk
   age: 43

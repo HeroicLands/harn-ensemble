@@ -2,9 +2,11 @@
 shortcode: girondofelwenalasaka
 name: {full: Girond of Elwenalasaka, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: male
   species: humanflk
   age: 42

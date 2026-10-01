@@ -2,9 +2,11 @@
 shortcode: punatofurgaban
 name: {full: Punat of Urgaban, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: khuzdulflk
   age: 124

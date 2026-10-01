@@ -2,9 +2,11 @@
 shortcode: harlabekofburrak
 name: {full: Harlabek of Burrak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: khuzdulflk
   age: 112

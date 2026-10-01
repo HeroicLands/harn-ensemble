@@ -2,9 +2,11 @@
 shortcode: lusilenaofdyselphus
 name: {full: Lusilena of Dyselphus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: female
   species: humanflk
   age: 21

@@ -2,9 +2,11 @@
 shortcode: captainneridofral
 name: {full: Captain Nerid of Ral, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 34

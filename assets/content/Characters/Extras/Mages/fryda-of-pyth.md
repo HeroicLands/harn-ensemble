@@ -2,9 +2,11 @@
 shortcode: frydaofpyth
 name: {full: Fryda of Pyth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: female
   species: humanflk
   age: 42

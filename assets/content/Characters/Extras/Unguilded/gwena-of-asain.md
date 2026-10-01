@@ -2,9 +2,11 @@
 shortcode: gwenaofasain
 name: {full: Gwena of Asain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: female
   species: humanflk
   age: 41

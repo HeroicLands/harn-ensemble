@@ -2,9 +2,11 @@
 shortcode: boraneofkar
 name: {full: Borane of Kar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: female
   species: humanflk
   age: 32

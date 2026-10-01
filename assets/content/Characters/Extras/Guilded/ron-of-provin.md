@@ -2,9 +2,11 @@
 shortcode: ronofprovin
 name: {full: Ron of Provin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: male
   species: humanflk
   age: 21

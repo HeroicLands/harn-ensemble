@@ -2,9 +2,11 @@
 shortcode: brasakofsarn
 name: {full: Brasak of Sarn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: male
   species: humanflk
   age: 28

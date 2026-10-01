@@ -2,9 +2,11 @@
 shortcode: hervaofsindal
 name: {full: Herva of Sindal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: female
   species: humanflk
   age: 33

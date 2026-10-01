@@ -2,9 +2,11 @@
 shortcode: piriaofquardan
 name: {full: Piria of Quardan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [entertainer]
   gender: female
   species: humanflk
   age: 43

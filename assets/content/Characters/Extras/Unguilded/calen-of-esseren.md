@@ -2,9 +2,11 @@
 shortcode: calenofesseren
 name: {full: Calen of Esseren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: sindarinflk
   age: 264

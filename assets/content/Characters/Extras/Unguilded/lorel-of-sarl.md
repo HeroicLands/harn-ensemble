@@ -2,9 +2,11 @@
 shortcode: lorelofsarl
 name: {full: Lorel of Sarl, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 24

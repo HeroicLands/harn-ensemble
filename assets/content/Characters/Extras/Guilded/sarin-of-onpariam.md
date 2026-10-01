@@ -2,9 +2,11 @@
 shortcode: sarinofonpariam
 name: {full: Sarin of Onpariam, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: female
   species: humanflk
   age: 34

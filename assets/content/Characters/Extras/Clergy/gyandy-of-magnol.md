@@ -2,9 +2,11 @@
 shortcode: gyandyofmagnol
 name: {full: Gyandy of Magnol, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: male
   species: humanflk
   age: 31

@@ -2,9 +2,11 @@
 shortcode: khurdarofgarin
 name: {full: Khurdar of Garin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: khuzdulflk
   age: 95

@@ -2,9 +2,11 @@
 shortcode: gruldelofwytelburitta
 name: {full: Gruldel of Wytelburitta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: female
   species: humanflk
   age: 25

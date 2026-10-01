@@ -2,9 +2,11 @@
 shortcode: raedaofjurbosq
 name: {full: Raeda of Jurbosq, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: female
   species: humanflk
   age: 25

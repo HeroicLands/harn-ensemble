@@ -2,9 +2,11 @@
 shortcode: milniqofelere
 name: {full: Milniq of Elere, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, scholar]
   gender: female
   species: humanflk
   age: 29

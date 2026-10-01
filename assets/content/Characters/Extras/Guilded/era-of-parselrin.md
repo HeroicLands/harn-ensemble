@@ -2,9 +2,11 @@
 shortcode: eraofparselrin
 name: {full: Era of Parselrin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 36

@@ -2,9 +2,11 @@
 shortcode: lysatrisofpayensen
 name: {full: Lysatris of Payensen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, scholar]
   gender: male
   species: humanflk
   age: 36

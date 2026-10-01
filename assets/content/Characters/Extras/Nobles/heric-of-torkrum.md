@@ -2,9 +2,11 @@
 shortcode: hericoftorkrum
 name: {full: Heric of Torkrum, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: khuzdulflk
   age: 128

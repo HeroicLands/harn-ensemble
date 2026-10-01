@@ -2,9 +2,11 @@
 shortcode: makalareenofchardan
 name: {full: Makalareen of Chardan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: male
   species: humanflk
   age: 46

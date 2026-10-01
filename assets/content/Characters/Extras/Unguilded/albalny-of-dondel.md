@@ -2,9 +2,11 @@
 shortcode: albalnyofdondel
 name: {full: Albalny of Dondel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: female
   species: humanflk
   age: 37

@@ -2,9 +2,11 @@
 shortcode: yvalethofeldim
 name: {full: Yvaleth of Eldim, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 36

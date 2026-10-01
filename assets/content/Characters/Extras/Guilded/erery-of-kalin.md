@@ -2,9 +2,11 @@
 shortcode: ereryofkalin
 name: {full: Erery of Kalin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, mariner]
   gender: female
   species: humanflk
   age: 26

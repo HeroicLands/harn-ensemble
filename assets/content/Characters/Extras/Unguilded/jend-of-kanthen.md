@@ -2,9 +2,11 @@
 shortcode: jendofkanthen
 name: {full: Jend of Kanthen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 35

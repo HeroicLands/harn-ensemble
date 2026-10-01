@@ -2,10 +2,12 @@
 shortcode: inaraserra
 name: {full: Inara Serra, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3071tok
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: female
   species: humanflk
   age: 26

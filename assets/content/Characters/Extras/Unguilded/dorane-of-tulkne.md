@@ -2,9 +2,11 @@
 shortcode: doraneoftulkne
 name: {full: Dorane of Tulkne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 26

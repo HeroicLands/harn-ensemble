@@ -2,10 +2,12 @@
 shortcode: dafydstahlman
 name: {full: Dafyd Stahlman, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1161tok
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 22

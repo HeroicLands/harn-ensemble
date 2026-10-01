@@ -2,9 +2,11 @@
 shortcode: mereryoftaldin
 name: {full: Merery of Taldin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, scholar]
   gender: female
   species: humanflk
   age: 44

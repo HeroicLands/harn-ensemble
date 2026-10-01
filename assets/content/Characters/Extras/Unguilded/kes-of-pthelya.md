@@ -2,9 +2,11 @@
 shortcode: kesofpthelya
 name: {full: Kes of Pthelya, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 22

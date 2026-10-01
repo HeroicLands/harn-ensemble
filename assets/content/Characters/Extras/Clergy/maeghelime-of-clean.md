@@ -2,9 +2,11 @@
 shortcode: maeghelimeofclean
 name: {full: Maeghelime of Clean, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: female
   species: humanflk
   age: 31

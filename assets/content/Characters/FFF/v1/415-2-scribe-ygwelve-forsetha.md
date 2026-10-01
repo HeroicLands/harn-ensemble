@@ -2,10 +2,12 @@
 shortcode: ygwelveforsetha
 name: {full: Ygwelve Forsetha, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4152tok
   templatePriority: 1
+  archetypes: [scholar]
   gender: female
   species: humanflk
   age: 21

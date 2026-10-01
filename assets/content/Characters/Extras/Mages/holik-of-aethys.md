@@ -2,9 +2,11 @@
 shortcode: holikofaethys
 name: {full: Holik of Aethys, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, mariner]
   gender: male
   species: humanflk
   age: 29

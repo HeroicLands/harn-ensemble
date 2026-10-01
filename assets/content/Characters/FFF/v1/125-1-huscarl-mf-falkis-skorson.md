@@ -2,10 +2,12 @@
 shortcode: falkisskorson
 name: {full: Falkis Skorson, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1251tok
   templatePriority: 1
+  archetypes: [warrior, mariner]
   gender: male
   species: humanflk
   age: 25

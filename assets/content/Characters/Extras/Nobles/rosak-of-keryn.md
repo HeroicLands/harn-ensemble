@@ -2,9 +2,11 @@
 shortcode: rosakofkeryn
 name: {full: Rosak of Keryn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: female
   species: humanflk
   age: 44

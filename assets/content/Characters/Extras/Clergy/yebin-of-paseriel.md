@@ -2,9 +2,11 @@
 shortcode: yebinofpaseriel
 name: {full: Yebin of Paseriel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: male
   species: humanflk
   age: 31

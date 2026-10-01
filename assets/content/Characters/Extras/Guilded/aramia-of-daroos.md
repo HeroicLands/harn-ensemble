@@ -2,9 +2,11 @@
 shortcode: aramiaofdaroos
 name: {full: Aramia of Daroos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, scholar, guildsperson]
   gender: female
   species: humanflk
   age: 22

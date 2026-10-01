@@ -2,10 +2,12 @@
 shortcode: torisofpeyne
 name: {full: Toris of Peyne, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6071tok
   templatePriority: 1
+  archetypes: [cleric, scholar]
   gender: male
   species: humanflk
   age: 36

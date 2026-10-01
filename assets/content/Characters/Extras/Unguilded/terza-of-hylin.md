@@ -2,9 +2,11 @@
 shortcode: terzaofhylin
 name: {full: Terza of Hylin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, entertainer]
   gender: female
   species: humanflk
   age: 25

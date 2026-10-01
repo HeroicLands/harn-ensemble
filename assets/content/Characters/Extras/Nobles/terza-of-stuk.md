@@ -2,9 +2,11 @@
 shortcode: terzaofstuk
 name: {full: Terza of Stuk, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: female
   species: humanflk
   age: 47

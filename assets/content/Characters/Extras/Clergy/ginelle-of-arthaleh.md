@@ -2,9 +2,11 @@
 shortcode: ginelleofarthaleh
 name: {full: Ginelle of Arthaleh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: female
   species: humanflk
   age: 33

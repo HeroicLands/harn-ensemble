@@ -2,9 +2,11 @@
 shortcode: baeofonpartuna
 name: {full: Bae of Onpartuna, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: female
   species: humanflk
   age: 47

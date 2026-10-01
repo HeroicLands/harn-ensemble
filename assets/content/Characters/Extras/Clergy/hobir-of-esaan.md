@@ -2,9 +2,11 @@
 shortcode: hobirofesaan
 name: {full: Hobir of Esaan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, healer]
   gender: male
   species: humanflk
   age: 33

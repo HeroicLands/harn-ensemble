@@ -2,9 +2,11 @@
 shortcode: zornaofpendal
 name: {full: Zorna of Pendal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric]
   gender: female
   species: humanflk
   age: 27

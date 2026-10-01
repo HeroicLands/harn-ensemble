@@ -2,9 +2,11 @@
 shortcode: urildofbaets
 name: {full: Urild of Baets, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: male
   species: humanflk
   age: 25

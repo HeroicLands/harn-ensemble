@@ -2,10 +2,12 @@
 shortcode: orliroffulkne
 name: {full: Orlir of Fulkne, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3161tok
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 36

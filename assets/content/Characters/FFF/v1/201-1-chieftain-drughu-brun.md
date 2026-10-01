@@ -2,10 +2,12 @@
 shortcode: brun
 name: {full: Brun, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff2011tok
   templatePriority: 1
+  archetypes: [woodsman, courtier]
   gender: male
   species: humanflk
   age: 28

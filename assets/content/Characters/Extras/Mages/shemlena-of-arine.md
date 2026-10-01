@@ -2,9 +2,11 @@
 shortcode: shemlenaofarine
 name: {full: Shemlena of Arine, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, mariner]
   gender: female
   species: humanflk
   age: 35

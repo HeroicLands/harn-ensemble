@@ -2,9 +2,11 @@
 shortcode: trunethasoftarsel
 name: {full: Trunethas of Tarsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 40

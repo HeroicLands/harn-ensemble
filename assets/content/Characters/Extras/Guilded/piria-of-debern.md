@@ -2,9 +2,11 @@
 shortcode: piriaofdebern
 name: {full: Piria of Debern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, guildsperson]
   gender: female
   species: humanflk
   age: 29

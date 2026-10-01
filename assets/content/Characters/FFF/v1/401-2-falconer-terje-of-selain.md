@@ -2,10 +2,12 @@
 shortcode: terjeofselain
 name: {full: Terje of Selain, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4012tok
   templatePriority: 1
+  archetypes: [woodsman]
   gender: male
   species: humanflk
   age: 50

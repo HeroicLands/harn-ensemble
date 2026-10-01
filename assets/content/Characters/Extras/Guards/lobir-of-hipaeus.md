@@ -2,9 +2,11 @@
 shortcode: lobirofhipaeus
 name: {full: Lobir of Hipaeus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 21

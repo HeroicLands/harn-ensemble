@@ -2,9 +2,11 @@
 shortcode: quelicofyorlym
 name: {full: Quelic of Yorlym, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: male
   species: humanflk
   age: 28

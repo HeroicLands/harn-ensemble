@@ -2,9 +2,11 @@
 shortcode: klarinaofokren
 name: {full: Klarina of Okren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [guildsperson]
   gender: female
   species: humanflk
   age: 40

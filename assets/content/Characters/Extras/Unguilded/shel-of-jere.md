@@ -2,9 +2,11 @@
 shortcode: shelofjere
 name: {full: Shel of Jere, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: female
   species: humanflk
   age: 26

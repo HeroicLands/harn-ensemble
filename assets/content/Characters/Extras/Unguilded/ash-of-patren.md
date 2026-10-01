@@ -2,9 +2,11 @@
 shortcode: ashofpatren
 name: {full: Ash of Patren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [woodsman]
   gender: male
   species: humanflk
   age: 27

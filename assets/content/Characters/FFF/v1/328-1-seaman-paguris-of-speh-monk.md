@@ -2,10 +2,12 @@
 shortcode: pagurisofspehmonk
 name: {full: Paguris of Speh (Monk), aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3281tok
   templatePriority: 1
+  archetypes: [mariner]
   gender: male
   species: humanflk
   age: 37

@@ -2,10 +2,12 @@
 shortcode: sirrollarddaudrieu
 name: {full: Sir Rollard d'Audrieu, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5061tok
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 33

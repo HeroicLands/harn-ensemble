@@ -2,9 +2,11 @@
 shortcode: kirlinenofnarael
 name: {full: Kirlinen of Narael, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 30

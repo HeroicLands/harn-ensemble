@@ -2,10 +2,12 @@
 shortcode: koraofserdica
 name: {full: Kora of Serdica, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4991tok
   templatePriority: 1
+  archetypes: [healer, scholar]
   gender: female
   species: humanflk
   age: 59

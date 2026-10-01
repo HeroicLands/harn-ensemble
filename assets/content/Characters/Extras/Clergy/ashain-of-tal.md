@@ -2,9 +2,11 @@
 shortcode: ashainoftal
 name: {full: Ashain of Tal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: male
   species: humanflk
   age: 40

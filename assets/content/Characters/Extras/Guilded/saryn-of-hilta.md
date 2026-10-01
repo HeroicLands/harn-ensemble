@@ -2,9 +2,11 @@
 shortcode: sarynofhilta
 name: {full: Saryn of Hilta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: female
   species: humanflk
   age: 22

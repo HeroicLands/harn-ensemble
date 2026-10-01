@@ -2,9 +2,11 @@
 shortcode: aeradasakofdon
 name: {full: Aeradasak of Don, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 35

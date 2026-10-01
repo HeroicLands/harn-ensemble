@@ -2,9 +2,11 @@
 shortcode: lusilofdysel
 name: {full: Lusil of Dysel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: female
   species: humanflk
   age: 26

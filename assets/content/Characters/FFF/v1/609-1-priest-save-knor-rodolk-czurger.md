@@ -2,10 +2,12 @@
 shortcode: rodolkczurger
 name: {full: Rodolk Czurger, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6091tok
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: male
   species: humanflk
   age: 36

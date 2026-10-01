@@ -2,9 +2,11 @@
 shortcode: brancofamdiror
 name: {full: Branc of Amdiror, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: male
   species: sindarinflk
   age: 287

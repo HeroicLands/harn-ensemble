@@ -2,9 +2,11 @@
 shortcode: merwasofaras
 name: {full: Merwas of Aras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 28

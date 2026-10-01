@@ -2,9 +2,11 @@
 shortcode: mereleofwesaldis
 name: {full: Merele of Wesaldis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher]
   gender: female
   species: humanflk
   age: 32

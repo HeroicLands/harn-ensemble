@@ -2,9 +2,11 @@
 shortcode: thelrenofesaldim
 name: {full: Thelren of Esaldim, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 21

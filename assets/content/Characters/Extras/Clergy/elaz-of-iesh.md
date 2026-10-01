@@ -2,9 +2,11 @@
 shortcode: elazofiesh
 name: {full: Elaz of Iesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, scholar]
   gender: male
   species: humanflk
   age: 37

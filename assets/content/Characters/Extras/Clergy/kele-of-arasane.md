@@ -2,9 +2,11 @@
 shortcode: keleofarasane
 name: {full: Kele of Arasane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: female
   species: humanflk
   age: 45

@@ -2,9 +2,11 @@
 shortcode: zornaofchatil
 name: {full: Zorna of Chatil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader, guildsperson]
   gender: female
   species: humanflk
   age: 39

@@ -2,9 +2,11 @@
 shortcode: doranaofonparion
 name: {full: Dorana of Onparion, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: female
   species: humanflk
   age: 20

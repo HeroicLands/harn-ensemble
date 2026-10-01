@@ -2,9 +2,11 @@
 shortcode: jakkynofdybarsin
 name: {full: Jakkyn of Dybarsin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 38

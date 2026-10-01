@@ -2,9 +2,11 @@
 shortcode: tulahofelen
 name: {full: Tulah of Elen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, healer]
   gender: female
   species: humanflk
   age: 41

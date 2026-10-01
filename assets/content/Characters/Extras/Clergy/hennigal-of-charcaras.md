@@ -2,9 +2,11 @@
 shortcode: hennigalofcharcaras
 name: {full: Hennigal of Charcaras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric]
   gender: male
   species: humanflk
   age: 23

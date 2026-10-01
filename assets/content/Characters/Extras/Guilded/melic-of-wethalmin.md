@@ -2,9 +2,11 @@
 shortcode: melicofwethalmin
 name: {full: Melic of Wethalmin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: male
   species: humanflk
   age: 40

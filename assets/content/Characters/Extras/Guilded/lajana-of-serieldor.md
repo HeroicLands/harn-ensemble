@@ -2,9 +2,11 @@
 shortcode: lajanaofserieldor
 name: {full: Lajana of Serieldor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: female
   species: humanflk
   age: 33

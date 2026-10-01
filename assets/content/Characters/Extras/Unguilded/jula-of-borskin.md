@@ -2,9 +2,11 @@
 shortcode: julaofborskin
 name: {full: Jula of Borskin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [woodsman]
   gender: female
   species: humanflk
   age: 27

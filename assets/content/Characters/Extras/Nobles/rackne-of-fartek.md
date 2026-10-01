@@ -2,9 +2,11 @@
 shortcode: rackneoffartek
 name: {full: Rackne of Fartek, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, guildsperson]
   gender: male
   species: khuzdulflk
   age: 119

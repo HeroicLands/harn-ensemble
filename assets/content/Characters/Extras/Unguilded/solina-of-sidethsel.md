@@ -2,9 +2,11 @@
 shortcode: solinaofsidethsel
 name: {full: Solina of Sidethsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: female
   species: humanflk
   age: 35

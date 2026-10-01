@@ -2,9 +2,11 @@
 shortcode: arbrinofhudusinar
 name: {full: Arbrin of Hudusinar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, healer]
   gender: male
   species: humanflk
   age: 35

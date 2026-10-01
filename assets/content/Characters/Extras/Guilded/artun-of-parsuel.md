@@ -2,9 +2,11 @@
 shortcode: artunofparsuel
 name: {full: Artun of Parsuel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 19

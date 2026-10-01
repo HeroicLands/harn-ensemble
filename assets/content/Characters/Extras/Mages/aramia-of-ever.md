@@ -2,9 +2,11 @@
 shortcode: aramiaofever
 name: {full: Aramia of Ever, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, woodsman]
   gender: female
   species: humanflk
   age: 36

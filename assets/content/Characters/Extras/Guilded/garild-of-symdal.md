@@ -2,9 +2,11 @@
 shortcode: garildofsymdal
 name: {full: Garild of Symdal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: male
   species: humanflk
   age: 36

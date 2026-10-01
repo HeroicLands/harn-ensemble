@@ -2,9 +2,11 @@
 shortcode: shemlenofbarn
 name: {full: Shemlen of Barn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 41

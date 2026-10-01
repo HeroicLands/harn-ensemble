@@ -2,9 +2,11 @@
 shortcode: elanofhilrine
 name: {full: Elan of Hilrine, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, infiltrator, guildsperson]
   gender: male
   species: humanflk
   age: 30

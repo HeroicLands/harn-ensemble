@@ -2,10 +2,12 @@
 shortcode: damelyesagaravania
 name: {full: Dame Lyesa Garavania, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5073tok
   templatePriority: 1
+  archetypes: [warrior, mage]
   gender: female
   species: humanflk
   age: 32

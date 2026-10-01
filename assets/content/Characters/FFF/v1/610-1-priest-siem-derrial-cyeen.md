@@ -2,10 +2,12 @@
 shortcode: derrialcyeen
 name: {full: Derrial Cyeen, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6101tok
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: male
   species: humanflk
   age: 60

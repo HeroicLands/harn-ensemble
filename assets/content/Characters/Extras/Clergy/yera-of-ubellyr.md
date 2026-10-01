@@ -2,9 +2,11 @@
 shortcode: yeraofubellyr
 name: {full: Yera of Ubellyr, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: female
   species: humanflk
   age: 39

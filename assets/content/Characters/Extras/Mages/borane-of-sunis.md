@@ -2,9 +2,11 @@
 shortcode: boraneofsunis
 name: {full: Borane of Sunis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: female
   species: humanflk
   age: 38

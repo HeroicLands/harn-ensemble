@@ -2,9 +2,11 @@
 shortcode: dakaofuro
 name: {full: Daka of Uro, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: female
   species: humanflk
   age: 23

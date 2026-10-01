@@ -2,9 +2,11 @@
 shortcode: keldarithofkal
 name: {full: Keldarith of Kal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: khuzdulflk
   age: 98

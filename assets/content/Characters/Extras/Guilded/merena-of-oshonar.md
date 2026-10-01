@@ -2,9 +2,11 @@
 shortcode: merenaofoshonar
 name: {full: Merena of Oshonar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, woodsman]
   gender: female
   species: humanflk
   age: 42

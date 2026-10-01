@@ -2,9 +2,11 @@
 shortcode: ewenaofstokos
 name: {full: Ewena of Stokos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: female
   species: humanflk
   age: 36

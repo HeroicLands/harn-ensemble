@@ -2,9 +2,11 @@
 shortcode: haffythofplacka
 name: {full: Haffyth of Placka, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, woodsman]
   gender: male
   species: humanflk
   age: 29

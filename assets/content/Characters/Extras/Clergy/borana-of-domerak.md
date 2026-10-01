@@ -2,9 +2,11 @@
 shortcode: boranaofdomerak
 name: {full: Borana of Domerak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: female
   species: humanflk
   age: 37

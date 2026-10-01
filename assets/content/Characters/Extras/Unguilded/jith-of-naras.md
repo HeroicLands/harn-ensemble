@@ -2,9 +2,11 @@
 shortcode: jithofnaras
 name: {full: Jith of Naras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 31

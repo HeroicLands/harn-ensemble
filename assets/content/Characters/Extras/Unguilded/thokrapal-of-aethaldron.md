@@ -2,9 +2,11 @@
 shortcode: thokrapalofaethaldron
 name: {full: Thokrapal of Aethaldron, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: khuzdulflk
   age: 92

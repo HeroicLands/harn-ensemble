@@ -2,9 +2,11 @@
 shortcode: ermekofermek
 name: {full: Ermek of Ermek, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: khuzdulflk
   age: 116

@@ -2,9 +2,11 @@
 shortcode: serenelleofgevrael
 name: {full: Serenelle of Gevrael, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: female
   species: humanflk
   age: 21

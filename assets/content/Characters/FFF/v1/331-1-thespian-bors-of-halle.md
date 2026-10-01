@@ -2,10 +2,12 @@
 shortcode: borsofhalle
 name: {full: Bors of Halle, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3311tok
   templatePriority: 1
+  archetypes: [entertainer]
   gender: male
   species: humanflk
   age: 28

@@ -2,10 +2,12 @@
 shortcode: berikofkestel
 name: {full: Berik of Kestel, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3992tok
   templatePriority: 1
+  archetypes: [woodsman]
   gender: male
   species: humanflk
   age: 8

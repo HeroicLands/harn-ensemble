@@ -2,10 +2,12 @@
 shortcode: mansuquig
 name: {full: Mansu Quig, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6031tok
   templatePriority: 1
+  archetypes: [cleric, scholar]
   gender: male
   species: humanflk
   age: 52

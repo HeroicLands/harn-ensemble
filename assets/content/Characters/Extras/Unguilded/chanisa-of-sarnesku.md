@@ -2,9 +2,11 @@
 shortcode: chanisaofsarnesku
 name: {full: Chanisa of Sarnesku, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: female
   species: humanflk
   age: 17

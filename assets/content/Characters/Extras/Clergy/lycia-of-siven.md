@@ -2,9 +2,11 @@
 shortcode: lyciaofsiven
 name: {full: Lycia of Siven, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: female
   species: humanflk
   age: 40

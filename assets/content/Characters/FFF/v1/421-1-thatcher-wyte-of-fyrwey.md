@@ -2,10 +2,12 @@
 shortcode: wyteoffyrwey
 name: {full: Wyte of Fyrwey, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4211tok
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 51

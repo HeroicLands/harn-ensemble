@@ -2,9 +2,11 @@
 shortcode: ferechofpaseralgurty
 name: {full: Ferech of Paseralgurty, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: male
   species: humanflk
   age: 21

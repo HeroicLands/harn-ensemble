@@ -2,10 +2,12 @@
 shortcode: dagwynofkhael
 name: {full: Dagwyn of Khael, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3141tok
   templatePriority: 1
+  archetypes: [artisan]
   gender: female
   species: humanflk
   age: 23

@@ -2,9 +2,11 @@
 shortcode: dourilofpasenal
 name: {full: Douril of Pasenal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, mariner]
   gender: male
   species: humanflk
   age: 52

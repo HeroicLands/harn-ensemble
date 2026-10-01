@@ -2,9 +2,11 @@
 shortcode: vadirynofmundondel
 name: {full: Vadiryn of Mundondel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric]
   gender: male
   species: humanflk
   age: 24

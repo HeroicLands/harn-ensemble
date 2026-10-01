@@ -2,10 +2,12 @@
 shortcode: rayaldcotrael
 name: {full: Rayald Cotrael, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6041tok
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: male
   species: humanflk
   age: 43

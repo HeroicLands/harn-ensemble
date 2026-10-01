@@ -2,9 +2,11 @@
 shortcode: norbinofasain
 name: {full: Norbin of Asain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 27

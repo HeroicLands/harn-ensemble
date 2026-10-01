@@ -2,9 +2,11 @@
 shortcode: clavroofrabeta
 name: {full: Clavro of Rabeta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, scholar, guildsperson]
   gender: male
   species: humanflk
   age: 42

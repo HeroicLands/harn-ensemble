@@ -2,9 +2,11 @@
 shortcode: totesoflund
 name: {full: Totes of Lund, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: male
   species: humanflk
   age: 26

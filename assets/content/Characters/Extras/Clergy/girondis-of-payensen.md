@@ -2,9 +2,11 @@
 shortcode: girondisofpayensen
 name: {full: Girondis of Payensen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric]
   gender: male
   species: humanflk
   age: 24

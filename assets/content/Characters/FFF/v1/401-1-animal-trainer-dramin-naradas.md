@@ -2,10 +2,12 @@
 shortcode: draminnaradas
 name: {full: Dramin Naradas, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4011tok
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 35

@@ -2,9 +2,11 @@
 shortcode: pontousofpendel
 name: {full: Pontous of Pendel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: female
   species: humanflk
   age: 42

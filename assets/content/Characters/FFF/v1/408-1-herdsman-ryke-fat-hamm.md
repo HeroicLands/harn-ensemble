@@ -2,10 +2,12 @@
 shortcode: rykefathamm
 name: {full: 'Ryke "Fat" Hamm', aliases: [Fat]}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4081tok
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 43

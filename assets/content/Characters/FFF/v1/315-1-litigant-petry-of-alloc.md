@@ -2,10 +2,12 @@
 shortcode: petryofalloc
 name: {full: Petry of Alloc, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3151tok
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 34

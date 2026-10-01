@@ -2,9 +2,11 @@
 shortcode: aramiaofgoselemas
 name: {full: Aramia of Goselemas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: female
   species: humanflk
   age: 34

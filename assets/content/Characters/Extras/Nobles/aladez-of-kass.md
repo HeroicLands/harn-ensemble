@@ -2,9 +2,11 @@
 shortcode: aladezofkass
 name: {full: Aladez of Kass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman, guildsperson]
   gender: male
   species: humanflk
   age: 49

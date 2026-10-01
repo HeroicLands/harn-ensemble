@@ -2,9 +2,11 @@
 shortcode: malhberaofdythasil
 name: {full: Malhbera of Dythasil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: male
   species: humanflk
   age: 21

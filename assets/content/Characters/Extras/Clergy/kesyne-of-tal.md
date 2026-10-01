@@ -2,9 +2,11 @@
 shortcode: kesyneoftal
 name: {full: Kesyne of Tal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: female
   species: humanflk
   age: 24

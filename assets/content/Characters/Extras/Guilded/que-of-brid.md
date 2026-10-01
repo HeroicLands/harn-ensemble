@@ -2,9 +2,11 @@
 shortcode: queofbrid
 name: {full: Que of Brid, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: female
   species: humanflk
   age: 19

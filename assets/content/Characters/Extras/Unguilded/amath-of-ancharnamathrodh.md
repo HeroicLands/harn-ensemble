@@ -2,9 +2,11 @@
 shortcode: amathofancharnamathrodh
 name: {full: Amath of Ancharnamathrodh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: female
   species: sindarinflk
   age: 262

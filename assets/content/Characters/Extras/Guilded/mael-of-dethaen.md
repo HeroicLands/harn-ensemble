@@ -2,9 +2,11 @@
 shortcode: maelofdethaen
 name: {full: Mael of Dethaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 32

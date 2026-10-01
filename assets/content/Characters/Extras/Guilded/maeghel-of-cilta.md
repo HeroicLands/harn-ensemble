@@ -2,9 +2,11 @@
 shortcode: maeghelofcilta
 name: {full: Maeghel of Cilta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: female
   species: humanflk
   age: 29

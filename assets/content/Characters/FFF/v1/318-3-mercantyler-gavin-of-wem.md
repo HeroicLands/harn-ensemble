@@ -2,10 +2,12 @@
 shortcode: gavinofwem
 name: {full: Gavin of Wem, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3183tok
   templatePriority: 1
+  archetypes: [trader]
   gender: male
   species: humanflk
   age: 46

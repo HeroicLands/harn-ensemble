@@ -2,9 +2,11 @@
 shortcode: lusilineofamafa
 name: {full: Lusiline of Amafa, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: female
   species: humanflk
   age: 27

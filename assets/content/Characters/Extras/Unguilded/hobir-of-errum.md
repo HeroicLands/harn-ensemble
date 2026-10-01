@@ -2,9 +2,11 @@
 shortcode: hobiroferrum
 name: {full: Hobir of Errum, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: khuzdulflk
   age: 112

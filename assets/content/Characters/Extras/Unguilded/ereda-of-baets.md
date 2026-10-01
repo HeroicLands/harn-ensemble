@@ -2,9 +2,11 @@
 shortcode: eredaofbaets
 name: {full: Ereda of Baets, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: female
   species: humanflk
   age: 21

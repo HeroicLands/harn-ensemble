@@ -2,9 +2,11 @@
 shortcode: marlyseofthoff
 name: {full: Marlyse of Thoff, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: female
   species: humanflk
   age: 37

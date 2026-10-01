@@ -2,9 +2,11 @@
 shortcode: belphenofcinnogamath
 name: {full: Belphen of Cinnogamath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: sindarinflk
   age: 197

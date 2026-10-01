@@ -2,10 +2,12 @@
 shortcode: seelieofkestel
 name: {full: Seelie of Kestel, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3021tok
   templatePriority: 1
+  archetypes: [healer]
   gender: female
   species: humanflk
   age: 30

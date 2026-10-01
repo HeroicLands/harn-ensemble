@@ -2,9 +2,11 @@
 shortcode: shaelofparina
 name: {full: Shael of Parina, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, mariner]
   gender: female
   species: humanflk
   age: 36

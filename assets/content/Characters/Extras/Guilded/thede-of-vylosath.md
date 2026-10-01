@@ -2,9 +2,11 @@
 shortcode: thedeofvylosath
 name: {full: Thede of Vylosath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar, artisan]
   gender: female
   species: humanflk
   age: 33

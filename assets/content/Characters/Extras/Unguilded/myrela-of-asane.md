@@ -2,9 +2,11 @@
 shortcode: myrelaofasane
 name: {full: Myrela of Asane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 32
