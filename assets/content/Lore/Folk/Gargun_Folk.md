@@ -4,7 +4,7 @@ name: {full: Gargun Folk, aliases: []}
 type: lore
 subType: folk
 description: "The Gargun Folk"
-tags: []
+tags: [draft]
 ---
 
 The Gargun folk of Kethira.
