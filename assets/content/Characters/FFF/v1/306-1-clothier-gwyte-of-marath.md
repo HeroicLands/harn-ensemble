@@ -553,7 +553,7 @@ sohl:
 
 **Title**: FFF 306-1 Clothier
 **Birthday**: 18 Halane 687
-**Appearance**: Age 32, height 5' 9", medium frame, weight 157 lb, attractive appearance, fair complexion, brown hair, grey eyes
+**Appearance**: Age 32, height 5' 4", heavy frame, weight 178 lb, attractive appearance, fair complexion, brown hair, grey eyes
 **Medical/Psyche**: Overweight
 **Size**: 7
 **Armor**: Fine cloth robe and embroidered felt hat, fine cloth leggings, wool cloak and leather shoes, ornate dagger (WQ +1)

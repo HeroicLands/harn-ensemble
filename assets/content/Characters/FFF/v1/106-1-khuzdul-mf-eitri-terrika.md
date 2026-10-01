@@ -616,9 +616,9 @@ sohl:
 
 **Title**: FFF 106-1 Khuzdul MF
 **Birthday**: 11 Kelen 619
-**Appearance**: Age 100, height 4'9", massive frame, weight 145 lb, average appearance, fair complexion, red hair, green eyes.
+**Appearance**: Age 100, height 4'9", massive frame, weight 138 lb, average appearance, fair complexion, red hair, green eyes.
 **Medical/Psyche**: None
-**Size**: 4
+**Size**: 6
 **Armor**: Fine quality heavy cloth tunic and leggings, shortsleeved quilt gambeson, Khuzan mail byrnie, leather belt and shoes, dagger, Khuzan short sword and hammer-axe. Add quilt cowl, Khuzan plate helm and steel round shield if he has time to prepare.
 **Other Equipment**: Belt pouch, tinder box, elaborately decorated pipe and pouch of pipeweed, mule (named Stubborn), campaigning gear.
 **Valuables**: 360d in silver, 2 gold coins (320d each), large gold earrings, silver belt buckle.

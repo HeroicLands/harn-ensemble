@@ -13,7 +13,7 @@ data:
   age: 21
   born: 698.74
   height: 5' 10"
-  weight: 178 lbs
+  weight: 176 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -546,7 +546,7 @@ sohl:
 **Social Class**: Tribesman
 **Height**: 5 ft 10 in
 **Frame**: Heavy
-**Weight**: 178 lb
+**Weight**: 176 lb
 **Appearance**: Plain
 **Hair Colour**: Black
 **Eye Colour**: Hazel
