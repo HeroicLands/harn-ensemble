@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: sWohDlkTyQ1MaTC4
   packFolder: extrasserfs
   social: {occupation: Farmer, class: unguilded, society: feudal, organizations: []}
 hm3:

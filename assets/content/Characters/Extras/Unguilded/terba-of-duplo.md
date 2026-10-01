@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: 5kiga0OHUMn4LMkW
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

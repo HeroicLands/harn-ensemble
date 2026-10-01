@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: kdP1iDUTfmBJ6AlG
   packFolder: extrasunguilded
   social: {occupation: Cartographer/Artist, class: guilded, society: feudal, organizations: []}
 hm3:

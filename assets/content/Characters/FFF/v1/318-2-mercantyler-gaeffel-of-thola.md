@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: GG4L9Xd23Q5kFfeY
   packFolder: fffguilded
   social: {occupation: Mercantyler, class: freeman, society: feudal, organizations: []}
 hm3:

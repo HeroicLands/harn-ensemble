@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: aQUDwWjvC4a7LUKh
   packFolder: extrasunguilded
   social:
     occupation: Sindarin Ranger, Light

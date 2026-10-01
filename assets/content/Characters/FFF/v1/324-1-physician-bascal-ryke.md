@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Purple birthmark on right ear, Dresses all in black]
   harnworld: {realm: "", ritual: [peoni]}
-  id: EH1Rs3rQVVy0oBAt
   packFolder: fffguilded
   social: {occupation: Physician, class: freeman, society: feudal, organizations: []}
 hm3:

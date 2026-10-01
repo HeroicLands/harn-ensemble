@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: h21BxamTMKWdtlnC
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Jmorvi*", class: serf, society: feudal, organizations: []}
 hm3:

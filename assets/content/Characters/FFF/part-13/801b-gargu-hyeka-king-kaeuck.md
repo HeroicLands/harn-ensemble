@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Wheezing, Belt of human hands, human hair tassels]
   harnworld: {realm: "", ritual: []}
-  id: Df28UjH6GUtBDEX7
   packFolder: fffnonhumans
   social: {occupation: King, class: king, society: gargun (hyeka), organizations: []}
 hm3:

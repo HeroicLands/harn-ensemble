@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: Zky2DT1A9SbyHQWL
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

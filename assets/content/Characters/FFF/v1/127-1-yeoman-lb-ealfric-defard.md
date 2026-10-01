@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Scar (right forearm), Moustache]
   harnworld: {realm: "", ritual: [larani]}
-  id: oRNGkprsEqxEhkDw
   packFolder: fffmilitary
   social: {occupation: Yeoman Archer, class: freeman, society: feudal, organizations: []}
 hm3:

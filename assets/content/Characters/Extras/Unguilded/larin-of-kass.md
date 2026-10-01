@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: c6QYSftJxyVVDnMf
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

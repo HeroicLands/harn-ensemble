@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: BoUl7sW8Metk48Vx
   packFolder: extrasunguilded
   social:
     occupation: Feudal Yeoman, Longbow

@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: WdNMLA8z7dG038Gy
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
 hm3:

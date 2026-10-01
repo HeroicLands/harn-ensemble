@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: nj9kMcW8VgPZb55m
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

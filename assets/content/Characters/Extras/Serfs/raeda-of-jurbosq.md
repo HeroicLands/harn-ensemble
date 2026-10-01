@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: EiCHMmXOe8FVvllO
   packFolder: extrasserfs
   social: {occupation: Herdsman, class: unguilded, society: feudal, organizations: []}
 hm3:

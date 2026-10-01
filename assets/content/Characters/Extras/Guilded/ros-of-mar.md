@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: z5oSf9nH9KjC16k5
   packFolder: extrasguilded
   social: {occupation: Timberwright, class: unguilded, society: feudal, organizations: []}
 hm3:

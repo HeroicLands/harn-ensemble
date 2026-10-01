@@ -22,7 +22,6 @@ data:
     complexion: hideous
     extra_features: [Obese]
   harnworld: {realm: "", ritual: []}
-  id: q3CWI4spzMWAUE77
   packFolder: fffnonhumans
   social: {occupation: Queen, class: queen, society: gargun (araki), organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: Rpd7rY7LFZ7wTB4G
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Lyahvi****"

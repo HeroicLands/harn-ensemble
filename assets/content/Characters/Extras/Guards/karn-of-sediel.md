@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: d1UQQea4Zp8f09wN
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: VMA4xMJkwXQPk7DM
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: princess, society: gargun (khanu), organizations: []}
 hm3:

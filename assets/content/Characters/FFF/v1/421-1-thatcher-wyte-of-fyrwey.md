@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: awKuFaoeX8MPhTj1
   packFolder: fffunguilded
   social: {occupation: Thatcher, class: freeman, society: feudal, organizations: []}
 hm3:

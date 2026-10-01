@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: f8SoAHVkq8I3dupm
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Clansman, class: noble, society: feudal, organizations: []}
 hm3:

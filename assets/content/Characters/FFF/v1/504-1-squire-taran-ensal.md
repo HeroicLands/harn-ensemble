@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Freckles]
   harnworld: {realm: "", ritual: []}
-  id: SyAnstLAXUJg1mNZ
   packFolder: fffnobles
   social: {occupation: Squire, class: noble, society: feudal, organizations: []}
 hm3:

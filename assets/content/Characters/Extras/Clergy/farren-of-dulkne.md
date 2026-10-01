@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [morgath]}
-  id: X3yzJuIpsLmPuJAZ
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: xlBiFxs52Pe6Os9X
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

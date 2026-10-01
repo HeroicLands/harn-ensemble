@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: PKtr9LFsHZ3AbCrG
   packFolder: extrasunguilded
   social: {occupation: Sage/Tutor, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: o1TBjF89VeUt8Gxh
   packFolder: fffmilitary
   social: {occupation: Fighting Order (MF), class: freeman, society: feudal, organizations: []}
 hm3:

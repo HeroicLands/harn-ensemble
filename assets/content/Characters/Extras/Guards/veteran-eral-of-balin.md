@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: UCWBf7qKU8EU7PNM
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

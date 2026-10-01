@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [naveh, peoni]}
-  id: 78QD3CkEWFGwFie3
   packFolder: fffclergy
   social: {occupation: Navehan Priestess, class: freeman, society: feudal, organizations: []}
 hm3:

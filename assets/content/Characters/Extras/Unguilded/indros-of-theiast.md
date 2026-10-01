@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: QLgb6f337cM9U3O5
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Low Guard, class: guilded, society: feudal, organizations: []}
 hm3:

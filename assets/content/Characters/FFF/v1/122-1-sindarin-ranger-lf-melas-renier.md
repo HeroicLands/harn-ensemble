@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
-  id: fmub4svRhzTqgHvi
   packFolder: fffmilitary
   social: {occupation: Ranger, class: freeman, society: feudal, organizations: []}
 hm3:

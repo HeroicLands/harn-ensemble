@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: HvgNXt1IWsqBrc8s
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
 hm3:

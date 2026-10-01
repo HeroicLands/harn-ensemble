@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: CojMCxUGPSxW4odC
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Fyvria*****"

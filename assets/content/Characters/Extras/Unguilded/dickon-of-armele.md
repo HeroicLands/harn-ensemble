@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
-  id: gKEuQXQYeWKSExBV
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: eFvZygz9CV63TwE2
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Lyahvi****"

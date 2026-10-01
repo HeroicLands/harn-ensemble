@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: oTyUVze5gYHUb9i5
   packFolder: extrasguilded
   social: {occupation: Tentmaker, class: guilded, society: feudal, organizations: []}
 hm3:

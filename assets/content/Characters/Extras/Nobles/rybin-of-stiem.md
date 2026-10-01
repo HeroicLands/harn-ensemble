@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: ZehF6RbJOY5RSqrk
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

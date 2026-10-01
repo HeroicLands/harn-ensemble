@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 6EAeWehWoC2WdfAK
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

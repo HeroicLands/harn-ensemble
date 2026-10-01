@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: [peoni]}
-  id: BQ62VXibfTIXxj5e
   packFolder: extrasclergy
   social: {occupation: Cleric/Peoni, class: noble, society: feudal, organizations: []}
 hm3:

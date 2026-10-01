@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: peuxsqoUAcPPfrBH
   packFolder: extrasunguilded
   social:
     occupation: Feudal Guardsman, Heavy

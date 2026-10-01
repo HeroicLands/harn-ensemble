@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: bSVUg0i7ZcTMFWiu
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Heavy

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: WuGUitidBgg85Qex
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: unguilded, society: feudal, organizations: []}
 hm3:

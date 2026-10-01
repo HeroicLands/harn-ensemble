@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [naveh]}
-  id: AaGuFCouBtmrPRdj
   packFolder: fffclergy
   social: {occupation: Priest of Naveh, class: freeman, society: feudal, organizations: []}
 hm3:

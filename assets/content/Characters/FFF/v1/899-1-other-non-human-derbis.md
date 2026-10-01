@@ -19,7 +19,6 @@ data:
     complexion: frightening
     extra_features: []
   harnworld: {realm: "", ritual: [urklam]}
-  id: J9U0KvmS9VfntWx5
   packFolder: fffnonhumans
   social: {occupation: Hunter, class: n/a, society: ogre, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: OrWbxVoWHuriJJl1
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Medium

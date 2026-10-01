@@ -22,7 +22,6 @@ data:
     complexion: shifty
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: f6i26XWJPVGgm6VV
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: slave, society: gargun (araki), organizations: []}
 hm3:

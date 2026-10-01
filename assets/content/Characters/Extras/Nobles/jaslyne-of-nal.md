@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: vCQvAtReknzdjqoY
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Medium

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: xbnX5XrfiGSK4p2n
   packFolder: extrasguilded
   social: {occupation: Glassworker, class: serf, society: feudal, organizations: []}
 hm3:

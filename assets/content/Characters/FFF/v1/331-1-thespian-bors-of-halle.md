@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: GYWvGsJdLbkbcVDO
   packFolder: fffguilded
   social: {occupation: Thespian, class: freeman, society: feudal, organizations: []}
 hm3:

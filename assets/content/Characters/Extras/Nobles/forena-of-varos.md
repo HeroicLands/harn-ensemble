@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 14Ra5OjXkKStMXo3
   packFolder: extrasnobles
   social: {occupation: Baliff, class: noble, society: feudal, organizations: []}
 hm3:

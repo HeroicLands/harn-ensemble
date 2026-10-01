@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: z1gR19SzKkp8emVX
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Heavy

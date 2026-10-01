@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: kUnuTWeQGt7CrjHj
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Peleahn****"

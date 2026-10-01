@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: Iv0kpjakXbM1hOSE
   packFolder: extrasguilded
   social: {occupation: Ostler, class: noble, society: feudal, organizations: []}
 hm3:

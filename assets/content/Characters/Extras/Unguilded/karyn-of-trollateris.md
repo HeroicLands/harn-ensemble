@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: zi5kEzFaO7yQ6xpf
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

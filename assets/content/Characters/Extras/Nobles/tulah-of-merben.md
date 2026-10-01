@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: EVU6m4OAL7zp2PJY
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

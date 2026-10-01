@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: CB3RxkK05youflE8
   packFolder: extrasguilded
   social: {occupation: Litigant, class: guilded, society: feudal, organizations: []}
 hm3:

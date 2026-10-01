@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: Tw7v46qDPFLQrmPJ
   packFolder: fffnobles
   social: {occupation: Knight Bachelor (MH), class: noble, society: feudal, organizations: []}
 hm3:

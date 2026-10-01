@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: Raij3zcZsRwikfRO
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: HrqAOS60QRUkYsse
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: serf, society: feudal, organizations: []}
 hm3:

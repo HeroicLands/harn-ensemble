@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: 8op3vcqRYg32R2Bb
   packFolder: fffmilitary
   social: {occupation: Huscarl (MF), class: freeman, society: viking, organizations: []}
 hm3:

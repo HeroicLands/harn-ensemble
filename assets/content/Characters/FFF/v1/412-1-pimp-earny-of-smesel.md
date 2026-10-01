@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Ringworm, missing his front teeth, Very violent]
   harnworld: {realm: "", ritual: []}
-  id: F50ca7QxQTd0R0an
   packFolder: fffunguilded
   social: {occupation: Pimp, class: freeman, society: feudal, organizations: []}
 hm3:

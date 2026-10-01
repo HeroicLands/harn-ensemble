@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: vuv7TcTW1wT2fOxw
   packFolder: extrasguilded
   social: {occupation: Litigant, class: noble, society: feudal, organizations: []}
 hm3:

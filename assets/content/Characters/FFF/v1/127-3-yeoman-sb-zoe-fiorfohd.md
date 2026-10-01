@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Dark complexion, long curly hair]
   harnworld: {realm: "", ritual: [siem]}
-  id: RVwOS24RmbplzdmD
   packFolder: fffmilitary
   social: {occupation: Yeoman (SB), class: freeman, society: feudal, organizations: []}
 hm3:

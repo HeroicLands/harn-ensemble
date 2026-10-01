@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: kT4yjXVjc854BdHx
   packFolder: extrasguilded
   social: {occupation: Astrologer, class: noble, society: feudal, organizations: []}
 hm3:

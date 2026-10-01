@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Expensive, foppish clothes]
   harnworld: {realm: "", ritual: [larani]}
-  id: f3ABHIZWjs5Fq7o6
   packFolder: fffnobles
   social: {occupation: Noble Offspring, class: noble, society: feudal, organizations: []}
 hm3:

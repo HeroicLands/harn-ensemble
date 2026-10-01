@@ -23,7 +23,6 @@ data:
     complexion: plain
     extra_features: [Poor hygiene, Filthy clothes, stench, unkempt appearance, flies]
   harnworld: {realm: "", ritual: [saveknor]}
-  id: 3gj42cB0umNbiGez
   packFolder: fffmages
   social: {occupation: Shek-Pvar, class: freeman, society: feudal, organizations: []}
 hm3:

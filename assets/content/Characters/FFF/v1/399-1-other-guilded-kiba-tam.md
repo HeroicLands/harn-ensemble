@@ -22,7 +22,6 @@ data:
     complexion: beautiful
     extra_features: [Sometimes speaks in nonsense sentences]
   harnworld: {realm: "", ritual: [halea, agrik]}
-  id: AFQOLZIVfy1eFIZV
   packFolder: fffguilded
   social: {occupation: Guildsman's offspring, class: freeman, society: viking, organizations: []}
 hm3:

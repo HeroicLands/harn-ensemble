@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Left handed]
   harnworld: {realm: "", ritual: [naveh]}
-  id: HDRSNCscXIBC8Rxv
   packFolder: fffmilitary
   social: {occupation: Mercenary (MF), class: freeman, society: imperial, organizations: []}
 hm3:

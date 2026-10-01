@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: DkuFwjjxc2gNVku6
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

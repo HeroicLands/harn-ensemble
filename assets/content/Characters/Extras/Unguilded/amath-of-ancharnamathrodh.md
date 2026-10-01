@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: XYfvT78tvPowV5aB
   packFolder: extrasunguilded
   social:
     occupation: Sindarin Ranger, Light

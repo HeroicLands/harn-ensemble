@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: AVXIma9S3IBAoNQ8
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Lyahvi***", class: unguilded, society: feudal, organizations: []}
 hm3:

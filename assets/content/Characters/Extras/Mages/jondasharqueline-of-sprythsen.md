@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: upobA7LAgX4Fc5OE
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Savorya**", class: serf, society: feudal, organizations: []}
 hm3:

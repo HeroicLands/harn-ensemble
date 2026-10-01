@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: kCGUP2o5AGfbTV6f
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: unguilded, society: feudal, organizations: []}
 hm3:

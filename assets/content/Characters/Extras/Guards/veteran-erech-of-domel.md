@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: lXgOISgAiG6JxaOm
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

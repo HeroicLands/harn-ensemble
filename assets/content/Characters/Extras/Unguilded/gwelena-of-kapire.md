@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: FDXxxbYBLQs9JOkZ
   packFolder: extrasunguilded
   social: {occupation: Feudal Militia, class: unguilded, society: feudal, organizations: []}
 hm3:

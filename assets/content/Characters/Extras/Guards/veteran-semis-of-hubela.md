@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: 7gdyJMlLagAiXL88
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

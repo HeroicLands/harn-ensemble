@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
-  id: cLnhyY4QXQWraFxa
   packFolder: fffmilitary
   social: {occupation: Sea Captain, class: freeman, society: feudal, organizations: []}
 hm3:

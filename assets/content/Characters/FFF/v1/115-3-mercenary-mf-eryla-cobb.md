@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Crude, lecherous]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: HMdk5hHSK8CiaDIO
   packFolder: fffmilitary
   social: {occupation: Mercenary (MF), class: freeman, society: feudal, organizations: []}
 hm3:

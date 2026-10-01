@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: [Very pink skin]
   harnworld: {realm: "", ritual: [saveknor]}
-  id: NTpfBJMBRsq9IrV9
   packFolder: fffguilded
   social: {occupation: Litigant, class: freeman, society: feudal, organizations: []}
 hm3:

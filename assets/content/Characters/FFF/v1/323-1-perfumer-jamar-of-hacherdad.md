@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [nalma]}
-  id: HA20lpK82ZkXFWXH
   packFolder: fffguilded
   social: {occupation: Perfumer, class: freeman, society: feudal, organizations: []}
 hm3:

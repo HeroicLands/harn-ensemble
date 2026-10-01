@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: lby0K9GfU0kgrSCE
   packFolder: extrasguilded
   social: {occupation: Timberwright, class: guilded, society: feudal, organizations: []}
 hm3:

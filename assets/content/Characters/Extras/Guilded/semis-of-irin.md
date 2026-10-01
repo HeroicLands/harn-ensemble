@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: mPNo94KHvuPqaqxD
   packFolder: extrasguilded
   social: {occupation: Apothecary, class: serf, society: feudal, organizations: []}
 hm3:

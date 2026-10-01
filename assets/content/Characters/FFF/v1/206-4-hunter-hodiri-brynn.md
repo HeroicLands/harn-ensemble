@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Scars on both cheeks, Beard, tribal tattoos]
   harnworld: {realm: "", ritual: []}
-  id: xXKM2CAPcBrSpgks
   packFolder: fffbarbarians
   social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
 hm3:

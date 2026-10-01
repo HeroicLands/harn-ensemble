@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: RWymnuimvX4tvFSL
   packFolder: fffnobles
   social: {occupation: Page, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: S4NHCjrce7sfnCtA
   packFolder: fffmilitary
   social: {occupation: Legionnaire (LF), class: freeman, society: imperial, organizations: []}
 hm3:

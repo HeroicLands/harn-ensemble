@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: 5MZBLwsR6LjPGO8X
   packFolder: extrasguilded
   social: {occupation: Ostler, class: unguilded, society: feudal, organizations: []}
 hm3:

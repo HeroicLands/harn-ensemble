@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Strange accent]
   harnworld: {realm: "", ritual: [christian]}
-  id: otiVCxlD88xv2bcy
   packFolder: fffnobles
   social: {occupation: Tournament knight, class: noble, society: feudal, organizations: []}
 hm3:

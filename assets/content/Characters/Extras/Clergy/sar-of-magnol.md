@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
-  id: kyarh8uIHBfLQr9g
   packFolder: extrasclergy
   social: {occupation: Cleric/Ilvir, class: guilded, society: feudal, organizations: []}
 hm3:

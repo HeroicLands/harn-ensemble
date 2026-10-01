@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [saveknor]}
-  id: vH8CEFvFCDQc2AlS
   packFolder: fffguilded
   social: {occupation: Astrologer, class: freeman, society: feudal, organizations: []}
 hm3:

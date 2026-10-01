@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: YPPJhIhpL9Tmqn5l
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Low Guard, class: guilded, society: feudal, organizations: []}
 hm3:

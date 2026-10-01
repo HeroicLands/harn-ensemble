@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: 6UNH27eqndOv41eF
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

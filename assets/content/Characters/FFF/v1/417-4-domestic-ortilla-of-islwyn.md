@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: 4JcndVkB4LNsvkyY
   packFolder: fffunguilded
   social: {occupation: Chief domestic, class: freeman, society: feudal, organizations: []}
 hm3:

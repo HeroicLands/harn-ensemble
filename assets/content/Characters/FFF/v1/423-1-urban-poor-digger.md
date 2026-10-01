@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Several scars, a limp, Speaks very slowly]
   harnworld: {realm: "", ritual: [peoni, larani]}
-  id: UChsLQBJKBQG7CpD
   packFolder: fffunguilded
   social: {occupation: Day labourer, class: freeman, society: feudal, organizations: []}
 hm3:

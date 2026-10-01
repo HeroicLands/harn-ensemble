@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: nAo1gNBkgrEoqHcy
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

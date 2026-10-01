@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
-  id: K7OUdkElL9LjNO3R
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: guilded, society: feudal, organizations: []}
 hm3:

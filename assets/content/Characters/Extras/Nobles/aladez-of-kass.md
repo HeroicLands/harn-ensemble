@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: GJyjk2QOG3LusAYd
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: guilded, society: feudal, organizations: []}
 hm3:

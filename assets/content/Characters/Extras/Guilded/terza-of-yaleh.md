@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: ylj45a0fHgPFjYql
   packFolder: extrasguilded
   social: {occupation: Seaman, class: serf, society: feudal, organizations: []}
 hm3:

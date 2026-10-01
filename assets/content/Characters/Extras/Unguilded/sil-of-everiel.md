@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: Vi5f5Y8gfgXq6Fy5
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

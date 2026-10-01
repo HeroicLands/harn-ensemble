@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Extensive scars on his legs]
   harnworld: {realm: "", ritual: [peoni]}
-  id: uqI4EAEZSpu2tj3v
   packFolder: fffmilitary
   social: {occupation: Manservant, class: freeman ex-slave, society: imperial, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: iAD2jY6TbYqRxd5m
   packFolder: extrasguilded
   social: {occupation: Ostler, class: guilded, society: feudal, organizations: []}
 hm3:

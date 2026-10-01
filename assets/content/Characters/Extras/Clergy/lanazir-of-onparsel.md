@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: [larani]}
-  id: 2y6eZOStzMA2tJT6
   packFolder: extrasclergy
   social: {occupation: Cleric/Larani, class: guilded, society: feudal, organizations: []}
 hm3:

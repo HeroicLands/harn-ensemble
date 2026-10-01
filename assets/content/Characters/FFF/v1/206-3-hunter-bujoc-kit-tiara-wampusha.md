@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Hair is cut short like a man]
   harnworld: {realm: "", ritual: [sha]}
-  id: zIkSmQfFvJZkJ652
   packFolder: fffbarbarians
   social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
 hm3:

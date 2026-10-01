@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: UZY4fDaKJLgDoyKQ
   packFolder: fffunguilded
   social: {occupation: Cartographer, class: freeman, society: feudal, organizations: []}
 hm3:

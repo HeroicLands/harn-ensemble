@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: q57uLJi7Vt34DjOC
   packFolder: fffunguilded
   social: {occupation: Huntsman, class: freeman, society: feudal, organizations: []}
 hm3:

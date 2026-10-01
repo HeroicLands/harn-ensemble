@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Persistent cough, Trembling hands]
   harnworld: {realm: "", ritual: [larani]}
-  id: I0KXgGBzbsH784FH
   packFolder: fffnobles
   social: {occupation: Bailiff, class: noble, society: feudal, organizations: []}
 hm3:

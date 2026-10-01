@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: uLRsfMf8WHh6hxT8
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Medium

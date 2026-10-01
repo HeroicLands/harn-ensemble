@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: DgTXQI1hu3wnsXjL
   packFolder: extrasguilded
   social: {occupation: Mercantyler, class: guilded, society: feudal, organizations: []}
 hm3:

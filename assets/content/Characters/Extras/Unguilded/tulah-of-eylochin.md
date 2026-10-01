@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: whzVj3jYBl1W98jU
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: guilded, society: feudal, organizations: []}
 hm3:

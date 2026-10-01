@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: zo0CrwVKDUeOBwCt
   packFolder: extrasserfs
   social: {occupation: Servant, class: noble, society: feudal, organizations: []}
 hm3:

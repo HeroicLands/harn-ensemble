@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: xBG7e3JDZqEwqYjd
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

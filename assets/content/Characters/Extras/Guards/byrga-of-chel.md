@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: bPVzJyijugBxHUFp
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

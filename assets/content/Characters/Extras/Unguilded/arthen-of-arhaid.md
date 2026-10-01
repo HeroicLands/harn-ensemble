@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: G0ad9UyjzbTzgepA
   packFolder: extrasunguilded
   social: {occupation: Sindarin Guardian, class: unguilded, society: feudal, organizations: []}
 hm3:

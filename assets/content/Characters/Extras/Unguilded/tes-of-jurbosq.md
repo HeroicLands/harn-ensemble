@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: xg5GzUXA5bAIYQ1a
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

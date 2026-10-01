@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Pox marks, parasites, dwarfism]
   harnworld: {realm: "", ritual: [peoni]}
-  id: w2vH7cnipVCJSRLA
   packFolder: fffunguilded
   social: {occupation: Labourer, class: freeman ex-slave, society: viking, organizations: []}
 hm3:

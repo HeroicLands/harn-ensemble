@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: b2uEHjrfdUmSHbPu
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Peleahn*", class: serf, society: feudal, organizations: []}
 hm3:

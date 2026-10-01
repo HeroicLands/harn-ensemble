@@ -22,7 +22,6 @@ data:
     complexion: beautiful
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: cHaUpTHhhkvOD5XM
   packFolder: fffclergy
   social: {occupation: Shenasene, class: freeman, society: viking, organizations: []}
 hm3:

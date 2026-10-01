@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: [morgath]}
-  id: P2d6XqB7p43xv4eG
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: serf, society: feudal, organizations: []}
 hm3:

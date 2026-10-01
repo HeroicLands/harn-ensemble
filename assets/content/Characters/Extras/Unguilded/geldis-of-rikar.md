@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: mXKa3MFWlHI2iww8
   packFolder: extrasunguilded
   social: {occupation: Imperial Militia, class: serf, society: feudal, organizations: []}
 hm3:

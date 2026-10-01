@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: tCS1ybQdOAdXw8qP
   packFolder: fffmilitary
   social: {occupation: Yeoman (LF), class: freeman, society: feudal, organizations: []}
 hm3:

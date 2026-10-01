@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: z5xpHQtxnzmW6FLu
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

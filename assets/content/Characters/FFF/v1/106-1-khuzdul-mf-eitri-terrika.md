@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache & beard]
   harnworld: {realm: "", ritual: [siem]}
-  id: m0mas15prhAdcHKM
   packFolder: fffmilitary
   social: {occupation: Clansman (MF), class: freeman, society: khuzdul, organizations: []}
 hm3:

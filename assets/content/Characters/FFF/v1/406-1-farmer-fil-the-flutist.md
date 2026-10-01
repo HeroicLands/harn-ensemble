@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Beard]
   harnworld: {realm: "", ritual: [peoni]}
-  id: 57qWk1toAOdwLZ27
   packFolder: fffunguilded
   social: {occupation: Farmer, class: freeman, society: feudal, organizations: []}
 hm3:

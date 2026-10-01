@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [morgath]}
-  id: HHcvJ9JQknGYolzi
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: guilded, society: feudal, organizations: []}
 hm3:

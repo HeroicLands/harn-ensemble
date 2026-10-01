@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: eEoJ9VHeejSO5kKx
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

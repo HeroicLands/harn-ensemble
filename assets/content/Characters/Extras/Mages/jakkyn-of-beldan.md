@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: ZE3p9NW6NVJEvBz8
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Peleahn**", class: unguilded, society: feudal, organizations: []}
 hm3:

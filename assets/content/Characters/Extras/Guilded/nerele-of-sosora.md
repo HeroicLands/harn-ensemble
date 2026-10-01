@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: CfUxG3tfwKjLBySU
   packFolder: extrasguilded
   social: {occupation: Glassworker, class: unguilded, society: feudal, organizations: []}
 hm3:

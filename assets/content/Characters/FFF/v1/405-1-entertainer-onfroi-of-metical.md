@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: zGz4dPoGVKfmdnUR
   packFolder: fffunguilded
   social: {occupation: Entertainer, class: freeman, society: feudal, organizations: []}
 hm3:

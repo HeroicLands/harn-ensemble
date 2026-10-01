@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: jNDzSo3dg8VHTvrk
   packFolder: extrasunguilded
   social:
     occupation: Feudal Yeoman, Shortbow

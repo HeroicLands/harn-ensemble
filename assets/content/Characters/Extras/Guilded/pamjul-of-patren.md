@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: zwrRtU1H25ZzFh4z
   packFolder: extrasguilded
   social: {occupation: Clothier, class: guilded, society: feudal, organizations: []}
 hm3:

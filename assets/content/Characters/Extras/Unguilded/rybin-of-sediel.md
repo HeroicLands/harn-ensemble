@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: tCrd3cFLnU1llUSj
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

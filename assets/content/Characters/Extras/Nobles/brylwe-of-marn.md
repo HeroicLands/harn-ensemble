@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: gAz8SDnbSQDzFOdM
   packFolder: extrasnobles
   social: {occupation: Herald, class: unguilded, society: feudal, organizations: []}
 hm3:

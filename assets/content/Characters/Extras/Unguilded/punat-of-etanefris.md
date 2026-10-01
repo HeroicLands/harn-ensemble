@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: l5ciRGbsKTYdPUYU
   packFolder: extrasunguilded
   social: {occupation: Laborer/Longshoreman, class: serf, society: feudal, organizations: []}
 hm3:

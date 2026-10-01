@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Stutterer, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: Dgri4vubIECwxvd7
   packFolder: fffguilded
   social: {occupation: Shipwright, class: freeman, society: viking, organizations: []}
 hm3:

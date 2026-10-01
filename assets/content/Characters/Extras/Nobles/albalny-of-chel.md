@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: ZEVRjcDMxNVfRhNf
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

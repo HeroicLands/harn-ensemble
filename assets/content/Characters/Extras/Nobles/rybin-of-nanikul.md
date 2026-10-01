@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: JoWFTvXJ8ZvyrYzT
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: serf, society: feudal, organizations: []}
 hm3:

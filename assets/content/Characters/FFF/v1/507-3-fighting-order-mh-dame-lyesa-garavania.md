@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Foreign accent]
   harnworld: {realm: "", ritual: [agrik]}
-  id: OypR6vo7Y9D5crQ7
   packFolder: fffnobles
   social: {occupation: Knight, class: noble, society: feudal, organizations: []}
 hm3:

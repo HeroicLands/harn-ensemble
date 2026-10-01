@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: VtmSsKAtUtya37xe
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

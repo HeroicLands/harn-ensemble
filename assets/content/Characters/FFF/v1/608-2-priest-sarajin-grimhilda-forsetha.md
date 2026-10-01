@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: RKgUGKh2miBd4DxZ
   packFolder: fffclergy
   social: {occupation: Priestess of Sarajin, class: noble, society: ivinian, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: ridsgsorc2BFKdUa
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

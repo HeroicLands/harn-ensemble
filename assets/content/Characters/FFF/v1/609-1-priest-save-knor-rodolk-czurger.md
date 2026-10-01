@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [saveknor, agrik, morgath, naveh]}
-  id: za7GGGs1Aubj6oLi
   packFolder: fffclergy
   social: {occupation: Priest of Save K'nor, class: freeman, society: feudal, organizations: []}
 hm3:

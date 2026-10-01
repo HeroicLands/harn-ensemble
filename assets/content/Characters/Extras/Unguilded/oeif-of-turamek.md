@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: KBDkGiSGpwIjvbm5
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Clansman, class: unguilded, society: feudal, organizations: []}
 hm3:

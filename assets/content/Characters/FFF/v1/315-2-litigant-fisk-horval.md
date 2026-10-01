@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: FFlbxLmRBPnYXtRh
   packFolder: fffguilded
   social: {occupation: Lawspeaker, class: noble, society: ivinian, organizations: []}
 hm3:

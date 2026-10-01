@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: ajkbOARPp8L3I8Ve
   packFolder: extrasnobles
   social: {occupation: "Feudal Knight, Heavy", class: noble, society: feudal, organizations: []}
 hm3:

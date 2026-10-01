@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: DtkKtjY4XgkdCGdG
   packFolder: extrasserfs
   social: {occupation: Gladiator, class: unguilded, society: feudal, organizations: []}
 hm3:

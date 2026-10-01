@@ -20,7 +20,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: WsoowZSwGZT5T7K8
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: warrior, society: gargun, organizations: []}
 hm3:

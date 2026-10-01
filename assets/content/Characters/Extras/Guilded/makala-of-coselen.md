@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: iRHsE3WiGs6QWNN1
   packFolder: extrasguilded
   social: {occupation: Chandler, class: noble, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: mmvU4QCAozyp4GxR
   packFolder: extrasunguilded
   social: {occupation: Laborer/Longshoreman, class: unguilded, society: feudal, organizations: []}
 hm3:

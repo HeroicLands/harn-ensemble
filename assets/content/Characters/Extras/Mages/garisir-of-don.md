@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: YOy1nKD4rOVgTTiK
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Jmorvi**", class: serf, society: feudal, organizations: []}
 hm3:

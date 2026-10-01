@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: CrJvlT4WbIp8Jiak
   packFolder: extrasunguilded
   social: {occupation: Sindarin Guardian, class: unguilded, society: feudal, organizations: []}
 hm3:

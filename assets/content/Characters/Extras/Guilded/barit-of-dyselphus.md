@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: HyGZ1kpNirlCvuCk
   packFolder: extrasguilded
   social: {occupation: Apothecary, class: noble, society: feudal, organizations: []}
 hm3:

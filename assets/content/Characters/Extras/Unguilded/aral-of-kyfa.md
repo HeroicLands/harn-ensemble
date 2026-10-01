@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: iCX77oMupOOYNtXg
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: guilded, society: feudal, organizations: []}
 hm3:

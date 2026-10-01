@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: IABsoOo9Wrvq3gef
   packFolder: fffguilded
   social: {occupation: Charcoaler, class: freeman, society: feudal, organizations: []}
 hm3:

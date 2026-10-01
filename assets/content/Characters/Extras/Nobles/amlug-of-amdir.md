@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: htiqjgMhjf2YSCDW
   packFolder: extrasnobles
   social: {occupation: Sindarin Knight, class: guilded, society: feudal, organizations: []}
 hm3:

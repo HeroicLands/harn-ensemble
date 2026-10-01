@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: t9uKKOsUutf4CUxC
   packFolder: extrasunguilded
   social: {occupation: Teamster, class: unguilded, society: feudal, organizations: []}
 hm3:

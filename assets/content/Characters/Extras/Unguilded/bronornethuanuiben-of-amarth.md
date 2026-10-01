@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: DgI3TSwPIZGXrefQ
   packFolder: extrasunguilded
   social: {occupation: "Sindarin Ranger, Light", class: serf, society: feudal, organizations: []}
 hm3:

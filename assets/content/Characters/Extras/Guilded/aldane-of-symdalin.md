@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: SwaFaLydCR9uo3eB
   packFolder: extrasguilded
   social: {occupation: Miller/Millwright, class: guilded, society: feudal, organizations: []}
 hm3:

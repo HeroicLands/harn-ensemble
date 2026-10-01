@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: ETJW4HcTBHtiXMet
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

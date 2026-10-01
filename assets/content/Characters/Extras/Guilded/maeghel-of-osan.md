@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: EitHiyik2rYT6GNx
   packFolder: extrasguilded
   social: {occupation: Litigant, class: serf, society: feudal, organizations: []}
 hm3:

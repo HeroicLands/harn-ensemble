@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: O3YZf6vlf1bfVraA
   packFolder: extrasunguilded
   social: {occupation: Feudal Militia, class: unguilded, society: feudal, organizations: []}
 hm3:

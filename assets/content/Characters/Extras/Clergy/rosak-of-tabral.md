@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: [morgath]}
-  id: 2MVRcbas6uLuGRPc
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: serf, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Reddish beard, moustache, bald]
   harnworld: {realm: "", ritual: [peoni]}
-  id: ssnt13YqynwruYqK
   packFolder: fffmilitary
   social: {occupation: Scout (SB), class: serf, society: feudal, organizations: []}
 hm3:

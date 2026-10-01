@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache & beard]
   harnworld: {realm: "", ritual: [larani]}
-  id: j70pHFJDiYWFrc89
   packFolder: fffguilded
   social: {occupation: Miller, class: freeman, society: feudal, organizations: []}
 hm3:

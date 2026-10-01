@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani, halea]}
-  id: gs7OGJYJuhURyJOU
   packFolder: fffunguilded
   social: {occupation: Forester, class: freeman, society: feudal, organizations: []}
 hm3:

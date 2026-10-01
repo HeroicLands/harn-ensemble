@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: QfDeF3PyxmpRdgzk
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Lyahvi***", class: unguilded, society: feudal, organizations: []}
 hm3:

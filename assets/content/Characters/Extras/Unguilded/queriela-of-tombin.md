@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
-  id: VHM577MlKlcWHH07
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: serf, society: feudal, organizations: []}
 hm3:

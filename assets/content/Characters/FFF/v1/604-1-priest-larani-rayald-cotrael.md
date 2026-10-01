@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: CKvwdB1vq5rOrGta
   packFolder: fffclergy
   social: {occupation: Laranian Priest, class: noble, society: imperial, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Able Seaman's tattoo]
   harnworld: {realm: "", ritual: [peoni, eder]}
-  id: vqAkD6vWfrDHgzDH
   packFolder: fffguilded
   social: {occupation: Seaman, class: freeman, society: feudal, organizations: []}
 hm3:

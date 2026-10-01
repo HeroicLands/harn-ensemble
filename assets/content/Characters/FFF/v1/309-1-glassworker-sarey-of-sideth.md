@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: 75cCiClOM8WKxeBm
   packFolder: fffguilded
   social: {occupation: Glassworker, class: freeman, society: feudal, organizations: []}
 hm3:

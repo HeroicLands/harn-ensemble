@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Constantly sneezing around dogs, cats, Beard, moustache]
   harnworld: {realm: "", ritual: [halea]}
-  id: t4zG9cK9yT1qVGI5
   packFolder: fffguilded
   social: {occupation: Jeweller, class: freeman, society: imperial, organizations: []}
 hm3:

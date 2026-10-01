@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [halea, saveknor]}
-  id: xHdUwDJj30SyHfyL
   packFolder: fffnobles
   social: {occupation: Exchequer Clerk, class: freeman, society: feudal, organizations: []}
 hm3:

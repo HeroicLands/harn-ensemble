@@ -4,7 +4,7 @@ name: {full: Andel & Entourage, aliases: []}
 type: affiliation
 subType: venture
 tags: []
-data: {icon: null, templatePriority: null, id: FVtjQWpvGL7OiPki, relations: []}
+data: {icon: null, templatePriority: null, relations: []}
 sohl: {}
 ---
 

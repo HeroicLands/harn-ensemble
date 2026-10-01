@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: Qs4zFGgnuCRXKf2v
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

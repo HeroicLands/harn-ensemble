@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 7aeUgk2oJhFyjqKV
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

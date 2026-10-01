@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: MMRxSfw744rbllV2
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Medium

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache]
   harnworld: {realm: "", ritual: [larani]}
-  id: LrbNBVZPSC528SpZ
   packFolder: fffnobles
   social: {occupation: Steward, class: freeman, society: feudal, organizations: []}
 hm3:

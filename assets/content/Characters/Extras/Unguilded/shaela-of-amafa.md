@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: OmGvnRAYROTOulHw
   packFolder: extrasunguilded
   social: {occupation: Scribe, class: noble, society: feudal, organizations: []}
 hm3:

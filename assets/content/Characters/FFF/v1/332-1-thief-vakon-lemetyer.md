@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Birthmark]
   harnworld: {realm: "", ritual: [peoni]}
-  id: x0wP2qykwZWZSX7M
   packFolder: fffguilded
   social: {occupation: Thief, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: mynOVRqXb1zVg4pC
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

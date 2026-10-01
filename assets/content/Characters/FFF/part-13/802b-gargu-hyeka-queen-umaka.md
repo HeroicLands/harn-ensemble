@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Obese]
   harnworld: {realm: "", ritual: []}
-  id: XqN3urYzkpHLsZb5
   packFolder: fffnonhumans
   social: {occupation: Queen, class: queen, society: gargun (hyeka), organizations: []}
 hm3:

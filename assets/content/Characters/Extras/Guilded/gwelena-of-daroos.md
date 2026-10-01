@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: I5HWSZ6oKPoyl6co
   packFolder: extrasguilded
   social: {occupation: Chandler, class: guilded, society: feudal, organizations: []}
 hm3:

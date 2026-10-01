@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: dK9veC2MEagmktf1
   packFolder: extrasunguilded
   social: {occupation: Fisherman, class: noble, society: feudal, organizations: []}
 hm3:

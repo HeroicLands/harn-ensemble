@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Left handed, Broken nose, scars]
   harnworld: {realm: "", ritual: [peoni]}
-  id: p0Fuj2jIfStY3daR
   packFolder: fffunguilded
   social: {occupation: Servant, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: UKcxX3lByO0MlGsM
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Burn scars on his hands, left side of his face]
   harnworld: {realm: "", ritual: [saveknor]}
-  id: JMNJxMJPgR4E2QMp
   packFolder: fffmages
   social: {occupation: Peleahn Shek-Pvar, class: freeman, society: feudal, organizations: []}
 hm3:
