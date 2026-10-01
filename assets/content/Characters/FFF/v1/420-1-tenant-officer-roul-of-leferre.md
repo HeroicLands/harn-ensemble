@@ -13,7 +13,7 @@ data:
   age: 38
   born: 681.276
   height: 5' 9"
-  weight: 149 lbs
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -527,7 +527,7 @@ sohl:
 **Social Class**: Serf (Villein)
 **Height**: 5 ft 9 in
 **Frame**: Medium
-**Weight**: 149 lb
+**Weight**: 157 lb
 **Appearance**: Attractive
 **Hair Colour**: Blond (balding)
 **Eye Colour**: Green

@@ -13,7 +13,7 @@ data:
   age: 35
   born: 684.204
   height: 5' 11"
-  weight: 180 lbs
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -541,7 +541,7 @@ sohl:
 **Social Class**: Freeman (unguilded)
 **Height**: 5 ft 11 in
 **Frame**: Medium
-**Weight**: 180 lb
+**Weight**: 160 lb
 **Appearance**: Average
 **Hair Colour**: Black
 **Eye Colour**: Hazel

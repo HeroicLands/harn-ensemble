@@ -12,9 +12,9 @@ data:
   species: humanflk
   age: 34
   born: 684.70
-  height: 6' 3"
-  weight: 185 lbs
-  frame: medium
+  height: 5' 8"
+  weight: 138 lbs
+  frame: light
   appearance:
     eye_color: blue
     hair_color: blonde
@@ -557,9 +557,9 @@ sohl:
 **Apparent Age**: Middle aged
 **Culture**: Ivinian
 **Social Class**: Noble
-**Height**: 6 ft 3 in
-**Frame**: Medium
-**Weight**: 185 lb
+**Height**: 5 ft 8 in
+**Frame**: Light
+**Weight**: 138 lb
 **Appearance**: Handsome
 **Hair Colour**: Blond
 **Eye Colour**: Blue
