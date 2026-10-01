@@ -11,8 +11,8 @@ data:
   species: khuzdulflk
   age: 105
   born: 615.255
-  height: 1.27
-  weight: 93.44
+  height: 4' 2"
+  weight: 206 lbs
   frame: medium
   appearance:
     eye_color: green

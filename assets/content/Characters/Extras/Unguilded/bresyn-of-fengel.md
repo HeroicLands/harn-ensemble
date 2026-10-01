@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 42
   born: 678.289
-  height: 1.91
-  weight: 134.72
+  height: 6' 3"
+  weight: 297 lbs
   frame: medium
   appearance:
     eye_color: blue

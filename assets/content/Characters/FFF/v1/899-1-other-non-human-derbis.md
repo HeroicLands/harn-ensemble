@@ -9,8 +9,8 @@ data:
   archetypes: [warrior, woodsman]
   gender: male
   species: ogreflk
-  height: 2.79
-  weight: 226.8
+  height: 9' 2"
+  weight: 500 lbs
   frame: massive
   appearance:
     eye_color: pale grey

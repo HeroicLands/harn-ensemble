@@ -11,8 +11,8 @@ data:
   gender: male
   species: humanflk
   age: 33
-  height: 1.85
-  weight: 87.09
+  height: 6' 1"
+  weight: 192 lbs
   frame: heavy
   appearance:
     eye_color: green

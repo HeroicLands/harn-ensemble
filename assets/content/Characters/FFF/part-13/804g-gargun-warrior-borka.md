@@ -10,8 +10,8 @@ data:
   archetypes: [warrior]
   gender: male
   species: gargunflk
-  height: 3.02
-  weight: 185.97
+  height: 9' 11"
+  weight: 410 lbs
   frame: huge
   appearance:
     eye_color: black
