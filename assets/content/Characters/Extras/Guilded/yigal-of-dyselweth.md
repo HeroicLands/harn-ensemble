@@ -1,6 +1,6 @@
 ---
 shortcode: yigalofdyselweth
-name: {full: Yigal of Dyselweth, title: "", given: Yigal, clan: Dyselweth, aliases: []}
+name: {full: Yigal of Dyselweth, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,11 +1,6 @@
 ---
 shortcode: veterangeldisofvalasain
-name:
-  full: Veteran Geldis of Valasain
-  title: Veteran
-  given: Geldis
-  clan: Valasain
-  aliases: []
+name: {full: Veteran Geldis of Valasain, aliases: []}
 type: being
 tags: [character]
 data:

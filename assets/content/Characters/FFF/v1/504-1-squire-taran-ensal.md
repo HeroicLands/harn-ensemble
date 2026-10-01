@@ -1,6 +1,6 @@
 ---
 shortcode: taranensal
-name: {full: Taran Ensal, title: "", given: Taran, clan: Ensal, aliases: []}
+name: {full: Taran Ensal, aliases: []}
 type: being
 tags: [character]
 data:

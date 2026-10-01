@@ -1,6 +1,6 @@
 ---
 shortcode: feldisofbela
-name: {full: Feldis of Bela, title: "", given: Feldis, clan: Bela, aliases: []}
+name: {full: Feldis of Bela, aliases: []}
 type: being
 tags: [character]
 data:

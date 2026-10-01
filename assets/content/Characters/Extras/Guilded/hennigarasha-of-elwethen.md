@@ -1,6 +1,6 @@
 ---
 shortcode: hennigarashaofelwethen
-name: {full: Hennigarasha of Elwethen, title: "", given: Hennigarasha, clan: Elwethen, aliases: []}
+name: {full: Hennigarasha of Elwethen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: silasofwen
-name: {full: Silas of Wen, title: "", given: Silas, clan: Wen, aliases: []}
+name: {full: Silas of Wen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: dariamofnaranoal
-name: {full: Dariam of Naranoal, title: "", given: Dariam, clan: Naranoal, aliases: []}
+name: {full: Dariam of Naranoal, aliases: []}
 type: being
 tags: [character]
 data:

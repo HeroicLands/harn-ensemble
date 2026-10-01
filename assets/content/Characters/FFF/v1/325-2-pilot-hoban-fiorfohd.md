@@ -1,6 +1,6 @@
 ---
 shortcode: hobanfiorfohd
-name: {full: Hoban Fiorfohd, title: "", given: Hoban, clan: Fiorfohd, aliases: []}
+name: {full: Hoban Fiorfohd, aliases: []}
 type: being
 tags: [character]
 data:

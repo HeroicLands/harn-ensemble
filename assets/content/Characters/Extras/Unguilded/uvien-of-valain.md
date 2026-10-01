@@ -1,6 +1,6 @@
 ---
 shortcode: uvienofvalain
-name: {full: Uvien of Valain, title: "", given: Uvien, clan: Valain, aliases: []}
+name: {full: Uvien of Valain, aliases: []}
 type: being
 tags: [character]
 data:

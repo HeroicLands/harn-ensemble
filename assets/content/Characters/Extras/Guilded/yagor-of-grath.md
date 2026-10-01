@@ -1,6 +1,6 @@
 ---
 shortcode: yagorofgrath
-name: {full: Yagor of Grath, title: "", given: Yagor, clan: Grath, aliases: []}
+name: {full: Yagor of Grath, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: eamonofgwyffidd
-name: {full: Eamon of Gwyffidd, title: "", given: Eamon, clan: Gwyffidd, aliases: []}
+name: {full: Eamon of Gwyffidd, aliases: []}
 type: being
 tags: [character]
 data:

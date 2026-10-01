@@ -1,6 +1,6 @@
 ---
 shortcode: heornofdybare
-name: {full: Heorn of Dybare, title: "", given: Heorn, clan: Dybare, aliases: []}
+name: {full: Heorn of Dybare, aliases: []}
 type: being
 tags: [character]
 data:

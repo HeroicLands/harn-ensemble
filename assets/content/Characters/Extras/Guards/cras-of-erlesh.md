@@ -1,6 +1,6 @@
 ---
 shortcode: crasoferlesh
-name: {full: Cras of Erlesh, title: "", given: Cras, clan: Erlesh, aliases: []}
+name: {full: Cras of Erlesh, aliases: []}
 type: being
 tags: [character]
 data:

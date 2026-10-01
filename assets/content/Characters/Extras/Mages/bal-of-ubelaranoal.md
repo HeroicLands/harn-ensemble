@@ -1,6 +1,6 @@
 ---
 shortcode: balofubelaranoal
-name: {full: Bal of Ubelaranoal, title: "", given: Bal, clan: Ubelaranoal, aliases: []}
+name: {full: Bal of Ubelaranoal, aliases: []}
 type: being
 tags: [character]
 data:

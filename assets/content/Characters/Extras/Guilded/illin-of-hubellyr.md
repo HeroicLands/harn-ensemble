@@ -1,6 +1,6 @@
 ---
 shortcode: illinofhubellyr
-name: {full: Illin of Hubellyr, title: "", given: Illin, clan: Hubellyr, aliases: []}
+name: {full: Illin of Hubellyr, aliases: []}
 type: being
 tags: [character]
 data:

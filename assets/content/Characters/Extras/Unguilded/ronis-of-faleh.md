@@ -1,6 +1,6 @@
 ---
 shortcode: ronisoffaleh
-name: {full: Ronis of Faleh, title: "", given: Ronis, clan: Faleh, aliases: []}
+name: {full: Ronis of Faleh, aliases: []}
 type: being
 tags: [character]
 data:

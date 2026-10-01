@@ -1,6 +1,6 @@
 ---
 shortcode: myrelyneofwen
-name: {full: Myrelyne of Wen, title: "", given: Myrelyne, clan: Wen, aliases: []}
+name: {full: Myrelyne of Wen, aliases: []}
 type: being
 tags: [character]
 data:

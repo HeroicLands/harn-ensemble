@@ -1,6 +1,6 @@
 ---
 shortcode: doranaofprovin
-name: {full: Dorana of Provin, title: "", given: Dorana, clan: Provin, aliases: []}
+name: {full: Dorana of Provin, aliases: []}
 type: being
 tags: [character]
 data:

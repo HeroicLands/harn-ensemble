@@ -1,6 +1,6 @@
 ---
 shortcode: sorabainofonparsuel
-name: {full: Sorabain of Onparsuel, title: "", given: Sorabain, clan: Onparsuel, aliases: []}
+name: {full: Sorabain of Onparsuel, aliases: []}
 type: being
 tags: [character]
 data:

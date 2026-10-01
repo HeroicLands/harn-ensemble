@@ -1,11 +1,6 @@
 ---
 shortcode: agarthalpharnofaglagarvrun
-name:
-  full: Agarthalpharn of Aglagarvrun
-  title: ""
-  given: Agarthalpharn
-  clan: Aglagarvrun
-  aliases: []
+name: {full: Agarthalpharn of Aglagarvrun, aliases: []}
 type: being
 tags: [character]
 data:

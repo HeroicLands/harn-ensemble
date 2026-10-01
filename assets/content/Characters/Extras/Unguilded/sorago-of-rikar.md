@@ -1,6 +1,6 @@
 ---
 shortcode: soragoofrikar
-name: {full: Sorago of Rikar, title: "", given: Sorago, clan: Rikar, aliases: []}
+name: {full: Sorago of Rikar, aliases: []}
 type: being
 tags: [character]
 data:

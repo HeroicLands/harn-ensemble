@@ -1,6 +1,6 @@
 ---
 shortcode: helasarinaofloyril
-name: {full: Helasarina of Loyril, title: "", given: Helasarina, clan: Loyril, aliases: []}
+name: {full: Helasarina of Loyril, aliases: []}
 type: being
 tags: [character]
 data:

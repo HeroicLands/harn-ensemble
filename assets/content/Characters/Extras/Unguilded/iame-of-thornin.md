@@ -1,6 +1,6 @@
 ---
 shortcode: iameofthornin
-name: {full: Iame of Thornin, title: "", given: Iame, clan: Thornin, aliases: []}
+name: {full: Iame of Thornin, aliases: []}
 type: being
 tags: [character]
 data:

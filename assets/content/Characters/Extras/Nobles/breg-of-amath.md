@@ -1,6 +1,6 @@
 ---
 shortcode: bregofamath
-name: {full: Breg of Amath, title: "", given: Breg, clan: Amath, aliases: []}
+name: {full: Breg of Amath, aliases: []}
 type: being
 tags: [character]
 data:

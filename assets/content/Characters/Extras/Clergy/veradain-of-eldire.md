@@ -1,6 +1,6 @@
 ---
 shortcode: veradainofeldire
-name: {full: Veradain of Eldire, title: "", given: Veradain, clan: Eldire, aliases: []}
+name: {full: Veradain of Eldire, aliases: []}
 type: being
 tags: [character]
 data:

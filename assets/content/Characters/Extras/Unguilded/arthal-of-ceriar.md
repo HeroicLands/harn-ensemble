@@ -1,6 +1,6 @@
 ---
 shortcode: arthalofceriar
-name: {full: Arthal of Ceriar, title: "", given: Arthal, clan: Ceriar, aliases: []}
+name: {full: Arthal of Ceriar, aliases: []}
 type: being
 tags: [character]
 data:

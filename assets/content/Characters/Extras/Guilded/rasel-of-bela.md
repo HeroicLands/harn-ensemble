@@ -1,6 +1,6 @@
 ---
 shortcode: raselofbela
-name: {full: Rasel of Bela, title: "", given: Rasel, clan: Bela, aliases: []}
+name: {full: Rasel of Bela, aliases: []}
 type: being
 tags: [character]
 data:

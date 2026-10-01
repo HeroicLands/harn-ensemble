@@ -1,6 +1,6 @@
 ---
 shortcode: cyzorofelwen
-name: {full: Cyzor of Elwen, title: "", given: Cyzor, clan: Elwen, aliases: []}
+name: {full: Cyzor of Elwen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: zabianoflund
-name: {full: Zabian of Lund, title: "", given: Zabian, clan: Lund, aliases: []}
+name: {full: Zabian of Lund, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: captainithasisofkapire
-name: {full: Captain Ithasis of Kapire, title: Captain, given: Ithasis, clan: Kapire, aliases: []}
+name: {full: Captain Ithasis of Kapire, aliases: []}
 type: being
 tags: [character]
 data:

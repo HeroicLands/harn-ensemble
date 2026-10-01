@@ -1,6 +1,6 @@
 ---
 shortcode: odellofrisene
-name: {full: Odell of Risene, title: "", given: Odell, clan: Risene, aliases: []}
+name: {full: Odell of Risene, aliases: []}
 type: being
 tags: [character]
 data:

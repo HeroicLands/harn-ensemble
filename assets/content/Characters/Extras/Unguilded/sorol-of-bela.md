@@ -1,6 +1,6 @@
 ---
 shortcode: sorolofbela
-name: {full: Sorol of Bela, title: "", given: Sorol, clan: Bela, aliases: []}
+name: {full: Sorol of Bela, aliases: []}
 type: being
 tags: [character]
 data:

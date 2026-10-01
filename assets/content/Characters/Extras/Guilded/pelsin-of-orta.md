@@ -1,6 +1,6 @@
 ---
 shortcode: pelsinoforta
-name: {full: Pelsin of Orta, title: "", given: Pelsin, clan: Orta, aliases: []}
+name: {full: Pelsin of Orta, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jerondasharlofeylosath
-name: {full: Jerondasharl of Eylosath, title: "", given: Jerondasharl, clan: Eylosath, aliases: []}
+name: {full: Jerondasharl of Eylosath, aliases: []}
 type: being
 tags: [character]
 data:

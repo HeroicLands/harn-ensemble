@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaofmanchi
-name: {full: Sylvia of Manchi, title: "", given: Sylvia, clan: Manchi, aliases: []}
+name: {full: Sylvia of Manchi, aliases: []}
 type: being
 tags: [character]
 data:

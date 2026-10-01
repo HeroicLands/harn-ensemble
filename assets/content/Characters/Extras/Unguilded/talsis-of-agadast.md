@@ -1,6 +1,6 @@
 ---
 shortcode: talsisofagadast
-name: {full: Talsis of Agadast, title: "", given: Talsis, clan: Agadast, aliases: []}
+name: {full: Talsis of Agadast, aliases: []}
 type: being
 tags: [character]
 data:

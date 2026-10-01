@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofavord
-name: {full: Segina of Avord, title: "", given: Segina, clan: Avord, aliases: []}
+name: {full: Segina of Avord, aliases: []}
 type: being
 tags: [character]
 data:

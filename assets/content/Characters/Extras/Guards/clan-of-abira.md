@@ -1,6 +1,6 @@
 ---
 shortcode: clanofabira
-name: {full: Clan of Abira, title: "", given: Clan, clan: Abira, aliases: []}
+name: {full: Clan of Abira, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: liriamofsar
-name: {full: Liriam of Sar, title: "", given: Liriam, clan: Sar, aliases: []}
+name: {full: Liriam of Sar, aliases: []}
 type: being
 tags: [character]
 data:

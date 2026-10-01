@@ -1,6 +1,6 @@
 ---
 shortcode: lobiroforin
-name: {full: Lobir of Orin, title: "", given: Lobir, clan: Orin, aliases: []}
+name: {full: Lobir of Orin, aliases: []}
 type: being
 tags: [character]
 data:

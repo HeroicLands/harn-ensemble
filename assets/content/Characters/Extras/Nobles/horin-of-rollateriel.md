@@ -1,6 +1,6 @@
 ---
 shortcode: horinofrollateriel
-name: {full: Horin of Rollateriel, title: "", given: Horin, clan: Rollateriel, aliases: []}
+name: {full: Horin of Rollateriel, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: bolgarthemad
-name: {full: Bolgar the Mad, title: "", given: Bolgar, clan: the Mad, aliases: []}
+name: {full: Bolgar the Mad, aliases: []}
 type: being
 tags: [character]
 data:

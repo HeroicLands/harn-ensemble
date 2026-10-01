@@ -1,6 +1,6 @@
 ---
 shortcode: ryleofasain
-name: {full: Ryle of Asain, title: "", given: Ryle, clan: Asain, aliases: []}
+name: {full: Ryle of Asain, aliases: []}
 type: being
 tags: [character]
 data:

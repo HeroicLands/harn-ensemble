@@ -1,6 +1,6 @@
 ---
 shortcode: veteranurlinofhylin
-name: {full: Veteran Urlin of Hylin, title: Veteran, given: Urlin, clan: Hylin, aliases: []}
+name: {full: Veteran Urlin of Hylin, aliases: []}
 type: being
 tags: [character]
 data:

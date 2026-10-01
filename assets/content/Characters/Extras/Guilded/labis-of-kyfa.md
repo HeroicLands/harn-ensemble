@@ -1,6 +1,6 @@
 ---
 shortcode: labisofkyfa
-name: {full: Labis of Kyfa, title: "", given: Labis, clan: Kyfa, aliases: []}
+name: {full: Labis of Kyfa, aliases: []}
 type: being
 tags: [character]
 data:

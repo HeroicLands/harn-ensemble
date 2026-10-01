@@ -1,11 +1,6 @@
 ---
 shortcode: bronornethuanuibenofamarth
-name:
-  full: Bronornethuanuiben of Amarth
-  title: ""
-  given: Bronornethuanuiben
-  clan: Amarth
-  aliases: []
+name: {full: Bronornethuanuiben of Amarth, aliases: []}
 type: being
 tags: [character]
 data:

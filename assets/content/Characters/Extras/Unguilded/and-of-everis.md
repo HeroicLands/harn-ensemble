@@ -1,6 +1,6 @@
 ---
 shortcode: andofeveris
-name: {full: And of Everis, title: "", given: And, clan: Everis, aliases: []}
+name: {full: And of Everis, aliases: []}
 type: being
 tags: [character]
 data:

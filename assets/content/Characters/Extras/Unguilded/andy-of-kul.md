@@ -1,6 +1,6 @@
 ---
 shortcode: andyofkul
-name: {full: Andy of Kul, title: "", given: Andy, clan: Kul, aliases: []}
+name: {full: Andy of Kul, aliases: []}
 type: being
 tags: [character]
 data:

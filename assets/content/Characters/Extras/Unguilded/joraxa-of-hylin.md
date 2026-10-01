@@ -1,6 +1,6 @@
 ---
 shortcode: joraxaofhylin
-name: {full: Joraxa of Hylin, title: "", given: Joraxa, clan: Hylin, aliases: []}
+name: {full: Joraxa of Hylin, aliases: []}
 type: being
 tags: [character]
 data:

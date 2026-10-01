@@ -1,6 +1,6 @@
 ---
 shortcode: elarostaofpodin
-name: {full: Elarosta of Podin, title: "", given: Elarosta, clan: Podin, aliases: []}
+name: {full: Elarosta of Podin, aliases: []}
 type: being
 tags: [character]
 data:

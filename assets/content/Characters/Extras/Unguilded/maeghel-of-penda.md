@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelofpenda
-name: {full: Maeghel of Penda, title: "", given: Maeghel, clan: Penda, aliases: []}
+name: {full: Maeghel of Penda, aliases: []}
 type: being
 tags: [character]
 data:

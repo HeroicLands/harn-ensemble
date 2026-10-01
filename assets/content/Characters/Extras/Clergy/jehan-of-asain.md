@@ -1,6 +1,6 @@
 ---
 shortcode: jehanofasain
-name: {full: Jehan of Asain, title: "", given: Jehan, clan: Asain, aliases: []}
+name: {full: Jehan of Asain, aliases: []}
 type: being
 tags: [character]
 data:

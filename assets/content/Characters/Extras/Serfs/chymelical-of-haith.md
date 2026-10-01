@@ -1,6 +1,6 @@
 ---
 shortcode: chymelicalofhaith
-name: {full: Chymelical of Haith, title: "", given: Chymelical, clan: Haith, aliases: []}
+name: {full: Chymelical of Haith, aliases: []}
 type: being
 tags: [character]
 data:

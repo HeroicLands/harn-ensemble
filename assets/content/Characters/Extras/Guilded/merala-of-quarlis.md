@@ -1,6 +1,6 @@
 ---
 shortcode: meralaofquarlis
-name: {full: Merala of Quarlis, title: "", given: Merala, clan: Quarlis, aliases: []}
+name: {full: Merala of Quarlis, aliases: []}
 type: being
 tags: [character]
 data:

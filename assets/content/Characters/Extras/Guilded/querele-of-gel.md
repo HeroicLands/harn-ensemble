@@ -1,6 +1,6 @@
 ---
 shortcode: quereleofgel
-name: {full: Querele of Gel, title: "", given: Querele, clan: Gel, aliases: []}
+name: {full: Querele of Gel, aliases: []}
 type: being
 tags: [character]
 data:

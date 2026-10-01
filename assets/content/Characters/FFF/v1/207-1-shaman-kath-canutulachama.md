@@ -1,6 +1,6 @@
 ---
 shortcode: canutulachama
-name: {full: Canutulachama, title: "", given: Canutulachama, clan: "", aliases: []}
+name: {full: Canutulachama, aliases: []}
 type: being
 tags: [character]
 data:

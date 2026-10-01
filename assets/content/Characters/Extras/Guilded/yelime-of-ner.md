@@ -1,6 +1,6 @@
 ---
 shortcode: yelimeofner
-name: {full: Yelime of Ner, title: "", given: Yelime, clan: Ner, aliases: []}
+name: {full: Yelime of Ner, aliases: []}
 type: being
 tags: [character]
 data:

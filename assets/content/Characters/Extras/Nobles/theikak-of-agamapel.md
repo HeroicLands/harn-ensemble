@@ -1,6 +1,6 @@
 ---
 shortcode: theikakofagamapel
-name: {full: Theikak of Agamapel, title: "", given: Theikak, clan: Agamapel, aliases: []}
+name: {full: Theikak of Agamapel, aliases: []}
 type: being
 tags: [character]
 data:

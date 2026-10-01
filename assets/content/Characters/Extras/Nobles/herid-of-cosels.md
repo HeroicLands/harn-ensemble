@@ -1,6 +1,6 @@
 ---
 shortcode: heridofcosels
-name: {full: Herid of Cosels, title: "", given: Herid, clan: Cosels, aliases: []}
+name: {full: Herid of Cosels, aliases: []}
 type: being
 tags: [character]
 data:

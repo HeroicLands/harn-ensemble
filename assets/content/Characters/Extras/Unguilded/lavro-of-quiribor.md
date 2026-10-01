@@ -1,6 +1,6 @@
 ---
 shortcode: lavroofquiribor
-name: {full: Lavro of Quiribor, title: "", given: Lavro, clan: Quiribor, aliases: []}
+name: {full: Lavro of Quiribor, aliases: []}
 type: being
 tags: [character]
 data:

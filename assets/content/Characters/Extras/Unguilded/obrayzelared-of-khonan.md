@@ -1,6 +1,6 @@
 ---
 shortcode: obrayzelaredofkhonan
-name: {full: Obrayzelared of Khonan, title: "", given: Obrayzelared, clan: Khonan, aliases: []}
+name: {full: Obrayzelared of Khonan, aliases: []}
 type: being
 tags: [character]
 data:

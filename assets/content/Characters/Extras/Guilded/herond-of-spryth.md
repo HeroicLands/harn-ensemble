@@ -1,6 +1,6 @@
 ---
 shortcode: herondofspryth
-name: {full: Herond of Spryth, title: "", given: Herond, clan: Spryth, aliases: []}
+name: {full: Herond of Spryth, aliases: []}
 type: being
 tags: [character]
 data:

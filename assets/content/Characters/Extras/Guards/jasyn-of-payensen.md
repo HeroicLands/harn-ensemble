@@ -1,6 +1,6 @@
 ---
 shortcode: jasynofpayensen
-name: {full: Jasyn of Payensen, title: "", given: Jasyn, clan: Payensen, aliases: []}
+name: {full: Jasyn of Payensen, aliases: []}
 type: being
 tags: [character]
 data:

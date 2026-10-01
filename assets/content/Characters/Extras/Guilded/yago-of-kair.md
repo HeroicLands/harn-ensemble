@@ -1,6 +1,6 @@
 ---
 shortcode: yagoofkair
-name: {full: Yago of Kair, title: "", given: Yago, clan: Kair, aliases: []}
+name: {full: Yago of Kair, aliases: []}
 type: being
 tags: [character]
 data:

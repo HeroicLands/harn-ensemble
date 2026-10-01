@@ -1,6 +1,6 @@
 ---
 shortcode: byrgaofchel
-name: {full: Byrga of Chel, title: "", given: Byrga, clan: Chel, aliases: []}
+name: {full: Byrga of Chel, aliases: []}
 type: being
 tags: [character]
 data:

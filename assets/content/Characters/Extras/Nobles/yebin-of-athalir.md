@@ -1,6 +1,6 @@
 ---
 shortcode: yebinofathalir
-name: {full: Yebin of Athalir, title: "", given: Yebin, clan: Athalir, aliases: []}
+name: {full: Yebin of Athalir, aliases: []}
 type: being
 tags: [character]
 data:

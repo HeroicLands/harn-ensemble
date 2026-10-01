@@ -1,6 +1,6 @@
 ---
 shortcode: punatofurgaban
-name: {full: Punat of Urgaban, title: "", given: Punat, clan: Urgaban, aliases: []}
+name: {full: Punat of Urgaban, aliases: []}
 type: being
 tags: [character]
 data:

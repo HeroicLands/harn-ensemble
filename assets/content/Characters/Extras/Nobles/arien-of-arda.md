@@ -1,6 +1,6 @@
 ---
 shortcode: arienofarda
-name: {full: Arien of Arda, title: "", given: Arien, clan: Arda, aliases: []}
+name: {full: Arien of Arda, aliases: []}
 type: being
 tags: [character]
 data:

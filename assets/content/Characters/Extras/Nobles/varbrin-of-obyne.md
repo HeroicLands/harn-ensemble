@@ -1,6 +1,6 @@
 ---
 shortcode: varbrinofobyne
-name: {full: Varbrin of Obyne, title: "", given: Varbrin, clan: Obyne, aliases: []}
+name: {full: Varbrin of Obyne, aliases: []}
 type: being
 tags: [character]
 data:

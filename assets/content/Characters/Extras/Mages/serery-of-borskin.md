@@ -1,6 +1,6 @@
 ---
 shortcode: sereryofborskin
-name: {full: Serery of Borskin, title: "", given: Serery, clan: Borskin, aliases: []}
+name: {full: Serery of Borskin, aliases: []}
 type: being
 tags: [character]
 data:

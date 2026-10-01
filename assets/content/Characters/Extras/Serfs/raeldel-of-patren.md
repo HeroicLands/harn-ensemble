@@ -1,6 +1,6 @@
 ---
 shortcode: raeldelofpatren
-name: {full: Raeldel of Patren, title: "", given: Raeldel, clan: Patren, aliases: []}
+name: {full: Raeldel of Patren, aliases: []}
 type: being
 tags: [character]
 data:

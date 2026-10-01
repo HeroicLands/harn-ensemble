@@ -1,6 +1,6 @@
 ---
 shortcode: aeraofarmel
-name: {full: Aera of Armel, title: "", given: Aera, clan: Armel, aliases: []}
+name: {full: Aera of Armel, aliases: []}
 type: being
 tags: [character]
 data:

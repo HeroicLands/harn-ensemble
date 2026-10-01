@@ -1,6 +1,6 @@
 ---
 shortcode: aldaofmadib
-name: {full: Alda of Madib, title: "", given: Alda, clan: Madib, aliases: []}
+name: {full: Alda of Madib, aliases: []}
 type: being
 tags: [character]
 data:

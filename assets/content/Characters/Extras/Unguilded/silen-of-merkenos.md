@@ -1,6 +1,6 @@
 ---
 shortcode: silenofmerkenos
-name: {full: Silen of Merkenos, title: "", given: Silen, clan: Merkenos, aliases: []}
+name: {full: Silen of Merkenos, aliases: []}
 type: being
 tags: [character]
 data:

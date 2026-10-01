@@ -1,6 +1,6 @@
 ---
 shortcode: bregolofceilben
-name: {full: Bregol of Ceilben, title: "", given: Bregol, clan: Ceilben, aliases: []}
+name: {full: Bregol of Ceilben, aliases: []}
 type: being
 tags: [character]
 data:

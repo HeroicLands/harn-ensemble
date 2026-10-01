@@ -1,6 +1,6 @@
 ---
 shortcode: balothofdethasil
-name: {full: Baloth of Dethasil, title: "", given: Baloth, clan: Dethasil, aliases: []}
+name: {full: Baloth of Dethasil, aliases: []}
 type: being
 tags: [character]
 data:

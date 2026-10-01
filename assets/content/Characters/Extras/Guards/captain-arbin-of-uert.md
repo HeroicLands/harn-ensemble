@@ -1,6 +1,6 @@
 ---
 shortcode: captainarbinofuert
-name: {full: Captain Arbin of Uert, title: Captain, given: Arbin, clan: Uert, aliases: []}
+name: {full: Captain Arbin of Uert, aliases: []}
 type: being
 tags: [character]
 data:

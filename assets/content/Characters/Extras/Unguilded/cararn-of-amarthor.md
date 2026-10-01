@@ -1,6 +1,6 @@
 ---
 shortcode: cararnofamarthor
-name: {full: Cararn of Amarthor, title: "", given: Cararn, clan: Amarthor, aliases: []}
+name: {full: Cararn of Amarthor, aliases: []}
 type: being
 tags: [character]
 data:

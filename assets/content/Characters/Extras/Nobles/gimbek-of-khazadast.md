@@ -1,6 +1,6 @@
 ---
 shortcode: gimbekofkhazadast
-name: {full: Gimbek of Khazadast, title: "", given: Gimbek, clan: Khazadast, aliases: []}
+name: {full: Gimbek of Khazadast, aliases: []}
 type: being
 tags: [character]
 data:

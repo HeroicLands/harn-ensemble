@@ -1,6 +1,6 @@
 ---
 shortcode: karyseofalwen
-name: {full: Karyse of Alwen, title: "", given: Karyse, clan: Alwen, aliases: []}
+name: {full: Karyse of Alwen, aliases: []}
 type: being
 tags: [character]
 data:

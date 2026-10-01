@@ -1,6 +1,6 @@
 ---
 shortcode: silofduckill
-name: {full: Sil of Duckill, title: "", given: Sil, clan: Duckill, aliases: []}
+name: {full: Sil of Duckill, aliases: []}
 type: being
 tags: [character]
 data:

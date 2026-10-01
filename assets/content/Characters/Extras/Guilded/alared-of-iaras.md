@@ -1,6 +1,6 @@
 ---
 shortcode: alaredofiaras
-name: {full: Alared of Iaras, title: "", given: Alared, clan: Iaras, aliases: []}
+name: {full: Alared of Iaras, aliases: []}
 type: being
 tags: [character]
 data:

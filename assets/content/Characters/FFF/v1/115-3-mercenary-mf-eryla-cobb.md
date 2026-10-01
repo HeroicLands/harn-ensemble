@@ -1,6 +1,6 @@
 ---
 shortcode: erylacobb
-name: {full: Eryla Cobb, title: "", given: Eryla, clan: Cobb, aliases: []}
+name: {full: Eryla Cobb, aliases: []}
 type: being
 tags: [character]
 data:

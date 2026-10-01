@@ -1,6 +1,6 @@
 ---
 shortcode: terbaofmagnol
-name: {full: Terba of Magnol, title: "", given: Terba, clan: Magnol, aliases: []}
+name: {full: Terba of Magnol, aliases: []}
 type: being
 tags: [character]
 data:

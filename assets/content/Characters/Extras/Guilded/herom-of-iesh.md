@@ -1,6 +1,6 @@
 ---
 shortcode: heromofiesh
-name: {full: Herom of Iesh, title: "", given: Herom, clan: Iesh, aliases: []}
+name: {full: Herom of Iesh, aliases: []}
 type: being
 tags: [character]
 data:

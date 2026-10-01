@@ -1,6 +1,6 @@
 ---
 shortcode: martunofubela
-name: {full: Martun of Ubela, title: "", given: Martun, clan: Ubela, aliases: []}
+name: {full: Martun of Ubela, aliases: []}
 type: being
 tags: [character]
 data:

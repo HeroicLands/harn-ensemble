@@ -1,11 +1,6 @@
 ---
 shortcode: achafinofbeltharaninior
-name:
-  full: Achafin of Beltharaninior
-  title: ""
-  given: Achafin
-  clan: Beltharaninior
-  aliases: []
+name: {full: Achafin of Beltharaninior, aliases: []}
 type: being
 tags: [character]
 data:

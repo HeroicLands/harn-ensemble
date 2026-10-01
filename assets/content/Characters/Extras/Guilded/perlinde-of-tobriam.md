@@ -1,6 +1,6 @@
 ---
 shortcode: perlindeoftobriam
-name: {full: Perlinde of Tobriam, title: "", given: Perlinde, clan: Tobriam, aliases: []}
+name: {full: Perlinde of Tobriam, aliases: []}
 type: being
 tags: [character]
 data:

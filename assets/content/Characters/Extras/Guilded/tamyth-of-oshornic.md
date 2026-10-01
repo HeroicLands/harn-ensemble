@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofoshornic
-name: {full: Tamyth of Oshornic, title: "", given: Tamyth, clan: Oshornic, aliases: []}
+name: {full: Tamyth of Oshornic, aliases: []}
 type: being
 tags: [character]
 data:

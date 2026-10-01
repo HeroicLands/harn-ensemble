@@ -1,6 +1,6 @@
 ---
 shortcode: lorelofelwen
-name: {full: Lorel of Elwen, title: "", given: Lorel, clan: Elwen, aliases: []}
+name: {full: Lorel of Elwen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: serenelleofgevrael
-name: {full: Serenelle of Gevrael, title: "", given: Serenelle, clan: Gevrael, aliases: []}
+name: {full: Serenelle of Gevrael, aliases: []}
 type: being
 tags: [character]
 data:

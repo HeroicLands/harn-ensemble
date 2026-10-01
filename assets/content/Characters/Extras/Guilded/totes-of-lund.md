@@ -1,6 +1,6 @@
 ---
 shortcode: totesoflund
-name: {full: Totes of Lund, title: "", given: Totes, clan: Lund, aliases: []}
+name: {full: Totes of Lund, aliases: []}
 type: being
 tags: [character]
 data:

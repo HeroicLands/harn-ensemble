@@ -1,6 +1,6 @@
 ---
 shortcode: shaelasarofchomerros
-name: {full: Shaelasar of Chomerros, title: "", given: Shaelasar, clan: Chomerros, aliases: []}
+name: {full: Shaelasar of Chomerros, aliases: []}
 type: being
 tags: [character]
 data:

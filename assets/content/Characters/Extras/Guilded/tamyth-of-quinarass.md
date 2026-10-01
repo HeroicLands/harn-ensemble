@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofquinarass
-name: {full: Tamyth of Quinarass, title: "", given: Tamyth, clan: Quinarass, aliases: []}
+name: {full: Tamyth of Quinarass, aliases: []}
 type: being
 tags: [character]
 data:

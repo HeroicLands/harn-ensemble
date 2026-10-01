@@ -1,6 +1,6 @@
 ---
 shortcode: genorofobyne
-name: {full: Genor of Obyne, title: "", given: Genor, clan: Obyne, aliases: []}
+name: {full: Genor of Obyne, aliases: []}
 type: being
 tags: [character]
 data:

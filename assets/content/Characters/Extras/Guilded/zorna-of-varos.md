@@ -1,6 +1,6 @@
 ---
 shortcode: zornaofvaros
-name: {full: Zorna of Varos, title: "", given: Zorna, clan: Varos, aliases: []}
+name: {full: Zorna of Varos, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: thericofpharion
-name: {full: Theric of Pharion, title: "", given: Theric, clan: Pharion, aliases: []}
+name: {full: Theric of Pharion, aliases: []}
 type: being
 tags: [character]
 data:

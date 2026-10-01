@@ -1,6 +1,6 @@
 ---
 shortcode: jendraofkantar
-name: {full: Jendra of Kantar, title: "", given: Jendra, clan: Kantar, aliases: []}
+name: {full: Jendra of Kantar, aliases: []}
 type: being
 tags: [character]
 data:

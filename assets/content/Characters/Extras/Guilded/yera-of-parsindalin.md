@@ -1,6 +1,6 @@
 ---
 shortcode: yeraofparsindalin
-name: {full: Yera of Parsindalin, title: "", given: Yera, clan: Parsindalin, aliases: []}
+name: {full: Yera of Parsindalin, aliases: []}
 type: being
 tags: [character]
 data:

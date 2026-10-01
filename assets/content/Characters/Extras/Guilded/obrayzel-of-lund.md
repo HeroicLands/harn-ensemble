@@ -1,6 +1,6 @@
 ---
 shortcode: obrayzeloflund
-name: {full: Obrayzel of Lund, title: "", given: Obrayzel, clan: Lund, aliases: []}
+name: {full: Obrayzel of Lund, aliases: []}
 type: being
 tags: [character]
 data:

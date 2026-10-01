@@ -1,6 +1,6 @@
 ---
 shortcode: merenelleofdurnwak
-name: {full: Merenelle of Durnwak, title: "", given: Merenelle, clan: Durnwak, aliases: []}
+name: {full: Merenelle of Durnwak, aliases: []}
 type: being
 tags: [character]
 data:

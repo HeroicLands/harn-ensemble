@@ -1,6 +1,6 @@
 ---
 shortcode: sorolofobelon
-name: {full: Sorol of Obelon, title: "", given: Sorol, clan: Obelon, aliases: []}
+name: {full: Sorol of Obelon, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: beregofamathor
-name: {full: Bereg of Amathor, title: "", given: Bereg, clan: Amathor, aliases: []}
+name: {full: Bereg of Amathor, aliases: []}
 type: being
 tags: [character]
 data:

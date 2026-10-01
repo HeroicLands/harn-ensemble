@@ -1,11 +1,6 @@
 ---
 shortcode: veteransebelofjaesinarass
-name:
-  full: Veteran Sebel of Jaesinarass
-  title: Veteran
-  given: Sebel
-  clan: Jaesinarass
-  aliases: []
+name: {full: Veteran Sebel of Jaesinarass, aliases: []}
 type: being
 tags: [character]
 data:

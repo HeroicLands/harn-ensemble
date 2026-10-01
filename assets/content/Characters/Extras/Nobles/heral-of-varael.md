@@ -1,6 +1,6 @@
 ---
 shortcode: heralofvarael
-name: {full: Heral of Varael, title: "", given: Heral, clan: Varael, aliases: []}
+name: {full: Heral of Varael, aliases: []}
 type: being
 tags: [character]
 data:

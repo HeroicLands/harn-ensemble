@@ -1,6 +1,6 @@
 ---
 shortcode: hennigarofchelsenal
-name: {full: Hennigar of Chelsenal, title: "", given: Hennigar, clan: Chelsenal, aliases: []}
+name: {full: Hennigar of Chelsenal, aliases: []}
 type: being
 tags: [character]
 data:

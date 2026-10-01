@@ -1,6 +1,6 @@
 ---
 shortcode: corfynofcybela
-name: {full: Corfyn of Cybela, title: "", given: Corfyn, clan: Cybela, aliases: []}
+name: {full: Corfyn of Cybela, aliases: []}
 type: being
 tags: [character]
 data:

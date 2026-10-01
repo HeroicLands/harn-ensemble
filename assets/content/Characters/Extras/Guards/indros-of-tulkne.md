@@ -1,6 +1,6 @@
 ---
 shortcode: indrosoftulkne
-name: {full: Indros of Tulkne, title: "", given: Indros, clan: Tulkne, aliases: []}
+name: {full: Indros of Tulkne, aliases: []}
 type: being
 tags: [character]
 data:

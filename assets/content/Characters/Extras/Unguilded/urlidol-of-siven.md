@@ -1,6 +1,6 @@
 ---
 shortcode: urlidolofsiven
-name: {full: Urlidol of Siven, title: "", given: Urlidol, clan: Siven, aliases: []}
+name: {full: Urlidol of Siven, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: rylweofokren
-name: {full: Rylwe of Okren, title: "", given: Rylwe, clan: Okren, aliases: []}
+name: {full: Rylwe of Okren, aliases: []}
 type: being
 tags: [character]
 data:

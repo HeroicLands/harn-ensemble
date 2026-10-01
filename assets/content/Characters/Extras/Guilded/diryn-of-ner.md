@@ -1,6 +1,6 @@
 ---
 shortcode: dirynofner
-name: {full: Diryn of Ner, title: "", given: Diryn, clan: Ner, aliases: []}
+name: {full: Diryn of Ner, aliases: []}
 type: being
 tags: [character]
 data:

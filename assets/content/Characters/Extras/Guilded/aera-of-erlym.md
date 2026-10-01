@@ -1,6 +1,6 @@
 ---
 shortcode: aeraoferlym
-name: {full: Aera of Erlym, title: "", given: Aera, clan: Erlym, aliases: []}
+name: {full: Aera of Erlym, aliases: []}
 type: being
 tags: [character]
 data:

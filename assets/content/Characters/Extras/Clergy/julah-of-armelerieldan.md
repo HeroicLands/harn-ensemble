@@ -1,6 +1,6 @@
 ---
 shortcode: julahofarmelerieldan
-name: {full: Julah of Armelerieldan, title: "", given: Julah, clan: Armelerieldan, aliases: []}
+name: {full: Julah of Armelerieldan, aliases: []}
 type: being
 tags: [character]
 data:

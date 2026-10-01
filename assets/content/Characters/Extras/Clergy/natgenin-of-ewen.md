@@ -1,6 +1,6 @@
 ---
 shortcode: natgeninofewen
-name: {full: Natgenin of Ewen, title: "", given: Natgenin, clan: Ewen, aliases: []}
+name: {full: Natgenin of Ewen, aliases: []}
 type: being
 tags: [character]
 data:

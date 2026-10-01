@@ -1,6 +1,6 @@
 ---
 shortcode: shelofbanth
-name: {full: Shel of Banth, title: "", given: Shel, clan: Banth, aliases: []}
+name: {full: Shel of Banth, aliases: []}
 type: being
 tags: [character]
 data:

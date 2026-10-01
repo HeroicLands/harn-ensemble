@@ -1,6 +1,6 @@
 ---
 shortcode: piltainofroll
-name: {full: Piltain of Roll, title: "", given: Piltain, clan: Roll, aliases: []}
+name: {full: Piltain of Roll, aliases: []}
 type: being
 tags: [character]
 data:

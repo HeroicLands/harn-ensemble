@@ -1,6 +1,6 @@
 ---
 shortcode: uthericofotek
-name: {full: Utheric of Otek, title: "", given: Utheric, clan: Otek, aliases: []}
+name: {full: Utheric of Otek, aliases: []}
 type: being
 tags: [character]
 data:

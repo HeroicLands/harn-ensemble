@@ -1,6 +1,6 @@
 ---
 shortcode: uoneofrytus
-name: {full: Uone of Rytus, title: "", given: Uone, clan: Rytus, aliases: []}
+name: {full: Uone of Rytus, aliases: []}
 type: being
 tags: [character]
 data:

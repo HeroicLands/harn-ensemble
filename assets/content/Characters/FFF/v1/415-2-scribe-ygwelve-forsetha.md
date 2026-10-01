@@ -1,6 +1,6 @@
 ---
 shortcode: ygwelveforsetha
-name: {full: Ygwelve Forsetha, title: "", given: Ygwelve, clan: Forsetha, aliases: []}
+name: {full: Ygwelve Forsetha, aliases: []}
 type: being
 tags: [character]
 data:

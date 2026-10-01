@@ -1,6 +1,6 @@
 ---
 shortcode: worinofkesten
-name: {full: Worin of Kesten, title: "", given: Worin, clan: Kesten, aliases: []}
+name: {full: Worin of Kesten, aliases: []}
 type: being
 tags: [character]
 data:

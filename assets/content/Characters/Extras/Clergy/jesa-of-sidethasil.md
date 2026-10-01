@@ -1,6 +1,6 @@
 ---
 shortcode: jesaofsidethasil
-name: {full: Jesa of Sidethasil, title: "", given: Jesa, clan: Sidethasil, aliases: []}
+name: {full: Jesa of Sidethasil, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: genofgimbek
-name: {full: Gen of Gimbek, title: "", given: Gen, clan: Gimbek, aliases: []}
+name: {full: Gen of Gimbek, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: bulbadulofermek
-name: {full: Bulbadul of Ermek, title: "", given: Bulbadul, clan: Ermek, aliases: []}
+name: {full: Bulbadul of Ermek, aliases: []}
 type: being
 tags: [character]
 data:

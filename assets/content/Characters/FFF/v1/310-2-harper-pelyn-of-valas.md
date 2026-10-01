@@ -1,6 +1,6 @@
 ---
 shortcode: pelynofvalas
-name: {full: Pelyn of Valas, title: "", given: Pelyn, clan: Valas, aliases: []}
+name: {full: Pelyn of Valas, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: sheofpord
-name: {full: She of Pord, title: "", given: She, clan: Pord, aliases: []}
+name: {full: She of Pord, aliases: []}
 type: being
 tags: [character]
 data:

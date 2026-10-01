@@ -1,6 +1,6 @@
 ---
 shortcode: cirbenofbalchadhod
-name: {full: Cirben of Balchadhod, title: "", given: Cirben, clan: Balchadhod, aliases: []}
+name: {full: Cirben of Balchadhod, aliases: []}
 type: being
 tags: [character]
 data:

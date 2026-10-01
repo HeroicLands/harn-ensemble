@@ -1,6 +1,6 @@
 ---
 shortcode: tarckofpthelya
-name: {full: Tarck of Pthelya, title: "", given: Tarck, clan: Pthelya, aliases: []}
+name: {full: Tarck of Pthelya, aliases: []}
 type: being
 tags: [character]
 data:

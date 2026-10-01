@@ -1,6 +1,6 @@
 ---
 shortcode: yelimeofkhonan
-name: {full: Yelime of Khonan, title: "", given: Yelime, clan: Khonan, aliases: []}
+name: {full: Yelime of Khonan, aliases: []}
 type: being
 tags: [character]
 data:

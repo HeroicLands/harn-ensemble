@@ -1,6 +1,6 @@
 ---
 shortcode: belofwethsels
-name: {full: Bel of Wethsels, title: "", given: Bel, clan: Wethsels, aliases: []}
+name: {full: Bel of Wethsels, aliases: []}
 type: being
 tags: [character]
 data:

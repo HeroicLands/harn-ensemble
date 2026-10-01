@@ -1,6 +1,6 @@
 ---
 shortcode: tulaofpodin
-name: {full: Tula of Podin, title: "", given: Tula, clan: Podin, aliases: []}
+name: {full: Tula of Podin, aliases: []}
 type: being
 tags: [character]
 data:

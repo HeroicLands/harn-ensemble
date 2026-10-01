@@ -1,6 +1,6 @@
 ---
 shortcode: kirlinenofcharcaras
-name: {full: Kirlinen of Charcaras, title: "", given: Kirlinen, clan: Charcaras, aliases: []}
+name: {full: Kirlinen of Charcaras, aliases: []}
 type: being
 tags: [character]
 data:

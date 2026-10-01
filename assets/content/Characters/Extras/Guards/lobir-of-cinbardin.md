@@ -1,6 +1,6 @@
 ---
 shortcode: lobirofcinbardin
-name: {full: Lobir of Cinbardin, title: "", given: Lobir, clan: Cinbardin, aliases: []}
+name: {full: Lobir of Cinbardin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: taatulk
-name: {full: Taatulk, title: "", given: Taatulk, clan: "", aliases: []}
+name: {full: Taatulk, aliases: []}
 type: being
 tags: [character]
 data:

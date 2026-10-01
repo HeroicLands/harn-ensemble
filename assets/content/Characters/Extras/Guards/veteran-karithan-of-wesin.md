@@ -1,6 +1,6 @@
 ---
 shortcode: veterankarithanofwesin
-name: {full: Veteran Karithan of Wesin, title: Veteran, given: Karithan, clan: Wesin, aliases: []}
+name: {full: Veteran Karithan of Wesin, aliases: []}
 type: being
 tags: [character]
 data:

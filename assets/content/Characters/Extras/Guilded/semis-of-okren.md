@@ -1,6 +1,6 @@
 ---
 shortcode: semisofokren
-name: {full: Semis of Okren, title: "", given: Semis, clan: Okren, aliases: []}
+name: {full: Semis of Okren, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: bregofeithagarrui
-name: {full: Breg of Eithagarrui, title: "", given: Breg, clan: Eithagarrui, aliases: []}
+name: {full: Breg of Eithagarrui, aliases: []}
 type: being
 tags: [character]
 data:

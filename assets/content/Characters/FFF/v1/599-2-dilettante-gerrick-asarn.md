@@ -1,6 +1,6 @@
 ---
 shortcode: gerrickasarn
-name: {full: Gerrick Asarn, title: "", given: Gerrick, clan: Asarn, aliases: []}
+name: {full: Gerrick Asarn, aliases: []}
 type: being
 tags: [character]
 data:

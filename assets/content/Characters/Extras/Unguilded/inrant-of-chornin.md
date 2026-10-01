@@ -1,6 +1,6 @@
 ---
 shortcode: inrantofchornin
-name: {full: Inrant of Chornin, title: "", given: Inrant, clan: Chornin, aliases: []}
+name: {full: Inrant of Chornin, aliases: []}
 type: being
 tags: [character]
 data:

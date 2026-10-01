@@ -1,6 +1,6 @@
 ---
 shortcode: yeralofren
-name: {full: Yeral of Ren, title: "", given: Yeral, clan: Ren, aliases: []}
+name: {full: Yeral of Ren, aliases: []}
 type: being
 tags: [character]
 data:

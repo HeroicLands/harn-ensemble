@@ -1,6 +1,6 @@
 ---
 shortcode: koranceofbellyr
-name: {full: Korance of Bellyr, title: "", given: Korance, clan: Bellyr, aliases: []}
+name: {full: Korance of Bellyr, aliases: []}
 type: being
 tags: [character]
 data:

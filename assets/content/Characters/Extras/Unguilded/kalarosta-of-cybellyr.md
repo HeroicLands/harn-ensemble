@@ -1,6 +1,6 @@
 ---
 shortcode: kalarostaofcybellyr
-name: {full: Kalarosta of Cybellyr, title: "", given: Kalarosta, clan: Cybellyr, aliases: []}
+name: {full: Kalarosta of Cybellyr, aliases: []}
 type: being
 tags: [character]
 data:

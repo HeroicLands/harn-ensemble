@@ -1,6 +1,6 @@
 ---
 shortcode: borisofborskin
-name: {full: Boris of Borskin, title: "", given: Boris, clan: Borskin, aliases: []}
+name: {full: Boris of Borskin, aliases: []}
 type: being
 tags: [character]
 data:

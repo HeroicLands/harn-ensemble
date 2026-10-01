@@ -1,6 +1,6 @@
 ---
 shortcode: kaeuck
-name: {full: Kaeuck, title: "", given: Kaeuck, clan: "", aliases: []}
+name: {full: Kaeuck, aliases: []}
 type: being
 tags: [character]
 data:

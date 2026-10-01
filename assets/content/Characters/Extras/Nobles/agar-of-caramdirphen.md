@@ -1,6 +1,6 @@
 ---
 shortcode: agarofcaramdirphen
-name: {full: Agar of Caramdirphen, title: "", given: Agar, clan: Caramdirphen, aliases: []}
+name: {full: Agar of Caramdirphen, aliases: []}
 type: being
 tags: [character]
 data:

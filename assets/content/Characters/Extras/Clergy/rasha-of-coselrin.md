@@ -1,6 +1,6 @@
 ---
 shortcode: rashaofcoselrin
-name: {full: Rasha of Coselrin, title: "", given: Rasha, clan: Coselrin, aliases: []}
+name: {full: Rasha of Coselrin, aliases: []}
 type: being
 tags: [character]
 data:

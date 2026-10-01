@@ -1,11 +1,6 @@
 ---
 shortcode: parmenofdomeralgurthalin
-name:
-  full: Parmen of Domeralgurthalin
-  title: ""
-  given: Parmen
-  clan: Domeralgurthalin
-  aliases: []
+name: {full: Parmen of Domeralgurthalin, aliases: []}
 type: being
 tags: [character]
 data:

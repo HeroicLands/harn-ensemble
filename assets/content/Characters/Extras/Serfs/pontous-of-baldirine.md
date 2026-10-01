@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofbaldirine
-name: {full: Pontous of Baldirine, title: "", given: Pontous, clan: Baldirine, aliases: []}
+name: {full: Pontous of Baldirine, aliases: []}
 type: being
 tags: [character]
 data:

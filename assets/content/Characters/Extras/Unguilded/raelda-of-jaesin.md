@@ -1,6 +1,6 @@
 ---
 shortcode: raeldaofjaesin
-name: {full: Raelda of Jaesin, title: "", given: Raelda, clan: Jaesin, aliases: []}
+name: {full: Raelda of Jaesin, aliases: []}
 type: being
 tags: [character]
 data:

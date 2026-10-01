@@ -1,6 +1,6 @@
 ---
 shortcode: jarnofbulbakar
-name: {full: Jarn of Bulbakar, title: "", given: Jarn, clan: Bulbakar, aliases: []}
+name: {full: Jarn of Bulbakar, aliases: []}
 type: being
 tags: [character]
 data:

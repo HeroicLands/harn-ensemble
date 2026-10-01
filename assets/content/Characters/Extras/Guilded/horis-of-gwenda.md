@@ -1,6 +1,6 @@
 ---
 shortcode: horisofgwenda
-name: {full: Horis of Gwenda, title: "", given: Horis, clan: Gwenda, aliases: []}
+name: {full: Horis of Gwenda, aliases: []}
 type: being
 tags: [character]
 data:

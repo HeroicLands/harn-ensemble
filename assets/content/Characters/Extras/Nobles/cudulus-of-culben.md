@@ -1,6 +1,6 @@
 ---
 shortcode: cudulusofculben
-name: {full: Cudulus of Culben, title: "", given: Cudulus, clan: Culben, aliases: []}
+name: {full: Cudulus of Culben, aliases: []}
 type: being
 tags: [character]
 data:

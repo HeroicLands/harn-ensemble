@@ -1,6 +1,6 @@
 ---
 shortcode: dafydstahlman
-name: {full: Dafyd Stahlman, title: "", given: Dafyd, clan: Stahlman, aliases: []}
+name: {full: Dafyd Stahlman, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: vurilofgrath
-name: {full: Vuril of Grath, title: "", given: Vuril, clan: Grath, aliases: []}
+name: {full: Vuril of Grath, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: inalofeverikarby
-name: {full: Inal of Everikarby, title: "", given: Inal, clan: Everikarby, aliases: []}
+name: {full: Inal of Everikarby, aliases: []}
 type: being
 tags: [character]
 data:

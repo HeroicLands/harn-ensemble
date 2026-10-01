@@ -1,6 +1,6 @@
 ---
 shortcode: cholaofdebernin
-name: {full: Chola of Debernin, title: "", given: Chola, clan: Debernin, aliases: []}
+name: {full: Chola of Debernin, aliases: []}
 type: being
 tags: [character]
 data:

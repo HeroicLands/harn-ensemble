@@ -1,6 +1,6 @@
 ---
 shortcode: edlinofhonnusk
-name: {full: Edlin of Honnusk, title: "", given: Edlin, clan: Honnusk, aliases: []}
+name: {full: Edlin of Honnusk, aliases: []}
 type: being
 tags: [character]
 data:

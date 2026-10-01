@@ -1,6 +1,6 @@
 ---
 shortcode: gaetaneofpharcaras
-name: {full: Gaetane of Pharcaras, title: "", given: Gaetane, clan: Pharcaras, aliases: []}
+name: {full: Gaetane of Pharcaras, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: kalaredoflebarsuel
-name: {full: Kalared of Lebarsuel, title: "", given: Kalared, clan: Lebarsuel, aliases: []}
+name: {full: Kalared of Lebarsuel, aliases: []}
 type: being
 tags: [character]
 data:

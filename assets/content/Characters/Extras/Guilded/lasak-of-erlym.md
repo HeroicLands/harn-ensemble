@@ -1,6 +1,6 @@
 ---
 shortcode: lasakoferlym
-name: {full: Lasak of Erlym, title: "", given: Lasak, clan: Erlym, aliases: []}
+name: {full: Lasak of Erlym, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: lyciaofever
-name: {full: Lycia of Ever, title: "", given: Lycia, clan: Ever, aliases: []}
+name: {full: Lycia of Ever, aliases: []}
 type: being
 tags: [character]
 data:

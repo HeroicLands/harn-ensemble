@@ -1,6 +1,6 @@
 ---
 shortcode: andyofuro
-name: {full: Andy of Uro, title: "", given: Andy, clan: Uro, aliases: []}
+name: {full: Andy of Uro, aliases: []}
 type: being
 tags: [character]
 data:

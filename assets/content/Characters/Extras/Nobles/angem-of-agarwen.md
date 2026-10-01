@@ -1,6 +1,6 @@
 ---
 shortcode: angemofagarwen
-name: {full: Angem of Agarwen, title: "", given: Angem, clan: Agarwen, aliases: []}
+name: {full: Angem of Agarwen, aliases: []}
 type: being
 tags: [character]
 data:

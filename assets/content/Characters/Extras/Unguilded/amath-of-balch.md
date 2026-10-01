@@ -1,6 +1,6 @@
 ---
 shortcode: amathofbalch
-name: {full: Amath of Balch, title: "", given: Amath, clan: Balch, aliases: []}
+name: {full: Amath of Balch, aliases: []}
 type: being
 tags: [character]
 data:

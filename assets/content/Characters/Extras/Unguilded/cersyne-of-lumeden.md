@@ -1,6 +1,6 @@
 ---
 shortcode: cersyneoflumeden
-name: {full: Cersyne of Lumeden, title: "", given: Cersyne, clan: Lumeden, aliases: []}
+name: {full: Cersyne of Lumeden, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: yigarigaralynofgwena
-name: {full: Yigarigaralyn of Gwena, title: "", given: Yigarigaralyn, clan: Gwena, aliases: []}
+name: {full: Yigarigaralyn of Gwena, aliases: []}
 type: being
 tags: [character]
 data:

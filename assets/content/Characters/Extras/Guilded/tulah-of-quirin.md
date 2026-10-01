@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofquirin
-name: {full: Tulah of Quirin, title: "", given: Tulah, clan: Quirin, aliases: []}
+name: {full: Tulah of Quirin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: filtheflutist
-name: {full: Fil the Flutist, title: "", given: Fil, clan: the Flutist, aliases: []}
+name: {full: Fil the Flutist, aliases: []}
 type: being
 tags: [character]
 data:

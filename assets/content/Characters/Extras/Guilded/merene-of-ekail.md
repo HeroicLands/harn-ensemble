@@ -1,6 +1,6 @@
 ---
 shortcode: mereneofekail
-name: {full: Merene of Ekail, title: "", given: Merene, clan: Ekail, aliases: []}
+name: {full: Merene of Ekail, aliases: []}
 type: being
 tags: [character]
 data:

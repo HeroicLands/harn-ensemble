@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofelwethade
-name: {full: Terza of Elwethade, title: "", given: Terza, clan: Elwethade, aliases: []}
+name: {full: Terza of Elwethade, aliases: []}
 type: being
 tags: [character]
 data:

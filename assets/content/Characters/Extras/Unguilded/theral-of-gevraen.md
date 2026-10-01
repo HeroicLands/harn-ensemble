@@ -1,6 +1,6 @@
 ---
 shortcode: theralofgevraen
-name: {full: Theral of Gevraen, title: "", given: Theral, clan: Gevraen, aliases: []}
+name: {full: Theral of Gevraen, aliases: []}
 type: being
 tags: [character]
 data:

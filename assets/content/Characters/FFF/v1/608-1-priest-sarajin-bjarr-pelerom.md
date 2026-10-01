@@ -1,6 +1,6 @@
 ---
 shortcode: bjarrpelerom
-name: {full: Bjarr Pelerom, title: "", given: Bjarr, clan: Pelerom, aliases: []}
+name: {full: Bjarr Pelerom, aliases: []}
 type: being
 tags: [character]
 data:

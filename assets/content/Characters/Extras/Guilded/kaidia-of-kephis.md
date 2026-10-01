@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofkephis
-name: {full: Kaidia of Kephis, title: "", given: Kaidia, clan: Kephis, aliases: []}
+name: {full: Kaidia of Kephis, aliases: []}
 type: being
 tags: [character]
 data:

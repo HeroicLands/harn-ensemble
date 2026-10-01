@@ -1,6 +1,6 @@
 ---
 shortcode: kalasofaralsar
-name: {full: Kalas of Aralsar, title: "", given: Kalas, clan: Aralsar, aliases: []}
+name: {full: Kalas of Aralsar, aliases: []}
 type: being
 tags: [character]
 data:

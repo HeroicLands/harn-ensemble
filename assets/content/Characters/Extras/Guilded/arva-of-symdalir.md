@@ -1,6 +1,6 @@
 ---
 shortcode: arvaofsymdalir
-name: {full: Arva of Symdalir, title: "", given: Arva, clan: Symdalir, aliases: []}
+name: {full: Arva of Symdalir, aliases: []}
 type: being
 tags: [character]
 data:

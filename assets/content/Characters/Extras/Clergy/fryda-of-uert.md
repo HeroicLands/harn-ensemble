@@ -1,6 +1,6 @@
 ---
 shortcode: frydaofuert
-name: {full: Fryda of Uert, title: "", given: Fryda, clan: Uert, aliases: []}
+name: {full: Fryda of Uert, aliases: []}
 type: being
 tags: [character]
 data:

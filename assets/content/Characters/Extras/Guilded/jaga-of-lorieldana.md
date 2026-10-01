@@ -1,6 +1,6 @@
 ---
 shortcode: jagaoflorieldana
-name: {full: Jaga of Lorieldana, title: "", given: Jaga, clan: Lorieldana, aliases: []}
+name: {full: Jaga of Lorieldana, aliases: []}
 type: being
 tags: [character]
 data:

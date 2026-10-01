@@ -1,6 +1,6 @@
 ---
 shortcode: bresynofibine
-name: {full: Bresyn of Ibine, title: "", given: Bresyn, clan: Ibine, aliases: []}
+name: {full: Bresyn of Ibine, aliases: []}
 type: being
 tags: [character]
 data:

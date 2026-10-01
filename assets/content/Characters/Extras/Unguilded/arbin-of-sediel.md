@@ -1,6 +1,6 @@
 ---
 shortcode: arbinofsediel
-name: {full: Arbin of Sediel, title: "", given: Arbin, clan: Sediel, aliases: []}
+name: {full: Arbin of Sediel, aliases: []}
 type: being
 tags: [character]
 data:

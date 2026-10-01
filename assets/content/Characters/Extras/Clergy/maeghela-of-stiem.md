@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelaofstiem
-name: {full: Maeghela of Stiem, title: "", given: Maeghela, clan: Stiem, aliases: []}
+name: {full: Maeghela of Stiem, aliases: []}
 type: being
 tags: [character]
 data:

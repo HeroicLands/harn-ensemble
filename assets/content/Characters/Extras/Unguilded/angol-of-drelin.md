@@ -1,6 +1,6 @@
 ---
 shortcode: angolofdrelin
-name: {full: Angol of Drelin, title: "", given: Angol, clan: Drelin, aliases: []}
+name: {full: Angol of Drelin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: wereleofquirin
-name: {full: Werele of Quirin, title: "", given: Werele, clan: Quirin, aliases: []}
+name: {full: Werele of Quirin, aliases: []}
 type: being
 tags: [character]
 data:

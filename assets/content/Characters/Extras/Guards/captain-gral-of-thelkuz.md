@@ -1,6 +1,6 @@
 ---
 shortcode: captaingralofthelkuz
-name: {full: Captain Gral of Thelkuz, title: Captain, given: Gral, clan: Thelkuz, aliases: []}
+name: {full: Captain Gral of Thelkuz, aliases: []}
 type: being
 tags: [character]
 data:

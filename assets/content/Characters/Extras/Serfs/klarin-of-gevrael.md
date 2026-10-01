@@ -1,6 +1,6 @@
 ---
 shortcode: klarinofgevrael
-name: {full: Klarin of Gevrael, title: "", given: Klarin, clan: Gevrael, aliases: []}
+name: {full: Klarin of Gevrael, aliases: []}
 type: being
 tags: [character]
 data:

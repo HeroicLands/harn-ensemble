@@ -1,6 +1,6 @@
 ---
 shortcode: baeoftobilon
-name: {full: Bae of Tobilon, title: "", given: Bae, clan: Tobilon, aliases: []}
+name: {full: Bae of Tobilon, aliases: []}
 type: being
 tags: [character]
 data:

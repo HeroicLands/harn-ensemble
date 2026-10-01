@@ -1,6 +1,6 @@
 ---
 shortcode: gwelenaofyaleh
-name: {full: Gwelena of Yaleh, title: "", given: Gwelena, clan: Yaleh, aliases: []}
+name: {full: Gwelena of Yaleh, aliases: []}
 type: being
 tags: [character]
 data:

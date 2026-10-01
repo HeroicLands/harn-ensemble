@@ -1,6 +1,6 @@
 ---
 shortcode: amdirnurofamath
-name: {full: Amdirnur of Amath, title: "", given: Amdirnur, clan: Amath, aliases: []}
+name: {full: Amdirnur of Amath, aliases: []}
 type: being
 tags: [character]
 data:

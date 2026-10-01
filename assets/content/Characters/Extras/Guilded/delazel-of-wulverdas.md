@@ -1,6 +1,6 @@
 ---
 shortcode: delazelofwulverdas
-name: {full: Delazel of Wulverdas, title: "", given: Delazel, clan: Wulverdas, aliases: []}
+name: {full: Delazel of Wulverdas, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: chymelofubela
-name: {full: Chymel of Ubela, title: "", given: Chymel, clan: Ubela, aliases: []}
+name: {full: Chymel of Ubela, aliases: []}
 type: being
 tags: [character]
 data:

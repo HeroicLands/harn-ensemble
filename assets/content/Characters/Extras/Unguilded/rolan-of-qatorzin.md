@@ -1,6 +1,6 @@
 ---
 shortcode: rolanofqatorzin
-name: {full: Rolan of Qatorzin, title: "", given: Rolan, clan: Qatorzin, aliases: []}
+name: {full: Rolan of Qatorzin, aliases: []}
 type: being
 tags: [character]
 data:

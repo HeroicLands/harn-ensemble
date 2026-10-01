@@ -1,6 +1,6 @@
 ---
 shortcode: arbrinofwulverdy
-name: {full: Arbrin of Wulverdy, title: "", given: Arbrin, clan: Wulverdy, aliases: []}
+name: {full: Arbrin of Wulverdy, aliases: []}
 type: being
 tags: [character]
 data:

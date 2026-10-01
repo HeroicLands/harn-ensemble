@@ -1,6 +1,6 @@
 ---
 shortcode: umeofquiribor
-name: {full: Ume of Quiribor, title: "", given: Ume, clan: Quiribor, aliases: []}
+name: {full: Ume of Quiribor, aliases: []}
 type: being
 tags: [character]
 data:

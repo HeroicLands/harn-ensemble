@@ -1,6 +1,6 @@
 ---
 shortcode: seralaofonparsuel
-name: {full: Serala of Onparsuel, title: "", given: Serala, clan: Onparsuel, aliases: []}
+name: {full: Serala of Onparsuel, aliases: []}
 type: being
 tags: [character]
 data:

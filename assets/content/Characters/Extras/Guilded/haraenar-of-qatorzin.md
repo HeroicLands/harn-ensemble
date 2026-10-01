@@ -1,6 +1,6 @@
 ---
 shortcode: haraenarofqatorzin
-name: {full: Haraenar of Qatorzin, title: "", given: Haraenar, clan: Qatorzin, aliases: []}
+name: {full: Haraenar of Qatorzin, aliases: []}
 type: being
 tags: [character]
 data:

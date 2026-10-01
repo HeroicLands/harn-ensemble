@@ -1,6 +1,6 @@
 ---
 shortcode: neriloflaplacka
-name: {full: Neril of Laplacka, title: "", given: Neril, clan: Laplacka, aliases: []}
+name: {full: Neril of Laplacka, aliases: []}
 type: being
 tags: [character]
 data:

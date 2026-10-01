@@ -1,6 +1,6 @@
 ---
 shortcode: queofbrid
-name: {full: Que of Brid, title: "", given: Que, clan: Brid, aliases: []}
+name: {full: Que of Brid, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: satofdulkai
-name: {full: Sat of Dulkai, title: "", given: Sat, clan: Dulkai, aliases: []}
+name: {full: Sat of Dulkai, aliases: []}
 type: being
 tags: [character]
 data:

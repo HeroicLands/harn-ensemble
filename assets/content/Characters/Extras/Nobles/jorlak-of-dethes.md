@@ -1,6 +1,6 @@
 ---
 shortcode: jorlakofdethes
-name: {full: Jorlak of Dethes, title: "", given: Jorlak, clan: Dethes, aliases: []}
+name: {full: Jorlak of Dethes, aliases: []}
 type: being
 tags: [character]
 data:

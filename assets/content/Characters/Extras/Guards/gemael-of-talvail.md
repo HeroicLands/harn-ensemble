@@ -1,6 +1,6 @@
 ---
 shortcode: gemaeloftalvail
-name: {full: Gemael of Talvail, title: "", given: Gemael, clan: Talvail, aliases: []}
+name: {full: Gemael of Talvail, aliases: []}
 type: being
 tags: [character]
 data:

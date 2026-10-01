@@ -1,6 +1,6 @@
 ---
 shortcode: girondasakofmusbern
-name: {full: Girondasak of Musbern, title: "", given: Girondasak, clan: Musbern, aliases: []}
+name: {full: Girondasak of Musbern, aliases: []}
 type: being
 tags: [character]
 data:

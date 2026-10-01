@@ -1,6 +1,6 @@
 ---
 shortcode: ineofpharasain
-name: {full: Ine of Pharasain, title: "", given: Ine, clan: Pharasain, aliases: []}
+name: {full: Ine of Pharasain, aliases: []}
 type: being
 tags: [character]
 data:

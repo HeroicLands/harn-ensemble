@@ -1,6 +1,6 @@
 ---
 shortcode: cholaofquinda
-name: {full: Chola of Quinda, title: "", given: Chola, clan: Quinda, aliases: []}
+name: {full: Chola of Quinda, aliases: []}
 type: being
 tags: [character]
 data:

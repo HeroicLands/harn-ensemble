@@ -1,6 +1,6 @@
 ---
 shortcode: burkotofpayensen
-name: {full: Burkot of Payensen, title: "", given: Burkot, clan: Payensen, aliases: []}
+name: {full: Burkot of Payensen, aliases: []}
 type: being
 tags: [character]
 data:

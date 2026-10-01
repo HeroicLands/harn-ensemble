@@ -1,6 +1,6 @@
 ---
 shortcode: hemisenofcybela
-name: {full: Hemisen of Cybela, title: "", given: Hemisen, clan: Cybela, aliases: []}
+name: {full: Hemisen of Cybela, aliases: []}
 type: being
 tags: [character]
 data:

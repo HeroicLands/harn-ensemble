@@ -1,6 +1,6 @@
 ---
 shortcode: illineofmerleshref
-name: {full: Illine of Merleshref, title: "", given: Illine, clan: Merleshref, aliases: []}
+name: {full: Illine of Merleshref, aliases: []}
 type: being
 tags: [character]
 data:

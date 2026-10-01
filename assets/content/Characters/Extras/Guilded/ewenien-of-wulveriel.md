@@ -1,6 +1,6 @@
 ---
 shortcode: ewenienofwulveriel
-name: {full: Ewenien of Wulveriel, title: "", given: Ewenien, clan: Wulveriel, aliases: []}
+name: {full: Ewenien of Wulveriel, aliases: []}
 type: being
 tags: [character]
 data:

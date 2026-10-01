@@ -1,6 +1,6 @@
 ---
 shortcode: digger
-name: {full: Digger, title: "", given: Digger, clan: "", aliases: []}
+name: {full: Digger, aliases: []}
 type: being
 tags: [character]
 data:

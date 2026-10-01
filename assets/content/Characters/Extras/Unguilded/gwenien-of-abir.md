@@ -1,6 +1,6 @@
 ---
 shortcode: gwenienofabir
-name: {full: Gwenien of Abir, title: "", given: Gwenien, clan: Abir, aliases: []}
+name: {full: Gwenien of Abir, aliases: []}
 type: being
 tags: [character]
 data:

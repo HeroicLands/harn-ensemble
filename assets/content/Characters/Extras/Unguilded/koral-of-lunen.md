@@ -1,6 +1,6 @@
 ---
 shortcode: koraloflunen
-name: {full: Koral of Lunen, title: "", given: Koral, clan: Lunen, aliases: []}
+name: {full: Koral of Lunen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofeylochin
-name: {full: Tulah of Eylochin, title: "", given: Tulah, clan: Eylochin, aliases: []}
+name: {full: Tulah of Eylochin, aliases: []}
 type: being
 tags: [character]
 data:

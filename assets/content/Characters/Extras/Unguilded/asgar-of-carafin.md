@@ -1,6 +1,6 @@
 ---
 shortcode: asgarofcarafin
-name: {full: Asgar of Carafin, title: "", given: Asgar, clan: Carafin, aliases: []}
+name: {full: Asgar of Carafin, aliases: []}
 type: being
 tags: [character]
 data:

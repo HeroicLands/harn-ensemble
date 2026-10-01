@@ -1,6 +1,6 @@
 ---
 shortcode: jarlenofosathias
-name: {full: Jarlen of Osathias, title: "", given: Jarlen, clan: Osathias, aliases: []}
+name: {full: Jarlen of Osathias, aliases: []}
 type: being
 tags: [character]
 data:

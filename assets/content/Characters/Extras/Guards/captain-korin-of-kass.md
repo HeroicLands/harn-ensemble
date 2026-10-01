@@ -1,6 +1,6 @@
 ---
 shortcode: captainkorinofkass
-name: {full: Captain Korin of Kass, title: Captain, given: Korin, clan: Kass, aliases: []}
+name: {full: Captain Korin of Kass, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: vadirynofenasta
-name: {full: Vadiryn of Enasta, title: "", given: Vadiryn, clan: Enasta, aliases: []}
+name: {full: Vadiryn of Enasta, aliases: []}
 type: being
 tags: [character]
 data:

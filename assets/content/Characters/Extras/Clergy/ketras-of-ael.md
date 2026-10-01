@@ -1,6 +1,6 @@
 ---
 shortcode: ketrasofael
-name: {full: Ketras of Ael, title: "", given: Ketras, clan: Ael, aliases: []}
+name: {full: Ketras of Ael, aliases: []}
 type: being
 tags: [character]
 data:

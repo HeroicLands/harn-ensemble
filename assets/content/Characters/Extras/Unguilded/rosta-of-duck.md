@@ -1,6 +1,6 @@
 ---
 shortcode: rostaofduck
-name: {full: Rosta of Duck, title: "", given: Rosta, clan: Duck, aliases: []}
+name: {full: Rosta of Duck, aliases: []}
 type: being
 tags: [character]
 data:

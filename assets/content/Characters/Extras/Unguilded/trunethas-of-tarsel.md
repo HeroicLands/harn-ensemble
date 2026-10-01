@@ -1,6 +1,6 @@
 ---
 shortcode: trunethasoftarsel
-name: {full: Trunethas of Tarsel, title: "", given: Trunethas, clan: Tarsel, aliases: []}
+name: {full: Trunethas of Tarsel, aliases: []}
 type: being
 tags: [character]
 data:

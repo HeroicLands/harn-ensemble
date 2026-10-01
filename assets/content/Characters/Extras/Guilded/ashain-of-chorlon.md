@@ -1,6 +1,6 @@
 ---
 shortcode: ashainofchorlon
-name: {full: Ashain of Chorlon, title: "", given: Ashain, clan: Chorlon, aliases: []}
+name: {full: Ashain of Chorlon, aliases: []}
 type: being
 tags: [character]
 data:

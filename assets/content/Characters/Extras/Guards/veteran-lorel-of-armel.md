@@ -1,6 +1,6 @@
 ---
 shortcode: veteranlorelofarmel
-name: {full: Veteran Lorel of Armel, title: Veteran, given: Lorel, clan: Armel, aliases: []}
+name: {full: Veteran Lorel of Armel, aliases: []}
 type: being
 tags: [character]
 data:

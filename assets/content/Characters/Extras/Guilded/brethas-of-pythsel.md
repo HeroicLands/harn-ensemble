@@ -1,6 +1,6 @@
 ---
 shortcode: brethasofpythsel
-name: {full: Brethas of Pythsel, title: "", given: Brethas, clan: Pythsel, aliases: []}
+name: {full: Brethas of Pythsel, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: lorisofqatorzin
-name: {full: Loris of Qatorzin, title: "", given: Loris, clan: Qatorzin, aliases: []}
+name: {full: Loris of Qatorzin, aliases: []}
 type: being
 tags: [character]
 data:

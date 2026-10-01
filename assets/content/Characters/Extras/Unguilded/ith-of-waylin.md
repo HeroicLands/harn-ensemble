@@ -1,6 +1,6 @@
 ---
 shortcode: ithofwaylin
-name: {full: Ith of Waylin, title: "", given: Ith, clan: Waylin, aliases: []}
+name: {full: Ith of Waylin, aliases: []}
 type: being
 tags: [character]
 data:

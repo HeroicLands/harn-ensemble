@@ -1,6 +1,6 @@
 ---
 shortcode: perithelame
-name: {full: Peri the Lame, title: "", given: Peri, clan: the Lame, aliases: []}
+name: {full: Peri the Lame, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: sarinaofsten
-name: {full: Sarina of Sten, title: "", given: Sarina, clan: Sten, aliases: []}
+name: {full: Sarina of Sten, aliases: []}
 type: being
 tags: [character]
 data:

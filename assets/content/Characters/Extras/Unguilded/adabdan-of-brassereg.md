@@ -1,6 +1,6 @@
 ---
 shortcode: adabdanofbrassereg
-name: {full: Adabdan of Brassereg, title: "", given: Adabdan, clan: Brassereg, aliases: []}
+name: {full: Adabdan of Brassereg, aliases: []}
 type: being
 tags: [character]
 data:

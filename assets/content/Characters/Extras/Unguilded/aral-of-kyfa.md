@@ -1,6 +1,6 @@
 ---
 shortcode: aralofkyfa
-name: {full: Aral of Kyfa, title: "", given: Aral, clan: Kyfa, aliases: []}
+name: {full: Aral of Kyfa, aliases: []}
 type: being
 tags: [character]
 data:

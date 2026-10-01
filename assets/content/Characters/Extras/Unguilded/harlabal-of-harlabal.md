@@ -1,6 +1,6 @@
 ---
 shortcode: harlabalofharlabal
-name: {full: Harlabal of Harlabal, title: "", given: Harlabal, clan: Harlabal, aliases: []}
+name: {full: Harlabal of Harlabal, aliases: []}
 type: being
 tags: [character]
 data:

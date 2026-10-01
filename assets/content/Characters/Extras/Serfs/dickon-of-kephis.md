@@ -1,6 +1,6 @@
 ---
 shortcode: dickonofkephis
-name: {full: Dickon of Kephis, title: "", given: Dickon, clan: Kephis, aliases: []}
+name: {full: Dickon of Kephis, aliases: []}
 type: being
 tags: [character]
 data:

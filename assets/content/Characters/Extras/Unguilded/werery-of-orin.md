@@ -1,6 +1,6 @@
 ---
 shortcode: wereryoforin
-name: {full: Werery of Orin, title: "", given: Werery, clan: Orin, aliases: []}
+name: {full: Werery of Orin, aliases: []}
 type: being
 tags: [character]
 data:

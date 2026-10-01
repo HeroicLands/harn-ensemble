@@ -1,6 +1,6 @@
 ---
 shortcode: houlaofwesaldim
-name: {full: Houla of Wesaldim, title: "", given: Houla, clan: Wesaldim, aliases: []}
+name: {full: Houla of Wesaldim, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: karnofkarin
-name: {full: Karn of Karin, title: "", given: Karn, clan: Karin, aliases: []}
+name: {full: Karn of Karin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: areenofyorlon
-name: {full: Areen of Yorlon, title: "", given: Areen, clan: Yorlon, aliases: []}
+name: {full: Areen of Yorlon, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: dirofmagnol
-name: {full: Dir of Magnol, title: "", given: Dir, clan: Magnol, aliases: []}
+name: {full: Dir of Magnol, aliases: []}
 type: being
 tags: [character]
 data:

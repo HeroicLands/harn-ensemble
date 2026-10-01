@@ -1,6 +1,6 @@
 ---
 shortcode: labianoflundondel
-name: {full: Labian of Lundondel, title: "", given: Labian, clan: Lundondel, aliases: []}
+name: {full: Labian of Lundondel, aliases: []}
 type: being
 tags: [character]
 data:

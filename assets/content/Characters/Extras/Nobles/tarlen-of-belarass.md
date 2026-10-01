@@ -1,6 +1,6 @@
 ---
 shortcode: tarlenofbelarass
-name: {full: Tarlen of Belarass, title: "", given: Tarlen, clan: Belarass, aliases: []}
+name: {full: Tarlen of Belarass, aliases: []}
 type: being
 tags: [character]
 data:

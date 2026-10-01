@@ -1,6 +1,6 @@
 ---
 shortcode: clanasofpuckill
-name: {full: Clanas of Puckill, title: "", given: Clanas, clan: Puckill, aliases: []}
+name: {full: Clanas of Puckill, aliases: []}
 type: being
 tags: [character]
 data:

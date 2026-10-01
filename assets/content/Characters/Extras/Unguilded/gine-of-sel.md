@@ -1,6 +1,6 @@
 ---
 shortcode: gineofsel
-name: {full: Gine of Sel, title: "", given: Gine, clan: Sel, aliases: []}
+name: {full: Gine of Sel, aliases: []}
 type: being
 tags: [character]
 data:

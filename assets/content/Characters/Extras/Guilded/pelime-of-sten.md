@@ -1,6 +1,6 @@
 ---
 shortcode: pelimeofsten
-name: {full: Pelime of Sten, title: "", given: Pelime, clan: Sten, aliases: []}
+name: {full: Pelime of Sten, aliases: []}
 type: being
 tags: [character]
 data:

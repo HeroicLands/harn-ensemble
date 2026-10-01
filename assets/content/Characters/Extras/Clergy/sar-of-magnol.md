@@ -1,6 +1,6 @@
 ---
 shortcode: sarofmagnol
-name: {full: Sar of Magnol, title: "", given: Sar, clan: Magnol, aliases: []}
+name: {full: Sar of Magnol, aliases: []}
 type: being
 tags: [character]
 data:

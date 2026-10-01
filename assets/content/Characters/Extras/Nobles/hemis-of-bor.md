@@ -1,6 +1,6 @@
 ---
 shortcode: hemisofbor
-name: {full: Hemis of Bor, title: "", given: Hemis, clan: Bor, aliases: []}
+name: {full: Hemis of Bor, aliases: []}
 type: being
 tags: [character]
 data:

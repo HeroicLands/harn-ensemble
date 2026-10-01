@@ -1,6 +1,6 @@
 ---
 shortcode: angolofburitta
-name: {full: Angol of Buritta, title: "", given: Angol, clan: Buritta, aliases: []}
+name: {full: Angol of Buritta, aliases: []}
 type: being
 tags: [character]
 data:

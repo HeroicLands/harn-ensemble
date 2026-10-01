@@ -1,6 +1,6 @@
 ---
 shortcode: gruldelofcuro
-name: {full: Gruldel of Curo, title: "", given: Gruldel, clan: Curo, aliases: []}
+name: {full: Gruldel of Curo, aliases: []}
 type: being
 tags: [character]
 data:

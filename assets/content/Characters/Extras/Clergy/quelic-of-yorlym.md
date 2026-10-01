@@ -1,6 +1,6 @@
 ---
 shortcode: quelicofyorlym
-name: {full: Quelic of Yorlym, title: "", given: Quelic, clan: Yorlym, aliases: []}
+name: {full: Quelic of Yorlym, aliases: []}
 type: being
 tags: [character]
 data:

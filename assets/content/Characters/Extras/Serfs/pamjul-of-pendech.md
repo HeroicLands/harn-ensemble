@@ -1,6 +1,6 @@
 ---
 shortcode: pamjulofpendech
-name: {full: Pamjul of Pendech, title: "", given: Pamjul, clan: Pendech, aliases: []}
+name: {full: Pamjul of Pendech, aliases: []}
 type: being
 tags: [character]
 data:

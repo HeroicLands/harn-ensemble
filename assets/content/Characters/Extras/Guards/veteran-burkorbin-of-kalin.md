@@ -1,11 +1,6 @@
 ---
 shortcode: veteranburkorbinofkalin
-name:
-  full: Veteran Burkorbin of Kalin
-  title: Veteran
-  given: Burkorbin
-  clan: Kalin
-  aliases: []
+name: {full: Veteran Burkorbin of Kalin, aliases: []}
 type: being
 tags: [character]
 data:

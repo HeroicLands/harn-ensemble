@@ -1,6 +1,6 @@
 ---
 shortcode: liriameofmerak
-name: {full: Liriame of Merak, title: "", given: Liriame, clan: Merak, aliases: []}
+name: {full: Liriame of Merak, aliases: []}
 type: being
 tags: [character]
 data:

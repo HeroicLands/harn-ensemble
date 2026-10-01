@@ -1,6 +1,6 @@
 ---
 shortcode: arkaelofjorwynn
-name: {full: Arkael of Jorwynn, title: "", given: Arkael, clan: Jorwynn, aliases: []}
+name: {full: Arkael of Jorwynn, aliases: []}
 type: being
 tags: [character]
 data:

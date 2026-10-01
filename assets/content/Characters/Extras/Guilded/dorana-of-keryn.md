@@ -1,6 +1,6 @@
 ---
 shortcode: doranaofkeryn
-name: {full: Dorana of Keryn, title: "", given: Dorana, clan: Keryn, aliases: []}
+name: {full: Dorana of Keryn, aliases: []}
 type: being
 tags: [character]
 data:

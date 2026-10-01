@@ -1,6 +1,6 @@
 ---
 shortcode: boseralofhosanefris
-name: {full: Boseral of Hosanefris, title: "", given: Boseral, clan: Hosanefris, aliases: []}
+name: {full: Boseral of Hosanefris, aliases: []}
 type: being
 tags: [character]
 data:

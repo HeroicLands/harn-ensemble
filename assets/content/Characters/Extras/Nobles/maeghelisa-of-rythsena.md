@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelisaofrythsena
-name: {full: Maeghelisa of Rythsena, title: "", given: Maeghelisa, clan: Rythsena, aliases: []}
+name: {full: Maeghelisa of Rythsena, aliases: []}
 type: being
 tags: [character]
 data:

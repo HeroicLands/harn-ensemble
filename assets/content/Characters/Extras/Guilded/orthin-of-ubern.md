@@ -1,6 +1,6 @@
 ---
 shortcode: orthinofubern
-name: {full: Orthin of Ubern, title: "", given: Orthin, clan: Ubern, aliases: []}
+name: {full: Orthin of Ubern, aliases: []}
 type: being
 tags: [character]
 data:

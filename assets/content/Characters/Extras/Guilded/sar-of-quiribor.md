@@ -1,6 +1,6 @@
 ---
 shortcode: sarofquiribor
-name: {full: Sar of Quiribor, title: "", given: Sar, clan: Quiribor, aliases: []}
+name: {full: Sar of Quiribor, aliases: []}
 type: being
 tags: [character]
 data:

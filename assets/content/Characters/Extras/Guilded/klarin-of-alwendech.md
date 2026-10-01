@@ -1,6 +1,6 @@
 ---
 shortcode: klarinofalwendech
-name: {full: Klarin of Alwendech, title: "", given: Klarin, clan: Alwendech, aliases: []}
+name: {full: Klarin of Alwendech, aliases: []}
 type: being
 tags: [character]
 data:

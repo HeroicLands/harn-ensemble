@@ -1,6 +1,6 @@
 ---
 shortcode: harisirofpaserak
-name: {full: Harisir of Paserak, title: "", given: Harisir, clan: Paserak, aliases: []}
+name: {full: Harisir of Paserak, aliases: []}
 type: being
 tags: [character]
 data:

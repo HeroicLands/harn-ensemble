@@ -1,6 +1,6 @@
 ---
 shortcode: marwinoftobira
-name: {full: Marwin of Tobira, title: "", given: Marwin, clan: Tobira, aliases: []}
+name: {full: Marwin of Tobira, aliases: []}
 type: being
 tags: [character]
 data:

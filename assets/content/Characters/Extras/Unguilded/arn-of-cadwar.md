@@ -1,6 +1,6 @@
 ---
 shortcode: arnofcadwar
-name: {full: Arn of Cadwar, title: "", given: Arn, clan: Cadwar, aliases: []}
+name: {full: Arn of Cadwar, aliases: []}
 type: being
 tags: [character]
 data:

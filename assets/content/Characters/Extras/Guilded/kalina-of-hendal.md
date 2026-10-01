@@ -1,6 +1,6 @@
 ---
 shortcode: kalinaofhendal
-name: {full: Kalina of Hendal, title: "", given: Kalina, clan: Hendal, aliases: []}
+name: {full: Kalina of Hendal, aliases: []}
 type: being
 tags: [character]
 data:

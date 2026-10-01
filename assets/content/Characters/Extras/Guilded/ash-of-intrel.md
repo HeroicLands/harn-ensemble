@@ -1,6 +1,6 @@
 ---
 shortcode: ashofintrel
-name: {full: Ash of Intrel, title: "", given: Ash, clan: Intrel, aliases: []}
+name: {full: Ash of Intrel, aliases: []}
 type: being
 tags: [character]
 data:

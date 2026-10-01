@@ -1,6 +1,6 @@
 ---
 shortcode: mardenofewenastallis
-name: {full: Marden of Ewenastallis, title: "", given: Marden, clan: Ewenastallis, aliases: []}
+name: {full: Marden of Ewenastallis, aliases: []}
 type: being
 tags: [character]
 data:

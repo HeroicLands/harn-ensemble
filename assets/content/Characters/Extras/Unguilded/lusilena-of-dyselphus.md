@@ -1,6 +1,6 @@
 ---
 shortcode: lusilenaofdyselphus
-name: {full: Lusilena of Dyselphus, title: "", given: Lusilena, clan: Dyselphus, aliases: []}
+name: {full: Lusilena of Dyselphus, aliases: []}
 type: being
 tags: [character]
 data:

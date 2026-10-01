@@ -1,11 +1,6 @@
 ---
 shortcode: veteranmarcandoftarsuel
-name:
-  full: Veteran Marcand of Tarsuel
-  title: Veteran
-  given: Marcand
-  clan: Tarsuel
-  aliases: []
+name: {full: Veteran Marcand of Tarsuel, aliases: []}
 type: being
 tags: [character]
 data:

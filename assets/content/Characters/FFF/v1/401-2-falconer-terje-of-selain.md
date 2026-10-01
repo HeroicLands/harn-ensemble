@@ -1,6 +1,6 @@
 ---
 shortcode: terjeofselain
-name: {full: Terje of Selain, title: "", given: Terje, clan: Selain, aliases: []}
+name: {full: Terje of Selain, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: solineofseth
-name: {full: Soline of Seth, title: "", given: Soline, clan: Seth, aliases: []}
+name: {full: Soline of Seth, aliases: []}
 type: being
 tags: [character]
 data:

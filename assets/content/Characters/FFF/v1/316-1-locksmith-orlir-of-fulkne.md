@@ -1,6 +1,6 @@
 ---
 shortcode: orliroffulkne
-name: {full: Orlir of Fulkne, title: "", given: Orlir, clan: Fulkne, aliases: []}
+name: {full: Orlir of Fulkne, aliases: []}
 type: being
 tags: [character]
 data:

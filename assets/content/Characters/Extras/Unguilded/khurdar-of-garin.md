@@ -1,6 +1,6 @@
 ---
 shortcode: khurdarofgarin
-name: {full: Khurdar of Garin, title: "", given: Khurdar, clan: Garin, aliases: []}
+name: {full: Khurdar of Garin, aliases: []}
 type: being
 tags: [character]
 data:

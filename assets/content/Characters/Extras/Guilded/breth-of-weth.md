@@ -1,6 +1,6 @@
 ---
 shortcode: brethofweth
-name: {full: Breth of Weth, title: "", given: Breth, clan: Weth, aliases: []}
+name: {full: Breth of Weth, aliases: []}
 type: being
 tags: [character]
 data:

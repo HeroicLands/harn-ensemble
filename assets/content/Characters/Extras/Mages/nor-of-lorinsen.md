@@ -1,6 +1,6 @@
 ---
 shortcode: noroflorinsen
-name: {full: Nor of Lorinsen, title: "", given: Nor, clan: Lorinsen, aliases: []}
+name: {full: Nor of Lorinsen, aliases: []}
 type: being
 tags: [character]
 data:

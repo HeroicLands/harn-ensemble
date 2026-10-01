@@ -1,6 +1,6 @@
 ---
 shortcode: erebaneofpuckill
-name: {full: Erebane of Puckill, title: "", given: Erebane, clan: Puckill, aliases: []}
+name: {full: Erebane of Puckill, aliases: []}
 type: being
 tags: [character]
 data:

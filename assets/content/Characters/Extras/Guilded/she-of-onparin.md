@@ -1,6 +1,6 @@
 ---
 shortcode: sheofonparin
-name: {full: She of Onparin, title: "", given: She, clan: Onparin, aliases: []}
+name: {full: She of Onparin, aliases: []}
 type: being
 tags: [character]
 data:

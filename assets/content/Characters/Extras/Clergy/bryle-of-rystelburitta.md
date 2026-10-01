@@ -1,6 +1,6 @@
 ---
 shortcode: bryleofrystelburitta
-name: {full: Bryle of Rystelburitta, title: "", given: Bryle, clan: Rystelburitta, aliases: []}
+name: {full: Bryle of Rystelburitta, aliases: []}
 type: being
 tags: [character]
 data:

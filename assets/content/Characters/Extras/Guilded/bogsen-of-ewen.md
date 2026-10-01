@@ -1,6 +1,6 @@
 ---
 shortcode: bogsenofewen
-name: {full: Bogsen of Ewen, title: "", given: Bogsen, clan: Ewen, aliases: []}
+name: {full: Bogsen of Ewen, aliases: []}
 type: being
 tags: [character]
 data:

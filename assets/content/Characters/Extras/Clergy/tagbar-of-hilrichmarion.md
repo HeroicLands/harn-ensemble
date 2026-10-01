@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarofhilrichmarion
-name: {full: Tagbar of Hilrichmarion, title: "", given: Tagbar, clan: Hilrichmarion, aliases: []}
+name: {full: Tagbar of Hilrichmarion, aliases: []}
 type: being
 tags: [character]
 data:

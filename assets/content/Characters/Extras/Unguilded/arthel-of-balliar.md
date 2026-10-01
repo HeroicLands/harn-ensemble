@@ -1,6 +1,6 @@
 ---
 shortcode: arthelofballiar
-name: {full: Arthel of Balliar, title: "", given: Arthel, clan: Balliar, aliases: []}
+name: {full: Arthel of Balliar, aliases: []}
 type: being
 tags: [character]
 data:

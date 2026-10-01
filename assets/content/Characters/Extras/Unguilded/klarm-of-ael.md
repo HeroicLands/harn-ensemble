@@ -1,6 +1,6 @@
 ---
 shortcode: klarmofael
-name: {full: Klarm of Ael, title: "", given: Klarm, clan: Ael, aliases: []}
+name: {full: Klarm of Ael, aliases: []}
 type: being
 tags: [character]
 data:

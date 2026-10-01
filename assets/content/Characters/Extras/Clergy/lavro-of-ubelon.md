@@ -1,6 +1,6 @@
 ---
 shortcode: lavroofubelon
-name: {full: Lavro of Ubelon, title: "", given: Lavro, clan: Ubelon, aliases: []}
+name: {full: Lavro of Ubelon, aliases: []}
 type: being
 tags: [character]
 data:

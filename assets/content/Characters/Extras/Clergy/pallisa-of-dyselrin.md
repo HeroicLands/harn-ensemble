@@ -1,6 +1,6 @@
 ---
 shortcode: pallisaofdyselrin
-name: {full: Pallisa of Dyselrin, title: "", given: Pallisa, clan: Dyselrin, aliases: []}
+name: {full: Pallisa of Dyselrin, aliases: []}
 type: being
 tags: [character]
 data:

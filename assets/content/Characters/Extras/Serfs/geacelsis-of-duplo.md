@@ -1,6 +1,6 @@
 ---
 shortcode: geacelsisofduplo
-name: {full: Geacelsis of Duplo, title: "", given: Geacelsis, clan: Duplo, aliases: []}
+name: {full: Geacelsis of Duplo, aliases: []}
 type: being
 tags: [character]
 data:

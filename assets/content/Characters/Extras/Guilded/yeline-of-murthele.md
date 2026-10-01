@@ -1,6 +1,6 @@
 ---
 shortcode: yelineofmurthele
-name: {full: Yeline of Murthele, title: "", given: Yeline, clan: Murthele, aliases: []}
+name: {full: Yeline of Murthele, aliases: []}
 type: being
 tags: [character]
 data:

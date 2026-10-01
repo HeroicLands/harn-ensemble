@@ -1,6 +1,6 @@
 ---
 shortcode: tokisvalgerdsson
-name: {full: Tokis Valgerdsson, title: "", given: Tokis, clan: Valgerdsson, aliases: []}
+name: {full: Tokis Valgerdsson, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: hervaofquirien
-name: {full: Herva of Quirien, title: "", given: Herva, clan: Quirien, aliases: []}
+name: {full: Herva of Quirien, aliases: []}
 type: being
 tags: [character]
 data:

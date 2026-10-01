@@ -1,6 +1,6 @@
 ---
 shortcode: ladyelenavalador
-name: {full: Lady Elena Valador, title: Lady, given: Elena, clan: Valador, aliases: []}
+name: {full: Lady Elena Valador, aliases: []}
 type: being
 tags: [character]
 data:

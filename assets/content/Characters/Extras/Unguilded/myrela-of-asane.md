@@ -1,6 +1,6 @@
 ---
 shortcode: myrelaofasane
-name: {full: Myrela of Asane, title: "", given: Myrela, clan: Asane, aliases: []}
+name: {full: Myrela of Asane, aliases: []}
 type: being
 tags: [character]
 data:

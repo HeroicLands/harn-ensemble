@@ -1,6 +1,6 @@
 ---
 shortcode: veteranaradofvalasain
-name: {full: Veteran Arad of Valasain, title: Veteran, given: Arad, clan: Valasain, aliases: []}
+name: {full: Veteran Arad of Valasain, aliases: []}
 type: being
 tags: [character]
 data:

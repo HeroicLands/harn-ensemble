@@ -1,6 +1,6 @@
 ---
 shortcode: agarchiphenofbain
-name: {full: Agarchiphen of Bain, title: "", given: Agarchiphen, clan: Bain, aliases: []}
+name: {full: Agarchiphen of Bain, aliases: []}
 type: being
 tags: [character]
 data:

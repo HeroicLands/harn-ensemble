@@ -1,11 +1,6 @@
 ---
 shortcode: captainfeldaranoflumeden
-name:
-  full: Captain Feldaran of Lumeden
-  title: Captain
-  given: Feldaran
-  clan: Lumeden
-  aliases: []
+name: {full: Captain Feldaran of Lumeden, aliases: []}
 type: being
 tags: [character]
 data:

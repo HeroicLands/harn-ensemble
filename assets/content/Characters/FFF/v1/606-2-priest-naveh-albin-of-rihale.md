@@ -1,6 +1,6 @@
 ---
 shortcode: albinofrihale
-name: {full: Albin of Rihale, title: "", given: Albin, clan: Rihale, aliases: []}
+name: {full: Albin of Rihale, aliases: []}
 type: being
 tags: [character]
 data:

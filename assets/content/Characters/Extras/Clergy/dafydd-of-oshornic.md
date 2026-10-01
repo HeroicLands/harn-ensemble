@@ -1,6 +1,6 @@
 ---
 shortcode: dafyddofoshornic
-name: {full: Dafydd of Oshornic, title: "", given: Dafydd, clan: Oshornic, aliases: []}
+name: {full: Dafydd of Oshornic, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tulaofsethaleh
-name: {full: Tula of Sethaleh, title: "", given: Tula, clan: Sethaleh, aliases: []}
+name: {full: Tula of Sethaleh, aliases: []}
 type: being
 tags: [character]
 data:

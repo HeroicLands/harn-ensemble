@@ -1,6 +1,6 @@
 ---
 shortcode: lobirofhipaeus
-name: {full: Lobir of Hipaeus, title: "", given: Lobir, clan: Hipaeus, aliases: []}
+name: {full: Lobir of Hipaeus, aliases: []}
 type: being
 tags: [character]
 data:

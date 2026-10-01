@@ -1,6 +1,6 @@
 ---
 shortcode: lirofsaldir
-name: {full: Lir of Saldir, title: "", given: Lir, clan: Saldir, aliases: []}
+name: {full: Lir of Saldir, aliases: []}
 type: being
 tags: [character]
 data:

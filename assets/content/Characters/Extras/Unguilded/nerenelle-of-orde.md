@@ -1,6 +1,6 @@
 ---
 shortcode: nerenelleoforde
-name: {full: Nerenelle of Orde, title: "", given: Nerenelle, clan: Orde, aliases: []}
+name: {full: Nerenelle of Orde, aliases: []}
 type: being
 tags: [character]
 data:

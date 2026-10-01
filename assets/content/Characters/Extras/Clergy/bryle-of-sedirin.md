@@ -1,6 +1,6 @@
 ---
 shortcode: bryleofsedirin
-name: {full: Bryle of Sedirin, title: "", given: Bryle, clan: Sedirin, aliases: []}
+name: {full: Bryle of Sedirin, aliases: []}
 type: being
 tags: [character]
 data:

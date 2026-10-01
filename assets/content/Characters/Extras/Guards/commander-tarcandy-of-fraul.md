@@ -1,11 +1,6 @@
 ---
 shortcode: commandertarcandyoffraul
-name:
-  full: Commander Tarcandy of Fraul
-  title: ""
-  given: Commander
-  clan: Tarcandy Fraul
-  aliases: []
+name: {full: Commander Tarcandy of Fraul, aliases: []}
 type: being
 tags: [character]
 data:

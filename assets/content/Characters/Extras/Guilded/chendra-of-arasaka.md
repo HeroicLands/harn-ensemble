@@ -1,6 +1,6 @@
 ---
 shortcode: chendraofarasaka
-name: {full: Chendra of Arasaka, title: "", given: Chendra, clan: Arasaka, aliases: []}
+name: {full: Chendra of Arasaka, aliases: []}
 type: being
 tags: [character]
 data:

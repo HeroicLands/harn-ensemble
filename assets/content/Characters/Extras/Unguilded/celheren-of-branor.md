@@ -1,6 +1,6 @@
 ---
 shortcode: celherenofbranor
-name: {full: Celheren of Branor, title: "", given: Celheren, clan: Branor, aliases: []}
+name: {full: Celheren of Branor, aliases: []}
 type: being
 tags: [character]
 data:

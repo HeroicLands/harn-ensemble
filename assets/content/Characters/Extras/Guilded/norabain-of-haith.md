@@ -1,6 +1,6 @@
 ---
 shortcode: norabainofhaith
-name: {full: Norabain of Haith, title: "", given: Norabain, clan: Haith, aliases: []}
+name: {full: Norabain of Haith, aliases: []}
 type: being
 tags: [character]
 data:

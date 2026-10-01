@@ -1,6 +1,6 @@
 ---
 shortcode: jellinoflebaroos
-name: {full: Jellin of Lebaroos, title: "", given: Jellin, clan: Lebaroos, aliases: []}
+name: {full: Jellin of Lebaroos, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: aramiaofopondech
-name: {full: Aramia of Opondech, title: "", given: Aramia, clan: Opondech, aliases: []}
+name: {full: Aramia of Opondech, aliases: []}
 type: being
 tags: [character]
 data:

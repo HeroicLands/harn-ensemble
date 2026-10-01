@@ -1,6 +1,6 @@
 ---
 shortcode: lasaryseoffulkne
-name: {full: Lasaryse of Fulkne, title: "", given: Lasaryse, clan: Fulkne, aliases: []}
+name: {full: Lasaryse of Fulkne, aliases: []}
 type: being
 tags: [character]
 data:

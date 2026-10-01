@@ -1,6 +1,6 @@
 ---
 shortcode: masynofprovin
-name: {full: Masyn of Provin, title: "", given: Masyn, clan: Provin, aliases: []}
+name: {full: Masyn of Provin, aliases: []}
 type: being
 tags: [character]
 data:

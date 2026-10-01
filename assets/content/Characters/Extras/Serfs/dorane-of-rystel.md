@@ -1,6 +1,6 @@
 ---
 shortcode: doraneofrystel
-name: {full: Dorane of Rystel, title: "", given: Dorane, clan: Rystel, aliases: []}
+name: {full: Dorane of Rystel, aliases: []}
 type: being
 tags: [character]
 data:

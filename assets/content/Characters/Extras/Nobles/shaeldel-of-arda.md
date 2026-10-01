@@ -1,6 +1,6 @@
 ---
 shortcode: shaeldelofarda
-name: {full: Shaeldel of Arda, title: "", given: Shaeldel, clan: Arda, aliases: []}
+name: {full: Shaeldel of Arda, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: morginofuro
-name: {full: Morgin of Uro, title: "", given: Morgin, clan: Uro, aliases: []}
+name: {full: Morgin of Uro, aliases: []}
 type: being
 tags: [character]
 data:

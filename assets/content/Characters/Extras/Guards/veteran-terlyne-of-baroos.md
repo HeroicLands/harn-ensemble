@@ -1,6 +1,6 @@
 ---
 shortcode: veteranterlyneofbaroos
-name: {full: Veteran Terlyne of Baroos, title: Veteran, given: Terlyne, clan: Baroos, aliases: []}
+name: {full: Veteran Terlyne of Baroos, aliases: []}
 type: being
 tags: [character]
 data:

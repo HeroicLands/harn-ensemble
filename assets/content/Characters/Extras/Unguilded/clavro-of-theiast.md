@@ -1,6 +1,6 @@
 ---
 shortcode: clavrooftheiast
-name: {full: Clavro of Theiast, title: "", given: Clavro, clan: Theiast, aliases: []}
+name: {full: Clavro of Theiast, aliases: []}
 type: being
 tags: [character]
 data:

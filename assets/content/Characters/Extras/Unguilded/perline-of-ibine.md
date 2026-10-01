@@ -1,6 +1,6 @@
 ---
 shortcode: perlineofibine
-name: {full: Perline of Ibine, title: "", given: Perline, clan: Ibine, aliases: []}
+name: {full: Perline of Ibine, aliases: []}
 type: being
 tags: [character]
 data:

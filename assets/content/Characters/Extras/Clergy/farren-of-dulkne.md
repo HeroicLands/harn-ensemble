@@ -1,6 +1,6 @@
 ---
 shortcode: farrenofdulkne
-name: {full: Farren of Dulkne, title: "", given: Farren, clan: Dulkne, aliases: []}
+name: {full: Farren of Dulkne, aliases: []}
 type: being
 tags: [character]
 data:

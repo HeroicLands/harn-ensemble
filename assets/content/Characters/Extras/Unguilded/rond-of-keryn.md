@@ -1,6 +1,6 @@
 ---
 shortcode: rondofkeryn
-name: {full: Rond of Keryn, title: "", given: Rond, clan: Keryn, aliases: []}
+name: {full: Rond of Keryn, aliases: []}
 type: being
 tags: [character]
 data:

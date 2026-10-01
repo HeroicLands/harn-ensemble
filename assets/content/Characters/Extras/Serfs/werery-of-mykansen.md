@@ -1,6 +1,6 @@
 ---
 shortcode: wereryofmykansen
-name: {full: Werery of Mykansen, title: "", given: Werery, clan: Mykansen, aliases: []}
+name: {full: Werery of Mykansen, aliases: []}
 type: being
 tags: [character]
 data:

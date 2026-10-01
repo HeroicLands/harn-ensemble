@@ -1,6 +1,6 @@
 ---
 shortcode: alothofmerke
-name: {full: Aloth of Merke, title: "", given: Aloth, clan: Merke, aliases: []}
+name: {full: Aloth of Merke, aliases: []}
 type: being
 tags: [character]
 data:

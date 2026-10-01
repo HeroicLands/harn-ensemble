@@ -1,6 +1,6 @@
 ---
 shortcode: boraneofavordan
-name: {full: Borane of Avordan, title: "", given: Borane, clan: Avordan, aliases: []}
+name: {full: Borane of Avordan, aliases: []}
 type: being
 tags: [character]
 data:

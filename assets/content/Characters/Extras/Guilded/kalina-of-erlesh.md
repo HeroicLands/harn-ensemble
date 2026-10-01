@@ -1,6 +1,6 @@
 ---
 shortcode: kalinaoferlesh
-name: {full: Kalina of Erlesh, title: "", given: Kalina, clan: Erlesh, aliases: []}
+name: {full: Kalina of Erlesh, aliases: []}
 type: being
 tags: [character]
 data:

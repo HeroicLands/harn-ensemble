@@ -1,6 +1,6 @@
 ---
 shortcode: narikofkoruarr
-name: {full: Narik of Koruarr, title: "", given: Narik, clan: Koruarr, aliases: []}
+name: {full: Narik of Koruarr, aliases: []}
 type: being
 tags: [character]
 data:

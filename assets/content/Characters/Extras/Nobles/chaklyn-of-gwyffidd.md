@@ -1,6 +1,6 @@
 ---
 shortcode: chaklynofgwyffidd
-name: {full: Chaklyn of Gwyffidd, title: "", given: Chaklyn, clan: Gwyffidd, aliases: []}
+name: {full: Chaklyn of Gwyffidd, aliases: []}
 type: being
 tags: [character]
 data:

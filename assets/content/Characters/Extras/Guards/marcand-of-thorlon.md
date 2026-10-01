@@ -1,6 +1,6 @@
 ---
 shortcode: marcandofthorlon
-name: {full: Marcand of Thorlon, title: "", given: Marcand, clan: Thorlon, aliases: []}
+name: {full: Marcand of Thorlon, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: hondofpyth
-name: {full: Hond of Pyth, title: "", given: Hond, clan: Pyth, aliases: []}
+name: {full: Hond of Pyth, aliases: []}
 type: being
 tags: [character]
 data:

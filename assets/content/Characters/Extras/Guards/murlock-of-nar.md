@@ -1,6 +1,6 @@
 ---
 shortcode: murlockofnar
-name: {full: Murlock of Nar, title: "", given: Murlock, clan: Nar, aliases: []}
+name: {full: Murlock of Nar, aliases: []}
 type: being
 tags: [character]
 data:

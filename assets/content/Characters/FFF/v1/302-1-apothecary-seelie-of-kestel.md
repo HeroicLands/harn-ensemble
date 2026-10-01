@@ -1,6 +1,6 @@
 ---
 shortcode: seelieofkestel
-name: {full: Seelie of Kestel, title: "", given: Seelie, clan: Kestel, aliases: []}
+name: {full: Seelie of Kestel, aliases: []}
 type: being
 tags: [character]
 data:

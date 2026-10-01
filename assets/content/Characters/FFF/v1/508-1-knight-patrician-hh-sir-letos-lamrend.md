@@ -1,6 +1,6 @@
 ---
 shortcode: sirletoslamrend
-name: {full: Sir Letos Lamrend, title: Sir, given: Letos, clan: Lamrend, aliases: []}
+name: {full: Sir Letos Lamrend, aliases: []}
 type: being
 tags: [character]
 data:

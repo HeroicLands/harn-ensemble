@@ -1,6 +1,6 @@
 ---
 shortcode: merenelleoflorin
-name: {full: Merenelle of Lorin, title: "", given: Merenelle, clan: Lorin, aliases: []}
+name: {full: Merenelle of Lorin, aliases: []}
 type: being
 tags: [character]
 data:

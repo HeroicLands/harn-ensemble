@@ -1,6 +1,6 @@
 ---
 shortcode: labinofarani
-name: {full: Labin of Arani, title: "", given: Labin, clan: Arani, aliases: []}
+name: {full: Labin of Arani, aliases: []}
 type: being
 tags: [character]
 data:

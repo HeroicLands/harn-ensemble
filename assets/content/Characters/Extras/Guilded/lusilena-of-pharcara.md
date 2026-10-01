@@ -1,6 +1,6 @@
 ---
 shortcode: lusilenaofpharcara
-name: {full: Lusilena of Pharcara, title: "", given: Lusilena, clan: Pharcara, aliases: []}
+name: {full: Lusilena of Pharcara, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: sarinofkotrel
-name: {full: Sarin of Kotrel, title: "", given: Sarin, clan: Kotrel, aliases: []}
+name: {full: Sarin of Kotrel, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gaetaneofparsten
-name: {full: Gaetane of Parsten, title: "", given: Gaetane, clan: Parsten, aliases: []}
+name: {full: Gaetane of Parsten, aliases: []}
 type: being
 tags: [character]
 data:

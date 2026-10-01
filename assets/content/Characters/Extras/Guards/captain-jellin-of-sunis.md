@@ -1,6 +1,6 @@
 ---
 shortcode: captainjellinofsunis
-name: {full: Captain Jellin of Sunis, title: Captain, given: Jellin, clan: Sunis, aliases: []}
+name: {full: Captain Jellin of Sunis, aliases: []}
 type: being
 tags: [character]
 data:

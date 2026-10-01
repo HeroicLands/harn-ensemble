@@ -1,6 +1,6 @@
 ---
 shortcode: durkotofasain
-name: {full: Durkot of Asain, title: "", given: Durkot, clan: Asain, aliases: []}
+name: {full: Durkot of Asain, aliases: []}
 type: being
 tags: [character]
 data:

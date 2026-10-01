@@ -1,6 +1,6 @@
 ---
 shortcode: veteraninrantofirien
-name: {full: Veteran Inrant of Irien, title: Veteran, given: Inrant, clan: Irien, aliases: []}
+name: {full: Veteran Inrant of Irien, aliases: []}
 type: being
 tags: [character]
 data:

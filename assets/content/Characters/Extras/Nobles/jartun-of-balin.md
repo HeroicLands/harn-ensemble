@@ -1,6 +1,6 @@
 ---
 shortcode: jartunofbalin
-name: {full: Jartun of Balin, title: "", given: Jartun, clan: Balin, aliases: []}
+name: {full: Jartun of Balin, aliases: []}
 type: being
 tags: [character]
 data:

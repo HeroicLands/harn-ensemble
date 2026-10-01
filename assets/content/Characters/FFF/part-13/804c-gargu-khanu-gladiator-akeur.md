@@ -1,6 +1,6 @@
 ---
 shortcode: akeur
-name: {full: Akeur, title: "", given: Akeur, clan: "", aliases: []}
+name: {full: Akeur, aliases: []}
 type: being
 tags: [character]
 data:

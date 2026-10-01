@@ -1,6 +1,6 @@
 ---
 shortcode: evenodelareenofjurbosq
-name: {full: Evenodelareen of Jurbosq, title: "", given: Evenodelareen, clan: Jurbosq, aliases: []}
+name: {full: Evenodelareen of Jurbosq, aliases: []}
 type: being
 tags: [character]
 data:

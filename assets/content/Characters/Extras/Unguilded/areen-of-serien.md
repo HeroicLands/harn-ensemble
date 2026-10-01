@@ -1,6 +1,6 @@
 ---
 shortcode: areenofserien
-name: {full: Areen of Serien, title: "", given: Areen, clan: Serien, aliases: []}
+name: {full: Areen of Serien, aliases: []}
 type: being
 tags: [character]
 data:

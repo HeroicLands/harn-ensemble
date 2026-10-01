@@ -1,6 +1,6 @@
 ---
 shortcode: uvienelleofhen
-name: {full: Uvienelle of Hen, title: "", given: Uvienelle, clan: Hen, aliases: []}
+name: {full: Uvienelle of Hen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: harlofsosora
-name: {full: Harl of Sosora, title: "", given: Harl, clan: Sosora, aliases: []}
+name: {full: Harl of Sosora, aliases: []}
 type: being
 tags: [character]
 data:

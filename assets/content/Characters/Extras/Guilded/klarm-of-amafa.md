@@ -1,6 +1,6 @@
 ---
 shortcode: klarmofamafa
-name: {full: Klarm of Amafa, title: "", given: Klarm, clan: Amafa, aliases: []}
+name: {full: Klarm of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

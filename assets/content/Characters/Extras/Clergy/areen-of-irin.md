@@ -1,6 +1,6 @@
 ---
 shortcode: areenofirin
-name: {full: Areen of Irin, title: "", given: Areen, clan: Irin, aliases: []}
+name: {full: Areen of Irin, aliases: []}
 type: being
 tags: [character]
 data:

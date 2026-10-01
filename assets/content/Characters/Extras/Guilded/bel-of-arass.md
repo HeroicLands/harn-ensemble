@@ -1,6 +1,6 @@
 ---
 shortcode: belofarass
-name: {full: Bel of Arass, title: "", given: Bel, clan: Arass, aliases: []}
+name: {full: Bel of Arass, aliases: []}
 type: being
 tags: [character]
 data:

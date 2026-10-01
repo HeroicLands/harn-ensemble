@@ -1,6 +1,6 @@
 ---
 shortcode: gorsineofbardrass
-name: {full: Gorsine of Bardrass, title: "", given: Gorsine, clan: Bardrass, aliases: []}
+name: {full: Gorsine of Bardrass, aliases: []}
 type: being
 tags: [character]
 data:

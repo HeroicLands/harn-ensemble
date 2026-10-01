@@ -1,6 +1,6 @@
 ---
 shortcode: ugeninofchara
-name: {full: Ugenin of Chara, title: "", given: Ugenin, clan: Chara, aliases: []}
+name: {full: Ugenin of Chara, aliases: []}
 type: being
 tags: [character]
 data:

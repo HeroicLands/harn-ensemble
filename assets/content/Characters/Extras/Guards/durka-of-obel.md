@@ -1,6 +1,6 @@
 ---
 shortcode: durkaofobel
-name: {full: Durka of Obel, title: "", given: Durka, clan: Obel, aliases: []}
+name: {full: Durka of Obel, aliases: []}
 type: being
 tags: [character]
 data:

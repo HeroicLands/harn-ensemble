@@ -1,6 +1,6 @@
 ---
 shortcode: veteranjehanoffulkair
-name: {full: Veteran Jehan of Fulkair, title: Veteran, given: Jehan, clan: Fulkair, aliases: []}
+name: {full: Veteran Jehan of Fulkair, aliases: []}
 type: being
 tags: [character]
 data:

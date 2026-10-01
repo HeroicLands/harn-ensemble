@@ -1,6 +1,6 @@
 ---
 shortcode: lasereryofmarn
-name: {full: Laserery of Marn, title: "", given: Laserery, clan: Marn, aliases: []}
+name: {full: Laserery of Marn, aliases: []}
 type: being
 tags: [character]
 data:

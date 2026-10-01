@@ -1,6 +1,6 @@
 ---
 shortcode: drigalofhudusin
-name: {full: Drigal of Hudusin, title: "", given: Drigal, clan: Hudusin, aliases: []}
+name: {full: Drigal of Hudusin, aliases: []}
 type: being
 tags: [character]
 data:

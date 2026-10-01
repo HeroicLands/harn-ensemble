@@ -1,6 +1,6 @@
 ---
 shortcode: haroffalen
-name: {full: Har of Falen, title: "", given: Har, clan: Falen, aliases: []}
+name: {full: Har of Falen, aliases: []}
 type: being
 tags: [character]
 data:

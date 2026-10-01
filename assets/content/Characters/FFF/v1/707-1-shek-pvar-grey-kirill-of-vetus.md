@@ -1,6 +1,6 @@
 ---
 shortcode: kirillofvetus
-name: {full: Kirill of Vetus, title: "", given: Kirill, clan: Vetus, aliases: []}
+name: {full: Kirill of Vetus, aliases: []}
 type: being
 tags: [character]
 data:

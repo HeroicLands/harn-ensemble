@@ -1,6 +1,6 @@
 ---
 shortcode: yaelaofhomslow
-name: {full: Yaela of Homslow, title: "", given: Yaela, clan: Homslow, aliases: []}
+name: {full: Yaela of Homslow, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: hadahofhosanerikaren
-name: {full: Hadah of Hosanerikaren, title: "", given: Hadah, clan: Hosanerikaren, aliases: []}
+name: {full: Hadah of Hosanerikaren, aliases: []}
 type: being
 tags: [character]
 data:

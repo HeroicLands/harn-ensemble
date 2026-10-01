@@ -1,6 +1,6 @@
 ---
 shortcode: merelenofplaemen
-name: {full: Merelen of Plaemen, title: "", given: Merelen, clan: Plaemen, aliases: []}
+name: {full: Merelen of Plaemen, aliases: []}
 type: being
 tags: [character]
 data:

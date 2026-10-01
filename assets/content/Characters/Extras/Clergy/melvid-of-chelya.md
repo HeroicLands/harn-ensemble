@@ -1,6 +1,6 @@
 ---
 shortcode: melvidofchelya
-name: {full: Melvid of Chelya, title: "", given: Melvid, clan: Chelya, aliases: []}
+name: {full: Melvid of Chelya, aliases: []}
 type: being
 tags: [character]
 data:

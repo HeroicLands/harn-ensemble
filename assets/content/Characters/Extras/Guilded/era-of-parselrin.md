@@ -1,6 +1,6 @@
 ---
 shortcode: eraofparselrin
-name: {full: Era of Parselrin, title: "", given: Era, clan: Parselrin, aliases: []}
+name: {full: Era of Parselrin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: urbainofsprythsen
-name: {full: Urbain of Sprythsen, title: "", given: Urbain, clan: Sprythsen, aliases: []}
+name: {full: Urbain of Sprythsen, aliases: []}
 type: being
 tags: [character]
 data:

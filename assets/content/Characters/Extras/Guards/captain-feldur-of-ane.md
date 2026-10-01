@@ -1,6 +1,6 @@
 ---
 shortcode: captainfeldurofane
-name: {full: Captain Feldur of Ane, title: Captain, given: Feldur, clan: Ane, aliases: []}
+name: {full: Captain Feldur of Ane, aliases: []}
 type: being
 tags: [character]
 data:

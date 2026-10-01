@@ -1,6 +1,6 @@
 ---
 shortcode: melofcharanchi
-name: {full: Mel of Charanchi, title: "", given: Mel, clan: Charanchi, aliases: []}
+name: {full: Mel of Charanchi, aliases: []}
 type: being
 tags: [character]
 data:

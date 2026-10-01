@@ -1,6 +1,6 @@
 ---
 shortcode: hadainofwhyce
-name: {full: Hadain of Whyce, title: "", given: Hadain, clan: Whyce, aliases: []}
+name: {full: Hadain of Whyce, aliases: []}
 type: being
 tags: [character]
 data:

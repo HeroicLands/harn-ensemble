@@ -1,6 +1,6 @@
 ---
 shortcode: valethofamafa
-name: {full: Valeth of Amafa, title: "", given: Valeth, clan: Amafa, aliases: []}
+name: {full: Valeth of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

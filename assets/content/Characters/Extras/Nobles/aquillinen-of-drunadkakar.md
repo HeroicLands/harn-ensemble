@@ -1,11 +1,6 @@
 ---
 shortcode: aquillinenofdrunadkakar
-name:
-  full: Aquillinen of Drunadkakar
-  title: ""
-  given: Aquillinen
-  clan: Drunadkakar
-  aliases: []
+name: {full: Aquillinen of Drunadkakar, aliases: []}
 type: being
 tags: [character]
 data:

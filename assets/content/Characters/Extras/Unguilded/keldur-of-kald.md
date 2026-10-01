@@ -1,6 +1,6 @@
 ---
 shortcode: keldurofkald
-name: {full: Keldur of Kald, title: "", given: Keldur, clan: Kald, aliases: []}
+name: {full: Keldur of Kald, aliases: []}
 type: being
 tags: [character]
 data:

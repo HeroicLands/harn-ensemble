@@ -1,6 +1,6 @@
 ---
 shortcode: herilofosanefris
-name: {full: Heril of Osanefris, title: "", given: Heril, clan: Osanefris, aliases: []}
+name: {full: Heril of Osanefris, aliases: []}
 type: being
 tags: [character]
 data:

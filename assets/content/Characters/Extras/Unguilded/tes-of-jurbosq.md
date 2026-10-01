@@ -1,6 +1,6 @@
 ---
 shortcode: tesofjurbosq
-name: {full: Tes of Jurbosq, title: "", given: Tes, clan: Jurbosq, aliases: []}
+name: {full: Tes of Jurbosq, aliases: []}
 type: being
 tags: [character]
 data:

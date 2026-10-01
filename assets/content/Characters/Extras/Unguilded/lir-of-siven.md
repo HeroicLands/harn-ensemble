@@ -1,6 +1,6 @@
 ---
 shortcode: lirofsiven
-name: {full: Lir of Siven, title: "", given: Lir, clan: Siven, aliases: []}
+name: {full: Lir of Siven, aliases: []}
 type: being
 tags: [character]
 data:

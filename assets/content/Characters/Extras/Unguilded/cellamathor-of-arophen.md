@@ -1,6 +1,6 @@
 ---
 shortcode: cellamathorofarophen
-name: {full: Cellamathor of Arophen, title: "", given: Cellamathor, clan: Arophen, aliases: []}
+name: {full: Cellamathor of Arophen, aliases: []}
 type: being
 tags: [character]
 data:

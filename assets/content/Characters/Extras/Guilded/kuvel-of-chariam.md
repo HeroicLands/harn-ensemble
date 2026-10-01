@@ -1,6 +1,6 @@
 ---
 shortcode: kuvelofchariam
-name: {full: Kuvel of Chariam, title: "", given: Kuvel, clan: Chariam, aliases: []}
+name: {full: Kuvel of Chariam, aliases: []}
 type: being
 tags: [character]
 data:

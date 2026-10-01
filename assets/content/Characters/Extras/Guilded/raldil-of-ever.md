@@ -1,6 +1,6 @@
 ---
 shortcode: raldilofever
-name: {full: Raldil of Ever, title: "", given: Raldil, clan: Ever, aliases: []}
+name: {full: Raldil of Ever, aliases: []}
 type: being
 tags: [character]
 data:

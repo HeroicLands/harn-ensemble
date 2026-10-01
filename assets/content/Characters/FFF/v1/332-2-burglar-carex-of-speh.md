@@ -1,6 +1,6 @@
 ---
 shortcode: carexofspeh
-name: {full: Carex of Speh, title: "", given: Carex, clan: Speh, aliases: []}
+name: {full: Carex of Speh, aliases: []}
 type: being
 tags: [character]
 data:

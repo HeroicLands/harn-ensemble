@@ -1,6 +1,6 @@
 ---
 shortcode: jagaofhosane
-name: {full: Jaga of Hosane, title: "", given: Jaga, clan: Hosane, aliases: []}
+name: {full: Jaga of Hosane, aliases: []}
 type: being
 tags: [character]
 data:

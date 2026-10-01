@@ -1,6 +1,6 @@
 ---
 shortcode: enilofperyne
-name: {full: Enil of Peryne, title: "", given: Enil, clan: Peryne, aliases: []}
+name: {full: Enil of Peryne, aliases: []}
 type: being
 tags: [character]
 data:

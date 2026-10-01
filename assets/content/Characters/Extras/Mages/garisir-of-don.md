@@ -1,6 +1,6 @@
 ---
 shortcode: garisirofdon
-name: {full: Garisir of Don, title: "", given: Garisir, clan: Don, aliases: []}
+name: {full: Garisir of Don, aliases: []}
 type: being
 tags: [character]
 data:

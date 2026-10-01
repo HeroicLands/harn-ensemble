@@ -1,6 +1,6 @@
 ---
 shortcode: ithofmerkenos
-name: {full: Ith of Merkenos, title: "", given: Ith, clan: Merkenos, aliases: []}
+name: {full: Ith of Merkenos, aliases: []}
 type: being
 tags: [character]
 data:

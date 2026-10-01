@@ -1,6 +1,6 @@
 ---
 shortcode: erelynofzendana
-name: {full: Erelyn of Zendana, title: "", given: Erelyn, clan: Zendana, aliases: []}
+name: {full: Erelyn of Zendana, aliases: []}
 type: being
 tags: [character]
 data:

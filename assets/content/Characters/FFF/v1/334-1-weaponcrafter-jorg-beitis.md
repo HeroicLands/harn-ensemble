@@ -1,6 +1,6 @@
 ---
 shortcode: jorgbeitis
-name: {full: Jorg Beitis, title: "", given: Jorg, clan: Beitis, aliases: []}
+name: {full: Jorg Beitis, aliases: []}
 type: being
 tags: [character]
 data:

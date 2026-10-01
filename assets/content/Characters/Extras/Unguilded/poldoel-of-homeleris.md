@@ -1,6 +1,6 @@
 ---
 shortcode: poldoelofhomeleris
-name: {full: Poldoel of Homeleris, title: "", given: Poldoel, clan: Homeleris, aliases: []}
+name: {full: Poldoel of Homeleris, aliases: []}
 type: being
 tags: [character]
 data:

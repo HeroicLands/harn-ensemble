@@ -1,6 +1,6 @@
 ---
 shortcode: urisofpord
-name: {full: Uris of Pord, title: "", given: Uris, clan: Pord, aliases: []}
+name: {full: Uris of Pord, aliases: []}
 type: being
 tags: [character]
 data:

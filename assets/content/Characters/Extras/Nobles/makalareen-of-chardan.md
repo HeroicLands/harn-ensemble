@@ -1,6 +1,6 @@
 ---
 shortcode: makalareenofchardan
-name: {full: Makalareen of Chardan, title: "", given: Makalareen, clan: Chardan, aliases: []}
+name: {full: Makalareen of Chardan, aliases: []}
 type: being
 tags: [character]
 data:

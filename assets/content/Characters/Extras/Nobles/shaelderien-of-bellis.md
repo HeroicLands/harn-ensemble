@@ -1,6 +1,6 @@
 ---
 shortcode: shaelderienofbellis
-name: {full: Shaelderien of Bellis, title: "", given: Shaelderien, clan: Bellis, aliases: []}
+name: {full: Shaelderien of Bellis, aliases: []}
 type: being
 tags: [character]
 data:

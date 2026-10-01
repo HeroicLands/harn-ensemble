@@ -1,6 +1,6 @@
 ---
 shortcode: hericoftorkrum
-name: {full: Heric of Torkrum, title: "", given: Heric, clan: Torkrum, aliases: []}
+name: {full: Heric of Torkrum, aliases: []}
 type: being
 tags: [character]
 data:

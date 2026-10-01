@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofaethesta
-name: {full: Tomus of Aethesta, title: "", given: Tomus, clan: Aethesta, aliases: []}
+name: {full: Tomus of Aethesta, aliases: []}
 type: being
 tags: [character]
 data:

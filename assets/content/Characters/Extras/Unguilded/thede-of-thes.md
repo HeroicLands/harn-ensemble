@@ -1,6 +1,6 @@
 ---
 shortcode: thedeofthes
-name: {full: Thede of Thes, title: "", given: Thede, clan: Thes, aliases: []}
+name: {full: Thede of Thes, aliases: []}
 type: being
 tags: [character]
 data:

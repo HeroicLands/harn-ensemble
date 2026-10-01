@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofvabetts
-name: {full: Milniq of Vabetts, title: "", given: Milniq, clan: Vabetts, aliases: []}
+name: {full: Milniq of Vabetts, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: silofbaldim
-name: {full: Sil of Baldim, title: "", given: Sil, clan: Baldim, aliases: []}
+name: {full: Sil of Baldim, aliases: []}
 type: being
 tags: [character]
 data:

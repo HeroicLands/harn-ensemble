@@ -1,6 +1,6 @@
 ---
 shortcode: jarnofdyselsenasta
-name: {full: Jarn of Dyselsenasta, title: "", given: Jarn, clan: Dyselsenasta, aliases: []}
+name: {full: Jarn of Dyselsenasta, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: keldurkaelofthes
-name: {full: Keldurkael of Thes, title: "", given: Keldurkael, clan: Thes, aliases: []}
+name: {full: Keldurkael of Thes, aliases: []}
 type: being
 tags: [character]
 data:

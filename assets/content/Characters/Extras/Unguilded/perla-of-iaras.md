@@ -1,6 +1,6 @@
 ---
 shortcode: perlaofiaras
-name: {full: Perla of Iaras, title: "", given: Perla, clan: Iaras, aliases: []}
+name: {full: Perla of Iaras, aliases: []}
 type: being
 tags: [character]
 data:

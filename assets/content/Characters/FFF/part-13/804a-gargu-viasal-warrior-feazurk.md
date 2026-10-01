@@ -1,6 +1,6 @@
 ---
 shortcode: feazurk
-name: {full: Feazurk, title: "", given: Feazurk, clan: "", aliases: []}
+name: {full: Feazurk, aliases: []}
 type: being
 tags: [character]
 data:

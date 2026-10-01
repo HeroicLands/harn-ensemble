@@ -1,6 +1,6 @@
 ---
 shortcode: haffythofbelon
-name: {full: Haffyth of Belon, title: "", given: Haffyth, clan: Belon, aliases: []}
+name: {full: Haffyth of Belon, aliases: []}
 type: being
 tags: [character]
 data:

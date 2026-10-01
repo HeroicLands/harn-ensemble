@@ -1,6 +1,6 @@
 ---
 shortcode: crolazofyisgaras
-name: {full: Crolaz of Yisgaras, title: "", given: Crolaz, clan: Yisgaras, aliases: []}
+name: {full: Crolaz of Yisgaras, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: garofarmel
-name: {full: Gar of Armel, title: "", given: Gar, clan: Armel, aliases: []}
+name: {full: Gar of Armel, aliases: []}
 type: being
 tags: [character]
 data:

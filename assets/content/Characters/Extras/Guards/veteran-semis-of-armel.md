@@ -1,6 +1,6 @@
 ---
 shortcode: veteransemisofarmel
-name: {full: Veteran Semis of Armel, title: Veteran, given: Semis, clan: Armel, aliases: []}
+name: {full: Veteran Semis of Armel, aliases: []}
 type: being
 tags: [character]
 data:

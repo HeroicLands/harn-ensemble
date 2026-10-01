@@ -1,6 +1,6 @@
 ---
 shortcode: clavroofrabeta
-name: {full: Clavro of Rabeta, title: "", given: Clavro, clan: Rabeta, aliases: []}
+name: {full: Clavro of Rabeta, aliases: []}
 type: being
 tags: [character]
 data:

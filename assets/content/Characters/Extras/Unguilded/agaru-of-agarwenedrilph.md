@@ -1,6 +1,6 @@
 ---
 shortcode: agaruofagarwenedrilph
-name: {full: Agaru of Agarwenedrilph, title: "", given: Agaru, clan: Agarwenedrilph, aliases: []}
+name: {full: Agaru of Agarwenedrilph, aliases: []}
 type: being
 tags: [character]
 data:

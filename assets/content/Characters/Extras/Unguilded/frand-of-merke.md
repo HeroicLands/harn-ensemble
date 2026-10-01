@@ -1,6 +1,6 @@
 ---
 shortcode: frandofmerke
-name: {full: Frand of Merke, title: "", given: Frand, clan: Merke, aliases: []}
+name: {full: Frand of Merke, aliases: []}
 type: being
 tags: [character]
 data:

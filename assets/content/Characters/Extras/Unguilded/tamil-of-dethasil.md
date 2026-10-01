@@ -1,6 +1,6 @@
 ---
 shortcode: tamilofdethasil
-name: {full: Tamil of Dethasil, title: "", given: Tamil, clan: Dethasil, aliases: []}
+name: {full: Tamil of Dethasil, aliases: []}
 type: being
 tags: [character]
 data:

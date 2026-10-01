@@ -1,6 +1,6 @@
 ---
 shortcode: hervaofhipaeus
-name: {full: Herva of Hipaeus, title: "", given: Herva, clan: Hipaeus, aliases: []}
+name: {full: Herva of Hipaeus, aliases: []}
 type: being
 tags: [character]
 data:

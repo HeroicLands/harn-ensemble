@@ -1,6 +1,6 @@
 ---
 shortcode: jakkynofbeldan
-name: {full: Jakkyn of Beldan, title: "", given: Jakkyn, clan: Beldan, aliases: []}
+name: {full: Jakkyn of Beldan, aliases: []}
 type: being
 tags: [character]
 data:

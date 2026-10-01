@@ -1,6 +1,6 @@
 ---
 shortcode: gwenienelleofunigal
-name: {full: Gwenienelle of Unigal, title: "", given: Gwenienelle, clan: Unigal, aliases: []}
+name: {full: Gwenienelle of Unigal, aliases: []}
 type: being
 tags: [character]
 data:

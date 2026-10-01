@@ -1,6 +1,6 @@
 ---
 shortcode: eldelofasain
-name: {full: Eldel of Asain, title: "", given: Eldel, clan: Asain, aliases: []}
+name: {full: Eldel of Asain, aliases: []}
 type: being
 tags: [character]
 data:

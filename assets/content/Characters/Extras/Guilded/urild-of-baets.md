@@ -1,6 +1,6 @@
 ---
 shortcode: urildofbaets
-name: {full: Urild of Baets, title: "", given: Urild, clan: Baets, aliases: []}
+name: {full: Urild of Baets, aliases: []}
 type: being
 tags: [character]
 data:
