@@ -2,7 +2,8 @@
 shortcode: amlugofamdir
 name: {full: Amlug of Amdir, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

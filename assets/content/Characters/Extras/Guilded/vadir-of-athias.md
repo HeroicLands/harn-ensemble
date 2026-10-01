@@ -2,7 +2,8 @@
 shortcode: vadirofathias
 name: {full: Vadir of Athias, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

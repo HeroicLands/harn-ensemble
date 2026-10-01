@@ -2,7 +2,8 @@
 shortcode: martewnoftrollaterikarbeda
 name: {full: Martewn of Trollaterikarbeda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: rykefathamm
 name: {full: 'Ryke "Fat" Hamm', aliases: [Fat]}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4081tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: silofduckill
 name: {full: Sil of Duckill, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

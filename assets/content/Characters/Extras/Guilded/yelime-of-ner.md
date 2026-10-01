@@ -2,7 +2,8 @@
 shortcode: yelimeofner
 name: {full: Yelime of Ner, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

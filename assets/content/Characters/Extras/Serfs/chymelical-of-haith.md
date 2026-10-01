@@ -2,7 +2,8 @@
 shortcode: chymelicalofhaith
 name: {full: Chymelical of Haith, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

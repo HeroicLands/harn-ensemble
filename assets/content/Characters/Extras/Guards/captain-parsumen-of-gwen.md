@@ -2,7 +2,8 @@
 shortcode: captainparsumenofgwen
 name: {full: Captain Parsumen of Gwen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

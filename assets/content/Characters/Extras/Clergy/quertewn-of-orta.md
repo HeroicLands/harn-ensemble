@@ -2,7 +2,8 @@
 shortcode: quertewnoforta
 name: {full: Quertewn of Orta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

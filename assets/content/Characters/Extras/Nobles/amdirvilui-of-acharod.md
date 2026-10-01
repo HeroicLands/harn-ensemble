@@ -2,7 +2,8 @@
 shortcode: amdirviluiofacharod
 name: {full: Amdirvilui of Acharod, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

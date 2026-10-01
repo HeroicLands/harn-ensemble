@@ -2,7 +2,8 @@
 shortcode: myreleofopondik
 name: {full: Myrele of Opondik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: merrimamgrimwul
 name: {full: Merrimam Grimwul, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3031tok
   templatePriority: 1

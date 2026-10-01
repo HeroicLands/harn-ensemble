@@ -2,7 +2,8 @@
 shortcode: tolmeyofelwendal
 name: {full: Tolmey of Elwendal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

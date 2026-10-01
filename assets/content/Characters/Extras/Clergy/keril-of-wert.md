@@ -2,7 +2,8 @@
 shortcode: kerilofwert
 name: {full: Keril of Wert, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

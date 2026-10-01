@@ -2,7 +2,8 @@
 shortcode: eraofparselrin
 name: {full: Era of Parselrin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

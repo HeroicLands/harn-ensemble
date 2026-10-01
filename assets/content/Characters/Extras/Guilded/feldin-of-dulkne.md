@@ -2,7 +2,8 @@
 shortcode: feldinofdulkne
 name: {full: Feldin of Dulkne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

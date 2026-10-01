@@ -2,7 +2,8 @@
 shortcode: nathofyisgarael
 name: {full: Nath of Yisgarael, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

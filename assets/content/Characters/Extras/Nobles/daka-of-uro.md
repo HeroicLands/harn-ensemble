@@ -2,7 +2,8 @@
 shortcode: dakaofuro
 name: {full: Daka of Uro, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

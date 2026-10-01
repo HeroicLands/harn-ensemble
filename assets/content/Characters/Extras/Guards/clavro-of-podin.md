@@ -2,7 +2,8 @@
 shortcode: clavroofpodin
 name: {full: Clavro of Podin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

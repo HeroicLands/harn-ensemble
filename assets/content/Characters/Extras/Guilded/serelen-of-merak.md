@@ -2,7 +2,8 @@
 shortcode: serelenofmerak
 name: {full: Serelen of Merak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

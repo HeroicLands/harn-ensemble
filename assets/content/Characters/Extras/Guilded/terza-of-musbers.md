@@ -2,7 +2,8 @@
 shortcode: terzaofmusbers
 name: {full: Terza of Musbers, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

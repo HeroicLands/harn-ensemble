@@ -2,7 +2,8 @@
 shortcode: jaslynofdurnwak
 name: {full: Jaslyn of Durnwak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

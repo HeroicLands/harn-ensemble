@@ -2,7 +2,8 @@
 shortcode: irdanofberthhad
 name: {full: Irdan of Berthhad, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

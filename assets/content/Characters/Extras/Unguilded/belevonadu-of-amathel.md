@@ -2,7 +2,8 @@
 shortcode: belevonaduofamathel
 name: {full: Belevonadu of Amathel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

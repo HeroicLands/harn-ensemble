@@ -2,7 +2,8 @@
 shortcode: jakkynofshon
 name: {full: Jakkyn of Shon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

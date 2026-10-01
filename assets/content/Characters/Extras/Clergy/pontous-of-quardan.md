@@ -2,7 +2,8 @@
 shortcode: pontousofquardan
 name: {full: Pontous of Quardan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

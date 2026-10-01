@@ -2,7 +2,8 @@
 shortcode: artonoflebare
 name: {full: Arton of Lebare, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: artonaofdebern
 name: {full: Artona of Debern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

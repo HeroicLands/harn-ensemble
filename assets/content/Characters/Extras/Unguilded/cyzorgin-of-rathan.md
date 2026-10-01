@@ -2,7 +2,8 @@
 shortcode: cyzorginofrathan
 name: {full: Cyzorgin of Rathan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

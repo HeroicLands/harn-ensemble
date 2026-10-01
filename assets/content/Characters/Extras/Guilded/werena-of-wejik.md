@@ -2,7 +2,8 @@
 shortcode: werenaofwejik
 name: {full: Werena of Wejik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

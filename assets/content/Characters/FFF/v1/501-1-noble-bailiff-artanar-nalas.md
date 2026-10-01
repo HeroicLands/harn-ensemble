@@ -2,7 +2,8 @@
 shortcode: artanarnalas
 name: {full: Artanar Nalas, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5011tok
   templatePriority: 1

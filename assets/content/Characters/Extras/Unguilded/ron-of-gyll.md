@@ -2,7 +2,8 @@
 shortcode: ronofgyll
 name: {full: Ron of Gyll, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

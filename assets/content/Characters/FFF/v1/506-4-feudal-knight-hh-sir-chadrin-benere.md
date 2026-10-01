@@ -2,7 +2,8 @@
 shortcode: sirchadrinbenere
 name: {full: Sir Chadrin Benere, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5064tok
   templatePriority: 1

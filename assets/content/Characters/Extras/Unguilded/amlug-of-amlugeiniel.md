@@ -2,7 +2,8 @@
 shortcode: amlugofamlugeiniel
 name: {full: Amlug of Amlugeiniel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

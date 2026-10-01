@@ -2,7 +2,8 @@
 shortcode: cyzorofbor
 name: {full: Cyzor of Bor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

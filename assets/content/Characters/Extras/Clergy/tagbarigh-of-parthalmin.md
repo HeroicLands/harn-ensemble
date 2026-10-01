@@ -2,7 +2,8 @@
 shortcode: tagbarighofparthalmin
 name: {full: Tagbarigh of Parthalmin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

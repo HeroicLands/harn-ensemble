@@ -2,7 +2,8 @@
 shortcode: jolaynofmund
 name: {full: Jolayn of Mund, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

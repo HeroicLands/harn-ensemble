@@ -2,7 +2,8 @@
 shortcode: yelisaofplacka
 name: {full: Yelisa of Placka, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

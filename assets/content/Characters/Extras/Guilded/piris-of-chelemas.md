@@ -2,7 +2,8 @@
 shortcode: pirisofchelemas
 name: {full: Piris of Chelemas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

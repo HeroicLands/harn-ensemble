@@ -2,7 +2,8 @@
 shortcode: baritofdyselphus
 name: {full: Barit of Dyselphus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

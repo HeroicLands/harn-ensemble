@@ -2,7 +2,8 @@
 shortcode: gwyteofmarath
 name: {full: Gwyte of Marath, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3061tok
   templatePriority: 1

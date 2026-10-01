@@ -2,7 +2,8 @@
 shortcode: kalindeofirien
 name: {full: Kalinde of Irien, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

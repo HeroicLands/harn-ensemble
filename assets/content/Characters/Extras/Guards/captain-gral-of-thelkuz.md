@@ -2,7 +2,8 @@
 shortcode: captaingralofthelkuz
 name: {full: Captain Gral of Thelkuz, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: kistyneofnarasane
 name: {full: Kistyne of Narasane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: arwalinofrogila
 name: {full: Arwalin of Rogila, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4091tok
   templatePriority: 1

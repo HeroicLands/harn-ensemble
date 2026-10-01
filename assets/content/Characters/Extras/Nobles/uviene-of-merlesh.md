@@ -2,7 +2,8 @@
 shortcode: uvieneofmerlesh
 name: {full: Uviene of Merlesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

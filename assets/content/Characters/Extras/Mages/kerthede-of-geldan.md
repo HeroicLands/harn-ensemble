@@ -2,7 +2,8 @@
 shortcode: kerthedeofgeldan
 name: {full: Kerthede of Geldan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

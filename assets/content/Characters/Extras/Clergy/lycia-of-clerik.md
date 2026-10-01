@@ -2,7 +2,8 @@
 shortcode: lyciaofclerik
 name: {full: Lycia of Clerik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

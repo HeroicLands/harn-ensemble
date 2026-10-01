@@ -2,7 +2,8 @@
 shortcode: pelshinofeylosath
 name: {full: Pelshin of Eylosath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

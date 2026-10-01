@@ -2,7 +2,8 @@
 shortcode: lorisofqatorzin
 name: {full: Loris of Qatorzin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

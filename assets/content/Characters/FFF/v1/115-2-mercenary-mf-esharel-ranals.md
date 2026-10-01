@@ -2,7 +2,8 @@
 shortcode: esharelranals
 name: {full: Esharel Ranals, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1152tok
   templatePriority: 1

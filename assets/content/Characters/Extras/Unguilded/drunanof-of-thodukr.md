@@ -2,7 +2,8 @@
 shortcode: drunanofofthodukr
 name: {full: Drunanof of Thodukr, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: veteranhadahofuro
 name: {full: Veteran Hadah of Uro, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

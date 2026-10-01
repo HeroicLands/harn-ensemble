@@ -2,7 +2,8 @@
 shortcode: andersisofsymdal
 name: {full: Andersis of Symdal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: harofpodine
 name: {full: Har of Podine, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

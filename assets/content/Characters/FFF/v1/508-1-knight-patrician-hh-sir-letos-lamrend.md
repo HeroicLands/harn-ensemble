@@ -2,7 +2,8 @@
 shortcode: sirletoslamrend
 name: {full: Sir Letos Lamrend, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5081tok
   templatePriority: 1

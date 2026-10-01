@@ -2,7 +2,8 @@
 shortcode: querenaofchalmin
 name: {full: Querena of Chalmin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

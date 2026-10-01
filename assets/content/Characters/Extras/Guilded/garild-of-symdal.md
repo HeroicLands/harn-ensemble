@@ -2,7 +2,8 @@
 shortcode: garildofsymdal
 name: {full: Garild of Symdal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: veteranclanofgorra
 name: {full: Veteran Clan of Gorra, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

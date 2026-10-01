@@ -2,7 +2,8 @@
 shortcode: peserofhosathasil
 name: {full: Peser of Hosathasil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: forenelaofmerak
 name: {full: Forenela of Merak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

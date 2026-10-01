@@ -2,7 +2,8 @@
 shortcode: bogsenofewen
 name: {full: Bogsen of Ewen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

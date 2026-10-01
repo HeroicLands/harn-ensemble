@@ -2,7 +2,8 @@
 shortcode: krakanofelwethasil
 name: {full: Krakan of Elwethasil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

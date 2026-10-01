@@ -2,7 +2,8 @@
 shortcode: jendofkapirethan
 name: {full: Jend of Kapirethan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

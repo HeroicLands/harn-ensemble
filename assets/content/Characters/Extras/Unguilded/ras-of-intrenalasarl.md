@@ -2,7 +2,8 @@
 shortcode: rasofintrenalasarl
 name: {full: Ras of Intrenalasarl, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

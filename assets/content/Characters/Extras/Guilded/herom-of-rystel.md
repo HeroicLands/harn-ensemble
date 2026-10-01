@@ -2,7 +2,8 @@
 shortcode: heromofrystel
 name: {full: Herom of Rystel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

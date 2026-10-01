@@ -2,7 +2,8 @@
 shortcode: veterancrasofparseleredosta
 name: {full: Veteran Cras of Parseleredosta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

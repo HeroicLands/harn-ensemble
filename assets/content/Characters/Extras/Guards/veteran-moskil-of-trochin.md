@@ -2,7 +2,8 @@
 shortcode: veteranmoskiloftrochin
 name: {full: Veteran Moskil of Trochin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

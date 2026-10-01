@@ -2,7 +2,8 @@
 shortcode: drusaxofreisten
 name: {full: Drusax of Reisten, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

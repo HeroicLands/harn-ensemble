@@ -2,7 +2,8 @@
 shortcode: garooforta
 name: {full: Garo of Orta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

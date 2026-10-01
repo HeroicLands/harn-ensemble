@@ -2,7 +2,8 @@
 shortcode: obrayzelanasofhosane
 name: {full: Obrayzelanas of Hosane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

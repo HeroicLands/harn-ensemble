@@ -2,7 +2,8 @@
 shortcode: lirofsaldir
 name: {full: Lir of Saldir, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

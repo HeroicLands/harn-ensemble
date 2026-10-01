@@ -2,7 +2,8 @@
 shortcode: yigaloforta
 name: {full: Yigal of Orta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

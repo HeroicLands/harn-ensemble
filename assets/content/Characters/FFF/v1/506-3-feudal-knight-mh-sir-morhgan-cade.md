@@ -2,7 +2,8 @@
 shortcode: sirmorhgancade
 name: {full: Sir Morhgan Cade, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5063tok
   templatePriority: 1

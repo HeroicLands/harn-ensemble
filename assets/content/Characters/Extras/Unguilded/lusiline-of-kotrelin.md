@@ -2,7 +2,8 @@
 shortcode: lusilineofkotrelin
 name: {full: Lusiline of Kotrelin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

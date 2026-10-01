@@ -2,7 +2,8 @@
 shortcode: veteranfeldaradofleredostaldim
 name: {full: Veteran Feldarad of Leredostaldim, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: brethofmance
 name: {full: Breth of Mance, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

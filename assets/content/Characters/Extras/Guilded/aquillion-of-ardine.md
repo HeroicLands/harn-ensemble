@@ -2,7 +2,8 @@
 shortcode: aquillionofardine
 name: {full: Aquillion of Ardine, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

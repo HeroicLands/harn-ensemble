@@ -2,7 +2,8 @@
 shortcode: vakonlemetyer
 name: {full: Vakon Lemetyer, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3321tok
   templatePriority: 1

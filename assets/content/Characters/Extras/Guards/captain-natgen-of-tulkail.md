@@ -2,7 +2,8 @@
 shortcode: captainnatgenoftulkail
 name: {full: Captain Natgen of Tulkail, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

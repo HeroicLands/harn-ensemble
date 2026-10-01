@@ -2,7 +2,8 @@
 shortcode: veteranburkorbinofkalin
 name: {full: Veteran Burkorbin of Kalin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: garianofdybaroos
 name: {full: Garian of Dybaroos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

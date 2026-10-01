@@ -2,7 +2,8 @@
 shortcode: sirarmandofgimon
 name: {full: Sir Armand of Gimon, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5074tok
   templatePriority: 1

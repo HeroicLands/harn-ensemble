@@ -2,7 +2,8 @@
 shortcode: silineofpordana
 name: {full: Siline of Pordana, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

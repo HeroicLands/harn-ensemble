@@ -2,7 +2,8 @@
 shortcode: staoftulkyia
 name: {full: Sta of Tulkyia, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

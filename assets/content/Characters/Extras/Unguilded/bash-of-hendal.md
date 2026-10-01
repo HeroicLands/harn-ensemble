@@ -2,7 +2,8 @@
 shortcode: bashofhendal
 name: {full: Bash of Hendal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

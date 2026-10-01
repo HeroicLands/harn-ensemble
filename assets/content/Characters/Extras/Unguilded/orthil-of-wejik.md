@@ -2,7 +2,8 @@
 shortcode: orthilofwejik
 name: {full: Orthil of Wejik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

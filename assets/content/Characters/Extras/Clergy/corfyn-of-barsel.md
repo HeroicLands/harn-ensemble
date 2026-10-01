@@ -2,7 +2,8 @@
 shortcode: corfynofbarsel
 name: {full: Corfyn of Barsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

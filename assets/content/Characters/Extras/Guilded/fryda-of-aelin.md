@@ -2,7 +2,8 @@
 shortcode: frydaofaelin
 name: {full: Fryda of Aelin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: frydaofpyth
 name: {full: Fryda of Pyth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

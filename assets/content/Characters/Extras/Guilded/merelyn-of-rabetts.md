@@ -2,7 +2,8 @@
 shortcode: merelynofrabetts
 name: {full: Merelyn of Rabetts, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

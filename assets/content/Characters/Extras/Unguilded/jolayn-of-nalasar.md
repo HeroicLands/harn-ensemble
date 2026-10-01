@@ -2,7 +2,8 @@
 shortcode: jolaynofnalasar
 name: {full: Jolayn of Nalasar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

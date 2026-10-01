@@ -2,7 +2,8 @@
 shortcode: dirofchuzyn
 name: {full: Dir of Chuzyn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: querielaofpayensen
 name: {full: Queriela of Payensen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

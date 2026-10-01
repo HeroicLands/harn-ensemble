@@ -2,7 +2,8 @@
 shortcode: terlinofmel
 name: {full: Terlin of Mel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

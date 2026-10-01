@@ -2,7 +2,8 @@
 shortcode: forabainofasaka
 name: {full: Forabain of Asaka, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

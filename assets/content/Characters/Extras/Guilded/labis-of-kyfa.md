@@ -2,7 +2,8 @@
 shortcode: labisofkyfa
 name: {full: Labis of Kyfa, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: merbesaldaradofvabetts
 name: {full: Merbesaldarad of Vabetts, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

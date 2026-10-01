@@ -2,7 +2,8 @@
 shortcode: starkotoferlesh
 name: {full: Starkot of Erlesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

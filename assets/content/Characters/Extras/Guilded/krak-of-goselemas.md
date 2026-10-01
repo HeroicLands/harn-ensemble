@@ -2,7 +2,8 @@
 shortcode: krakofgoselemas
 name: {full: Krak of Goselemas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

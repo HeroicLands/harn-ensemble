@@ -2,7 +2,8 @@
 shortcode: milniqofjorwynn
 name: {full: Milniq of Jorwynn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

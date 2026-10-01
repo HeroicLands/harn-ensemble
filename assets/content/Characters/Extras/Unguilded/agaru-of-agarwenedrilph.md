@@ -2,7 +2,8 @@
 shortcode: agaruofagarwenedrilph
 name: {full: Agaru of Agarwenedrilph, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

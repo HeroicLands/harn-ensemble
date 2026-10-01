@@ -2,7 +2,8 @@
 shortcode: gaeffelofthola
 name: {full: Gaeffel of Thola, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3182tok
   templatePriority: 1

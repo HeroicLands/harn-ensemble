@@ -2,7 +2,8 @@
 shortcode: lasarinaofjorwynn
 name: {full: Lasarina of Jorwynn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

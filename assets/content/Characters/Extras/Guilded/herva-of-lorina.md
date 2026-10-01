@@ -2,7 +2,8 @@
 shortcode: hervaoflorina
 name: {full: Herva of Lorina, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

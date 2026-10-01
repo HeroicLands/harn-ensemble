@@ -2,7 +2,8 @@
 shortcode: veteranerdinofsidethys
 name: {full: Veteran Erdin of Sidethys, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

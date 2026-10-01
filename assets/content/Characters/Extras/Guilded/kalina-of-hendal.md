@@ -2,7 +2,8 @@
 shortcode: kalinaofhendal
 name: {full: Kalina of Hendal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: poldoelofpuck
 name: {full: Poldoel of Puck, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

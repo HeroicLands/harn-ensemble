@@ -2,7 +2,8 @@
 shortcode: makanofwen
 name: {full: Makan of Wen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

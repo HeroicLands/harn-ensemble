@@ -2,7 +2,8 @@
 shortcode: rakocziofaymar
 name: {full: Rakoczi of Aymar, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3011tok
   templatePriority: 1

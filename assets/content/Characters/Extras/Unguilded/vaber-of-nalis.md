@@ -2,7 +2,8 @@
 shortcode: vaberofnalis
 name: {full: Vaber of Nalis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

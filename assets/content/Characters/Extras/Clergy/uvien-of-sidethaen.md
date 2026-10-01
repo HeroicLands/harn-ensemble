@@ -2,7 +2,8 @@
 shortcode: uvienofsidethaen
 name: {full: Uvien of Sidethaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

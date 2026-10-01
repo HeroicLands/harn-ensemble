@@ -2,7 +2,8 @@
 shortcode: myrelynoferlesque
 name: {full: Myrelyn of Erlesque, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

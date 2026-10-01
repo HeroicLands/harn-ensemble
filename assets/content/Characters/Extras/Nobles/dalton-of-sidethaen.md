@@ -2,7 +2,8 @@
 shortcode: daltonofsidethaen
 name: {full: Dalton of Sidethaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

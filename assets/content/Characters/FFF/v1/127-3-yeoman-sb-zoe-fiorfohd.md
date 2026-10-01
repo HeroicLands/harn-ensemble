@@ -2,7 +2,8 @@
 shortcode: zoefiorfohd
 name: {full: Zoe Fiorfohd, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1273tok
   templatePriority: 1

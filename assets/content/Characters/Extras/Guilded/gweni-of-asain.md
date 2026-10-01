@@ -2,7 +2,8 @@
 shortcode: gweniofasain
 name: {full: Gweni of Asain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

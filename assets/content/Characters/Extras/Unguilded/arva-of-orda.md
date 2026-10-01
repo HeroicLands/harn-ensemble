@@ -2,7 +2,8 @@
 shortcode: arvaoforda
 name: {full: Arva of Orda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

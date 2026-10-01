@@ -2,7 +2,8 @@
 shortcode: ealfricdefard
 name: {full: Ealfric Defard, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1271tok
   templatePriority: 1

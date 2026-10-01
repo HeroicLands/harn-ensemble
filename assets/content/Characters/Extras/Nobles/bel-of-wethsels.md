@@ -2,7 +2,8 @@
 shortcode: belofwethsels
 name: {full: Bel of Wethsels, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

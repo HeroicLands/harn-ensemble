@@ -2,7 +2,8 @@
 shortcode: albalnyofsprythias
 name: {full: Albalny of Sprythias, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

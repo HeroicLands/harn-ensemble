@@ -2,7 +2,8 @@
 shortcode: lebalothofdeth
 name: {full: Lebaloth of Deth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

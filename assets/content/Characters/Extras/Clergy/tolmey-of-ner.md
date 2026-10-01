@@ -2,7 +2,8 @@
 shortcode: tolmeyofner
 name: {full: Tolmey of Ner, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

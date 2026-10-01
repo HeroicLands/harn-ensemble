@@ -2,7 +2,8 @@
 shortcode: gorsineofbardrass
 name: {full: Gorsine of Bardrass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

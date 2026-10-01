@@ -2,7 +2,8 @@
 shortcode: marekofkail
 name: {full: Marek of Kail, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1154tok
   templatePriority: 1

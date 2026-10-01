@@ -2,7 +2,8 @@
 shortcode: tomusofseral
 name: {full: Tomus of Seral, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

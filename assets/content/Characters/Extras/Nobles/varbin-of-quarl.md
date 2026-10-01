@@ -2,7 +2,8 @@
 shortcode: varbinofquarl
 name: {full: Varbin of Quarl, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

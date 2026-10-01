@@ -2,7 +2,8 @@
 shortcode: captainjerebalofaeb
 name: {full: Captain Jerebal of Aeb, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

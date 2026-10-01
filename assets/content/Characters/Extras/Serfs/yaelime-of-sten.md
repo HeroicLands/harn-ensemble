@@ -2,7 +2,8 @@
 shortcode: yaelimeofsten
 name: {full: Yaelime of Sten, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

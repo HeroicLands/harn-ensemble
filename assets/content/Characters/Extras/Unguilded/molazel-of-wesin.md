@@ -2,7 +2,8 @@
 shortcode: molazelofwesin
 name: {full: Molazel of Wesin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: bogsenofwersten
 name: {full: Bogsen of Wersten, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

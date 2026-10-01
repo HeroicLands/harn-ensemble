@@ -2,7 +2,8 @@
 shortcode: marlyseofuerth
 name: {full: Marlyse of Uerth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

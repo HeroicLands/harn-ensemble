@@ -2,7 +2,8 @@
 shortcode: zornaofchomel
 name: {full: Zorna of Chomel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

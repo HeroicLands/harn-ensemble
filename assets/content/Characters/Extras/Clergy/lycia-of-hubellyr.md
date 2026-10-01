@@ -2,7 +2,8 @@
 shortcode: lyciaofhubellyr
 name: {full: Lycia of Hubellyr, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

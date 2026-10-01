@@ -2,7 +2,8 @@
 shortcode: gordyofflaren
 name: {full: Gordy of Flaren, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3331tok
   templatePriority: 1

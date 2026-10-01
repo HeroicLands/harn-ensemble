@@ -2,7 +2,8 @@
 shortcode: dirofkarin
 name: {full: Dir of Karin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

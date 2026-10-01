@@ -2,7 +2,8 @@
 shortcode: lyciaofubern
 name: {full: Lycia of Ubern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: eldaofquina
 name: {full: Elda of Quina, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

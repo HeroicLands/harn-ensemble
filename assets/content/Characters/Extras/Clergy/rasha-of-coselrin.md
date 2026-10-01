@@ -2,7 +2,8 @@
 shortcode: rashaofcoselrin
 name: {full: Rasha of Coselrin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

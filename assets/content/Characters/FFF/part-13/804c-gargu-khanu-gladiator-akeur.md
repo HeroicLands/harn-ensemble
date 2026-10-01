@@ -2,7 +2,8 @@
 shortcode: akeur
 name: {full: Akeur, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff804chead
   tokenIcon: fff804ctok

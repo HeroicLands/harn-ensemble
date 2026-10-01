@@ -2,7 +2,8 @@
 shortcode: nathbaroffale
 name: {full: Nathbar of Fale, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

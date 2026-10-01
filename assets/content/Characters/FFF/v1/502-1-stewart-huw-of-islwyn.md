@@ -2,7 +2,8 @@
 shortcode: huwofislwyn
 name: {full: Huw of Islwyn, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5021tok
   templatePriority: 1

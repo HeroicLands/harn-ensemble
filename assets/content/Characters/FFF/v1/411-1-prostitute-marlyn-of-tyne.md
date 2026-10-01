@@ -2,7 +2,8 @@
 shortcode: marlynoftyne
 name: {full: Marlyn of Tyne, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4111tok
   templatePriority: 1

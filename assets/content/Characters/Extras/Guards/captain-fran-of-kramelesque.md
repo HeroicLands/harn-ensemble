@@ -2,7 +2,8 @@
 shortcode: captainfranofkramelesque
 name: {full: Captain Fran of Kramelesque, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

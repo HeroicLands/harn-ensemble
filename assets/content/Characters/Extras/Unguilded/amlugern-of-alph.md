@@ -2,7 +2,8 @@
 shortcode: amlugernofalph
 name: {full: Amlugern of Alph, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

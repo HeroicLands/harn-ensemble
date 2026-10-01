@@ -2,7 +2,8 @@
 shortcode: artunofparsuel
 name: {full: Artun of Parsuel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

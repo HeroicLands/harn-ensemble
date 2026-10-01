@@ -2,7 +2,8 @@
 shortcode: veteransebelofjaesinarass
 name: {full: Veteran Sebel of Jaesinarass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

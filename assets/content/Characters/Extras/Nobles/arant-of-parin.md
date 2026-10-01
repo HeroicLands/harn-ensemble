@@ -2,7 +2,8 @@
 shortcode: arantofparin
 name: {full: Arant of Parin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: utheromofwesaldire
 name: {full: Utherom of Wesaldire, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

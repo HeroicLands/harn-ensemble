@@ -2,7 +2,8 @@
 shortcode: yelindeoftobira
 name: {full: Yelinde of Tobira, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: charlofchatil
 name: {full: Charl of Chatil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

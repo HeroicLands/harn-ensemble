@@ -2,7 +2,8 @@
 shortcode: solinaofquardas
 name: {full: Solina of Quardas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

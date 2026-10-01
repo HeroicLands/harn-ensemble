@@ -2,7 +2,8 @@
 shortcode: keleofarasane
 name: {full: Kele of Arasane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

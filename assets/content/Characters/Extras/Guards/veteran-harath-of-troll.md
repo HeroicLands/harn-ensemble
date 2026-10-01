@@ -2,7 +2,8 @@
 shortcode: veteranharathoftroll
 name: {full: Veteran Harath of Troll, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

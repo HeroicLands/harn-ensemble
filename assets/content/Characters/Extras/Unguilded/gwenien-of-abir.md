@@ -2,7 +2,8 @@
 shortcode: gwenienofabir
 name: {full: Gwenien of Abir, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

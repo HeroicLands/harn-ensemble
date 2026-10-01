@@ -2,7 +2,8 @@
 shortcode: piriaofwejik
 name: {full: Piria of Wejik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

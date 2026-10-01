@@ -2,7 +2,8 @@
 shortcode: kesofhaith
 name: {full: Kes of Haith, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: tharoofbideth
 name: {full: Tharo of Bideth, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4161tok
   templatePriority: 1

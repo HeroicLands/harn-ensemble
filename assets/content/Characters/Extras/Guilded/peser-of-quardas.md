@@ -2,7 +2,8 @@
 shortcode: peserofquardas
 name: {full: Peser of Quardas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: kerthedeofdethels
 name: {full: Kerthede of Dethels, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: rathofmadib
 name: {full: Rath of Madib, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

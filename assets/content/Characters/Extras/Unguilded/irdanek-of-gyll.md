@@ -2,7 +2,8 @@
 shortcode: irdanekofgyll
 name: {full: Irdanek of Gyll, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

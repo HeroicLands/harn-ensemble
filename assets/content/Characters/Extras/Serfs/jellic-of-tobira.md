@@ -2,7 +2,8 @@
 shortcode: jellicoftobira
 name: {full: Jellic of Tobira, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: urlockofrik
 name: {full: Urlock of Rik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

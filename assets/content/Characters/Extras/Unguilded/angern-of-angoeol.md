@@ -2,7 +2,8 @@
 shortcode: angernofangoeol
 name: {full: Angern of Angoeol, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

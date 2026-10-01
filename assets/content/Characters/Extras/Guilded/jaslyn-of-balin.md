@@ -2,7 +2,8 @@
 shortcode: jaslynofbalin
 name: {full: Jaslyn of Balin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: nathofrysten
 name: {full: Nath of Rysten, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

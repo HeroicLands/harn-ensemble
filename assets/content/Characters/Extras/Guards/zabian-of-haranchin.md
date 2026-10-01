@@ -2,7 +2,8 @@
 shortcode: zabianofharanchin
 name: {full: Zabian of Haranchin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

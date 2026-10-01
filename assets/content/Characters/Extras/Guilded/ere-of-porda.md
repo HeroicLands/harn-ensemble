@@ -2,7 +2,8 @@
 shortcode: ereofporda
 name: {full: Ere of Porda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

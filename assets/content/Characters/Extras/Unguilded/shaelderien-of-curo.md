@@ -2,7 +2,8 @@
 shortcode: shaelderienofcuro
 name: {full: Shaelderien of Curo, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

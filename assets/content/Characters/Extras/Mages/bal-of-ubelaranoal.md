@@ -2,7 +2,8 @@
 shortcode: balofubelaranoal
 name: {full: Bal of Ubelaranoal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

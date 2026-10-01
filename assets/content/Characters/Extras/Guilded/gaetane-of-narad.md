@@ -2,7 +2,8 @@
 shortcode: gaetaneofnarad
 name: {full: Gaetane of Narad, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

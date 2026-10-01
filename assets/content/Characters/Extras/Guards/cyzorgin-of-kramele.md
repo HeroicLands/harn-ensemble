@@ -2,7 +2,8 @@
 shortcode: cyzorginofkramele
 name: {full: Cyzorgin of Kramele, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: lasynofael
 name: {full: Lasyn of Ael, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

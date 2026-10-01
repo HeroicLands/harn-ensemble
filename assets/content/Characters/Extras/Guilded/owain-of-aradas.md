@@ -2,7 +2,8 @@
 shortcode: owainofaradas
 name: {full: Owain of Aradas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

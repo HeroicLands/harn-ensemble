@@ -2,7 +2,8 @@
 shortcode: odellofrisene
 name: {full: Odell of Risene, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3211tok
   templatePriority: 1

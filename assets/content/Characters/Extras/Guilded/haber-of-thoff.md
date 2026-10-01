@@ -2,7 +2,8 @@
 shortcode: haberofthoff
 name: {full: Haber of Thoff, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

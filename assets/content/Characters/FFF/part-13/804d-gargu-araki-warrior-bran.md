@@ -2,7 +2,8 @@
 shortcode: bran
 name: {full: Bran, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff804dhead
   tokenIcon: fff804dtok

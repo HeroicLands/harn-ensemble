@@ -2,7 +2,8 @@
 shortcode: seralaofonparsuel
 name: {full: Serala of Onparsuel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

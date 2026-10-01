@@ -2,7 +2,8 @@
 shortcode: veteraninrantofirien
 name: {full: Veteran Inrant of Irien, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

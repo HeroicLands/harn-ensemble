@@ -2,7 +2,8 @@
 shortcode: doraneofardrass
 name: {full: Dorane of Ardrass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

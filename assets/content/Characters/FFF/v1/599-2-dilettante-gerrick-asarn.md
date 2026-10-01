@@ -2,7 +2,8 @@
 shortcode: gerrickasarn
 name: {full: Gerrick Asarn, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5992tok
   templatePriority: 1

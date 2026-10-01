@@ -2,7 +2,8 @@
 shortcode: tamythofesarl
 name: {full: Tamyth of Esarl, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

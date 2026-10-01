@@ -2,7 +2,8 @@
 shortcode: halidofaikarin
 name: {full: Halid of Aikarin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

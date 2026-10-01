@@ -2,7 +2,8 @@
 shortcode: tagbarofhilrichmarion
 name: {full: Tagbar of Hilrichmarion, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

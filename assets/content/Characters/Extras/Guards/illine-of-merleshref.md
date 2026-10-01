@@ -2,7 +2,8 @@
 shortcode: illineofmerleshref
 name: {full: Illine of Merleshref, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

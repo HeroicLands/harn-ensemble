@@ -2,7 +2,8 @@
 shortcode: jolaofewena
 name: {full: Jola of Ewena, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

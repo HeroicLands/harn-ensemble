@@ -2,7 +2,8 @@
 shortcode: borka
 name: {full: Borka, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff804ghead
   tokenIcon: fff804gtok

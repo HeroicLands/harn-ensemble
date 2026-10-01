@@ -2,7 +2,8 @@
 shortcode: gruldelofcuro
 name: {full: Gruldel of Curo, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

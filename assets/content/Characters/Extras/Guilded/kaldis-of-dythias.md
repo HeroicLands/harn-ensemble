@@ -2,7 +2,8 @@
 shortcode: kaldisofdythias
 name: {full: Kaldis of Dythias, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

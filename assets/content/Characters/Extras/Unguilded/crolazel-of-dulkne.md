@@ -2,7 +2,8 @@
 shortcode: crolazelofdulkne
 name: {full: Crolazel of Dulkne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

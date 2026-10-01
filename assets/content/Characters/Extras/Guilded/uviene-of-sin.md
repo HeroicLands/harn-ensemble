@@ -2,7 +2,8 @@
 shortcode: uvieneofsin
 name: {full: Uviene of Sin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: charlamnarofguina
 name: {full: Charlamnar of Guina, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

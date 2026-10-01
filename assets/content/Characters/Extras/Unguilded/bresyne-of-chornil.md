@@ -2,7 +2,8 @@
 shortcode: bresyneofchornil
 name: {full: Bresyne of Chornil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

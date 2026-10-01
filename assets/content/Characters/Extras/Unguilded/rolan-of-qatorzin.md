@@ -2,7 +2,8 @@
 shortcode: rolanofqatorzin
 name: {full: Rolan of Qatorzin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

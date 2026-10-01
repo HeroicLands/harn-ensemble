@@ -2,7 +2,8 @@
 shortcode: terbaoforta
 name: {full: Terba of Orta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

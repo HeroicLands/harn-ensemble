@@ -2,7 +2,8 @@
 shortcode: albalnyoftixenal
 name: {full: Albalny of Tixenal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

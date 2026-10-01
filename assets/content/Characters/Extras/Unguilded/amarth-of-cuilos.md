@@ -2,7 +2,8 @@
 shortcode: amarthofcuilos
 name: {full: Amarth of Cuilos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

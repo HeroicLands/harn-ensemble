@@ -2,7 +2,8 @@
 shortcode: captainshotroofguinda
 name: {full: Captain Shotro of Guinda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

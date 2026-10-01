@@ -2,7 +2,8 @@
 shortcode: korbinofsmyt
 name: {full: Korbin of Smyt, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

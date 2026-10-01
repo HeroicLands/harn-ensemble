@@ -2,7 +2,8 @@
 shortcode: maelofmariam
 name: {full: Mael of Mariam, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

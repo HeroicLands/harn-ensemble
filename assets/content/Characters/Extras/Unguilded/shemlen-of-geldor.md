@@ -2,7 +2,8 @@
 shortcode: shemlenofgeldor
 name: {full: Shemlen of Geldor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

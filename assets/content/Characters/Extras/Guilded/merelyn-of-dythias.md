@@ -2,7 +2,8 @@
 shortcode: merelynofdythias
 name: {full: Merelyn of Dythias, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

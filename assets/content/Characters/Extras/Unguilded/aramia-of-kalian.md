@@ -2,7 +2,8 @@
 shortcode: aramiaofkalian
 name: {full: Aramia of Kalian, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

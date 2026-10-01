@@ -2,7 +2,8 @@
 shortcode: tulahofmerben
 name: {full: Tulah of Merben, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

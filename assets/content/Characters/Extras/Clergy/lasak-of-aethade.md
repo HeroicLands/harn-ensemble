@@ -2,7 +2,8 @@
 shortcode: lasakofaethade
 name: {full: Lasak of Aethade, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

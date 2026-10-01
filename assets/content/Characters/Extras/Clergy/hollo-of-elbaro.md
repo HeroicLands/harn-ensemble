@@ -2,7 +2,8 @@
 shortcode: holloofelbaro
 name: {full: Hollo of Elbaro, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

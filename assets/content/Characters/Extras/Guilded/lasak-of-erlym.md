@@ -2,7 +2,8 @@
 shortcode: lasakoferlym
 name: {full: Lasak of Erlym, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

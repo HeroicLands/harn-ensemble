@@ -2,7 +2,8 @@
 shortcode: ereryofparin
 name: {full: Erery of Parin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

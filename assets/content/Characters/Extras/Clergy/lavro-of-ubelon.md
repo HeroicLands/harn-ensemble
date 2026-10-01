@@ -2,7 +2,8 @@
 shortcode: lavroofubelon
 name: {full: Lavro of Ubelon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: finbaroferons
 name: {full: Finbar of Erons, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4092tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: elderienofsiven
 name: {full: Elderien of Siven, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: makanofdulkail
 name: {full: Makan of Dulkail, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

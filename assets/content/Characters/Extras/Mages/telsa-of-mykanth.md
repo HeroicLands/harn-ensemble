@@ -2,7 +2,8 @@
 shortcode: telsaofmykanth
 name: {full: Telsa of Mykanth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

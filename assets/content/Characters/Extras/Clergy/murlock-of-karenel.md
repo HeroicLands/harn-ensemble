@@ -2,7 +2,8 @@
 shortcode: murlockofkarenel
 name: {full: Murlock of Karenel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

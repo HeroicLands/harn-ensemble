@@ -2,7 +2,8 @@
 shortcode: raeldelofpatren
 name: {full: Raeldel of Patren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

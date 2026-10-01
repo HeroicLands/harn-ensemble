@@ -2,7 +2,8 @@
 shortcode: raedaofchariborskin
 name: {full: Raeda of Chariborskin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

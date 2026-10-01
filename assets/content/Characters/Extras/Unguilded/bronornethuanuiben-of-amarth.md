@@ -2,7 +2,8 @@
 shortcode: bronornethuanuibenofamarth
 name: {full: Bronornethuanuiben of Amarth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

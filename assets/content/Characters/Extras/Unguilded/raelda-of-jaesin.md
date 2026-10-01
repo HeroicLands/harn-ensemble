@@ -2,7 +2,8 @@
 shortcode: raeldaofjaesin
 name: {full: Raelda of Jaesin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

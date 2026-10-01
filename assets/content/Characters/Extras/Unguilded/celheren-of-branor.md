@@ -2,7 +2,8 @@
 shortcode: celherenofbranor
 name: {full: Celheren of Branor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

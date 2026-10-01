@@ -2,7 +2,8 @@
 shortcode: hadashoflumede
 name: {full: Hadash of Lumede, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

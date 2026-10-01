@@ -2,7 +2,8 @@
 shortcode: pallisofmarn
 name: {full: Pallis of Marn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

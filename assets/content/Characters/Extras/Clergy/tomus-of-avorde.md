@@ -2,7 +2,8 @@
 shortcode: tomusofavorde
 name: {full: Tomus of Avorde, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

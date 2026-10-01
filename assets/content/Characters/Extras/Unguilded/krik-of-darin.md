@@ -2,7 +2,8 @@
 shortcode: krikofdarin
 name: {full: Krik of Darin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

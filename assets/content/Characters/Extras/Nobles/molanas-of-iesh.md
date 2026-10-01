@@ -2,7 +2,8 @@
 shortcode: molanasofiesh
 name: {full: Molanas of Iesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

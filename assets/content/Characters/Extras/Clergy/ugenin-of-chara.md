@@ -2,7 +2,8 @@
 shortcode: ugeninofchara
 name: {full: Ugenin of Chara, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

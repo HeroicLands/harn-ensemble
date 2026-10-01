@@ -2,7 +2,8 @@
 shortcode: captainarbinofuert
 name: {full: Captain Arbin of Uert, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

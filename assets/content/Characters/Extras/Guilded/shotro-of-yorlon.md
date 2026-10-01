@@ -2,7 +2,8 @@
 shortcode: shotroofyorlon
 name: {full: Shotro of Yorlon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

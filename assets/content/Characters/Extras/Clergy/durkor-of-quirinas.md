@@ -2,7 +2,8 @@
 shortcode: durkorofquirinas
 name: {full: Durkor of Quirinas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

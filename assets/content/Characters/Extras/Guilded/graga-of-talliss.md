@@ -2,7 +2,8 @@
 shortcode: gragaoftalliss
 name: {full: Graga of Talliss, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

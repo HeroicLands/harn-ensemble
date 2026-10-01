@@ -2,7 +2,8 @@
 shortcode: dickonofashel
 name: {full: Dickon of Ashel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

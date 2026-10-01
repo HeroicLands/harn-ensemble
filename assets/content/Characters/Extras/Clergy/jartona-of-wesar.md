@@ -2,7 +2,8 @@
 shortcode: jartonaofwesar
 name: {full: Jartona of Wesar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

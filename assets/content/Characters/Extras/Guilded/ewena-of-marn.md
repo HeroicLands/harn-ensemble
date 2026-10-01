@@ -2,7 +2,8 @@
 shortcode: ewenaofmarn
 name: {full: Ewena of Marn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

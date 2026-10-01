@@ -2,7 +2,8 @@
 shortcode: keridolofvyloch
 name: {full: Keridol of Vyloch, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

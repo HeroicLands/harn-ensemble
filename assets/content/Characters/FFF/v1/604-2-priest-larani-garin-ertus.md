@@ -2,7 +2,8 @@
 shortcode: garinertus
 name: {full: Garin Ertus, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6042tok
   templatePriority: 1

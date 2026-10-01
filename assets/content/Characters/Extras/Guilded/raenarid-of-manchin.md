@@ -2,7 +2,8 @@
 shortcode: raenaridofmanchin
 name: {full: Raenarid of Manchin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: drigarondisofoshonan
 name: {full: Drigarondis of Oshonan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

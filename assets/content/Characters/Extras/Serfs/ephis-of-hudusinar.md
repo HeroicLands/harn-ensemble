@@ -2,7 +2,8 @@
 shortcode: ephisofhudusinar
 name: {full: Ephis of Hudusinar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

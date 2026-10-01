@@ -2,7 +2,8 @@
 shortcode: terzaofren
 name: {full: Terza of Ren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

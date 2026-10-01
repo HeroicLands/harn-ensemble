@@ -2,7 +2,8 @@
 shortcode: arvaofchels
 name: {full: Arva of Chels, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: quelicofyorlym
 name: {full: Quelic of Yorlym, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: ronisoffaleh
 name: {full: Ronis of Faleh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

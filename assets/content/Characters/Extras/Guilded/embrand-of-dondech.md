@@ -2,7 +2,8 @@
 shortcode: embrandofdondech
 name: {full: Embrand of Dondech, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

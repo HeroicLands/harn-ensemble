@@ -2,7 +2,8 @@
 shortcode: orthiasofavorda
 name: {full: Orthias of Avorda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

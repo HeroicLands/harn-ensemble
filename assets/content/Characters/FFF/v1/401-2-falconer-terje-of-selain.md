@@ -2,7 +2,8 @@
 shortcode: terjeofselain
 name: {full: Terje of Selain, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4012tok
   templatePriority: 1

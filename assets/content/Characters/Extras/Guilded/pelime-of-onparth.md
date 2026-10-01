@@ -2,7 +2,8 @@
 shortcode: pelimeofonparth
 name: {full: Pelime of Onparth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

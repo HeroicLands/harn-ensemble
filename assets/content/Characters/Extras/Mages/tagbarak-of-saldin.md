@@ -2,7 +2,8 @@
 shortcode: tagbarakofsaldin
 name: {full: Tagbarak of Saldin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

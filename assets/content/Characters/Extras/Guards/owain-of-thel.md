@@ -2,7 +2,8 @@
 shortcode: owainofthel
 name: {full: Owain of Thel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: boseraoferlym
 name: {full: Bosera of Erlym, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

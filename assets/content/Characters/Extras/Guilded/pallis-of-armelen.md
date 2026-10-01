@@ -2,7 +2,8 @@
 shortcode: pallisofarmelen
 name: {full: Pallis of Armelen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

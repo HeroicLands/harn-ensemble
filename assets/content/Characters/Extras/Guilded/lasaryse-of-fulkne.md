@@ -2,7 +2,8 @@
 shortcode: lasaryseoffulkne
 name: {full: Lasaryse of Fulkne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

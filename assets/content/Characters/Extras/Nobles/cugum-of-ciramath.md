@@ -2,7 +2,8 @@
 shortcode: cugumofciramath
 name: {full: Cugum of Ciramath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: siregarolandau
 name: {full: Sir Egar Olandau, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5071tok
   templatePriority: 1

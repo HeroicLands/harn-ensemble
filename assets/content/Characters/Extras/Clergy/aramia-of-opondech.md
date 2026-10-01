@@ -2,7 +2,8 @@
 shortcode: aramiaofopondech
 name: {full: Aramia of Opondech, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

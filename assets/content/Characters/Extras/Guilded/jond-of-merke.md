@@ -2,7 +2,8 @@
 shortcode: jondofmerke
 name: {full: Jond of Merke, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

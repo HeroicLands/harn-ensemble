@@ -2,7 +2,8 @@
 shortcode: yaeldelofasain
 name: {full: Yaeldel of Asain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

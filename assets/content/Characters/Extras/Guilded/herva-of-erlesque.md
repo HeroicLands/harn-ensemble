@@ -2,7 +2,8 @@
 shortcode: hervaoferlesque
 name: {full: Herva of Erlesque, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

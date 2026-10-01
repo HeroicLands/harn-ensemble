@@ -2,7 +2,8 @@
 shortcode: larinaofwerth
 name: {full: Larina of Werth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

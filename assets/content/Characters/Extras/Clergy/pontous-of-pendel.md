@@ -2,7 +2,8 @@
 shortcode: pontousofpendel
 name: {full: Pontous of Pendel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

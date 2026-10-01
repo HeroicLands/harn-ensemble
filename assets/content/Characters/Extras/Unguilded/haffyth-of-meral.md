@@ -2,7 +2,8 @@
 shortcode: haffythofmeral
 name: {full: Haffyth of Meral, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

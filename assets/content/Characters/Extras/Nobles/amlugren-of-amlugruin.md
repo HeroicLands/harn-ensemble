@@ -2,7 +2,8 @@
 shortcode: amlugrenofamlugruin
 name: {full: Amlugren of Amlugruin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

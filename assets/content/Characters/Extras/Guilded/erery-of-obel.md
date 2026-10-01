@@ -2,7 +2,8 @@
 shortcode: ereryofobel
 name: {full: Erery of Obel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

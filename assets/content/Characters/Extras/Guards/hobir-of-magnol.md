@@ -2,7 +2,8 @@
 shortcode: hobirofmagnol
 name: {full: Hobir of Magnol, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

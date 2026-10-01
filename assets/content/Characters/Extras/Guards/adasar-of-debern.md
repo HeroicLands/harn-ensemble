@@ -2,7 +2,8 @@
 shortcode: adasarofdebern
 name: {full: Adasar of Debern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

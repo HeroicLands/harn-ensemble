@@ -2,7 +2,8 @@
 shortcode: parsumenofvylosath
 name: {full: Parsumen of Vylosath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

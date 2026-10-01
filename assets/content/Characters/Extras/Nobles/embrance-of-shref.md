@@ -2,7 +2,8 @@
 shortcode: embranceofshref
 name: {full: Embrance of Shref, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

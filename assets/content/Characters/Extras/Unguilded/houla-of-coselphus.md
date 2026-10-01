@@ -2,7 +2,8 @@
 shortcode: houlaofcoselphus
 name: {full: Houla of Coselphus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

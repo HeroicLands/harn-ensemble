@@ -2,7 +2,8 @@
 shortcode: jaslyneoftarkoff
 name: {full: Jaslyne of Tarkoff, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: solineofdethaen
 name: {full: Soline of Dethaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: aerallaxofopondel
 name: {full: Aerallax of Opondel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: brasofharass
 name: {full: Bras of Harass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

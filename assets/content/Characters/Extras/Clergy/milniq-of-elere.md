@@ -2,7 +2,8 @@
 shortcode: milniqofelere
 name: {full: Milniq of Elere, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

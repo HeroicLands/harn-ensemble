@@ -2,7 +2,8 @@
 shortcode: sepianoflaplacka
 name: {full: Sepian of Laplacka, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

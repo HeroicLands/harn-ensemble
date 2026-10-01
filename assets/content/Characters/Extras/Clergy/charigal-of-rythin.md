@@ -2,7 +2,8 @@
 shortcode: charigalofrythin
 name: {full: Charigal of Rythin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

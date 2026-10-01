@@ -2,7 +2,8 @@
 shortcode: veteraneralofvanthen
 name: {full: Veteran Eral of Vanthen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

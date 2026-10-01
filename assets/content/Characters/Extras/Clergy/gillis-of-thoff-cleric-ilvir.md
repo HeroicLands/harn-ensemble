@@ -2,7 +2,8 @@
 shortcode: gillisthoff
 name: {full: Gillis of Thoff, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

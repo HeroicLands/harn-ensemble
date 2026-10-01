@@ -2,7 +2,8 @@
 shortcode: cannamlugofadestel
 name: {full: Cannamlug of Adestel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

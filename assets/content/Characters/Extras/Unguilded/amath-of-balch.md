@@ -2,7 +2,8 @@
 shortcode: amathofbalch
 name: {full: Amath of Balch, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

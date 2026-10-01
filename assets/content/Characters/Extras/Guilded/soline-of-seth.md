@@ -2,7 +2,8 @@
 shortcode: solineofseth
 name: {full: Soline of Seth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

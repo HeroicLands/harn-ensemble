@@ -2,7 +2,8 @@
 shortcode: boraneofsunis
 name: {full: Borane of Sunis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: agarofcaramdirphen
 name: {full: Agar of Caramdirphen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

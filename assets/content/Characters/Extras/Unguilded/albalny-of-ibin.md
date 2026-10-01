@@ -2,7 +2,8 @@
 shortcode: albalnyofibin
 name: {full: Albalny of Ibin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

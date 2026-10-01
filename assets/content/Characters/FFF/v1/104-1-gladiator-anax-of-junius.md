@@ -2,7 +2,8 @@
 shortcode: anaxofjunius
 name: {full: Anax of Junius, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1041tok
   templatePriority: 1

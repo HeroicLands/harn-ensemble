@@ -2,7 +2,8 @@
 shortcode: merenaofoshonar
 name: {full: Merena of Oshonar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

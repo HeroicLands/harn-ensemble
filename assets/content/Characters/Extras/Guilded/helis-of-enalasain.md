@@ -2,7 +2,8 @@
 shortcode: helisofenalasain
 name: {full: Helis of Enalasain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

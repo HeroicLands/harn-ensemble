@@ -2,7 +2,8 @@
 shortcode: yebinofwesarn
 name: {full: Yebin of Wesarn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

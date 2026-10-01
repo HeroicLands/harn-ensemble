@@ -2,7 +2,8 @@
 shortcode: captainraenarofbriam
 name: {full: Captain Raenar of Briam, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

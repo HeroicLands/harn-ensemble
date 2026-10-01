@@ -2,7 +2,8 @@
 shortcode: edirynofuerthen
 name: {full: Ediryn of Uerthen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

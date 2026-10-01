@@ -2,7 +2,8 @@
 shortcode: lanazirofonparsel
 name: {full: Lanazir of Onparsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

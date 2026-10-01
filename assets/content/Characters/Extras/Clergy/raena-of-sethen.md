@@ -2,7 +2,8 @@
 shortcode: raenaofsethen
 name: {full: Raena of Sethen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

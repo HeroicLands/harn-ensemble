@@ -2,7 +2,8 @@
 shortcode: tobaswickofsharvan
 name: {full: 'Tobas "Wick" of Sharvan', aliases: [Wick]}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff7021tok
   templatePriority: 1

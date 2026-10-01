@@ -2,7 +2,8 @@
 shortcode: danishemlenaofkramel
 name: {full: Danishemlena of Kramel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

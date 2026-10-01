@@ -2,7 +2,8 @@
 shortcode: sigynofleden
 name: {full: Sigyn of Leden, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6021tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: ginelleofelen
 name: {full: Ginelle of Elen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

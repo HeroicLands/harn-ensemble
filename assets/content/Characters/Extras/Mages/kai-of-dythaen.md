@@ -2,7 +2,8 @@
 shortcode: kaiofdythaen
 name: {full: Kai of Dythaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

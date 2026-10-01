@@ -2,7 +2,8 @@
 shortcode: girondofelwenalasaka
 name: {full: Girond of Elwenalasaka, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

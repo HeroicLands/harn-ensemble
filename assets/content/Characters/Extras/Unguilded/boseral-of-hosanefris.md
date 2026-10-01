@@ -2,7 +2,8 @@
 shortcode: boseralofhosanefris
 name: {full: Boseral of Hosanefris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: terbaofthenda
 name: {full: Terba of Thenda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

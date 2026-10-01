@@ -2,7 +2,8 @@
 shortcode: perlindeoftobriam
 name: {full: Perlinde of Tobriam, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

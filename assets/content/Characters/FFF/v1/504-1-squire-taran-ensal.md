@@ -2,7 +2,8 @@
 shortcode: taranensal
 name: {full: Taran Ensal, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5041tok
   templatePriority: 1

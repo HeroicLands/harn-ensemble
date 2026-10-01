@@ -2,7 +2,8 @@
 shortcode: tamilofdethasil
 name: {full: Tamil of Dethasil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

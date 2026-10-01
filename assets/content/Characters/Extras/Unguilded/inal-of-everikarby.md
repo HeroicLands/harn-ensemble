@@ -2,7 +2,8 @@
 shortcode: inalofeverikarby
 name: {full: Inal of Everikarby, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

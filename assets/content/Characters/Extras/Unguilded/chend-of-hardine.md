@@ -2,7 +2,8 @@
 shortcode: chendofhardine
 name: {full: Chend of Hardine, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

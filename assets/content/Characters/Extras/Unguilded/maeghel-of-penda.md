@@ -2,7 +2,8 @@
 shortcode: maeghelofpenda
 name: {full: Maeghel of Penda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

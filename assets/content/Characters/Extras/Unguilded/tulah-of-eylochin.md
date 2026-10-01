@@ -2,7 +2,8 @@
 shortcode: tulahofeylochin
 name: {full: Tulah of Eylochin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

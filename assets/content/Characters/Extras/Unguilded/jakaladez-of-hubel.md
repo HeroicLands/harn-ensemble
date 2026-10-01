@@ -2,7 +2,8 @@
 shortcode: jakaladezofhubel
 name: {full: Jakaladez of Hubel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

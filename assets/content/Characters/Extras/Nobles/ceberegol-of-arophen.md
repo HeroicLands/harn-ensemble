@@ -2,7 +2,8 @@
 shortcode: ceberegolofarophen
 name: {full: Ceberegol of Arophen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

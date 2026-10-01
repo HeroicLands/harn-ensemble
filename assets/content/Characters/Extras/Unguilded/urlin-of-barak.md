@@ -2,7 +2,8 @@
 shortcode: urlinofbarak
 name: {full: Urlin of Barak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

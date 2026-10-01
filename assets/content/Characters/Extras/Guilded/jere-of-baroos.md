@@ -2,7 +2,8 @@
 shortcode: jereofbaroos
 name: {full: Jere of Baroos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

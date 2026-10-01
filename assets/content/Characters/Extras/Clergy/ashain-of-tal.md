@@ -2,7 +2,8 @@
 shortcode: ashainoftal
 name: {full: Ashain of Tal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

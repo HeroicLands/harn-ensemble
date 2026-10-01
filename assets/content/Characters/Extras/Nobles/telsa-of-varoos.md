@@ -2,7 +2,8 @@
 shortcode: telsaofvaroos
 name: {full: Telsa of Varoos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

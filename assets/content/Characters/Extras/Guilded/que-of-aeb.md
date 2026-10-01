@@ -2,7 +2,8 @@
 shortcode: queofaeb
 name: {full: Que of Aeb, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

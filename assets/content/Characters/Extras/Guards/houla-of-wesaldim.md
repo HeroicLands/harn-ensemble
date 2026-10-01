@@ -2,7 +2,8 @@
 shortcode: houlaofwesaldim
 name: {full: Houla of Wesaldim, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

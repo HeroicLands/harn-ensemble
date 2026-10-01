@@ -2,7 +2,8 @@
 shortcode: silofbaldim
 name: {full: Sil of Baldim, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

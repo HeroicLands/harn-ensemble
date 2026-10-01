@@ -2,7 +2,8 @@
 shortcode: brashainofelwen
 name: {full: Brashain of Elwen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

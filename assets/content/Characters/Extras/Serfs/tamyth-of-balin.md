@@ -2,7 +2,8 @@
 shortcode: tamythofbalin
 name: {full: Tamyth of Balin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

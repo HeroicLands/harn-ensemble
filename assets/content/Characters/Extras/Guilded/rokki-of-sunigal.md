@@ -2,7 +2,8 @@
 shortcode: rokkiofsunigal
 name: {full: Rokki of Sunigal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

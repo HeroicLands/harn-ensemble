@@ -2,7 +2,8 @@
 shortcode: raselofharia
 name: {full: Rasel of Haria, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

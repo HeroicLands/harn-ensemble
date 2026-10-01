@@ -2,7 +2,8 @@
 shortcode: kresofaenere
 name: {full: Kres of Aenere, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4022tok
   templatePriority: 1

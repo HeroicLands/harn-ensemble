@@ -2,7 +2,8 @@
 shortcode: roulofleferre
 name: {full: Roul of Leferre, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4201tok
   templatePriority: 1

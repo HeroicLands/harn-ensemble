@@ -2,7 +2,8 @@
 shortcode: jeronofaeb
 name: {full: Jeron of Aeb, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

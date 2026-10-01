@@ -2,7 +2,8 @@
 shortcode: wybertgraon
 name: {full: Wybert Graon, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4141tok
   templatePriority: 1

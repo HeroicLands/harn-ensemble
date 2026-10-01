@@ -2,7 +2,8 @@
 shortcode: sartonofpaseralesh
 name: {full: Sarton of Paseralesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: brylweofpasen
 name: {full: Brylwe of Pasen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

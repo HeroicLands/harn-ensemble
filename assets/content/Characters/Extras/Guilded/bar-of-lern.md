@@ -2,7 +2,8 @@
 shortcode: baroflern
 name: {full: Bar of Lern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

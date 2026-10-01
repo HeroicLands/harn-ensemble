@@ -2,7 +2,8 @@
 shortcode: aramathlainofcidinnog
 name: {full: Aramathlain of Cidinnog, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

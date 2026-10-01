@@ -2,7 +2,8 @@
 shortcode: amdirofamatheben
 name: {full: Amdir of Amatheben, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

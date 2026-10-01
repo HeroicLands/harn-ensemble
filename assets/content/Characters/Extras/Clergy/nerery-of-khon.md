@@ -2,7 +2,8 @@
 shortcode: nereryofkhon
 name: {full: Nerery of Khon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: adahofdethalmin
 name: {full: Adah of Dethalmin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

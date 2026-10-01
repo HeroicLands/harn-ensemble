@@ -2,7 +2,8 @@
 shortcode: borisofborskin
 name: {full: Boris of Borskin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: lamnarofprovin
 name: {full: Lamnar of Provin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

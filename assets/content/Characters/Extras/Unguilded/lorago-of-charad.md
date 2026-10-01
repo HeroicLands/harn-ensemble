@@ -2,7 +2,8 @@
 shortcode: loragoofcharad
 name: {full: Lorago of Charad, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

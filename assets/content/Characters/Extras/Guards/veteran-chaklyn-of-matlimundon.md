@@ -2,7 +2,8 @@
 shortcode: veteranchaklynofmatlimundon
 name: {full: Veteran Chaklyn of Matlimundon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

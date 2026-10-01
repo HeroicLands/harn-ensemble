@@ -2,7 +2,8 @@
 shortcode: blaborofcadui
 name: {full: Blabor of Cadui, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

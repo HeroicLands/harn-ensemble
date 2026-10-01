@@ -2,7 +2,8 @@
 shortcode: helasarinaofloyril
 name: {full: Helasarina of Loyril, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

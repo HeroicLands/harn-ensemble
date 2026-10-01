@@ -2,7 +2,8 @@
 shortcode: mereryofrenel
 name: {full: Merery of Renel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

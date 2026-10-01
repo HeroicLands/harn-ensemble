@@ -2,7 +2,8 @@
 shortcode: darofaeb
 name: {full: Dar of Aeb, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: arvaofsymdalir
 name: {full: Arva of Symdalir, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

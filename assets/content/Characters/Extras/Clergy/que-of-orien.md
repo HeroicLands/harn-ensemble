@@ -2,7 +2,8 @@
 shortcode: queoforien
 name: {full: Que of Orien, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

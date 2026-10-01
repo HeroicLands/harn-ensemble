@@ -2,7 +2,8 @@
 shortcode: harildofdrelin
 name: {full: Harild of Drelin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

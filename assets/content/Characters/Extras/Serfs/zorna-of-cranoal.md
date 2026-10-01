@@ -2,7 +2,8 @@
 shortcode: zornaofcranoal
 name: {full: Zorna of Cranoal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

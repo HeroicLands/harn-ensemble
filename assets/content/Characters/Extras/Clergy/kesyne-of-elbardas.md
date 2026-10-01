@@ -2,7 +2,8 @@
 shortcode: kesyneofelbardas
 name: {full: Kesyne of Elbardas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

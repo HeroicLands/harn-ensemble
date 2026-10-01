@@ -2,7 +2,8 @@
 shortcode: lanachofkaterien
 name: {full: Lanach of Katerien, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

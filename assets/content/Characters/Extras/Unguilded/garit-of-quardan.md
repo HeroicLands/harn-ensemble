@@ -2,7 +2,8 @@
 shortcode: garitofquardan
 name: {full: Garit of Quardan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

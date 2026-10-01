@@ -2,7 +2,8 @@
 shortcode: boraneofmeral
 name: {full: Borane of Meral, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

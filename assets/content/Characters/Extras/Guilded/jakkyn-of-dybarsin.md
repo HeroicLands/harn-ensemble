@@ -2,7 +2,8 @@
 shortcode: jakkynofdybarsin
 name: {full: Jakkyn of Dybarsin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

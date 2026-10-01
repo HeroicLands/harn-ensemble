@@ -2,7 +2,8 @@
 shortcode: kaladezofrik
 name: {full: Kaladez of Rik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

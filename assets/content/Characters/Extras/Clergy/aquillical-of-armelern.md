@@ -2,7 +2,8 @@
 shortcode: aquillicalofarmelern
 name: {full: Aquillical of Armelern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

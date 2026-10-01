@@ -2,7 +2,8 @@
 shortcode: raedaofdethaen
 name: {full: Raeda of Dethaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

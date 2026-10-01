@@ -2,7 +2,8 @@
 shortcode: lodinofelere
 name: {full: Lodin of Elere, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: artunofpartuna
 name: {full: Artun of Partuna, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

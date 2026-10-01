@@ -2,7 +2,8 @@
 shortcode: kerthedeofardras
 name: {full: Kerthede of Ardras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

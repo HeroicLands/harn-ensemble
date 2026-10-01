@@ -2,7 +2,8 @@
 shortcode: ardenylofroll
 name: {full: Ardenyl of Roll, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

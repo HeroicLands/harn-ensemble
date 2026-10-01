@@ -2,7 +2,8 @@
 shortcode: orenofkestel
 name: {full: Oren of Kestel, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5031tok
   templatePriority: 1

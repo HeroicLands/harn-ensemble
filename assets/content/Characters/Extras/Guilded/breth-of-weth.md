@@ -2,7 +2,8 @@
 shortcode: brethofweth
 name: {full: Breth of Weth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

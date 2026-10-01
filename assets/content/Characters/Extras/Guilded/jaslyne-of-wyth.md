@@ -2,7 +2,8 @@
 shortcode: jaslyneofwyth
 name: {full: Jaslyne of Wyth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: sylviaofopondik
 name: {full: Sylvia of Opondik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

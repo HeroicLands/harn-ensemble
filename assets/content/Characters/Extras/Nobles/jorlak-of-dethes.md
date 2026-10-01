@@ -2,7 +2,8 @@
 shortcode: jorlakofdethes
 name: {full: Jorlak of Dethes, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: keldurofkald
 name: {full: Keldur of Kald, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

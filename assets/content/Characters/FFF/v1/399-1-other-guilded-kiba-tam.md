@@ -2,7 +2,8 @@
 shortcode: kibatam
 name: {full: Kiba Tam, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3991tok
   templatePriority: 1

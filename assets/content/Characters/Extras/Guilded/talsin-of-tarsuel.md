@@ -2,7 +2,8 @@
 shortcode: talsinoftarsuel
 name: {full: Talsin of Tarsuel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

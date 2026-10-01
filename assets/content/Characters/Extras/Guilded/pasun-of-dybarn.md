@@ -2,7 +2,8 @@
 shortcode: pasunofdybarn
 name: {full: Pasun of Dybarn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

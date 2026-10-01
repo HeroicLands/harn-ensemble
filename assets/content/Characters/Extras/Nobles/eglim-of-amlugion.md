@@ -2,7 +2,8 @@
 shortcode: eglimofamlugion
 name: {full: Eglim of Amlugion, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

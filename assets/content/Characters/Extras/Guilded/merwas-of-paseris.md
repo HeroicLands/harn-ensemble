@@ -2,7 +2,8 @@
 shortcode: merwasofpaseris
 name: {full: Merwas of Paseris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

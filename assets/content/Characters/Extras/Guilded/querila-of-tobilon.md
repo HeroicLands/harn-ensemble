@@ -2,7 +2,8 @@
 shortcode: querilaoftobilon
 name: {full: Querila of Tobilon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

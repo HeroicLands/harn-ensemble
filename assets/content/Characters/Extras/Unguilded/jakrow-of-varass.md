@@ -2,7 +2,8 @@
 shortcode: jakrowofvarass
 name: {full: Jakrow of Varass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

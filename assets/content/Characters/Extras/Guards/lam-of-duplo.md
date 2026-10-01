@@ -2,7 +2,8 @@
 shortcode: lamofduplo
 name: {full: Lam of Duplo, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: arbrinofhudusinar
 name: {full: Arbrin of Hudusinar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

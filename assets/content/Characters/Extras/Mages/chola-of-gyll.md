@@ -2,7 +2,8 @@
 shortcode: cholaofgyll
 name: {full: Chola of Gyll, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

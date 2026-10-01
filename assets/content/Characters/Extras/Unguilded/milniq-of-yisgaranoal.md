@@ -2,7 +2,8 @@
 shortcode: milniqofyisgaranoal
 name: {full: Milniq of Yisgaranoal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

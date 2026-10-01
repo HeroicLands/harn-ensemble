@@ -2,7 +2,8 @@
 shortcode: agarwenofarodh
 name: {full: Agarwen of Arodh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

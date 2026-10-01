@@ -2,7 +2,8 @@
 shortcode: merenaofspryth
 name: {full: Merena of Spryth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

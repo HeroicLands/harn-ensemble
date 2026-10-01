@@ -2,7 +2,8 @@
 shortcode: cazaranofkarin
 name: {full: Cazaran of Karin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

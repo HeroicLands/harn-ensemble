@@ -2,7 +2,8 @@
 shortcode: charildofmarnin
 name: {full: Charild of Marnin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

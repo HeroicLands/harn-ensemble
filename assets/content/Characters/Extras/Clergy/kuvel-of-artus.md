@@ -2,7 +2,8 @@
 shortcode: kuvelofartus
 name: {full: Kuvel of Artus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

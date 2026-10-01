@@ -2,7 +2,8 @@
 shortcode: belsonofkhurud
 name: {full: Belson of Khurud, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

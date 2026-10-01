@@ -2,7 +2,8 @@
 shortcode: totesoflund
 name: {full: Totes of Lund, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

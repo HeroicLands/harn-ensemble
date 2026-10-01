@@ -2,7 +2,8 @@
 shortcode: drighofverdy
 name: {full: Drigh of Verdy, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

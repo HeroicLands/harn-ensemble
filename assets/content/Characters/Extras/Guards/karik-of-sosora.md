@@ -2,7 +2,8 @@
 shortcode: karikofsosora
 name: {full: Karik of Sosora, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: amlugorthuiredheluinofarannachafin
 name: {full: Amlugorthuiredheluin of Arannachafin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

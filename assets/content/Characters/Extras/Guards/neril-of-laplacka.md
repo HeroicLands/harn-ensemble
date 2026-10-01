@@ -2,7 +2,8 @@
 shortcode: neriloflaplacka
 name: {full: Neril of Laplacka, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: perlathofpordas
 name: {full: Perlath of Pordas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: balisofjiml
 name: {full: Balis of Jiml, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6072tok
   templatePriority: 1

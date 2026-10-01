@@ -2,7 +2,8 @@
 shortcode: baeofwytel
 name: {full: Bae of Wytel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

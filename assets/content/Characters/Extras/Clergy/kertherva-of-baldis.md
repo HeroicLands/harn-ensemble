@@ -2,7 +2,8 @@
 shortcode: kerthervaofbaldis
 name: {full: Kertherva of Baldis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

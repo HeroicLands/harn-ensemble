@@ -2,7 +2,8 @@
 shortcode: illionofmanchi
 name: {full: Illion of Manchi, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

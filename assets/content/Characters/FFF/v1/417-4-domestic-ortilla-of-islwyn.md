@@ -2,7 +2,8 @@
 shortcode: ortillaofislwyn
 name: {full: Ortilla of Islwyn, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4174tok
   templatePriority: 1

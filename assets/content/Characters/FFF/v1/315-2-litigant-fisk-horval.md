@@ -2,7 +2,8 @@
 shortcode: fiskhorval
 name: {full: Fisk Horval, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3152tok
   templatePriority: 1

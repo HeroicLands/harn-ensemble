@@ -2,7 +2,8 @@
 shortcode: dakaofsediel
 name: {full: Daka of Sediel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

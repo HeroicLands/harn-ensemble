@@ -2,7 +2,8 @@
 shortcode: heromofiesh
 name: {full: Herom of Iesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

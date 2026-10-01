@@ -2,7 +2,8 @@
 shortcode: mereryofmerbena
 name: {full: Merery of Merbena, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

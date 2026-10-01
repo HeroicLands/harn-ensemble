@@ -2,7 +2,8 @@
 shortcode: tamythofgoselerdy
 name: {full: Tamyth of Goselerdy, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

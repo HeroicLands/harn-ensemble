@@ -2,7 +2,8 @@
 shortcode: seginelaofdulkne
 name: {full: Seginela of Dulkne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

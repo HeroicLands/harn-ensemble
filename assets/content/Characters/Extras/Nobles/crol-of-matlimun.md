@@ -2,7 +2,8 @@
 shortcode: crolofmatlimun
 name: {full: Crol of Matlimun, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

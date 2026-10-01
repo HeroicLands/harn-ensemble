@@ -2,7 +2,8 @@
 shortcode: veteranpoldoelofkapireth
 name: {full: Veteran Poldoel of Kapireth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

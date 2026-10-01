@@ -2,7 +2,8 @@
 shortcode: lamofewen
 name: {full: Lam of Ewen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

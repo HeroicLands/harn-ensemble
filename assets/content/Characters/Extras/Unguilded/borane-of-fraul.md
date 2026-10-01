@@ -2,7 +2,8 @@
 shortcode: boraneoffraul
 name: {full: Borane of Fraul, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

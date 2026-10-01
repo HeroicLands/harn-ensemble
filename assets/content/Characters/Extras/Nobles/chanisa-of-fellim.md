@@ -2,7 +2,8 @@
 shortcode: chanisaoffellim
 name: {full: Chanisa of Fellim, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

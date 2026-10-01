@@ -2,7 +2,8 @@
 shortcode: jeridolofvylochi
 name: {full: Jeridol of Vylochi, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

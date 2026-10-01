@@ -2,7 +2,8 @@
 shortcode: pamjulofpatren
 name: {full: Pamjul of Patren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

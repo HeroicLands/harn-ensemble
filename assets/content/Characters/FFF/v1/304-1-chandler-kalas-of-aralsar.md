@@ -2,7 +2,8 @@
 shortcode: kalasofaralsar
 name: {full: Kalas of Aralsar, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3041tok
   templatePriority: 1

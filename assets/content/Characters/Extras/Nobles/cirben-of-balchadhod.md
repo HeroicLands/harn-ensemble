@@ -2,7 +2,8 @@
 shortcode: cirbenofbalchadhod
 name: {full: Cirben of Balchadhod, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

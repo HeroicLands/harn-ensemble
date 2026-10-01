@@ -2,7 +2,8 @@
 shortcode: melasrenier
 name: {full: Melas Renier, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1221tok
   templatePriority: 1

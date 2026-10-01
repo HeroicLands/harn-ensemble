@@ -2,7 +2,8 @@
 shortcode: yamapelofreimek
 name: {full: Yamapel of Reimek, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

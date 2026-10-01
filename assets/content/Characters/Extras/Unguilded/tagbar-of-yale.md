@@ -2,7 +2,8 @@
 shortcode: tagbarofyale
 name: {full: Tagbar of Yale, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

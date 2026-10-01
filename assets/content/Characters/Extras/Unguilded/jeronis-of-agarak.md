@@ -2,7 +2,8 @@
 shortcode: jeronisofagarak
 name: {full: Jeronis of Agarak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

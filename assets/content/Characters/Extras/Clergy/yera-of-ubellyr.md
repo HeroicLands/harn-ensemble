@@ -2,7 +2,8 @@
 shortcode: yeraofubellyr
 name: {full: Yera of Ubellyr, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

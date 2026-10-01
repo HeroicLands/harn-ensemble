@@ -2,7 +2,8 @@
 shortcode: mirisdrelican
 name: {full: Miris Drelican, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5991tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: dirofvantarstelbardin
 name: {full: Dir of Vantarstelbardin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

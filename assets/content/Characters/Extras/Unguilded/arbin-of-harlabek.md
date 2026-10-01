@@ -2,7 +2,8 @@
 shortcode: arbinofharlabek
 name: {full: Arbin of Harlabek, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

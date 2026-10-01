@@ -2,7 +2,8 @@
 shortcode: veteranjoragaofgrathin
 name: {full: Veteran Joraga of Grathin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

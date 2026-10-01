@@ -2,7 +2,8 @@
 shortcode: byrgaofchel
 name: {full: Byrga of Chel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

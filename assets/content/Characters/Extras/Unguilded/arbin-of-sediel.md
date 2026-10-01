@@ -2,7 +2,8 @@
 shortcode: arbinofsediel
 name: {full: Arbin of Sediel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: sylviaofstuk
 name: {full: Sylvia of Stuk, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: ardethaiofmerlesque
 name: {full: Ardethai of Merlesque, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: merelyneofobeldim
 name: {full: Merelyne of Obeldim, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

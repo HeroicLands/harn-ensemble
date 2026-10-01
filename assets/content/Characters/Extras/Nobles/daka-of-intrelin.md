@@ -2,7 +2,8 @@
 shortcode: dakaofintrelin
 name: {full: Daka of Intrelin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

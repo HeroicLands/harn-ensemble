@@ -2,7 +2,8 @@
 shortcode: ymarofaeb
 name: {full: Ymar of Aeb, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

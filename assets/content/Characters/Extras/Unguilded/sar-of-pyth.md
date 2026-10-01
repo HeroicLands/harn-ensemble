@@ -2,7 +2,8 @@
 shortcode: sarofpyth
 name: {full: Sar of Pyth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

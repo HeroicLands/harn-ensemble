@@ -2,7 +2,8 @@
 shortcode: herilofosanefris
 name: {full: Heril of Osanefris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

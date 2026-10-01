@@ -2,7 +2,8 @@
 shortcode: obrayzeloflund
 name: {full: Obrayzel of Lund, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

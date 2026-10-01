@@ -2,7 +2,8 @@
 shortcode: hervaofquirien
 name: {full: Herva of Quirien, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

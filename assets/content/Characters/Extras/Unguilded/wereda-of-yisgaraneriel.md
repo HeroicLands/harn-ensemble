@@ -2,7 +2,8 @@
 shortcode: weredaofyisgaraneriel
 name: {full: Wereda of Yisgaraneriel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

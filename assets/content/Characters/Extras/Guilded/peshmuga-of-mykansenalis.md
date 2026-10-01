@@ -2,7 +2,8 @@
 shortcode: peshmugaofmykansenalis
 name: {full: Peshmuga of Mykansenalis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

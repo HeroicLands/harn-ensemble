@@ -2,7 +2,8 @@
 shortcode: sorolanazirofsideth
 name: {full: Sorolanazir of Sideth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

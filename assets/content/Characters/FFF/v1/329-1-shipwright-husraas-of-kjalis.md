@@ -2,7 +2,8 @@
 shortcode: husraasofkjalis
 name: {full: Husraas of Kjalis, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3291tok
   templatePriority: 1

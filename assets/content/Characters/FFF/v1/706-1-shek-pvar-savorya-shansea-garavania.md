@@ -2,7 +2,8 @@
 shortcode: shanseagaravania
 name: {full: Shansea Garavania, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff7061tok
   templatePriority: 1

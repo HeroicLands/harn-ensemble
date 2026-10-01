@@ -2,7 +2,8 @@
 shortcode: sarofchelkuz
 name: {full: Sar of Chelkuz, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

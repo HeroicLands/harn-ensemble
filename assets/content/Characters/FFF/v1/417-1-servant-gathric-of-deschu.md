@@ -2,7 +2,8 @@
 shortcode: gathricofdeschu
 name: {full: Gathric of Deschu, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4171tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: klinaofvebelirky
 name: {full: Klina of Vebelirky, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3131tok
   templatePriority: 1

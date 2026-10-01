@@ -2,7 +2,8 @@
 shortcode: klarmofpyth
 name: {full: Klarm of Pyth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

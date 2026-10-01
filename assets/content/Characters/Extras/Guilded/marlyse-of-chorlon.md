@@ -2,7 +2,8 @@
 shortcode: marlyseofchorlon
 name: {full: Marlyse of Chorlon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

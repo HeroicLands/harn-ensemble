@@ -2,7 +2,8 @@
 shortcode: kirlinenofcharcaras
 name: {full: Kirlinen of Charcaras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

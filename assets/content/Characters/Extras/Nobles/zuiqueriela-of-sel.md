@@ -2,7 +2,8 @@
 shortcode: zuiquerielaofsel
 name: {full: Zuiqueriela of Sel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

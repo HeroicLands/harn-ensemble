@@ -2,7 +2,8 @@
 shortcode: yebinofmerbenalasane
 name: {full: Yebin of Merbenalasane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

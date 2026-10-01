@@ -2,7 +2,8 @@
 shortcode: danishemlenofarad
 name: {full: Danishemlen of Arad, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

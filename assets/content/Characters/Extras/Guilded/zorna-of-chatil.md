@@ -2,7 +2,8 @@
 shortcode: zornaofchatil
 name: {full: Zorna of Chatil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

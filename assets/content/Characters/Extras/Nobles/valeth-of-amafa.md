@@ -2,7 +2,8 @@
 shortcode: valethofamafa
 name: {full: Valeth of Amafa, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

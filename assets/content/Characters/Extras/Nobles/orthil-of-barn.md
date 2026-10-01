@@ -2,7 +2,8 @@
 shortcode: orthilofbarn
 name: {full: Orthil of Barn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

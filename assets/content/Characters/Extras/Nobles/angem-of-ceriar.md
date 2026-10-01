@@ -2,7 +2,8 @@
 shortcode: angemofceriar
 name: {full: Angem of Ceriar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

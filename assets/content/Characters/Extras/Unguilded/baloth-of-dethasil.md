@@ -2,7 +2,8 @@
 shortcode: balothofdethasil
 name: {full: Baloth of Dethasil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

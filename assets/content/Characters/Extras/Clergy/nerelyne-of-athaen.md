@@ -2,7 +2,8 @@
 shortcode: nerelyneofathaen
 name: {full: Nerelyne of Athaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

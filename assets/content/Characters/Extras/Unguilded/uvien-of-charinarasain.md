@@ -2,7 +2,8 @@
 shortcode: uvienofcharinarasain
 name: {full: Uvien of Charinarasain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

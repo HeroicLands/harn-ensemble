@@ -2,7 +2,8 @@
 shortcode: yagoofwulver
 name: {full: Yago of Wulver, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

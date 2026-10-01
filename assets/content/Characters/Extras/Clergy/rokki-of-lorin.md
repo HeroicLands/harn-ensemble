@@ -2,7 +2,8 @@
 shortcode: rokkioflorin
 name: {full: Rokki of Lorin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

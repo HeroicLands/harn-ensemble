@@ -2,7 +2,8 @@
 shortcode: veteranharofkramel
 name: {full: Veteran Har of Kramel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

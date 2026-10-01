@@ -2,7 +2,8 @@
 shortcode: hadyntrildsen
 name: {full: Hadyn Trildsen, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3251tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: brashainofekair
 name: {full: Brashain of Ekair, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

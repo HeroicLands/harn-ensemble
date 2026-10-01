@@ -2,7 +2,8 @@
 shortcode: dakaofoshon
 name: {full: Daka of Oshon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

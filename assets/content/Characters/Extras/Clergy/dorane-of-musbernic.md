@@ -2,7 +2,8 @@
 shortcode: doraneofmusbernic
 name: {full: Dorane of Musbernic, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

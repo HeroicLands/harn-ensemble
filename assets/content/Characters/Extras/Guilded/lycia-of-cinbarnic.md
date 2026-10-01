@@ -2,7 +2,8 @@
 shortcode: lyciaofcinbarnic
 name: {full: Lycia of Cinbarnic, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

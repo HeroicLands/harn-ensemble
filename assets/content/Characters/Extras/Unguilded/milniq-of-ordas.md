@@ -2,7 +2,8 @@
 shortcode: milniqofordas
 name: {full: Milniq of Ordas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

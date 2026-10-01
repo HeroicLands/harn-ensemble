@@ -2,7 +2,8 @@
 shortcode: cersyneoflumeden
 name: {full: Cersyne of Lumeden, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

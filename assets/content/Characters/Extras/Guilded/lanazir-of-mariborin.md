@@ -2,7 +2,8 @@
 shortcode: lanazirofmariborin
 name: {full: Lanazir of Mariborin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: marcandofthorlon
 name: {full: Marcand of Thorlon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

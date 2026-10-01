@@ -2,7 +2,8 @@
 shortcode: amdirveregofenamarthedherenamlugnarumuiben
 name: {full: Amdirvereg of Enamarthedherenamlugnarumuiben, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

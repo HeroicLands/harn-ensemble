@@ -2,7 +2,8 @@
 shortcode: urbainofchatil
 name: {full: Urbain of Chatil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

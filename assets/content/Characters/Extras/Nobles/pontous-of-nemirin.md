@@ -2,7 +2,8 @@
 shortcode: pontousofnemirin
 name: {full: Pontous of Nemirin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

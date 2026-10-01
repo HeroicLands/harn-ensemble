@@ -2,7 +2,8 @@
 shortcode: merenaofchariborskin
 name: {full: Merena of Chariborskin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

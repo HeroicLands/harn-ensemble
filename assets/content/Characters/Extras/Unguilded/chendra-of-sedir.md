@@ -2,7 +2,8 @@
 shortcode: chendraofsedir
 name: {full: Chendra of Sedir, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

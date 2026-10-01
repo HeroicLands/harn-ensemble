@@ -2,7 +2,8 @@
 shortcode: aldaneofsymdalin
 name: {full: Aldane of Symdalin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

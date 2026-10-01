@@ -2,7 +2,8 @@
 shortcode: llawaurtam
 name: {full: Llawaur Tam, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3242tok
   templatePriority: 1

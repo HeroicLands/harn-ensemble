@@ -2,7 +2,8 @@
 shortcode: taatulk
 name: {full: Taatulk, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff804bhead
   tokenIcon: fff804btok

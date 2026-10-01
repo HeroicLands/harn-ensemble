@@ -2,7 +2,8 @@
 shortcode: kalarostaofcybellyr
 name: {full: Kalarosta of Cybellyr, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

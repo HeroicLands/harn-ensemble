@@ -2,7 +2,8 @@
 shortcode: zuiquerilaofrollateriel
 name: {full: Zuiquerila of Rollateriel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

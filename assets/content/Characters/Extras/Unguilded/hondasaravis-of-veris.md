@@ -2,7 +2,8 @@
 shortcode: hondasaravisofveris
 name: {full: Hondasaravis of Veris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

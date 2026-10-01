@@ -2,7 +2,8 @@
 shortcode: sheoftobilon
 name: {full: She of Tobilon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

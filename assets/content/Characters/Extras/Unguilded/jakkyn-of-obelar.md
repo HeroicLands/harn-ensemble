@@ -2,7 +2,8 @@
 shortcode: jakkynofobelar
 name: {full: Jakkyn of Obelar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

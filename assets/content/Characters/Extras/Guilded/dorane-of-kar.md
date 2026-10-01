@@ -2,7 +2,8 @@
 shortcode: doraneofkar
 name: {full: Dorane of Kar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

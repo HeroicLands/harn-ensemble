@@ -2,7 +2,8 @@
 shortcode: captaingeldurofchariam
 name: {full: Captain Geldur of Chariam, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

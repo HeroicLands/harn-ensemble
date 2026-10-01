@@ -2,7 +2,8 @@
 shortcode: jakkynofburatheikak
 name: {full: Jakkyn of Buratheikak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

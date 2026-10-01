@@ -2,7 +2,8 @@
 shortcode: arkotofquirinsen
 name: {full: Arkot of Quirinsen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

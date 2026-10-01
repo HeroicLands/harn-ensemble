@@ -2,7 +2,8 @@
 shortcode: tamythofoshornic
 name: {full: Tamyth of Oshornic, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

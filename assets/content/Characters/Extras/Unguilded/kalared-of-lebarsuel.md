@@ -2,7 +2,8 @@
 shortcode: kalaredoflebarsuel
 name: {full: Kalared of Lebarsuel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

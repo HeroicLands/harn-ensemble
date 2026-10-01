@@ -2,7 +2,8 @@
 shortcode: charoforlon
 name: {full: Char of Orlon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

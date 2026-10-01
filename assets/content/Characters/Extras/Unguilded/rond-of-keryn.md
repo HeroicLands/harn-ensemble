@@ -2,7 +2,8 @@
 shortcode: rondofkeryn
 name: {full: Rond of Keryn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

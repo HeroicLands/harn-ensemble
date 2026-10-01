@@ -2,7 +2,8 @@
 shortcode: jessthiasofaweil
 name: {full: Jessthias of Aweil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

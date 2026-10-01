@@ -2,7 +2,8 @@
 shortcode: geitergautisson
 name: {full: Geiter Gautisson, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3103tok
   templatePriority: 1

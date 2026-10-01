@@ -2,7 +2,8 @@
 shortcode: drusaxofway
 name: {full: Drusax of Way, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

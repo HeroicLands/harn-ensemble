@@ -2,7 +2,8 @@
 shortcode: lirofaeb
 name: {full: Lir of Aeb, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

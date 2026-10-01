@@ -2,7 +2,8 @@
 shortcode: kuvelofewel
 name: {full: Kuvel of Ewel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

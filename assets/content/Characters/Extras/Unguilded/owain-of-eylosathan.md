@@ -2,7 +2,8 @@
 shortcode: owainofeylosathan
 name: {full: Owain of Eylosathan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

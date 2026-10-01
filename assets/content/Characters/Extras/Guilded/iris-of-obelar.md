@@ -2,7 +2,8 @@
 shortcode: irisofobelar
 name: {full: Iris of Obelar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

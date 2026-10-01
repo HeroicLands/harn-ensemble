@@ -2,7 +2,8 @@
 shortcode: julahofvaras
 name: {full: Julah of Varas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

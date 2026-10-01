@@ -2,7 +2,8 @@
 shortcode: telsaofashelya
 name: {full: Telsa of Ashelya, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

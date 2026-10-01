@@ -2,7 +2,8 @@
 shortcode: boraneofavordan
 name: {full: Borane of Avordan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

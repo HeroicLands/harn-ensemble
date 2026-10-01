@@ -2,7 +2,8 @@
 shortcode: perlineofkai
 name: {full: Perline of Kai, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

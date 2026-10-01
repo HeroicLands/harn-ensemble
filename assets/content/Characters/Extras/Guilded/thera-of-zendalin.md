@@ -2,7 +2,8 @@
 shortcode: theraofzendalin
 name: {full: Thera of Zendalin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: commandertarcandyoffraul
 name: {full: Commander Tarcandy of Fraul, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

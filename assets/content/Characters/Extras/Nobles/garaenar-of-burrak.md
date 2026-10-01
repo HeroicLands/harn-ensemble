@@ -2,7 +2,8 @@
 shortcode: garaenarofburrak
 name: {full: Garaenar of Burrak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

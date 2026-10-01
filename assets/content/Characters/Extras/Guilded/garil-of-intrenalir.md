@@ -2,7 +2,8 @@
 shortcode: garilofintrenalir
 name: {full: Garil of Intrenalir, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

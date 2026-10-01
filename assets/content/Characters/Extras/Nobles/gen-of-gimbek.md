@@ -2,7 +2,8 @@
 shortcode: genofgimbek
 name: {full: Gen of Gimbek, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: urlinofsarl
 name: {full: Urlin of Sarl, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: captainteldaofyisgarad
 name: {full: Captain Telda of Yisgarad, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

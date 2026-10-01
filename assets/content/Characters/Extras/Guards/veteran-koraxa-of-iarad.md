@@ -2,7 +2,8 @@
 shortcode: veterankoraxaofiarad
 name: {full: Veteran Koraxa of Iarad, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

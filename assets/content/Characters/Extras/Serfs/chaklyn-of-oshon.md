@@ -2,7 +2,8 @@
 shortcode: chaklynofoshon
 name: {full: Chaklyn of Oshon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

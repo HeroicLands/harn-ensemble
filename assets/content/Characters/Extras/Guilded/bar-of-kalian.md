@@ -2,7 +2,8 @@
 shortcode: barofkalian
 name: {full: Bar of Kalian, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: varbinofbor
 name: {full: Varbin of Bor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

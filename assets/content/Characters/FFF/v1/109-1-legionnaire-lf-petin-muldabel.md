@@ -2,7 +2,8 @@
 shortcode: petinmuldabel
 name: {full: Petin Muldabel, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1091tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: saiofclean
 name: {full: Sai of Clean, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

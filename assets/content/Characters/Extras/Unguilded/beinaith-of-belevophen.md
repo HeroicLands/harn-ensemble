@@ -2,7 +2,8 @@
 shortcode: beinaithofbelevophen
 name: {full: Beinaith of Belevophen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

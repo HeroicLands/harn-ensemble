@@ -2,7 +2,8 @@
 shortcode: edlinofhonnusk
 name: {full: Edlin of Honnusk, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3051tok
   templatePriority: 1

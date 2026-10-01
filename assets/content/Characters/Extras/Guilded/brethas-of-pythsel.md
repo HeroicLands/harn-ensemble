@@ -2,7 +2,8 @@
 shortcode: brethasofpythsel
 name: {full: Brethas of Pythsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: cholaynofwythsena
 name: {full: Cholayn of Wythsena, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

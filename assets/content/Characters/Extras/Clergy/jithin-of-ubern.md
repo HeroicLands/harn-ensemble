@@ -2,7 +2,8 @@
 shortcode: jithinofubern
 name: {full: Jithin of Ubern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

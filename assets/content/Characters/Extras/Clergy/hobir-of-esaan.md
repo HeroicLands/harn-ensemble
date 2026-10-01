@@ -2,7 +2,8 @@
 shortcode: hobirofesaan
 name: {full: Hobir of Esaan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

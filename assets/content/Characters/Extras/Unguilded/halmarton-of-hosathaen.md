@@ -2,7 +2,8 @@
 shortcode: halmartonofhosathaen
 name: {full: Halmarton of Hosathaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

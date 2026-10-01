@@ -2,7 +2,8 @@
 shortcode: urbainofsprythsen
 name: {full: Urbain of Sprythsen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

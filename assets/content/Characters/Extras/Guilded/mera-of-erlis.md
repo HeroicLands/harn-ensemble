@@ -2,7 +2,8 @@
 shortcode: meraoferlis
 name: {full: Mera of Erlis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

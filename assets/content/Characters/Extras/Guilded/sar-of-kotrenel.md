@@ -2,7 +2,8 @@
 shortcode: sarofkotrenel
 name: {full: Sar of Kotrenel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: belofhilrich
 name: {full: Bel of Hilrich, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: perlineofnaras
 name: {full: Perline of Naras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

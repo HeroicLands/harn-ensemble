@@ -2,7 +2,8 @@
 shortcode: gyandofpenda
 name: {full: Gyand of Penda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

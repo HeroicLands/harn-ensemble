@@ -2,7 +2,8 @@
 shortcode: habinofele
 name: {full: Habin of Ele, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

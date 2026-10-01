@@ -2,7 +2,8 @@
 shortcode: veterannorbinofmarbenalin
 name: {full: Veteran Norbin of Marbenalin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

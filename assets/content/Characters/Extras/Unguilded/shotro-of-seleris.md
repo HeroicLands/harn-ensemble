@@ -2,7 +2,8 @@
 shortcode: shotroofseleris
 name: {full: Shotro of Seleris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

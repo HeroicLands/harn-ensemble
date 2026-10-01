@@ -2,7 +2,8 @@
 shortcode: lusilenaofele
 name: {full: Lusilena of Ele, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

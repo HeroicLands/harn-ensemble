@@ -2,7 +2,8 @@
 shortcode: sweyofbaelams
 name: {full: Swey of Baelams, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4102tok
   templatePriority: 1

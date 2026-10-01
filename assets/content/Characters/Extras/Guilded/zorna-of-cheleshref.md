@@ -2,7 +2,8 @@
 shortcode: zornaofcheleshref
 name: {full: Zorna of Cheleshref, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

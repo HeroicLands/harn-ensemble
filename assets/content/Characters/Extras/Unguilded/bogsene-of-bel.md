@@ -2,7 +2,8 @@
 shortcode: bogseneofbel
 name: {full: Bogsene of Bel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

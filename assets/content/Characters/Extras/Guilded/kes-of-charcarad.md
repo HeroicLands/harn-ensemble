@@ -2,7 +2,8 @@
 shortcode: kesofcharcarad
 name: {full: Kes of Charcarad, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

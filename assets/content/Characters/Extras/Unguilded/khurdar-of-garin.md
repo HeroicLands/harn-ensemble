@@ -2,7 +2,8 @@
 shortcode: khurdarofgarin
 name: {full: Khurdar of Garin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

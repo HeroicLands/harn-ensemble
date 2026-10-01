@@ -2,7 +2,8 @@
 shortcode: lernofelwen
 name: {full: Lern of Elwen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

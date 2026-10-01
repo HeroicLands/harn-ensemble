@@ -2,7 +2,8 @@
 shortcode: marwinoftobira
 name: {full: Marwin of Tobira, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

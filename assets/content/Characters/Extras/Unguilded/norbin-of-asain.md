@@ -2,7 +2,8 @@
 shortcode: norbinofasain
 name: {full: Norbin of Asain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

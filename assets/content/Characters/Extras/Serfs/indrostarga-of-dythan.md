@@ -2,7 +2,8 @@
 shortcode: indrostargaofdythan
 name: {full: Indrostarga of Dythan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

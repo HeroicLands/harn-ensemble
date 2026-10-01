@@ -2,7 +2,8 @@
 shortcode: dakaoforlyme
 name: {full: Daka of Orlyme, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

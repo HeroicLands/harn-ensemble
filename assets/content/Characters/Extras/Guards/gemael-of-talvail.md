@@ -2,7 +2,8 @@
 shortcode: gemaeloftalvail
 name: {full: Gemael of Talvail, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

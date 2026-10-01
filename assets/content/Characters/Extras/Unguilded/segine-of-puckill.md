@@ -2,7 +2,8 @@
 shortcode: segineofpuckill
 name: {full: Segine of Puckill, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: jesanofdulkne
 name: {full: Jesan of Dulkne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

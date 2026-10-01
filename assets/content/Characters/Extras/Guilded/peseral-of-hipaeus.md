@@ -2,7 +2,8 @@
 shortcode: peseralofhipaeus
 name: {full: Peseral of Hipaeus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

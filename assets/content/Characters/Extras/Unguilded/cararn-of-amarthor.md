@@ -2,7 +2,8 @@
 shortcode: cararnofamarthor
 name: {full: Cararn of Amarthor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

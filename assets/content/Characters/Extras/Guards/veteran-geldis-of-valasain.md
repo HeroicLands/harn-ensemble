@@ -2,7 +2,8 @@
 shortcode: veterangeldisofvalasain
 name: {full: Veteran Geldis of Valasain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: andelgebar
 name: {full: Andel Gebar, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5101tok
   templatePriority: 1

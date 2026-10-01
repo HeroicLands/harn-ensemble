@@ -2,7 +2,8 @@
 shortcode: pelinaofparthes
 name: {full: Pelina of Parthes, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: ancofamarthaglareb
 name: {full: Anc of Amarthaglareb, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

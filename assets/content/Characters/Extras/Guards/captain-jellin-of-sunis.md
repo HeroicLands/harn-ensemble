@@ -2,7 +2,8 @@
 shortcode: captainjellinofsunis
 name: {full: Captain Jellin of Sunis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

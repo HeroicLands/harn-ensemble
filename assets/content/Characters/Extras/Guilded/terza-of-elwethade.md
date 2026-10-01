@@ -2,7 +2,8 @@
 shortcode: terzaofelwethade
 name: {full: Terza of Elwethade, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

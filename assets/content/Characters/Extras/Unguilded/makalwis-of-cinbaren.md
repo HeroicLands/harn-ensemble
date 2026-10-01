@@ -2,7 +2,8 @@
 shortcode: makalwisofcinbaren
 name: {full: Makalwis of Cinbaren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

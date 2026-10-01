@@ -2,7 +2,8 @@
 shortcode: borsofhalle
 name: {full: Bors of Halle, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3311tok
   templatePriority: 1

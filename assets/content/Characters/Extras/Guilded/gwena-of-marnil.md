@@ -2,7 +2,8 @@
 shortcode: gwenaofmarnil
 name: {full: Gwena of Marnil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

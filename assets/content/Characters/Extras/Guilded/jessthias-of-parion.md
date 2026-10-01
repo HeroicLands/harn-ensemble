@@ -2,7 +2,8 @@
 shortcode: jessthiasofparion
 name: {full: Jessthias of Parion, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: marcandyoftich
 name: {full: Marcandy of Tich, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

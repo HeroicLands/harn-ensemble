@@ -2,7 +2,8 @@
 shortcode: jarlamofyaleshref
 name: {full: Jarlam of Yaleshref, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: itisofhaclern
 name: {full: Itis of Haclern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

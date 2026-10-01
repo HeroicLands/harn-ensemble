@@ -2,7 +2,8 @@
 shortcode: cellamathorofarophen
 name: {full: Cellamathor of Arophen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: tagbaroftombine
 name: {full: Tagbar of Tombine, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: chaklyneoflebarsin
 name: {full: Chaklyne of Lebarsin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

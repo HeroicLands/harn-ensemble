@@ -2,7 +2,8 @@
 shortcode: arthalofceriar
 name: {full: Arthal of Ceriar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

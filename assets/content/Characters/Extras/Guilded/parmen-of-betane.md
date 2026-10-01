@@ -2,7 +2,8 @@
 shortcode: parmenofbetane
 name: {full: Parmen of Betane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

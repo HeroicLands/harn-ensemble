@@ -2,7 +2,8 @@
 shortcode: arienofarda
 name: {full: Arien of Arda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

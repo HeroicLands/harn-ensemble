@@ -2,7 +2,8 @@
 shortcode: kaiofeverik
 name: {full: Kai of Everik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

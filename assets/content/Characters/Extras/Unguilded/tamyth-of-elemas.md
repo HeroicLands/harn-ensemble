@@ -2,7 +2,8 @@
 shortcode: tamythofelemas
 name: {full: Tamyth of Elemas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

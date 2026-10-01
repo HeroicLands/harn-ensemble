@@ -2,7 +2,8 @@
 shortcode: heralofvarael
 name: {full: Heral of Varael, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

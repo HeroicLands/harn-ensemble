@@ -2,7 +2,8 @@
 shortcode: gorsineofnalin
 name: {full: Gorsine of Nalin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

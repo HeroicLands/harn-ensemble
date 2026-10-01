@@ -2,7 +2,8 @@
 shortcode: derbis
 name: {full: Derbis, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff8991tok
   gender: male

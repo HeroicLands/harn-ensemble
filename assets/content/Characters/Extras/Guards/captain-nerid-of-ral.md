@@ -2,7 +2,8 @@
 shortcode: captainneridofral
 name: {full: Captain Nerid of Ral, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

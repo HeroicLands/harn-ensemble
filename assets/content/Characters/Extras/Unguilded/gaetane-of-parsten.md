@@ -2,7 +2,8 @@
 shortcode: gaetaneofparsten
 name: {full: Gaetane of Parsten, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

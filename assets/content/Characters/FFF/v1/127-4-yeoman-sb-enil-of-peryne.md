@@ -2,7 +2,8 @@
 shortcode: enilofperyne
 name: {full: Enil of Peryne, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1274tok
   templatePriority: 1

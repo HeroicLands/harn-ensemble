@@ -2,7 +2,8 @@
 shortcode: obiriaoflunen
 name: {full: Obiria of Lunen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

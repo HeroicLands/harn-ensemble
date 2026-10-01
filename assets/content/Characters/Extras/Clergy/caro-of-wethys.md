@@ -2,7 +2,8 @@
 shortcode: caroofwethys
 name: {full: Caro of Wethys, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

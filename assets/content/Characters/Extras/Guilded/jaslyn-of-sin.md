@@ -2,7 +2,8 @@
 shortcode: jaslynofsin
 name: {full: Jaslyn of Sin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

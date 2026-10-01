@@ -2,7 +2,8 @@
 shortcode: boraneofbrid
 name: {full: Borane of Brid, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

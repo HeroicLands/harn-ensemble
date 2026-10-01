@@ -2,7 +2,8 @@
 shortcode: kirillofvetus
 name: {full: Kirill of Vetus, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff7071tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: urlockoflunen
 name: {full: Urlock of Lunen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

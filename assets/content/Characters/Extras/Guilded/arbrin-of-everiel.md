@@ -2,7 +2,8 @@
 shortcode: arbrinofeveriel
 name: {full: Arbrin of Everiel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

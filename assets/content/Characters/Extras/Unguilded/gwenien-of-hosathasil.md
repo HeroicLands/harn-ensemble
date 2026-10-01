@@ -2,7 +2,8 @@
 shortcode: gwenienofhosathasil
 name: {full: Gwenien of Hosathasil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

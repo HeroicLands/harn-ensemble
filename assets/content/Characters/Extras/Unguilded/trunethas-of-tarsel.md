@@ -2,7 +2,8 @@
 shortcode: trunethasoftarsel
 name: {full: Trunethas of Tarsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

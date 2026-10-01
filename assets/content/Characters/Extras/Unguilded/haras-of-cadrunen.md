@@ -2,7 +2,8 @@
 shortcode: harasofcadrunen
 name: {full: Haras of Cadrunen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: mereryofartus
 name: {full: Merery of Artus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

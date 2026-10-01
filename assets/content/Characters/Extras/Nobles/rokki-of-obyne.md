@@ -2,7 +2,8 @@
 shortcode: rokkiofobyne
 name: {full: Rokki of Obyne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

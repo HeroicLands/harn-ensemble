@@ -2,7 +2,8 @@
 shortcode: geldaofkare
 name: {full: Gelda of Kare, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

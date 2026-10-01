@@ -2,7 +2,8 @@
 shortcode: korilkalymsenaemon
 name: {full: Koril Kalymsen Aemon, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3181tok
   templatePriority: 1

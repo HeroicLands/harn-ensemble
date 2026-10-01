@@ -2,7 +2,8 @@
 shortcode: bartonofgelram
 name: {full: Barton of Gelram, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3121tok
   templatePriority: 1

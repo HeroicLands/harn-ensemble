@@ -2,7 +2,8 @@
 shortcode: murlockofnar
 name: {full: Murlock of Nar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

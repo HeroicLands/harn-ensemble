@@ -2,7 +2,8 @@
 shortcode: mardethofewen
 name: {full: Mardeth of Ewen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

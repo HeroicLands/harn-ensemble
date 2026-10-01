@@ -2,7 +2,8 @@
 shortcode: jorantofcrane
 name: {full: Jorant of Crane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

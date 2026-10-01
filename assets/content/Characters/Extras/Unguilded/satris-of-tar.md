@@ -2,7 +2,8 @@
 shortcode: satrisoftar
 name: {full: Satris of Tar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

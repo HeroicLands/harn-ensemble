@@ -2,7 +2,8 @@
 shortcode: hermasofgevraen
 name: {full: Hermas of Gevraen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

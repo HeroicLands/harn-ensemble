@@ -2,7 +2,8 @@
 shortcode: jehanofasain
 name: {full: Jehan of Asain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

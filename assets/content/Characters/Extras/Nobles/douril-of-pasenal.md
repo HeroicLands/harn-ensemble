@@ -2,7 +2,8 @@
 shortcode: dourilofpasenal
 name: {full: Douril of Pasenal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

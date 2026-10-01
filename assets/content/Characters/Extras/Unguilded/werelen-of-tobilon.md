@@ -2,7 +2,8 @@
 shortcode: werelenoftobilon
 name: {full: Werelen of Tobilon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

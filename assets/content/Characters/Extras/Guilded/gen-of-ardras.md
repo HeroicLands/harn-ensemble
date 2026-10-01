@@ -2,7 +2,8 @@
 shortcode: genofardras
 name: {full: Gen of Ardras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

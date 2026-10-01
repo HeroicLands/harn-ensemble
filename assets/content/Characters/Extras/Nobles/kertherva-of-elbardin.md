@@ -2,7 +2,8 @@
 shortcode: kerthervaofelbardin
 name: {full: Kertherva of Elbardin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

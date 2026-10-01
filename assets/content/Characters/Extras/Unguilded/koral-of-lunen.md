@@ -2,7 +2,8 @@
 shortcode: koraloflunen
 name: {full: Koral of Lunen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

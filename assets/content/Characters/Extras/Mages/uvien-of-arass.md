@@ -2,7 +2,8 @@
 shortcode: uvienofarass
 name: {full: Uvien of Arass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: halimeofyisgaras
 name: {full: Halime of Yisgaras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

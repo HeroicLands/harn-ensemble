@@ -2,7 +2,8 @@
 shortcode: korakofkramelvoen
 name: {full: Korak of Kramelvoen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

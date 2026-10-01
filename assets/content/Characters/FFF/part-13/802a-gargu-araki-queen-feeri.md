@@ -2,7 +2,8 @@
 shortcode: feeri
 name: {full: Feeri, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff802ahead
   tokenIcon: fff802atok

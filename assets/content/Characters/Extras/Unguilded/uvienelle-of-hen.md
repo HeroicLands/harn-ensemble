@@ -2,7 +2,8 @@
 shortcode: uvienelleofhen
 name: {full: Uvienelle of Hen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

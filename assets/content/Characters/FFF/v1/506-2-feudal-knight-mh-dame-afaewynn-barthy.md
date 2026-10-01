@@ -2,7 +2,8 @@
 shortcode: dameafaewynnbarthy
 name: {full: Dame Afaewynn Barthy, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5062tok
   templatePriority: 1

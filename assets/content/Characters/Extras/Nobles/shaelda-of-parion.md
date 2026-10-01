@@ -2,7 +2,8 @@
 shortcode: shaeldaofparion
 name: {full: Shaelda of Parion, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

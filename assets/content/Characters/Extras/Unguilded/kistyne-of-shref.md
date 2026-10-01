@@ -2,7 +2,8 @@
 shortcode: kistyneofshref
 name: {full: Kistyne of Shref, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

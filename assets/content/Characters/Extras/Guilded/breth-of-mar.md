@@ -2,7 +2,8 @@
 shortcode: brethofmar
 name: {full: Breth of Mar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

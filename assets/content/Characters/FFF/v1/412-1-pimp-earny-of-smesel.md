@@ -2,7 +2,8 @@
 shortcode: earnyofsmesel
 name: {full: Earny of Smesel, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4121tok
   templatePriority: 1

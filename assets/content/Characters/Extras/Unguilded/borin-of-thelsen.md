@@ -2,7 +2,8 @@
 shortcode: borinofthelsen
 name: {full: Borin of Thelsen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

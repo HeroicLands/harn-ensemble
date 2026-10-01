@@ -2,7 +2,8 @@
 shortcode: rybinofstiem
 name: {full: Rybin of Stiem, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

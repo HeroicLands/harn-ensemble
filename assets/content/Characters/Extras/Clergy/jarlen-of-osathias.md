@@ -2,7 +2,8 @@
 shortcode: jarlenofosathias
 name: {full: Jarlen of Osathias, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

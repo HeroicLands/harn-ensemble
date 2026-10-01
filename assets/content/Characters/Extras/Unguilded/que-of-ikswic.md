@@ -2,7 +2,8 @@
 shortcode: queofikswic
 name: {full: Que of Ikswic, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

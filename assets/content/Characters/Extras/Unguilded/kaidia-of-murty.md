@@ -2,7 +2,8 @@
 shortcode: kaidiaofmurty
 name: {full: Kaidia of Murty, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

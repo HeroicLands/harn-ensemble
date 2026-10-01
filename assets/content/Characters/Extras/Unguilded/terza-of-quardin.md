@@ -2,7 +2,8 @@
 shortcode: terzaofquardin
 name: {full: Terza of Quardin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

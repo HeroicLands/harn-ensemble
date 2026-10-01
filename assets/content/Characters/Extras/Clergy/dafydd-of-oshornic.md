@@ -2,7 +2,8 @@
 shortcode: dafyddofoshornic
 name: {full: Dafydd of Oshornic, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

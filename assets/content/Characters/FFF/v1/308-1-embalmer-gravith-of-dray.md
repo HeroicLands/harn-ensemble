@@ -2,7 +2,8 @@
 shortcode: gravithofdray
 name: {full: Gravith of Dray, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3081tok
   templatePriority: 1

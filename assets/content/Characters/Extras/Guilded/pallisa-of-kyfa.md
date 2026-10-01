@@ -2,7 +2,8 @@
 shortcode: pallisaofkyfa
 name: {full: Pallisa of Kyfa, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: sirsamuelofzoben
 name: {full: Sir Samuel of Zoben, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5072tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: hondofane
 name: {full: Hond of Ane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

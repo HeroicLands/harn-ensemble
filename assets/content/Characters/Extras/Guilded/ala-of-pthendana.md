@@ -2,7 +2,8 @@
 shortcode: alaofpthendana
 name: {full: Ala of Pthendana, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

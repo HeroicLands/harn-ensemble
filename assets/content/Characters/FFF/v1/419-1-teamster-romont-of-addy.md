@@ -2,7 +2,8 @@
 shortcode: romontofaddy
 name: {full: Romont of Addy, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4191tok
   templatePriority: 1

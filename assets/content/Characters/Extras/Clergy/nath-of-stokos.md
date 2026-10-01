@@ -2,7 +2,8 @@
 shortcode: nathofstokos
 name: {full: Nath of Stokos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

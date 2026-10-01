@@ -2,7 +2,8 @@
 shortcode: eradashaiofborin
 name: {full: Eradashai of Borin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

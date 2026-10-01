@@ -2,7 +2,8 @@
 shortcode: maeghelimeofclean
 name: {full: Maeghelime of Clean, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

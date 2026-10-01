@@ -2,7 +2,8 @@
 shortcode: marlyseofsar
 name: {full: Marlyse of Sar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: erelaofsethade
 name: {full: Erela of Sethade, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

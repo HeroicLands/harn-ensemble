@@ -2,7 +2,8 @@
 shortcode: rackneoffartek
 name: {full: Rackne of Fartek, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

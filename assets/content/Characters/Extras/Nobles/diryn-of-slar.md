@@ -2,7 +2,8 @@
 shortcode: dirynofslar
 name: {full: Diryn of Slar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

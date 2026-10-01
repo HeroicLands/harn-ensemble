@@ -2,7 +2,8 @@
 shortcode: zirshathglarzul
 name: {full: Zirshath Glarzul, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1081tok
   templatePriority: 1

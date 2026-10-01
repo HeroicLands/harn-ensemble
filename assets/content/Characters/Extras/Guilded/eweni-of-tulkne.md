@@ -2,7 +2,8 @@
 shortcode: ewenioftulkne
 name: {full: Eweni of Tulkne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

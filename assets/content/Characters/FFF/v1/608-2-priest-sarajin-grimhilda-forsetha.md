@@ -2,7 +2,8 @@
 shortcode: grimhildaforsetha
 name: {full: Grimhilda Forsetha, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6082tok
   templatePriority: 1

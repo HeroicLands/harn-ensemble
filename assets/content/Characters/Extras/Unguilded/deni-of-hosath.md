@@ -2,7 +2,8 @@
 shortcode: deniofhosath
 name: {full: Deni of Hosath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

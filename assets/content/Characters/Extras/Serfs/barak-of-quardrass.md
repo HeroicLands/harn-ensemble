@@ -2,7 +2,8 @@
 shortcode: barakofquardrass
 name: {full: Barak of Quardrass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

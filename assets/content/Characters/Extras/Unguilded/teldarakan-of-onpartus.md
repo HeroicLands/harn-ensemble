@@ -2,7 +2,8 @@
 shortcode: teldarakanofonpartus
 name: {full: Teldarakan of Onpartus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

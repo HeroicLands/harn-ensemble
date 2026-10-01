@@ -2,7 +2,8 @@
 shortcode: margum
 name: {full: Margum, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff801ahead
   tokenIcon: fff801atok

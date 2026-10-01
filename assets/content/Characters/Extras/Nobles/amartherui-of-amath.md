@@ -2,7 +2,8 @@
 shortcode: amartheruiofamath
 name: {full: Amartherui of Amath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

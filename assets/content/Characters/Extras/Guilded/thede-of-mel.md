@@ -2,7 +2,8 @@
 shortcode: thedeofmel
 name: {full: Thede of Mel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

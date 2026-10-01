@@ -2,7 +2,8 @@
 shortcode: shaelasarofchomerros
 name: {full: Shaelasar of Chomerros, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: urlinofveriel
 name: {full: Urlin of Veriel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

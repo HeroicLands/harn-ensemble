@@ -2,7 +2,8 @@
 shortcode: forenaofporda
 name: {full: Forena of Porda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

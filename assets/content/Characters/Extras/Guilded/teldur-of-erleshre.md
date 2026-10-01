@@ -2,7 +2,8 @@
 shortcode: telduroferleshre
 name: {full: Teldur of Erleshre, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: artonaofmusbern
 name: {full: Artona of Musbern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

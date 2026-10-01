@@ -2,7 +2,8 @@
 shortcode: kaldisofpartuna
 name: {full: Kaldis of Partuna, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

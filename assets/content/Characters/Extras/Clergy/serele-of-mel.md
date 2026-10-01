@@ -2,7 +2,8 @@
 shortcode: sereleofmel
 name: {full: Serele of Mel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

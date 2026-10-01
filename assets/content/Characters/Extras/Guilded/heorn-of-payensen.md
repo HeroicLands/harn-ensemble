@@ -2,7 +2,8 @@
 shortcode: heornofpayensen
 name: {full: Heorn of Payensen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: ylina
 name: {full: Ylina, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1241tok
   templatePriority: 1

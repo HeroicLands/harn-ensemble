@@ -2,7 +2,8 @@
 shortcode: orthiasofparsin
 name: {full: Orthias of Parsin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

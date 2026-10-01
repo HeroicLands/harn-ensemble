@@ -2,7 +2,8 @@
 shortcode: tersisofharass
 name: {full: Tersis of Harass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

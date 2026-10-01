@@ -2,7 +2,8 @@
 shortcode: ithofintrenel
 name: {full: Ith of Intrenel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

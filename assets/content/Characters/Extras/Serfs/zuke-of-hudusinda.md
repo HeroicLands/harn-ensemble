@@ -2,7 +2,8 @@
 shortcode: zukeofhudusinda
 name: {full: Zuke of Hudusinda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

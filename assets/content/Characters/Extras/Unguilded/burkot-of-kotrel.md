@@ -2,7 +2,8 @@
 shortcode: burkotofkotrel
 name: {full: Burkot of Kotrel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

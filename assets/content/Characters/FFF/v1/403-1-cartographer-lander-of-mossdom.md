@@ -2,7 +2,8 @@
 shortcode: landerofmossdom
 name: {full: Lander of Mossdom, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4031tok
   templatePriority: 1

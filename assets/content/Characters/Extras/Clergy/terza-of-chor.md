@@ -2,7 +2,8 @@
 shortcode: terzaofchor
 name: {full: Terza of Chor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

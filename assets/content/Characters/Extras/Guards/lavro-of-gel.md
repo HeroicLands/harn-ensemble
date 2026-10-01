@@ -2,7 +2,8 @@
 shortcode: lavroofgel
 name: {full: Lavro of Gel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

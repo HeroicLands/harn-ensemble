@@ -2,7 +2,8 @@
 shortcode: uldisharand
 name: {full: Uldis Harand, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5042tok
   templatePriority: 1

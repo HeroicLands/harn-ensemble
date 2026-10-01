@@ -2,7 +2,8 @@
 shortcode: heornofesarlin
 name: {full: Heorn of Esarlin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

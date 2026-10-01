@@ -2,7 +2,8 @@
 shortcode: jakanoferlyme
 name: {full: Jakan of Erlyme, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

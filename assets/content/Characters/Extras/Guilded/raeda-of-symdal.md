@@ -2,7 +2,8 @@
 shortcode: raedaofsymdal
 name: {full: Raeda of Symdal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

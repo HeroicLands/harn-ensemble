@@ -2,7 +2,8 @@
 shortcode: sheofgwen
 name: {full: She of Gwen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

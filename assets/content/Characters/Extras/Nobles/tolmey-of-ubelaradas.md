@@ -2,7 +2,8 @@
 shortcode: tolmeyofubelaradas
 name: {full: Tolmey of Ubelaradas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: inrandyofburitta
 name: {full: Inrandy of Buritta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

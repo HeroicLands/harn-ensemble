@@ -2,7 +2,8 @@
 shortcode: crolazofyisgaras
 name: {full: Crolaz of Yisgaras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: merwasofwethendel
 name: {full: Merwas of Wethendel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

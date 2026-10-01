@@ -2,7 +2,8 @@
 shortcode: raenarofordas
 name: {full: Raenar of Ordas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

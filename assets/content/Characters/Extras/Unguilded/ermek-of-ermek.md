@@ -2,7 +2,8 @@
 shortcode: ermekofermek
 name: {full: Ermek of Ermek, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

@@ -2,7 +2,8 @@
 shortcode: habinoftabralgurty
 name: {full: Habin of Tabralgurty, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

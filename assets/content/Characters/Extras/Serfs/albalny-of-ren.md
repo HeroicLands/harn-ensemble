@@ -2,7 +2,8 @@
 shortcode: albalnyofren
 name: {full: Albalny of Ren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

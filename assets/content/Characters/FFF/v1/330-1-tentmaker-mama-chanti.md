@@ -2,7 +2,8 @@
 shortcode: mamachanti
 name: {full: Mama Chanti, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3301tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: ursisofhylin
 name: {full: Ursis of Hylin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

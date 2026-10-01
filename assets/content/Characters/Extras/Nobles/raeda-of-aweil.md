@@ -2,7 +2,8 @@
 shortcode: raedaofaweil
 name: {full: Raeda of Aweil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

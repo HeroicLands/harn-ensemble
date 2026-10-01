@@ -2,7 +2,8 @@
 shortcode: merelynofpaseraleh
 name: {full: Merelyn of Paseraleh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

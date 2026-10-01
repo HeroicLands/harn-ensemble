@@ -2,7 +2,8 @@
 shortcode: heornofcuro
 name: {full: Heorn of Curo, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

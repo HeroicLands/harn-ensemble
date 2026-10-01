@@ -2,7 +2,8 @@
 shortcode: bashofashels
 name: {full: Bash of Ashels, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: zanekofdomerros
 name: {full: Zanek of Domerros, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

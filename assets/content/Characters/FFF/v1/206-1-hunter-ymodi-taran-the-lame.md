@@ -2,7 +2,8 @@
 shortcode: taranthelame
 name: {full: Taran the Lame, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff2061tok
   templatePriority: 1

@@ -2,7 +2,8 @@
 shortcode: amdirofastor
 name: {full: Amdir of Astor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

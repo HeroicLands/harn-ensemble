@@ -2,7 +2,8 @@
 shortcode: lysatrisofquiriel
 name: {full: Lysatris of Quiriel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

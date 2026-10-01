@@ -2,7 +2,8 @@
 shortcode: gwelenaofdaroos
 name: {full: Gwelena of Daroos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

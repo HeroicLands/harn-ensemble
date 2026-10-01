@@ -2,7 +2,8 @@
 shortcode: veteranjehanoffulkair
 name: {full: Veteran Jehan of Fulkair, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

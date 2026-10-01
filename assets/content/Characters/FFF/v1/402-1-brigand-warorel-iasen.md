@@ -2,7 +2,8 @@
 shortcode: waroreliasen
 name: {full: Warorel Iasen, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4021tok
   templatePriority: 1

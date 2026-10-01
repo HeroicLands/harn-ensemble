@@ -2,7 +2,8 @@
 shortcode: wyrinofvarross
 name: {full: Wyrin of Varross, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1275tok
   templatePriority: 1

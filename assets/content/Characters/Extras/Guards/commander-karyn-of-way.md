@@ -2,7 +2,8 @@
 shortcode: commanderkarynofway
 name: {full: Commander Karyn of Way, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: veteranobrantofalwen
 name: {full: Veteran Obrant of Alwen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

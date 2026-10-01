@@ -2,7 +2,8 @@
 shortcode: cersyneofjurbosq
 name: {full: Cersyne of Jurbosq, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

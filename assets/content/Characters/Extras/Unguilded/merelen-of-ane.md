@@ -2,7 +2,8 @@
 shortcode: merelenofane
 name: {full: Merelen of Ane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

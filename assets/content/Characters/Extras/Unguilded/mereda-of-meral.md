@@ -2,7 +2,8 @@
 shortcode: meredaofmeral
 name: {full: Mereda of Meral, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

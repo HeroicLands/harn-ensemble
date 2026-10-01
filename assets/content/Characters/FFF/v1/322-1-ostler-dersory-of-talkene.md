@@ -2,7 +2,8 @@
 shortcode: dersoryoftalkene
 name: {full: Dersory of Talkene, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3221tok
   templatePriority: 1

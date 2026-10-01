@@ -2,7 +2,8 @@
 shortcode: parmenoftich
 name: {full: Parmen of Tich, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: evenodelareenofjurbosq
 name: {full: Evenodelareen of Jurbosq, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: doranaofgel
 name: {full: Dorana of Gel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

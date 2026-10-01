@@ -2,7 +2,8 @@
 shortcode: silasartonofjaesinda
 name: {full: Silasarton of Jaesinda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

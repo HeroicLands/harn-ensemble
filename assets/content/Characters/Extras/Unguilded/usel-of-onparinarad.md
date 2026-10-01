@@ -2,7 +2,8 @@
 shortcode: uselofonparinarad
 name: {full: Usel of Onparinarad, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

@@ -2,7 +2,8 @@
 shortcode: drogor
 name: {full: Drogor, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff801chead
   tokenIcon: fff801ctok

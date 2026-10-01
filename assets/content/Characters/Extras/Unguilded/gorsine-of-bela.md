@@ -2,7 +2,8 @@
 shortcode: gorsineofbela
 name: {full: Gorsine of Bela, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: female

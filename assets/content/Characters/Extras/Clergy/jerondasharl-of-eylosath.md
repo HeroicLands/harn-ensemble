@@ -2,7 +2,8 @@
 shortcode: jerondasharlofeylosath
 name: {full: Jerondasharl of Eylosath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male

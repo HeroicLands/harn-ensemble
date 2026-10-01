@@ -2,7 +2,8 @@
 shortcode: karynoffraul
 name: {full: Karyn of Fraul, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
   gender: male
