@@ -165,6 +165,12 @@ sohl:
     - model: sohl-sohl-skill-lang
       name: "Language: Jarinese (Hodiri)"
       system: {masteryLevelBase: 47}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese (Pagaelin)"
+      system: {shortcode: languagejarinesepagaelin, masteryLevelBase: 56}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese (Bujoc)"
+      system: {shortcode: languagejarinesebujoc, masteryLevelBase: 68}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 98}}
     - {model: sohl-sohl-weapongear-Clb}

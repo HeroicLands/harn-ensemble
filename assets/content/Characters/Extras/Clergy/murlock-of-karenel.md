@@ -187,7 +187,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 76}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Ivashi)
+      system: {shortcode: languageivashi, masteryLevelBase: 52}
+    - model: sohl-sohl-skill-lang
+      name: Language(Old Jarinese)
+      system: {shortcode: languageoldjarinese, masteryLevelBase: 91}
     - {model: sohl-sohl-skill-script, name: Script(Lakaise), system: {masteryLevelBase: 83}}
+    - model: sohl-sohl-skill-script
+      name: Script(Khruni)
+      system: {shortcode: scriptkhruni, masteryLevelBase: 109}
     - {model: sohl-sohl-skill-anmcft, name: Ivashu (Animalcraft), system: {masteryLevelBase: 98}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 28}}

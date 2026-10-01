@@ -216,7 +216,40 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Sindarin", system: {masteryLevelBase: 17}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Emela"
+      system: {shortcode: languageemela, masteryLevelBase: 94}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 79}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Trierzi"
+      system: {shortcode: languagetrierzi, masteryLevelBase: 66}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Byrian"
+      system: {shortcode: languagebyrian, masteryLevelBase: 37}
+    - model: sohl-sohl-skill-lang
+      name: "Language: High Azeryani"
+      system: {shortcode: languagehighazeryani, masteryLevelBase: 36}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Azeri"
+      system: {shortcode: languageazeri, masteryLevelBase: 29}
     - {model: sohl-sohl-skill-script, name: "Script: Tianta", system: {masteryLevelBase: 34}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Ayaran"
+      system: {shortcode: scriptayaran, masteryLevelBase: 86}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 86}
+    - model: sohl-sohl-skill-script
+      name: "Script: Selenian"
+      system: {shortcode: scriptselenian, masteryLevelBase: 55}
+    - model: sohl-sohl-skill-script
+      name: "Script: Neramic"
+      system: {shortcode: scriptneramic, masteryLevelBase: 54}
+    - model: sohl-sohl-skill-script
+      name: "Script: Hekori"
+      system: {shortcode: scripthekori, masteryLevelBase: 52}
     - model: sohl-sohl-mysticalability-astr
       name: Astronomy (Astrology)
       system: {masteryLevelBase: 92}

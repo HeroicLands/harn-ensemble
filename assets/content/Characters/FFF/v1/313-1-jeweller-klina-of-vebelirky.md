@@ -174,7 +174,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Low Azeryani", system: {masteryLevelBase: 61}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 75}
+    - model: sohl-sohl-skill-lang
+      name: "Language: High Azeryani"
+      system: {shortcode: languagehighazeryani, masteryLevelBase: 62}
     - {model: sohl-sohl-skill-script, name: "Script: Ayaran", system: {masteryLevelBase: 70}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 85}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 27}}
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 90}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 38}}

@@ -189,7 +189,13 @@ sohl:
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-musc, name: Harp (Musician), system: {masteryLevelBase: 63}}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 85}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Trierzi"
+      system: {shortcode: languagetrierzi, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 84}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Ayaran"
+      system: {shortcode: scriptayaran, masteryLevelBase: 84}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 39}}

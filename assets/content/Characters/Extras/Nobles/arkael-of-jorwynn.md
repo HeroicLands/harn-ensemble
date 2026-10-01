@@ -171,6 +171,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 59}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Ivinian)
+      system: {shortcode: languageivinian, masteryLevelBase: 9}
     - {model: sohl-sohl-skill-script, name: Script(Lakaise), system: {masteryLevelBase: 81}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 36}}

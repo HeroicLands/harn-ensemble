@@ -202,6 +202,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Jarinese", system: {masteryLevelBase: 71}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 71}
     - {model: sohl-sohl-skill-agri, name: Goatcraft (Agriculture), system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-fish, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 33}}

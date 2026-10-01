@@ -162,6 +162,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Orbaalese", system: {masteryLevelBase: 72}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 72}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-containergear-beltpouchl3}

@@ -189,6 +189,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Trierzi", system: {masteryLevelBase: 93}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 93}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 81}}
     - model: sohl-sohl-mysticalability-astr
       name: Astromancy (Astrology)

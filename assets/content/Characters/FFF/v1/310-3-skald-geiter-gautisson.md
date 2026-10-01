@@ -203,7 +203,13 @@ sohl:
       name: Kantele [Hand-harp] (Musician)
       system: {masteryLevelBase: 60}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 42}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Ivinian"
+      system: {shortcode: languageivinian, masteryLevelBase: 63}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 47}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Runic"
+      system: {shortcode: scriptrunic, masteryLevelBase: 84}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-law, name: "Law: Ljarl", system: {masteryLevelBase: 60}}

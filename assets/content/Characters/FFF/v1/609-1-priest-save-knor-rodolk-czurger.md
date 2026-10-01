@@ -227,7 +227,22 @@ sohl:
     - {model: sohl-sohl-skill-acro, system: {masteryLevelBase: 44}}
     - {model: sohl-sohl-skill-musc, name: Lute (Musician), system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-lang, name: "Language: Ormauk", system: {masteryLevelBase: 18}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 86}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Azeri"
+      system: {shortcode: languageazeri, masteryLevelBase: 49}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Surikal"
+      system: {shortcode: languagesurikal, masteryLevelBase: 24}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 85}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 85}
+    - model: sohl-sohl-skill-script
+      name: "Script: Tianta"
+      system: {shortcode: scripttianta, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 38}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 58}}

@@ -176,8 +176,14 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 63}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Sindarin)
+      system: {shortcode: languagesindarin, masteryLevelBase: 39}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 18}}
     - {model: sohl-sohl-skill-script, name: Script(Selenian), system: {masteryLevelBase: 82}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 82}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 18}}

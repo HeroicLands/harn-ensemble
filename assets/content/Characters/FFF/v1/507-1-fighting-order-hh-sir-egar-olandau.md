@@ -213,7 +213,13 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Surikal", system: {masteryLevelBase: 48}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 82}
     - {model: sohl-sohl-skill-script, name: "Script: Zerin", system: {masteryLevelBase: 84}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 84}
     - {model: sohl-sohl-skill-hrld, name: "Heraldry: Rethem", system: {masteryLevelBase: 42}}
     - model: sohl-sohl-skill-anmcft
       name: Horsecraft (Animalcraft)

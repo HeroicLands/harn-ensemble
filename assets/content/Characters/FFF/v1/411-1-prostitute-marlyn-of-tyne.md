@@ -156,6 +156,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Orbaalese", system: {masteryLevelBase: 33}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 62}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-weapongear-Kni}

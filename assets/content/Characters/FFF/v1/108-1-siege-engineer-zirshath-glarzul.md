@@ -221,7 +221,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 60}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Khuzdul"
+      system: {shortcode: languagekhuzdul, masteryLevelBase: 75}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 80}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Runic"
+      system: {shortcode: scriptrunic, masteryLevelBase: 84}
+    - model: sohl-sohl-skill-script
+      name: "Script: Cipher"
+      system: {shortcode: scriptcipher, masteryLevelBase: 58}
     - {model: sohl-sohl-skill-eng, name: Siege-works (Engineering), system: {masteryLevelBase: 90}}
     - model: sohl-sohl-skill-masn
       name: Carving/Engraving (Masonry)

@@ -173,6 +173,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Unguilded", system: {masteryLevelBase: 60}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Old Jarinese)
+      system: {shortcode: languageoldjarinese, masteryLevelBase: 30}
     - {model: sohl-sohl-skill-script, name: Script(Lakaise), system: {masteryLevelBase: 90}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 63}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 44}}

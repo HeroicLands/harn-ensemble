@@ -300,7 +300,19 @@ sohl:
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lgdm, system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-lang, name: "Language: Khuzan", system: {masteryLevelBase: 80}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 102}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Sindarin"
+      system: {shortcode: languagesindarin, masteryLevelBase: 80}
     - {model: sohl-sohl-skill-script, name: "Script: Selenian", system: {masteryLevelBase: 87}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 87}
+    - model: sohl-sohl-skill-script
+      name: "Script: Runic"
+      system: {shortcode: scriptrunic, masteryLevelBase: 87}
     - {model: sohl-sohl-skill-agri, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 73}}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 84}}

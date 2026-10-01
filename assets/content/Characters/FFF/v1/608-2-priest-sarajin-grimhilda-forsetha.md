@@ -209,6 +209,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 56}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Ivinian"
+      system: {shortcode: languageivinian, masteryLevelBase: 83}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 82}}
     - model: sohl-sohl-skill-anmcft
       name: Horsecraft (Animalcraft)

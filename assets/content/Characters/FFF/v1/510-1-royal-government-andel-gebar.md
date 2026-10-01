@@ -197,7 +197,13 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Azeri", system: {masteryLevelBase: 85}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-script, name: "Script: Tianta", system: {masteryLevelBase: 85}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-agri, name: Valuation (Agriculture), system: {masteryLevelBase: 66}}
     - model: sohl-sohl-skill-anmcft
       name: Valuation (Animalcraft)

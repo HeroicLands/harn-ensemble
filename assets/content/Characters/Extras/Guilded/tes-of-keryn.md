@@ -152,6 +152,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Guilded", system: {masteryLevelBase: 72}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Emela)
+      system: {shortcode: languageemela, masteryLevelBase: 36}
     - {model: sohl-sohl-skill-script, name: Script(Lakaise), system: {masteryLevelBase: 79}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 36}}

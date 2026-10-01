@@ -183,8 +183,14 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Unguilded", system: {masteryLevelBase: 64}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Sindarin)
+      system: {shortcode: languagesindarin, masteryLevelBase: 70}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-skill-script, name: Script(Selenian), system: {masteryLevelBase: 80}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 80}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 27}}

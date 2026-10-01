@@ -199,6 +199,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 72}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese"
+      system: {shortcode: languagejarinese, masteryLevelBase: 72}
     - {model: sohl-sohl-skill-fish, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 28}}

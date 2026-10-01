@@ -230,7 +230,13 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 73}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Khuzan"
+      system: {shortcode: languagekhuzan, masteryLevelBase: 73}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 82}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Runic"
+      system: {shortcode: scriptrunic, masteryLevelBase: 82}
     - {model: sohl-sohl-skill-eng, name: Machinery (Engineering), system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 62}}

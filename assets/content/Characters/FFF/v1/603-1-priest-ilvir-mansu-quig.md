@@ -189,6 +189,12 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Ivashi", system: {masteryLevelBase: 80}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese"
+      system: {shortcode: languagejarinese, masteryLevelBase: 81}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 65}
     - {model: sohl-sohl-skill-script, name: "Script: Khruni", system: {masteryLevelBase: 83}}
     - {model: sohl-sohl-skill-agri, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 60}}

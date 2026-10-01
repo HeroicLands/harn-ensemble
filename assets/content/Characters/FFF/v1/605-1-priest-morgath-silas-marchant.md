@@ -191,7 +191,13 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Ormauk", system: {masteryLevelBase: 47}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 83}
     - {model: sohl-sohl-skill-script, name: "Script: Nuvesarl", system: {masteryLevelBase: 80}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 80}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 20}}

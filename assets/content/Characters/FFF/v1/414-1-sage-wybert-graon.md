@@ -184,7 +184,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Khuzan", system: {masteryLevelBase: 68}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 97}
     - {model: sohl-sohl-skill-script, name: "Script: Selenian", system: {masteryLevelBase: 45}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 85}
+    - model: sohl-sohl-skill-script
+      name: "Script: Runic"
+      system: {shortcode: scriptrunic, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 91}}

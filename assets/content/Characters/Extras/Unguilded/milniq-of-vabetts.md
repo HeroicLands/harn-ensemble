@@ -171,7 +171,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Unguilded", system: {masteryLevelBase: 83}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Jarinese)
+      system: {shortcode: languagejarinese, masteryLevelBase: 66}
     - {model: sohl-sohl-skill-script, name: Script(Selenian), system: {masteryLevelBase: 81}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 92}
+    - model: sohl-sohl-skill-script
+      name: Script(Runic)
+      system: {shortcode: scriptrunic, masteryLevelBase: 103}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1789}}
     - {model: sohl-sohl-containergear-pouchbuckram}

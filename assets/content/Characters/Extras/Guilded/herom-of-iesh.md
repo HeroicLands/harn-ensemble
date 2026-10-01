@@ -160,6 +160,9 @@ sohl:
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-skill-script, name: Script(Selenian), system: {masteryLevelBase: 96}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 96}
     - model: sohl-sohl-skill-hide
       name: Parchment and Vellum (Hidework)
       system: {masteryLevelBase: 91}

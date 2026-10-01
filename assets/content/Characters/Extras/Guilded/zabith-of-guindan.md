@@ -162,6 +162,9 @@ sohl:
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Unguilded", system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-skill-script, name: Script(Runic), system: {masteryLevelBase: 84}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 84}
     - model: sohl-sohl-skill-hide
       name: Parchment and Vellum (Hidework)
       system: {masteryLevelBase: 48}

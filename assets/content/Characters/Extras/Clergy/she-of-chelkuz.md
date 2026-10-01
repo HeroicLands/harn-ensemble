@@ -190,8 +190,20 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Guilded", system: {masteryLevelBase: 80}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Ivinian)
+      system: {shortcode: languageivinian, masteryLevelBase: 40}
+    - model: sohl-sohl-skill-lang
+      name: Language(Karuia)
+      system: {shortcode: languagekaruia, masteryLevelBase: 70}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-script, name: Script(Zerin), system: {masteryLevelBase: 90}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 80}
+    - model: sohl-sohl-skill-script
+      name: Script(Runic)
+      system: {shortcode: scriptrunic, masteryLevelBase: 80}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 20}}
