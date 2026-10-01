@@ -581,7 +581,7 @@ sohl:
 **Apparent Wealth**: Wealthy
 **Weapons**: Broadsword and dagger
 **Armour**: None worn
-**Companions**: Gwyn and Toris, warhorse - Raus
+**Companions**: Gwyn and Toris, warhorse—Raus
 **Other obvious features**: His left leg has a slight limp
 
 # Dossier {#dossier}

@@ -640,9 +640,9 @@ sohl:
 
 ## Biography
 
-Esoterica: Amulet of Truthsense - as the Common Invocation III Truthsense, always as CS result (20 charges remaining). Belt of Tave - a belt made from giant snakeskin gathered in the pit of Araka-Kalai. When worn next to the wearer's skin, this belt provides a +5 to Endurance. The wearer always has a musty odour.
+Esoterica: Amulet of Truthsense—as the Common Invocation III Truthsense, always as CS result (20 charges remaining). Belt of Tave—a belt made from giant snakeskin gathered in the pit of Araka-Kalai. When worn next to the wearer's skin, this belt provides a +5 to Endurance. The wearer always has a musty odour.
 
-Glik - Lar: Once destined for the Pamesani games, Glik-Lar is PolanTekek freed by Mansu Quig. Since then, the creature has aided him by making Ivashu hunting parties disappear. Modify Polan-Tekek as follows: Awareness 90, Stealth 70, Initiative 70, Dodge 65, Club 80, Broadsword 80. Add leather over torso, legs and arms, from wearing animal hides.
+Glik-Lar: Once destined for the Pamesani games, Glik-Lar is PolanTekek freed by Mansu Quig. Since then, the creature has aided him by making Ivashu hunting parties disappear. Modify Polan-Tekek as follows: Awareness 90, Stealth 70, Initiative 70, Dodge 65, Club 80, Broadsword 80. Add leather over torso, legs and arms, from wearing animal hides.
 
 There are many clerics of Ilvir wandering throughout Harn. Mansu Quig appears to be a typical member of the lot, poor, slightly crazy and prone to ranting. In his more lucid moments he claims to be a member of the Order of the Yellow Hand and searches through the records of other temples for obscure references. Few pay any attention to him. The truth is more sinister indeed. Mansu Quig did start as a member of the Order of the Yellow Hand, but has not been in Tashal for over 20 years. In 699, he left on a pilgrimage to Araka-Kalai and never returned. During his time at Araka-Kalai, Mansu became a disciple of Tave and joined the Dark Order [see ArakaKalai page 24]. He descended into the Pit of Ilvir in 703.
 

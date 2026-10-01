@@ -536,7 +536,7 @@ sohl:
 
 ## Biography
 
-Every wealth household has people like Gathric, a sturdy, hardworking servant. He has worked in the same house since he was sixteen, fetching water, cutting firewood, carrying parcels and escorting his mistress in her daily forays into town. His size and skill with a club make him a formidable escort for his employers and he can often be seen carrying a load of goods for them during the day or a torch during the night. He is also the jack-of-alltrades handyman, repairing broken items around the house. He sleeps in the kitchen near the fire and is a light sleeper waking at the slightest sound. His cudgel is always close at hand.
+Every wealth household has people like Gathric, a sturdy, hardworking servant. He has worked in the same house since he was sixteen, fetching water, cutting firewood, carrying parcels and escorting his mistress in her daily forays into town. His size and skill with a club make him a formidable escort for his employers and he can often be seen carrying a load of goods for them during the day or a torch during the night. He is also the jack-of-all-trades handyman, repairing broken items around the house. He sleeps in the kitchen near the fire and is a light sleeper waking at the slightest sound. His cudgel is always close at hand.
 
 The second of five children, Gathric went to live with his maternal grandfather after his mother died and his father remarried. Twelve years old at the time, he and his stepmother hated each other openly, which made him unpopular with his father. His grandfather taught him to sing and play the drums. He is good enough that he is sometimes invited to sing and play at the local tavern.
 

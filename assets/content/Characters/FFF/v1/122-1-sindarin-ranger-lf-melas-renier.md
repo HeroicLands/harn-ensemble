@@ -615,7 +615,7 @@ sohl:
 **Appearance**: Age 2430, height 5' 5", light frame, weight 135 lb, handsome appearance, fair complexion, blonde hair, hazel eyes
 **Medical/Psyche**: None
 **Size**: 5
-**Armor**: All of Sindarin manufacture: Cloth leggings and tunic; Leather gloves and shoes; Enchanted mail byrnie (weighs 8lbs provides AQ +4 B4/E12/P9/F2), hidden under his clothes. Carries a WQ 16 hart bow and Sindarin battle quiver - holds 36 arrows; Enchanted long knife (WQ 18 B4/E6/P8) and high quality dagger. Others weapons as necessary (Melas has gear cached in many places)
+**Armor**: All of Sindarin manufacture: Cloth leggings and tunic; Leather gloves and shoes; Enchanted mail byrnie (weighs 8lbs provides AQ +4 B4/E12/P9/F2), hidden under his clothes. Carries a WQ 16 hart bow and Sindarin battle quiver—holds 36 arrows; Enchanted long knife (WQ 18 B4/E6/P8) and high quality dagger. Others weapons as necessary (Melas has gear cached in many places)
 **Other Equipment**: Sindarin enchanted items: Boots and Cloak of Turentan, cord of Querelia-Sim
 **Valuables**: L3 in gold, 70d in silver in a money pouch
 **Notes**:

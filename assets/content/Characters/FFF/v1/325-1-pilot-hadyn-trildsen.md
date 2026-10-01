@@ -552,7 +552,7 @@ sohl:
 **Appearance**: Age 38, height 5' 11", medium frame, weight 165 lb, average appearance, medium complexion, black hair, hazel eyes
 **Medical/Psyche**: Ambidextrous, scar on right cheek
 **Size**: 6
-**Armor**: Fine cloth tunic and leggings, wool cap and cloak, leather shoes, falchion and dagger. Short bow; kurbul half helm, breast and back plate in his sea trunk
+**Armor**: Fine cloth tunic and leggings, wool cap and cloak, leather shoes, falchion and dagger. Short bow; kurbul half-helm, breast and back plate in his sea trunk
 **Other Equipment**: Belt pouch
 **Valuables**: 134d in silver
 **Notes**:

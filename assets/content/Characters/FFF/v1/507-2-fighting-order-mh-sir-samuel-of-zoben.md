@@ -587,7 +587,7 @@ sohl:
 **Armor**: Plate half-helm, Leather cowl, gauntlets and calf boots, Cloth Tunic and Leggings, Kurbul breast and back plates, vambraces, rerebraces, ailettes, coudes, kneecops and greaves. Two shortswords with Khuzan blades mounted in human made hilts, and dagger. Spear and round shield carried on horse
 **Other Equipment**: Belt pouch
 **Valuables**: L3 in gold (sewn into his belt), 113d in silver in a money pouch
-**Notes**: Typically fights on foot - Broadsword, mail hauberk, and other items in storage at Whyce manor.
+**Notes**: Typically fights on foot—Broadsword, mail hauberk, and other items in storage at Whyce manor.
 
 ## Biography
 

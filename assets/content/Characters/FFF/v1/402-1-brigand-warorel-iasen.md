@@ -523,7 +523,7 @@ sohl:
 **Apparent Wealth**: Little
 **Weapons**: Club, dagger, short bow
 **Armour**: Leather vest, crude fur cloak
-**Companions**: Two - six men
+**Companions**: Two–six men
 **Other obvious features**: None
 
 # Dossier {#dossier}

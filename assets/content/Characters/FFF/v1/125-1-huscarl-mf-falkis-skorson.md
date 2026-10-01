@@ -538,7 +538,7 @@ sohl:
 **Apparent Occupation**: Viking Warrior
 **Apparent Wealth**: Moderate
 **Weapons**: Battle axe, keltan
-**Armour**: Mail hauberk, round shield, plate half helm
+**Armour**: Mail hauberk, round shield, plate half-helm
 **Companions**: Other vikings
 **Other obvious features**: None
 
@@ -549,10 +549,10 @@ sohl:
 **Appearance**: Age 25, height 4' 11", heavy frame, weight 133 lb, size 5, average appearance, fair complexion, red hair, green eyes
 **Medical/Psyche**: None
 **Size**: 5
-**Armor**: Cloth tunic and leggings, leather calf boots and gloves, long chain hauberk, (add knees to coverage), plate half helm, round shield, battle axe and keltan dagger.
+**Armor**: Cloth tunic and leggings, leather calf boots and gloves, long chain hauberk, (add knees to coverage), plate half-helm, round shield, battle axe and keltan dagger.
 **Other Equipment**: Belt pouch
 **Valuables**: 112d in silver in a money pouch
-**Notes**: Berserk rage +20 to combat skill EML - must take most aggressive action available for Attack or Defence, see HM3 Combat 18.
+**Notes**: Berserk rage +20 to combat skill EML—must take most aggressive action available for Attack or Defence, see HM3 Combat 18.
 
 ## Biography
 

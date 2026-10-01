@@ -542,7 +542,7 @@ Taran can be a real pain to serious adventuring parties. He sees himself as a ru
 
 ## Adventure Hooks
 
-Experienced Guide. Taran overhears that the PCs need a guide to their next destination. He claims to have first hand knowledge of how to get there. In fact, he only past through the place once eight years ago with his father and ends up getting the PCs completely lost.
+Experienced Guide. Taran overhears that the PCs need a guide to their next destination. He claims to have first-hand knowledge of how to get there. In fact, he only past through the place once eight years ago with his father and ends up getting the PCs completely lost.
 
 Fetch Him Back. Taran is in the service of the same lord as the PCs. He has run off with a group of disreputable adventurers. The PCs are dispatched to find him and bring him back. His new friends have taken a shine to the boy and don't want to let him go. He doesn't want to leave, claiming the PCs plan to kill him.
 

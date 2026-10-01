@@ -583,7 +583,7 @@ sohl:
 **Appearance**: Age 25, height 5' 9", medium frame, weight 165 lb, average appearance, medium complexion, brown hair, hazel eyes
 **Medical/Psyche**: Left-handed
 **Size**: 6
-**Armor**: Cloth tunic and leggings; leather knee boots and gauntlets; kurbul vambraces, coudes and kneecops; plate half helm; mail byrnie; round shield, short sword, spear, dagger, two taburi. May be encountered with reduced and/or no armour, armed with Taburi, dagger, and/or short sword
+**Armor**: Cloth tunic and leggings; leather knee boots and gauntlets; kurbul vambraces, coudes and kneecops; plate half-helm; mail byrnie; round shield, short sword, spear, dagger, two taburi. May be encountered with reduced and/or no armour, armed with Taburi, dagger, and/or short sword
 **Other Equipment**: Two vials of Gethepa poison, belt pouch
 **Valuables**: 92d in silver in a money pouch
 **Notes**:
@@ -594,7 +594,7 @@ Otto is a product of the seedier aspects of the Thardic Republic. His parents we
 
 Since leaving Tharda, Otto has made his way as a mercenary, spending three years with a company in Rethem before moving on. He can be encountered almost anywhere in Harn, but prefers to stay away from Tharda, especially Shiran. Since leaving the mercenary company, Otto has predominantly worked as a bodyguard to wealthy merchants.
 
-He still enjoys "the Hunt" as he calls it, and if circ stances allow, will practice his stealth and stalking - only on one of these occasions has he actually taken the life of his target. Otto is considering his next move, with a goal of joining the ranks of the wealthy.
+He still enjoys "the Hunt" as he calls it, and if circ stances allow, will practice his stealth and stalking—only on one of these occasions has he actually taken the life of his target. Otto is considering his next move, with a goal of joining the ranks of the wealthy.
 
 ## Adventure Hooks
 

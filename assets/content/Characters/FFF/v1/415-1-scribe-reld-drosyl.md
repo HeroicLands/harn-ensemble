@@ -570,7 +570,7 @@ sohl:
 **Apparent Wealth**: Well off
 **Weapons**: Dagger and staff
 **Armour**: None
-**Companions**: Andel, his two servants and two men- at-arms
+**Companions**: Andel, his two servants and two men-at-arms
 **Other obvious features**: None
 
 # Dossier {#dossier}

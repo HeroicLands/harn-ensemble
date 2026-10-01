@@ -528,7 +528,7 @@ sohl:
 
 ## Biography
 
-Bolgar was born in a little village two days to the north of Golotha; he was the fifth son in a family of eight. Seeing no future as a farmer, he ran away soon after his eighteenth birthday. He made for Golotha as so many before him. However, freedom can be hard and he had a difficult time supporting himself. Eventually he was forced to steal to survive. The Lia-Kaviar did not like his intrusion, so he was given a warning. The scar across is right, unseeing eye is a memory from this.
+Bolgar was born in a little village two days to the north of Golotha; he was the fifth son in a family of eight. Seeing no future as a farmer, he ran away soon after his eighteenth birthday. He made for Golotha as so many before him. However, freedom can be hard and he had a difficult time supporting himself. Eventually he was forced to steal to survive. The Lia-Kavair did not like his intrusion, so he was given a warning. The scar across is right, unseeing eye is a memory from this.
 
 Left for dead, he survived, crawling down and hiding in the darkness under the quays. He spent a long time alone, healing his wounds. During this time, his mental health deteriorated. When he had recovered enough, he found work as a ratter and survives on his meagre income and the rare alms given to the poor.
 

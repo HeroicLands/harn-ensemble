@@ -606,14 +606,14 @@ sohl:
 **Appearance**: Age 89, height 4'5", heavy frame, weight 120 lb, average appearance, fair complexion, grey hair, hazel eyes
 **Medical/Psyche**: None
 **Size**: 5
-**Armor**: Cloth tunic, leggings, and cloak, leather knee boots and gauntlets, mail hauberk (AQ +1), Plate half helm (AQ +2). Hand axe (WQ +2), Keltan (WQ +1)
+**Armor**: Cloth tunic, leggings, and cloak, leather knee boots and gauntlets, mail hauberk (AQ +1), Plate half-helm (AQ +2). Hand axe (WQ +2), Keltan (WQ +1)
 **Other Equipment**: Belt pouch
 **Valuables**: L4 in gold crowns concealed inside his belt, 267d in silver in a money pouch. The broach holding his cloak closed appears to be made of gold. It could be solid gold, or gold plate, either way it is valuable. He is also wearing expensive rings.
 **Notes**:
 
 ## Biography
 
-At 90 years of age, Zirshath is still fairly young and adventurous - for a Khuzdul. Born and raised in mason clan,
+At 90 years of age, Zirshath is still fairly young and adventurous—for a Khuzdul. Born and raised in mason clan,
 
 Zirshath is well schooled in engineering and architecture. However, his passion is not for building things, but destroying them. The Khuzdul have not laid siege to any fortification for thousands of years, but maintain good records. Zirshath has studied them all. He has examined and sketched every piece of siege equipment within Azadmere, from catapults to trebuchet, ballistae to rams. He has studied every manner of breaching castle walls; including some texts older and wiser Khuzdul would have preferred he never found. Now, he is seeking an opportunity to put his theoretical knowledge to the test.
 

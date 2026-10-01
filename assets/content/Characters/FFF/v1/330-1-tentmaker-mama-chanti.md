@@ -535,7 +535,7 @@ Mama Chanti Has Been Kidnapped. The PCs know Mama from their childhood as a fixt
 
 Your Past Will Haunt You. The PCs' patron did a few bad deeds in his youth. Fortunately, most of the people who know about them are dead. Unfortunately, Mama Chanti is still alive and your patron is afraid she will rekin dle the rumours. He wants the little old lady to have an accident.
 
-Do You Remember When... The PCs are hot on the trail of some vital clue when they run into a dead end. As they have done since they were children, they head over to see Mama Chanti to ask her if she remembers anything about the event in question. She does indeed-she just needs a few chores done first.
+Do You Remember When... The PCs are hot on the trail of some vital clue when they run into a dead end. As they have done since they were children, they head over to see Mama Chanti to ask her if she remembers anything about the event in question. She does indeed—she just needs a few chores done first.
 
 ## Credits
 

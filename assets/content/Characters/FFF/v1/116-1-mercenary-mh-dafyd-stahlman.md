@@ -562,7 +562,7 @@ sohl:
 **Appearance**: Age 22, height 5' 8", medium frame, weight 157 lb, attractive appearance, medium complexion, black hair, hazel eyes
 **Medical/Psyche**: None
 **Size**: 6
-**Armor**: Cloth hood, tunic, leggings, and surcoat, mail cowl and hauberk, leather knee boots and gloves, plate half helm. Broadsword, dagger, kite shield and lance.
+**Armor**: Cloth hood, tunic, leggings, and surcoat, mail cowl and hauberk, leather knee boots and gloves, plate half-helm. Broadsword, dagger, kite shield and lance.
 **Other Equipment**: Belt pouch
 **Valuables**: 89d in silver in a money pouch
 **Notes**:

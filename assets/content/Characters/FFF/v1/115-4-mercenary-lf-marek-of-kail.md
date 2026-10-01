@@ -552,7 +552,7 @@ sohl:
 **Apparent Occupation**: Mercenary
 **Apparent Wealth**: Moderate
 **Weapons**: Spear, broadsword
-**Armour**: Quilt gambeson, kite shield, plate half helm
+**Armour**: Quilt gambeson, kite shield, plate half-helm
 **Companions**: Other mercenaries
 **Other obvious features**: None
 
@@ -563,7 +563,7 @@ sohl:
 **Appearance**: Age 24, height 6', medium frame, weight 170 lb, average appearance, medium complexion, black hair, blue eyes
 **Medical/Psyche**: None
 **Size**: 7
-**Armor**: Leather knee boots, cloth leggings, tunic, hood, and surcoat, quilt gambeson, plate half helm. Spear, dagger, broadsword and kite shield.
+**Armor**: Leather knee boots, cloth leggings, tunic, hood, and surcoat, quilt gambeson, plate half-helm. Spear, dagger, broadsword and kite shield.
 **Other Equipment**: Belt pouch
 **Valuables**: 67d in silver in a money pouch
 **Notes**:

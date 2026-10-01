@@ -513,7 +513,7 @@ sohl:
 **Apparent Wealth**: Moderate
 **Weapons**: Dagger
 **Armour**: None
-**Companions**: Father - Sir Tarris
+**Companions**: Father—Sir Tarris
 **Other obvious features**: Expensive, foppish clothes
 
 # Dossier {#dossier}
