@@ -1,6 +1,6 @@
 ---
 shortcode: baeofonpartuna
-name: {full: Bae of Onpartuna, title: "", given: Bae, clan: Onpartuna, aliases: []}
+name: {full: Bae of Onpartuna, aliases: []}
 type: being
 tags: [character]
 data:

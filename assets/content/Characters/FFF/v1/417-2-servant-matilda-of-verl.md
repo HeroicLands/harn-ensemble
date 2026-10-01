@@ -1,6 +1,6 @@
 ---
 shortcode: matildaofverl
-name: {full: Matilda of Verl, title: "", given: Matilda, clan: Verl, aliases: []}
+name: {full: Matilda of Verl, aliases: []}
 type: being
 tags: [character]
 data:

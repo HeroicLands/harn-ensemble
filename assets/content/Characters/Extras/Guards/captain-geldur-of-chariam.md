@@ -1,6 +1,6 @@
 ---
 shortcode: captaingeldurofchariam
-name: {full: Captain Geldur of Chariam, title: Captain, given: Geldur, clan: Chariam, aliases: []}
+name: {full: Captain Geldur of Chariam, aliases: []}
 type: being
 tags: [character]
 data:

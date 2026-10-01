@@ -1,6 +1,6 @@
 ---
 shortcode: erechofikswic
-name: {full: Erech of Ikswic, title: "", given: Erech, clan: Ikswic, aliases: []}
+name: {full: Erech of Ikswic, aliases: []}
 type: being
 tags: [character]
 data:

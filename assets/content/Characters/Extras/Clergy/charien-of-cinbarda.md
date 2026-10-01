@@ -1,6 +1,6 @@
 ---
 shortcode: charienofcinbarda
-name: {full: Charien of Cinbarda, title: "", given: Charien, clan: Cinbarda, aliases: []}
+name: {full: Charien of Cinbarda, aliases: []}
 type: being
 tags: [character]
 data:

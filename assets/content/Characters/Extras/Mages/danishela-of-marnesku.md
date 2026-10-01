@@ -1,6 +1,6 @@
 ---
 shortcode: danishelaofmarnesku
-name: {full: Danishela of Marnesku, title: "", given: Danishela, clan: Marnesku, aliases: []}
+name: {full: Danishela of Marnesku, aliases: []}
 type: being
 tags: [character]
 data:

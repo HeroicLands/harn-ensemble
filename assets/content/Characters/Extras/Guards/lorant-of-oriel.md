@@ -1,6 +1,6 @@
 ---
 shortcode: lorantoforiel
-name: {full: Lorant of Oriel, title: "", given: Lorant, clan: Oriel, aliases: []}
+name: {full: Lorant of Oriel, aliases: []}
 type: being
 tags: [character]
 data:

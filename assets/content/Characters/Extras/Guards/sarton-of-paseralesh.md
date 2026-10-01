@@ -1,6 +1,6 @@
 ---
 shortcode: sartonofpaseralesh
-name: {full: Sarton of Paseralesh, title: "", given: Sarton, clan: Paseralesh, aliases: []}
+name: {full: Sarton of Paseralesh, aliases: []}
 type: being
 tags: [character]
 data:

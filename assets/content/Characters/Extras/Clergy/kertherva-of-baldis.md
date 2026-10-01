@@ -1,6 +1,6 @@
 ---
 shortcode: kerthervaofbaldis
-name: {full: Kertherva of Baldis, title: "", given: Kertherva, clan: Baldis, aliases: []}
+name: {full: Kertherva of Baldis, aliases: []}
 type: being
 tags: [character]
 data:

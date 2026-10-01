@@ -1,6 +1,6 @@
 ---
 shortcode: amarthofberphen
-name: {full: Amarth of Berphen, title: "", given: Amarth, clan: Berphen, aliases: []}
+name: {full: Amarth of Berphen, aliases: []}
 type: being
 tags: [character]
 data:

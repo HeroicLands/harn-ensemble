@@ -1,6 +1,6 @@
 ---
 shortcode: daltonofsidethaen
-name: {full: Dalton of Sidethaen, title: "", given: Dalton, clan: Sidethaen, aliases: []}
+name: {full: Dalton of Sidethaen, aliases: []}
 type: being
 tags: [character]
 data:

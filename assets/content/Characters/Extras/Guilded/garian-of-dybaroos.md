@@ -1,6 +1,6 @@
 ---
 shortcode: garianofdybaroos
-name: {full: Garian of Dybaroos, title: "", given: Garian, clan: Dybaroos, aliases: []}
+name: {full: Garian of Dybaroos, aliases: []}
 type: being
 tags: [character]
 data:

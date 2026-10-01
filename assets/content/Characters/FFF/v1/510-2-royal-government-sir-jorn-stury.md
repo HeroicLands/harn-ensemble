@@ -1,6 +1,6 @@
 ---
 shortcode: sirjornstury
-name: {full: Sir Jorn Stury, title: Sir, given: Jorn, clan: Stury, aliases: []}
+name: {full: Sir Jorn Stury, aliases: []}
 type: being
 tags: [character]
 data:

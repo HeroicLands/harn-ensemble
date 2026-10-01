@@ -1,6 +1,6 @@
 ---
 shortcode: yagorofmatlim
-name: {full: Yagor of Matlim, title: "", given: Yagor, clan: Matlim, aliases: []}
+name: {full: Yagor of Matlim, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: keleofrystelburitta
-name: {full: Kele of Rystelburitta, title: "", given: Kele, clan: Rystelburitta, aliases: []}
+name: {full: Kele of Rystelburitta, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: umaka
-name: {full: Umaka, title: "", given: Umaka, clan: "", aliases: []}
+name: {full: Umaka, aliases: []}
 type: being
 tags: [character]
 data:

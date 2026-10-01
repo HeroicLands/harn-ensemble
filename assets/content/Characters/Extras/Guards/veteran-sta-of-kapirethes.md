@@ -1,6 +1,6 @@
 ---
 shortcode: veteranstaofkapirethes
-name: {full: Veteran Sta of Kapirethes, title: Veteran, given: Sta, clan: Kapirethes, aliases: []}
+name: {full: Veteran Sta of Kapirethes, aliases: []}
 type: being
 tags: [character]
 data:

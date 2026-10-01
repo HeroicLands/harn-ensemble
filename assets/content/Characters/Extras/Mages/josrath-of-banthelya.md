@@ -1,6 +1,6 @@
 ---
 shortcode: josrathofbanthelya
-name: {full: Josrath of Banthelya, title: "", given: Josrath, clan: Banthelya, aliases: []}
+name: {full: Josrath of Banthelya, aliases: []}
 type: being
 tags: [character]
 data:

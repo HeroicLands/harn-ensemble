@@ -1,6 +1,6 @@
 ---
 shortcode: chymelvidofchussel
-name: {full: Chymelvid of Chussel, title: "", given: Chymelvid, clan: Chussel, aliases: []}
+name: {full: Chymelvid of Chussel, aliases: []}
 type: being
 tags: [character]
 data:

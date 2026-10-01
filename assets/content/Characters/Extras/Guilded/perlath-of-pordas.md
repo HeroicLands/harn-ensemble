@@ -1,6 +1,6 @@
 ---
 shortcode: perlathofpordas
-name: {full: Perlath of Pordas, title: "", given: Perlath, clan: Pordas, aliases: []}
+name: {full: Perlath of Pordas, aliases: []}
 type: being
 tags: [character]
 data:

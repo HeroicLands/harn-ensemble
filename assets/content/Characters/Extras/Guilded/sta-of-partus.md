@@ -1,6 +1,6 @@
 ---
 shortcode: staofpartus
-name: {full: Sta of Partus, title: "", given: Sta, clan: Partus, aliases: []}
+name: {full: Sta of Partus, aliases: []}
 type: being
 tags: [character]
 data:

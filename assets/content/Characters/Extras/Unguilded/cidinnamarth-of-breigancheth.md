@@ -1,11 +1,6 @@
 ---
 shortcode: cidinnamarthofbreigancheth
-name:
-  full: Cidinnamarth of Breigancheth
-  title: ""
-  given: Cidinnamarth
-  clan: Breigancheth
-  aliases: []
+name: {full: Cidinnamarth of Breigancheth, aliases: []}
 type: being
 tags: [character]
 data:

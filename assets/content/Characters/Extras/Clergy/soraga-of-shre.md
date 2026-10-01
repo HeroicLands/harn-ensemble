@@ -1,6 +1,6 @@
 ---
 shortcode: soragaofshre
-name: {full: Soraga of Shre, title: "", given: Soraga, clan: Shre, aliases: []}
+name: {full: Soraga of Shre, aliases: []}
 type: being
 tags: [character]
 data:

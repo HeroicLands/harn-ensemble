@@ -1,6 +1,6 @@
 ---
 shortcode: jesaofduck
-name: {full: Jesa of Duck, title: "", given: Jesa, clan: Duck, aliases: []}
+name: {full: Jesa of Duck, aliases: []}
 type: being
 tags: [character]
 data:

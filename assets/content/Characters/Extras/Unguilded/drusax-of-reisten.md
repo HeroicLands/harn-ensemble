@@ -1,6 +1,6 @@
 ---
 shortcode: drusaxofreisten
-name: {full: Drusax of Reisten, title: "", given: Drusax, clan: Reisten, aliases: []}
+name: {full: Drusax of Reisten, aliases: []}
 type: being
 tags: [character]
 data:

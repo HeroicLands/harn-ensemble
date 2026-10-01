@@ -1,6 +1,6 @@
 ---
 shortcode: vanachoftobilon
-name: {full: Vanach of Tobilon, title: "", given: Vanach, clan: Tobilon, aliases: []}
+name: {full: Vanach of Tobilon, aliases: []}
 type: being
 tags: [character]
 data:

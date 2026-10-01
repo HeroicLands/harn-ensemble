@@ -1,6 +1,6 @@
 ---
 shortcode: amdirviluiofacharod
-name: {full: Amdirvilui of Acharod, title: "", given: Amdirvilui, clan: Acharod, aliases: []}
+name: {full: Amdirvilui of Acharod, aliases: []}
 type: being
 tags: [character]
 data:

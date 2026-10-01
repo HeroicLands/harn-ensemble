@@ -1,6 +1,6 @@
 ---
 shortcode: crashaofvaben
-name: {full: Crasha of Vaben, title: "", given: Crasha, clan: Vaben, aliases: []}
+name: {full: Crasha of Vaben, aliases: []}
 type: being
 tags: [character]
 data:

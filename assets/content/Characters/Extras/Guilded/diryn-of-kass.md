@@ -1,6 +1,6 @@
 ---
 shortcode: dirynofkass
-name: {full: Diryn of Kass, title: "", given: Diryn, clan: Kass, aliases: []}
+name: {full: Diryn of Kass, aliases: []}
 type: being
 tags: [character]
 data:

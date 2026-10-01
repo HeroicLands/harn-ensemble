@@ -1,6 +1,6 @@
 ---
 shortcode: arantofparin
-name: {full: Arant of Parin, title: "", given: Arant, clan: Parin, aliases: []}
+name: {full: Arant of Parin, aliases: []}
 type: being
 tags: [character]
 data:

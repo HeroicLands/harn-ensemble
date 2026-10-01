@@ -1,6 +1,6 @@
 ---
 shortcode: gyandofnarani
-name: {full: Gyand of Narani, title: "", given: Gyand, clan: Narani, aliases: []}
+name: {full: Gyand of Narani, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: celegofannamath
-name: {full: Celeg of Annamath, title: "", given: Celeg, clan: Annamath, aliases: []}
+name: {full: Celeg of Annamath, aliases: []}
 type: being
 tags: [character]
 data:

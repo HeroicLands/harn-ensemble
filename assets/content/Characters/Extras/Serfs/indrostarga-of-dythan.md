@@ -1,6 +1,6 @@
 ---
 shortcode: indrostargaofdythan
-name: {full: Indrostarga of Dythan, title: "", given: Indrostarga, clan: Dythan, aliases: []}
+name: {full: Indrostarga of Dythan, aliases: []}
 type: being
 tags: [character]
 data:

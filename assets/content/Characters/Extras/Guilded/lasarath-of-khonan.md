@@ -1,6 +1,6 @@
 ---
 shortcode: lasarathofkhonan
-name: {full: Lasarath of Khonan, title: "", given: Lasarath, clan: Khonan, aliases: []}
+name: {full: Lasarath of Khonan, aliases: []}
 type: being
 tags: [character]
 data:

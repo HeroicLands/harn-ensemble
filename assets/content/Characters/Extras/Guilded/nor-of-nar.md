@@ -1,6 +1,6 @@
 ---
 shortcode: norofnar
-name: {full: Nor of Nar, title: "", given: Nor, clan: Nar, aliases: []}
+name: {full: Nor of Nar, aliases: []}
 type: being
 tags: [character]
 data:

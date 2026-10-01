@@ -1,6 +1,6 @@
 ---
 shortcode: andersisofsymdal
-name: {full: Andersis of Symdal, title: "", given: Andersis, clan: Symdal, aliases: []}
+name: {full: Andersis of Symdal, aliases: []}
 type: being
 tags: [character]
 data:

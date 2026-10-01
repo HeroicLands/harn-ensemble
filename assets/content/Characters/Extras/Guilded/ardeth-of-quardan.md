@@ -1,6 +1,6 @@
 ---
 shortcode: ardethofquardan
-name: {full: Ardeth of Quardan, title: "", given: Ardeth, clan: Quardan, aliases: []}
+name: {full: Ardeth of Quardan, aliases: []}
 type: being
 tags: [character]
 data:

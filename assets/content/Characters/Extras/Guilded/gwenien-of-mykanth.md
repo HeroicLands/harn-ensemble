@@ -1,6 +1,6 @@
 ---
 shortcode: gwenienofmykanth
-name: {full: Gwenien of Mykanth, title: "", given: Gwenien, clan: Mykanth, aliases: []}
+name: {full: Gwenien of Mykanth, aliases: []}
 type: being
 tags: [character]
 data:

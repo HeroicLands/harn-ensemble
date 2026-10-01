@@ -1,6 +1,6 @@
 ---
 shortcode: korilkalymsenaemon
-name: {full: Koril Kalymsen Aemon, title: "", given: Koril, clan: Kalymsen Aemon, aliases: []}
+name: {full: Koril Kalymsen Aemon, aliases: []}
 type: being
 tags: [character]
 data:

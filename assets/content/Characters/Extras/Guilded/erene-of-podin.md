@@ -1,6 +1,6 @@
 ---
 shortcode: ereneofpodin
-name: {full: Erene of Podin, title: "", given: Erene, clan: Podin, aliases: []}
+name: {full: Erene of Podin, aliases: []}
 type: being
 tags: [character]
 data:

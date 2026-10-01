@@ -1,6 +1,6 @@
 ---
 shortcode: shemlenaofarine
-name: {full: Shemlena of Arine, title: "", given: Shemlena, clan: Arine, aliases: []}
+name: {full: Shemlena of Arine, aliases: []}
 type: being
 tags: [character]
 data:

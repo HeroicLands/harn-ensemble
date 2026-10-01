@@ -1,6 +1,6 @@
 ---
 shortcode: pallisofiribor
-name: {full: Pallis of Iribor, title: "", given: Pallis, clan: Iribor, aliases: []}
+name: {full: Pallis of Iribor, aliases: []}
 type: being
 tags: [character]
 data:

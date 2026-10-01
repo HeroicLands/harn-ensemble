@@ -1,6 +1,6 @@
 ---
 shortcode: lysatrisofquiriel
-name: {full: Lysatris of Quiriel, title: "", given: Lysatris, clan: Quiriel, aliases: []}
+name: {full: Lysatris of Quiriel, aliases: []}
 type: being
 tags: [character]
 data:

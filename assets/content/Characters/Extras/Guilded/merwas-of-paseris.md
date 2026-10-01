@@ -1,6 +1,6 @@
 ---
 shortcode: merwasofpaseris
-name: {full: Merwas of Paseris, title: "", given: Merwas, clan: Paseris, aliases: []}
+name: {full: Merwas of Paseris, aliases: []}
 type: being
 tags: [character]
 data:

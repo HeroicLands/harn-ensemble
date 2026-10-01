@@ -1,6 +1,6 @@
 ---
 shortcode: peshmugaofdulkyia
-name: {full: Peshmuga of Dulkyia, title: "", given: Peshmuga, clan: Dulkyia, aliases: []}
+name: {full: Peshmuga of Dulkyia, aliases: []}
 type: being
 tags: [character]
 data:

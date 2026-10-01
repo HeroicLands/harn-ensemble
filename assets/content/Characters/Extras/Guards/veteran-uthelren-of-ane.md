@@ -1,6 +1,6 @@
 ---
 shortcode: veteranuthelrenofane
-name: {full: Veteran Uthelren of Ane, title: Veteran, given: Uthelren, clan: Ane, aliases: []}
+name: {full: Veteran Uthelren of Ane, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelasarofveris
-name: {full: Maeghelasar of Veris, title: "", given: Maeghelasar, clan: Veris, aliases: []}
+name: {full: Maeghelasar of Veris, aliases: []}
 type: being
 tags: [character]
 data:

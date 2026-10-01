@@ -1,6 +1,6 @@
 ---
 shortcode: jehanoffaleshref
-name: {full: Jehan of Faleshref, title: "", given: Jehan, clan: Faleshref, aliases: []}
+name: {full: Jehan of Faleshref, aliases: []}
 type: being
 tags: [character]
 data:

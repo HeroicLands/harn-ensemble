@@ -1,6 +1,6 @@
 ---
 shortcode: genofzenda
-name: {full: Gen of Zenda, title: "", given: Gen, clan: Zenda, aliases: []}
+name: {full: Gen of Zenda, aliases: []}
 type: being
 tags: [character]
 data:

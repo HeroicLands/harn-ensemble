@@ -1,6 +1,6 @@
 ---
 shortcode: wyrinofvarross
-name: {full: Wyrin of Varross, title: "", given: Wyrin, clan: Varross, aliases: []}
+name: {full: Wyrin of Varross, aliases: []}
 type: being
 tags: [character]
 data:

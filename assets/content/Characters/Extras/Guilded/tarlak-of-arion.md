@@ -1,6 +1,6 @@
 ---
 shortcode: tarlakofarion
-name: {full: Tarlak of Arion, title: "", given: Tarlak, clan: Arion, aliases: []}
+name: {full: Tarlak of Arion, aliases: []}
 type: being
 tags: [character]
 data:

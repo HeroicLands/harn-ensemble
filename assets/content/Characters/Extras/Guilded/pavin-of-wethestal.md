@@ -1,6 +1,6 @@
 ---
 shortcode: pavinofwethestal
-name: {full: Pavin of Wethestal, title: "", given: Pavin, clan: Wethestal, aliases: []}
+name: {full: Pavin of Wethestal, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: pirisofyorlis
-name: {full: Piris of Yorlis, title: "", given: Piris, clan: Yorlis, aliases: []}
+name: {full: Piris of Yorlis, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: peshmugaofmykansenalis
-name: {full: Peshmuga of Mykansenalis, title: "", given: Peshmuga, clan: Mykansenalis, aliases: []}
+name: {full: Peshmuga of Mykansenalis, aliases: []}
 type: being
 tags: [character]
 data:

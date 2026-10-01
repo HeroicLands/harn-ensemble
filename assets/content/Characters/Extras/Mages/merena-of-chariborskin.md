@@ -1,6 +1,6 @@
 ---
 shortcode: merenaofchariborskin
-name: {full: Merena of Chariborskin, title: "", given: Merena, clan: Chariborskin, aliases: []}
+name: {full: Merena of Chariborskin, aliases: []}
 type: being
 tags: [character]
 data:

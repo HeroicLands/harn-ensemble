@@ -1,6 +1,6 @@
 ---
 shortcode: jolaynofguindal
-name: {full: Jolayn of Guindal, title: "", given: Jolayn, clan: Guindal, aliases: []}
+name: {full: Jolayn of Guindal, aliases: []}
 type: being
 tags: [character]
 data:

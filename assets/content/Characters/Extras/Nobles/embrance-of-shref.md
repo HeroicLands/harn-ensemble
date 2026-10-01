@@ -1,6 +1,6 @@
 ---
 shortcode: embranceofshref
-name: {full: Embrance of Shref, title: "", given: Embrance, clan: Shref, aliases: []}
+name: {full: Embrance of Shref, aliases: []}
 type: being
 tags: [character]
 data:

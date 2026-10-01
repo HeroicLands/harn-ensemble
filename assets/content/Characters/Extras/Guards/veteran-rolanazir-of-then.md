@@ -1,6 +1,6 @@
 ---
 shortcode: veteranrolanazirofthen
-name: {full: Veteran Rolanazir of Then, title: Veteran, given: Rolanazir, clan: Then, aliases: []}
+name: {full: Veteran Rolanazir of Then, aliases: []}
 type: being
 tags: [character]
 data:

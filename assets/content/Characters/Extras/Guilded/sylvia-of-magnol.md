@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaofmagnol
-name: {full: Sylvia of Magnol, title: "", given: Sylvia, clan: Magnol, aliases: []}
+name: {full: Sylvia of Magnol, aliases: []}
 type: being
 tags: [character]
 data:

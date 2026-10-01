@@ -1,6 +1,6 @@
 ---
 shortcode: lysatofmykanthes
-name: {full: Lysat of Mykanthes, title: "", given: Lysat, clan: Mykanthes, aliases: []}
+name: {full: Lysat of Mykanthes, aliases: []}
 type: being
 tags: [character]
 data:

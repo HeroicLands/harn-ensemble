@@ -1,6 +1,6 @@
 ---
 shortcode: melicalofweth
-name: {full: Melical of Weth, title: "", given: Melical, clan: Weth, aliases: []}
+name: {full: Melical of Weth, aliases: []}
 type: being
 tags: [character]
 data:

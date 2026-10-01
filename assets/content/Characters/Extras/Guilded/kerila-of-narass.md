@@ -1,6 +1,6 @@
 ---
 shortcode: kerilaofnarass
-name: {full: Kerila of Narass, title: "", given: Kerila, clan: Narass, aliases: []}
+name: {full: Kerila of Narass, aliases: []}
 type: being
 tags: [character]
 data:

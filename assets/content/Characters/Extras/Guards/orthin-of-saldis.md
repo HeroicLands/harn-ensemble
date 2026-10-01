@@ -1,6 +1,6 @@
 ---
 shortcode: orthinofsaldis
-name: {full: Orthin of Saldis, title: "", given: Orthin, clan: Saldis, aliases: []}
+name: {full: Orthin of Saldis, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,11 +1,6 @@
 ---
 shortcode: commanderpargatofpeden
-name:
-  full: Commander Pargat of Peden
-  title: ""
-  given: Commander
-  clan: Pargat Peden
-  aliases: []
+name: {full: Commander Pargat of Peden, aliases: []}
 type: being
 tags: [character]
 data:

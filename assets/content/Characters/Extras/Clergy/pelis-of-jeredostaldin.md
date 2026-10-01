@@ -1,6 +1,6 @@
 ---
 shortcode: pelisofjeredostaldin
-name: {full: Pelis of Jeredostaldin, title: "", given: Pelis, clan: Jeredostaldin, aliases: []}
+name: {full: Pelis of Jeredostaldin, aliases: []}
 type: being
 tags: [character]
 data:

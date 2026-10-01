@@ -1,6 +1,6 @@
 ---
 shortcode: alaofpthendana
-name: {full: Ala of Pthendana, title: "", given: Ala, clan: Pthendana, aliases: []}
+name: {full: Ala of Pthendana, aliases: []}
 type: being
 tags: [character]
 data:

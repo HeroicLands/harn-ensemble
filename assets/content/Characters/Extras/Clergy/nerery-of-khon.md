@@ -1,6 +1,6 @@
 ---
 shortcode: nereryofkhon
-name: {full: Nerery of Khon, title: "", given: Nerery, clan: Khon, aliases: []}
+name: {full: Nerery of Khon, aliases: []}
 type: being
 tags: [character]
 data:

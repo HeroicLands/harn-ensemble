@@ -1,6 +1,6 @@
 ---
 shortcode: kerilaofcharin
-name: {full: Kerila of Charin, title: "", given: Kerila, clan: Charin, aliases: []}
+name: {full: Kerila of Charin, aliases: []}
 type: being
 tags: [character]
 data:

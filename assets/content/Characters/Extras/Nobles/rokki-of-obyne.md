@@ -1,6 +1,6 @@
 ---
 shortcode: rokkiofobyne
-name: {full: Rokki of Obyne, title: "", given: Rokki, clan: Obyne, aliases: []}
+name: {full: Rokki of Obyne, aliases: []}
 type: being
 tags: [character]
 data:

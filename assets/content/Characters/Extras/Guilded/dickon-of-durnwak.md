@@ -1,6 +1,6 @@
 ---
 shortcode: dickonofdurnwak
-name: {full: Dickon of Durnwak, title: "", given: Dickon, clan: Durnwak, aliases: []}
+name: {full: Dickon of Durnwak, aliases: []}
 type: being
 tags: [character]
 data:

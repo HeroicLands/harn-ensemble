@@ -1,6 +1,6 @@
 ---
 shortcode: lusilineofamafa
-name: {full: Lusiline of Amafa, title: "", given: Lusiline, clan: Amafa, aliases: []}
+name: {full: Lusiline of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

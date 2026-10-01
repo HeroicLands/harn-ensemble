@@ -1,6 +1,6 @@
 ---
 shortcode: melineofchuzyn
-name: {full: Meline of Chuzyn, title: "", given: Meline, clan: Chuzyn, aliases: []}
+name: {full: Meline of Chuzyn, aliases: []}
 type: being
 tags: [character]
 data:

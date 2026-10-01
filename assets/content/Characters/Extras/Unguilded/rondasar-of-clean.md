@@ -1,6 +1,6 @@
 ---
 shortcode: rondasarofclean
-name: {full: Rondasar of Clean, title: "", given: Rondasar, clan: Clean, aliases: []}
+name: {full: Rondasar of Clean, aliases: []}
 type: being
 tags: [character]
 data:

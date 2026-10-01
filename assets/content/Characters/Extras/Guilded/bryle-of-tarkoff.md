@@ -1,6 +1,6 @@
 ---
 shortcode: bryleoftarkoff
-name: {full: Bryle of Tarkoff, title: "", given: Bryle, clan: Tarkoff, aliases: []}
+name: {full: Bryle of Tarkoff, aliases: []}
 type: being
 tags: [character]
 data:

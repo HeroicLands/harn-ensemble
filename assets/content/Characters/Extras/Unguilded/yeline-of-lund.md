@@ -1,6 +1,6 @@
 ---
 shortcode: yelineoflund
-name: {full: Yeline of Lund, title: "", given: Yeline, clan: Lund, aliases: []}
+name: {full: Yeline of Lund, aliases: []}
 type: being
 tags: [character]
 data:

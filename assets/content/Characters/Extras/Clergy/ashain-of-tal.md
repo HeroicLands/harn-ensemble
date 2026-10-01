@@ -1,6 +1,6 @@
 ---
 shortcode: ashainoftal
-name: {full: Ashain of Tal, title: "", given: Ashain, clan: Tal, aliases: []}
+name: {full: Ashain of Tal, aliases: []}
 type: being
 tags: [character]
 data:

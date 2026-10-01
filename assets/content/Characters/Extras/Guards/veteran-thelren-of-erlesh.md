@@ -1,6 +1,6 @@
 ---
 shortcode: veteranthelrenoferlesh
-name: {full: Veteran Thelren of Erlesh, title: Veteran, given: Thelren, clan: Erlesh, aliases: []}
+name: {full: Veteran Thelren of Erlesh, aliases: []}
 type: being
 tags: [character]
 data:

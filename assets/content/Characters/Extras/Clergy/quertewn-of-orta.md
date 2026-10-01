@@ -1,6 +1,6 @@
 ---
 shortcode: quertewnoforta
-name: {full: Quertewn of Orta, title: "", given: Quertewn, clan: Orta, aliases: []}
+name: {full: Quertewn of Orta, aliases: []}
 type: being
 tags: [character]
 data:

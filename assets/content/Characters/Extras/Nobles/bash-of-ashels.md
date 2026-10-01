@@ -1,6 +1,6 @@
 ---
 shortcode: bashofashels
-name: {full: Bash of Ashels, title: "", given: Bash, clan: Ashels, aliases: []}
+name: {full: Bash of Ashels, aliases: []}
 type: being
 tags: [character]
 data:

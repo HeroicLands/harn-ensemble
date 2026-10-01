@@ -1,6 +1,6 @@
 ---
 shortcode: yeraofubellyr
-name: {full: Yera of Ubellyr, title: "", given: Yera, clan: Ubellyr, aliases: []}
+name: {full: Yera of Ubellyr, aliases: []}
 type: being
 tags: [character]
 data:

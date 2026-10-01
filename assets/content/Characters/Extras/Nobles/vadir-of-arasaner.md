@@ -1,6 +1,6 @@
 ---
 shortcode: vadirofarasaner
-name: {full: Vadir of Arasaner, title: "", given: Vadir, clan: Arasaner, aliases: []}
+name: {full: Vadir of Arasaner, aliases: []}
 type: being
 tags: [character]
 data:

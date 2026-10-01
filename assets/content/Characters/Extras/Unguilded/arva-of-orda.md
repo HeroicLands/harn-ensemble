@@ -1,6 +1,6 @@
 ---
 shortcode: arvaoforda
-name: {full: Arva of Orda, title: "", given: Arva, clan: Orda, aliases: []}
+name: {full: Arva of Orda, aliases: []}
 type: being
 tags: [character]
 data:

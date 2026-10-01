@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofquardin
-name: {full: Terza of Quardin, title: "", given: Terza, clan: Quardin, aliases: []}
+name: {full: Terza of Quardin, aliases: []}
 type: being
 tags: [character]
 data:

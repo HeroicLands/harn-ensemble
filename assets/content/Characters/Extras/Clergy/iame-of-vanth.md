@@ -1,6 +1,6 @@
 ---
 shortcode: iameofvanth
-name: {full: Iame of Vanth, title: "", given: Iame, clan: Vanth, aliases: []}
+name: {full: Iame of Vanth, aliases: []}
 type: being
 tags: [character]
 data:

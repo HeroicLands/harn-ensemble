@@ -1,6 +1,6 @@
 ---
 shortcode: dirofamafa
-name: {full: Dir of Amafa, title: "", given: Dir, clan: Amafa, aliases: []}
+name: {full: Dir of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

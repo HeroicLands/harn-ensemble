@@ -1,6 +1,6 @@
 ---
 shortcode: karienoftal
-name: {full: Karien of Tal, title: "", given: Karien, clan: Tal, aliases: []}
+name: {full: Karien of Tal, aliases: []}
 type: being
 tags: [character]
 data:

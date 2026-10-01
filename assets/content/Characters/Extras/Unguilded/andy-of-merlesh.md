@@ -1,6 +1,6 @@
 ---
 shortcode: andyofmerlesh
-name: {full: Andy of Merlesh, title: "", given: Andy, clan: Merlesh, aliases: []}
+name: {full: Andy of Merlesh, aliases: []}
 type: being
 tags: [character]
 data:

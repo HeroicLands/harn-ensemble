@@ -1,6 +1,6 @@
 ---
 shortcode: solineofkyfa
-name: {full: Soline of Kyfa, title: "", given: Soline, clan: Kyfa, aliases: []}
+name: {full: Soline of Kyfa, aliases: []}
 type: being
 tags: [character]
 data:

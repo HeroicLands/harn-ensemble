@@ -1,6 +1,6 @@
 ---
 shortcode: chimaofavordan
-name: {full: Chima of Avordan, title: "", given: Chima, clan: Avordan, aliases: []}
+name: {full: Chima of Avordan, aliases: []}
 type: being
 tags: [character]
 data:

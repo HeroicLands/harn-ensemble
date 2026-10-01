@@ -1,6 +1,6 @@
 ---
 shortcode: thelrenofesaldim
-name: {full: Thelren of Esaldim, title: "", given: Thelren, clan: Esaldim, aliases: []}
+name: {full: Thelren of Esaldim, aliases: []}
 type: being
 tags: [character]
 data:

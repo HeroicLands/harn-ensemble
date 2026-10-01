@@ -1,6 +1,6 @@
 ---
 shortcode: orthiasofavorda
-name: {full: Orthias of Avorda, title: "", given: Orthias, clan: Avorda, aliases: []}
+name: {full: Orthias of Avorda, aliases: []}
 type: being
 tags: [character]
 data:

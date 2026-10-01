@@ -1,6 +1,6 @@
 ---
 shortcode: garoftaldis
-name: {full: Gar of Taldis, title: "", given: Gar, clan: Taldis, aliases: []}
+name: {full: Gar of Taldis, aliases: []}
 type: being
 tags: [character]
 data:

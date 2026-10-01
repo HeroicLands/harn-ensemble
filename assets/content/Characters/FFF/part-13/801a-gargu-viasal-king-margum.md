@@ -1,6 +1,6 @@
 ---
 shortcode: margum
-name: {full: Margum, title: "", given: Margum, clan: "", aliases: []}
+name: {full: Margum, aliases: []}
 type: being
 tags: [character]
 data:

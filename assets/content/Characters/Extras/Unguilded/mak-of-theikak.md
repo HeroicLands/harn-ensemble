@@ -1,6 +1,6 @@
 ---
 shortcode: makoftheikak
-name: {full: Mak of Theikak, title: "", given: Mak, clan: Theikak, aliases: []}
+name: {full: Mak of Theikak, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,11 +1,6 @@
 ---
 shortcode: amlugorthuiredheluinofarannachafin
-name:
-  full: Amlugorthuiredheluin of Arannachafin
-  title: ""
-  given: Amlugorthuiredheluin
-  clan: Arannachafin
-  aliases: []
+name: {full: Amlugorthuiredheluin of Arannachafin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: mysilenaofkramel
-name: {full: Mysilena of Kramel, title: "", given: Mysilena, clan: Kramel, aliases: []}
+name: {full: Mysilena of Kramel, aliases: []}
 type: being
 tags: [character]
 data:

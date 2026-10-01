@@ -1,6 +1,6 @@
 ---
 shortcode: larinofkass
-name: {full: Larin of Kass, title: "", given: Larin, clan: Kass, aliases: []}
+name: {full: Larin of Kass, aliases: []}
 type: being
 tags: [character]
 data:

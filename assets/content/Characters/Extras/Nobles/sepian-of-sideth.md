@@ -1,6 +1,6 @@
 ---
 shortcode: sepianofsideth
-name: {full: Sepian of Sideth, title: "", given: Sepian, clan: Sideth, aliases: []}
+name: {full: Sepian of Sideth, aliases: []}
 type: being
 tags: [character]
 data:

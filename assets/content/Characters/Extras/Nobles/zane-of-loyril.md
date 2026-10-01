@@ -1,6 +1,6 @@
 ---
 shortcode: zaneofloyril
-name: {full: Zane of Loyril, title: "", given: Zane, clan: Loyril, aliases: []}
+name: {full: Zane of Loyril, aliases: []}
 type: being
 tags: [character]
 data:

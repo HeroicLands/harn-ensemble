@@ -1,11 +1,6 @@
 ---
 shortcode: captainfranofkramelesque
-name:
-  full: Captain Fran of Kramelesque
-  title: Captain
-  given: Fran
-  clan: Kramelesque
-  aliases: []
+name: {full: Captain Fran of Kramelesque, aliases: []}
 type: being
 tags: [character]
 data:

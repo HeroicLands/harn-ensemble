@@ -1,6 +1,6 @@
 ---
 shortcode: irisofvaradas
-name: {full: Iris of Varadas, title: "", given: Iris, clan: Varadas, aliases: []}
+name: {full: Iris of Varadas, aliases: []}
 type: being
 tags: [character]
 data:

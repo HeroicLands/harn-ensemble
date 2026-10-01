@@ -1,6 +1,6 @@
 ---
 shortcode: larmoffulkail
-name: {full: Larm of Fulkail, title: "", given: Larm, clan: Fulkail, aliases: []}
+name: {full: Larm of Fulkail, aliases: []}
 type: being
 tags: [character]
 data:

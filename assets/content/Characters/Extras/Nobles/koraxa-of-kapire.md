@@ -1,6 +1,6 @@
 ---
 shortcode: koraxaofkapire
-name: {full: Koraxa of Kapire, title: "", given: Koraxa, clan: Kapire, aliases: []}
+name: {full: Koraxa of Kapire, aliases: []}
 type: being
 tags: [character]
 data:

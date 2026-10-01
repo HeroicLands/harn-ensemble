@@ -1,6 +1,6 @@
 ---
 shortcode: sarynofdon
-name: {full: Saryn of Don, title: "", given: Saryn, clan: Don, aliases: []}
+name: {full: Saryn of Don, aliases: []}
 type: being
 tags: [character]
 data:

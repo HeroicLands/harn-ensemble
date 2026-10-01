@@ -1,6 +1,6 @@
 ---
 shortcode: lajanaofmarn
-name: {full: Lajana of Marn, title: "", given: Lajana, clan: Marn, aliases: []}
+name: {full: Lajana of Marn, aliases: []}
 type: being
 tags: [character]
 data:

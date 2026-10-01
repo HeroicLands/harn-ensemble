@@ -1,6 +1,6 @@
 ---
 shortcode: heraofuerth
-name: {full: Hera of Uerth, title: "", given: Hera, clan: Uerth, aliases: []}
+name: {full: Hera of Uerth, aliases: []}
 type: being
 tags: [character]
 data:

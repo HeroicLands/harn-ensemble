@@ -1,6 +1,6 @@
 ---
 shortcode: terbaofpayensenal
-name: {full: Terba of Payensenal, title: "", given: Terba, clan: Payensenal, aliases: []}
+name: {full: Terba of Payensenal, aliases: []}
 type: being
 tags: [character]
 data:

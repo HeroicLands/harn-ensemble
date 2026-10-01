@@ -1,6 +1,6 @@
 ---
 shortcode: feldarofyaleh
-name: {full: Feldar of Yaleh, title: "", given: Feldar, clan: Yaleh, aliases: []}
+name: {full: Feldar of Yaleh, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: lanachofkaterien
-name: {full: Lanach of Katerien, title: "", given: Lanach, clan: Katerien, aliases: []}
+name: {full: Lanach of Katerien, aliases: []}
 type: being
 tags: [character]
 data:

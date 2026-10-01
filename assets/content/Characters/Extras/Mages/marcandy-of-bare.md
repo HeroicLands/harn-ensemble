@@ -1,6 +1,6 @@
 ---
 shortcode: marcandyofbare
-name: {full: Marcandy of Bare, title: "", given: Marcandy, clan: Bare, aliases: []}
+name: {full: Marcandy of Bare, aliases: []}
 type: being
 tags: [character]
 data:

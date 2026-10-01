@@ -1,6 +1,6 @@
 ---
 shortcode: meraofbanth
-name: {full: Mera of Banth, title: "", given: Mera, clan: Banth, aliases: []}
+name: {full: Mera of Banth, aliases: []}
 type: being
 tags: [character]
 data:

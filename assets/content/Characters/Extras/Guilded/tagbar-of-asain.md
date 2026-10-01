@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarofasain
-name: {full: Tagbar of Asain, title: "", given: Tagbar, clan: Asain, aliases: []}
+name: {full: Tagbar of Asain, aliases: []}
 type: being
 tags: [character]
 data:

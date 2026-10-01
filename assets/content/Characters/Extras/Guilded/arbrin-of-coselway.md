@@ -1,6 +1,6 @@
 ---
 shortcode: arbrinofcoselway
-name: {full: Arbrin of Coselway, title: "", given: Arbrin, clan: Coselway, aliases: []}
+name: {full: Arbrin of Coselway, aliases: []}
 type: being
 tags: [character]
 data:

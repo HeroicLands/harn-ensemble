@@ -1,6 +1,6 @@
 ---
 shortcode: tersofveris
-name: {full: Ters of Veris, title: "", given: Ters, clan: Veris, aliases: []}
+name: {full: Ters of Veris, aliases: []}
 type: being
 tags: [character]
 data:

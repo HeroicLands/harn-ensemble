@@ -1,6 +1,6 @@
 ---
 shortcode: saiofvaros
-name: {full: Sai of Varos, title: "", given: Sai, clan: Varos, aliases: []}
+name: {full: Sai of Varos, aliases: []}
 type: being
 tags: [character]
 data:

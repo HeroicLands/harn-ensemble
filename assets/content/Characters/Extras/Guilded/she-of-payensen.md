@@ -1,6 +1,6 @@
 ---
 shortcode: sheofpayensen
-name: {full: She of Payensen, title: "", given: She, clan: Payensen, aliases: []}
+name: {full: She of Payensen, aliases: []}
 type: being
 tags: [character]
 data:

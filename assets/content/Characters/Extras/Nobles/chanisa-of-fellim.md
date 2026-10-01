@@ -1,6 +1,6 @@
 ---
 shortcode: chanisaoffellim
-name: {full: Chanisa of Fellim, title: "", given: Chanisa, clan: Fellim, aliases: []}
+name: {full: Chanisa of Fellim, aliases: []}
 type: being
 tags: [character]
 data:

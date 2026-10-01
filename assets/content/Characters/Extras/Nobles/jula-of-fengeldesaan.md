@@ -1,6 +1,6 @@
 ---
 shortcode: julaoffengeldesaan
-name: {full: Jula of Fengeldesaan, title: "", given: Jula, clan: Fengeldesaan, aliases: []}
+name: {full: Jula of Fengeldesaan, aliases: []}
 type: being
 tags: [character]
 data:

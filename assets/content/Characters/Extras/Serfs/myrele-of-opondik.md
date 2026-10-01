@@ -1,6 +1,6 @@
 ---
 shortcode: myreleofopondik
-name: {full: Myrele of Opondik, title: "", given: Myrele, clan: Opondik, aliases: []}
+name: {full: Myrele of Opondik, aliases: []}
 type: being
 tags: [character]
 data:

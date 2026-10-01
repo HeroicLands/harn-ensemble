@@ -1,6 +1,6 @@
 ---
 shortcode: jamysofkestel
-name: {full: Jamys of Kestel, title: "", given: Jamys, clan: Kestel, aliases: []}
+name: {full: Jamys of Kestel, aliases: []}
 type: being
 tags: [character]
 data:

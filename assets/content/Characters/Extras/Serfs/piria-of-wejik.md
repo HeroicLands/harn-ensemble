@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofwejik
-name: {full: Piria of Wejik, title: "", given: Piria, clan: Wejik, aliases: []}
+name: {full: Piria of Wejik, aliases: []}
 type: being
 tags: [character]
 data:

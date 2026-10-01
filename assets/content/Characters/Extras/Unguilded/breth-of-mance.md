@@ -1,6 +1,6 @@
 ---
 shortcode: brethofmance
-name: {full: Breth of Mance, title: "", given: Breth, clan: Mance, aliases: []}
+name: {full: Breth of Mance, aliases: []}
 type: being
 tags: [character]
 data:

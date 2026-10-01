@@ -1,6 +1,6 @@
 ---
 shortcode: chanishelofikswic
-name: {full: Chanishel of Ikswic, title: "", given: Chanishel, clan: Ikswic, aliases: []}
+name: {full: Chanishel of Ikswic, aliases: []}
 type: being
 tags: [character]
 data:

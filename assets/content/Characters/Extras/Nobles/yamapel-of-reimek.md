@@ -1,6 +1,6 @@
 ---
 shortcode: yamapelofreimek
-name: {full: Yamapel of Reimek, title: "", given: Yamapel, clan: Reimek, aliases: []}
+name: {full: Yamapel of Reimek, aliases: []}
 type: being
 tags: [character]
 data:

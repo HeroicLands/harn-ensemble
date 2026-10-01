@@ -1,6 +1,6 @@
 ---
 shortcode: forabainofasaka
-name: {full: Forabain of Asaka, title: "", given: Forabain, clan: Asaka, aliases: []}
+name: {full: Forabain of Asaka, aliases: []}
 type: being
 tags: [character]
 data:

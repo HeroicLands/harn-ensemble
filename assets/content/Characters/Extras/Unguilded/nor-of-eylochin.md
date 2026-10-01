@@ -1,6 +1,6 @@
 ---
 shortcode: norofeylochin
-name: {full: Nor of Eylochin, title: "", given: Nor, clan: Eylochin, aliases: []}
+name: {full: Nor of Eylochin, aliases: []}
 type: being
 tags: [character]
 data:

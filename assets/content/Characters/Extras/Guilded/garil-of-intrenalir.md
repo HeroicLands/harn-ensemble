@@ -1,6 +1,6 @@
 ---
 shortcode: garilofintrenalir
-name: {full: Garil of Intrenalir, title: "", given: Garil, clan: Intrenalir, aliases: []}
+name: {full: Garil of Intrenalir, aliases: []}
 type: being
 tags: [character]
 data:

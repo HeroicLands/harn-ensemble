@@ -1,6 +1,6 @@
 ---
 shortcode: utheromofwesaldire
-name: {full: Utherom of Wesaldire, title: "", given: Utherom, clan: Wesaldire, aliases: []}
+name: {full: Utherom of Wesaldire, aliases: []}
 type: being
 tags: [character]
 data:

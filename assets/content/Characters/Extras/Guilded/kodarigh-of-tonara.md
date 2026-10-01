@@ -1,6 +1,6 @@
 ---
 shortcode: kodarighoftonara
-name: {full: Kodarigh of Tonara, title: "", given: Kodarigh, clan: Tonara, aliases: []}
+name: {full: Kodarigh of Tonara, aliases: []}
 type: being
 tags: [character]
 data:

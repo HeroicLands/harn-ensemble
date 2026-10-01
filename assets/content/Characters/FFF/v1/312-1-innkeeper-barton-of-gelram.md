@@ -1,6 +1,6 @@
 ---
 shortcode: bartonofgelram
-name: {full: Barton of Gelram, title: "", given: Barton, clan: Gelram, aliases: []}
+name: {full: Barton of Gelram, aliases: []}
 type: being
 tags: [character]
 data:

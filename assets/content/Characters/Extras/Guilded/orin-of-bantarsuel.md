@@ -1,6 +1,6 @@
 ---
 shortcode: orinofbantarsuel
-name: {full: Orin of Bantarsuel, title: "", given: Orin, clan: Bantarsuel, aliases: []}
+name: {full: Orin of Bantarsuel, aliases: []}
 type: being
 tags: [character]
 data:

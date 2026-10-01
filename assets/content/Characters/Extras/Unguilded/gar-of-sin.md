@@ -1,6 +1,6 @@
 ---
 shortcode: garofsin
-name: {full: Gar of Sin, title: "", given: Gar, clan: Sin, aliases: []}
+name: {full: Gar of Sin, aliases: []}
 type: being
 tags: [character]
 data:

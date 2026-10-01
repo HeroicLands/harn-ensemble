@@ -1,6 +1,6 @@
 ---
 shortcode: jakalaronisofprovin
-name: {full: Jakalaronis of Provin, title: "", given: Jakalaronis, clan: Provin, aliases: []}
+name: {full: Jakalaronis of Provin, aliases: []}
 type: being
 tags: [character]
 data:

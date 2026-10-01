@@ -1,6 +1,6 @@
 ---
 shortcode: ardenylofroll
-name: {full: Ardenyl of Roll, title: "", given: Ardenyl, clan: Roll, aliases: []}
+name: {full: Ardenyl of Roll, aliases: []}
 type: being
 tags: [character]
 data:

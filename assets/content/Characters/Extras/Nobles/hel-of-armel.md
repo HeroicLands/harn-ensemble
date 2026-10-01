@@ -1,6 +1,6 @@
 ---
 shortcode: helofarmel
-name: {full: Hel of Armel, title: "", given: Hel, clan: Armel, aliases: []}
+name: {full: Hel of Armel, aliases: []}
 type: being
 tags: [character]
 data:

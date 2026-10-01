@@ -1,6 +1,6 @@
 ---
 shortcode: jereofbaroos
-name: {full: Jere of Baroos, title: "", given: Jere, clan: Baroos, aliases: []}
+name: {full: Jere of Baroos, aliases: []}
 type: being
 tags: [character]
 data:

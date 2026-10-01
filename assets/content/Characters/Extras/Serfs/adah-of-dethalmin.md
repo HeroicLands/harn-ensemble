@@ -1,6 +1,6 @@
 ---
 shortcode: adahofdethalmin
-name: {full: Adah of Dethalmin, title: "", given: Adah, clan: Dethalmin, aliases: []}
+name: {full: Adah of Dethalmin, aliases: []}
 type: being
 tags: [character]
 data:

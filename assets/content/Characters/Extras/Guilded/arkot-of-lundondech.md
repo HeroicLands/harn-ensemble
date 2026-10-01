@@ -1,6 +1,6 @@
 ---
 shortcode: arkotoflundondech
-name: {full: Arkot of Lundondech, title: "", given: Arkot, clan: Lundondech, aliases: []}
+name: {full: Arkot of Lundondech, aliases: []}
 type: being
 tags: [character]
 data:

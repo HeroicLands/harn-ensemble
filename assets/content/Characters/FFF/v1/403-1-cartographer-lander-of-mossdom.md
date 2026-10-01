@@ -1,6 +1,6 @@
 ---
 shortcode: landerofmossdom
-name: {full: Lander of Mossdom, title: "", given: Lander, clan: Mossdom, aliases: []}
+name: {full: Lander of Mossdom, aliases: []}
 type: being
 tags: [character]
 data:

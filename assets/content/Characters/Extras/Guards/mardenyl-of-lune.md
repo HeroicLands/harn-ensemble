@@ -1,6 +1,6 @@
 ---
 shortcode: mardenyloflune
-name: {full: Mardenyl of Lune, title: "", given: Mardenyl, clan: Lune, aliases: []}
+name: {full: Mardenyl of Lune, aliases: []}
 type: being
 tags: [character]
 data:

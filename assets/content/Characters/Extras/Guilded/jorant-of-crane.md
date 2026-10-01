@@ -1,6 +1,6 @@
 ---
 shortcode: jorantofcrane
-name: {full: Jorant of Crane, title: "", given: Jorant, clan: Crane, aliases: []}
+name: {full: Jorant of Crane, aliases: []}
 type: being
 tags: [character]
 data:

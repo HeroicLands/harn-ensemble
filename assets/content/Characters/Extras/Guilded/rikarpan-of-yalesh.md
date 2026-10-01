@@ -1,6 +1,6 @@
 ---
 shortcode: rikarpanofyalesh
-name: {full: Rikarpan of Yalesh, title: "", given: Rikarpan, clan: Yalesh, aliases: []}
+name: {full: Rikarpan of Yalesh, aliases: []}
 type: being
 tags: [character]
 data:

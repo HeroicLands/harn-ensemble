@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofren
-name: {full: Terza of Ren, title: "", given: Terza, clan: Ren, aliases: []}
+name: {full: Terza of Ren, aliases: []}
 type: being
 tags: [character]
 data:

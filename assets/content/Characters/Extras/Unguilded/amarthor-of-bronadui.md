@@ -1,6 +1,6 @@
 ---
 shortcode: amarthorofbronadui
-name: {full: Amarthor of Bronadui, title: "", given: Amarthor, clan: Bronadui, aliases: []}
+name: {full: Amarthor of Bronadui, aliases: []}
 type: being
 tags: [character]
 data:

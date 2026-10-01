@@ -1,6 +1,6 @@
 ---
 shortcode: albalnyofyisgaradas
-name: {full: Albalny of Yisgaradas, title: "", given: Albalny, clan: Yisgaradas, aliases: []}
+name: {full: Albalny of Yisgaradas, aliases: []}
 type: being
 tags: [character]
 data:

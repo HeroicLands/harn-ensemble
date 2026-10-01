@@ -1,6 +1,6 @@
 ---
 shortcode: rolofathalmin
-name: {full: Rol of Athalmin, title: "", given: Rol, clan: Athalmin, aliases: []}
+name: {full: Rol of Athalmin, aliases: []}
 type: being
 tags: [character]
 data:

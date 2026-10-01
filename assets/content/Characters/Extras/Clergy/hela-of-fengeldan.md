@@ -1,6 +1,6 @@
 ---
 shortcode: helaoffengeldan
-name: {full: Hela of Fengeldan, title: "", given: Hela, clan: Fengeldan, aliases: []}
+name: {full: Hela of Fengeldan, aliases: []}
 type: being
 tags: [character]
 data:

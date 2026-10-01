@@ -1,6 +1,6 @@
 ---
 shortcode: kyresaldisofchornin
-name: {full: Kyresaldis of Chornin, title: "", given: Kyresaldis, clan: Chornin, aliases: []}
+name: {full: Kyresaldis of Chornin, aliases: []}
 type: being
 tags: [character]
 data:

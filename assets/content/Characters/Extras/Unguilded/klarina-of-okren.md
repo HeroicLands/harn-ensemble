@@ -1,6 +1,6 @@
 ---
 shortcode: klarinaofokren
-name: {full: Klarina of Okren, title: "", given: Klarina, clan: Okren, aliases: []}
+name: {full: Klarina of Okren, aliases: []}
 type: being
 tags: [character]
 data:

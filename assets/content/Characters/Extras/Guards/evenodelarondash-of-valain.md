@@ -1,11 +1,6 @@
 ---
 shortcode: evenodelarondashofvalain
-name:
-  full: Evenodelarondash of Valain
-  title: ""
-  given: Evenodelarondash
-  clan: Valain
-  aliases: []
+name: {full: Evenodelarondash of Valain, aliases: []}
 type: being
 tags: [character]
 data:

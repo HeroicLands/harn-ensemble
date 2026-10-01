@@ -1,6 +1,6 @@
 ---
 shortcode: querelaofsymdal
-name: {full: Querela of Symdal, title: "", given: Querela, clan: Symdal, aliases: []}
+name: {full: Querela of Symdal, aliases: []}
 type: being
 tags: [character]
 data:

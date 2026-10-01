@@ -1,6 +1,6 @@
 ---
 shortcode: aradahofkanthen
-name: {full: Aradah of Kanthen, title: "", given: Aradah, clan: Kanthen, aliases: []}
+name: {full: Aradah of Kanthen, aliases: []}
 type: being
 tags: [character]
 data:

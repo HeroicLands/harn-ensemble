@@ -1,6 +1,6 @@
 ---
 shortcode: belevonaduofamathel
-name: {full: Belevonadu of Amathel, title: "", given: Belevonadu, clan: Amathel, aliases: []}
+name: {full: Belevonadu of Amathel, aliases: []}
 type: being
 tags: [character]
 data:

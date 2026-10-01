@@ -1,6 +1,6 @@
 ---
 shortcode: pelisofnar
-name: {full: Pelis of Nar, title: "", given: Pelis, clan: Nar, aliases: []}
+name: {full: Pelis of Nar, aliases: []}
 type: being
 tags: [character]
 data:

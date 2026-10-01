@@ -1,6 +1,6 @@
 ---
 shortcode: lodinofelere
-name: {full: Lodin of Elere, title: "", given: Lodin, clan: Elere, aliases: []}
+name: {full: Lodin of Elere, aliases: []}
 type: being
 tags: [character]
 data:

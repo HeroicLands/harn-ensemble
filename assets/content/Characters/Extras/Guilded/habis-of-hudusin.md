@@ -1,6 +1,6 @@
 ---
 shortcode: habisofhudusin
-name: {full: Habis of Hudusin, title: "", given: Habis, clan: Hudusin, aliases: []}
+name: {full: Habis of Hudusin, aliases: []}
 type: being
 tags: [character]
 data:

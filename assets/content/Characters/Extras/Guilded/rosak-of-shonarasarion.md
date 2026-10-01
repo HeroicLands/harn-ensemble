@@ -1,6 +1,6 @@
 ---
 shortcode: rosakofshonarasarion
-name: {full: Rosak of Shonarasarion, title: "", given: Rosak, clan: Shonarasarion, aliases: []}
+name: {full: Rosak of Shonarasarion, aliases: []}
 type: being
 tags: [character]
 data:

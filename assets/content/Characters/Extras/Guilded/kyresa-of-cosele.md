@@ -1,6 +1,6 @@
 ---
 shortcode: kyresaofcosele
-name: {full: Kyresa of Cosele, title: "", given: Kyresa, clan: Cosele, aliases: []}
+name: {full: Kyresa of Cosele, aliases: []}
 type: being
 tags: [character]
 data:

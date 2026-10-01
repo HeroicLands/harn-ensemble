@@ -1,6 +1,6 @@
 ---
 shortcode: lamofewen
-name: {full: Lam of Ewen, title: "", given: Lam, clan: Ewen, aliases: []}
+name: {full: Lam of Ewen, aliases: []}
 type: being
 tags: [character]
 data:

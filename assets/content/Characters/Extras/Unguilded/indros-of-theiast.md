@@ -1,6 +1,6 @@
 ---
 shortcode: indrosoftheiast
-name: {full: Indros of Theiast, title: "", given: Indros, clan: Theiast, aliases: []}
+name: {full: Indros of Theiast, aliases: []}
 type: being
 tags: [character]
 data:

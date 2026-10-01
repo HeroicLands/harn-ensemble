@@ -1,6 +1,6 @@
 ---
 shortcode: ginaofunis
-name: {full: Gina of Unis, title: "", given: Gina, clan: Unis, aliases: []}
+name: {full: Gina of Unis, aliases: []}
 type: being
 tags: [character]
 data:

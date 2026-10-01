@@ -1,6 +1,6 @@
 ---
 shortcode: grallaxofsiven
-name: {full: Grallax of Siven, title: "", given: Grallax, clan: Siven, aliases: []}
+name: {full: Grallax of Siven, aliases: []}
 type: being
 tags: [character]
 data:

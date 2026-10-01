@@ -1,6 +1,6 @@
 ---
 shortcode: yebinofmerbenalasane
-name: {full: Yebin of Merbenalasane, title: "", given: Yebin, clan: Merbenalasane, aliases: []}
+name: {full: Yebin of Merbenalasane, aliases: []}
 type: being
 tags: [character]
 data:

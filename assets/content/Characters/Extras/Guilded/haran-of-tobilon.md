@@ -1,6 +1,6 @@
 ---
 shortcode: haranoftobilon
-name: {full: Haran of Tobilon, title: "", given: Haran, clan: Tobilon, aliases: []}
+name: {full: Haran of Tobilon, aliases: []}
 type: being
 tags: [character]
 data:

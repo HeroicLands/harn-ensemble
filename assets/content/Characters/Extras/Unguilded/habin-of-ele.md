@@ -1,6 +1,6 @@
 ---
 shortcode: habinofele
-name: {full: Habin of Ele, title: "", given: Habin, clan: Ele, aliases: []}
+name: {full: Habin of Ele, aliases: []}
 type: being
 tags: [character]
 data:

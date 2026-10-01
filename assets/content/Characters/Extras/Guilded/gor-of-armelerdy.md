@@ -1,6 +1,6 @@
 ---
 shortcode: gorofarmelerdy
-name: {full: Gor of Armelerdy, title: "", given: Gor, clan: Armelerdy, aliases: []}
+name: {full: Gor of Armelerdy, aliases: []}
 type: being
 tags: [character]
 data:

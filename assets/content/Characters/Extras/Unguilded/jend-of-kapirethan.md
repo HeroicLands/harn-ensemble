@@ -1,6 +1,6 @@
 ---
 shortcode: jendofkapirethan
-name: {full: Jend of Kapirethan, title: "", given: Jend, clan: Kapirethan, aliases: []}
+name: {full: Jend of Kapirethan, aliases: []}
 type: being
 tags: [character]
 data:

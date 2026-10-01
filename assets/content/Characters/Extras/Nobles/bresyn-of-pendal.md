@@ -1,6 +1,6 @@
 ---
 shortcode: bresynofpendal
-name: {full: Bresyn of Pendal, title: "", given: Bresyn, clan: Pendal, aliases: []}
+name: {full: Bresyn of Pendal, aliases: []}
 type: being
 tags: [character]
 data:

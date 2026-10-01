@@ -1,6 +1,6 @@
 ---
 shortcode: uoneoftichmarnic
-name: {full: Uone of Tichmarnic, title: "", given: Uone, clan: Tichmarnic, aliases: []}
+name: {full: Uone of Tichmarnic, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarakofsaldin
-name: {full: Tagbarak of Saldin, title: "", given: Tagbarak, clan: Saldin, aliases: []}
+name: {full: Tagbarak of Saldin, aliases: []}
 type: being
 tags: [character]
 data:

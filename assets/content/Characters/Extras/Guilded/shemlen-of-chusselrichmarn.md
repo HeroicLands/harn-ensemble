@@ -1,11 +1,6 @@
 ---
 shortcode: shemlenofchusselrichmarn
-name:
-  full: Shemlen of Chusselrichmarn
-  title: ""
-  given: Shemlen
-  clan: Chusselrichmarn
-  aliases: []
+name: {full: Shemlen of Chusselrichmarn, aliases: []}
 type: being
 tags: [character]
 data:

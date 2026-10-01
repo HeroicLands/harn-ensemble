@@ -1,6 +1,6 @@
 ---
 shortcode: halmartonofhosathaen
-name: {full: Halmarton of Hosathaen, title: "", given: Halmarton, clan: Hosathaen, aliases: []}
+name: {full: Halmarton of Hosathaen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: llawaurtam
-name: {full: Llawaur Tam, title: "", given: Llawaur, clan: Tam, aliases: []}
+name: {full: Llawaur Tam, aliases: []}
 type: being
 tags: [character]
 data:

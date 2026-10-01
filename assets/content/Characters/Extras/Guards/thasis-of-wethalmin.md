@@ -1,6 +1,6 @@
 ---
 shortcode: thasisofwethalmin
-name: {full: Thasis of Wethalmin, title: "", given: Thasis, clan: Wethalmin, aliases: []}
+name: {full: Thasis of Wethalmin, aliases: []}
 type: being
 tags: [character]
 data:

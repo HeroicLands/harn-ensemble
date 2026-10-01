@@ -1,6 +1,6 @@
 ---
 shortcode: jehanofmikelfot
-name: {full: Jehan of Mikelfot, title: "", given: Jehan, clan: Mikelfot, aliases: []}
+name: {full: Jehan of Mikelfot, aliases: []}
 type: being
 tags: [character]
 data:

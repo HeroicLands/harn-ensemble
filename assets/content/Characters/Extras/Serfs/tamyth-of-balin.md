@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofbalin
-name: {full: Tamyth of Balin, title: "", given: Tamyth, clan: Balin, aliases: []}
+name: {full: Tamyth of Balin, aliases: []}
 type: being
 tags: [character]
 data:

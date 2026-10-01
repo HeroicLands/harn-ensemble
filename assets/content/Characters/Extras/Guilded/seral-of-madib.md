@@ -1,6 +1,6 @@
 ---
 shortcode: seralofmadib
-name: {full: Seral of Madib, title: "", given: Seral, clan: Madib, aliases: []}
+name: {full: Seral of Madib, aliases: []}
 type: being
 tags: [character]
 data:

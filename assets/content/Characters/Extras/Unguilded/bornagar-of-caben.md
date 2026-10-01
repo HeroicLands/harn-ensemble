@@ -1,6 +1,6 @@
 ---
 shortcode: bornagarofcaben
-name: {full: Bornagar of Caben, title: "", given: Bornagar, clan: Caben, aliases: []}
+name: {full: Bornagar of Caben, aliases: []}
 type: being
 tags: [character]
 data:

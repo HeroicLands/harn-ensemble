@@ -1,6 +1,6 @@
 ---
 shortcode: murlidonofmarn
-name: {full: Murlidon of Marn, title: "", given: Murlidon, clan: Marn, aliases: []}
+name: {full: Murlidon of Marn, aliases: []}
 type: being
 tags: [character]
 data:

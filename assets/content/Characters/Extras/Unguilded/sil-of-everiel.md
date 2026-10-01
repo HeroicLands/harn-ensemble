@@ -1,6 +1,6 @@
 ---
 shortcode: silofeveriel
-name: {full: Sil of Everiel, title: "", given: Sil, clan: Everiel, aliases: []}
+name: {full: Sil of Everiel, aliases: []}
 type: being
 tags: [character]
 data:

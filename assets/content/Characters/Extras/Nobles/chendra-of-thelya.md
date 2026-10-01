@@ -1,6 +1,6 @@
 ---
 shortcode: chendraofthelya
-name: {full: Chendra of Thelya, title: "", given: Chendra, clan: Thelya, aliases: []}
+name: {full: Chendra of Thelya, aliases: []}
 type: being
 tags: [character]
 data:

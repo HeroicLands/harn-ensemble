@@ -1,6 +1,6 @@
 ---
 shortcode: mansuquig
-name: {full: Mansu Quig, title: "", given: Mansu, clan: Quig, aliases: []}
+name: {full: Mansu Quig, aliases: []}
 type: being
 tags: [character]
 data:

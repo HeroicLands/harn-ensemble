@@ -1,6 +1,6 @@
 ---
 shortcode: quertenaofveriel
-name: {full: Quertena of Veriel, title: "", given: Quertena, clan: Veriel, aliases: []}
+name: {full: Quertena of Veriel, aliases: []}
 type: being
 tags: [character]
 data:

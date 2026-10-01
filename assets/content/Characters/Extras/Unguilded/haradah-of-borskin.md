@@ -1,6 +1,6 @@
 ---
 shortcode: haradahofborskin
-name: {full: Haradah of Borskin, title: "", given: Haradah, clan: Borskin, aliases: []}
+name: {full: Haradah of Borskin, aliases: []}
 type: being
 tags: [character]
 data:

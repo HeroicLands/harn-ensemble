@@ -1,6 +1,6 @@
 ---
 shortcode: umenofraben
-name: {full: Umen of Raben, title: "", given: Umen, clan: Raben, aliases: []}
+name: {full: Umen of Raben, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: karynofharass
-name: {full: Karyn of Harass, title: "", given: Karyn, clan: Harass, aliases: []}
+name: {full: Karyn of Harass, aliases: []}
 type: being
 tags: [character]
 data:

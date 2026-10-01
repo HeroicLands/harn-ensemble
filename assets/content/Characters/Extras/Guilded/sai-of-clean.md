@@ -1,6 +1,6 @@
 ---
 shortcode: saiofclean
-name: {full: Sai of Clean, title: "", given: Sai, clan: Clean, aliases: []}
+name: {full: Sai of Clean, aliases: []}
 type: being
 tags: [character]
 data:

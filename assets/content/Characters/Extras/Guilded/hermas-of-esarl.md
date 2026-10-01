@@ -1,6 +1,6 @@
 ---
 shortcode: hermasofesarl
-name: {full: Hermas of Esarl, title: "", given: Hermas, clan: Esarl, aliases: []}
+name: {full: Hermas of Esarl, aliases: []}
 type: being
 tags: [character]
 data:

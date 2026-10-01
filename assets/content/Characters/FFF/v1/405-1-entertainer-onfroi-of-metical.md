@@ -1,6 +1,6 @@
 ---
 shortcode: onfroiofmetical
-name: {full: Onfroi of Metical, title: "", given: Onfroi, clan: Metical, aliases: []}
+name: {full: Onfroi of Metical, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: captainnatgenoftulkail
-name: {full: Captain Natgen of Tulkail, title: Captain, given: Natgen, clan: Tulkail, aliases: []}
+name: {full: Captain Natgen of Tulkail, aliases: []}
 type: being
 tags: [character]
 data:

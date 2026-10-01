@@ -1,6 +1,6 @@
 ---
 shortcode: valofcuro
-name: {full: Val of Curo, title: "", given: Val, clan: Curo, aliases: []}
+name: {full: Val of Curo, aliases: []}
 type: being
 tags: [character]
 data:

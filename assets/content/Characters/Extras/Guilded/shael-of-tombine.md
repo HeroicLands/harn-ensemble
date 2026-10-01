@@ -1,6 +1,6 @@
 ---
 shortcode: shaeloftombine
-name: {full: Shael of Tombine, title: "", given: Shael, clan: Tombine, aliases: []}
+name: {full: Shael of Tombine, aliases: []}
 type: being
 tags: [character]
 data:

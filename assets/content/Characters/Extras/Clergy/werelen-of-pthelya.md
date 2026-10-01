@@ -1,6 +1,6 @@
 ---
 shortcode: werelenofpthelya
-name: {full: Werelen of Pthelya, title: "", given: Werelen, clan: Pthelya, aliases: []}
+name: {full: Werelen of Pthelya, aliases: []}
 type: being
 tags: [character]
 data:

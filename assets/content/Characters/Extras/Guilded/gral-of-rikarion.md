@@ -1,6 +1,6 @@
 ---
 shortcode: gralofrikarion
-name: {full: Gral of Rikarion, title: "", given: Gral, clan: Rikarion, aliases: []}
+name: {full: Gral of Rikarion, aliases: []}
 type: being
 tags: [character]
 data:

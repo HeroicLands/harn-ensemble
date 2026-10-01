@@ -1,6 +1,6 @@
 ---
 shortcode: karpanofath
-name: {full: Karpan of Ath, title: "", given: Karpan, clan: Ath, aliases: []}
+name: {full: Karpan of Ath, aliases: []}
 type: being
 tags: [character]
 data:

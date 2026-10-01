@@ -1,6 +1,6 @@
 ---
 shortcode: korofsiven
-name: {full: Kor of Siven, title: "", given: Kor, clan: Siven, aliases: []}
+name: {full: Kor of Siven, aliases: []}
 type: being
 tags: [character]
 data:

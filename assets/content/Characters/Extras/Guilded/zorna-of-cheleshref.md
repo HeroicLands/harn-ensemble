@@ -1,6 +1,6 @@
 ---
 shortcode: zornaofcheleshref
-name: {full: Zorna of Cheleshref, title: "", given: Zorna, clan: Cheleshref, aliases: []}
+name: {full: Zorna of Cheleshref, aliases: []}
 type: being
 tags: [character]
 data:

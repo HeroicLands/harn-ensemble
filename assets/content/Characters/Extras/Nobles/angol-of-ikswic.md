@@ -1,6 +1,6 @@
 ---
 shortcode: angolofikswic
-name: {full: Angol of Ikswic, title: "", given: Angol, clan: Ikswic, aliases: []}
+name: {full: Angol of Ikswic, aliases: []}
 type: being
 tags: [character]
 data:

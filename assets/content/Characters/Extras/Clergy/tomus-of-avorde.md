@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofavorde
-name: {full: Tomus of Avorde, title: "", given: Tomus, clan: Avorde, aliases: []}
+name: {full: Tomus of Avorde, aliases: []}
 type: being
 tags: [character]
 data:

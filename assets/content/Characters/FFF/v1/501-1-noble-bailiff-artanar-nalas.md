@@ -1,6 +1,6 @@
 ---
 shortcode: artanarnalas
-name: {full: Artanar Nalas, title: "", given: Artanar, clan: Nalas, aliases: []}
+name: {full: Artanar Nalas, aliases: []}
 type: being
 tags: [character]
 data:

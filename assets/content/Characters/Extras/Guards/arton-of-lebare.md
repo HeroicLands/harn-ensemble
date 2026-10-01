@@ -1,6 +1,6 @@
 ---
 shortcode: artonoflebare
-name: {full: Arton of Lebare, title: "", given: Arton, clan: Lebare, aliases: []}
+name: {full: Arton of Lebare, aliases: []}
 type: being
 tags: [character]
 data:

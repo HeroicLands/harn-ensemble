@@ -1,6 +1,6 @@
 ---
 shortcode: jeronofaeb
-name: {full: Jeron of Aeb, title: "", given: Jeron, clan: Aeb, aliases: []}
+name: {full: Jeron of Aeb, aliases: []}
 type: being
 tags: [character]
 data:

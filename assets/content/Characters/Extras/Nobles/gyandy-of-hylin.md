@@ -1,6 +1,6 @@
 ---
 shortcode: gyandyofhylin
-name: {full: Gyandy of Hylin, title: "", given: Gyandy, clan: Hylin, aliases: []}
+name: {full: Gyandy of Hylin, aliases: []}
 type: being
 tags: [character]
 data:

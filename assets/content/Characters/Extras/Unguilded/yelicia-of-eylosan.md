@@ -1,6 +1,6 @@
 ---
 shortcode: yeliciaofeylosan
-name: {full: Yelicia of Eylosan, title: "", given: Yelicia, clan: Eylosan, aliases: []}
+name: {full: Yelicia of Eylosan, aliases: []}
 type: being
 tags: [character]
 data:

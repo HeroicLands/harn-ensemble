@@ -1,6 +1,6 @@
 ---
 shortcode: cyzorofbor
-name: {full: Cyzor of Bor, title: "", given: Cyzor, clan: Bor, aliases: []}
+name: {full: Cyzor of Bor, aliases: []}
 type: being
 tags: [character]
 data:

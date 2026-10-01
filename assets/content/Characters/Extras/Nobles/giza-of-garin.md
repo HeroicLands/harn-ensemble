@@ -1,6 +1,6 @@
 ---
 shortcode: gizaofgarin
-name: {full: Giza of Garin, title: "", given: Giza, clan: Garin, aliases: []}
+name: {full: Giza of Garin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: lernofelwen
-name: {full: Lern of Elwen, title: "", given: Lern, clan: Elwen, aliases: []}
+name: {full: Lern of Elwen, aliases: []}
 type: being
 tags: [character]
 data:

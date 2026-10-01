@@ -1,6 +1,6 @@
 ---
 shortcode: karynofewenal
-name: {full: Karyn of Ewenal, title: "", given: Karyn, clan: Ewenal, aliases: []}
+name: {full: Karyn of Ewenal, aliases: []}
 type: being
 tags: [character]
 data:

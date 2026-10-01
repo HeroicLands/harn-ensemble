@@ -1,6 +1,6 @@
 ---
 shortcode: yigaloforta
-name: {full: Yigal of Orta, title: "", given: Yigal, clan: Orta, aliases: []}
+name: {full: Yigal of Orta, aliases: []}
 type: being
 tags: [character]
 data:

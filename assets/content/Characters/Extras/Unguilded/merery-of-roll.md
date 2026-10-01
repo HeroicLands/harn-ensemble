@@ -1,6 +1,6 @@
 ---
 shortcode: mereryofroll
-name: {full: Merery of Roll, title: "", given: Merery, clan: Roll, aliases: []}
+name: {full: Merery of Roll, aliases: []}
 type: being
 tags: [character]
 data:

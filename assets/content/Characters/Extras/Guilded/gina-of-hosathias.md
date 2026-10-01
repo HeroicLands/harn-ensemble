@@ -1,6 +1,6 @@
 ---
 shortcode: ginaofhosathias
-name: {full: Gina of Hosathias, title: "", given: Gina, clan: Hosathias, aliases: []}
+name: {full: Gina of Hosathias, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: ephisofhudusinar
-name: {full: Ephis of Hudusinar, title: "", given: Ephis, clan: Hudusinar, aliases: []}
+name: {full: Ephis of Hudusinar, aliases: []}
 type: being
 tags: [character]
 data:

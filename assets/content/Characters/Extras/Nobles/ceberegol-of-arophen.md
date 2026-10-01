@@ -1,6 +1,6 @@
 ---
 shortcode: ceberegolofarophen
-name: {full: Ceberegol of Arophen, title: "", given: Ceberegol, clan: Arophen, aliases: []}
+name: {full: Ceberegol of Arophen, aliases: []}
 type: being
 tags: [character]
 data:

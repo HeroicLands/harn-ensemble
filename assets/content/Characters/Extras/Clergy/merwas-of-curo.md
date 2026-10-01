@@ -1,6 +1,6 @@
 ---
 shortcode: merwasofcuro
-name: {full: Merwas of Curo, title: "", given: Merwas, clan: Curo, aliases: []}
+name: {full: Merwas of Curo, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: harquelicalofele
-name: {full: Harquelical of Ele, title: "", given: Harquelical, clan: Ele, aliases: []}
+name: {full: Harquelical of Ele, aliases: []}
 type: being
 tags: [character]
 data:

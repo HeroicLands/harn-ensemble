@@ -1,6 +1,6 @@
 ---
 shortcode: baranchirofbaramathor
-name: {full: Baranchir of Baramathor, title: "", given: Baranchir, clan: Baramathor, aliases: []}
+name: {full: Baranchir of Baramathor, aliases: []}
 type: being
 tags: [character]
 data:

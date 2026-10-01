@@ -1,6 +1,6 @@
 ---
 shortcode: starkotoferlesh
-name: {full: Starkot of Erlesh, title: "", given: Starkot, clan: Erlesh, aliases: []}
+name: {full: Starkot of Erlesh, aliases: []}
 type: being
 tags: [character]
 data:

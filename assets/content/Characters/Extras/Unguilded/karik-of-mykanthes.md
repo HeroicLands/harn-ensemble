@@ -1,6 +1,6 @@
 ---
 shortcode: karikofmykanthes
-name: {full: Karik of Mykanthes, title: "", given: Karik, clan: Mykanthes, aliases: []}
+name: {full: Karik of Mykanthes, aliases: []}
 type: being
 tags: [character]
 data:

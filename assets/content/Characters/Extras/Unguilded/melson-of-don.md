@@ -1,6 +1,6 @@
 ---
 shortcode: melsonofdon
-name: {full: Melson of Don, title: "", given: Melson, clan: Don, aliases: []}
+name: {full: Melson of Don, aliases: []}
 type: being
 tags: [character]
 data:

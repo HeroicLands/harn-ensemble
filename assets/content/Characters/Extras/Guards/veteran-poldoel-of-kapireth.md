@@ -1,11 +1,6 @@
 ---
 shortcode: veteranpoldoelofkapireth
-name:
-  full: Veteran Poldoel of Kapireth
-  title: Veteran
-  given: Poldoel
-  clan: Kapireth
-  aliases: []
+name: {full: Veteran Poldoel of Kapireth, aliases: []}
 type: being
 tags: [character]
 data:

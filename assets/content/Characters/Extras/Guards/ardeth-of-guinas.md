@@ -1,6 +1,6 @@
 ---
 shortcode: ardethofguinas
-name: {full: Ardeth of Guinas, title: "", given: Ardeth, clan: Guinas, aliases: []}
+name: {full: Ardeth of Guinas, aliases: []}
 type: being
 tags: [character]
 data:

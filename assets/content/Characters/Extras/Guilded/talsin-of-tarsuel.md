@@ -1,6 +1,6 @@
 ---
 shortcode: talsinoftarsuel
-name: {full: Talsin of Tarsuel, title: "", given: Talsin, clan: Tarsuel, aliases: []}
+name: {full: Talsin of Tarsuel, aliases: []}
 type: being
 tags: [character]
 data:

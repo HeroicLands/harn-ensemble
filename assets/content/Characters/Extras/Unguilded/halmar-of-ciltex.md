@@ -1,6 +1,6 @@
 ---
 shortcode: halmarofciltex
-name: {full: Halmar of Ciltex, title: "", given: Halmar, clan: Ciltex, aliases: []}
+name: {full: Halmar of Ciltex, aliases: []}
 type: being
 tags: [character]
 data:

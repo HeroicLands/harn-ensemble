@@ -1,6 +1,6 @@
 ---
 shortcode: arkaelofcranefris
-name: {full: Arkael of Cranefris, title: "", given: Arkael, clan: Cranefris, aliases: []}
+name: {full: Arkael of Cranefris, aliases: []}
 type: being
 tags: [character]
 data:

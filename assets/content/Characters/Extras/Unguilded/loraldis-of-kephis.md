@@ -1,6 +1,6 @@
 ---
 shortcode: loraldisofkephis
-name: {full: Loraldis of Kephis, title: "", given: Loraldis, clan: Kephis, aliases: []}
+name: {full: Loraldis of Kephis, aliases: []}
 type: being
 tags: [character]
 data:

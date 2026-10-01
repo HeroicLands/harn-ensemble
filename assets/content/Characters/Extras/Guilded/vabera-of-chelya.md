@@ -1,6 +1,6 @@
 ---
 shortcode: vaberaofchelya
-name: {full: Vabera of Chelya, title: "", given: Vabera, clan: Chelya, aliases: []}
+name: {full: Vabera of Chelya, aliases: []}
 type: being
 tags: [character]
 data:

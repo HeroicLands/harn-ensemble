@@ -1,6 +1,6 @@
 ---
 shortcode: torisofpeyne
-name: {full: Toris of Peyne, title: "", given: Toris, clan: Peyne, aliases: []}
+name: {full: Toris of Peyne, aliases: []}
 type: being
 tags: [character]
 data:

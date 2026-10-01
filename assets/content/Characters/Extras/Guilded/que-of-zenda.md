@@ -1,6 +1,6 @@
 ---
 shortcode: queofzenda
-name: {full: Que of Zenda, title: "", given: Que, clan: Zenda, aliases: []}
+name: {full: Que of Zenda, aliases: []}
 type: being
 tags: [character]
 data:

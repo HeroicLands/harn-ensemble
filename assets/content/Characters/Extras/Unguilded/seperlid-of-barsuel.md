@@ -1,6 +1,6 @@
 ---
 shortcode: seperlidofbarsuel
-name: {full: Seperlid of Barsuel, title: "", given: Seperlid, clan: Barsuel, aliases: []}
+name: {full: Seperlid of Barsuel, aliases: []}
 type: being
 tags: [character]
 data:

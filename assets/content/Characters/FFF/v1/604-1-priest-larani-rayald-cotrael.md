@@ -1,6 +1,6 @@
 ---
 shortcode: rayaldcotrael
-name: {full: Rayald Cotrael, title: "", given: Rayald, clan: Cotrael, aliases: []}
+name: {full: Rayald Cotrael, aliases: []}
 type: being
 tags: [character]
 data:

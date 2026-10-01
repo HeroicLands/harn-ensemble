@@ -1,6 +1,6 @@
 ---
 shortcode: amdirchivrenofangerui
-name: {full: Amdirchivren of Angerui, title: "", given: Amdirchivren, clan: Angerui, aliases: []}
+name: {full: Amdirchivren of Angerui, aliases: []}
 type: being
 tags: [character]
 data:

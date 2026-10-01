@@ -1,6 +1,6 @@
 ---
 shortcode: yvalethofeldim
-name: {full: Yvaleth of Eldim, title: "", given: Yvaleth, clan: Eldim, aliases: []}
+name: {full: Yvaleth of Eldim, aliases: []}
 type: being
 tags: [character]
 data:

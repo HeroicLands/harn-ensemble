@@ -1,6 +1,6 @@
 ---
 shortcode: araenaofgosel
-name: {full: Araena of Gosel, title: "", given: Araena, clan: Gosel, aliases: []}
+name: {full: Araena of Gosel, aliases: []}
 type: being
 tags: [character]
 data:

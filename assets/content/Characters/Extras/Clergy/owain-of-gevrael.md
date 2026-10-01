@@ -1,6 +1,6 @@
 ---
 shortcode: owainofgevrael
-name: {full: Owain of Gevrael, title: "", given: Owain, clan: Gevrael, aliases: []}
+name: {full: Owain of Gevrael, aliases: []}
 type: being
 tags: [character]
 data:

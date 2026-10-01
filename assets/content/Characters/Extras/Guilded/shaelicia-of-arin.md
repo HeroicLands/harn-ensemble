@@ -1,6 +1,6 @@
 ---
 shortcode: shaeliciaofarin
-name: {full: Shaelicia of Arin, title: "", given: Shaelicia, clan: Arin, aliases: []}
+name: {full: Shaelicia of Arin, aliases: []}
 type: being
 tags: [character]
 data:

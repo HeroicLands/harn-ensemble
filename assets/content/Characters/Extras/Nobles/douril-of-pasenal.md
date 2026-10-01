@@ -1,6 +1,6 @@
 ---
 shortcode: dourilofpasenal
-name: {full: Douril of Pasenal, title: "", given: Douril, clan: Pasenal, aliases: []}
+name: {full: Douril of Pasenal, aliases: []}
 type: being
 tags: [character]
 data:

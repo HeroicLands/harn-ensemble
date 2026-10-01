@@ -1,6 +1,6 @@
 ---
 shortcode: pirisofchelemas
-name: {full: Piris of Chelemas, title: "", given: Piris, clan: Chelemas, aliases: []}
+name: {full: Piris of Chelemas, aliases: []}
 type: being
 tags: [character]
 data:

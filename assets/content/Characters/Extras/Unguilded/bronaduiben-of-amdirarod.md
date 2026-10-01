@@ -1,6 +1,6 @@
 ---
 shortcode: bronaduibenofamdirarod
-name: {full: Bronaduiben of Amdirarod, title: "", given: Bronaduiben, clan: Amdirarod, aliases: []}
+name: {full: Bronaduiben of Amdirarod, aliases: []}
 type: being
 tags: [character]
 data:

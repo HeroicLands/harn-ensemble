@@ -1,6 +1,6 @@
 ---
 shortcode: jerilofdybarn
-name: {full: Jeril of Dybarn, title: "", given: Jeril, clan: Dybarn, aliases: []}
+name: {full: Jeril of Dybarn, aliases: []}
 type: being
 tags: [character]
 data:

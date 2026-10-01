@@ -1,6 +1,6 @@
 ---
 shortcode: shaeldelofasane
-name: {full: Shaeldel of Asane, title: "", given: Shaeldel, clan: Asane, aliases: []}
+name: {full: Shaeldel of Asane, aliases: []}
 type: being
 tags: [character]
 data:

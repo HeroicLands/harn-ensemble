@@ -1,6 +1,6 @@
 ---
 shortcode: punatofmurth
-name: {full: Punat of Murth, title: "", given: Punat, clan: Murth, aliases: []}
+name: {full: Punat of Murth, aliases: []}
 type: being
 tags: [character]
 data:

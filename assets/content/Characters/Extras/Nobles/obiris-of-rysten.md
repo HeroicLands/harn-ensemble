@@ -1,6 +1,6 @@
 ---
 shortcode: obirisofrysten
-name: {full: Obiris of Rysten, title: "", given: Obiris, clan: Rysten, aliases: []}
+name: {full: Obiris of Rysten, aliases: []}
 type: being
 tags: [character]
 data:

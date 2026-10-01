@@ -1,6 +1,6 @@
 ---
 shortcode: lirofaeb
-name: {full: Lir of Aeb, title: "", given: Lir, clan: Aeb, aliases: []}
+name: {full: Lir of Aeb, aliases: []}
 type: being
 tags: [character]
 data:

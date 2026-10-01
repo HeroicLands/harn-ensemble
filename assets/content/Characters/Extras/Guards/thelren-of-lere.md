@@ -1,6 +1,6 @@
 ---
 shortcode: thelrenoflere
-name: {full: Thelren of Lere, title: "", given: Thelren, clan: Lere, aliases: []}
+name: {full: Thelren of Lere, aliases: []}
 type: being
 tags: [character]
 data:

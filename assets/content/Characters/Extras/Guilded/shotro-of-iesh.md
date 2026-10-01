@@ -1,6 +1,6 @@
 ---
 shortcode: shotroofiesh
-name: {full: Shotro of Iesh, title: "", given: Shotro, clan: Iesh, aliases: []}
+name: {full: Shotro of Iesh, aliases: []}
 type: being
 tags: [character]
 data:

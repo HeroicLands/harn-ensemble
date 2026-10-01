@@ -1,6 +1,6 @@
 ---
 shortcode: keldarithofkal
-name: {full: Keldarith of Kal, title: "", given: Keldarith, clan: Kal, aliases: []}
+name: {full: Keldarith of Kal, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: kaiofdythaen
-name: {full: Kai of Dythaen, title: "", given: Kai, clan: Dythaen, aliases: []}
+name: {full: Kai of Dythaen, aliases: []}
 type: being
 tags: [character]
 data:

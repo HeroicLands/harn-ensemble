@@ -1,6 +1,6 @@
 ---
 shortcode: heronofeldesarlis
-name: {full: Heron of Eldesarlis, title: "", given: Heron, clan: Eldesarlis, aliases: []}
+name: {full: Heron of Eldesarlis, aliases: []}
 type: being
 tags: [character]
 data:

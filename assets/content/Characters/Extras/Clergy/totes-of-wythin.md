@@ -1,6 +1,6 @@
 ---
 shortcode: totesofwythin
-name: {full: Totes of Wythin, title: "", given: Totes, clan: Wythin, aliases: []}
+name: {full: Totes of Wythin, aliases: []}
 type: being
 tags: [character]
 data:

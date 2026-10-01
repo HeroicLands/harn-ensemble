@@ -1,6 +1,6 @@
 ---
 shortcode: kresofaenere
-name: {full: Kres of Aenere, title: "", given: Kres, clan: Aenere, aliases: []}
+name: {full: Kres of Aenere, aliases: []}
 type: being
 tags: [character]
 data:

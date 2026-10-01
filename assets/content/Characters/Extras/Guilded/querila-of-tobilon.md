@@ -1,6 +1,6 @@
 ---
 shortcode: querilaoftobilon
-name: {full: Querila of Tobilon, title: "", given: Querila, clan: Tobilon, aliases: []}
+name: {full: Querila of Tobilon, aliases: []}
 type: being
 tags: [character]
 data:

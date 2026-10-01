@@ -1,6 +1,6 @@
 ---
 shortcode: silenofbanthel
-name: {full: Silen of Banthel, title: "", given: Silen, clan: Banthel, aliases: []}
+name: {full: Silen of Banthel, aliases: []}
 type: being
 tags: [character]
 data:

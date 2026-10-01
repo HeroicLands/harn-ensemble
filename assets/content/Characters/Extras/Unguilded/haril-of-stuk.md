@@ -1,6 +1,6 @@
 ---
 shortcode: harilofstuk
-name: {full: Haril of Stuk, title: "", given: Haril, clan: Stuk, aliases: []}
+name: {full: Haril of Stuk, aliases: []}
 type: being
 tags: [character]
 data:

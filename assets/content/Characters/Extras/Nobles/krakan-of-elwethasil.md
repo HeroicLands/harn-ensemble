@@ -1,6 +1,6 @@
 ---
 shortcode: krakanofelwethasil
-name: {full: Krakan of Elwethasil, title: "", given: Krakan, clan: Elwethasil, aliases: []}
+name: {full: Krakan of Elwethasil, aliases: []}
 type: being
 tags: [character]
 data:

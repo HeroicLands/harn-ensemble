@@ -1,6 +1,6 @@
 ---
 shortcode: molanasofiesh
-name: {full: Molanas of Iesh, title: "", given: Molanas, clan: Iesh, aliases: []}
+name: {full: Molanas of Iesh, aliases: []}
 type: being
 tags: [character]
 data:

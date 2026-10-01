@@ -1,6 +1,6 @@
 ---
 shortcode: chaklynofloyril
-name: {full: Chaklyn of Loyril, title: "", given: Chaklyn, clan: Loyril, aliases: []}
+name: {full: Chaklyn of Loyril, aliases: []}
 type: being
 tags: [character]
 data:

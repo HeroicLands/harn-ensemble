@@ -1,6 +1,6 @@
 ---
 shortcode: silineofwythasil
-name: {full: Siline of Wythasil, title: "", given: Siline, clan: Wythasil, aliases: []}
+name: {full: Siline of Wythasil, aliases: []}
 type: being
 tags: [character]
 data:

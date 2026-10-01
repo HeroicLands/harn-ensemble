@@ -1,6 +1,6 @@
 ---
 shortcode: rodolkczurger
-name: {full: Rodolk Czurger, title: "", given: Rodolk, clan: Czurger, aliases: []}
+name: {full: Rodolk Czurger, aliases: []}
 type: being
 tags: [character]
 data:

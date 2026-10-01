@@ -1,6 +1,6 @@
 ---
 shortcode: captainshotroofguinda
-name: {full: Captain Shotro of Guinda, title: Captain, given: Shotro, clan: Guinda, aliases: []}
+name: {full: Captain Shotro of Guinda, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: quedaofmerkenos
-name: {full: Queda of Merkenos, title: "", given: Queda, clan: Merkenos, aliases: []}
+name: {full: Queda of Merkenos, aliases: []}
 type: being
 tags: [character]
 data:

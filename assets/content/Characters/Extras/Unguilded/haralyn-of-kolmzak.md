@@ -1,6 +1,6 @@
 ---
 shortcode: haralynofkolmzak
-name: {full: Haralyn of Kolmzak, title: "", given: Haralyn, clan: Kolmzak, aliases: []}
+name: {full: Haralyn of Kolmzak, aliases: []}
 type: being
 tags: [character]
 data:

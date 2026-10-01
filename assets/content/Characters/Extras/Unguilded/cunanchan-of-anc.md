@@ -1,6 +1,6 @@
 ---
 shortcode: cunanchanofanc
-name: {full: Cunanchan of Anc, title: "", given: Cunanchan, clan: Anc, aliases: []}
+name: {full: Cunanchan of Anc, aliases: []}
 type: being
 tags: [character]
 data:

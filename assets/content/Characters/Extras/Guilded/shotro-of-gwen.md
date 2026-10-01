@@ -1,6 +1,6 @@
 ---
 shortcode: shotroofgwen
-name: {full: Shotro of Gwen, title: "", given: Shotro, clan: Gwen, aliases: []}
+name: {full: Shotro of Gwen, aliases: []}
 type: being
 tags: [character]
 data:

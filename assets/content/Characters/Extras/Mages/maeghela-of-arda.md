@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelaofarda
-name: {full: Maeghela of Arda, title: "", given: Maeghela, clan: Arda, aliases: []}
+name: {full: Maeghela of Arda, aliases: []}
 type: being
 tags: [character]
 data:

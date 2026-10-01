@@ -1,6 +1,6 @@
 ---
 shortcode: jakanofquarliss
-name: {full: Jakan of Quarliss, title: "", given: Jakan, clan: Quarliss, aliases: []}
+name: {full: Jakan of Quarliss, aliases: []}
 type: being
 tags: [character]
 data:

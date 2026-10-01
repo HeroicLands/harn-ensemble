@@ -1,6 +1,6 @@
 ---
 shortcode: captainheornofwesin
-name: {full: Captain Heorn of Wesin, title: Captain, given: Heorn, clan: Wesin, aliases: []}
+name: {full: Captain Heorn of Wesin, aliases: []}
 type: being
 tags: [character]
 data:

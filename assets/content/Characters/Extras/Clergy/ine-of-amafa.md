@@ -1,6 +1,6 @@
 ---
 shortcode: ineofamafa
-name: {full: Ine of Amafa, title: "", given: Ine, clan: Amafa, aliases: []}
+name: {full: Ine of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

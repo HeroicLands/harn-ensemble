@@ -1,6 +1,6 @@
 ---
 shortcode: jaslynofbor
-name: {full: Jaslyn of Bor, title: "", given: Jaslyn, clan: Bor, aliases: []}
+name: {full: Jaslyn of Bor, aliases: []}
 type: being
 tags: [character]
 data:

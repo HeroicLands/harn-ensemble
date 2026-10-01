@@ -1,6 +1,6 @@
 ---
 shortcode: ralofasaka
-name: {full: Ral of Asaka, title: "", given: Ral, clan: Asaka, aliases: []}
+name: {full: Ral of Asaka, aliases: []}
 type: being
 tags: [character]
 data:

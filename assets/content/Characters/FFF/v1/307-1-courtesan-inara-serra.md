@@ -1,6 +1,6 @@
 ---
 shortcode: inaraserra
-name: {full: Inara Serra, title: "", given: Inara, clan: Serra, aliases: []}
+name: {full: Inara Serra, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tarckofyisgaradas
-name: {full: Tarck of Yisgaradas, title: "", given: Tarck, clan: Yisgaradas, aliases: []}
+name: {full: Tarck of Yisgaradas, aliases: []}
 type: being
 tags: [character]
 data:

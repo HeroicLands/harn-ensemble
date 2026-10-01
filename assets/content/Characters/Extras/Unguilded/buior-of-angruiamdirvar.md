@@ -1,6 +1,6 @@
 ---
 shortcode: buiorofangruiamdirvar
-name: {full: Buior of Angruiamdirvar, title: "", given: Buior, clan: Angruiamdirvar, aliases: []}
+name: {full: Buior of Angruiamdirvar, aliases: []}
 type: being
 tags: [character]
 data:

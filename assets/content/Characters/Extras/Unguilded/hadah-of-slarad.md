@@ -1,6 +1,6 @@
 ---
 shortcode: hadahofslarad
-name: {full: Hadah of Slarad, title: "", given: Hadah, clan: Slarad, aliases: []}
+name: {full: Hadah of Slarad, aliases: []}
 type: being
 tags: [character]
 data:

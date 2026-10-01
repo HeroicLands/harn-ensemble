@@ -1,6 +1,6 @@
 ---
 shortcode: veteraneralofbalin
-name: {full: Veteran Eral of Balin, title: Veteran, given: Eral, clan: Balin, aliases: []}
+name: {full: Veteran Eral of Balin, aliases: []}
 type: being
 tags: [character]
 data:

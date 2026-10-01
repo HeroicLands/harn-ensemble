@@ -1,6 +1,6 @@
 ---
 shortcode: kesofpthelya
-name: {full: Kes of Pthelya, title: "", given: Kes, clan: Pthelya, aliases: []}
+name: {full: Kes of Pthelya, aliases: []}
 type: being
 tags: [character]
 data:

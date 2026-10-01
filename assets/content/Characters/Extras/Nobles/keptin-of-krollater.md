@@ -1,6 +1,6 @@
 ---
 shortcode: keptinofkrollater
-name: {full: Keptin of Krollater, title: "", given: Keptin, clan: Krollater, aliases: []}
+name: {full: Keptin of Krollater, aliases: []}
 type: being
 tags: [character]
 data:

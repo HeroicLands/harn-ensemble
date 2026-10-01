@@ -1,6 +1,6 @@
 ---
 shortcode: gineofdebern
-name: {full: Gine of Debern, title: "", given: Gine, clan: Debern, aliases: []}
+name: {full: Gine of Debern, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: kalindeofirien
-name: {full: Kalinde of Irien, title: "", given: Kalinde, clan: Irien, aliases: []}
+name: {full: Kalinde of Irien, aliases: []}
 type: being
 tags: [character]
 data:

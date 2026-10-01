@@ -1,6 +1,6 @@
 ---
 shortcode: lamofprovin
-name: {full: Lam of Provin, title: "", given: Lam, clan: Provin, aliases: []}
+name: {full: Lam of Provin, aliases: []}
 type: being
 tags: [character]
 data:

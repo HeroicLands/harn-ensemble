@@ -1,6 +1,6 @@
 ---
 shortcode: yaeldelofasain
-name: {full: Yaeldel of Asain, title: "", given: Yaeldel, clan: Asain, aliases: []}
+name: {full: Yaeldel of Asain, aliases: []}
 type: being
 tags: [character]
 data:

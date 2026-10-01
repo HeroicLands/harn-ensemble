@@ -1,6 +1,6 @@
 ---
 shortcode: queofaeb
-name: {full: Que of Aeb, title: "", given: Que, clan: Aeb, aliases: []}
+name: {full: Que of Aeb, aliases: []}
 type: being
 tags: [character]
 data:

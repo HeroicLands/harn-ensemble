@@ -1,6 +1,6 @@
 ---
 shortcode: nathofyisgarael
-name: {full: Nath of Yisgarael, title: "", given: Nath, clan: Yisgarael, aliases: []}
+name: {full: Nath of Yisgarael, aliases: []}
 type: being
 tags: [character]
 data:

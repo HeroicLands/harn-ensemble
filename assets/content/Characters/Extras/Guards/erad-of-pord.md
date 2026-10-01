@@ -1,6 +1,6 @@
 ---
 shortcode: eradofpord
-name: {full: Erad of Pord, title: "", given: Erad, clan: Pord, aliases: []}
+name: {full: Erad of Pord, aliases: []}
 type: being
 tags: [character]
 data:

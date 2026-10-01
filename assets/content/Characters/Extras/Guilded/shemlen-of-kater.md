@@ -1,6 +1,6 @@
 ---
 shortcode: shemlenofkater
-name: {full: Shemlen of Kater, title: "", given: Shemlen, clan: Kater, aliases: []}
+name: {full: Shemlen of Kater, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: valofgrath
-name: {full: Val of Grath, title: "", given: Val, clan: Grath, aliases: []}
+name: {full: Val of Grath, aliases: []}
 type: being
 tags: [character]
 data:

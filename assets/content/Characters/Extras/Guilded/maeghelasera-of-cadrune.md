@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelaseraofcadrune
-name: {full: Maeghelasera of Cadrune, title: "", given: Maeghelasera, clan: Cadrune, aliases: []}
+name: {full: Maeghelasera of Cadrune, aliases: []}
 type: being
 tags: [character]
 data:

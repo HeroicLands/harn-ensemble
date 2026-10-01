@@ -1,6 +1,6 @@
 ---
 shortcode: erelynofirien
-name: {full: Erelyn of Irien, title: "", given: Erelyn, clan: Irien, aliases: []}
+name: {full: Erelyn of Irien, aliases: []}
 type: being
 tags: [character]
 data:

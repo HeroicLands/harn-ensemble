@@ -1,6 +1,6 @@
 ---
 shortcode: arallaxofkoruarr
-name: {full: Arallax of Koruarr, title: "", given: Arallax, clan: Koruarr, aliases: []}
+name: {full: Arallax of Koruarr, aliases: []}
 type: being
 tags: [character]
 data:

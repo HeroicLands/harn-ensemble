@@ -1,6 +1,6 @@
 ---
 shortcode: parmenofdulkyia
-name: {full: Parmen of Dulkyia, title: "", given: Parmen, clan: Dulkyia, aliases: []}
+name: {full: Parmen of Dulkyia, aliases: []}
 type: being
 tags: [character]
 data:

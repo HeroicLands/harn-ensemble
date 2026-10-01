@@ -1,6 +1,6 @@
 ---
 shortcode: aquillicalofarmelern
-name: {full: Aquillical of Armelern, title: "", given: Aquillical, clan: Armelern, aliases: []}
+name: {full: Aquillical of Armelern, aliases: []}
 type: being
 tags: [character]
 data:

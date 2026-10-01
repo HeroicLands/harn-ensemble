@@ -1,6 +1,6 @@
 ---
 shortcode: piltainofpasena
-name: {full: Piltain of Pasena, title: "", given: Piltain, clan: Pasena, aliases: []}
+name: {full: Piltain of Pasena, aliases: []}
 type: being
 tags: [character]
 data:

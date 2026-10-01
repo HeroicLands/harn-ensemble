@@ -1,6 +1,6 @@
 ---
 shortcode: geacelsinofmusbers
-name: {full: Geacelsin of Musbers, title: "", given: Geacelsin, clan: Musbers, aliases: []}
+name: {full: Geacelsin of Musbers, aliases: []}
 type: being
 tags: [character]
 data:

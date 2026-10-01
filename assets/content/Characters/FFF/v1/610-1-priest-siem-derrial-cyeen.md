@@ -1,6 +1,6 @@
 ---
 shortcode: derrialcyeen
-name: {full: Derrial Cyeen, title: "", given: Derrial, clan: Cyeen, aliases: []}
+name: {full: Derrial Cyeen, aliases: []}
 type: being
 tags: [character]
 data:

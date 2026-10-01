@@ -1,6 +1,6 @@
 ---
 shortcode: cholaynofwythsena
-name: {full: Cholayn of Wythsena, title: "", given: Cholayn, clan: Wythsena, aliases: []}
+name: {full: Cholayn of Wythsena, aliases: []}
 type: being
 tags: [character]
 data:

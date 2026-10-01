@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofsin
-name: {full: Kaidia of Sin, title: "", given: Kaidia, clan: Sin, aliases: []}
+name: {full: Kaidia of Sin, aliases: []}
 type: being
 tags: [character]
 data:

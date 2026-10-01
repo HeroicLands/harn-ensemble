@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelofcilta
-name: {full: Maeghel of Cilta, title: "", given: Maeghel, clan: Cilta, aliases: []}
+name: {full: Maeghel of Cilta, aliases: []}
 type: being
 tags: [character]
 data:

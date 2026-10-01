@@ -1,6 +1,6 @@
 ---
 shortcode: vanachofashel
-name: {full: Vanach of Ashel, title: "", given: Vanach, clan: Ashel, aliases: []}
+name: {full: Vanach of Ashel, aliases: []}
 type: being
 tags: [character]
 data:

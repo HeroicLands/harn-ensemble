@@ -1,6 +1,6 @@
 ---
 shortcode: krakofardras
-name: {full: Krak of Ardras, title: "", given: Krak, clan: Ardras, aliases: []}
+name: {full: Krak of Ardras, aliases: []}
 type: being
 tags: [character]
 data:

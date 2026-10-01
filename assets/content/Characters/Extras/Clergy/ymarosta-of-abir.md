@@ -1,6 +1,6 @@
 ---
 shortcode: ymarostaofabir
-name: {full: Ymarosta of Abir, title: "", given: Ymarosta, clan: Abir, aliases: []}
+name: {full: Ymarosta of Abir, aliases: []}
 type: being
 tags: [character]
 data:

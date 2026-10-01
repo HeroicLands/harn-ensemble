@@ -1,11 +1,6 @@
 ---
 shortcode: commandereradofparthen
-name:
-  full: Commander Erad of Parthen
-  title: ""
-  given: Commander
-  clan: Erad Parthen
-  aliases: []
+name: {full: Commander Erad of Parthen, aliases: []}
 type: being
 tags: [character]
 data:

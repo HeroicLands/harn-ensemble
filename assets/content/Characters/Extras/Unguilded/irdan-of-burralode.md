@@ -1,6 +1,6 @@
 ---
 shortcode: irdanofburralode
-name: {full: Irdan of Burralode, title: "", given: Irdan, clan: Burralode, aliases: []}
+name: {full: Irdan of Burralode, aliases: []}
 type: being
 tags: [character]
 data:

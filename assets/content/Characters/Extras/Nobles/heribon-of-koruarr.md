@@ -1,6 +1,6 @@
 ---
 shortcode: heribonofkoruarr
-name: {full: Heribon of Koruarr, title: "", given: Heribon, clan: Koruarr, aliases: []}
+name: {full: Heribon of Koruarr, aliases: []}
 type: being
 tags: [character]
 data:

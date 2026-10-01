@@ -1,6 +1,6 @@
 ---
 shortcode: merelynoftichmarn
-name: {full: Merelyn of Tichmarn, title: "", given: Merelyn, clan: Tichmarn, aliases: []}
+name: {full: Merelyn of Tichmarn, aliases: []}
 type: being
 tags: [character]
 data:

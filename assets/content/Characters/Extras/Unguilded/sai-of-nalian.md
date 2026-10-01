@@ -1,6 +1,6 @@
 ---
 shortcode: saiofnalian
-name: {full: Sai of Nalian, title: "", given: Sai, clan: Nalian, aliases: []}
+name: {full: Sai of Nalian, aliases: []}
 type: being
 tags: [character]
 data:

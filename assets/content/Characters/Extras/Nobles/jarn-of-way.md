@@ -1,6 +1,6 @@
 ---
 shortcode: jarnofway
-name: {full: Jarn of Way, title: "", given: Jarn, clan: Way, aliases: []}
+name: {full: Jarn of Way, aliases: []}
 type: being
 tags: [character]
 data:

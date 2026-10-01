@@ -1,6 +1,6 @@
 ---
 shortcode: semisenoftar
-name: {full: Semisen of Tar, title: "", given: Semisen, clan: Tar, aliases: []}
+name: {full: Semisen of Tar, aliases: []}
 type: being
 tags: [character]
 data:

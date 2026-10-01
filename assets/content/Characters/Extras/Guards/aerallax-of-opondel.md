@@ -1,6 +1,6 @@
 ---
 shortcode: aerallaxofopondel
-name: {full: Aerallax of Opondel, title: "", given: Aerallax, clan: Opondel, aliases: []}
+name: {full: Aerallax of Opondel, aliases: []}
 type: being
 tags: [character]
 data:

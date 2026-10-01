@@ -1,6 +1,6 @@
 ---
 shortcode: orthiasofparsin
-name: {full: Orthias of Parsin, title: "", given: Orthias, clan: Parsin, aliases: []}
+name: {full: Orthias of Parsin, aliases: []}
 type: being
 tags: [character]
 data:

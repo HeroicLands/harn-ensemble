@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofuro
-name: {full: Daka of Uro, title: "", given: Daka, clan: Uro, aliases: []}
+name: {full: Daka of Uro, aliases: []}
 type: being
 tags: [character]
 data:

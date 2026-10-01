@@ -1,6 +1,6 @@
 ---
 shortcode: ewepherephenofaranc
-name: {full: Ewepherephen of Aranc, title: "", given: Ewepherephen, clan: Aranc, aliases: []}
+name: {full: Ewepherephen of Aranc, aliases: []}
 type: being
 tags: [character]
 data:

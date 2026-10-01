@@ -1,6 +1,6 @@
 ---
 shortcode: uvieneofardine
-name: {full: Uviene of Ardine, title: "", given: Uviene, clan: Ardine, aliases: []}
+name: {full: Uviene of Ardine, aliases: []}
 type: being
 tags: [character]
 data:

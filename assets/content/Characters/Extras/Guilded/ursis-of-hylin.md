@@ -1,6 +1,6 @@
 ---
 shortcode: ursisofhylin
-name: {full: Ursis of Hylin, title: "", given: Ursis, clan: Hylin, aliases: []}
+name: {full: Ursis of Hylin, aliases: []}
 type: being
 tags: [character]
 data:

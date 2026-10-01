@@ -1,6 +1,6 @@
 ---
 shortcode: gragorofobyne
-name: {full: Gragor of Obyne, title: "", given: Gragor, clan: Obyne, aliases: []}
+name: {full: Gragor of Obyne, aliases: []}
 type: being
 tags: [character]
 data:

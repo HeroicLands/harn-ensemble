@@ -1,6 +1,6 @@
 ---
 shortcode: melofsunis
-name: {full: Mel of Sunis, title: "", given: Mel, clan: Sunis, aliases: []}
+name: {full: Mel of Sunis, aliases: []}
 type: being
 tags: [character]
 data:

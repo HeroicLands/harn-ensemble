@@ -1,6 +1,6 @@
 ---
 shortcode: shylirianofbel
-name: {full: Shylirian of Bel, title: "", given: Shylirian, clan: Bel, aliases: []}
+name: {full: Shylirian of Bel, aliases: []}
 type: being
 tags: [character]
 data:

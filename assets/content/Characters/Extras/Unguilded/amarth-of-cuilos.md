@@ -1,6 +1,6 @@
 ---
 shortcode: amarthofcuilos
-name: {full: Amarth of Cuilos, title: "", given: Amarth, clan: Cuilos, aliases: []}
+name: {full: Amarth of Cuilos, aliases: []}
 type: being
 tags: [character]
 data:

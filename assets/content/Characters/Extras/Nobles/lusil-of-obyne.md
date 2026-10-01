@@ -1,6 +1,6 @@
 ---
 shortcode: lusilofobyne
-name: {full: Lusil of Obyne, title: "", given: Lusil, clan: Obyne, aliases: []}
+name: {full: Lusil of Obyne, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tabeas
-name: {full: Tabeas, title: "", given: Tabeas, clan: "", aliases: []}
+name: {full: Tabeas, aliases: []}
 type: being
 tags: [character]
 data:

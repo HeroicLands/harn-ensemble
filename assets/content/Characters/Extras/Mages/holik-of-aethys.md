@@ -1,6 +1,6 @@
 ---
 shortcode: holikofaethys
-name: {full: Holik of Aethys, title: "", given: Holik, clan: Aethys, aliases: []}
+name: {full: Holik of Aethys, aliases: []}
 type: being
 tags: [character]
 data:

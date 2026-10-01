@@ -1,6 +1,6 @@
 ---
 shortcode: silenofparibe
-name: {full: Silen of Paribe, title: "", given: Silen, clan: Paribe, aliases: []}
+name: {full: Silen of Paribe, aliases: []}
 type: being
 tags: [character]
 data:

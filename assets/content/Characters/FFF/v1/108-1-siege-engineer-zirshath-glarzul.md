@@ -1,6 +1,6 @@
 ---
 shortcode: zirshathglarzul
-name: {full: Zirshath Glarzul, title: "", given: Zirshath, clan: Glarzul, aliases: []}
+name: {full: Zirshath Glarzul, aliases: []}
 type: being
 tags: [character]
 data:

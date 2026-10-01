@@ -1,6 +1,6 @@
 ---
 shortcode: romontofaddy
-name: {full: Romont of Addy, title: "", given: Romont, clan: Addy, aliases: []}
+name: {full: Romont of Addy, aliases: []}
 type: being
 tags: [character]
 data:

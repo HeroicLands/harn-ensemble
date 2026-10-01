@@ -1,6 +1,6 @@
 ---
 shortcode: borinofrenel
-name: {full: Borin of Renel, title: "", given: Borin, clan: Renel, aliases: []}
+name: {full: Borin of Renel, aliases: []}
 type: being
 tags: [character]
 data:

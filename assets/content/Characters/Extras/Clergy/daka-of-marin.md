@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofmarin
-name: {full: Daka of Marin, title: "", given: Daka, clan: Marin, aliases: []}
+name: {full: Daka of Marin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: angernofangoeol
-name: {full: Angern of Angoeol, title: "", given: Angern, clan: Angoeol, aliases: []}
+name: {full: Angern of Angoeol, aliases: []}
 type: being
 tags: [character]
 data:

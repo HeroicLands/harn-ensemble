@@ -1,6 +1,6 @@
 ---
 shortcode: klinaofvebelirky
-name: {full: Klina of Vebelirky, title: "", given: Klina, clan: Vebelirky, aliases: []}
+name: {full: Klina of Vebelirky, aliases: []}
 type: being
 tags: [character]
 data:

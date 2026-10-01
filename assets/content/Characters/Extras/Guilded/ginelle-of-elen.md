@@ -1,6 +1,6 @@
 ---
 shortcode: ginelleofelen
-name: {full: Ginelle of Elen, title: "", given: Ginelle, clan: Elen, aliases: []}
+name: {full: Ginelle of Elen, aliases: []}
 type: being
 tags: [character]
 data:

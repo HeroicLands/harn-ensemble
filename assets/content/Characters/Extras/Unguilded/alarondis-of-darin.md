@@ -1,6 +1,6 @@
 ---
 shortcode: alarondisofdarin
-name: {full: Alarondis of Darin, title: "", given: Alarondis, clan: Darin, aliases: []}
+name: {full: Alarondis of Darin, aliases: []}
 type: being
 tags: [character]
 data:

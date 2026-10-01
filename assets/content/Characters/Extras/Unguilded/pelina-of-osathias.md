@@ -1,6 +1,6 @@
 ---
 shortcode: pelinaofosathias
-name: {full: Pelina of Osathias, title: "", given: Pelina, clan: Osathias, aliases: []}
+name: {full: Pelina of Osathias, aliases: []}
 type: being
 tags: [character]
 data:

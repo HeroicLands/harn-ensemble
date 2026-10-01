@@ -1,6 +1,6 @@
 ---
 shortcode: raldaofwulverda
-name: {full: Ralda of Wulverda, title: "", given: Ralda, clan: Wulverda, aliases: []}
+name: {full: Ralda of Wulverda, aliases: []}
 type: being
 tags: [character]
 data:

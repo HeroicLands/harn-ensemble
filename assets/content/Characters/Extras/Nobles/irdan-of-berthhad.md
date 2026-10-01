@@ -1,6 +1,6 @@
 ---
 shortcode: irdanofberthhad
-name: {full: Irdan of Berthhad, title: "", given: Irdan, clan: Berthhad, aliases: []}
+name: {full: Irdan of Berthhad, aliases: []}
 type: being
 tags: [character]
 data:

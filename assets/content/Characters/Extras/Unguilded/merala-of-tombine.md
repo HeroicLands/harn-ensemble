@@ -1,6 +1,6 @@
 ---
 shortcode: meralaoftombine
-name: {full: Merala of Tombine, title: "", given: Merala, clan: Tombine, aliases: []}
+name: {full: Merala of Tombine, aliases: []}
 type: being
 tags: [character]
 data:

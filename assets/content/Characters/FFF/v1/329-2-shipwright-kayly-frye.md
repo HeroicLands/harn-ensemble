@@ -1,6 +1,6 @@
 ---
 shortcode: kaylyfrye
-name: {full: Kayly Frye, title: "", given: Kayly, clan: Frye, aliases: []}
+name: {full: Kayly Frye, aliases: []}
 type: being
 tags: [character]
 data:

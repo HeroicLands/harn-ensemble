@@ -1,6 +1,6 @@
 ---
 shortcode: forenaofwethsel
-name: {full: Forena of Wethsel, title: "", given: Forena, clan: Wethsel, aliases: []}
+name: {full: Forena of Wethsel, aliases: []}
 type: being
 tags: [character]
 data:

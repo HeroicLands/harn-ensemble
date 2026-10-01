@@ -1,6 +1,6 @@
 ---
 shortcode: nawehsofduplo
-name: {full: Nawehs of Duplo, title: "", given: Nawehs, clan: Duplo, aliases: []}
+name: {full: Nawehs of Duplo, aliases: []}
 type: being
 tags: [character]
 data:

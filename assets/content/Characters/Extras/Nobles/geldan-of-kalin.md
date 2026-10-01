@@ -1,6 +1,6 @@
 ---
 shortcode: geldanofkalin
-name: {full: Geldan of Kalin, title: "", given: Geldan, clan: Kalin, aliases: []}
+name: {full: Geldan of Kalin, aliases: []}
 type: being
 tags: [character]
 data:

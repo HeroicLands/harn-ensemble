@@ -1,6 +1,6 @@
 ---
 shortcode: helaofborskin
-name: {full: Hela of Borskin, title: "", given: Hela, clan: Borskin, aliases: []}
+name: {full: Hela of Borskin, aliases: []}
 type: being
 tags: [character]
 data:

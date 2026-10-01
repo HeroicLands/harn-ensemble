@@ -1,6 +1,6 @@
 ---
 shortcode: brun
-name: {full: Brun, title: "", given: Brun, clan: "", aliases: []}
+name: {full: Brun, aliases: []}
 type: being
 tags: [character]
 data:

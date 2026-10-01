@@ -1,6 +1,6 @@
 ---
 shortcode: alwenofasgarlan
-name: {full: Alwen of Asgarlan, title: "", given: Alwen, clan: Asgarlan, aliases: []}
+name: {full: Alwen of Asgarlan, aliases: []}
 type: being
 tags: [character]
 data:

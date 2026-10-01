@@ -1,6 +1,6 @@
 ---
 shortcode: raeofsarlin
-name: {full: Rae of Sarlin, title: "", given: Rae, clan: Sarlin, aliases: []}
+name: {full: Rae of Sarlin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: lusilenofuerthaen
-name: {full: Lusilen of Uerthaen, title: "", given: Lusilen, clan: Uerthaen, aliases: []}
+name: {full: Lusilen of Uerthaen, aliases: []}
 type: being
 tags: [character]
 data:

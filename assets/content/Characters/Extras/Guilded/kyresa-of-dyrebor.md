@@ -1,6 +1,6 @@
 ---
 shortcode: kyresaofdyrebor
-name: {full: Kyresa of Dyrebor, title: "", given: Kyresa, clan: Dyrebor, aliases: []}
+name: {full: Kyresa of Dyrebor, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jakrowofrystel
-name: {full: Jakrow of Rystel, title: "", given: Jakrow, clan: Rystel, aliases: []}
+name: {full: Jakrow of Rystel, aliases: []}
 type: being
 tags: [character]
 data:

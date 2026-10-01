@@ -1,6 +1,6 @@
 ---
 shortcode: cholaynoflundon
-name: {full: Cholayn of Lundon, title: "", given: Cholayn, clan: Lundon, aliases: []}
+name: {full: Cholayn of Lundon, aliases: []}
 type: being
 tags: [character]
 data:

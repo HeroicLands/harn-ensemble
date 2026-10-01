@@ -1,6 +1,6 @@
 ---
 shortcode: tamilofkass
-name: {full: Tamil of Kass, title: "", given: Tamil, clan: Kass, aliases: []}
+name: {full: Tamil of Kass, aliases: []}
 type: being
 tags: [character]
 data:

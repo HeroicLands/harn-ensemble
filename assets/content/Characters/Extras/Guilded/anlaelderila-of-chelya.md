@@ -1,6 +1,6 @@
 ---
 shortcode: anlaelderilaofchelya
-name: {full: Anlaelderila of Chelya, title: "", given: Anlaelderila, clan: Chelya, aliases: []}
+name: {full: Anlaelderila of Chelya, aliases: []}
 type: being
 tags: [character]
 data:

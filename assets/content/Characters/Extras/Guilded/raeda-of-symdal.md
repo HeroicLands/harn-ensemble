@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofsymdal
-name: {full: Raeda of Symdal, title: "", given: Raeda, clan: Symdal, aliases: []}
+name: {full: Raeda of Symdal, aliases: []}
 type: being
 tags: [character]
 data:

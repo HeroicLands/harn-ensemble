@@ -1,6 +1,6 @@
 ---
 shortcode: meraofbarnesku
-name: {full: Mera of Barnesku, title: "", given: Mera, clan: Barnesku, aliases: []}
+name: {full: Mera of Barnesku, aliases: []}
 type: being
 tags: [character]
 data:

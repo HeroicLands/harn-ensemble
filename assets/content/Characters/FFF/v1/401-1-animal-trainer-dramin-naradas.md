@@ -1,6 +1,6 @@
 ---
 shortcode: draminnaradas
-name: {full: Dramin Naradas, title: "", given: Dramin, clan: Naradas, aliases: []}
+name: {full: Dramin Naradas, aliases: []}
 type: being
 tags: [character]
 data:

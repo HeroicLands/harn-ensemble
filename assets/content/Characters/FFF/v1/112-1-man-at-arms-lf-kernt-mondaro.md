@@ -1,6 +1,6 @@
 ---
 shortcode: kerntmondaro
-name: {full: Kernt Mondaro, title: "", given: Kernt, clan: Mondaro, aliases: []}
+name: {full: Kernt Mondaro, aliases: []}
 type: being
 tags: [character]
 data:

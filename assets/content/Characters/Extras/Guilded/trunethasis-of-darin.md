@@ -1,6 +1,6 @@
 ---
 shortcode: trunethasisofdarin
-name: {full: Trunethasis of Darin, title: "", given: Trunethasis, clan: Darin, aliases: []}
+name: {full: Trunethasis of Darin, aliases: []}
 type: being
 tags: [character]
 data:

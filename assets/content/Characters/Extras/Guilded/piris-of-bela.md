@@ -1,6 +1,6 @@
 ---
 shortcode: pirisofbela
-name: {full: Piris of Bela, title: "", given: Piris, clan: Bela, aliases: []}
+name: {full: Piris of Bela, aliases: []}
 type: being
 tags: [character]
 data:

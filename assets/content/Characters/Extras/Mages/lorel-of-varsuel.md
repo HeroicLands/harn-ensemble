@@ -1,6 +1,6 @@
 ---
 shortcode: lorelofvarsuel
-name: {full: Lorel of Varsuel, title: "", given: Lorel, clan: Varsuel, aliases: []}
+name: {full: Lorel of Varsuel, aliases: []}
 type: being
 tags: [character]
 data:

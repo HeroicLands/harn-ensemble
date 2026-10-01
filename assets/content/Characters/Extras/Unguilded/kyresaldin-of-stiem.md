@@ -1,6 +1,6 @@
 ---
 shortcode: kyresaldinofstiem
-name: {full: Kyresaldin of Stiem, title: "", given: Kyresaldin, clan: Stiem, aliases: []}
+name: {full: Kyresaldin of Stiem, aliases: []}
 type: being
 tags: [character]
 data:

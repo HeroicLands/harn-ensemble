@@ -1,6 +1,6 @@
 ---
 shortcode: arthenofarhaid
-name: {full: Arthen of Arhaid, title: "", given: Arthen, clan: Arhaid, aliases: []}
+name: {full: Arthen of Arhaid, aliases: []}
 type: being
 tags: [character]
 data:

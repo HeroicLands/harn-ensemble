@@ -1,6 +1,6 @@
 ---
 shortcode: gorofthes
-name: {full: Gor of Thes, title: "", given: Gor, clan: Thes, aliases: []}
+name: {full: Gor of Thes, aliases: []}
 type: being
 tags: [character]
 data:

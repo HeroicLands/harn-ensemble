@@ -1,6 +1,6 @@
 ---
 shortcode: captainteldaofyisgarad
-name: {full: Captain Telda of Yisgarad, title: Captain, given: Telda, clan: Yisgarad, aliases: []}
+name: {full: Captain Telda of Yisgarad, aliases: []}
 type: being
 tags: [character]
 data:

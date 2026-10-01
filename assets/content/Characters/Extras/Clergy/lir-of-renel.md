@@ -1,6 +1,6 @@
 ---
 shortcode: lirofrenel
-name: {full: Lir of Renel, title: "", given: Lir, clan: Renel, aliases: []}
+name: {full: Lir of Renel, aliases: []}
 type: being
 tags: [character]
 data:

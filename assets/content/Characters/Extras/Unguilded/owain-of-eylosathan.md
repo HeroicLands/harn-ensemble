@@ -1,6 +1,6 @@
 ---
 shortcode: owainofeylosathan
-name: {full: Owain of Eylosathan, title: "", given: Owain, clan: Eylosathan, aliases: []}
+name: {full: Owain of Eylosathan, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: shaelaofokrenarani
-name: {full: Shaela of Okrenarani, title: "", given: Shaela, clan: Okrenarani, aliases: []}
+name: {full: Shaela of Okrenarani, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: ginaofwhyce
-name: {full: Gina of Whyce, title: "", given: Gina, clan: Whyce, aliases: []}
+name: {full: Gina of Whyce, aliases: []}
 type: being
 tags: [character]
 data:

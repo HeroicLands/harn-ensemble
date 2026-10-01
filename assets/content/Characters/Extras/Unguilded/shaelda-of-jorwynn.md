@@ -1,6 +1,6 @@
 ---
 shortcode: shaeldaofjorwynn
-name: {full: Shaelda of Jorwynn, title: "", given: Shaelda, clan: Jorwynn, aliases: []}
+name: {full: Shaelda of Jorwynn, aliases: []}
 type: being
 tags: [character]
 data:

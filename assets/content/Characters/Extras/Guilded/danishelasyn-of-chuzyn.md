@@ -1,6 +1,6 @@
 ---
 shortcode: danishelasynofchuzyn
-name: {full: Danishelasyn of Chuzyn, title: "", given: Danishelasyn, clan: Chuzyn, aliases: []}
+name: {full: Danishelasyn of Chuzyn, aliases: []}
 type: being
 tags: [character]
 data:

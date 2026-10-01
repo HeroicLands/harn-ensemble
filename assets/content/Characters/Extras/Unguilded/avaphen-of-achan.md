@@ -1,6 +1,6 @@
 ---
 shortcode: avaphenofachan
-name: {full: Avaphen of Achan, title: "", given: Avaphen, clan: Achan, aliases: []}
+name: {full: Avaphen of Achan, aliases: []}
 type: being
 tags: [character]
 data:

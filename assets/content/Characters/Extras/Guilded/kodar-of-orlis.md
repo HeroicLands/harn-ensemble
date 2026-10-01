@@ -1,6 +1,6 @@
 ---
 shortcode: kodaroforlis
-name: {full: Kodar of Orlis, title: "", given: Kodar, clan: Orlis, aliases: []}
+name: {full: Kodar of Orlis, aliases: []}
 type: being
 tags: [character]
 data:

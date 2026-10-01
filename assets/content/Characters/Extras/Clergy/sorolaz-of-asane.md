@@ -1,6 +1,6 @@
 ---
 shortcode: sorolazofasane
-name: {full: Sorolaz of Asane, title: "", given: Sorolaz, clan: Asane, aliases: []}
+name: {full: Sorolaz of Asane, aliases: []}
 type: being
 tags: [character]
 data:

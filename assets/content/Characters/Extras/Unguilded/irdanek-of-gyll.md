@@ -1,6 +1,6 @@
 ---
 shortcode: irdanekofgyll
-name: {full: Irdanek of Gyll, title: "", given: Irdanek, clan: Gyll, aliases: []}
+name: {full: Irdanek of Gyll, aliases: []}
 type: being
 tags: [character]
 data:

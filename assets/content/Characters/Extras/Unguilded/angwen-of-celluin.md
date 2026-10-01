@@ -1,6 +1,6 @@
 ---
 shortcode: angwenofcelluin
-name: {full: Angwen of Celluin, title: "", given: Angwen, clan: Celluin, aliases: []}
+name: {full: Angwen of Celluin, aliases: []}
 type: being
 tags: [character]
 data:

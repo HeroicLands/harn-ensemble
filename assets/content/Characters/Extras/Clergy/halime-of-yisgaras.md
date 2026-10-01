@@ -1,6 +1,6 @@
 ---
 shortcode: halimeofyisgaras
-name: {full: Halime of Yisgaras, title: "", given: Halime, clan: Yisgaras, aliases: []}
+name: {full: Halime of Yisgaras, aliases: []}
 type: being
 tags: [character]
 data:

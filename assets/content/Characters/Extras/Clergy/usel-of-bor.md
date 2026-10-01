@@ -1,6 +1,6 @@
 ---
 shortcode: uselofbor
-name: {full: Usel of Bor, title: "", given: Usel, clan: Bor, aliases: []}
+name: {full: Usel of Bor, aliases: []}
 type: being
 tags: [character]
 data:

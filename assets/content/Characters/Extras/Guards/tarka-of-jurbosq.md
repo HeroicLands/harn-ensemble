@@ -1,6 +1,6 @@
 ---
 shortcode: tarkaofjurbosq
-name: {full: Tarka of Jurbosq, title: "", given: Tarka, clan: Jurbosq, aliases: []}
+name: {full: Tarka of Jurbosq, aliases: []}
 type: being
 tags: [character]
 data:

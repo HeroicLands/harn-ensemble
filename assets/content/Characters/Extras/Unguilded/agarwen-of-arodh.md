@@ -1,6 +1,6 @@
 ---
 shortcode: agarwenofarodh
-name: {full: Agarwen of Arodh, title: "", given: Agarwen, clan: Arodh, aliases: []}
+name: {full: Agarwen of Arodh, aliases: []}
 type: being
 tags: [character]
 data:

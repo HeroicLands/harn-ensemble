@@ -1,6 +1,6 @@
 ---
 shortcode: urbainofmorrin
-name: {full: Urbain of Morrin, title: "", given: Urbain, clan: Morrin, aliases: []}
+name: {full: Urbain of Morrin, aliases: []}
 type: being
 tags: [character]
 data:

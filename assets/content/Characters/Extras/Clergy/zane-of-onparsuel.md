@@ -1,6 +1,6 @@
 ---
 shortcode: zaneofonparsuel
-name: {full: Zane of Onparsuel, title: "", given: Zane, clan: Onparsuel, aliases: []}
+name: {full: Zane of Onparsuel, aliases: []}
 type: being
 tags: [character]
 data:

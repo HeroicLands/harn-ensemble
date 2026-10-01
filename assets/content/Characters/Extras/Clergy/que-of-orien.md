@@ -1,6 +1,6 @@
 ---
 shortcode: queoforien
-name: {full: Que of Orien, title: "", given: Que, clan: Orien, aliases: []}
+name: {full: Que of Orien, aliases: []}
 type: being
 tags: [character]
 data:

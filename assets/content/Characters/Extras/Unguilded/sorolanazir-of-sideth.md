@@ -1,6 +1,6 @@
 ---
 shortcode: sorolanazirofsideth
-name: {full: Sorolanazir of Sideth, title: "", given: Sorolanazir, clan: Sideth, aliases: []}
+name: {full: Sorolanazir of Sideth, aliases: []}
 type: being
 tags: [character]
 data:

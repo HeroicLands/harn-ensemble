@@ -1,6 +1,6 @@
 ---
 shortcode: merwasofchornic
-name: {full: Merwas of Chornic, title: "", given: Merwas, clan: Chornic, aliases: []}
+name: {full: Merwas of Chornic, aliases: []}
 type: being
 tags: [character]
 data:

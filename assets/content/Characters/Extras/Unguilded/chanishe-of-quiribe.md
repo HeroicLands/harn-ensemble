@@ -1,6 +1,6 @@
 ---
 shortcode: chanisheofquiribe
-name: {full: Chanishe of Quiribe, title: "", given: Chanishe, clan: Quiribe, aliases: []}
+name: {full: Chanishe of Quiribe, aliases: []}
 type: being
 tags: [character]
 data:

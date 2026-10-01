@@ -1,6 +1,6 @@
 ---
 shortcode: pargatofgwen
-name: {full: Pargat of Gwen, title: "", given: Pargat, clan: Gwen, aliases: []}
+name: {full: Pargat of Gwen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: ereryofparin
-name: {full: Erery of Parin, title: "", given: Erery, clan: Parin, aliases: []}
+name: {full: Erery of Parin, aliases: []}
 type: being
 tags: [character]
 data:

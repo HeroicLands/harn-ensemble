@@ -1,6 +1,6 @@
 ---
 shortcode: jithofkater
-name: {full: Jith of Kater, title: "", given: Jith, clan: Kater, aliases: []}
+name: {full: Jith of Kater, aliases: []}
 type: being
 tags: [character]
 data:

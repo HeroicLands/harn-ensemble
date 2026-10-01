@@ -1,6 +1,6 @@
 ---
 shortcode: rybinofnanikul
-name: {full: Rybin of Nanikul, title: "", given: Rybin, clan: Nanikul, aliases: []}
+name: {full: Rybin of Nanikul, aliases: []}
 type: being
 tags: [character]
 data:

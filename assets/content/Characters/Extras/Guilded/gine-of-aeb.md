@@ -1,6 +1,6 @@
 ---
 shortcode: gineofaeb
-name: {full: Gine of Aeb, title: "", given: Gine, clan: Aeb, aliases: []}
+name: {full: Gine of Aeb, aliases: []}
 type: being
 tags: [character]
 data:

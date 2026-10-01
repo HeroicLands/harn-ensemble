@@ -1,6 +1,6 @@
 ---
 shortcode: marofuerth
-name: {full: Mar of Uerth, title: "", given: Mar, clan: Uerth, aliases: []}
+name: {full: Mar of Uerth, aliases: []}
 type: being
 tags: [character]
 data:

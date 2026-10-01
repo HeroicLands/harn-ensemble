@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofmurty
-name: {full: Kaidia of Murty, title: "", given: Kaidia, clan: Murty, aliases: []}
+name: {full: Kaidia of Murty, aliases: []}
 type: being
 tags: [character]
 data:

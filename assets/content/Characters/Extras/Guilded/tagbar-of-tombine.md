@@ -1,6 +1,6 @@
 ---
 shortcode: tagbaroftombine
-name: {full: Tagbar of Tombine, title: "", given: Tagbar, clan: Tombine, aliases: []}
+name: {full: Tagbar of Tombine, aliases: []}
 type: being
 tags: [character]
 data:
