@@ -81,7 +81,7 @@ hm3:
     - {shortcode: script, type: skill, name: Script(Lakaise), system: {masteryLevel: 92}}
     - shortcode: script
       type: skill
-      name: Script(Script(Selenian))
+      name: Script(Selenian)
       system: {shortcode: scriptselenian, masteryLevel: 103}
     - {shortcode: initiative, type: skill, system: {masteryLevel: 72}}
     - {shortcode: unarmed, type: skill, system: {masteryLevel: 48}}
@@ -167,9 +167,7 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Unguilded", system: {masteryLevelBase: 86}}
-    - model: sohl-sohl-skill-script
-      name: Script(Script(Selenian))
-      system: {masteryLevelBase: 103}
+    - {model: sohl-sohl-skill-script, name: Script(Selenian), system: {masteryLevelBase: 103}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 78}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1046}}
     - {model: sohl-sohl-containergear-pouchbuckram}

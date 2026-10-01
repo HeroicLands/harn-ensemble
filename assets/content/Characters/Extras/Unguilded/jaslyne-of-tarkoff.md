@@ -81,7 +81,7 @@ hm3:
     - {shortcode: script, type: skill, name: Script(Lakaise), system: {masteryLevel: 106}}
     - shortcode: script
       type: skill
-      name: Script(Script(Runic))
+      name: Script(Runic)
       system: {shortcode: scriptrunic, masteryLevel: 106}
     - {shortcode: initiative, type: skill, system: {masteryLevel: 78}}
     - {shortcode: unarmed, type: skill, system: {masteryLevel: 50}}
@@ -164,7 +164,7 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 76}}
-    - {model: sohl-sohl-skill-script, name: Script(Script(Runic)), system: {masteryLevelBase: 106}}
+    - {model: sohl-sohl-skill-script, name: Script(Runic), system: {masteryLevelBase: 106}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1953}}
     - {model: sohl-sohl-containergear-pouchbuckram}
