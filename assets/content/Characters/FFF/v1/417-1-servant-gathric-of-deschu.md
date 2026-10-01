@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 29
-  born: 690/11/22
+  born: 690.322
   height: 1.75
   weight: 78.47
   frame: heavy
@@ -501,7 +501,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4171|Gathric of Deschu]]{float: top-left}
+![[fff4171|Gathric of Deschu]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

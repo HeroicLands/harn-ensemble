@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 34
-  born: 686/7/5
+  born: 686.185
   height: 1.68
   weight: 59.42
   frame: light
@@ -654,7 +654,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6062|Albin of Rihale]]{float: top-left}
+![[fff6062|Albin of Rihale]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

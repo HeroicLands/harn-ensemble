@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 43
-  born: 676/8/16
+  born: 676.226
   height: 1.83
   weight: 77.11
   frame: medium
@@ -559,7 +559,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3031|Merrimam Grimwul]]{float: top-left}
+![[fff3031|Merrimam Grimwul]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

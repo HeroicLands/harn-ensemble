@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 25
-  born: 694/2/27
+  born: 694.57
   height: 1.75
   weight: 74.84
   frame: medium
@@ -549,7 +549,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1151|Otto]]{float: top-left}
+![[fff1151|Otto]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Imperial

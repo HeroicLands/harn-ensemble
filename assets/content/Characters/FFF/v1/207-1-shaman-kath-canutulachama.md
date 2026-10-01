@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 33
-  born: 686/3/10
+  born: 686.70
   height: 1.83
   weight: 77.11
   frame: medium
@@ -498,7 +498,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff2071|Canutulachama]]{float: top-left}
+![[fff2071|Canutulachama]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Tribal

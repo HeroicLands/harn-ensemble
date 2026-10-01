@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 35
-  born: 684/2/4
+  born: 684.34
   height: 1.88
   weight: 89.81
   frame: heavy
@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4011|Dramin Naradas]]{float: top-left}
+![[fff4011|Dramin Naradas]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

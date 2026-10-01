@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 46
-  born: 673/11/26
+  born: 673.326
   height: 1.91
   weight: 92.53
   frame: heavy
@@ -488,7 +488,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4121|Earny of Smesel]]{float: top-left}
+![[fff4121|Earny of Smesel]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

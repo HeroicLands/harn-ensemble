@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 20
-  born: 699/11/6
+  born: 699.306
   height: 1.73
   weight: 97.07
   frame: heavy
@@ -509,7 +509,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3091|Sarey of Sideth]]{float: top-left}
+![[fff3091|Sarey of Sideth]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

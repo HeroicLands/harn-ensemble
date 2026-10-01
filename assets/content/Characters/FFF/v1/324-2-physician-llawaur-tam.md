@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 26
-  born: 693/11/8
+  born: 693.308
   height: 1.78
   weight: 72.57
   frame: medium
@@ -529,7 +529,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3242|Llawaur Tam]]{float: top-left}
+![[fff3242|Llawaur Tam]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

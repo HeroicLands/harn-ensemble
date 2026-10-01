@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 33
-  born: 686/10/24
+  born: 686.294
   height: 1.73
   weight: 69.4
   frame: medium
@@ -505,7 +505,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4021|Warorel Iasen]]{float: top-left}
+![[fff4021|Warorel Iasen]]{float=top-left}
 
 **Apparent Age**: Middle age
 **Culture**: Feudal

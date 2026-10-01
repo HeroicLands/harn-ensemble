@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 51
-  born: 668/10/18
+  born: 668.288
   height: 1.75
   weight: 71.21
   frame: medium
@@ -519,7 +519,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4211|Wyte of Fyrwey]]{float: top-left}
+![[fff4211|Wyte of Fyrwey]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

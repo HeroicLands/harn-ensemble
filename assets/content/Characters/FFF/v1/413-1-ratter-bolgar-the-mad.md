@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 46
-  born: 673/6/11
+  born: 673.161
   height: 1.6
   weight: 54.43
   frame: medium
@@ -493,7 +493,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4131|Bolgar the Mad]]{float: top-left}
+![[fff4131|Bolgar the Mad]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

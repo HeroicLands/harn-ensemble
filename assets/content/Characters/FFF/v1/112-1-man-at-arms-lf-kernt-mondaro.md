@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 37
-  born: 682/12/18
+  born: 682.348
   height: 1.88
   weight: 97.98
   frame: heavy
@@ -531,7 +531,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1121|Kernt Mondaro]]{float: top-left}
+![[fff1121|Kernt Mondaro]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

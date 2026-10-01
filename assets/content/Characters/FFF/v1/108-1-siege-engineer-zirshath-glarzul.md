@@ -9,7 +9,7 @@ data:
   gender: male
   species: khuzdulflk
   age: 89
-  born: 630/7/2
+  born: 630.182
   height: 1.35
   weight: 54.43
   frame: heavy
@@ -569,7 +569,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1081|Zirshath Glarzul]]{float: top-left}
+![[fff1081|Zirshath Glarzul]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Khuzdul

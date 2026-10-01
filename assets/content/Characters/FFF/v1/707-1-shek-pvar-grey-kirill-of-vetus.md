@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 43
-  born: 677/9/16
+  born: 677.256
   height: 1.78
   weight: 72.57
   frame: medium
@@ -1282,7 +1282,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7071|Kirill of Vetus]]{float: top-left}
+![[fff7071|Kirill of Vetus]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

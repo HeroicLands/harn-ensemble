@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 8
-  born: 712/7/23
+  born: 712.203
   height: 1.27
   weight: 24.95
   frame: scant
@@ -495,7 +495,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3992|Berik of Kestel]]{float: top-left}
+![[fff3992|Berik of Kestel]]{float=top-left}
 
 **Apparent Age**: Child
 **Culture**: Feudal

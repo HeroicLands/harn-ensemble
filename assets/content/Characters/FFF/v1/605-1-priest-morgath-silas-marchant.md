@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 32
-  born: 687/1/28
+  born: 687.28
   height: 1.68
   weight: 65.77
   frame: medium
@@ -131,7 +131,7 @@ hm3:
     - {shortcode: morgathcommune, type: invocation}
     - name: Speak with the Dead
       type: invocation
-      data: {icon: hm3-none-icon-morgath}
+      data: {icon: harnensemble-none-icon-morgath}
       system: {diety: Morgath, circle: 2}
     - {shortcode: necrosy, type: invocation}
     - {shortcode: heartofdarkness, type: invocation}
@@ -562,7 +562,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6051|Silas Marchant]]{float: top-left}
+![[fff6051|Silas Marchant]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

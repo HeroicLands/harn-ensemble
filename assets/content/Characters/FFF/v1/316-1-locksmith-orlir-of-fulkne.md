@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 36
-  born: 683/1/28
+  born: 683.28
   height: 1.75
   weight: 78.47
   frame: heavy
@@ -504,7 +504,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3161|Orlir of Fulkne]]{float: top-left}
+![[fff3161|Orlir of Fulkne]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

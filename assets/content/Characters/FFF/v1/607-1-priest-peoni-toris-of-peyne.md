@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 36
-  born: 683/12/1
+  born: 683.331
   height: 1.73
   weight: 62.6
   frame: light
@@ -577,7 +577,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6071|Toris of Peyne]]{float: top-left}
+![[fff6071|Toris of Peyne]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

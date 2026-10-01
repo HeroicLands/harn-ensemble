@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 33
-  born: 686/7/27
+  born: 686.207
   height: 1.85
   weight: 87.54
   frame: heavy
@@ -522,7 +522,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1041|Anax of Junius]]{float: top-left}
+![[fff1041|Anax of Junius]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

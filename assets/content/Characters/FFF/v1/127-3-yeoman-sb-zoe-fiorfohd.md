@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 34
-  born: 685/3/26
+  born: 685.86
   height: 1.78
   weight: 72.57
   frame: medium
@@ -545,7 +545,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1273|Zoe Fiorfohd]]{float: top-left}
+![[fff1273|Zoe Fiorfohd]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

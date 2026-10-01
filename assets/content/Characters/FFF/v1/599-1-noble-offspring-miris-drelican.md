@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 13
-  born: 706/6/30
+  born: 706.180
   height: 1.57
   weight: 47.17
   frame: scant
@@ -495,7 +495,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5991|Miris Drelican]]{float: top-left}
+![[fff5991|Miris Drelican]]{float=top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

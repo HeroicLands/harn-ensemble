@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 26
-  born: 693/8/9
+  born: 693.219
   height: 1.83
   weight: 77.11
   frame: medium
@@ -660,7 +660,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7051|Elros of Merin]]{float: top-left}
+![[fff7051|Elros of Merin]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

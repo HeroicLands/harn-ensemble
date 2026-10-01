@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 27
-  born: 692/8/17
+  born: 692.227
   height: 1.55
   weight: 57.61
   frame: medium
@@ -143,7 +143,7 @@ hm3:
     - {shortcode: veshastale, type: invocation}
     - name: Eyes of Dekjis
       type: invocation
-      data: {icon: hm3-none-icon-peoni}
+      data: {icon: harnensemble-none-icon-peoni}
       system: {diety: Peoni, circle: 3}
     - {shortcode: houseinkamil, type: invocation}
     - {shortcode: krasulaswhisper, type: invocation}
@@ -635,7 +635,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6061|Riatha Deherne]]{float: top-left}
+![[fff6061|Riatha Deherne]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

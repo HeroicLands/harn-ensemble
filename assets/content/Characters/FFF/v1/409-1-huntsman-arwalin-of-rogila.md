@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 33
-  born: 686/2/11
+  born: 686.41
   height: 1.75
   weight: 71.21
   frame: medium
@@ -523,7 +523,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4091|Arwalin of Rogila]]{float: top-left}
+![[fff4091|Arwalin of Rogila]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

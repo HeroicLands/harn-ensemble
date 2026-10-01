@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 28
-  born: 691/10/3
+  born: 691.273
   height: 1.63
   weight: 55.79
   frame: light
@@ -502,7 +502,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4161|Tharo of Bideth]]{float: top-left}
+![[fff4161|Tharo of Bideth]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

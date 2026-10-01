@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 38
-  born: 681/7/20
+  born: 681.200
   height: 1.91
   weight: 126.1
   frame: massive
@@ -512,7 +512,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1091|Petin Muldabel]]{float: top-left}
+![[fff1091|Petin Muldabel]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

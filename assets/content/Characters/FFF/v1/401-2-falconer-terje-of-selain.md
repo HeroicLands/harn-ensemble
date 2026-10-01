@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 50
-  born: 669/10/11
+  born: 669.281
   height: 1.68
   weight: 65.77
   frame: average
@@ -538,7 +538,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4012|Terje of Selain]]{float: top-left}
+![[fff4012|Terje of Selain]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 24
-  born: 695/4/12
+  born: 695.102
   height: 1.88
   weight: 99.79
   frame: massive
@@ -546,7 +546,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5064|Sir Chadrin Benere]]{float: top-left}
+![[fff5064|Sir Chadrin Benere]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

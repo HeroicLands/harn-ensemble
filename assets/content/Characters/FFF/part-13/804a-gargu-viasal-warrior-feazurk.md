@@ -9,7 +9,7 @@ data:
   gender: male
   species: gargunflk
   age: 12
-  born: 707/8/5
+  born: 707.215
   height: 1.12
   weight: 40.82
   frame: heavy
@@ -119,7 +119,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff804a|Feazurk]]{float: top-left}
+![[fff804a|Feazurk]]{float=top-left}
 
 **Species**: Gargu-viasal
 **Sex**: Male

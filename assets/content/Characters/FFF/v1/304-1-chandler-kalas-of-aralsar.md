@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 64
-  born: 655/6/29
+  born: 655.179
   height: 1.7
   weight: 101.6
   frame: medium
@@ -500,7 +500,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3041|Kalas of Aralsar]]{float: top-left}
+![[fff3041|Kalas of Aralsar]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Imperial

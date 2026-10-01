@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 33
-  born: 687/4/4
+  born: 687.94
   height: 1.8
   weight: 74.84
   frame: medium
@@ -647,7 +647,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7031|Maccus of Tixena]]{float: top-left}
+![[fff7031|Maccus of Tixena]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

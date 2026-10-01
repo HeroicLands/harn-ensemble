@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 37
-  born: 682/4/7
+  born: 682.97
   height: 1.68
   weight: 65.77
   frame: medium
@@ -519,7 +519,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3281|Paguris of Speh (Monk)]]{float: top-left}
+![[fff3281|Paguris of Speh (Monk)]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

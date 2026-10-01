@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 43
-  born: 676/4/19
+  born: 676.109
   height: 1.93
   weight: 94.8
   frame: heavy
@@ -552,7 +552,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1153|Eryla Cobb]]{float: top-left}
+![[fff1153|Eryla Cobb]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

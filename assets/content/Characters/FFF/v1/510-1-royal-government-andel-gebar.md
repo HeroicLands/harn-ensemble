@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 43
-  born: 676/9/25
+  born: 676.265
   height: 1.85
   weight: 79.38
   frame: medium
@@ -551,7 +551,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5101|Andel Gebar]]{float: top-left}
+![[fff5101|Andel Gebar]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 28
-  born: 691/11/18
+  born: 691.318
   height: 1.78
   weight: 87.09
   frame: heavy
@@ -543,7 +543,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5081|Sir Letos Lamrend]]{float: top-left}
+![[fff5081|Sir Letos Lamrend]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

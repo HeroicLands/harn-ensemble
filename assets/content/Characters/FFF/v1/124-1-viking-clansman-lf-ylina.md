@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 25
-  born: 694/3/17
+  born: 694.77
   height: 1.7
   weight: 53.98
   frame: scant
@@ -554,7 +554,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1241|Ylina]]{float: top-left}
+![[fff1241|Ylina]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

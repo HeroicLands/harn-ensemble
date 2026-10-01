@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 58
-  born: 661/1/10
+  born: 661.10
   height: 1.73
   weight: 80.29
   frame: medium
@@ -511,7 +511,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5011|Artanar Nalas]]{float: top-left}
+![[fff5011|Artanar Nalas]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

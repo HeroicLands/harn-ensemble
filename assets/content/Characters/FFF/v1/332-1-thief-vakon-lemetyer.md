@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 29
-  born: 690/4/23
+  born: 690.113
   height: 1.6
   weight: 60.33
   frame: medium
@@ -506,7 +506,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3321|Vakon Lemetyer]]{float: top-left}
+![[fff3321|Vakon Lemetyer]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

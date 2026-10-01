@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 32
-  born: 687/8/18
+  born: 687.228
   height: 1.75
   weight: 71.21
   frame: medium
@@ -538,7 +538,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1271|Ealfric Defard]]{float: top-left}
+![[fff1271|Ealfric Defard]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 29
-  born: 690/7/5
+  born: 690.185
   height: 1.78
   weight: 72.57
   frame: medium
@@ -539,7 +539,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff2061|Taran the Lame]]{float: top-left}
+![[fff2061|Taran the Lame]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

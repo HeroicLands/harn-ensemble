@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 24
-  born: 695/11/22
+  born: 695.322
   height: 1.78
   weight: 65.32
   frame: light
@@ -633,7 +633,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6011|Mya of Risalsin]]{float: top-left}
+![[fff6011|Mya of Risalsin]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

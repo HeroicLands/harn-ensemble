@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 21
-  born: 699/11/16
+  born: 699.316
   height: 1.65
   weight: 70.31
   frame: heavy
@@ -524,7 +524,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4051|Onfroi of Metical]]{float: top-left}
+![[fff4051|Onfroi of Metical]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

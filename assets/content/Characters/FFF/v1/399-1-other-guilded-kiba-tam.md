@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 17
-  born: 702/9/27
+  born: 702.267
   height: 1.73
   weight: 62.6
   frame: light
@@ -535,7 +535,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3991|Kiba Tam]]{float: top-left}
+![[fff3991|Kiba Tam]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

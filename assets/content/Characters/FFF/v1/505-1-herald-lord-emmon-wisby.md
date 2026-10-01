@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 54
-  born: 665/11/15
+  born: 665.315
   height: 1.8
   weight: 89.36
   frame: heavy
@@ -539,7 +539,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5051|Lord Emmon Wisby]]{float: top-left}
+![[fff5051|Lord Emmon Wisby]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

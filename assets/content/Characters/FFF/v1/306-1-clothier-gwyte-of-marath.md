@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 32
-  born: 687/8/18
+  born: 687.228
   height: 1.63
   weight: 80.74
   frame: heavy
@@ -519,7 +519,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3061|Gwyte of Marath]]{float: top-left}
+![[fff3061|Gwyte of Marath]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

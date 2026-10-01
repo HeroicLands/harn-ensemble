@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 46
-  born: 673/6/22
+  born: 673.172
   height: 1.7
   weight: 67.59
   frame: medium
@@ -526,7 +526,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1031|Sergeant Yerick of Eram]]{float: top-left}
+![[fff1031|Sergeant Yerick of Eram]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

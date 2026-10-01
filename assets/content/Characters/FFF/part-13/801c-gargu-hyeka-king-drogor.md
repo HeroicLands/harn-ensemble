@@ -9,7 +9,7 @@ data:
   gender: male
   species: gargunflk
   age: 15
-  born: 704/6/10
+  born: 704.160
   height: 1.22
   weight: 45.36
   frame: heavy
@@ -134,7 +134,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff801c|Drogor]]{float: top-left}
+![[fff801c|Drogor]]{float=top-left}
 
 **Species**: Gargu-hyeka
 **Sex**: Male

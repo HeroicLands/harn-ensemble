@@ -9,7 +9,7 @@ data:
   gender: female
   species: gargunflk
   age: 12
-  born: 707/4/16
+  born: 707.106
   height: 1.32
   weight: 61.23
   frame: heavy
@@ -142,7 +142,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff803a|Gana]]{float: top-left}
+![[fff803a|Gana]]{float=top-left}
 
 **Species**: Gargu-khanu
 **Sex**: Female

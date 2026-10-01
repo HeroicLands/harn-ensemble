@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 33
-  born: 686/11/25
+  born: 686.325
   height: 1.83
   weight: 77.11
   frame: medium
@@ -506,7 +506,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4173|Worin of Kesten]]{float: top-left}
+![[fff4173|Worin of Kesten]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

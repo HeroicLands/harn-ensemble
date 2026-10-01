@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 15
-  born: 704/3/15
+  born: 704.75
   height: 1.63
   weight: 55.79
   frame: light
@@ -497,7 +497,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5041|Taran Ensal]]{float: top-left}
+![[fff5041|Taran Ensal]]{float=top-left}
 
 **Apparent Age**: Youth
 **Culture**: Feudal

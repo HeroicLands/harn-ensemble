@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 21
-  born: 698/7/30
+  born: 698.210
   height: 1.68
   weight: 61.23
   frame: medium
@@ -538,7 +538,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4152|Ygwelve Forsetha]]{float: top-left}
+![[fff4152|Ygwelve Forsetha]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Ivinian

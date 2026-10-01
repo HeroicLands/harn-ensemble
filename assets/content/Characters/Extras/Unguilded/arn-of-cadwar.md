@@ -8,7 +8,7 @@ data:
   gender: male
   species: sindarinflk
   age: 251
-  born: 469/9/18
+  born: 469.258
   height: 1.57
   weight: 53.07
   frame: light

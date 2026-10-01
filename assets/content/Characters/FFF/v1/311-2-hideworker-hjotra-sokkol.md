@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 36
-  born: 683/6/7
+  born: 683.157
   height: 1.78
   weight: 72.57
   frame: medium
@@ -530,7 +530,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3112|Hjotra Sokkol]]{float: top-left}
+![[fff3112|Hjotra Sokkol]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

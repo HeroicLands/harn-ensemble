@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 23
-  born: 696/8/15
+  born: 696.225
   height: 1.83
   weight: 69.4
   frame: light
@@ -621,7 +621,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6042|Garin Ertus]]{float: top-left}
+![[fff6042|Garin Ertus]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

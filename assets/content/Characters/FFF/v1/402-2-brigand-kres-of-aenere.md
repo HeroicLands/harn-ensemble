@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 29
-  born: 690/6/17
+  born: 690.167
   height: 1.8
   weight: 74.84
   frame: medium
@@ -537,7 +537,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4022|Kres of Aenere]]{float: top-left}
+![[fff4022|Kres of Aenere]]{float=top-left}
 
 **Apparent Age**: Middle age
 **Culture**: Feudal

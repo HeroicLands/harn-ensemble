@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 32
-  born: 687/1/10
+  born: 687.10
   height: 1.75
   weight: 78.47
   frame: heavy
@@ -544,7 +544,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3102|Pelyn of Valas]]{float: top-left}
+![[fff3102|Pelyn of Valas]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

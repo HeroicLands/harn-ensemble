@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 47
-  born: 672/7/22
+  born: 672.202
   height: 1.78
   weight: 72.57
   frame: medium
@@ -815,7 +815,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff7021|Tobas "Wick" of Sharvan]]{float: top-left}
+![[fff7021|Tobas "Wick" of Sharvan]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

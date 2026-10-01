@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 38
-  born: 681/3/12
+  born: 681.72
   height: 1.7
   weight: 67.59
   frame: medium
@@ -489,7 +489,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6072|Balis of Jiml]]{float: top-left}
+![[fff6072|Balis of Jiml]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

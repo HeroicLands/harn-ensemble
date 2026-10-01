@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 37
-  born: 682/12/8
+  born: 682.338
   height: 1.68
   weight: 65.77
   frame: medium
@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3231|Jamar of Hacherdad]]{float: top-left}
+![[fff3231|Jamar of Hacherdad]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 23
-  born: 696/9/3
+  born: 696.243
   height: 1.73
   weight: 62.6
   frame: light
@@ -612,7 +612,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6021|Sigyn of Leden]]{float: top-left}
+![[fff6021|Sigyn of Leden]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

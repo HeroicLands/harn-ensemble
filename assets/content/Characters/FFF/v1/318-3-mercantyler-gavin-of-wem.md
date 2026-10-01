@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 46
-  born: 673/12/14
+  born: 673.344
   height: 1.73
   weight: 69.4
   frame: medium
@@ -527,7 +527,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3183|Gavin of Wem]]{float: top-left}
+![[fff3183|Gavin of Wem]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

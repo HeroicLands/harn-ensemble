@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 32
-  born: 687/12/28
+  born: 687.358
   height: 1.83
   weight: 69.4
   frame: light
@@ -542,7 +542,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3291|Husraas of Kjalis]]{float: top-left}
+![[fff3291|Husraas of Kjalis]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Viking

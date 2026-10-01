@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 26
-  born: 693/11/26
+  born: 693.326
   height: 1.73
   weight: 62.6
   frame: light
@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3071|Inara Serra]]{float: top-left}
+![[fff3071|Inara Serra]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

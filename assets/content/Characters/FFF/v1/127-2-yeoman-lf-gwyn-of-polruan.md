@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 42
-  born: 677/3/7
+  born: 677.67
   height: 1.91
   weight: 100.7
   frame: massive
@@ -527,7 +527,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff1272|Gwyn of Polruan]]{float: top-left}
+![[fff1272|Gwyn of Polruan]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

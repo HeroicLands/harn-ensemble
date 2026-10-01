@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 26
-  born: 693/8/16
+  born: 693.226
   height: 1.73
   weight: 76.2
   frame: heavy
@@ -553,7 +553,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5062|Dame Afaewynn Barthy]]{float: top-left}
+![[fff5062|Dame Afaewynn Barthy]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

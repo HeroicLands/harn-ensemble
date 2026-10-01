@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 19
-  born: 700/4/27
+  born: 700.117
   height: 1.22
   weight: 45.36
   frame: heavy
@@ -509,7 +509,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4102|Swey of Baelams]]{float: top-left}
+![[fff4102|Swey of Baelams]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Viking

@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 33
-  born: 686/9/14
+  born: 686.254
   height: 1.65
   weight: 63.96
   frame: medium
@@ -534,7 +534,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4151|Reld Drosyl]]{float: top-left}
+![[fff4151|Reld Drosyl]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

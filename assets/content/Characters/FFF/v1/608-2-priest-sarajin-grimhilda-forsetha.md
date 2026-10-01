@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 23
-  born: 696/3/23
+  born: 696.83
   height: 1.85
   weight: 87.54
   frame: heavy
@@ -149,7 +149,7 @@ hm3:
     - {shortcode: idjarsmantle, type: invocation}
     - name: Talagaad's Honour
       type: invocation
-      data: {icon: hm3-none-icon-sarajin}
+      data: {icon: harnensemble-none-icon-sarajin}
       system: {diety: Sarajin, circle: 4}
     - {shortcode: fakangsedge, type: invocation}
     - {shortcode: pence, type: miscgear, system: {quantity: 372}}
@@ -633,7 +633,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff6082|Grimhilda Forsetha]]{float: top-left}
+![[fff6082|Grimhilda Forsetha]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Ivinian

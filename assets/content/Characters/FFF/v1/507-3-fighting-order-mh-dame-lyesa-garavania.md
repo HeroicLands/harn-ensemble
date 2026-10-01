@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 32
-  born: 687/3/19
+  born: 687.79
   height: 1.63
   weight: 62.14
   frame: medium
@@ -564,7 +564,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5073|Dame Lyesa Garavania]]{float: top-left}
+![[fff5073|Dame Lyesa Garavania]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

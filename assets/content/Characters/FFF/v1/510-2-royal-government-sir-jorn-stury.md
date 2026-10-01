@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 41
-  born: 678/3/27
+  born: 678.87
   height: 1.85
   weight: 79.38
   frame: medium
@@ -557,7 +557,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5102|Sir Jorn Stury]]{float: top-left}
+![[fff5102|Sir Jorn Stury]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

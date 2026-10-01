@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 21
-  born: 698/1/1
+  born: 698.1
   height: 1.8
   weight: 82.55
   frame: heavy
@@ -496,7 +496,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3111|Barris of Gorn]]{float: top-left}
+![[fff3111|Barris of Gorn]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

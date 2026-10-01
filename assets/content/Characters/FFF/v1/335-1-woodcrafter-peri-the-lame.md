@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 41
-  born: 678/3/14
+  born: 678.74
   height: 1.75
   weight: 71.21
   frame: medium
@@ -491,7 +491,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3351|Peri the Lame]]{float: top-left}
+![[fff3351|Peri the Lame]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

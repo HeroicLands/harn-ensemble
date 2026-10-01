@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 30
-  born: 689/10/12
+  born: 689.282
   height: 1.83
   weight: 69.4
   frame: light
@@ -503,7 +503,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4031|Lander of Mossdom]]{float: top-left}
+![[fff4031|Lander of Mossdom]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

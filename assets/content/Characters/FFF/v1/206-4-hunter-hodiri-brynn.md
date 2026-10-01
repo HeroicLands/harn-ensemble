@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 21
-  born: 698/3/14
+  born: 698.74
   height: 1.78
   weight: 80.74
   frame: heavy
@@ -535,7 +535,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff2064|Brynn]]{float: top-left}
+![[fff2064|Brynn]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Tribal

@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 39
-  born: 680/10/13
+  born: 680.283
   height: 1.57
   weight: 58.97
   frame: medium
@@ -539,7 +539,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4174|Ortilla of Islwyn]]{float: top-left}
+![[fff4174|Ortilla of Islwyn]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

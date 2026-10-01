@@ -8,7 +8,7 @@ data:
   gender: male
   species: humanflk
   age: 38
-  born: 682/3/18
+  born: 682.78
   height: 1.85
   weight: 138.8
   frame: light

@@ -9,7 +9,7 @@ data:
   gender: female
   species: gargunflk
   age: 10
-  born: 709/4/21
+  born: 709.111
   height: 1.02
   weight: 34.02
   frame: medium
@@ -131,7 +131,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff803b|Tabeas]]{float: top-left}
+![[fff803b|Tabeas]]{float=top-left}
 
 **Species**: Gargu-kyani
 **Sex**: Female

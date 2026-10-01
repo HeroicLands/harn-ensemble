@@ -65,12 +65,6 @@ packs:
       type: JournalEntry
       default: true
 
-# `content`: a note here is an NPC and its properties, and a roster of them
-# is a reference worth reading outside Foundry — on the web and in the
-# release PDF, not only in a compendium.
-publish:
-    site: content
-
 site:
     assets: https://cdn.heroiclands.org
 
@@ -96,6 +90,7 @@ site:
 packageBuild:
     assets:
         - { from: assets/images, to: assets/images }
+        - { from: assets/icons, to: assets/icons }
         - { from: LICENSE, to: LICENSE }
         - { from: README.md, to: README.md }
 

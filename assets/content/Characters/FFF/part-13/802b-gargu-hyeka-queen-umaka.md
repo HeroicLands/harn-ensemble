@@ -9,7 +9,7 @@ data:
   gender: female
   species: gargunflk
   age: 20
-  born: 699/12/15
+  born: 699.345
   height: 1.09
   weight: 73.48
   frame: massive
@@ -117,7 +117,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff802b|Umaka]]{float: top-left}
+![[fff802b|Umaka]]{float=top-left}
 
 **Species**: Gargu-hyeka
 **Sex**: Female

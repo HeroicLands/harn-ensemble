@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 34
-  born: 685/12/29
+  born: 685.359
   height: 1.88
   weight: 92.53
   frame: heavy
@@ -638,7 +638,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5071|Sir Egar Olandau]]{float: top-left}
+![[fff5071|Sir Egar Olandau]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

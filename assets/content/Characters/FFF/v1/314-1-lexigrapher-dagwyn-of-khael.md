@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 23
-  born: 696/6/15
+  born: 696.165
   height: 1.57
   weight: 53.07
   frame: light
@@ -483,7 +483,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3141|Dagwyn of Khael]]{float: top-left}
+![[fff3141|Dagwyn of Khael]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

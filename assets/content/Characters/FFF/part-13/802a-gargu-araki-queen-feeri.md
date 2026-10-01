@@ -9,7 +9,7 @@ data:
   gender: female
   species: gargunflk
   age: 14
-  born: 705/2/7
+  born: 705.37
   height: 0.91
   weight: 49.9
   frame: massive
@@ -104,7 +104,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff802a|Feeri]]{float: top-left}
+![[fff802a|Feeri]]{float=top-left}
 
 **Species**: Gargu-Araki
 **Sex**: Female

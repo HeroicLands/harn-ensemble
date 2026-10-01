@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 30
-  born: 689/8/5
+  born: 689.215
   height: 1.91
   weight: 79.38
   frame: medium
@@ -489,7 +489,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5992|Gerrick Asarn]]{float: top-left}
+![[fff5992|Gerrick Asarn]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Imperial

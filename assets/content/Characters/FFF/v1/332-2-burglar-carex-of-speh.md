@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 32
-  born: 687/2/24
+  born: 687.54
   height: 1.7
   weight: 67.59
   frame: medium
@@ -511,7 +511,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3322|Carex of Speh]]{float: top-left}
+![[fff3322|Carex of Speh]]{float=top-left}
 
 **Apparent Age**: Middle aged
 **Culture**: Feudal

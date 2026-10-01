@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 19
-  born: 700/2/10
+  born: 700.40
   height: 1.8
   weight: 67.59
   frame: light
@@ -539,7 +539,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff5042|Uldis Harand]]{float: top-left}
+![[fff5042|Uldis Harand]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

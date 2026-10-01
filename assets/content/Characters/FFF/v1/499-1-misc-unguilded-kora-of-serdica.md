@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 59
-  born: 660/11/24
+  born: 660.324
   height: 1.55
   weight: 49.9
   frame: medium
@@ -492,7 +492,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4991|Kora of Serdica]]{float: top-left}
+![[fff4991|Kora of Serdica]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

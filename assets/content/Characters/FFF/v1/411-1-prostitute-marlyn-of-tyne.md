@@ -9,7 +9,7 @@ data:
   gender: female
   species: humanflk
   age: 25
-  born: 694/2/16
+  born: 694.46
   height: 1.63
   weight: 55.79
   frame: light
@@ -489,7 +489,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4111|Marlyn of Tyne]]{float: top-left}
+![[fff4111|Marlyn of Tyne]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal

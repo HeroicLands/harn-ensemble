@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 53
-  born: 667/9/22
+  born: 667.262
   height: 1.75
   weight: 78.47
   frame: heavy
@@ -536,7 +536,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff4141|Wybert Graon]]{float: top-left}
+![[fff4141|Wybert Graon]]{float=top-left}
 
 **Apparent Age**: Elderly
 **Culture**: Feudal

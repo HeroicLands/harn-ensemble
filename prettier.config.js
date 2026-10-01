@@ -3,7 +3,7 @@
  *
  * The values were spelled out here and are now declared once in
  * `@heroiclands/package-build`, which every content repository in the project
- * runs through `content-build format`. They were already identical; stating
+ * runs through `package-build format`. They were already identical; stating
  * them in four places was four chances to drift, which is what #20 exists to
  * remove. This file remains so that an editor's format-on-save agrees with the
  * lint chain — Prettier's editor integrations read a config file rather than

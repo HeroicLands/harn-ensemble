@@ -8,7 +8,7 @@ data:
   gender: female
   species: humanflk
   age: 31
-  born: 689/7/15
+  born: 689.195
   height: 1.52
   weight: 75.3
   frame: scant

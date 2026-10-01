@@ -9,7 +9,7 @@ data:
   gender: male
   species: gargunflk
   age: 12
-  born: 707/5/16
+  born: 707.136
   height: 0.97
   weight: 32.66
   frame: medium
@@ -120,7 +120,7 @@ hm3:
 
 # Appearance {#appearance}
 
-![[fff804d|Bran]]{float: top-left}
+![[fff804d|Bran]]{float=top-left}
 
 **Species**: Gargu-araki
 **Sex**: Male

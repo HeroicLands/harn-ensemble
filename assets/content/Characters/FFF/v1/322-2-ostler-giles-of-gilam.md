@@ -9,7 +9,7 @@ data:
   gender: male
   species: humanflk
   age: 23
-  born: 696/8/23
+  born: 696.233
   height: 1.75
   weight: 71.21
   frame: medium
@@ -514,7 +514,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fff3222|Giles of Gilam]]{float: top-left}
+![[fff3222|Giles of Gilam]]{float=top-left}
 
 **Apparent Age**: Adult
 **Culture**: Feudal
