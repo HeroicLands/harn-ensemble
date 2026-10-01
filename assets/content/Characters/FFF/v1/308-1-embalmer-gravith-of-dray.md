@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3081tok
   templatePriority: 1
+  archetypes: [artisan, healer]
   gender: male
   species: humanflk
   age: 42

@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: male
   species: humanflk
   age: 21

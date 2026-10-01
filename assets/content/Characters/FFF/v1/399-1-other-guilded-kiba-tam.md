@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3991tok
   templatePriority: 1
+  archetypes: [scholar, mage]
   gender: female
   species: humanflk
   age: 17

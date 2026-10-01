@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3181tok
   templatePriority: 1
+  archetypes: [trader]
   gender: male
   species: humanflk
   age: 31

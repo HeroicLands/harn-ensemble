@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, guildsperson]
   gender: male
   species: khuzdulflk
   age: 101

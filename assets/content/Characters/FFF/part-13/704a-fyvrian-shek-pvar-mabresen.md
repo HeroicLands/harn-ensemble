@@ -8,6 +8,7 @@ data:
   icon: fff704ahead
   tokenIcon: fff704atok
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: male
   species: humanflk
   age: 46

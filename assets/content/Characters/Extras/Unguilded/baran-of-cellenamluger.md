@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: male
   species: sindarinflk
   age: 271

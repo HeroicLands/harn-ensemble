@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3051tok
   templatePriority: 1
+  archetypes: [artisan, woodsman]
   gender: male
   species: humanflk
   age: 50

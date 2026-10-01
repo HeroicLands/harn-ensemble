@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff1221tok
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: male
   species: sindarinflk
   age: 2430

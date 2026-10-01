@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff804ehead
   tokenIcon: fff804etok
+  archetypes: [warrior]
   gender: male
   species: gargunflk
   age: 10

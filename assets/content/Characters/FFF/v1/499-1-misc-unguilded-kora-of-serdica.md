@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff4991tok
   templatePriority: 1
+  archetypes: [healer, scholar]
   gender: female
   species: humanflk
   age: 59

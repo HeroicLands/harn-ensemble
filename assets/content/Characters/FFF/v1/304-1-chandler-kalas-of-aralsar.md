@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3041tok
   templatePriority: 1
+  archetypes: [artisan, trader]
   gender: male
   species: humanflk
   age: 64

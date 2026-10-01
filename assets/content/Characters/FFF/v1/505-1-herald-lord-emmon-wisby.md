@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff5051tok
   templatePriority: 1
+  archetypes: [courtier, infiltrator]
   gender: male
   species: humanflk
   age: 54

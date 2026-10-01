@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3992tok
   templatePriority: 1
+  archetypes: [woodsman]
   gender: male
   species: humanflk
   age: 8

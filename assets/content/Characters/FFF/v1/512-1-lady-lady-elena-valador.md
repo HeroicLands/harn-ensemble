@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff5121tok
   templatePriority: 1
+  archetypes: [courtier, scholar]
   gender: female
   species: humanflk
   age: 37

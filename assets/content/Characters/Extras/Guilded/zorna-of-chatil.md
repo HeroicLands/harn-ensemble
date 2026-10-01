@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [trader, guildsperson]
   gender: female
   species: humanflk
   age: 39

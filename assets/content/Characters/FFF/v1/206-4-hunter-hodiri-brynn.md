@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff2064tok
   templatePriority: 1
+  archetypes: [woodsman, trader]
   gender: male
   species: humanflk
   age: 21

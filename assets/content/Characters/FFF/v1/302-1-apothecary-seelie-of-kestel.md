@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3021tok
   templatePriority: 1
+  archetypes: [healer]
   gender: female
   species: humanflk
   age: 30

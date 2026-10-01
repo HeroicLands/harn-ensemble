@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff2063tok
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: female
   species: humanflk
   age: 20

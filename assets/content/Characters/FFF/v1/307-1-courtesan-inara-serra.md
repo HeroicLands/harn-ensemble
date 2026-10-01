@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3071tok
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: female
   species: humanflk
   age: 26

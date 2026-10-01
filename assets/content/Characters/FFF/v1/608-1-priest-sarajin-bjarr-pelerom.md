@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff6081tok
   templatePriority: 1
+  archetypes: [cleric, scholar]
   gender: male
   species: humanflk
   age: 42

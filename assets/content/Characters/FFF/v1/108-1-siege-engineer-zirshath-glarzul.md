@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff1081tok
   templatePriority: 1
+  archetypes: [artisan, scholar]
   gender: male
   species: khuzdulflk
   age: 89

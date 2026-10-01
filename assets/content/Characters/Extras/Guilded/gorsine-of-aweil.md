@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: female
   species: humanflk
   age: 40

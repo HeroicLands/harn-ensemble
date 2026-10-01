@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff1242tok
   templatePriority: 1
+  archetypes: [skirmisher, mariner]
   gender: male
   species: humanflk
   age: 24

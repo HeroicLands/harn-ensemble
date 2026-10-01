@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff6042tok
   templatePriority: 1
+  archetypes: [cleric, courtier]
   gender: male
   species: humanflk
   age: 23

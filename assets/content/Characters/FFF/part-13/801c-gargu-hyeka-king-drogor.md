@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff801chead
   tokenIcon: fff801ctok
+  archetypes: [warrior, scholar]
   gender: male
   species: gargunflk
   age: 15

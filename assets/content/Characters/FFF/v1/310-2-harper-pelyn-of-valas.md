@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3102tok
   templatePriority: 1
+  archetypes: [entertainer]
   gender: female
   species: humanflk
   age: 32

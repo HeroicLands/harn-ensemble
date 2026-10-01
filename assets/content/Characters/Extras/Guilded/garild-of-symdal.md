@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: male
   species: humanflk
   age: 36

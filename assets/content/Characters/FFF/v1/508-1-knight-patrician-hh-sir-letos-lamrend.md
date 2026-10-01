@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff5081tok
   templatePriority: 1
+  archetypes: [warrior, woodsman]
   gender: male
   species: humanflk
   age: 28

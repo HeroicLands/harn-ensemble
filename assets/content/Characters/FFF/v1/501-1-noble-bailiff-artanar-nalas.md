@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff5011tok
   templatePriority: 1
+  archetypes: [courtier]
   gender: male
   species: humanflk
   age: 58

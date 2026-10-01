@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff6061tok
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: female
   species: humanflk
   age: 27

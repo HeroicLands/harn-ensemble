@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff5991tok
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: male
   species: humanflk
   age: 13

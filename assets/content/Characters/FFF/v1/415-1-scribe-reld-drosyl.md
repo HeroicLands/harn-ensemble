@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff4151tok
   templatePriority: 1
+  archetypes: [scholar, woodsman]
   gender: male
   species: humanflk
   age: 33

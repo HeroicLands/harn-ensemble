@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: female
   species: humanflk
   age: 38

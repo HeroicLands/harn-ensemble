@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier, guildsperson]
   gender: male
   species: sindarinflk
   age: 226

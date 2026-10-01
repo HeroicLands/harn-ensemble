@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3323tok
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: female
   species: humanflk
   age: 18

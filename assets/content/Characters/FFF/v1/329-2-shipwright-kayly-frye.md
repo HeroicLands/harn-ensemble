@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3292tok
   templatePriority: 1
+  archetypes: [artisan, mariner]
   gender: female
   species: humanflk
   age: 23

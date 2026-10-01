@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: male
   species: humanflk
   age: 27

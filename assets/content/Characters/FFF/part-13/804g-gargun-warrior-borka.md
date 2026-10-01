@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff804ghead
   tokenIcon: fff804gtok
+  archetypes: [warrior]
   gender: male
   species: gargunflk
   height: 3.02

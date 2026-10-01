@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, entertainer, guildsperson]
   gender: female
   species: humanflk
   age: 39

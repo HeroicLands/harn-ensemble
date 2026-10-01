@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, guildsperson]
   gender: male
   species: humanflk
   age: 36

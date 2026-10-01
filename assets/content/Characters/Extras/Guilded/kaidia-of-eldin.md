@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: female
   species: humanflk
   age: 20

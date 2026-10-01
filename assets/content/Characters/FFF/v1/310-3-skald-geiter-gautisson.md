@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff3103tok
   templatePriority: 1
+  archetypes: [entertainer, scholar]
   gender: male
   species: humanflk
   age: 18

@@ -6,6 +6,7 @@ subType: character
 tags: []
 data:
   icon: fff8991tok
+  archetypes: [warrior, woodsman]
   gender: male
   species: ogreflk
   height: 2.79

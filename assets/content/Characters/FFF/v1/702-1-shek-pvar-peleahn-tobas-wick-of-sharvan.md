@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff7021tok
   templatePriority: 1
+  archetypes: [mage, infiltrator]
   gender: male
   species: humanflk
   age: 47

@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff4171tok
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 29

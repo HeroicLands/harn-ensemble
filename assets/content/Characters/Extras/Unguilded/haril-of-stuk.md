@@ -6,6 +6,7 @@ subType: npc
 tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 20

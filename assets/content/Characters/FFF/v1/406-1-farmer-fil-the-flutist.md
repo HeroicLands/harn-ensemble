@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff4061tok
   templatePriority: 1
+  archetypes: [entertainer]
   gender: male
   species: humanflk
   age: 43

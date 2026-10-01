@@ -7,6 +7,7 @@ tags: []
 data:
   icon: fff804bhead
   tokenIcon: fff804btok
+  archetypes: [woodsman]
   gender: male
   species: gargunflk
   age: 6
