@@ -18,7 +18,7 @@ A senior civil servant, Andel loves the power and prestige of his position. He i
 
 ### SCRIBE: [FFF 415-1] Reld Drosyl
 
-Reld is Andel's right hand man. His outstanding memory, encyclopaedic knowledge of records, decisions, legal precedents and previous inventories, makes him the perfect foil to Andel's schemes. A friendly and relaxed fellow, he is the most approachable member of the party, often circulating around the manor, talking to servants, farmhands and serfs, listening, watching and remembering everything. In audiences, he sits at Andel's right hand, taking detailed notes and occasionally leaning over to whisper an important detail in his ear.
+Reld is Andel's right-hand man. His outstanding memory, encyclopaedic knowledge of records, decisions, legal precedents and previous inventories, makes him the perfect foil to Andel's schemes. A friendly and relaxed fellow, he is the most approachable member of the party, often circulating around the manor, talking to servants, farmhands and serfs, listening, watching and remembering everything. In audiences, he sits at Andel's right hand, taking detailed notes and occasionally leaning over to whisper an important detail in his ear.
 
 ### COOK: [FFF 606-1] Riatha Deherne
 

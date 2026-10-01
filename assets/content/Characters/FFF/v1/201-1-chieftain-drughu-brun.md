@@ -529,7 +529,7 @@ sohl:
 **Apparent Wealth**: None
 **Weapons**: Stone-headed club, flint-headed spear
 **Armour**: None
-**Companions**: Two - three Drughu woodsmen
+**Companions**: Two–three Drughu woodsmen
 **Other obvious features**: Several large tattoos
 
 # Dossier {#dossier}

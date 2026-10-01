@@ -574,7 +574,7 @@ sohl:
 **Appearance**: Age 34, height 7' 2", massive frame, weight 288 lb, attractive appearance, dark complexion, black hair, green eyes
 **Medical/Psyche**: Gigantism
 **Size**: 10
-**Armor**: Cloth hood and tunic; Leather gauntlets, vest, leggings and knee boots; Kurbul half helm and vambraces. Round shield; Khuzan made spear WQ 14; enchanted Jarin-made short sword (WQ18, B2/E6/P8, double impact against the undead), dagger, short bow and quiver with 24 arrows
+**Armor**: Cloth hood and tunic; Leather gauntlets, vest, leggings and knee boots; Kurbul half-helm and vambraces. Round shield; Khuzan made spear WQ 14; enchanted Jarin-made short sword (WQ18, B2/E6/P8, double impact against the undead), dagger, short bow and quiver with 24 arrows
 **Other Equipment**: Belt pouch
 **Valuables**: 8d in silver in a money pouch
 **Notes**:

@@ -148,7 +148,7 @@ hm3:
 **Title**: FFF 804a Gargu-Viasal Warrior
 **Birthday**: 5 Halane 707
 **Appearance**: Age 12, height 3'8", heavy frame (size 3), weight 90 lb, ugly appearance, pallid complexion, dark red hair, red eyes
-**Medical/Psyche**: No medical traits. Violent temper (Severe; berserk when stressed - test against WILx1).
+**Medical/Psyche**: No medical traits. Violent temper (Severe; berserk when stressed—test against WILx1).
 **Size**: 0
 **Armor**: Plate vambrace on right arm, plain cloth leggings. Spear and mang.
 **Other Equipment**: None

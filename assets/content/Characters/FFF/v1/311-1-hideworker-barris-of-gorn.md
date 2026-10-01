@@ -522,7 +522,7 @@ sohl:
 
 **Title**: FFF 311-1 Hideworker
 **Birthday**: 1 Nuzyael 698
-**Appearance**: Age 21, height 5' 11', heavy frame, weight 182 lb, plain appearance, medium complexion, black hair, grey eyes
+**Appearance**: Age 21, height 5' 11", heavy frame, weight 182 lb, plain appearance, medium complexion, black hair, grey eyes
 **Medical/Psyche**: Missing teeth
 **Size**: 7
 **Armor**: Leather shoes, leggings and tunic and mantel, cloth shirt. He wraps his knuckles with leather strips.

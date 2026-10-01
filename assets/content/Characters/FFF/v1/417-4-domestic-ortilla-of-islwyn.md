@@ -558,7 +558,7 @@ sohl:
 **Apparent Wealth**: Moderate
 **Weapons**: Knife
 **Armour**: None
-**Companions**: Husband - Huw
+**Companions**: Husband—Huw
 **Other obvious features**: None
 
 # Dossier {#dossier}
@@ -587,7 +587,7 @@ A hard life has also sharpened her tongue and given her a strong back and arms f
 
 Hostess. Ortilla has been the senior woman in the household since her master's wife died. She meets guests (PCs) and sees to their requirements. A commoner, she is quite comfortable dealing with even senior nobles.
 
-Mistress. As senior woman in the household, Ortilla is second only to her husband within the household and fulfils many of the tasks normally undertaken by a chamberlain. She will not hesitate to task PC servants, men-atarms and commoners, no matter their master. Those who are slow to obey will feel her wrath.
+Mistress. As senior woman in the household, Ortilla is second only to her husband within the household and fulfils many of the tasks normally undertaken by a chamberlain. She will not hesitate to task PC servants, men-at-arms and commoners, no matter their master. Those who are slow to obey will feel her wrath.
 
 Customer. The representative of an important household, Ortilla is responsible for considerable sums of silver and can be a PC guildsman's best customer or worst nightmare. She is a skilled negotiator.
 

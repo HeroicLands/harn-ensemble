@@ -546,7 +546,7 @@ sohl:
 **Appearance**: Attractive
 **Hair Colour**: Black
 **Eye Colour**: Hazel
-**Voice**: Unpleasant - raspy
+**Voice**: Unpleasant—raspy
 **Obvious Medical Traits**: Pallid complexion
 **Apparent Occupation**: Knight
 **Apparent Wealth**: Moderate

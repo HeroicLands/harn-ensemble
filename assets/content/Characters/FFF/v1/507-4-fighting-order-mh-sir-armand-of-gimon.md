@@ -573,7 +573,7 @@ sohl:
 **Appearance**: Age 22, height 5' 10", medium frame, weight 170 lb, size 6, attractive appearance, medium complexion, black hair, hazel eyes
 **Medical/Psyche**: None
 **Size**: 6
-**Armor**: Cloth hood, robe and leggings, leather knee boots, mail cowl, hauberk and mittens, cloth surcoat, plate half helm. Kite shield, broadsword and dagger. Add lance and medium warhorse as appropriate.
+**Armor**: Cloth hood, robe and leggings, leather knee boots, mail cowl, hauberk and mittens, cloth surcoat, plate half-helm. Kite shield, broadsword and dagger. Add lance and medium warhorse as appropriate.
 **Other Equipment**: Letter of introduction from the Chabla of the Lay of Paladins naming him as an erana (wandering knight)
 **Valuables**: 112d in silver in a money pouch, silver holy symbol (75d) worn on a chain around his neck
 **Notes**: He rides a gorgeous Reksyni warhorse named Wyndham (Initiative 70). Wyndham is 10 years old and was a gift from Sir Tobrin.

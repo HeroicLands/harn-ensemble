@@ -665,7 +665,7 @@ sohl:
 **Appearance**: Age 23, height 6' 1", heavy frame, weight 193 lb, attractive appearance, fair complexion, red hair, green eyes
 **Medical/Psyche**: Gigantism
 **Size**: 7
-**Armor**: Daily: Polar bear fur cloak, cloth tunic and leggings, leather knee boots. Shorkana (with Fakang's Edge) and dagger. Combat: Add leather gauntlets, mail hauberk, cloth hood, plate half helm, round shield. Add battleaxe (with Fakang's Edge)
+**Armor**: Daily: Polar bear fur cloak, cloth tunic and leggings, leather knee boots. Shorkana (with Fakang's Edge) and dagger. Combat: Add leather gauntlets, mail hauberk, cloth hood, plate half-helm, round shield. Add battleaxe (with Fakang's Edge)
 **Other Equipment**:
 **Valuables**: L4 in gold, 372d in silver
 **Notes**:

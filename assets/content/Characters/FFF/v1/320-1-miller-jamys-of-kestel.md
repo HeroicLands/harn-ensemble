@@ -601,7 +601,7 @@ sohl:
 **Appearance**: Age 34, height 5'7", heavy frame, weight 170 lb, average appearance, fair complexion, graying brown hair, blue eyes
 **Medical/Psyche**: None
 **Size**: 7
-**Armor**: Good quality russet long sleeve tunic, leggings and cap, leather belt and calf boots, and dagger. Add leather apron when milling. Add plate half helm, quilt gambeson and cowl, mail byrnie, kurbul kneecops, leather gauntlets, knights shield (with LoP heraldry), broadsword and spear, if he has time to prepare.
+**Armor**: Good quality russet long sleeve tunic, leggings and cap, leather belt and calf boots, and dagger. Add leather apron when milling. Add plate half-helm, quilt gambeson and cowl, mail byrnie, kurbul kneecops, leather gauntlets, knights shield (with LoP heraldry), broadsword and spear, if he has time to prepare.
 **Other Equipment**: Leather purse, tinder box
 **Valuables**: 120d in coin, several usurer's notes (total of L12), silver Laranian holy symbol and chain (L2)
 **Notes**:

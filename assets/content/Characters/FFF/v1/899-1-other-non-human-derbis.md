@@ -153,7 +153,7 @@ hm3:
 **Armor**: Tough skin (equal to leather), hide and fur tunic, leather cap, vambraces and foot wraps; club studded with nails, single bladed two-handed battleaxe, knife (as big as a broadsword) and longbow. Currently, only 6 arrows remaining
 **Other Equipment**: Belt pouch
 **Valuables**: None
-**Notes**: Impact - All weapons are larger than human equivalents and have double the impact. Added reach - Size and long arms mean that Derbis can hit opponents up to 10' away. This gives him a free tactical advantage as opponents close with him, unless they are using spears or other long weapons.
+**Notes**: Impact—All weapons are larger than human equivalents and have double the impact. Added reach—Size and long arms mean that Derbis can hit opponents up to 10' away. This gives him a free tactical advantage as opponents close with him, unless they are using spears or other long weapons.
 
 ## Biography
 

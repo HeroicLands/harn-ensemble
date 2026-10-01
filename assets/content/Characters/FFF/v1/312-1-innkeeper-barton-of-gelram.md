@@ -537,9 +537,9 @@ sohl:
 
 ## Biography
 
-Barton of Gelram can be described in one word - Lazy. He never wanted to be an innkeeper, but then he never wanted to be much of anything. It is only by luck, or perhaps a desire to get rid of him, that his master signed his papers making him a journeyman of the trade. Since then, Barton has moved from Inn to Inn looking for easy money, never staying long enough to be kicked out or receive an official guild reprimand.
+Barton of Gelram can be described in one word—Lazy. He never wanted to be an innkeeper, but then he never wanted to be much of anything. It is only by luck, or perhaps a desire to get rid of him, that his master signed his papers making him a journeyman of the trade. Since then, Barton has moved from Inn to Inn looking for easy money, never staying long enough to be kicked out or receive an official guild reprimand.
 
-The quality of inns Barton has been able to gain employment with has steadily gone down as word of his work ethic, or lack thereof has gotten around. He recently started at an inn that is little better than a flophouse - which suits him just fine. In fact, the Master Innkeeper is actually the head of the local Lia-Kavair. He leaves most of the day-to-day operation of the inn to Barton. Barton does just enough to keep the place open, and otherwise spends his time drinking, gambling, and spending time with the prostitutes.
+The quality of inns Barton has been able to gain employment with has steadily gone down as word of his work ethic, or lack thereof has gotten around. He recently started at an inn that is little better than a flophouse—which suits him just fine. In fact, the Master Innkeeper is actually the head of the local Lia-Kavair. He leaves most of the day-to-day operation of the inn to Barton. Barton does just enough to keep the place open, and otherwise spends his time drinking, gambling, and spending time with the prostitutes.
 
 Despite being kept away from the operations of the Lia-Kavair, Barton is a good observer and while lazy, he is not stupid. If the innkeeper knew just how much Barton had figured out about his illicit operations, Barton would be in for a bad time. As it is, Barton is keeping his true level of knowledge secret, waiting until a good opportunity presents itself.
 

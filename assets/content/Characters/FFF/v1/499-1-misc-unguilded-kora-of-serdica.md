@@ -548,7 +548,7 @@ Trail Guide & Interpreter. Kora is as familiar with Genin's Trail and its hazard
 
 Folklorist & Historian. The PCs are in search of an ancient site in eastern Harn. Surprisingly, their inquiries take them to Kora as the best source of information on pre-Migration War cultures and civilisation. She insists on accompanying the PCs.
 
-Access. Kora is well known in the settlements along Genin's Trail as both a healer and one wise in the "old ways." Most of her clients are peasants - the descendants of the region's early settlers - but even the nobility som times call on her for aid in time of need. In some noble houses, Kora can sometimes gain an audience denied to others.
+Access. Kora is well known in the settlements along Genin's Trail as both a healer and one wise in the "old ways." Most of her clients are peasants—the descendants of the region's early settlers—but even the nobility som times call on her for aid in time of need. In some noble houses, Kora can sometimes gain an audience denied to others.
 
 ## Credits
 

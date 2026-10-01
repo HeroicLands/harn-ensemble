@@ -529,7 +529,7 @@ sohl:
 **Apparent Wealth**: Moderate
 **Weapons**: Dagger
 **Armour**: None
-**Companions**: Wife - Ortilla
+**Companions**: Wife—Ortilla
 **Other obvious features**: Moustache
 
 # Dossier {#dossier}
@@ -550,7 +550,7 @@ The bastard son of a serving girl and a nobleman, Huw does not know for certain 
 
 In 709TR, shortly after Sir Declaen became Earl of Vemion, Sir Gorlin recommended his protege for the important position of steward to the Earl's brother, Sir Rindan (the Royal Ostler), in Tashal. Huw is responsible for the Caldeth townhouse and a number of rental properties in the capital. He is also one of the Earl's agents and acts as another pair of eyes and ears, keeping his liege well informed on the activities in the city.
 
-Huw met his future wife, Ortilla [FFF 417-4], when they were teenagers. She was the daughter of one of Irtivir Abbey's reeves. They fell madly in love. The abbot, at first opposed to the match, changed his mind after consulting the Earl's herald. They have two children, twin daughters Doria and Dalya (21 year old). Both are attending Irtivir Abbey courtesy of the Sir Gorlin's patronage, "It is the least I can do for my finest protege." When Sir Gorlin travels north with the Earl, he always visits the abbey to check on the girls' progress.
+Huw met his future wife, Ortilla [FFF 417-4], when they were teenagers. She was the daughter of one of Irtivir Abbey's reeves. They fell madly in love. The abbot, at first opposed to the match, changed his mind after consulting the Earl's herald. They have two children, twin daughters Doria and Dalya (21-year-old). Both are attending Irtivir Abbey courtesy of the Sir Gorlin's patronage, "It is the least I can do for my finest protege." When Sir Gorlin travels north with the Earl, he always visits the abbey to check on the girls' progress.
 
 The steward is well known and respected across Vemionshire, in the Earl's court in Minarsas and in the influential circles of Tashal. His strong personality, air of authority and brisk, alert manner, make him stand out. Some say he resembles an intelligent fox, with a sharp twitching nose and a stiff gray moustache that bristles fiercely across his sunken cheeks. Few are foolish enough to underestimate his cunning or loyalty to the Earl.
 

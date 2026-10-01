@@ -559,7 +559,7 @@ Being Watched: The party gets an uneasy feeling when they see Vakon watching the
 
 Recover Stolen Goods: Their patron's house has been burgled. A valuable silver plate was stolen and the PCs have been dispatched to find Vakon and the plate.
 
-Transport Prisoner: The PCs have been commissioned to transport the footpad to his trial and execution. Variant - Vakon escapes and they have to get him back.
+Transport Prisoner: The PCs have been commissioned to transport the footpad to his trial and execution. Variant—Vakon escapes and they have to get him back.
 
 Knifing: A sudden pain in the back is the first clue someone has tried to murder one of the PCs. They must catch Vakon to find out which enemy wants them dead.
 

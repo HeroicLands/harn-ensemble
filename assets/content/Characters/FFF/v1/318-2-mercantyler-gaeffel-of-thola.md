@@ -580,7 +580,7 @@ sohl:
 **Title**: FFF 318-2 Mercantyler
 **Birthday**: 26 Savor 697
 **Appearance**: Age 22, height 4' 11", light frame, weight 112 lbs, average appearance, fair complexion, brown hair, blue eyes
-**Medical/Psyche**: Gamblamania - Moderate (WILL x 3)
+**Medical/Psyche**: Gamblamania—Moderate (WILL x 3)
 **Size**: 5
 **Armor**: Leather shoes, cloth leggings, shirt, over robe and cloak. Dagger and walking stick (stick). Short bow, spear and buckler when travelling.
 **Other Equipment**: Belt pouch

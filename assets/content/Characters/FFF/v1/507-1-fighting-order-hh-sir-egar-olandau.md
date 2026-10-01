@@ -663,7 +663,7 @@ sohl:
 **Apparent Wealth**: Wealthy
 **Weapons**: Bastard Sword, Dagger
 **Armour**: None or mail
-**Companions**: Zero - seven men
+**Companions**: Zero–seven men
 **Other obvious features**: None
 
 # Dossier {#dossier}

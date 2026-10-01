@@ -845,7 +845,7 @@ sohl:
 **Medical/Psyche**: Burn scars on his hands and left side of his face
 **Size**: 6
 **Armor**: Linen robe with leggings and cloak, leather shoes. Enchanted dagger (+16 to skill); Enchanted shortsword (+16 to skill), both concealed from casual view under his cloak; Walking staff (10 point Peleahn focus).
-**Other Equipment**: Amulet of the Shroud of Eliadh - Weapon impacts reduced by 10 for three minutes - 5 charges remaining. Ring of the White Hand - imposes a -50 penalty to mind affecting spells targeted on the wearer.
+**Other Equipment**: Amulet of the Shroud of Eliadh—Weapon impacts reduced by 10 for three minutes—5 charges remaining. Ring of the White Hand—imposes a -50 penalty to mind affecting spells targeted on the wearer.
 **Valuables**: L5 in gold, 196d in silver in a money pouch
 **Notes**: Spells Known: All Peleahn spells and neutral spells as deemed appropriate
 
@@ -857,7 +857,7 @@ During his apprenticeship, Tobas was given the nickname "Wick", a moniker he sti
 
 Tobas is a member of the litigant's guild, and uses this as a cover while he is travelling, even taking cases periodically. He has developed a wide network of contacts throughout Harn at all levels of society and uses them to gather information useful to his search.
 
-In addition to his prodigious mastery of the Peleahn convocation, Tobas has great skill in a number of spells useful to his hunt. Some of these were learned through the study of written works and artefacts taken from fallen renegades. Tobas is always careful to report these items and turn them over to the proper chantries - eventually. In addition to his sword, dagger, ring, and amulet, Tobas may be found with almost any artefact that the GM deems appropriate to the encounter.
+In addition to his prodigious mastery of the Peleahn convocation, Tobas has great skill in a number of spells useful to his hunt. Some of these were learned through the study of written works and artefacts taken from fallen renegades. Tobas is always careful to report these items and turn them over to the proper chantries—eventually. In addition to his sword, dagger, ring, and amulet, Tobas may be found with almost any artefact that the GM deems appropriate to the encounter.
 
 ## Adventure Hooks
 

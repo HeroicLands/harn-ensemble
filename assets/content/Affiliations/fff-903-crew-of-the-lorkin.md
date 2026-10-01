@@ -82,7 +82,7 @@ In this interpretation, the Ivinian Kingdoms are the core systems, spreading out
 
 #### Battle of Serenity Valley = Siege of Lorkin Castle
 
-The Battle of Serenity Valley was the last battle of the Alliance - Independence Civil War. In the Firefly TV show, it is where Mal and Zoe fought their last battle of the war. The Siege of Lorkin Castle was the last battle of the Jarin Rebellion against the Ivinians in Orbaal; this is where Sha and Zoe fought in my version.
+The Battle of Serenity Valley was the last battle of the Alliance–Independence Civil War. In the Firefly TV show, it is where Mal and Zoe fought their last battle of the war. The Siege of Lorkin Castle was the last battle of the Jarin Rebellion against the Ivinians in Orbaal; this is where Sha and Zoe fought in my version.
 
 #### Serenity = Lorkin
 
