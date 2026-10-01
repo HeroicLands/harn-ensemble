@@ -212,6 +212,18 @@ sohl:
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-musc, name: Horn (Musician), system: {masteryLevelBase: 61}}
     - {model: sohl-sohl-skill-lang, name: "Language: Trierzi", system: {masteryLevelBase: 54}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 85}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Emela"
+      system: {shortcode: languageemela, masteryLevelBase: 66}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Palithanian"
+      system: {shortcode: languagepalithanian, masteryLevelBase: 50}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Shorka"
+      system: {shortcode: languageshorka, masteryLevelBase: 52}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-weapongear-Dgr}

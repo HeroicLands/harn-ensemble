@@ -196,7 +196,25 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Sindarin", system: {masteryLevelBase: 84}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 84}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 84}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese"
+      system: {shortcode: languagejarinese, masteryLevelBase: 84}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Khuzan"
+      system: {shortcode: languagekhuzan, masteryLevelBase: 84}
     - {model: sohl-sohl-skill-script, name: "Script: Selenian", system: {masteryLevelBase: 86}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 86}
+    - model: sohl-sohl-skill-script
+      name: "Script: Runic"
+      system: {shortcode: scriptrunic, masteryLevelBase: 86}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 67}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-containergear-pouchbuckram}

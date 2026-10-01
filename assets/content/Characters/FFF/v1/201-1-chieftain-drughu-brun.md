@@ -170,6 +170,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 14}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Pukael"
+      system: {shortcode: languagepukael, masteryLevelBase: 83}
     - {model: sohl-sohl-skill-fish, system: {masteryLevelBase: 77}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 103}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 42}}

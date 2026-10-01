@@ -217,7 +217,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Surikal", system: {masteryLevelBase: 66}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 85}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Azeryani"
+      system: {shortcode: languageazeryani, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-script, name: "Script: Zerin", system: {masteryLevelBase: 83}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 83}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 32}}

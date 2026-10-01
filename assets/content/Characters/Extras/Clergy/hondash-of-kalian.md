@@ -187,7 +187,13 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 64}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Emela)
+      system: {shortcode: languageemela, masteryLevelBase: 56}
     - {model: sohl-sohl-skill-script, name: Script(Lakaise), system: {masteryLevelBase: 81}}
+    - model: sohl-sohl-skill-script
+      name: Script(Khruni)
+      system: {shortcode: scriptkhruni, masteryLevelBase: 81}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 42}}

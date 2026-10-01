@@ -197,7 +197,22 @@ sohl:
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-musc, name: Flute (Musician), system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-lang, name: "Language: Trierzi", system: {masteryLevelBase: 60}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 85}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 75}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Karuia"
+      system: {shortcode: languagekaruia, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 83}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 83}
+    - model: sohl-sohl-skill-script
+      name: "Script: Zerin"
+      system: {shortcode: scriptzerin, masteryLevelBase: 83}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 28}}

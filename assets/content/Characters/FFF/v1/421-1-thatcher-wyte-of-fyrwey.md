@@ -178,6 +178,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 55}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese (Orbaal)"
+      system: {shortcode: languagejarineseorbaal, masteryLevelBase: 65}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 78}}
     - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 29}}
     - {model: sohl-sohl-skill-fish, system: {masteryLevelBase: 70}}

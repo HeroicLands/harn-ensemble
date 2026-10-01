@@ -174,6 +174,12 @@ sohl:
     - {model: sohl-sohl-skill-acro, system: {masteryLevelBase: 38}}
     - {model: sohl-sohl-skill-musc, name: Drum (Musician), system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 63}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese (Orbaal)"
+      system: {shortcode: languagejarineseorbaal, masteryLevelBase: 63}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 63}
     - model: sohl-sohl-skill-anmcft
       name: Horsecraft (Animalcraft)
       system: {masteryLevelBase: 55}

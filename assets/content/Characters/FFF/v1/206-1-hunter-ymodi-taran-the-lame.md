@@ -200,6 +200,15 @@ sohl:
     - model: sohl-sohl-skill-lang
       name: "Language: Gargun (Kyani)"
       system: {masteryLevelBase: 45}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese-Ymodi"
+      system: {shortcode: languagejarineseymodi, masteryLevelBase: 75}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 40}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 45}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 67}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 38}}
     - {model: sohl-sohl-skill-law, name: "Law: Ymodi", system: {masteryLevelBase: 30}}

@@ -79,7 +79,7 @@ hm3:
     - {shortcode: script, type: skill, name: Script(Lakaise), system: {masteryLevel: 79}}
     - shortcode: script
       type: skill
-      name: Script(Script(Runic))
+      name: Script(Runic)
       system: {shortcode: scriptrunic, masteryLevel: 79}
     - {shortcode: initiative, type: skill, system: {masteryLevel: 52}}
     - {shortcode: unarmed, type: skill, system: {masteryLevel: 55}}
@@ -161,7 +161,10 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-skill-script, name: Script(Script(Runic)), system: {masteryLevelBase: 79}}
+    - {model: sohl-sohl-skill-script, name: Script(Runic), system: {masteryLevelBase: 79}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 79}
     - model: sohl-sohl-skill-hide
       name: Parchment and Vellum (Hidework)
       system: {masteryLevelBase: 78}

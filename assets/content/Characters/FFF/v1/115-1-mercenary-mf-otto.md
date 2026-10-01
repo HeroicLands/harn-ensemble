@@ -202,7 +202,13 @@ sohl:
     - {model: sohl-sohl-skill-acro, system: {masteryLevelBase: 66}}
     - {model: sohl-sohl-skill-lgdm, system: {masteryLevelBase: 44}}
     - {model: sohl-sohl-skill-lang, name: "Language: Besha", system: {masteryLevelBase: 81}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 81}
     - {model: sohl-sohl-skill-script, name: "Script: Neramic", system: {masteryLevelBase: 83}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 83}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 27}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 30}}

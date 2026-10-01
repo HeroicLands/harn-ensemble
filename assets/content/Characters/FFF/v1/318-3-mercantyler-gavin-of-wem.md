@@ -188,6 +188,18 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Taelda", system: {masteryLevelBase: 48}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 72}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese"
+      system: {shortcode: languagejarinese, masteryLevelBase: 36}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 48}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Kath"
+      system: {shortcode: languagekath, masteryLevelBase: 24}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 83}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 60}}

@@ -202,7 +202,19 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Orbaalese", system: {masteryLevelBase: 76}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 112}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese"
+      system: {shortcode: languagejarinese, masteryLevelBase: 98}
     - {model: sohl-sohl-skill-script, name: "Script: Ciphers", system: {masteryLevelBase: 76}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 98}
+    - model: sohl-sohl-skill-script
+      name: "Script: Khruni"
+      system: {shortcode: scriptkhruni, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 16}}

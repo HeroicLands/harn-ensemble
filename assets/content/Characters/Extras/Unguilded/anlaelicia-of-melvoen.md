@@ -83,11 +83,11 @@ hm3:
     - {shortcode: script, type: skill, name: Script(Lakaise), system: {masteryLevel: 94}}
     - shortcode: script
       type: skill
-      name: Script(Script(Runic))
+      name: Script(Runic)
       system: {shortcode: scriptrunic, masteryLevel: 82}
     - shortcode: script
       type: skill
-      name: Script(Script(Selenian))
+      name: Script(Selenian)
       system: {shortcode: scriptselenian, masteryLevel: 94}
     - {shortcode: initiative, type: skill, system: {masteryLevel: 44}}
     - {shortcode: unarmed, type: skill, system: {masteryLevel: 56}}
@@ -164,9 +164,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 72}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Jarinese)
+      system: {shortcode: languagejarinese, masteryLevelBase: 44}
+    - {model: sohl-sohl-skill-script, name: Script(Selenian), system: {masteryLevelBase: 94}}
     - model: sohl-sohl-skill-script
-      name: Script(Script(Selenian))
-      system: {masteryLevelBase: 94}
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 94}
+    - model: sohl-sohl-skill-script
+      name: Script(Runic)
+      system: {shortcode: scriptrunic, masteryLevelBase: 82}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 203}}
     - {model: sohl-sohl-containergear-pouchbuckram}

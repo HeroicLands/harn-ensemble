@@ -202,7 +202,13 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Emela", system: {masteryLevelBase: 85}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-script, name: "Script: Khruni", system: {masteryLevelBase: 84}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 84}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-hrld, name: "Heraldry: Tharda", system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 33}}

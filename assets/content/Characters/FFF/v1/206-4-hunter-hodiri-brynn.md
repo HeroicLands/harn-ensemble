@@ -201,6 +201,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 60}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Hodiri"
+      system: {shortcode: languagehodiri, masteryLevelBase: 72}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 30}}
     - model: sohl-sohl-skill-anmcft
       name: Horsecraft (Animalcraft)

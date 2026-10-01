@@ -225,7 +225,13 @@ sohl:
     - {model: sohl-sohl-skill-lgdm, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-musc, name: Harp (Musician), system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-lang, name: "Language: Besha", system: {masteryLevelBase: 85}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 85}
     - {model: sohl-sohl-skill-script, name: "Script: Neramic", system: {masteryLevelBase: 84}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 84}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 30}}
     - model: sohl-sohl-skill-herb

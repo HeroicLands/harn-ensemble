@@ -185,6 +185,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 54}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Bujoc"
+      system: {shortcode: languagebujoc, masteryLevelBase: 74}
     - {model: sohl-sohl-skill-slng, system: {masteryLevelBase: 64}}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 70}}

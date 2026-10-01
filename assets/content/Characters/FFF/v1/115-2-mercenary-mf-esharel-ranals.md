@@ -201,6 +201,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 73}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese"
+      system: {shortcode: languagejarinese, masteryLevelBase: 73}
     - model: sohl-sohl-skill-agri
       name: Cattlecraft (Agriculture)
       system: {masteryLevelBase: 53}

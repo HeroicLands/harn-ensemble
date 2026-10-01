@@ -174,6 +174,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Guilded", system: {masteryLevelBase: 70}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Jarinese)
+      system: {shortcode: languagejarinese, masteryLevelBase: 10}
     - {model: sohl-sohl-skill-script, name: Script(Lakaise), system: {masteryLevelBase: 81}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 84}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 27}}

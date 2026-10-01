@@ -193,6 +193,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Gargu-arak", system: {masteryLevelBase: 65}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 93}
     - {model: sohl-sohl-skill-script, name: "Scripts: Lakise", system: {masteryLevelBase: 98}}
     - {model: sohl-sohl-skill-agri, system: {masteryLevelBase: 82}}
     - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 65}}

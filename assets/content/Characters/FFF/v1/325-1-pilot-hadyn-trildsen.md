@@ -180,6 +180,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 74}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 74}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 81}}

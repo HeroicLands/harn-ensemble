@@ -11,7 +11,7 @@ data:
   gender: male
   species: sindarinflk
   age: 2430
-  born: 1711.201
+  born: -1711.201
   height: 1.65
   weight: 61.23
   frame: light
@@ -224,7 +224,25 @@ sohl:
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-musc, name: Harp (Musician), system: {masteryLevelBase: 76}}
     - {model: sohl-sohl-skill-lang, name: "Language: Orbaalese", system: {masteryLevelBase: 45}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Sindarin"
+      system: {shortcode: languagesindarin, masteryLevelBase: 94}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 94}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese"
+      system: {shortcode: languagejarinese, masteryLevelBase: 70}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Khuzan"
+      system: {shortcode: languagekhuzan, masteryLevelBase: 70}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 60}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Selenian"
+      system: {shortcode: scriptselenian, masteryLevelBase: 90}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 86}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 90}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 82}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 80}}

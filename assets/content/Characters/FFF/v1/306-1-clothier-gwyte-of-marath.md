@@ -180,7 +180,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 72}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Khuzan"
+      system: {shortcode: languagekhuzan, masteryLevelBase: 52}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese (Azadmere)"
+      system: {shortcode: languagejarineseazadmere, masteryLevelBase: 72}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 62}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 83}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 49}}
     - {model: sohl-sohl-skill-law, name: "Law: Jarin", system: {masteryLevelBase: 26}}

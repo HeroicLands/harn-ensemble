@@ -153,6 +153,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Noble", system: {masteryLevelBase: 92}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Jarinese)
+      system: {shortcode: languagejarinese, masteryLevelBase: 44}
     - {model: sohl-sohl-skill-script, name: Script(Lakaise), system: {masteryLevelBase: 88}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1661}}

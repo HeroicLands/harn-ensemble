@@ -211,6 +211,12 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 38}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Ivinian"
+      system: {shortcode: languageivinian, masteryLevelBase: 76}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 55}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 83}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 29}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 31}}

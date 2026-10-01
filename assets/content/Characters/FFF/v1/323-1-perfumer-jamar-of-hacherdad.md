@@ -194,7 +194,22 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 68}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Hacherian"
+      system: {shortcode: languagehacherian, masteryLevelBase: 72}
+    - model: sohl-sohl-skill-lang
+      name: "Language: High Azeryani"
+      system: {shortcode: languagehighazeryani, masteryLevelBase: 64}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Karejian"
+      system: {shortcode: languagekarejian, masteryLevelBase: 66}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 64}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Neramic"
+      system: {shortcode: scriptneramic, masteryLevelBase: 82}
+    - model: sohl-sohl-skill-script
+      name: "Script: Ayaran"
+      system: {shortcode: scriptayaran, masteryLevelBase: 68}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 48}}

@@ -196,7 +196,22 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Emela", system: {masteryLevelBase: 48}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Ivinian"
+      system: {shortcode: languageivinian, masteryLevelBase: 86}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harbaalese"
+      system: {shortcode: languageharbaalese, masteryLevelBase: 76}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Shorka"
+      system: {shortcode: languageshorka, masteryLevelBase: 70}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 66}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 83}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Runic"
+      system: {shortcode: scriptrunic, masteryLevelBase: 83}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 36}}

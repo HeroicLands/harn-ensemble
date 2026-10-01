@@ -91,7 +91,7 @@ hm3:
     - {shortcode: script, type: skill, name: Script(Lakaise), system: {masteryLevel: 88}}
     - shortcode: script
       type: skill
-      name: Script(Script(Runic))
+      name: Script(Runic)
       system: {shortcode: scriptrunic, masteryLevel: 79}
     - shortcode: script
       type: skill
@@ -199,8 +199,20 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Unguilded", system: {masteryLevelBase: 64}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Ivinian)
+      system: {shortcode: languageivinian, masteryLevelBase: 70}
+    - model: sohl-sohl-skill-lang
+      name: Language(Karuia)
+      system: {shortcode: languagekaruia, masteryLevelBase: 56}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-script, name: Script(Zerin), system: {masteryLevelBase: 88}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 88}
+    - model: sohl-sohl-skill-script
+      name: Script(Runic)
+      system: {shortcode: scriptrunic, masteryLevelBase: 79}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 18}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 42}}

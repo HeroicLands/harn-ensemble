@@ -176,7 +176,16 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 65}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Azeri)
+      system: {shortcode: languageazeri, masteryLevelBase: 45}
+    - model: sohl-sohl-skill-lang
+      name: Language(Ormauk)
+      system: {shortcode: languageormauk, masteryLevelBase: 45}
     - {model: sohl-sohl-skill-script, name: Script(Nuvesarl), system: {masteryLevelBase: 82}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 82}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-hide, name: Human Skin (Hidework), system: {masteryLevelBase: 26}}

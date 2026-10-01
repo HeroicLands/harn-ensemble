@@ -190,7 +190,13 @@ sohl:
     - {model: sohl-sohl-skill-acro, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-lgdm, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 64}}
+    - model: sohl-sohl-skill-lang
+      name: Language(Besha)
+      system: {shortcode: languagebesha, masteryLevelBase: 84}
     - {model: sohl-sohl-skill-script, name: Script(Neramic), system: {masteryLevelBase: 84}}
+    - model: sohl-sohl-skill-script
+      name: Script(Lakaise)
+      system: {shortcode: scriptlakaise, masteryLevelBase: 84}
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 28}}

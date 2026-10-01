@@ -201,6 +201,9 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Jarin", system: {masteryLevelBase: 45}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 73}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 83}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 29}}

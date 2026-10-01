@@ -205,6 +205,12 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Emela", system: {masteryLevelBase: 58}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 93}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Ivinian"
+      system: {shortcode: languageivinian, masteryLevelBase: 45}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 82}}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 60}}

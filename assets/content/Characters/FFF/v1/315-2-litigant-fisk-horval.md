@@ -199,7 +199,19 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 48}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Ivinian"
+      system: {shortcode: languageivinian, masteryLevelBase: 96}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harbaalese"
+      system: {shortcode: languageharbaalese, masteryLevelBase: 64}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 48}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 60}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Runic"
+      system: {shortcode: scriptrunic, masteryLevelBase: 90}
     - {model: sohl-sohl-skill-law, name: "Law: Ljarl", system: {masteryLevelBase: 90}}
     - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 75}}

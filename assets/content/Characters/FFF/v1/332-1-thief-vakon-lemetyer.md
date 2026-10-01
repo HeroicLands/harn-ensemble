@@ -169,6 +169,9 @@ sohl:
     - {model: sohl-sohl-skill-acro, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-lgdm, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-lang, name: "Language: Jarinese", system: {masteryLevelBase: 62}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Harnic"
+      system: {shortcode: languageharnic, masteryLevelBase: 62}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-skill-slng, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 42}}

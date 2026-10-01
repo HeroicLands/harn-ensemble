@@ -207,6 +207,12 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 45}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 65}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Jarinese"
+      system: {shortcode: languagejarinese, masteryLevelBase: 60}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 84}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 46}}

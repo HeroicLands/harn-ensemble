@@ -198,7 +198,22 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 65}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Karejian"
+      system: {shortcode: languagekarejian, masteryLevelBase: 113}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Orbaalese"
+      system: {shortcode: languageorbaalese, masteryLevelBase: 80}
     - {model: sohl-sohl-skill-script, name: "Script: Runic", system: {masteryLevelBase: 80}}
+    - model: sohl-sohl-skill-script
+      name: "Script: Ayaran"
+      system: {shortcode: scriptayaran, masteryLevelBase: 115}
+    - model: sohl-sohl-skill-script
+      name: "Script: Neramic"
+      system: {shortcode: scriptneramic, masteryLevelBase: 115}
+    - model: sohl-sohl-skill-script
+      name: "Script: Lakise"
+      system: {shortcode: scriptlakise, masteryLevelBase: 115}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-containergear-pouchbuckram}

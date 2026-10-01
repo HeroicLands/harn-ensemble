@@ -217,6 +217,15 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 28}}
+    - model: sohl-sohl-skill-lang
+      name: "Language: French"
+      system: {shortcode: languagefrench, masteryLevelBase: 83}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Latin"
+      system: {shortcode: languagelatin, masteryLevelBase: 83}
+    - model: sohl-sohl-skill-lang
+      name: "Language: Anglo-Saxon"
+      system: {shortcode: languageanglosaxon, masteryLevelBase: 45}
     - {model: sohl-sohl-skill-script, name: "Script: Latin", system: {masteryLevelBase: 83}}
     - {model: sohl-sohl-skill-hrld, name: "Heraldry: Harnic", system: {masteryLevelBase: 29}}
     - model: sohl-sohl-skill-anmcft
