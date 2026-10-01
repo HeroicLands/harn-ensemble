@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: YQHrhH126BF6vQtt
   packFolder: extrasserfs
   social: {occupation: Servant, class: serf, society: feudal, organizations: []}
 hm3:

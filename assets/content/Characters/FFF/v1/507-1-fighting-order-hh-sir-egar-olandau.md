@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [agrik]}
-  id: fT3OK3pjLfcN9riV
   packFolder: fffnobles
   social: {occupation: Fighting order knight, class: noble, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Hand tremor]
   harnworld: {realm: "", ritual: ["custom|Old Jarin"]}
-  id: jW8F24E2EwEro9xh
   packFolder: fffunguilded
   social: {occupation: Wise Woman, class: freeman, society: feudal, organizations: []}
 hm3:

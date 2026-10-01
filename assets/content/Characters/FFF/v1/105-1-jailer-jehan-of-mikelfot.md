@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: AVNsB95rsRck3egC
   packFolder: fffmilitary
   social: {occupation: Jailer, class: freeman, society: feudal, organizations: []}
 hm3:

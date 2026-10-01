@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: ksE1fNg0NRSuY6x2
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Crooked left forearm]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: 7sF0UGfk4SwrXTDS
   packFolder: fffguilded
   social: {occupation: Hideworker, class: freeman, society: viking, organizations: []}
 hm3:

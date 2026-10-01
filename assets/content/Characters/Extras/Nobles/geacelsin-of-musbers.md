@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: NMeHuFs736GQHPTR
   packFolder: extrasnobles
   social: {occupation: Patrician, class: noble, society: feudal, organizations: []}
 hm3:

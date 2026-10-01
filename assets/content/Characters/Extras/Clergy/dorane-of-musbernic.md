@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: [halea]}
-  id: pVSEBHjNiIgihUlN
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: guilded, society: feudal, organizations: []}
 hm3:

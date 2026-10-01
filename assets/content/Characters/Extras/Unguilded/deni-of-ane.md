@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: AzEEzQULYpkSMUdm
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

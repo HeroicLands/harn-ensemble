@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani, peoni]}
-  id: aRJme3GFrpfTgRe6
   packFolder: fffmilitary
   social: {occupation: Mercenary (LF), class: freeman, society: feudal, organizations: []}
 hm3:

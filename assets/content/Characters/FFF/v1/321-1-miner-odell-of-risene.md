@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Parasites (fleas)]
   harnworld: {realm: "", ritual: [peoni]}
-  id: myAxxYx2A8oZ5RXO
   packFolder: fffguilded
   social: {occupation: Miner, class: freeman, society: feudal, organizations: []}
 hm3:

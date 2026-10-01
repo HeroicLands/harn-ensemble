@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 1vRlA9jG46ez82VW
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: noble, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: nQeiJhS9HcklWYBw
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Savorya*****", class: serf, society: feudal, organizations: []}
 hm3:

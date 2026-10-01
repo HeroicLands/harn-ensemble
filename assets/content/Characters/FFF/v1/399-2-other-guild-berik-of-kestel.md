@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: tdj4wiuYXKyinfOG
   packFolder: fffguilded
   social: {occupation: Other (Guild) - Child, class: freeman, society: feudal, organizations: []}
 hm3:

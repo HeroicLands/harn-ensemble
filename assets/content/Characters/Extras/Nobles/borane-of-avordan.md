@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: f7som2cPUFTmdBPq
   packFolder: extrasnobles
   social: {occupation: Patrician, class: unguilded, society: feudal, organizations: []}
 hm3:

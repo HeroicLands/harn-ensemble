@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: 65YQJCeLnKbE03Cl
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: serf, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [saveknor]}
-  id: jqxwcglOWSbmKmea
   packFolder: fffmages
   social: {occupation: Ship Captain, class: freeman, society: feudal, organizations: []}
 hm3:

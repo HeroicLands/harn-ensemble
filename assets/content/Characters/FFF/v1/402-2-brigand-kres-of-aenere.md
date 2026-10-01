@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Never smiles]
   harnworld: {realm: "", ritual: [peoni, agrik]}
-  id: zzb52YxzVJETrKFW
   packFolder: fffunguilded
   social: {occupation: Brigand, class: serf, society: feudal, organizations: []}
 hm3:

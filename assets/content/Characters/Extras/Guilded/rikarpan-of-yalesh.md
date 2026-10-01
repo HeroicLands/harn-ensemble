@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: 1TD3BBljbZ0yhwR2
   packFolder: extrasguilded
   social: {occupation: Timberwright, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: DXII1oXhOLZBU8FB
   packFolder: fffguilded
   social: {occupation: Tentmaker, class: freeman, society: feudal, organizations: []}
 hm3:

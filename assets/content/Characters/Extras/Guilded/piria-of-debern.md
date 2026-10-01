@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: laEFZgIFE9VcRKJT
   packFolder: extrasguilded
   social: {occupation: Embalmer, class: guilded, society: feudal, organizations: []}
 hm3:

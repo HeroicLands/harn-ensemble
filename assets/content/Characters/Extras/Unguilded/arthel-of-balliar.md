@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: JGFDiEmahtpO1PbL
   packFolder: extrasunguilded
   social:
     occupation: Sindarin Ranger, Light

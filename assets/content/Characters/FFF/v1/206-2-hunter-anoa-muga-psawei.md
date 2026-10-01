@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Gigantism, Well groomed beard, moustache]
   harnworld: {realm: "", ritual: [korr]}
-  id: wxCq5wuoFDXB55JX
   packFolder: fffbarbarians
   social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
 hm3:

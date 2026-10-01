@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 47KuVKZJCcdD4SBS
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

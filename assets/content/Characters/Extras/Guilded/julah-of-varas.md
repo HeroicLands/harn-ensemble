@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: qQSvtbJ56jCdojkv
   packFolder: extrasguilded
   social: {occupation: Miller/Millwright, class: unguilded, society: feudal, organizations: []}
 hm3:

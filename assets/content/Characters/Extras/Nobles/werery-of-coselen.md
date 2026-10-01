@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: y4nlArbIGA7IccJH
   packFolder: extrasnobles
   social: {occupation: Herald, class: noble, society: feudal, organizations: []}
 hm3:

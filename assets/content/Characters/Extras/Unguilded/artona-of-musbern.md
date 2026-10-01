@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: PQ5lECs1gd3xY3BN
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

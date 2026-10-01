@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: F2p8EWfZFiI7YeL5
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: jZCnPXLZLl2LyCVL
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

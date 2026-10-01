@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: BU4bOo94FGjJmNnq
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Odivshe****", class: serf, society: feudal, organizations: []}
 hm3:

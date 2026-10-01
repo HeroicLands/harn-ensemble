@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: R2BG5gRcJs68bxFx
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

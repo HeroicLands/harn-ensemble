@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: HxtAGRO4FSTP0v3G
   packFolder: fffguilded
   social: {occupation: Caravan Master, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [His left leg has a slight limp]
   harnworld: {realm: "", ritual: [larani]}
-  id: aghrGYgVl3ACbIz7
   packFolder: fffnobles
   social: {occupation: Royal Agent, class: noble, society: feudal, organizations: []}
 hm3:

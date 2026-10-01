@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: QZo1LlxuSGoM1VAr
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

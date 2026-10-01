@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: anlVa3Dtluoyqyoo
   packFolder: extrasguilded
   social: {occupation: Weaponcrafter, class: guilded, society: feudal, organizations: []}
 hm3:

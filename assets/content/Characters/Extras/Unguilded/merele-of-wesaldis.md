@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 4t8fs8c1x1wFiieG
   packFolder: extrasunguilded
   social:
     occupation: Feudal Yeoman, Shortbow

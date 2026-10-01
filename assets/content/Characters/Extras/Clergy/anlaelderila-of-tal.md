@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [halea]}
-  id: 5zrRwWP63YLfjMWU
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: guilded, society: feudal, organizations: []}
 hm3:

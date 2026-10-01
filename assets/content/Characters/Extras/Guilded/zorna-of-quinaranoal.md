@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: 1K39tpfOHWwKp3qk
   packFolder: extrasguilded
   social: {occupation: Courtesan, class: unguilded, society: feudal, organizations: []}
 hm3:

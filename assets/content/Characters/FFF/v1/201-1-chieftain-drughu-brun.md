@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Parasites (Fleas), Several large tattoos]
   harnworld: {realm: "", ritual: [yavanna]}
-  id: B3o2Cu05ziblcSXY
   packFolder: fffbarbarians
   social: {occupation: Chieftain, class: tribesman, society: tribal, organizations: []}
 hm3:

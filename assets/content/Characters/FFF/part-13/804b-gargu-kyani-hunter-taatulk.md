@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Ruined left eye, Heavily scarred face, bear claw totem necklace]
   harnworld: {realm: "", ritual: []}
-  id: yHTXrQJNtmgOTo45
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: hunter, society: gargun (kyani), organizations: []}
 hm3:

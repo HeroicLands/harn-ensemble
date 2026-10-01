@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: WgdVHWWBQHBs5GTO
   packFolder: extrasnobles
   social: {occupation: "Feudal Knight, Medium", class: serf, society: feudal, organizations: []}
 hm3:

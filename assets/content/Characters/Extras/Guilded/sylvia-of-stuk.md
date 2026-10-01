@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: vIQZOf7LtvIMx3jm
   packFolder: extrasguilded
   social: {occupation: Seaman, class: unguilded, society: feudal, organizations: []}
 hm3:

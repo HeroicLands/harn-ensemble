@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: 6smpeAorEzZ8ARiu
   packFolder: extrasunguilded
   social: {occupation: Sage/Tutor, class: noble, society: feudal, organizations: []}
 hm3:

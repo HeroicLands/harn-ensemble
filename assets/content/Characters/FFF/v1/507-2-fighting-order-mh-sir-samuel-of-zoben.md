@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: 9o0fxrdxnNpPstOe
   packFolder: fffnobles
   social: {occupation: Knight/Spy, class: freeman, society: feudal, organizations: []}
 hm3:

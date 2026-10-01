@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Scars, parasites, pox marks, missing both thumbs]
   harnworld: {realm: "", ritual: [peoni]}
-  id: X9QMQDMRJ2tSGvPK
   packFolder: fffunguilded
   social: {occupation: Slave, class: slave, society: imperial, organizations: []}
 hm3:

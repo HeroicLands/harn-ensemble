@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: YrqliPUW5NTc4A8R
   packFolder: fffunguilded
   social: {occupation: Ratter, class: freeman ex-serf, society: feudal, organizations: []}
 hm3:

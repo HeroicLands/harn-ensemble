@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: AJM9eGi0LI6v14Nt
   packFolder: extrasguilded
   social: {occupation: Miller/Millwright, class: unguilded, society: feudal, organizations: []}
 hm3:

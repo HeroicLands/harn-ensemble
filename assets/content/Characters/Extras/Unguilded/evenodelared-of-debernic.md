@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: Fg4FDHOXRKNxHpvo
   packFolder: extrasunguilded
   social: {occupation: Toymaker, class: unguilded, society: feudal, organizations: []}
 hm3:

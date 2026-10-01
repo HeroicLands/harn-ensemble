@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: 5EqOWHn9pt6kOkio
   packFolder: extrasguilded
   social: {occupation: Charcoaler, class: guilded, society: feudal, organizations: []}
 hm3:

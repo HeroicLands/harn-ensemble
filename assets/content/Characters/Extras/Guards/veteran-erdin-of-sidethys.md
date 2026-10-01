@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: IYWQ0J4hRp08Qlmx
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

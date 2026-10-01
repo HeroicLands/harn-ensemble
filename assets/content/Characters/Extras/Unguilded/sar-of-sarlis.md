@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: bEJC47YgbmJL9TsG
   packFolder: extrasunguilded
   social: {occupation: Fisherman, class: unguilded, society: feudal, organizations: []}
 hm3:

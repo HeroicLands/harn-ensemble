@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Very well dressed, noticeable accent]
   harnworld: {realm: "", ritual: [halea]}
-  id: mKKZFqqi9mBqoiFw
   packFolder: fffguilded
   social: {occupation: Physician, class: freeman, society: viking, organizations: []}
 hm3:

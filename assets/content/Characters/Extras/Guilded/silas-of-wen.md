@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: QeR8rc1yMd0Jc9WS
   packFolder: extrasguilded
   social: {occupation: Salter, class: guilded, society: feudal, organizations: []}
 hm3:

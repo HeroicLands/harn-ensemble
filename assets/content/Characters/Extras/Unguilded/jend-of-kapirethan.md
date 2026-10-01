@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: izWdUwbbrBQf9Sx8
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Mild hunchback]
   harnworld: {realm: "", ritual: [peoni]}
-  id: YNSUEn5YOAx5neoX
   packFolder: fffclergy
   social: {occupation: Peonian Priest, class: freeman, society: feudal, organizations: []}
 hm3:

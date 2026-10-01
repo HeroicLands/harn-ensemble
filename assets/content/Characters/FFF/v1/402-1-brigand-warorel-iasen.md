@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Pox marks]
   harnworld: {realm: "", ritual: []}
-  id: 0wZyta0rVtXJ1YDp
   packFolder: fffunguilded
   social: {occupation: Brigand, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: 2dFAtYI8nTSIKduh
   packFolder: extrasunguilded
   social: {occupation: Imperial Militia, class: unguilded, society: feudal, organizations: []}
 hm3:

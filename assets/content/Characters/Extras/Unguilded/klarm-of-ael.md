@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: F7KMMyk0N5PBMlq0
   packFolder: extrasunguilded
   social: {occupation: Laborer/Longshoreman, class: unguilded, society: feudal, organizations: []}
 hm3:

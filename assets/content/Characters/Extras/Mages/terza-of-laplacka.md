@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
-  id: mcOZ5ulcWOhx1BFO
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Peleahn****", class: serf, society: feudal, organizations: []}
 hm3:

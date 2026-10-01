@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: nVHVOaDWE4xqC7Fy
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Lyahvi***", class: serf, society: feudal, organizations: []}
 hm3:

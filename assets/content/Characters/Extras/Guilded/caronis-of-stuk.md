@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: RNBeY0Z1kd4AIOTH
   packFolder: extrasguilded
   social: {occupation: Ostler, class: unguilded, society: feudal, organizations: []}
 hm3:

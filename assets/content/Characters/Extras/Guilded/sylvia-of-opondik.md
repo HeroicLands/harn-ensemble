@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 0yDtjKs97CKT7kRx
   packFolder: extrasguilded
   social: {occupation: Charcoaler, class: unguilded, society: feudal, organizations: []}
 hm3:

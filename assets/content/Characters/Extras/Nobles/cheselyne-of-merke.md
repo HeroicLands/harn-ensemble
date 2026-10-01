@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: bZhYSvXCMnkp522R
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
 hm3:

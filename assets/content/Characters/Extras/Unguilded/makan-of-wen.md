@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: L2NuyGL4gtYz6GZI
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

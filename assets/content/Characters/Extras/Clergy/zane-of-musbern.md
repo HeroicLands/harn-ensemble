@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: [naveh]}
-  id: h7BeRWWbnr31qI1l
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: unguilded, society: feudal, organizations: []}
 hm3:

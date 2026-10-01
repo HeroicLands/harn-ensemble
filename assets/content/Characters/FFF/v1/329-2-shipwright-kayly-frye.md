@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Always bubbly, happy]
   harnworld: {realm: "", ritual: [peoni]}
-  id: iXr9ICXqiaPxI71J
   packFolder: fffguilded
   social: {occupation: Shipwright, class: freeman, society: feudal, organizations: []}
 hm3:

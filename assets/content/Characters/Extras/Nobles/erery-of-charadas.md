@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: 7Z900tnxiMe6bcS8
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: serf, society: feudal, organizations: []}
 hm3:

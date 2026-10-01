@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: EG8mEK0hMePafRw4
   packFolder: extrasunguilded
   social:
     occupation: Feudal Yeoman, Longbow

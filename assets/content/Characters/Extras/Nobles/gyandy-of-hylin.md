@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: Y8SN80d6jkBBYZic
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

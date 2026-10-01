@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
-  id: Wc0RcAtxnKWoOOG6
   packFolder: extrasguilded
   social: {occupation: Thief, class: serf, society: feudal, organizations: []}
 hm3:

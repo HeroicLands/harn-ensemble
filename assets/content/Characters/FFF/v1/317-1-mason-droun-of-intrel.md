@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: [Moustache, goatee]
   harnworld: {realm: "", ritual: [peoni]}
-  id: LichuZPDbvMhBsKm
   packFolder: fffguilded
   social: {occupation: Mason, class: freeman, society: feudal, organizations: []}
 hm3:

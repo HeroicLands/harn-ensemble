@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: 8JtiDifCMq47GT0Z
   packFolder: extrasguilded
   social: {occupation: Embalmer, class: guilded, society: feudal, organizations: []}
 hm3:

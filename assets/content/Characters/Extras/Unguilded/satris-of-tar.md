@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: YCKiFhtPo0nEiSbz
   packFolder: extrasunguilded
   social:
     occupation: Feudal Guardsman, Light

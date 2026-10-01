@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: qA9xOa32yjCKWf5u
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

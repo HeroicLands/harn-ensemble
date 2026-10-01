@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: aDNZWCNd3VrkE7Fn
   packFolder: extrasunguilded
   social: {occupation: Cook/Servant, class: guilded, society: feudal, organizations: []}
 hm3:

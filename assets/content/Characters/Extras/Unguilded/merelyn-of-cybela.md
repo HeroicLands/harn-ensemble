@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: DmDr1np2ADatu6rc
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

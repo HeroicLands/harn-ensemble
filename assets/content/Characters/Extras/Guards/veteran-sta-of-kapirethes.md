@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: eEjEaaEl1c9JaLlR
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

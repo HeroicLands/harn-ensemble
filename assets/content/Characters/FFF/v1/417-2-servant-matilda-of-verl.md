@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: PGB2gBNjPVucIFKf
   packFolder: fffunguilded
   social: {occupation: Household Cook, class: freeman, society: feudal, organizations: []}
 hm3:

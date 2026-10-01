@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: gMxOXdRZllSgRV9C
   packFolder: extrasunguilded
   social: {occupation: Scribe, class: serf, society: feudal, organizations: []}
 hm3:

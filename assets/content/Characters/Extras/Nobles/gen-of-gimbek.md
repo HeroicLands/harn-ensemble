@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: CVjnLWLR13jX19Mp
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: J9aYVjIyZp4LUs5a
   packFolder: extrasguilded
   social: {occupation: Physician, class: guilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: Esa7LFc69vJX5GdL
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: guilded, society: feudal, organizations: []}
 hm3:

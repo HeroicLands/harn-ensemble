@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: IGshwkqkZzqkiMdP
   packFolder: extrasserfs
   social: {occupation: Servant, class: unguilded, society: feudal, organizations: []}
 hm3:

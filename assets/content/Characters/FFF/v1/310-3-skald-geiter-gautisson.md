@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: ia2zjJrUeoSAxFzi
   packFolder: fffguilded
   social: {occupation: Skald, class: freeman, society: viking, organizations: []}
 hm3:

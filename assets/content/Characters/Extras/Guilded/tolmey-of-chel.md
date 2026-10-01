@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: dmBoNIrSVBxpCsJa
   packFolder: extrasguilded
   social: {occupation: Clothier, class: unguilded, society: feudal, organizations: []}
 hm3:

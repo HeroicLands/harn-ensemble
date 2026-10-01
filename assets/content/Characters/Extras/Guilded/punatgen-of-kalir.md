@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: DkDM6XFFOxCPOHfV
   packFolder: extrasguilded
   social: {occupation: Clothier, class: guilded, society: feudal, organizations: []}
 hm3:

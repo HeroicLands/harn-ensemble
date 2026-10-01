@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: T6DmN7zesMk4S468
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Low Guard, class: unguilded, society: feudal, organizations: []}
 hm3:

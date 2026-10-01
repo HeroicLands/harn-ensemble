@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: J4zxxrqkXLkX3F9j
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

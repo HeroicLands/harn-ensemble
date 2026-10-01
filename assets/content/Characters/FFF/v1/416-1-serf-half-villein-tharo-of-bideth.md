@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache, scrawny beard]
   harnworld: {realm: "", ritual: [peoni]}
-  id: zfHZeMOSxVjH1jmT
   packFolder: fffunguilded
   social: {occupation: Half-Villein, class: serf, society: feudal, organizations: []}
 hm3:

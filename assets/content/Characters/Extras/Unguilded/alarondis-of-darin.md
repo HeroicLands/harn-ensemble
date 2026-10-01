@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
-  id: vIYYDBcb9JU6IDM2
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: serf, society: feudal, organizations: []}
 hm3:

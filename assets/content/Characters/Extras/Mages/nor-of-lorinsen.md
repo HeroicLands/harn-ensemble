@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: dNl6o5K0a7d2IMKT
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Lyahvi***", class: unguilded, society: feudal, organizations: []}
 hm3:

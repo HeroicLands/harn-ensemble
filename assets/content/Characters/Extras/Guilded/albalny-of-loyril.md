@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: ffJ6Pepi7yUWmsaf
   packFolder: extrasguilded
   social: {occupation: Shipwright, class: serf, society: feudal, organizations: []}
 hm3:

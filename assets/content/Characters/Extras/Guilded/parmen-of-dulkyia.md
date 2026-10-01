@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: sjZOtY3W15kwzpJR
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: guilded, society: feudal, organizations: []}
 hm3:

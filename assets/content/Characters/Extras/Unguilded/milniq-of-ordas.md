@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: TwEovUNyRWoQ87vA
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

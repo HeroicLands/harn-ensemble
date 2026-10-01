@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: zGqh9F373KsLDA8J
   packFolder: extrasguilded
   social: {occupation: Potter, class: guilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: tFRq0wInBuGrhn7T
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Medium

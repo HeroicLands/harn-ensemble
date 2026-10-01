@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: DOyV3EQd9EWV4TfM
   packFolder: extrasguilded
   social: {occupation: Apothecary, class: guilded, society: feudal, organizations: []}
 hm3:

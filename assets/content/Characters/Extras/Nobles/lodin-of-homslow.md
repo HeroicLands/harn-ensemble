@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: UXxgsSwdaPZkBDWZ
   packFolder: extrasnobles
   social: {occupation: Baliff, class: unguilded, society: feudal, organizations: []}
 hm3:

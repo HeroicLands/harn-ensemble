@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: II19fkAMvCInJDoA
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

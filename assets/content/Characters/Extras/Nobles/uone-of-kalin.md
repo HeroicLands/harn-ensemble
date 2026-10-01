@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: Ow4xGZZEU2cydHJ6
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Medium

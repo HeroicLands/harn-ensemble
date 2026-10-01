@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: uWGsCfkr82v6GjZT
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: guilded, society: feudal, organizations: []}
 hm3:
