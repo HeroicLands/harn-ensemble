@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: W5F4jCAv4WicdBNG
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
 hm3:

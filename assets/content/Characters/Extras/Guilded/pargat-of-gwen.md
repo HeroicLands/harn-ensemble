@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: JobWDSfvWWZ1MPyJ
   packFolder: extrasguilded
   social: {occupation: Mercantyler, class: serf, society: feudal, organizations: []}
 hm3:

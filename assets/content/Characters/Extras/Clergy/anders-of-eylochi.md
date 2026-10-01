@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [siem]}
-  id: keV3cuAw1MMALalJ
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: serf, society: feudal, organizations: []}
 hm3:

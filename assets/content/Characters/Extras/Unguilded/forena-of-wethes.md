@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: tx1Ngf2GlihQsy3L
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

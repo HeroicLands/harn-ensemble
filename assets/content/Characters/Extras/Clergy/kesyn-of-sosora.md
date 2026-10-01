@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [agrik]}
-  id: GzazT6WHbyyFvfap
   packFolder: extrasclergy
   social: {occupation: Cleric/Agrik, class: guilded, society: feudal, organizations: []}
 hm3:

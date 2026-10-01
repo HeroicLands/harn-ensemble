@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: wwRRRrw19ompnSeL
   packFolder: extrasunguilded
   social: {occupation: Cartographer/Artist, class: unguilded, society: feudal, organizations: []}
 hm3:

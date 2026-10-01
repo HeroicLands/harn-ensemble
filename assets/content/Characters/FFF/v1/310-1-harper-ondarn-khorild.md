@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Very long fingers]
   harnworld: {realm: "", ritual: [halea]}
-  id: UHhx7MSVKR5Zszng
   packFolder: fffguilded
   social: {occupation: Harper, class: freeman, society: feudal, organizations: []}
 hm3:

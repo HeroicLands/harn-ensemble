@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: jAo8s9jZuqDYS5uE
   packFolder: fffbarbarians
   social: {occupation: Shaman, class: tribesman, society: tribal, organizations: []}
 hm3:

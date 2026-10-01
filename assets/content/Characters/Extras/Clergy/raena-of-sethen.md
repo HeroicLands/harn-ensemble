@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: [naveh]}
-  id: Q0RPb6SlAX5sD5JB
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: serf, society: feudal, organizations: []}
 hm3:

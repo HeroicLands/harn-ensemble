@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: KTTDxOogdAIZNk6p
   packFolder: extrasunguilded
   social:
     occupation: Feudal Yeoman, Longbow

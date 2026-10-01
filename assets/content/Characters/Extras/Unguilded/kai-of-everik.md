@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: GGjHutXgaefNlYKo
   packFolder: extrasunguilded
   social: {occupation: Herdsman, class: unguilded, society: feudal, organizations: []}
 hm3:

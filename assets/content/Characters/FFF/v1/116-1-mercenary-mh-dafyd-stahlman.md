@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
-  id: oiUcJk2TCeTO6X26
   packFolder: fffmilitary
   social: {occupation: Mercenary (MH), class: noble, society: feudal, organizations: []}
 hm3:

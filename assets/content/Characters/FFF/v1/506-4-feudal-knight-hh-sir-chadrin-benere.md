@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Often drinking or drunk]
   harnworld: {realm: "", ritual: [larani]}
-  id: TJDHmy9dazsUhB7b
   packFolder: fffnobles
   social: {occupation: Knight Bachelor (HH), class: noble, society: feudal, organizations: []}
 hm3:

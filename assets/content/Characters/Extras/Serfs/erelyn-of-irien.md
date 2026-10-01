@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: tRcxnJAEOi4pSuX8
   packFolder: extrasserfs
   social: {occupation: Farmer, class: serf, society: feudal, organizations: []}
 hm3:

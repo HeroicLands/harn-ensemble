@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: oY72JImMQ90lBx1x
   packFolder: extrasguilded
   social: {occupation: Potter, class: serf, society: feudal, organizations: []}
 hm3:

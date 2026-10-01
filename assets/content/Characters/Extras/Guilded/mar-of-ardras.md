@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: r62fiH3VST7XC86B
   packFolder: extrasguilded
   social: {occupation: Litigant, class: serf, society: feudal, organizations: []}
 hm3:

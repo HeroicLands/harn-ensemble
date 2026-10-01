@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: FMXsryN2e8SLt54O
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: unguilded, society: feudal, organizations: []}
 hm3:

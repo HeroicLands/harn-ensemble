@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: HM0BIDOIklGtZVbZ
   packFolder: extrasunguilded
   social: {occupation: Cartographer/Artist, class: unguilded, society: feudal, organizations: []}
 hm3:

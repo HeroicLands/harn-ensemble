@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 1hsjZre2NTtqSeTM
   packFolder: extrasunguilded
   social: {occupation: Herdsman, class: guilded, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Ambidextrous, Scar on right cheek, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: P8gejvyLNHxIidxr
   packFolder: fffguilded
   social: {occupation: Pilot, class: freeman, society: viking, organizations: []}
 hm3:

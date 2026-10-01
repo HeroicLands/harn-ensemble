@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: udGumiBPXvXdeNfY
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: serf, society: feudal, organizations: []}
 hm3:

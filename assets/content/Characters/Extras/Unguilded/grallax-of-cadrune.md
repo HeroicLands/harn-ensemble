@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: 2QTo1rU1sZI5YlR6
   packFolder: extrasunguilded
   social: {occupation: Hunter/Trapper, class: unguilded, society: feudal, organizations: []}
 hm3:

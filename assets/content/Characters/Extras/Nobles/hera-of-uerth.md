@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: lkRXwcAGaz36Zqvb
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
 hm3:

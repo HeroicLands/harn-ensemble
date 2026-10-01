@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: CU7YAsrMM09Y0cj7
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: KqAlbETjIBCiKMkH
   packFolder: extrasunguilded
   social: {occupation: Sage/Tutor, class: guilded, society: feudal, organizations: []}
 hm3:

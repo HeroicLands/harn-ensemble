@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: c57Ao4DRnfjLHGrp
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: serf, society: feudal, organizations: []}
 hm3:

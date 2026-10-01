@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: fqzaN1FZMqb6EgD7
   packFolder: extrasguilded
   social: {occupation: Tentmaker, class: unguilded, society: feudal, organizations: []}
 hm3:

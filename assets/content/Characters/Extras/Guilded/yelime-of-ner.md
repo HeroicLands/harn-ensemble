@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: Qbz9TaI3zPfaeCQ3
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: serf, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [saveknor]}
-  id: aUAhUMbDkL0Qu2Xl
   packFolder: fffmages
   social: {occupation: Gray Mage, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: 8RBH36aOALh9ooII
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: unguilded, society: feudal, organizations: []}
 hm3:

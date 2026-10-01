@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: XP8hcM9fA2QSSCHT
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: unguilded, society: feudal, organizations: []}
 hm3:

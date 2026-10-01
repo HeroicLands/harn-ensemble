@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: L6GUTgHsHmIXE3Ib
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Shortbow", class: serf, society: feudal, organizations: []}
 hm3:

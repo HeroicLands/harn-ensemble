@@ -4,7 +4,7 @@ name: {full: The Chybisans, aliases: []}
 type: affiliation
 subType: venture
 tags: []
-data: {icon: null, templatePriority: null, id: PeEqzUUEjeOJRTQu, relations: []}
+data: {icon: null, templatePriority: null, relations: []}
 sohl: {}
 ---
 

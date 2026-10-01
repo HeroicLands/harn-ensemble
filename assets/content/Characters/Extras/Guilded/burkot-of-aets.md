@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: otAeO0pKA4z0xw4s
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: serf, society: feudal, organizations: []}
 hm3:

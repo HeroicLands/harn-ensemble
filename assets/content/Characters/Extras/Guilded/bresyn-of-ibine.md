@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: b9ZcHWPXXxZHGM1m
   packFolder: extrasguilded
   social: {occupation: Thief, class: serf, society: feudal, organizations: []}
 hm3:

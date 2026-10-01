@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: pDZL3zLkd6gc8zBy
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: unguilded, society: feudal, organizations: []}
 hm3:

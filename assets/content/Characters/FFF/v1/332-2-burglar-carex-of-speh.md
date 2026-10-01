@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [peoni]}
-  id: nxSFrUyBX8xu7U3X
   packFolder: fffguilded
   social: {occupation: Lia-Kavair, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: KgvvdfTe767P8jH2
   packFolder: extrasunguilded
   social: {occupation: Farmer, class: serf, society: feudal, organizations: []}
 hm3:

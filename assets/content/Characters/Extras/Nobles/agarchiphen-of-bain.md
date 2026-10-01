@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: XngTJmE6DyaIrrs8
   packFolder: extrasnobles
   social: {occupation: Sindarin Knight, class: serf, society: feudal, organizations: []}
 hm3:

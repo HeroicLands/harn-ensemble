@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: ooFLhWQukwxoGYj4
   packFolder: extrasunguilded
   social: {occupation: Toymaker, class: guilded, society: feudal, organizations: []}
 hm3:

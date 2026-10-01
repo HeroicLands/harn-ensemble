@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [naveh]}
-  id: lFYWs73hcKys63aa
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: serf, society: feudal, organizations: []}
 hm3:

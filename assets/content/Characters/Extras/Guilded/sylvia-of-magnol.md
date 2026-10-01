@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: AzwV5g2EZmGcJxH4
   packFolder: extrasguilded
   social: {occupation: Alchemist, class: unguilded, society: feudal, organizations: []}
 hm3:

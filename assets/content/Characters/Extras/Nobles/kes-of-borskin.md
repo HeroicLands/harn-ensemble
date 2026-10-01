@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: X6zPINxnhCeOSIM9
   packFolder: extrasnobles
   social: {occupation: "Feudal Knight, Heavy", class: serf, society: feudal, organizations: []}
 hm3:

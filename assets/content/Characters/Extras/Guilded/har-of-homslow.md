@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: POlT5xZhMpk9fwNb
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: serf, society: feudal, organizations: []}
 hm3:

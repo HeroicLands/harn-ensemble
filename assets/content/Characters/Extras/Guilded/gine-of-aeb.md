@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: pWDAFFDspDaYSMnA
   packFolder: extrasguilded
   social: {occupation: Chandler, class: unguilded, society: feudal, organizations: []}
 hm3:

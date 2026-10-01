@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: AhAxkl5hFWnYAU77
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Longbow", class: serf, society: feudal, organizations: []}
 hm3:

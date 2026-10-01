@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: j4ByXiX1Y6CNU2Bg
   packFolder: extrasclergy
   social: {occupation: Cleric/Ilvir, class: guilded, society: feudal, organizations: []}
 hm3:

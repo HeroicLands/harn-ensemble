@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: qjusZwBgBKqDZIaS
   packFolder: extrasunguilded
   social:
     occupation: Feudal Guardsman, Heavy

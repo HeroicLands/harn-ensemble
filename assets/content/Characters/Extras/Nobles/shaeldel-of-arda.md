@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: HljUuYJFAW6uYaxg
   packFolder: extrasnobles
   social: {occupation: Baliff, class: serf, society: feudal, organizations: []}
 hm3:

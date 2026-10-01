@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: eeCITBtBuatoPgk7
   packFolder: extrasguilded
   social: {occupation: Chandler, class: unguilded, society: feudal, organizations: []}
 hm3:

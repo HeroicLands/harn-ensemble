@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: PefocV9Z6cdXHDol
   packFolder: extrasnobles
   social: {occupation: Patrician, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
-  id: StlcishYppLdjcFu
   packFolder: extrasunguilded
   social: {occupation: Shaman, class: serf, society: feudal, organizations: []}
 hm3:

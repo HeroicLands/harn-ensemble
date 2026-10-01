@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Lame right foot]
   harnworld: {realm: "", ritual: [peoni]}
-  id: 28qhtq2eCMTuP70o
   packFolder: fffguilded
   social: {occupation: Woodcrafter, class: freeman, society: feudal, organizations: []}
 hm3:

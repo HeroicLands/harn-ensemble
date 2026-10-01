@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: OJMuRRox48A7478D
   packFolder: extrasguilded
   social: {occupation: Lexigrapher, class: unguilded, society: feudal, organizations: []}
 hm3:

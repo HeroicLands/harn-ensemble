@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: ON6PlPiIcoLEpYbf
   packFolder: extrasunguilded
   social: {occupation: Laborer/Longshoreman, class: serf, society: feudal, organizations: []}
 hm3:

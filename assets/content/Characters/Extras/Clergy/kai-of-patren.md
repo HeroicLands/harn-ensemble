@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: [morgath]}
-  id: eJm7BjF4PbZzwNyo
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: serf, society: feudal, organizations: []}
 hm3:

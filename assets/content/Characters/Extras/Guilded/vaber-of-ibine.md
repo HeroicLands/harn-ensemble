@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: c47SeD6wtrRJNj3P
   packFolder: extrasguilded
   social: {occupation: Apothecary, class: serf, society: feudal, organizations: []}
 hm3:

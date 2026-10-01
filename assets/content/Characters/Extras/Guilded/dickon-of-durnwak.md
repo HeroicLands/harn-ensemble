@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: YPHd0pPPNrUkLAUj
   packFolder: extrasguilded
   social: {occupation: Woodcrafter, class: serf, society: feudal, organizations: []}
 hm3:

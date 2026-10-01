@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: FPTXZ0Da2zAE7agf
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: serf, society: feudal, organizations: []}
 hm3:

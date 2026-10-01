@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [siem]}
-  id: 9tK7qOt38gMffuFC
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: guilded, society: feudal, organizations: []}
 hm3:

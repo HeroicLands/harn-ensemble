@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
-  id: sZwqC7rv13cpno6k
   packFolder: extrasunguilded
   social: {occupation: Shaman, class: serf, society: feudal, organizations: []}
 hm3:

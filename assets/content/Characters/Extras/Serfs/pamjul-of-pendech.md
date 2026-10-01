@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: MYajmOR41XiQYXeV
   packFolder: extrasserfs
   social: {occupation: Cook/Servant, class: unguilded, society: feudal, organizations: []}
 hm3:

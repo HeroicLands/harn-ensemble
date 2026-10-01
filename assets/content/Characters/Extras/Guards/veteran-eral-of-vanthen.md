@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: Dbb07ScAB6olshCe
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [naveh]}
-  id: rDh6O8ETQnNlD87C
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: serf, society: feudal, organizations: []}
 hm3:

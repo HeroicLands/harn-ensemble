@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 8DeRxiXJei9jI2iN
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: serf, society: feudal, organizations: []}
 hm3:

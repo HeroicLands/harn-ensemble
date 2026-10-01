@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: ri3W2ibrniy12a28
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Longbow", class: serf, society: feudal, organizations: []}
 hm3:

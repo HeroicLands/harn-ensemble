@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: sf3enulxjA8WKM58
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: GxYEXAjUUThZ0uJn
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: serf, society: feudal, organizations: []}
 hm3:

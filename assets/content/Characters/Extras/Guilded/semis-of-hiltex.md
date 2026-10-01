@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: zc0GhebYZQmjl3pq
   packFolder: extrasguilded
   social: {occupation: Mercantyler, class: unguilded, society: feudal, organizations: []}
 hm3:

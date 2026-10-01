@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: pa4wQpD8WxAMh2oc
   packFolder: extrasserfs
   social: {occupation: Cook/Servant, class: serf, society: feudal, organizations: []}
 hm3:

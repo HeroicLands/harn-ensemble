@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: SgsoOSCF3UlbrkqO
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: unguilded, society: feudal, organizations: []}
 hm3:

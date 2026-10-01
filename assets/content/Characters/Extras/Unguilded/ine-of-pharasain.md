@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: B9VZE1c9QMXHSoxZ
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

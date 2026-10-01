@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: 15cbnRTDmSXP2Xfh
   packFolder: extrasguilded
   social: {occupation: Pilot, class: unguilded, society: feudal, organizations: []}
 hm3:

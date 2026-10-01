@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Birthmark on right hand]
   harnworld: {realm: "", ritual: [peoni]}
-  id: 6aFAjW9NHXMcKepf
   packFolder: fffunguilded
   social: {occupation: Prostitute, class: freeman, society: feudal, organizations: []}
 hm3:

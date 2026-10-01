@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: PgHjZGc57PPG2JCr
   packFolder: extrasguilded
   social: {occupation: Seaman, class: serf, society: feudal, organizations: []}
 hm3:

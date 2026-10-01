@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: Q6uN822qUUAzNP2F
   packFolder: extrasserfs
   social: {occupation: Farmer, class: serf, society: feudal, organizations: []}
 hm3:

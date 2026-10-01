@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: 3F7kvXJXnLnYIJ9O
   packFolder: extrasguilded
   social: {occupation: Potter, class: serf, society: feudal, organizations: []}
 hm3:

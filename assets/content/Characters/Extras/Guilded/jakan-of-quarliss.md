@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: Sa8IbabehVCuBKIK
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: serf, society: feudal, organizations: []}
 hm3:

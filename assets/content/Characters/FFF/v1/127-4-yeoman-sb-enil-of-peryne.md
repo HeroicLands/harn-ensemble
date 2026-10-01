@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Parasites (lice), Stammers a lot, very unsure of himself, bows to everyone]
   harnworld: {realm: "", ritual: [peoni]}
-  id: fxyjVCZd3d3TokVH
   packFolder: fffmilitary
   social: {occupation: Yeoman (SB), class: freeman, society: feudal, organizations: []}
 hm3:

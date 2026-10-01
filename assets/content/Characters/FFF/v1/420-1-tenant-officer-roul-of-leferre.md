@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Squints]
   harnworld: {realm: "", ritual: [peoni]}
-  id: cvnkHX7g7glN0XmA
   packFolder: fffunguilded
   social: {occupation: Reeve, class: serf, society: feudal, organizations: []}
 hm3:

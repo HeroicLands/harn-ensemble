@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: pS13LckYVLVeo0BM
   packFolder: extrasunguilded
   social: {occupation: Hunter/Trapper, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: N9vkGu8Yw2lEb6sw
   packFolder: extrasguilded
   social: {occupation: Lexigrapher, class: serf, society: feudal, organizations: []}
 hm3:

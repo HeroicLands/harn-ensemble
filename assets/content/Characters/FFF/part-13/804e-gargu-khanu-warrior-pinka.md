@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Stooped posture, drooling, confused look]
   harnworld: {realm: "", ritual: []}
-  id: hFoale7BdhL9OV3F
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: warrior, society: gargun (khanu), organizations: []}
 hm3:

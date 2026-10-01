@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: BlophomZelxk7f6x
   packFolder: fffnobles
   social: {occupation: Chatelaine, class: noble, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
-  id: qzHmILrtfj7CeQbU
   packFolder: fffclergy
   social: {occupation: Agrikan Priestess, class: noble, society: feudal, organizations: []}
 hm3:

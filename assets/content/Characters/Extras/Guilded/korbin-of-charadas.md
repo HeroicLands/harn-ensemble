@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: IpBfN8UWCZkOpQhS
   packFolder: extrasguilded
   social: {occupation: Apothecary, class: unguilded, society: feudal, organizations: []}
 hm3:

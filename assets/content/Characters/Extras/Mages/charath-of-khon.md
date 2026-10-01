@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: 7pkyVyZKab62OLn6
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Savorya*****"

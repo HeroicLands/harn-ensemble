@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: SzBOFMxtowM4qOWz
   packFolder: extrasguilded
   social: {occupation: Mercantyler, class: serf, society: feudal, organizations: []}
 hm3:

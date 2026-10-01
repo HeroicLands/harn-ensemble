@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: tRR9Uh1SYdgE0Mai
   packFolder: extrasserfs
   social: {occupation: Farmer, class: serf, society: feudal, organizations: []}
 hm3:

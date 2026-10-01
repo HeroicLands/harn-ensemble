@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: mjXgbj1zV1ay1LZW
   packFolder: fffnobles
   social: {occupation: Squire, class: noble, society: feudal, organizations: []}
 hm3:

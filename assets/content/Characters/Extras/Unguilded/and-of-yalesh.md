@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
-  id: sbh1wkY7uVAop1nS
   packFolder: extrasunguilded
   social: {occupation: Shaman, class: unguilded, society: feudal, organizations: []}
 hm3:

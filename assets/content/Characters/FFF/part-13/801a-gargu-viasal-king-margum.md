@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Beard kilt, Khuzdul- made scale armor, axe, fine cloak]
   harnworld: {realm: "", ritual: []}
-  id: 4l4ShRsH8Yvl62l0
   packFolder: fffnonhumans
   social: {occupation: King, class: king, society: gargun (viasal), organizations: []}
 hm3:

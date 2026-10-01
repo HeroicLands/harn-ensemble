@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: LddENqMgSdWGQXnd
   packFolder: extrasunguilded
   social: {occupation: Cook/Servant, class: serf, society: feudal, organizations: []}
 hm3:

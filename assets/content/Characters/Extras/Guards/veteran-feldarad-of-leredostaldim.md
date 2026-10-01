@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: Y3f8yRA7zdh1JsJX
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

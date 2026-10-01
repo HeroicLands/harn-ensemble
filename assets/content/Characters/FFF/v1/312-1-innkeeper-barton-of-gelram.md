@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: sJ8YQArkYr9NyWD7
   packFolder: fffguilded
   social: {occupation: Innkeeper, class: freeman, society: feudal, organizations: []}
 hm3:

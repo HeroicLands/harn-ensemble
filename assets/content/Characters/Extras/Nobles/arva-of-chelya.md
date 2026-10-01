@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: ImdYS6pzCh6mVRW4
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
 hm3:

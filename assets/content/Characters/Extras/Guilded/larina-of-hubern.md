@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: IfJs0MVULwOR6I3X
   packFolder: extrasguilded
   social: {occupation: Litigant, class: noble, society: feudal, organizations: []}
 hm3:

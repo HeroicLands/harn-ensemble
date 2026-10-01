@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: RVcEmkAFU7PVB1B3
   packFolder: extrasunguilded
   social: {occupation: Sindarin Horsebow, class: unguilded, society: feudal, organizations: []}
 hm3:

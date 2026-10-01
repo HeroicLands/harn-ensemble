@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Foreign accent]
   harnworld: {realm: "", ritual: []}
-  id: HArxJjxZFXt5sqO8
   packFolder: fffmages
   social: {occupation: Savoryan Shek-Pvar, class: noble, society: feudal, organizations: []}
 hm3:

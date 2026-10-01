@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Overweight, Moustache, beard]
   harnworld: {realm: "", ritual: [peoni]}
-  id: eBYgq5F1jBQfU1Tj
   packFolder: fffguilded
   social: {occupation: Chandler, class: freeman, society: imperial, organizations: []}
 hm3:

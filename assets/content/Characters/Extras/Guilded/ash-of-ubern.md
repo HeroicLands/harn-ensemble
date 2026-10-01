@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: LLd2GD3ej1iFxq1s
   packFolder: extrasguilded
   social: {occupation: Timberwright, class: noble, society: feudal, organizations: []}
 hm3:

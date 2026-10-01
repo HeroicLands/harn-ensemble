@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: pcuctFxWu71s2JYa
   packFolder: extrasguilded
   social: {occupation: Hideworker, class: unguilded, society: feudal, organizations: []}
 hm3:

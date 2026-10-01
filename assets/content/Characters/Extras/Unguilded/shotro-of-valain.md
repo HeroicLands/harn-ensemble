@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: AY3RTHYoPKBRdNRX
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
 hm3:

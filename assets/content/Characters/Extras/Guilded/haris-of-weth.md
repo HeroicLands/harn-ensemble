@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: kEbTsF0iA6ZMpXG9
   packFolder: extrasguilded
   social: {occupation: Pilot, class: serf, society: feudal, organizations: []}
 hm3:

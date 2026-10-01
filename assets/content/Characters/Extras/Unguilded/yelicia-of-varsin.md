@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: Z4iBxrNmZbnDb4nE
   packFolder: extrasunguilded
   social: {occupation: "Feudal Guardsman, Light", class: noble, society: feudal, organizations: []}
 hm3:

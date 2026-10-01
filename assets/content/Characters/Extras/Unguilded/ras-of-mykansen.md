@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: 5iQytIgJet3SsM7M
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

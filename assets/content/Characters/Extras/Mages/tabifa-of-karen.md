@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: Ty4tXhfu22BvK8eT
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Lyahvi*****"

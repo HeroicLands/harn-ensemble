@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: cn5owaQupJXlWleo
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
 hm3:

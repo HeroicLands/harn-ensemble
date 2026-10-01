@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: [peoni]}
-  id: kaFWjXeR2UtSh3nw
   packFolder: extrasclergy
   social: {occupation: Cleric/Peoni, class: serf, society: feudal, organizations: []}
 hm3:

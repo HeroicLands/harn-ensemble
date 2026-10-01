@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [larani]}
-  id: PCW0yun95NZDArmy
   packFolder: extrasclergy
   social: {occupation: Cleric/Larani, class: serf, society: feudal, organizations: []}
 hm3:

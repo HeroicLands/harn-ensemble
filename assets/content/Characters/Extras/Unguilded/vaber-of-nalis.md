@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: 0pWEBvI11IqbOpYv
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
 hm3:

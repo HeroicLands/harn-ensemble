@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: X26ceNPGCklREVwx
   packFolder: extrasunguilded
   social: {occupation: "Feudal Guardsman, Light", class: serf, society: feudal, organizations: []}
 hm3:

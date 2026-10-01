@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
-  id: GWUDJqf1dDFZUjgk
   packFolder: extrasunguilded
   social: {occupation: Laborer/Longshoreman, class: serf, society: feudal, organizations: []}
 hm3:

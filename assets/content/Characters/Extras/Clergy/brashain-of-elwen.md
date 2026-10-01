@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: [siem]}
-  id: 6bMHiBn6tkqVVIRI
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: [siem]}
-  id: jYJz9z14hPRtUB2a
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: serf, society: feudal, organizations: []}
 hm3:

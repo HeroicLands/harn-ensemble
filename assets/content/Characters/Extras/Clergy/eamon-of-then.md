@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
-  id: y6tSpHvTnEfZZJBu
   packFolder: extrasclergy
   social: {occupation: Cleric/Agrik, class: serf, society: feudal, organizations: []}
 hm3:

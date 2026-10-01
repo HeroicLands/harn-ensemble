@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: b0pJS460Iwlxy6T1
   packFolder: extrasunguilded
   social: {occupation: Sindarin Horsebow, class: serf, society: feudal, organizations: []}
 hm3:

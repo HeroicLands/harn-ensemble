@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: bK0Ymcc4k9lbS8QL
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: unguilded, society: feudal, organizations: []}
 hm3:

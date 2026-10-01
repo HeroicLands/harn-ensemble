@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: amojJRTs8T1i5Uqs
   packFolder: extrasunguilded
   social: {occupation: "Feudal Guardsman, Light", class: serf, society: feudal, organizations: []}
 hm3:

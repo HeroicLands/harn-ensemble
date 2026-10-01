@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [naveh]}
-  id: hDfS4QIBSKyrHjK8
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: serf, society: feudal, organizations: []}
 hm3:

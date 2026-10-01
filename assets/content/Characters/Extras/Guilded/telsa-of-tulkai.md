@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: xwud6lZ064Tsw03A
   packFolder: extrasguilded
   social: {occupation: Physician, class: unguilded, society: feudal, organizations: []}
 hm3:

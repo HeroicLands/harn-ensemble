@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: xGxaLyyt1NQMwgYo
   packFolder: extrasguilded
   social: {occupation: Innkeeper, class: serf, society: feudal, organizations: []}
 hm3:

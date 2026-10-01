@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
-  id: Xio5qWf5kL0ZdUb9
   packFolder: extrasclergy
   social: {occupation: Cleric/Ilvir, class: unguilded, society: feudal, organizations: []}
 hm3:

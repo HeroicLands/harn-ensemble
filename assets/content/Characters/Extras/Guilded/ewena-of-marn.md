@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: AjpWw0zkULe2sT46
   packFolder: extrasguilded
   social: {occupation: Charcoaler, class: serf, society: feudal, organizations: []}
 hm3:

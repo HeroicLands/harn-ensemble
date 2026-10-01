@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: ylQK2qchbSpmqxw4
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: unguilded, society: feudal, organizations: []}
 hm3:

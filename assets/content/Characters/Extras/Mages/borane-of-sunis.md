@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: Pv8jQq0SVMfXW5B2
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Savorya**", class: unguilded, society: feudal, organizations: []}
 hm3:

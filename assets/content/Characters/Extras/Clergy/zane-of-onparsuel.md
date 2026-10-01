@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: RNcanxWZVaTeWmdr
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
 hm3:

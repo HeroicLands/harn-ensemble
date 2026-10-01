@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: lcDjXC4Bp1fhprQv
   packFolder: fffunguilded
   social: {occupation: Falconer, class: freeman, society: feudal, organizations: []}
 hm3:

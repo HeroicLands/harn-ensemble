@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: oZhu5UrfTj2C3Vsx
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Low Guard, class: serf, society: feudal, organizations: []}
 hm3:

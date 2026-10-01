@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: Y3wzBpRonGVYCmpu
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: serf, society: feudal, organizations: []}
 hm3:

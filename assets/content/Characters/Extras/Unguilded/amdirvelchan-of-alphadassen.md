@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: DHoiMG9M9sSeXc8A
   packFolder: extrasunguilded
   social: {occupation: Sindarin Guardian, class: serf, society: feudal, organizations: []}
 hm3:

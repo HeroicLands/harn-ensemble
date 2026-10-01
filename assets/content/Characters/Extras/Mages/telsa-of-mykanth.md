@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: bKvxY1lV5mfABmWa
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Fyvria****", class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: WUiamTNWkWPl4AeT
   packFolder: extrasunguilded
   social: {occupation: Feudal Militia, class: serf, society: feudal, organizations: []}
 hm3:

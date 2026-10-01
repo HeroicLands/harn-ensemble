@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: 1IEsNl5b3eV2eXDu
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: serf, society: feudal, organizations: []}
 hm3:

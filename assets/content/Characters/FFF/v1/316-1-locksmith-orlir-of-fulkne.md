@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache]
   harnworld: {realm: "", ritual: [peoni]}
-  id: haxul5DyGPaSevm2
   packFolder: fffguilded
   social: {occupation: Locksmith, class: freeman, society: feudal, organizations: []}
 hm3:

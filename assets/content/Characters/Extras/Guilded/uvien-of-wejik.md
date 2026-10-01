@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: rGv8PHqam2TzWyg8
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: unguilded, society: feudal, organizations: []}
 hm3:

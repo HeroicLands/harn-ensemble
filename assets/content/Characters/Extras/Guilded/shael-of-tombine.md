@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: CuJi38bO3coB1NWI
   packFolder: extrasguilded
   social: {occupation: Charcoaler, class: serf, society: feudal, organizations: []}
 hm3:

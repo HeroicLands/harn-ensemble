@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: ULquQrHPnPYjJyYQ
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
 hm3:

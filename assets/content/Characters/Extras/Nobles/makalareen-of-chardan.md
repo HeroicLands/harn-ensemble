@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: LDs2hh6ga4fjxniJ
   packFolder: extrasnobles
   social: {occupation: Herald, class: serf, society: feudal, organizations: []}
 hm3:

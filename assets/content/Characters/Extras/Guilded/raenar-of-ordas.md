@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: UcQ4m6b5G2BZkGGH
   packFolder: extrasguilded
   social: {occupation: Thespian, class: unguilded, society: feudal, organizations: []}
 hm3:

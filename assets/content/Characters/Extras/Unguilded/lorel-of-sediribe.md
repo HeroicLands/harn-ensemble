@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: mIjuMuBqGOhoJBZX
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Longbow", class: serf, society: feudal, organizations: []}
 hm3:

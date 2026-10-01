@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: UQNGANsmTX4VdmL7
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: iPzNMqt7MWLkgOf7
   packFolder: extrasnobles
   social: {occupation: Sindarin Knight, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: ZVtKXJbAsYq2MZjr
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

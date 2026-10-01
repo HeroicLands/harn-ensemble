@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: fxbcJpW8JtHwR1qC
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Fyvria****"

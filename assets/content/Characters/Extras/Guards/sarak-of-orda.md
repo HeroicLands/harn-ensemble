@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: oMXxvM8b78wymG1U
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

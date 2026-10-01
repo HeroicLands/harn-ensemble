@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: aXWh6C9BpRCctS9m
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

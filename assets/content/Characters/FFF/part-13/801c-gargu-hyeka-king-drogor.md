@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [agrik, larani]}
-  id: Rh0S96u4K4HWf1BO
   packFolder: fffnonhumans
   social: {occupation: King, class: king, society: gargun, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: i5wcSMBh9jjofkLv
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: serf, society: feudal, organizations: []}
 hm3:

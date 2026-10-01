@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: nPPocspTCe7esDpL
   packFolder: extrasguilded
   social: {occupation: Hideworker, class: serf, society: feudal, organizations: []}
 hm3:

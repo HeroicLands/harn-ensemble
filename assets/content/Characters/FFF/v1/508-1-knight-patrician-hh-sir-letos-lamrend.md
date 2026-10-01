@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Missing a front tooth]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: bAMzqD5qntz3i3Em
   packFolder: fffnobles
   social: {occupation: Patrician Knight, class: noble, society: imperial, organizations: []}
 hm3:

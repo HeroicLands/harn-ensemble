@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: 38Jqg1t5nNJx00Bl
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: 3NhXGurVjakRvw5J
   packFolder: fffmilitary
   social: {occupation: Shieldmaiden, class: freeman, society: viking, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: 9JV6jKR6NG2DHZrT
   packFolder: extrasunguilded
   social: {occupation: Gladiator, class: serf, society: feudal, organizations: []}
 hm3:

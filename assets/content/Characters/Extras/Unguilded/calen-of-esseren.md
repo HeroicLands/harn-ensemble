@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: fGeZWE8iUHufRV7F
   packFolder: extrasunguilded
   social: {occupation: Sindarin Guardian, class: serf, society: feudal, organizations: []}
 hm3:

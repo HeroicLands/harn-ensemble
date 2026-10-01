@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Limp, Moustache, beard]
   harnworld: {realm: "", ritual: [larani]}
-  id: 19nAFdKfLgGHbkzx
   packFolder: fffnobles
   social: {occupation: Herald, class: noble, society: feudal, organizations: []}
 hm3:

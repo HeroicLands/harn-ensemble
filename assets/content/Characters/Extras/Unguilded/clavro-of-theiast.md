@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: ue4GZ7X7rytoRfAz
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Clansman, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: f37wXZpoATrdgRBT
   packFolder: extrasunguilded
   social: {occupation: Beggar, class: serf, society: feudal, organizations: []}
 hm3:

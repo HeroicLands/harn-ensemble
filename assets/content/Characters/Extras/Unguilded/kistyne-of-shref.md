@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: Mz7kyyFrx03bJu2s
   packFolder: extrasunguilded
   social: {occupation: Imperial Militia, class: guilded, society: feudal, organizations: []}
 hm3:

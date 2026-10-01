@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: MnjLY4gX4fHzJqLd
   packFolder: extrasunguilded
   social:
     occupation: Feudal Guardsman, Heavy

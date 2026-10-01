@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: 36u73wEEgAViJw66
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: Mm8KA5USnRxERfGD
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: serf, society: feudal, organizations: []}
 hm3:

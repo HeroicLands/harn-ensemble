@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: 0iDJIx0hzEgPlahI
   packFolder: extrasclergy
   social: {occupation: Cleric/Larani, class: unguilded, society: feudal, organizations: []}
 hm3:

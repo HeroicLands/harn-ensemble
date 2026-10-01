@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: uoIPXXZhPyNzLD5a
   packFolder: extrasguilded
   social: {occupation: Weaponcrafter, class: serf, society: feudal, organizations: []}
 hm3:

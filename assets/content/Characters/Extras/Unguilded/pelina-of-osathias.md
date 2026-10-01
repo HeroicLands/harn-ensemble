@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: hZQYQEUgUSj4638Y
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: guilded, society: feudal, organizations: []}
 hm3:

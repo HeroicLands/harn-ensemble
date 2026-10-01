@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: foRZu1pqr6NaS9QJ
   packFolder: extrasguilded
   social: {occupation: Courtesan, class: serf, society: feudal, organizations: []}
 hm3:

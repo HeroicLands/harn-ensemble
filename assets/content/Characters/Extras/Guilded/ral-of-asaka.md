@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: a0yBSju13KejE9nB
   packFolder: extrasguilded
   social: {occupation: Litigant, class: serf, society: feudal, organizations: []}
 hm3:

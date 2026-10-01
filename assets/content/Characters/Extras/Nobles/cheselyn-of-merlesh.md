@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: Pm7Lq9smcVBbZwPn
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: serf, society: feudal, organizations: []}
 hm3:

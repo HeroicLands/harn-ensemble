@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: GYJ5O7I6doCZQYem
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: serf, society: feudal, organizations: []}
 hm3:

@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Very quick, agile]
   harnworld: {realm: "", ritual: [larani]}
-  id: wTSGybbTCUf7Xdgi
   packFolder: fffguilded
   social: {occupation: Unguilded thief, class: freeman, society: feudal, organizations: []}
 hm3:

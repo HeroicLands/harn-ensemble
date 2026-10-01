@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: drjkh4ewHSJmXiuf
   packFolder: extrasunguilded
   social: {occupation: Gladiator, class: unguilded, society: feudal, organizations: []}
 hm3:

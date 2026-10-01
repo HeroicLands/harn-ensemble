@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: OBCRRhDuXCNHcjxF
   packFolder: extrasguilded
   social: {occupation: Embalmer, class: serf, society: feudal, organizations: []}
 hm3:

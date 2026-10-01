@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: nrgCBa8YJYk6Tzcp
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Longbow", class: serf, society: feudal, organizations: []}
 hm3:

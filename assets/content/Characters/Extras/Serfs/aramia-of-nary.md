@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: vXHNZuq0wKagun9N
   packFolder: extrasserfs
   social: {occupation: Gladiator, class: unguilded, society: feudal, organizations: []}
 hm3:

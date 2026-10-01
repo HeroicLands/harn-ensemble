@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 0xhs94jd3fDawHZ9
   packFolder: extrasguilded
   social: {occupation: Tentmaker, class: unguilded, society: feudal, organizations: []}
 hm3:

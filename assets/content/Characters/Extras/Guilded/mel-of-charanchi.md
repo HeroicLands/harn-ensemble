@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: X6KRHhVPRUpl9mNN
   packFolder: extrasguilded
   social: {occupation: Astrologer, class: serf, society: feudal, organizations: []}
 hm3:

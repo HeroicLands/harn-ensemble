@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: EOQ18jIWvJqtAyCe
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

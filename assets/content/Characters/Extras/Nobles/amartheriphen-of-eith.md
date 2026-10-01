@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: oJqhGW42pmmvRIQ0
   packFolder: extrasnobles
   social: {occupation: Sindarin Knight, class: serf, society: feudal, organizations: []}
 hm3:

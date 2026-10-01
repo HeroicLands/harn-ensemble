@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: BvNv6cUrrT0kwypv
   packFolder: extrasguilded
   social: {occupation: Weaponcrafter, class: serf, society: feudal, organizations: []}
 hm3:

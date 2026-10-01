@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: oifl6WVaCz3IxHaf
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: serf, society: feudal, organizations: []}
 hm3:

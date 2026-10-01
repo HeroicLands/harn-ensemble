@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: OccPtxCCA6umRX7c
   packFolder: extrasunguilded
   social: {occupation: Hunter/Trapper, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: PWJGn7ovj83wc9SR
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: unguilded, society: feudal, organizations: []}
 hm3:

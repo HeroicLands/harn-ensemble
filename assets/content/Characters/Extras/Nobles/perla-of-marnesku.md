@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: UDspR7WDhxrXzwiC
   packFolder: extrasnobles
   social: {occupation: Baliff, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: GtQoPm6rAr13dzuN
   packFolder: extrasguilded
   social: {occupation: Mercantyler, class: guilded, society: feudal, organizations: []}
 hm3:

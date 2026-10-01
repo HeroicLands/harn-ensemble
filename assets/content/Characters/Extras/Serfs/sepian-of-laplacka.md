@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: z1VZl0zQ2dbP7sDa
   packFolder: extrasserfs
   social: {occupation: Herdsman, class: unguilded, society: feudal, organizations: []}
 hm3:

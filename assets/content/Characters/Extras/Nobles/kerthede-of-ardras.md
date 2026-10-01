@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: e0WiesnUC32TnJdL
   packFolder: extrasnobles
   social: {occupation: Herald, class: unguilded, society: feudal, organizations: []}
 hm3:

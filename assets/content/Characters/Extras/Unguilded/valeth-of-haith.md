@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: 0Dyzk8Ox97Yd0xdJ
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Shortbow", class: serf, society: feudal, organizations: []}
 hm3:

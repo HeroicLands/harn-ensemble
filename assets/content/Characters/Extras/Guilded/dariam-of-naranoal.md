@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: Q3YJXnnDxwUPJVGv
   packFolder: extrasguilded
   social: {occupation: Innkeeper, class: serf, society: feudal, organizations: []}
 hm3:

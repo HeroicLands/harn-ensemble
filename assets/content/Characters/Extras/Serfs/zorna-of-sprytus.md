@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: 2kddLTxZKKilxLt3
   packFolder: extrasserfs
   social: {occupation: Herdsman, class: unguilded, society: feudal, organizations: []}
 hm3:

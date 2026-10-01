@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
-  id: eztQzdabwjV8IMmo
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: serf, society: feudal, organizations: []}
 hm3:

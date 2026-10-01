@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: dKNMSQEoK8llpqyV
   packFolder: extrasunguilded
   social: {occupation: Teamster, class: serf, society: feudal, organizations: []}
 hm3:

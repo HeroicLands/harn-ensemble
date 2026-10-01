@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Hunchback, Beard, moustache]
   harnworld: {realm: "", ritual: [peoni]}
-  id: eINyh83Kik2WzPWJ
   packFolder: fffunguilded
   social: {occupation: Herdsman/Beggar, class: freeman, society: feudal, organizations: []}
 hm3:

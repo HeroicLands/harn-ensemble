@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: [siem]}
-  id: Zc9Kxo5kp0RZU8c9
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: serf, society: feudal, organizations: []}
 hm3:

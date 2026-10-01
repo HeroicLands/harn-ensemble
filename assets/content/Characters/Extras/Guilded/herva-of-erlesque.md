@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: 4mcaIQikjVuH0J5X
   packFolder: extrasguilded
   social: {occupation: Miner, class: serf, society: feudal, organizations: []}
 hm3:

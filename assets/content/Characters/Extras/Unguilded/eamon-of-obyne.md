@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: iWbWSxxk8lXMn5jg
   packFolder: extrasunguilded
   social:
     occupation: Feudal Yeoman, Longbow

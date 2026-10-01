@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: oH7I2eUVl1WCh5oh
   packFolder: extrasunguilded
   social: {occupation: Imperial Militia, class: noble, society: feudal, organizations: []}
 hm3:

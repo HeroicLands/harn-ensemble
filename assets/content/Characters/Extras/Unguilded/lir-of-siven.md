@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: jfxTZKDYrkWR88tq
   packFolder: extrasunguilded
   social: {occupation: Toymaker, class: serf, society: feudal, organizations: []}
 hm3:

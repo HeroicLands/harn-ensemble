@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
-  id: efsDi1Xe7k7m9Id8
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -4,7 +4,7 @@ name: {full: Crew of the Lorkin, aliases: []}
 type: affiliation
 subType: venture
 tags: []
-data: {icon: null, templatePriority: null, id: mdK3o95SY1otZiLK, relations: []}
+data: {icon: null, templatePriority: null, relations: []}
 sohl: {}
 ---
 

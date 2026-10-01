@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: Rh544ocXGASkoZPN
   packFolder: extrasunguilded
   social: {occupation: "Feudal Guardsman, Light", class: serf, society: feudal, organizations: []}
 hm3:

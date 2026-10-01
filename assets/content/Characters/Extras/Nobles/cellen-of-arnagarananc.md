@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: hjVRbxgeHtxB7z6L
   packFolder: extrasnobles
   social: {occupation: Sindarin Knight, class: serf, society: feudal, organizations: []}
 hm3:

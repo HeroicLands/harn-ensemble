@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: fPmdSlQkAOxvH0wP
   packFolder: extrasguilded
   social: {occupation: Pilot, class: serf, society: feudal, organizations: []}
 hm3:

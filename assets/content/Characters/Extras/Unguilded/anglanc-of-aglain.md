@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: jUJ9jTBf76O1cGeC
   packFolder: extrasunguilded
   social: {occupation: "Sindarin Ranger, Light", class: serf, society: feudal, organizations: []}
 hm3:

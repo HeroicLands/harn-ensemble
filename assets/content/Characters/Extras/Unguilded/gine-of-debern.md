@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: eVZckYuDWkt9eUq4
   packFolder: extrasunguilded
   social: {occupation: Toymaker, class: serf, society: feudal, organizations: []}
 hm3:

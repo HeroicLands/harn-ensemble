@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: i483ELK64UdhC0hZ
   packFolder: extrasguilded
   social: {occupation: Mercantyler, class: serf, society: feudal, organizations: []}
 hm3:

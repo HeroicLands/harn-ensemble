@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: tBU8HHkeWgmGmDbi
   packFolder: extrasguilded
   social: {occupation: Thespian, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: Vt682PD74ik1QIJj
   packFolder: extrasguilded
   social: {occupation: Glassworker, class: serf, society: feudal, organizations: []}
 hm3:

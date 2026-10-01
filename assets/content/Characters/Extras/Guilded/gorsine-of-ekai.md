@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: 3G55dD18TNOpyvVJ
   packFolder: extrasguilded
   social: {occupation: Jeweler, class: serf, society: feudal, organizations: []}
 hm3:

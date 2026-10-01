@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: LCsMlpoVT9GKH2ya
   packFolder: extrasguilded
   social: {occupation: Woodcrafter, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: QVSwZVIjrzjN78xX
   packFolder: extrasnobles
   social: {occupation: "Feudal Knight, Heavy", class: serf, society: feudal, organizations: []}
 hm3:

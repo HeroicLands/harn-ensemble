@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: QNHskGY71sCOwb98
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: serf, society: feudal, organizations: []}
 hm3:

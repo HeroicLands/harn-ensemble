@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Left handed, Well dressed]
   harnworld: {realm: "", ritual: [halea]}
-  id: UqgarIHQjd1s0Let
   packFolder: fffguilded
   social: {occupation: Harper, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [halea]}
-  id: QcB9yNJrivSewCLq
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: serf, society: feudal, organizations: []}
 hm3:

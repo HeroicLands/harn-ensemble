@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: X175GuDw7vA9JGpJ
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Clansman, class: unguilded, society: feudal, organizations: []}
 hm3:

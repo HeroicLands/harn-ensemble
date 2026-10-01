@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: 7MLalk3RcsUlgfnS
   packFolder: extrasguilded
   social: {occupation: Woodcrafter, class: unguilded, society: feudal, organizations: []}
 hm3:

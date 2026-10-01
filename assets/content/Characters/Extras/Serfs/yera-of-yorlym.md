@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: MRH9L5zH6AWGHQIJ
   packFolder: extrasserfs
   social: {occupation: Gladiator, class: unguilded, society: feudal, organizations: []}
 hm3:

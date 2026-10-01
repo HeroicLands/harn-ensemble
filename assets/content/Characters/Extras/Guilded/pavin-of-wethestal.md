@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: FIpCkrCfFNKCAySs
   packFolder: extrasguilded
   social: {occupation: Salter, class: noble, society: feudal, organizations: []}
 hm3:

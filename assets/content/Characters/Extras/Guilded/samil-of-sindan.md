@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: FZAIXJ3KRjaFv5WY
   packFolder: extrasguilded
   social: {occupation: Embalmer, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: 4NZyLJ2TiJAEevCU
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Longbow", class: serf, society: feudal, organizations: []}
 hm3:

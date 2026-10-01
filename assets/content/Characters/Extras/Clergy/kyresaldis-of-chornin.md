@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: BHlqayUOX7Ksv0ha
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: 9MQ10TETZii27gyy
   packFolder: extrasguilded
   social: {occupation: Mason, class: serf, society: feudal, organizations: []}
 hm3:

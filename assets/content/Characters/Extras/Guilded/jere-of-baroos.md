@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: 5R4UQ00cZrOpFMR6
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: SV40Od6msozRfO4N
   packFolder: extrasunguilded
   social: {occupation: Farmer, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: LJ3T0RAGJd87saW9
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Heavy

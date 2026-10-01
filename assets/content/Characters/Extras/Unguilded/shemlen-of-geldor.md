@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 1LXM26SS1dX1Nf3R
   packFolder: extrasunguilded
   social: {occupation: Beggar, class: serf, society: feudal, organizations: []}
 hm3:

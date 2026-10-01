@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: AUMfoneQ8jZWjHaW
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: unguilded, society: feudal, organizations: []}
 hm3:

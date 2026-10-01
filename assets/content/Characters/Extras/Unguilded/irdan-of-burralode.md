@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: sAIuZK5Yr56M8tGJ
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Clansman, class: serf, society: feudal, organizations: []}
 hm3:

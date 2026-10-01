@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: ycCQjGXHvAikHQJ6
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: unguilded, society: feudal, organizations: []}
 hm3:

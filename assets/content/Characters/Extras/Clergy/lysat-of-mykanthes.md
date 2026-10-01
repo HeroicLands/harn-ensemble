@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [morgath]}
-  id: tP9RyYCMlsUhd3Dj
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: serf, society: feudal, organizations: []}
 hm3:

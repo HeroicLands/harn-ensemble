@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: FBw9gs2e4NTgN9wJ
   packFolder: extrasguilded
   social: {occupation: Salter, class: unguilded, society: feudal, organizations: []}
 hm3:

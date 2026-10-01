@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: YxdyY4RTfLYzUWqO
   packFolder: extrasguilded
   social: {occupation: Shipwright, class: serf, society: feudal, organizations: []}
 hm3:

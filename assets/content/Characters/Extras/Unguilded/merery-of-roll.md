@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: LPP4EsQS9lqZvGor
   packFolder: extrasunguilded
   social: {occupation: Cook/Servant, class: serf, society: feudal, organizations: []}
 hm3:

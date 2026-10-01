@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: dWuzcRycocjaiNg4
   packFolder: extrasguilded
   social: {occupation: Litigant, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: sCCGCaweVntaaGW6
   packFolder: extrasunguilded
   social: {occupation: Sindarin Guardian, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: bY2YOu3WdHXDDG77
   packFolder: extrasnobles
   social: {occupation: "Feudal Knight, Medium", class: serf, society: feudal, organizations: []}
 hm3:

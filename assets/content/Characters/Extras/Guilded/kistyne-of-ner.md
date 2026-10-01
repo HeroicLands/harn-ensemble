@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: yu9aYkyLUjM8aPdk
   packFolder: extrasguilded
   social: {occupation: Shipwright, class: serf, society: feudal, organizations: []}
 hm3:

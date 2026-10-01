@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: MiOqH2TTQxcDEFN0
   packFolder: extrasnobles
   social: {occupation: Herald, class: serf, society: feudal, organizations: []}
 hm3:

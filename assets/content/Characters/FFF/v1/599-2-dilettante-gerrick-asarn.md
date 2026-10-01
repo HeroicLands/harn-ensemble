@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: zRHCVBVaIN8CG7Z6
   packFolder: fffnobles
   social: {occupation: Patrician, class: noble, society: imperial, organizations: []}
 hm3:

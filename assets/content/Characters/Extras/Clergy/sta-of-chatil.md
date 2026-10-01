@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
-  id: dlTElfsXUrtWi91a
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: unguilded, society: feudal, organizations: []}
 hm3:

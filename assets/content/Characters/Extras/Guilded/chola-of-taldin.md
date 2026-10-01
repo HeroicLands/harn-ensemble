@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: pVz4I8h1plYwMuU5
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: unguilded, society: feudal, organizations: []}
 hm3:

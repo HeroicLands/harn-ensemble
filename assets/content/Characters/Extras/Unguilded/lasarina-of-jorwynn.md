@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: GGLAHZbotsqBCBoz
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Shortbow", class: serf, society: feudal, organizations: []}
 hm3:

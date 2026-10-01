@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: 3h5liYi46TWj2tyU
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: serf, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: LIsZCKZ7ZAxRVBtT
   packFolder: extrasguilded
   social: {occupation: Thief, class: serf, society: feudal, organizations: []}
 hm3:

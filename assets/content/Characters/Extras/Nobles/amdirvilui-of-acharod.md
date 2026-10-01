@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: jYJ8XrctrjE3M8l4
   packFolder: extrasnobles
   social: {occupation: Sindarin Knight, class: guilded, society: feudal, organizations: []}
 hm3:

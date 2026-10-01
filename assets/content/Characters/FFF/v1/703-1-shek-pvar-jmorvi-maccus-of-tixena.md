@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Birthmark]
   harnworld: {realm: "", ritual: [peoni, saveknor]}
-  id: cNLfCZnFAc0oKHjd
   packFolder: fffmages
   social:
     occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)

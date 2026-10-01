@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: GxQQq0uqrHH0kehP
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Low Guard, class: serf, society: feudal, organizations: []}
 hm3:

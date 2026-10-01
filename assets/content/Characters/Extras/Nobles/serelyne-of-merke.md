@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: wBp7pdwblVfs6Qix
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
 hm3:

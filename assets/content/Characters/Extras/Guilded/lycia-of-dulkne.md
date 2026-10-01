@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: s6IWtVynMRJwi9mM
   packFolder: extrasguilded
   social: {occupation: Charcoaler, class: guilded, society: feudal, organizations: []}
 hm3:

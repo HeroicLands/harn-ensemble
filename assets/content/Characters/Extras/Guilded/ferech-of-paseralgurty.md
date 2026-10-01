@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: bxFSjRRdUaqHd7H9
   packFolder: extrasguilded
   social: {occupation: Thief, class: serf, society: feudal, organizations: []}
 hm3:

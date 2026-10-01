@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Outrageous clothes]
   harnworld: {realm: "", ritual: [peoni, eder]}
-  id: dB9zMBkQJSKNOVu4
   packFolder: fffguilded
   social: {occupation: Pilot, class: freeman, society: feudal, organizations: []}
 hm3:

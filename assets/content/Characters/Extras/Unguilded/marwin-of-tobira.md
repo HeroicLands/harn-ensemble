@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: EKHsdMLY3sDaFKAA
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: serf, society: feudal, organizations: []}
 hm3:

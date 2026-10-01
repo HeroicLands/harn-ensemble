@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: DgVl9iypAKNTPTjk
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Shortbow", class: serf, society: feudal, organizations: []}
 hm3:

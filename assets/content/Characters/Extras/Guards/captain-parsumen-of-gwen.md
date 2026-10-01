@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: bFKpc7sWwunh86UV
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Heavy

@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: p4ntn6CriEKSQ5qS
   packFolder: extrasguilded
   social: {occupation: Glassworker, class: serf, society: feudal, organizations: []}
 hm3:

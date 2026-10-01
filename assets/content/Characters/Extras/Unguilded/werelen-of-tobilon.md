@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: w1eslNfiXCSRucS5
   packFolder: extrasunguilded
   social: {occupation: Feudal Militia, class: serf, society: feudal, organizations: []}
 hm3:

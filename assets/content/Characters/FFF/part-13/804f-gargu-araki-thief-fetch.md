@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: EJWcOWDJi0AriwyB
   packFolder: fffnonhumans
   social: {occupation: Thief, class: warrior, society: gargun (araki), organizations: []}
 hm3:

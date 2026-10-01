@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: ubQWTIy21Y5sd5cD
   packFolder: extrasunguilded
   social: {occupation: Cartographer/Artist, class: serf, society: feudal, organizations: []}
 hm3:

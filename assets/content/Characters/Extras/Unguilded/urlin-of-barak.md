@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: Du6f5NkhjozQYmh5
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Clansman, class: unguilded, society: feudal, organizations: []}
 hm3:

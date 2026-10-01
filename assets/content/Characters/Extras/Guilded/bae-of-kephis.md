@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: RoovwrAL0otsyeKC
   packFolder: extrasguilded
   social: {occupation: Innkeeper, class: serf, society: feudal, organizations: []}
 hm3:

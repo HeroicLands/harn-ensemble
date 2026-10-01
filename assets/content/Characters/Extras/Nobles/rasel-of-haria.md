@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: Y8dxNZkTotZHZloX
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

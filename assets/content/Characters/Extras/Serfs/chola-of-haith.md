@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: e4Xp9zj0BkamrlWM
   packFolder: extrasserfs
   social: {occupation: Gladiator, class: serf, society: feudal, organizations: []}
 hm3:

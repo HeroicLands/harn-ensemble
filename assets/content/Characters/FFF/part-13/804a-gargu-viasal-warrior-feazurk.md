@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: 4s2kMbsyAnjadFUk
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: warrior, society: gargun (viasal), organizations: []}
 hm3:

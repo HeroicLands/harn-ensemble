@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: ZpIexom3uc9SJEIF
   packFolder: extrasserfs
   social: {occupation: Servant, class: unguilded, society: feudal, organizations: []}
 hm3:

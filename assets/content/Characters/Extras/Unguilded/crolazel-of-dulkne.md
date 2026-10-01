@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: N0q1BPbEy2BTGayH
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

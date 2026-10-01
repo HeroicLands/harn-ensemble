@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: odVc8jJ0KDpAawR2
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: unguilded, society: feudal, organizations: []}
 hm3:

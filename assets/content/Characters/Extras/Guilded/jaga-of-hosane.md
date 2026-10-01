@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: xHbkACwUHj7LCXIo
   packFolder: extrasguilded
   social: {occupation: Tentmaker, class: serf, society: feudal, organizations: []}
 hm3:

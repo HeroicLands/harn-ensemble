@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: LYy6wNzmc4QK0GiL
   packFolder: fffunguilded
   social: {occupation: Scribe, class: freeman, society: feudal, organizations: []}
 hm3:

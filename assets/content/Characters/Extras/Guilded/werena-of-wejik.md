@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: HNsKMKvzMX9qc986
   packFolder: extrasguilded
   social: {occupation: Glassworker, class: serf, society: feudal, organizations: []}
 hm3:

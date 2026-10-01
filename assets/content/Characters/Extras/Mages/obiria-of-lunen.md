@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: CX6azkOk8B6Cn3nh
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Savorya***", class: serf, society: feudal, organizations: []}
 hm3:

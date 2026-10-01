@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: Hs6lucDfPTjDn1uZ
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Fyvria****", class: serf, society: feudal, organizations: []}
 hm3:

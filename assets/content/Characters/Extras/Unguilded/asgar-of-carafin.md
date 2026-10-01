@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: w5HbShr5B5Dx4VCv
   packFolder: extrasunguilded
   social: {occupation: Sindarin Guardian, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: UddzsCAUsmWroNwb
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Shortbow", class: serf, society: feudal, organizations: []}
 hm3:

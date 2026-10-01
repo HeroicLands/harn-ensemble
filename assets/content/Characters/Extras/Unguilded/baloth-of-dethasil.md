@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: HhRYKdpEmWriwXNc
   packFolder: extrasunguilded
   social: {occupation: Cook/Servant, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: TS8LS4pPsNteXkhG
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
 hm3:

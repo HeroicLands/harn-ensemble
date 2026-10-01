@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 6LOT55Hwg8nHzL1Q
   packFolder: extrasunguilded
   social: {occupation: Cartographer/Artist, class: serf, society: feudal, organizations: []}
 hm3:

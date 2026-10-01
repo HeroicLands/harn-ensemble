@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: DGJuyAtCK4DQpcR8
   packFolder: extrasguilded
   social: {occupation: Woodcrafter, class: guilded, society: feudal, organizations: []}
 hm3:

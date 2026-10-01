@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: XnsQ9Iwi8x8nKwRG
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: serf, society: feudal, organizations: []}
 hm3:

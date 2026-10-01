@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: [naveh]}
-  id: N4ejmsYwZGeOrzGd
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: unguilded, society: feudal, organizations: []}
 hm3:

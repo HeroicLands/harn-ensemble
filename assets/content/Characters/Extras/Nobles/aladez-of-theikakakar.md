@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: dXiKZfVNINvqBDsM
   packFolder: extrasnobles
   social: {occupation: Khuzdul High Guard, class: serf, society: feudal, organizations: []}
 hm3:

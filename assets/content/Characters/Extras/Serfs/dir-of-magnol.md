@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: 5TOZtKBijhQAtDkT
   packFolder: extrasserfs
   social: {occupation: Gladiator, class: serf, society: feudal, organizations: []}
 hm3:

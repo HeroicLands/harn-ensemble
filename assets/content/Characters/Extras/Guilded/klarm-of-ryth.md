@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: LH7xr1zHVw9r0cF7
   packFolder: extrasguilded
   social: {occupation: Pilot, class: serf, society: feudal, organizations: []}
 hm3:

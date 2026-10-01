@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: kGYk4hQarIqXm5J0
   packFolder: extrasguilded
   social: {occupation: Shipwright, class: guilded, society: feudal, organizations: []}
 hm3:

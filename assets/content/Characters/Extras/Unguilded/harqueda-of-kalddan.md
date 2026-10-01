@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: Fe4NlS4m6YYo6xv9
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Low Guard, class: unguilded, society: feudal, organizations: []}
 hm3:

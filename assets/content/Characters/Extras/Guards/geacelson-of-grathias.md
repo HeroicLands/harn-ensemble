@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: oaLKzP4Bu1tJLLia
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

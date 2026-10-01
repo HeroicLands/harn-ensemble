@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: DEobTQEXjV8YaPcZ
   packFolder: extrasguilded
   social: {occupation: Lexigrapher, class: serf, society: feudal, organizations: []}
 hm3:

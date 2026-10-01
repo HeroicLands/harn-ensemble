@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: 5zz57ODwoblfy3aF
   packFolder: extrasguilded
   social: {occupation: Salter, class: guilded, society: feudal, organizations: []}
 hm3:

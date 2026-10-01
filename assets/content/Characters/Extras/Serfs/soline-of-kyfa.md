@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: mm9myYzCfjYwJk3h
   packFolder: extrasserfs
   social: {occupation: Gladiator, class: unguilded, society: feudal, organizations: []}
 hm3:

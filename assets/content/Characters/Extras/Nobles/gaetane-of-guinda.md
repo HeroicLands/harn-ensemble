@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: fKwAquOxZfCxRrpV
   packFolder: extrasnobles
   social: {occupation: Patrician, class: serf, society: feudal, organizations: []}
 hm3:

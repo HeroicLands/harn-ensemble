@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: C4m0SFlOStdomSCD
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Heavy

@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: O9a25XsUGJu0aVDT
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot
