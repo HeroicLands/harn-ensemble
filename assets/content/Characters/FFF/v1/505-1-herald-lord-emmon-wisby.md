@@ -1,6 +1,6 @@
 ---
 shortcode: lordemmonwisby
-name: {full: Lord Emmon Wisby, title: Lord, given: Emmon, clan: Wisby, aliases: []}
+name: {full: Lord Emmon Wisby, aliases: []}
 type: being
 tags: [character]
 data:

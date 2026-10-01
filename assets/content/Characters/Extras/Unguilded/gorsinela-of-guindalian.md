@@ -1,6 +1,6 @@
 ---
 shortcode: gorsinelaofguindalian
-name: {full: Gorsinela of Guindalian, title: "", given: Gorsinela, clan: Guindalian, aliases: []}
+name: {full: Gorsinela of Guindalian, aliases: []}
 type: being
 tags: [character]
 data:

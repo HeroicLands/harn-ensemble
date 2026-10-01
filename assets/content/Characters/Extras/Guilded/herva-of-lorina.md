@@ -1,6 +1,6 @@
 ---
 shortcode: hervaoflorina
-name: {full: Herva of Lorina, title: "", given: Herva, clan: Lorina, aliases: []}
+name: {full: Herva of Lorina, aliases: []}
 type: being
 tags: [character]
 data:

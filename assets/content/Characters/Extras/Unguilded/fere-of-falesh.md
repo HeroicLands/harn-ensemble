@@ -1,6 +1,6 @@
 ---
 shortcode: fereoffalesh
-name: {full: Fere of Falesh, title: "", given: Fere, clan: Falesh, aliases: []}
+name: {full: Fere of Falesh, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: ereryofcharadas
-name: {full: Erery of Charadas, title: "", given: Erery, clan: Charadas, aliases: []}
+name: {full: Erery of Charadas, aliases: []}
 type: being
 tags: [character]
 data:

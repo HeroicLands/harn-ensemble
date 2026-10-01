@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofyisgaranoal
-name: {full: Milniq of Yisgaranoal, title: "", given: Milniq, clan: Yisgaranoal, aliases: []}
+name: {full: Milniq of Yisgaranoal, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: vadulfofgesper
-name: {full: Vadulf of Gesper, title: "", given: Vadulf, clan: Gesper, aliases: []}
+name: {full: Vadulf of Gesper, aliases: []}
 type: being
 tags: [character]
 data:

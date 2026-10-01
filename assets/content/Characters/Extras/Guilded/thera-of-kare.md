@@ -1,6 +1,6 @@
 ---
 shortcode: theraofkare
-name: {full: Thera of Kare, title: "", given: Thera, clan: Kare, aliases: []}
+name: {full: Thera of Kare, aliases: []}
 type: being
 tags: [character]
 data:

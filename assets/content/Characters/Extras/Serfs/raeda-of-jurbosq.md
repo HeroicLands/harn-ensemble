@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofjurbosq
-name: {full: Raeda of Jurbosq, title: "", given: Raeda, clan: Jurbosq, aliases: []}
+name: {full: Raeda of Jurbosq, aliases: []}
 type: being
 tags: [character]
 data:

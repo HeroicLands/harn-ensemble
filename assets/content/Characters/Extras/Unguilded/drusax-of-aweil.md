@@ -1,6 +1,6 @@
 ---
 shortcode: drusaxofaweil
-name: {full: Drusax of Aweil, title: "", given: Drusax, clan: Aweil, aliases: []}
+name: {full: Drusax of Aweil, aliases: []}
 type: being
 tags: [character]
 data:

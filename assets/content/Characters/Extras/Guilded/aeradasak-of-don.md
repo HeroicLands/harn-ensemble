@@ -1,6 +1,6 @@
 ---
 shortcode: aeradasakofdon
-name: {full: Aeradasak of Don, title: "", given: Aeradasak, clan: Don, aliases: []}
+name: {full: Aeradasak of Don, aliases: []}
 type: being
 tags: [character]
 data:

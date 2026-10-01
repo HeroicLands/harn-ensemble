@@ -1,6 +1,6 @@
 ---
 shortcode: amruphenofcalen
-name: {full: Amruphen of Calen, title: "", given: Amruphen, clan: Calen, aliases: []}
+name: {full: Amruphen of Calen, aliases: []}
 type: being
 tags: [character]
 data:

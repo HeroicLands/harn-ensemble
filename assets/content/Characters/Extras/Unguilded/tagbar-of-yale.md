@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarofyale
-name: {full: Tagbar of Yale, title: "", given: Tagbar, clan: Yale, aliases: []}
+name: {full: Tagbar of Yale, aliases: []}
 type: being
 tags: [character]
 data:

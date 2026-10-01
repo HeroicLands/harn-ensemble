@@ -1,6 +1,6 @@
 ---
 shortcode: noragoroferlesh
-name: {full: Noragor of Erlesh, title: "", given: Noragor, clan: Erlesh, aliases: []}
+name: {full: Noragor of Erlesh, aliases: []}
 type: being
 tags: [character]
 data:

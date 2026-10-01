@@ -1,6 +1,6 @@
 ---
 shortcode: chimaofibin
-name: {full: Chima of Ibin, title: "", given: Chima, clan: Ibin, aliases: []}
+name: {full: Chima of Ibin, aliases: []}
 type: being
 tags: [character]
 data:

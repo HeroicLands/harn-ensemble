@@ -1,6 +1,6 @@
 ---
 shortcode: ereryofamafa
-name: {full: Erery of Amafa, title: "", given: Erery, clan: Amafa, aliases: []}
+name: {full: Erery of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

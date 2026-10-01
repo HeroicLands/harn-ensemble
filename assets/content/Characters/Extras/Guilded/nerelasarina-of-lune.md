@@ -1,6 +1,6 @@
 ---
 shortcode: nerelasarinaoflune
-name: {full: Nerelasarina of Lune, title: "", given: Nerelasarina, clan: Lune, aliases: []}
+name: {full: Nerelasarina of Lune, aliases: []}
 type: being
 tags: [character]
 data:

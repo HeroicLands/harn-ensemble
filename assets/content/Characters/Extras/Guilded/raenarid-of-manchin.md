@@ -1,6 +1,6 @@
 ---
 shortcode: raenaridofmanchin
-name: {full: Raenarid of Manchin, title: "", given: Raenarid, clan: Manchin, aliases: []}
+name: {full: Raenarid of Manchin, aliases: []}
 type: being
 tags: [character]
 data:

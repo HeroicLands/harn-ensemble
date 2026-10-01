@@ -1,6 +1,6 @@
 ---
 shortcode: krikofdarin
-name: {full: Krik of Darin, title: "", given: Krik, clan: Darin, aliases: []}
+name: {full: Krik of Darin, aliases: []}
 type: being
 tags: [character]
 data:

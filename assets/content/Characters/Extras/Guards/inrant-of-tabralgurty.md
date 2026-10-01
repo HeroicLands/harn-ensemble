@@ -1,6 +1,6 @@
 ---
 shortcode: inrantoftabralgurty
-name: {full: Inrant of Tabralgurty, title: "", given: Inrant, clan: Tabralgurty, aliases: []}
+name: {full: Inrant of Tabralgurty, aliases: []}
 type: being
 tags: [character]
 data:

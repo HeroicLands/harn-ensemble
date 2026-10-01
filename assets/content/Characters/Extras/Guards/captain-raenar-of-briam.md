@@ -1,6 +1,6 @@
 ---
 shortcode: captainraenarofbriam
-name: {full: Captain Raenar of Briam, title: Captain, given: Raenar, clan: Briam, aliases: []}
+name: {full: Captain Raenar of Briam, aliases: []}
 type: being
 tags: [character]
 data:

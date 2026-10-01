@@ -1,6 +1,6 @@
 ---
 shortcode: quelinofchusselsen
-name: {full: Quelin of Chusselsen, title: "", given: Quelin, clan: Chusselsen, aliases: []}
+name: {full: Quelin of Chusselsen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: malhberaofdythasil
-name: {full: Malhbera of Dythasil, title: "", given: Malhbera, clan: Dythasil, aliases: []}
+name: {full: Malhbera of Dythasil, aliases: []}
 type: being
 tags: [character]
 data:

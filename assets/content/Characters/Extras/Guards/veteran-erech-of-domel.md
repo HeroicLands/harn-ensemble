@@ -1,6 +1,6 @@
 ---
 shortcode: veteranerechofdomel
-name: {full: Veteran Erech of Domel, title: Veteran, given: Erech, clan: Domel, aliases: []}
+name: {full: Veteran Erech of Domel, aliases: []}
 type: being
 tags: [character]
 data:

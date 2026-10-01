@@ -1,6 +1,6 @@
 ---
 shortcode: belofquiriel
-name: {full: Bel of Quiriel, title: "", given: Bel, clan: Quiriel, aliases: []}
+name: {full: Bel of Quiriel, aliases: []}
 type: being
 tags: [character]
 data:

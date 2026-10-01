@@ -1,6 +1,6 @@
 ---
 shortcode: valethofhaith
-name: {full: Valeth of Haith, title: "", given: Valeth, clan: Haith, aliases: []}
+name: {full: Valeth of Haith, aliases: []}
 type: being
 tags: [character]
 data:

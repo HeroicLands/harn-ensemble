@@ -1,6 +1,6 @@
 ---
 shortcode: grulderielaofpede
-name: {full: Grulderiela of Pede, title: "", given: Grulderiela, clan: Pede, aliases: []}
+name: {full: Grulderiela of Pede, aliases: []}
 type: being
 tags: [character]
 data:

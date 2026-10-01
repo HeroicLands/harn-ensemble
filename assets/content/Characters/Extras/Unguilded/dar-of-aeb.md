@@ -1,6 +1,6 @@
 ---
 shortcode: darofaeb
-name: {full: Dar of Aeb, title: "", given: Dar, clan: Aeb, aliases: []}
+name: {full: Dar of Aeb, aliases: []}
 type: being
 tags: [character]
 data:

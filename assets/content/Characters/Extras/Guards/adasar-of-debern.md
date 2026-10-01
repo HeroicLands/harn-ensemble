@@ -1,6 +1,6 @@
 ---
 shortcode: adasarofdebern
-name: {full: Adasar of Debern, title: "", given: Adasar, clan: Debern, aliases: []}
+name: {full: Adasar of Debern, aliases: []}
 type: being
 tags: [character]
 data:

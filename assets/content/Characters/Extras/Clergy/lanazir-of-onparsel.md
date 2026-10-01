@@ -1,6 +1,6 @@
 ---
 shortcode: lanazirofonparsel
-name: {full: Lanazir of Onparsel, title: "", given: Lanazir, clan: Onparsel, aliases: []}
+name: {full: Lanazir of Onparsel, aliases: []}
 type: being
 tags: [character]
 data:

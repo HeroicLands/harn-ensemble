@@ -1,6 +1,6 @@
 ---
 shortcode: parmenofhipaeus
-name: {full: Parmen of Hipaeus, title: "", given: Parmen, clan: Hipaeus, aliases: []}
+name: {full: Parmen of Hipaeus, aliases: []}
 type: being
 tags: [character]
 data:

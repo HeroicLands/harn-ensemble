@@ -1,6 +1,6 @@
 ---
 shortcode: eldaoftombin
-name: {full: Elda of Tombin, title: "", given: Elda, clan: Tombin, aliases: []}
+name: {full: Elda of Tombin, aliases: []}
 type: being
 tags: [character]
 data:

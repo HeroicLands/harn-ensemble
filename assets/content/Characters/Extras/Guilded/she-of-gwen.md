@@ -1,6 +1,6 @@
 ---
 shortcode: sheofgwen
-name: {full: She of Gwen, title: "", given: She, clan: Gwen, aliases: []}
+name: {full: She of Gwen, aliases: []}
 type: being
 tags: [character]
 data:

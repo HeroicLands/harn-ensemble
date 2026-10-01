@@ -1,6 +1,6 @@
 ---
 shortcode: sareyofsideth
-name: {full: Sarey of Sideth, title: "", given: Sarey, clan: Sideth, aliases: []}
+name: {full: Sarey of Sideth, aliases: []}
 type: being
 tags: [character]
 data:

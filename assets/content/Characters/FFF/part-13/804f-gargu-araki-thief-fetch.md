@@ -1,6 +1,6 @@
 ---
 shortcode: fetch
-name: {full: '"Fetch"', title: "", given: Fetch, clan: "", aliases: []}
+name: {full: '"Fetch"', aliases: []}
 type: being
 tags: [character]
 data:

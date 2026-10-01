@@ -1,6 +1,6 @@
 ---
 shortcode: teldaneofvaradas
-name: {full: Teldane of Varadas, title: "", given: Teldane, clan: Varadas, aliases: []}
+name: {full: Teldane of Varadas, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofekair
-name: {full: Tamyth of Ekair, title: "", given: Tamyth, clan: Ekair, aliases: []}
+name: {full: Tamyth of Ekair, aliases: []}
 type: being
 tags: [character]
 data:

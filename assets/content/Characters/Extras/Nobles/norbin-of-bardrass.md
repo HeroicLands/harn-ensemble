@@ -1,6 +1,6 @@
 ---
 shortcode: norbinofbardrass
-name: {full: Norbin of Bardrass, title: "", given: Norbin, clan: Bardrass, aliases: []}
+name: {full: Norbin of Bardrass, aliases: []}
 type: being
 tags: [character]
 data:

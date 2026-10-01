@@ -1,6 +1,6 @@
 ---
 shortcode: grallaxofcadrune
-name: {full: Grallax of Cadrune, title: "", given: Grallax, clan: Cadrune, aliases: []}
+name: {full: Grallax of Cadrune, aliases: []}
 type: being
 tags: [character]
 data:

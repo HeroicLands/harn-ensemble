@@ -1,6 +1,6 @@
 ---
 shortcode: thokrapalofaethaldron
-name: {full: Thokrapal of Aethaldron, title: "", given: Thokrapal, clan: Aethaldron, aliases: []}
+name: {full: Thokrapal of Aethaldron, aliases: []}
 type: being
 tags: [character]
 data:

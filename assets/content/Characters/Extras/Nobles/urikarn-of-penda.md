@@ -1,6 +1,6 @@
 ---
 shortcode: urikarnofpenda
-name: {full: Urikarn of Penda, title: "", given: Urikarn, clan: Penda, aliases: []}
+name: {full: Urikarn of Penda, aliases: []}
 type: being
 tags: [character]
 data:

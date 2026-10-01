@@ -1,6 +1,6 @@
 ---
 shortcode: brylweofduplo
-name: {full: Brylwe of Duplo, title: "", given: Brylwe, clan: Duplo, aliases: []}
+name: {full: Brylwe of Duplo, aliases: []}
 type: being
 tags: [character]
 data:

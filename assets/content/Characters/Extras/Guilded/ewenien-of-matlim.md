@@ -1,6 +1,6 @@
 ---
 shortcode: ewenienofmatlim
-name: {full: Ewenien of Matlim, title: "", given: Ewenien, clan: Matlim, aliases: []}
+name: {full: Ewenien of Matlim, aliases: []}
 type: being
 tags: [character]
 data:

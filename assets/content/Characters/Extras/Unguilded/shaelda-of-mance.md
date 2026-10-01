@@ -1,6 +1,6 @@
 ---
 shortcode: shaeldaofmance
-name: {full: Shaelda of Mance, title: "", given: Shaelda, clan: Mance, aliases: []}
+name: {full: Shaelda of Mance, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: andelgebar
-name: {full: Andel Gebar, title: "", given: Andel, clan: Gebar, aliases: []}
+name: {full: Andel Gebar, aliases: []}
 type: being
 tags: [character]
 data:

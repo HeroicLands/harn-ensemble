@@ -1,6 +1,6 @@
 ---
 shortcode: solindeofekai
-name: {full: Solinde of Ekai, title: "", given: Solinde, clan: Ekai, aliases: []}
+name: {full: Solinde of Ekai, aliases: []}
 type: being
 tags: [character]
 data:

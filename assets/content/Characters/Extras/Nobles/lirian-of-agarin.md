@@ -1,6 +1,6 @@
 ---
 shortcode: lirianofagarin
-name: {full: Lirian of Agarin, title: "", given: Lirian, clan: Agarin, aliases: []}
+name: {full: Lirian of Agarin, aliases: []}
 type: being
 tags: [character]
 data:

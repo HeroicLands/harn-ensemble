@@ -1,6 +1,6 @@
 ---
 shortcode: silasmarchant
-name: {full: Silas Marchant, title: "", given: Silas, clan: Marchant, aliases: []}
+name: {full: Silas Marchant, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: yebinofwesarn
-name: {full: Yebin of Wesarn, title: "", given: Yebin, clan: Wesarn, aliases: []}
+name: {full: Yebin of Wesarn, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: caranofangrustui
-name: {full: Caran of Angrustui, title: "", given: Caran, clan: Angrustui, aliases: []}
+name: {full: Caran of Angrustui, aliases: []}
 type: being
 tags: [character]
 data:

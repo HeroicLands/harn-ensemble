@@ -1,6 +1,6 @@
 ---
 shortcode: rosakofkeryn
-name: {full: Rosak of Keryn, title: "", given: Rosak, clan: Keryn, aliases: []}
+name: {full: Rosak of Keryn, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: urbainofbellyr
-name: {full: Urbain of Bellyr, title: "", given: Urbain, clan: Bellyr, aliases: []}
+name: {full: Urbain of Bellyr, aliases: []}
 type: being
 tags: [character]
 data:

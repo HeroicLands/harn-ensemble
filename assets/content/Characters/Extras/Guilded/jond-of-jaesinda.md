@@ -1,6 +1,6 @@
 ---
 shortcode: jondofjaesinda
-name: {full: Jond of Jaesinda, title: "", given: Jond, clan: Jaesinda, aliases: []}
+name: {full: Jond of Jaesinda, aliases: []}
 type: being
 tags: [character]
 data:

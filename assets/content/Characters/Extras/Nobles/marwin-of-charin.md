@@ -1,6 +1,6 @@
 ---
 shortcode: marwinofcharin
-name: {full: Marwin of Charin, title: "", given: Marwin, clan: Charin, aliases: []}
+name: {full: Marwin of Charin, aliases: []}
 type: being
 tags: [character]
 data:

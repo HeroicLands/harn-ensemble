@@ -1,6 +1,6 @@
 ---
 shortcode: husraasofkjalis
-name: {full: Husraas of Kjalis, title: "", given: Husraas, clan: Kjalis, aliases: []}
+name: {full: Husraas of Kjalis, aliases: []}
 type: being
 tags: [character]
 data:

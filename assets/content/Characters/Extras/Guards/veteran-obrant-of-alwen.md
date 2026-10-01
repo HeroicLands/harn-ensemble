@@ -1,6 +1,6 @@
 ---
 shortcode: veteranobrantofalwen
-name: {full: Veteran Obrant of Alwen, title: Veteran, given: Obrant, clan: Alwen, aliases: []}
+name: {full: Veteran Obrant of Alwen, aliases: []}
 type: being
 tags: [character]
 data:

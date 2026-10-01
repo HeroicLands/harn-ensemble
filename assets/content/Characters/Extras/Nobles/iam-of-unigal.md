@@ -1,6 +1,6 @@
 ---
 shortcode: iamofunigal
-name: {full: Iam of Unigal, title: "", given: Iam, clan: Unigal, aliases: []}
+name: {full: Iam of Unigal, aliases: []}
 type: being
 tags: [character]
 data:

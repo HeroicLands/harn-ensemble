@@ -1,6 +1,6 @@
 ---
 shortcode: salaredofena
-name: {full: Salared of Ena, title: "", given: Salared, clan: Ena, aliases: []}
+name: {full: Salared of Ena, aliases: []}
 type: being
 tags: [character]
 data:

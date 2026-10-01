@@ -1,6 +1,6 @@
 ---
 shortcode: beinaithofbelevophen
-name: {full: Beinaith of Belevophen, title: "", given: Beinaith, clan: Belevophen, aliases: []}
+name: {full: Beinaith of Belevophen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: mereleofcybel
-name: {full: Merele of Cybel, title: "", given: Merele, clan: Cybel, aliases: []}
+name: {full: Merele of Cybel, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: erandofasain
-name: {full: Erand of Asain, title: "", given: Erand, clan: Asain, aliases: []}
+name: {full: Erand of Asain, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: querenelleofgorra
-name: {full: Querenelle of Gorra, title: "", given: Querenelle, clan: Gorra, aliases: []}
+name: {full: Querenelle of Gorra, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: crolofmatlimun
-name: {full: Crol of Matlimun, title: "", given: Crol, clan: Matlimun, aliases: []}
+name: {full: Crol of Matlimun, aliases: []}
 type: being
 tags: [character]
 data:

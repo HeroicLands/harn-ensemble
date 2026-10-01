@@ -1,6 +1,6 @@
 ---
 shortcode: raenarofordas
-name: {full: Raenar of Ordas, title: "", given: Raenar, clan: Ordas, aliases: []}
+name: {full: Raenar of Ordas, aliases: []}
 type: being
 tags: [character]
 data:

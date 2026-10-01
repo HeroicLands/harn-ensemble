@@ -1,6 +1,6 @@
 ---
 shortcode: roulofleferre
-name: {full: Roul of Leferre, title: "", given: Roul, clan: Leferre, aliases: []}
+name: {full: Roul of Leferre, aliases: []}
 type: being
 tags: [character]
 data:

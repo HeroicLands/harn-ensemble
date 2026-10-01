@@ -1,6 +1,6 @@
 ---
 shortcode: cidinofamath
-name: {full: Cidin of Amath, title: "", given: Cidin, clan: Amath, aliases: []}
+name: {full: Cidin of Amath, aliases: []}
 type: being
 tags: [character]
 data:

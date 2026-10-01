@@ -1,6 +1,6 @@
 ---
 shortcode: rybrynofdara
-name: {full: Rybryn of Dara, title: "", given: Rybryn, clan: Dara, aliases: []}
+name: {full: Rybryn of Dara, aliases: []}
 type: being
 tags: [character]
 data:

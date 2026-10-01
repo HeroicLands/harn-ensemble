@@ -1,6 +1,6 @@
 ---
 shortcode: zuiquerielaofsel
-name: {full: Zuiqueriela of Sel, title: "", given: Zuiqueriela, clan: Sel, aliases: []}
+name: {full: Zuiqueriela of Sel, aliases: []}
 type: being
 tags: [character]
 data:

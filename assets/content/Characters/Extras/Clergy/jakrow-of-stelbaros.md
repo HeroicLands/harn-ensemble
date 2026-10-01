@@ -1,6 +1,6 @@
 ---
 shortcode: jakrowofstelbaros
-name: {full: Jakrow of Stelbaros, title: "", given: Jakrow, clan: Stelbaros, aliases: []}
+name: {full: Jakrow of Stelbaros, aliases: []}
 type: being
 tags: [character]
 data:

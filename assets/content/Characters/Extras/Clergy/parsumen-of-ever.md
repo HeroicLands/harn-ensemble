@@ -1,6 +1,6 @@
 ---
 shortcode: parsumenofever
-name: {full: Parsumen of Ever, title: "", given: Parsumen, clan: Ever, aliases: []}
+name: {full: Parsumen of Ever, aliases: []}
 type: being
 tags: [character]
 data:

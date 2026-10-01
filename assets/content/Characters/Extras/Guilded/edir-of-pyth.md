@@ -1,6 +1,6 @@
 ---
 shortcode: edirofpyth
-name: {full: Edir of Pyth, title: "", given: Edir, clan: Pyth, aliases: []}
+name: {full: Edir of Pyth, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: kuvelofewel
-name: {full: Kuvel of Ewel, title: "", given: Kuvel, clan: Ewel, aliases: []}
+name: {full: Kuvel of Ewel, aliases: []}
 type: being
 tags: [character]
 data:

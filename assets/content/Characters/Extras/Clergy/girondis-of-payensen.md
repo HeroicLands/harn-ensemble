@@ -1,6 +1,6 @@
 ---
 shortcode: girondisofpayensen
-name: {full: Girondis of Payensen, title: "", given: Girondis, clan: Payensen, aliases: []}
+name: {full: Girondis of Payensen, aliases: []}
 type: being
 tags: [character]
 data:

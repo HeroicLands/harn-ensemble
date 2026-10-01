@@ -1,6 +1,6 @@
 ---
 shortcode: edirynofuerthen
-name: {full: Ediryn of Uerthen, title: "", given: Ediryn, clan: Uerthen, aliases: []}
+name: {full: Ediryn of Uerthen, aliases: []}
 type: being
 tags: [character]
 data:

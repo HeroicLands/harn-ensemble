@@ -1,6 +1,6 @@
 ---
 shortcode: jorlakofasain
-name: {full: Jorlak of Asain, title: "", given: Jorlak, clan: Asain, aliases: []}
+name: {full: Jorlak of Asain, aliases: []}
 type: being
 tags: [character]
 data:

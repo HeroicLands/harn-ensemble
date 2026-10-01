@@ -1,6 +1,6 @@
 ---
 shortcode: martonaofgimrum
-name: {full: Martona of Gimrum, title: "", given: Martona, clan: Gimrum, aliases: []}
+name: {full: Martona of Gimrum, aliases: []}
 type: being
 tags: [character]
 data:

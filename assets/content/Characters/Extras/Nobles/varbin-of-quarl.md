@@ -1,6 +1,6 @@
 ---
 shortcode: varbinofquarl
-name: {full: Varbin of Quarl, title: "", given: Varbin, clan: Quarl, aliases: []}
+name: {full: Varbin of Quarl, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: aquillionofardine
-name: {full: Aquillion of Ardine, title: "", given: Aquillion, clan: Ardine, aliases: []}
+name: {full: Aquillion of Ardine, aliases: []}
 type: being
 tags: [character]
 data:

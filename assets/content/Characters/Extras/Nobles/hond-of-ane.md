@@ -1,6 +1,6 @@
 ---
 shortcode: hondofane
-name: {full: Hond of Ane, title: "", given: Hond, clan: Ane, aliases: []}
+name: {full: Hond of Ane, aliases: []}
 type: being
 tags: [character]
 data:

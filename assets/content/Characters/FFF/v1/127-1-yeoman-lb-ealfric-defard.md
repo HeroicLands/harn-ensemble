@@ -1,6 +1,6 @@
 ---
 shortcode: ealfricdefard
-name: {full: Ealfric Defard, title: "", given: Ealfric, clan: Defard, aliases: []}
+name: {full: Ealfric Defard, aliases: []}
 type: being
 tags: [character]
 data:

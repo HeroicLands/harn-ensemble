@@ -1,11 +1,6 @@
 ---
 shortcode: bresynofdyselwenastallim
-name:
-  full: Bresyn of Dyselwenastallim
-  title: ""
-  given: Bresyn
-  clan: Dyselwenastallim
-  aliases: []
+name: {full: Bresyn of Dyselwenastallim, aliases: []}
 type: being
 tags: [character]
 data:

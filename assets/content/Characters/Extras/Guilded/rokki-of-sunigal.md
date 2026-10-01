@@ -1,6 +1,6 @@
 ---
 shortcode: rokkiofsunigal
-name: {full: Rokki of Sunigal, title: "", given: Rokki, clan: Sunigal, aliases: []}
+name: {full: Rokki of Sunigal, aliases: []}
 type: being
 tags: [character]
 data:

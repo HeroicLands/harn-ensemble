@@ -1,6 +1,6 @@
 ---
 shortcode: thecofkolmzak
-name: {full: Thec of Kolmzak, title: "", given: Thec, clan: Kolmzak, aliases: []}
+name: {full: Thec of Kolmzak, aliases: []}
 type: being
 tags: [character]
 data:

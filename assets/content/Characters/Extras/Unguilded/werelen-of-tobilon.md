@@ -1,6 +1,6 @@
 ---
 shortcode: werelenoftobilon
-name: {full: Werelen of Tobilon, title: "", given: Werelen, clan: Tobilon, aliases: []}
+name: {full: Werelen of Tobilon, aliases: []}
 type: being
 tags: [character]
 data:

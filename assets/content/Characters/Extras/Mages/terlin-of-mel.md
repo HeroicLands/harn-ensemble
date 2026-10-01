@@ -1,6 +1,6 @@
 ---
 shortcode: terlinofmel
-name: {full: Terlin of Mel, title: "", given: Terlin, clan: Mel, aliases: []}
+name: {full: Terlin of Mel, aliases: []}
 type: being
 tags: [character]
 data:

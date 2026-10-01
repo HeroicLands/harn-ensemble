@@ -1,6 +1,6 @@
 ---
 shortcode: erdinofgevrael
-name: {full: Erdin of Gevrael, title: "", given: Erdin, clan: Gevrael, aliases: []}
+name: {full: Erdin of Gevrael, aliases: []}
 type: being
 tags: [character]
 data:

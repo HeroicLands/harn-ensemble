@@ -1,6 +1,6 @@
 ---
 shortcode: perlaofeverda
-name: {full: Perla of Everda, title: "", given: Perla, clan: Everda, aliases: []}
+name: {full: Perla of Everda, aliases: []}
 type: being
 tags: [character]
 data:

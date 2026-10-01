@@ -1,6 +1,6 @@
 ---
 shortcode: eredaoflern
-name: {full: Ereda of Lern, title: "", given: Ereda, clan: Lern, aliases: []}
+name: {full: Ereda of Lern, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: hariamofverdy
-name: {full: Hariam of Verdy, title: "", given: Hariam, clan: Verdy, aliases: []}
+name: {full: Hariam of Verdy, aliases: []}
 type: being
 tags: [character]
 data:

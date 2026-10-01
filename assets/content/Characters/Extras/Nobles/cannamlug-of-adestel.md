@@ -1,6 +1,6 @@
 ---
 shortcode: cannamlugofadestel
-name: {full: Cannamlug of Adestel, title: "", given: Cannamlug, clan: Adestel, aliases: []}
+name: {full: Cannamlug of Adestel, aliases: []}
 type: being
 tags: [character]
 data:

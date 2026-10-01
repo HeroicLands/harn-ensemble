@@ -1,6 +1,6 @@
 ---
 shortcode: garondofsarn
-name: {full: Garond of Sarn, title: "", given: Garond, clan: Sarn, aliases: []}
+name: {full: Garond of Sarn, aliases: []}
 type: being
 tags: [character]
 data:

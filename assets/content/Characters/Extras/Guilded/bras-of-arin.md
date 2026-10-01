@@ -1,6 +1,6 @@
 ---
 shortcode: brasofarin
-name: {full: Bras of Arin, title: "", given: Bras, clan: Arin, aliases: []}
+name: {full: Bras of Arin, aliases: []}
 type: being
 tags: [character]
 data:

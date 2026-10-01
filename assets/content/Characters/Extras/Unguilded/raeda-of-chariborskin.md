@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofchariborskin
-name: {full: Raeda of Chariborskin, title: "", given: Raeda, clan: Chariborskin, aliases: []}
+name: {full: Raeda of Chariborskin, aliases: []}
 type: being
 tags: [character]
 data:

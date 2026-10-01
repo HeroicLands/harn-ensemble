@@ -1,6 +1,6 @@
 ---
 shortcode: teldarakanofonpartus
-name: {full: Teldarakan of Onpartus, title: "", given: Teldarakan, clan: Onpartus, aliases: []}
+name: {full: Teldarakan of Onpartus, aliases: []}
 type: being
 tags: [character]
 data:

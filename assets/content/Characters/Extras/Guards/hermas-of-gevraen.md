@@ -1,6 +1,6 @@
 ---
 shortcode: hermasofgevraen
-name: {full: Hermas of Gevraen, title: "", given: Hermas, clan: Gevraen, aliases: []}
+name: {full: Hermas of Gevraen, aliases: []}
 type: being
 tags: [character]
 data:

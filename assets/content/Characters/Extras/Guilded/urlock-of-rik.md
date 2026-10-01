@@ -1,6 +1,6 @@
 ---
 shortcode: urlockofrik
-name: {full: Urlock of Rik, title: "", given: Urlock, clan: Rik, aliases: []}
+name: {full: Urlock of Rik, aliases: []}
 type: being
 tags: [character]
 data:

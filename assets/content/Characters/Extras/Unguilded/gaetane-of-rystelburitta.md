@@ -1,6 +1,6 @@
 ---
 shortcode: gaetaneofrystelburitta
-name: {full: Gaetane of Rystelburitta, title: "", given: Gaetane, clan: Rystelburitta, aliases: []}
+name: {full: Gaetane of Rystelburitta, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: sebelshinofpythasil
-name: {full: Sebelshin of Pythasil, title: "", given: Sebelshin, clan: Pythasil, aliases: []}
+name: {full: Sebelshin of Pythasil, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gineoferlesh
-name: {full: Gine of Erlesh, title: "", given: Gine, clan: Erlesh, aliases: []}
+name: {full: Gine of Erlesh, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: theraofzendalin
-name: {full: Thera of Zendalin, title: "", given: Thera, clan: Zendalin, aliases: []}
+name: {full: Thera of Zendalin, aliases: []}
 type: being
 tags: [character]
 data:

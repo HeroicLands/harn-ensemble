@@ -1,6 +1,6 @@
 ---
 shortcode: sergeantyerickoferam
-name: {full: Sergeant Yerick of Eram, title: Sergeant, given: Yerick, clan: Eram, aliases: []}
+name: {full: Sergeant Yerick of Eram, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: wybertgraon
-name: {full: Wybert Graon, title: "", given: Wybert, clan: Graon, aliases: []}
+name: {full: Wybert Graon, aliases: []}
 type: being
 tags: [character]
 data:

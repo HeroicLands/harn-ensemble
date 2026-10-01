@@ -1,6 +1,6 @@
 ---
 shortcode: ciramdirveluofamarther
-name: {full: Ciramdirvelu of Amarther, title: "", given: Ciramdirvelu, clan: Amarther, aliases: []}
+name: {full: Ciramdirvelu of Amarther, aliases: []}
 type: being
 tags: [character]
 data:

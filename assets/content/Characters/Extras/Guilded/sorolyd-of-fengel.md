@@ -1,6 +1,6 @@
 ---
 shortcode: sorolydoffengel
-name: {full: Sorolyd of Fengel, title: "", given: Sorolyd, clan: Fengel, aliases: []}
+name: {full: Sorolyd of Fengel, aliases: []}
 type: being
 tags: [character]
 data:

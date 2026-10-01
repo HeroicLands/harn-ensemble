@@ -1,6 +1,6 @@
 ---
 shortcode: borka
-name: {full: Borka, title: "", given: Borka, clan: "", aliases: []}
+name: {full: Borka, aliases: []}
 type: being
 tags: [character]
 data:

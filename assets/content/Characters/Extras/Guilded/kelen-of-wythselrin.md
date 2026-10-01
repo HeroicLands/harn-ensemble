@@ -1,6 +1,6 @@
 ---
 shortcode: kelenofwythselrin
-name: {full: Kelen of Wythselrin, title: "", given: Kelen, clan: Wythselrin, aliases: []}
+name: {full: Kelen of Wythselrin, aliases: []}
 type: being
 tags: [character]
 data:

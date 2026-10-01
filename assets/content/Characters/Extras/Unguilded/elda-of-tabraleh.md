@@ -1,6 +1,6 @@
 ---
 shortcode: eldaoftabraleh
-name: {full: Elda of Tabraleh, title: "", given: Elda, clan: Tabraleh, aliases: []}
+name: {full: Elda of Tabraleh, aliases: []}
 type: being
 tags: [character]
 data:

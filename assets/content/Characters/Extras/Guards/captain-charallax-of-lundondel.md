@@ -1,11 +1,6 @@
 ---
 shortcode: captaincharallaxoflundondel
-name:
-  full: Captain Charallax of Lundondel
-  title: Captain
-  given: Charallax
-  clan: Lundondel
-  aliases: []
+name: {full: Captain Charallax of Lundondel, aliases: []}
 type: being
 tags: [character]
 data:

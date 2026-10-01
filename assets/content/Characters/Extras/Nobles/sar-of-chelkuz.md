@@ -1,6 +1,6 @@
 ---
 shortcode: sarofchelkuz
-name: {full: Sar of Chelkuz, title: "", given: Sar, clan: Chelkuz, aliases: []}
+name: {full: Sar of Chelkuz, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gaeffelofthola
-name: {full: Gaeffel of Thola, title: "", given: Gaeffel, clan: Thola, aliases: []}
+name: {full: Gaeffel of Thola, aliases: []}
 type: being
 tags: [character]
 data:

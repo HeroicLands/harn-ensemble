@@ -1,6 +1,6 @@
 ---
 shortcode: kelenofneris
-name: {full: Kelen of Neris, title: "", given: Kelen, clan: Neris, aliases: []}
+name: {full: Kelen of Neris, aliases: []}
 type: being
 tags: [character]
 data:

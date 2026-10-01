@@ -1,6 +1,6 @@
 ---
 shortcode: geacelshinofkar
-name: {full: Geacelshin of Kar, title: "", given: Geacelshin, clan: Kar, aliases: []}
+name: {full: Geacelshin of Kar, aliases: []}
 type: being
 tags: [character]
 data:

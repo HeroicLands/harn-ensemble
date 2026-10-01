@@ -1,6 +1,6 @@
 ---
 shortcode: kirlinofiaradas
-name: {full: Kirlin of Iaradas, title: "", given: Kirlin, clan: Iaradas, aliases: []}
+name: {full: Kirlin of Iaradas, aliases: []}
 type: being
 tags: [character]
 data:

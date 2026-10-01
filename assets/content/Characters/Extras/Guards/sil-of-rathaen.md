@@ -1,6 +1,6 @@
 ---
 shortcode: silofrathaen
-name: {full: Sil of Rathaen, title: "", given: Sil, clan: Rathaen, aliases: []}
+name: {full: Sil of Rathaen, aliases: []}
 type: being
 tags: [character]
 data:

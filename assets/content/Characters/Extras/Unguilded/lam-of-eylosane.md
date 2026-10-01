@@ -1,6 +1,6 @@
 ---
 shortcode: lamofeylosane
-name: {full: Lam of Eylosane, title: "", given: Lam, clan: Eylosane, aliases: []}
+name: {full: Lam of Eylosane, aliases: []}
 type: being
 tags: [character]
 data:

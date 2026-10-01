@@ -1,6 +1,6 @@
 ---
 shortcode: gwenienofmarn
-name: {full: Gwenien of Marn, title: "", given: Gwenien, clan: Marn, aliases: []}
+name: {full: Gwenien of Marn, aliases: []}
 type: being
 tags: [character]
 data:

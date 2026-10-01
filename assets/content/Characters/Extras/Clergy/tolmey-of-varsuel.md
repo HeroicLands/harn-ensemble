@@ -1,6 +1,6 @@
 ---
 shortcode: tolmeyofvarsuel
-name: {full: Tolmey of Varsuel, title: "", given: Tolmey, clan: Varsuel, aliases: []}
+name: {full: Tolmey of Varsuel, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: marofchus
-name: {full: Mar of Chus, title: "", given: Mar, clan: Chus, aliases: []}
+name: {full: Mar of Chus, aliases: []}
 type: being
 tags: [character]
 data:

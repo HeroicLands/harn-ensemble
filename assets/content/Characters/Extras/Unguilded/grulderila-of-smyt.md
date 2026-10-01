@@ -1,6 +1,6 @@
 ---
 shortcode: grulderilaofsmyt
-name: {full: Grulderila of Smyt, title: "", given: Grulderila, clan: Smyt, aliases: []}
+name: {full: Grulderila of Smyt, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: hadyntrildsen
-name: {full: Hadyn Trildsen, title: "", given: Hadyn, clan: Trildsen, aliases: []}
+name: {full: Hadyn Trildsen, aliases: []}
 type: being
 tags: [character]
 data:

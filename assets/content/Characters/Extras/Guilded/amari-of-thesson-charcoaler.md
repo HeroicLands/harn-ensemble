@@ -1,6 +1,6 @@
 ---
 shortcode: amarithesson
-name: {full: Amari of Thesson, title: "", given: Amari, clan: Thesson, aliases: []}
+name: {full: Amari of Thesson, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gwenaofvarsuel
-name: {full: Gwena of Varsuel, title: "", given: Gwena, clan: Varsuel, aliases: []}
+name: {full: Gwena of Varsuel, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: maeloftobilon
-name: {full: Mael of Tobilon, title: "", given: Mael, clan: Tobilon, aliases: []}
+name: {full: Mael of Tobilon, aliases: []}
 type: being
 tags: [character]
 data:

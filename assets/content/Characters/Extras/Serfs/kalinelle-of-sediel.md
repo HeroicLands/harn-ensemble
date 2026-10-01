@@ -1,6 +1,6 @@
 ---
 shortcode: kalinelleofsediel
-name: {full: Kalinelle of Sediel, title: "", given: Kalinelle, clan: Sediel, aliases: []}
+name: {full: Kalinelle of Sediel, aliases: []}
 type: being
 tags: [character]
 data:

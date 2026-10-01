@@ -1,6 +1,6 @@
 ---
 shortcode: zabianofharanchin
-name: {full: Zabian of Haranchin, title: "", given: Zabian, clan: Haranchin, aliases: []}
+name: {full: Zabian of Haranchin, aliases: []}
 type: being
 tags: [character]
 data:

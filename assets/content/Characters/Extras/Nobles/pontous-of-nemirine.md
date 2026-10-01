@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofnemirine
-name: {full: Pontous of Nemirine, title: "", given: Pontous, clan: Nemirine, aliases: []}
+name: {full: Pontous of Nemirine, aliases: []}
 type: being
 tags: [character]
 data:

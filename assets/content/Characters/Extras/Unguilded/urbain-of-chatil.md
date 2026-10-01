@@ -1,6 +1,6 @@
 ---
 shortcode: urbainofchatil
-name: {full: Urbain of Chatil, title: "", given: Urbain, clan: Chatil, aliases: []}
+name: {full: Urbain of Chatil, aliases: []}
 type: being
 tags: [character]
 data:

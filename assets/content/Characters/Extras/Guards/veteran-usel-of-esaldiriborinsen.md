@@ -1,11 +1,6 @@
 ---
 shortcode: veteranuselofesaldiriborinsen
-name:
-  full: Veteran Usel of Esaldiriborinsen
-  title: Veteran
-  given: Usel
-  clan: Esaldiriborinsen
-  aliases: []
+name: {full: Veteran Usel of Esaldiriborinsen, aliases: []}
 type: being
 tags: [character]
 data:

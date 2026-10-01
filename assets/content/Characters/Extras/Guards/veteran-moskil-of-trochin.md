@@ -1,6 +1,6 @@
 ---
 shortcode: veteranmoskiloftrochin
-name: {full: Veteran Moskil of Trochin, title: Veteran, given: Moskil, clan: Trochin, aliases: []}
+name: {full: Veteran Moskil of Trochin, aliases: []}
 type: being
 tags: [character]
 data:

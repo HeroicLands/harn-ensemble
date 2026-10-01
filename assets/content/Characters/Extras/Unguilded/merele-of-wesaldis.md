@@ -1,6 +1,6 @@
 ---
 shortcode: mereleofwesaldis
-name: {full: Merele of Wesaldis, title: "", given: Merele, clan: Wesaldis, aliases: []}
+name: {full: Merele of Wesaldis, aliases: []}
 type: being
 tags: [character]
 data:

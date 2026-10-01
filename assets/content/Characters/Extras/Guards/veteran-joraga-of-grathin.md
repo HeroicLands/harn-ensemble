@@ -1,6 +1,6 @@
 ---
 shortcode: veteranjoragaofgrathin
-name: {full: Veteran Joraga of Grathin, title: Veteran, given: Joraga, clan: Grathin, aliases: []}
+name: {full: Veteran Joraga of Grathin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: cersyneofnaras
-name: {full: Cersyne of Naras, title: "", given: Cersyne, clan: Naras, aliases: []}
+name: {full: Cersyne of Naras, aliases: []}
 type: being
 tags: [character]
 data:

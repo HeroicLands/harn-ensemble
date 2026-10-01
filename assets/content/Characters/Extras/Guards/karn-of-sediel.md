@@ -1,6 +1,6 @@
 ---
 shortcode: karnofsediel
-name: {full: Karn of Sediel, title: "", given: Karn, clan: Sediel, aliases: []}
+name: {full: Karn of Sediel, aliases: []}
 type: being
 tags: [character]
 data:

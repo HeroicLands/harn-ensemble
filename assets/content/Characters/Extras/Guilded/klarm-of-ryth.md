@@ -1,6 +1,6 @@
 ---
 shortcode: klarmofryth
-name: {full: Klarm of Ryth, title: "", given: Klarm, clan: Ryth, aliases: []}
+name: {full: Klarm of Ryth, aliases: []}
 type: being
 tags: [character]
 data:

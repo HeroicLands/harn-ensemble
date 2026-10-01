@@ -1,6 +1,6 @@
 ---
 shortcode: ardethaiofmerlesque
-name: {full: Ardethai of Merlesque, title: "", given: Ardethai, clan: Merlesque, aliases: []}
+name: {full: Ardethai of Merlesque, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: sirarmandofgimon
-name: {full: Sir Armand of Gimon, title: Sir, given: Armand, clan: Gimon, aliases: []}
+name: {full: Sir Armand of Gimon, aliases: []}
 type: being
 tags: [character]
 data:

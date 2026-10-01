@@ -1,6 +1,6 @@
 ---
 shortcode: josrathbarainofbel
-name: {full: Josrathbarain of Bel, title: "", given: Josrathbarain, clan: Bel, aliases: []}
+name: {full: Josrathbarain of Bel, aliases: []}
 type: being
 tags: [character]
 data:

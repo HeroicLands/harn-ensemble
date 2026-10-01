@@ -1,6 +1,6 @@
 ---
 shortcode: andofyalesh
-name: {full: And of Yalesh, title: "", given: And, clan: Yalesh, aliases: []}
+name: {full: And of Yalesh, aliases: []}
 type: being
 tags: [character]
 data:

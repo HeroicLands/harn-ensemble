@@ -1,6 +1,6 @@
 ---
 shortcode: uselofarthen
-name: {full: Usel of Arthen, title: "", given: Usel, clan: Arthen, aliases: []}
+name: {full: Usel of Arthen, aliases: []}
 type: being
 tags: [character]
 data:

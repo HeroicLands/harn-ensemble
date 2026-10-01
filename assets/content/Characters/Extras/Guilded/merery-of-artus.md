@@ -1,6 +1,6 @@
 ---
 shortcode: mereryofartus
-name: {full: Merery of Artus, title: "", given: Merery, clan: Artus, aliases: []}
+name: {full: Merery of Artus, aliases: []}
 type: being
 tags: [character]
 data:

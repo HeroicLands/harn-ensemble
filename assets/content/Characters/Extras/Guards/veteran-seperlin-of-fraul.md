@@ -1,6 +1,6 @@
 ---
 shortcode: veteranseperlinoffraul
-name: {full: Veteran Seperlin of Fraul, title: Veteran, given: Seperlin, clan: Fraul, aliases: []}
+name: {full: Veteran Seperlin of Fraul, aliases: []}
 type: being
 tags: [character]
 data:

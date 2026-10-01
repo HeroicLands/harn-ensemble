@@ -1,6 +1,6 @@
 ---
 shortcode: shaelineofmatlim
-name: {full: Shaeline of Matlim, title: "", given: Shaeline, clan: Matlim, aliases: []}
+name: {full: Shaeline of Matlim, aliases: []}
 type: being
 tags: [character]
 data:

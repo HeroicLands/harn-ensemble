@@ -1,6 +1,6 @@
 ---
 shortcode: neridolofkai
-name: {full: Neridol of Kai, title: "", given: Neridol, clan: Kai, aliases: []}
+name: {full: Neridol of Kai, aliases: []}
 type: being
 tags: [character]
 data:

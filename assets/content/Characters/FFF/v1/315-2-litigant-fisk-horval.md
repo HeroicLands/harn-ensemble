@@ -1,6 +1,6 @@
 ---
 shortcode: fiskhorval
-name: {full: Fisk Horval, title: "", given: Fisk, clan: Horval, aliases: []}
+name: {full: Fisk Horval, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranlernofbarsuel
-name: {full: Veteran Lern of Barsuel, title: Veteran, given: Lern, clan: Barsuel, aliases: []}
+name: {full: Veteran Lern of Barsuel, aliases: []}
 type: being
 tags: [character]
 data:

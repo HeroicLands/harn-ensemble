@@ -1,6 +1,6 @@
 ---
 shortcode: belsinofkai
-name: {full: Belsin of Kai, title: "", given: Belsin, clan: Kai, aliases: []}
+name: {full: Belsin of Kai, aliases: []}
 type: being
 tags: [character]
 data:

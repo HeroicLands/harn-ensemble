@@ -1,6 +1,6 @@
 ---
 shortcode: lernoftabral
-name: {full: Lern of Tabral, title: "", given: Lern, clan: Tabral, aliases: []}
+name: {full: Lern of Tabral, aliases: []}
 type: being
 tags: [character]
 data:

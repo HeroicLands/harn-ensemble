@@ -1,6 +1,6 @@
 ---
 shortcode: yelisaofplacka
-name: {full: Yelisa of Placka, title: "", given: Yelisa, clan: Placka, aliases: []}
+name: {full: Yelisa of Placka, aliases: []}
 type: being
 tags: [character]
 data:

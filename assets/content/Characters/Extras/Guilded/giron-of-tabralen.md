@@ -1,6 +1,6 @@
 ---
 shortcode: gironoftabralen
-name: {full: Giron of Tabralen, title: "", given: Giron, clan: Tabralen, aliases: []}
+name: {full: Giron of Tabralen, aliases: []}
 type: being
 tags: [character]
 data:

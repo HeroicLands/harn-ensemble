@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaofstuk
-name: {full: Sylvia of Stuk, title: "", given: Sylvia, clan: Stuk, aliases: []}
+name: {full: Sylvia of Stuk, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: ewenaofkapire
-name: {full: Ewena of Kapire, title: "", given: Ewena, clan: Kapire, aliases: []}
+name: {full: Ewena of Kapire, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: borinofthelsen
-name: {full: Borin of Thelsen, title: "", given: Borin, clan: Thelsen, aliases: []}
+name: {full: Borin of Thelsen, aliases: []}
 type: being
 tags: [character]
 data:

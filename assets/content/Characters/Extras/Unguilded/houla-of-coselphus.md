@@ -1,6 +1,6 @@
 ---
 shortcode: houlaofcoselphus
-name: {full: Houla of Coselphus, title: "", given: Houla, clan: Coselphus, aliases: []}
+name: {full: Houla of Coselphus, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: saryseofvarass
-name: {full: Saryse of Varass, title: "", given: Saryse, clan: Varass, aliases: []}
+name: {full: Saryse of Varass, aliases: []}
 type: being
 tags: [character]
 data:

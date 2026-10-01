@@ -1,6 +1,6 @@
 ---
 shortcode: rasoflaplaemen
-name: {full: Ras of Laplaemen, title: "", given: Ras, clan: Laplaemen, aliases: []}
+name: {full: Ras of Laplaemen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofonparin
-name: {full: Segina of Onparin, title: "", given: Segina, clan: Onparin, aliases: []}
+name: {full: Segina of Onparin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: hjotrasokkol
-name: {full: Hjotra Sokkol, title: "", given: Hjotra, clan: Sokkol, aliases: []}
+name: {full: Hjotra Sokkol, aliases: []}
 type: being
 tags: [character]
 data:

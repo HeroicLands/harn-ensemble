@@ -1,6 +1,6 @@
 ---
 shortcode: evenodelaredofdebernic
-name: {full: Evenodelared of Debernic, title: "", given: Evenodelared, clan: Debernic, aliases: []}
+name: {full: Evenodelared of Debernic, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: vaberofnemiribe
-name: {full: Vaber of Nemiribe, title: "", given: Vaber, clan: Nemiribe, aliases: []}
+name: {full: Vaber of Nemiribe, aliases: []}
 type: being
 tags: [character]
 data:

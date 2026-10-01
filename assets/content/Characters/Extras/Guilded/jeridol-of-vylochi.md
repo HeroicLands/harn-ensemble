@@ -1,6 +1,6 @@
 ---
 shortcode: jeridolofvylochi
-name: {full: Jeridol of Vylochi, title: "", given: Jeridol, clan: Vylochi, aliases: []}
+name: {full: Jeridol of Vylochi, aliases: []}
 type: being
 tags: [character]
 data:

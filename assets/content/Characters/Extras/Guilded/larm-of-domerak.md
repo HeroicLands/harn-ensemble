@@ -1,6 +1,6 @@
 ---
 shortcode: larmofdomerak
-name: {full: Larm of Domerak, title: "", given: Larm, clan: Domerak, aliases: []}
+name: {full: Larm of Domerak, aliases: []}
 type: being
 tags: [character]
 data:

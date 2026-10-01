@@ -1,6 +1,6 @@
 ---
 shortcode: makanofbetts
-name: {full: Makan of Betts, title: "", given: Makan, clan: Betts, aliases: []}
+name: {full: Makan of Betts, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: maccusoftixena
-name: {full: Maccus of Tixena, title: "", given: Maccus, clan: Tixena, aliases: []}
+name: {full: Maccus of Tixena, aliases: []}
 type: being
 tags: [character]
 data:

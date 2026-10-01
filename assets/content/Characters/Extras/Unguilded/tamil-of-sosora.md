@@ -1,6 +1,6 @@
 ---
 shortcode: tamilofsosora
-name: {full: Tamil of Sosora, title: "", given: Tamil, clan: Sosora, aliases: []}
+name: {full: Tamil of Sosora, aliases: []}
 type: being
 tags: [character]
 data:

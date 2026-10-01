@@ -1,6 +1,6 @@
 ---
 shortcode: dirofvantarstelbardin
-name: {full: Dir of Vantarstelbardin, title: "", given: Dir, clan: Vantarstelbardin, aliases: []}
+name: {full: Dir of Vantarstelbardin, aliases: []}
 type: being
 tags: [character]
 data:

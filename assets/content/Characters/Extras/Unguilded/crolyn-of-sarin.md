@@ -1,6 +1,6 @@
 ---
 shortcode: crolynofsarin
-name: {full: Crolyn of Sarin, title: "", given: Crolyn, clan: Sarin, aliases: []}
+name: {full: Crolyn of Sarin, aliases: []}
 type: being
 tags: [character]
 data:

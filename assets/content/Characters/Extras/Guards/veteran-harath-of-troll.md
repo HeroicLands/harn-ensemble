@@ -1,6 +1,6 @@
 ---
 shortcode: veteranharathoftroll
-name: {full: Veteran Harath of Troll, title: Veteran, given: Harath, clan: Troll, aliases: []}
+name: {full: Veteran Harath of Troll, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: brancofamdiror
-name: {full: Branc of Amdiror, title: "", given: Branc, clan: Amdiror, aliases: []}
+name: {full: Branc of Amdiror, aliases: []}
 type: being
 tags: [character]
 data:

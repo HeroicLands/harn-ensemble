@@ -1,6 +1,6 @@
 ---
 shortcode: pinka
-name: {full: Pinka, title: "", given: Pinka, clan: "", aliases: []}
+name: {full: Pinka, aliases: []}
 type: being
 tags: [character]
 data:

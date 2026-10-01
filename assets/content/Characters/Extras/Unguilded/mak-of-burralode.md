@@ -1,6 +1,6 @@
 ---
 shortcode: makofburralode
-name: {full: Mak of Burralode, title: "", given: Mak, clan: Burralode, aliases: []}
+name: {full: Mak of Burralode, aliases: []}
 type: being
 tags: [character]
 data:

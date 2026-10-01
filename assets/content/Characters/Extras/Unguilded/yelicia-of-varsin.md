@@ -1,6 +1,6 @@
 ---
 shortcode: yeliciaofvarsin
-name: {full: Yelicia of Varsin, title: "", given: Yelicia, clan: Varsin, aliases: []}
+name: {full: Yelicia of Varsin, aliases: []}
 type: being
 tags: [character]
 data:

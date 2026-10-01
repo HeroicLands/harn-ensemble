@@ -1,6 +1,6 @@
 ---
 shortcode: mereneofkarine
-name: {full: Merene of Karine, title: "", given: Merene, clan: Karine, aliases: []}
+name: {full: Merene of Karine, aliases: []}
 type: being
 tags: [character]
 data:

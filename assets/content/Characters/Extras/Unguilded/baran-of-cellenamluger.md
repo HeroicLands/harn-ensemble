@@ -1,6 +1,6 @@
 ---
 shortcode: baranofcellenamluger
-name: {full: Baran of Cellenamluger, title: "", given: Baran, clan: Cellenamluger, aliases: []}
+name: {full: Baran of Cellenamluger, aliases: []}
 type: being
 tags: [character]
 data:

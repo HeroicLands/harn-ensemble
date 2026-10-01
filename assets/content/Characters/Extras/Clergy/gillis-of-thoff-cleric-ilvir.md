@@ -1,6 +1,6 @@
 ---
 shortcode: gillisthoff
-name: {full: Gillis of Thoff, title: "", given: Gillis, clan: Thoff, aliases: []}
+name: {full: Gillis of Thoff, aliases: []}
 type: being
 tags: [character]
 data:

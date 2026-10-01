@@ -1,6 +1,6 @@
 ---
 shortcode: gavinofwem
-name: {full: Gavin of Wem, title: "", given: Gavin, clan: Wem, aliases: []}
+name: {full: Gavin of Wem, aliases: []}
 type: being
 tags: [character]
 data:

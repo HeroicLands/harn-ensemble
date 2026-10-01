@@ -1,6 +1,6 @@
 ---
 shortcode: lasereleofhardras
-name: {full: Laserele of Hardras, title: "", given: Laserele, clan: Hardras, aliases: []}
+name: {full: Laserele of Hardras, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,11 +1,6 @@
 ---
 shortcode: amdirveregofenamarthedherenamlugnarumuiben
-name:
-  full: Amdirvereg of Enamarthedherenamlugnarumuiben
-  title: ""
-  given: Amdirvereg
-  clan: Enamarthedherenamlugnarumuiben
-  aliases: []
+name: {full: Amdirvereg of Enamarthedherenamlugnarumuiben, aliases: []}
 type: being
 tags: [character]
 data:

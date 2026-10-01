@@ -1,6 +1,6 @@
 ---
 shortcode: varbinofbor
-name: {full: Varbin of Bor, title: "", given: Varbin, clan: Bor, aliases: []}
+name: {full: Varbin of Bor, aliases: []}
 type: being
 tags: [character]
 data:

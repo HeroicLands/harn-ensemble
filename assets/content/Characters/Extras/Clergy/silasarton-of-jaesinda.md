@@ -1,6 +1,6 @@
 ---
 shortcode: silasartonofjaesinda
-name: {full: Silasarton of Jaesinda, title: "", given: Silasarton, clan: Jaesinda, aliases: []}
+name: {full: Silasarton of Jaesinda, aliases: []}
 type: being
 tags: [character]
 data:

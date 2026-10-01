@@ -1,6 +1,6 @@
 ---
 shortcode: barienofewel
-name: {full: Barien of Ewel, title: "", given: Barien, clan: Ewel, aliases: []}
+name: {full: Barien of Ewel, aliases: []}
 type: being
 tags: [character]
 data:

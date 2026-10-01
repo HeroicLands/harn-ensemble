@@ -1,6 +1,6 @@
 ---
 shortcode: chaklyneoflebarsin
-name: {full: Chaklyne of Lebarsin, title: "", given: Chaklyne, clan: Lebarsin, aliases: []}
+name: {full: Chaklyne of Lebarsin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: silinaoftal
-name: {full: Silina of Tal, title: "", given: Silina, clan: Tal, aliases: []}
+name: {full: Silina of Tal, aliases: []}
 type: being
 tags: [character]
 data:

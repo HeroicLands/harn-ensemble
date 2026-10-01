@@ -1,6 +1,6 @@
 ---
 shortcode: embrantofyale
-name: {full: Embrant of Yale, title: "", given: Embrant, clan: Yale, aliases: []}
+name: {full: Embrant of Yale, aliases: []}
 type: being
 tags: [character]
 data:

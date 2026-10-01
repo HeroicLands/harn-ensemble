@@ -1,6 +1,6 @@
 ---
 shortcode: yaeliciaofekai
-name: {full: Yaelicia of Ekai, title: "", given: Yaelicia, clan: Ekai, aliases: []}
+name: {full: Yaelicia of Ekai, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: boraneofquarliss
-name: {full: Borane of Quarliss, title: "", given: Borane, clan: Quarliss, aliases: []}
+name: {full: Borane of Quarliss, aliases: []}
 type: being
 tags: [character]
 data:

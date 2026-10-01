@@ -1,6 +1,6 @@
 ---
 shortcode: jessthiasofparion
-name: {full: Jessthias of Parion, title: "", given: Jessthias, clan: Parion, aliases: []}
+name: {full: Jessthias of Parion, aliases: []}
 type: being
 tags: [character]
 data:

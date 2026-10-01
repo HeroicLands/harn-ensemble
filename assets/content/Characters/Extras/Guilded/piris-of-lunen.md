@@ -1,6 +1,6 @@
 ---
 shortcode: pirisoflunen
-name: {full: Piris of Lunen, title: "", given: Piris, clan: Lunen, aliases: []}
+name: {full: Piris of Lunen, aliases: []}
 type: being
 tags: [character]
 data:

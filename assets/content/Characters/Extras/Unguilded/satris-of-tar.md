@@ -1,6 +1,6 @@
 ---
 shortcode: satrisoftar
-name: {full: Satris of Tar, title: "", given: Satris, clan: Tar, aliases: []}
+name: {full: Satris of Tar, aliases: []}
 type: being
 tags: [character]
 data:

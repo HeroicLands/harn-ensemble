@@ -1,6 +1,6 @@
 ---
 shortcode: borsofhalle
-name: {full: Bors of Halle, title: "", given: Bors, clan: Halle, aliases: []}
+name: {full: Bors of Halle, aliases: []}
 type: being
 tags: [character]
 data:

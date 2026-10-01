@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofkantarkoff
-name: {full: Kaidia of Kantarkoff, title: "", given: Kaidia, clan: Kantarkoff, aliases: []}
+name: {full: Kaidia of Kantarkoff, aliases: []}
 type: being
 tags: [character]
 data:

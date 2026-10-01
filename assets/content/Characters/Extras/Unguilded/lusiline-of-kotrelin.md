@@ -1,6 +1,6 @@
 ---
 shortcode: lusilineofkotrelin
-name: {full: Lusiline of Kotrelin, title: "", given: Lusiline, clan: Kotrelin, aliases: []}
+name: {full: Lusiline of Kotrelin, aliases: []}
 type: being
 tags: [character]
 data:

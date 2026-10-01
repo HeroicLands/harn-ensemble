@@ -1,6 +1,6 @@
 ---
 shortcode: orenofkestel
-name: {full: Oren of Kestel, title: "", given: Oren, clan: Kestel, aliases: []}
+name: {full: Oren of Kestel, aliases: []}
 type: being
 tags: [character]
 data:

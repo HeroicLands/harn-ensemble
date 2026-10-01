@@ -1,6 +1,6 @@
 ---
 shortcode: angolofgurmal
-name: {full: Angol of Gurmal, title: "", given: Angol, clan: Gurmal, aliases: []}
+name: {full: Angol of Gurmal, aliases: []}
 type: being
 tags: [character]
 data:

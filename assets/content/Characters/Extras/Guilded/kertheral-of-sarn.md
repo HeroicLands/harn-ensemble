@@ -1,6 +1,6 @@
 ---
 shortcode: kertheralofsarn
-name: {full: Kertheral of Sarn, title: "", given: Kertheral, clan: Sarn, aliases: []}
+name: {full: Kertheral of Sarn, aliases: []}
 type: being
 tags: [character]
 data:

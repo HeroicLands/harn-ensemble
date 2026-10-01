@@ -1,6 +1,6 @@
 ---
 shortcode: erechofamafa
-name: {full: Erech of Amafa, title: "", given: Erech, clan: Amafa, aliases: []}
+name: {full: Erech of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: balisofjiml
-name: {full: Balis of Jiml, title: "", given: Balis, clan: Jiml, aliases: []}
+name: {full: Balis of Jiml, aliases: []}
 type: being
 tags: [character]
 data:

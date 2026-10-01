@@ -1,6 +1,6 @@
 ---
 shortcode: charlamnarofguina
-name: {full: Charlamnar of Guina, title: "", given: Charlamnar, clan: Guina, aliases: []}
+name: {full: Charlamnar of Guina, aliases: []}
 type: being
 tags: [character]
 data:

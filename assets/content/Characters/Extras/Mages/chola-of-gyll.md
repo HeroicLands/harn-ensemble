@@ -1,6 +1,6 @@
 ---
 shortcode: cholaofgyll
-name: {full: Chola of Gyll, title: "", given: Chola, clan: Gyll, aliases: []}
+name: {full: Chola of Gyll, aliases: []}
 type: being
 tags: [character]
 data:

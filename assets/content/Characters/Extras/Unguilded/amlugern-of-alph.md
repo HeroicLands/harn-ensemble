@@ -1,6 +1,6 @@
 ---
 shortcode: amlugernofalph
-name: {full: Amlugern of Alph, title: "", given: Amlugern, clan: Alph, aliases: []}
+name: {full: Amlugern of Alph, aliases: []}
 type: being
 tags: [character]
 data:

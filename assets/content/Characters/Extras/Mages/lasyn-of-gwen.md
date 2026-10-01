@@ -1,6 +1,6 @@
 ---
 shortcode: lasynofgwen
-name: {full: Lasyn of Gwen, title: "", given: Lasyn, clan: Gwen, aliases: []}
+name: {full: Lasyn of Gwen, aliases: []}
 type: being
 tags: [character]
 data:

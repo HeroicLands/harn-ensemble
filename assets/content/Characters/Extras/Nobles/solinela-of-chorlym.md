@@ -1,6 +1,6 @@
 ---
 shortcode: solinelaofchorlym
-name: {full: Solinela of Chorlym, title: "", given: Solinela, clan: Chorlym, aliases: []}
+name: {full: Solinela of Chorlym, aliases: []}
 type: being
 tags: [character]
 data:

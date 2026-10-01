@@ -1,6 +1,6 @@
 ---
 shortcode: moskilofparion
-name: {full: Moskil of Parion, title: "", given: Moskil, clan: Parion, aliases: []}
+name: {full: Moskil of Parion, aliases: []}
 type: being
 tags: [character]
 data:

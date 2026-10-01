@@ -1,6 +1,6 @@
 ---
 shortcode: eraloffulkne
-name: {full: Eral of Fulkne, title: "", given: Eral, clan: Fulkne, aliases: []}
+name: {full: Eral of Fulkne, aliases: []}
 type: being
 tags: [character]
 data:

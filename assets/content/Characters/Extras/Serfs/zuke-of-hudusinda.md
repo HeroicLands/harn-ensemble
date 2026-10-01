@@ -1,6 +1,6 @@
 ---
 shortcode: zukeofhudusinda
-name: {full: Zuke of Hudusinda, title: "", given: Zuke, clan: Hudusinda, aliases: []}
+name: {full: Zuke of Hudusinda, aliases: []}
 type: being
 tags: [character]
 data:

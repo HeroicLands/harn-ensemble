@@ -1,6 +1,6 @@
 ---
 shortcode: dirofjorwynn
-name: {full: Dir of Jorwynn, title: "", given: Dir, clan: Jorwynn, aliases: []}
+name: {full: Dir of Jorwynn, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranjakrowofmerbeda
-name: {full: Veteran Jakrow of Merbeda, title: Veteran, given: Jakrow, clan: Merbeda, aliases: []}
+name: {full: Veteran Jakrow of Merbeda, aliases: []}
 type: being
 tags: [character]
 data:

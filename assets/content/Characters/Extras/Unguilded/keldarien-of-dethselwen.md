@@ -1,6 +1,6 @@
 ---
 shortcode: keldarienofdethselwen
-name: {full: Keldarien of Dethselwen, title: "", given: Keldarien, clan: Dethselwen, aliases: []}
+name: {full: Keldarien of Dethselwen, aliases: []}
 type: being
 tags: [character]
 data:

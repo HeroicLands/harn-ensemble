@@ -1,6 +1,6 @@
 ---
 shortcode: yelindeoftobira
-name: {full: Yelinde of Tobira, title: "", given: Yelinde, clan: Tobira, aliases: []}
+name: {full: Yelinde of Tobira, aliases: []}
 type: being
 tags: [character]
 data:

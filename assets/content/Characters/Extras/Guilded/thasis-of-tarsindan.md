@@ -1,6 +1,6 @@
 ---
 shortcode: thasisoftarsindan
-name: {full: Thasis of Tarsindan, title: "", given: Thasis, clan: Tarsindan, aliases: []}
+name: {full: Thasis of Tarsindan, aliases: []}
 type: being
 tags: [character]
 data:

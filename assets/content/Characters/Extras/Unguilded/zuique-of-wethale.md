@@ -1,6 +1,6 @@
 ---
 shortcode: zuiqueofwethale
-name: {full: Zuique of Wethale, title: "", given: Zuique, clan: Wethale, aliases: []}
+name: {full: Zuique of Wethale, aliases: []}
 type: being
 tags: [character]
 data:

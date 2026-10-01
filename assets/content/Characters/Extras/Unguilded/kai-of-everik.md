@@ -1,6 +1,6 @@
 ---
 shortcode: kaiofeverik
-name: {full: Kai of Everik, title: "", given: Kai, clan: Everik, aliases: []}
+name: {full: Kai of Everik, aliases: []}
 type: being
 tags: [character]
 data:

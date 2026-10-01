@@ -1,6 +1,6 @@
 ---
 shortcode: arwalinofrogila
-name: {full: Arwalin of Rogila, title: "", given: Arwalin, clan: Rogila, aliases: []}
+name: {full: Arwalin of Rogila, aliases: []}
 type: being
 tags: [character]
 data:

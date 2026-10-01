@@ -1,6 +1,6 @@
 ---
 shortcode: ewenienofamafa
-name: {full: Ewenien of Amafa, title: "", given: Ewenien, clan: Amafa, aliases: []}
+name: {full: Ewenien of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

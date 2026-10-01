@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofaras
-name: {full: Tulah of Aras, title: "", given: Tulah, clan: Aras, aliases: []}
+name: {full: Tulah of Aras, aliases: []}
 type: being
 tags: [character]
 data:

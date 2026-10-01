@@ -1,6 +1,6 @@
 ---
 shortcode: merelynofdyselsen
-name: {full: Merelyn of Dyselsen, title: "", given: Merelyn, clan: Dyselsen, aliases: []}
+name: {full: Merelyn of Dyselsen, aliases: []}
 type: being
 tags: [character]
 data:

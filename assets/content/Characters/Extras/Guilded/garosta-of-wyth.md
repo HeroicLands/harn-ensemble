@@ -1,6 +1,6 @@
 ---
 shortcode: garostaofwyth
-name: {full: Garosta of Wyth, title: "", given: Garosta, clan: Wyth, aliases: []}
+name: {full: Garosta of Wyth, aliases: []}
 type: being
 tags: [character]
 data:

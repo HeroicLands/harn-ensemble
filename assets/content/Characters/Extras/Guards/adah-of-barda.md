@@ -1,6 +1,6 @@
 ---
 shortcode: adahofbarda
-name: {full: Adah of Barda, title: "", given: Adah, clan: Barda, aliases: []}
+name: {full: Adah of Barda, aliases: []}
 type: being
 tags: [character]
 data:

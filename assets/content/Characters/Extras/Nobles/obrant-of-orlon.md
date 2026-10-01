@@ -1,6 +1,6 @@
 ---
 shortcode: obrantoforlon
-name: {full: Obrant of Orlon, title: "", given: Obrant, clan: Orlon, aliases: []}
+name: {full: Obrant of Orlon, aliases: []}
 type: being
 tags: [character]
 data:

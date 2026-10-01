@@ -1,6 +1,6 @@
 ---
 shortcode: tabifaofpayensen
-name: {full: Tabifa of Payensen, title: "", given: Tabifa, clan: Payensen, aliases: []}
+name: {full: Tabifa of Payensen, aliases: []}
 type: being
 tags: [character]
 data:

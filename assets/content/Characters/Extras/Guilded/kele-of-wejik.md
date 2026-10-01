@@ -1,6 +1,6 @@
 ---
 shortcode: keleofwejik
-name: {full: Kele of Wejik, title: "", given: Kele, clan: Wejik, aliases: []}
+name: {full: Kele of Wejik, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gwelenaofkapire
-name: {full: Gwelena of Kapire, title: "", given: Gwelena, clan: Kapire, aliases: []}
+name: {full: Gwelena of Kapire, aliases: []}
 type: being
 tags: [character]
 data:

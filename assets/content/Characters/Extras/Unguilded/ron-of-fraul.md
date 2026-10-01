@@ -1,6 +1,6 @@
 ---
 shortcode: ronoffraul
-name: {full: Ron of Fraul, title: "", given: Ron, clan: Fraul, aliases: []}
+name: {full: Ron of Fraul, aliases: []}
 type: being
 tags: [character]
 data:

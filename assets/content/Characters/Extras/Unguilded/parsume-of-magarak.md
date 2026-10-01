@@ -1,6 +1,6 @@
 ---
 shortcode: parsumeofmagarak
-name: {full: Parsume of Magarak, title: "", given: Parsume, clan: Magarak, aliases: []}
+name: {full: Parsume of Magarak, aliases: []}
 type: being
 tags: [character]
 data:

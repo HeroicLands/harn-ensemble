@@ -1,6 +1,6 @@
 ---
 shortcode: norbinofasain
-name: {full: Norbin of Asain, title: "", given: Norbin, clan: Asain, aliases: []}
+name: {full: Norbin of Asain, aliases: []}
 type: being
 tags: [character]
 data:

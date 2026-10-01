@@ -1,6 +1,6 @@
 ---
 shortcode: gaetaneofguinda
-name: {full: Gaetane of Guinda, title: "", given: Gaetane, clan: Guinda, aliases: []}
+name: {full: Gaetane of Guinda, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: ralofweth
-name: {full: Ral of Weth, title: "", given: Ral, clan: Weth, aliases: []}
+name: {full: Ral of Weth, aliases: []}
 type: being
 tags: [character]
 data:

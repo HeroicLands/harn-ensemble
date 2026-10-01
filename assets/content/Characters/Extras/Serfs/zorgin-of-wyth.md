@@ -1,6 +1,6 @@
 ---
 shortcode: zorginofwyth
-name: {full: Zorgin of Wyth, title: "", given: Zorgin, clan: Wyth, aliases: []}
+name: {full: Zorgin of Wyth, aliases: []}
 type: being
 tags: [character]
 data:

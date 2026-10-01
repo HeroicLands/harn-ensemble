@@ -1,6 +1,6 @@
 ---
 shortcode: belofhilrich
-name: {full: Bel of Hilrich, title: "", given: Bel, clan: Hilrich, aliases: []}
+name: {full: Bel of Hilrich, aliases: []}
 type: being
 tags: [character]
 data:

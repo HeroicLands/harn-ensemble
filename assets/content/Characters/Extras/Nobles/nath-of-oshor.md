@@ -1,6 +1,6 @@
 ---
 shortcode: nathofoshor
-name: {full: Nath of Oshor, title: "", given: Nath, clan: Oshor, aliases: []}
+name: {full: Nath of Oshor, aliases: []}
 type: being
 tags: [character]
 data:

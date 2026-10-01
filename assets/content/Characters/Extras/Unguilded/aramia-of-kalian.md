@@ -1,6 +1,6 @@
 ---
 shortcode: aramiaofkalian
-name: {full: Aramia of Kalian, title: "", given: Aramia, clan: Kalian, aliases: []}
+name: {full: Aramia of Kalian, aliases: []}
 type: being
 tags: [character]
 data:

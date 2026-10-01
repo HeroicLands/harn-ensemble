@@ -1,6 +1,6 @@
 ---
 shortcode: dickonofashel
-name: {full: Dickon of Ashel, title: "", given: Dickon, clan: Ashel, aliases: []}
+name: {full: Dickon of Ashel, aliases: []}
 type: being
 tags: [character]
 data:

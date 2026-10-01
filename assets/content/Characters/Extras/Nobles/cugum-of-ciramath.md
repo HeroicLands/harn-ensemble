@@ -1,6 +1,6 @@
 ---
 shortcode: cugumofciramath
-name: {full: Cugum of Ciramath, title: "", given: Cugum, clan: Ciramath, aliases: []}
+name: {full: Cugum of Ciramath, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: asharlathofeylosan
-name: {full: Asharlath of Eylosan, title: "", given: Asharlath, clan: Eylosan, aliases: []}
+name: {full: Asharlath of Eylosan, aliases: []}
 type: being
 tags: [character]
 data:

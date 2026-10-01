@@ -1,6 +1,6 @@
 ---
 shortcode: elderienofsiven
-name: {full: Elderien of Siven, title: "", given: Elderien, clan: Siven, aliases: []}
+name: {full: Elderien of Siven, aliases: []}
 type: being
 tags: [character]
 data:

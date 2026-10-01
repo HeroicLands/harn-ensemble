@@ -1,6 +1,6 @@
 ---
 shortcode: boridofchel
-name: {full: Borid of Chel, title: "", given: Borid, clan: Chel, aliases: []}
+name: {full: Borid of Chel, aliases: []}
 type: being
 tags: [character]
 data:

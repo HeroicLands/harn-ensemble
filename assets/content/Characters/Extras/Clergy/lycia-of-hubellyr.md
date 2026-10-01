@@ -1,6 +1,6 @@
 ---
 shortcode: lyciaofhubellyr
-name: {full: Lycia of Hubellyr, title: "", given: Lycia, clan: Hubellyr, aliases: []}
+name: {full: Lycia of Hubellyr, aliases: []}
 type: being
 tags: [character]
 data:

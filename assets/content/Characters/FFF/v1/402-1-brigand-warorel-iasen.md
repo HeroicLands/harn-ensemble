@@ -1,6 +1,6 @@
 ---
 shortcode: waroreliasen
-name: {full: Warorel Iasen, title: "", given: Warorel, clan: Iasen, aliases: []}
+name: {full: Warorel Iasen, aliases: []}
 type: being
 tags: [character]
 data:

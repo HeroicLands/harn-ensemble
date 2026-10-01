@@ -1,6 +1,6 @@
 ---
 shortcode: boranaofabira
-name: {full: Borana of Abira, title: "", given: Borana, clan: Abira, aliases: []}
+name: {full: Borana of Abira, aliases: []}
 type: being
 tags: [character]
 data:

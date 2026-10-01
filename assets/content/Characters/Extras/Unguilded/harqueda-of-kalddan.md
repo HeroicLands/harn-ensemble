@@ -1,6 +1,6 @@
 ---
 shortcode: harquedaofkalddan
-name: {full: Harqueda of Kalddan, title: "", given: Harqueda, clan: Kalddan, aliases: []}
+name: {full: Harqueda of Kalddan, aliases: []}
 type: being
 tags: [character]
 data:

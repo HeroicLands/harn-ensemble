@@ -1,6 +1,6 @@
 ---
 shortcode: harabithasisofopondel
-name: {full: Harabithasis of Opondel, title: "", given: Harabithasis, clan: Opondel, aliases: []}
+name: {full: Harabithasis of Opondel, aliases: []}
 type: being
 tags: [character]
 data:

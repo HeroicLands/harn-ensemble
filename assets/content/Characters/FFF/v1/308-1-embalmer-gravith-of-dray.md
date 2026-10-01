@@ -1,6 +1,6 @@
 ---
 shortcode: gravithofdray
-name: {full: Gravith of Dray, title: "", given: Gravith, clan: Dray, aliases: []}
+name: {full: Gravith of Dray, aliases: []}
 type: being
 tags: [character]
 data:

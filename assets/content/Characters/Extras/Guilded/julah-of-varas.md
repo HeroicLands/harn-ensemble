@@ -1,6 +1,6 @@
 ---
 shortcode: julahofvaras
-name: {full: Julah of Varas, title: "", given: Julah, clan: Varas, aliases: []}
+name: {full: Julah of Varas, aliases: []}
 type: being
 tags: [character]
 data:

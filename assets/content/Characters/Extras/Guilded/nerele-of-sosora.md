@@ -1,6 +1,6 @@
 ---
 shortcode: nereleofsosora
-name: {full: Nerele of Sosora, title: "", given: Nerele, clan: Sosora, aliases: []}
+name: {full: Nerele of Sosora, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: danishemlenofarad
-name: {full: Danishemlen of Arad, title: "", given: Danishemlen, clan: Arad, aliases: []}
+name: {full: Danishemlen of Arad, aliases: []}
 type: being
 tags: [character]
 data:

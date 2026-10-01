@@ -1,6 +1,6 @@
 ---
 shortcode: lasyneofguinasta
-name: {full: Lasyne of Guinasta, title: "", given: Lasyne, clan: Guinasta, aliases: []}
+name: {full: Lasyne of Guinasta, aliases: []}
 type: being
 tags: [character]
 data:

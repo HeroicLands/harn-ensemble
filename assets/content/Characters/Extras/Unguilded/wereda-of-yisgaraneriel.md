@@ -1,6 +1,6 @@
 ---
 shortcode: weredaofyisgaraneriel
-name: {full: Wereda of Yisgaraneriel, title: "", given: Wereda, clan: Yisgaraneriel, aliases: []}
+name: {full: Wereda of Yisgaraneriel, aliases: []}
 type: being
 tags: [character]
 data:

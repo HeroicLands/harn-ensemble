@@ -1,6 +1,6 @@
 ---
 shortcode: punatgenofkalir
-name: {full: Punatgen of Kalir, title: "", given: Punatgen, clan: Kalir, aliases: []}
+name: {full: Punatgen of Kalir, aliases: []}
 type: being
 tags: [character]
 data:

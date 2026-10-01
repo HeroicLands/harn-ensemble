@@ -1,6 +1,6 @@
 ---
 shortcode: aramiaofdythsel
-name: {full: Aramia of Dythsel, title: "", given: Aramia, clan: Dythsel, aliases: []}
+name: {full: Aramia of Dythsel, aliases: []}
 type: being
 tags: [character]
 data:

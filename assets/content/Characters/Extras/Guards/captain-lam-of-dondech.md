@@ -1,6 +1,6 @@
 ---
 shortcode: captainlamofdondech
-name: {full: Captain Lam of Dondech, title: Captain, given: Lam, clan: Dondech, aliases: []}
+name: {full: Captain Lam of Dondech, aliases: []}
 type: being
 tags: [character]
 data:

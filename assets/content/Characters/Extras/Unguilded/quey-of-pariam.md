@@ -1,6 +1,6 @@
 ---
 shortcode: queyofpariam
-name: {full: Quey of Pariam, title: "", given: Quey, clan: Pariam, aliases: []}
+name: {full: Quey of Pariam, aliases: []}
 type: being
 tags: [character]
 data:

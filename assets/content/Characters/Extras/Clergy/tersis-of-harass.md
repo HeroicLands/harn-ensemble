@@ -1,6 +1,6 @@
 ---
 shortcode: tersisofharass
-name: {full: Tersis of Harass, title: "", given: Tersis, clan: Harass, aliases: []}
+name: {full: Tersis of Harass, aliases: []}
 type: being
 tags: [character]
 data:

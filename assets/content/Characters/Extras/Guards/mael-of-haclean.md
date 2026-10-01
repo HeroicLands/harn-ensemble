@@ -1,6 +1,6 @@
 ---
 shortcode: maelofhaclean
-name: {full: Mael of Haclean, title: "", given: Mael, clan: Haclean, aliases: []}
+name: {full: Mael of Haclean, aliases: []}
 type: being
 tags: [character]
 data:

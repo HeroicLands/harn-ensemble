@@ -1,6 +1,6 @@
 ---
 shortcode: shylirisirofverien
-name: {full: Shylirisir of Verien, title: "", given: Shylirisir, clan: Verien, aliases: []}
+name: {full: Shylirisir of Verien, aliases: []}
 type: being
 tags: [character]
 data:

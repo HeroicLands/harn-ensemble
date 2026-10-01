@@ -1,6 +1,6 @@
 ---
 shortcode: haberofthoff
-name: {full: Haber of Thoff, title: "", given: Haber, clan: Thoff, aliases: []}
+name: {full: Haber of Thoff, aliases: []}
 type: being
 tags: [character]
 data:

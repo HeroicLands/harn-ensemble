@@ -1,6 +1,6 @@
 ---
 shortcode: dirofkarin
-name: {full: Dir of Karin, title: "", given: Dir, clan: Karin, aliases: []}
+name: {full: Dir of Karin, aliases: []}
 type: being
 tags: [character]
 data:

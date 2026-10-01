@@ -1,6 +1,6 @@
 ---
 shortcode: feldaranceofchor
-name: {full: Feldarance of Chor, title: "", given: Feldarance, clan: Chor, aliases: []}
+name: {full: Feldarance of Chor, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jehanoftobrid
-name: {full: Jehan of Tobrid, title: "", given: Jehan, clan: Tobrid, aliases: []}
+name: {full: Jehan of Tobrid, aliases: []}
 type: being
 tags: [character]
 data:

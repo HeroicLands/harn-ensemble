@@ -1,6 +1,6 @@
 ---
 shortcode: lanofrytus
-name: {full: Lan of Rytus, title: "", given: Lan, clan: Rytus, aliases: []}
+name: {full: Lan of Rytus, aliases: []}
 type: being
 tags: [character]
 data:

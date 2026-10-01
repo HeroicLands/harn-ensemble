@@ -1,6 +1,6 @@
 ---
 shortcode: ancofamarthaglareb
-name: {full: Anc of Amarthaglareb, title: "", given: Anc, clan: Amarthaglareb, aliases: []}
+name: {full: Anc of Amarthaglareb, aliases: []}
 type: being
 tags: [character]
 data:

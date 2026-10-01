@@ -1,6 +1,6 @@
 ---
 shortcode: boseroftulkai
-name: {full: Boser of Tulkai, title: "", given: Boser, clan: Tulkai, aliases: []}
+name: {full: Boser of Tulkai, aliases: []}
 type: being
 tags: [character]
 data:

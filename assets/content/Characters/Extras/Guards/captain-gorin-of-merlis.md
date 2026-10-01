@@ -1,6 +1,6 @@
 ---
 shortcode: captaingorinofmerlis
-name: {full: Captain Gorin of Merlis, title: Captain, given: Gorin, clan: Merlis, aliases: []}
+name: {full: Captain Gorin of Merlis, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: melicofwethalmin
-name: {full: Melic of Wethalmin, title: "", given: Melic, clan: Wethalmin, aliases: []}
+name: {full: Melic of Wethalmin, aliases: []}
 type: being
 tags: [character]
 data:

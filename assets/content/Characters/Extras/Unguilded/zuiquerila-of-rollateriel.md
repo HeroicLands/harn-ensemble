@@ -1,11 +1,6 @@
 ---
 shortcode: zuiquerilaofrollateriel
-name:
-  full: Zuiquerila of Rollateriel
-  title: ""
-  given: Zuiquerila
-  clan: Rollateriel
-  aliases: []
+name: {full: Zuiquerila of Rollateriel, aliases: []}
 type: being
 tags: [character]
 data:

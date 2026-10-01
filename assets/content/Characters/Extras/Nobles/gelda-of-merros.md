@@ -1,6 +1,6 @@
 ---
 shortcode: geldaofmerros
-name: {full: Gelda of Merros, title: "", given: Gelda, clan: Merros, aliases: []}
+name: {full: Gelda of Merros, aliases: []}
 type: being
 tags: [character]
 data:

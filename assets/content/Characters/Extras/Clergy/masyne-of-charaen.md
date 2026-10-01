@@ -1,6 +1,6 @@
 ---
 shortcode: masyneofcharaen
-name: {full: Masyne of Charaen, title: "", given: Masyne, clan: Charaen, aliases: []}
+name: {full: Masyne of Charaen, aliases: []}
 type: being
 tags: [character]
 data:

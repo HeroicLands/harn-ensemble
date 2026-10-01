@@ -1,6 +1,6 @@
 ---
 shortcode: solineofdethaen
-name: {full: Soline of Dethaen, title: "", given: Soline, clan: Dethaen, aliases: []}
+name: {full: Soline of Dethaen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: marofirinara
-name: {full: Mar of Irinara, title: "", given: Mar, clan: Irinara, aliases: []}
+name: {full: Mar of Irinara, aliases: []}
 type: being
 tags: [character]
 data:

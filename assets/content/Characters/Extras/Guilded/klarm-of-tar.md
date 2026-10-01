@@ -1,6 +1,6 @@
 ---
 shortcode: klarmoftar
-name: {full: Klarm of Tar, title: "", given: Klarm, clan: Tar, aliases: []}
+name: {full: Klarm of Tar, aliases: []}
 type: being
 tags: [character]
 data:

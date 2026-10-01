@@ -1,6 +1,6 @@
 ---
 shortcode: garalofoeif
-name: {full: Garal of Oeif, title: "", given: Garal, clan: Oeif, aliases: []}
+name: {full: Garal of Oeif, aliases: []}
 type: being
 tags: [character]
 data:

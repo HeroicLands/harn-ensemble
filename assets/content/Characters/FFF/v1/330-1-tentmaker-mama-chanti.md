@@ -1,6 +1,6 @@
 ---
 shortcode: mamachanti
-name: {full: Mama Chanti, title: "", given: Mama, clan: Chanti, aliases: []}
+name: {full: Mama Chanti, aliases: []}
 type: being
 tags: [character]
 data:

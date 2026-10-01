@@ -1,6 +1,6 @@
 ---
 shortcode: jerildofelemas
-name: {full: Jerild of Elemas, title: "", given: Jerild, clan: Elemas, aliases: []}
+name: {full: Jerild of Elemas, aliases: []}
 type: being
 tags: [character]
 data:

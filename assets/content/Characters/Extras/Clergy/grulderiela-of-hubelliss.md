@@ -1,6 +1,6 @@
 ---
 shortcode: grulderielaofhubelliss
-name: {full: Grulderiela of Hubelliss, title: "", given: Grulderiela, clan: Hubelliss, aliases: []}
+name: {full: Grulderiela of Hubelliss, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: baroflern
-name: {full: Bar of Lern, title: "", given: Bar, clan: Lern, aliases: []}
+name: {full: Bar of Lern, aliases: []}
 type: being
 tags: [character]
 data:

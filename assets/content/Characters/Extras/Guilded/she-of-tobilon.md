@@ -1,6 +1,6 @@
 ---
 shortcode: sheoftobilon
-name: {full: She of Tobilon, title: "", given: She, clan: Tobilon, aliases: []}
+name: {full: She of Tobilon, aliases: []}
 type: being
 tags: [character]
 data:

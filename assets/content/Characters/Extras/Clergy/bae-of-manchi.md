@@ -1,6 +1,6 @@
 ---
 shortcode: baeofmanchi
-name: {full: Bae of Manchi, title: "", given: Bae, clan: Manchi, aliases: []}
+name: {full: Bae of Manchi, aliases: []}
 type: being
 tags: [character]
 data:

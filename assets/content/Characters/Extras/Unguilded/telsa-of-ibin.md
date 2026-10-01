@@ -1,6 +1,6 @@
 ---
 shortcode: telsaofibin
-name: {full: Telsa of Ibin, title: "", given: Telsa, clan: Ibin, aliases: []}
+name: {full: Telsa of Ibin, aliases: []}
 type: being
 tags: [character]
 data:

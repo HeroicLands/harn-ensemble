@@ -1,6 +1,6 @@
 ---
 shortcode: riathadeherne
-name: {full: Riatha Deherne, title: "", given: Riatha, clan: Deherne, aliases: []}
+name: {full: Riatha Deherne, aliases: []}
 type: being
 tags: [character]
 data:

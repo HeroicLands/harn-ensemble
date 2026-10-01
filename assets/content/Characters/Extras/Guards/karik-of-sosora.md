@@ -1,6 +1,6 @@
 ---
 shortcode: karikofsosora
-name: {full: Karik of Sosora, title: "", given: Karik, clan: Sosora, aliases: []}
+name: {full: Karik of Sosora, aliases: []}
 type: being
 tags: [character]
 data:

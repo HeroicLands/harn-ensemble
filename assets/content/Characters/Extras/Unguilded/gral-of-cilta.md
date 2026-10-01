@@ -1,6 +1,6 @@
 ---
 shortcode: gralofcilta
-name: {full: Gral of Cilta, title: "", given: Gral, clan: Cilta, aliases: []}
+name: {full: Gral of Cilta, aliases: []}
 type: being
 tags: [character]
 data:

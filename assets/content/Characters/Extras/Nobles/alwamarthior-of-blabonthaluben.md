@@ -1,11 +1,6 @@
 ---
 shortcode: alwamarthiorofblabonthaluben
-name:
-  full: Alwamarthior of Blabonthaluben
-  title: ""
-  given: Alwamarthior
-  clan: Blabonthaluben
-  aliases: []
+name: {full: Alwamarthior of Blabonthaluben, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: vaberofibine
-name: {full: Vaber of Ibine, title: "", given: Vaber, clan: Ibine, aliases: []}
+name: {full: Vaber of Ibine, aliases: []}
 type: being
 tags: [character]
 data:

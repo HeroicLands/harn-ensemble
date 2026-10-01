@@ -1,6 +1,6 @@
 ---
 shortcode: inrandyofburitta
-name: {full: Inrandy of Buritta, title: "", given: Inrandy, clan: Buritta, aliases: []}
+name: {full: Inrandy of Buritta, aliases: []}
 type: being
 tags: [character]
 data:

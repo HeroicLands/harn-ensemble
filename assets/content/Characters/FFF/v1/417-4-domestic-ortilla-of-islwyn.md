@@ -1,6 +1,6 @@
 ---
 shortcode: ortillaofislwyn
-name: {full: Ortilla of Islwyn, title: "", given: Ortilla, clan: Islwyn, aliases: []}
+name: {full: Ortilla of Islwyn, aliases: []}
 type: being
 tags: [character]
 data:

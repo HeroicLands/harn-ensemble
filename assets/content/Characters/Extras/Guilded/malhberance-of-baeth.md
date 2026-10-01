@@ -1,6 +1,6 @@
 ---
 shortcode: malhberanceofbaeth
-name: {full: Malhberance of Baeth, title: "", given: Malhberance, clan: Baeth, aliases: []}
+name: {full: Malhberance of Baeth, aliases: []}
 type: being
 tags: [character]
 data:

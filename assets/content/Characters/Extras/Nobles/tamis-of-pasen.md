@@ -1,6 +1,6 @@
 ---
 shortcode: tamisofpasen
-name: {full: Tamis of Pasen, title: "", given: Tamis, clan: Pasen, aliases: []}
+name: {full: Tamis of Pasen, aliases: []}
 type: being
 tags: [character]
 data:

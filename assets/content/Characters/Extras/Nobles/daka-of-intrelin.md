@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofintrelin
-name: {full: Daka of Intrelin, title: "", given: Daka, clan: Intrelin, aliases: []}
+name: {full: Daka of Intrelin, aliases: []}
 type: being
 tags: [character]
 data:

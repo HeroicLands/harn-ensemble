@@ -1,6 +1,6 @@
 ---
 shortcode: meredaofmeral
-name: {full: Mereda of Meral, title: "", given: Mereda, clan: Meral, aliases: []}
+name: {full: Mereda of Meral, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: amathemofalwamarth
-name: {full: Amathem of Alwamarth, title: "", given: Amathem, clan: Alwamarth, aliases: []}
+name: {full: Amathem of Alwamarth, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: caronisofstuk
-name: {full: Caronis of Stuk, title: "", given: Caronis, clan: Stuk, aliases: []}
+name: {full: Caronis of Stuk, aliases: []}
 type: being
 tags: [character]
 data:

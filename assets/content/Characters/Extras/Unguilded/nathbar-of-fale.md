@@ -1,6 +1,6 @@
 ---
 shortcode: nathbaroffale
-name: {full: Nathbar of Fale, title: "", given: Nathbar, clan: Fale, aliases: []}
+name: {full: Nathbar of Fale, aliases: []}
 type: being
 tags: [character]
 data:

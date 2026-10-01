@@ -1,6 +1,6 @@
 ---
 shortcode: eamonofdethselphus
-name: {full: Eamon of Dethselphus, title: "", given: Eamon, clan: Dethselphus, aliases: []}
+name: {full: Eamon of Dethselphus, aliases: []}
 type: being
 tags: [character]
 data:

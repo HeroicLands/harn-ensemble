@@ -1,6 +1,6 @@
 ---
 shortcode: garooforta
-name: {full: Garo of Orta, title: "", given: Garo, clan: Orta, aliases: []}
+name: {full: Garo of Orta, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,11 +1,6 @@
 ---
 shortcode: veteranchaklynofmatlimundon
-name:
-  full: Veteran Chaklyn of Matlimundon
-  title: Veteran
-  given: Chaklyn
-  clan: Matlimundon
-  aliases: []
+name: {full: Veteran Chaklyn of Matlimundon, aliases: []}
 type: being
 tags: [character]
 data:

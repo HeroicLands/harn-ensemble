@@ -1,6 +1,6 @@
 ---
 shortcode: korbinofograzgban
-name: {full: Korbin of Ograzgban, title: "", given: Korbin, clan: Ograzgban, aliases: []}
+name: {full: Korbin of Ograzgban, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: keldanofokren
-name: {full: Keldan of Okren, title: "", given: Keldan, clan: Okren, aliases: []}
+name: {full: Keldan of Okren, aliases: []}
 type: being
 tags: [character]
 data:

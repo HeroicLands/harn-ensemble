@@ -1,11 +1,6 @@
 ---
 shortcode: veteranobrayzelanofiesh
-name:
-  full: Veteran Obrayzelan of Iesh
-  title: Veteran
-  given: Obrayzelan
-  clan: Iesh
-  aliases: []
+name: {full: Veteran Obrayzelan of Iesh, aliases: []}
 type: being
 tags: [character]
 data:

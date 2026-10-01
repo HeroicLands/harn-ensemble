@@ -1,6 +1,6 @@
 ---
 shortcode: zuldagmekofagarin
-name: {full: Zuldagmek of Agarin, title: "", given: Zuldagmek, clan: Agarin, aliases: []}
+name: {full: Zuldagmek of Agarin, aliases: []}
 type: being
 tags: [character]
 data:

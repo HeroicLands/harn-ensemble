@@ -1,6 +1,6 @@
 ---
 shortcode: denienofkeryn
-name: {full: Denien of Keryn, title: "", given: Denien, clan: Keryn, aliases: []}
+name: {full: Denien of Keryn, aliases: []}
 type: being
 tags: [character]
 data:

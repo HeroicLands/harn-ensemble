@@ -1,6 +1,6 @@
 ---
 shortcode: ashofpatren
-name: {full: Ash of Patren, title: "", given: Ash, clan: Patren, aliases: []}
+name: {full: Ash of Patren, aliases: []}
 type: being
 tags: [character]
 data:

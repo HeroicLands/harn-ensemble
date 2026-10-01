@@ -1,6 +1,6 @@
 ---
 shortcode: merenaofpariborin
-name: {full: Merena of Pariborin, title: "", given: Merena, clan: Pariborin, aliases: []}
+name: {full: Merena of Pariborin, aliases: []}
 type: being
 tags: [character]
 data:

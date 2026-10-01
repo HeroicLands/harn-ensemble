@@ -1,6 +1,6 @@
 ---
 shortcode: loridofashelya
-name: {full: Lorid of Ashelya, title: "", given: Lorid, clan: Ashelya, aliases: []}
+name: {full: Lorid of Ashelya, aliases: []}
 type: being
 tags: [character]
 data:

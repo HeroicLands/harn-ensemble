@@ -1,6 +1,6 @@
 ---
 shortcode: terbaoforta
-name: {full: Terba of Orta, title: "", given: Terba, clan: Orta, aliases: []}
+name: {full: Terba of Orta, aliases: []}
 type: being
 tags: [character]
 data:

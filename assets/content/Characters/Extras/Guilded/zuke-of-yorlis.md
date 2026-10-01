@@ -1,6 +1,6 @@
 ---
 shortcode: zukeofyorlis
-name: {full: Zuke of Yorlis, title: "", given: Zuke, clan: Yorlis, aliases: []}
+name: {full: Zuke of Yorlis, aliases: []}
 type: being
 tags: [character]
 data:

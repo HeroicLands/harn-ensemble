@@ -1,6 +1,6 @@
 ---
 shortcode: jeredofkalian
-name: {full: Jered of Kalian, title: "", given: Jered, clan: Kalian, aliases: []}
+name: {full: Jered of Kalian, aliases: []}
 type: being
 tags: [character]
 data:

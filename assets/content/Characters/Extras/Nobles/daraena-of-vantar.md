@@ -1,6 +1,6 @@
 ---
 shortcode: daraenaofvantar
-name: {full: Daraena of Vantar, title: "", given: Daraena, clan: Vantar, aliases: []}
+name: {full: Daraena of Vantar, aliases: []}
 type: being
 tags: [character]
 data:

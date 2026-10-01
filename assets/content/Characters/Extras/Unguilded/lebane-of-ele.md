@@ -1,6 +1,6 @@
 ---
 shortcode: lebaneofele
-name: {full: Lebane of Ele, title: "", given: Lebane, clan: Ele, aliases: []}
+name: {full: Lebane of Ele, aliases: []}
 type: being
 tags: [character]
 data:

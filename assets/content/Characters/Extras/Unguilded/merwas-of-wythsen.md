@@ -1,6 +1,6 @@
 ---
 shortcode: merwasofwythsen
-name: {full: Merwas of Wythsen, title: "", given: Merwas, clan: Wythsen, aliases: []}
+name: {full: Merwas of Wythsen, aliases: []}
 type: being
 tags: [character]
 data:

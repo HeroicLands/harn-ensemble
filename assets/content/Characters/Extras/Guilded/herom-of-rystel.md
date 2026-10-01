@@ -1,6 +1,6 @@
 ---
 shortcode: heromofrystel
-name: {full: Herom of Rystel, title: "", given: Herom, clan: Rystel, aliases: []}
+name: {full: Herom of Rystel, aliases: []}
 type: being
 tags: [character]
 data:

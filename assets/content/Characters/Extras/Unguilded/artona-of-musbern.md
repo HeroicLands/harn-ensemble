@@ -1,6 +1,6 @@
 ---
 shortcode: artonaofmusbern
-name: {full: Artona of Musbern, title: "", given: Artona, clan: Musbern, aliases: []}
+name: {full: Artona of Musbern, aliases: []}
 type: being
 tags: [character]
 data:

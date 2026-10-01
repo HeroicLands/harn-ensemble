@@ -1,6 +1,6 @@
 ---
 shortcode: artonaofdebern
-name: {full: Artona of Debern, title: "", given: Artona, clan: Debern, aliases: []}
+name: {full: Artona of Debern, aliases: []}
 type: being
 tags: [character]
 data:

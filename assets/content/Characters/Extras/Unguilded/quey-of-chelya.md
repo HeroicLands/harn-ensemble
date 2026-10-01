@@ -1,6 +1,6 @@
 ---
 shortcode: queyofchelya
-name: {full: Quey of Chelya, title: "", given: Quey, clan: Chelya, aliases: []}
+name: {full: Quey of Chelya, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jorlathbarofarin
-name: {full: Jorlathbar of Arin, title: "", given: Jorlathbar, clan: Arin, aliases: []}
+name: {full: Jorlathbar of Arin, aliases: []}
 type: being
 tags: [character]
 data:

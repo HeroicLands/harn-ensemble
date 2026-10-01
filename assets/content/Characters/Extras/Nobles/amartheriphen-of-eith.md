@@ -1,6 +1,6 @@
 ---
 shortcode: amartheriphenofeith
-name: {full: Amartheriphen of Eith, title: "", given: Amartheriphen, clan: Eith, aliases: []}
+name: {full: Amartheriphen of Eith, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: mysilofvaroos
-name: {full: Mysil of Varoos, title: "", given: Mysil, clan: Varoos, aliases: []}
+name: {full: Mysil of Varoos, aliases: []}
 type: being
 tags: [character]
 data:

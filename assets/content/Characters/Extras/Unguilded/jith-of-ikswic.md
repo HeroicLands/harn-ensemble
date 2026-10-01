@@ -1,6 +1,6 @@
 ---
 shortcode: jithofikswic
-name: {full: Jith of Ikswic, title: "", given: Jith, clan: Ikswic, aliases: []}
+name: {full: Jith of Ikswic, aliases: []}
 type: being
 tags: [character]
 data:

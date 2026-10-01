@@ -1,11 +1,6 @@
 ---
 shortcode: merbesalareenofcybelliss
-name:
-  full: Merbesalareen of Cybelliss
-  title: ""
-  given: Merbesalareen
-  clan: Cybelliss
-  aliases: []
+name: {full: Merbesalareen of Cybelliss, aliases: []}
 type: being
 tags: [character]
 data:

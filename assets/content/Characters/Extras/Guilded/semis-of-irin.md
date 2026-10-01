@@ -1,6 +1,6 @@
 ---
 shortcode: semisofirin
-name: {full: Semis of Irin, title: "", given: Semis, clan: Irin, aliases: []}
+name: {full: Semis of Irin, aliases: []}
 type: being
 tags: [character]
 data:

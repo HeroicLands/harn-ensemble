@@ -1,6 +1,6 @@
 ---
 shortcode: shelisoftroch
-name: {full: Shelis of Troch, title: "", given: Shelis, clan: Troch, aliases: []}
+name: {full: Shelis of Troch, aliases: []}
 type: being
 tags: [character]
 data:

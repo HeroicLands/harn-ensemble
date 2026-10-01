@@ -1,6 +1,6 @@
 ---
 shortcode: mardethofewen
-name: {full: Mardeth of Ewen, title: "", given: Mardeth, clan: Ewen, aliases: []}
+name: {full: Mardeth of Ewen, aliases: []}
 type: being
 tags: [character]
 data:

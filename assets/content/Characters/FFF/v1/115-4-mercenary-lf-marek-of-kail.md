@@ -1,6 +1,6 @@
 ---
 shortcode: marekofkail
-name: {full: Marek of Kail, title: "", given: Marek, clan: Kail, aliases: []}
+name: {full: Marek of Kail, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: carebofbeinai
-name: {full: Careb of Beinai, title: "", given: Careb, clan: Beinai, aliases: []}
+name: {full: Careb of Beinai, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: chendofamafa
-name: {full: Chend of Amafa, title: "", given: Chend, clan: Amafa, aliases: []}
+name: {full: Chend of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

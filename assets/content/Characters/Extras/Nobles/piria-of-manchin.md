@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofmanchin
-name: {full: Piria of Manchin, title: "", given: Piria, clan: Manchin, aliases: []}
+name: {full: Piria of Manchin, aliases: []}
 type: being
 tags: [character]
 data:

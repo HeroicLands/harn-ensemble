@@ -1,6 +1,6 @@
 ---
 shortcode: sweyofbaelams
-name: {full: Swey of Baelams, title: "", given: Swey, clan: Baelams, aliases: []}
+name: {full: Swey of Baelams, aliases: []}
 type: being
 tags: [character]
 data:

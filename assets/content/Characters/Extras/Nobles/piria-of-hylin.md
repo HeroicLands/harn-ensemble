@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofhylin
-name: {full: Piria of Hylin, title: "", given: Piria, clan: Hylin, aliases: []}
+name: {full: Piria of Hylin, aliases: []}
 type: being
 tags: [character]
 data:

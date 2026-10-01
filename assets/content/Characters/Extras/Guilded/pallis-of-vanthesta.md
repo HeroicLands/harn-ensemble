@@ -1,6 +1,6 @@
 ---
 shortcode: pallisofvanthesta
-name: {full: Pallis of Vanthesta, title: "", given: Pallis, clan: Vanthesta, aliases: []}
+name: {full: Pallis of Vanthesta, aliases: []}
 type: being
 tags: [character]
 data:

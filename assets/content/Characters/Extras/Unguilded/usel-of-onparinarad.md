@@ -1,6 +1,6 @@
 ---
 shortcode: uselofonparinarad
-name: {full: Usel of Onparinarad, title: "", given: Usel, clan: Onparinarad, aliases: []}
+name: {full: Usel of Onparinarad, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: amathanofamlug
-name: {full: Amathan of Amlug, title: "", given: Amathan, clan: Amlug, aliases: []}
+name: {full: Amathan of Amlug, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tabifaofsaldir
-name: {full: Tabifa of Saldir, title: "", given: Tabifa, clan: Saldir, aliases: []}
+name: {full: Tabifa of Saldir, aliases: []}
 type: being
 tags: [character]
 data:

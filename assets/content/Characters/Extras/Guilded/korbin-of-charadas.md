@@ -1,6 +1,6 @@
 ---
 shortcode: korbinofcharadas
-name: {full: Korbin of Charadas, title: "", given: Korbin, clan: Charadas, aliases: []}
+name: {full: Korbin of Charadas, aliases: []}
 type: being
 tags: [character]
 data:

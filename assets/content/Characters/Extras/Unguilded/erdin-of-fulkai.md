@@ -1,6 +1,6 @@
 ---
 shortcode: erdinoffulkai
-name: {full: Erdin of Fulkai, title: "", given: Erdin, clan: Fulkai, aliases: []}
+name: {full: Erdin of Fulkai, aliases: []}
 type: being
 tags: [character]
 data:

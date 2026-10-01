@@ -1,6 +1,6 @@
 ---
 shortcode: soranofbrid
-name: {full: Soran of Brid, title: "", given: Soran, clan: Brid, aliases: []}
+name: {full: Soran of Brid, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: drunanofofthodukr
-name: {full: Drunanof of Thodukr, title: "", given: Drunanof, clan: Thodukr, aliases: []}
+name: {full: Drunanof of Thodukr, aliases: []}
 type: being
 tags: [character]
 data:

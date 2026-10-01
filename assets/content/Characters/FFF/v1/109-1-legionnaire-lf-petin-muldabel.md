@@ -1,6 +1,6 @@
 ---
 shortcode: petinmuldabel
-name: {full: Petin Muldabel, title: "", given: Petin, clan: Muldabel, aliases: []}
+name: {full: Petin Muldabel, aliases: []}
 type: being
 tags: [character]
 data:

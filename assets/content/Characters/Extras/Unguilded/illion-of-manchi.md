@@ -1,6 +1,6 @@
 ---
 shortcode: illionofmanchi
-name: {full: Illion of Manchi, title: "", given: Illion, clan: Manchi, aliases: []}
+name: {full: Illion of Manchi, aliases: []}
 type: being
 tags: [character]
 data:

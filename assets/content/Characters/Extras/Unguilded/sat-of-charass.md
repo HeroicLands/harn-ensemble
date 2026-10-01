@@ -1,6 +1,6 @@
 ---
 shortcode: satofcharass
-name: {full: Sat of Charass, title: "", given: Sat, clan: Charass, aliases: []}
+name: {full: Sat of Charass, aliases: []}
 type: being
 tags: [character]
 data:

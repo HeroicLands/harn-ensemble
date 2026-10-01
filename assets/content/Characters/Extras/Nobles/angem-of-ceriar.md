@@ -1,6 +1,6 @@
 ---
 shortcode: angemofceriar
-name: {full: Angem of Ceriar, title: "", given: Angem, clan: Ceriar, aliases: []}
+name: {full: Angem of Ceriar, aliases: []}
 type: being
 tags: [character]
 data:

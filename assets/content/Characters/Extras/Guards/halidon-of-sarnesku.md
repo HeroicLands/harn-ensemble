@@ -1,6 +1,6 @@
 ---
 shortcode: halidonofsarnesku
-name: {full: Halidon of Sarnesku, title: "", given: Halidon, clan: Sarnesku, aliases: []}
+name: {full: Halidon of Sarnesku, aliases: []}
 type: being
 tags: [character]
 data:

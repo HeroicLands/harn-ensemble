@@ -1,6 +1,6 @@
 ---
 shortcode: lamofduplo
-name: {full: Lam of Duplo, title: "", given: Lam, clan: Duplo, aliases: []}
+name: {full: Lam of Duplo, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: staoftulkyia
-name: {full: Sta of Tulkyia, title: "", given: Sta, clan: Tulkyia, aliases: []}
+name: {full: Sta of Tulkyia, aliases: []}
 type: being
 tags: [character]
 data:

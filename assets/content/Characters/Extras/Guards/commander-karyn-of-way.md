@@ -1,6 +1,6 @@
 ---
 shortcode: commanderkarynofway
-name: {full: Commander Karyn of Way, title: "", given: Commander, clan: Karyn Way, aliases: []}
+name: {full: Commander Karyn of Way, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,11 +1,6 @@
 ---
 shortcode: zaneofkansenalasanefris
-name:
-  full: Zane of Kansenalasanefris
-  title: ""
-  given: Zane
-  clan: Kansenalasanefris
-  aliases: []
+name: {full: Zane of Kansenalasanefris, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofvaro
-name: {full: Tomus of Varo, title: "", given: Tomus, clan: Varo, aliases: []}
+name: {full: Tomus of Varo, aliases: []}
 type: being
 tags: [character]
 data:

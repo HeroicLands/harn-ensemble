@@ -1,6 +1,6 @@
 ---
 shortcode: denofwytelesh
-name: {full: Den of Wytelesh, title: "", given: Den, clan: Wytelesh, aliases: []}
+name: {full: Den of Wytelesh, aliases: []}
 type: being
 tags: [character]
 data:

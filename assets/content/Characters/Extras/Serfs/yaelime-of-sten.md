@@ -1,6 +1,6 @@
 ---
 shortcode: yaelimeofsten
-name: {full: Yaelime of Sten, title: "", given: Yaelime, clan: Sten, aliases: []}
+name: {full: Yaelime of Sten, aliases: []}
 type: being
 tags: [character]
 data:

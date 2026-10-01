@@ -1,6 +1,6 @@
 ---
 shortcode: forenelleofkephis
-name: {full: Forenelle of Kephis, title: "", given: Forenelle, clan: Kephis, aliases: []}
+name: {full: Forenelle of Kephis, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jorakofosath
-name: {full: Jorak of Osath, title: "", given: Jorak, clan: Osath, aliases: []}
+name: {full: Jorak of Osath, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: telsaoftulkai
-name: {full: Telsa of Tulkai, title: "", given: Telsa, clan: Tulkai, aliases: []}
+name: {full: Telsa of Tulkai, aliases: []}
 type: being
 tags: [character]
 data:

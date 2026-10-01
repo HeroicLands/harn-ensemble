@@ -1,6 +1,6 @@
 ---
 shortcode: albalnyofsprythias
-name: {full: Albalny of Sprythias, title: "", given: Albalny, clan: Sprythias, aliases: []}
+name: {full: Albalny of Sprythias, aliases: []}
 type: being
 tags: [character]
 data:

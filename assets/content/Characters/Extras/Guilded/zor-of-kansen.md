@@ -1,6 +1,6 @@
 ---
 shortcode: zorofkansen
-name: {full: Zor of Kansen, title: "", given: Zor, clan: Kansen, aliases: []}
+name: {full: Zor of Kansen, aliases: []}
 type: being
 tags: [character]
 data:

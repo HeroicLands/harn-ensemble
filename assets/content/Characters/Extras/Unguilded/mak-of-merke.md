@@ -1,6 +1,6 @@
 ---
 shortcode: makofmerke
-name: {full: Mak of Merke, title: "", given: Mak, clan: Merke, aliases: []}
+name: {full: Mak of Merke, aliases: []}
 type: being
 tags: [character]
 data:

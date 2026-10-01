@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaofvarass
-name: {full: Sylvia of Varass, title: "", given: Sylvia, clan: Varass, aliases: []}
+name: {full: Sylvia of Varass, aliases: []}
 type: being
 tags: [character]
 data:

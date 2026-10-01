@@ -1,6 +1,6 @@
 ---
 shortcode: drogor
-name: {full: Drogor, title: "", given: Drogor, clan: "", aliases: []}
+name: {full: Drogor, aliases: []}
 type: being
 tags: [character]
 data:

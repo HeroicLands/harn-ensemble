@@ -1,6 +1,6 @@
 ---
 shortcode: veteranmaelofasar
-name: {full: Veteran Mael of Asar, title: Veteran, given: Mael, clan: Asar, aliases: []}
+name: {full: Veteran Mael of Asar, aliases: []}
 type: being
 tags: [character]
 data:

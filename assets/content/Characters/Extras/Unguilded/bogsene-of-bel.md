@@ -1,6 +1,6 @@
 ---
 shortcode: bogseneofbel
-name: {full: Bogsene of Bel, title: "", given: Bogsene, clan: Bel, aliases: []}
+name: {full: Bogsene of Bel, aliases: []}
 type: being
 tags: [character]
 data:

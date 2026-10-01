@@ -1,6 +1,6 @@
 ---
 shortcode: saroftobilon
-name: {full: Sar of Tobilon, title: "", given: Sar, clan: Tobilon, aliases: []}
+name: {full: Sar of Tobilon, aliases: []}
 type: being
 tags: [character]
 data:

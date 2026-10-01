@@ -1,6 +1,6 @@
 ---
 shortcode: sartunofnarad
-name: {full: Sartun of Narad, title: "", given: Sartun, clan: Narad, aliases: []}
+name: {full: Sartun of Narad, aliases: []}
 type: being
 tags: [character]
 data:

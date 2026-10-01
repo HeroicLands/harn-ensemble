@@ -1,6 +1,6 @@
 ---
 shortcode: itisofaethal
-name: {full: Itis of Aethal, title: "", given: Itis, clan: Aethal, aliases: []}
+name: {full: Itis of Aethal, aliases: []}
 type: being
 tags: [character]
 data:

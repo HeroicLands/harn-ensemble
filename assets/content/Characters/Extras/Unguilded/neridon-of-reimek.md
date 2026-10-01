@@ -1,6 +1,6 @@
 ---
 shortcode: neridonofreimek
-name: {full: Neridon of Reimek, title: "", given: Neridon, clan: Reimek, aliases: []}
+name: {full: Neridon of Reimek, aliases: []}
 type: being
 tags: [character]
 data:

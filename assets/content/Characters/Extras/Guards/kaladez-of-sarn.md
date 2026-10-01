@@ -1,6 +1,6 @@
 ---
 shortcode: kaladezofsarn
-name: {full: Kaladez of Sarn, title: "", given: Kaladez, clan: Sarn, aliases: []}
+name: {full: Kaladez of Sarn, aliases: []}
 type: being
 tags: [character]
 data:

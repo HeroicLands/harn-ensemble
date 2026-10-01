@@ -1,6 +1,6 @@
 ---
 shortcode: peserofshorlon
-name: {full: Peser of Shorlon, title: "", given: Peser, clan: Shorlon, aliases: []}
+name: {full: Peser of Shorlon, aliases: []}
 type: being
 tags: [character]
 data:

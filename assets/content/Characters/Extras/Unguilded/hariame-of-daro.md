@@ -1,6 +1,6 @@
 ---
 shortcode: hariameofdaro
-name: {full: Hariame of Daro, title: "", given: Hariame, clan: Daro, aliases: []}
+name: {full: Hariame of Daro, aliases: []}
 type: being
 tags: [character]
 data:

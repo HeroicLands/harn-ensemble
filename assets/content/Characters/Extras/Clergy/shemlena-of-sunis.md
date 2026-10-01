@@ -1,6 +1,6 @@
 ---
 shortcode: shemlenaofsunis
-name: {full: Shemlena of Sunis, title: "", given: Shemlena, clan: Sunis, aliases: []}
+name: {full: Shemlena of Sunis, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: rasofthorekast
-name: {full: Ras of Thorekast, title: "", given: Ras, clan: Thorekast, aliases: []}
+name: {full: Ras of Thorekast, aliases: []}
 type: being
 tags: [character]
 data:

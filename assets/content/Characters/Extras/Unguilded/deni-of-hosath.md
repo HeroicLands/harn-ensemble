@@ -1,6 +1,6 @@
 ---
 shortcode: deniofhosath
-name: {full: Deni of Hosath, title: "", given: Deni, clan: Hosath, aliases: []}
+name: {full: Deni of Hosath, aliases: []}
 type: being
 tags: [character]
 data:

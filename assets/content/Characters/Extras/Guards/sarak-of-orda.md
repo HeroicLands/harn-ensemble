@@ -1,6 +1,6 @@
 ---
 shortcode: sarakoforda
-name: {full: Sarak of Orda, title: "", given: Sarak, clan: Orda, aliases: []}
+name: {full: Sarak of Orda, aliases: []}
 type: being
 tags: [character]
 data:

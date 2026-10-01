@@ -1,6 +1,6 @@
 ---
 shortcode: urbainoffartek
-name: {full: Urbain of Fartek, title: "", given: Urbain, clan: Fartek, aliases: []}
+name: {full: Urbain of Fartek, aliases: []}
 type: being
 tags: [character]
 data:

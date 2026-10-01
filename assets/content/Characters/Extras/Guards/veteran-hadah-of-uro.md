@@ -1,6 +1,6 @@
 ---
 shortcode: veteranhadahofuro
-name: {full: Veteran Hadah of Uro, title: Veteran, given: Hadah, clan: Uro, aliases: []}
+name: {full: Veteran Hadah of Uro, aliases: []}
 type: being
 tags: [character]
 data:

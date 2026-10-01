@@ -1,6 +1,6 @@
 ---
 shortcode: dameafaewynnbarthy
-name: {full: Dame Afaewynn Barthy, title: Dame, given: Afaewynn, clan: Barthy, aliases: []}
+name: {full: Dame Afaewynn Barthy, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: crolazelofdulkne
-name: {full: Crolazel of Dulkne, title: "", given: Crolazel, clan: Dulkne, aliases: []}
+name: {full: Crolazel of Dulkne, aliases: []}
 type: being
 tags: [character]
 data:

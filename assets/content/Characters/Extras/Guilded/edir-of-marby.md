@@ -1,6 +1,6 @@
 ---
 shortcode: edirofmarby
-name: {full: Edir of Marby, title: "", given: Edir, clan: Marby, aliases: []}
+name: {full: Edir of Marby, aliases: []}
 type: being
 tags: [character]
 data:

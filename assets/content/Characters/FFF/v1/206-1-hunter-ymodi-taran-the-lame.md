@@ -1,6 +1,6 @@
 ---
 shortcode: taranthelame
-name: {full: Taran the Lame, title: "", given: Taran, clan: the Lame, aliases: []}
+name: {full: Taran the Lame, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jakrowofjorwynn
-name: {full: Jakrow of Jorwynn, title: "", given: Jakrow, clan: Jorwynn, aliases: []}
+name: {full: Jakrow of Jorwynn, aliases: []}
 type: being
 tags: [character]
 data:

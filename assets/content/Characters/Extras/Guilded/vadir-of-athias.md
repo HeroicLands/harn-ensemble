@@ -1,6 +1,6 @@
 ---
 shortcode: vadirofathias
-name: {full: Vadir of Athias, title: "", given: Vadir, clan: Athias, aliases: []}
+name: {full: Vadir of Athias, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: umeofgyll
-name: {full: Ume of Gyll, title: "", given: Ume, clan: Gyll, aliases: []}
+name: {full: Ume of Gyll, aliases: []}
 type: being
 tags: [character]
 data:

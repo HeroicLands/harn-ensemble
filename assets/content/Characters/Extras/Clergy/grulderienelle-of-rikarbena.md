@@ -1,11 +1,6 @@
 ---
 shortcode: grulderienelleofrikarbena
-name:
-  full: Grulderienelle of Rikarbena
-  title: ""
-  given: Grulderienelle
-  clan: Rikarbena
-  aliases: []
+name: {full: Grulderienelle of Rikarbena, aliases: []}
 type: being
 tags: [character]
 data:

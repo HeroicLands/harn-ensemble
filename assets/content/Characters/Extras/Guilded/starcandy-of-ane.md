@@ -1,6 +1,6 @@
 ---
 shortcode: starcandyofane
-name: {full: Starcandy of Ane, title: "", given: Starcandy, clan: Ane, aliases: []}
+name: {full: Starcandy of Ane, aliases: []}
 type: being
 tags: [character]
 data:

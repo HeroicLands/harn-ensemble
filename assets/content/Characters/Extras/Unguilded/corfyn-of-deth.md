@@ -1,6 +1,6 @@
 ---
 shortcode: corfynofdeth
-name: {full: Corfyn of Deth, title: "", given: Corfyn, clan: Deth, aliases: []}
+name: {full: Corfyn of Deth, aliases: []}
 type: being
 tags: [character]
 data:

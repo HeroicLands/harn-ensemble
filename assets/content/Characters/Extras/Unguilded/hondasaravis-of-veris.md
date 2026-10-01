@@ -1,6 +1,6 @@
 ---
 shortcode: hondasaravisofveris
-name: {full: Hondasaravis of Veris, title: "", given: Hondasaravis, clan: Veris, aliases: []}
+name: {full: Hondasaravis of Veris, aliases: []}
 type: being
 tags: [character]
 data:

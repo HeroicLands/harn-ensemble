@@ -1,6 +1,6 @@
 ---
 shortcode: arbrinofhudusinar
-name: {full: Arbrin of Hudusinar, title: "", given: Arbrin, clan: Hudusinar, aliases: []}
+name: {full: Arbrin of Hudusinar, aliases: []}
 type: being
 tags: [character]
 data:

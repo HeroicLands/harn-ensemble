@@ -1,6 +1,6 @@
 ---
 shortcode: telduroferleshre
-name: {full: Teldur of Erleshre, title: "", given: Teldur, clan: Erleshre, aliases: []}
+name: {full: Teldur of Erleshre, aliases: []}
 type: being
 tags: [character]
 data:

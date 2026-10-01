@@ -1,6 +1,6 @@
 ---
 shortcode: chaklynofarmel
-name: {full: Chaklyn of Armel, title: "", given: Chaklyn, clan: Armel, aliases: []}
+name: {full: Chaklyn of Armel, aliases: []}
 type: being
 tags: [character]
 data:
