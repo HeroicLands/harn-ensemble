@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 20
   born: 700.222
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: L4EhvsK63lIsodza
   packFolder: extrasunguilded
   social: {occupation: Gladiator, class: serf, society: feudal, organizations: []}
 hm3:

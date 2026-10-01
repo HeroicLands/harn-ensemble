@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 21
   born: 699.113
-  height: 1.65
-  weight: 57.15
+  height: 5' 5"
+  weight: 126 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: NR4twBysMynutQfy
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
 hm3:

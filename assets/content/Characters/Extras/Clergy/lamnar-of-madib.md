@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.22
-  height: 1.75
-  weight: 63.96
+  height: 5' 9"
+  weight: 141 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: DC89tV9INkekuwys
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
 hm3:

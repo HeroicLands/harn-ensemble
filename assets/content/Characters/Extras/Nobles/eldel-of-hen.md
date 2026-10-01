@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 59
   born: 661.17
-  height: 1.75
-  weight: 131.09
+  height: 5' 9"
+  weight: 289 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: oBRwLnjmXRalWGiW
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: serf, society: feudal, organizations: []}
 hm3:

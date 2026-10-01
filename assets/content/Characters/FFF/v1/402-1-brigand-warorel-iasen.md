@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 33
   born: 686.294
-  height: 1.73
-  weight: 69.4
+  height: 5' 8"
+  weight: 153 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Pox marks]
   harnworld: {realm: "", ritual: []}
-  id: 0wZyta0rVtXJ1YDp
   packFolder: fffunguilded
   social: {occupation: Brigand, class: serf, society: feudal, organizations: []}
 hm3:

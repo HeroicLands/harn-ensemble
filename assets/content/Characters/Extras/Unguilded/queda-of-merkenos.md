@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.55
-  height: 1.75
-  weight: 99.79
+  height: 5' 9"
+  weight: 220 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: Rnw26XnQUeh28RMx
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: serf, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 43
   born: 676.166
-  height: 1.73
-  weight: 69.4
+  height: 5' 8"
+  weight: 153 lbs
   frame: medium
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Hunchback, Beard, moustache]
   harnworld: {realm: "", ritual: [peoni]}
-  id: eINyh83Kik2WzPWJ
   packFolder: fffunguilded
   social: {occupation: Herdsman/Beggar, class: freeman, society: feudal, organizations: []}
 hm3:

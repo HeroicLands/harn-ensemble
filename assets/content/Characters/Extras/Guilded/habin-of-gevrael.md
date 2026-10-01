@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.63
-  height: 1.73
-  weight: 76.2
+  height: 5' 8"
+  weight: 168 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: q3Fs2WCw3qaFc4Sz
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: serf, society: feudal, organizations: []}
 hm3:

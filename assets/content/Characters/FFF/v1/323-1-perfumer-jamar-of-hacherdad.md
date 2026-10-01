@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 37
   born: 682.338
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [nalma]}
-  id: HA20lpK82ZkXFWXH
   packFolder: fffguilded
   social: {occupation: Perfumer, class: freeman, society: feudal, organizations: []}
 hm3:

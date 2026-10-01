@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.320
-  height: 1.93
-  weight: 77.56
+  height: 6' 4"
+  weight: 171 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: [naveh]}
-  id: h7BeRWWbnr31qI1l
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: unguilded, society: feudal, organizations: []}
 hm3:

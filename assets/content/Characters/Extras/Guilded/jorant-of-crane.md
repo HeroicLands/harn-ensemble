@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 39
   born: 681.204
-  height: 1.65
-  weight: 63.96
+  height: 5' 5"
+  weight: 141 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: 5zz57ODwoblfy3aF
   packFolder: extrasguilded
   social: {occupation: Salter, class: guilded, society: feudal, organizations: []}
 hm3:

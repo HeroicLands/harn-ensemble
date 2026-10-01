@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.244
-  height: 1.68
-  weight: 58.97
+  height: 5' 6"
+  weight: 130 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: mUbccL4t5Dv0XDRw
   packFolder: extrasguilded
   social: {occupation: Astrologer, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.227
-  height: 1.83
-  weight: 84.82
+  height: 6'
+  weight: 187 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: Qdw4OnB9CZSdUHfh
   packFolder: extrasguilded
   social: {occupation: Hideworker, class: unguilded, society: feudal, organizations: []}
 hm3:

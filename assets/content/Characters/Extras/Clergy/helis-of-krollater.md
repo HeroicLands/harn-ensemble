@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.205
-  height: 1.42
-  weight: 40.37
+  height: 4' 8"
+  weight: 89 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: htXiSMgtQQoP1Cza
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
 hm3:

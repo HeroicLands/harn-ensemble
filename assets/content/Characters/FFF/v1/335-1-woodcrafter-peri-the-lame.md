@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 41
   born: 678.74
-  height: 1.75
-  weight: 71.21
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Lame right foot]
   harnworld: {realm: "", ritual: [peoni]}
-  id: 28qhtq2eCMTuP70o
   packFolder: fffguilded
   social: {occupation: Woodcrafter, class: freeman, society: feudal, organizations: []}
 hm3:

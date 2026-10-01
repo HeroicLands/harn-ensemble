@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 40
   born: 680.212
-  height: 1.7
-  weight: 118.84
+  height: 5' 7"
+  weight: 262 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: rBBoaTn0mgbk5mV8
   packFolder: extrasclergy
   social: {occupation: Cleric/Peoni, class: serf, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.91
-  height: 1.8
-  weight: 67.13
+  height: 5' 11"
+  weight: 148 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: FPTXZ0Da2zAE7agf
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: serf, society: feudal, organizations: []}
 hm3:

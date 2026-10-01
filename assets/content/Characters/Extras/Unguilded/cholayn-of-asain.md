@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 33
   born: 687.303
-  height: 1.7
-  weight: 60.78
+  height: 5' 7"
+  weight: 134 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: RbrY3biKtSbhybea
   packFolder: extrasunguilded
   social: {occupation: Imperial Militia, class: unguilded, society: feudal, organizations: []}
 hm3:

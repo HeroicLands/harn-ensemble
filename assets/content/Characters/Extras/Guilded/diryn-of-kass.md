@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.112
-  height: 1.7
-  weight: 118.84
+  height: 5' 7"
+  weight: 262 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: XZH9hWLTEW2n5G9P
   packFolder: extrasguilded
   social: {occupation: Alchemist, class: serf, society: feudal, organizations: []}
 hm3:

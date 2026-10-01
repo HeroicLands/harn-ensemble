@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.255
-  height: 1.52
-  weight: 50.35
+  height: 5'
+  weight: 111 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: ug8ktmIXMtPAH5Ge
   packFolder: extrasguilded
   social: {occupation: Timberwright, class: serf, society: feudal, organizations: []}
 hm3:

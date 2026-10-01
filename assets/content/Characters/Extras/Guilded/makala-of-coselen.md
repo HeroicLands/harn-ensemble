@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.197
-  height: 1.73
-  weight: 62.14
+  height: 5' 8"
+  weight: 137 lbs
   frame: light
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: iRHsE3WiGs6QWNN1
   packFolder: extrasguilded
   social: {occupation: Chandler, class: noble, society: feudal, organizations: []}
 hm3:

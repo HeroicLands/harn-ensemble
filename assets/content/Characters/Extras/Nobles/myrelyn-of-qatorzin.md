@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 28
   born: 692.168
-  height: 1.68
-  weight: 58.97
+  height: 5' 6"
+  weight: 130 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: bSVUg0i7ZcTMFWiu
   packFolder: extrasnobles
   social:
     occupation: Feudal Knight, Heavy

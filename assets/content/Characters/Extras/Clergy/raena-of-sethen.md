@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.172
-  height: 1.5
-  weight: 60.33
+  height: 4' 11"
+  weight: 133 lbs
   frame: heavy
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: [naveh]}
-  id: Q0RPb6SlAX5sD5JB
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: serf, society: feudal, organizations: []}
 hm3:

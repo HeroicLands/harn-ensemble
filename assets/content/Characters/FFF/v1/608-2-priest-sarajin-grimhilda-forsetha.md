@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 23
   born: 696.83
-  height: 1.85
-  weight: 87.54
+  height: 6' 1"
+  weight: 193 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: RKgUGKh2miBd4DxZ
   packFolder: fffclergy
   social: {occupation: Priestess of Sarajin, class: noble, society: ivinian, organizations: []}
 hm3:

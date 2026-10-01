@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 22
   born: 698.284
-  height: 1.68
-  weight: 58.97
+  height: 5' 6"
+  weight: 130 lbs
   frame: light
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: yDTyc12pa3j9X8M2
   packFolder: extrasserfs
   social: {occupation: Herdsman, class: serf, society: feudal, organizations: []}
 hm3:

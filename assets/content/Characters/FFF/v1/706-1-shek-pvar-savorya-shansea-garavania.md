@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 48
   born: 671.103
-  height: 1.55
-  weight: 46.27
+  height: 5' 1"
+  weight: 102 lbs
   frame: scant
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Foreign accent]
   harnworld: {realm: "", ritual: []}
-  id: HArxJjxZFXt5sqO8
   packFolder: fffmages
   social: {occupation: Savoryan Shek-Pvar, class: noble, society: feudal, organizations: []}
 hm3:

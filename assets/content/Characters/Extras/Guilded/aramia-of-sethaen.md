@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.19
-  height: 1.55
-  weight: 107.05
+  height: 5' 1"
+  weight: 236 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: PWJGn7ovj83wc9SR
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: unguilded, society: feudal, organizations: []}
 hm3:

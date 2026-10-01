@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 44
   born: 676.25
-  height: 1.8
-  weight: 74.84
+  height: 5' 11"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: KnNVQke9AxHqUWgQ
   packFolder: extrasnobles
   social: {occupation: "Feudal Knight, Medium", class: serf, society: feudal, organizations: []}
 hm3:

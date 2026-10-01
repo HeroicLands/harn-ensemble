@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 14
   born: 705.37
-  height: 0.91
-  weight: 49.9
+  height: 3'
+  weight: 110 lbs
   frame: massive
   appearance:
     eye_color: tawny
@@ -22,7 +22,6 @@ data:
     complexion: hideous
     extra_features: [Obese]
   harnworld: {realm: "", ritual: []}
-  id: q3CWI4spzMWAUE77
   packFolder: fffnonhumans
   social: {occupation: Queen, class: queen, society: gargun (araki), organizations: []}
 hm3:

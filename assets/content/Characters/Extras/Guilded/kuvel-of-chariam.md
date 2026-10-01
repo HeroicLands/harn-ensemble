@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 22
   born: 698.83
-  height: 1.7
-  weight: 60.78
+  height: 5' 7"
+  weight: 134 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: DEobTQEXjV8YaPcZ
   packFolder: extrasguilded
   social: {occupation: Lexigrapher, class: serf, society: feudal, organizations: []}
 hm3:

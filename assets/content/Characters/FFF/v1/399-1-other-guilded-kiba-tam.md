@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 17
   born: 702.267
-  height: 1.73
-  weight: 62.6
+  height: 5' 8"
+  weight: 138 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: beautiful
     extra_features: [Sometimes speaks in nonsense sentences]
   harnworld: {realm: "", ritual: [halea, agrik]}
-  id: AFQOLZIVfy1eFIZV
   packFolder: fffguilded
   social: {occupation: Guildsman's offspring, class: freeman, society: viking, organizations: []}
 hm3:

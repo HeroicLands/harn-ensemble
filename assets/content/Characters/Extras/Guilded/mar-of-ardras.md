@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.175
-  height: 1.73
-  weight: 116.12
+  height: 5' 8"
+  weight: 256 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: r62fiH3VST7XC86B
   packFolder: extrasguilded
   social: {occupation: Litigant, class: serf, society: feudal, organizations: []}
 hm3:

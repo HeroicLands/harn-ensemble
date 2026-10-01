@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.331
-  height: 1.3
-  weight: 45.36
+  height: 4' 3"
+  weight: 100 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: jyPcWf2a8nTn5pQA
   packFolder: extrasunguilded
   social: {occupation: Scribe, class: serf, society: feudal, organizations: []}
 hm3:

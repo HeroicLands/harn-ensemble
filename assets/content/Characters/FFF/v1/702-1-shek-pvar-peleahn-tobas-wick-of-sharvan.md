@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 47
   born: 672.202
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Burn scars on his hands, left side of his face]
   harnworld: {realm: "", ritual: [saveknor]}
-  id: JMNJxMJPgR4E2QMp
   packFolder: fffmages
   social: {occupation: Peleahn Shek-Pvar, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 34
   born: 686.185
-  height: 1.68
-  weight: 59.42
+  height: 5' 6"
+  weight: 131 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [naveh]}
-  id: AaGuFCouBtmrPRdj
   packFolder: fffclergy
   social: {occupation: Priest of Naveh, class: freeman, society: feudal, organizations: []}
 hm3:

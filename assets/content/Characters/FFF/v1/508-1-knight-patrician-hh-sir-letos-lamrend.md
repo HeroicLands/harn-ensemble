@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 28
   born: 691.318
-  height: 1.78
-  weight: 87.09
+  height: 5' 10"
+  weight: 192 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Missing a front tooth]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: bAMzqD5qntz3i3Em
   packFolder: fffnobles
   social: {occupation: Patrician Knight, class: noble, society: imperial, organizations: []}
 hm3:

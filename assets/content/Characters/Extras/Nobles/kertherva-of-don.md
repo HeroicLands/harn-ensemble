@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 25
   born: 695.228
-  height: 1.52
-  weight: 61.69
+  height: 5'
+  weight: 136 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: nVNOptzHVh6mMFwA
   packFolder: extrasnobles
   social: {occupation: "Feudal Knight, Heavy", class: serf, society: feudal, organizations: []}
 hm3:

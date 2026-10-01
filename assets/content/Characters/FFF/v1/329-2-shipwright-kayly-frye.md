@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 23
   born: 696.333
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Always bubbly, happy]
   harnworld: {realm: "", ritual: [peoni]}
-  id: iXr9ICXqiaPxI71J
   packFolder: fffguilded
   social: {occupation: Shipwright, class: freeman, society: feudal, organizations: []}
 hm3:

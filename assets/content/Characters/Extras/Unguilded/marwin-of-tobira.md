@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.263
-  height: 1.88
-  weight: 100.7
+  height: 6' 2"
+  weight: 222 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: EKHsdMLY3sDaFKAA
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: serf, society: feudal, organizations: []}
 hm3:

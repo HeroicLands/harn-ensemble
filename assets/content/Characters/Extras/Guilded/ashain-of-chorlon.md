@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.60
-  height: 1.85
-  weight: 71.21
+  height: 6' 1"
+  weight: 157 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: fsSkgWLzPrysNeOm
   packFolder: extrasguilded
   social: {occupation: Seaman, class: serf, society: feudal, organizations: []}
 hm3:

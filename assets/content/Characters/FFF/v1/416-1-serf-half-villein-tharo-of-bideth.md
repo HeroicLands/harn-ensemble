@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 28
   born: 691.273
-  height: 1.63
-  weight: 55.79
+  height: 5' 4"
+  weight: 123 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache, scrawny beard]
   harnworld: {realm: "", ritual: [peoni]}
-  id: zfHZeMOSxVjH1jmT
   packFolder: fffunguilded
   social: {occupation: Half-Villein, class: serf, society: feudal, organizations: []}
 hm3:

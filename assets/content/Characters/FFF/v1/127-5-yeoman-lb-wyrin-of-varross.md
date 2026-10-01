@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 21
   born: 698.200
-  height: 1.75
-  weight: 71.21
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [peoni, sarajin]}
-  id: P3R0iAgl7VVSTJzh
   packFolder: fffmilitary
   social: {occupation: Yeoman (LB), class: freeman, society: feudal, organizations: []}
 hm3:

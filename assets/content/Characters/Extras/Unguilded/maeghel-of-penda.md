@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.348
-  height: 1.8
-  weight: 67.13
+  height: 5' 11"
+  weight: 148 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: 4NZyLJ2TiJAEevCU
   packFolder: extrasunguilded
   social: {occupation: "Feudal Yeoman, Longbow", class: serf, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 26
   born: 693.226
-  height: 1.73
-  weight: 76.2
+  height: 5' 8"
+  weight: 168 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: Tw7v46qDPFLQrmPJ
   packFolder: fffnobles
   social: {occupation: Knight Bachelor (MH), class: noble, society: feudal, organizations: []}
 hm3:

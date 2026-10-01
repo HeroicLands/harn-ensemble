@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.38
-  height: 1.78
-  weight: 122.92
+  height: 5' 10"
+  weight: 271 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: DGghxUr2nx6Mwk5I
   packFolder: extrasclergy
   social: {occupation: Cleric/Ilvir, class: unguilded, society: feudal, organizations: []}
 hm3:

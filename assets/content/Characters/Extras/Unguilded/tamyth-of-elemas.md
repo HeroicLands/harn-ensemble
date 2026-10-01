@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 21
   born: 699.292
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: VaCiVbL0zV7QkIvv
   packFolder: extrasunguilded
   social: {occupation: Herdsman, class: guilded, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: khuzdulflk
   age: 101
   born: 619.23
-  height: 1.5
-  weight: 84.82
+  height: 4' 11"
+  weight: 187 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: YPPJhIhpL9Tmqn5l
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Low Guard, class: guilded, society: feudal, organizations: []}
 hm3:

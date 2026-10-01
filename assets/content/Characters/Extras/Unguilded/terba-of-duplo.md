@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 43
   born: 677.358
-  height: 1.57
-  weight: 103.87
+  height: 5' 2"
+  weight: 229 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: 5kiga0OHUMn4LMkW
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

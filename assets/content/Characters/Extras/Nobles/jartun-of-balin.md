@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 51
   born: 669.68
-  height: 1.7
-  weight: 133.81
+  height: 5' 7"
+  weight: 295 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: zeLa0rIKYtdn9Tb7
   packFolder: extrasnobles
   social: {occupation: Patrician, class: unguilded, society: feudal, organizations: []}
 hm3:

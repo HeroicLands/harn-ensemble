@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 12
   born: 707.106
-  height: 1.32
-  weight: 61.23
+  height: 4' 4"
+  weight: 135 lbs
   frame: heavy
   appearance:
     eye_color: black
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: VMA4xMJkwXQPk7DM
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: princess, society: gargun (khanu), organizations: []}
 hm3:

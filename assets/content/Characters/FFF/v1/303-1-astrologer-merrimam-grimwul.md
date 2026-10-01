@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 43
   born: 676.226
-  height: 1.83
-  weight: 77.11
+  height: 6'
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [saveknor]}
-  id: vH8CEFvFCDQc2AlS
   packFolder: fffguilded
   social: {occupation: Astrologer, class: freeman, society: feudal, organizations: []}
 hm3:

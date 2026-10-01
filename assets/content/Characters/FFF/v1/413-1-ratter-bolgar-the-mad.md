@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 46
   born: 673.161
-  height: 1.6
-  weight: 54.43
+  height: 5' 3"
+  weight: 120 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: YrqliPUW5NTc4A8R
   packFolder: fffunguilded
   social: {occupation: Ratter, class: freeman ex-serf, society: feudal, organizations: []}
 hm3:

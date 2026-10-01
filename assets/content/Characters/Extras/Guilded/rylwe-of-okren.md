@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.234
-  height: 1.57
-  weight: 53.07
+  height: 5' 2"
+  weight: 117 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: dY1pGVReAri5c0k7
   packFolder: extrasguilded
   social: {occupation: Potter, class: unguilded, society: feudal, organizations: []}
 hm3:

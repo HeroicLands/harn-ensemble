@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 39
   born: 681.357
-  height: 1.6
-  weight: 126.1
+  height: 5' 3"
+  weight: 278 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: ULquQrHPnPYjJyYQ
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
 hm3:

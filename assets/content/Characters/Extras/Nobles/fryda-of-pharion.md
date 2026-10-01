@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.147
-  height: 1.6
-  weight: 107.95
+  height: 5' 3"
+  weight: 238 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: RhaTVFwY7VUTkEMO
   packFolder: extrasnobles
   social: {occupation: Patrician, class: serf, society: feudal, organizations: []}
 hm3:

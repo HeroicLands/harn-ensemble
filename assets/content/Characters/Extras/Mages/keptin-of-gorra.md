@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 43
   born: 677.31
-  height: 1.52
-  weight: 56.25
+  height: 5'
+  weight: 124 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: Hs6lucDfPTjDn1uZ
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Fyvria****", class: serf, society: feudal, organizations: []}
 hm3:

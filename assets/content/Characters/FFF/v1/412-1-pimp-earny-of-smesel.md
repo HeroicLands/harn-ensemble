@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 46
   born: 673.326
-  height: 1.91
-  weight: 92.53
+  height: 6' 3"
+  weight: 204 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Ringworm, missing his front teeth, Very violent]
   harnworld: {realm: "", ritual: []}
-  id: F50ca7QxQTd0R0an
   packFolder: fffunguilded
   social: {occupation: Pimp, class: freeman, society: feudal, organizations: []}
 hm3:

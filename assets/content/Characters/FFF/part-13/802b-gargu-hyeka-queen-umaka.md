@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 20
   born: 699.345
-  height: 1.09
-  weight: 73.48
+  height: 3' 7"
+  weight: 162 lbs
   frame: massive
   appearance:
     eye_color: brown
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Obese]
   harnworld: {realm: "", ritual: []}
-  id: XqN3urYzkpHLsZb5
   packFolder: fffnonhumans
   social: {occupation: Queen, class: queen, society: gargun (hyeka), organizations: []}
 hm3:

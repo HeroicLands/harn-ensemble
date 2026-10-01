@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 29
   born: 691.84
-  height: 1.75
-  weight: 63.96
+  height: 5' 9"
+  weight: 141 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: WMaHCKrrDPaRr5Ji
   packFolder: extrasunguilded
   social: {occupation: Herdsman, class: unguilded, society: feudal, organizations: []}
 hm3:

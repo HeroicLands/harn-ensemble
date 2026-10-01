@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 33
   born: 687.82
-  height: 1.6
-  weight: 48.08
+  height: 5' 3"
+  weight: 106 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: ajkbOARPp8L3I8Ve
   packFolder: extrasnobles
   social: {occupation: "Feudal Knight, Heavy", class: noble, society: feudal, organizations: []}
 hm3:

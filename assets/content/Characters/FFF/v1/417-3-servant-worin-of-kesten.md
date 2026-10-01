@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 33
   born: 686.325
-  height: 1.83
-  weight: 77.11
+  height: 6'
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: vLZajD1ySS1AoUHR
   packFolder: fffunguilded
   social: {occupation: Servant, class: freeman, society: feudal, organizations: []}
 hm3:

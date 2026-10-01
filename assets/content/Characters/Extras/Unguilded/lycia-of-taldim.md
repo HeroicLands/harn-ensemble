@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.107
-  height: 1.57
-  weight: 58.97
+  height: 5' 2"
+  weight: 130 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: SV40Od6msozRfO4N
   packFolder: extrasunguilded
   social: {occupation: Farmer, class: unguilded, society: feudal, organizations: []}
 hm3:

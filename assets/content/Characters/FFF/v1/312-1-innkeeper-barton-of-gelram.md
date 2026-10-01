@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 24
   born: 695.323
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: sJ8YQArkYr9NyWD7
   packFolder: fffguilded
   social: {occupation: Innkeeper, class: freeman, society: feudal, organizations: []}
 hm3:

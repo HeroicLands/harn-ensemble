@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 29
   born: 691.107
-  height: 1.57
-  weight: 117.48
+  height: 5' 2"
+  weight: 259 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: F7sN398EZHonSVRA
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: serf, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 45
   born: 675.200
-  height: 1.7
-  weight: 60.78
+  height: 5' 7"
+  weight: 134 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: z3kf5TuCPHsX1ENe
   packFolder: extrasguilded
   social: {occupation: Embalmer, class: unguilded, society: feudal, organizations: []}
 hm3:

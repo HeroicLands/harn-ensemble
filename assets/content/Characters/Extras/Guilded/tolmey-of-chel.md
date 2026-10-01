@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.159
-  height: 1.6
-  weight: 53.98
+  height: 5' 3"
+  weight: 119 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: dmBoNIrSVBxpCsJa
   packFolder: extrasguilded
   social: {occupation: Clothier, class: unguilded, society: feudal, organizations: []}
 hm3:

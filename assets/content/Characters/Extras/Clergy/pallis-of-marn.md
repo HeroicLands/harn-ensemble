@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.159
-  height: 1.63
-  weight: 129.73
+  height: 5' 4"
+  weight: 286 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [halea]}
-  id: KrkN51j9I0xln0Ln
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: unguilded, society: feudal, organizations: []}
 hm3:

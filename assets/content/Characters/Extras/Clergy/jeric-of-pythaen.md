@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.278
-  height: 1.68
-  weight: 72.12
+  height: 5' 6"
+  weight: 159 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: [naveh]}
-  id: 5PH7TTLjUCphjSwb
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: serf, society: feudal, organizations: []}
 hm3:

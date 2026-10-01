@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 37
   born: 682.348
-  height: 1.88
-  weight: 97.98
+  height: 6' 2"
+  weight: 216 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Hay fever, Missing his front tooth]
   harnworld: {realm: "", ritual: [larani]}
-  id: 2OLRDJqmkgcdo5wJ
   packFolder: fffmilitary
   social: {occupation: Man-at-Arms (LF), class: freeman, society: feudal, organizations: []}
 hm3:

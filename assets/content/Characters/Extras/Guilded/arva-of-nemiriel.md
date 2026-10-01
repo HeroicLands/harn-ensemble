@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 42
   born: 678.12
-  height: 1.57
-  weight: 58.97
+  height: 5' 2"
+  weight: 130 lbs
   frame: medium
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: T1pay16VaAYNv4F7
   packFolder: extrasguilded
   social: {occupation: Miller/Millwright, class: unguilded, society: feudal, organizations: []}
 hm3:

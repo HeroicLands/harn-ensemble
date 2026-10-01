@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 22
   born: 698.344
-  height: 1.73
-  weight: 62.14
+  height: 5' 8"
+  weight: 137 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: I0t2JuK8EelnAaZW
   packFolder: extrasunguilded
   social: {occupation: Herdsman, class: unguilded, society: feudal, organizations: []}
 hm3:

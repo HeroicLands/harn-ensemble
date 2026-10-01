@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.140
-  height: 1.7
-  weight: 135.17
+  height: 5' 7"
+  weight: 298 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: [halea]}
-  id: 5MiI4J20AO4Wnse8
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: serf, society: feudal, organizations: []}
 hm3:

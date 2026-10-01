@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.283
-  height: 1.8
-  weight: 142.43
+  height: 5' 11"
+  weight: 314 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: [halea]}
-  id: EiO3xyhGpSuXoLxr
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: serf, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.73
-  height: 1.8
-  weight: 67.13
+  height: 5' 11"
+  weight: 148 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: TwEovUNyRWoQ87vA
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 13
   born: 706.180
-  height: 1.57
-  weight: 47.17
+  height: 5' 2"
+  weight: 104 lbs
   frame: scant
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Expensive, foppish clothes]
   harnworld: {realm: "", ritual: [larani]}
-  id: f3ABHIZWjs5Fq7o6
   packFolder: fffnobles
   social: {occupation: Noble Offspring, class: noble, society: feudal, organizations: []}
 hm3:

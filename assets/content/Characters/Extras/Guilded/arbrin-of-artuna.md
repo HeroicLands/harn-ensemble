@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.219
-  height: 1.85
-  weight: 79.38
+  height: 6' 1"
+  weight: 175 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: MBaLLBGGVzrZm9M6
   packFolder: extrasguilded
   social: {occupation: Shipwright, class: unguilded, society: feudal, organizations: []}
 hm3:

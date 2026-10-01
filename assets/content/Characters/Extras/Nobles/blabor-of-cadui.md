@@ -11,8 +11,8 @@ data:
   species: sindarinflk
   age: 277
   born: 443.64
-  height: 1.55
-  weight: 91.17
+  height: 5' 1"
+  weight: 201 lbs
   frame: medium
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: iPzNMqt7MWLkgOf7
   packFolder: extrasnobles
   social: {occupation: Sindarin Knight, class: unguilded, society: feudal, organizations: []}
 hm3:

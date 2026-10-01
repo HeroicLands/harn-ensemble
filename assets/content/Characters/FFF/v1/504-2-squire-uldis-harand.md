@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 19
   born: 700.40
-  height: 1.8
-  weight: 67.59
+  height: 5' 11"
+  weight: 149 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: mjXgbj1zV1ay1LZW
   packFolder: fffnobles
   social: {occupation: Squire, class: noble, society: feudal, organizations: []}
 hm3:

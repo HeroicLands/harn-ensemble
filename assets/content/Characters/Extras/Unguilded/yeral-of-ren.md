@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.207
-  height: 1.52
-  weight: 50.35
+  height: 5'
+  weight: 111 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Scars]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
-  id: 6IspFGrNWFTBwGk0
   packFolder: extrasunguilded
   social: {occupation: Shaman, class: serf, society: feudal, organizations: []}
 hm3:

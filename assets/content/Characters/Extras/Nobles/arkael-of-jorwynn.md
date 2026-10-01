@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 28
   born: 692.240
-  height: 1.75
-  weight: 121.56
+  height: 5' 9"
+  weight: 268 lbs
   frame: medium
   appearance:
     eye_color: violet
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: bBgIVTewix8NpehP
   packFolder: extrasnobles
   social: {occupation: Herald, class: serf, society: feudal, organizations: []}
 hm3:

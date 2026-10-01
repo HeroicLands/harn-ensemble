@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 25
   born: 694.98
-  height: 1.5
-  weight: 60.33
+  height: 4' 11"
+  weight: 133 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: 8op3vcqRYg32R2Bb
   packFolder: fffmilitary
   social: {occupation: Huscarl (MF), class: freeman, society: viking, organizations: []}
 hm3:

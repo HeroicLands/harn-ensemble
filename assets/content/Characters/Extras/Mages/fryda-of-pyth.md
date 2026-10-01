@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 42
   born: 678.205
-  height: 1.63
-  weight: 62.14
+  height: 5' 4"
+  weight: 137 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: Rpd7rY7LFZ7wTB4G
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Lyahvi****"

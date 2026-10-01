@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.260
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: BqyHw1xZPAfsYTZ7
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: unguilded, society: feudal, organizations: []}
 hm3:

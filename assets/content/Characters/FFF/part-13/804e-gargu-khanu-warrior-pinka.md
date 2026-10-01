@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 10
   born: 709.8
-  height: 1.68
-  weight: 78.93
+  height: 5' 6"
+  weight: 174 lbs
   frame: massive
   appearance:
     eye_color: black
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Stooped posture, drooling, confused look]
   harnworld: {realm: "", ritual: []}
-  id: hFoale7BdhL9OV3F
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: warrior, society: gargun (khanu), organizations: []}
 hm3:

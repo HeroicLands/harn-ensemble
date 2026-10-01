@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 37
   born: 683.276
-  height: 1.75
-  weight: 71.21
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: upobA7LAgX4Fc5OE
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Savorya**", class: serf, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 42
   born: 677.318
-  height: 1.73
-  weight: 69.4
+  height: 5' 8"
+  weight: 153 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Limp, right leg, Slight stoop]
   harnworld: {realm: "", ritual: [halea]}
-  id: rNdQ4oqbCEsEL6p0
   packFolder: fffguilded
   social: {occupation: Embalmer, class: freeman, society: feudal, organizations: []}
 hm3:

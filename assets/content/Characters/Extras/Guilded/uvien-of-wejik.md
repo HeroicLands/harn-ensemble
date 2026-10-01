@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 37
   born: 683.187
-  height: 1.65
-  weight: 63.96
+  height: 5' 5"
+  weight: 141 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: rGv8PHqam2TzWyg8
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: unguilded, society: feudal, organizations: []}
 hm3:

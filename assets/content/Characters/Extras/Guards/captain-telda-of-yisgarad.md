@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.128
-  height: 1.83
-  weight: 77.11
+  height: 6'
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: 0QuBlx64Ps5ELjcr
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Heavy

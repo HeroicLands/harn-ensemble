@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 19
   born: 701.73
-  height: 1.57
-  weight: 58.97
+  height: 5' 2"
+  weight: 130 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: uPOXX9fNKQmndsap
   packFolder: extrasguilded
   social: {occupation: Apothecary, class: unguilded, society: feudal, organizations: []}
 hm3:

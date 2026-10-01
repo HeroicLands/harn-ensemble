@@ -12,8 +12,8 @@ data:
   species: khuzdulflk
   age: 100
   born: 619.71
-  height: 1.45
-  weight: 62.6
+  height: 4' 9"
+  weight: 138 lbs
   frame: massive
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache & beard]
   harnworld: {realm: "", ritual: [siem]}
-  id: m0mas15prhAdcHKM
   packFolder: fffmilitary
   social: {occupation: Clansman (MF), class: freeman, society: khuzdul, organizations: []}
 hm3:

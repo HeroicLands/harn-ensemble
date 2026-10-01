@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 45
   born: 675.130
-  height: 1.8
-  weight: 74.84
+  height: 5' 11"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: 76sXJKzuZu6wSP2a
   packFolder: extrasguilded
   social: {occupation: Pilot, class: guilded, society: feudal, organizations: []}
 hm3:

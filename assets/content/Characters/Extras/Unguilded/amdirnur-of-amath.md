@@ -11,8 +11,8 @@ data:
   species: sindarinflk
   age: 236
   born: 484.34
-  height: 1.65
-  weight: 70.31
+  height: 5' 5"
+  weight: 155 lbs
   frame: heavy
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: 4rM5t9V3eHQfSTMe
   packFolder: extrasunguilded
   social: {occupation: Sindarin Horsebow, class: serf, society: feudal, organizations: []}
 hm3:

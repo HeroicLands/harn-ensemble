@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 39
   born: 681.226
-  height: 1.75
-  weight: 63.96
+  height: 5' 9"
+  weight: 141 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: NyXfXr8kIG47jNrG
   packFolder: extrasguilded
   social: {occupation: Courtesan, class: guilded, society: feudal, organizations: []}
 hm3:

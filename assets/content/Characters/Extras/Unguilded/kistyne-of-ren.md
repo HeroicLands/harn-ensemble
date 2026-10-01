@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.155
-  height: 1.65
-  weight: 57.15
+  height: 5' 5"
+  weight: 126 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
-  id: qy8hxqSaTgAZ0FPO
   packFolder: extrasunguilded
   social: {occupation: Shaman, class: serf, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.251
-  height: 1.68
-  weight: 52.62
+  height: 5' 6"
+  weight: 116 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: oTyUVze5gYHUb9i5
   packFolder: extrasguilded
   social: {occupation: Tentmaker, class: guilded, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 42
   born: 678.14
-  height: 1.35
-  weight: 51.26
+  height: 4' 5"
+  weight: 113 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: boBuKBVPjyVeLz4J
   packFolder: extrasguilded
   social: {occupation: Timberwright, class: noble, society: feudal, organizations: []}
 hm3:

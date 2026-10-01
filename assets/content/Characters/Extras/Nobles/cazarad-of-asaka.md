@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.186
-  height: 1.7
-  weight: 80.74
+  height: 5' 7"
+  weight: 178 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: 2eMn2IPa8K9eTQ8u
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Light Horse

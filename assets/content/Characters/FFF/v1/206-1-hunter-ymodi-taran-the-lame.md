@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 29
   born: 690.185
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Deformed left leg]
   harnworld: {realm: "", ritual: ["custom|Ymodi", sarajin]}
-  id: 8acm9Zl7OcmNQ4d6
   packFolder: fffbarbarians
   social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
 hm3:

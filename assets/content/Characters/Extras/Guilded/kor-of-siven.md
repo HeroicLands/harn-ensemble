@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 34
   born: 686.282
-  height: 1.75
-  weight: 71.21
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: cX50coPOQrCYUXfF
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: unguilded, society: feudal, organizations: []}
 hm3:

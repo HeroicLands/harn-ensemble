@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.41
-  height: 1.68
-  weight: 72.12
+  height: 5' 6"
+  weight: 159 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: TWgtrHXlxQZMeuDy
   packFolder: extrasunguilded
   social: {occupation: Cartographer/Artist, class: unguilded, society: feudal, organizations: []}
 hm3:

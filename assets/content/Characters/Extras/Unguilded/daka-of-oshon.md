@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 34
   born: 686.20
-  height: 1.8
-  weight: 74.84
+  height: 5' 11"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: ettqHEILYKt1zxys
   packFolder: extrasunguilded
   social:
     occupation: Feudal Yeoman, Shortbow

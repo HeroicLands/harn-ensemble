@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 22
   born: 697.266
-  height: 1.5
-  weight: 50.8
+  height: 4' 11"
+  weight: 112 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: GG4L9Xd23Q5kFfeY
   packFolder: fffguilded
   social: {occupation: Mercantyler, class: freeman, society: feudal, organizations: []}
 hm3:

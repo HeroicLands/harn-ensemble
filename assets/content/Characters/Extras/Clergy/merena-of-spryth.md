@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 37
   born: 683.32
-  height: 1.6
-  weight: 84.37
+  height: 5' 3"
+  weight: 186 lbs
   frame: light
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: Ri4rTIgwdwNFaCD7
   packFolder: extrasclergy
   social: {occupation: Cleric/Ilvir, class: serf, society: feudal, organizations: []}
 hm3:

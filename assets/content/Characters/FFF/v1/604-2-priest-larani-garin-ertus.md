@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 23
   born: 696.225
-  height: 1.83
-  weight: 69.4
+  height: 6'
+  weight: 153 lbs
   frame: light
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: lotJIbkkci8IzCN8
   packFolder: fffclergy
   social: {occupation: Laranian Priest, class: noble, society: feudal, organizations: []}
 hm3:

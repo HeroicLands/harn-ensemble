@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.52
-  height: 1.83
-  weight: 77.11
+  height: 6'
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: SgsoOSCF3UlbrkqO
   packFolder: extrasclergy
   social: {occupation: Cleric/Sarajin, class: unguilded, society: feudal, organizations: []}
 hm3:

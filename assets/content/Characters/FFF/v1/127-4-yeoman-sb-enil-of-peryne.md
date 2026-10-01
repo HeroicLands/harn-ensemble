@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 35
   born: 684.204
-  height: 1.8
-  weight: 81.65
+  height: 5' 11"
+  weight: 180 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Parasites (lice), Stammers a lot, very unsure of himself, bows to everyone]
   harnworld: {realm: "", ritual: [peoni]}
-  id: fxyjVCZd3d3TokVH
   packFolder: fffmilitary
   social: {occupation: Yeoman (SB), class: freeman, society: feudal, organizations: []}
 hm3:

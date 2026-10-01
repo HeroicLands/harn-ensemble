@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 25
   born: 695.281
-  height: 1.75
-  weight: 115.21
+  height: 5' 9"
+  weight: 254 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: RNBeY0Z1kd4AIOTH
   packFolder: extrasguilded
   social: {occupation: Ostler, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.107
-  height: 1.88
-  weight: 121.11
+  height: 6' 2"
+  weight: 267 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: Ga6bDecgEilU0T5q
   packFolder: extrasguilded
   social: {occupation: Woodcrafter, class: serf, society: feudal, organizations: []}
 hm3:

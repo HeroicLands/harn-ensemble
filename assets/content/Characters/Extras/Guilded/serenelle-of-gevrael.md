@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 21
   born: 699.144
-  height: 1.65
-  weight: 50.8
+  height: 5' 5"
+  weight: 112 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: hhkLAmcSqUQ7MkO0
   packFolder: extrasguilded
   social: {occupation: Innkeeper, class: unguilded, society: feudal, organizations: []}
 hm3:

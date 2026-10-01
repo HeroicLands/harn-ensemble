@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 42
   born: 678.329
-  height: 1.8
-  weight: 82.1
+  height: 5' 11"
+  weight: 181 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: [larani]}
-  id: fQCs2nh7HLQmofi6
   packFolder: extrasclergy
   social: {occupation: Cleric/Larani, class: serf, society: feudal, organizations: []}
 hm3:

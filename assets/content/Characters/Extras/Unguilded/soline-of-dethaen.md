@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.115
-  height: 2.16
-  weight: 127.91
+  height: 7' 1"
+  weight: 282 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: a6BnebGXPEdKLoIV
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: serf, society: feudal, organizations: []}
 hm3:

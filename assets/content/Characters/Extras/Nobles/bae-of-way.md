@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 44
   born: 676.59
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 0broGSRKEFyuela5
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 37
   born: 683.59
-  height: 1.63
-  weight: 62.14
+  height: 5' 4"
+  weight: 137 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: fNfGTZHezegeJiWa
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: unguilded, society: feudal, organizations: []}
 hm3:

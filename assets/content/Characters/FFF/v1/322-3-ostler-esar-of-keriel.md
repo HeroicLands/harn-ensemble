@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 23
   born: 696.93
-  height: 1.83
-  weight: 84.82
+  height: 6'
+  weight: 187 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Ambidextrous]
   harnworld: {realm: "", ritual: [peoni]}
-  id: dLuiueIsJHF3I55g
   packFolder: fffguilded
   social: {occupation: Apprentice Ostler, class: freeman, society: feudal, organizations: []}
 hm3:

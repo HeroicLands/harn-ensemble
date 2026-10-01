@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 40
   born: 680.118
-  height: 1.73
-  weight: 140.61
+  height: 5' 8"
+  weight: 310 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [siem]}
-  id: keV3cuAw1MMALalJ
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: serf, society: feudal, organizations: []}
 hm3:

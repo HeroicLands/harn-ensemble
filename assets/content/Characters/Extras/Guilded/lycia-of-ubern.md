@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.129
-  height: 1.65
-  weight: 57.15
+  height: 5' 5"
+  weight: 126 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: gUcWGmuncrME23Wl
   packFolder: extrasguilded
   social: {occupation: Chandler, class: serf, society: feudal, organizations: []}
 hm3:

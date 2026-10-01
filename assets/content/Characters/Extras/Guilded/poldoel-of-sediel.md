@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.337
-  height: 1.7
-  weight: 73.94
+  height: 5' 7"
+  weight: 163 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: FYx3PMKqif3aUrbQ
   packFolder: extrasguilded
   social: {occupation: Potter, class: serf, society: feudal, organizations: []}
 hm3:

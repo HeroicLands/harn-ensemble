@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.230
-  height: 1.8
-  weight: 82.1
+  height: 5' 11"
+  weight: 181 lbs
   frame: heavy
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: wWkpaqsBE0oeSis7
   packFolder: extrasguilded
   social: {occupation: Weaponcrafter, class: unguilded, society: feudal, organizations: []}
 hm3:

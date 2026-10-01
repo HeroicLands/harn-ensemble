@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 32
   born: 687.28
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Pox scars]
   harnworld: {realm: "", ritual: [morgath]}
-  id: rN8CITlJzwED2WvW
   packFolder: fffclergy
   social: {occupation: Priest of Morgath, class: freeman, society: feudal, organizations: []}
 hm3:

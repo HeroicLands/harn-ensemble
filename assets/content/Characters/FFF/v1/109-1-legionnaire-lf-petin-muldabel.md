@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 38
   born: 681.200
-  height: 1.91
-  weight: 126.1
+  height: 6' 3"
+  weight: 278 lbs
   frame: massive
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: S4NHCjrce7sfnCtA
   packFolder: fffmilitary
   social: {occupation: Legionnaire (LF), class: freeman, society: imperial, organizations: []}
 hm3:

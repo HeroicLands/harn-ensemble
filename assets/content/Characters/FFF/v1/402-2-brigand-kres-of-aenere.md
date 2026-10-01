@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 29
   born: 690.167
-  height: 1.8
-  weight: 74.84
+  height: 5' 11"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Never smiles]
   harnworld: {realm: "", ritual: [peoni, agrik]}
-  id: zzb52YxzVJETrKFW
   packFolder: fffunguilded
   social: {occupation: Brigand, class: serf, society: feudal, organizations: []}
 hm3:

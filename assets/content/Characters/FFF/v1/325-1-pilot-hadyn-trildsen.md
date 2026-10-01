@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 38
   born: 681.309
-  height: 1.8
-  weight: 74.84
+  height: 5' 11"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Ambidextrous, Scar on right cheek, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: P8gejvyLNHxIidxr
   packFolder: fffguilded
   social: {occupation: Pilot, class: freeman, society: viking, organizations: []}
 hm3:

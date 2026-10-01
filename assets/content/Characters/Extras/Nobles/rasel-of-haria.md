@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 28
   born: 692.186
-  height: 1.73
-  weight: 55.34
+  height: 5' 8"
+  weight: 122 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: Y8dxNZkTotZHZloX
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 29
   born: 691.154
-  height: 1.6
-  weight: 53.98
+  height: 5' 3"
+  weight: 119 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: zGqh9F373KsLDA8J
   packFolder: extrasguilded
   social: {occupation: Potter, class: guilded, society: feudal, organizations: []}
 hm3:

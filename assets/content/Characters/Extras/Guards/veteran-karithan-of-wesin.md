@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.35
-  height: 1.85
-  weight: 141.07
+  height: 6' 1"
+  weight: 311 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: xFcSIgThvrp5paiB
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

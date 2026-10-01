@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 37
   born: 683.248
-  height: 1.6
-  weight: 66.22
+  height: 5' 3"
+  weight: 146 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: Wi3zJgkzTQogHp4G
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
 hm3:

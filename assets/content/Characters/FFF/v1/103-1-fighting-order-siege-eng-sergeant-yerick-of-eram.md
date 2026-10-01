@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 46
   born: 673.172
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: o1TBjF89VeUt8Gxh
   packFolder: fffmilitary
   social: {occupation: Fighting Order (MF), class: freeman, society: feudal, organizations: []}
 hm3:

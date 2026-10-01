@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 51
   born: 668.288
-  height: 1.75
-  weight: 71.21
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: awKuFaoeX8MPhTj1
   packFolder: fffunguilded
   social: {occupation: Thatcher, class: freeman, society: feudal, organizations: []}
 hm3:

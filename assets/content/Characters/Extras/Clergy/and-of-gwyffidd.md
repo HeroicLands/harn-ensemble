@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 21
   born: 699.269
-  height: 1.73
-  weight: 55.34
+  height: 5' 8"
+  weight: 122 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: [morgath]}
-  id: bZmMDpcouD6HdKmv
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: unguilded, society: feudal, organizations: []}
 hm3:

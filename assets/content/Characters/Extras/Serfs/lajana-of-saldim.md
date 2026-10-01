@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.304
-  height: 1.65
-  weight: 57.15
+  height: 5' 5"
+  weight: 126 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
-  id: AlkX7OoeG48Qg3hG
   packFolder: extrasserfs
   social: {occupation: Farmer, class: serf, society: feudal, organizations: []}
 hm3:

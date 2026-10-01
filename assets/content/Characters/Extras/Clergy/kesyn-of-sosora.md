@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.161
-  height: 1.85
-  weight: 71.21
+  height: 6' 1"
+  weight: 157 lbs
   frame: light
   appearance:
     eye_color: violet
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [agrik]}
-  id: GzazT6WHbyyFvfap
   packFolder: extrasclergy
   social: {occupation: Cleric/Agrik, class: guilded, society: feudal, organizations: []}
 hm3:

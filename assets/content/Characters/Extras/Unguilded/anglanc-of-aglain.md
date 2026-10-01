@@ -11,8 +11,8 @@ data:
   species: sindarinflk
   age: 250
   born: 470.335
-  height: 1.63
-  weight: 49.44
+  height: 5' 4"
+  weight: 109 lbs
   frame: scant
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
-  id: jUJ9jTBf76O1cGeC
   packFolder: extrasunguilded
   social: {occupation: "Sindarin Ranger, Light", class: serf, society: feudal, organizations: []}
 hm3:

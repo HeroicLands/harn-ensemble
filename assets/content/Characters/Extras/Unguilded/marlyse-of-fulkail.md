@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 19
   born: 701.306
-  height: 1.75
-  weight: 56.7
+  height: 5' 9"
+  weight: 125 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: Eizvo54yDs5UH78J
   packFolder: extrasunguilded
   social: {occupation: Laborer/Longshoreman, class: noble, society: feudal, organizations: []}
 hm3:

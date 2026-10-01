@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 40
   born: 680.192
-  height: 1.63
-  weight: 62.14
+  height: 5' 4"
+  weight: 137 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: gRimrD9xTZdFem3I
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: unguilded, society: feudal, organizations: []}
 hm3:

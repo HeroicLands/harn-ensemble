@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.51
-  height: 1.7
-  weight: 53.98
+  height: 5' 7"
+  weight: 119 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: VCBO8nVkbh399MVC
   packFolder: extrasguilded
   social: {occupation: Miller/Millwright, class: serf, society: feudal, organizations: []}
 hm3:

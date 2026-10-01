@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 20
   born: 700.316
-  height: 1.7
-  weight: 132
+  height: 5' 7"
+  weight: 291 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: mxSBGPS3cgKlqZvp
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: serf, society: feudal, organizations: []}
 hm3:

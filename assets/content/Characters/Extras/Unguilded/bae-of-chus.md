@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.172
-  height: 1.63
-  weight: 85.28
+  height: 5' 4"
+  weight: 188 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: BvAHTXI86WQoaAeY
   packFolder: extrasunguilded
   social: {occupation: Cook/Servant, class: guilded, society: feudal, organizations: []}
 hm3:

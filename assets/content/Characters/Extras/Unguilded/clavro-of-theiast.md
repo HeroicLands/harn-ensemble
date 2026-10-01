@@ -11,8 +11,8 @@ data:
   species: khuzdulflk
   age: 89
   born: 631.353
-  height: 1.45
-  weight: 57.15
+  height: 4' 9"
+  weight: 126 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: ue4GZ7X7rytoRfAz
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Clansman, class: serf, society: feudal, organizations: []}
 hm3:

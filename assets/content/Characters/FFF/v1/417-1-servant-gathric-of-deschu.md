@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 29
   born: 690.322
-  height: 1.75
-  weight: 78.47
+  height: 5' 9"
+  weight: 173 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Left handed, Broken nose, scars]
   harnworld: {realm: "", ritual: [peoni]}
-  id: p0Fuj2jIfStY3daR
   packFolder: fffunguilded
   social: {occupation: Servant, class: freeman, society: feudal, organizations: []}
 hm3:

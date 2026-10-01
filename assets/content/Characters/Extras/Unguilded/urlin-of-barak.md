@@ -11,8 +11,8 @@ data:
   species: khuzdulflk
   age: 109
   born: 611.16
-  height: 1.32
-  weight: 45.36
+  height: 4' 4"
+  weight: 100 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: Du6f5NkhjozQYmh5
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Clansman, class: unguilded, society: feudal, organizations: []}
 hm3:

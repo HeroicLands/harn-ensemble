@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 48
   born: 672.75
-  height: 1.88
-  weight: 117.48
+  height: 6' 2"
+  weight: 259 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 4eGgTwqnMQ5zd1q2
   packFolder: extrasnobles
   social: {occupation: Baliff, class: serf, society: feudal, organizations: []}
 hm3:

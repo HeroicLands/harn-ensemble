@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 43
   born: 676.109
-  height: 1.93
-  weight: 94.8
+  height: 6' 4"
+  weight: 209 lbs
   frame: heavy
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Crude, lecherous]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: HMdk5hHSK8CiaDIO
   packFolder: fffmilitary
   social: {occupation: Mercenary (MF), class: freeman, society: feudal, organizations: []}
 hm3:

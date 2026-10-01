@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 34
   born: 685.159
-  height: 2.18
-  weight: 130.63
+  height: 7' 2"
+  weight: 288 lbs
   frame: massive
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Gigantism, Well groomed beard, moustache]
   harnworld: {realm: "", ritual: [korr]}
-  id: wxCq5wuoFDXB55JX
   packFolder: fffbarbarians
   social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
 hm3:

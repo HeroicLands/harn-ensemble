@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.202
-  height: 1.63
-  weight: 68.04
+  height: 5' 4"
+  weight: 150 lbs
   frame: heavy
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: AVXIma9S3IBAoNQ8
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Lyahvi***", class: unguilded, society: feudal, organizations: []}
 hm3:

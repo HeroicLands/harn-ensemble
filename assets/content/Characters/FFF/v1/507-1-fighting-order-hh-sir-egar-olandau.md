@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 34
   born: 685.359
-  height: 1.88
-  weight: 92.53
+  height: 6' 2"
+  weight: 204 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [agrik]}
-  id: fT3OK3pjLfcN9riV
   packFolder: fffnobles
   social: {occupation: Fighting order knight, class: noble, society: feudal, organizations: []}
 hm3:

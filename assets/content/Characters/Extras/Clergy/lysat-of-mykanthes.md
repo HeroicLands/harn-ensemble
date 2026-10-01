@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.219
-  height: 1.75
-  weight: 128.37
+  height: 5' 9"
+  weight: 283 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [morgath]}
-  id: tP9RyYCMlsUhd3Dj
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: serf, society: feudal, organizations: []}
 hm3:

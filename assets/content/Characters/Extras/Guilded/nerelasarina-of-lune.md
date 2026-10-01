@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 19
   born: 701.37
-  height: 1.88
-  weight: 81.65
+  height: 6' 2"
+  weight: 180 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: BLH3QiV0M5JX1z7d
   packFolder: extrasguilded
   social: {occupation: Courtesan, class: serf, society: feudal, organizations: []}
 hm3:

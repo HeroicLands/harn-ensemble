@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 58
   born: 662.99
-  height: 1.73
-  weight: 55.34
+  height: 5' 8"
+  weight: 122 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: gAz8SDnbSQDzFOdM
   packFolder: extrasnobles
   social: {occupation: Herald, class: unguilded, society: feudal, organizations: []}
 hm3:

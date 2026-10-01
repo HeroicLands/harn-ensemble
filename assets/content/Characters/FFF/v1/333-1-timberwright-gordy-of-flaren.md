@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 35
   born: 684.26
-  height: 1.65
-  weight: 60.78
+  height: 5' 5"
+  weight: 134 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Acne scars on face]
   harnworld: {realm: "", ritual: [peoni]}
-  id: rbMRdFECTlSZuiP7
   packFolder: fffguilded
   social: {occupation: Timberwright, class: freeman, society: feudal, organizations: []}
 hm3:

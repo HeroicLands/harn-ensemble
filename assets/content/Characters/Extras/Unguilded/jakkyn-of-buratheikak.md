@@ -11,8 +11,8 @@ data:
   species: khuzdulflk
   age: 120
   born: 600.15
-  height: 1.42
-  weight: 55.79
+  height: 4' 8"
+  weight: 123 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: kImaYAggpgwCmFdi
   packFolder: extrasunguilded
   social: {occupation: Khuzdul Low Guard, class: serf, society: feudal, organizations: []}
 hm3:

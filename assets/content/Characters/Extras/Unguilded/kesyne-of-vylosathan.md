@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.96
-  height: 1.68
-  weight: 110.68
+  height: 5' 6"
+  weight: 244 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: wwNCDedxnZmhL8rX
   packFolder: extrasunguilded
   social: {occupation: Hunter/Trapper, class: serf, society: feudal, organizations: []}
 hm3:

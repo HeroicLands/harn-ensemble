@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 34
   born: 685.156
-  height: 1.63
-  weight: 56.25
+  height: 5' 4"
+  weight: 124 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: 9o0fxrdxnNpPstOe
   packFolder: fffnobles
   social: {occupation: Knight/Spy, class: freeman, society: feudal, organizations: []}
 hm3:

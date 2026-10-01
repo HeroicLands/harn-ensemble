@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 15
   born: 704.75
-  height: 1.63
-  weight: 55.79
+  height: 5' 4"
+  weight: 123 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Freckles]
   harnworld: {realm: "", ritual: []}
-  id: SyAnstLAXUJg1mNZ
   packFolder: fffnobles
   social: {occupation: Squire, class: noble, society: feudal, organizations: []}
 hm3:

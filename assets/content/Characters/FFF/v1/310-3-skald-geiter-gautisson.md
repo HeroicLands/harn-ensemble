@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 18
   born: 701.28
-  height: 1.83
-  weight: 69.4
+  height: 6'
+  weight: 153 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: ia2zjJrUeoSAxFzi
   packFolder: fffguilded
   social: {occupation: Skald, class: freeman, society: viking, organizations: []}
 hm3:

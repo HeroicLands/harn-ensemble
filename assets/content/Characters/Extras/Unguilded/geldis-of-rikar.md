@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 40
   born: 680.237
-  height: 1.7
-  weight: 80.74
+  height: 5' 7"
+  weight: 178 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: mXKa3MFWlHI2iww8
   packFolder: extrasunguilded
   social: {occupation: Imperial Militia, class: serf, society: feudal, organizations: []}
 hm3:

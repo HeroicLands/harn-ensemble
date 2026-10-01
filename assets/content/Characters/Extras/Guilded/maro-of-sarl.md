@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 20
   born: 700.109
-  height: 1.85
-  weight: 87.09
+  height: 6' 1"
+  weight: 192 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: WasKcGuYRBPpcIqg
   packFolder: extrasguilded
   social: {occupation: Apothecary, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 59
   born: 660.324
-  height: 1.55
-  weight: 49.9
+  height: 5' 1"
+  weight: 110 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Hand tremor]
   harnworld: {realm: "", ritual: ["custom|Old Jarin"]}
-  id: jW8F24E2EwEro9xh
   packFolder: fffunguilded
   social: {occupation: Wise Woman, class: freeman, society: feudal, organizations: []}
 hm3:

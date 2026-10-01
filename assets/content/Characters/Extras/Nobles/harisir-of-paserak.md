@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.115
-  height: 1.78
-  weight: 118.84
+  height: 5' 10"
+  weight: 262 lbs
   frame: massive
   appearance:
     eye_color: violet
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: oWelKdywtTzpK9LK
   packFolder: extrasnobles
   social: {occupation: Herald, class: serf, society: feudal, organizations: []}
 hm3:

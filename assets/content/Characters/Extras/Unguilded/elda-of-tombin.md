@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 33
   born: 687.188
-  height: 1.57
-  weight: 53.07
+  height: 5' 2"
+  weight: 117 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: da1GRkcJAL4R6Onx
   packFolder: extrasunguilded
   social: {occupation: "Feudal Guardsman, Light", class: serf, society: feudal, organizations: []}
 hm3:

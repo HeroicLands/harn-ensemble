@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 45
   born: 674.45
-  height: 1.83
-  weight: 84.82
+  height: 6'
+  weight: 187 lbs
   frame: heavy
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Reddish beard, moustache, bald]
   harnworld: {realm: "", ritual: [peoni]}
-  id: ssnt13YqynwruYqK
   packFolder: fffmilitary
   social: {occupation: Scout (SB), class: serf, society: feudal, organizations: []}
 hm3:

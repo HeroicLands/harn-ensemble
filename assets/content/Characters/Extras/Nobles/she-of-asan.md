@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 33
   born: 687.228
-  height: 1.65
-  weight: 50.8
+  height: 5' 5"
+  weight: 112 lbs
   frame: scant
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: S44yjv8H8BokCWMo
   packFolder: extrasnobles
   social:
     occupation: Viking Huscarl, Medium Foot

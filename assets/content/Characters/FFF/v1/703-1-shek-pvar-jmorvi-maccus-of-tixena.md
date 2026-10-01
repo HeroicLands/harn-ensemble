@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 33
   born: 687.94
-  height: 1.8
-  weight: 74.84
+  height: 5' 11"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: violet
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Birthmark]
   harnworld: {realm: "", ritual: [peoni, saveknor]}
-  id: cNLfCZnFAc0oKHjd
   packFolder: fffmages
   social:
     occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)

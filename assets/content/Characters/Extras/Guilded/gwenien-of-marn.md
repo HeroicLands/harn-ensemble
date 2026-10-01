@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 41
   born: 679.128
-  height: 1.55
-  weight: 51.71
+  height: 5' 1"
+  weight: 114 lbs
   frame: light
   appearance:
     eye_color: violet
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: Q6pGGGyA7Tp3PWBq
   packFolder: extrasguilded
   social: {occupation: Tentmaker, class: serf, society: feudal, organizations: []}
 hm3:

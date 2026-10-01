@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 29
   born: 690.113
-  height: 1.6
-  weight: 60.33
+  height: 5' 3"
+  weight: 133 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Birthmark]
   harnworld: {realm: "", ritual: [peoni]}
-  id: x0wP2qykwZWZSX7M
   packFolder: fffguilded
   social: {occupation: Thief, class: freeman, society: feudal, organizations: []}
 hm3:

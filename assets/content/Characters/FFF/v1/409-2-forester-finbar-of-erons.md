@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 20
   born: 699.311
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani, halea]}
-  id: gs7OGJYJuhURyJOU
   packFolder: fffunguilded
   social: {occupation: Forester, class: freeman, society: feudal, organizations: []}
 hm3:

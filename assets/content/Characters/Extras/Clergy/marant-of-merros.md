@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 25
   born: 695.352
-  height: 1.7
-  weight: 135.17
+  height: 5' 7"
+  weight: 298 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: [halea]}
-  id: bnzsBOQV8AuQiC7K
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: serf, society: feudal, organizations: []}
 hm3:

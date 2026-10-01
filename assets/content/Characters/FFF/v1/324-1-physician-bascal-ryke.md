@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 48
   born: 671.320
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Purple birthmark on right ear, Dresses all in black]
   harnworld: {realm: "", ritual: [peoni]}
-  id: EH1Rs3rQVVy0oBAt
   packFolder: fffguilded
   social: {occupation: Physician, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.337
-  height: 1.65
-  weight: 63.96
+  height: 5' 5"
+  weight: 141 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: hUUmEcao2RDGhkBI
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: serf, society: feudal, organizations: []}
 hm3:

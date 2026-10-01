@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.332
-  height: 1.8
-  weight: 118.39
+  height: 5' 11"
+  weight: 261 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: kyF01cwGjh58yodZ
   packFolder: extrasguilded
   social: {occupation: Ostler, class: serf, society: feudal, organizations: []}
 hm3:

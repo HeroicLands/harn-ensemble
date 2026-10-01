@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 20
   born: 699.306
-  height: 1.73
-  weight: 97.07
+  height: 5' 8"
+  weight: 214 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: 75cCiClOM8WKxeBm
   packFolder: fffguilded
   social: {occupation: Glassworker, class: freeman, society: feudal, organizations: []}
 hm3:

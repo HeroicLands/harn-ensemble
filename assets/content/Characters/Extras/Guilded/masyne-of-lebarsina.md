@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.163
-  height: 1.63
-  weight: 62.14
+  height: 5' 4"
+  weight: 137 lbs
   frame: medium
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: 5EqOWHn9pt6kOkio
   packFolder: extrasguilded
   social: {occupation: Charcoaler, class: guilded, society: feudal, organizations: []}
 hm3:

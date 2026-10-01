@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 19
   born: 701.53
-  height: 1.83
-  weight: 61.69
+  height: 6'
+  weight: 136 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: k26KTIn03q1bBjRN
   packFolder: extrasserfs
   social: {occupation: Farmer, class: serf, society: feudal, organizations: []}
 hm3:

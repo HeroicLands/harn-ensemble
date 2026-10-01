@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.85
-  height: 1.63
-  weight: 62.14
+  height: 5' 4"
+  weight: 137 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: [larani]}
-  id: 2y6eZOStzMA2tJT6
   packFolder: extrasclergy
   social: {occupation: Cleric/Larani, class: guilded, society: feudal, organizations: []}
 hm3:

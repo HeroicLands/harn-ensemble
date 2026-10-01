@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 25
   born: 695.193
-  height: 1.65
-  weight: 50.8
+  height: 5' 5"
+  weight: 112 lbs
   frame: scant
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: 8JKZDhaiYxKhPD21
   packFolder: extrasguilded
   social: {occupation: Timberwright, class: noble, society: feudal, organizations: []}
 hm3:

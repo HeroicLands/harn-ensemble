@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.37
-  height: 1.55
-  weight: 57.61
+  height: 5' 1"
+  weight: 127 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: L9QAhSkKwoGQIERt
   packFolder: extrasguilded
   social: {occupation: Pilot, class: unguilded, society: feudal, organizations: []}
 hm3:

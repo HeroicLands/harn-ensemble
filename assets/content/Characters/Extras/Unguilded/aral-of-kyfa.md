@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.204
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: iCX77oMupOOYNtXg
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: guilded, society: feudal, organizations: []}
 hm3:

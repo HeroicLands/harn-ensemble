@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 39
   born: 681.121
-  height: 1.73
-  weight: 62.14
+  height: 5' 8"
+  weight: 137 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: GtQoPm6rAr13dzuN
   packFolder: extrasguilded
   social: {occupation: Mercantyler, class: guilded, society: feudal, organizations: []}
 hm3:

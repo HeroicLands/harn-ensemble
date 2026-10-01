@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 57
   born: 663.318
-  height: 1.7
-  weight: 140.61
+  height: 5' 7"
+  weight: 310 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: LCeRfRl1NMYy23SX
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
 hm3:

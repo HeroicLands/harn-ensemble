@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 11
   born: 709.129
-  height: 1.42
-  weight: 45.36
+  height: 4' 8"
+  weight: 100 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: RWymnuimvX4tvFSL
   packFolder: fffnobles
   social: {occupation: Page, class: freeman, society: feudal, organizations: []}
 hm3:

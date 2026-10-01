@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.136
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: OkfTTzZg9WKDDVhX
   packFolder: extrasguilded
   social: {occupation: Salter, class: serf, society: feudal, organizations: []}
 hm3:

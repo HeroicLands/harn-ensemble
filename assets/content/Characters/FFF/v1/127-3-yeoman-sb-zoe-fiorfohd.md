@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 34
   born: 685.86
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Dark complexion, long curly hair]
   harnworld: {realm: "", ritual: [siem]}
-  id: RVwOS24RmbplzdmD
   packFolder: fffmilitary
   social: {occupation: Yeoman (SB), class: freeman, society: feudal, organizations: []}
 hm3:

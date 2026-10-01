@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.14
-  height: 1.73
-  weight: 105.23
+  height: 5' 8"
+  weight: 232 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: PMjLjv9xqmHVC6zJ
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: guilded, society: feudal, organizations: []}
 hm3:

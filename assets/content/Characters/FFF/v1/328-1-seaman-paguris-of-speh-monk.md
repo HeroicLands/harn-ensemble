@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 37
   born: 682.97
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Able Seaman's tattoo]
   harnworld: {realm: "", ritual: [peoni, eder]}
-  id: vqAkD6vWfrDHgzDH
   packFolder: fffguilded
   social: {occupation: Seaman, class: freeman, society: feudal, organizations: []}
 hm3:

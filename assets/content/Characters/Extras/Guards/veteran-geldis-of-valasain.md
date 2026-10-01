@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.181
-  height: 1.63
-  weight: 68.04
+  height: 5' 4"
+  weight: 150 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: J4zxxrqkXLkX3F9j
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

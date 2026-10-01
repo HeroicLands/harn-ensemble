@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 29
   born: 691.158
-  height: 1.63
-  weight: 49.44
+  height: 5' 4"
+  weight: 109 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: G9hIh3eVutHY7ECy
   packFolder: extrasmages
   social:
     occupation: "Shek-Pvar/Peleahn****"

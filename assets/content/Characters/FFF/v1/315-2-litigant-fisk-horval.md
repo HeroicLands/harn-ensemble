@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 34
   born: 684.70
-  height: 1.91
-  weight: 83.91
+  height: 6' 3"
+  weight: 185 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: FFlbxLmRBPnYXtRh
   packFolder: fffguilded
   social: {occupation: Lawspeaker, class: noble, society: ivinian, organizations: []}
 hm3:

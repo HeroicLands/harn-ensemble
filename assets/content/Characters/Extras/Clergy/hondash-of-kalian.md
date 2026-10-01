@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.128
-  height: 1.88
-  weight: 97.98
+  height: 6' 2"
+  weight: 216 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [larani]}
-  id: PCW0yun95NZDArmy
   packFolder: extrasclergy
   social: {occupation: Cleric/Larani, class: serf, society: feudal, organizations: []}
 hm3:

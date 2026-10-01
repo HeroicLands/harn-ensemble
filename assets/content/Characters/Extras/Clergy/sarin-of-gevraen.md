@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.272
-  height: 1.78
-  weight: 65.32
+  height: 5' 10"
+  weight: 144 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: bxsV4Mi7t2GriNMd
   packFolder: extrasclergy
   social: {occupation: Cleric/Larani, class: guilded, society: feudal, organizations: []}
 hm3:

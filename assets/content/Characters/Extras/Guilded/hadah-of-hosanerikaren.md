@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 39
   born: 681.222
-  height: 1.7
-  weight: 120.66
+  height: 5' 7"
+  weight: 266 lbs
   frame: massive
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: aMjJ0vyE5IWdnuyE
   packFolder: extrasguilded
   social: {occupation: Miner, class: serf, society: feudal, organizations: []}
 hm3:

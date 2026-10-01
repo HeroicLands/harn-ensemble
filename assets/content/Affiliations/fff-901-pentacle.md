@@ -4,7 +4,7 @@ name: {full: The Pentacle, aliases: []}
 type: affiliation
 subType: venture
 tags: []
-data: {icon: null, templatePriority: null, id: iQzDh13KVsOrpbqc, relations: []}
+data: {icon: null, templatePriority: null, relations: []}
 sohl: {}
 ---
 

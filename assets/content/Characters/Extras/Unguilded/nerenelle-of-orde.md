@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 22
   born: 698.1
-  height: 1.73
-  weight: 104.78
+  height: 5' 8"
+  weight: 231 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: EakicwVhZKWQcgIN
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: serf, society: feudal, organizations: []}
 hm3:

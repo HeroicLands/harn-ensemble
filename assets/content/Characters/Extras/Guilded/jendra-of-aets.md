@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 29
   born: 691.43
-  height: 1.78
-  weight: 127.46
+  height: 5' 10"
+  weight: 281 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
-  id: 2rq1c38ruOhHPA6y
   packFolder: extrasguilded
   social: {occupation: Salter, class: unguilded, society: feudal, organizations: []}
 hm3:

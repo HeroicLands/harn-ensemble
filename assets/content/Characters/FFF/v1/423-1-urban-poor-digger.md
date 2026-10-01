@@ -11,8 +11,8 @@ data:
   gender: male
   species: humanflk
   age: 37
-  height: 1.73
-  weight: 63.5
+  height: 5' 8"
+  weight: 140 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Several scars, a limp, Speaks very slowly]
   harnworld: {realm: "", ritual: [peoni, larani]}
-  id: UChsLQBJKBQG7CpD
   packFolder: fffunguilded
   social: {occupation: Day labourer, class: freeman, society: feudal, organizations: []}
 hm3:

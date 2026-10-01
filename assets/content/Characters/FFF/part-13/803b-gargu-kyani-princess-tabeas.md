@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 10
   born: 709.111
-  height: 1.02
-  weight: 34.02
+  height: 3' 4"
+  weight: 75 lbs
   frame: medium
   appearance:
     eye_color: light grey
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
-  id: KBHuaBINAwJLOyIT
   packFolder: fffnonhumans
   social: {occupation: Princess, class: princess, society: gargun (kyani), organizations: []}
 hm3:

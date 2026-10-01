@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.324
-  height: 1.73
-  weight: 62.14
+  height: 5' 8"
+  weight: 137 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: OmGvnRAYROTOulHw
   packFolder: extrasunguilded
   social: {occupation: Scribe, class: noble, society: feudal, organizations: []}
 hm3:

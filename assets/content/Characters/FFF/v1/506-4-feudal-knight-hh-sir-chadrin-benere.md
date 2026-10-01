@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 24
   born: 695.102
-  height: 1.88
-  weight: 99.79
+  height: 6' 2"
+  weight: 220 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Often drinking or drunk]
   harnworld: {realm: "", ritual: [larani]}
-  id: TJDHmy9dazsUhB7b
   packFolder: fffnobles
   social: {occupation: Knight Bachelor (HH), class: noble, society: feudal, organizations: []}
 hm3:

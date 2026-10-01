@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.161
-  height: 1.73
-  weight: 55.34
+  height: 5' 8"
+  weight: 122 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: 2dFAtYI8nTSIKduh
   packFolder: extrasunguilded
   social: {occupation: Imperial Militia, class: unguilded, society: feudal, organizations: []}
 hm3:

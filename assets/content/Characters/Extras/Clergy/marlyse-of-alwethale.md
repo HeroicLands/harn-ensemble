@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.191
-  height: 1.7
-  weight: 118.84
+  height: 5' 7"
+  weight: 262 lbs
   frame: light
   appearance:
     eye_color: violet
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: [peoni]}
-  id: BQ62VXibfTIXxj5e
   packFolder: extrasclergy
   social: {occupation: Cleric/Peoni, class: noble, society: feudal, organizations: []}
 hm3:

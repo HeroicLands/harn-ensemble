@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.174
-  height: 1.78
-  weight: 127.46
+  height: 5' 10"
+  weight: 281 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: M6TXzPNSUWQZdMeu
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: unguilded, society: feudal, organizations: []}
 hm3:

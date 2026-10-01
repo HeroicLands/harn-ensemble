@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.326
-  height: 1.47
-  weight: 101.15
+  height: 4' 10"
+  weight: 223 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: oXe6d93blMQR3tO1
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: serf, society: feudal, organizations: []}
 hm3:

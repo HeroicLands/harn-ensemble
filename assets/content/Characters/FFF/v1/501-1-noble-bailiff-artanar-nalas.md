@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 58
   born: 661.10
-  height: 1.73
-  weight: 80.29
+  height: 5' 8"
+  weight: 177 lbs
   frame: medium
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Persistent cough, Trembling hands]
   harnworld: {realm: "", ritual: [larani]}
-  id: I0KXgGBzbsH784FH
   packFolder: fffnobles
   social: {occupation: Bailiff, class: noble, society: feudal, organizations: []}
 hm3:

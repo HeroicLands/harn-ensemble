@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 15
   born: 704.260
-  height: 1.27
-  weight: 47.63
+  height: 4' 2"
+  weight: 105 lbs
   frame: heavy
   appearance:
     eye_color: auburn
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Beard kilt, Khuzdul- made scale armor, axe, fine cloak]
   harnworld: {realm: "", ritual: []}
-  id: 4l4ShRsH8Yvl62l0
   packFolder: fffnonhumans
   social: {occupation: King, class: king, society: gargun (viasal), organizations: []}
 hm3:

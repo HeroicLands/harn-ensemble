@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 34
   born: 686.52
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: X6KRHhVPRUpl9mNN
   packFolder: extrasguilded
   social: {occupation: Astrologer, class: serf, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 43
   born: 676.265
-  height: 1.85
-  weight: 79.38
+  height: 6' 1"
+  weight: 175 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [halea, saveknor]}
-  id: xHdUwDJj30SyHfyL
   packFolder: fffnobles
   social: {occupation: Exchequer Clerk, class: freeman, society: feudal, organizations: []}
 hm3:

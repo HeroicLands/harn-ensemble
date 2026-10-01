@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 17
   born: 703.146
-  height: 1.75
-  weight: 63.96
+  height: 5' 9"
+  weight: 141 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: cEnK83HvO55drABd
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Light

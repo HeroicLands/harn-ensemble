@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.14
-  height: 1.65
-  weight: 70.31
+  height: 5' 5"
+  weight: 155 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: zi5kEzFaO7yQ6xpf
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

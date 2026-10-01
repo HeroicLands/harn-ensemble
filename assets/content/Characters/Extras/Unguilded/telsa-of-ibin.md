@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.323
-  height: 1.7
-  weight: 127.91
+  height: 5' 7"
+  weight: 282 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: OOGK1nt2MoCoar0E
   packFolder: extrasunguilded
   social: {occupation: Beggar, class: serf, society: feudal, organizations: []}
 hm3:

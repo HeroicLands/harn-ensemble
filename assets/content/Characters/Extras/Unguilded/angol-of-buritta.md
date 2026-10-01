@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 21
   born: 699.184
-  height: 1.8
-  weight: 74.84
+  height: 5' 11"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: BoUl7sW8Metk48Vx
   packFolder: extrasunguilded
   social:
     occupation: Feudal Yeoman, Longbow

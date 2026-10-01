@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.355
-  height: 1.7
-  weight: 148.32
+  height: 5' 7"
+  weight: 327 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [halea]}
-  id: QcB9yNJrivSewCLq
   packFolder: extrasclergy
   social: {occupation: Cleric/Halea, class: serf, society: feudal, organizations: []}
 hm3:

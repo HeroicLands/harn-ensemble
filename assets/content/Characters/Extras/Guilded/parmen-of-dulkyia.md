@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.11
-  height: 1.75
-  weight: 71.21
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: sjZOtY3W15kwzpJR
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: guilded, society: feudal, organizations: []}
 hm3:

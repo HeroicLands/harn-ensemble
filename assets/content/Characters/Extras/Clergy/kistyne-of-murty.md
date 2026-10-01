@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.269
-  height: 1.75
-  weight: 114.76
+  height: 5' 9"
+  weight: 253 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [peoni]}
-  id: GJgBNkhPIV4hIAGX
   packFolder: extrasclergy
   social: {occupation: Cleric/Peoni, class: serf, society: feudal, organizations: []}
 hm3:

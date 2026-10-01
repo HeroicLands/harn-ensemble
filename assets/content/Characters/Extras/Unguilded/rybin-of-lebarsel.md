@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.176
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: KqAlbETjIBCiKMkH
   packFolder: extrasunguilded
   social: {occupation: Sage/Tutor, class: guilded, society: feudal, organizations: []}
 hm3:

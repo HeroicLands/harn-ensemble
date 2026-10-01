@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.247
-  height: 1.73
-  weight: 62.14
+  height: 5' 8"
+  weight: 137 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: SKVsDL49yKz1TnAK
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: unguilded, society: feudal, organizations: []}
 hm3:

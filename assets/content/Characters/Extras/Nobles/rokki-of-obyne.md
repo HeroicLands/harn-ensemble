@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 54
   born: 666.118
-  height: 1.65
-  weight: 95.71
+  height: 5' 5"
+  weight: 211 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: jQO1UpZLYjDoLUSO
   packFolder: extrasnobles
   social: {occupation: Herald, class: unguilded, society: feudal, organizations: []}
 hm3:

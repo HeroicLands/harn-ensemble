@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 38
   born: 681.72
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: plain (at best)
     extra_features: [Scarred ear, blind wandering eye, Thick accent]
   harnworld: {realm: "", ritual: [peoni]}
-  id: qvLzM1HO7661euis
   packFolder: fffclergy
   social: {occupation: Peonian Acolyte, class: freeman, society: feudal, organizations: []}
 hm3:

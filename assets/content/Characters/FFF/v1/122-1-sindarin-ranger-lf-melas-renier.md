@@ -12,8 +12,8 @@ data:
   species: sindarinflk
   age: 2430
   born: -1711.201
-  height: 1.65
-  weight: 61.23
+  height: 5' 5"
+  weight: 135 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
-  id: fmub4svRhzTqgHvi
   packFolder: fffmilitary
   social: {occupation: Ranger, class: freeman, society: feudal, organizations: []}
 hm3:

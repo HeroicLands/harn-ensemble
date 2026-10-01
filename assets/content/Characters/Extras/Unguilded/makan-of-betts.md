@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.344
-  height: 1.7
-  weight: 96.16
+  height: 5' 7"
+  weight: 212 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: njhMOgUeauFG0z5Y
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: serf, society: feudal, organizations: []}
 hm3:

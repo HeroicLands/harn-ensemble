@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 37
   born: 682.25
-  height: 1.88
-  weight: 81.65
+  height: 6' 2"
+  weight: 180 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: [Moustache, goatee]
   harnworld: {realm: "", ritual: [peoni]}
-  id: LichuZPDbvMhBsKm
   packFolder: fffguilded
   social: {occupation: Mason, class: freeman, society: feudal, organizations: []}
 hm3:

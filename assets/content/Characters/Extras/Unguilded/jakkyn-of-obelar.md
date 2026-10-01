@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.94
-  height: 1.75
-  weight: 71.21
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: AFnFfgFi80fx6f9p
   packFolder: extrasunguilded
   social: {occupation: Fisherman, class: unguilded, society: feudal, organizations: []}
 hm3:

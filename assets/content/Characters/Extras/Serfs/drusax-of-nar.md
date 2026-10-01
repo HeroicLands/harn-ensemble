@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 29
   born: 691.182
-  height: 1.65
-  weight: 103.42
+  height: 5' 5"
+  weight: 228 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
-  id: GWRcMFyHCevNRM2f
   packFolder: extrasserfs
   social: {occupation: Herdsman, class: serf, society: feudal, organizations: []}
 hm3:

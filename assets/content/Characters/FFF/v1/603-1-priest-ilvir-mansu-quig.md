@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 52
   born: 667.163
-  height: 1.65
-  weight: 68.04
+  height: 5' 5"
+  weight: 150 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Left handed, Musty smell]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: a77bAdISmJuD2xNf
   packFolder: fffclergy
   social: {occupation: Ilviran Priest, class: freeman, society: jarin, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 19
   born: 700.117
-  height: 1.22
-  weight: 45.36
+  height: 4'
+  weight: 100 lbs
   frame: heavy
   appearance:
     eye_color: violet
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Pox marks, parasites, dwarfism]
   harnworld: {realm: "", ritual: [peoni]}
-  id: w2vH7cnipVCJSRLA
   packFolder: fffunguilded
   social: {occupation: Labourer, class: freeman ex-slave, society: viking, organizations: []}
 hm3:

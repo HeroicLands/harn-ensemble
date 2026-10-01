@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 42
   born: 678.360
-  height: 1.73
-  weight: 113.85
+  height: 5' 8"
+  weight: 251 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: 1qnrdHs9e7HTrfRd
   packFolder: extrasunguilded
   social: {occupation: Hunter/Trapper, class: unguilded, society: feudal, organizations: []}
 hm3:

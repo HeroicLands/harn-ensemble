@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 28
   born: 692.112
-  height: 1.8
-  weight: 82.1
+  height: 5' 11"
+  weight: 181 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: SwaFaLydCR9uo3eB
   packFolder: extrasguilded
   social: {occupation: Miller/Millwright, class: guilded, society: feudal, organizations: []}
 hm3:

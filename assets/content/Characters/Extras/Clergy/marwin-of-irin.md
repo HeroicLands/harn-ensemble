@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.83
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [agrik]}
-  id: O5BIimC3GakpFXxu
   packFolder: extrasclergy
   social: {occupation: Cleric/Agrik, class: unguilded, society: feudal, organizations: []}
 hm3:

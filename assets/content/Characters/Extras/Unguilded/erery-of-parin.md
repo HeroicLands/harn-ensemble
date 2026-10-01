@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 37
   born: 683.43
-  height: 1.55
-  weight: 51.71
+  height: 5' 1"
+  weight: 114 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: HeKMRmkjhA08cTDD
   packFolder: extrasunguilded
   social: {occupation: Scribe, class: unguilded, society: feudal, organizations: []}
 hm3:

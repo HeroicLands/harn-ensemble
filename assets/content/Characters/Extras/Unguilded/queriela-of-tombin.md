@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.125
-  height: 2.08
-  weight: 155.58
+  height: 6' 10"
+  weight: 343 lbs
   frame: massive
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
-  id: VHM577MlKlcWHH07
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: serf, society: feudal, organizations: []}
 hm3:

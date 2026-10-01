@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 34
   born: 686.53
-  height: 1.68
-  weight: 72.12
+  height: 5' 6"
+  weight: 159 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: W2euhcy5gZWm4cZ5
   packFolder: extrasguilded
   social: {occupation: Thespian, class: unguilded, society: feudal, organizations: []}
 hm3:

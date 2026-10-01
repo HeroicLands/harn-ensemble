@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 24
   born: 695.322
-  height: 1.78
-  weight: 65.32
+  height: 5' 10"
+  weight: 144 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
-  id: qzHmILrtfj7CeQbU
   packFolder: fffclergy
   social: {occupation: Agrikan Priestess, class: noble, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 34
   born: 686.141
-  height: 1.78
-  weight: 87.09
+  height: 5' 10"
+  weight: 192 lbs
   frame: massive
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 59EBepiJOqjfwkKh
   packFolder: extrasguilded
   social: {occupation: Chandler, class: unguilded, society: feudal, organizations: []}
 hm3:

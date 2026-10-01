@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 28
   born: 692.105
-  height: 1.75
-  weight: 63.96
+  height: 5' 9"
+  weight: 141 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: DmDr1np2ADatu6rc
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

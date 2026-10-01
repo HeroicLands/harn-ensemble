@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 32
   born: 687.54
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [peoni]}
-  id: nxSFrUyBX8xu7U3X
   packFolder: fffguilded
   social: {occupation: Lia-Kavair, class: freeman, society: feudal, organizations: []}
 hm3:

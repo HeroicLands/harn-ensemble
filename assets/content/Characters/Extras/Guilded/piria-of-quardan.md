@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 43
   born: 677.308
-  height: 1.7
-  weight: 132
+  height: 5' 7"
+  weight: 291 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: STK7MzjENG64ypAw
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: serf, society: feudal, organizations: []}
 hm3:

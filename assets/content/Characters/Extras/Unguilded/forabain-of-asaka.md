@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.188
-  height: 1.75
-  weight: 78.02
+  height: 5' 9"
+  weight: 172 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
-  id: 7C7vGNn3RPQNyaCd
   packFolder: extrasunguilded
   social: {occupation: Shaman, class: serf, society: feudal, organizations: []}
 hm3:

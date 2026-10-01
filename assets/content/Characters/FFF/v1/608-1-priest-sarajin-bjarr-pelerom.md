@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 42
   born: 677.244
-  height: 1.8
-  weight: 74.84
+  height: 5' 11"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Missing his right arm below the elbow, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: k7q33nHXUCmbrB3b
   packFolder: fffclergy
   social: {occupation: Runemaster, class: freeman, society: viking, organizations: []}
 hm3:

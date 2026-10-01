@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 11
   born: 708.145
-  height: 1.27
-  weight: 43.09
+  height: 4' 2"
+  weight: 95 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -22,7 +22,6 @@ data:
     complexion: ugly
     extra_features: [Wheezing, Belt of human hands, human hair tassels]
   harnworld: {realm: "", ritual: []}
-  id: Df28UjH6GUtBDEX7
   packFolder: fffnonhumans
   social: {occupation: King, class: king, society: gargun (hyeka), organizations: []}
 hm3:

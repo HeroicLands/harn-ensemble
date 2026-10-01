@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.327
-  height: 1.65
-  weight: 50.8
+  height: 5' 5"
+  weight: 112 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: wtHkIvPziqNtKaFl
   packFolder: extrasguilded
   social: {occupation: Courtesan, class: unguilded, society: feudal, organizations: []}
 hm3:

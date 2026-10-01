@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 33
   born: 687.138
-  height: 1.7
-  weight: 118.39
+  height: 5' 7"
+  weight: 261 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
-  id: sf3enulxjA8WKM58
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: unguilded, society: feudal, organizations: []}
 hm3:

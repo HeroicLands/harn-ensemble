@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 38
   born: 681.276
-  height: 1.75
-  weight: 67.59
+  height: 5' 9"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Squints]
   harnworld: {realm: "", ritual: [peoni]}
-  id: cvnkHX7g7glN0XmA
   packFolder: fffunguilded
   social: {occupation: Reeve, class: serf, society: feudal, organizations: []}
 hm3:

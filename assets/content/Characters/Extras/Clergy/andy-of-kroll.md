@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.47
-  height: 1.63
-  weight: 86.18
+  height: 5' 4"
+  weight: 190 lbs
   frame: light
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: GHtrgZMjg5nE5IsS
   packFolder: extrasclergy
   social: {occupation: Cleric/Ilvir, class: serf, society: feudal, organizations: []}
 hm3:

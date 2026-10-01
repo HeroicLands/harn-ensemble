@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.80
-  height: 1.85
-  weight: 142.43
+  height: 6' 1"
+  weight: 314 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
-  id: nRbcihFxtHt806ZY
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: serf, society: feudal, organizations: []}
 hm3:

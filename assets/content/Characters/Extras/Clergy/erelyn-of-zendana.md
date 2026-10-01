@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 34
   born: 686.357
-  height: 1.6
-  weight: 125.19
+  height: 5' 3"
+  weight: 276 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [siem]}
-  id: 9tK7qOt38gMffuFC
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: guilded, society: feudal, organizations: []}
 hm3:

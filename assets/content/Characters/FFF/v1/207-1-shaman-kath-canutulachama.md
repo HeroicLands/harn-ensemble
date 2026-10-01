@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 33
   born: 686.70
-  height: 1.83
-  weight: 77.11
+  height: 6'
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: jAo8s9jZuqDYS5uE
   packFolder: fffbarbarians
   social: {occupation: Shaman, class: tribesman, society: tribal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.228
-  height: 1.68
-  weight: 58.97
+  height: 5' 6"
+  weight: 130 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: OnQSTFetmcCgwk6K
   packFolder: extrasunguilded
   social: {occupation: Sage/Tutor, class: unguilded, society: feudal, organizations: []}
 hm3:

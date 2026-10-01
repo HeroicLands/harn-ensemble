@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 28
   born: 692.249
-  height: 1.57
-  weight: 64.86
+  height: 5' 2"
+  weight: 143 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: [agrik]}
-  id: 7HBlCtfbiIkbOkrk
   packFolder: extrasclergy
   social: {occupation: Cleric/Agrik, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 39
   born: 680.218
-  height: 1.88
-  weight: 81.65
+  height: 6' 2"
+  weight: 180 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
-  id: cLnhyY4QXQWraFxa
   packFolder: fffmilitary
   social: {occupation: Sea Captain, class: freeman, society: feudal, organizations: []}
 hm3:

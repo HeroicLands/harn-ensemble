@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.266
-  height: 1.55
-  weight: 57.61
+  height: 5' 1"
+  weight: 127 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 2xG9BXpKgRXgX7nn
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Savorya**", class: serf, society: feudal, organizations: []}
 hm3:

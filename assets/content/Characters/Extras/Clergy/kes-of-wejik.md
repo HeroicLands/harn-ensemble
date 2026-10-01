@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.201
-  height: 1.8
-  weight: 105.23
+  height: 5' 11"
+  weight: 232 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: lAqw1EoZbLfcWVU8
   packFolder: extrasclergy
   social: {occupation: Cleric/Ilvir, class: unguilded, society: feudal, organizations: []}
 hm3:

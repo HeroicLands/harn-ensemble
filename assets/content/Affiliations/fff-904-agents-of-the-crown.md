@@ -4,7 +4,7 @@ name: {full: Agents of the Crown, aliases: []}
 type: affiliation
 subType: venture
 tags: []
-data: {icon: null, templatePriority: null, id: tcM3VLVYfSXzCDFd, relations: []}
+data: {icon: null, templatePriority: null, relations: []}
 sohl: {}
 ---
 

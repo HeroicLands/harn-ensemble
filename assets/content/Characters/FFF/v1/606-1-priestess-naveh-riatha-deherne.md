@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 27
   born: 692.227
-  height: 1.55
-  weight: 57.61
+  height: 5' 1"
+  weight: 127 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [naveh, peoni]}
-  id: 78QD3CkEWFGwFie3
   packFolder: fffclergy
   social: {occupation: Navehan Priestess, class: freeman, society: feudal, organizations: []}
 hm3:

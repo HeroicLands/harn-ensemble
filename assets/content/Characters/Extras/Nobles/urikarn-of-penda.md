@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 53
   born: 667.116
-  height: 1.8
-  weight: 141.97
+  height: 5' 11"
+  weight: 313 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: HxdkilWP3FXBY6e3
   packFolder: extrasnobles
   social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
 hm3:

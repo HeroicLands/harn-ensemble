@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 20
   born: 699.228
-  height: 1.73
-  weight: 62.6
+  height: 5' 8"
+  weight: 138 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Hair is cut short like a man]
   harnworld: {realm: "", ritual: [sha]}
-  id: zIkSmQfFvJZkJ652
   packFolder: fffbarbarians
   social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
 hm3:

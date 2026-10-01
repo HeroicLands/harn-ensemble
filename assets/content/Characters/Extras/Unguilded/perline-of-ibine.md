@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.303
-  height: 1.75
-  weight: 92.53
+  height: 5' 9"
+  weight: 204 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: CRD95sSfo34sMD8P
   packFolder: extrasunguilded
   social: {occupation: Cook/Servant, class: serf, society: feudal, organizations: []}
 hm3:

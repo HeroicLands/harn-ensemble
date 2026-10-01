@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.349
-  height: 1.65
-  weight: 50.8
+  height: 5' 5"
+  weight: 112 lbs
   frame: scant
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: Lbr1uvGReArobl5d
   packFolder: extrasunguilded
   social: {occupation: Farmer, class: unguilded, society: feudal, organizations: []}
 hm3:

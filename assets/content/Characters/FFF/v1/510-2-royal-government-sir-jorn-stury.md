@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 41
   born: 678.87
-  height: 1.85
-  weight: 79.38
+  height: 6' 1"
+  weight: 175 lbs
   frame: medium
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [His left leg has a slight limp]
   harnworld: {realm: "", ritual: [larani]}
-  id: aghrGYgVl3ACbIz7
   packFolder: fffnobles
   social: {occupation: Royal Agent, class: noble, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 30
   born: 690.205
-  height: 1.63
-  weight: 107.5
+  height: 5' 4"
+  weight: 237 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: JIRHxbKYmGijrcLU
   packFolder: extrasunguilded
   social: {occupation: Hunter/Trapper, class: unguilded, society: feudal, organizations: []}
 hm3:

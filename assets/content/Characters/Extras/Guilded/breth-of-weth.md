@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 38
   born: 682.27
-  height: 1.73
-  weight: 99.34
+  height: 5' 8"
+  weight: 219 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
-  id: YlbeFSrbemgKv84p
   packFolder: extrasguilded
   social: {occupation: Lexigrapher, class: serf, society: feudal, organizations: []}
 hm3:

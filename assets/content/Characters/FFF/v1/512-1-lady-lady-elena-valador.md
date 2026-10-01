@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 37
   born: 682.114
-  height: 1.57
-  weight: 53.07
+  height: 5' 2"
+  weight: 117 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: BlophomZelxk7f6x
   packFolder: fffnobles
   social: {occupation: Chatelaine, class: noble, society: feudal, organizations: []}
 hm3:

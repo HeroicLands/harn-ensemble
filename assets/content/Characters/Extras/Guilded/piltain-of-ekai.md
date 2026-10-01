@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 39
   born: 681.221
-  height: 1.75
-  weight: 78.02
+  height: 5' 9"
+  weight: 172 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: k32Sgd4BR3RhRmXA
   packFolder: extrasguilded
   social: {occupation: Thief, class: unguilded, society: feudal, organizations: []}
 hm3:

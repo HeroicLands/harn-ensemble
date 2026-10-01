@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 26
   born: 694.94
-  height: 1.68
-  weight: 52.62
+  height: 5' 6"
+  weight: 116 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: whzVj3jYBl1W98jU
   packFolder: extrasunguilded
   social: {occupation: Thatcher, class: guilded, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 37
   born: 683.218
-  height: 1.73
-  weight: 55.34
+  height: 5' 8"
+  weight: 122 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: CX6azkOk8B6Cn3nh
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Savorya***", class: serf, society: feudal, organizations: []}
 hm3:

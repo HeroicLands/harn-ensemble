@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 8
   born: 712.203
-  height: 1.27
-  weight: 24.95
+  height: 4' 2"
+  weight: 55 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
-  id: tdj4wiuYXKyinfOG
   packFolder: fffguilded
   social: {occupation: Other (Guild) - Child, class: freeman, society: feudal, organizations: []}
 hm3:

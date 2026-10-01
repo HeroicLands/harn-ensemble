@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 39
   born: 681.61
-  height: 1.8
-  weight: 131.09
+  height: 5' 11"
+  weight: 289 lbs
   frame: scant
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: [siem]}
-  id: E1xaY2VHybPabsrf
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: guilded, society: feudal, organizations: []}
 hm3:

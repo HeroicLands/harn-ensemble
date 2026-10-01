@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 40
   born: 680.43
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: TFG3PGAAgKdjG9Ta
   packFolder: extrasguilded
   social: {occupation: Embalmer, class: serf, society: feudal, organizations: []}
 hm3:

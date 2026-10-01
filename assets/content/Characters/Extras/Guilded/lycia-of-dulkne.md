@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.337
-  height: 1.6
-  weight: 48.08
+  height: 5' 3"
+  weight: 106 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: s6IWtVynMRJwi9mM
   packFolder: extrasguilded
   social: {occupation: Charcoaler, class: guilded, society: feudal, organizations: []}
 hm3:

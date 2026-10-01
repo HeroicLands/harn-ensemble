@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.231
-  height: 1.78
-  weight: 115.21
+  height: 5' 10"
+  weight: 254 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: FYA9CN5yD4tRn1EH
   packFolder: extrasunguilded
   social: {occupation: Gladiator, class: serf, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 23
   born: 696.233
-  height: 1.75
-  weight: 71.21
+  height: 5' 9"
+  weight: 157 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Freckles]
   harnworld: {realm: "", ritual: [peoni]}
-  id: uMJgJveyseH1IrT8
   packFolder: fffguilded
   social: {occupation: Journeyman Ostler, class: freeman, society: feudal, organizations: []}
 hm3:

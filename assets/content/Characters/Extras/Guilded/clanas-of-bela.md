@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.195
-  height: 1.68
-  weight: 65.77
+  height: 5' 6"
+  weight: 145 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: zD8Ih5emSyiYHlHL
   packFolder: extrasguilded
   social: {occupation: Glassworker, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 25
   born: 695.276
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: 24FyQ7w2Kl5yHkot
   packFolder: extrasguilded
   social: {occupation: Weaponcrafter, class: unguilded, society: feudal, organizations: []}
 hm3:

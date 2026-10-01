@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 60
   born: 659.147
-  height: 1.83
-  weight: 77.11
+  height: 6'
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache & short goatee]
   harnworld: {realm: "", ritual: [siem]}
-  id: nN0ZeHNkQv29VR0P
   packFolder: fffclergy
   social: {occupation: Priest of Siem, class: freeman, society: feudal, organizations: []}
 hm3:

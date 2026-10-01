@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 24
   born: 695.42
-  height: 1.83
-  weight: 77.11
+  height: 6'
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani, peoni]}
-  id: aRJme3GFrpfTgRe6
   packFolder: fffmilitary
   social: {occupation: Mercenary (LF), class: freeman, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.144
-  height: 1.75
-  weight: 63.96
+  height: 5' 9"
+  weight: 141 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: bFKpc7sWwunh86UV
   packFolder: extrasguards
   social:
     occupation: Feudal Guardsman, Heavy

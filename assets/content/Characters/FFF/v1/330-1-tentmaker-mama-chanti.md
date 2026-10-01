@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 93
   born: 626.134
-  height: 1.55
-  weight: 79.38
+  height: 5' 1"
+  weight: 175 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: DXII1oXhOLZBU8FB
   packFolder: fffguilded
   social: {occupation: Tentmaker, class: freeman, society: feudal, organizations: []}
 hm3:

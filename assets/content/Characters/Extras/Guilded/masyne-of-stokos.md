@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 25
   born: 695.211
-  height: 1.57
-  weight: 108.41
+  height: 5' 2"
+  weight: 239 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: BOYhzmBfZljhMVDD
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: serf, society: feudal, organizations: []}
 hm3:

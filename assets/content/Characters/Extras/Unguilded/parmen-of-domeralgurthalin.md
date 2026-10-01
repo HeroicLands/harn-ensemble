@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.27
-  height: 1.75
-  weight: 107.05
+  height: 5' 9"
+  weight: 236 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
-  id: c57Ao4DRnfjLHGrp
   packFolder: extrasunguilded
   social: {occupation: Prostitute/Pimp, class: serf, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 25
   born: 695.84
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: VSRgAyDawOHGT4WE
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

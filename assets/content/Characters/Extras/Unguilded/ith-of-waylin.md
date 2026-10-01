@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 40
   born: 680.67
-  height: 1.7
-  weight: 73.94
+  height: 5' 7"
+  weight: 163 lbs
   frame: heavy
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
-  id: D6zKkp3dJtcuuVf0
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: serf, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.153
-  height: 1.8
-  weight: 104.78
+  height: 5' 11"
+  weight: 231 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
-  id: 5R4UQ00cZrOpFMR6
   packFolder: extrasguilded
   social: {occupation: Locksmith, class: unguilded, society: feudal, organizations: []}
 hm3:

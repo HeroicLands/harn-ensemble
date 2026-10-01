@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 34
   born: 685.350
-  height: 1.83
-  weight: 77.11
+  height: 6'
+  weight: 170 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Outrageous clothes]
   harnworld: {realm: "", ritual: [peoni, eder]}
-  id: dB9zMBkQJSKNOVu4
   packFolder: fffguilded
   social: {occupation: Pilot, class: freeman, society: feudal, organizations: []}
 hm3:

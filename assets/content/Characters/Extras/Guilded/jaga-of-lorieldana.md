@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.236
-  height: 1.88
-  weight: 89.81
+  height: 6' 2"
+  weight: 198 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
-  id: UuxZ1w0lG3VAlA8D
   packFolder: extrasguilded
   social: {occupation: Metalsmith, class: serf, society: feudal, organizations: []}
 hm3:

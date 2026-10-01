@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 33
   born: 686.79
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Pallid complexion, Bad breath]
   harnworld: {realm: "", ritual: [morgath]}
-  id: q4Dsf9m89eR2J6oj
   packFolder: fffnobles
   social: {occupation: Knight Bachelor (MH), class: noble, society: feudal, organizations: []}
 hm3:

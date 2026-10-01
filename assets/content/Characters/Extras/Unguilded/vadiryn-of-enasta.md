@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 43
   born: 677.186
-  height: 1.88
-  weight: 81.65
+  height: 6' 2"
+  weight: 180 lbs
   frame: medium
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
-  id: FnoUiCXjoQ8UqSHT
   packFolder: extrasunguilded
   social: {occupation: Shaman, class: serf, society: feudal, organizations: []}
 hm3:

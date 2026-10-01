@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 6
   born: 713.283
-  height: 1.12
-  weight: 37.65
+  height: 3' 8"
+  weight: 83 lbs
   frame: medium
   appearance:
     eye_color: pale blue
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Ruined left eye, Heavily scarred face, bear claw totem necklace]
   harnworld: {realm: "", ritual: []}
-  id: yHTXrQJNtmgOTo45
   packFolder: fffnonhumans
   social: {occupation: Warrior, class: hunter, society: gargun (kyani), organizations: []}
 hm3:

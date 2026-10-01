@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 33
   born: 687.96
-  height: 1.78
-  weight: 65.32
+  height: 5' 10"
+  weight: 144 lbs
   frame: light
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
-  id: R1SgydlC9jQ3U0ZV
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Shortbow

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.359
-  height: 1.57
-  weight: 47.17
+  height: 5' 2"
+  weight: 104 lbs
   frame: scant
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: neEvgBQ0nVgJyagD
   packFolder: extrasguilded
   social: {occupation: Salter, class: serf, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 21
   born: 699.241
-  height: 1.83
-  weight: 84.82
+  height: 6'
+  weight: 187 lbs
   frame: heavy
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: 1vRlA9jG46ez82VW
   packFolder: extrasunguilded
   social: {occupation: Animal Trainer, class: noble, society: feudal, organizations: []}
 hm3:

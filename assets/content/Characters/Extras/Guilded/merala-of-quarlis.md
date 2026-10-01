@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 39
   born: 681.147
-  height: 1.83
-  weight: 117.03
+  height: 6'
+  weight: 258 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: mtnDVQV8nwf4Vw0b
   packFolder: extrasguilded
   social: {occupation: Perfumer, class: unguilded, society: feudal, organizations: []}
 hm3:

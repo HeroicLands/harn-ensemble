@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 53
   born: 667.262
-  height: 1.75
-  weight: 78.47
+  height: 5' 9"
+  weight: 173 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [larani, saveknor]}
-  id: DNQtPuSTCANb2wPN
   packFolder: fffunguilded
   social: {occupation: Sage/Tutor, class: freeman, society: feudal, organizations: []}
 hm3:

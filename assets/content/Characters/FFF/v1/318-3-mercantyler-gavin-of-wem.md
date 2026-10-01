@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 46
   born: 673.344
-  height: 1.73
-  weight: 69.4
+  height: 5' 8"
+  weight: 153 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: handsome
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
-  id: HxtAGRO4FSTP0v3G
   packFolder: fffguilded
   social: {occupation: Caravan Master, class: freeman, society: feudal, organizations: []}
 hm3:

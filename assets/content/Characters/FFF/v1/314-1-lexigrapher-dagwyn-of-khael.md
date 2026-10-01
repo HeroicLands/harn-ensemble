@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 23
   born: 696.165
-  height: 1.57
-  weight: 53.07
+  height: 5' 2"
+  weight: 117 lbs
   frame: light
   appearance:
     eye_color: hazel (milky white)
@@ -22,7 +22,6 @@ data:
     complexion: beautiful
     extra_features: [Cataracts]
   harnworld: {realm: "", ritual: [peoni]}
-  id: YodiswBfSMxgPVLK
   packFolder: fffguilded
   social: {occupation: Lexigrapher, class: freeman, society: feudal, organizations: []}
 hm3:

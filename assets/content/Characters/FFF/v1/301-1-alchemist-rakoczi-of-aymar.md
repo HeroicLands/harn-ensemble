@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 62
   born: 658.30
-  height: 1.83
-  weight: 84.82
+  height: 6'
+  weight: 187 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Irrational, raving, mood swings, tremors, Moustache & beard]
   harnworld: {realm: "", ritual: [saveknor]}
-  id: FhJJONaF4YMgTlz6
   packFolder: fffguilded
   social: {occupation: Alchemist, class: freeman, society: feudal, organizations: []}
 hm3:

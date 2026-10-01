@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 36
   born: 683.157
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Crooked left forearm]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: 7sF0UGfk4SwrXTDS
   packFolder: fffguilded
   social: {occupation: Hideworker, class: freeman, society: viking, organizations: []}
 hm3:

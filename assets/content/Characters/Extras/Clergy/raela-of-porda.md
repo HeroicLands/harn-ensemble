@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 22
   born: 698.67
-  height: 1.68
-  weight: 116.12
+  height: 5' 6"
+  weight: 256 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
-  id: lYcuQRdn1quuD6ep
   packFolder: extrasclergy
   social: {occupation: Cleric/Morgath, class: serf, society: feudal, organizations: []}
 hm3:

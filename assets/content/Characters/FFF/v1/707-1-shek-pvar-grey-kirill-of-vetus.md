@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 43
   born: 677.256
-  height: 1.78
-  weight: 72.57
+  height: 5' 10"
+  weight: 160 lbs
   frame: medium
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: []
   harnworld: {realm: "", ritual: [saveknor]}
-  id: aUAhUMbDkL0Qu2Xl
   packFolder: fffmages
   social: {occupation: Gray Mage, class: freeman, society: feudal, organizations: []}
 hm3:

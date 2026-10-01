@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.3
-  height: 1.85
-  weight: 87.09
+  height: 6' 1"
+  weight: 192 lbs
   frame: heavy
   appearance:
     eye_color: violet
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
-  id: PQ5lECs1gd3xY3BN
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Light

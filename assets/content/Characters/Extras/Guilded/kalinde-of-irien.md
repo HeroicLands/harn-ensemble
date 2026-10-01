@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 21
   born: 699.251
-  height: 1.63
-  weight: 103.42
+  height: 5' 4"
+  weight: 228 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: sBJHPJNm4zoRwWhG
   packFolder: extrasguilded
   social: {occupation: Salter, class: serf, society: feudal, organizations: []}
 hm3:

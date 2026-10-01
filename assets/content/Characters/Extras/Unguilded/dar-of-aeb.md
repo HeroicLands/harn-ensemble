@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 42
   born: 678.143
-  height: 1.88
-  weight: 73.48
+  height: 6' 2"
+  weight: 162 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: v5Ub2DNNwFENp2ad
   packFolder: extrasunguilded
   social:
     occupation: Imperial Legionnaire, Medium

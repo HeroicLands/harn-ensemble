@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.239
-  height: 1.57
-  weight: 53.07
+  height: 5' 2"
+  weight: 117 lbs
   frame: light
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
-  id: YjCciDu7V1HgUOFV
   packFolder: extrasguilded
   social: {occupation: Mercantyler, class: serf, society: feudal, organizations: []}
 hm3:

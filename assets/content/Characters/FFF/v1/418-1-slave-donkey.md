@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 25
   born: 694.249
-  height: 1.68
-  weight: 52.62
+  height: 5' 6"
+  weight: 116 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Scars, parasites, pox marks, missing both thumbs]
   harnworld: {realm: "", ritual: [peoni]}
-  id: X9QMQDMRJ2tSGvPK
   packFolder: fffunguilded
   social: {occupation: Slave, class: slave, society: imperial, organizations: []}
 hm3:

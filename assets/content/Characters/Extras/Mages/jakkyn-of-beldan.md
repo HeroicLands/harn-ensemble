@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 35
   born: 685.144
-  height: 1.78
-  weight: 79.83
+  height: 5' 10"
+  weight: 176 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: []
   harnworld: {realm: "", ritual: []}
-  id: ZE3p9NW6NVJEvBz8
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Peleahn**", class: unguilded, society: feudal, organizations: []}
 hm3:

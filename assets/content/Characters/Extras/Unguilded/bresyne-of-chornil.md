@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 20
   born: 700.322
-  height: 1.7
-  weight: 96.16
+  height: 5' 7"
+  weight: 212 lbs
   frame: light
   appearance:
     eye_color: amber
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: kCGUP2o5AGfbTV6f
   packFolder: extrasunguilded
   social: {occupation: Ratter, class: unguilded, society: feudal, organizations: []}
 hm3:

@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 25
   born: 694.77
-  height: 1.7
-  weight: 53.98
+  height: 5' 7"
+  weight: 119 lbs
   frame: scant
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
-  id: 3NhXGurVjakRvw5J
   packFolder: fffmilitary
   social: {occupation: Shieldmaiden, class: freeman, society: viking, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.133
-  height: 1.68
-  weight: 110.68
+  height: 5' 6"
+  weight: 244 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: beautiful
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
-  id: 7rmBn5GYokbKf1Yd
   packFolder: extrasguilded
   social: {occupation: Alchemist, class: unguilded, society: feudal, organizations: []}
 hm3:

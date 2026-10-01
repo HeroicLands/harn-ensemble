@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 21
   born: 698.1
-  height: 1.8
-  weight: 82.55
+  height: 5' 11"
+  weight: 182 lbs
   frame: heavy
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: plain
     extra_features: [Missing teeth, Smells bad]
   harnworld: {realm: "", ritual: [peoni]}
-  id: XbtouNxhhTn7NMUw
   packFolder: fffguilded
   social: {occupation: Hideworker, class: freeman, society: feudal, organizations: []}
 hm3:

@@ -9,8 +9,8 @@ data:
   archetypes: [warrior, woodsman]
   gender: male
   species: ogreflk
-  height: 2.79
-  weight: 226.8
+  height: 9' 2"
+  weight: 500 lbs
   frame: massive
   appearance:
     eye_color: pale grey
@@ -19,7 +19,6 @@ data:
     complexion: frightening
     extra_features: []
   harnworld: {realm: "", ritual: [urklam]}
-  id: J9U0KvmS9VfntWx5
   packFolder: fffnonhumans
   social: {occupation: Hunter, class: n/a, society: ogre, organizations: []}
 hm3:

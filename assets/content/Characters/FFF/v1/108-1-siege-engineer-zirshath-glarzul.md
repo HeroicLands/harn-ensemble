@@ -12,8 +12,8 @@ data:
   species: khuzdulflk
   age: 89
   born: 630.182
-  height: 1.35
-  weight: 54.43
+  height: 4' 5"
+  weight: 120 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Always carrying a large book]
   harnworld: {realm: "", ritual: [siem]}
-  id: W22UXBOpDZqnS5oe
   packFolder: fffmilitary
   social: {occupation: Siege Engineer, class: freeman, society: khuzdul, organizations: []}
 hm3:

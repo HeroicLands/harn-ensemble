@@ -11,8 +11,8 @@ data:
   gender: male
   species: humanflk
   age: 39
-  height: 1.88
-  weight: 81.65
+  height: 6' 2"
+  weight: 180 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Burn scars on his left hand, a limp, Carry a long narrow package]
   harnworld: {realm: "", ritual: [sarajin]}
-  id: xCn0clbStVq5JJZh
   packFolder: fffguilded
   social: {occupation: Weaponcrafter, class: freeman, society: viking, organizations: []}
 hm3:

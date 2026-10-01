@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 41
   born: 678.52
-  height: 1.57
-  weight: 94.35
+  height: 5' 2"
+  weight: 208 lbs
   frame: medium
   appearance:
     eye_color: violet
@@ -22,7 +22,6 @@ data:
     complexion: attractive
     extra_features: [Obese, Left-handed]
   harnworld: {realm: "", ritual: [halea]}
-  id: OTri8XJRvBsWZT3S
   packFolder: fffguilded
   social: {occupation: Ostler, class: freeman, society: feudal, organizations: []}
 hm3:

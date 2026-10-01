@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 42
   born: 677.67
-  height: 1.91
-  weight: 100.7
+  height: 6' 3"
+  weight: 222 lbs
   frame: massive
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
-  id: tCS1ybQdOAdXw8qP
   packFolder: fffmilitary
   social: {occupation: Yeoman (LF), class: freeman, society: feudal, organizations: []}
 hm3:

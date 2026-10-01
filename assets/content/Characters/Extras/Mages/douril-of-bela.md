@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.311
-  height: 1.73
-  weight: 69.4
+  height: 5' 8"
+  weight: 153 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
-  id: BU4bOo94FGjJmNnq
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Odivshe****", class: serf, society: feudal, organizations: []}
 hm3:

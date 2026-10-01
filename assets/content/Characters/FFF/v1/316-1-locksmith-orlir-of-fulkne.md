@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 36
   born: 683.28
-  height: 1.75
-  weight: 78.47
+  height: 5' 9"
+  weight: 173 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Moustache]
   harnworld: {realm: "", ritual: [peoni]}
-  id: haxul5DyGPaSevm2
   packFolder: fffguilded
   social: {occupation: Locksmith, class: freeman, society: feudal, organizations: []}
 hm3:

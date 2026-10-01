@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 24
   born: 696.217
-  height: 1.73
-  weight: 69.4
+  height: 5' 8"
+  weight: 153 lbs
   frame: medium
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
-  id: QfDeF3PyxmpRdgzk
   packFolder: extrasmages
   social: {occupation: "Shek-Pvar/Lyahvi***", class: unguilded, society: feudal, organizations: []}
 hm3:

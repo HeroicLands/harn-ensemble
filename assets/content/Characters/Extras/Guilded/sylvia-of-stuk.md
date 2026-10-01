@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 21
   born: 699.198
-  height: 1.8
-  weight: 67.13
+  height: 5' 11"
+  weight: 148 lbs
   frame: light
   appearance:
     eye_color: blue
@@ -21,7 +21,6 @@ data:
     complexion: ugly
     extra_features: [Hirsutism]
   harnworld: {realm: "", ritual: []}
-  id: vIQZOf7LtvIMx3jm
   packFolder: extrasguilded
   social: {occupation: Seaman, class: unguilded, society: feudal, organizations: []}
 hm3:

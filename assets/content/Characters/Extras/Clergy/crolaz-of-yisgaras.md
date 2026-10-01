@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 31
   born: 689.176
-  height: 1.7
-  weight: 104.33
+  height: 5' 7"
+  weight: 230 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: Yn5oRA6ayL5SdEct
   packFolder: extrasclergy
   social: {occupation: Cleric/Ilvir, class: serf, society: feudal, organizations: []}
 hm3:

@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 17
   born: 703.168
-  height: 1.63
-  weight: 128.37
+  height: 5' 4"
+  weight: 283 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: I8307YIRJDIckP2W
   packFolder: extrasunguilded
   social: {occupation: Beggar, class: serf, society: feudal, organizations: []}
 hm3:

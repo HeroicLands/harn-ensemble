@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 45
   born: 675.258
-  height: 1.52
-  weight: 116.12
+  height: 5'
+  weight: 256 lbs
   frame: scant
   appearance:
     eye_color: hazel
@@ -21,7 +21,6 @@ data:
     complexion: average
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: [siem]}
-  id: jYJz9z14hPRtUB2a
   packFolder: extrasclergy
   social: {occupation: Cleric/Siem, class: serf, society: feudal, organizations: []}
 hm3:

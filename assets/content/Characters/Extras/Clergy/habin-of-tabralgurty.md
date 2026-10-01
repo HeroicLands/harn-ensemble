@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 27
   born: 693.299
-  height: 1.7
-  weight: 67.59
+  height: 5' 7"
+  weight: 149 lbs
   frame: medium
   appearance:
     eye_color: violet
@@ -21,7 +21,6 @@ data:
     complexion: attractive
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: [naveh]}
-  id: N4ejmsYwZGeOrzGd
   packFolder: extrasclergy
   social: {occupation: Cleric/Naveh, class: unguilded, society: feudal, organizations: []}
 hm3:

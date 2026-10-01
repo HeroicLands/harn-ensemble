@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.105
-  height: 1.35
-  weight: 51.26
+  height: 4' 5"
+  weight: 113 lbs
   frame: heavy
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
-  id: QeR8rc1yMd0Jc9WS
   packFolder: extrasguilded
   social: {occupation: Salter, class: guilded, society: feudal, organizations: []}
 hm3:

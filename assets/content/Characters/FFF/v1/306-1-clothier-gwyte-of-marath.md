@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 32
   born: 687.228
-  height: 1.63
-  weight: 80.74
+  height: 5' 4"
+  weight: 178 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Overweight, A purple birthmark on his right hand]
   harnworld: {realm: "", ritual: [ilvir]}
-  id: wuD1xj7qCGqD9aqZ
   packFolder: fffguilded
   social: {occupation: Clothier, class: freeman, society: feudal, organizations: []}
 hm3:

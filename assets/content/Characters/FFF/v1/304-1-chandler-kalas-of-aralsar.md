@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 64
   born: 655.179
-  height: 1.7
-  weight: 101.6
+  height: 5' 7"
+  weight: 224 lbs
   frame: medium
   appearance:
     eye_color: green
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Overweight, Moustache, beard]
   harnworld: {realm: "", ritual: [peoni]}
-  id: eBYgq5F1jBQfU1Tj
   packFolder: fffguilded
   social: {occupation: Chandler, class: freeman, society: imperial, organizations: []}
 hm3:

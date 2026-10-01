@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 32
   born: 688.45
-  height: 1.8
-  weight: 104.33
+  height: 5' 11"
+  weight: 230 lbs
   frame: light
   appearance:
     eye_color: green
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
-  id: OJMuRRox48A7478D
   packFolder: extrasguilded
   social: {occupation: Lexigrapher, class: unguilded, society: feudal, organizations: []}
 hm3:

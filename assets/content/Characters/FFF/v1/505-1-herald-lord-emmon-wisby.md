@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 54
   born: 665.315
-  height: 1.8
-  weight: 89.36
+  height: 5' 11"
+  weight: 197 lbs
   frame: heavy
   appearance:
     eye_color: blue
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Limp, Moustache, beard]
   harnworld: {realm: "", ritual: [larani]}
-  id: 19nAFdKfLgGHbkzx
   packFolder: fffnobles
   social: {occupation: Herald, class: noble, society: feudal, organizations: []}
 hm3:

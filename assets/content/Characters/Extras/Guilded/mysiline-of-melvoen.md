@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 23
   born: 697.245
-  height: 1.6
-  weight: 118.39
+  height: 5' 3"
+  weight: 261 lbs
   frame: light
   appearance:
     eye_color: grey
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
-  id: hds2EJMTT8kd0mJi
   packFolder: extrasguilded
   social: {occupation: Harper/Skald, class: serf, society: feudal, organizations: []}
 hm3:

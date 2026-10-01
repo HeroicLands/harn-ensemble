@@ -12,8 +12,8 @@ data:
   species: humanflk
   age: 33
   born: 686.207
-  height: 1.85
-  weight: 87.54
+  height: 6' 1"
+  weight: 193 lbs
   frame: heavy
   appearance:
     eye_color: grey
@@ -22,7 +22,6 @@ data:
     complexion: average
     extra_features: [Extensive scars on his legs]
   harnworld: {realm: "", ritual: [peoni]}
-  id: uqI4EAEZSpu2tj3v
   packFolder: fffmilitary
   social: {occupation: Manservant, class: freeman ex-slave, society: imperial, organizations: []}
 hm3:

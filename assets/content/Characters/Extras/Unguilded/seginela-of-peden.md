@@ -11,8 +11,8 @@ data:
   species: humanflk
   age: 36
   born: 684.147
-  height: 1.55
-  weight: 57.61
+  height: 5' 1"
+  weight: 127 lbs
   frame: medium
   appearance:
     eye_color: brown
@@ -21,7 +21,6 @@ data:
     complexion: plain
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
-  id: 4ZwB2fGPwdoyholo
   packFolder: extrasunguilded
   social: {occupation: Sage/Tutor, class: unguilded, society: feudal, organizations: []}
 hm3:
