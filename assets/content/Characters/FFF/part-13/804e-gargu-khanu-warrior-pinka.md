@@ -12,8 +12,8 @@ data:
   species: gargunflk
   age: 10
   born: 709.8
-  height: 1.68
-  weight: 78.93
+  height: 5' 6"
+  weight: 174 lbs
   frame: massive
   appearance:
     eye_color: black

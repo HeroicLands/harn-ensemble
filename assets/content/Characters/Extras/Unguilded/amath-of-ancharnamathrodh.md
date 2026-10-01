@@ -11,8 +11,8 @@ data:
   species: sindarinflk
   age: 262
   born: 458.342
-  height: 1.22
-  weight: 45.36
+  height: 4'
+  weight: 100 lbs
   frame: heavy
   appearance:
     eye_color: grey
