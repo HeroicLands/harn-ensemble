@@ -2,9 +2,11 @@
 shortcode: eldelofasain
 name: {full: Eldel of Asain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, mariner]
   gender: female
   species: humanflk
   age: 41

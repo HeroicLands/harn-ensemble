@@ -2,9 +2,11 @@
 shortcode: cholaynofwythsena
 name: {full: Cholayn of Wythsena, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: female
   species: humanflk
   age: 20

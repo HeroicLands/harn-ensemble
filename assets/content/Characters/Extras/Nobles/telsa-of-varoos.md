@@ -2,9 +2,11 @@
 shortcode: telsaofvaroos
 name: {full: Telsa of Varoos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier, guildsperson]
   gender: female
   species: humanflk
   age: 50

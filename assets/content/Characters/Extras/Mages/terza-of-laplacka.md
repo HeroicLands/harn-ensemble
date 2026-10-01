@@ -2,9 +2,11 @@
 shortcode: terzaoflaplacka
 name: {full: Terza of Laplacka, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: female
   species: humanflk
   age: 25

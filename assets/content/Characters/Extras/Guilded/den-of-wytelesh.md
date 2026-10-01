@@ -2,9 +2,11 @@
 shortcode: denofwytelesh
 name: {full: Den of Wytelesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: male
   species: humanflk
   age: 30

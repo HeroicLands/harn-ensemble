@@ -2,10 +2,12 @@
 shortcode: gwynofpolruan
 name: {full: Gwyn of Polruan, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1272tok
   templatePriority: 1
+  archetypes: [warrior, mariner]
   gender: male
   species: humanflk
   age: 42

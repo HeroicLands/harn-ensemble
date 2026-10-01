@@ -2,9 +2,11 @@
 shortcode: jartonofewendal
 name: {full: Jarton of Ewendal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [woodsman]
   gender: male
   species: humanflk
   age: 40

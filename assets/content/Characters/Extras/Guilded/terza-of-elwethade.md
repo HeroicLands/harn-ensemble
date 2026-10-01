@@ -2,9 +2,11 @@
 shortcode: terzaofelwethade
 name: {full: Terza of Elwethade, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, guildsperson]
   gender: female
   species: humanflk
   age: 28

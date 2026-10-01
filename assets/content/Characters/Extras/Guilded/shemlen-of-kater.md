@@ -2,9 +2,11 @@
 shortcode: shemlenofkater
 name: {full: Shemlen of Kater, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: female
   species: humanflk
   age: 30

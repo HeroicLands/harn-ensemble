@@ -2,10 +2,12 @@
 shortcode: pinka
 name: {full: Pinka, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff804ehead
   tokenIcon: fff804etok
+  archetypes: [warrior]
   gender: male
   species: gargunflk
   age: 10

@@ -2,9 +2,11 @@
 shortcode: parmenofbetane
 name: {full: Parmen of Betane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 28

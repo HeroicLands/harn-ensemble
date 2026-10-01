@@ -2,9 +2,11 @@
 shortcode: molanasofiesh
 name: {full: Molanas of Iesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: male
   species: humanflk
   age: 46

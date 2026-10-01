@@ -2,10 +2,12 @@
 shortcode: kaylyfrye
 name: {full: Kayly Frye, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3292tok
   templatePriority: 1
+  archetypes: [artisan, mariner]
   gender: female
   species: humanflk
   age: 23

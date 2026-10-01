@@ -2,10 +2,12 @@
 shortcode: siregarolandau
 name: {full: Sir Egar Olandau, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5071tok
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 34

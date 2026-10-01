@@ -2,9 +2,11 @@
 shortcode: herondofspryth
 name: {full: Herond of Spryth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [entertainer]
   gender: male
   species: humanflk
   age: 37

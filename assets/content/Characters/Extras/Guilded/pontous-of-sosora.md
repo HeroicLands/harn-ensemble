@@ -2,9 +2,11 @@
 shortcode: pontousofsosora
 name: {full: Pontous of Sosora, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: female
   species: humanflk
   age: 37

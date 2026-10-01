@@ -2,9 +2,11 @@
 shortcode: parsumenofvylosath
 name: {full: Parsumen of Vylosath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: male
   species: humanflk
   age: 29

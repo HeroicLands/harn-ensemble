@@ -2,9 +2,11 @@
 shortcode: kirlinofrenel
 name: {full: Kirlin of Renel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, guildsperson]
   gender: male
   species: humanflk
   age: 33

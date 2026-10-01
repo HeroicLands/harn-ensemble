@@ -2,9 +2,11 @@
 shortcode: marcandyoftich
 name: {full: Marcandy of Tich, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 33

@@ -2,9 +2,11 @@
 shortcode: jessthiasofbeldor
 name: {full: Jessthias of Beldor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar, artisan, guildsperson]
   gender: male
   species: humanflk
   age: 40

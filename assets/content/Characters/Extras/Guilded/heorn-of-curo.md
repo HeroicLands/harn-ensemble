@@ -2,9 +2,11 @@
 shortcode: heornofcuro
 name: {full: Heorn of Curo, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: male
   species: humanflk
   age: 36

@@ -2,10 +2,12 @@
 shortcode: gana
 name: {full: Gana, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff803ahead
   tokenIcon: fff803atok
+  archetypes: [warrior]
   gender: female
   species: gargunflk
   age: 12

@@ -2,10 +2,12 @@
 shortcode: gilesofgilam
 name: {full: Giles of Gilam, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3222tok
   templatePriority: 1
+  archetypes: [trader]
   gender: male
   species: humanflk
   age: 23

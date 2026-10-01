@@ -2,9 +2,11 @@
 shortcode: punatgenofkalir
 name: {full: Punatgen of Kalir, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, guildsperson]
   gender: male
   species: humanflk
   age: 42

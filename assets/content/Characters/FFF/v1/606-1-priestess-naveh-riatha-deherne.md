@@ -2,10 +2,12 @@
 shortcode: riathadeherne
 name: {full: Riatha Deherne, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6061tok
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: female
   species: humanflk
   age: 27

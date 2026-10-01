@@ -2,9 +2,11 @@
 shortcode: semisofturathec
 name: {full: Semis of Turathec, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: khuzdulflk
   age: 105

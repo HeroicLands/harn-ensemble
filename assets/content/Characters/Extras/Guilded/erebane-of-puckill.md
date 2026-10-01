@@ -2,9 +2,11 @@
 shortcode: erebaneofpuckill
 name: {full: Erebane of Puckill, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 31

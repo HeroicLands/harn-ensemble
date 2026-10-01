@@ -2,10 +2,12 @@
 shortcode: brynn
 name: {full: Brynn, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff2064tok
   templatePriority: 1
+  archetypes: [woodsman, trader]
   gender: male
   species: humanflk
   age: 21

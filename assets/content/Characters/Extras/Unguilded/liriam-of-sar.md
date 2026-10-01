@@ -2,9 +2,11 @@
 shortcode: liriamofsar
 name: {full: Liriam of Sar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 34

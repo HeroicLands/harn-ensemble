@@ -2,9 +2,11 @@
 shortcode: yaelaoflebaroos
 name: {full: Yaela of Lebaroos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 27

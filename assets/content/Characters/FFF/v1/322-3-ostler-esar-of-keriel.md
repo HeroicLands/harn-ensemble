@@ -2,10 +2,12 @@
 shortcode: esarofkeriel
 name: {full: Esar of Keriel, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3223tok
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 23

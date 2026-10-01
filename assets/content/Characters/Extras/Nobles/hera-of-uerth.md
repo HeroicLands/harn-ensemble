@@ -2,9 +2,11 @@
 shortcode: heraofuerth
 name: {full: Hera of Uerth, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: female
   species: humanflk
   age: 42

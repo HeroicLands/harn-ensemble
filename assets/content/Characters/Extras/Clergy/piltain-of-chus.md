@@ -2,9 +2,11 @@
 shortcode: piltainofchus
 name: {full: Piltain of Chus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, healer]
   gender: male
   species: humanflk
   age: 23

@@ -2,9 +2,11 @@
 shortcode: tamythoflaplaemen
 name: {full: Tamyth of Laplaemen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 35

@@ -2,10 +2,12 @@
 shortcode: otto
 name: {full: Otto, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1151tok
   templatePriority: 1
+  archetypes: [warrior, infiltrator]
   gender: male
   species: humanflk
   age: 25

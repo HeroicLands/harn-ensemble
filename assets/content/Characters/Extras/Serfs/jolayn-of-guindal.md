@@ -2,9 +2,11 @@
 shortcode: jolaynofguindal
 name: {full: Jolayn of Guindal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, entertainer]
   gender: female
   species: humanflk
   age: 35

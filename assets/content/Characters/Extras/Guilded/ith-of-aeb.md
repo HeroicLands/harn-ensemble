@@ -2,9 +2,11 @@
 shortcode: ithofaeb
 name: {full: Ith of Aeb, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar, artisan]
   gender: male
   species: humanflk
   age: 21

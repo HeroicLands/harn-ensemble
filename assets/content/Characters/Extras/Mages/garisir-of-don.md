@@ -2,9 +2,11 @@
 shortcode: garisirofdon
 name: {full: Garisir of Don, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: male
   species: humanflk
   age: 31

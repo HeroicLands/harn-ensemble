@@ -2,10 +2,12 @@
 shortcode: zoefiorfohd
 name: {full: Zoe Fiorfohd, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1273tok
   templatePriority: 1
+  archetypes: [warrior, mariner]
   gender: female
   species: humanflk
   age: 34

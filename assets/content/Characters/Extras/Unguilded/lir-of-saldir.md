@@ -2,9 +2,11 @@
 shortcode: lirofsaldir
 name: {full: Lir of Saldir, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 22

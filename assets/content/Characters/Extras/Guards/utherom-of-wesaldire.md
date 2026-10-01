@@ -2,9 +2,11 @@
 shortcode: utheromofwesaldire
 name: {full: Utherom of Wesaldire, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 20

@@ -2,9 +2,11 @@
 shortcode: myrelynoftar
 name: {full: Myrelyn of Tar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 26

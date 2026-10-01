@@ -2,10 +2,12 @@
 shortcode: lordemmonwisby
 name: {full: Lord Emmon Wisby, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5051tok
   templatePriority: 1
+  archetypes: [courtier, infiltrator]
   gender: male
   species: humanflk
   age: 54

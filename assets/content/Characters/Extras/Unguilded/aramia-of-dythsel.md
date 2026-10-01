@@ -2,9 +2,11 @@
 shortcode: aramiaofdythsel
 name: {full: Aramia of Dythsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, guildsperson]
   gender: female
   species: humanflk
   age: 28

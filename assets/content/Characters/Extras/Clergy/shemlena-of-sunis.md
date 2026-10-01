@@ -2,9 +2,11 @@
 shortcode: shemlenaofsunis
 name: {full: Shemlena of Sunis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: female
   species: humanflk
   age: 34

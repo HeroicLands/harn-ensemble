@@ -2,9 +2,11 @@
 shortcode: arthenofarhaid
 name: {full: Arthen of Arhaid, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: sindarinflk
   age: 222

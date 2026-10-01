@@ -2,9 +2,11 @@
 shortcode: tabifaofpayensen
 name: {full: Tabifa of Payensen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner, guildsperson]
   gender: female
   species: humanflk
   age: 25

@@ -2,9 +2,11 @@
 shortcode: veteranrolanazirofthen
 name: {full: Veteran Rolanazir of Then, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 28

@@ -2,10 +2,12 @@
 shortcode: kerntmondaro
 name: {full: Kernt Mondaro, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1121tok
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 37

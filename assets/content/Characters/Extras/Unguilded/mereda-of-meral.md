@@ -2,9 +2,11 @@
 shortcode: meredaofmeral
 name: {full: Mereda of Meral, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 23

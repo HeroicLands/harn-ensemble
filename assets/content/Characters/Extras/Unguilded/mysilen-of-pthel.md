@@ -2,9 +2,11 @@
 shortcode: mysilenofpthel
 name: {full: Mysilen of Pthel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 34

@@ -2,10 +2,12 @@
 shortcode: relddrosyl
 name: {full: Reld Drosyl, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4151tok
   templatePriority: 1
+  archetypes: [scholar, woodsman]
   gender: male
   species: humanflk
   age: 33

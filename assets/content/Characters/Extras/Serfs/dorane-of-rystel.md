@@ -2,9 +2,11 @@
 shortcode: doraneofrystel
 name: {full: Dorane of Rystel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: female
   species: humanflk
   age: 29

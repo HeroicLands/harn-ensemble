@@ -2,9 +2,11 @@
 shortcode: klarmoftar
 name: {full: Klarm of Tar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: female
   species: humanflk
   age: 41

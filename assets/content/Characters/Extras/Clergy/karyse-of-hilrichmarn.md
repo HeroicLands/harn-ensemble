@@ -2,9 +2,11 @@
 shortcode: karyseofhilrichmarn
 name: {full: Karyse of Hilrichmarn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, healer]
   gender: female
   species: humanflk
   age: 36

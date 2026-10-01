@@ -2,9 +2,11 @@
 shortcode: angernofangoeol
 name: {full: Angern of Angoeol, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher]
   gender: female
   species: sindarinflk
   age: 229

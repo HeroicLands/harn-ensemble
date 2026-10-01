@@ -2,9 +2,11 @@
 shortcode: burkotofpayensen
 name: {full: Burkot of Payensen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, entertainer]
   gender: male
   species: humanflk
   age: 32

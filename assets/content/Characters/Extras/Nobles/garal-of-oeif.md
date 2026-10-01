@@ -2,9 +2,11 @@
 shortcode: garalofoeif
 name: {full: Garal of Oeif, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: khuzdulflk
   age: 105

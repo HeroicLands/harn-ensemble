@@ -2,9 +2,11 @@
 shortcode: dourilofbela
 name: {full: Douril of Bela, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, mariner]
   gender: male
   species: humanflk
   age: 36

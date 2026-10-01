@@ -2,10 +2,12 @@
 shortcode: elrosofmerin
 name: {full: Elros of Merin, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff7051tok
   templatePriority: 1
+  archetypes: [mage, mariner]
   gender: male
   species: humanflk
   age: 26

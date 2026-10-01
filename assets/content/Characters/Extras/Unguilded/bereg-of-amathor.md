@@ -2,9 +2,11 @@
 shortcode: beregofamathor
 name: {full: Bereg of Amathor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher, guildsperson]
   gender: male
   species: sindarinflk
   age: 213

@@ -2,10 +2,12 @@
 shortcode: bascalryke
 name: {full: Bascal Ryke, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3241tok
   templatePriority: 1
+  archetypes: [healer]
   gender: male
   species: humanflk
   age: 48

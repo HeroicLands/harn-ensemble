@@ -2,9 +2,11 @@
 shortcode: aralofkyfa
 name: {full: Aral of Kyfa, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [guildsperson]
   gender: male
   species: humanflk
   age: 35

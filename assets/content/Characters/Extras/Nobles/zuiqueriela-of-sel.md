@@ -2,9 +2,11 @@
 shortcode: zuiquerielaofsel
 name: {full: Zuiqueriela of Sel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: female
   species: humanflk
   age: 40

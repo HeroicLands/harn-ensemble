@@ -2,10 +2,12 @@
 shortcode: worinofkesten
 name: {full: Worin of Kesten, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4173tok
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 33

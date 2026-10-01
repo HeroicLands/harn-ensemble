@@ -2,9 +2,11 @@
 shortcode: derbis
 name: {full: Derbis, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff8991tok
+  archetypes: [warrior, woodsman]
   gender: male
   species: ogreflk
   height: 2.79

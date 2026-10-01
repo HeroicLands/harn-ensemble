@@ -2,10 +2,12 @@
 shortcode: lavrooforostal
 name: {full: Lavro of Orostal, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1181tok
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: male
   species: humanflk
   age: 45

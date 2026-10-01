@@ -2,9 +2,11 @@
 shortcode: lodinofhomslow
 name: {full: Lodin of Homslow, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: male
   species: humanflk
   age: 37

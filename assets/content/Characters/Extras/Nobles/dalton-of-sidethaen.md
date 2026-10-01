@@ -2,9 +2,11 @@
 shortcode: daltonofsidethaen
 name: {full: Dalton of Sidethaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: male
   species: humanflk
   age: 60

@@ -2,9 +2,11 @@
 shortcode: umeofquiribor
 name: {full: Ume of Quiribor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner, guildsperson]
   gender: male
   species: humanflk
   age: 24

@@ -2,9 +2,11 @@
 shortcode: serelenofmerak
 name: {full: Serelen of Merak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, guildsperson]
   gender: female
   species: humanflk
   age: 29

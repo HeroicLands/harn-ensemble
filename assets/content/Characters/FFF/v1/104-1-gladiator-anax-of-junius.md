@@ -2,10 +2,12 @@
 shortcode: anaxofjunius
 name: {full: Anax of Junius, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1041tok
   templatePriority: 1
+  archetypes: [warrior, healer]
   gender: male
   species: humanflk
   age: 33

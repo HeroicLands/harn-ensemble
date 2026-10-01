@@ -2,9 +2,11 @@
 shortcode: harasofcadrunen
 name: {full: Haras of Cadrunen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 32

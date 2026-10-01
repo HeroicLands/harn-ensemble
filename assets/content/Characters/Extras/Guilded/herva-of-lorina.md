@@ -2,9 +2,11 @@
 shortcode: hervaoflorina
 name: {full: Herva of Lorina, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: female
   species: humanflk
   age: 37

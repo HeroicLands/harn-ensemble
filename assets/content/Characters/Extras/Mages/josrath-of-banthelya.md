@@ -2,9 +2,11 @@
 shortcode: josrathofbanthelya
 name: {full: Josrath of Banthelya, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: male
   species: humanflk
   age: 30

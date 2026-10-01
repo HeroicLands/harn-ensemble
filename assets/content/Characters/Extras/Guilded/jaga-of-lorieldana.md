@@ -2,9 +2,11 @@
 shortcode: jagaoflorieldana
 name: {full: Jaga of Lorieldana, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 23

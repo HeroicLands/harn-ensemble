@@ -2,9 +2,11 @@
 shortcode: shaelaofokrenarani
 name: {full: Shaela of Okrenarani, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: female
   species: humanflk
   age: 30

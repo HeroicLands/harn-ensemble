@@ -2,10 +2,12 @@
 shortcode: perithelame
 name: {full: Peri the Lame, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3351tok
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 41

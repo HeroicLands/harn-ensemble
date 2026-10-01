@@ -2,9 +2,11 @@
 shortcode: orthilofwejik
 name: {full: Orthil of Wejik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, scholar]
   gender: male
   species: humanflk
   age: 25

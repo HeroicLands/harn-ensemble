@@ -2,9 +2,11 @@
 shortcode: lavroofubelon
 name: {full: Lavro of Ubelon, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, healer, guildsperson]
   gender: male
   species: humanflk
   age: 38

@@ -2,9 +2,11 @@
 shortcode: kesynofsosora
 name: {full: Kesyn of Sosora, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior, guildsperson]
   gender: female
   species: humanflk
   age: 26

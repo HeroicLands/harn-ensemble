@@ -2,9 +2,11 @@
 shortcode: myrelynoferlesque
 name: {full: Myrelyn of Erlesque, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: female
   species: humanflk
   age: 34

@@ -2,9 +2,11 @@
 shortcode: gaetaneofdulkyia
 name: {full: Gaetane of Dulkyia, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: female
   species: humanflk
   age: 29

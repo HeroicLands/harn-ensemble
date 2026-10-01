@@ -2,9 +2,11 @@
 shortcode: arthelofballiar
 name: {full: Arthel of Balliar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [skirmisher, woodsman, guildsperson]
   gender: female
   species: sindarinflk
   age: 235

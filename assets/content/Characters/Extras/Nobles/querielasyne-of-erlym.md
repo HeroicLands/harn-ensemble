@@ -2,9 +2,11 @@
 shortcode: querielasyneoferlym
 name: {full: Querielasyne of Erlym, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: female
   species: humanflk
   age: 28

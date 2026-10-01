@@ -2,9 +2,11 @@
 shortcode: fereofdaroos
 name: {full: Fere of Daroos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: male
   species: humanflk
   age: 24

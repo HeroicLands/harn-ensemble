@@ -2,9 +2,11 @@
 shortcode: jakrowofchomslow
 name: {full: Jakrow of Chomslow, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: male
   species: humanflk
   age: 35

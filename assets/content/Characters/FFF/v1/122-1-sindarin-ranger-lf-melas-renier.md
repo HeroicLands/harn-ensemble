@@ -2,10 +2,12 @@
 shortcode: melasrenier
 name: {full: Melas Renier, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1221tok
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: male
   species: sindarinflk
   age: 2430

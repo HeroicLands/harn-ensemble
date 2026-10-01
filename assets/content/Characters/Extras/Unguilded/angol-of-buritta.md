@@ -2,9 +2,11 @@
 shortcode: angolofburitta
 name: {full: Angol of Buritta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher, guildsperson]
   gender: male
   species: humanflk
   age: 21

@@ -2,9 +2,11 @@
 shortcode: gwelenofcharass
 name: {full: Gwelen of Charass, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: female
   species: humanflk
   age: 53

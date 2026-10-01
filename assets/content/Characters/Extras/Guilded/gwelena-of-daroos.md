@@ -2,9 +2,11 @@
 shortcode: gwelenaofdaroos
 name: {full: Gwelena of Daroos, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, guildsperson]
   gender: female
   species: humanflk
   age: 29

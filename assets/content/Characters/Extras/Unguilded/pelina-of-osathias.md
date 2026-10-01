@@ -2,9 +2,11 @@
 shortcode: pelinaofosathias
 name: {full: Pelina of Osathias, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [guildsperson]
   gender: female
   species: humanflk
   age: 26

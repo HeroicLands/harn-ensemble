@@ -2,9 +2,11 @@
 shortcode: hennigarashaofelwethen
 name: {full: Hennigarasha of Elwethen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 25

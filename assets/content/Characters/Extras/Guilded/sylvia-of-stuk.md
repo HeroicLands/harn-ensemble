@@ -2,9 +2,11 @@
 shortcode: sylviaofstuk
 name: {full: Sylvia of Stuk, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: female
   species: humanflk
   age: 21

@@ -2,9 +2,11 @@
 shortcode: frydaofpharion
 name: {full: Fryda of Pharion, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: female
   species: humanflk
   age: 36

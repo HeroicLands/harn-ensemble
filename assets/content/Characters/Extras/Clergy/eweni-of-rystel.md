@@ -2,9 +2,11 @@
 shortcode: eweniofrystel
 name: {full: Eweni of Rystel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, healer]
   gender: female
   species: humanflk
   age: 43

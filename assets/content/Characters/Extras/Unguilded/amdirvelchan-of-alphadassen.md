@@ -2,9 +2,11 @@
 shortcode: amdirvelchanofalphadassen
 name: {full: Amdirvelchan of Alphadassen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: sindarinflk
   age: 249

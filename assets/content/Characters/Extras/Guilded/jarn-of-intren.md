@@ -2,9 +2,11 @@
 shortcode: jarnofintren
 name: {full: Jarn of Intren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, woodsman, guildsperson]
   gender: male
   species: humanflk
   age: 31

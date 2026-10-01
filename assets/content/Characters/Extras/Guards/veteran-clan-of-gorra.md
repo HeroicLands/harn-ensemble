@@ -2,9 +2,11 @@
 shortcode: veteranclanofgorra
 name: {full: Veteran Clan of Gorra, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 28

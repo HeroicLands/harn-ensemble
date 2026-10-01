@@ -2,9 +2,11 @@
 shortcode: ginaofwhyce
 name: {full: Gina of Whyce, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher]
   gender: female
   species: humanflk
   age: 35

@@ -2,9 +2,11 @@
 shortcode: urikarnofpenda
 name: {full: Urikarn of Penda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: male
   species: humanflk
   age: 53

@@ -2,9 +2,11 @@
 shortcode: hadashainofpartus
 name: {full: Hadashain of Partus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 30

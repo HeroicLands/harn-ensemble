@@ -2,9 +2,11 @@
 shortcode: carebofbeinai
 name: {full: Careb of Beinai, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: sindarinflk
   age: 177

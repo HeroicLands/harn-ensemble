@@ -2,9 +2,11 @@
 shortcode: sylviaofmerke
 name: {full: Sylvia of Merke, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: female
   species: humanflk
   age: 35

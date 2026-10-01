@@ -2,10 +2,12 @@
 shortcode: sareyofsideth
 name: {full: Sarey of Sideth, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3091tok
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 20

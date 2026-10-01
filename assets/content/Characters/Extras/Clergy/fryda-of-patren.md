@@ -2,9 +2,11 @@
 shortcode: frydaofpatren
 name: {full: Fryda of Patren, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: female
   species: humanflk
   age: 45

@@ -2,11 +2,13 @@
 shortcode: mabresen
 name: {full: Mabresen, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff704ahead
   tokenIcon: fff704atok
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: male
   species: humanflk
   age: 46

@@ -2,9 +2,11 @@
 shortcode: seginaofpasen
 name: {full: Segina of Pasen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, woodsman]
   gender: female
   species: humanflk
   age: 40

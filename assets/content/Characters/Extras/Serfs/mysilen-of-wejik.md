@@ -2,9 +2,11 @@
 shortcode: mysilenofwejik
 name: {full: Mysilen of Wejik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, entertainer]
   gender: female
   species: humanflk
   age: 39

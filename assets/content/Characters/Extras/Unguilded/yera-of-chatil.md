@@ -2,9 +2,11 @@
 shortcode: yeraofchatil
 name: {full: Yera of Chatil, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: female
   species: humanflk
   age: 28

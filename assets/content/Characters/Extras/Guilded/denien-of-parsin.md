@@ -2,9 +2,11 @@
 shortcode: denienofparsin
 name: {full: Denien of Parsin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: female
   species: humanflk
   age: 26

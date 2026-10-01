@@ -2,9 +2,11 @@
 shortcode: jolaynofgwen
 name: {full: Jolayn of Gwen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: female
   species: humanflk
   age: 39

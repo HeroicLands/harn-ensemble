@@ -2,10 +2,12 @@
 shortcode: myaofrisalsin
 name: {full: Mya of Risalsin, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff6011tok
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: female
   species: humanflk
   age: 24

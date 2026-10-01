@@ -2,9 +2,11 @@
 shortcode: meralofdysel
 name: {full: Meral of Dysel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: female
   species: humanflk
   age: 45

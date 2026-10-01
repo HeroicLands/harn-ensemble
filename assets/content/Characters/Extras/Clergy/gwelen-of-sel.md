@@ -2,9 +2,11 @@
 shortcode: gwelenofsel
 name: {full: Gwelen of Sel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: female
   species: humanflk
   age: 44

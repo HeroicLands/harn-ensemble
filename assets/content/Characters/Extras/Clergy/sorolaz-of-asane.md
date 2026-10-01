@@ -2,9 +2,11 @@
 shortcode: sorolazofasane
 name: {full: Sorolaz of Asane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric]
   gender: male
   species: humanflk
   age: 25

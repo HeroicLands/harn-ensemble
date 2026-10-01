@@ -2,10 +2,12 @@
 shortcode: landerofmossdom
 name: {full: Lander of Mossdom, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4031tok
   templatePriority: 1
+  archetypes: [scholar, artisan]
   gender: male
   species: humanflk
   age: 30

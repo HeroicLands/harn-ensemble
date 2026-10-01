@@ -2,9 +2,11 @@
 shortcode: jerondasharlofeylosath
 name: {full: Jerondasharl of Eylosath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: male
   species: humanflk
   age: 40

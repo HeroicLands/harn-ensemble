@@ -2,10 +2,12 @@
 shortcode: tabeas
 name: {full: Tabeas, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff803bhead
   tokenIcon: fff803btok
+  archetypes: [warrior]
   gender: female
   species: gargunflk
   age: 10

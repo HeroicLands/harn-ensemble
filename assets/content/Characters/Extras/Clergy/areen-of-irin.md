@@ -2,9 +2,11 @@
 shortcode: areenofirin
 name: {full: Areen of Irin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric]
   gender: male
   species: humanflk
   age: 25

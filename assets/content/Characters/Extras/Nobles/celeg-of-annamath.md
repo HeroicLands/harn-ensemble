@@ -2,9 +2,11 @@
 shortcode: celegofannamath
 name: {full: Celeg of Annamath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: male
   species: sindarinflk
   age: 239

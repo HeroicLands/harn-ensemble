@@ -2,9 +2,11 @@
 shortcode: sarinaofsten
 name: {full: Sarina of Sten, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: female
   species: humanflk
   age: 42

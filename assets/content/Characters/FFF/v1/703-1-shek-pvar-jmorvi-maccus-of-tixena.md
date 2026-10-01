@@ -2,10 +2,12 @@
 shortcode: maccusoftixena
 name: {full: Maccus of Tixena, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff7031tok
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: male
   species: humanflk
   age: 33

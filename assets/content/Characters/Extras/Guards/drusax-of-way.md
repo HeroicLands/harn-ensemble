@@ -2,9 +2,11 @@
 shortcode: drusaxofway
 name: {full: Drusax of Way, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 17

@@ -2,9 +2,11 @@
 shortcode: marakofmykanthelkuz
 name: {full: Marak of Mykanthelkuz, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: male
   species: humanflk
   age: 37
