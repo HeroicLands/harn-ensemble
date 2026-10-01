@@ -1,6 +1,6 @@
 ---
 shortcode: hemisofaets
-name: {full: Hemis of Aets, title: "", given: Hemis, clan: Aets, aliases: []}
+name: {full: Hemis of Aets, aliases: []}
 type: being
 tags: [character]
 data:

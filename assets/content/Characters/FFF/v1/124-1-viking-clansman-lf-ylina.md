@@ -1,6 +1,6 @@
 ---
 shortcode: ylina
-name: {full: Ylina, title: "", given: Ylina, clan: "", aliases: []}
+name: {full: Ylina, aliases: []}
 type: being
 tags: [character]
 data:

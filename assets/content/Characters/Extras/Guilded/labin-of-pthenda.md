@@ -1,6 +1,6 @@
 ---
 shortcode: labinofpthenda
-name: {full: Labin of Pthenda, title: "", given: Labin, clan: Pthenda, aliases: []}
+name: {full: Labin of Pthenda, aliases: []}
 type: being
 tags: [character]
 data:

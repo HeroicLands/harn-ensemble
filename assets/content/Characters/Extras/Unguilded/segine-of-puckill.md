@@ -1,6 +1,6 @@
 ---
 shortcode: segineofpuckill
-name: {full: Segine of Puckill, title: "", given: Segine, clan: Puckill, aliases: []}
+name: {full: Segine of Puckill, aliases: []}
 type: being
 tags: [character]
 data:

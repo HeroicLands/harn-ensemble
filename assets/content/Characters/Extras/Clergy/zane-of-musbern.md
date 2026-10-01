@@ -1,6 +1,6 @@
 ---
 shortcode: zaneofmusbern
-name: {full: Zane of Musbern, title: "", given: Zane, clan: Musbern, aliases: []}
+name: {full: Zane of Musbern, aliases: []}
 type: being
 tags: [character]
 data:

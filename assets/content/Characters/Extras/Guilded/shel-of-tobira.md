@@ -1,6 +1,6 @@
 ---
 shortcode: sheloftobira
-name: {full: Shel of Tobira, title: "", given: Shel, clan: Tobira, aliases: []}
+name: {full: Shel of Tobira, aliases: []}
 type: being
 tags: [character]
 data:

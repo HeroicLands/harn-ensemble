@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofsunigal
-name: {full: Terza of Sunigal, title: "", given: Terza, clan: Sunigal, aliases: []}
+name: {full: Terza of Sunigal, aliases: []}
 type: being
 tags: [character]
 data:

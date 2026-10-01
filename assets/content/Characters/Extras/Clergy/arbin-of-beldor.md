@@ -1,6 +1,6 @@
 ---
 shortcode: arbinofbeldor
-name: {full: Arbin of Beldor, title: "", given: Arbin, clan: Beldor, aliases: []}
+name: {full: Arbin of Beldor, aliases: []}
 type: being
 tags: [character]
 data:

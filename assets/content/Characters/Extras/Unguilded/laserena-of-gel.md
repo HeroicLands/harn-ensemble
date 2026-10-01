@@ -1,6 +1,6 @@
 ---
 shortcode: laserenaofgel
-name: {full: Laserena of Gel, title: "", given: Laserena, clan: Gel, aliases: []}
+name: {full: Laserena of Gel, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,11 +1,6 @@
 ---
 shortcode: amdirvelchanofalphadassen
-name:
-  full: Amdirvelchan of Alphadassen
-  title: ""
-  given: Amdirvelchan
-  clan: Alphadassen
-  aliases: []
+name: {full: Amdirvelchan of Alphadassen, aliases: []}
 type: being
 tags: [character]
 data:

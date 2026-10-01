@@ -1,6 +1,6 @@
 ---
 shortcode: poldoelofbur
-name: {full: Poldoel of Bur, title: "", given: Poldoel, clan: Bur, aliases: []}
+name: {full: Poldoel of Bur, aliases: []}
 type: being
 tags: [character]
 data:

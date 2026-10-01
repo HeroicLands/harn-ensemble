@@ -1,6 +1,6 @@
 ---
 shortcode: veteranrikarienofwert
-name: {full: Veteran Rikarien of Wert, title: Veteran, given: Rikarien, clan: Wert, aliases: []}
+name: {full: Veteran Rikarien of Wert, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,11 +1,6 @@
 ---
 shortcode: amdirnoenofamluguruiamdireb
-name:
-  full: Amdirnoen of Amluguruiamdireb
-  title: ""
-  given: Amdirnoen
-  clan: Amluguruiamdireb
-  aliases: []
+name: {full: Amdirnoen of Amluguruiamdireb, aliases: []}
 type: being
 tags: [character]
 data:

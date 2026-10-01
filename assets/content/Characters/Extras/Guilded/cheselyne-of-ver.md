@@ -1,6 +1,6 @@
 ---
 shortcode: cheselyneofver
-name: {full: Cheselyne of Ver, title: "", given: Cheselyne, clan: Ver, aliases: []}
+name: {full: Cheselyne of Ver, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofjorwynn
-name: {full: Milniq of Jorwynn, title: "", given: Milniq, clan: Jorwynn, aliases: []}
+name: {full: Milniq of Jorwynn, aliases: []}
 type: being
 tags: [character]
 data:

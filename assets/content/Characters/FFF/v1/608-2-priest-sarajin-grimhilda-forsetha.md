@@ -1,6 +1,6 @@
 ---
 shortcode: grimhildaforsetha
-name: {full: Grimhilda Forsetha, title: "", given: Grimhilda, clan: Forsetha, aliases: []}
+name: {full: Grimhilda Forsetha, aliases: []}
 type: being
 tags: [character]
 data:

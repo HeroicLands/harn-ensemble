@@ -1,6 +1,6 @@
 ---
 shortcode: sarofsarlis
-name: {full: Sar of Sarlis, title: "", given: Sar, clan: Sarlis, aliases: []}
+name: {full: Sar of Sarlis, aliases: []}
 type: being
 tags: [character]
 data:

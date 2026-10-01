@@ -1,6 +1,6 @@
 ---
 shortcode: semisofdebern
-name: {full: Semis of Debern, title: "", given: Semis, clan: Debern, aliases: []}
+name: {full: Semis of Debern, aliases: []}
 type: being
 tags: [character]
 data:

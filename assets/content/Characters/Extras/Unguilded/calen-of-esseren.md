@@ -1,6 +1,6 @@
 ---
 shortcode: calenofesseren
-name: {full: Calen of Esseren, title: "", given: Calen, clan: Esseren, aliases: []}
+name: {full: Calen of Esseren, aliases: []}
 type: being
 tags: [character]
 data:

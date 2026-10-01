@@ -1,6 +1,6 @@
 ---
 shortcode: elanofhosathasil
-name: {full: Elan of Hosathasil, title: "", given: Elan, clan: Hosathasil, aliases: []}
+name: {full: Elan of Hosathasil, aliases: []}
 type: being
 tags: [character]
 data:

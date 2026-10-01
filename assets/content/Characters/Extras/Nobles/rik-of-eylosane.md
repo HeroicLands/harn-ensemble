@@ -1,6 +1,6 @@
 ---
 shortcode: rikofeylosane
-name: {full: Rik of Eylosane, title: "", given: Rik, clan: Eylosane, aliases: []}
+name: {full: Rik of Eylosane, aliases: []}
 type: being
 tags: [character]
 data:

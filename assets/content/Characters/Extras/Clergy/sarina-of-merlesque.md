@@ -1,6 +1,6 @@
 ---
 shortcode: sarinaofmerlesque
-name: {full: Sarina of Merlesque, title: "", given: Sarina, clan: Merlesque, aliases: []}
+name: {full: Sarina of Merlesque, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: eradashaiofborin
-name: {full: Eradashai of Borin, title: "", given: Eradashai, clan: Borin, aliases: []}
+name: {full: Eradashai of Borin, aliases: []}
 type: being
 tags: [character]
 data:

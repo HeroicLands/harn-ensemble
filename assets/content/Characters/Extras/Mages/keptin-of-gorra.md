@@ -1,6 +1,6 @@
 ---
 shortcode: keptinofgorra
-name: {full: Keptin of Gorra, title: "", given: Keptin, clan: Gorra, aliases: []}
+name: {full: Keptin of Gorra, aliases: []}
 type: being
 tags: [character]
 data:

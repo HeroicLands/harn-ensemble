@@ -1,6 +1,6 @@
 ---
 shortcode: forenaofquarlim
-name: {full: Forena of Quarlim, title: "", given: Forena, clan: Quarlim, aliases: []}
+name: {full: Forena of Quarlim, aliases: []}
 type: being
 tags: [character]
 data:

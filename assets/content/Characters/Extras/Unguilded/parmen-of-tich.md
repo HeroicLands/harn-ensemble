@@ -1,6 +1,6 @@
 ---
 shortcode: parmenoftich
-name: {full: Parmen of Tich, title: "", given: Parmen, clan: Tich, aliases: []}
+name: {full: Parmen of Tich, aliases: []}
 type: being
 tags: [character]
 data:

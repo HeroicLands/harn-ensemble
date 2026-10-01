@@ -1,6 +1,6 @@
 ---
 shortcode: obiriaofmerkenos
-name: {full: Obiria of Merkenos, title: "", given: Obiria, clan: Merkenos, aliases: []}
+name: {full: Obiria of Merkenos, aliases: []}
 type: being
 tags: [character]
 data:

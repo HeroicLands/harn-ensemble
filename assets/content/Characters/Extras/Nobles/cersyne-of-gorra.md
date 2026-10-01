@@ -1,6 +1,6 @@
 ---
 shortcode: cersyneofgorra
-name: {full: Cersyne of Gorra, title: "", given: Cersyne, clan: Gorra, aliases: []}
+name: {full: Cersyne of Gorra, aliases: []}
 type: being
 tags: [character]
 data:

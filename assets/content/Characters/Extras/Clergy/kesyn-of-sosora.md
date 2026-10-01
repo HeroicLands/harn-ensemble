@@ -1,6 +1,6 @@
 ---
 shortcode: kesynofsosora
-name: {full: Kesyn of Sosora, title: "", given: Kesyn, clan: Sosora, aliases: []}
+name: {full: Kesyn of Sosora, aliases: []}
 type: being
 tags: [character]
 data:

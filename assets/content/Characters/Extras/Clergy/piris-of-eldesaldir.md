@@ -1,6 +1,6 @@
 ---
 shortcode: pirisofeldesaldir
-name: {full: Piris of Eldesaldir, title: "", given: Piris, clan: Eldesaldir, aliases: []}
+name: {full: Piris of Eldesaldir, aliases: []}
 type: being
 tags: [character]
 data:

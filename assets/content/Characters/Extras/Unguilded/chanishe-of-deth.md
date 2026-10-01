@@ -1,6 +1,6 @@
 ---
 shortcode: chanisheofdeth
-name: {full: Chanishe of Deth, title: "", given: Chanishe, clan: Deth, aliases: []}
+name: {full: Chanishe of Deth, aliases: []}
 type: being
 tags: [character]
 data:

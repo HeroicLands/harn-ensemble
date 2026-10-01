@@ -1,6 +1,6 @@
 ---
 shortcode: gyandyoftombine
-name: {full: Gyandy of Tombine, title: "", given: Gyandy, clan: Tombine, aliases: []}
+name: {full: Gyandy of Tombine, aliases: []}
 type: being
 tags: [character]
 data:

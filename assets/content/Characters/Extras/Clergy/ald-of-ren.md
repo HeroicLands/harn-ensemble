@@ -1,6 +1,6 @@
 ---
 shortcode: aldofren
-name: {full: Ald of Ren, title: "", given: Ald, clan: Ren, aliases: []}
+name: {full: Ald of Ren, aliases: []}
 type: being
 tags: [character]
 data:

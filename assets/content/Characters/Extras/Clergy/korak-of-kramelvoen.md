@@ -1,6 +1,6 @@
 ---
 shortcode: korakofkramelvoen
-name: {full: Korak of Kramelvoen, title: "", given: Korak, clan: Kramelvoen, aliases: []}
+name: {full: Korak of Kramelvoen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: embrandofdondech
-name: {full: Embrand of Dondech, title: "", given: Embrand, clan: Dondech, aliases: []}
+name: {full: Embrand of Dondech, aliases: []}
 type: being
 tags: [character]
 data:

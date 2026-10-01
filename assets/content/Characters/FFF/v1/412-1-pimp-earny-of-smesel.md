@@ -1,6 +1,6 @@
 ---
 shortcode: earnyofsmesel
-name: {full: Earny of Smesel, title: "", given: Earny, clan: Smesel, aliases: []}
+name: {full: Earny of Smesel, aliases: []}
 type: being
 tags: [character]
 data:

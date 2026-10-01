@@ -1,6 +1,6 @@
 ---
 shortcode: hericofeylosath
-name: {full: Heric of Eylosath, title: "", given: Heric, clan: Eylosath, aliases: []}
+name: {full: Heric of Eylosath, aliases: []}
 type: being
 tags: [character]
 data:

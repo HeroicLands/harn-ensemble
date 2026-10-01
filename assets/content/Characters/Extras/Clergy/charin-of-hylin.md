@@ -1,6 +1,6 @@
 ---
 shortcode: charinofhylin
-name: {full: Charin of Hylin, title: "", given: Charin, clan: Hylin, aliases: []}
+name: {full: Charin of Hylin, aliases: []}
 type: being
 tags: [character]
 data:

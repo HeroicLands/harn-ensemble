@@ -1,6 +1,6 @@
 ---
 shortcode: vakonlemetyer
-name: {full: Vakon Lemetyer, title: "", given: Vakon, clan: Lemetyer, aliases: []}
+name: {full: Vakon Lemetyer, aliases: []}
 type: being
 tags: [character]
 data:

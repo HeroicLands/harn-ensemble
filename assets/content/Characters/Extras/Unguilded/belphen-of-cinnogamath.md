@@ -1,6 +1,6 @@
 ---
 shortcode: belphenofcinnogamath
-name: {full: Belphen of Cinnogamath, title: "", given: Belphen, clan: Cinnogamath, aliases: []}
+name: {full: Belphen of Cinnogamath, aliases: []}
 type: being
 tags: [character]
 data:

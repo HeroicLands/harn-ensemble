@@ -1,6 +1,6 @@
 ---
 shortcode: thainofmerlesh
-name: {full: Thain of Merlesh, title: "", given: Thain, clan: Merlesh, aliases: []}
+name: {full: Thain of Merlesh, aliases: []}
 type: being
 tags: [character]
 data:

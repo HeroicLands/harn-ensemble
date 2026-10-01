@@ -1,6 +1,6 @@
 ---
 shortcode: bryleoflaplaemen
-name: {full: Bryle of Laplaemen, title: "", given: Bryle, clan: Laplaemen, aliases: []}
+name: {full: Bryle of Laplaemen, aliases: []}
 type: being
 tags: [character]
 data:

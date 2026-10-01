@@ -1,6 +1,6 @@
 ---
 shortcode: karyseofhilrichmarn
-name: {full: Karyse of Hilrichmarn, title: "", given: Karyse, clan: Hilrichmarn, aliases: []}
+name: {full: Karyse of Hilrichmarn, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gwenaofgeldis
-name: {full: Gwena of Geldis, title: "", given: Gwena, clan: Geldis, aliases: []}
+name: {full: Gwena of Geldis, aliases: []}
 type: being
 tags: [character]
 data:

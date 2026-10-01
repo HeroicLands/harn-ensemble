@@ -1,6 +1,6 @@
 ---
 shortcode: obranofkass
-name: {full: Obran of Kass, title: "", given: Obran, clan: Kass, aliases: []}
+name: {full: Obran of Kass, aliases: []}
 type: being
 tags: [character]
 data:

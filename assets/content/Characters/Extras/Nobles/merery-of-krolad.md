@@ -1,6 +1,6 @@
 ---
 shortcode: mereryofkrolad
-name: {full: Merery of Krolad, title: "", given: Merery, clan: Krolad, aliases: []}
+name: {full: Merery of Krolad, aliases: []}
 type: being
 tags: [character]
 data:

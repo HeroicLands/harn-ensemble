@@ -1,6 +1,6 @@
 ---
 shortcode: laseralofopondik
-name: {full: Laseral of Opondik, title: "", given: Laseral, clan: Opondik, aliases: []}
+name: {full: Laseral of Opondik, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gana
-name: {full: Gana, title: "", given: Gana, clan: "", aliases: []}
+name: {full: Gana, aliases: []}
 type: being
 tags: [character]
 data:

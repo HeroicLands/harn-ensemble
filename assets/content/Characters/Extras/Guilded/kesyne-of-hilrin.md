@@ -1,6 +1,6 @@
 ---
 shortcode: kesyneofhilrin
-name: {full: Kesyne of Hilrin, title: "", given: Kesyne, clan: Hilrin, aliases: []}
+name: {full: Kesyne of Hilrin, aliases: []}
 type: being
 tags: [character]
 data:

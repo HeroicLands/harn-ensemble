@@ -1,6 +1,6 @@
 ---
 shortcode: tesofkeryn
-name: {full: Tes of Keryn, title: "", given: Tes, clan: Keryn, aliases: []}
+name: {full: Tes of Keryn, aliases: []}
 type: being
 tags: [character]
 data:

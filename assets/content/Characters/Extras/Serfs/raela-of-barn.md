@@ -1,6 +1,6 @@
 ---
 shortcode: raelaofbarn
-name: {full: Raela of Barn, title: "", given: Raela, clan: Barn, aliases: []}
+name: {full: Raela of Barn, aliases: []}
 type: being
 tags: [character]
 data:

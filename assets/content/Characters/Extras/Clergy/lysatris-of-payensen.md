@@ -1,6 +1,6 @@
 ---
 shortcode: lysatrisofpayensen
-name: {full: Lysatris of Payensen, title: "", given: Lysatris, clan: Payensen, aliases: []}
+name: {full: Lysatris of Payensen, aliases: []}
 type: being
 tags: [character]
 data:

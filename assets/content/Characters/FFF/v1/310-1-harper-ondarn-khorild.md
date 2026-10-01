@@ -1,6 +1,6 @@
 ---
 shortcode: ondarnkhorild
-name: {full: Ondarn Khorild, title: "", given: Ondarn, clan: Khorild, aliases: []}
+name: {full: Ondarn Khorild, aliases: []}
 type: being
 tags: [character]
 data:

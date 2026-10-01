@@ -1,6 +1,6 @@
 ---
 shortcode: drusaxofnar
-name: {full: Drusax of Nar, title: "", given: Drusax, clan: Nar, aliases: []}
+name: {full: Drusax of Nar, aliases: []}
 type: being
 tags: [character]
 data:

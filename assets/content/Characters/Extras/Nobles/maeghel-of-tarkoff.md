@@ -1,6 +1,6 @@
 ---
 shortcode: maegheloftarkoff
-name: {full: Maeghel of Tarkoff, title: "", given: Maeghel, clan: Tarkoff, aliases: []}
+name: {full: Maeghel of Tarkoff, aliases: []}
 type: being
 tags: [character]
 data:

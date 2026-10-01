@@ -1,6 +1,6 @@
 ---
 shortcode: donkey
-name: {full: Donkey, title: "", given: Donkey, clan: "", aliases: []}
+name: {full: Donkey, aliases: []}
 type: being
 tags: [character]
 data:

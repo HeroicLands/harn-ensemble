@@ -1,6 +1,6 @@
 ---
 shortcode: merrimamgrimwul
-name: {full: Merrimam Grimwul, title: "", given: Merrimam, clan: Grimwul, aliases: []}
+name: {full: Merrimam Grimwul, aliases: []}
 type: being
 tags: [character]
 data:

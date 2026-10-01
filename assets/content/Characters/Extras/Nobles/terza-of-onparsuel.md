@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofonparsuel
-name: {full: Terza of Onparsuel, title: "", given: Terza, clan: Onparsuel, aliases: []}
+name: {full: Terza of Onparsuel, aliases: []}
 type: being
 tags: [character]
 data:

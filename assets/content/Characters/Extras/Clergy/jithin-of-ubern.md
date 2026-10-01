@@ -1,6 +1,6 @@
 ---
 shortcode: jithinofubern
-name: {full: Jithin of Ubern, title: "", given: Jithin, clan: Ubern, aliases: []}
+name: {full: Jithin of Ubern, aliases: []}
 type: being
 tags: [character]
 data:

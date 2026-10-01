@@ -1,6 +1,6 @@
 ---
 shortcode: orinofubela
-name: {full: Orin of Ubela, title: "", given: Orin, clan: Ubela, aliases: []}
+name: {full: Orin of Ubela, aliases: []}
 type: being
 tags: [character]
 data:

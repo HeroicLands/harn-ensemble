@@ -1,6 +1,6 @@
 ---
 shortcode: semisofturathec
-name: {full: Semis of Turathec, title: "", given: Semis, clan: Turathec, aliases: []}
+name: {full: Semis of Turathec, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: kesofkotren
-name: {full: Kes of Kotren, title: "", given: Kes, clan: Kotren, aliases: []}
+name: {full: Kes of Kotren, aliases: []}
 type: being
 tags: [character]
 data:

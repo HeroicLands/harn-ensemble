@@ -1,6 +1,6 @@
 ---
 shortcode: obrayzelofdebern
-name: {full: Obrayzel of Debern, title: "", given: Obrayzel, clan: Debern, aliases: []}
+name: {full: Obrayzel of Debern, aliases: []}
 type: being
 tags: [character]
 data:

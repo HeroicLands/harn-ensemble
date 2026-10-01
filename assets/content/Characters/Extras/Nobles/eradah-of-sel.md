@@ -1,6 +1,6 @@
 ---
 shortcode: eradahofsel
-name: {full: Eradah of Sel, title: "", given: Eradah, clan: Sel, aliases: []}
+name: {full: Eradah of Sel, aliases: []}
 type: being
 tags: [character]
 data:

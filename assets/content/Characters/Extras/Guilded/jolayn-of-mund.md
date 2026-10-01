@@ -1,6 +1,6 @@
 ---
 shortcode: jolaynofmund
-name: {full: Jolayn of Mund, title: "", given: Jolayn, clan: Mund, aliases: []}
+name: {full: Jolayn of Mund, aliases: []}
 type: being
 tags: [character]
 data:

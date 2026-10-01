@@ -1,6 +1,6 @@
 ---
 shortcode: veteranlamrinofael
-name: {full: Veteran Lamrin of Ael, title: Veteran, given: Lamrin, clan: Ael, aliases: []}
+name: {full: Veteran Lamrin of Ael, aliases: []}
 type: being
 tags: [character]
 data:

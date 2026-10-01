@@ -1,6 +1,6 @@
 ---
 shortcode: zukeofvalasan
-name: {full: Zuke of Valasan, title: "", given: Zuke, clan: Valasan, aliases: []}
+name: {full: Zuke of Valasan, aliases: []}
 type: being
 tags: [character]
 data:

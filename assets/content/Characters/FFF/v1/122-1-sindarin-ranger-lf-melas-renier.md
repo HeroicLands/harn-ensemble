@@ -1,6 +1,6 @@
 ---
 shortcode: melasrenier
-name: {full: Melas Renier, title: "", given: Melas, clan: Renier, aliases: []}
+name: {full: Melas Renier, aliases: []}
 type: being
 tags: [character]
 data:

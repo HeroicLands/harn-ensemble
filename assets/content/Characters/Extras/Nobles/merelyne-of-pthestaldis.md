@@ -1,6 +1,6 @@
 ---
 shortcode: merelyneofpthestaldis
-name: {full: Merelyne of Pthestaldis, title: "", given: Merelyne, clan: Pthestaldis, aliases: []}
+name: {full: Merelyne of Pthestaldis, aliases: []}
 type: being
 tags: [character]
 data:

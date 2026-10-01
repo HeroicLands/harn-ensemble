@@ -1,6 +1,6 @@
 ---
 shortcode: murlockofkarenel
-name: {full: Murlock of Karenel, title: "", given: Murlock, clan: Karenel, aliases: []}
+name: {full: Murlock of Karenel, aliases: []}
 type: being
 tags: [character]
 data:

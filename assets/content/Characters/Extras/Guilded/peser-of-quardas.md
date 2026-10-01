@@ -1,6 +1,6 @@
 ---
 shortcode: peserofquardas
-name: {full: Peser of Quardas, title: "", given: Peser, clan: Quardas, aliases: []}
+name: {full: Peser of Quardas, aliases: []}
 type: being
 tags: [character]
 data:

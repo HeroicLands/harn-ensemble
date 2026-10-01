@@ -1,6 +1,6 @@
 ---
 shortcode: natofhen
-name: {full: Nat of Hen, title: "", given: Nat, clan: Hen, aliases: []}
+name: {full: Nat of Hen, aliases: []}
 type: being
 tags: [character]
 data:

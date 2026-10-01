@@ -1,6 +1,6 @@
 ---
 shortcode: samilofsindan
-name: {full: Samil of Sindan, title: "", given: Samil, clan: Sindan, aliases: []}
+name: {full: Samil of Sindan, aliases: []}
 type: being
 tags: [character]
 data:

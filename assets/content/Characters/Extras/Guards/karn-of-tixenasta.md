@@ -1,6 +1,6 @@
 ---
 shortcode: karnoftixenasta
-name: {full: Karn of Tixenasta, title: "", given: Karn, clan: Tixenasta, aliases: []}
+name: {full: Karn of Tixenasta, aliases: []}
 type: being
 tags: [character]
 data:

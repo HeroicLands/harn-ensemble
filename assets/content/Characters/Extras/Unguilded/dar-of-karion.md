@@ -1,6 +1,6 @@
 ---
 shortcode: darofkarion
-name: {full: Dar of Karion, title: "", given: Dar, clan: Karion, aliases: []}
+name: {full: Dar of Karion, aliases: []}
 type: being
 tags: [character]
 data:

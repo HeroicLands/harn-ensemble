@@ -1,6 +1,6 @@
 ---
 shortcode: cyzorginofrathan
-name: {full: Cyzorgin of Rathan, title: "", given: Cyzorgin, clan: Rathan, aliases: []}
+name: {full: Cyzorgin of Rathan, aliases: []}
 type: being
 tags: [character]
 data:

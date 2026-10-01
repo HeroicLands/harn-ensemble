@@ -1,11 +1,6 @@
 ---
 shortcode: cabornagarchalphaluofcidimben
-name:
-  full: Cabornagarchalphalu of Cidimben
-  title: ""
-  given: Cabornagarchalphalu
-  clan: Cidimben
-  aliases: []
+name: {full: Cabornagarchalphalu of Cidimben, aliases: []}
 type: being
 tags: [character]
 data:

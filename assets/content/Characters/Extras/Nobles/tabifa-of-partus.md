@@ -1,6 +1,6 @@
 ---
 shortcode: tabifaofpartus
-name: {full: Tabifa of Partus, title: "", given: Tabifa, clan: Partus, aliases: []}
+name: {full: Tabifa of Partus, aliases: []}
 type: being
 tags: [character]
 data:

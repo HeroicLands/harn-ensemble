@@ -1,6 +1,6 @@
 ---
 shortcode: pasunofdybarn
-name: {full: Pasun of Dybarn, title: "", given: Pasun, clan: Dybarn, aliases: []}
+name: {full: Pasun of Dybarn, aliases: []}
 type: being
 tags: [character]
 data:

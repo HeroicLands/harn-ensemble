@@ -1,6 +1,6 @@
 ---
 shortcode: jolaynofnalasar
-name: {full: Jolayn of Nalasar, title: "", given: Jolayn, clan: Nalasar, aliases: []}
+name: {full: Jolayn of Nalasar, aliases: []}
 type: being
 tags: [character]
 data:

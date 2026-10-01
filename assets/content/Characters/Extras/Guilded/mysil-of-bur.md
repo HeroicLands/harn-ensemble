@@ -1,6 +1,6 @@
 ---
 shortcode: mysilofbur
-name: {full: Mysil of Bur, title: "", given: Mysil, clan: Bur, aliases: []}
+name: {full: Mysil of Bur, aliases: []}
 type: being
 tags: [character]
 data:

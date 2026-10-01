@@ -1,6 +1,6 @@
 ---
 shortcode: damelyesagaravania
-name: {full: Dame Lyesa Garavania, title: Dame, given: Lyesa, clan: Garavania, aliases: []}
+name: {full: Dame Lyesa Garavania, aliases: []}
 type: being
 tags: [character]
 data:

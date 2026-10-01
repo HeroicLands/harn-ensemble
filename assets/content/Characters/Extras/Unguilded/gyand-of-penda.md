@@ -1,6 +1,6 @@
 ---
 shortcode: gyandofpenda
-name: {full: Gyand of Penda, title: "", given: Gyand, clan: Penda, aliases: []}
+name: {full: Gyand of Penda, aliases: []}
 type: being
 tags: [character]
 data:

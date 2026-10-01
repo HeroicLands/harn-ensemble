@@ -1,6 +1,6 @@
 ---
 shortcode: kistyneofshre
-name: {full: Kistyne of Shre, title: "", given: Kistyne, clan: Shre, aliases: []}
+name: {full: Kistyne of Shre, aliases: []}
 type: being
 tags: [character]
 data:

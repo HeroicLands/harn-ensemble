@@ -1,6 +1,6 @@
 ---
 shortcode: braspenofamlugior
-name: {full: Braspen of Amlugior, title: "", given: Braspen, clan: Amlugior, aliases: []}
+name: {full: Braspen of Amlugior, aliases: []}
 type: being
 tags: [character]
 data:

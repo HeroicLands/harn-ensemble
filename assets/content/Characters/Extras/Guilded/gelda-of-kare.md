@@ -1,6 +1,6 @@
 ---
 shortcode: geldaofkare
-name: {full: Gelda of Kare, title: "", given: Gelda, clan: Kare, aliases: []}
+name: {full: Gelda of Kare, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: seginelaofpeden
-name: {full: Seginela of Peden, title: "", given: Seginela, clan: Peden, aliases: []}
+name: {full: Seginela of Peden, aliases: []}
 type: being
 tags: [character]
 data:

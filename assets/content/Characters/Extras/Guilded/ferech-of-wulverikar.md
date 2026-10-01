@@ -1,6 +1,6 @@
 ---
 shortcode: ferechofwulverikar
-name: {full: Ferech of Wulverikar, title: "", given: Ferech, clan: Wulverikar, aliases: []}
+name: {full: Ferech of Wulverikar, aliases: []}
 type: being
 tags: [character]
 data:

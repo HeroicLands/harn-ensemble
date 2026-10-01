@@ -1,6 +1,6 @@
 ---
 shortcode: durkorofquirinas
-name: {full: Durkor of Quirinas, title: "", given: Durkor, clan: Quirinas, aliases: []}
+name: {full: Durkor of Quirinas, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: lanachofasaka
-name: {full: Lanach of Asaka, title: "", given: Lanach, clan: Asaka, aliases: []}
+name: {full: Lanach of Asaka, aliases: []}
 type: being
 tags: [character]
 data:

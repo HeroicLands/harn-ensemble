@@ -1,6 +1,6 @@
 ---
 shortcode: arabithofaikare
-name: {full: Arabith of Aikare, title: "", given: Arabith, clan: Aikare, aliases: []}
+name: {full: Arabith of Aikare, aliases: []}
 type: being
 tags: [character]
 data:

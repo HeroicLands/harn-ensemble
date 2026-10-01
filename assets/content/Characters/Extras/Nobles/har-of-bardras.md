@@ -1,6 +1,6 @@
 ---
 shortcode: harofbardras
-name: {full: Har of Bardras, title: "", given: Har, clan: Bardras, aliases: []}
+name: {full: Har of Bardras, aliases: []}
 type: being
 tags: [character]
 data:

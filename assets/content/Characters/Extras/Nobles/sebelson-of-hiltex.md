@@ -1,6 +1,6 @@
 ---
 shortcode: sebelsonofhiltex
-name: {full: Sebelson of Hiltex, title: "", given: Sebelson, clan: Hiltex, aliases: []}
+name: {full: Sebelson of Hiltex, aliases: []}
 type: being
 tags: [character]
 data:

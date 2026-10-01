@@ -1,6 +1,6 @@
 ---
 shortcode: kolynofguinarass
-name: {full: Kolyn of Guinarass, title: "", given: Kolyn, clan: Guinarass, aliases: []}
+name: {full: Kolyn of Guinarass, aliases: []}
 type: being
 tags: [character]
 data:

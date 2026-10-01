@@ -1,6 +1,6 @@
 ---
 shortcode: lodinoffraul
-name: {full: Lodin of Fraul, title: "", given: Lodin, clan: Fraul, aliases: []}
+name: {full: Lodin of Fraul, aliases: []}
 type: being
 tags: [character]
 data:

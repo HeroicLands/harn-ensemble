@@ -1,6 +1,6 @@
 ---
 shortcode: gruldelofibin
-name: {full: Gruldel of Ibin, title: "", given: Gruldel, clan: Ibin, aliases: []}
+name: {full: Gruldel of Ibin, aliases: []}
 type: being
 tags: [character]
 data:

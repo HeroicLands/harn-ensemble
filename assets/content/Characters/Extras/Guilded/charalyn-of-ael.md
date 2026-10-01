@@ -1,6 +1,6 @@
 ---
 shortcode: charalynofael
-name: {full: Charalyn of Ael, title: "", given: Charalyn, clan: Ael, aliases: []}
+name: {full: Charalyn of Ael, aliases: []}
 type: being
 tags: [character]
 data:

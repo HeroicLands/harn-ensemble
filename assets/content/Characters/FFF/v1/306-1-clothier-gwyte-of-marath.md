@@ -1,6 +1,6 @@
 ---
 shortcode: gwyteofmarath
-name: {full: Gwyte of Marath, title: "", given: Gwyte, clan: Marath, aliases: []}
+name: {full: Gwyte of Marath, aliases: []}
 type: being
 tags: [character]
 data:

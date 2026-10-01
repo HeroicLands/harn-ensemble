@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofnara
-name: {full: Kaidia of Nara, title: "", given: Kaidia, clan: Nara, aliases: []}
+name: {full: Kaidia of Nara, aliases: []}
 type: being
 tags: [character]
 data:

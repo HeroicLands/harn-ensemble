@@ -1,6 +1,6 @@
 ---
 shortcode: ginelleofarthaleh
-name: {full: Ginelle of Arthaleh, title: "", given: Ginelle, clan: Arthaleh, aliases: []}
+name: {full: Ginelle of Arthaleh, aliases: []}
 type: being
 tags: [character]
 data:

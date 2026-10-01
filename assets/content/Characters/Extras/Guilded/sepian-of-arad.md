@@ -1,6 +1,6 @@
 ---
 shortcode: sepianofarad
-name: {full: Sepian of Arad, title: "", given: Sepian, clan: Arad, aliases: []}
+name: {full: Sepian of Arad, aliases: []}
 type: being
 tags: [character]
 data:

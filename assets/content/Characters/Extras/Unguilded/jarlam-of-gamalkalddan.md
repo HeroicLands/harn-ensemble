@@ -1,6 +1,6 @@
 ---
 shortcode: jarlamofgamalkalddan
-name: {full: Jarlam of Gamalkalddan, title: "", given: Jarlam, clan: Gamalkalddan, aliases: []}
+name: {full: Jarlam of Gamalkalddan, aliases: []}
 type: being
 tags: [character]
 data:

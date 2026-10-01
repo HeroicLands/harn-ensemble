@@ -1,6 +1,6 @@
 ---
 shortcode: merbesaldaradofvabetts
-name: {full: Merbesaldarad of Vabetts, title: "", given: Merbesaldarad, clan: Vabetts, aliases: []}
+name: {full: Merbesaldarad of Vabetts, aliases: []}
 type: being
 tags: [character]
 data:

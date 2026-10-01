@@ -1,6 +1,6 @@
 ---
 shortcode: jamarofhacherdad
-name: {full: Jamar of Hacherdad, title: "", given: Jamar, clan: Hacherdad, aliases: []}
+name: {full: Jamar of Hacherdad, aliases: []}
 type: being
 tags: [character]
 data:

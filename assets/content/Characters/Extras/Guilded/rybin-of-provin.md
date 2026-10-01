@@ -1,6 +1,6 @@
 ---
 shortcode: rybinofprovin
-name: {full: Rybin of Provin, title: "", given: Rybin, clan: Provin, aliases: []}
+name: {full: Rybin of Provin, aliases: []}
 type: being
 tags: [character]
 data:

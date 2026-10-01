@@ -1,6 +1,6 @@
 ---
 shortcode: koraofserdica
-name: {full: Kora of Serdica, title: "", given: Kora, clan: Serdica, aliases: []}
+name: {full: Kora of Serdica, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: zornaofpaserien
-name: {full: Zorna of Paserien, title: "", given: Zorna, clan: Paserien, aliases: []}
+name: {full: Zorna of Paserien, aliases: []}
 type: being
 tags: [character]
 data:

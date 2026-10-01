@@ -1,6 +1,6 @@
 ---
 shortcode: orthilofwejik
-name: {full: Orthil of Wejik, title: "", given: Orthil, clan: Wejik, aliases: []}
+name: {full: Orthil of Wejik, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: wereryofcoselen
-name: {full: Werery of Coselen, title: "", given: Werery, clan: Coselen, aliases: []}
+name: {full: Werery of Coselen, aliases: []}
 type: being
 tags: [character]
 data:

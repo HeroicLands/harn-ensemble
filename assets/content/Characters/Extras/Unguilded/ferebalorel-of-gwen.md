@@ -1,6 +1,6 @@
 ---
 shortcode: ferebalorelofgwen
-name: {full: Ferebalorel of Gwen, title: "", given: Ferebalorel, clan: Gwen, aliases: []}
+name: {full: Ferebalorel of Gwen, aliases: []}
 type: being
 tags: [character]
 data:

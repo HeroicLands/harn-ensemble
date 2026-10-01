@@ -1,6 +1,6 @@
 ---
 shortcode: nerelyneofathaen
-name: {full: Nerelyne of Athaen, title: "", given: Nerelyne, clan: Athaen, aliases: []}
+name: {full: Nerelyne of Athaen, aliases: []}
 type: being
 tags: [character]
 data:

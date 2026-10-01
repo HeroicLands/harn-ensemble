@@ -1,6 +1,6 @@
 ---
 shortcode: geldisofrikar
-name: {full: Geldis of Rikar, title: "", given: Geldis, clan: Rikar, aliases: []}
+name: {full: Geldis of Rikar, aliases: []}
 type: being
 tags: [character]
 data:

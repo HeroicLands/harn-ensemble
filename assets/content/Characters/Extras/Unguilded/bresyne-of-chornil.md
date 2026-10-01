@@ -1,6 +1,6 @@
 ---
 shortcode: bresyneofchornil
-name: {full: Bresyne of Chornil, title: "", given: Bresyne, clan: Chornil, aliases: []}
+name: {full: Bresyne of Chornil, aliases: []}
 type: being
 tags: [character]
 data:

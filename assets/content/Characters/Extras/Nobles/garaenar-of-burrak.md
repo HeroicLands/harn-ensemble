@@ -1,6 +1,6 @@
 ---
 shortcode: garaenarofburrak
-name: {full: Garaenar of Burrak, title: "", given: Garaenar, clan: Burrak, aliases: []}
+name: {full: Garaenar of Burrak, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: drounofintrel
-name: {full: Droun of Intrel, title: "", given: Droun, clan: Intrel, aliases: []}
+name: {full: Droun of Intrel, aliases: []}
 type: being
 tags: [character]
 data:

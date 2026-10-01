@@ -1,6 +1,6 @@
 ---
 shortcode: brasakofsarn
-name: {full: Brasak of Sarn, title: "", given: Brasak, clan: Sarn, aliases: []}
+name: {full: Brasak of Sarn, aliases: []}
 type: being
 tags: [character]
 data:

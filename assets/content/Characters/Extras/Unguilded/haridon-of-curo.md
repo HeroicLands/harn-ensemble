@@ -1,6 +1,6 @@
 ---
 shortcode: haridonofcuro
-name: {full: Haridon of Curo, title: "", given: Haridon, clan: Curo, aliases: []}
+name: {full: Haridon of Curo, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: rykefathamm
-name: {full: 'Ryke "Fat" Hamm', title: "", given: Ryke, clan: Hamm, aliases: [Fat]}
+name: {full: 'Ryke "Fat" Hamm', aliases: [Fat]}
 type: being
 tags: [character]
 data:

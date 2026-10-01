@@ -1,6 +1,6 @@
 ---
 shortcode: helisofenalasain
-name: {full: Helis of Enalasain, title: "", given: Helis, clan: Enalasain, aliases: []}
+name: {full: Helis of Enalasain, aliases: []}
 type: being
 tags: [character]
 data:

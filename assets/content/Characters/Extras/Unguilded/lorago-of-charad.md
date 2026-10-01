@@ -1,6 +1,6 @@
 ---
 shortcode: loragoofcharad
-name: {full: Lorago of Charad, title: "", given: Lorago, clan: Charad, aliases: []}
+name: {full: Lorago of Charad, aliases: []}
 type: being
 tags: [character]
 data:

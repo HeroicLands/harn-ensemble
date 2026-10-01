@@ -1,6 +1,6 @@
 ---
 shortcode: aramathlainofcidinnog
-name: {full: Aramathlain of Cidinnog, title: "", given: Aramathlain, clan: Cidinnog, aliases: []}
+name: {full: Aramathlain of Cidinnog, aliases: []}
 type: being
 tags: [character]
 data:

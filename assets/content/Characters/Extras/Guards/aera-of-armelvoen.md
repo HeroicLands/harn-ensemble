@@ -1,6 +1,6 @@
 ---
 shortcode: aeraofarmelvoen
-name: {full: Aera of Armelvoen, title: "", given: Aera, clan: Armelvoen, aliases: []}
+name: {full: Aera of Armelvoen, aliases: []}
 type: being
 tags: [character]
 data:

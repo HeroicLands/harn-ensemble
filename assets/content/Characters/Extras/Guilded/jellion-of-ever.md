@@ -1,6 +1,6 @@
 ---
 shortcode: jellionofever
-name: {full: Jellion of Ever, title: "", given: Jellion, clan: Ever, aliases: []}
+name: {full: Jellion of Ever, aliases: []}
 type: being
 tags: [character]
 data:

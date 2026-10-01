@@ -1,6 +1,6 @@
 ---
 shortcode: farrenofmarbeda
-name: {full: Farren of Marbeda, title: "", given: Farren, clan: Marbeda, aliases: []}
+name: {full: Farren of Marbeda, aliases: []}
 type: being
 tags: [character]
 data:

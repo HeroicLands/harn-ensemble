@@ -1,6 +1,6 @@
 ---
 shortcode: garisofeverikarby
-name: {full: Garis of Everikarby, title: "", given: Garis, clan: Everikarby, aliases: []}
+name: {full: Garis of Everikarby, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: burkotofkotrel
-name: {full: Burkot of Kotrel, title: "", given: Burkot, clan: Kotrel, aliases: []}
+name: {full: Burkot of Kotrel, aliases: []}
 type: being
 tags: [character]
 data:

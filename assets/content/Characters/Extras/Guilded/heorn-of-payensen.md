@@ -1,6 +1,6 @@
 ---
 shortcode: heornofpayensen
-name: {full: Heorn of Payensen, title: "", given: Heorn, clan: Payensen, aliases: []}
+name: {full: Heorn of Payensen, aliases: []}
 type: being
 tags: [character]
 data:

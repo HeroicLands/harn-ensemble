@@ -1,6 +1,6 @@
 ---
 shortcode: satofasain
-name: {full: Sat of Asain, title: "", given: Sat, clan: Asain, aliases: []}
+name: {full: Sat of Asain, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jasynofselesque
-name: {full: Jasyn of Selesque, title: "", given: Jasyn, clan: Selesque, aliases: []}
+name: {full: Jasyn of Selesque, aliases: []}
 type: being
 tags: [character]
 data:

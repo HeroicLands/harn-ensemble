@@ -1,6 +1,6 @@
 ---
 shortcode: thanofquirien
-name: {full: Than of Quirien, title: "", given: Than, clan: Quirien, aliases: []}
+name: {full: Than of Quirien, aliases: []}
 type: being
 tags: [character]
 data:

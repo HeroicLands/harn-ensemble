@@ -1,6 +1,6 @@
 ---
 shortcode: lysatofthoff
-name: {full: Lysat of Thoff, title: "", given: Lysat, clan: Thoff, aliases: []}
+name: {full: Lysat of Thoff, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: captainneridofral
-name: {full: Captain Nerid of Ral, title: Captain, given: Nerid, clan: Ral, aliases: []}
+name: {full: Captain Nerid of Ral, aliases: []}
 type: being
 tags: [character]
 data:

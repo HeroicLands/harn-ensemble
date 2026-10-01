@@ -1,6 +1,6 @@
 ---
 shortcode: solinaofrabetane
-name: {full: Solina of Rabetane, title: "", given: Solina, clan: Rabetane, aliases: []}
+name: {full: Solina of Rabetane, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: zabinofkramel
-name: {full: Zabin of Kramel, title: "", given: Zabin, clan: Kramel, aliases: []}
+name: {full: Zabin of Kramel, aliases: []}
 type: being
 tags: [character]
 data:

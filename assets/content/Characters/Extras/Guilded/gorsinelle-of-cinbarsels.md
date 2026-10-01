@@ -1,6 +1,6 @@
 ---
 shortcode: gorsinelleofcinbarsels
-name: {full: Gorsinelle of Cinbarsels, title: "", given: Gorsinelle, clan: Cinbarsels, aliases: []}
+name: {full: Gorsinelle of Cinbarsels, aliases: []}
 type: being
 tags: [character]
 data:

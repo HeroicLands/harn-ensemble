@@ -1,6 +1,6 @@
 ---
 shortcode: moskilofcharas
-name: {full: Moskil of Charas, title: "", given: Moskil, clan: Charas, aliases: []}
+name: {full: Moskil of Charas, aliases: []}
 type: being
 tags: [character]
 data:

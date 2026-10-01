@@ -1,6 +1,6 @@
 ---
 shortcode: thasisofquirien
-name: {full: Thasis of Quirien, title: "", given: Thasis, clan: Quirien, aliases: []}
+name: {full: Thasis of Quirien, aliases: []}
 type: being
 tags: [character]
 data:

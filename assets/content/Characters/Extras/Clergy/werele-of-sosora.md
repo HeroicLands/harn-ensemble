@@ -1,6 +1,6 @@
 ---
 shortcode: wereleofsosora
-name: {full: Werele of Sosora, title: "", given: Werele, clan: Sosora, aliases: []}
+name: {full: Werele of Sosora, aliases: []}
 type: being
 tags: [character]
 data:

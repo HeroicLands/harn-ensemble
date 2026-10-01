@@ -1,6 +1,6 @@
 ---
 shortcode: veteransabinofubern
-name: {full: Veteran Sabin of Ubern, title: Veteran, given: Sabin, clan: Ubern, aliases: []}
+name: {full: Veteran Sabin of Ubern, aliases: []}
 type: being
 tags: [character]
 data:

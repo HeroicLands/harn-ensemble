@@ -1,6 +1,6 @@
 ---
 shortcode: kaldisofdythias
-name: {full: Kaldis of Dythias, title: "", given: Kaldis, clan: Dythias, aliases: []}
+name: {full: Kaldis of Dythias, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: huwofislwyn
-name: {full: Huw of Islwyn, title: "", given: Huw, clan: Islwyn, aliases: []}
+name: {full: Huw of Islwyn, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gralofdarinarad
-name: {full: Gral of Darinarad, title: "", given: Gral, clan: Darinarad, aliases: []}
+name: {full: Gral of Darinarad, aliases: []}
 type: being
 tags: [character]
 data:

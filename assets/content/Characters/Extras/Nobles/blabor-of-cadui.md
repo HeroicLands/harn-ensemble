@@ -1,6 +1,6 @@
 ---
 shortcode: blaborofcadui
-name: {full: Blabor of Cadui, title: "", given: Blabor, clan: Cadui, aliases: []}
+name: {full: Blabor of Cadui, aliases: []}
 type: being
 tags: [character]
 data:

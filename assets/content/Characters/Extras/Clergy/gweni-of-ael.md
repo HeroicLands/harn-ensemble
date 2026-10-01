@@ -1,6 +1,6 @@
 ---
 shortcode: gweniofael
-name: {full: Gweni of Ael, title: "", given: Gweni, clan: Ael, aliases: []}
+name: {full: Gweni of Ael, aliases: []}
 type: being
 tags: [character]
 data:

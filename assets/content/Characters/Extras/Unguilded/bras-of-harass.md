@@ -1,6 +1,6 @@
 ---
 shortcode: brasofharass
-name: {full: Bras of Harass, title: "", given: Bras, clan: Harass, aliases: []}
+name: {full: Bras of Harass, aliases: []}
 type: being
 tags: [character]
 data:

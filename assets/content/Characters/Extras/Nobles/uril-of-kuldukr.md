@@ -1,6 +1,6 @@
 ---
 shortcode: urilofkuldukr
-name: {full: Uril of Kuldukr, title: "", given: Uril, clan: Kuldukr, aliases: []}
+name: {full: Uril of Kuldukr, aliases: []}
 type: being
 tags: [character]
 data:

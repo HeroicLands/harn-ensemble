@@ -1,6 +1,6 @@
 ---
 shortcode: obirisofsel
-name: {full: Obiris of Sel, title: "", given: Obiris, clan: Sel, aliases: []}
+name: {full: Obiris of Sel, aliases: []}
 type: being
 tags: [character]
 data:

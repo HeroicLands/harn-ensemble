@@ -1,6 +1,6 @@
 ---
 shortcode: julahofcadrune
-name: {full: Julah of Cadrune, title: "", given: Julah, clan: Cadrune, aliases: []}
+name: {full: Julah of Cadrune, aliases: []}
 type: being
 tags: [character]
 data:

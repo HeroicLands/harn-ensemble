@@ -1,6 +1,6 @@
 ---
 shortcode: marantofmerros
-name: {full: Marant of Merros, title: "", given: Marant, clan: Merros, aliases: []}
+name: {full: Marant of Merros, aliases: []}
 type: being
 tags: [character]
 data:

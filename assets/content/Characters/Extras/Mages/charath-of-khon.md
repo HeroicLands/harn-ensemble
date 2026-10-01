@@ -1,6 +1,6 @@
 ---
 shortcode: charathofkhon
-name: {full: Charath of Khon, title: "", given: Charath, clan: Khon, aliases: []}
+name: {full: Charath of Khon, aliases: []}
 type: being
 tags: [character]
 data:

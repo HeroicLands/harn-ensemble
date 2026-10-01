@@ -1,6 +1,6 @@
 ---
 shortcode: vadirynofmundondel
-name: {full: Vadiryn of Mundondel, title: "", given: Vadiryn, clan: Mundondel, aliases: []}
+name: {full: Vadiryn of Mundondel, aliases: []}
 type: being
 tags: [character]
 data:

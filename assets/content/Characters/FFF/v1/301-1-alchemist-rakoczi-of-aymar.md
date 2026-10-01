@@ -1,6 +1,6 @@
 ---
 shortcode: rakocziofaymar
-name: {full: Rakoczi of Aymar, title: "", given: Rakoczi, clan: Aymar, aliases: []}
+name: {full: Rakoczi of Aymar, aliases: []}
 type: being
 tags: [character]
 data:

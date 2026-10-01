@@ -1,6 +1,6 @@
 ---
 shortcode: bashofhendal
-name: {full: Bash of Hendal, title: "", given: Bash, clan: Hendal, aliases: []}
+name: {full: Bash of Hendal, aliases: []}
 type: being
 tags: [character]
 data:

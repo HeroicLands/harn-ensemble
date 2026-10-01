@@ -1,6 +1,6 @@
 ---
 shortcode: jeronisofagarak
-name: {full: Jeronis of Agarak, title: "", given: Jeronis, clan: Agarak, aliases: []}
+name: {full: Jeronis of Agarak, aliases: []}
 type: being
 tags: [character]
 data:

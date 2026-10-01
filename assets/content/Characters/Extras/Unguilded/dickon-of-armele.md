@@ -1,6 +1,6 @@
 ---
 shortcode: dickonofarmele
-name: {full: Dickon of Armele, title: "", given: Dickon, clan: Armele, aliases: []}
+name: {full: Dickon of Armele, aliases: []}
 type: being
 tags: [character]
 data:

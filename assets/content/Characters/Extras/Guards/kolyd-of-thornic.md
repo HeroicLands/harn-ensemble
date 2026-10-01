@@ -1,6 +1,6 @@
 ---
 shortcode: kolydofthornic
-name: {full: Kolyd of Thornic, title: "", given: Kolyd, clan: Thornic, aliases: []}
+name: {full: Kolyd of Thornic, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: marcandyoftich
-name: {full: Marcandy of Tich, title: "", given: Marcandy, clan: Tich, aliases: []}
+name: {full: Marcandy of Tich, aliases: []}
 type: being
 tags: [character]
 data:

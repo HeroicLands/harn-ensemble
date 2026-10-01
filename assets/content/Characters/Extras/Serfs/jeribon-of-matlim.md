@@ -1,6 +1,6 @@
 ---
 shortcode: jeribonofmatlim
-name: {full: Jeribon of Matlim, title: "", given: Jeribon, clan: Matlim, aliases: []}
+name: {full: Jeribon of Matlim, aliases: []}
 type: being
 tags: [character]
 data:

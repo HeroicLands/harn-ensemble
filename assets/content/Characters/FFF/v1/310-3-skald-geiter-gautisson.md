@@ -1,6 +1,6 @@
 ---
 shortcode: geitergautisson
-name: {full: Geiter Gautisson, title: "", given: Geiter, clan: Gautisson, aliases: []}
+name: {full: Geiter Gautisson, aliases: []}
 type: being
 tags: [character]
 data:

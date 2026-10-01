@@ -1,6 +1,6 @@
 ---
 shortcode: kuvelofasain
-name: {full: Kuvel of Asain, title: "", given: Kuvel, clan: Asain, aliases: []}
+name: {full: Kuvel of Asain, aliases: []}
 type: being
 tags: [character]
 data:

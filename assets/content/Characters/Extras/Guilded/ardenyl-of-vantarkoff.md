@@ -1,6 +1,6 @@
 ---
 shortcode: ardenylofvantarkoff
-name: {full: Ardenyl of Vantarkoff, title: "", given: Ardenyl, clan: Vantarkoff, aliases: []}
+name: {full: Ardenyl of Vantarkoff, aliases: []}
 type: being
 tags: [character]
 data:

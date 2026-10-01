@@ -1,6 +1,6 @@
 ---
 shortcode: itisofhaclern
-name: {full: Itis of Haclern, title: "", given: Itis, clan: Haclern, aliases: []}
+name: {full: Itis of Haclern, aliases: []}
 type: being
 tags: [character]
 data:

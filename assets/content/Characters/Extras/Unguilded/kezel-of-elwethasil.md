@@ -1,6 +1,6 @@
 ---
 shortcode: kezelofelwethasil
-name: {full: Kezel of Elwethasil, title: "", given: Kezel, clan: Elwethasil, aliases: []}
+name: {full: Kezel of Elwethasil, aliases: []}
 type: being
 tags: [character]
 data:

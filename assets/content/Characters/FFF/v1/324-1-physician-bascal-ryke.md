@@ -1,6 +1,6 @@
 ---
 shortcode: bascalryke
-name: {full: Bascal Ryke, title: "", given: Bascal, clan: Ryke, aliases: []}
+name: {full: Bascal Ryke, aliases: []}
 type: being
 tags: [character]
 data:

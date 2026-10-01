@@ -1,6 +1,6 @@
 ---
 shortcode: hobiroferrum
-name: {full: Hobir of Errum, title: "", given: Hobir, clan: Errum, aliases: []}
+name: {full: Hobir of Errum, aliases: []}
 type: being
 tags: [character]
 data:

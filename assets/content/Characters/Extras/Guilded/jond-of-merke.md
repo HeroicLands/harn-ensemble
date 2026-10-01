@@ -1,6 +1,6 @@
 ---
 shortcode: jondofmerke
-name: {full: Jond of Merke, title: "", given: Jond, clan: Merke, aliases: []}
+name: {full: Jond of Merke, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: karynoftrollateris
-name: {full: Karyn of Trollateris, title: "", given: Karyn, clan: Trollateris, aliases: []}
+name: {full: Karyn of Trollateris, aliases: []}
 type: being
 tags: [character]
 data:

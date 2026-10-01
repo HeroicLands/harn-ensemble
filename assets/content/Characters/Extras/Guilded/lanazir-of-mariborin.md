@@ -1,6 +1,6 @@
 ---
 shortcode: lanazirofmariborin
-name: {full: Lanazir of Mariborin, title: "", given: Lanazir, clan: Mariborin, aliases: []}
+name: {full: Lanazir of Mariborin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: obiriaofokren
-name: {full: Obiria of Okren, title: "", given: Obiria, clan: Okren, aliases: []}
+name: {full: Obiria of Okren, aliases: []}
 type: being
 tags: [character]
 data:

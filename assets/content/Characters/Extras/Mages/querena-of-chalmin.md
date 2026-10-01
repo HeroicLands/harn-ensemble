@@ -1,6 +1,6 @@
 ---
 shortcode: querenaofchalmin
-name: {full: Querena of Chalmin, title: "", given: Querena, clan: Chalmin, aliases: []}
+name: {full: Querena of Chalmin, aliases: []}
 type: being
 tags: [character]
 data:

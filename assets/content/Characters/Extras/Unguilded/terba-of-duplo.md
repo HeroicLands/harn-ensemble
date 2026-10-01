@@ -1,6 +1,6 @@
 ---
 shortcode: terbaofduplo
-name: {full: Terba of Duplo, title: "", given: Terba, clan: Duplo, aliases: []}
+name: {full: Terba of Duplo, aliases: []}
 type: being
 tags: [character]
 data:

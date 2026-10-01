@@ -1,6 +1,6 @@
 ---
 shortcode: falkisskorson
-name: {full: Falkis Skorson, title: "", given: Falkis, clan: Skorson, aliases: []}
+name: {full: Falkis Skorson, aliases: []}
 type: being
 tags: [character]
 data:

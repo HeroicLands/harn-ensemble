@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofmerben
-name: {full: Tulah of Merben, title: "", given: Tulah, clan: Merben, aliases: []}
+name: {full: Tulah of Merben, aliases: []}
 type: being
 tags: [character]
 data:

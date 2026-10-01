@@ -1,6 +1,6 @@
 ---
 shortcode: uoneoftarkoff
-name: {full: Uone of Tarkoff, title: "", given: Uone, clan: Tarkoff, aliases: []}
+name: {full: Uone of Tarkoff, aliases: []}
 type: being
 tags: [character]
 data:

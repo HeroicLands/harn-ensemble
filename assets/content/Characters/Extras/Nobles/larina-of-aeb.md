@@ -1,6 +1,6 @@
 ---
 shortcode: larinaofaeb
-name: {full: Larina of Aeb, title: "", given: Larina, clan: Aeb, aliases: []}
+name: {full: Larina of Aeb, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jolaofbor
-name: {full: Jola of Bor, title: "", given: Jola, clan: Bor, aliases: []}
+name: {full: Jola of Bor, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranrostaofdybarn
-name: {full: Veteran Rosta of Dybarn, title: Veteran, given: Rosta, clan: Dybarn, aliases: []}
+name: {full: Veteran Rosta of Dybarn, aliases: []}
 type: being
 tags: [character]
 data:

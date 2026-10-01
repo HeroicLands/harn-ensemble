@@ -1,6 +1,6 @@
 ---
 shortcode: semisofhiltex
-name: {full: Semis of Hiltex, title: "", given: Semis, clan: Hiltex, aliases: []}
+name: {full: Semis of Hiltex, aliases: []}
 type: being
 tags: [character]
 data:

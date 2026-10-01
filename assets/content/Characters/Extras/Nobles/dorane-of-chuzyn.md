@@ -1,6 +1,6 @@
 ---
 shortcode: doraneofchuzyn
-name: {full: Dorane of Chuzyn, title: "", given: Dorane, clan: Chuzyn, aliases: []}
+name: {full: Dorane of Chuzyn, aliases: []}
 type: being
 tags: [character]
 data:

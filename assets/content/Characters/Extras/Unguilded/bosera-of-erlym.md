@@ -1,6 +1,6 @@
 ---
 shortcode: boseraoferlym
-name: {full: Bosera of Erlym, title: "", given: Bosera, clan: Erlym, aliases: []}
+name: {full: Bosera of Erlym, aliases: []}
 type: being
 tags: [character]
 data:

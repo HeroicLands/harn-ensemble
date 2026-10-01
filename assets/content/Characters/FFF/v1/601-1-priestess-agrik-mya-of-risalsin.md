@@ -1,6 +1,6 @@
 ---
 shortcode: myaofrisalsin
-name: {full: Mya of Risalsin, title: "", given: Mya, clan: Risalsin, aliases: []}
+name: {full: Mya of Risalsin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: korofelemas
-name: {full: Kor of Elemas, title: "", given: Kor, clan: Elemas, aliases: []}
+name: {full: Kor of Elemas, aliases: []}
 type: being
 tags: [character]
 data:

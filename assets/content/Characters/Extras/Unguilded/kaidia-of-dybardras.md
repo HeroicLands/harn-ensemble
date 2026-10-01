@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofdybardras
-name: {full: Kaidia of Dybardras, title: "", given: Kaidia, clan: Dybardras, aliases: []}
+name: {full: Kaidia of Dybardras, aliases: []}
 type: being
 tags: [character]
 data:

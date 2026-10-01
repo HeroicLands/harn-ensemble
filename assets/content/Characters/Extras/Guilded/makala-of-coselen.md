@@ -1,6 +1,6 @@
 ---
 shortcode: makalaofcoselen
-name: {full: Makala of Coselen, title: "", given: Makala, clan: Coselen, aliases: []}
+name: {full: Makala of Coselen, aliases: []}
 type: being
 tags: [character]
 data:

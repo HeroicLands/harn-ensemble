@@ -1,6 +1,6 @@
 ---
 shortcode: gwelenofcharass
-name: {full: Gwelen of Charass, title: "", given: Gwelen, clan: Charass, aliases: []}
+name: {full: Gwelen of Charass, aliases: []}
 type: being
 tags: [character]
 data:

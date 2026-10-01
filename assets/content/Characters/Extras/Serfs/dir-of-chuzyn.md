@@ -1,6 +1,6 @@
 ---
 shortcode: dirofchuzyn
-name: {full: Dir of Chuzyn, title: "", given: Dir, clan: Chuzyn, aliases: []}
+name: {full: Dir of Chuzyn, aliases: []}
 type: being
 tags: [character]
 data:

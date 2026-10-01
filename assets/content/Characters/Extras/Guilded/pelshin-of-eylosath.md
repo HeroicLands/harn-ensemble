@@ -1,6 +1,6 @@
 ---
 shortcode: pelshinofeylosath
-name: {full: Pelshin of Eylosath, title: "", given: Pelshin, clan: Eylosath, aliases: []}
+name: {full: Pelshin of Eylosath, aliases: []}
 type: being
 tags: [character]
 data:

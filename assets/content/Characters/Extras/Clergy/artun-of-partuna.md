@@ -1,6 +1,6 @@
 ---
 shortcode: artunofpartuna
-name: {full: Artun of Partuna, title: "", given: Artun, clan: Partuna, aliases: []}
+name: {full: Artun of Partuna, aliases: []}
 type: being
 tags: [character]
 data:

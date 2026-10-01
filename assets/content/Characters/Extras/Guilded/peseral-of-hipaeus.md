@@ -1,6 +1,6 @@
 ---
 shortcode: peseralofhipaeus
-name: {full: Peseral of Hipaeus, title: "", given: Peseral, clan: Hipaeus, aliases: []}
+name: {full: Peseral of Hipaeus, aliases: []}
 type: being
 tags: [character]
 data:

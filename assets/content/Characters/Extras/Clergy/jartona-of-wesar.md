@@ -1,6 +1,6 @@
 ---
 shortcode: jartonaofwesar
-name: {full: Jartona of Wesar, title: "", given: Jartona, clan: Wesar, aliases: []}
+name: {full: Jartona of Wesar, aliases: []}
 type: being
 tags: [character]
 data:

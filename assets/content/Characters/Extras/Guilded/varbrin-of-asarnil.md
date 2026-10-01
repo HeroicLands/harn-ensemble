@@ -1,6 +1,6 @@
 ---
 shortcode: varbrinofasarnil
-name: {full: Varbrin of Asarnil, title: "", given: Varbrin, clan: Asarnil, aliases: []}
+name: {full: Varbrin of Asarnil, aliases: []}
 type: being
 tags: [character]
 data:

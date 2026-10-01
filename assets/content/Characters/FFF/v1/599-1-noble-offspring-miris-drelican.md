@@ -1,6 +1,6 @@
 ---
 shortcode: mirisdrelican
-name: {full: Miris Drelican, title: "", given: Miris, clan: Drelican, aliases: []}
+name: {full: Miris Drelican, aliases: []}
 type: being
 tags: [character]
 data:

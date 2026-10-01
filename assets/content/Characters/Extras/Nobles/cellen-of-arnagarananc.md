@@ -1,6 +1,6 @@
 ---
 shortcode: cellenofarnagarananc
-name: {full: Cellen of Arnagarananc, title: "", given: Cellen, clan: Arnagarananc, aliases: []}
+name: {full: Cellen of Arnagarananc, aliases: []}
 type: being
 tags: [character]
 data:

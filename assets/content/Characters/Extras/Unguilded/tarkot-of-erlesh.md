@@ -1,6 +1,6 @@
 ---
 shortcode: tarkotoferlesh
-name: {full: Tarkot of Erlesh, title: "", given: Tarkot, clan: Erlesh, aliases: []}
+name: {full: Tarkot of Erlesh, aliases: []}
 type: being
 tags: [character]
 data:

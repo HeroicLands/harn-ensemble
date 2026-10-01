@@ -1,6 +1,6 @@
 ---
 shortcode: finbaroferons
-name: {full: Finbar of Erons, title: "", given: Finbar, clan: Erons, aliases: []}
+name: {full: Finbar of Erons, aliases: []}
 type: being
 tags: [character]
 data:

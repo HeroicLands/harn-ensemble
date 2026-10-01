@@ -1,6 +1,6 @@
 ---
 shortcode: helinaofuert
-name: {full: Helina of Uert, title: "", given: Helina, clan: Uert, aliases: []}
+name: {full: Helina of Uert, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: terbaofshref
-name: {full: Terba of Shref, title: "", given: Terba, clan: Shref, aliases: []}
+name: {full: Terba of Shref, aliases: []}
 type: being
 tags: [character]
 data:

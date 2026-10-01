@@ -1,6 +1,6 @@
 ---
 shortcode: clanasofbela
-name: {full: Clanas of Bela, title: "", given: Clanas, clan: Bela, aliases: []}
+name: {full: Clanas of Bela, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: chimaofael
-name: {full: Chima of Ael, title: "", given: Chima, clan: Ael, aliases: []}
+name: {full: Chima of Ael, aliases: []}
 type: being
 tags: [character]
 data:

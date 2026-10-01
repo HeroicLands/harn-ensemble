@@ -1,6 +1,6 @@
 ---
 shortcode: maroofsarl
-name: {full: Maro of Sarl, title: "", given: Maro, clan: Sarl, aliases: []}
+name: {full: Maro of Sarl, aliases: []}
 type: being
 tags: [character]
 data:

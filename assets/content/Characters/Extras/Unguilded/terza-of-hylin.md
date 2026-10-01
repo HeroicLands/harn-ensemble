@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofhylin
-name: {full: Terza of Hylin, title: "", given: Terza, clan: Hylin, aliases: []}
+name: {full: Terza of Hylin, aliases: []}
 type: being
 tags: [character]
 data:

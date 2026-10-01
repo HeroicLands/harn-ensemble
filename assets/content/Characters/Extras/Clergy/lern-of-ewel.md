@@ -1,6 +1,6 @@
 ---
 shortcode: lernofewel
-name: {full: Lern of Ewel, title: "", given: Lern, clan: Ewel, aliases: []}
+name: {full: Lern of Ewel, aliases: []}
 type: being
 tags: [character]
 data:

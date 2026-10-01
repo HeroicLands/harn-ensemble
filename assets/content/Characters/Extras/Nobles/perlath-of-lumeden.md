@@ -1,6 +1,6 @@
 ---
 shortcode: perlathoflumeden
-name: {full: Perlath of Lumeden, title: "", given: Perlath, clan: Lumeden, aliases: []}
+name: {full: Perlath of Lumeden, aliases: []}
 type: being
 tags: [character]
 data:

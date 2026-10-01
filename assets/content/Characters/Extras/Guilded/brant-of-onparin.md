@@ -1,6 +1,6 @@
 ---
 shortcode: brantofonparin
-name: {full: Brant of Onparin, title: "", given: Brant, clan: Onparin, aliases: []}
+name: {full: Brant of Onparin, aliases: []}
 type: being
 tags: [character]
 data:

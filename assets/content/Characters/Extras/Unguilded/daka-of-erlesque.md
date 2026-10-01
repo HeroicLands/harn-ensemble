@@ -1,6 +1,6 @@
 ---
 shortcode: dakaoferlesque
-name: {full: Daka of Erlesque, title: "", given: Daka, clan: Erlesque, aliases: []}
+name: {full: Daka of Erlesque, aliases: []}
 type: being
 tags: [character]
 data:

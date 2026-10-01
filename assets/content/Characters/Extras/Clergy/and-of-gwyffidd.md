@@ -1,6 +1,6 @@
 ---
 shortcode: andofgwyffidd
-name: {full: And of Gwyffidd, title: "", given: And, clan: Gwyffidd, aliases: []}
+name: {full: And of Gwyffidd, aliases: []}
 type: being
 tags: [character]
 data:

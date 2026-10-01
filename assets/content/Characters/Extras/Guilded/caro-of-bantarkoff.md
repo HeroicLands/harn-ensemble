@@ -1,6 +1,6 @@
 ---
 shortcode: caroofbantarkoff
-name: {full: Caro of Bantarkoff, title: "", given: Caro, clan: Bantarkoff, aliases: []}
+name: {full: Caro of Bantarkoff, aliases: []}
 type: being
 tags: [character]
 data:

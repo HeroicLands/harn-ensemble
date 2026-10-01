@@ -1,6 +1,6 @@
 ---
 shortcode: weredaofewesinarad
-name: {full: Wereda of Ewesinarad, title: "", given: Wereda, clan: Ewesinarad, aliases: []}
+name: {full: Wereda of Ewesinarad, aliases: []}
 type: being
 tags: [character]
 data:

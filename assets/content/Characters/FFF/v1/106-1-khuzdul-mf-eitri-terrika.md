@@ -1,6 +1,6 @@
 ---
 shortcode: eitriterrika
-name: {full: Eitri Terrika, title: "", given: Eitri, clan: Terrika, aliases: []}
+name: {full: Eitri Terrika, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: artunofparsuel
-name: {full: Artun of Parsuel, title: "", given: Artun, clan: Parsuel, aliases: []}
+name: {full: Artun of Parsuel, aliases: []}
 type: being
 tags: [character]
 data:

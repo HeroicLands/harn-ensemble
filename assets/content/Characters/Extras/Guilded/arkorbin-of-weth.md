@@ -1,6 +1,6 @@
 ---
 shortcode: arkorbinofweth
-name: {full: Arkorbin of Weth, title: "", given: Arkorbin, clan: Weth, aliases: []}
+name: {full: Arkorbin of Weth, aliases: []}
 type: being
 tags: [character]
 data:

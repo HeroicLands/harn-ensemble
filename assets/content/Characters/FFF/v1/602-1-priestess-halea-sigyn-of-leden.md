@@ -1,6 +1,6 @@
 ---
 shortcode: sigynofleden
-name: {full: Sigyn of Leden, title: "", given: Sigyn, clan: Leden, aliases: []}
+name: {full: Sigyn of Leden, aliases: []}
 type: being
 tags: [character]
 data:

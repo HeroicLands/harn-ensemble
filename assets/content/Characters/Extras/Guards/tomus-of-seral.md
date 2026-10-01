@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofseral
-name: {full: Tomus of Seral, title: "", given: Tomus, clan: Seral, aliases: []}
+name: {full: Tomus of Seral, aliases: []}
 type: being
 tags: [character]
 data:

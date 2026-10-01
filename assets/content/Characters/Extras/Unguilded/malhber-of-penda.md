@@ -1,6 +1,6 @@
 ---
 shortcode: malhberofpenda
-name: {full: Malhber of Penda, title: "", given: Malhber, clan: Penda, aliases: []}
+name: {full: Malhber of Penda, aliases: []}
 type: being
 tags: [character]
 data:

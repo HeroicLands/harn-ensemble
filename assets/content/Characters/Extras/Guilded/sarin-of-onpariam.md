@@ -1,6 +1,6 @@
 ---
 shortcode: sarinofonpariam
-name: {full: Sarin of Onpariam, title: "", given: Sarin, clan: Onpariam, aliases: []}
+name: {full: Sarin of Onpariam, aliases: []}
 type: being
 tags: [character]
 data:

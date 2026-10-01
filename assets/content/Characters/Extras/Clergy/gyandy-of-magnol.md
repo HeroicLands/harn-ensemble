@@ -1,6 +1,6 @@
 ---
 shortcode: gyandyofmagnol
-name: {full: Gyandy of Magnol, title: "", given: Gyandy, clan: Magnol, aliases: []}
+name: {full: Gyandy of Magnol, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: rathofhaith
-name: {full: Rath of Haith, title: "", given: Rath, clan: Haith, aliases: []}
+name: {full: Rath of Haith, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofamafa
-name: {full: Milniq of Amafa, title: "", given: Milniq, clan: Amafa, aliases: []}
+name: {full: Milniq of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

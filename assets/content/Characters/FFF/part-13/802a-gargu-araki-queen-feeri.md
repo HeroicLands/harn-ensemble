@@ -1,6 +1,6 @@
 ---
 shortcode: feeri
-name: {full: Feeri, title: "", given: Feeri, clan: "", aliases: []}
+name: {full: Feeri, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: anglancofaglain
-name: {full: Anglanc of Aglain, title: "", given: Anglanc, clan: Aglain, aliases: []}
+name: {full: Anglanc of Aglain, aliases: []}
 type: being
 tags: [character]
 data:

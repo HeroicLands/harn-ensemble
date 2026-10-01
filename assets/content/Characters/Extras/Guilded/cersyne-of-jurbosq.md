@@ -1,6 +1,6 @@
 ---
 shortcode: cersyneofjurbosq
-name: {full: Cersyne of Jurbosq, title: "", given: Cersyne, clan: Jurbosq, aliases: []}
+name: {full: Cersyne of Jurbosq, aliases: []}
 type: being
 tags: [character]
 data:

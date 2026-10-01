@@ -1,6 +1,6 @@
 ---
 shortcode: veteranbelofvylosane
-name: {full: Veteran Bel of Vylosane, title: Veteran, given: Bel, clan: Vylosane, aliases: []}
+name: {full: Veteran Bel of Vylosane, aliases: []}
 type: being
 tags: [character]
 data:

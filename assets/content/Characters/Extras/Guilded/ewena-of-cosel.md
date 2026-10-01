@@ -1,6 +1,6 @@
 ---
 shortcode: ewenaofcosel
-name: {full: Ewena of Cosel, title: "", given: Ewena, clan: Cosel, aliases: []}
+name: {full: Ewena of Cosel, aliases: []}
 type: being
 tags: [character]
 data:

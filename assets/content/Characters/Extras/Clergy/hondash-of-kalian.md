@@ -1,6 +1,6 @@
 ---
 shortcode: hondashofkalian
-name: {full: Hondash of Kalian, title: "", given: Hondash, clan: Kalian, aliases: []}
+name: {full: Hondash of Kalian, aliases: []}
 type: being
 tags: [character]
 data:

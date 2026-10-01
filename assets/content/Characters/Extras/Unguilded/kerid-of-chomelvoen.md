@@ -1,6 +1,6 @@
 ---
 shortcode: keridofchomelvoen
-name: {full: Kerid of Chomelvoen, title: "", given: Kerid, clan: Chomelvoen, aliases: []}
+name: {full: Kerid of Chomelvoen, aliases: []}
 type: being
 tags: [character]
 data:

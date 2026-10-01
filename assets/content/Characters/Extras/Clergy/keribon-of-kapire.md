@@ -1,6 +1,6 @@
 ---
 shortcode: keribonofkapire
-name: {full: Keribon of Kapire, title: "", given: Keribon, clan: Kapire, aliases: []}
+name: {full: Keribon of Kapire, aliases: []}
 type: being
 tags: [character]
 data:

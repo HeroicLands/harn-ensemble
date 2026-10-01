@@ -1,6 +1,6 @@
 ---
 shortcode: ithanofpythselwethen
-name: {full: Ithan of Pythselwethen, title: "", given: Ithan, clan: Pythselwethen, aliases: []}
+name: {full: Ithan of Pythselwethen, aliases: []}
 type: being
 tags: [character]
 data:

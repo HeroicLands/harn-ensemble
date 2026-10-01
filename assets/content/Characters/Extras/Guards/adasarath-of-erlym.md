@@ -1,6 +1,6 @@
 ---
 shortcode: adasarathoferlym
-name: {full: Adasarath of Erlym, title: "", given: Adasarath, clan: Erlym, aliases: []}
+name: {full: Adasarath of Erlym, aliases: []}
 type: being
 tags: [character]
 data:

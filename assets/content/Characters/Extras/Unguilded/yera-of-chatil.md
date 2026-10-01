@@ -1,6 +1,6 @@
 ---
 shortcode: yeraofchatil
-name: {full: Yera of Chatil, title: "", given: Yera, clan: Chatil, aliases: []}
+name: {full: Yera of Chatil, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: kesofesar
-name: {full: Kes of Esar, title: "", given: Kes, clan: Esar, aliases: []}
+name: {full: Kes of Esar, aliases: []}
 type: being
 tags: [character]
 data:

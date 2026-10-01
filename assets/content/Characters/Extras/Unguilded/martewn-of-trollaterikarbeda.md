@@ -1,11 +1,6 @@
 ---
 shortcode: martewnoftrollaterikarbeda
-name:
-  full: Martewn of Trollaterikarbeda
-  title: ""
-  given: Martewn
-  clan: Trollaterikarbeda
-  aliases: []
+name: {full: Martewn of Trollaterikarbeda, aliases: []}
 type: being
 tags: [character]
 data:

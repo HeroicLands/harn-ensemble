@@ -1,11 +1,6 @@
 ---
 shortcode: veteranfeldaradofleredostaldim
-name:
-  full: Veteran Feldarad of Leredostaldim
-  title: Veteran
-  given: Feldarad
-  clan: Leredostaldim
-  aliases: []
+name: {full: Veteran Feldarad of Leredostaldim, aliases: []}
 type: being
 tags: [character]
 data:

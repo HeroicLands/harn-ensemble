@@ -1,6 +1,6 @@
 ---
 shortcode: jartonofewendal
-name: {full: Jarton of Ewendal, title: "", given: Jarton, clan: Ewendal, aliases: []}
+name: {full: Jarton of Ewendal, aliases: []}
 type: being
 tags: [character]
 data:

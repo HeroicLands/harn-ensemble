@@ -1,6 +1,6 @@
 ---
 shortcode: arathofubelon
-name: {full: Arath of Ubelon, title: "", given: Arath, clan: Ubelon, aliases: []}
+name: {full: Arath of Ubelon, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: staofchatil
-name: {full: Sta of Chatil, title: "", given: Sta, clan: Chatil, aliases: []}
+name: {full: Sta of Chatil, aliases: []}
 type: being
 tags: [character]
 data:

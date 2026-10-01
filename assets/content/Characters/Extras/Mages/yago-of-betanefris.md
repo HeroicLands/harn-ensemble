@@ -1,6 +1,6 @@
 ---
 shortcode: yagoofbetanefris
-name: {full: Yago of Betanefris, title: "", given: Yago, clan: Betanefris, aliases: []}
+name: {full: Yago of Betanefris, aliases: []}
 type: being
 tags: [character]
 data:

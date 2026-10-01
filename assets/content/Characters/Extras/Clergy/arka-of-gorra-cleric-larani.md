@@ -1,6 +1,6 @@
 ---
 shortcode: arkaofgorra
-name: {full: Arka of Gorra, title: "", given: Arka, clan: Gorra, aliases: []}
+name: {full: Arka of Gorra, aliases: []}
 type: being
 tags: [character]
 data:

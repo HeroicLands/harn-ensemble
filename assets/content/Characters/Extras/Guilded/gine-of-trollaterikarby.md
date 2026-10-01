@@ -1,6 +1,6 @@
 ---
 shortcode: gineoftrollaterikarby
-name: {full: Gine of Trollaterikarby, title: "", given: Gine, clan: Trollaterikarby, aliases: []}
+name: {full: Gine of Trollaterikarby, aliases: []}
 type: being
 tags: [character]
 data:

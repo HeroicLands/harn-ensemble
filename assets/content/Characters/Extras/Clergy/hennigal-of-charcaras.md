@@ -1,6 +1,6 @@
 ---
 shortcode: hennigalofcharcaras
-name: {full: Hennigal of Charcaras, title: "", given: Hennigal, clan: Charcaras, aliases: []}
+name: {full: Hennigal of Charcaras, aliases: []}
 type: being
 tags: [character]
 data:

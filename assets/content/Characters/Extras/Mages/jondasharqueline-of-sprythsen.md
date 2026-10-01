@@ -1,11 +1,6 @@
 ---
 shortcode: jondasharquelineofsprythsen
-name:
-  full: Jondasharqueline of Sprythsen
-  title: ""
-  given: Jondasharqueline
-  clan: Sprythsen
-  aliases: []
+name: {full: Jondasharqueline of Sprythsen, aliases: []}
 type: being
 tags: [character]
 data:

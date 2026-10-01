@@ -1,6 +1,6 @@
 ---
 shortcode: perlinaofathias
-name: {full: Perlina of Athias, title: "", given: Perlina, clan: Athias, aliases: []}
+name: {full: Perlina of Athias, aliases: []}
 type: being
 tags: [character]
 data:

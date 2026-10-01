@@ -1,6 +1,6 @@
 ---
 shortcode: dersoryoftalkene
-name: {full: Dersory of Talkene, title: "", given: Dersory, clan: Talkene, aliases: []}
+name: {full: Dersory of Talkene, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: kaiofwerth
-name: {full: Kai of Werth, title: "", given: Kai, clan: Werth, aliases: []}
+name: {full: Kai of Werth, aliases: []}
 type: being
 tags: [character]
 data:

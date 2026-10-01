@@ -1,6 +1,6 @@
 ---
 shortcode: pelsenofkass
-name: {full: Pelsen of Kass, title: "", given: Pelsen, clan: Kass, aliases: []}
+name: {full: Pelsen of Kass, aliases: []}
 type: being
 tags: [character]
 data:

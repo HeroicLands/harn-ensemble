@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofeylochi
-name: {full: Segina of Eylochi, title: "", given: Segina, clan: Eylochi, aliases: []}
+name: {full: Segina of Eylochi, aliases: []}
 type: being
 tags: [character]
 data:

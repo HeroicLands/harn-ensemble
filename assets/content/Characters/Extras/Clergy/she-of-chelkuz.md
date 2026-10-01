@@ -1,6 +1,6 @@
 ---
 shortcode: sheofchelkuz
-name: {full: She of Chelkuz, title: "", given: She, clan: Chelkuz, aliases: []}
+name: {full: She of Chelkuz, aliases: []}
 type: being
 tags: [character]
 data:

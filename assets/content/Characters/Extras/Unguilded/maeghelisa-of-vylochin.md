@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelisaofvylochin
-name: {full: Maeghelisa of Vylochin, title: "", given: Maeghelisa, clan: Vylochin, aliases: []}
+name: {full: Maeghelisa of Vylochin, aliases: []}
 type: being
 tags: [character]
 data:

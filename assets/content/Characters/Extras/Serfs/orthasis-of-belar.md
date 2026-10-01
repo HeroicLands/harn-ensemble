@@ -1,6 +1,6 @@
 ---
 shortcode: orthasisofbelar
-name: {full: Orthasis of Belar, title: "", given: Orthasis, clan: Belar, aliases: []}
+name: {full: Orthasis of Belar, aliases: []}
 type: being
 tags: [character]
 data:

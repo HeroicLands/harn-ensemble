@@ -1,6 +1,6 @@
 ---
 shortcode: piriaoffengeldor
-name: {full: Piria of Fengeldor, title: "", given: Piria, clan: Fengeldor, aliases: []}
+name: {full: Piria of Fengeldor, aliases: []}
 type: being
 tags: [character]
 data:

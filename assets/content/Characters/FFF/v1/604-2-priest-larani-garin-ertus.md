@@ -1,6 +1,6 @@
 ---
 shortcode: garinertus
-name: {full: Garin Ertus, title: "", given: Garin, clan: Ertus, aliases: []}
+name: {full: Garin Ertus, aliases: []}
 type: being
 tags: [character]
 data:

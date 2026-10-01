@@ -1,6 +1,6 @@
 ---
 shortcode: rackneofnar
-name: {full: Rackne of Nar, title: "", given: Rackne, clan: Nar, aliases: []}
+name: {full: Rackne of Nar, aliases: []}
 type: being
 tags: [character]
 data:

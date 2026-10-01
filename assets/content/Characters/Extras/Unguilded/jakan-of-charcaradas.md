@@ -1,6 +1,6 @@
 ---
 shortcode: jakanofcharcaradas
-name: {full: Jakan of Charcaradas, title: "", given: Jakan, clan: Charcaradas, aliases: []}
+name: {full: Jakan of Charcaradas, aliases: []}
 type: being
 tags: [character]
 data:

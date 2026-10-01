@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaofdythin
-name: {full: Sylvia of Dythin, title: "", given: Sylvia, clan: Dythin, aliases: []}
+name: {full: Sylvia of Dythin, aliases: []}
 type: being
 tags: [character]
 data:

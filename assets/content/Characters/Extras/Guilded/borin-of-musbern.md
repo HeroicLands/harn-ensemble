@@ -1,6 +1,6 @@
 ---
 shortcode: borinofmusbern
-name: {full: Borin of Musbern, title: "", given: Borin, clan: Musbern, aliases: []}
+name: {full: Borin of Musbern, aliases: []}
 type: being
 tags: [character]
 data:

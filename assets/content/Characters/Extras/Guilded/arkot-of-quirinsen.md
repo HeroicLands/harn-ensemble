@@ -1,6 +1,6 @@
 ---
 shortcode: arkotofquirinsen
-name: {full: Arkot of Quirinsen, title: "", given: Arkot, clan: Quirinsen, aliases: []}
+name: {full: Arkot of Quirinsen, aliases: []}
 type: being
 tags: [character]
 data:

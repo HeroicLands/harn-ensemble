@@ -1,6 +1,6 @@
 ---
 shortcode: aldaneofsymdalin
-name: {full: Aldane of Symdalin, title: "", given: Aldane, clan: Symdalin, aliases: []}
+name: {full: Aldane of Symdalin, aliases: []}
 type: being
 tags: [character]
 data:

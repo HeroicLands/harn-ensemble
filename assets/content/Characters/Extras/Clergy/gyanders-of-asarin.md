@@ -1,6 +1,6 @@
 ---
 shortcode: gyandersofasarin
-name: {full: Gyanders of Asarin, title: "", given: Gyanders, clan: Asarin, aliases: []}
+name: {full: Gyanders of Asarin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: ithofintrenel
-name: {full: Ith of Intrenel, title: "", given: Ith, clan: Intrenel, aliases: []}
+name: {full: Ith of Intrenel, aliases: []}
 type: being
 tags: [character]
 data:

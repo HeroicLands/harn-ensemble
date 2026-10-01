@@ -1,6 +1,6 @@
 ---
 shortcode: staofkeryn
-name: {full: Sta of Keryn, title: "", given: Sta, clan: Keryn, aliases: []}
+name: {full: Sta of Keryn, aliases: []}
 type: being
 tags: [character]
 data:

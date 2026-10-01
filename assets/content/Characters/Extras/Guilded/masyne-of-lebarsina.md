@@ -1,6 +1,6 @@
 ---
 shortcode: masyneoflebarsina
-name: {full: Masyne of Lebarsina, title: "", given: Masyne, clan: Lebarsina, aliases: []}
+name: {full: Masyne of Lebarsina, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: lasyneofkaterien
-name: {full: Lasyne of Katerien, title: "", given: Lasyne, clan: Katerien, aliases: []}
+name: {full: Lasyne of Katerien, aliases: []}
 type: being
 tags: [character]
 data:

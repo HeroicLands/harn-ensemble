@@ -1,6 +1,6 @@
 ---
 shortcode: anlaeldaofamafa
-name: {full: Anlaelda of Amafa, title: "", given: Anlaelda, clan: Amafa, aliases: []}
+name: {full: Anlaelda of Amafa, aliases: []}
 type: being
 tags: [character]
 data:

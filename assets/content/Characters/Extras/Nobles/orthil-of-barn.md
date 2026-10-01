@@ -1,6 +1,6 @@
 ---
 shortcode: orthilofbarn
-name: {full: Orthil of Barn, title: "", given: Orthil, clan: Barn, aliases: []}
+name: {full: Orthil of Barn, aliases: []}
 type: being
 tags: [character]
 data:

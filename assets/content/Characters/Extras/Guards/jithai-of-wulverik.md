@@ -1,6 +1,6 @@
 ---
 shortcode: jithaiofwulverik
-name: {full: Jithai of Wulverik, title: "", given: Jithai, clan: Wulverik, aliases: []}
+name: {full: Jithai of Wulverik, aliases: []}
 type: being
 tags: [character]
 data:

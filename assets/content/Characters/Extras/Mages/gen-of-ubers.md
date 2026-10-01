@@ -1,6 +1,6 @@
 ---
 shortcode: genofubers
-name: {full: Gen of Ubers, title: "", given: Gen, clan: Ubers, aliases: []}
+name: {full: Gen of Ubers, aliases: []}
 type: being
 tags: [character]
 data:

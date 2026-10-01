@@ -1,6 +1,6 @@
 ---
 shortcode: pallisofarmelen
-name: {full: Pallis of Armelen, title: "", given: Pallis, clan: Armelen, aliases: []}
+name: {full: Pallis of Armelen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: sepianoflaplacka
-name: {full: Sepian of Laplacka, title: "", given: Sepian, clan: Laplacka, aliases: []}
+name: {full: Sepian of Laplacka, aliases: []}
 type: being
 tags: [character]
 data:

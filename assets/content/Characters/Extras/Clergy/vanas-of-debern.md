@@ -1,6 +1,6 @@
 ---
 shortcode: vanasofdebern
-name: {full: Vanas of Debern, title: "", given: Vanas, clan: Debern, aliases: []}
+name: {full: Vanas of Debern, aliases: []}
 type: being
 tags: [character]
 data:

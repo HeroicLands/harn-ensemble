@@ -1,6 +1,6 @@
 ---
 shortcode: hadashainofpartus
-name: {full: Hadashain of Partus, title: "", given: Hadashain, clan: Partus, aliases: []}
+name: {full: Hadashain of Partus, aliases: []}
 type: being
 tags: [character]
 data:

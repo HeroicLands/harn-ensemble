@@ -1,6 +1,6 @@
 ---
 shortcode: aquillinofewesaan
-name: {full: Aquillin of Ewesaan, title: "", given: Aquillin, clan: Ewesaan, aliases: []}
+name: {full: Aquillin of Ewesaan, aliases: []}
 type: being
 tags: [character]
 data:

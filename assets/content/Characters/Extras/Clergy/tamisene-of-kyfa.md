@@ -1,6 +1,6 @@
 ---
 shortcode: tamiseneofkyfa
-name: {full: Tamisene of Kyfa, title: "", given: Tamisene, clan: Kyfa, aliases: []}
+name: {full: Tamisene of Kyfa, aliases: []}
 type: being
 tags: [character]
 data:

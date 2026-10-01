@@ -1,6 +1,6 @@
 ---
 shortcode: pallisaofkass
-name: {full: Pallisa of Kass, title: "", given: Pallisa, clan: Kass, aliases: []}
+name: {full: Pallisa of Kass, aliases: []}
 type: being
 tags: [character]
 data:

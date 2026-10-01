@@ -1,11 +1,6 @@
 ---
 shortcode: amathaniarofamarthassemben
-name:
-  full: Amathaniar of Amarthassemben
-  title: ""
-  given: Amathaniar
-  clan: Amarthassemben
-  aliases: []
+name: {full: Amathaniar of Amarthassemben, aliases: []}
 type: being
 tags: [character]
 data:

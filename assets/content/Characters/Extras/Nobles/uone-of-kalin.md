@@ -1,6 +1,6 @@
 ---
 shortcode: uoneofkalin
-name: {full: Uone of Kalin, title: "", given: Uone, clan: Kalin, aliases: []}
+name: {full: Uone of Kalin, aliases: []}
 type: being
 tags: [character]
 data:

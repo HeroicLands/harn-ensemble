@@ -1,6 +1,6 @@
 ---
 shortcode: zuiquerenaofaikarin
-name: {full: Zuiquerena of Aikarin, title: "", given: Zuiquerena, clan: Aikarin, aliases: []}
+name: {full: Zuiquerena of Aikarin, aliases: []}
 type: being
 tags: [character]
 data:

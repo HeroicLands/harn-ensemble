@@ -1,6 +1,6 @@
 ---
 shortcode: brasofqatorzin
-name: {full: Bras of Qatorzin, title: "", given: Bras, clan: Qatorzin, aliases: []}
+name: {full: Bras of Qatorzin, aliases: []}
 type: being
 tags: [character]
 data:

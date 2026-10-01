@@ -1,11 +1,6 @@
 ---
 shortcode: amarthamdirthenofamdirogegamlug
-name:
-  full: Amarthamdirthen of Amdirogegamlug
-  title: ""
-  given: Amarthamdirthen
-  clan: Amdirogegamlug
-  aliases: []
+name: {full: Amarthamdirthen of Amdirogegamlug, aliases: []}
 type: being
 tags: [character]
 data:

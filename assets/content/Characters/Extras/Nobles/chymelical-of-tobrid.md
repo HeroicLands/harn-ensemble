@@ -1,6 +1,6 @@
 ---
 shortcode: chymelicaloftobrid
-name: {full: Chymelical of Tobrid, title: "", given: Chymelical, clan: Tobrid, aliases: []}
+name: {full: Chymelical of Tobrid, aliases: []}
 type: being
 tags: [character]
 data:

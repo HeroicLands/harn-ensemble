@@ -1,6 +1,6 @@
 ---
 shortcode: cazaranofkarin
-name: {full: Cazaran of Karin, title: "", given: Cazaran, clan: Karin, aliases: []}
+name: {full: Cazaran of Karin, aliases: []}
 type: being
 tags: [character]
 data:

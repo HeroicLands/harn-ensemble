@@ -1,6 +1,6 @@
 ---
 shortcode: lanasofpordan
-name: {full: Lanas of Pordan, title: "", given: Lanas, clan: Pordan, aliases: []}
+name: {full: Lanas of Pordan, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: querielasyneoferlym
-name: {full: Querielasyne of Erlym, title: "", given: Querielasyne, clan: Erlym, aliases: []}
+name: {full: Querielasyne of Erlym, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: jendofmanchin
-name: {full: Jend of Manchin, title: "", given: Jend, clan: Manchin, aliases: []}
+name: {full: Jend of Manchin, aliases: []}
 type: being
 tags: [character]
 data:

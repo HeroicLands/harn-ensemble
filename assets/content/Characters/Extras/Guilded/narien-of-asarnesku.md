@@ -1,6 +1,6 @@
 ---
 shortcode: narienofasarnesku
-name: {full: Narien of Asarnesku, title: "", given: Narien, clan: Asarnesku, aliases: []}
+name: {full: Narien of Asarnesku, aliases: []}
 type: being
 tags: [character]
 data:

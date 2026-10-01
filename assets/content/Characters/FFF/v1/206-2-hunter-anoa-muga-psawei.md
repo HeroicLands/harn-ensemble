@@ -1,6 +1,6 @@
 ---
 shortcode: mugapsawei
-name: {full: Muga Psawei, title: "", given: Muga, clan: Psawei, aliases: []}
+name: {full: Muga Psawei, aliases: []}
 type: being
 tags: [character]
 data:

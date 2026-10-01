@@ -1,6 +1,6 @@
 ---
 shortcode: belsonofkhurud
-name: {full: Belson of Khurud, title: "", given: Belson, clan: Khurud, aliases: []}
+name: {full: Belson of Khurud, aliases: []}
 type: being
 tags: [character]
 data:

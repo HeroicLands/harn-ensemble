@@ -1,6 +1,6 @@
 ---
 shortcode: ginaoftroch
-name: {full: Gina of Troch, title: "", given: Gina, clan: Troch, aliases: []}
+name: {full: Gina of Troch, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: charigalofrythin
-name: {full: Charigal of Rythin, title: "", given: Charigal, clan: Rythin, aliases: []}
+name: {full: Charigal of Rythin, aliases: []}
 type: being
 tags: [character]
 data:

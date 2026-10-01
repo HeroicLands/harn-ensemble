@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaoftobira
-name: {full: Sylvia of Tobira, title: "", given: Sylvia, clan: Tobira, aliases: []}
+name: {full: Sylvia of Tobira, aliases: []}
 type: being
 tags: [character]
 data:

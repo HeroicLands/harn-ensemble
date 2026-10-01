@@ -1,6 +1,6 @@
 ---
 shortcode: perlinaofdurnwak
-name: {full: Perlina of Durnwak, title: "", given: Perlina, clan: Durnwak, aliases: []}
+name: {full: Perlina of Durnwak, aliases: []}
 type: being
 tags: [character]
 data:

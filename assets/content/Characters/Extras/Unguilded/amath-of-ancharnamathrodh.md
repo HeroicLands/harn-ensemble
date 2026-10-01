@@ -1,11 +1,6 @@
 ---
 shortcode: amathofancharnamathrodh
-name:
-  full: Amath of Ancharnamathrodh
-  title: ""
-  given: Amath
-  clan: Ancharnamathrodh
-  aliases: []
+name: {full: Amath of Ancharnamathrodh, aliases: []}
 type: being
 tags: [character]
 data:

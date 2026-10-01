@@ -1,6 +1,6 @@
 ---
 shortcode: ewenieneofaras
-name: {full: Eweniene of Aras, title: "", given: Eweniene, clan: Aras, aliases: []}
+name: {full: Eweniene of Aras, aliases: []}
 type: being
 tags: [character]
 data:

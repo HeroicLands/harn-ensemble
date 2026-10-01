@@ -1,6 +1,6 @@
 ---
 shortcode: yaelderienofciltex
-name: {full: Yaelderien of Ciltex, title: "", given: Yaelderien, clan: Ciltex, aliases: []}
+name: {full: Yaelderien of Ciltex, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: sarofpyth
-name: {full: Sar of Pyth, title: "", given: Sar, clan: Pyth, aliases: []}
+name: {full: Sar of Pyth, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: lasakofaethade
-name: {full: Lasak of Aethade, title: "", given: Lasak, clan: Aethade, aliases: []}
+name: {full: Lasak of Aethade, aliases: []}
 type: being
 tags: [character]
 data:

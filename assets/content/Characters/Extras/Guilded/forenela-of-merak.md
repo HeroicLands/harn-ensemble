@@ -1,6 +1,6 @@
 ---
 shortcode: forenelaofmerak
-name: {full: Forenela of Merak, title: "", given: Forenela, clan: Merak, aliases: []}
+name: {full: Forenela of Merak, aliases: []}
 type: being
 tags: [character]
 data:

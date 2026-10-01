@@ -1,6 +1,6 @@
 ---
 shortcode: inenofdariam
-name: {full: Inen of Dariam, title: "", given: Inen, clan: Dariam, aliases: []}
+name: {full: Inen of Dariam, aliases: []}
 type: being
 tags: [character]
 data:

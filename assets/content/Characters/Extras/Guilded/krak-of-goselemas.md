@@ -1,6 +1,6 @@
 ---
 shortcode: krakofgoselemas
-name: {full: Krak of Goselemas, title: "", given: Krak, clan: Goselemas, aliases: []}
+name: {full: Krak of Goselemas, aliases: []}
 type: being
 tags: [character]
 data:

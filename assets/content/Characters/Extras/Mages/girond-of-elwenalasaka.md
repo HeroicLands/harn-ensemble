@@ -1,6 +1,6 @@
 ---
 shortcode: girondofelwenalasaka
-name: {full: Girond of Elwenalasaka, title: "", given: Girond, clan: Elwenalasaka, aliases: []}
+name: {full: Girond of Elwenalasaka, aliases: []}
 type: being
 tags: [character]
 data:

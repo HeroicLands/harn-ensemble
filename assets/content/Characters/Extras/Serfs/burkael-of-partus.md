@@ -1,6 +1,6 @@
 ---
 shortcode: burkaelofpartus
-name: {full: Burkael of Partus, title: "", given: Burkael, clan: Partus, aliases: []}
+name: {full: Burkael of Partus, aliases: []}
 type: being
 tags: [character]
 data:

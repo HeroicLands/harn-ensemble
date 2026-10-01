@@ -1,6 +1,6 @@
 ---
 shortcode: urikofchuzyn
-name: {full: Urik of Chuzyn, title: "", given: Urik, clan: Chuzyn, aliases: []}
+name: {full: Urik of Chuzyn, aliases: []}
 type: being
 tags: [character]
 data:

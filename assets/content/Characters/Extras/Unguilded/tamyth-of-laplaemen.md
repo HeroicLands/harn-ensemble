@@ -1,6 +1,6 @@
 ---
 shortcode: tamythoflaplaemen
-name: {full: Tamyth of Laplaemen, title: "", given: Tamyth, clan: Laplaemen, aliases: []}
+name: {full: Tamyth of Laplaemen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: hervaofsindal
-name: {full: Herva of Sindal, title: "", given: Herva, clan: Sindal, aliases: []}
+name: {full: Herva of Sindal, aliases: []}
 type: being
 tags: [character]
 data:

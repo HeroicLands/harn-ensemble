@@ -1,6 +1,6 @@
 ---
 shortcode: keleofarasane
-name: {full: Kele of Arasane, title: "", given: Kele, clan: Arasane, aliases: []}
+name: {full: Kele of Arasane, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranharofkramel
-name: {full: Veteran Har of Kramel, title: Veteran, given: Har, clan: Kramel, aliases: []}
+name: {full: Veteran Har of Kramel, aliases: []}
 type: being
 tags: [character]
 data:

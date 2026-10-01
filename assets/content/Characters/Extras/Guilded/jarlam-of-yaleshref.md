@@ -1,6 +1,6 @@
 ---
 shortcode: jarlamofyaleshref
-name: {full: Jarlam of Yaleshref, title: "", given: Jarlam, clan: Yaleshref, aliases: []}
+name: {full: Jarlam of Yaleshref, aliases: []}
 type: being
 tags: [character]
 data:

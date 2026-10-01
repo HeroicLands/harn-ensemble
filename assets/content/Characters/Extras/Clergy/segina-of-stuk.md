@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofstuk
-name: {full: Segina of Stuk, title: "", given: Segina, clan: Stuk, aliases: []}
+name: {full: Segina of Stuk, aliases: []}
 type: being
 tags: [character]
 data:

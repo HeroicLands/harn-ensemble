@@ -1,6 +1,6 @@
 ---
 shortcode: arainofunigal
-name: {full: Arain of Unigal, title: "", given: Arain, clan: Unigal, aliases: []}
+name: {full: Arain of Unigal, aliases: []}
 type: being
 tags: [character]
 data:

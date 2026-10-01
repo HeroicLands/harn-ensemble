@@ -1,6 +1,6 @@
 ---
 shortcode: punatofetanefris
-name: {full: Punat of Etanefris, title: "", given: Punat, clan: Etanefris, aliases: []}
+name: {full: Punat of Etanefris, aliases: []}
 type: being
 tags: [character]
 data:

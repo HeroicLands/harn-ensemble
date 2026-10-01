@@ -1,6 +1,6 @@
 ---
 shortcode: gineofosathade
-name: {full: Gine of Osathade, title: "", given: Gine, clan: Osathade, aliases: []}
+name: {full: Gine of Osathade, aliases: []}
 type: being
 tags: [character]
 data:

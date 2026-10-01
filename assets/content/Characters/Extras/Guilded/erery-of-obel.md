@@ -1,6 +1,6 @@
 ---
 shortcode: ereryofobel
-name: {full: Erery of Obel, title: "", given: Erery, clan: Obel, aliases: []}
+name: {full: Erery of Obel, aliases: []}
 type: being
 tags: [character]
 data:

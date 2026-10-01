@@ -1,6 +1,6 @@
 ---
 shortcode: tolmeyofner
-name: {full: Tolmey of Ner, title: "", given: Tolmey, clan: Ner, aliases: []}
+name: {full: Tolmey of Ner, aliases: []}
 type: being
 tags: [character]
 data:

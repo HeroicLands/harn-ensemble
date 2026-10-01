@@ -1,6 +1,6 @@
 ---
 shortcode: baeofwytel
-name: {full: Bae of Wytel, title: "", given: Bae, clan: Wytel, aliases: []}
+name: {full: Bae of Wytel, aliases: []}
 type: being
 tags: [character]
 data:

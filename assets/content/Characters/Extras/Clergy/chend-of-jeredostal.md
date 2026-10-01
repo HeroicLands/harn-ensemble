@@ -1,6 +1,6 @@
 ---
 shortcode: chendofjeredostal
-name: {full: Chend of Jeredostal, title: "", given: Chend, clan: Jeredostal, aliases: []}
+name: {full: Chend of Jeredostal, aliases: []}
 type: being
 tags: [character]
 data:

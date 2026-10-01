@@ -1,6 +1,6 @@
 ---
 shortcode: harasofcadrunen
-name: {full: Haras of Cadrunen, title: "", given: Haras, clan: Cadrunen, aliases: []}
+name: {full: Haras of Cadrunen, aliases: []}
 type: being
 tags: [character]
 data:

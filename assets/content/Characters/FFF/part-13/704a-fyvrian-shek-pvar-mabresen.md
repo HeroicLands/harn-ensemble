@@ -1,6 +1,6 @@
 ---
 shortcode: mabresen
-name: {full: Mabresen, title: "", given: Mabresen, clan: "", aliases: []}
+name: {full: Mabresen, aliases: []}
 type: being
 tags: [character]
 data:

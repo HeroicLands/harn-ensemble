@@ -1,6 +1,6 @@
 ---
 shortcode: gwenienofhosathasil
-name: {full: Gwenien of Hosathasil, title: "", given: Gwenien, clan: Hosathasil, aliases: []}
+name: {full: Gwenien of Hosathasil, aliases: []}
 type: being
 tags: [character]
 data:

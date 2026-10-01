@@ -1,6 +1,6 @@
 ---
 shortcode: hadashofwythaen
-name: {full: Hadash of Wythaen, title: "", given: Hadash, clan: Wythaen, aliases: []}
+name: {full: Hadash of Wythaen, aliases: []}
 type: being
 tags: [character]
 data:

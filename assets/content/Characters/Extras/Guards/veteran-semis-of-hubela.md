@@ -1,6 +1,6 @@
 ---
 shortcode: veteransemisofhubela
-name: {full: Veteran Semis of Hubela, title: Veteran, given: Semis, clan: Hubela, aliases: []}
+name: {full: Veteran Semis of Hubela, aliases: []}
 type: being
 tags: [character]
 data:

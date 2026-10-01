@@ -1,6 +1,6 @@
 ---
 shortcode: arandyoflaplacka
-name: {full: Arandy of Laplacka, title: "", given: Arandy, clan: Laplacka, aliases: []}
+name: {full: Arandy of Laplacka, aliases: []}
 type: being
 tags: [character]
 data:

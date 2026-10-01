@@ -1,6 +1,6 @@
 ---
 shortcode: siregarolandau
-name: {full: Sir Egar Olandau, title: Sir, given: Egar, clan: Olandau, aliases: []}
+name: {full: Sir Egar Olandau, aliases: []}
 type: being
 tags: [character]
 data:

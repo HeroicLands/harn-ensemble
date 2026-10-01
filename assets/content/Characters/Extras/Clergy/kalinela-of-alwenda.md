@@ -1,6 +1,6 @@
 ---
 shortcode: kalinelaofalwenda
-name: {full: Kalinela of Alwenda, title: "", given: Kalinela, clan: Alwenda, aliases: []}
+name: {full: Kalinela of Alwenda, aliases: []}
 type: being
 tags: [character]
 data:

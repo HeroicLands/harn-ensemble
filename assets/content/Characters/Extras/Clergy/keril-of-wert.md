@@ -1,6 +1,6 @@
 ---
 shortcode: kerilofwert
-name: {full: Keril of Wert, title: "", given: Keril, clan: Wert, aliases: []}
+name: {full: Keril of Wert, aliases: []}
 type: being
 tags: [character]
 data:

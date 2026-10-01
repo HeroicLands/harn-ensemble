@@ -1,6 +1,6 @@
 ---
 shortcode: angolofstiem
-name: {full: Angol of Stiem, title: "", given: Angol, clan: Stiem, aliases: []}
+name: {full: Angol of Stiem, aliases: []}
 type: being
 tags: [character]
 data:

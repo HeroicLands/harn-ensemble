@@ -1,6 +1,6 @@
 ---
 shortcode: angofangor
-name: {full: Ang of Angor, title: "", given: Ang, clan: Angor, aliases: []}
+name: {full: Ang of Angor, aliases: []}
 type: being
 tags: [character]
 data:

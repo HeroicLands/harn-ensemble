@@ -1,6 +1,6 @@
 ---
 shortcode: eweniofiribe
-name: {full: Eweni of Iribe, title: "", given: Eweni, clan: Iribe, aliases: []}
+name: {full: Eweni of Iribe, aliases: []}
 type: being
 tags: [character]
 data:

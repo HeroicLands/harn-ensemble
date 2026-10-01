@@ -1,6 +1,6 @@
 ---
 shortcode: illicofkrollater
-name: {full: Illic of Krollater, title: "", given: Illic, clan: Krollater, aliases: []}
+name: {full: Illic of Krollater, aliases: []}
 type: being
 tags: [character]
 data:

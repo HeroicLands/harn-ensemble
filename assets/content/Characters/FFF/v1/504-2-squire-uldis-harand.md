@@ -1,6 +1,6 @@
 ---
 shortcode: uldisharand
-name: {full: Uldis Harand, title: "", given: Uldis, clan: Harand, aliases: []}
+name: {full: Uldis Harand, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelimeofcharion
-name: {full: Maeghelime of Charion, title: "", given: Maeghelime, clan: Charion, aliases: []}
+name: {full: Maeghelime of Charion, aliases: []}
 type: being
 tags: [character]
 data:

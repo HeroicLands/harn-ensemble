@@ -1,6 +1,6 @@
 ---
 shortcode: staofquardan
-name: {full: Sta of Quardan, title: "", given: Sta, clan: Quardan, aliases: []}
+name: {full: Sta of Quardan, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: sirsamuelofzoben
-name: {full: Sir Samuel of Zoben, title: Sir, given: Samuel, clan: Zoben, aliases: []}
+name: {full: Sir Samuel of Zoben, aliases: []}
 type: being
 tags: [character]
 data:

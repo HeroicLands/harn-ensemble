@@ -1,6 +1,6 @@
 ---
 shortcode: kalwisoforta
-name: {full: Kalwis of Orta, title: "", given: Kalwis, clan: Orta, aliases: []}
+name: {full: Kalwis of Orta, aliases: []}
 type: being
 tags: [character]
 data:

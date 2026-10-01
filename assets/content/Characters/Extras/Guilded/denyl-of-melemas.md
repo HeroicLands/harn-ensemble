@@ -1,6 +1,6 @@
 ---
 shortcode: denylofmelemas
-name: {full: Denyl of Melemas, title: "", given: Denyl, clan: Melemas, aliases: []}
+name: {full: Denyl of Melemas, aliases: []}
 type: being
 tags: [character]
 data:

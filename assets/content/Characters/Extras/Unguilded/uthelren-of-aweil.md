@@ -1,6 +1,6 @@
 ---
 shortcode: uthelrenofaweil
-name: {full: Uthelren of Aweil, title: "", given: Uthelren, clan: Aweil, aliases: []}
+name: {full: Uthelren of Aweil, aliases: []}
 type: being
 tags: [character]
 data:

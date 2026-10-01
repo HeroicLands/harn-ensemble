@@ -1,6 +1,6 @@
 ---
 shortcode: halidofaikarin
-name: {full: Halid of Aikarin, title: "", given: Halid, clan: Aikarin, aliases: []}
+name: {full: Halid of Aikarin, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: krikofasanerik
-name: {full: Krik of Asanerik, title: "", given: Krik, clan: Asanerik, aliases: []}
+name: {full: Krik of Asanerik, aliases: []}
 type: being
 tags: [character]
 data:

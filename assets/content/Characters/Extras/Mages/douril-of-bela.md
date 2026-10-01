@@ -1,6 +1,6 @@
 ---
 shortcode: dourilofbela
-name: {full: Douril of Bela, title: "", given: Douril, clan: Bela, aliases: []}
+name: {full: Douril of Bela, aliases: []}
 type: being
 tags: [character]
 data:

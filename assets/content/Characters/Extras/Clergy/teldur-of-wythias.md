@@ -1,6 +1,6 @@
 ---
 shortcode: teldurofwythias
-name: {full: Teldur of Wythias, title: "", given: Teldur, clan: Wythias, aliases: []}
+name: {full: Teldur of Wythias, aliases: []}
 type: being
 tags: [character]
 data:

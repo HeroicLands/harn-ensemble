@@ -1,6 +1,6 @@
 ---
 shortcode: shanseagaravania
-name: {full: Shansea Garavania, title: "", given: Shansea, clan: Garavania, aliases: []}
+name: {full: Shansea Garavania, aliases: []}
 type: being
 tags: [character]
 data:

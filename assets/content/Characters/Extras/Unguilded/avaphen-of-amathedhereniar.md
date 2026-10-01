@@ -1,11 +1,6 @@
 ---
 shortcode: avaphenofamathedhereniar
-name:
-  full: Avaphen of Amathedhereniar
-  title: ""
-  given: Avaphen
-  clan: Amathedhereniar
-  aliases: []
+name: {full: Avaphen of Amathedhereniar, aliases: []}
 type: being
 tags: [character]
 data:

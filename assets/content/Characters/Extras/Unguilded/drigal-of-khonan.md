@@ -1,6 +1,6 @@
 ---
 shortcode: drigalofkhonan
-name: {full: Drigal of Khonan, title: "", given: Drigal, clan: Khonan, aliases: []}
+name: {full: Drigal of Khonan, aliases: []}
 type: being
 tags: [character]
 data:

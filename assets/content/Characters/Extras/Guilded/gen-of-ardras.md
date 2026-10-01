@@ -1,6 +1,6 @@
 ---
 shortcode: genofardras
-name: {full: Gen of Ardras, title: "", given: Gen, clan: Ardras, aliases: []}
+name: {full: Gen of Ardras, aliases: []}
 type: being
 tags: [character]
 data:

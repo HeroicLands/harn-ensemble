@@ -1,6 +1,6 @@
 ---
 shortcode: keridofbor
-name: {full: Kerid of Bor, title: "", given: Kerid, clan: Bor, aliases: []}
+name: {full: Kerid of Bor, aliases: []}
 type: being
 tags: [character]
 data:

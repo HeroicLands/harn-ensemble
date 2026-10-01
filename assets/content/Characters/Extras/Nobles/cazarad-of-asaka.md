@@ -1,6 +1,6 @@
 ---
 shortcode: cazaradofasaka
-name: {full: Cazarad of Asaka, title: "", given: Cazarad, clan: Asaka, aliases: []}
+name: {full: Cazarad of Asaka, aliases: []}
 type: being
 tags: [character]
 data:

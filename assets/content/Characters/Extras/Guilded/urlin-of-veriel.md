@@ -1,6 +1,6 @@
 ---
 shortcode: urlinofveriel
-name: {full: Urlin of Veriel, title: "", given: Urlin, clan: Veriel, aliases: []}
+name: {full: Urlin of Veriel, aliases: []}
 type: being
 tags: [character]
 data:

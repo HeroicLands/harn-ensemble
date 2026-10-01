@@ -1,6 +1,6 @@
 ---
 shortcode: aeraofcrani
-name: {full: Aera of Crani, title: "", given: Aera, clan: Crani, aliases: []}
+name: {full: Aera of Crani, aliases: []}
 type: being
 tags: [character]
 data:

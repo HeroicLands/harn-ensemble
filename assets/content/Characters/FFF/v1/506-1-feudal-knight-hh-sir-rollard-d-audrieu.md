@@ -1,6 +1,6 @@
 ---
 shortcode: sirrollarddaudrieu
-name: {full: Sir Rollard d'Audrieu, title: Sir, given: Rollard, clan: d'Audrieu, aliases: []}
+name: {full: Sir Rollard d'Audrieu, aliases: []}
 type: being
 tags: [character]
 data:

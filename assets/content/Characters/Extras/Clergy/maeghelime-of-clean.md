@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelimeofclean
-name: {full: Maeghelime of Clean, title: "", given: Maeghelime, clan: Clean, aliases: []}
+name: {full: Maeghelime of Clean, aliases: []}
 type: being
 tags: [character]
 data:

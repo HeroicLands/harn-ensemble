@@ -1,6 +1,6 @@
 ---
 shortcode: lusilinaofdurnwak
-name: {full: Lusilina of Durnwak, title: "", given: Lusilina, clan: Durnwak, aliases: []}
+name: {full: Lusilina of Durnwak, aliases: []}
 type: being
 tags: [character]
 data:

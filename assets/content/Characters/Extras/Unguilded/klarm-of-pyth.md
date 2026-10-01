@@ -1,6 +1,6 @@
 ---
 shortcode: klarmofpyth
-name: {full: Klarm of Pyth, title: "", given: Klarm, clan: Pyth, aliases: []}
+name: {full: Klarm of Pyth, aliases: []}
 type: being
 tags: [character]
 data:

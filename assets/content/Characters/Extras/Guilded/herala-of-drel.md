@@ -1,6 +1,6 @@
 ---
 shortcode: heralaofdrel
-name: {full: Herala of Drel, title: "", given: Herala, clan: Drel, aliases: []}
+name: {full: Herala of Drel, aliases: []}
 type: being
 tags: [character]
 data:

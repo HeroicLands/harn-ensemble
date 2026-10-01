@@ -1,6 +1,6 @@
 ---
 shortcode: brynn
-name: {full: Brynn, title: "", given: Brynn, clan: "", aliases: []}
+name: {full: Brynn, aliases: []}
 type: being
 tags: [character]
 data:

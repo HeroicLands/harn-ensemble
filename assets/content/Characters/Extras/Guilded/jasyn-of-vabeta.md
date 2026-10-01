@@ -1,6 +1,6 @@
 ---
 shortcode: jasynofvabeta
-name: {full: Jasyn of Vabeta, title: "", given: Jasyn, clan: Vabeta, aliases: []}
+name: {full: Jasyn of Vabeta, aliases: []}
 type: being
 tags: [character]
 data:

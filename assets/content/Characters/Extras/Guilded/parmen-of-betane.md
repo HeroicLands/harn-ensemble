@@ -1,6 +1,6 @@
 ---
 shortcode: parmenofbetane
-name: {full: Parmen of Betane, title: "", given: Parmen, clan: Betane, aliases: []}
+name: {full: Parmen of Betane, aliases: []}
 type: being
 tags: [character]
 data:

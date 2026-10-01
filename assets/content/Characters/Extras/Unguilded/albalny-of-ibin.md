@@ -1,6 +1,6 @@
 ---
 shortcode: albalnyofibin
-name: {full: Albalny of Ibin, title: "", given: Albalny, clan: Ibin, aliases: []}
+name: {full: Albalny of Ibin, aliases: []}
 type: being
 tags: [character]
 data:

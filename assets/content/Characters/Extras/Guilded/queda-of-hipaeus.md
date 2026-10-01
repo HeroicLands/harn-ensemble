@@ -1,6 +1,6 @@
 ---
 shortcode: quedaofhipaeus
-name: {full: Queda of Hipaeus, title: "", given: Queda, clan: Hipaeus, aliases: []}
+name: {full: Queda of Hipaeus, aliases: []}
 type: being
 tags: [character]
 data:

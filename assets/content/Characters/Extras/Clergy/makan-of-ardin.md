@@ -1,6 +1,6 @@
 ---
 shortcode: makanofardin
-name: {full: Makan of Ardin, title: "", given: Makan, clan: Ardin, aliases: []}
+name: {full: Makan of Ardin, aliases: []}
 type: being
 tags: [character]
 data:

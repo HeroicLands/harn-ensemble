@@ -1,6 +1,6 @@
 ---
 shortcode: jendoforlon
-name: {full: Jend of Orlon, title: "", given: Jend, clan: Orlon, aliases: []}
+name: {full: Jend of Orlon, aliases: []}
 type: being
 tags: [character]
 data:

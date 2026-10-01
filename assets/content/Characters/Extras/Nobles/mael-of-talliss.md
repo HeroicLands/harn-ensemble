@@ -1,6 +1,6 @@
 ---
 shortcode: maeloftalliss
-name: {full: Mael of Talliss, title: "", given: Mael, clan: Talliss, aliases: []}
+name: {full: Mael of Talliss, aliases: []}
 type: being
 tags: [character]
 data:

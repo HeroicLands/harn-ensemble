@@ -1,6 +1,6 @@
 ---
 shortcode: petryofalloc
-name: {full: Petry of Alloc, title: "", given: Petry, clan: Alloc, aliases: []}
+name: {full: Petry of Alloc, aliases: []}
 type: being
 tags: [character]
 data:

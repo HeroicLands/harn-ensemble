@@ -1,6 +1,6 @@
 ---
 shortcode: zukeofeverdy
-name: {full: Zuke of Everdy, title: "", given: Zuke, clan: Everdy, aliases: []}
+name: {full: Zuke of Everdy, aliases: []}
 type: being
 tags: [character]
 data:

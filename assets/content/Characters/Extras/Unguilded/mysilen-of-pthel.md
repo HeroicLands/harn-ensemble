@@ -1,6 +1,6 @@
 ---
 shortcode: mysilenofpthel
-name: {full: Mysilen of Pthel, title: "", given: Mysilen, clan: Pthel, aliases: []}
+name: {full: Mysilen of Pthel, aliases: []}
 type: being
 tags: [character]
 data:

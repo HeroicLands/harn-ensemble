@@ -1,6 +1,6 @@
 ---
 shortcode: arilofcinbarn
-name: {full: Aril of Cinbarn, title: "", given: Aril, clan: Cinbarn, aliases: []}
+name: {full: Aril of Cinbarn, aliases: []}
 type: being
 tags: [character]
 data:

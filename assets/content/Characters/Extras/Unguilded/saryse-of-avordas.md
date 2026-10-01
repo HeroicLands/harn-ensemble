@@ -1,6 +1,6 @@
 ---
 shortcode: saryseofavordas
-name: {full: Saryse of Avordas, title: "", given: Saryse, clan: Avordas, aliases: []}
+name: {full: Saryse of Avordas, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: marakofmykanthelkuz
-name: {full: Marak of Mykanthelkuz, title: "", given: Marak, clan: Mykanthelkuz, aliases: []}
+name: {full: Marak of Mykanthelkuz, aliases: []}
 type: being
 tags: [character]
 data:

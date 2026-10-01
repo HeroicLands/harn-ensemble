@@ -1,6 +1,6 @@
 ---
 shortcode: sirmorhgancade
-name: {full: Sir Morhgan Cade, title: Sir, given: Morhgan, clan: Cade, aliases: []}
+name: {full: Sir Morhgan Cade, aliases: []}
 type: being
 tags: [character]
 data:

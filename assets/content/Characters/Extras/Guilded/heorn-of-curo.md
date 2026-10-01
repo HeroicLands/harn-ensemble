@@ -1,6 +1,6 @@
 ---
 shortcode: heornofcuro
-name: {full: Heorn of Curo, title: "", given: Heorn, clan: Curo, aliases: []}
+name: {full: Heorn of Curo, aliases: []}
 type: being
 tags: [character]
 data:

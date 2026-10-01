@@ -1,6 +1,6 @@
 ---
 shortcode: danishemlenofkotren
-name: {full: Danishemlen of Kotren, title: "", given: Danishemlen, clan: Kotren, aliases: []}
+name: {full: Danishemlen of Kotren, aliases: []}
 type: being
 tags: [character]
 data:

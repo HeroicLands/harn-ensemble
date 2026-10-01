@@ -1,6 +1,6 @@
 ---
 shortcode: orthiasofbellyr
-name: {full: Orthias of Bellyr, title: "", given: Orthias, clan: Bellyr, aliases: []}
+name: {full: Orthias of Bellyr, aliases: []}
 type: being
 tags: [character]
 data:

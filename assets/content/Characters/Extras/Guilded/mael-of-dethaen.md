@@ -1,6 +1,6 @@
 ---
 shortcode: maelofdethaen
-name: {full: Mael of Dethaen, title: "", given: Mael, clan: Dethaen, aliases: []}
+name: {full: Mael of Dethaen, aliases: []}
 type: being
 tags: [character]
 data:

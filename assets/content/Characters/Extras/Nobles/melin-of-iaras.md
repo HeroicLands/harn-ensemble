@@ -1,6 +1,6 @@
 ---
 shortcode: melinofiaras
-name: {full: Melin of Iaras, title: "", given: Melin, clan: Iaras, aliases: []}
+name: {full: Melin of Iaras, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranerdinofsidethys
-name: {full: Veteran Erdin of Sidethys, title: Veteran, given: Erdin, clan: Sidethys, aliases: []}
+name: {full: Veteran Erdin of Sidethys, aliases: []}
 type: being
 tags: [character]
 data:

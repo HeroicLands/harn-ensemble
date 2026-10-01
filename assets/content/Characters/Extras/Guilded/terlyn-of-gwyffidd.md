@@ -1,6 +1,6 @@
 ---
 shortcode: terlynofgwyffidd
-name: {full: Terlyn of Gwyffidd, title: "", given: Terlyn, clan: Gwyffidd, aliases: []}
+name: {full: Terlyn of Gwyffidd, aliases: []}
 type: being
 tags: [character]
 data:

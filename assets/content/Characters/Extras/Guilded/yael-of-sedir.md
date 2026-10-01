@@ -1,6 +1,6 @@
 ---
 shortcode: yaelofsedir
-name: {full: Yael of Sedir, title: "", given: Yael, clan: Sedir, aliases: []}
+name: {full: Yael of Sedir, aliases: []}
 type: being
 tags: [character]
 data:

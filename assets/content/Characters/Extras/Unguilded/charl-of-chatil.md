@@ -1,6 +1,6 @@
 ---
 shortcode: charlofchatil
-name: {full: Charl of Chatil, title: "", given: Charl, clan: Chatil, aliases: []}
+name: {full: Charl of Chatil, aliases: []}
 type: being
 tags: [character]
 data:

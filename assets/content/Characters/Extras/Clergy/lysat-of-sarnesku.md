@@ -1,6 +1,6 @@
 ---
 shortcode: lysatofsarnesku
-name: {full: Lysat of Sarnesku, title: "", given: Lysat, clan: Sarnesku, aliases: []}
+name: {full: Lysat of Sarnesku, aliases: []}
 type: being
 tags: [character]
 data:

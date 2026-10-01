@@ -1,6 +1,6 @@
 ---
 shortcode: marofgorra
-name: {full: Mar of Gorra, title: "", given: Mar, clan: Gorra, aliases: []}
+name: {full: Mar of Gorra, aliases: []}
 type: being
 tags: [character]
 data:

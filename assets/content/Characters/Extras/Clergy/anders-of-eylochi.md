@@ -1,6 +1,6 @@
 ---
 shortcode: andersofeylochi
-name: {full: Anders of Eylochi, title: "", given: Anders, clan: Eylochi, aliases: []}
+name: {full: Anders of Eylochi, aliases: []}
 type: being
 tags: [character]
 data:

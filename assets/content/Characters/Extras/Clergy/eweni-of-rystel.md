@@ -1,6 +1,6 @@
 ---
 shortcode: eweniofrystel
-name: {full: Eweni of Rystel, title: "", given: Eweni, clan: Rystel, aliases: []}
+name: {full: Eweni of Rystel, aliases: []}
 type: being
 tags: [character]
 data:

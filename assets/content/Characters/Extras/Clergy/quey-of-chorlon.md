@@ -1,6 +1,6 @@
 ---
 shortcode: queyofchorlon
-name: {full: Quey of Chorlon, title: "", given: Quey, clan: Chorlon, aliases: []}
+name: {full: Quey of Chorlon, aliases: []}
 type: being
 tags: [character]
 data:

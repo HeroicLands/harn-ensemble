@@ -1,6 +1,6 @@
 ---
 shortcode: forakofpordan
-name: {full: Forak of Pordan, title: "", given: Forak, clan: Pordan, aliases: []}
+name: {full: Forak of Pordan, aliases: []}
 type: being
 tags: [character]
 data:

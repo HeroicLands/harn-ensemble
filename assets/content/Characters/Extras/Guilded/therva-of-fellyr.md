@@ -1,6 +1,6 @@
 ---
 shortcode: thervaoffellyr
-name: {full: Therva of Fellyr, title: "", given: Therva, clan: Fellyr, aliases: []}
+name: {full: Therva of Fellyr, aliases: []}
 type: being
 tags: [character]
 data:

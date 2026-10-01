@@ -1,6 +1,6 @@
 ---
 shortcode: wyteoffyrwey
-name: {full: Wyte of Fyrwey, title: "", given: Wyte, clan: Fyrwey, aliases: []}
+name: {full: Wyte of Fyrwey, aliases: []}
 type: being
 tags: [character]
 data:

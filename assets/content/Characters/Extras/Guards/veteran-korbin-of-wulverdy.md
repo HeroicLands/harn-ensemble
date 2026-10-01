@@ -1,11 +1,6 @@
 ---
 shortcode: veterankorbinofwulverdy
-name:
-  full: Veteran Korbin of Wulverdy
-  title: Veteran
-  given: Korbin
-  clan: Wulverdy
-  aliases: []
+name: {full: Veteran Korbin of Wulverdy, aliases: []}
 type: being
 tags: [character]
 data:

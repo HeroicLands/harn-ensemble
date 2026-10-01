@@ -1,6 +1,6 @@
 ---
 shortcode: drigarondisofoshonan
-name: {full: Drigarondis of Oshonan, title: "", given: Drigarondis, clan: Oshonan, aliases: []}
+name: {full: Drigarondis of Oshonan, aliases: []}
 type: being
 tags: [character]
 data:

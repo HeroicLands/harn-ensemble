@@ -1,6 +1,6 @@
 ---
 shortcode: harisofweth
-name: {full: Haris of Weth, title: "", given: Haris, clan: Weth, aliases: []}
+name: {full: Haris of Weth, aliases: []}
 type: being
 tags: [character]
 data:

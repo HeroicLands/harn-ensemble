@@ -1,6 +1,6 @@
 ---
 shortcode: ermekofermek
-name: {full: Ermek of Ermek, title: "", given: Ermek, clan: Ermek, aliases: []}
+name: {full: Ermek of Ermek, aliases: []}
 type: being
 tags: [character]
 data:

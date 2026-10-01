@@ -1,6 +1,6 @@
 ---
 shortcode: raelofbaldiribor
-name: {full: Rael of Baldiribor, title: "", given: Rael, clan: Baldiribor, aliases: []}
+name: {full: Rael of Baldiribor, aliases: []}
 type: being
 tags: [character]
 data:

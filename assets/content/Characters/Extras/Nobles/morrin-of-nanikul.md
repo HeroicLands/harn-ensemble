@@ -1,6 +1,6 @@
 ---
 shortcode: morrinofnanikul
-name: {full: Morrin of Nanikul, title: "", given: Morrin, clan: Nanikul, aliases: []}
+name: {full: Morrin of Nanikul, aliases: []}
 type: being
 tags: [character]
 data:

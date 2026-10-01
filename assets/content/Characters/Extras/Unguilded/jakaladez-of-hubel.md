@@ -1,6 +1,6 @@
 ---
 shortcode: jakaladezofhubel
-name: {full: Jakaladez of Hubel, title: "", given: Jakaladez, clan: Hubel, aliases: []}
+name: {full: Jakaladez of Hubel, aliases: []}
 type: being
 tags: [character]
 data:

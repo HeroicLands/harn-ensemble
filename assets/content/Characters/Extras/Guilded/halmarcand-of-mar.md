@@ -1,6 +1,6 @@
 ---
 shortcode: halmarcandofmar
-name: {full: Halmarcand of Mar, title: "", given: Halmarcand, clan: Mar, aliases: []}
+name: {full: Halmarcand of Mar, aliases: []}
 type: being
 tags: [character]
 data:

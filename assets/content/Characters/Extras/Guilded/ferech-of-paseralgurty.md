@@ -1,6 +1,6 @@
 ---
 shortcode: ferechofpaseralgurty
-name: {full: Ferech of Paseralgurty, title: "", given: Ferech, clan: Paseralgurty, aliases: []}
+name: {full: Ferech of Paseralgurty, aliases: []}
 type: being
 tags: [character]
 data:

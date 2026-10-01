@@ -1,6 +1,6 @@
 ---
 shortcode: pelindeofgevraelin
-name: {full: Pelinde of Gevraelin, title: "", given: Pelinde, clan: Gevraelin, aliases: []}
+name: {full: Pelinde of Gevraelin, aliases: []}
 type: being
 tags: [character]
 data:

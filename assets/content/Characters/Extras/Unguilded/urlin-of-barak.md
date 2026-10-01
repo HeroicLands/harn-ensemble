@@ -1,6 +1,6 @@
 ---
 shortcode: urlinofbarak
-name: {full: Urlin of Barak, title: "", given: Urlin, clan: Barak, aliases: []}
+name: {full: Urlin of Barak, aliases: []}
 type: being
 tags: [character]
 data:

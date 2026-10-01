@@ -1,6 +1,6 @@
 ---
 shortcode: jorakanofubernil
-name: {full: Jorakan of Ubernil, title: "", given: Jorakan, clan: Ubernil, aliases: []}
+name: {full: Jorakan of Ubernil, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: molazelofwesin
-name: {full: Molazel of Wesin, title: "", given: Molazel, clan: Wesin, aliases: []}
+name: {full: Molazel of Wesin, aliases: []}
 type: being
 tags: [character]
 data:

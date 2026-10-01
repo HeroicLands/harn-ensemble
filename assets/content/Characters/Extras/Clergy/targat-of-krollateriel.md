@@ -1,6 +1,6 @@
 ---
 shortcode: targatofkrollateriel
-name: {full: Targat of Krollateriel, title: "", given: Targat, clan: Krollateriel, aliases: []}
+name: {full: Targat of Krollateriel, aliases: []}
 type: being
 tags: [character]
 data:

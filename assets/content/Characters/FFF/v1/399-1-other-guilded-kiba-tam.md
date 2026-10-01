@@ -1,6 +1,6 @@
 ---
 shortcode: kibatam
-name: {full: Kiba Tam, title: "", given: Kiba, clan: Tam, aliases: []}
+name: {full: Kiba Tam, aliases: []}
 type: being
 tags: [character]
 data:

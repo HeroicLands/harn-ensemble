@@ -1,6 +1,6 @@
 ---
 shortcode: habinoftabralgurty
-name: {full: Habin of Tabralgurty, title: "", given: Habin, clan: Tabralgurty, aliases: []}
+name: {full: Habin of Tabralgurty, aliases: []}
 type: being
 tags: [character]
 data:

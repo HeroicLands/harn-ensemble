@@ -1,6 +1,6 @@
 ---
 shortcode: zuiqueofplacka
-name: {full: Zuique of Placka, title: "", given: Zuique, clan: Placka, aliases: []}
+name: {full: Zuique of Placka, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: garildofsymdal
-name: {full: Garild of Symdal, title: "", given: Garild, clan: Symdal, aliases: []}
+name: {full: Garild of Symdal, aliases: []}
 type: being
 tags: [character]
 data:

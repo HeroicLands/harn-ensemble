@@ -1,6 +1,6 @@
 ---
 shortcode: heliciaofshre
-name: {full: Helicia of Shre, title: "", given: Helicia, clan: Shre, aliases: []}
+name: {full: Helicia of Shre, aliases: []}
 type: being
 tags: [character]
 data:

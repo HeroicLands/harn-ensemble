@@ -1,6 +1,6 @@
 ---
 shortcode: boraneofkar
-name: {full: Borane of Kar, title: "", given: Borane, clan: Kar, aliases: []}
+name: {full: Borane of Kar, aliases: []}
 type: being
 tags: [character]
 data:

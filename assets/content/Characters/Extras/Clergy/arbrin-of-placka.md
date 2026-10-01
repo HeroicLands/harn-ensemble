@@ -1,6 +1,6 @@
 ---
 shortcode: arbrinofplacka
-name: {full: Arbrin of Placka, title: "", given: Arbrin, clan: Placka, aliases: []}
+name: {full: Arbrin of Placka, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: aquillicofdebernil
-name: {full: Aquillic of Debernil, title: "", given: Aquillic, clan: Debernil, aliases: []}
+name: {full: Aquillic of Debernil, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: peserofhosathasil
-name: {full: Peser of Hosathasil, title: "", given: Peser, clan: Hosathasil, aliases: []}
+name: {full: Peser of Hosathasil, aliases: []}
 type: being
 tags: [character]
 data:

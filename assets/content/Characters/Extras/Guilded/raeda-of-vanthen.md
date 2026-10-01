@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofvanthen
-name: {full: Raeda of Vanthen, title: "", given: Raeda, clan: Vanthen, aliases: []}
+name: {full: Raeda of Vanthen, aliases: []}
 type: being
 tags: [character]
 data:

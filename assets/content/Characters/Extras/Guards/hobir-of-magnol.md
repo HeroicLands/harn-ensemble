@@ -1,6 +1,6 @@
 ---
 shortcode: hobirofmagnol
-name: {full: Hobir of Magnol, title: "", given: Hobir, clan: Magnol, aliases: []}
+name: {full: Hobir of Magnol, aliases: []}
 type: being
 tags: [character]
 data:

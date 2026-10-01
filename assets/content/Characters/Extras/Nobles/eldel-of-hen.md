@@ -1,6 +1,6 @@
 ---
 shortcode: eldelofhen
-name: {full: Eldel of Hen, title: "", given: Eldel, clan: Hen, aliases: []}
+name: {full: Eldel of Hen, aliases: []}
 type: being
 tags: [character]
 data:

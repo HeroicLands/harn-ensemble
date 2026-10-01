@@ -1,6 +1,6 @@
 ---
 shortcode: ronofprovin
-name: {full: Ron of Provin, title: "", given: Ron, clan: Provin, aliases: []}
+name: {full: Ron of Provin, aliases: []}
 type: being
 tags: [character]
 data:

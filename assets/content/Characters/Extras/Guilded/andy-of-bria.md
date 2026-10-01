@@ -1,6 +1,6 @@
 ---
 shortcode: andyofbria
-name: {full: Andy of Bria, title: "", given: Andy, clan: Bria, aliases: []}
+name: {full: Andy of Bria, aliases: []}
 type: being
 tags: [character]
 data:

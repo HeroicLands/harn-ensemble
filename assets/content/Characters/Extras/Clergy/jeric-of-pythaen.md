@@ -1,6 +1,6 @@
 ---
 shortcode: jericofpythaen
-name: {full: Jeric of Pythaen, title: "", given: Jeric, clan: Pythaen, aliases: []}
+name: {full: Jeric of Pythaen, aliases: []}
 type: being
 tags: [character]
 data:

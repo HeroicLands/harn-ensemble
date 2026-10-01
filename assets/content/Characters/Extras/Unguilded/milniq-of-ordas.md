@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofordas
-name: {full: Milniq of Ordas, title: "", given: Milniq, clan: Ordas, aliases: []}
+name: {full: Milniq of Ordas, aliases: []}
 type: being
 tags: [character]
 data:

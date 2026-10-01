@@ -1,6 +1,6 @@
 ---
 shortcode: cazaradofokren
-name: {full: Cazarad of Okren, title: "", given: Cazarad, clan: Okren, aliases: []}
+name: {full: Cazarad of Okren, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: byrgatofpartus
-name: {full: Byrgat of Partus, title: "", given: Byrgat, clan: Partus, aliases: []}
+name: {full: Byrgat of Partus, aliases: []}
 type: being
 tags: [character]
 data:

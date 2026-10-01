@@ -1,6 +1,6 @@
 ---
 shortcode: vaberantofchelsen
-name: {full: Vaberant of Chelsen, title: "", given: Vaberant, clan: Chelsen, aliases: []}
+name: {full: Vaberant of Chelsen, aliases: []}
 type: being
 tags: [character]
 data:

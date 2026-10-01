@@ -1,6 +1,6 @@
 ---
 shortcode: otto
-name: {full: Otto, title: "", given: Otto, clan: "", aliases: []}
+name: {full: Otto, aliases: []}
 type: being
 tags: [character]
 data:

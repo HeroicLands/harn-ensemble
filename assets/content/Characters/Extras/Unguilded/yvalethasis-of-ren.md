@@ -1,6 +1,6 @@
 ---
 shortcode: yvalethasisofren
-name: {full: Yvalethasis of Ren, title: "", given: Yvalethasis, clan: Ren, aliases: []}
+name: {full: Yvalethasis of Ren, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: genofcosele
-name: {full: Gen of Cosele, title: "", given: Gen, clan: Cosele, aliases: []}
+name: {full: Gen of Cosele, aliases: []}
 type: being
 tags: [character]
 data:

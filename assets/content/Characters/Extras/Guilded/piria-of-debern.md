@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofdebern
-name: {full: Piria of Debern, title: "", given: Piria, clan: Debern, aliases: []}
+name: {full: Piria of Debern, aliases: []}
 type: being
 tags: [character]
 data:

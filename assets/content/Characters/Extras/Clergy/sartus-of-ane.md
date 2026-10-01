@@ -1,6 +1,6 @@
 ---
 shortcode: sartusofane
-name: {full: Sartus of Ane, title: "", given: Sartus, clan: Ane, aliases: []}
+name: {full: Sartus of Ane, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: deniofkariam
-name: {full: Deni of Kariam, title: "", given: Deni, clan: Kariam, aliases: []}
+name: {full: Deni of Kariam, aliases: []}
 type: being
 tags: [character]
 data:

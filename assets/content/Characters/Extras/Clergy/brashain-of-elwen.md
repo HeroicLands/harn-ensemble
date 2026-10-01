@@ -1,6 +1,6 @@
 ---
 shortcode: brashainofelwen
-name: {full: Brashain of Elwen, title: "", given: Brashain, clan: Elwen, aliases: []}
+name: {full: Brashain of Elwen, aliases: []}
 type: being
 tags: [character]
 data:

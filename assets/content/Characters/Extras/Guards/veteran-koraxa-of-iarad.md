@@ -1,6 +1,6 @@
 ---
 shortcode: veterankoraxaofiarad
-name: {full: Veteran Koraxa of Iarad, title: Veteran, given: Koraxa, clan: Iarad, aliases: []}
+name: {full: Veteran Koraxa of Iarad, aliases: []}
 type: being
 tags: [character]
 data:

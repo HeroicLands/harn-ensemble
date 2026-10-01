@@ -1,6 +1,6 @@
 ---
 shortcode: kalwisofmusbern
-name: {full: Kalwis of Musbern, title: "", given: Kalwis, clan: Musbern, aliases: []}
+name: {full: Kalwis of Musbern, aliases: []}
 type: being
 tags: [character]
 data:

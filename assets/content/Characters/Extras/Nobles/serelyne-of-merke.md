@@ -1,6 +1,6 @@
 ---
 shortcode: serelyneofmerke
-name: {full: Serelyne of Merke, title: "", given: Serelyne, clan: Merke, aliases: []}
+name: {full: Serelyne of Merke, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: elanofhilrine
-name: {full: Elan of Hilrine, title: "", given: Elan, clan: Hilrine, aliases: []}
+name: {full: Elan of Hilrine, aliases: []}
 type: being
 tags: [character]
 data:

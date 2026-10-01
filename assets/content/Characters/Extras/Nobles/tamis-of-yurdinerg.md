@@ -1,6 +1,6 @@
 ---
 shortcode: tamisofyurdinerg
-name: {full: Tamis of Yurdinerg, title: "", given: Tamis, clan: Yurdinerg, aliases: []}
+name: {full: Tamis of Yurdinerg, aliases: []}
 type: being
 tags: [character]
 data:

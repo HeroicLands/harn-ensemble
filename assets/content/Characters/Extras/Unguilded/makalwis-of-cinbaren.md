@@ -1,6 +1,6 @@
 ---
 shortcode: makalwisofcinbaren
-name: {full: Makalwis of Cinbaren, title: "", given: Makalwis, clan: Cinbaren, aliases: []}
+name: {full: Makalwis of Cinbaren, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: zoefiorfohd
-name: {full: Zoe Fiorfohd, title: "", given: Zoe, clan: Fiorfohd, aliases: []}
+name: {full: Zoe Fiorfohd, aliases: []}
 type: being
 tags: [character]
 data:

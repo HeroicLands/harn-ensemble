@@ -1,6 +1,6 @@
 ---
 shortcode: lamrinofpythade
-name: {full: Lamrin of Pythade, title: "", given: Lamrin, clan: Pythade, aliases: []}
+name: {full: Lamrin of Pythade, aliases: []}
 type: being
 tags: [character]
 data:

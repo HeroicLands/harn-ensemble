@@ -1,6 +1,6 @@
 ---
 shortcode: silineofpordana
-name: {full: Siline of Pordana, title: "", given: Siline, clan: Pordana, aliases: []}
+name: {full: Siline of Pordana, aliases: []}
 type: being
 tags: [character]
 data:

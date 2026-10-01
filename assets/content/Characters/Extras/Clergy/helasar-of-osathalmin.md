@@ -1,6 +1,6 @@
 ---
 shortcode: helasarofosathalmin
-name: {full: Helasar of Osathalmin, title: "", given: Helasar, clan: Osathalmin, aliases: []}
+name: {full: Helasar of Osathalmin, aliases: []}
 type: being
 tags: [character]
 data:

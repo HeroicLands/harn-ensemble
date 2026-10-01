@@ -1,6 +1,6 @@
 ---
 shortcode: gruldelofkar
-name: {full: Gruldel of Kar, title: "", given: Gruldel, clan: Kar, aliases: []}
+name: {full: Gruldel of Kar, aliases: []}
 type: being
 tags: [character]
 data:

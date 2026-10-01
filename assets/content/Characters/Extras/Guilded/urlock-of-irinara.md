@@ -1,6 +1,6 @@
 ---
 shortcode: urlockofirinara
-name: {full: Urlock of Irinara, title: "", given: Urlock, clan: Irinara, aliases: []}
+name: {full: Urlock of Irinara, aliases: []}
 type: being
 tags: [character]
 data:

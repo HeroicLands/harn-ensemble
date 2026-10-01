@@ -1,6 +1,6 @@
 ---
 shortcode: ursilasarofprovin
-name: {full: Ursilasar of Provin, title: "", given: Ursilasar, clan: Provin, aliases: []}
+name: {full: Ursilasar of Provin, aliases: []}
 type: being
 tags: [character]
 data:

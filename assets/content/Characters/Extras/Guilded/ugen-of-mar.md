@@ -1,6 +1,6 @@
 ---
 shortcode: ugenofmar
-name: {full: Ugen of Mar, title: "", given: Ugen, clan: Mar, aliases: []}
+name: {full: Ugen of Mar, aliases: []}
 type: being
 tags: [character]
 data:

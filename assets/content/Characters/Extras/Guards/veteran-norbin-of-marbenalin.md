@@ -1,11 +1,6 @@
 ---
 shortcode: veterannorbinofmarbenalin
-name:
-  full: Veteran Norbin of Marbenalin
-  title: Veteran
-  given: Norbin
-  clan: Marbenalin
-  aliases: []
+name: {full: Veteran Norbin of Marbenalin, aliases: []}
 type: being
 tags: [character]
 data:

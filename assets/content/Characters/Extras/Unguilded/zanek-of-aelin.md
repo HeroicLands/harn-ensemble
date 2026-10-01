@@ -1,6 +1,6 @@
 ---
 shortcode: zanekofaelin
-name: {full: Zanek of Aelin, title: "", given: Zanek, clan: Aelin, aliases: []}
+name: {full: Zanek of Aelin, aliases: []}
 type: being
 tags: [character]
 data:

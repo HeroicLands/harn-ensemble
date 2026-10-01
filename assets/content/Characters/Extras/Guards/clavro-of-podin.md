@@ -1,6 +1,6 @@
 ---
 shortcode: clavroofpodin
-name: {full: Clavro of Podin, title: "", given: Clavro, clan: Podin, aliases: []}
+name: {full: Clavro of Podin, aliases: []}
 type: being
 tags: [character]
 data:

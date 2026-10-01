@@ -1,6 +1,6 @@
 ---
 shortcode: lamnarofmerlym
-name: {full: Lamnar of Merlym, title: "", given: Lamnar, clan: Merlym, aliases: []}
+name: {full: Lamnar of Merlym, aliases: []}
 type: being
 tags: [character]
 data:

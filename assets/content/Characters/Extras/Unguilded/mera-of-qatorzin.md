@@ -1,6 +1,6 @@
 ---
 shortcode: meraofqatorzin
-name: {full: Mera of Qatorzin, title: "", given: Mera, clan: Qatorzin, aliases: []}
+name: {full: Mera of Qatorzin, aliases: []}
 type: being
 tags: [character]
 data:

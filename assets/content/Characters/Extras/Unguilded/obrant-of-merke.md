@@ -1,6 +1,6 @@
 ---
 shortcode: obrantofmerke
-name: {full: Obrant of Merke, title: "", given: Obrant, clan: Merke, aliases: []}
+name: {full: Obrant of Merke, aliases: []}
 type: being
 tags: [character]
 data:

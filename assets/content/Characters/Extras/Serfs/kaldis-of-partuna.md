@@ -1,6 +1,6 @@
 ---
 shortcode: kaldisofpartuna
-name: {full: Kaldis of Partuna, title: "", given: Kaldis, clan: Partuna, aliases: []}
+name: {full: Kaldis of Partuna, aliases: []}
 type: being
 tags: [character]
 data:

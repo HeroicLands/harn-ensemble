@@ -1,6 +1,6 @@
 ---
 shortcode: koridoloflumede
-name: {full: Koridol of Lumede, title: "", given: Koridol, clan: Lumede, aliases: []}
+name: {full: Koridol of Lumede, aliases: []}
 type: being
 tags: [character]
 data:

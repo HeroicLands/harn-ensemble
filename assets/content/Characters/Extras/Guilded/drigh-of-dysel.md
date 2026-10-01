@@ -1,6 +1,6 @@
 ---
 shortcode: drighofdysel
-name: {full: Drigh of Dysel, title: "", given: Drigh, clan: Dysel, aliases: []}
+name: {full: Drigh of Dysel, aliases: []}
 type: being
 tags: [character]
 data:

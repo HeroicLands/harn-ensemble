@@ -1,6 +1,6 @@
 ---
 shortcode: jericofashelya
-name: {full: Jeric of Ashelya, title: "", given: Jeric, clan: Ashelya, aliases: []}
+name: {full: Jeric of Ashelya, aliases: []}
 type: being
 tags: [character]
 data:

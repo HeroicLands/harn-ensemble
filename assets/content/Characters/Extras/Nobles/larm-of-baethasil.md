@@ -1,6 +1,6 @@
 ---
 shortcode: larmofbaethasil
-name: {full: Larm of Baethasil, title: "", given: Larm, clan: Baethasil, aliases: []}
+name: {full: Larm of Baethasil, aliases: []}
 type: being
 tags: [character]
 data:

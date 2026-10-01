@@ -1,6 +1,6 @@
 ---
 shortcode: kerthedeofkair
-name: {full: Kerthede of Kair, title: "", given: Kerthede, clan: Kair, aliases: []}
+name: {full: Kerthede of Kair, aliases: []}
 type: being
 tags: [character]
 data:

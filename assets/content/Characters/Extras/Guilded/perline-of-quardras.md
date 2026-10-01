@@ -1,6 +1,6 @@
 ---
 shortcode: perlineofquardras
-name: {full: Perline of Quardras, title: "", given: Perline, clan: Quardras, aliases: []}
+name: {full: Perline of Quardras, aliases: []}
 type: being
 tags: [character]
 data:

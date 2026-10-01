@@ -1,6 +1,6 @@
 ---
 shortcode: yelinaofsar
-name: {full: Yelina of Sar, title: "", given: Yelina, clan: Sar, aliases: []}
+name: {full: Yelina of Sar, aliases: []}
 type: being
 tags: [character]
 data:

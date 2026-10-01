@@ -1,6 +1,6 @@
 ---
 shortcode: cheselynofathan
-name: {full: Cheselyn of Athan, title: "", given: Cheselyn, clan: Athan, aliases: []}
+name: {full: Cheselyn of Athan, aliases: []}
 type: being
 tags: [character]
 data:

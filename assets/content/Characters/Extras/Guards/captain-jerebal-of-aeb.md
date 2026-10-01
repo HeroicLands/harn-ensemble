@@ -1,6 +1,6 @@
 ---
 shortcode: captainjerebalofaeb
-name: {full: Captain Jerebal of Aeb, title: Captain, given: Jerebal, clan: Aeb, aliases: []}
+name: {full: Captain Jerebal of Aeb, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: relddrosyl
-name: {full: Reld Drosyl, title: "", given: Reld, clan: Drosyl, aliases: []}
+name: {full: Reld Drosyl, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: barrisofgorn
-name: {full: Barris of Gorn, title: "", given: Barris, clan: Gorn, aliases: []}
+name: {full: Barris of Gorn, aliases: []}
 type: being
 tags: [character]
 data:

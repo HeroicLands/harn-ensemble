@@ -1,6 +1,6 @@
 ---
 shortcode: cholaynofever
-name: {full: Cholayn of Ever, title: "", given: Cholayn, clan: Ever, aliases: []}
+name: {full: Cholayn of Ever, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: werelyneofstiem
-name: {full: Werelyne of Stiem, title: "", given: Werelyne, clan: Stiem, aliases: []}
+name: {full: Werelyne of Stiem, aliases: []}
 type: being
 tags: [character]
 data:

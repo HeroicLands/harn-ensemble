@@ -1,6 +1,6 @@
 ---
 shortcode: dafyddofmerros
-name: {full: Dafydd of Merros, title: "", given: Dafydd, clan: Merros, aliases: []}
+name: {full: Dafydd of Merros, aliases: []}
 type: being
 tags: [character]
 data:

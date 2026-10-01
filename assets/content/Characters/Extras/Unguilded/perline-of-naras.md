@@ -1,6 +1,6 @@
 ---
 shortcode: perlineofnaras
-name: {full: Perline of Naras, title: "", given: Perline, clan: Naras, aliases: []}
+name: {full: Perline of Naras, aliases: []}
 type: being
 tags: [character]
 data:

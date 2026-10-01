@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarighofparthalmin
-name: {full: Tagbarigh of Parthalmin, title: "", given: Tagbarigh, clan: Parthalmin, aliases: []}
+name: {full: Tagbarigh of Parthalmin, aliases: []}
 type: being
 tags: [character]
 data:

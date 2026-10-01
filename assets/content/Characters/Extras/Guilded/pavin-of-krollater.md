@@ -1,6 +1,6 @@
 ---
 shortcode: pavinofkrollater
-name: {full: Pavin of Krollater, title: "", given: Pavin, clan: Krollater, aliases: []}
+name: {full: Pavin of Krollater, aliases: []}
 type: being
 tags: [character]
 data:

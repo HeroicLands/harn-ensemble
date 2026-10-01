@@ -1,6 +1,6 @@
 ---
 shortcode: pontousoftichmar
-name: {full: Pontous of Tichmar, title: "", given: Pontous, clan: Tichmar, aliases: []}
+name: {full: Pontous of Tichmar, aliases: []}
 type: being
 tags: [character]
 data:

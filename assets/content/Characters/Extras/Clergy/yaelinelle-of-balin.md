@@ -1,6 +1,6 @@
 ---
 shortcode: yaelinelleofbalin
-name: {full: Yaelinelle of Balin, title: "", given: Yaelinelle, clan: Balin, aliases: []}
+name: {full: Yaelinelle of Balin, aliases: []}
 type: being
 tags: [character]
 data:

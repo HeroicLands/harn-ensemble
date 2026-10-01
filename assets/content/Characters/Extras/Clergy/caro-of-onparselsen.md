@@ -1,6 +1,6 @@
 ---
 shortcode: caroofonparselsen
-name: {full: Caro of Onparselsen, title: "", given: Caro, clan: Onparselsen, aliases: []}
+name: {full: Caro of Onparselsen, aliases: []}
 type: being
 tags: [character]
 data:

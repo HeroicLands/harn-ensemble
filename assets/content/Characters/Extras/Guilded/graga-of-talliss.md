@@ -1,6 +1,6 @@
 ---
 shortcode: gragaoftalliss
-name: {full: Graga of Talliss, title: "", given: Graga, clan: Talliss, aliases: []}
+name: {full: Graga of Talliss, aliases: []}
 type: being
 tags: [character]
 data:

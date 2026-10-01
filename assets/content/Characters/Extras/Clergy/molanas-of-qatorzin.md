@@ -1,6 +1,6 @@
 ---
 shortcode: molanasofqatorzin
-name: {full: Molanas of Qatorzin, title: "", given: Molanas, clan: Qatorzin, aliases: []}
+name: {full: Molanas of Qatorzin, aliases: []}
 type: being
 tags: [character]
 data:

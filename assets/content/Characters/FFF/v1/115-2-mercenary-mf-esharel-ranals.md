@@ -1,6 +1,6 @@
 ---
 shortcode: esharelranals
-name: {full: Esharel Ranals, title: "", given: Esharel, clan: Ranals, aliases: []}
+name: {full: Esharel Ranals, aliases: []}
 type: being
 tags: [character]
 data:

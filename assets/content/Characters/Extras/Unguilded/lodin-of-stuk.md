@@ -1,6 +1,6 @@
 ---
 shortcode: lodinofstuk
-name: {full: Lodin of Stuk, title: "", given: Lodin, clan: Stuk, aliases: []}
+name: {full: Lodin of Stuk, aliases: []}
 type: being
 tags: [character]
 data:

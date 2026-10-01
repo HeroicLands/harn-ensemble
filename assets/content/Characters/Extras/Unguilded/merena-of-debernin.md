@@ -1,6 +1,6 @@
 ---
 shortcode: merenaofdebernin
-name: {full: Merena of Debernin, title: "", given: Merena, clan: Debernin, aliases: []}
+name: {full: Merena of Debernin, aliases: []}
 type: being
 tags: [character]
 data:

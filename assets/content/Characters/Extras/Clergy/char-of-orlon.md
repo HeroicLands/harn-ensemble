@@ -1,6 +1,6 @@
 ---
 shortcode: charoforlon
-name: {full: Char of Orlon, title: "", given: Char, clan: Orlon, aliases: []}
+name: {full: Char of Orlon, aliases: []}
 type: being
 tags: [character]
 data:

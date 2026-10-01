@@ -1,6 +1,6 @@
 ---
 shortcode: tulaofwythias
-name: {full: Tula of Wythias, title: "", given: Tula, clan: Wythias, aliases: []}
+name: {full: Tula of Wythias, aliases: []}
 type: being
 tags: [character]
 data:

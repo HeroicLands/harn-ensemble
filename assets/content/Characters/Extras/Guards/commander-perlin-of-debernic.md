@@ -1,11 +1,6 @@
 ---
 shortcode: commanderperlinofdebernic
-name:
-  full: Commander Perlin of Debernic
-  title: ""
-  given: Commander
-  clan: Perlin Debernic
-  aliases: []
+name: {full: Commander Perlin of Debernic, aliases: []}
 type: being
 tags: [character]
 data:

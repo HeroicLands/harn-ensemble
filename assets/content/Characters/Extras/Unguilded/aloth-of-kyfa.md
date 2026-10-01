@@ -1,6 +1,6 @@
 ---
 shortcode: alothofkyfa
-name: {full: Aloth of Kyfa, title: "", given: Aloth, clan: Kyfa, aliases: []}
+name: {full: Aloth of Kyfa, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: pavisofael
-name: {full: Pavis of Ael, title: "", given: Pavis, clan: Ael, aliases: []}
+name: {full: Pavis of Ael, aliases: []}
 type: being
 tags: [character]
 data:

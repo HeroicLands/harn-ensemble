@@ -1,6 +1,6 @@
 ---
 shortcode: kittiarawampusha
-name: {full: Kit'tiara Wampusha, title: "", given: Kit'tiara, clan: Wampusha, aliases: []}
+name: {full: Kit'tiara Wampusha, aliases: []}
 type: being
 tags: [character]
 data:

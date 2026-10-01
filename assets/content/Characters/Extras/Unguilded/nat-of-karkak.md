@@ -1,6 +1,6 @@
 ---
 shortcode: natofkarkak
-name: {full: Nat of Karkak, title: "", given: Nat, clan: Karkak, aliases: []}
+name: {full: Nat of Karkak, aliases: []}
 type: being
 tags: [character]
 data:

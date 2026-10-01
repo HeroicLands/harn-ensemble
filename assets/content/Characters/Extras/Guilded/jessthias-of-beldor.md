@@ -1,6 +1,6 @@
 ---
 shortcode: jessthiasofbeldor
-name: {full: Jessthias of Beldor, title: "", given: Jessthias, clan: Beldor, aliases: []}
+name: {full: Jessthias of Beldor, aliases: []}
 type: being
 tags: [character]
 data:

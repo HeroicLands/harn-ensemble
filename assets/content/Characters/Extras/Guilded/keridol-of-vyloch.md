@@ -1,6 +1,6 @@
 ---
 shortcode: keridolofvyloch
-name: {full: Keridol of Vyloch, title: "", given: Keridol, clan: Vyloch, aliases: []}
+name: {full: Keridol of Vyloch, aliases: []}
 type: being
 tags: [character]
 data:

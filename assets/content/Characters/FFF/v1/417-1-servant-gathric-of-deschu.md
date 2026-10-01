@@ -1,6 +1,6 @@
 ---
 shortcode: gathricofdeschu
-name: {full: Gathric of Deschu, title: "", given: Gathric, clan: Deschu, aliases: []}
+name: {full: Gathric of Deschu, aliases: []}
 type: being
 tags: [character]
 data:

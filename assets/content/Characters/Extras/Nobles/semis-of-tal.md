@@ -1,6 +1,6 @@
 ---
 shortcode: semisoftal
-name: {full: Semis of Tal, title: "", given: Semis, clan: Tal, aliases: []}
+name: {full: Semis of Tal, aliases: []}
 type: being
 tags: [character]
 data:

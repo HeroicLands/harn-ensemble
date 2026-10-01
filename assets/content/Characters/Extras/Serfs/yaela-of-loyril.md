@@ -1,6 +1,6 @@
 ---
 shortcode: yaelaofloyril
-name: {full: Yaela of Loyril, title: "", given: Yaela, clan: Loyril, aliases: []}
+name: {full: Yaela of Loyril, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofewen
-name: {full: Pontous of Ewen, title: "", given: Pontous, clan: Ewen, aliases: []}
+name: {full: Pontous of Ewen, aliases: []}
 type: being
 tags: [character]
 data:

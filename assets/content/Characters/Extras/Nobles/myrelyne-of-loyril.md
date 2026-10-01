@@ -1,6 +1,6 @@
 ---
 shortcode: myrelyneofloyril
-name: {full: Myrelyne of Loyril, title: "", given: Myrelyne, clan: Loyril, aliases: []}
+name: {full: Myrelyne of Loyril, aliases: []}
 type: being
 tags: [character]
 data:

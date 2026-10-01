@@ -1,6 +1,6 @@
 ---
 shortcode: forenaofmagnol
-name: {full: Forena of Magnol, title: "", given: Forena, clan: Magnol, aliases: []}
+name: {full: Forena of Magnol, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: makanofdulkai
-name: {full: Makan of Dulkai, title: "", given: Makan, clan: Dulkai, aliases: []}
+name: {full: Makan of Dulkai, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: nerilofchatil
-name: {full: Neril of Chatil, title: "", given: Neril, clan: Chatil, aliases: []}
+name: {full: Neril of Chatil, aliases: []}
 type: being
 tags: [character]
 data:

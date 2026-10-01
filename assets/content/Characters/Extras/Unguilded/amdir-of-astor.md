@@ -1,6 +1,6 @@
 ---
 shortcode: amdirofastor
-name: {full: Amdir of Astor, title: "", given: Amdir, clan: Astor, aliases: []}
+name: {full: Amdir of Astor, aliases: []}
 type: being
 tags: [character]
 data:

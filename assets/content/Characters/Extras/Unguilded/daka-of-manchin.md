@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofmanchin
-name: {full: Daka of Manchin, title: "", given: Daka, clan: Manchin, aliases: []}
+name: {full: Daka of Manchin, aliases: []}
 type: being
 tags: [character]
 data:

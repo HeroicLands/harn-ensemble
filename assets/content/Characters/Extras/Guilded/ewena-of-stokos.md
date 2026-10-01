@@ -1,6 +1,6 @@
 ---
 shortcode: ewenaofstokos
-name: {full: Ewena of Stokos, title: "", given: Ewena, clan: Stokos, aliases: []}
+name: {full: Ewena of Stokos, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: cersynofpharion
-name: {full: Cersyn of Pharion, title: "", given: Cersyn, clan: Pharion, aliases: []}
+name: {full: Cersyn of Pharion, aliases: []}
 type: being
 tags: [character]
 data:

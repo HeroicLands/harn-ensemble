@@ -1,6 +1,6 @@
 ---
 shortcode: geacelsonofgrathias
-name: {full: Geacelson of Grathias, title: "", given: Geacelson, clan: Grathias, aliases: []}
+name: {full: Geacelson of Grathias, aliases: []}
 type: being
 tags: [character]
 data:

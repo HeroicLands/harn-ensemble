@@ -1,6 +1,6 @@
 ---
 shortcode: sarinaoftabralgurth
-name: {full: Sarina of Tabralgurth, title: "", given: Sarina, clan: Tabralgurth, aliases: []}
+name: {full: Sarina of Tabralgurth, aliases: []}
 type: being
 tags: [character]
 data:

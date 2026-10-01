@@ -1,6 +1,6 @@
 ---
 shortcode: haffythofmeral
-name: {full: Haffyth of Meral, title: "", given: Haffyth, clan: Meral, aliases: []}
+name: {full: Haffyth of Meral, aliases: []}
 type: being
 tags: [character]
 data:

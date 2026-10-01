@@ -1,6 +1,6 @@
 ---
 shortcode: zabithofguindan
-name: {full: Zabith of Guindan, title: "", given: Zabith, clan: Guindan, aliases: []}
+name: {full: Zabith of Guindan, aliases: []}
 type: being
 tags: [character]
 data:

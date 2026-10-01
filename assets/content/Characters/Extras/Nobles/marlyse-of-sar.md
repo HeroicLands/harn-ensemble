@@ -1,6 +1,6 @@
 ---
 shortcode: marlyseofsar
-name: {full: Marlyse of Sar, title: "", given: Marlyse, clan: Sar, aliases: []}
+name: {full: Marlyse of Sar, aliases: []}
 type: being
 tags: [character]
 data:

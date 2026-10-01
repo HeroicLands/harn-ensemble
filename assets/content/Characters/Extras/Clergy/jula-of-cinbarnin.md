@@ -1,6 +1,6 @@
 ---
 shortcode: julaofcinbarnin
-name: {full: Jula of Cinbarnin, title: "", given: Jula, clan: Cinbarnin, aliases: []}
+name: {full: Jula of Cinbarnin, aliases: []}
 type: being
 tags: [character]
 data:

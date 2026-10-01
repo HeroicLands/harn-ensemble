@@ -1,6 +1,6 @@
 ---
 shortcode: barakofquardrass
-name: {full: Barak of Quardrass, title: "", given: Barak, clan: Quardrass, aliases: []}
+name: {full: Barak of Quardrass, aliases: []}
 type: being
 tags: [character]
 data:

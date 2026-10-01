@@ -1,6 +1,6 @@
 ---
 shortcode: zanekofdomerros
-name: {full: Zanek of Domerros, title: "", given: Zanek, clan: Domerros, aliases: []}
+name: {full: Zanek of Domerros, aliases: []}
 type: being
 tags: [character]
 data:

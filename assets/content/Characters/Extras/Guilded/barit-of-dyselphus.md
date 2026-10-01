@@ -1,6 +1,6 @@
 ---
 shortcode: baritofdyselphus
-name: {full: Barit of Dyselphus, title: "", given: Barit, clan: Dyselphus, aliases: []}
+name: {full: Barit of Dyselphus, aliases: []}
 type: being
 tags: [character]
 data:

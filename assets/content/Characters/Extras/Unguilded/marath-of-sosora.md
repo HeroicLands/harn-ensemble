@@ -1,6 +1,6 @@
 ---
 shortcode: marathofsosora
-name: {full: Marath of Sosora, title: "", given: Marath, clan: Sosora, aliases: []}
+name: {full: Marath of Sosora, aliases: []}
 type: being
 tags: [character]
 data:

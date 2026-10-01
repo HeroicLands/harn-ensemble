@@ -1,6 +1,6 @@
 ---
 shortcode: arbinofharlabek
-name: {full: Arbin of Harlabek, title: "", given: Arbin, clan: Harlabek, aliases: []}
+name: {full: Arbin of Harlabek, aliases: []}
 type: being
 tags: [character]
 data:

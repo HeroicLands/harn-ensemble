@@ -1,6 +1,6 @@
 ---
 shortcode: sheofasan
-name: {full: She of Asan, title: "", given: She, clan: Asan, aliases: []}
+name: {full: She of Asan, aliases: []}
 type: being
 tags: [character]
 data:

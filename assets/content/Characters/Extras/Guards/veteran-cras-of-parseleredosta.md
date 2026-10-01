@@ -1,11 +1,6 @@
 ---
 shortcode: veterancrasofparseleredosta
-name:
-  full: Veteran Cras of Parseleredosta
-  title: Veteran
-  given: Cras
-  clan: Parseleredosta
-  aliases: []
+name: {full: Veteran Cras of Parseleredosta, aliases: []}
 type: being
 tags: [character]
 data:

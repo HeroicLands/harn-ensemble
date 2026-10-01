@@ -1,6 +1,6 @@
 ---
 shortcode: amathlangrispenofcareb
-name: {full: Amathlangrispen of Careb, title: "", given: Amathlangrispen, clan: Careb, aliases: []}
+name: {full: Amathlangrispen of Careb, aliases: []}
 type: being
 tags: [character]
 data:

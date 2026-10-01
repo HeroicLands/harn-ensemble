@@ -1,6 +1,6 @@
 ---
 shortcode: charildofmarnin
-name: {full: Charild of Marnin, title: "", given: Charild, clan: Marnin, aliases: []}
+name: {full: Charild of Marnin, aliases: []}
 type: being
 tags: [character]
 data:

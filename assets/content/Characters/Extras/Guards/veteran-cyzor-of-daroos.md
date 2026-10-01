@@ -1,6 +1,6 @@
 ---
 shortcode: veterancyzorofdaroos
-name: {full: Veteran Cyzor of Daroos, title: Veteran, given: Cyzor, clan: Daroos, aliases: []}
+name: {full: Veteran Cyzor of Daroos, aliases: []}
 type: being
 tags: [character]
 data:

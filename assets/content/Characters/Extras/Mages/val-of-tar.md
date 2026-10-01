@@ -1,6 +1,6 @@
 ---
 shortcode: valoftar
-name: {full: Val of Tar, title: "", given: Val, clan: Tar, aliases: []}
+name: {full: Val of Tar, aliases: []}
 type: being
 tags: [character]
 data:

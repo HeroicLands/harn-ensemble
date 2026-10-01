@@ -1,6 +1,6 @@
 ---
 shortcode: shaelderienofcuro
-name: {full: Shaelderien of Curo, title: "", given: Shaelderien, clan: Curo, aliases: []}
+name: {full: Shaelderien of Curo, aliases: []}
 type: being
 tags: [character]
 data:

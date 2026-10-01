@@ -1,6 +1,6 @@
 ---
 shortcode: querenelaofrystelesh
-name: {full: Querenela of Rystelesh, title: "", given: Querenela, clan: Rystelesh, aliases: []}
+name: {full: Querenela of Rystelesh, aliases: []}
 type: being
 tags: [character]
 data:

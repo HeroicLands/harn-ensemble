@@ -1,6 +1,6 @@
 ---
 shortcode: brashainofekair
-name: {full: Brashain of Ekair, title: "", given: Brashain, clan: Ekair, aliases: []}
+name: {full: Brashain of Ekair, aliases: []}
 type: being
 tags: [character]
 data:

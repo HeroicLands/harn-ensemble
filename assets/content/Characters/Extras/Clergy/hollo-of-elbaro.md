@@ -1,6 +1,6 @@
 ---
 shortcode: holloofelbaro
-name: {full: Hollo of Elbaro, title: "", given: Hollo, clan: Elbaro, aliases: []}
+name: {full: Hollo of Elbaro, aliases: []}
 type: being
 tags: [character]
 data:

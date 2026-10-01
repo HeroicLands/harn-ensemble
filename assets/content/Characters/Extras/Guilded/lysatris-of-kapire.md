@@ -1,6 +1,6 @@
 ---
 shortcode: lysatrisofkapire
-name: {full: Lysatris of Kapire, title: "", given: Lysatris, clan: Kapire, aliases: []}
+name: {full: Lysatris of Kapire, aliases: []}
 type: being
 tags: [character]
 data:

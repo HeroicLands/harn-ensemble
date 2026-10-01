@@ -1,6 +1,6 @@
 ---
 shortcode: veteranquedaofasane
-name: {full: Veteran Queda of Asane, title: Veteran, given: Queda, clan: Asane, aliases: []}
+name: {full: Veteran Queda of Asane, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: mysilinaofporde
-name: {full: Mysilina of Porde, title: "", given: Mysilina, clan: Porde, aliases: []}
+name: {full: Mysilina of Porde, aliases: []}
 type: being
 tags: [character]
 data:

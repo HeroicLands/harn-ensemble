@@ -1,6 +1,6 @@
 ---
 shortcode: kalwisofhomslow
-name: {full: Kalwis of Homslow, title: "", given: Kalwis, clan: Homslow, aliases: []}
+name: {full: Kalwis of Homslow, aliases: []}
 type: being
 tags: [character]
 data:

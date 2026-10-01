@@ -1,6 +1,6 @@
 ---
 shortcode: ithofaeb
-name: {full: Ith of Aeb, title: "", given: Ith, clan: Aeb, aliases: []}
+name: {full: Ith of Aeb, aliases: []}
 type: being
 tags: [character]
 data:

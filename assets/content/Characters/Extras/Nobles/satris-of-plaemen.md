@@ -1,6 +1,6 @@
 ---
 shortcode: satrisofplaemen
-name: {full: Satris of Plaemen, title: "", given: Satris, clan: Plaemen, aliases: []}
+name: {full: Satris of Plaemen, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: larinaofwerth
-name: {full: Larina of Werth, title: "", given: Larina, clan: Werth, aliases: []}
+name: {full: Larina of Werth, aliases: []}
 type: being
 tags: [character]
 data:

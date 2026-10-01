@@ -1,6 +1,6 @@
 ---
 shortcode: ginaofmund
-name: {full: Gina of Mund, title: "", given: Gina, clan: Mund, aliases: []}
+name: {full: Gina of Mund, aliases: []}
 type: being
 tags: [character]
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: yagoofwulver
-name: {full: Yago of Wulver, title: "", given: Yago, clan: Wulver, aliases: []}
+name: {full: Yago of Wulver, aliases: []}
 type: being
 tags: [character]
 data:

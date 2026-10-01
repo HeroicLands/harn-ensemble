@@ -1,6 +1,6 @@
 ---
 shortcode: queofikswic
-name: {full: Que of Ikswic, title: "", given: Que, clan: Ikswic, aliases: []}
+name: {full: Que of Ikswic, aliases: []}
 type: being
 tags: [character]
 data:
