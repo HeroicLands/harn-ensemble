@@ -2,9 +2,11 @@
 shortcode: meredaofelbarn
 name: {full: Mereda of Elbarn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: female
   species: humanflk
   age: 37

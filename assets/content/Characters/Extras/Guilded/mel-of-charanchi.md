@@ -2,9 +2,11 @@
 shortcode: melofcharanchi
 name: {full: Mel of Charanchi, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 34

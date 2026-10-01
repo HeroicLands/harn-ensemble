@@ -2,9 +2,11 @@
 shortcode: aramiaofnary
 name: {full: Aramia of Nary, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, entertainer]
   gender: female
   species: humanflk
   age: 22

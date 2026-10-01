@@ -2,10 +2,12 @@
 shortcode: gravithofdray
 name: {full: Gravith of Dray, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3081tok
   templatePriority: 1
+  archetypes: [artisan, healer]
   gender: male
   species: humanflk
   age: 42

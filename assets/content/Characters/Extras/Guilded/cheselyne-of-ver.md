@@ -2,9 +2,11 @@
 shortcode: cheselyneofver
 name: {full: Cheselyne of Ver, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: female
   species: humanflk
   age: 17

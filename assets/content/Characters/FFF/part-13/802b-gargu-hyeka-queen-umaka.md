@@ -2,10 +2,12 @@
 shortcode: umaka
 name: {full: Umaka, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff802bhead
   tokenIcon: fff802btok
+  archetypes: [courtier, warrior]
   gender: female
   species: gargunflk
   age: 20

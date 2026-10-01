@@ -2,9 +2,11 @@
 shortcode: tulaofsethaleh
 name: {full: Tula of Sethaleh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher]
   gender: female
   species: humanflk
   age: 40

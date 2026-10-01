@@ -2,9 +2,11 @@
 shortcode: anlaeldaofkater
 name: {full: Anlaelda of Kater, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: female
   species: humanflk
   age: 23

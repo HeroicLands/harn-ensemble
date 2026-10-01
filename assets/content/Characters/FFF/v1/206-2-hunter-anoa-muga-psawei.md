@@ -2,10 +2,12 @@
 shortcode: mugapsawei
 name: {full: Muga Psawei, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff2062tok
   templatePriority: 1
+  archetypes: [warrior, woodsman]
   gender: male
   species: humanflk
   age: 34

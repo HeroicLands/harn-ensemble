@@ -2,9 +2,11 @@
 shortcode: cunanchanofanc
 name: {full: Cunanchan of Anc, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: female
   species: sindarinflk
   age: 133

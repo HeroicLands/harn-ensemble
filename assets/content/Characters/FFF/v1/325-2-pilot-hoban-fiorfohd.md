@@ -2,10 +2,12 @@
 shortcode: hobanfiorfohd
 name: {full: Hoban Fiorfohd, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3252tok
   templatePriority: 1
+  archetypes: [mariner]
   gender: male
   species: humanflk
   age: 34

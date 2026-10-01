@@ -2,9 +2,11 @@
 shortcode: yagoofbetanefris
 name: {full: Yago of Betanefris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, woodsman]
   gender: male
   species: humanflk
   age: 27

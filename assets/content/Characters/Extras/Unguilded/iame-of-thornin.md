@@ -2,9 +2,11 @@
 shortcode: iameofthornin
 name: {full: Iame of Thornin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, guildsperson]
   gender: male
   species: humanflk
   age: 24

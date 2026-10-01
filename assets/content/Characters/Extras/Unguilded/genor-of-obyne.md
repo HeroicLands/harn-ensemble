@@ -2,9 +2,11 @@
 shortcode: genorofobyne
 name: {full: Genor of Obyne, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 25

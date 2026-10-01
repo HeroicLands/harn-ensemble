@@ -2,9 +2,11 @@
 shortcode: angolofgurmal
 name: {full: Angol of Gurmal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, guildsperson]
   gender: male
   species: khuzdulflk
   age: 101

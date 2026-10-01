@@ -2,9 +2,11 @@
 shortcode: yagorofmatlim
 name: {full: Yagor of Matlim, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: male
   species: humanflk
   age: 26

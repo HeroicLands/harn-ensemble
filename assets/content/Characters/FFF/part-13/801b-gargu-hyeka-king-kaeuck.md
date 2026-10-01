@@ -2,10 +2,12 @@
 shortcode: kaeuck
 name: {full: Kaeuck, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff801bhead
   tokenIcon: fff801btok
+  archetypes: [warrior]
   gender: male
   species: gargunflk
   age: 11

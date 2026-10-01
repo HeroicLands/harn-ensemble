@@ -2,9 +2,11 @@
 shortcode: kistyneofnarasane
 name: {full: Kistyne of Narasane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: female
   species: humanflk
   age: 32

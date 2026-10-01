@@ -2,9 +2,11 @@
 shortcode: bresynofibine
 name: {full: Bresyn of Ibine, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: female
   species: humanflk
   age: 29

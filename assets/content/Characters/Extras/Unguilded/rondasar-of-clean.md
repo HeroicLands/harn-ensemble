@@ -2,9 +2,11 @@
 shortcode: rondasarofclean
 name: {full: Rondasar of Clean, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: male
   species: humanflk
   age: 28

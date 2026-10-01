@@ -2,9 +2,11 @@
 shortcode: durkorofquirinas
 name: {full: Durkor of Quirinas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, scholar, guildsperson]
   gender: male
   species: humanflk
   age: 46

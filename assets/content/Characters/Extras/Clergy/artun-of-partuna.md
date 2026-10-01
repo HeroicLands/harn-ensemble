@@ -2,9 +2,11 @@
 shortcode: artunofpartuna
 name: {full: Artun of Partuna, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: male
   species: humanflk
   age: 38

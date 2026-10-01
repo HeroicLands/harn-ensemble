@@ -2,9 +2,11 @@
 shortcode: cirbenofbalchadhod
 name: {full: Cirben of Balchadhod, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier, guildsperson]
   gender: female
   species: sindarinflk
   age: 208

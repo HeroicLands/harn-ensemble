@@ -2,9 +2,11 @@
 shortcode: merenaofchariborskin
 name: {full: Merena of Chariborskin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, woodsman]
   gender: female
   species: humanflk
   age: 35

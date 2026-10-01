@@ -2,9 +2,11 @@
 shortcode: rybinoflebarsel
 name: {full: Rybin of Lebarsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar, guildsperson]
   gender: male
   species: humanflk
   age: 23

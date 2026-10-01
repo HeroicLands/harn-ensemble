@@ -2,10 +2,12 @@
 shortcode: canutulachama
 name: {full: Canutulachama, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff2071tok
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: male
   species: humanflk
   age: 33

@@ -2,9 +2,11 @@
 shortcode: klarmofewel
 name: {full: Klarm of Ewel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: female
   species: humanflk
   age: 33

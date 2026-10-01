@@ -2,9 +2,11 @@
 shortcode: jakrowofbetts
 name: {full: Jakrow of Betts, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: male
   species: humanflk
   age: 26

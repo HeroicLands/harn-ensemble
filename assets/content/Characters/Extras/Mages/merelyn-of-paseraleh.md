@@ -2,9 +2,11 @@
 shortcode: merelynofpaseraleh
 name: {full: Merelyn of Paseraleh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, woodsman]
   gender: female
   species: humanflk
   age: 23

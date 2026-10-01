@@ -2,9 +2,11 @@
 shortcode: cheselynofathan
 name: {full: Cheselyn of Athan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: female
   species: humanflk
   age: 34

@@ -2,9 +2,11 @@
 shortcode: morrinofnanikul
 name: {full: Morrin of Nanikul, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: khuzdulflk
   age: 118

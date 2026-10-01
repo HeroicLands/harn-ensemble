@@ -2,9 +2,11 @@
 shortcode: amartheriphenofeith
 name: {full: Amartheriphen of Eith, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: male
   species: sindarinflk
   age: 247

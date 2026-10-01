@@ -2,10 +2,12 @@
 shortcode: matildaofverl
 name: {full: Matilda of Verl, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4172tok
   templatePriority: 1
+  archetypes: [mage]
   gender: female
   species: humanflk
   age: 14

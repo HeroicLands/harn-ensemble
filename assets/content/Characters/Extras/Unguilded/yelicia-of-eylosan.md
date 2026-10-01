@@ -2,9 +2,11 @@
 shortcode: yeliciaofeylosan
 name: {full: Yelicia of Eylosan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 36

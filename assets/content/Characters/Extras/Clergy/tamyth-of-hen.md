@@ -2,9 +2,11 @@
 shortcode: tamythofhen
 name: {full: Tamyth of Hen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: female
   species: humanflk
   age: 30

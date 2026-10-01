@@ -2,9 +2,11 @@
 shortcode: nerelasarinaoflune
 name: {full: Nerelasarina of Lune, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: female
   species: humanflk
   age: 19

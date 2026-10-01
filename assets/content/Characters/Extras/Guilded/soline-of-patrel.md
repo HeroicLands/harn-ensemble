@@ -2,9 +2,11 @@
 shortcode: solineofpatrel
 name: {full: Soline of Patrel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: female
   species: humanflk
   age: 33

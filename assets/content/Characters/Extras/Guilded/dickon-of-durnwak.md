@@ -2,9 +2,11 @@
 shortcode: dickonofdurnwak
 name: {full: Dickon of Durnwak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 26

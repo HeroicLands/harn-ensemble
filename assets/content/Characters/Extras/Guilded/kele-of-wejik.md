@@ -2,9 +2,11 @@
 shortcode: keleofwejik
 name: {full: Kele of Wejik, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [trader]
   gender: female
   species: humanflk
   age: 43

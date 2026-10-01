@@ -2,9 +2,11 @@
 shortcode: sarofsel
 name: {full: Sar of Sel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: male
   species: humanflk
   age: 41

@@ -2,10 +2,12 @@
 shortcode: esharelranals
 name: {full: Esharel Ranals, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1152tok
   templatePriority: 1
+  archetypes: [mariner, warrior]
   gender: male
   species: humanflk
   age: 39

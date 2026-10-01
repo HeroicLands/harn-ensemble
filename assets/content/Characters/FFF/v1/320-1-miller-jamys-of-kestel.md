@@ -2,10 +2,12 @@
 shortcode: jamysofkestel
 name: {full: Jamys of Kestel, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3201tok
   templatePriority: 1
+  archetypes: [warrior, artisan]
   gender: male
   species: humanflk
   age: 34

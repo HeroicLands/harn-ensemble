@@ -2,9 +2,11 @@
 shortcode: dirofmagnol
 name: {full: Dir of Magnol, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, entertainer]
   gender: male
   species: humanflk
   age: 20

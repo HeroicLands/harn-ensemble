@@ -2,9 +2,11 @@
 shortcode: jaslyneofthelya
 name: {full: Jaslyne of Thelya, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: female
   species: humanflk
   age: 19

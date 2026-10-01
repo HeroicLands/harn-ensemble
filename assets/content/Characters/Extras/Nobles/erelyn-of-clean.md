@@ -2,9 +2,11 @@
 shortcode: erelynofclean
 name: {full: Erelyn of Clean, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: female
   species: humanflk
   age: 31

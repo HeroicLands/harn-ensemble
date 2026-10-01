@@ -2,9 +2,11 @@
 shortcode: chendraofporde
 name: {full: Chendra of Porde, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 33

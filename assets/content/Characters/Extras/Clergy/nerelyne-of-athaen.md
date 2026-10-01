@@ -2,9 +2,11 @@
 shortcode: nerelyneofathaen
 name: {full: Nerelyne of Athaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: female
   species: humanflk
   age: 26

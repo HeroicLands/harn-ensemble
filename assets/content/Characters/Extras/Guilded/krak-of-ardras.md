@@ -2,9 +2,11 @@
 shortcode: krakofardras
 name: {full: Krak of Ardras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: male
   species: humanflk
   age: 42

@@ -2,9 +2,11 @@
 shortcode: avaphenofachan
 name: {full: Avaphen of Achan, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher]
   gender: male
   species: sindarinflk
   age: 208

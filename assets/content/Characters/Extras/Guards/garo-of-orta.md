@@ -2,9 +2,11 @@
 shortcode: garooforta
 name: {full: Garo of Orta, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 21

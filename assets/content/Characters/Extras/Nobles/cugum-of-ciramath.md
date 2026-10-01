@@ -2,9 +2,11 @@
 shortcode: cugumofciramath
 name: {full: Cugum of Ciramath, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: female
   species: sindarinflk
   age: 230

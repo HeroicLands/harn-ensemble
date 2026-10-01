@@ -2,9 +2,11 @@
 shortcode: saryseofavordas
 name: {full: Saryse of Avordas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 27

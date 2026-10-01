@@ -2,9 +2,11 @@
 shortcode: veteranseperlinoffraul
 name: {full: Veteran Seperlin of Fraul, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 29

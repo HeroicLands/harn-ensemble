@@ -2,9 +2,11 @@
 shortcode: bogsenofewen
 name: {full: Bogsen of Ewen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, entertainer]
   gender: male
   species: humanflk
   age: 32

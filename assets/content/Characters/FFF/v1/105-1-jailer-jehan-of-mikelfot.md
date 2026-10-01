@@ -2,10 +2,12 @@
 shortcode: jehanofmikelfot
 name: {full: Jehan of Mikelfot, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1051tok
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 26

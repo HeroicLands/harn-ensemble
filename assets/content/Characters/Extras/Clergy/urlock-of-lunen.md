@@ -2,9 +2,11 @@
 shortcode: urlockoflunen
 name: {full: Urlock of Lunen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman, guildsperson]
   gender: male
   species: humanflk
   age: 31

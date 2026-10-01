@@ -2,9 +2,11 @@
 shortcode: melsonofdon
 name: {full: Melson of Don, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 30

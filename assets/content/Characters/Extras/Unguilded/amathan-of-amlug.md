@@ -2,9 +2,11 @@
 shortcode: amathanofamlug
 name: {full: Amathan of Amlug, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher]
   gender: male
   species: sindarinflk
   age: 225

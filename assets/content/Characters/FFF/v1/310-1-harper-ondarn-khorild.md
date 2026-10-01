@@ -2,10 +2,12 @@
 shortcode: ondarnkhorild
 name: {full: Ondarn Khorild, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3101tok
   templatePriority: 1
+  archetypes: [entertainer]
   gender: male
   species: humanflk
   age: 33

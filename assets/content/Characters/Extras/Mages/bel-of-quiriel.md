@@ -2,9 +2,11 @@
 shortcode: belofquiriel
 name: {full: Bel of Quiriel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: male
   species: humanflk
   age: 24

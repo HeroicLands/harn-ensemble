@@ -2,9 +2,11 @@
 shortcode: jerildofelemas
 name: {full: Jerild of Elemas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: male
   species: humanflk
   age: 32

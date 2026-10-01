@@ -2,9 +2,11 @@
 shortcode: lyciaofever
 name: {full: Lycia of Ever, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mariner]
   gender: female
   species: humanflk
   age: 25

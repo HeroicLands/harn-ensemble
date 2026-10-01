@@ -2,9 +2,11 @@
 shortcode: tolmeyofkar
 name: {full: Tolmey of Kar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, guildsperson]
   gender: female
   species: humanflk
   age: 23

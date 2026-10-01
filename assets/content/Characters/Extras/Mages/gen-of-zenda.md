@@ -2,9 +2,11 @@
 shortcode: genofzenda
 name: {full: Gen of Zenda, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: male
   species: humanflk
   age: 21

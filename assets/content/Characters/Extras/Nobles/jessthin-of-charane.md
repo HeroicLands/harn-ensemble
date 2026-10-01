@@ -2,9 +2,11 @@
 shortcode: jessthinofcharane
 name: {full: Jessthin of Charane, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: male
   species: humanflk
   age: 35

@@ -2,9 +2,11 @@
 shortcode: barofclern
 name: {full: Bar of Clern, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [woodsman]
   gender: male
   species: humanflk
   age: 34

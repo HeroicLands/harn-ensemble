@@ -2,9 +2,11 @@
 shortcode: illineofmerleshref
 name: {full: Illine of Merleshref, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 21

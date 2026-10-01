@@ -2,10 +2,12 @@
 shortcode: eitriterrika
 name: {full: Eitri Terrika, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1061tok
   templatePriority: 1
+  archetypes: [warrior, artisan]
   gender: male
   species: khuzdulflk
   age: 100

@@ -2,9 +2,11 @@
 shortcode: ashofintrel
 name: {full: Ash of Intrel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: male
   species: humanflk
   age: 37

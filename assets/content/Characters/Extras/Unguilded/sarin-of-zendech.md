@@ -2,9 +2,11 @@
 shortcode: sarinofzendech
 name: {full: Sarin of Zendech, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [woodsman]
   gender: female
   species: humanflk
   age: 22

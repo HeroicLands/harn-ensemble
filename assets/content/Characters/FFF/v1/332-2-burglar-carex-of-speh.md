@@ -2,10 +2,12 @@
 shortcode: carexofspeh
 name: {full: Carex of Speh, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3322tok
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: male
   species: humanflk
   age: 32

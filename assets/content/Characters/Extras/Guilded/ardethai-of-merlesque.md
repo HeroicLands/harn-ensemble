@@ -2,9 +2,11 @@
 shortcode: ardethaiofmerlesque
 name: {full: Ardethai of Merlesque, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: male
   species: humanflk
   age: 35

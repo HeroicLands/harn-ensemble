@@ -2,9 +2,11 @@
 shortcode: cellamathorofarophen
 name: {full: Cellamathor of Arophen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [skirmisher, woodsman]
   gender: female
   species: sindarinflk
   age: 292

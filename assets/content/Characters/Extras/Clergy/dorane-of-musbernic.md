@@ -2,9 +2,11 @@
 shortcode: doraneofmusbernic
 name: {full: Dorane of Musbernic, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer, guildsperson]
   gender: female
   species: humanflk
   age: 29

@@ -2,9 +2,11 @@
 shortcode: marlyseofalwethale
 name: {full: Marlyse of Alwethale, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, healer]
   gender: female
   species: humanflk
   age: 26

@@ -2,9 +2,11 @@
 shortcode: tarckofyisgaradas
 name: {full: Tarck of Yisgaradas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, woodsman]
   gender: male
   species: humanflk
   age: 38

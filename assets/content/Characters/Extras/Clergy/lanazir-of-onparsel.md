@@ -2,9 +2,11 @@
 shortcode: lanazirofonparsel
 name: {full: Lanazir of Onparsel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior, guildsperson]
   gender: male
   species: humanflk
   age: 31

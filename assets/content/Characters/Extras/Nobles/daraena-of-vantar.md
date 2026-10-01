@@ -2,9 +2,11 @@
 shortcode: daraenaofvantar
 name: {full: Daraena of Vantar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, mariner]
   gender: male
   species: humanflk
   age: 47

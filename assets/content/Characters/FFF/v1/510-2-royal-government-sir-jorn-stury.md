@@ -2,10 +2,12 @@
 shortcode: sirjornstury
 name: {full: Sir Jorn Stury, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff5102tok
   templatePriority: 1
+  archetypes: [warrior, courtier]
   gender: male
   species: humanflk
   age: 41

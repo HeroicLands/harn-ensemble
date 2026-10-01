@@ -2,10 +2,12 @@
 shortcode: kirillofvetus
 name: {full: Kirill of Vetus, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff7071tok
   templatePriority: 1
+  archetypes: [mage, scholar]
   gender: male
   species: humanflk
   age: 43

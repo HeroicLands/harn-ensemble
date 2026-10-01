@@ -2,10 +2,12 @@
 shortcode: ealfricdefard
 name: {full: Ealfric Defard, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1271tok
   templatePriority: 1
+  archetypes: [skirmisher, artisan]
   gender: male
   species: humanflk
   age: 32

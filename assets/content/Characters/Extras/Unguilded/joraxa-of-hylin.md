@@ -2,9 +2,11 @@
 shortcode: joraxaofhylin
 name: {full: Joraxa of Hylin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 34

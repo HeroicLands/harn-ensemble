@@ -2,9 +2,11 @@
 shortcode: lavroofquiribor
 name: {full: Lavro of Quiribor, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: male
   species: humanflk
   age: 38

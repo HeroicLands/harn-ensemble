@@ -2,9 +2,11 @@
 shortcode: kerthedeofasain
 name: {full: Kerthede of Asain, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, mariner, guildsperson]
   gender: female
   species: humanflk
   age: 26

@@ -2,9 +2,11 @@
 shortcode: dickonofkephis
 name: {full: Dickon of Kephis, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, entertainer]
   gender: male
   species: humanflk
   age: 39

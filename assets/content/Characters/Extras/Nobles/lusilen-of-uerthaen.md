@@ -2,9 +2,11 @@
 shortcode: lusilenofuerthaen
 name: {full: Lusilen of Uerthaen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: female
   species: humanflk
   age: 43

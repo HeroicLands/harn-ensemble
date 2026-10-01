@@ -2,9 +2,11 @@
 shortcode: tabifaofmurty
 name: {full: Tabifa of Murty, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [entertainer]
   gender: female
   species: humanflk
   age: 34

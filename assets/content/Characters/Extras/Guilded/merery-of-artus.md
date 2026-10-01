@@ -2,9 +2,11 @@
 shortcode: mereryofartus
 name: {full: Merery of Artus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: female
   species: humanflk
   age: 31

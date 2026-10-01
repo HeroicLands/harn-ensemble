@@ -2,9 +2,11 @@
 shortcode: garaenarofburrak
 name: {full: Garaenar of Burrak, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: khuzdulflk
   age: 127

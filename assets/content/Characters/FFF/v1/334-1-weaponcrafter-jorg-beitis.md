@@ -2,10 +2,12 @@
 shortcode: jorgbeitis
 name: {full: Jorg Beitis, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3341tok
   templatePriority: 1
+  archetypes: [artisan, warrior]
   gender: male
   species: humanflk
   age: 39

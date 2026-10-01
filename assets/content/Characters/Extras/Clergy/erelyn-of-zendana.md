@@ -2,9 +2,11 @@
 shortcode: erelynofzendana
 name: {full: Erelyn of Zendana, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman, guildsperson]
   gender: female
   species: humanflk
   age: 34

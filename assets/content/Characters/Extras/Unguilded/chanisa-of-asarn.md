@@ -2,9 +2,11 @@
 shortcode: chanisaofasarn
 name: {full: Chanisa of Asarn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [commoner]
   gender: female
   species: humanflk
   age: 17

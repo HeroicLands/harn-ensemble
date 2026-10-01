@@ -2,9 +2,11 @@
 shortcode: arnofcadwar
 name: {full: Arn of Cadwar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: sindarinflk
   age: 251

@@ -2,9 +2,11 @@
 shortcode: houlaofcoselphus
 name: {full: Houla of Coselphus, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [woodsman]
   gender: male
   species: humanflk
   age: 24

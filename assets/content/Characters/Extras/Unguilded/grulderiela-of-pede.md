@@ -2,9 +2,11 @@
 shortcode: grulderielaofpede
 name: {full: Grulderiela of Pede, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [woodsman]
   gender: female
   species: humanflk
   age: 41

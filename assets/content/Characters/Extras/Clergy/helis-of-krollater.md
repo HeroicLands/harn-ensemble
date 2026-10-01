@@ -2,9 +2,11 @@
 shortcode: helisofkrollater
 name: {full: Helis of Krollater, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: female
   species: humanflk
   age: 30

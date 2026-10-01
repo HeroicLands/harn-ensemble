@@ -2,9 +2,11 @@
 shortcode: shylirisirofverien
 name: {full: Shylirisir of Verien, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: male
   species: humanflk
   age: 48

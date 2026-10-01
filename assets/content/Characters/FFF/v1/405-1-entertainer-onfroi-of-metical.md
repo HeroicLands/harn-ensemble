@@ -2,10 +2,12 @@
 shortcode: onfroiofmetical
 name: {full: Onfroi of Metical, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4051tok
   templatePriority: 1
+  archetypes: [entertainer]
   gender: male
   species: humanflk
   age: 21

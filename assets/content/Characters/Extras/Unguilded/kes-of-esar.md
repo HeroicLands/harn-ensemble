@@ -2,9 +2,11 @@
 shortcode: kesofesar
 name: {full: Kes of Esar, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 21

@@ -2,9 +2,11 @@
 shortcode: doraneofchuzyn
 name: {full: Dorane of Chuzyn, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: female
   species: humanflk
   age: 38

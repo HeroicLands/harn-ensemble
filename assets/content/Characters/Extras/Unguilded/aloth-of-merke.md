@@ -2,9 +2,11 @@
 shortcode: alothofmerke
 name: {full: Aloth of Merke, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: male
   species: humanflk
   age: 38

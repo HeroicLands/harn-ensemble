@@ -2,10 +2,12 @@
 shortcode: vadulfofgesper
 name: {full: Vadulf of Gesper, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff4101tok
   templatePriority: 1
+  archetypes: [mariner]
   gender: male
   species: humanflk
   age: 24

@@ -2,10 +2,12 @@
 shortcode: kibatam
 name: {full: Kiba Tam, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3991tok
   templatePriority: 1
+  archetypes: [scholar, mage]
   gender: female
   species: humanflk
   age: 17

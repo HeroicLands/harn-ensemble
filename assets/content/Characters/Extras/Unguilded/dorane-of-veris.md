@@ -2,9 +2,11 @@
 shortcode: doraneofveris
 name: {full: Dorane of Veris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior, skirmisher, guildsperson]
   gender: female
   species: humanflk
   age: 37

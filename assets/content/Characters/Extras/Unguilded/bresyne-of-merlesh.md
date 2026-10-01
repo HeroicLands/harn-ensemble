@@ -2,9 +2,11 @@
 shortcode: bresyneofmerlesh
 name: {full: Bresyne of Merlesh, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman]
   gender: female
   species: humanflk
   age: 31

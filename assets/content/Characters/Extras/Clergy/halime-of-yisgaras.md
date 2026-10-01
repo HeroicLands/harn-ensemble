@@ -2,9 +2,11 @@
 shortcode: halimeofyisgaras
 name: {full: Halime of Yisgaras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, woodsman, guildsperson]
   gender: male
   species: humanflk
   age: 39

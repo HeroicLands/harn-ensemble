@@ -2,9 +2,11 @@
 shortcode: amdirofamatheben
 name: {full: Amdir of Amatheben, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: sindarinflk
   age: 191

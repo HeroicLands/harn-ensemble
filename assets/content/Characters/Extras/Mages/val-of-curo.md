@@ -2,9 +2,11 @@
 shortcode: valofcuro
 name: {full: Val of Curo, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: male
   species: humanflk
   age: 32

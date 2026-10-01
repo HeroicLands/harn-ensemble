@@ -2,9 +2,11 @@
 shortcode: querenaofchalmin
 name: {full: Querena of Chalmin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, woodsman]
   gender: female
   species: humanflk
   age: 39

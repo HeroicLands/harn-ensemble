@@ -2,9 +2,11 @@
 shortcode: milniqofordas
 name: {full: Milniq of Ordas, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 27

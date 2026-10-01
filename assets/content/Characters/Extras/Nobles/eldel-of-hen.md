@@ -2,9 +2,11 @@
 shortcode: eldelofhen
 name: {full: Eldel of Hen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, woodsman]
   gender: female
   species: humanflk
   age: 59

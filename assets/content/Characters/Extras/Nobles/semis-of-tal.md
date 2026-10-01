@@ -2,9 +2,11 @@
 shortcode: semisoftal
 name: {full: Semis of Tal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: male
   species: humanflk
   age: 54

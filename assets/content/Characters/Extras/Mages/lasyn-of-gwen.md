@@ -2,9 +2,11 @@
 shortcode: lasynofgwen
 name: {full: Lasyn of Gwen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: female
   species: humanflk
   age: 38

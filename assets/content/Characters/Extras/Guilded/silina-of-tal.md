@@ -2,9 +2,11 @@
 shortcode: silinaoftal
 name: {full: Silina of Tal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan]
   gender: female
   species: humanflk
   age: 23

@@ -2,9 +2,11 @@
 shortcode: maeghelasarofveris
 name: {full: Maeghelasar of Veris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, entertainer]
   gender: female
   species: humanflk
   age: 40

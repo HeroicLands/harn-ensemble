@@ -2,9 +2,11 @@
 shortcode: kaidiaofeldin
 name: {full: Kaidia of Eldin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer]
   gender: female
   species: humanflk
   age: 20

@@ -2,9 +2,11 @@
 shortcode: kistyneofwethen
 name: {full: Kistyne of Wethen, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, infiltrator]
   gender: female
   species: humanflk
   age: 36

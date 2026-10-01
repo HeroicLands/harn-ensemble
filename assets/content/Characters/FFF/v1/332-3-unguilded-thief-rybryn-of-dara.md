@@ -2,10 +2,12 @@
 shortcode: rybrynofdara
 name: {full: Rybryn of Dara, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff3323tok
   templatePriority: 1
+  archetypes: [infiltrator]
   gender: female
   species: humanflk
   age: 18

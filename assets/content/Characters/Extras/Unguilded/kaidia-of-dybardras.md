@@ -2,9 +2,11 @@
 shortcode: kaidiaofdybardras
 name: {full: Kaidia of Dybardras, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [warrior]
   gender: female
   species: humanflk
   age: 30

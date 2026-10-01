@@ -2,10 +2,12 @@
 shortcode: tokisvalgerdsson
 name: {full: Tokis Valgerdsson, aliases: []}
 type: being
-tags: [character]
+subType: character
+tags: []
 data:
   icon: fff1242tok
   templatePriority: 1
+  archetypes: [skirmisher, mariner]
   gender: male
   species: humanflk
   age: 24

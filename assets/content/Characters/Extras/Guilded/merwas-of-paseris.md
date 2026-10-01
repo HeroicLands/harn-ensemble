@@ -2,9 +2,11 @@
 shortcode: merwasofpaseris
 name: {full: Merwas of Paseris, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [healer, guildsperson]
   gender: male
   species: humanflk
   age: 35

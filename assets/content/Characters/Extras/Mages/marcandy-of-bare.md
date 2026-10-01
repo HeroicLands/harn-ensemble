@@ -2,9 +2,11 @@
 shortcode: marcandyofbare
 name: {full: Marcandy of Bare, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: male
   species: humanflk
   age: 44

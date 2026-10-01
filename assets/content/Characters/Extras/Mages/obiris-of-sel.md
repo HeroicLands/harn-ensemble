@@ -2,9 +2,11 @@
 shortcode: obirisofsel
 name: {full: Obiris of Sel, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [mage, artisan]
   gender: female
   species: humanflk
   age: 27

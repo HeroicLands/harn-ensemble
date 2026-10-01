@@ -2,9 +2,11 @@
 shortcode: kistyneofgevraelin
 name: {full: Kistyne of Gevraelin, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [cleric, warrior]
   gender: female
   species: humanflk
   age: 29

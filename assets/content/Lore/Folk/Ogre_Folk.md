@@ -4,7 +4,7 @@ name: {full: Ogre Folk, aliases: []}
 type: lore
 subType: folk
 description: "The Ogre Folk"
-tags: []
+tags: [draft]
 ---
 
 The Ogre folk of Kethira.

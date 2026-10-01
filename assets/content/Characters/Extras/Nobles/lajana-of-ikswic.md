@@ -2,9 +2,11 @@
 shortcode: lajanaofikswic
 name: {full: Lajana of Ikswic, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [courtier, warrior]
   gender: female
   species: humanflk
   age: 48

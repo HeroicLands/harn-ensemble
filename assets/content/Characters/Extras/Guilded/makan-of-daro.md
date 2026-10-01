@@ -2,9 +2,11 @@
 shortcode: makanofdaro
 name: {full: Makan of Daro, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [scholar]
   gender: male
   species: humanflk
   age: 35

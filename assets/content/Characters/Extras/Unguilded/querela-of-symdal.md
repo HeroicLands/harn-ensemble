@@ -2,9 +2,11 @@
 shortcode: querelaofsymdal
 name: {full: Querela of Symdal, aliases: []}
 type: being
-tags: [character]
+subType: npc
+tags: []
 data:
   templatePriority: 1
+  archetypes: [artisan, scholar]
   gender: female
   species: humanflk
   age: 25
