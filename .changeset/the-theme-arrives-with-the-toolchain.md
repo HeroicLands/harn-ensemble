@@ -1,5 +1,5 @@
 ---
-"harn-ensemble": minor
+"harn-ensemble": patch
 ---
 
 **Pages** — A page whose note names its own hero image shows that image rather than the stock banner for its kind.
