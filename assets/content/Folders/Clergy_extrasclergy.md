@@ -4,3 +4,5 @@ name: {full: "Clergy"}
 type: folder
 data: {parent: extras, color: "#027493"}
 ---
+
+Holds the characters filed under Clergy, in Extras.
