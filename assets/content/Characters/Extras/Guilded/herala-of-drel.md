@@ -22,7 +22,7 @@ data:
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Litigant, class: serf, society: feudal, organizations: []}
+  occupation: Litigant
 hm3:
   type: character
   attributes:

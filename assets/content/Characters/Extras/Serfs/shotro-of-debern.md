@@ -22,7 +22,7 @@ data:
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
-  social: {occupation: Cook/Servant, class: serf, society: feudal, organizations: []}
+  occupation: Cook/Servant
 hm3:
   type: character
   attributes:

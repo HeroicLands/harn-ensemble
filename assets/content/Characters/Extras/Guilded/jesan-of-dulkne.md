@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Glassworker, class: unguilded, society: feudal, organizations: []}
+  occupation: Glassworker
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
-  social: {occupation: "Shek-Pvar/Peleahn****", class: serf, society: feudal, organizations: []}
+  occupation: Shek-Pvar/Peleahn****
 hm3:
   type: character
   attributes:

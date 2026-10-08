@@ -23,7 +23,7 @@ data:
     extra_features: [Often drinking or drunk]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
-  social: {occupation: Knight Bachelor (HH), class: noble, society: feudal, organizations: []}
+  occupation: Knight Bachelor (HH)
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
+  occupation: Thatcher
 hm3:
   type: character
   attributes:

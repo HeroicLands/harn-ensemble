@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Scribe, class: unguilded, society: feudal, organizations: []}
+  occupation: Scribe
 hm3:
   type: character
   attributes:

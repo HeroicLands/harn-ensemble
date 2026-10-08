@@ -23,7 +23,7 @@ data:
     extra_features: [Acne scars on face]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Timberwright, class: freeman, society: feudal, organizations: []}
+  occupation: Timberwright
 hm3:
   type: character
   attributes:

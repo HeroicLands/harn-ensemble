@@ -22,11 +22,7 @@ data:
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Imperial Legionnaire, Medium
-    class: guilded
-    society: feudal
-    organizations: []
+  occupation: Imperial Legionnaire, Medium
 hm3:
   type: character
   attributes:

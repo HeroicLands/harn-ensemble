@@ -22,7 +22,7 @@ data:
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Khuzdul High Guard, class: unguilded, society: feudal, organizations: []}
+  occupation: Khuzdul High Guard
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffunguilded
-  social: {occupation: Cartographer, class: freeman, society: feudal, organizations: []}
+  occupation: Cartographer
 hm3:
   type: character
   attributes:

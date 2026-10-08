@@ -22,11 +22,7 @@ data:
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Sindarin Ranger, Light
-    class: guilded
-    society: feudal
-    organizations: []
+  occupation: Sindarin Ranger, Light
 hm3:
   type: character
   attributes:

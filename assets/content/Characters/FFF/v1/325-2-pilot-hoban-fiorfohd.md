@@ -23,7 +23,7 @@ data:
     extra_features: [Outrageous clothes]
   harnworld: {realm: "", ritual: [peoni, eder]}
   packFolder: fffguilded
-  social: {occupation: Pilot, class: freeman, society: feudal, organizations: []}
+  occupation: Pilot
 hm3:
   type: character
   attributes:

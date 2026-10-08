@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Astrologer, class: noble, society: feudal, organizations: []}
+  occupation: Astrologer
 hm3:
   type: character
   attributes:

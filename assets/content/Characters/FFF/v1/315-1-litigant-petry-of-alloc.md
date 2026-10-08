@@ -23,7 +23,7 @@ data:
     extra_features: [Very pink skin]
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffguilded
-  social: {occupation: Litigant, class: freeman, society: feudal, organizations: []}
+  occupation: Litigant
 hm3:
   type: character
   attributes:

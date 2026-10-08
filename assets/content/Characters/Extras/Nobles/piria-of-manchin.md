@@ -22,7 +22,7 @@ data:
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: "Feudal Knight, Heavy", class: serf, society: feudal, organizations: []}
+  occupation: Feudal Knight, Heavy
 hm3:
   type: character
   attributes:

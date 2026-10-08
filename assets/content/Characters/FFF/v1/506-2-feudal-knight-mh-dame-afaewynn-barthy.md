@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
-  social: {occupation: Knight Bachelor (MH), class: noble, society: feudal, organizations: []}
+  occupation: Knight Bachelor (MH)
 hm3:
   type: character
   attributes:

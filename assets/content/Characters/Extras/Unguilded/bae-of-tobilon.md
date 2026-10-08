@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Herdsman, class: unguilded, society: feudal, organizations: []}
+  occupation: Herdsman
 hm3:
   type: character
   attributes:

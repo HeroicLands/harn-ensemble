@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Khuzdul High Guard, class: serf, society: feudal, organizations: []}
+  occupation: Khuzdul High Guard
 hm3:
   type: character
   attributes:

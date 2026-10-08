@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffmilitary
-  social: {occupation: Huscarl (MF), class: freeman, society: viking, organizations: []}
+  occupation: Huscarl (MF)
 hm3:
   type: character
   attributes:

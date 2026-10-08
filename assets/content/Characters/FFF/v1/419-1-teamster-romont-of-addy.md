@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Teamster, class: freeman, society: feudal, organizations: []}
+  occupation: Teamster
 hm3:
   type: character
   attributes:

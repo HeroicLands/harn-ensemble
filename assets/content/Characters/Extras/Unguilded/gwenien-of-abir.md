@@ -22,11 +22,7 @@ data:
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Imperial Legionnaire, Shortbow
-    class: serf
-    society: feudal
-    organizations: []
+  occupation: Imperial Legionnaire, Shortbow
 hm3:
   type: character
   attributes:

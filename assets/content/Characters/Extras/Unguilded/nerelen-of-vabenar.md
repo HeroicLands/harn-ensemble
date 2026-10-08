@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Toymaker, class: serf, society: feudal, organizations: []}
+  occupation: Toymaker
 hm3:
   type: character
   attributes:

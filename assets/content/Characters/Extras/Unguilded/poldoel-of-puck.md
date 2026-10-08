@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: "Feudal Yeoman, Shortbow", class: serf, society: feudal, organizations: []}
+  occupation: Feudal Yeoman, Shortbow
 hm3:
   type: character
   attributes:

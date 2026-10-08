@@ -22,7 +22,7 @@ data:
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Thespian, class: unguilded, society: feudal, organizations: []}
+  occupation: Thespian
 hm3:
   type: character
   attributes:

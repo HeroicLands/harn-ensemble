@@ -23,7 +23,7 @@ data:
     extra_features: [His left leg has a slight limp]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
-  social: {occupation: Royal Agent, class: noble, society: feudal, organizations: []}
+  occupation: Royal Agent
 hm3:
   type: character
   attributes:

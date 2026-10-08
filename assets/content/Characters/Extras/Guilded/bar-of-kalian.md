@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Miller/Millwright, class: unguilded, society: feudal, organizations: []}
+  occupation: Miller/Millwright
 hm3:
   type: character
   attributes:

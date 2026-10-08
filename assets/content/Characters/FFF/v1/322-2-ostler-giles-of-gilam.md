@@ -23,7 +23,7 @@ data:
     extra_features: [Freckles]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Journeyman Ostler, class: freeman, society: feudal, organizations: []}
+  occupation: Journeyman Ostler
 hm3:
   type: character
   attributes:

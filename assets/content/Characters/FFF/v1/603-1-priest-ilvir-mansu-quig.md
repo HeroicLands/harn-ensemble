@@ -23,7 +23,7 @@ data:
     extra_features: [Left handed, Musty smell]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffclergy
-  social: {occupation: Ilviran Priest, class: freeman, society: jarin, organizations: []}
+  occupation: Ilviran Priest
 hm3:
   type: character
   attributes:

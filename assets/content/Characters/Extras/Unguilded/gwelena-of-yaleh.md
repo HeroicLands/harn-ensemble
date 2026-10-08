@@ -22,7 +22,7 @@ data:
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Sage/Tutor, class: serf, society: feudal, organizations: []}
+  occupation: Sage/Tutor
 hm3:
   type: character
   attributes:

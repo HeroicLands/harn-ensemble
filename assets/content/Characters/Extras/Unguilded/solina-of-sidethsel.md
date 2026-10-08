@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Laborer/Longshoreman, class: unguilded, society: feudal, organizations: []}
+  occupation: Laborer/Longshoreman
 hm3:
   type: character
   attributes:

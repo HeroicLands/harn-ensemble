@@ -22,7 +22,7 @@ data:
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Fisherman, class: noble, society: feudal, organizations: []}
+  occupation: Fisherman
 hm3:
   type: character
   attributes:

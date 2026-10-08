@@ -22,7 +22,7 @@ data:
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Patrician, class: noble, society: feudal, organizations: []}
+  occupation: Patrician
 hm3:
   type: character
   attributes:

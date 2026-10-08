@@ -23,7 +23,7 @@ data:
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffclergy
-  social: {occupation: Priestess of Sarajin, class: noble, society: ivinian, organizations: []}
+  occupation: Priestess of Sarajin
 hm3:
   type: character
   attributes:

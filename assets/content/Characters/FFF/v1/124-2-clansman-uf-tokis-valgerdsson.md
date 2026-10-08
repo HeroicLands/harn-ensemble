@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffmilitary
-  social: {occupation: Clansman (UF), class: freeman, society: viking, organizations: []}
+  occupation: Clansman (UF)
 hm3:
   type: character
   attributes:

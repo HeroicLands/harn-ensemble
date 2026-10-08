@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Scribe, class: noble, society: feudal, organizations: []}
+  occupation: Scribe
 hm3:
   type: character
   attributes:

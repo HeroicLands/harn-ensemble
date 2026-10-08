@@ -23,7 +23,7 @@ data:
     extra_features: [Pox scars]
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: fffclergy
-  social: {occupation: Priest of Morgath, class: freeman, society: feudal, organizations: []}
+  occupation: Priest of Morgath
 hm3:
   type: character
   attributes:

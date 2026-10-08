@@ -22,7 +22,7 @@ data:
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Courtesan, class: unguilded, society: feudal, organizations: []}
+  occupation: Courtesan
 hm3:
   type: character
   attributes:

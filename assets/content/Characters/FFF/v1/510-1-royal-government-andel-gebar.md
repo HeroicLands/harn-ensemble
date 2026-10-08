@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea, saveknor]}
   packFolder: fffnobles
-  social: {occupation: Exchequer Clerk, class: freeman, society: feudal, organizations: []}
+  occupation: Exchequer Clerk
 hm3:
   type: character
   attributes:

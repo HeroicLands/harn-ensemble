@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffunguilded
-  social: {occupation: Thatcher, class: freeman, society: feudal, organizations: []}
+  occupation: Thatcher
 hm3:
   type: character
   attributes:

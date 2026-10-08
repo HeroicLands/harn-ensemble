@@ -23,7 +23,7 @@ data:
     extra_features: [Obese]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
-  social: {occupation: Queen, class: queen, society: gargun (hyeka), organizations: []}
+  occupation: Queen
 hm3:
   type: character
   attributes:

@@ -22,11 +22,7 @@ data:
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Imperial Legionnaire, Medium
-    class: serf
-    society: feudal
-    organizations: []
+  occupation: Imperial Legionnaire, Medium
 hm3:
   type: character
   attributes:

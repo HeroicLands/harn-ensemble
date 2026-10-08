@@ -22,7 +22,7 @@ data:
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Sarajin, class: unguilded, society: feudal, organizations: []}
+  occupation: Cleric/Sarajin
 hm3:
   type: character
   attributes:

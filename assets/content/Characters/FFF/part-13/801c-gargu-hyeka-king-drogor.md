@@ -23,7 +23,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [agrik, larani]}
   packFolder: fffnonhumans
-  social: {occupation: King, class: king, society: gargun, organizations: []}
+  occupation: King
 hm3:
   type: character
   attributes:

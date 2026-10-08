@@ -23,7 +23,7 @@ data:
     extra_features: [Very long fingers]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
-  social: {occupation: Harper, class: freeman, society: feudal, organizations: []}
+  occupation: Harper
 hm3:
   type: character
   attributes:

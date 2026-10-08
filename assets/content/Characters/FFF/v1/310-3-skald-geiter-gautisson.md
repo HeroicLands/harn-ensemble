@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
-  social: {occupation: Skald, class: freeman, society: viking, organizations: []}
+  occupation: Skald
 hm3:
   type: character
   attributes:

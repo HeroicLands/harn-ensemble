@@ -22,7 +22,7 @@ data:
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Salter, class: serf, society: feudal, organizations: []}
+  occupation: Salter
 hm3:
   type: character
   attributes:

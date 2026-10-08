@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Tentmaker, class: serf, society: feudal, organizations: []}
+  occupation: Tentmaker
 hm3:
   type: character
   attributes:

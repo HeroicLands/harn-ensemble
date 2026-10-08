@@ -22,7 +22,7 @@ data:
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Toymaker, class: guilded, society: feudal, organizations: []}
+  occupation: Toymaker
 hm3:
   type: character
   attributes:

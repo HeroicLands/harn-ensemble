@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffmages
-  social: {occupation: Gray Mage, class: freeman, society: feudal, organizations: []}
+  occupation: Gray Mage
 hm3:
   type: character
   attributes:

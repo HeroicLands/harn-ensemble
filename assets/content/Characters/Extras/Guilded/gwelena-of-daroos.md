@@ -22,7 +22,7 @@ data:
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Chandler, class: guilded, society: feudal, organizations: []}
+  occupation: Chandler
 hm3:
   type: character
   attributes:

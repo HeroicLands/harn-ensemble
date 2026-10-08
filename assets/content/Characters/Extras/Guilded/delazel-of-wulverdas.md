@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Seaman, class: unguilded, society: feudal, organizations: []}
+  occupation: Seaman
 hm3:
   type: character
   attributes:

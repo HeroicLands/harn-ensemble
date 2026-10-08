@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Miller/Millwright, class: guilded, society: feudal, organizations: []}
+  occupation: Miller/Millwright
 hm3:
   type: character
   attributes:

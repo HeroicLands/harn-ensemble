@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
   packFolder: extrasunguilded
-  social: {occupation: Shaman, class: serf, society: feudal, organizations: []}
+  occupation: Shaman
 hm3:
   type: character
   attributes:

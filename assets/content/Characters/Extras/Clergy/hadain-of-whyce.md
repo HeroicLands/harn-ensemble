@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Siem, class: guilded, society: feudal, organizations: []}
+  occupation: Cleric/Siem
 hm3:
   type: character
   attributes:

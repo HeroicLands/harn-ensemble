@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffmilitary
-  social: {occupation: Shieldmaiden, class: freeman, society: viking, organizations: []}
+  occupation: Shieldmaiden
 hm3:
   type: character
   attributes:

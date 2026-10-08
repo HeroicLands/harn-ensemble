@@ -22,7 +22,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Larani, class: serf, society: feudal, organizations: []}
+  occupation: Cleric/Larani
 hm3:
   type: character
   attributes:

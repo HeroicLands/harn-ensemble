@@ -22,7 +22,7 @@ data:
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Miner, class: serf, society: feudal, organizations: []}
+  occupation: Miner
 hm3:
   type: character
   attributes:

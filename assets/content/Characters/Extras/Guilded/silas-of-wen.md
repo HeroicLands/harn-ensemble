@@ -22,7 +22,7 @@ data:
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Salter, class: guilded, society: feudal, organizations: []}
+  occupation: Salter
 hm3:
   type: character
   attributes:

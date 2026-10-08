@@ -22,7 +22,7 @@ data:
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Potter, class: serf, society: feudal, organizations: []}
+  occupation: Potter
 hm3:
   type: character
   attributes:

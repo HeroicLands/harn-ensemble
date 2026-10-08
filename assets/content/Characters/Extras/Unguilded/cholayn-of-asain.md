@@ -22,7 +22,7 @@ data:
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Imperial Militia, class: unguilded, society: feudal, organizations: []}
+  occupation: Imperial Militia
 hm3:
   type: character
   attributes:

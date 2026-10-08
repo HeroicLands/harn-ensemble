@@ -23,7 +23,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
-  social: {occupation: Gladiator, class: warrior, society: gargun, organizations: []}
+  occupation: Gladiator
 hm3:
   type: character
   attributes:

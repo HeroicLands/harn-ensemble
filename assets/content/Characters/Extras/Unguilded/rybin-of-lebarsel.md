@@ -22,7 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Sage/Tutor, class: guilded, society: feudal, organizations: []}
+  occupation: Sage/Tutor
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: [Squints]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Reeve, class: serf, society: feudal, organizations: []}
+  occupation: Reeve
 hm3:
   type: character
   attributes:

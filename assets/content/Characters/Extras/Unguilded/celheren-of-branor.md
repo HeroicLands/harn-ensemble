@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Sindarin Guardian, class: serf, society: feudal, organizations: []}
+  occupation: Sindarin Guardian
 hm3:
   type: character
   attributes:

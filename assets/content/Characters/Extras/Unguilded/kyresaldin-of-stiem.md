@@ -22,7 +22,7 @@ data:
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Fisherman, class: guilded, society: feudal, organizations: []}
+  occupation: Fisherman
 hm3:
   type: character
   attributes:

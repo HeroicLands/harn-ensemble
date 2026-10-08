@@ -22,7 +22,7 @@ data:
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Cook/Servant, class: unguilded, society: feudal, organizations: []}
+  occupation: Cook/Servant
 hm3:
   type: character
   attributes:

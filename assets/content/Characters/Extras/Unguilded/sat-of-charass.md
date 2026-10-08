@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Laborer/Longshoreman, class: guilded, society: feudal, organizations: []}
+  occupation: Laborer/Longshoreman
 hm3:
   type: character
   attributes:

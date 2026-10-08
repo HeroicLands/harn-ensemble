@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Prostitute/Pimp, class: serf, society: feudal, organizations: []}
+  occupation: Prostitute/Pimp
 hm3:
   type: character
   attributes:

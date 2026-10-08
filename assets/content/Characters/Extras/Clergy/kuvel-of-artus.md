@@ -22,7 +22,7 @@ data:
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Agrik, class: serf, society: feudal, organizations: []}
+  occupation: Cleric/Agrik
 hm3:
   type: character
   attributes:

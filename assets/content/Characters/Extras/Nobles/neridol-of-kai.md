@@ -22,7 +22,7 @@ data:
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: "Feudal Knight, Medium", class: serf, society: feudal, organizations: []}
+  occupation: Feudal Knight, Medium
 hm3:
   type: character
   attributes:

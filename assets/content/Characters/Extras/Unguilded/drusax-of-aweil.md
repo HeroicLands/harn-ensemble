@@ -22,7 +22,7 @@ data:
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Farmer, class: unguilded, society: feudal, organizations: []}
+  occupation: Farmer
 hm3:
   type: character
   attributes:

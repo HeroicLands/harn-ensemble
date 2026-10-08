@@ -23,7 +23,7 @@ data:
     extra_features: [Gigantism, Well groomed beard, moustache]
   harnworld: {realm: "", ritual: [korr]}
   packFolder: fffbarbarians
-  social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
+  occupation: Hunter
 hm3:
   type: character
   attributes:

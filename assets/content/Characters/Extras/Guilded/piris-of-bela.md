@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Woodcrafter, class: unguilded, society: feudal, organizations: []}
+  occupation: Woodcrafter
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
+  occupation: Cleric/Sarajin
 hm3:
   type: character
   attributes:

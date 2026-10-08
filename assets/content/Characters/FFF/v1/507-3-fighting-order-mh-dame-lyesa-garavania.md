@@ -23,7 +23,7 @@ data:
     extra_features: [Foreign accent]
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: fffnobles
-  social: {occupation: Knight, class: noble, society: feudal, organizations: []}
+  occupation: Knight
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Innkeeper, class: serf, society: feudal, organizations: []}
+  occupation: Innkeeper
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Weaponcrafter, class: noble, society: feudal, organizations: []}
+  occupation: Weaponcrafter
 hm3:
   type: character
   attributes:

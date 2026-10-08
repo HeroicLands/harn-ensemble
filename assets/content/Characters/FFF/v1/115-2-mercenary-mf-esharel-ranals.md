@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary
-  social: {occupation: Sea Captain, class: freeman, society: feudal, organizations: []}
+  occupation: Sea Captain
 hm3:
   type: character
   attributes:

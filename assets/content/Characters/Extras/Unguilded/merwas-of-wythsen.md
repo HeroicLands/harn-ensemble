@@ -22,11 +22,7 @@ data:
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Feudal Yeoman, Shortbow
-    class: unguilded
-    society: feudal
-    organizations: []
+  occupation: Feudal Yeoman, Shortbow
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Teamster, class: unguilded, society: feudal, organizations: []}
+  occupation: Teamster
 hm3:
   type: character
   attributes:

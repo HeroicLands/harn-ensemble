@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Chandler, class: serf, society: feudal, organizations: []}
+  occupation: Chandler
 hm3:
   type: character
   attributes:

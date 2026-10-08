@@ -22,7 +22,7 @@ data:
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Naveh, class: serf, society: feudal, organizations: []}
+  occupation: Cleric/Naveh
 hm3:
   type: character
   attributes:

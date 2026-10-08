@@ -22,7 +22,7 @@ data:
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Glassworker, class: guilded, society: feudal, organizations: []}
+  occupation: Glassworker
 hm3:
   type: character
   attributes:

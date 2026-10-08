@@ -23,11 +23,7 @@ data:
     extra_features: [Birthmark]
   harnworld: {realm: "", ritual: [peoni, saveknor]}
   packFolder: fffmages
-  social:
-    occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)
-    class: freeman
-    society: feudal
-    organizations: []
+  occupation: Silversmith (public), Jmorvi Satia-Mavari (secret)
 hm3:
   type: character
   attributes:

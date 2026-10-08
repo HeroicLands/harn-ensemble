@@ -23,7 +23,7 @@ data:
     extra_features: [Very long braided hair]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffunguilded
-  social: {occupation: Scribe, class: freeman, society: ivinian, organizations: []}
+  occupation: Scribe
 hm3:
   type: character
   attributes:

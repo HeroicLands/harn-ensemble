@@ -23,7 +23,7 @@ data:
     extra_features: [Missing his right arm below the elbow, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffclergy
-  social: {occupation: Runemaster, class: freeman, society: viking, organizations: []}
+  occupation: Runemaster
 hm3:
   type: character
   attributes:

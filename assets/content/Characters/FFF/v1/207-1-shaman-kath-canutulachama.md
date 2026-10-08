@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: fffbarbarians
-  social: {occupation: Shaman, class: tribesman, society: tribal, organizations: []}
+  occupation: Shaman
 hm3:
   type: character
   attributes:

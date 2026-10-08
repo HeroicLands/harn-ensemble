@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Imperial Militia, class: serf, society: feudal, organizations: []}
+  occupation: Imperial Militia
 hm3:
   type: character
   attributes:

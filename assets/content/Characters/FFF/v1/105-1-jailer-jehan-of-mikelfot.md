@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffmilitary
-  social: {occupation: Jailer, class: freeman, society: feudal, organizations: []}
+  occupation: Jailer
 hm3:
   type: character
   attributes:

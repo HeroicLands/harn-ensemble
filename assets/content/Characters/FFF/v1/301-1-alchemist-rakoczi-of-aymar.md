@@ -23,7 +23,7 @@ data:
     extra_features: [Irrational, raving, mood swings, tremors, Moustache & beard]
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffguilded
-  social: {occupation: Alchemist, class: freeman, society: feudal, organizations: []}
+  occupation: Alchemist
 hm3:
   type: character
   attributes:

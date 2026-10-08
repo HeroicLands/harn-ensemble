@@ -22,7 +22,7 @@ data:
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Herald, class: noble, society: feudal, organizations: []}
+  occupation: Herald
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Strange accent]
   harnworld: {realm: "", ritual: [christian]}
   packFolder: fffnobles
-  social: {occupation: Tournament knight, class: noble, society: feudal, organizations: []}
+  occupation: Tournament knight
 hm3:
   type: character
   attributes:

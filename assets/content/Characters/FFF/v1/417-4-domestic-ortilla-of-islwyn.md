@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffunguilded
-  social: {occupation: Chief domestic, class: freeman, society: feudal, organizations: []}
+  occupation: Chief domestic
 hm3:
   type: character
   attributes:

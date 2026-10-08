@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Khuzdul Clansman, class: serf, society: feudal, organizations: []}
+  occupation: Khuzdul Clansman
 hm3:
   type: character
   attributes:

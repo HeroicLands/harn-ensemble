@@ -23,7 +23,7 @@ data:
     extra_features: [Scars on both cheeks, Beard, tribal tattoos]
   harnworld: {realm: "", ritual: []}
   packFolder: fffbarbarians
-  social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
+  occupation: Hunter
 hm3:
   type: character
   attributes:

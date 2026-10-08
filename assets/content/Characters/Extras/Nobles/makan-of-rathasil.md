@@ -22,7 +22,7 @@ data:
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Herald, class: serf, society: feudal, organizations: []}
+  occupation: Herald
 hm3:
   type: character
   attributes:

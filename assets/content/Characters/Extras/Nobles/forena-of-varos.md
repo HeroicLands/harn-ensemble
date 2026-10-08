@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Baliff, class: noble, society: feudal, organizations: []}
+  occupation: Baliff
 hm3:
   type: character
   attributes:

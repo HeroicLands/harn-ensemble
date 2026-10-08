@@ -23,7 +23,7 @@ data:
     extra_features: [Stutterer, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
-  social: {occupation: Shipwright, class: freeman, society: viking, organizations: []}
+  occupation: Shipwright
 hm3:
   type: character
   attributes:

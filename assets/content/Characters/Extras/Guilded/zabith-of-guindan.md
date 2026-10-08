@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Lexigrapher, class: unguilded, society: feudal, organizations: []}
+  occupation: Lexigrapher
 hm3:
   type: character
   attributes:

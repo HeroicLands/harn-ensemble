@@ -22,11 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
-  social:
-    occupation: Feudal Guardsman, Light
-    class: unguilded
-    society: feudal
-    organizations: []
+  occupation: Feudal Guardsman, Light
 hm3:
   type: character
   attributes:

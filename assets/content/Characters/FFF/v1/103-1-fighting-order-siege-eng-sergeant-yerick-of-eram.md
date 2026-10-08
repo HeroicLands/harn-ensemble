@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffmilitary
-  social: {occupation: Fighting Order (MF), class: freeman, society: feudal, organizations: []}
+  occupation: Fighting Order (MF)
 hm3:
   type: character
   attributes:

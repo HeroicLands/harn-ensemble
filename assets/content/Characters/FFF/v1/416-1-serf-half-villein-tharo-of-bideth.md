@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache, scrawny beard]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Half-Villein, class: serf, society: feudal, organizations: []}
+  occupation: Half-Villein
 hm3:
   type: character
   attributes:

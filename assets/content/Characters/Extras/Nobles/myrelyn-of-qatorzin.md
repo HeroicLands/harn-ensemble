@@ -22,11 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social:
-    occupation: Feudal Knight, Heavy
-    class: unguilded
-    society: feudal
-    organizations: []
+  occupation: Feudal Knight, Heavy
 hm3:
   type: character
   attributes:

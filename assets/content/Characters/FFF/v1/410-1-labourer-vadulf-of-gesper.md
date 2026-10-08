@@ -23,7 +23,7 @@ data:
     extra_features: [Stooped shoulders]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Labourer, class: freeman, society: feudal, organizations: []}
+  occupation: Labourer
 hm3:
   type: character
   attributes:

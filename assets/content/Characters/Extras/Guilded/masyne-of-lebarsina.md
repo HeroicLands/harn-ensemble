@@ -22,7 +22,7 @@ data:
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Charcoaler, class: guilded, society: feudal, organizations: []}
+  occupation: Charcoaler
 hm3:
   type: character
   attributes:

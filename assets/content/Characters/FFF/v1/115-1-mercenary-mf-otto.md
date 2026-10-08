@@ -23,7 +23,7 @@ data:
     extra_features: [Left handed]
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: fffmilitary
-  social: {occupation: Mercenary (MF), class: freeman, society: imperial, organizations: []}
+  occupation: Mercenary (MF)
 hm3:
   type: character
   attributes:

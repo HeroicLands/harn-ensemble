@@ -23,7 +23,7 @@ data:
     extra_features: [Cataracts]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Lexigrapher, class: freeman, society: feudal, organizations: []}
+  occupation: Lexigrapher
 hm3:
   type: character
   attributes:

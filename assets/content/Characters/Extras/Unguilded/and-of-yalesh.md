@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
   packFolder: extrasunguilded
-  social: {occupation: Shaman, class: unguilded, society: feudal, organizations: []}
+  occupation: Shaman
 hm3:
   type: character
   attributes:

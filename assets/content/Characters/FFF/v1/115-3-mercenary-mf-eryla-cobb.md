@@ -23,7 +23,7 @@ data:
     extra_features: [Crude, lecherous]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffmilitary
-  social: {occupation: Mercenary (MF), class: freeman, society: feudal, organizations: []}
+  occupation: Mercenary (MF)
 hm3:
   type: character
   attributes:

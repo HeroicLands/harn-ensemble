@@ -22,7 +22,7 @@ data:
     extra_features: ["*Epilepsy"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Potter, class: unguilded, society: feudal, organizations: []}
+  occupation: Potter
 hm3:
   type: character
   attributes:

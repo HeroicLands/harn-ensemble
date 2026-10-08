@@ -22,7 +22,7 @@ data:
     extra_features: [Several scars, a limp, Speaks very slowly]
   harnworld: {realm: "", ritual: [peoni, larani]}
   packFolder: fffunguilded
-  social: {occupation: Day labourer, class: freeman, society: feudal, organizations: []}
+  occupation: Day labourer
 hm3:
   type: character
   attributes:

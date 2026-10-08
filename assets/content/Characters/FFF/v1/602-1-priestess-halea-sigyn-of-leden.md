@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffclergy
-  social: {occupation: Shenasene, class: freeman, society: viking, organizations: []}
+  occupation: Shenasene
 hm3:
   type: character
   attributes:

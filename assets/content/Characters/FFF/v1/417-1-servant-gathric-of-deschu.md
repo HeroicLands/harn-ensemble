@@ -23,7 +23,7 @@ data:
     extra_features: [Left handed, Broken nose, scars]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Servant, class: freeman, society: feudal, organizations: []}
+  occupation: Servant
 hm3:
   type: character
   attributes:

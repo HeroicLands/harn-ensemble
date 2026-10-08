@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Falconer, class: freeman, society: feudal, organizations: []}
+  occupation: Falconer
 hm3:
   type: character
   attributes:

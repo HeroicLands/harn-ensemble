@@ -22,7 +22,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Morgath, class: noble, society: feudal, organizations: []}
+  occupation: Cleric/Morgath
 hm3:
   type: character
   attributes:

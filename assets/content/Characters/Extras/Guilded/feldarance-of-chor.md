@@ -22,7 +22,7 @@ data:
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Hideworker, class: serf, society: feudal, organizations: []}
+  occupation: Hideworker
 hm3:
   type: character
   attributes:

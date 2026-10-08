@@ -23,7 +23,7 @@ data:
     extra_features: [Overweight, Moustache, beard]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Chandler, class: freeman, society: imperial, organizations: []}
+  occupation: Chandler
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Feudal Militia, class: serf, society: feudal, organizations: []}
+  occupation: Feudal Militia
 hm3:
   type: character
   attributes:

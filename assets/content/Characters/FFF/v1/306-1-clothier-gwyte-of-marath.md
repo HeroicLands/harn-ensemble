@@ -23,7 +23,7 @@ data:
     extra_features: [Overweight, A purple birthmark on his right hand]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffguilded
-  social: {occupation: Clothier, class: freeman, society: feudal, organizations: []}
+  occupation: Clothier
 hm3:
   type: character
   attributes:

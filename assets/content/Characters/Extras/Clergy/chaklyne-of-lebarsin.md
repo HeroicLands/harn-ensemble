@@ -22,7 +22,7 @@ data:
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Siem, class: unguilded, society: feudal, organizations: []}
+  occupation: Cleric/Siem
 hm3:
   type: character
   attributes:

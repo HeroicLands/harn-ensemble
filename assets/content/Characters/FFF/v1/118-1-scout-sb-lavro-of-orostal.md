@@ -23,7 +23,7 @@ data:
     extra_features: [Reddish beard, moustache, bald]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffmilitary
-  social: {occupation: Scout (SB), class: serf, society: feudal, organizations: []}
+  occupation: Scout (SB)
 hm3:
   type: character
   attributes:

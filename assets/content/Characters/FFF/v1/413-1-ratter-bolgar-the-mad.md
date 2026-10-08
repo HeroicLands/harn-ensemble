@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Ratter, class: freeman ex-serf, society: feudal, organizations: []}
+  occupation: Ratter
 hm3:
   type: character
   attributes:

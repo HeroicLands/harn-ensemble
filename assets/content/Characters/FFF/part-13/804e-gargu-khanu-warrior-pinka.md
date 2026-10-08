@@ -23,7 +23,7 @@ data:
     extra_features: [Stooped posture, drooling, confused look]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
-  social: {occupation: Warrior, class: warrior, society: gargun (khanu), organizations: []}
+  occupation: Warrior
 hm3:
   type: character
   attributes:

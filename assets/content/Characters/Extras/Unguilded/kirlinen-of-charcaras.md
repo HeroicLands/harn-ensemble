@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Cartographer/Artist, class: unguilded, society: feudal, organizations: []}
+  occupation: Cartographer/Artist
 hm3:
   type: character
   attributes:

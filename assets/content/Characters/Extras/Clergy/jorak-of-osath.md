@@ -22,7 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Sarajin, class: serf, society: feudal, organizations: []}
+  occupation: Cleric/Sarajin
 hm3:
   type: character
   attributes:

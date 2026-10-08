@@ -22,7 +22,7 @@ data:
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Fisherman, class: unguilded, society: feudal, organizations: []}
+  occupation: Fisherman
 hm3:
   type: character
   attributes:

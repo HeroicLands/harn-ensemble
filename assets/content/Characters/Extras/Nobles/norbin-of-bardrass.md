@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Herald, class: unguilded, society: feudal, organizations: []}
+  occupation: Herald
 hm3:
   type: character
   attributes:

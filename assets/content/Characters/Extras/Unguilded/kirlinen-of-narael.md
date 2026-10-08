@@ -22,11 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Imperial Legionnaire, Light
-    class: serf
-    society: feudal
-    organizations: []
+  occupation: Imperial Legionnaire, Light
 hm3:
   type: character
   attributes:

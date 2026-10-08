@@ -22,11 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social:
-    occupation: Viking Huscarl, Light Horse
-    class: guilded
-    society: feudal
-    organizations: []
+  occupation: Viking Huscarl, Light Horse
 hm3:
   type: character
   attributes:

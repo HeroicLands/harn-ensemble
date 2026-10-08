@@ -23,7 +23,7 @@ data:
     extra_features: [Missing teeth, Smells bad]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Hideworker, class: freeman, society: feudal, organizations: []}
+  occupation: Hideworker
 hm3:
   type: character
   attributes:

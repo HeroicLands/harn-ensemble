@@ -23,7 +23,7 @@ data:
     extra_features: [Ambidextrous, Scar on right cheek, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
-  social: {occupation: Pilot, class: freeman, society: viking, organizations: []}
+  occupation: Pilot
 hm3:
   type: character
   attributes:

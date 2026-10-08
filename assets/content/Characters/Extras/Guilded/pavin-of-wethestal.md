@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Salter, class: noble, society: feudal, organizations: []}
+  occupation: Salter
 hm3:
   type: character
   attributes:

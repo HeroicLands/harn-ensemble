@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Herald, class: unguilded, society: feudal, organizations: []}
+  occupation: Herald
 hm3:
   type: character
   attributes:

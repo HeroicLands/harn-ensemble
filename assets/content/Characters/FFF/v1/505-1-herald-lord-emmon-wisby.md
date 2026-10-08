@@ -23,7 +23,7 @@ data:
     extra_features: [Limp, Moustache, beard]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
-  social: {occupation: Herald, class: noble, society: feudal, organizations: []}
+  occupation: Herald
 hm3:
   type: character
   attributes:

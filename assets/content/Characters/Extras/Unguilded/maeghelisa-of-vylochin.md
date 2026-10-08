@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Feudal Militia, class: serf, society: feudal, organizations: []}
+  occupation: Feudal Militia
 hm3:
   type: character
   attributes:

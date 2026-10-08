@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache & short goatee]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffclergy
-  social: {occupation: Priest of Siem, class: freeman, society: feudal, organizations: []}
+  occupation: Priest of Siem
 hm3:
   type: character
   attributes:

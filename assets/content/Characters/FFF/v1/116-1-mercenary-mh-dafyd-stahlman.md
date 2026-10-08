@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: fffmilitary
-  social: {occupation: Mercenary (MH), class: noble, society: feudal, organizations: []}
+  occupation: Mercenary (MH)
 hm3:
   type: character
   attributes:

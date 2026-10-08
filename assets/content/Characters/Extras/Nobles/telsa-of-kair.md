@@ -22,11 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social:
-    occupation: Viking Huscarl, Medium Foot
-    class: guilded
-    society: feudal
-    organizations: []
+  occupation: Viking Huscarl, Medium Foot
 hm3:
   type: character
   attributes:

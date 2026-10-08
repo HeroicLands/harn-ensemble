@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache, goatee]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Mason, class: freeman, society: feudal, organizations: []}
+  occupation: Mason
 hm3:
   type: character
   attributes:

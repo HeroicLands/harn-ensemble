@@ -22,7 +22,7 @@ data:
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Ostler, class: noble, society: feudal, organizations: []}
+  occupation: Ostler
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Patrician, class: unguilded, society: feudal, organizations: []}
+  occupation: Patrician
 hm3:
   type: character
   attributes:

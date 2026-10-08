@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Innkeeper, class: freeman, society: feudal, organizations: []}
+  occupation: Innkeeper
 hm3:
   type: character
   attributes:

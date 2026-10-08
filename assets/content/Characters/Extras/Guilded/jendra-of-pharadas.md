@@ -22,7 +22,7 @@ data:
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Ostler, class: serf, society: feudal, organizations: []}
+  occupation: Ostler
 hm3:
   type: character
   attributes:

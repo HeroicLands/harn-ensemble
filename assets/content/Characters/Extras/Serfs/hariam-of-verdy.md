@@ -22,7 +22,7 @@ data:
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
-  social: {occupation: Gladiator, class: serf, society: feudal, organizations: []}
+  occupation: Gladiator
 hm3:
   type: character
   attributes:

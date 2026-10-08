@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache & beard]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffguilded
-  social: {occupation: Miller, class: freeman, society: feudal, organizations: []}
+  occupation: Miller
 hm3:
   type: character
   attributes:

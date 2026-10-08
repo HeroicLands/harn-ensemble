@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Shipwright, class: unguilded, society: feudal, organizations: []}
+  occupation: Shipwright
 hm3:
   type: character
   attributes:

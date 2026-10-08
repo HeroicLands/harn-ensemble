@@ -23,7 +23,7 @@ data:
     extra_features: [Neat beard]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
-  social: {occupation: Mercantyler, class: freeman, society: viking, organizations: []}
+  occupation: Mercantyler
 hm3:
   type: character
   attributes:

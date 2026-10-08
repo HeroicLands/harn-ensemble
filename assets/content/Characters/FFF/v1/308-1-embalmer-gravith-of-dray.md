@@ -23,7 +23,7 @@ data:
     extra_features: [Limp, right leg, Slight stoop]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
-  social: {occupation: Embalmer, class: freeman, society: feudal, organizations: []}
+  occupation: Embalmer
 hm3:
   type: character
   attributes:

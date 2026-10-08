@@ -23,7 +23,7 @@ data:
     extra_features: [Beard kilt, Khuzdul- made scale armor, axe, fine cloak]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
-  social: {occupation: King, class: king, society: gargun (viasal), organizations: []}
+  occupation: King
 hm3:
   type: character
   attributes:

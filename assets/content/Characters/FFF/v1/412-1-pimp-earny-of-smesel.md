@@ -23,7 +23,7 @@ data:
     extra_features: [Ringworm, missing his front teeth, Very violent]
   harnworld: {realm: "", ritual: []}
   packFolder: fffunguilded
-  social: {occupation: Pimp, class: freeman, society: feudal, organizations: []}
+  occupation: Pimp
 hm3:
   type: character
   attributes:

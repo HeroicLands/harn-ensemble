@@ -22,11 +22,7 @@ data:
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Imperial Legionnaire, Light
-    class: unguilded
-    society: feudal
-    organizations: []
+  occupation: Imperial Legionnaire, Light
 hm3:
   type: character
   attributes:

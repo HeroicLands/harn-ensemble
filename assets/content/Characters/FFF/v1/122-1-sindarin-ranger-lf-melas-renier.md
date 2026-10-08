@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary
-  social: {occupation: Ranger, class: freeman, society: feudal, organizations: []}
+  occupation: Ranger
 hm3:
   type: character
   attributes:

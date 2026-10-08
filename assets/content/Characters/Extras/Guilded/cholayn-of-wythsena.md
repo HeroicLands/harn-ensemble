@@ -22,7 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Seaman, class: serf, society: feudal, organizations: []}
+  occupation: Seaman
 hm3:
   type: character
   attributes:

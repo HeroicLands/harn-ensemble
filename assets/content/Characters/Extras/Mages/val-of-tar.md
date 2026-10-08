@@ -22,7 +22,7 @@ data:
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
-  social: {occupation: "Shek-Pvar/Lyahvi*****", class: guilded, society: feudal, organizations: []}
+  occupation: Shek-Pvar/Lyahvi*****
 hm3:
   type: character
   attributes:

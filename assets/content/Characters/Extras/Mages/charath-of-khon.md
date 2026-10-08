@@ -22,11 +22,7 @@ data:
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
-  social:
-    occupation: "Shek-Pvar/Savorya*****"
-    class: guilded
-    society: feudal
-    organizations: []
+  occupation: Shek-Pvar/Savorya*****
 hm3:
   type: character
   attributes:
