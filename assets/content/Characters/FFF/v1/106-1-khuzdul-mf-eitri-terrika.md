@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache & beard]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary
-  social: {occupation: Clansman (MF), class: freeman, society: khuzdul, organizations: []}
+  occupation: Clansman (MF)
 hm3:
   type: character
   attributes:

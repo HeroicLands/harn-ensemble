@@ -22,7 +22,7 @@ data:
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Astrologer, class: unguilded, society: feudal, organizations: []}
+  occupation: Astrologer
 hm3:
   type: character
   attributes:

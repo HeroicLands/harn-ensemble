@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
-  social: {occupation: Steward, class: freeman, society: feudal, organizations: []}
+  occupation: Steward
 hm3:
   type: character
   attributes:

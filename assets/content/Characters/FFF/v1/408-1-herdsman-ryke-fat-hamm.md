@@ -23,7 +23,7 @@ data:
     extra_features: [Hunchback, Beard, moustache]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Herdsman/Beggar, class: freeman, society: feudal, organizations: []}
+  occupation: Herdsman/Beggar
 hm3:
   type: character
   attributes:

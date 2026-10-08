@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Hideworker, class: unguilded, society: feudal, organizations: []}
+  occupation: Hideworker
 hm3:
   type: character
   attributes:

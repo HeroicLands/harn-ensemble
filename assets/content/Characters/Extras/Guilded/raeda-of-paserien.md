@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Courtesan, class: serf, society: feudal, organizations: []}
+  occupation: Courtesan
 hm3:
   type: character
   attributes:

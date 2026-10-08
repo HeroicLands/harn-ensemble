@@ -22,7 +22,7 @@ data:
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Larani, class: serf, society: feudal, organizations: []}
+  occupation: Cleric/Larani
 hm3:
   type: character
   attributes:

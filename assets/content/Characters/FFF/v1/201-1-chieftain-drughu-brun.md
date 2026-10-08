@@ -23,7 +23,7 @@ data:
     extra_features: [Parasites (Fleas), Several large tattoos]
   harnworld: {realm: "", ritual: [yavanna]}
   packFolder: fffbarbarians
-  social: {occupation: Chieftain, class: tribesman, society: tribal, organizations: []}
+  occupation: Chieftain
 hm3:
   type: character
   attributes:

@@ -22,11 +22,7 @@ data:
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Feudal Guardsman, Heavy
-    class: guilded
-    society: feudal
-    organizations: []
+  occupation: Feudal Guardsman, Heavy
 hm3:
   type: character
   attributes:

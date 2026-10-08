@@ -22,7 +22,7 @@ data:
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Harper/Skald, class: serf, society: feudal, organizations: []}
+  occupation: Harper/Skald
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Chieftan, class: unguilded, society: feudal, organizations: []}
+  occupation: Chieftan
 hm3:
   type: character
   attributes:

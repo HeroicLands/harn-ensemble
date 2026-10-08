@@ -23,7 +23,7 @@ data:
     extra_features: [Able Seaman's tattoo]
   harnworld: {realm: "", ritual: [peoni, eder]}
   packFolder: fffguilded
-  social: {occupation: Seaman, class: freeman, society: feudal, organizations: []}
+  occupation: Seaman
 hm3:
   type: character
   attributes:

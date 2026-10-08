@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [naveh, peoni]}
   packFolder: fffclergy
-  social: {occupation: Navehan Priestess, class: freeman, society: feudal, organizations: []}
+  occupation: Navehan Priestess
 hm3:
   type: character
   attributes:

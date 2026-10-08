@@ -22,7 +22,7 @@ data:
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Morgath, class: serf, society: feudal, organizations: []}
+  occupation: Cleric/Morgath
 hm3:
   type: character
   attributes:

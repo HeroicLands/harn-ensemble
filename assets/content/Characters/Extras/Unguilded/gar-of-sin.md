@@ -22,7 +22,7 @@ data:
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Thatcher, class: serf, society: feudal, organizations: []}
+  occupation: Thatcher
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Scribe, class: serf, society: feudal, organizations: []}
+  occupation: Scribe
 hm3:
   type: character
   attributes:

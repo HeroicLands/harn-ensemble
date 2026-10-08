@@ -23,7 +23,7 @@ data:
     extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [peoni, sarajin]}
   packFolder: fffmilitary
-  social: {occupation: Yeoman (LB), class: freeman, society: feudal, organizations: []}
+  occupation: Yeoman (LB)
 hm3:
   type: character
   attributes:

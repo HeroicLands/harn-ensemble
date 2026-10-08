@@ -23,7 +23,7 @@ data:
     extra_features: [Parasites (lice), Stammers a lot, very unsure of himself, bows to everyone]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffmilitary
-  social: {occupation: Yeoman (SB), class: freeman, society: feudal, organizations: []}
+  occupation: Yeoman (SB)
 hm3:
   type: character
   attributes:

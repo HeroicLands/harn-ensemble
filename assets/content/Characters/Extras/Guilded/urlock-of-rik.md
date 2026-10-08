@@ -22,7 +22,7 @@ data:
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Lexigrapher, class: serf, society: feudal, organizations: []}
+  occupation: Lexigrapher
 hm3:
   type: character
   attributes:

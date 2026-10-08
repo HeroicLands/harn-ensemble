@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffguilded
-  social: {occupation: Other (Guild) - Child, class: freeman, society: feudal, organizations: []}
+  occupation: Other (Guild) - Child
 hm3:
   type: character
   attributes:

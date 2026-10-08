@@ -23,7 +23,7 @@ data:
     extra_features: [Deformed left leg]
   harnworld: {realm: "", ritual: ["custom|Ymodi", sarajin]}
   packFolder: fffbarbarians
-  social: {occupation: Hunter, class: tribesman, society: tribal, organizations: []}
+  occupation: Hunter
 hm3:
   type: character
   attributes:

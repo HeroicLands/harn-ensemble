@@ -22,11 +22,7 @@ data:
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social:
-    occupation: Viking Huscarl, Medium Foot
-    class: serf
-    society: feudal
-    organizations: []
+  occupation: Viking Huscarl, Medium Foot
 hm3:
   type: character
   attributes:

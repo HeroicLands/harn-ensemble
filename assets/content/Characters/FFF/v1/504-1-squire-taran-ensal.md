@@ -23,7 +23,7 @@ data:
     extra_features: [Freckles]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnobles
-  social: {occupation: Squire, class: noble, society: feudal, organizations: []}
+  occupation: Squire
 hm3:
   type: character
   attributes:

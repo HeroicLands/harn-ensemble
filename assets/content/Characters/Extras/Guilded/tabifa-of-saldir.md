@@ -22,7 +22,7 @@ data:
     extra_features: [Sterile]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Pilot, class: guilded, society: feudal, organizations: []}
+  occupation: Pilot
 hm3:
   type: character
   attributes:

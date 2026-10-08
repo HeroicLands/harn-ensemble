@@ -23,7 +23,7 @@ data:
     extra_features: [Pox marks]
   harnworld: {realm: "", ritual: []}
   packFolder: fffunguilded
-  social: {occupation: Brigand, class: serf, society: feudal, organizations: []}
+  occupation: Brigand
 hm3:
   type: character
   attributes:

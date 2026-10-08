@@ -22,7 +22,7 @@ data:
     extra_features: [Dwarfism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Timberwright, class: noble, society: feudal, organizations: []}
+  occupation: Timberwright
 hm3:
   type: character
   attributes:

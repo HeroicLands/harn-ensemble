@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [larani, halea]}
   packFolder: fffunguilded
-  social: {occupation: Forester, class: freeman, society: feudal, organizations: []}
+  occupation: Forester
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Shipwright, class: serf, society: feudal, organizations: []}
+  occupation: Shipwright
 hm3:
   type: character
   attributes:

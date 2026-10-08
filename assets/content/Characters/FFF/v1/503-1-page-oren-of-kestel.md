@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
-  social: {occupation: Page, class: freeman, society: feudal, organizations: []}
+  occupation: Page
 hm3:
   type: character
   attributes:

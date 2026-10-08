@@ -22,7 +22,7 @@ data:
     extra_features: ["*Poxmarks (healed)"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Glassworker, class: serf, society: feudal, organizations: []}
+  occupation: Glassworker
 hm3:
   type: character
   attributes:

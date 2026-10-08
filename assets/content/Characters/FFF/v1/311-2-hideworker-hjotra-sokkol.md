@@ -23,7 +23,7 @@ data:
     extra_features: [Crooked left forearm]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
-  social: {occupation: Hideworker, class: freeman, society: viking, organizations: []}
+  occupation: Hideworker
 hm3:
   type: character
   attributes:

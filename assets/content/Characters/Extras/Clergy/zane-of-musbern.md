@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Naveh, class: unguilded, society: feudal, organizations: []}
+  occupation: Cleric/Naveh
 hm3:
   type: character
   attributes:

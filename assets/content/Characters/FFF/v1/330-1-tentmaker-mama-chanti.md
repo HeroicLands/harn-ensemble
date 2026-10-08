@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
-  social: {occupation: Tentmaker, class: freeman, society: feudal, organizations: []}
+  occupation: Tentmaker
 hm3:
   type: character
   attributes:

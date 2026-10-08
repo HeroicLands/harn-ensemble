@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Perfumer, class: noble, society: feudal, organizations: []}
+  occupation: Perfumer
 hm3:
   type: character
   attributes:

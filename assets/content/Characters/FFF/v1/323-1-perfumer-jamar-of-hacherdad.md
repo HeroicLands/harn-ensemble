@@ -23,7 +23,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [nalma]}
   packFolder: fffguilded
-  social: {occupation: Perfumer, class: freeman, society: feudal, organizations: []}
+  occupation: Perfumer
 hm3:
   type: character
   attributes:

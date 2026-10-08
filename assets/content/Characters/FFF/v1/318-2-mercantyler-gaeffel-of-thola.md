@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
-  social: {occupation: Mercantyler, class: freeman, society: feudal, organizations: []}
+  occupation: Mercantyler
 hm3:
   type: character
   attributes:

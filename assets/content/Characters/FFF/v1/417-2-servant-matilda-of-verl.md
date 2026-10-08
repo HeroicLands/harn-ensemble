@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Household Cook, class: freeman, society: feudal, organizations: []}
+  occupation: Household Cook
 hm3:
   type: character
   attributes:

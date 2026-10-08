@@ -23,7 +23,7 @@ data:
     extra_features: [Hay fever, Missing his front tooth]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffmilitary
-  social: {occupation: Man-at-Arms (LF), class: freeman, society: feudal, organizations: []}
+  occupation: Man-at-Arms (LF)
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffmilitary
-  social: {occupation: Yeoman (LF), class: freeman, society: feudal, organizations: []}
+  occupation: Yeoman (LF)
 hm3:
   type: character
   attributes:

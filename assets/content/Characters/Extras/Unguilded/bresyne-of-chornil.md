@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Ratter, class: unguilded, society: feudal, organizations: []}
+  occupation: Ratter
 hm3:
   type: character
   attributes:

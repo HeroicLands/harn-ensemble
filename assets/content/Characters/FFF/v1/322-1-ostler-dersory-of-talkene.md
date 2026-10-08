@@ -23,7 +23,7 @@ data:
     extra_features: [Obese, Left-handed]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
-  social: {occupation: Ostler, class: freeman, society: feudal, organizations: []}
+  occupation: Ostler
 hm3:
   type: character
   attributes:

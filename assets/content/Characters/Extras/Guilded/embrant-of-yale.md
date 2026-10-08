@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Litigant, class: guilded, society: feudal, organizations: []}
+  occupation: Litigant
 hm3:
   type: character
   attributes:

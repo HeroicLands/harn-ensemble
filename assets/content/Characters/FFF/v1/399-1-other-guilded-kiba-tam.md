@@ -23,7 +23,7 @@ data:
     extra_features: [Sometimes speaks in nonsense sentences]
   harnworld: {realm: "", ritual: [halea, agrik]}
   packFolder: fffguilded
-  social: {occupation: Guildsman's offspring, class: freeman, society: viking, organizations: []}
+  occupation: Guildsman's offspring
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Baliff, class: serf, society: feudal, organizations: []}
+  occupation: Baliff
 hm3:
   type: character
   attributes:

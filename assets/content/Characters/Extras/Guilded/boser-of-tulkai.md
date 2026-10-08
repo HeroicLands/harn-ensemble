@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Apothecary, class: guilded, society: feudal, organizations: []}
+  occupation: Apothecary
 hm3:
   type: character
   attributes:

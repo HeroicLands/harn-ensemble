@@ -22,7 +22,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Hunter/Trapper, class: unguilded, society: feudal, organizations: []}
+  occupation: Hunter/Trapper
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Charcoaler, class: freeman, society: feudal, organizations: []}
+  occupation: Charcoaler
 hm3:
   type: character
   attributes:

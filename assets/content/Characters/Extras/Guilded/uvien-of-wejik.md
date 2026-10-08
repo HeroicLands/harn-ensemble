@@ -22,7 +22,7 @@ data:
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Perfumer, class: unguilded, society: feudal, organizations: []}
+  occupation: Perfumer
 hm3:
   type: character
   attributes:

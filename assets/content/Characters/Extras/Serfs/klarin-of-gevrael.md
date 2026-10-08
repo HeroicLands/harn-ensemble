@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
-  social: {occupation: Gladiator, class: unguilded, society: feudal, organizations: []}
+  occupation: Gladiator
 hm3:
   type: character
   attributes:

@@ -21,7 +21,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
-  social: {occupation: Warrior, class: warrior, society: gargun, organizations: []}
+  occupation: Warrior
 hm3:
   type: character
   attributes:

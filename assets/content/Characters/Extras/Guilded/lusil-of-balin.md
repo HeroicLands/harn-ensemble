@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Salter, class: serf, society: feudal, organizations: []}
+  occupation: Salter
 hm3:
   type: character
   attributes:

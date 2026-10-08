@@ -22,7 +22,7 @@ data:
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Perfumer, class: unguilded, society: feudal, organizations: []}
+  occupation: Perfumer
 hm3:
   type: character
   attributes:

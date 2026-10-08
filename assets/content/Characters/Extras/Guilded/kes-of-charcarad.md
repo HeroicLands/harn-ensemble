@@ -22,7 +22,7 @@ data:
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Woodcrafter, class: serf, society: feudal, organizations: []}
+  occupation: Woodcrafter
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [larani, peoni]}
   packFolder: fffmilitary
-  social: {occupation: Mercenary (LF), class: freeman, society: feudal, organizations: []}
+  occupation: Mercenary (LF)
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Thespian, class: serf, society: feudal, organizations: []}
+  occupation: Thespian
 hm3:
   type: character
   attributes:

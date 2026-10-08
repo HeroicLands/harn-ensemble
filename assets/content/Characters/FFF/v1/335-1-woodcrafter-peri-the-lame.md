@@ -23,7 +23,7 @@ data:
     extra_features: [Lame right foot]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Woodcrafter, class: freeman, society: feudal, organizations: []}
+  occupation: Woodcrafter
 hm3:
   type: character
   attributes:

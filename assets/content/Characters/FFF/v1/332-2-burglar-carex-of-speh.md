@@ -23,7 +23,7 @@ data:
     extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Lia-Kavair, class: freeman, society: feudal, organizations: []}
+  occupation: Lia-Kavair
 hm3:
   type: character
   attributes:

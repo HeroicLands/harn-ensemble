@@ -23,7 +23,7 @@ data:
     extra_features: [Missing a front tooth]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffnobles
-  social: {occupation: Patrician Knight, class: noble, society: imperial, organizations: []}
+  occupation: Patrician Knight
 hm3:
   type: character
   attributes:

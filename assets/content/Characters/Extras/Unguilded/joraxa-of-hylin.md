@@ -22,7 +22,7 @@ data:
     extra_features: ["*Hemophilia"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Sage/Tutor, class: noble, society: feudal, organizations: []}
+  occupation: Sage/Tutor
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Scribe, class: freeman, society: feudal, organizations: []}
+  occupation: Scribe
 hm3:
   type: character
   attributes:

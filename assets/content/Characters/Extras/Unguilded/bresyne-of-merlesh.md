@@ -22,7 +22,7 @@ data:
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
   packFolder: extrasunguilded
-  social: {occupation: Shaman, class: serf, society: feudal, organizations: []}
+  occupation: Shaman
 hm3:
   type: character
   attributes:

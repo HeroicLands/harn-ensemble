@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Embalmer, class: serf, society: feudal, organizations: []}
+  occupation: Embalmer
 hm3:
   type: character
   attributes:

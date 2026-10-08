@@ -22,7 +22,7 @@ data:
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Beggar, class: serf, society: feudal, organizations: []}
+  occupation: Beggar
 hm3:
   type: character
   attributes:

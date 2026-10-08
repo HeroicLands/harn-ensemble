@@ -22,7 +22,7 @@ data:
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Naveh, class: guilded, society: feudal, organizations: []}
+  occupation: Cleric/Naveh
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Innkeeper, class: unguilded, society: feudal, organizations: []}
+  occupation: Innkeeper
 hm3:
   type: character
   attributes:

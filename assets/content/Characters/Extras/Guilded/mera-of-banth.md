@@ -22,7 +22,7 @@ data:
     extra_features: ["*Parasites"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Metalsmith, class: serf, society: feudal, organizations: []}
+  occupation: Metalsmith
 hm3:
   type: character
   attributes:

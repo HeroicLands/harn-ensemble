@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Patrician, class: serf, society: feudal, organizations: []}
+  occupation: Patrician
 hm3:
   type: character
   attributes:

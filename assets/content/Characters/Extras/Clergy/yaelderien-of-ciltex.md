@@ -22,7 +22,7 @@ data:
     extra_features: [One Leg Missing/Deformed]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Peoni, class: serf, society: feudal, organizations: []}
+  occupation: Cleric/Peoni
 hm3:
   type: character
   attributes:

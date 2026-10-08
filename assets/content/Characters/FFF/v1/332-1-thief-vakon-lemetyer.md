@@ -23,7 +23,7 @@ data:
     extra_features: [Birthmark]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Thief, class: freeman, society: feudal, organizations: []}
+  occupation: Thief
 hm3:
   type: character
   attributes:

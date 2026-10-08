@@ -22,7 +22,7 @@ data:
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: "Feudal Yeoman, Longbow", class: serf, society: feudal, organizations: []}
+  occupation: Feudal Yeoman, Longbow
 hm3:
   type: character
   attributes:

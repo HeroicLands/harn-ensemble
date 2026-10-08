@@ -22,7 +22,7 @@ data:
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Animal Trainer, class: guilded, society: feudal, organizations: []}
+  occupation: Animal Trainer
 hm3:
   type: character
   attributes:

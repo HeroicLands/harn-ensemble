@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffmilitary
-  social: {occupation: Legionnaire (LF), class: freeman, society: imperial, organizations: []}
+  occupation: Legionnaire (LF)
 hm3:
   type: character
   attributes:

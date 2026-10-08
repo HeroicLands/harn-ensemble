@@ -23,7 +23,7 @@ data:
     extra_features: [Dark complexion, long curly hair]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary
-  social: {occupation: Yeoman (SB), class: freeman, society: feudal, organizations: []}
+  occupation: Yeoman (SB)
 hm3:
   type: character
   attributes:

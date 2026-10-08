@@ -20,7 +20,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [urklam]}
   packFolder: fffnonhumans
-  social: {occupation: Hunter, class: n/a, society: ogre, organizations: []}
+  occupation: Hunter
 hm3:
   type: character
   attributes:

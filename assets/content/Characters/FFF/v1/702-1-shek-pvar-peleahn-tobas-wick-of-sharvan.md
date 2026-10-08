@@ -23,7 +23,7 @@ data:
     extra_features: [Burn scars on his hands, left side of his face]
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffmages
-  social: {occupation: Peleahn Shek-Pvar, class: freeman, society: feudal, organizations: []}
+  occupation: Peleahn Shek-Pvar
 hm3:
   type: character
   attributes:

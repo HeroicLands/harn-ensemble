@@ -23,7 +23,7 @@ data:
     extra_features: [Expensive, foppish clothes]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
-  social: {occupation: Noble Offspring, class: noble, society: feudal, organizations: []}
+  occupation: Noble Offspring
 hm3:
   type: character
   attributes:

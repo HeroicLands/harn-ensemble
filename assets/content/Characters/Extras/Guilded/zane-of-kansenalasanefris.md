@@ -22,7 +22,7 @@ data:
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Mercantyler, class: serf, society: feudal, organizations: []}
+  occupation: Mercantyler
 hm3:
   type: character
   attributes:

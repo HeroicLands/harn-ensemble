@@ -23,7 +23,7 @@ data:
     extra_features: [Very quick, agile]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffguilded
-  social: {occupation: Unguilded thief, class: freeman, society: feudal, organizations: []}
+  occupation: Unguilded thief
 hm3:
   type: character
   attributes:

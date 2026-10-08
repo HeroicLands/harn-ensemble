@@ -22,7 +22,7 @@ data:
     extra_features: [Allergy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Sindarin Horsebow, class: serf, society: feudal, organizations: []}
+  occupation: Sindarin Horsebow
 hm3:
   type: character
   attributes:

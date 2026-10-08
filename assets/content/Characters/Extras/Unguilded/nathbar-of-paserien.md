@@ -22,7 +22,7 @@ data:
     extra_features: [One Eye Missing/Blind]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Gladiator, class: serf, society: feudal, organizations: []}
+  occupation: Gladiator
 hm3:
   type: character
   attributes:

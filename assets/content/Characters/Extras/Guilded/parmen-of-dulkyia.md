@@ -22,7 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Metalsmith, class: guilded, society: feudal, organizations: []}
+  occupation: Metalsmith
 hm3:
   type: character
   attributes:

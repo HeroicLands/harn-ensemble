@@ -22,7 +22,7 @@ data:
     extra_features: [One Ear Missing/Deaf]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
-  social: {occupation: Herdsman, class: serf, society: feudal, organizations: []}
+  occupation: Herdsman
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Mercantyler, class: unguilded, society: feudal, organizations: []}
+  occupation: Mercantyler
 hm3:
   type: character
   attributes:

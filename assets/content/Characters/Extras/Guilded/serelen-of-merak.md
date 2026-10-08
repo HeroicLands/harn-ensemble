@@ -22,7 +22,7 @@ data:
     extra_features: [Albinism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Potter, class: guilded, society: feudal, organizations: []}
+  occupation: Potter
 hm3:
   type: character
   attributes:

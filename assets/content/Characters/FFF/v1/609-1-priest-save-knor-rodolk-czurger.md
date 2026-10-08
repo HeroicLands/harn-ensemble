@@ -23,7 +23,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [saveknor, agrik, morgath, naveh]}
   packFolder: fffclergy
-  social: {occupation: Priest of Save K'nor, class: freeman, society: feudal, organizations: []}
+  occupation: Priest of Save K'nor
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Teamster, class: serf, society: feudal, organizations: []}
+  occupation: Teamster
 hm3:
   type: character
   attributes:

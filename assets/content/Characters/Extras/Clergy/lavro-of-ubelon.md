@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Peoni, class: guilded, society: feudal, organizations: []}
+  occupation: Cleric/Peoni
 hm3:
   type: character
   attributes:

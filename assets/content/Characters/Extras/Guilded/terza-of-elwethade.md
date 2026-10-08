@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Weaponcrafter, class: guilded, society: feudal, organizations: []}
+  occupation: Weaponcrafter
 hm3:
   type: character
   attributes:

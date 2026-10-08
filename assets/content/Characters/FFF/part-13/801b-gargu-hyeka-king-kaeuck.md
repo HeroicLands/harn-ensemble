@@ -23,7 +23,7 @@ data:
     extra_features: [Wheezing, Belt of human hands, human hair tassels]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
-  social: {occupation: King, class: king, society: gargun (hyeka), organizations: []}
+  occupation: King
 hm3:
   type: character
   attributes:

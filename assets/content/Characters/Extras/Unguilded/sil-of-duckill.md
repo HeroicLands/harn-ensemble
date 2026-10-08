@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Hunter/Trapper, class: serf, society: feudal, organizations: []}
+  occupation: Hunter/Trapper
 hm3:
   type: character
   attributes:

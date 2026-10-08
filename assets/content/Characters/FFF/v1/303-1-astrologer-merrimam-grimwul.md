@@ -23,7 +23,7 @@ data:
     extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffguilded
-  social: {occupation: Astrologer, class: freeman, society: feudal, organizations: []}
+  occupation: Astrologer
 hm3:
   type: character
   attributes:

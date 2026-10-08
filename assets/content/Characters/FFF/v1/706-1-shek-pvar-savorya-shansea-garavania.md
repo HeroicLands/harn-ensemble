@@ -23,7 +23,7 @@ data:
     extra_features: [Foreign accent]
   harnworld: {realm: "", ritual: []}
   packFolder: fffmages
-  social: {occupation: Savoryan Shek-Pvar, class: noble, society: feudal, organizations: []}
+  occupation: Savoryan Shek-Pvar
 hm3:
   type: character
   attributes:

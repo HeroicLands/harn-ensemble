@@ -22,7 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Animal Trainer, class: serf, society: feudal, organizations: []}
+  occupation: Animal Trainer
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Lycanthropy]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Cartographer/Artist, class: guilded, society: feudal, organizations: []}
+  occupation: Cartographer/Artist
 hm3:
   type: character
   attributes:

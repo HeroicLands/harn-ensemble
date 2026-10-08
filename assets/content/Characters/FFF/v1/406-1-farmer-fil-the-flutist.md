@@ -23,7 +23,7 @@ data:
     extra_features: [Beard]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Farmer, class: freeman, society: feudal, organizations: []}
+  occupation: Farmer
 hm3:
   type: character
   attributes:

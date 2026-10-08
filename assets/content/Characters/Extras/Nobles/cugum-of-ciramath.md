@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Sindarin Knight, class: serf, society: feudal, organizations: []}
+  occupation: Sindarin Knight
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
-  social: {occupation: Farmer, class: serf, society: feudal, organizations: []}
+  occupation: Farmer
 hm3:
   type: character
   attributes:

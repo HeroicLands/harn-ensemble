@@ -23,7 +23,7 @@ data:
     extra_features: [Extensive scars on his legs]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffmilitary
-  social: {occupation: Manservant, class: freeman ex-slave, society: imperial, organizations: []}
+  occupation: Manservant
 hm3:
   type: character
   attributes:

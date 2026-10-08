@@ -23,7 +23,7 @@ data:
     extra_features: [Pallid complexion, Bad breath]
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: fffnobles
-  social: {occupation: Knight Bachelor (MH), class: noble, society: feudal, organizations: []}
+  occupation: Knight Bachelor (MH)
 hm3:
   type: character
   attributes:

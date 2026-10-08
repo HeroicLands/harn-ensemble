@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Thief, class: serf, society: feudal, organizations: []}
+  occupation: Thief
 hm3:
   type: character
   attributes:

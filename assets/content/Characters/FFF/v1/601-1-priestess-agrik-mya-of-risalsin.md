@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: fffclergy
-  social: {occupation: Agrikan Priestess, class: noble, society: feudal, organizations: []}
+  occupation: Agrikan Priestess
 hm3:
   type: character
   attributes:

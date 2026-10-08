@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffnobles
-  social: {occupation: Patrician, class: noble, society: imperial, organizations: []}
+  occupation: Patrician
 hm3:
   type: character
   attributes:

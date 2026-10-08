@@ -22,7 +22,7 @@ data:
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Sage/Tutor, class: unguilded, society: feudal, organizations: []}
+  occupation: Sage/Tutor
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: [Persistent cough, Trembling hands]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
-  social: {occupation: Bailiff, class: noble, society: feudal, organizations: []}
+  occupation: Bailiff
 hm3:
   type: character
   attributes:

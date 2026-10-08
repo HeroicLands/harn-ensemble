@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Animal Trainer, class: freeman, society: feudal, organizations: []}
+  occupation: Animal Trainer
 hm3:
   type: character
   attributes:

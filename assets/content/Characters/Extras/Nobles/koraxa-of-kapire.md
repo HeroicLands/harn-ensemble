@@ -22,7 +22,7 @@ data:
     extra_features: [Monochromasia]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Chieftan, class: serf, society: feudal, organizations: []}
+  occupation: Chieftan
 hm3:
   type: character
   attributes:

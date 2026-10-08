@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
-  social: {occupation: Herdsman, class: noble, society: feudal, organizations: []}
+  occupation: Herdsman
 hm3:
   type: character
   attributes:

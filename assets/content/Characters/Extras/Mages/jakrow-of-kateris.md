@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
-  social: {occupation: "Shek-Pvar/Jmorvi****", class: serf, society: feudal, organizations: []}
+  occupation: Shek-Pvar/Jmorvi****
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: [Pox marks, parasites, dwarfism]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Labourer, class: freeman ex-slave, society: viking, organizations: []}
+  occupation: Labourer
 hm3:
   type: character
   attributes:

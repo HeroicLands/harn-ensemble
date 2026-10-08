@@ -22,7 +22,7 @@ data:
     extra_features: ["*Leprosy"]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social: {occupation: Patrician, class: guilded, society: feudal, organizations: []}
+  occupation: Patrician
 hm3:
   type: character
   attributes:

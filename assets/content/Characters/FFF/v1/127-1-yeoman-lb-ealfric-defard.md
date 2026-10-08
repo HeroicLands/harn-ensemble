@@ -23,7 +23,7 @@ data:
     extra_features: [Scar (right forearm), Moustache]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffmilitary
-  social: {occupation: Yeoman Archer, class: freeman, society: feudal, organizations: []}
+  occupation: Yeoman Archer
 hm3:
   type: character
   attributes:

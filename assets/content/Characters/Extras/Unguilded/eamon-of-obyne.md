@@ -22,11 +22,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social:
-    occupation: Feudal Yeoman, Longbow
-    class: guilded
-    society: feudal
-    organizations: []
+  occupation: Feudal Yeoman, Longbow
 hm3:
   type: character
   attributes:

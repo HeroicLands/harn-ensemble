@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
-  social: {occupation: Thespian, class: freeman, society: feudal, organizations: []}
+  occupation: Thespian
 hm3:
   type: character
   attributes:

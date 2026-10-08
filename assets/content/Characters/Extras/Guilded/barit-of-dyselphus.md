@@ -22,7 +22,7 @@ data:
     extra_features: [Ambidexterous]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Apothecary, class: noble, society: feudal, organizations: []}
+  occupation: Apothecary
 hm3:
   type: character
   attributes:

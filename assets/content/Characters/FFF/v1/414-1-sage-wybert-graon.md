@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [larani, saveknor]}
   packFolder: fffunguilded
-  social: {occupation: Sage/Tutor, class: freeman, society: feudal, organizations: []}
+  occupation: Sage/Tutor
 hm3:
   type: character
   attributes:

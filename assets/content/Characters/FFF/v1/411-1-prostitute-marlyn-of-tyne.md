@@ -23,7 +23,7 @@ data:
     extra_features: [Birthmark on right hand]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Prostitute, class: freeman, society: feudal, organizations: []}
+  occupation: Prostitute
 hm3:
   type: character
   attributes:

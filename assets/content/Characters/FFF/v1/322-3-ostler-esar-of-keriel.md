@@ -23,7 +23,7 @@ data:
     extra_features: [Ambidextrous]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Apprentice Ostler, class: freeman, society: feudal, organizations: []}
+  occupation: Apprentice Ostler
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: [Purple birthmark on right ear, Dresses all in black]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Physician, class: freeman, society: feudal, organizations: []}
+  occupation: Physician
 hm3:
   type: character
   attributes:

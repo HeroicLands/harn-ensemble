@@ -22,7 +22,7 @@ data:
     extra_features: [Burn scars on his left hand, a limp, Carry a long narrow package]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
-  social: {occupation: Weaponcrafter, class: freeman, society: viking, organizations: []}
+  occupation: Weaponcrafter
 hm3:
   type: character
   attributes:

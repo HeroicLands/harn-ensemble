@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
-  social: {occupation: Farmer, class: unguilded, society: feudal, organizations: []}
+  occupation: Farmer
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Embalmer, class: unguilded, society: feudal, organizations: []}
+  occupation: Embalmer
 hm3:
   type: character
   attributes:

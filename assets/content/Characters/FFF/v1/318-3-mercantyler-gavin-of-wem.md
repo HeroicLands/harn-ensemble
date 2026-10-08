@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
-  social: {occupation: Caravan Master, class: freeman, society: feudal, organizations: []}
+  occupation: Caravan Master
 hm3:
   type: character
   attributes:

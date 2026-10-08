@@ -22,11 +22,7 @@ data:
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
-  social:
-    occupation: "Shek-Pvar/Lyahvi*****"
-    class: unguilded
-    society: feudal
-    organizations: []
+  occupation: Shek-Pvar/Lyahvi*****
 hm3:
   type: character
   attributes:

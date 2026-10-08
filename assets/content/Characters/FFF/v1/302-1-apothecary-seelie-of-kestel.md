@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Apothecary, class: freeman, society: feudal, organizations: []}
+  occupation: Apothecary
 hm3:
   type: character
   attributes:

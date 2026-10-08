@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffmages
-  social: {occupation: Ship Captain, class: freeman, society: feudal, organizations: []}
+  occupation: Ship Captain
 hm3:
   type: character
   attributes:

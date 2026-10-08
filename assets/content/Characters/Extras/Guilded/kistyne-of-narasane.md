@@ -22,7 +22,7 @@ data:
     extra_features: [Addiction]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Thief, class: serf, society: feudal, organizations: []}
+  occupation: Thief
 hm3:
   type: character
   attributes:

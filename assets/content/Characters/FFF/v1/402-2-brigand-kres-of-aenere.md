@@ -23,7 +23,7 @@ data:
     extra_features: [Never smiles]
   harnworld: {realm: "", ritual: [peoni, agrik]}
   packFolder: fffunguilded
-  social: {occupation: Brigand, class: serf, society: feudal, organizations: []}
+  occupation: Brigand
 hm3:
   type: character
   attributes:

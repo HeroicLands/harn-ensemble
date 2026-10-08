@@ -22,7 +22,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Khuzdul Low Guard, class: unguilded, society: feudal, organizations: []}
+  occupation: Khuzdul Low Guard
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Ilvir, class: guilded, society: feudal, organizations: []}
+  occupation: Cleric/Ilvir
 hm3:
   type: character
   attributes:

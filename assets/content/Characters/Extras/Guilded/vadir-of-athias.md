@@ -22,7 +22,7 @@ data:
     extra_features: [Deformed/Missing Arm]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Ostler, class: unguilded, society: feudal, organizations: []}
+  occupation: Ostler
 hm3:
   type: character
   attributes:

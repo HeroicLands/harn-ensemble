@@ -22,7 +22,7 @@ data:
     extra_features: [Gigantism]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
-  social: {occupation: Prostitute/Pimp, class: serf, society: feudal, organizations: []}
+  occupation: Prostitute/Pimp
 hm3:
   type: character
   attributes:

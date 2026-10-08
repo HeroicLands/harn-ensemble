@@ -23,7 +23,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: fffnobles
-  social: {occupation: Fighting order knight, class: noble, society: feudal, organizations: []}
+  occupation: Fighting order knight
 hm3:
   type: character
   attributes:

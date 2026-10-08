@@ -22,7 +22,7 @@ data:
     extra_features: [Obesity]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Lexigrapher, class: guilded, society: feudal, organizations: []}
+  occupation: Lexigrapher
 hm3:
   type: character
   attributes:

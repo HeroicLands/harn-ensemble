@@ -23,7 +23,7 @@ data:
     extra_features: [Always carrying a large book]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary
-  social: {occupation: Siege Engineer, class: freeman, society: khuzdul, organizations: []}
+  occupation: Siege Engineer
 hm3:
   type: character
   attributes:

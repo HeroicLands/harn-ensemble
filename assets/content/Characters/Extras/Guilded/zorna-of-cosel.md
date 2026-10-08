@@ -22,7 +22,7 @@ data:
     extra_features: [Left-Handed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Charcoaler, class: serf, society: feudal, organizations: []}
+  occupation: Charcoaler
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: [Scarred ear, blind wandering eye, Thick accent]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffclergy
-  social: {occupation: Peonian Acolyte, class: freeman, society: feudal, organizations: []}
+  occupation: Peonian Acolyte
 hm3:
   type: character
   attributes:

@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
-  social: {occupation: Litigant, class: noble, society: feudal, organizations: []}
+  occupation: Litigant
 hm3:
   type: character
   attributes:

@@ -23,7 +23,7 @@ data:
     extra_features: [Scars, parasites, pox marks, missing both thumbs]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
-  social: {occupation: Slave, class: slave, society: imperial, organizations: []}
+  occupation: Slave
 hm3:
   type: character
   attributes:

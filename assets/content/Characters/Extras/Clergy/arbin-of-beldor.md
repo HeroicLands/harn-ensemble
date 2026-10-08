@@ -22,7 +22,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: extrasclergy
-  social: {occupation: Cleric/Halea, class: unguilded, society: feudal, organizations: []}
+  occupation: Cleric/Halea
 hm3:
   type: character
   attributes:

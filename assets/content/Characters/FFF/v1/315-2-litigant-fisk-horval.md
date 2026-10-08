@@ -23,7 +23,7 @@ data:
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
-  social: {occupation: Lawspeaker, class: noble, society: ivinian, organizations: []}
+  occupation: Lawspeaker
 hm3:
   type: character
   attributes:

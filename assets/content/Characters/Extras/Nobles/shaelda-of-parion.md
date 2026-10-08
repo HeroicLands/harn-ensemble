@@ -22,11 +22,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
-  social:
-    occupation: Feudal Knight, Medium
-    class: unguilded
-    society: feudal
-    organizations: []
+  occupation: Feudal Knight, Medium
 hm3:
   type: character
   attributes:

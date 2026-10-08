@@ -23,7 +23,7 @@ data:
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
-  social: {occupation: Princess, class: princess, society: gargun (kyani), organizations: []}
+  occupation: Princess
 hm3:
   type: character
   attributes:

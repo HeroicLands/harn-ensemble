@@ -23,7 +23,7 @@ data:
     extra_features: [Always bubbly, happy]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
-  social: {occupation: Shipwright, class: freeman, society: feudal, organizations: []}
+  occupation: Shipwright
 hm3:
   type: character
   attributes:
