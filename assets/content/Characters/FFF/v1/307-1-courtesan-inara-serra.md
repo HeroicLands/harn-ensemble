@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3071tok
+  icon: image-fff3071tok
   templatePriority: 1
   archetypes: [courtier, entertainer]
   gender: female

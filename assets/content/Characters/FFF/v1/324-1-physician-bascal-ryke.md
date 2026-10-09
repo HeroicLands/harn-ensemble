@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3241tok
+  icon: image-fff3241tok
   templatePriority: 1
   archetypes: [healer]
   gender: male

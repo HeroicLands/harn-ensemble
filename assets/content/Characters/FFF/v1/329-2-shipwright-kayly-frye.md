@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3292tok
+  icon: image-fff3292tok
   templatePriority: 1
   archetypes: [artisan, mariner]
   gender: female

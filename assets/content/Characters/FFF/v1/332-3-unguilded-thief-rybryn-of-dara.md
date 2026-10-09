@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3323tok
+  icon: image-fff3323tok
   templatePriority: 1
   archetypes: [infiltrator]
   gender: female

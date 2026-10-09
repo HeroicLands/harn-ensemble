@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff1272tok
+  icon: image-fff1272tok
   templatePriority: 1
   archetypes: [warrior, mariner]
   gender: male

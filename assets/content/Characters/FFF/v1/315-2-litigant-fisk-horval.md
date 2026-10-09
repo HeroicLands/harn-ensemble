@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3152tok
+  icon: image-fff3152tok
   templatePriority: 1
   archetypes: [courtier, scholar]
   gender: male

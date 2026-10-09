@@ -5,8 +5,8 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff804bhead
-  tokenIcon: fff804btok
+  icon: image-fff804bhead
+  tokenIcon: image-fff804btok
   archetypes: [woodsman]
   gender: male
   species: gargunflk

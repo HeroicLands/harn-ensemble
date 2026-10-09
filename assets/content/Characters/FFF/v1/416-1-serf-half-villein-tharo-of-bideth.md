@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff4161tok
+  icon: image-fff4161tok
   templatePriority: 1
   archetypes: [commoner]
   gender: male

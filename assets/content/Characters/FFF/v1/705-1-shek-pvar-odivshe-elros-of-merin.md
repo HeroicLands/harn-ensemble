@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff7051tok
+  icon: image-fff7051tok
   templatePriority: 1
   archetypes: [mage, mariner]
   gender: male

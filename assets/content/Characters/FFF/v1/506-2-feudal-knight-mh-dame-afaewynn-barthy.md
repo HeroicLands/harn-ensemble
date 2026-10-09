@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff5062tok
+  icon: image-fff5062tok
   templatePriority: 1
   archetypes: [warrior]
   gender: female

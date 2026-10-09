@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff4151tok
+  icon: image-fff4151tok
   templatePriority: 1
   archetypes: [scholar, woodsman]
   gender: male
