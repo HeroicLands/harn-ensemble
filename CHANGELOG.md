@@ -1,10 +1,28 @@
----
-"harn-ensemble": patch
----
+# harn-ensemble
+
+## 0.0.1
+
+### Patch Changes
+
+- Every character and NPC says which of the two it is.
+
+- Each one lists the archetypes it fits, so you can tell at a glance what a person is good for.
+
+- Character journals link skills and mystical abilities to their descriptions.
 
 Requires Foundry VTT 14. The module is verified against HârnMaster 3 1.6.5
 and Song of Heroic Lands 0.8.8, and a world loads the compendiums for
 whichever of the two it runs.
+
+Every page lists the pages that link to it and the pages it links to, grouped by type, at the foot of the page.
+
+The site has a search box: every page's text is searchable, and a search can be narrowed by page type.
+
+**Scripts**: A script skill's name appears once, not doubled, on every character sheet that carries one.
+
+**Languages**: A character played under SoHL speaks and writes every language and script their record states, matching their HârnMaster self.
+
+**Ages**: A ranger's stated age and birth date agree.
 
 **Compendiums**
 
@@ -29,3 +47,6 @@ whichever of the two it runs.
   it serves.
 - Every NPC and every affiliation has its own page there, and the header
   carries the same navigation as the rest of heroiclands.org.
+- Characters link to descriptions of their folk.
+
+**Pages** — A page whose note names its own hero image shows that image rather than the stock banner for its kind.
