@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff6101tok
+  icon: image-fff6101tok
   templatePriority: 1
   archetypes: [cleric, woodsman]
   gender: male

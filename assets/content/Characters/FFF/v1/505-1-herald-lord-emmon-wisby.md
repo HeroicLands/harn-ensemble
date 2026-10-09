@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff5051tok
+  icon: image-fff5051tok
   templatePriority: 1
   archetypes: [courtier, infiltrator]
   gender: male

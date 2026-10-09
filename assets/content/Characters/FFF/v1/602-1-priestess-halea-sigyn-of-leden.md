@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff6021tok
+  icon: image-fff6021tok
   templatePriority: 1
   archetypes: [cleric, entertainer]
   gender: female

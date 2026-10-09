@@ -5,8 +5,8 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff804fhead
-  tokenIcon: fff804ftok
+  icon: image-fff804fhead
+  tokenIcon: image-fff804ftok
   archetypes: [infiltrator, woodsman]
   gender: male
   species: gargunflk

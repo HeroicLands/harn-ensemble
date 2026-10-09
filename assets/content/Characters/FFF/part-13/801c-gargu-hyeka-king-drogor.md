@@ -5,8 +5,8 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff801chead
-  tokenIcon: fff801ctok
+  icon: image-fff801chead
+  tokenIcon: image-fff801ctok
   archetypes: [warrior, scholar]
   gender: male
   species: gargunflk

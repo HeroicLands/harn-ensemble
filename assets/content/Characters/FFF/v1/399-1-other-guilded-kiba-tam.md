@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3991tok
+  icon: image-fff3991tok
   templatePriority: 1
   archetypes: [scholar, mage]
   gender: female

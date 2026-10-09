@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3031tok
+  icon: image-fff3031tok
   templatePriority: 1
   archetypes: [scholar, trader]
   gender: male

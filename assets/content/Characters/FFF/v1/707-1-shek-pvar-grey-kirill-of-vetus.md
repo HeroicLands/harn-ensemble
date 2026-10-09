@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff7071tok
+  icon: image-fff7071tok
   templatePriority: 1
   archetypes: [mage, scholar]
   gender: male

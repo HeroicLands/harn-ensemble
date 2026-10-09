@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3992tok
+  icon: image-fff3992tok
   templatePriority: 1
   archetypes: [woodsman]
   gender: male

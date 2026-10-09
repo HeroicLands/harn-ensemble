@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff4152tok
+  icon: image-fff4152tok
   templatePriority: 1
   archetypes: [scholar]
   gender: female

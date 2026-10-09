@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff7021tok
+  icon: image-fff7021tok
   templatePriority: 1
   archetypes: [mage, infiltrator]
   gender: male

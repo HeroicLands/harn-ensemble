@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff1242tok
+  icon: image-fff1242tok
   templatePriority: 1
   archetypes: [skirmisher, mariner]
   gender: male

@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff3021tok
+  icon: image-fff3021tok
   templatePriority: 1
   archetypes: [healer]
   gender: female

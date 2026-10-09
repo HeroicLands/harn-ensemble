@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff6091tok
+  icon: image-fff6091tok
   templatePriority: 1
   archetypes: [cleric, infiltrator]
   gender: male

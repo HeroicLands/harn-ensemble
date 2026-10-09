@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff8991tok
+  icon: image-fff8991tok
   archetypes: [warrior, woodsman]
   gender: male
   species: ogreflk

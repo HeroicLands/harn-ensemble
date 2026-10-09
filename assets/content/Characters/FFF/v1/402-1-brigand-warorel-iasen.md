@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff4021tok
+  icon: image-fff4021tok
   templatePriority: 1
   archetypes: [skirmisher, woodsman]
   gender: male

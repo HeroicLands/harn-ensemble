@@ -5,7 +5,7 @@ type: being
 subType: character
 tags: []
 data:
-  icon: fff4101tok
+  icon: image-fff4101tok
   templatePriority: 1
   archetypes: [mariner]
   gender: male
