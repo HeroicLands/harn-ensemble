@@ -22,6 +22,8 @@
 # lines.
 name: Deploy the Hârn Ensemble site to Cloudflare Pages
 
+# Deploying is gated by the repository variable HL_DEPLOY_ENABLED.
+
 on:
     # Every push to `main` republishes the page. No path filter: a rebuild is
     # cheap next to how quietly a hand-maintained path list goes stale, and a
@@ -36,7 +38,7 @@ permissions:
 
 jobs:
     deploy:
-        uses: HeroicLands/.github/.github/workflows/deploy-package-site.yml@main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-package-site.yml@main
         with:
             # Not derived from the package name: a Pages project's name is its
             # deployment history, so it is stated rather than computed.
