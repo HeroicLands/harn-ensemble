@@ -204,10 +204,10 @@ sohl:
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 882}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-BLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-bleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-miscgear-holysymbrass}
     - {name: Unknown/broken magical item, type: miscgear, system: {value: 0, weight: 1}}
     - {name: Agrik, type: affiliation, system: {shortcode: agrik, subType: divine}}

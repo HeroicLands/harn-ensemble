@@ -190,10 +190,10 @@ sohl:
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1200}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-WTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-wtunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {name: Morgath, type: affiliation, system: {shortcode: morgath, subType: divine}}
     - name: Morgath
       type: skill

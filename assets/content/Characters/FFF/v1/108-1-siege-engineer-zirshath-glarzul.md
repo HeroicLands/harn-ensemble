@@ -239,18 +239,18 @@ sohl:
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-PlHHelm}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-ringgold, system: {quantity: 2}}
     - {model: sohl-sohl-miscgear-ringsilver}
     - {model: sohl-sohl-miscgear-broochgold}
-    - {model: sohl-sohl-weapongear-HAxe}
-    - {model: sohl-sohl-weapongear-RndSh}
+    - {model: sohl-sohl-weapongear-haxe}
+    - {model: sohl-sohl-weapongear-rndsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 267}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 4}}
     - {name: Siem, type: affiliation, system: {shortcode: siem, subType: divine}}

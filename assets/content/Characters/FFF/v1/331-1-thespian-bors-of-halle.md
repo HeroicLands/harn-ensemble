@@ -165,15 +165,15 @@ sohl:
     - {model: sohl-sohl-skill-musc, name: Harp (Musician), system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 94}}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 84}}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-RTunic}
-    - {model: sohl-sohl-armorgear-RLeg}
-    - {model: sohl-sohl-armorgear-RClk}
-    - {model: sohl-sohl-armorgear-RCap}
+    - {model: sohl-sohl-armorgear-rtunic}
+    - {model: sohl-sohl-armorgear-rleg}
+    - {model: sohl-sohl-armorgear-rclk}
+    - {model: sohl-sohl-armorgear-rcap}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 32}}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}
     - name: Halea

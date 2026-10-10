@@ -172,13 +172,13 @@ sohl:
       name: Horsecraft (Animalcraft)
       system: {masteryLevelBase: 28}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 21}}
-    - {model: sohl-sohl-weapongear-ShrtSwd}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-RRobe}
-    - {model: sohl-sohl-armorgear-QTnc}
-    - {model: sohl-sohl-armorgear-QCap}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
+    - {model: sohl-sohl-weapongear-shrtswd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-rrobe}
+    - {model: sohl-sohl-armorgear-qtnc}
+    - {model: sohl-sohl-armorgear-qcap}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
   system:
     body:

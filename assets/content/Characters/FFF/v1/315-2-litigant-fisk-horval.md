@@ -214,17 +214,17 @@ sohl:
     - {model: sohl-sohl-skill-law, name: "Law: Ljarl", system: {masteryLevelBase: 90}}
     - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 75}}
-    - {model: sohl-sohl-weapongear-BrdSwd}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
-    - {model: sohl-sohl-armorgear-PlHHelm}
+    - {model: sohl-sohl-weapongear-brdswd}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-MByr}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-LtGlove}
+    - {model: sohl-sohl-armorgear-mbyr}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-ltglove}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 92}}
     - {name: Sarajin, type: affiliation, system: {shortcode: sarajin, subType: divine}}
     - name: Sarajin

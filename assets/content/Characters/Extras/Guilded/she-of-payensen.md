@@ -164,11 +164,11 @@ sohl:
     - {model: sohl-sohl-skill-script, name: Script(Lakaise), system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 2057}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-RClk}
-    - {model: sohl-sohl-armorgear-BLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-rclk}
+    - {model: sohl-sohl-armorgear-bleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-miscgear-groomkit}
     - {model: sohl-sohl-miscgear-groomkitnob}
     - {model: sohl-sohl-miscgear-tndrbx}

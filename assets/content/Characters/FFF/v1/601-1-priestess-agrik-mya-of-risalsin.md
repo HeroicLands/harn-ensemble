@@ -230,14 +230,14 @@ sohl:
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-RTunic}
-    - {model: sohl-sohl-armorgear-RLeg}
-    - {model: sohl-sohl-armorgear-WVest}
-    - {model: sohl-sohl-armorgear-KAil}
-    - {model: sohl-sohl-armorgear-KBrst}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-PlHHelm}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-rtunic}
+    - {model: sohl-sohl-armorgear-rleg}
+    - {model: sohl-sohl-armorgear-wvest}
+    - {model: sohl-sohl-armorgear-kail}
+    - {model: sohl-sohl-armorgear-kbrst}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 130}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 2}}
     - {name: Agrik, type: affiliation, system: {shortcode: agrik, subType: divine}}

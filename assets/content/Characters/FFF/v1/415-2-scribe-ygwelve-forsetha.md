@@ -215,17 +215,17 @@ sohl:
     - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-BrdSwd}
-    - {model: sohl-sohl-weapongear-RndSh}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-brdswd}
+    - {model: sohl-sohl-weapongear-rndsh}
     - {model: sohl-sohl-miscgear-parchment}
     - {model: sohl-sohl-containergear-inkwellgla}
     - {model: sohl-sohl-miscgear-penquill, system: {quantity: 4}}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LShirt}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LSkirt}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-lshirt}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lskirt}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 83}}
     - {name: Sarajin, type: affiliation, system: {shortcode: sarajin, subType: divine}}

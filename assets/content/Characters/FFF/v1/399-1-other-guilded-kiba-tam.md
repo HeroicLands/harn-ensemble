@@ -209,8 +209,8 @@ sohl:
       name: Needlework (Textilecraft)
       system: {masteryLevelBase: 56}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LDress}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ldress}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}
     - {name: Agrik, type: affiliation, system: {shortcode: agrik, subType: divine}}
     - name: Halea

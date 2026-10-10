@@ -168,14 +168,14 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 37}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
     - {model: sohl-sohl-miscgear-mirrorbron}
-    - {model: sohl-sohl-armorgear-VRobe}
-    - {model: sohl-sohl-armorgear-WCap}
+    - {model: sohl-sohl-armorgear-vrobe}
+    - {model: sohl-sohl-armorgear-wcap}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 37}}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}

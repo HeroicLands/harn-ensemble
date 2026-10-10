@@ -211,11 +211,11 @@ sohl:
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 77}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-armorgear-SlkTunic}
-    - {model: sohl-sohl-armorgear-SlkLeg}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-armorgear-slktunic}
+    - {model: sohl-sohl-armorgear-slkleg}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-medsupil}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 233}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 3}}

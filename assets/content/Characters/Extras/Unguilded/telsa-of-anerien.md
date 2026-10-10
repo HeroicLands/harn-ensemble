@@ -171,19 +171,19 @@ sohl:
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 2484}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-SgClk}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-LtTrsr}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-weapongear-LBw50}
-    - {model: sohl-sohl-projectilegear-ArwStd, system: {quantity: 12}}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-sgclk}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-lttrsr}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-weapongear-lbw50}
+    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 12}}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LtCap}
+    - {model: sohl-sohl-armorgear-ltcap}
     - {model: sohl-sohl-miscgear-amuletcopper}
     - {model: sohl-sohl-miscgear-pipesmokin}
     - {model: sohl-sohl-containergear-quiverlgsh}

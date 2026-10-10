@@ -167,19 +167,19 @@ sohl:
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 0}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-PlBreast}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-MLeg}
-    - {model: sohl-sohl-armorgear-MMtn}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-plbreast}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-mleg}
+    - {model: sohl-sohl-armorgear-mmtn}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-weapongear-KiSh}
+    - {model: sohl-sohl-weapongear-kish}
   system:
     body:
       structure:

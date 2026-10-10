@@ -188,10 +188,10 @@ sohl:
     - {model: sohl-sohl-skill-herb, name: "Herblore: Poison", system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-WTunic}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-wtunic}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 237}}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}

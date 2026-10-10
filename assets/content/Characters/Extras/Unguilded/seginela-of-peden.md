@@ -178,19 +178,19 @@ sohl:
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 78}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1046}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-earringssilver}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-LtCap}
-    - {model: sohl-sohl-armorgear-WCap}
+    - {model: sohl-sohl-armorgear-ltcap}
+    - {model: sohl-sohl-armorgear-wcap}
     - {model: sohl-sohl-containergear-papercasel}
     - {model: sohl-sohl-miscgear-scribekit}
     - {model: sohl-sohl-miscgear-spoonpewte}

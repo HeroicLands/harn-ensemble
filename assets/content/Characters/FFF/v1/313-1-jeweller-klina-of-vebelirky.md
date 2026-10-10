@@ -193,10 +193,10 @@ sohl:
       name: Gold Gold & Silversmith 15 Silversmith (Metalcraft)
       system: {masteryLevelBase: 82}
     - {model: sohl-sohl-containergear-bpchsmslk}
-    - {model: sohl-sohl-armorgear-VRobe}
-    - {model: sohl-sohl-armorgear-LtCap}
-    - {model: sohl-sohl-armorgear-VLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-vrobe}
+    - {model: sohl-sohl-armorgear-ltcap}
+    - {model: sohl-sohl-armorgear-vleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 254}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 3}}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}

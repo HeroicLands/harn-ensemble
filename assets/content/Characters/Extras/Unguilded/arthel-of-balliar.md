@@ -161,17 +161,17 @@ sohl:
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 36}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-RClk}
-    - {model: sohl-sohl-armorgear-RCowl}
-    - {model: sohl-sohl-armorgear-BLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-armorgear-LtTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-LKni}
+    - {model: sohl-sohl-armorgear-rclk}
+    - {model: sohl-sohl-armorgear-rcowl}
+    - {model: sohl-sohl-armorgear-bleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-armorgear-lttunic}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-lkni}
     - {model: sohl-sohl-containergear-backbagmed}
-    - {model: sohl-sohl-armorgear-RCap}
-    - {model: sohl-sohl-armorgear-LtTrsr}
+    - {model: sohl-sohl-armorgear-rcap}
+    - {model: sohl-sohl-armorgear-lttrsr}
     - {model: sohl-sohl-miscgear-pipesmokin}
     - {model: sohl-sohl-miscgear-spoonpewte}
     - {model: sohl-sohl-miscgear-tankardpew}

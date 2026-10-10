@@ -216,12 +216,12 @@ sohl:
     - {model: sohl-sohl-skill-law, name: "Law: Ljarl", system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 54}}
     - {name: Sarajin, type: affiliation, system: {shortcode: sarajin, subType: divine}}

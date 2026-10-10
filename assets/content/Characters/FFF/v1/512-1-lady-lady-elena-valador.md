@@ -193,9 +193,9 @@ sohl:
       name: Needlework (Textilecraft)
       system: {masteryLevelBase: 56}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LDress}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ldress}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 124}}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}
     - name: Larani

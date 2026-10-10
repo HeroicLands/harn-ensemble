@@ -190,12 +190,12 @@ sohl:
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-weapongear-Stf}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-weapongear-stf}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 14}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni

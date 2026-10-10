@@ -152,17 +152,17 @@ sohl:
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 480}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-KHlfHelm}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-GrnFl}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-khlfhelm}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-grnfl}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-LtCap}
-    - {model: sohl-sohl-weapongear-Bklr}
+    - {model: sohl-sohl-armorgear-ltcap}
+    - {model: sohl-sohl-weapongear-bklr}
     - {model: sohl-sohl-miscgear-spoonpewte}
     - {model: sohl-sohl-miscgear-tankardpew}
   system:

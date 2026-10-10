@@ -203,16 +203,16 @@ sohl:
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-weapongear-BrdSwd}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-brdswd}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-LtVest}
-    - {model: sohl-sohl-armorgear-BvCloak}
-    - {model: sohl-sohl-armorgear-MByr}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-ltvest}
+    - {model: sohl-sohl-armorgear-bvcloak}
+    - {model: sohl-sohl-armorgear-mbyr}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 102}}
     - {name: Sarajin, type: affiliation, system: {shortcode: sarajin, subType: divine}}
     - name: Sarajin

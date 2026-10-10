@@ -226,10 +226,10 @@ sohl:
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 38}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-armorgear-WTunic}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-armorgear-wtunic}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 12}}
     - {name: Naveh, type: affiliation, system: {shortcode: naveh, subType: divine}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}

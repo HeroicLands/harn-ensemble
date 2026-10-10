@@ -179,11 +179,11 @@ sohl:
     - model: sohl-sohl-skill-math
       name: Bookkeeping (Mathematics)
       system: {masteryLevelBase: 68}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 232}}
     - {model: sohl-sohl-miscgear-gldcrwn}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}

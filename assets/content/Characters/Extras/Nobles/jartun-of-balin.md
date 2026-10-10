@@ -176,20 +176,20 @@ sohl:
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 72}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 9764}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-SgClk}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-MLeg}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-HAxe}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-sgclk}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-mleg}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-haxe}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-miscgear-necklacesilver}
     - {model: sohl-sohl-miscgear-ringcopper}
     - {model: sohl-sohl-miscgear-scabbard}
-    - {model: sohl-sohl-weapongear-KiSh}
+    - {model: sohl-sohl-weapongear-kish}
     - {model: sohl-sohl-miscgear-spoonpewte}
     - {model: sohl-sohl-miscgear-tankardpew}
     - {model: sohl-sohl-miscgear-tndrbx}

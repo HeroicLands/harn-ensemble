@@ -198,19 +198,19 @@ sohl:
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 91}}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-weapongear-Stf}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-weapongear-stf}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
     - {model: sohl-sohl-miscgear-keys}
     - {model: sohl-sohl-containergear-inkwellgla}
     - {model: sohl-sohl-miscgear-penquill, system: {quantity: 4}}
     - {model: sohl-sohl-miscgear-bookbase}
-    - {model: sohl-sohl-armorgear-WRobe}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-ECap}
+    - {model: sohl-sohl-armorgear-wrobe}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-ecap}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtCBoot}
+    - {model: sohl-sohl-armorgear-ltcboot}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 172}}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}
     - {name: Save-K'nor, type: affiliation, system: {shortcode: saveknor, subType: divine}}

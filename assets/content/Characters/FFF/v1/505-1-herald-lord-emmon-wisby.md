@@ -217,13 +217,13 @@ sohl:
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 16}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-BrdSwd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-brdswd}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-RRobe}
-    - {model: sohl-sohl-armorgear-RClk}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-rrobe}
+    - {model: sohl-sohl-armorgear-rclk}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 342}}
     - {model: sohl-sohl-miscgear-gldcrwn}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}

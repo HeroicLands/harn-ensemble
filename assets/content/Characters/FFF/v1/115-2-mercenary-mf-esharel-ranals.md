@@ -215,17 +215,17 @@ sohl:
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 37}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-BrdSwd}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CvScoat}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-LtGlove}
-    - {model: sohl-sohl-armorgear-RnVest}
-    - {model: sohl-sohl-armorgear-PlHHelm}
+    - {model: sohl-sohl-weapongear-brdswd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cvscoat}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-ltglove}
+    - {model: sohl-sohl-armorgear-rnvest}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 189}}
     - {name: Siem, type: affiliation, system: {shortcode: siem, subType: divine}}

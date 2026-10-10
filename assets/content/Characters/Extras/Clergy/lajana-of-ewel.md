@@ -206,10 +206,10 @@ sohl:
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 588}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-miscgear-holysymbrass}
     - {model: sohl-sohl-miscgear-holysymwood}
     - {name: Siem, type: affiliation, system: {shortcode: siem, subType: divine}}

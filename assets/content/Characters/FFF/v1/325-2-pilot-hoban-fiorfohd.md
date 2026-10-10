@@ -183,12 +183,12 @@ sohl:
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 66}}
     - {model: sohl-sohl-skill-shpw, system: {masteryLevelBase: 37}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-WTunic}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-VTunic}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-wtunic}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-vtunic}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 88}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - {name: Eder, type: affiliation, system: {shortcode: eder, subType: divine}}

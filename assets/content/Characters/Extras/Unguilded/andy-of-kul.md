@@ -163,17 +163,17 @@ sohl:
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 0}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-Pl34Hlm}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-pl34hlm}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-miscgear-tndrbx}
     - {model: sohl-sohl-miscgear-pipesmokin}
-    - {model: sohl-sohl-weapongear-RndSh}
+    - {model: sohl-sohl-weapongear-rndsh}
     - {model: sohl-sohl-miscgear-tankardpew}
   system:
     body:

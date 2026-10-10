@@ -188,10 +188,10 @@ sohl:
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1243}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-WTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-wtunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni
       type: skill

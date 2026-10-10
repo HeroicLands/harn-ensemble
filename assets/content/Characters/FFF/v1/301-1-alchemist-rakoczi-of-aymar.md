@@ -171,15 +171,15 @@ sohl:
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 84}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 76}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-miscgear-limestonep}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 23}}
     - {name: Save-K'nor, type: affiliation, system: {shortcode: saveknor, subType: divine}}
     - name: Save K'nor

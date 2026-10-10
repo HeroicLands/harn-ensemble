@@ -168,8 +168,8 @@ sohl:
       name: Horsecraft (Animalcraft)
       system: {masteryLevelBase: 48}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LRobe}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-lrobe}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}
     - name: Peoni

@@ -166,14 +166,14 @@ sohl:
       system: {masteryLevelBase: 72}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-timb, system: {masteryLevelBase: 79}}
-    - {model: sohl-sohl-weapongear-HAxe}
-    - {model: sohl-sohl-weapongear-Slng}
+    - {model: sohl-sohl-weapongear-haxe}
+    - {model: sohl-sohl-weapongear-slng}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni
       type: skill

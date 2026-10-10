@@ -195,12 +195,12 @@ sohl:
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 409}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-weapongear-RndSh}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-weapongear-rndsh}
     - {model: sohl-sohl-miscgear-holysymwood}
     - {name: Sarajin, type: affiliation, system: {shortcode: sarajin, subType: divine}}
     - name: Sarajin

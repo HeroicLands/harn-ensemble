@@ -211,10 +211,10 @@ sohl:
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 759}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-BLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-bleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {name: Fount of Power, type: miscgear, system: {value: 0, weight: 1}}
     - {model: sohl-sohl-miscgear-holysymwood}
     - {name: Ilvir, type: affiliation, system: {shortcode: ilvir, subType: divine}}

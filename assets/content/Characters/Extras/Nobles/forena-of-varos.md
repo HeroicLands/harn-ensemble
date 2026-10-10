@@ -174,18 +174,18 @@ sohl:
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 9970}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-GTnc}
-    - {model: sohl-sohl-armorgear-MLeg}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-WTunic}
-    - {model: sohl-sohl-weapongear-HAxe}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-gtnc}
+    - {model: sohl-sohl-armorgear-mleg}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-wtunic}
+    - {model: sohl-sohl-weapongear-haxe}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-miscgear-amuletgold}
     - {model: sohl-sohl-miscgear-scabbard}
-    - {model: sohl-sohl-weapongear-KnSh}
+    - {model: sohl-sohl-weapongear-knsh}
     - {model: sohl-sohl-miscgear-spoonpewte}
     - {model: sohl-sohl-miscgear-tankardpew}
   system:

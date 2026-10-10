@@ -206,10 +206,10 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 904}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-miscgear-lkpickkit}
     - {model: sohl-sohl-miscgear-holysymwood}
     - {name: Naveh, type: affiliation, system: {shortcode: naveh, subType: divine}}

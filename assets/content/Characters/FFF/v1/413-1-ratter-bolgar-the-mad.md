@@ -161,12 +161,12 @@ sohl:
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-anmcft, name: Ratcraft (Animalcraft), system: {masteryLevelBase: 63}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Stf}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-stf}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni

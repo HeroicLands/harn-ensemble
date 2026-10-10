@@ -234,16 +234,16 @@ sohl:
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 2414}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-SgClk}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-sgclk}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {name: Sli-Hordrh, type: miscgear, system: {value: 0, weight: 1}}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-LtCap}
+    - {model: sohl-sohl-armorgear-ltcap}
     - {model: sohl-sohl-miscgear-booktrvl}
     - {model: sohl-sohl-miscgear-pipesmokin}
     - {model: sohl-sohl-miscgear-scribekit}

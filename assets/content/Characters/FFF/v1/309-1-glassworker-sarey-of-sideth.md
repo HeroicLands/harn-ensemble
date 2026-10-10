@@ -171,18 +171,18 @@ sohl:
     - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 61}}
     - {model: sohl-sohl-skill-fish, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 66}}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-weapongear-ShrtSwd}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-weapongear-shrtswd}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
     - {model: sohl-sohl-miscgear-cookkit}
     - {model: sohl-sohl-miscgear-fishgkit}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-VCap}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-vcap}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-PlHHelm}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 25}}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}
     - name: Halea

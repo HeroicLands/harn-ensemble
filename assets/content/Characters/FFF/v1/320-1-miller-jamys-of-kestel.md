@@ -227,22 +227,22 @@ sohl:
       system: {masteryLevelBase: 70}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-KnSh}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-BrdSwd}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
-    - {model: sohl-sohl-armorgear-RTunic}
-    - {model: sohl-sohl-armorgear-RLeg}
-    - {model: sohl-sohl-armorgear-RCap}
+    - {model: sohl-sohl-weapongear-knsh}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-brdswd}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
+    - {model: sohl-sohl-armorgear-rtunic}
+    - {model: sohl-sohl-armorgear-rleg}
+    - {model: sohl-sohl-armorgear-rcap}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-LtApn}
-    - {model: sohl-sohl-armorgear-PlHHelm}
-    - {model: sohl-sohl-armorgear-GTnc}
-    - {model: sohl-sohl-armorgear-QCwl}
-    - {model: sohl-sohl-armorgear-MByr}
-    - {model: sohl-sohl-armorgear-KKnee}
-    - {model: sohl-sohl-armorgear-LtMntl}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-ltapn}
+    - {model: sohl-sohl-armorgear-plhhelm}
+    - {model: sohl-sohl-armorgear-gtnc}
+    - {model: sohl-sohl-armorgear-qcwl}
+    - {model: sohl-sohl-armorgear-mbyr}
+    - {model: sohl-sohl-armorgear-kknee}
+    - {model: sohl-sohl-armorgear-ltmntl}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 120}}

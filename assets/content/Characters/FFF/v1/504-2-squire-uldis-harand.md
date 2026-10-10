@@ -197,22 +197,22 @@ sohl:
       name: Horsecraft (Animalcraft)
       system: {masteryLevelBase: 67}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-BrdSwd}
-    - {model: sohl-sohl-weapongear-HAxe}
-    - {model: sohl-sohl-weapongear-Lnc}
-    - {model: sohl-sohl-weapongear-KiSh}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-brdswd}
+    - {model: sohl-sohl-weapongear-haxe}
+    - {model: sohl-sohl-weapongear-lnc}
+    - {model: sohl-sohl-weapongear-kish}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-RTunic}
-    - {model: sohl-sohl-armorgear-RLeg}
-    - {model: sohl-sohl-armorgear-WScoat}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-GTnc}
-    - {model: sohl-sohl-armorgear-QCwl}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-MCwl}
-    - {model: sohl-sohl-armorgear-PlHHelm}
+    - {model: sohl-sohl-armorgear-rtunic}
+    - {model: sohl-sohl-armorgear-rleg}
+    - {model: sohl-sohl-armorgear-wscoat}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-gtnc}
+    - {model: sohl-sohl-armorgear-qcwl}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-mcwl}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 93}}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}
     - name: Larani

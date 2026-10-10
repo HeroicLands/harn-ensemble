@@ -159,12 +159,12 @@ sohl:
     - {model: sohl-sohl-skill-lang, name: "Language, Serf", system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 481}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - name: Elprequir
@@ -178,7 +178,7 @@ sohl:
           <p>A common plant growing in pastures, dried and
           crushed into a fine blue powder and taken orally;
           an aphrodisiac, often slipped into food.</p>
-    - {model: sohl-sohl-armorgear-LtCap}
+    - {model: sohl-sohl-armorgear-ltcap}
     - {model: sohl-sohl-miscgear-mirrorbron}
     - {model: sohl-sohl-miscgear-pipesmokin}
     - {model: sohl-sohl-miscgear-spoonpewte}

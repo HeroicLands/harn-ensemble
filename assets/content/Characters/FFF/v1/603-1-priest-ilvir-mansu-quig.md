@@ -206,9 +206,9 @@ sohl:
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-LRobe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-lrobe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 19}}
     - {name: Ilvir, type: affiliation, system: {shortcode: ilvir, subType: divine}}
     - name: Ilvir

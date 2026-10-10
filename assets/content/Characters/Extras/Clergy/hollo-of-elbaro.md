@@ -198,13 +198,13 @@ sohl:
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 226}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-weapongear-KiSh}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-weapongear-kish}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}
     - name: Larani
       type: skill

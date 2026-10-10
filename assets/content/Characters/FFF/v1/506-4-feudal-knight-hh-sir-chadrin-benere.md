@@ -203,22 +203,22 @@ sohl:
       system: {masteryLevelBase: 48}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-BrdSwd}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-HAxe}
-    - {model: sohl-sohl-weapongear-Lnc}
-    - {model: sohl-sohl-weapongear-KnSh}
+    - {model: sohl-sohl-weapongear-brdswd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-haxe}
+    - {model: sohl-sohl-weapongear-lnc}
+    - {model: sohl-sohl-weapongear-knsh}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-LShirt}
-    - {model: sohl-sohl-armorgear-RLeg}
-    - {model: sohl-sohl-armorgear-QCwl}
-    - {model: sohl-sohl-armorgear-PlGrvs}
-    - {model: sohl-sohl-armorgear-PlKncp}
-    - {model: sohl-sohl-armorgear-PlAil}
-    - {model: sohl-sohl-armorgear-PlCou}
-    - {model: sohl-sohl-armorgear-PlGtHlm}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-lshirt}
+    - {model: sohl-sohl-armorgear-rleg}
+    - {model: sohl-sohl-armorgear-qcwl}
+    - {model: sohl-sohl-armorgear-plgrvs}
+    - {model: sohl-sohl-armorgear-plkncp}
+    - {model: sohl-sohl-armorgear-plail}
+    - {model: sohl-sohl-armorgear-plcou}
+    - {model: sohl-sohl-armorgear-plgthlm}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 778}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 3}}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}

@@ -202,12 +202,12 @@ sohl:
     - model: sohl-sohl-mysticalability-tarot
       name: Lythian Tarot (Tarotry)
       system: {masteryLevelBase: 66}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-VTunic}
-    - {model: sohl-sohl-armorgear-VLeg}
-    - {model: sohl-sohl-armorgear-VClk}
-    - {model: sohl-sohl-armorgear-VCowl}
-    - {model: sohl-sohl-armorgear-LtCBoot}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-vtunic}
+    - {model: sohl-sohl-armorgear-vleg}
+    - {model: sohl-sohl-armorgear-vclk}
+    - {model: sohl-sohl-armorgear-vcowl}
+    - {model: sohl-sohl-armorgear-ltcboot}
     - {model: sohl-sohl-containergear-bpchsmslk}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 211}}
     - {model: sohl-sohl-miscgear-gldcrwn}

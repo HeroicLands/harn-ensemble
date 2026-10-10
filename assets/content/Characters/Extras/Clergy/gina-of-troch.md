@@ -217,10 +217,10 @@ sohl:
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 708}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-miscgear-holysymbrass}
     - {model: sohl-sohl-miscgear-amuletbone}
     - {model: sohl-sohl-miscgear-holysymwood}

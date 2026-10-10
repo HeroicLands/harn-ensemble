@@ -212,10 +212,10 @@ sohl:
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 503}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-BLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-bleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {name: Green Eye of Turembor, type: miscgear, system: {value: 0, weight: 1}}
     - {model: sohl-sohl-miscgear-incense}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}

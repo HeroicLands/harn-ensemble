@@ -216,7 +216,7 @@ sohl:
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 408}}
     - {model: sohl-sohl-miscgear-gldcrwn}
     - {name: Savorya, type: affiliation, system: {shortcode: savorya, subType: arcane}}

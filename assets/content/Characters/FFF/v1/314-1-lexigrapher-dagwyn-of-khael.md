@@ -153,9 +153,9 @@ sohl:
       name: Parchment making (Hidework)
       system: {masteryLevelBase: 76}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-armorgear-LDress}
+    - {model: sohl-sohl-armorgear-ldress}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 11}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}

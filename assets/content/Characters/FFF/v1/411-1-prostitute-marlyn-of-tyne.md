@@ -162,10 +162,10 @@ sohl:
       system: {shortcode: languageharnic, masteryLevelBase: 62}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LDress}
-    - {model: sohl-sohl-armorgear-LVest}
+    - {model: sohl-sohl-armorgear-ldress}
+    - {model: sohl-sohl-armorgear-lvest}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni

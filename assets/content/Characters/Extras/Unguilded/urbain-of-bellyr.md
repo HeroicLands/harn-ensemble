@@ -155,18 +155,18 @@ sohl:
     - {model: sohl-sohl-skill-lang, name: "Language, Noble", system: {masteryLevelBase: 106}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 3266}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-KBrst}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-KGrvs}
-    - {model: sohl-sohl-armorgear-KHlfHelm}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-WTunic}
-    - {model: sohl-sohl-weapongear-Whmr}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-WCap}
-    - {model: sohl-sohl-weapongear-Bklr}
+    - {model: sohl-sohl-armorgear-kbrst}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-kgrvs}
+    - {model: sohl-sohl-armorgear-khlfhelm}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-wtunic}
+    - {model: sohl-sohl-weapongear-whmr}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-wcap}
+    - {model: sohl-sohl-weapongear-bklr}
     - {model: sohl-sohl-miscgear-tankardpew}
     - {model: sohl-sohl-containergear-wtrskin}
   system:

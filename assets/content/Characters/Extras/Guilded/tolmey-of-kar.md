@@ -160,12 +160,12 @@ sohl:
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1685}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-RCowl}
-    - {model: sohl-sohl-armorgear-WCap}
-    - {model: sohl-sohl-armorgear-BLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-rcowl}
+    - {model: sohl-sohl-armorgear-wcap}
+    - {model: sohl-sohl-armorgear-bleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-backbagmed}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
@@ -174,14 +174,14 @@ sohl:
     - {model: sohl-sohl-miscgear-sewkit}
     - {model: sohl-sohl-containergear-wtrskin}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-armorgear-SgClk}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-sgclk}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-miscgear-carpentryk}
-    - {model: sohl-sohl-armorgear-LtCap}
+    - {model: sohl-sohl-armorgear-ltcap}
     - {model: sohl-sohl-miscgear-woodwrkkit}
     - {model: sohl-sohl-miscgear-groomkitcom}
   system:

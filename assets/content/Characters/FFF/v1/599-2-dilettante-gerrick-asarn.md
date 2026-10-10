@@ -158,10 +158,10 @@ sohl:
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 84}}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 84}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 68}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-RRobe}
-    - {model: sohl-sohl-armorgear-RLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-rrobe}
+    - {model: sohl-sohl-armorgear-rleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 100}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 5}}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}

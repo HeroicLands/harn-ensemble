@@ -201,10 +201,10 @@ sohl:
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 387}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-BLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-bleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {name: Unknown/broken magical item, type: miscgear, system: {value: 0, weight: 1}}
     - {name: Siem, type: affiliation, system: {shortcode: siem, subType: divine}}
     - name: Siem

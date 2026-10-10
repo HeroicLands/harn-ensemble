@@ -238,18 +238,18 @@ sohl:
       system: {masteryLevelBase: 80}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
     - {model: sohl-sohl-miscgear-harpaeolia}
     - {model: sohl-sohl-miscgear-flutewoode, system: {quantity: 3}}
     - {model: sohl-sohl-miscgear-drumhand}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CvCloak}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cvcloak}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-weapongear-Taburi}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-weapongear-taburi}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 49}}
     - {name: Naveh, type: affiliation, system: {shortcode: naveh, subType: divine}}
     - name: Naveh

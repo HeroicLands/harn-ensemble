@@ -186,15 +186,15 @@ sohl:
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 61}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-BAxe}
-    - {model: sohl-sohl-weapongear-RndSh}
+    - {model: sohl-sohl-weapongear-baxe}
+    - {model: sohl-sohl-weapongear-rndsh}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-LtGlove}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-PlHHelm}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-ltglove}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 112}}
     - {name: Sarajin, type: affiliation, system: {shortcode: sarajin, subType: divine}}
     - name: Sarajin

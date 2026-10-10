@@ -220,18 +220,18 @@ sohl:
       system: {masteryLevelBase: 45}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Whmr}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-weapongear-WCxBw160}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-PlHHelm}
-    - {model: sohl-sohl-armorgear-PlVamb}
-    - {model: sohl-sohl-armorgear-MByr}
+    - {model: sohl-sohl-weapongear-whmr}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-weapongear-wcxbw160}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-plhhelm}
+    - {model: sohl-sohl-armorgear-plvamb}
+    - {model: sohl-sohl-armorgear-mbyr}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 168}}

@@ -199,17 +199,17 @@ sohl:
       name: Horsecraft (Animalcraft)
       system: {masteryLevelBase: 44}
     - {model: sohl-sohl-skill-wpnc, name: "Weaponcraft: Longbow", system: {masteryLevelBase: 86}}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Falcn}
-    - {model: sohl-sohl-weapongear-LBw50}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-QTnc}
-    - {model: sohl-sohl-armorgear-LtCowl}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-PlHHelm}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-falcn}
+    - {model: sohl-sohl-weapongear-lbw50}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-qtnc}
+    - {model: sohl-sohl-armorgear-ltcowl}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-plhhelm}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 19}}

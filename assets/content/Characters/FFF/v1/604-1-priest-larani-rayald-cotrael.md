@@ -211,16 +211,16 @@ sohl:
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-hrld, name: "Heraldry: Tharda", system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 33}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-BrdSwd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-brdswd}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-RRobe}
-    - {model: sohl-sohl-armorgear-CScoat}
-    - {model: sohl-sohl-armorgear-RByr}
-    - {model: sohl-sohl-armorgear-LCowl}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-LtCowl}
-    - {model: sohl-sohl-armorgear-LtCBoot}
+    - {model: sohl-sohl-armorgear-rrobe}
+    - {model: sohl-sohl-armorgear-cscoat}
+    - {model: sohl-sohl-armorgear-rbyr}
+    - {model: sohl-sohl-armorgear-lcowl}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-ltcowl}
+    - {model: sohl-sohl-armorgear-ltcboot}
     - {model: sohl-sohl-miscgear-holysymgold}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 159}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 2}}

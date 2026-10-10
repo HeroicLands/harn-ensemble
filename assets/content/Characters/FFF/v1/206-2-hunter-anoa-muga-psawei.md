@@ -206,18 +206,18 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 74}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-ShrtSwd}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-armorgear-BvCowl}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-LtVest}
-    - {model: sohl-sohl-armorgear-LtTrsr}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-KHlfHelm}
-    - {model: sohl-sohl-armorgear-KVamb}
+    - {model: sohl-sohl-weapongear-shrtswd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-armorgear-bvcowl}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-ltvest}
+    - {model: sohl-sohl-armorgear-lttrsr}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-khlfhelm}
+    - {model: sohl-sohl-armorgear-kvamb}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 8}}
     - {name: K'orr, type: affiliation, system: {shortcode: korr, subType: divine}}

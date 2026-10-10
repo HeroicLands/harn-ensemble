@@ -236,11 +236,11 @@ sohl:
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 31}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-backbagmed}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 28}}
     - {name: Siem, type: affiliation, system: {shortcode: siem, subType: divine}}

@@ -250,16 +250,16 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 69}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Stf}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-stf}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-penquill, system: {quantity: 4}}
     - {model: sohl-sohl-containergear-inkwellgla}
-    - {model: sohl-sohl-armorgear-RTunic}
-    - {model: sohl-sohl-armorgear-RLeg}
-    - {model: sohl-sohl-armorgear-VCap}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-LtCBoot}
+    - {model: sohl-sohl-armorgear-rtunic}
+    - {model: sohl-sohl-armorgear-rleg}
+    - {model: sohl-sohl-armorgear-vcap}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-ltcboot}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 96}}
     - {name: Save-K'nor, type: affiliation, system: {shortcode: saveknor, subType: divine}}
     - {name: Agrik, type: affiliation, system: {shortcode: agrik, subType: divine}}

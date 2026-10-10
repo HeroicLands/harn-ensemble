@@ -210,18 +210,18 @@ sohl:
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-Stf}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-stf}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-RTunic}
-    - {model: sohl-sohl-armorgear-RLeg}
-    - {model: sohl-sohl-armorgear-WCap}
-    - {model: sohl-sohl-armorgear-LtCowl}
-    - {model: sohl-sohl-armorgear-KVamb}
-    - {model: sohl-sohl-armorgear-LtMntl}
+    - {model: sohl-sohl-armorgear-rtunic}
+    - {model: sohl-sohl-armorgear-rleg}
+    - {model: sohl-sohl-armorgear-wcap}
+    - {model: sohl-sohl-armorgear-ltcowl}
+    - {model: sohl-sohl-armorgear-kvamb}
+    - {model: sohl-sohl-armorgear-ltmntl}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtCBoot}
+    - {model: sohl-sohl-armorgear-ltcboot}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 106}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 3}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}

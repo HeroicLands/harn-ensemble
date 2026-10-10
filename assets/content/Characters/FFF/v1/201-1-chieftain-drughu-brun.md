@@ -180,10 +180,10 @@ sohl:
     - model: sohl-sohl-skill-wpnc
       name: "Weaponcraft: Stone tools"
       system: {masteryLevelBase: 72}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
-    - {model: sohl-sohl-weapongear-Clb}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
+    - {model: sohl-sohl-weapongear-clb}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LtLoin}
+    - {model: sohl-sohl-armorgear-ltloin}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 40}}
     - {name: Yavanna, type: affiliation, system: {shortcode: yavanna, subType: divine}}
     - name: Yavanna

@@ -202,10 +202,10 @@ sohl:
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 299}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-miscgear-incense}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}
     - name: Halea

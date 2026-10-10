@@ -217,10 +217,10 @@ sohl:
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 691}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {name: Unknown/broken Earthmaster item, type: miscgear, system: {value: 0, weight: 1}}
     - {model: sohl-sohl-miscgear-holysymbrass}
     - {model: sohl-sohl-miscgear-ringsilver}

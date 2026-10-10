@@ -205,27 +205,27 @@ sohl:
       system: {masteryLevelBase: 54}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-BrdSwd}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Lnc}
-    - {model: sohl-sohl-weapongear-KiSh}
-    - {model: sohl-sohl-armorgear-WDress}
-    - {model: sohl-sohl-armorgear-VVest}
-    - {model: sohl-sohl-armorgear-VCap}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-QCwl}
-    - {model: sohl-sohl-armorgear-GTnc}
-    - {model: sohl-sohl-armorgear-QTrsr}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-MCwl}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-MLeg}
-    - {model: sohl-sohl-armorgear-MMtn}
-    - {model: sohl-sohl-armorgear-Pl34Hlm}
-    - {model: sohl-sohl-armorgear-PlKncp}
-    - {model: sohl-sohl-armorgear-PlCou}
-    - {model: sohl-sohl-armorgear-PlBreast}
+    - {model: sohl-sohl-weapongear-brdswd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-lnc}
+    - {model: sohl-sohl-weapongear-kish}
+    - {model: sohl-sohl-armorgear-wdress}
+    - {model: sohl-sohl-armorgear-vvest}
+    - {model: sohl-sohl-armorgear-vcap}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-qcwl}
+    - {model: sohl-sohl-armorgear-gtnc}
+    - {model: sohl-sohl-armorgear-qtrsr}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-mcwl}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-mleg}
+    - {model: sohl-sohl-armorgear-mmtn}
+    - {model: sohl-sohl-armorgear-pl34hlm}
+    - {model: sohl-sohl-armorgear-plkncp}
+    - {model: sohl-sohl-armorgear-plcou}
+    - {model: sohl-sohl-armorgear-plbreast}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 71}}
     - {model: sohl-sohl-miscgear-gldcrwn}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}

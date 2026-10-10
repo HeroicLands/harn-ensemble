@@ -194,13 +194,13 @@ sohl:
     - {model: sohl-sohl-skill-law, name: "Law: Jarin", system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 46}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 87}}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-bpchsmslk}
-    - {model: sohl-sohl-armorgear-VRobe}
-    - {model: sohl-sohl-armorgear-VCap}
-    - {model: sohl-sohl-armorgear-VLeg}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-vrobe}
+    - {model: sohl-sohl-armorgear-vcap}
+    - {model: sohl-sohl-armorgear-vleg}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 40}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 4}}
     - {name: Ilvir, type: affiliation, system: {shortcode: ilvir, subType: divine}}

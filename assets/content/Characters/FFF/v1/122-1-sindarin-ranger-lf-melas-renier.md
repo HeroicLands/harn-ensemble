@@ -251,13 +251,13 @@ sohl:
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 95}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 72}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-LKni}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LtGlove}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-MByr}
+    - {model: sohl-sohl-weapongear-lkni}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-ltglove}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-mbyr}
     - {name: Cord of Querelia-Sim, type: miscgear, system: {value: 0, weight: 1}}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 70}}

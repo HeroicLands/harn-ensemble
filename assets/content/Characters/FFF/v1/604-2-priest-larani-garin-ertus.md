@@ -207,16 +207,16 @@ sohl:
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 33}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-BrdSwd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-brdswd}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-holysymsilver}
-    - {model: sohl-sohl-armorgear-RRobe}
-    - {model: sohl-sohl-armorgear-CScoat}
-    - {model: sohl-sohl-armorgear-LtVest}
-    - {model: sohl-sohl-armorgear-LCowl}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-LtCBoot}
+    - {model: sohl-sohl-armorgear-rrobe}
+    - {model: sohl-sohl-armorgear-cscoat}
+    - {model: sohl-sohl-armorgear-ltvest}
+    - {model: sohl-sohl-armorgear-lcowl}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-ltcboot}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 99}}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}
     - name: Larani

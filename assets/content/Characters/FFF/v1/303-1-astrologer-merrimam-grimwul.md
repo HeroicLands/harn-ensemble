@@ -258,12 +258,12 @@ sohl:
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 74}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-VTunic}
-    - {model: sohl-sohl-armorgear-VVest}
-    - {model: sohl-sohl-armorgear-VLeg}
-    - {model: sohl-sohl-armorgear-VCap}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-vtunic}
+    - {model: sohl-sohl-armorgear-vvest}
+    - {model: sohl-sohl-armorgear-vleg}
+    - {model: sohl-sohl-armorgear-vcap}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 144}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 5}}

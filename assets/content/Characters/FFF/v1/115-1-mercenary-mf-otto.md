@@ -214,20 +214,20 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 58}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 31}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-ShrtSwd}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Taburi, system: {quantity: 0}}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-KVamb}
-    - {model: sohl-sohl-armorgear-KCou}
-    - {model: sohl-sohl-armorgear-KKnee}
-    - {model: sohl-sohl-armorgear-PlHHelm}
-    - {model: sohl-sohl-armorgear-MByr}
+    - {model: sohl-sohl-weapongear-shrtswd}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-taburi, system: {quantity: 0}}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-kvamb}
+    - {model: sohl-sohl-armorgear-kcou}
+    - {model: sohl-sohl-armorgear-kknee}
+    - {model: sohl-sohl-armorgear-plhhelm}
+    - {model: sohl-sohl-armorgear-mbyr}
     - {model: sohl-sohl-containergear-vialglassm, system: {quantity: 2}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 92}}
     - {name: Naveh, type: affiliation, system: {shortcode: naveh, subType: divine}}

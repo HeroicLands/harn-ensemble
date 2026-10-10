@@ -159,14 +159,14 @@ sohl:
     - {model: sohl-sohl-skill-timb, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 481}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-RCowl}
-    - {model: sohl-sohl-armorgear-BLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-rcowl}
+    - {model: sohl-sohl-armorgear-bleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-backbagmed}
-    - {model: sohl-sohl-armorgear-RCap}
-    - {model: sohl-sohl-armorgear-SlsCap}
+    - {model: sohl-sohl-armorgear-rcap}
+    - {model: sohl-sohl-armorgear-slscap}
     - {model: sohl-sohl-containergear-wtrskin}
     - {model: sohl-sohl-miscgear-woodwrkkit}
   system:

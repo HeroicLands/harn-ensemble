@@ -163,14 +163,14 @@ sohl:
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 78}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1100}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-SgLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-SgTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-sgleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-sgtunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-WCap}
+    - {model: sohl-sohl-armorgear-wcap}
     - {model: sohl-sohl-miscgear-booktrvl}
     - {model: sohl-sohl-miscgear-medsupil}
     - {model: sohl-sohl-miscgear-pipesmokin}

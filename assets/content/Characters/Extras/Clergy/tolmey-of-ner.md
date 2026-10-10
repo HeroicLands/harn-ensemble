@@ -215,11 +215,11 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1073}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-kni}
     - {name: Jeweled Rod of Awe, type: miscgear, system: {value: 0, weight: 1}}
     - {model: sohl-sohl-miscgear-necklacebone}
     - {name: Naveh, type: affiliation, system: {shortcode: naveh, subType: divine}}

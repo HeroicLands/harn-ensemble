@@ -231,24 +231,24 @@ sohl:
       name: Horsecraft (Animalcraft)
       system: {masteryLevelBase: 52}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 38}}
-    - {model: sohl-sohl-weapongear-KnSh}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-BstdSwd}
-    - {model: sohl-sohl-weapongear-Lnc}
-    - {model: sohl-sohl-armorgear-VTunic}
-    - {model: sohl-sohl-armorgear-VLeg}
-    - {model: sohl-sohl-armorgear-LtVest}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-LtMntl}
-    - {model: sohl-sohl-armorgear-QCwl}
-    - {model: sohl-sohl-armorgear-GTnc}
-    - {model: sohl-sohl-armorgear-QTrsr}
-    - {model: sohl-sohl-armorgear-MCwl}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-MLeg}
-    - {model: sohl-sohl-armorgear-MMtn}
-    - {model: sohl-sohl-armorgear-PlGtHlm}
-    - {model: sohl-sohl-armorgear-CScoat}
+    - {model: sohl-sohl-weapongear-knsh}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-bstdswd}
+    - {model: sohl-sohl-weapongear-lnc}
+    - {model: sohl-sohl-armorgear-vtunic}
+    - {model: sohl-sohl-armorgear-vleg}
+    - {model: sohl-sohl-armorgear-ltvest}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-ltmntl}
+    - {model: sohl-sohl-armorgear-qcwl}
+    - {model: sohl-sohl-armorgear-gtnc}
+    - {model: sohl-sohl-armorgear-qtrsr}
+    - {model: sohl-sohl-armorgear-mcwl}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-mleg}
+    - {model: sohl-sohl-armorgear-mmtn}
+    - {model: sohl-sohl-armorgear-plgthlm}
+    - {model: sohl-sohl-armorgear-cscoat}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 108}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 10}}
     - {name: Christian, type: affiliation, system: {shortcode: christian, subType: divine}}

@@ -197,16 +197,16 @@ sohl:
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Falcn}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-QTnc}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-LtTunic}
-    - {model: sohl-sohl-armorgear-KVamb}
-    - {model: sohl-sohl-armorgear-KHlfHelm}
+    - {model: sohl-sohl-weapongear-falcn}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-qtnc}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-lttunic}
+    - {model: sohl-sohl-armorgear-kvamb}
+    - {model: sohl-sohl-armorgear-khlfhelm}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 5}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni

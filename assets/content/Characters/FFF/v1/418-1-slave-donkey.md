@@ -140,7 +140,7 @@ sohl:
     - {model: sohl-sohl-skill-trip}
     - {model: sohl-sohl-mysticalability-sprt}
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 63}}
-    - {model: sohl-sohl-armorgear-CLoin}
+    - {model: sohl-sohl-armorgear-cloin}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni
       type: skill

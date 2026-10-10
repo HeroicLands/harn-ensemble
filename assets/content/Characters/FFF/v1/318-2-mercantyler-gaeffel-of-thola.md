@@ -216,15 +216,15 @@ sohl:
     - {model: sohl-sohl-skill-txtl, name: Valuation (Textilecraft), system: {masteryLevelBase: 54}}
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wpnc, name: Valuation (Weaponcraft), system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Stk, name: Stick (2ft)}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
-    - {model: sohl-sohl-weapongear-Bklr}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LShirt}
-    - {model: sohl-sohl-armorgear-LRobe}
-    - {model: sohl-sohl-armorgear-CvCloak}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-stk, name: Stick (2ft)}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
+    - {model: sohl-sohl-weapongear-bklr}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-lshirt}
+    - {model: sohl-sohl-armorgear-lrobe}
+    - {model: sohl-sohl-armorgear-cvcloak}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 61}}

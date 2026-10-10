@@ -227,19 +227,19 @@ sohl:
       system: {masteryLevelBase: 36}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-weapongear-KnSh}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-BstdSwd}
+    - {model: sohl-sohl-weapongear-knsh}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-bstdswd}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-QCwl}
-    - {model: sohl-sohl-armorgear-GTnc}
-    - {model: sohl-sohl-armorgear-MCwl}
-    - {model: sohl-sohl-armorgear-MHbk}
-    - {model: sohl-sohl-armorgear-Pl34Hlm}
-    - {model: sohl-sohl-armorgear-LtTrsr}
-    - {model: sohl-sohl-armorgear-LtKBoot}
-    - {model: sohl-sohl-armorgear-RMtn}
-    - {model: sohl-sohl-armorgear-CScoat}
+    - {model: sohl-sohl-armorgear-qcwl}
+    - {model: sohl-sohl-armorgear-gtnc}
+    - {model: sohl-sohl-armorgear-mcwl}
+    - {model: sohl-sohl-armorgear-mhbk}
+    - {model: sohl-sohl-armorgear-pl34hlm}
+    - {model: sohl-sohl-armorgear-lttrsr}
+    - {model: sohl-sohl-armorgear-ltkboot}
+    - {model: sohl-sohl-armorgear-rmtn}
+    - {model: sohl-sohl-armorgear-cscoat}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 76}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 2}}
     - {name: Agrik, type: affiliation, system: {shortcode: agrik, subType: divine}}

@@ -164,11 +164,11 @@ sohl:
     - {model: sohl-sohl-skill-fish, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-weapongear-Slng}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-weapongear-slng}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
     - {model: sohl-sohl-miscgear-pence}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}
     - name: Larani

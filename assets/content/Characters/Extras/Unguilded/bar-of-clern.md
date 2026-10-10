@@ -169,19 +169,19 @@ sohl:
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 923}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Clb}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-projectilegear-ArwStd, system: {quantity: 12}}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-clb}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 12}}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-miscgear-broochcopper}
     - {model: sohl-sohl-miscgear-cookkit}
-    - {model: sohl-sohl-armorgear-LtCap}
+    - {model: sohl-sohl-armorgear-ltcap}
     - {model: sohl-sohl-miscgear-spoonpewte}
     - {model: sohl-sohl-miscgear-tankardpew}
   system:

@@ -187,13 +187,13 @@ sohl:
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 27}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 41}}
     - {model: sohl-sohl-skill-mtlc, name: Ferrier (Metalcraft), system: {masteryLevelBase: 46}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-ShrtSwd}
-    - {model: sohl-sohl-armorgear-VCap}
-    - {model: sohl-sohl-armorgear-VTunic}
-    - {model: sohl-sohl-armorgear-VLeg}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-LtCBoot}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-shrtswd}
+    - {model: sohl-sohl-armorgear-vcap}
+    - {model: sohl-sohl-armorgear-vtunic}
+    - {model: sohl-sohl-armorgear-vleg}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-ltcboot}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 95}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 2}}

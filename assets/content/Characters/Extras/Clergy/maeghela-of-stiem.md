@@ -206,11 +206,11 @@ sohl:
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 1720}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-miscgear-broochbone}
     - {model: sohl-sohl-miscgear-holysymwood}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}

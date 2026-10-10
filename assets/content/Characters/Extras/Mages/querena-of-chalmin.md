@@ -222,17 +222,17 @@ sohl:
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 2825}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-WClk}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-WLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-WTunic}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-armorgear-wclk}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-wleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-wtunic}
+    - {model: sohl-sohl-weapongear-dgr}
     - {name: Decanter of Tears, type: miscgear, system: {value: 0, weight: 1}}
     - {model: sohl-sohl-containergear-backbagmed}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-WCap}
+    - {model: sohl-sohl-armorgear-wcap}
     - {model: sohl-sohl-miscgear-medsupil}
     - {model: sohl-sohl-miscgear-scribekit}
     - {model: sohl-sohl-miscgear-ringgold}

@@ -225,10 +225,10 @@ sohl:
       system: {shortcode: languageshorka, masteryLevelBase: 52}
     - {model: sohl-sohl-skill-script, name: "Script: Lakise", system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 35}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-VTunic}
-    - {model: sohl-sohl-armorgear-VLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-vtunic}
+    - {model: sohl-sohl-armorgear-vleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-harpjarind}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 27}}
     - {name: Halea, type: affiliation, system: {shortcode: halea, subType: divine}}

@@ -174,12 +174,12 @@ sohl:
       system: {shortcode: languagejarinesebujoc, masteryLevelBase: 68}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 98}}
-    - {model: sohl-sohl-weapongear-Clb}
+    - {model: sohl-sohl-weapongear-clb}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LRobe}
-    - {model: sohl-sohl-armorgear-CvCloak}
-    - {model: sohl-sohl-armorgear-CHood}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-lrobe}
+    - {model: sohl-sohl-armorgear-cvcloak}
+    - {model: sohl-sohl-armorgear-chood}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 24}}
   system:
     body:

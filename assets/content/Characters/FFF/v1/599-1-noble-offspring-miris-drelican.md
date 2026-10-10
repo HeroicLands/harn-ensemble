@@ -168,7 +168,7 @@ sohl:
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 18}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 77}}
     - {name: Larani, type: affiliation, system: {shortcode: larani, subType: divine}}
     - name: Larani

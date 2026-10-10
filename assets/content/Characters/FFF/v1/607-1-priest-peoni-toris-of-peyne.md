@@ -205,16 +205,16 @@ sohl:
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-bgsmcvs}
     - {model: sohl-sohl-containergear-inkwellgla}
     - {model: sohl-sohl-miscgear-penquill, system: {quantity: 4}}
     - {model: sohl-sohl-miscgear-parchment}
     - {model: sohl-sohl-miscgear-booktrvl}
-    - {model: sohl-sohl-armorgear-LCap}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-lcap}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni

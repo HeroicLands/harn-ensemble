@@ -168,12 +168,12 @@ sohl:
     - {model: sohl-sohl-skill-glas, name: Glasswork (Glasscraft), system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 41}}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-CvTunic}
-    - {model: sohl-sohl-armorgear-CvLeg}
-    - {model: sohl-sohl-armorgear-WCap}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-cvtunic}
+    - {model: sohl-sohl-armorgear-cvleg}
+    - {model: sohl-sohl-armorgear-wcap}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 38}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni

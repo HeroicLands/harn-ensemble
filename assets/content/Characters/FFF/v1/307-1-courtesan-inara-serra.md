@@ -207,11 +207,11 @@ sohl:
       name: Embroidery (Textilecraft)
       system: {masteryLevelBase: 44}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Dgr}
+    - {model: sohl-sohl-weapongear-dgr}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-SlkDress}
-    - {model: sohl-sohl-armorgear-VClk}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-slkdress}
+    - {model: sohl-sohl-armorgear-vclk}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 52}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 4}}

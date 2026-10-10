@@ -197,18 +197,18 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 49}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-weapongear-Clb}
-    - {model: sohl-sohl-weapongear-ShrtSwd}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
-    - {model: sohl-sohl-armorgear-CTunic}
-    - {model: sohl-sohl-armorgear-BCowl}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-weapongear-clb}
+    - {model: sohl-sohl-weapongear-shrtswd}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
+    - {model: sohl-sohl-armorgear-ctunic}
+    - {model: sohl-sohl-armorgear-bcowl}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtCBoot}
-    - {model: sohl-sohl-armorgear-PlHHelm}
-    - {model: sohl-sohl-armorgear-LtVest}
+    - {model: sohl-sohl-armorgear-ltcboot}
+    - {model: sohl-sohl-armorgear-plhhelm}
+    - {model: sohl-sohl-armorgear-ltvest}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-weapongear-Stf}
+    - {model: sohl-sohl-weapongear-stf}
     - {model: sohl-sohl-containergear-lanternmet}
     - {model: sohl-sohl-containergear-flaskmetal}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 61}}

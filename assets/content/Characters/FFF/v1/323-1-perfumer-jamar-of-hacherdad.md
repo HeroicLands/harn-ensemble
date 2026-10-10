@@ -213,16 +213,16 @@ sohl:
     - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 82}}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Falcn}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-falcn}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-VRobe}
-    - {model: sohl-sohl-armorgear-VLeg}
+    - {model: sohl-sohl-armorgear-vrobe}
+    - {model: sohl-sohl-armorgear-vleg}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-KHlfHelm}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-khlfhelm}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 370}}
     - {name: Nalma, type: affiliation, system: {shortcode: nalma, subType: divine}}
     - name: Nalma

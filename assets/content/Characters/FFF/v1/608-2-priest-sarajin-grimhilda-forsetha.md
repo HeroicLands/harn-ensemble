@@ -222,9 +222,9 @@ sohl:
     - {model: sohl-sohl-skill-law, name: "Law: Ivinian", system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-mysticalability-runecft, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 40}}
-    - {model: sohl-sohl-weapongear-BAxe}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-RndSh}
+    - {model: sohl-sohl-weapongear-baxe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-rndsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 372}}
     - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 4}}
     - {name: Sarajin, type: affiliation, system: {shortcode: sarajin, subType: divine}}

@@ -211,10 +211,10 @@ sohl:
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 573}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-CShoe}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-cshoe}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-weapongear-kni}
     - {name: "Tarot Cards, deck", type: miscgear, system: {value: 75, weight: 0.5}}
     - {model: sohl-sohl-miscgear-holysymwood}
     - {name: Siem, type: affiliation, system: {shortcode: siem, subType: divine}}

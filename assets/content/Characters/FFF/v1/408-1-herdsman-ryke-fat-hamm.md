@@ -192,13 +192,13 @@ sohl:
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 47}}
     - {model: sohl-sohl-skill-trak, name: Sheep (Tracking), system: {masteryLevelBase: 90}}
     - {model: sohl-sohl-containergear-pouchbuckram}
-    - {model: sohl-sohl-weapongear-Stf}
-    - {model: sohl-sohl-weapongear-Kni}
-    - {model: sohl-sohl-weapongear-Slng}
+    - {model: sohl-sohl-weapongear-stf}
+    - {model: sohl-sohl-weapongear-kni}
+    - {model: sohl-sohl-weapongear-slng}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-LCap}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
+    - {model: sohl-sohl-armorgear-lcap}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 12}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni

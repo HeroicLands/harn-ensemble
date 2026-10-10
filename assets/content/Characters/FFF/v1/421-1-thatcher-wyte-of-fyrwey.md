@@ -187,14 +187,14 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 31}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 38}}
     - {model: sohl-sohl-skill-timb, system: {masteryLevelBase: 38}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Clb}
-    - {model: sohl-sohl-weapongear-Skl}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-clb}
+    - {model: sohl-sohl-weapongear-skl}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-CvTunic}
-    - {model: sohl-sohl-armorgear-CvLeg}
-    - {model: sohl-sohl-armorgear-WCap}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-cvtunic}
+    - {model: sohl-sohl-armorgear-cvleg}
+    - {model: sohl-sohl-armorgear-wcap}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 142}}
     - {model: sohl-sohl-miscgear-gldcrwn}
     - {name: Ilvir, type: affiliation, system: {shortcode: ilvir, subType: divine}}

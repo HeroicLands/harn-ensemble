@@ -181,12 +181,12 @@ sohl:
       system: {masteryLevelBase: 42}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 78}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-Skl}
-    - {model: sohl-sohl-armorgear-WDress}
-    - {model: sohl-sohl-armorgear-LCap}
-    - {model: sohl-sohl-armorgear-LApn}
+    - {model: sohl-sohl-weapongear-skl}
+    - {model: sohl-sohl-armorgear-wdress}
+    - {model: sohl-sohl-armorgear-lcap}
+    - {model: sohl-sohl-armorgear-lapn}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
     - {model: sohl-sohl-containergear-vialglassm, system: {quantity: 5}}

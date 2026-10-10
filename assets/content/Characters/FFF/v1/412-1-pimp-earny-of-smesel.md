@@ -164,12 +164,12 @@ sohl:
     - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 29}}
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-shpw, system: {masteryLevelBase: 34}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-Clb}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-weapongear-Taburi}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-clb}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-weapongear-taburi}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 36}}
   system:
     body:

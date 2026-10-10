@@ -168,13 +168,13 @@ sohl:
     - {model: sohl-sohl-skill-agri, name: Cowcraft (Agriculture), system: {masteryLevelBase: 41}}
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 31}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-weapongear-LBw50}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-weapongear-lbw50}
     - {model: sohl-sohl-containergear-beltpouchl3}
-    - {model: sohl-sohl-armorgear-CvTunic}
-    - {model: sohl-sohl-armorgear-CvLeg}
-    - {model: sohl-sohl-armorgear-LCap}
-    - {model: sohl-sohl-armorgear-LtShoe}
+    - {model: sohl-sohl-armorgear-cvtunic}
+    - {model: sohl-sohl-armorgear-cvleg}
+    - {model: sohl-sohl-armorgear-lcap}
+    - {model: sohl-sohl-armorgear-ltshoe}
     - {model: sohl-sohl-containergear-quiverlgsh}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 54}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}

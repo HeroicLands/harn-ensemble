@@ -181,18 +181,18 @@ sohl:
     - {model: sohl-sohl-skill-lang, name: "Language: Harnic", system: {masteryLevelBase: 63}}
     - {model: sohl-sohl-skill-agri, name: Oxcraft (Agriculture), system: {masteryLevelBase: 76}}
     - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 86}}
-    - {model: sohl-sohl-weapongear-RndSh}
-    - {model: sohl-sohl-weapongear-Clb}
-    - {model: sohl-sohl-weapongear-Stf}
-    - {model: sohl-sohl-weapongear-Spr, system: {quantity: 0}}
+    - {model: sohl-sohl-weapongear-rndsh}
+    - {model: sohl-sohl-weapongear-clb}
+    - {model: sohl-sohl-weapongear-stf}
+    - {model: sohl-sohl-weapongear-spr, system: {quantity: 0}}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-armorgear-LTunic}
-    - {model: sohl-sohl-armorgear-LLeg}
-    - {model: sohl-sohl-armorgear-LCowl}
+    - {model: sohl-sohl-armorgear-ltunic}
+    - {model: sohl-sohl-armorgear-lleg}
+    - {model: sohl-sohl-armorgear-lcowl}
     - {model: sohl-sohl-miscgear-beltwaist}
-    - {model: sohl-sohl-armorgear-LtShoe}
-    - {model: sohl-sohl-armorgear-KHlfHelm}
+    - {model: sohl-sohl-armorgear-ltshoe}
+    - {model: sohl-sohl-armorgear-khlfhelm}
     - {model: sohl-sohl-miscgear-pence, system: {quantity: 36}}
     - {name: Peoni, type: affiliation, system: {shortcode: peoni, subType: divine}}
     - name: Peoni

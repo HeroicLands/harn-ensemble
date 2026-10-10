@@ -203,11 +203,11 @@ sohl:
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 77}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 82}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 67}}
-    - {model: sohl-sohl-weapongear-Dgr}
-    - {model: sohl-sohl-armorgear-LRobe}
+    - {model: sohl-sohl-weapongear-dgr}
+    - {model: sohl-sohl-armorgear-lrobe}
     - {model: sohl-sohl-containergear-beltpouchl3}
     - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-weapongear-Kni}
+    - {model: sohl-sohl-weapongear-kni}
     - {model: sohl-sohl-containergear-inkwellgla}
     - {model: sohl-sohl-miscgear-penquill, system: {quantity: 4}}
     - {name: Save-K'nor, type: affiliation, system: {shortcode: saveknor, subType: divine}}
