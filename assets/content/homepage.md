@@ -44,3 +44,7 @@ where issues and contributions are welcome.
 It is released under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) —
 Attribution-NonCommercial-ShareAlike.
+
+## Credits
+
+The authors, editors, artists and art sponsors behind the characters are listed on the [Credits](doc-credits/) page.
