@@ -12,7 +12,7 @@ data:
   species: gargunflk
   height: 9' 11"
   weight: 410 lbs
-  frame: huge
+  frame: massive
   appearance:
     eye_color: black
     hair_color: black

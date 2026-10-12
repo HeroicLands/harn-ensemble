@@ -14,7 +14,7 @@ data:
   born: 669.281
   height: 5' 6"
   weight: 145 lbs
-  frame: average
+  frame: medium
   appearance:
     eye_color: green
     hair_color: blonde
