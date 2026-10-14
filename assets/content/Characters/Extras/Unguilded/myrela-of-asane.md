@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: medium
-    complexion: attractive
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Guardsman, Heavy

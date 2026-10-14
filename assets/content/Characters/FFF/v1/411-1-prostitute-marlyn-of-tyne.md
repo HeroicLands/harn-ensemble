@@ -19,7 +19,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: fair
-    complexion: plain
+    complexion: [clear]
     extra_features: [Birthmark on right hand]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded

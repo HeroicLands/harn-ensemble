@@ -15,11 +15,11 @@ data:
   weight: 247 lbs
   frame: medium
   appearance:
-    eye_color: brown
-    hair_color: black
-    skin_color: dark
-    complexion: attractive
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

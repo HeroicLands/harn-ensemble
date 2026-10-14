@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: medium
-    complexion: average
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
   occupation: Cleric/Larani

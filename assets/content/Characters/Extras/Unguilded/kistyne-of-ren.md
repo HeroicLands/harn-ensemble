@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: fair
-    complexion: attractive
-    extra_features: [Lycanthropy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
   packFolder: extrasunguilded
   occupation: Shaman

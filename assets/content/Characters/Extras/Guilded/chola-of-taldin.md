@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: average
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Harper/Skald

@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: dark
-    complexion: average
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Baliff

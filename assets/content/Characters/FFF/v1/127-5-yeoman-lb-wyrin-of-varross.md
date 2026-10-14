@@ -19,7 +19,7 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: fair
-    complexion: plain
+    complexion: [clear]
     extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [peoni, sarajin]}
   packFolder: fffmilitary

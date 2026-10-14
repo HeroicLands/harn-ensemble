@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: medium
-    complexion: attractive
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Herald

@@ -16,10 +16,10 @@ data:
   frame: heavy
   appearance:
     eye_color: hazel
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: medium
-    complexion: average
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Patrician

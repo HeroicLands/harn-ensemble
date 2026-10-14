@@ -19,7 +19,7 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: dark
-    complexion: average
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [nalma]}
   packFolder: fffguilded

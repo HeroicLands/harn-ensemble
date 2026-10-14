@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: dark
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Herald

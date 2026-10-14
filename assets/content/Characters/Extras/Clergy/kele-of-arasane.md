@@ -16,10 +16,10 @@ data:
   frame: light
   appearance:
     eye_color: amber
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: medium
-    complexion: plain
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

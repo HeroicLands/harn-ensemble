@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: medium
-    complexion: attractive
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Guardsman, Light

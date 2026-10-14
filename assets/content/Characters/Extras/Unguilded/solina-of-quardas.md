@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: blonde
     skin_color: fair
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Laborer/Longshoreman

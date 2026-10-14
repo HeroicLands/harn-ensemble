@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: medium
-    complexion: ugly
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

@@ -17,10 +17,10 @@ data:
   frame: massive
   appearance:
     eye_color: green
-    hair_color: red (mostly bald)
+    hair_color: red
     skin_color: fair
-    complexion: average
-    extra_features: [Moustache & beard]
+    complexion: [clear]
+    extra_features: [moustache and beard, mostly bald]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary
   occupation: Clansman (MF)

@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: dark
-    complexion: plain
-    extra_features: [Lycanthropy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Laborer/Longshoreman

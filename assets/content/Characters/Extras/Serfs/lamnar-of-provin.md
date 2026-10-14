@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: medium
-    complexion: average
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Gladiator

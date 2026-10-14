@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: swarthy
-    complexion: plain
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
   occupation: Cleric/Agrik

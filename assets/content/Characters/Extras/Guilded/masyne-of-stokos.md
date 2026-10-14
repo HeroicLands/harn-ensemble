@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: auburn
     skin_color: dark
-    complexion: attractive
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Locksmith

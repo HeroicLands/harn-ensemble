@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: ugly
-    extra_features: [Acne scars on face]
+    complexion: [scarred]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
   occupation: Timberwright

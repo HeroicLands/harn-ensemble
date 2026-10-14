@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: pale
-    complexion: attractive
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Pilot

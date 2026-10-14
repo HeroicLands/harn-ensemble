@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: red
     skin_color: fair
-    complexion: beautiful
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Khuzdul High Guard

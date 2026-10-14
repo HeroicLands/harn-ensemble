@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: dark
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Herdsman

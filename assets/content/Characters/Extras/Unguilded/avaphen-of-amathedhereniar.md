@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: pale
-    complexion: attractive
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Sindarin Horsebow

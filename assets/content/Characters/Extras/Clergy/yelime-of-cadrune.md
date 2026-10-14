@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: auburn
     skin_color: medium
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: extrasclergy
   occupation: Cleric/Halea

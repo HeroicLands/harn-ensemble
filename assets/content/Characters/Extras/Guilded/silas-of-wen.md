@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: medium
-    complexion: plain
-    extra_features: [Dwarfism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Salter

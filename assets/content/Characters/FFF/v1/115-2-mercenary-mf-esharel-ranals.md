@@ -19,7 +19,7 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: attractive
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary

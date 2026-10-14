@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: medium
-    complexion: average
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Yeoman, Longbow

@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: red
     skin_color: pale
-    complexion: average
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Woodcrafter

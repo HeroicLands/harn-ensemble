@@ -16,11 +16,11 @@ data:
   weight: 105 lbs
   frame: heavy
   appearance:
-    eye_color: auburn
-    hair_color: dark red
-    skin_color: pallid
-    complexion: ugly
-    extra_features: [Beard kilt, Khuzdul- made scale armor, axe, fine cloak]
+    eye_color: amber
+    hair_color: auburn
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
   occupation: King

@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: grey
     skin_color: medium
-    complexion: plain
-    extra_features: [Constantly sneezing around dogs, cats, Beard, moustache]
+    complexion: [clear]
+    extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
   occupation: Jeweller

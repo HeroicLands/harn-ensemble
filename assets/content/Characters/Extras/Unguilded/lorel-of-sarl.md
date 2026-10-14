@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: fair
-    complexion: plain
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Scribe

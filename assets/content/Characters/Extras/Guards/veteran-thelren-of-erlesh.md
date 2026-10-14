@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: auburn
     skin_color: pale
-    complexion: beautiful
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: fair
-    complexion: plain
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
   occupation: Cleric/Ilvir

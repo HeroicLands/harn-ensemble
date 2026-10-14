@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: silver
     skin_color: fair
-    complexion: plain
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: extrasclergy
   occupation: Cleric/Sarajin

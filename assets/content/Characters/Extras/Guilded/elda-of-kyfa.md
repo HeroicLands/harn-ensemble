@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: swarthy
-    complexion: plain
-    extra_features: [Lycanthropy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Ostler

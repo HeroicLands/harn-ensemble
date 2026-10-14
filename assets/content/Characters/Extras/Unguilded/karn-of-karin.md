@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: swarthy
-    complexion: plain
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Militia

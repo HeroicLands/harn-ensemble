@@ -18,8 +18,8 @@ data:
   appearance:
     eye_color: black
     hair_color: black
-    skin_color: pallid
-    complexion: ugly
+    skin_color: pale
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans

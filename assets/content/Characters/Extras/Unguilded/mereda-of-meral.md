@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: silver
     skin_color: medium
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Imperial Legionnaire, Medium

@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: dark
-    complexion: beautiful
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Glassworker

@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: blonde
     skin_color: medium
-    complexion: attractive
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded

@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: swarthy
-    complexion: average
-    extra_features: [Gigantism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Laborer/Longshoreman

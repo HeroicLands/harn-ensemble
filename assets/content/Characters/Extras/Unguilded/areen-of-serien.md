@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: auburn
     skin_color: medium
-    complexion: average
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Cartographer/Artist

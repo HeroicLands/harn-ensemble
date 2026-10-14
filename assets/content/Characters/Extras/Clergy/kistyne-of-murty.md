@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: medium
-    complexion: plain
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy
   occupation: Cleric/Peoni

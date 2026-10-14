@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: pale
-    complexion: plain
-    extra_features: [Hirsutism]
+    complexion: [clear]
+    extra_features: [excess body hair]
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
   occupation: Cleric/Agrik

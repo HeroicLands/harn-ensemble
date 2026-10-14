@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: swarthy
-    complexion: attractive
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Teamster

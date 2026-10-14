@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: pale
-    complexion: attractive
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

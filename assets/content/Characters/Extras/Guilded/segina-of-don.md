@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: attractive
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Charcoaler

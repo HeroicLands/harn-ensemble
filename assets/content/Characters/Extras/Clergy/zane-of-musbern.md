@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: dark
-    complexion: average
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
   occupation: Cleric/Naveh

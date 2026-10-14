@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: brown
     skin_color: medium
-    complexion: attractive
-    extra_features: [Lycanthropy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Thespian

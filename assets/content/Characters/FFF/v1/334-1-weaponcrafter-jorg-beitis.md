@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: fair
-    complexion: average
-    extra_features: [Burn scars on his left hand, a limp, Carry a long narrow package]
+    complexion: [clear]
+    extra_features: [Burn scars on his left hand, a limp]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
   occupation: Weaponcrafter

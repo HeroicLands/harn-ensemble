@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: pale
-    complexion: plain
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
   occupation: Cleric/Naveh

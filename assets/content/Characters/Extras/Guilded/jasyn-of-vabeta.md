@@ -16,10 +16,10 @@ data:
   frame: heavy
   appearance:
     eye_color: brown
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: dark
-    complexion: ugly
-    extra_features: [One Eye Missing/Blind]
+    complexion: [clear]
+    extra_features: [one eye missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Mercantyler

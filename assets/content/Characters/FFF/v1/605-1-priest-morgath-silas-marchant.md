@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: fair
-    complexion: plain
-    extra_features: [Pox scars]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: fffclergy
   occupation: Priest of Morgath

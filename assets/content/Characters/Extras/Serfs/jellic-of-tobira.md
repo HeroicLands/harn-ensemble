@@ -18,7 +18,7 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: fair
-    complexion: attractive
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs

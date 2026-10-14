@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: blonde
     skin_color: medium
-    complexion: plain
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Yeoman, Shortbow

@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: pale
-    complexion: plain
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
   occupation: Shek-Pvar/Savorya**

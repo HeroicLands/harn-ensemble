@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: pale
-    complexion: average
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Chandler

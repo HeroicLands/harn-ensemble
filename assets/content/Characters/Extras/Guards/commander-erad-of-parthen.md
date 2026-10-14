@@ -18,7 +18,7 @@ data:
     eye_color: violet
     hair_color: blonde
     skin_color: pale
-    complexion: beautiful
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards

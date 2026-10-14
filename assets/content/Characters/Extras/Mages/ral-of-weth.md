@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: auburn
     skin_color: fair
-    complexion: average
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
   occupation: Shek-Pvar/Lyahvi***

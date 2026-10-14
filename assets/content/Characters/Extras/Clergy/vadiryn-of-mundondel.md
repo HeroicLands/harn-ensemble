@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: pale
-    complexion: average
-    extra_features: [One Eye Missing/Blind]
+    complexion: [clear]
+    extra_features: [one eye missing]
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
   occupation: Cleric/Morgath

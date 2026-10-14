@@ -16,10 +16,10 @@ data:
   frame: light
   appearance:
     eye_color: brown
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: medium
-    complexion: average
-    extra_features: [Hirsutism]
+    complexion: [clear]
+    extra_features: [excess body hair]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Imperial Militia

@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: medium
-    complexion: average
-    extra_features: [One Ear Missing/Deaf]
+    complexion: [clear]
+    extra_features: [one ear missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

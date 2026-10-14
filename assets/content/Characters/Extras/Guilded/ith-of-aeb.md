@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: swarthy
-    complexion: beautiful
-    extra_features: [One Ear Missing/Deaf]
+    complexion: [clear]
+    extra_features: [one ear missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Alchemist

@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: average
-    extra_features: [Left handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: fffmilitary
   occupation: Mercenary (MF)

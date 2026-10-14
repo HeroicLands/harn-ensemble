@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: medium
-    complexion: average
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Cartographer/Artist

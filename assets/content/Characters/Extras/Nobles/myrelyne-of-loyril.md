@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: medium
-    complexion: average
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Viking Huscarl, Medium Foot

@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: blonde
     skin_color: medium
-    complexion: ugly
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy

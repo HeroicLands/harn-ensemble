@@ -18,7 +18,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: attractive
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages

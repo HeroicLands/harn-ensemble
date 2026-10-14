@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: dark
-    complexion: attractive
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: extrasclergy
   occupation: Cleric/Sarajin

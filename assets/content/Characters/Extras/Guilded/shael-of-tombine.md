@@ -16,10 +16,10 @@ data:
   frame: scant
   appearance:
     eye_color: hazel
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: medium
-    complexion: average
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Charcoaler

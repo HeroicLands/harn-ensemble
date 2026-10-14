@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: blonde
     skin_color: pale
-    complexion: attractive
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Patrician

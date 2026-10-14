@@ -15,11 +15,11 @@ data:
   weight: 180 lbs
   frame: medium
   appearance:
-    eye_color: amber
-    hair_color: blonde
-    skin_color: fair
-    complexion: plain
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
   packFolder: extrasunguilded
   occupation: Shaman

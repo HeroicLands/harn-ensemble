@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: fair
-    complexion: plain
-    extra_features: [Several scars, a limp, Speaks very slowly]
+    complexion: [clear]
+    extra_features: [Several scars, a limp]
   harnworld: {realm: "", ritual: [peoni, larani]}
   packFolder: fffunguilded
   occupation: Day labourer

@@ -17,9 +17,9 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: brown and grey
+    hair_color: "greying_brown"
     skin_color: medium
-    complexion: average
+    complexion: [clear]
     extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffunguilded

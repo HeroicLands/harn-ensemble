@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: pale
-    complexion: plain
-    extra_features: [Dwarfism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
   occupation: Cleric/Agrik

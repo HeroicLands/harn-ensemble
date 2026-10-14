@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: pale
-    complexion: attractive
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Pilot

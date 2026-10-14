@@ -19,8 +19,8 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: fair
-    complexion: average
-    extra_features: [Scars, parasites, pox marks, missing both thumbs]
+    complexion: [pockmarked]
+    extra_features: [Scars, missing both thumbs]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
   occupation: Slave

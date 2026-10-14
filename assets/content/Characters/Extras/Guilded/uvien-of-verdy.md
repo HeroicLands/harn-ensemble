@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: medium
-    complexion: ugly
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Physician

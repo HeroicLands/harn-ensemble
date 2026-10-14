@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: red
     skin_color: medium
-    complexion: beautiful
-    extra_features: [One Eye Missing/Blind]
+    complexion: [clear]
+    extra_features: [one eye missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Khuzdul High Guard

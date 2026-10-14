@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: dark
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Mercantyler

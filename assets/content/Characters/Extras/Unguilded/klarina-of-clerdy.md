@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: swarthy
-    complexion: plain
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Animal Trainer

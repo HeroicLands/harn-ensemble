@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: blonde
     skin_color: swarthy
-    complexion: plain
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Ratter

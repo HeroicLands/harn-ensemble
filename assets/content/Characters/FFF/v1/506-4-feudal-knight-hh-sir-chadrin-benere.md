@@ -19,8 +19,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: medium
-    complexion: average
-    extra_features: [Often drinking or drunk]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
   occupation: Knight Bachelor (HH)

@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: red
     skin_color: medium
-    complexion: attractive
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
   occupation: Cleric/Larani

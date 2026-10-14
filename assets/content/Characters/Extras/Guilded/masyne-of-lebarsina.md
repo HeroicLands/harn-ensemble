@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: blonde
     skin_color: swarthy
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Charcoaler

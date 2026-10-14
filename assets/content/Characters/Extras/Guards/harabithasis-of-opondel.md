@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: dark
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

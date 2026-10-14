@@ -17,9 +17,9 @@ data:
   frame: light
   appearance:
     eye_color: blue
-    hair_color: tawny
+    hair_color: "dark_blonde"
     skin_color: fair
-    complexion: attractive
+    complexion: [clear]
     extra_features: [Neat beard]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded

@@ -16,9 +16,9 @@ data:
   frame: light
   appearance:
     eye_color: hazel
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: medium
-    complexion: average
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles

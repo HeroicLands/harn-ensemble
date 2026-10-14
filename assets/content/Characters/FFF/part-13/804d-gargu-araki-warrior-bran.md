@@ -15,12 +15,7 @@ data:
   height: 3' 2"
   weight: 72 lbs
   frame: medium
-  appearance:
-    eye_color: brown
-    hair_color: yellowish brown
-    skin_color: ""
-    complexion: shifty
-    extra_features: []
+  appearance: {eye_color: brown, hair_color: "dark_blonde", complexion: [], extra_features: []}
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
   occupation: Warrior

@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: blonde
     skin_color: fair
-    complexion: attractive
-    extra_features: [Left handed, Broken nose, scars]
+    complexion: [clear]
+    extra_features: [Broken nose, scars]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
   occupation: Servant

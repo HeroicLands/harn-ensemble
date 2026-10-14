@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: silver
     skin_color: pale
-    complexion: plain
-    extra_features: [One Eye Missing/Blind]
+    complexion: [clear]
+    extra_features: [one eye missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Sindarin Horsebow

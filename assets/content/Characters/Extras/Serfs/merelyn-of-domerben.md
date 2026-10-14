@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: blonde
     skin_color: medium
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Cook/Servant

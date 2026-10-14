@@ -16,10 +16,10 @@ data:
   frame: light
   appearance:
     eye_color: green
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: swarthy
-    complexion: attractive
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Yeoman, Longbow

@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: auburn
     skin_color: pale
-    complexion: beautiful
-    extra_features: [Gigantism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
   occupation: Shek-Pvar/Peleahn****

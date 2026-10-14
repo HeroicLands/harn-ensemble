@@ -15,11 +15,11 @@ data:
   weight: 249 lbs
   frame: light
   appearance:
-    eye_color: green
-    hair_color: blonde
+    eye_color: violet
+    hair_color: white
     skin_color: pale
-    complexion: average
-    extra_features: [Albinism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
   occupation: Cleric/Morgath

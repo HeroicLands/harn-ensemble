@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: brown
     skin_color: swarthy
-    complexion: plain
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Thatcher

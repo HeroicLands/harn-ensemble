@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: attractive
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
   occupation: Cleric/Morgath

@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: auburn
     skin_color: medium
-    complexion: average
-    extra_features: [Dwarfism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
   occupation: Shek-Pvar/Savorya*****

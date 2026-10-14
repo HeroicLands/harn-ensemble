@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: pale
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Miller/Millwright

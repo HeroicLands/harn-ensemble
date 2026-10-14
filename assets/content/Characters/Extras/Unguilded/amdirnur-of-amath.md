@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: fair
-    complexion: average
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Sindarin Horsebow

@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: fair
-    complexion: attractive
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Scribe

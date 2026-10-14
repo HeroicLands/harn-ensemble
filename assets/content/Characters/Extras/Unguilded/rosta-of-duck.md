@@ -15,11 +15,11 @@ data:
   weight: 299 lbs
   frame: light
   appearance:
-    eye_color: brown
-    hair_color: blonde
-    skin_color: fair
-    complexion: attractive
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Beggar

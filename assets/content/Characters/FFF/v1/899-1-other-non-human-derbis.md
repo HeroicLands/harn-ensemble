@@ -13,10 +13,10 @@ data:
   weight: 500 lbs
   frame: massive
   appearance:
-    eye_color: pale grey
+    eye_color: grey
     hair_color: black
     skin_color: pale
-    complexion: frightening
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [urklam]}
   packFolder: fffnonhumans

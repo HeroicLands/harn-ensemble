@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: blonde
     skin_color: pale
-    complexion: average
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
   occupation: Cleric/Larani

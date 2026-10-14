@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: blonde
     skin_color: swarthy
-    complexion: average
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

@@ -18,7 +18,7 @@ data:
     eye_color: blue
     hair_color: auburn
     skin_color: medium
-    complexion: attractive
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy

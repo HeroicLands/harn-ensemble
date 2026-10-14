@@ -17,10 +17,10 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: dark brown
+    hair_color: "dark_brown"
     skin_color: dark
-    complexion: attractive
-    extra_features: [Dark complexion, long curly hair]
+    complexion: [clear]
+    extra_features: [long curly hair]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary
   occupation: Yeoman (SB)

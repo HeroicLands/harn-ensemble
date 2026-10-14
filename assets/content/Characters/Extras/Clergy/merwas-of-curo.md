@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: dark
-    complexion: average
-    extra_features: [Hirsutism]
+    complexion: [clear]
+    extra_features: [excess body hair]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

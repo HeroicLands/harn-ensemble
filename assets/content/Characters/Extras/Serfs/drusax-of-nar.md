@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: fair
-    complexion: plain
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Herdsman

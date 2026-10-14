@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: silver
     skin_color: fair
-    complexion: attractive
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Thief

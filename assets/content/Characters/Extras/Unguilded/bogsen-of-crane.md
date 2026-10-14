@@ -16,10 +16,10 @@ data:
   frame: medium
   appearance:
     eye_color: blue
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: pale
-    complexion: average
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Fisherman

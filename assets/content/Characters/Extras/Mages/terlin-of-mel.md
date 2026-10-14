@@ -16,9 +16,9 @@ data:
   frame: light
   appearance:
     eye_color: violet
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: pale
-    complexion: plain
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages

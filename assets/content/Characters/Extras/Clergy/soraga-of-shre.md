@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: medium
-    complexion: plain
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
   occupation: Cleric/Larani

@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: medium
-    complexion: attractive
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: extrasclergy
   occupation: Cleric/Halea

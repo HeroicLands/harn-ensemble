@@ -19,8 +19,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: dark
-    complexion: attractive
-    extra_features: [Gigantism, Well groomed beard, moustache]
+    complexion: [clear]
+    extra_features: [Well groomed beard, moustache]
   harnworld: {realm: "", ritual: [korr]}
   packFolder: fffbarbarians
   occupation: Hunter

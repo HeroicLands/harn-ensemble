@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: black
     skin_color: medium
-    complexion: beautiful
-    extra_features: [Dwarfism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Sindarin Ranger, Light

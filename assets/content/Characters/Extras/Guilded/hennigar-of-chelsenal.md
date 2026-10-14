@@ -18,7 +18,7 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: swarthy
-    complexion: beautiful
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded

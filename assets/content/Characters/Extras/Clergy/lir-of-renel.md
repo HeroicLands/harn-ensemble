@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: dark
-    complexion: beautiful
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
   occupation: Cleric/Ilvir

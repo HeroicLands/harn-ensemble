@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: brown
     skin_color: fair
-    complexion: average
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
   occupation: Shek-Pvar/Odivshe***

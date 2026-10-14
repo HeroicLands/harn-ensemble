@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: swarthy
-    complexion: average
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
   occupation: Cleric/Ilvir

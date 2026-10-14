@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: auburn
     skin_color: dark
-    complexion: ugly
-    extra_features: [Hirsutism]
+    complexion: [clear]
+    extra_features: [excess body hair]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
   occupation: Cleric/Ilvir

@@ -18,7 +18,7 @@ data:
     eye_color: grey
     hair_color: auburn
     skin_color: medium
-    complexion: average
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy

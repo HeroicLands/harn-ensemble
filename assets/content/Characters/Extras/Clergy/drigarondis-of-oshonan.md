@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: brown
     skin_color: dark
-    complexion: plain
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

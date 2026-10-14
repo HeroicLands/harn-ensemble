@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: silver
     skin_color: fair
-    complexion: average
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Patrician

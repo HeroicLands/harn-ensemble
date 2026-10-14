@@ -18,7 +18,7 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: fair
-    complexion: beautiful
+    complexion: [clear]
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: extrasclergy

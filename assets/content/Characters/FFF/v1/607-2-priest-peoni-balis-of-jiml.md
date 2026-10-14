@@ -17,10 +17,10 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: brown (balding)
+    hair_color: brown
     skin_color: medium
-    complexion: plain (at best)
-    extra_features: [Scarred ear, blind wandering eye, Thick accent]
+    complexion: [clear]
+    extra_features: [Scarred ear, blind wandering eye, balding]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffclergy
   occupation: Peonian Acolyte

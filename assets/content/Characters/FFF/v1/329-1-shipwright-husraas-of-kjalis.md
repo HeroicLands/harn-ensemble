@@ -17,10 +17,10 @@ data:
   frame: light
   appearance:
     eye_color: hazel
-    hair_color: dark blonde
+    hair_color: "dark_blonde"
     skin_color: fair
-    complexion: attractive
-    extra_features: [Stutterer, Moustache, beard]
+    complexion: [clear]
+    extra_features: [Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
   occupation: Shipwright

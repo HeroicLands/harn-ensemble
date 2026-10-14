@@ -16,10 +16,10 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: swarthy
-    complexion: average
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

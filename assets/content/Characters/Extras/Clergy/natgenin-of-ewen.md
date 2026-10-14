@@ -18,7 +18,7 @@ data:
     eye_color: green
     hair_color: red
     skin_color: medium
-    complexion: average
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy

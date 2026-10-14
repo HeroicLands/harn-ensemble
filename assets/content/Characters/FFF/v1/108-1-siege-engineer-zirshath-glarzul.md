@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: grey
     skin_color: fair
-    complexion: average
-    extra_features: [Always carrying a large book]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffmilitary
   occupation: Siege Engineer

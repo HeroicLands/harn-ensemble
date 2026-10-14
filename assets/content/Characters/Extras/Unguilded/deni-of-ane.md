@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: dark
-    complexion: attractive
-    extra_features: [One Ear Missing/Deaf]
+    complexion: [clear]
+    extra_features: [one ear missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Imperial Legionnaire, Light

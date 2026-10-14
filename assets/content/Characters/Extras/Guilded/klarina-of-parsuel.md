@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: brown
     skin_color: dark
-    complexion: average
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Locksmith

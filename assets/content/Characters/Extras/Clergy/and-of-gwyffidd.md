@@ -16,10 +16,10 @@ data:
   frame: scant
   appearance:
     eye_color: brown
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: swarthy
-    complexion: average
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
   occupation: Cleric/Morgath

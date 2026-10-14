@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: fair
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Servant

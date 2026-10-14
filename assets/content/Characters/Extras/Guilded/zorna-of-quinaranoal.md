@@ -16,10 +16,10 @@ data:
   frame: scant
   appearance:
     eye_color: brown
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: swarthy
-    complexion: average
-    extra_features: [One Ear Missing/Deaf]
+    complexion: [clear]
+    extra_features: [one ear missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Courtesan

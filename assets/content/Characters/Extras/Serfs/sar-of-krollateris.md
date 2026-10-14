@@ -16,9 +16,9 @@ data:
   frame: heavy
   appearance:
     eye_color: blue
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs

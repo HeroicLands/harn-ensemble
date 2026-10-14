@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: fair
-    complexion: attractive
-    extra_features: [Pallid complexion, Bad breath]
+    complexion: [wan]
+    extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: fffnobles
   occupation: Knight Bachelor (MH)

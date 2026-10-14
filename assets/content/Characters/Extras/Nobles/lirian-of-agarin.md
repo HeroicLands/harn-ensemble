@@ -16,10 +16,10 @@ data:
   frame: medium
   appearance:
     eye_color: grey
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: pale
-    complexion: attractive
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Khuzdul High Guard

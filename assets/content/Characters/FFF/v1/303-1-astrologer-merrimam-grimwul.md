@@ -17,9 +17,9 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: black and grey
+    hair_color: "greying_black"
     skin_color: medium
-    complexion: attractive
+    complexion: [clear]
     extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffguilded

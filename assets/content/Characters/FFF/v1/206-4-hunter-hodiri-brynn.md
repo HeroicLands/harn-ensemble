@@ -19,7 +19,7 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: dark
-    complexion: plain
+    complexion: [clear]
     extra_features: [Scars on both cheeks, Beard, tribal tattoos]
   harnworld: {realm: "", ritual: []}
   packFolder: fffbarbarians

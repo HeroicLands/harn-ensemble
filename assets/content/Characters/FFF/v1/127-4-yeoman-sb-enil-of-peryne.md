@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: medium
-    complexion: average
-    extra_features: [Parasites (lice), Stammers a lot, very unsure of himself, bows to everyone]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffmilitary
   occupation: Yeoman (SB)

@@ -19,7 +19,7 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: fair
-    complexion: beautiful
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffclergy

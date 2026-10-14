@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: red
     skin_color: fair
-    complexion: attractive
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Khuzdul High Guard

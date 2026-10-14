@@ -17,9 +17,9 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: black (greying)
+    hair_color: "greying_black"
     skin_color: medium
-    complexion: average
+    complexion: [clear]
     extra_features: [Lame right foot]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded

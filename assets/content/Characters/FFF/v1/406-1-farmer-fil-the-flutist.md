@@ -17,10 +17,10 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: black and thinning
+    hair_color: black
     skin_color: medium
-    complexion: plain
-    extra_features: [Beard]
+    complexion: [clear]
+    extra_features: [Beard, thinning hair]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
   occupation: Farmer

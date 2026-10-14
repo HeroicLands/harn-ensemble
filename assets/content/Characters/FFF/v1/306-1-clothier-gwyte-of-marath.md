@@ -19,7 +19,7 @@ data:
     eye_color: hazel
     hair_color: grey
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: [Overweight, A purple birthmark on his right hand]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffguilded

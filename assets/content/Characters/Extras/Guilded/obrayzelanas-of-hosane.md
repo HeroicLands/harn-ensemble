@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: medium
-    complexion: plain
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Litigant

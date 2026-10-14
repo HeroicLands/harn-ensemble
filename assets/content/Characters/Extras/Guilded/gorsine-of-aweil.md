@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: silver
     skin_color: fair
-    complexion: plain
-    extra_features: [One Ear Missing/Deaf]
+    complexion: [clear]
+    extra_features: [one ear missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Seaman

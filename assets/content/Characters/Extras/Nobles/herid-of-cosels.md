@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: blonde
     skin_color: medium
-    complexion: ugly
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Viking Huscarl, Light Horse

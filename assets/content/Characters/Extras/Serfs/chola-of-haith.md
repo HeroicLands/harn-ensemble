@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: pale
-    complexion: average
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Gladiator

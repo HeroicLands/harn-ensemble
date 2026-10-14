@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: pale
-    complexion: average
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: medium
-    complexion: average
-    extra_features: [One Ear Missing/Deaf]
+    complexion: [clear]
+    extra_features: [one ear missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Metalsmith

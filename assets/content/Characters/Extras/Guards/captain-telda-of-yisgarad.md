@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: dark
-    complexion: beautiful
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Heavy

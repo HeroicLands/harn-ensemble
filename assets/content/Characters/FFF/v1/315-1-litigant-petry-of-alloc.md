@@ -19,8 +19,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: fair
-    complexion: handsome
-    extra_features: [Very pink skin]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffguilded
   occupation: Litigant

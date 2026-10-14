@@ -19,7 +19,7 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: fair
-    complexion: attractive
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles

@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: fair
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Embalmer

@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: swarthy
-    complexion: average
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Shipwright

@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: dark
-    complexion: attractive
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Embalmer

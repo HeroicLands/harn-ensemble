@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: blonde
     skin_color: fair
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
   packFolder: extrasunguilded
   occupation: Shaman

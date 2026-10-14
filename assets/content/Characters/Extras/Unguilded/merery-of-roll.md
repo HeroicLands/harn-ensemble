@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: dark
-    complexion: average
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Cook/Servant

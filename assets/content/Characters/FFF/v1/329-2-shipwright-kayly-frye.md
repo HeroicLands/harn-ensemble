@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: attractive
-    extra_features: [Always bubbly, happy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
   occupation: Shipwright

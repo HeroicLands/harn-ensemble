@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: swarthy
-    complexion: ugly
-    extra_features: [Dwarfism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
   occupation: Cleric/Morgath

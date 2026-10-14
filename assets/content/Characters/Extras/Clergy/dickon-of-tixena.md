@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: medium
-    complexion: attractive
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: extrasclergy
   occupation: Cleric/Halea

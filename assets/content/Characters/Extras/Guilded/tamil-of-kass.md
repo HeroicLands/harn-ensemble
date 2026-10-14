@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: blonde
     skin_color: fair
-    complexion: attractive
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Lexigrapher

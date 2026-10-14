@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: fair
-    complexion: attractive
-    extra_features: [Hirsutism]
+    complexion: [clear]
+    extra_features: [excess body hair]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Hideworker

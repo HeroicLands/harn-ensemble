@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: auburn
     skin_color: fair
-    complexion: plain
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
   occupation: Shek-Pvar/Fyvria**

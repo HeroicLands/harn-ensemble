@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: medium
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

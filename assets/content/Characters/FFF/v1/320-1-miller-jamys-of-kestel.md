@@ -17,10 +17,10 @@ data:
   frame: heavy
   appearance:
     eye_color: blue
-    hair_color: brown (greying)
+    hair_color: "greying_brown"
     skin_color: fair
-    complexion: average
-    extra_features: [Moustache & beard]
+    complexion: [clear]
+    extra_features: [moustache and beard]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffguilded
   occupation: Miller

@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: auburn
     skin_color: fair
-    complexion: plain
-    extra_features: [One Ear Missing/Deaf]
+    complexion: [clear]
+    extra_features: [one ear missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Farmer

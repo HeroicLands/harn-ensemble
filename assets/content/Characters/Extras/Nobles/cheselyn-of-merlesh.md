@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: dark
-    complexion: plain
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Chieftan

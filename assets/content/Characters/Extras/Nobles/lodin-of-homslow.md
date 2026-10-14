@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: medium
-    complexion: plain
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Baliff

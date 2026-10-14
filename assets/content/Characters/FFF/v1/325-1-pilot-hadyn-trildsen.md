@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: medium
-    complexion: average
-    extra_features: [Ambidextrous, Scar on right cheek, Moustache, beard]
+    complexion: [clear]
+    extra_features: [Scar on right cheek, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded
   occupation: Pilot

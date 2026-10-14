@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: dark
-    complexion: plain
-    extra_features: [Sterile]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Glassworker

@@ -18,7 +18,7 @@ data:
     eye_color: blue
     hair_color: silver
     skin_color: pale
-    complexion: average
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded

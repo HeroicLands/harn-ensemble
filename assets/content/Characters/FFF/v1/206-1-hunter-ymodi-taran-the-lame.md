@@ -19,7 +19,7 @@ data:
     eye_color: grey
     hair_color: black
     skin_color: dark
-    complexion: attractive
+    complexion: [clear]
     extra_features: [Deformed left leg]
   harnworld: {realm: "", ritual: ["custom|Ymodi", sarajin]}
   packFolder: fffbarbarians

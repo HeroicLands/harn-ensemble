@@ -19,7 +19,7 @@ data:
     eye_color: grey
     hair_color: black
     skin_color: dark
-    complexion: average
+    complexion: [clear]
     extra_features: [His left leg has a slight limp]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles

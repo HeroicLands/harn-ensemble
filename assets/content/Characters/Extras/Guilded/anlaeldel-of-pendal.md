@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: fair
-    complexion: plain
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Jeweler

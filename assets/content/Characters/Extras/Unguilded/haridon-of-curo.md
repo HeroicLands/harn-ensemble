@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: silver
     skin_color: fair
-    complexion: beautiful
-    extra_features: [Sterile]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Toymaker

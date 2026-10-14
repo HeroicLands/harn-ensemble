@@ -16,10 +16,10 @@ data:
   frame: medium
   appearance:
     eye_color: violet
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: fair
-    complexion: attractive
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
   occupation: Cleric/Naveh

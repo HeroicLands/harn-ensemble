@@ -16,10 +16,10 @@ data:
   frame: scant
   appearance:
     eye_color: blue
-    hair_color: auburn
-    skin_color: medium
-    complexion: plain
-    extra_features: [Albinism]
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
   occupation: Cleric/Agrik

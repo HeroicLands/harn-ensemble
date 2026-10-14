@@ -17,10 +17,10 @@ data:
   frame: scant
   appearance:
     eye_color: hazel
-    hair_color: dark blonde
+    hair_color: "dark_blonde"
     skin_color: fair
-    complexion: attractive
-    extra_features: [Very quick, agile]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffguilded
   occupation: Unguilded thief

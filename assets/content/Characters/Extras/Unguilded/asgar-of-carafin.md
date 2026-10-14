@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: silver
     skin_color: fair
-    complexion: average
-    extra_features: [Sterile]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Sindarin Guardian

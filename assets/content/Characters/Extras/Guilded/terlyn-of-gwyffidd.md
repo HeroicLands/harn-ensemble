@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: medium
-    complexion: average
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Courtesan

@@ -19,7 +19,7 @@ data:
     eye_color: blue
     hair_color: grey
     skin_color: medium
-    complexion: attractive
+    complexion: [clear]
     extra_features: [Hand tremor]
   harnworld: {realm: "", ritual: ["custom|Old Jarin"]}
   packFolder: fffunguilded

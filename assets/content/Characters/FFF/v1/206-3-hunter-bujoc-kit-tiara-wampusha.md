@@ -19,8 +19,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: medium
-    complexion: attractive
-    extra_features: [Hair is cut short like a man]
+    complexion: [clear]
+    extra_features: [hair cut short]
   harnworld: {realm: "", ritual: [sha]}
   packFolder: fffbarbarians
   occupation: Hunter

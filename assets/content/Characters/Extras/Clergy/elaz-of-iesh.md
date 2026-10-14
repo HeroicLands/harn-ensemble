@@ -16,9 +16,9 @@ data:
   frame: heavy
   appearance:
     eye_color: hazel
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: pale
-    complexion: plain
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy

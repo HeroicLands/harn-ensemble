@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: black
     skin_color: dark
-    complexion: beautiful
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Viking Huscarl, Light Horse

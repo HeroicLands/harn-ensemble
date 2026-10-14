@@ -16,10 +16,10 @@ data:
   frame: medium
   appearance:
     eye_color: grey
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: fair
-    complexion: attractive
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Sindarin Ranger, Light

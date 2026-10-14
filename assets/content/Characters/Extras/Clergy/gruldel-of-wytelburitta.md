@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: blonde
     skin_color: medium
-    complexion: plain
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
   occupation: Cleric/Larani

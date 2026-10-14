@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: plain
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Salter

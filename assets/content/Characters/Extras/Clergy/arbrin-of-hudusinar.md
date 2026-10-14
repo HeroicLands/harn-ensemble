@@ -18,7 +18,7 @@ data:
     eye_color: blue
     hair_color: auburn
     skin_color: pale
-    complexion: average
+    complexion: [clear]
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy

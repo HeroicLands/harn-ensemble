@@ -16,10 +16,10 @@ data:
   frame: light
   appearance:
     eye_color: blue
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: medium
-    complexion: average
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Hunter/Trapper

@@ -17,11 +17,11 @@ data:
   weight: 171 lbs
   frame: medium
   appearance:
-    eye_color: filmy grey-green
-    hair_color: greasy brown
+    eye_color: grey
+    hair_color: brown
     skin_color: dark
-    complexion: plain
-    extra_features: [Poor hygiene, Filthy clothes, stench, unkempt appearance, flies]
+    complexion: [clear]
+    extra_features: [greasy hair, clouded eyes]
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffmages
   occupation: Shek-Pvar

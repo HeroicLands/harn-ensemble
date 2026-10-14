@@ -18,7 +18,7 @@ data:
     eye_color: blue
     hair_color: auburn
     skin_color: fair
-    complexion: plain
+    complexion: [clear]
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded

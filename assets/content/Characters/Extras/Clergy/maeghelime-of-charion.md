@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: fair
-    complexion: plain
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
   occupation: Cleric/Ilvir

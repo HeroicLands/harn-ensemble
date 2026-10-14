@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: pale
-    complexion: attractive
-    extra_features: [One Eye Missing/Blind]
+    complexion: [clear]
+    extra_features: [one eye missing]
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
   occupation: Cleric/Agrik

@@ -19,7 +19,7 @@ data:
     eye_color: green
     hair_color: red
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffmilitary

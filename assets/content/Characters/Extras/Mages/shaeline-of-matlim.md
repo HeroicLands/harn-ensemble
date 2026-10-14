@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: medium
-    complexion: plain
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
   occupation: Shek-Pvar/Peleahn****

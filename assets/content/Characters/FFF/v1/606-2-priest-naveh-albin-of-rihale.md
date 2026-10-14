@@ -17,10 +17,10 @@ data:
   frame: light
   appearance:
     eye_color: hazel
-    hair_color: brown (receding)
+    hair_color: brown
     skin_color: fair
-    complexion: plain
-    extra_features: []
+    complexion: [clear]
+    extra_features: [receding hairline]
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: fffclergy
   occupation: Priest of Naveh

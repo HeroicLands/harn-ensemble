@@ -16,10 +16,10 @@ data:
   frame: medium
   appearance:
     eye_color: blue
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: fair
-    complexion: plain
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Ratter

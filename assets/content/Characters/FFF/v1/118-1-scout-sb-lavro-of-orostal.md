@@ -19,7 +19,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: [Reddish beard, moustache, bald]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffmilitary

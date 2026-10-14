@@ -15,11 +15,11 @@ data:
   weight: 112 lbs
   frame: medium
   appearance:
-    eye_color: hazel
-    hair_color: brown
-    skin_color: fair
-    complexion: beautiful
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Khuzdul Clansman

@@ -17,10 +17,10 @@ data:
   frame: heavy
   appearance:
     eye_color: hazel
-    hair_color: grey (balding)
+    hair_color: grey
     skin_color: fair
-    complexion: average
-    extra_features: [Irrational, raving, mood swings, tremors, Moustache & beard]
+    complexion: [clear]
+    extra_features: [tremors, moustache and beard, balding]
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffguilded
   occupation: Alchemist

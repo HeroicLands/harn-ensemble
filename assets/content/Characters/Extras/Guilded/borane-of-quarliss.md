@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: plain
-    extra_features: [Hirsutism]
+    complexion: [clear]
+    extra_features: [excess body hair]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Physician

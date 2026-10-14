@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: red
     skin_color: pale
-    complexion: attractive
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
   occupation: Cleric/Agrik

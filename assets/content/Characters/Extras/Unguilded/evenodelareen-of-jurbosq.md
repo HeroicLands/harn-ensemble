@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: blonde
     skin_color: swarthy
-    complexion: beautiful
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Teamster

@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: fair
-    complexion: average
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Sindarin Knight

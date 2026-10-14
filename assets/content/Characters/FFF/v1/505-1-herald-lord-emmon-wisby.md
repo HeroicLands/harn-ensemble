@@ -19,7 +19,7 @@ data:
     eye_color: blue
     hair_color: grey
     skin_color: medium
-    complexion: average
+    complexion: [clear]
     extra_features: [Limp, Moustache, beard]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles

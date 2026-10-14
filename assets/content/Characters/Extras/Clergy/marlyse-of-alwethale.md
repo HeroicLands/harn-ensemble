@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: pale
-    complexion: average
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy
   occupation: Cleric/Peoni

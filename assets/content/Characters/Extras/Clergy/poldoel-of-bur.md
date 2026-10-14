@@ -15,11 +15,11 @@ data:
   weight: 144 lbs
   frame: light
   appearance:
-    eye_color: hazel
-    hair_color: brown
-    skin_color: dark
-    complexion: average
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
   occupation: Cleric/Larani

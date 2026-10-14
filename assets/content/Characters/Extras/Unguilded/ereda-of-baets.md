@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: swarthy
-    complexion: beautiful
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Scribe

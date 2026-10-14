@@ -19,8 +19,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: medium
-    complexion: average
-    extra_features: [Crude, lecherous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffmilitary
   occupation: Mercenary (MF)

@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: dark
-    complexion: average
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Physician

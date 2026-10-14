@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: red
     skin_color: medium
-    complexion: average
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
   occupation: Cleric/Naveh

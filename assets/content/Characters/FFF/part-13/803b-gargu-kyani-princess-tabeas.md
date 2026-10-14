@@ -16,10 +16,10 @@ data:
   weight: 75 lbs
   frame: medium
   appearance:
-    eye_color: light grey
-    hair_color: tawny brown
+    eye_color: grey
+    hair_color: "light_brown"
     skin_color: fair
-    complexion: plain
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans

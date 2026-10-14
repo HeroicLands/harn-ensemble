@@ -17,10 +17,10 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: brown, balding
+    hair_color: brown
     skin_color: medium
-    complexion: average
-    extra_features: []
+    complexion: [clear]
+    extra_features: [balding]
   harnworld: {realm: "", ritual: [halea, saveknor]}
   packFolder: fffnobles
   occupation: Exchequer Clerk

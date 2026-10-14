@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: auburn
     skin_color: pale
-    complexion: average
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Embalmer

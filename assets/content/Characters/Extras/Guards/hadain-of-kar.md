@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: dark
-    complexion: average
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

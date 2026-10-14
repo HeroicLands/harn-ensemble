@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: pale
-    complexion: attractive
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy
   occupation: Cleric/Peoni

@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: silver
     skin_color: fair
-    complexion: attractive
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy
   occupation: Cleric/Peoni

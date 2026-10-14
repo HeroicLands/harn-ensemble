@@ -19,8 +19,8 @@ data:
     eye_color: violet
     hair_color: black
     skin_color: dark
-    complexion: attractive
-    extra_features: [Obese, Left-handed]
+    complexion: [clear]
+    extra_features: [Obese]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
   occupation: Ostler

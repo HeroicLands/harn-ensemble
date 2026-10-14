@@ -16,11 +16,11 @@ data:
   weight: 117 lbs
   frame: light
   appearance:
-    eye_color: hazel (milky white)
+    eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: beautiful
-    extra_features: [Cataracts]
+    complexion: [clear]
+    extra_features: [Cataracts, cataracts in both eyes]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
   occupation: Lexigrapher

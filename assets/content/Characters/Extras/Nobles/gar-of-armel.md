@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: dark
-    complexion: average
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Baliff

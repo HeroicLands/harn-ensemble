@@ -18,7 +18,7 @@ data:
     eye_color: grey
     hair_color: red
     skin_color: pale
-    complexion: average
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded

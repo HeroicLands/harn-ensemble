@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: blonde
     skin_color: fair
-    complexion: average
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Viking Huscarl, Medium Foot

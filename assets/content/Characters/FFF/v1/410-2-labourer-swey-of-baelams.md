@@ -19,8 +19,8 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: medium
-    complexion: ugly
-    extra_features: [Pox marks, parasites, dwarfism]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
   occupation: Labourer

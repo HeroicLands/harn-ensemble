@@ -17,9 +17,9 @@ data:
   frame: scant
   appearance:
     eye_color: brown
-    hair_color: brown and black
-    skin_color: pallid
-    complexion: ugly
+    hair_color: "dark_brown"
+    skin_color: pale
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans

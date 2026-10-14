@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: medium
-    complexion: beautiful
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

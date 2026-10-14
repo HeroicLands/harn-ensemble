@@ -19,7 +19,7 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded

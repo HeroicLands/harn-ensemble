@@ -16,10 +16,10 @@ data:
   frame: medium
   appearance:
     eye_color: blue
-    hair_color: brown
-    skin_color: medium
-    complexion: plain
-    extra_features: [Albinism]
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Farmer

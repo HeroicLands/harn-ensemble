@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: fair
-    complexion: attractive
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Viking Huscarl, Light Horse

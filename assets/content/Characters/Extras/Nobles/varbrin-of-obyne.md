@@ -15,11 +15,11 @@ data:
   weight: 187 lbs
   frame: heavy
   appearance:
-    eye_color: brown
-    hair_color: brown
-    skin_color: medium
-    complexion: plain
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Feudal Knight, Medium

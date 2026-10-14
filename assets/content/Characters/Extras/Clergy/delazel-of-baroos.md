@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: dark
-    complexion: plain
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [siem]}
   packFolder: extrasclergy
   occupation: Cleric/Siem

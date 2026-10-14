@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: brown
     skin_color: medium
-    complexion: beautiful
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Yeoman, Shortbow

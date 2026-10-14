@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: dark
-    complexion: average
-    extra_features: [Purple birthmark on right ear, Dresses all in black]
+    complexion: [clear]
+    extra_features: [Purple birthmark on right ear]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
   occupation: Physician

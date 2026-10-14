@@ -17,9 +17,9 @@ data:
   frame: medium
   appearance:
     eye_color: grey
-    hair_color: brown (greying)
+    hair_color: "greying_brown"
     skin_color: fair
-    complexion: plain
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffmages

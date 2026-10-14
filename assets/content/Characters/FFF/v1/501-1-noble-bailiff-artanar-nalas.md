@@ -19,8 +19,8 @@ data:
     eye_color: grey
     hair_color: white
     skin_color: fair
-    complexion: average
-    extra_features: [Persistent cough, Trembling hands]
+    complexion: [clear]
+    extra_features: [Trembling hands]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
   occupation: Bailiff

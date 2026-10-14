@@ -18,7 +18,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles

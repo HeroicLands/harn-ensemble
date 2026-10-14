@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: silver
     skin_color: fair
-    complexion: average
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

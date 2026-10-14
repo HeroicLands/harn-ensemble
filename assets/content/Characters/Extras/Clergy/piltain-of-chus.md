@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: pale
-    complexion: attractive
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy
   occupation: Cleric/Peoni

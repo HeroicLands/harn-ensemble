@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: red
     skin_color: medium
-    complexion: plain
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Herald

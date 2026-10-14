@@ -19,7 +19,7 @@ data:
     eye_color: hazel
     hair_color: grey
     skin_color: dark
-    complexion: plain
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded

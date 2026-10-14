@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: black
     skin_color: fair
-    complexion: beautiful
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Khuzdul Low Guard

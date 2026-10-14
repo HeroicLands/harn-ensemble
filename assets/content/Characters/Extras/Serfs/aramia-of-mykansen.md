@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: fair
-    complexion: attractive
-    extra_features: [Sterile]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Herdsman

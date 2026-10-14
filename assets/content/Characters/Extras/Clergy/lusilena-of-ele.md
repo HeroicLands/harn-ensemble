@@ -15,11 +15,11 @@ data:
   weight: 285 lbs
   frame: medium
   appearance:
-    eye_color: brown
-    hair_color: brown
-    skin_color: medium
-    complexion: average
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: extrasclergy
   occupation: Cleric/Peoni

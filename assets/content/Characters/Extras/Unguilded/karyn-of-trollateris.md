@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: average
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Imperial Legionnaire, Medium

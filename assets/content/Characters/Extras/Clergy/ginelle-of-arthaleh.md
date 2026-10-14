@@ -16,9 +16,9 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: swarthy
-    complexion: average
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy

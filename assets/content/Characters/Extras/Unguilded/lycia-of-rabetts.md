@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: red
     skin_color: swarthy
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Herdsman

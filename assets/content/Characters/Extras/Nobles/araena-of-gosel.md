@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: dark
-    complexion: plain
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Viking Huscarl, Medium Foot

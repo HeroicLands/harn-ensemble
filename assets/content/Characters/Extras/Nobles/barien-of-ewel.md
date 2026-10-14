@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: fair
-    complexion: attractive
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Feudal Knight, Medium

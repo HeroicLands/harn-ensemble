@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: fair
-    complexion: attractive
-    extra_features: [Sterile]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Sindarin Ranger, Light

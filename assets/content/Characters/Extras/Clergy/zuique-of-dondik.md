@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: swarthy
-    complexion: beautiful
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
   occupation: Cleric/Agrik

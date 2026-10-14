@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: silver
     skin_color: fair
-    complexion: plain
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Hunter/Trapper

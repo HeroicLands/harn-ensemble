@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: black
     skin_color: pale
-    complexion: plain
-    extra_features: [Sterile]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Guardsman, Heavy

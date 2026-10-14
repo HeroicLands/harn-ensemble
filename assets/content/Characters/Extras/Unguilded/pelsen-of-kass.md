@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: pale
-    complexion: average
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Militia

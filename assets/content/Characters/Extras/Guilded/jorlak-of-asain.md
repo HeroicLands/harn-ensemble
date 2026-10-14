@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: dark
-    complexion: plain
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Salter

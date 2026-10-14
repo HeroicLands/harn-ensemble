@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: swarthy
-    complexion: plain
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
   occupation: Cleric/Morgath

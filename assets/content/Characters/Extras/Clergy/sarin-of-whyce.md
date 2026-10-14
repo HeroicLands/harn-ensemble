@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: silver
     skin_color: fair
-    complexion: beautiful
-    extra_features: [Left-Handed]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
   occupation: Cleric/Ilvir

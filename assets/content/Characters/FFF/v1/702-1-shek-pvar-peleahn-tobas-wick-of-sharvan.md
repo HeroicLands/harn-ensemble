@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: medium
-    complexion: ugly
-    extra_features: [Burn scars on his hands, left side of his face]
+    complexion: [clear]
+    extra_features: [Burn scars on his hands, burn scars on the left side of his face]
   harnworld: {realm: "", ritual: [saveknor]}
   packFolder: fffmages
   occupation: Peleahn Shek-Pvar

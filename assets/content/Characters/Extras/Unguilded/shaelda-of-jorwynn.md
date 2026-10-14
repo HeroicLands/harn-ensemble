@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: swarthy
-    complexion: attractive
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Toymaker

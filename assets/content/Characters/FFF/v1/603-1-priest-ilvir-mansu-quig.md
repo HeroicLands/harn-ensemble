@@ -17,10 +17,10 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: red and grey
+    hair_color: "greying_red"
     skin_color: fair
-    complexion: average
-    extra_features: [Left handed, Musty smell]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffclergy
   occupation: Ilviran Priest

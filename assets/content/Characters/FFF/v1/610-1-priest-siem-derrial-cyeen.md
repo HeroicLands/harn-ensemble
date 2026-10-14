@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: grey
     skin_color: dark
-    complexion: average
-    extra_features: [Moustache & short goatee]
+    complexion: [clear]
+    extra_features: [moustache and short goatee]
   harnworld: {realm: "", ritual: [siem]}
   packFolder: fffclergy
   occupation: Priest of Siem

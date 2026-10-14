@@ -17,9 +17,9 @@ data:
   frame: heavy
   appearance:
     eye_color: red
-    hair_color: dark red
-    skin_color: pallid
-    complexion: ugly
+    hair_color: auburn
+    skin_color: pale
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans

@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: blonde
     skin_color: fair
-    complexion: average
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
   occupation: Cleric/Naveh

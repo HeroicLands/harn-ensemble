@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: pale
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: [morgath]}
   packFolder: extrasclergy
   occupation: Cleric/Morgath

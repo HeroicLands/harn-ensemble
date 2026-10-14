@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: silver
     skin_color: fair
-    complexion: plain
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Chieftan

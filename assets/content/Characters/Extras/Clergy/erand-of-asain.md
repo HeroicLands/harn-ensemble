@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: pale
-    complexion: attractive
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: extrasclergy
   occupation: Cleric/Sarajin

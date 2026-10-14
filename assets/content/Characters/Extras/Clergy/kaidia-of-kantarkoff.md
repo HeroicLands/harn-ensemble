@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: swarthy
-    complexion: attractive
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
   occupation: Cleric/Ilvir

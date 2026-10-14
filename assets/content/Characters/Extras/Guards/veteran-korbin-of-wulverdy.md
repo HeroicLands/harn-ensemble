@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: swarthy
-    complexion: attractive
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

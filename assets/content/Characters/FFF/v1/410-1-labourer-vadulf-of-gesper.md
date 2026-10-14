@@ -19,7 +19,7 @@ data:
     eye_color: green
     hair_color: red
     skin_color: fair
-    complexion: plain
+    complexion: [clear]
     extra_features: [Stooped shoulders]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded

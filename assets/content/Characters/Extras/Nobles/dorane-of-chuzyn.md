@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: blonde
     skin_color: medium
-    complexion: average
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Herald

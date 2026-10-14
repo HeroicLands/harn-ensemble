@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: medium
-    complexion: attractive
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Thespian

@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: swarthy
-    complexion: average
-    extra_features: [Hirsutism]
+    complexion: [clear]
+    extra_features: [excess body hair]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Potter

@@ -19,8 +19,8 @@ data:
     eye_color: blue
     hair_color: red
     skin_color: fair
-    complexion: average
-    extra_features: [Outrageous clothes]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni, eder]}
   packFolder: fffguilded
   occupation: Pilot

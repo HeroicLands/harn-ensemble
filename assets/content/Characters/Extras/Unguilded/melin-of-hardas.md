@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: dark
-    complexion: attractive
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Yeoman, Longbow

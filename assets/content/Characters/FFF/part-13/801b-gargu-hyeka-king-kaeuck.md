@@ -17,10 +17,10 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: dark brown
-    skin_color: pallid
-    complexion: ugly
-    extra_features: [Wheezing, Belt of human hands, human hair tassels]
+    hair_color: "dark_brown"
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
   occupation: King

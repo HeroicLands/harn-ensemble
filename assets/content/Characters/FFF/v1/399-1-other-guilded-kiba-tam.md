@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: fair
-    complexion: beautiful
-    extra_features: [Sometimes speaks in nonsense sentences]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [halea, agrik]}
   packFolder: fffguilded
   occupation: Guildsman's offspring

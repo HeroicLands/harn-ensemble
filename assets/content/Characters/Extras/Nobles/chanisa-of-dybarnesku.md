@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: fair
-    complexion: attractive
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Feudal Knight, Medium

@@ -17,9 +17,9 @@ data:
   frame: light
   appearance:
     eye_color: blue
-    hair_color: blond / grey
+    hair_color: "greying_blonde"
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: [Moustache]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles

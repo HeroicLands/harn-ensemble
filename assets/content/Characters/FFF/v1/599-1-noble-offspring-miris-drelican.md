@@ -17,10 +17,10 @@ data:
   frame: scant
   appearance:
     eye_color: hazel
-    hair_color: light brown
+    hair_color: "light_brown"
     skin_color: fair
-    complexion: attractive
-    extra_features: [Expensive, foppish clothes]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffnobles
   occupation: Noble Offspring

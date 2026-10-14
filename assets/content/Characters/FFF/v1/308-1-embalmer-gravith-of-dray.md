@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: fair
-    complexion: average
-    extra_features: [Limp, right leg, Slight stoop]
+    complexion: [clear]
+    extra_features: [a limp in the right leg, Slight stoop]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
   occupation: Embalmer

@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: swarthy
-    complexion: average
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: extrasclergy

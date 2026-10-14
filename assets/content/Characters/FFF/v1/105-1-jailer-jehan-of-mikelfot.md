@@ -19,7 +19,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: fair
-    complexion: plain
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffmilitary

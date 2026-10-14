@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: red
     skin_color: medium
-    complexion: average
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: extrasclergy
   occupation: Cleric/Sarajin

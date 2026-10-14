@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: medium
-    complexion: attractive
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Gladiator

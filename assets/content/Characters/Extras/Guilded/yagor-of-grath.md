@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: pale
-    complexion: attractive
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Embalmer

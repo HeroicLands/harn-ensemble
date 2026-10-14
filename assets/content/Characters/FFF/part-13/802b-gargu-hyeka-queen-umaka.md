@@ -17,9 +17,9 @@ data:
   frame: massive
   appearance:
     eye_color: brown
-    hair_color: dark brown
-    skin_color: pallid
-    complexion: ugly
+    hair_color: "dark_brown"
+    skin_color: pale
+    complexion: [clear]
     extra_features: [Obese]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans

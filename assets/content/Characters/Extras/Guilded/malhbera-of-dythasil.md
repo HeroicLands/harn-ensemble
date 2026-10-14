@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: silver
     skin_color: fair
-    complexion: attractive
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Apothecary

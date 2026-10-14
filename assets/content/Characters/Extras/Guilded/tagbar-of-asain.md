@@ -16,10 +16,10 @@ data:
   frame: scant
   appearance:
     eye_color: violet
-    hair_color: silver
-    skin_color: fair
-    complexion: ugly
-    extra_features: [Albinism]
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Harper/Skald

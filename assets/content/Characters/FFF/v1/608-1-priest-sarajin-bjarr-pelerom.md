@@ -17,9 +17,9 @@ data:
   frame: medium
   appearance:
     eye_color: blue
-    hair_color: light brown/blonde
+    hair_color: "dark_blonde"
     skin_color: fair
-    complexion: attractive
+    complexion: [clear]
     extra_features: [Missing his right arm below the elbow, Moustache, beard]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffclergy

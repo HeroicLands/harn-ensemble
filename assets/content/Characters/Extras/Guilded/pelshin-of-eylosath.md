@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: plain
-    extra_features: [One Ear Missing/Deaf]
+    complexion: [clear]
+    extra_features: [one ear missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Physician

@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: swarthy
-    complexion: attractive
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Astrologer

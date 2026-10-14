@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: pale
-    complexion: average
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Baliff

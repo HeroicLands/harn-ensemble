@@ -19,7 +19,7 @@ data:
     eye_color: green
     hair_color: grey
     skin_color: medium
-    complexion: average
+    complexion: [clear]
     extra_features: [Overweight, Moustache, beard]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded

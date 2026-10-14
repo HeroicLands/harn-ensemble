@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: silver
     skin_color: fair
-    complexion: beautiful
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Yeoman, Longbow

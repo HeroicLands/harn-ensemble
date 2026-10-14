@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: swarthy
-    complexion: beautiful
-    extra_features: [Hirsutism]
+    complexion: [clear]
+    extra_features: [excess body hair]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Charcoaler

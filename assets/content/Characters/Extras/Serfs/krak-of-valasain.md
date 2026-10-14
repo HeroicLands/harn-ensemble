@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: pale
-    complexion: beautiful
-    extra_features: ["*Poxmarks (healed)"]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Gladiator

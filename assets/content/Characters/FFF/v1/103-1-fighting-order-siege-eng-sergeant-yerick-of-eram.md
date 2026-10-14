@@ -17,9 +17,9 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: black/grey
+    hair_color: "greying_black"
     skin_color: medium
-    complexion: average
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffmilitary

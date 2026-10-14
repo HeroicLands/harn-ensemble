@@ -15,11 +15,11 @@ data:
   weight: 153 lbs
   frame: medium
   appearance:
-    eye_color: amber
-    hair_color: auburn
-    skin_color: medium
-    complexion: attractive
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Laborer/Longshoreman

@@ -16,11 +16,11 @@ data:
   weight: 83 lbs
   frame: medium
   appearance:
-    eye_color: pale blue
-    hair_color: dirty yellow-white
-    skin_color: pallid
-    complexion: plain
-    extra_features: [Ruined left eye, Heavily scarred face, bear claw totem necklace]
+    eye_color: blue
+    hair_color: blonde
+    skin_color: pale
+    complexion: [clear]
+    extra_features: [Ruined left eye, Heavily scarred face]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
   occupation: Warrior

@@ -15,11 +15,11 @@ data:
   weight: 126 lbs
   frame: light
   appearance:
-    eye_color: brown
-    hair_color: blonde
-    skin_color: medium
-    complexion: attractive
-    extra_features: [Albinism]
+    eye_color: violet
+    hair_color: white
+    skin_color: pale
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Farmer

@@ -19,8 +19,8 @@ data:
     eye_color: grey
     hair_color: black
     skin_color: medium
-    complexion: plain
-    extra_features: [Missing teeth, Smells bad]
+    complexion: [clear]
+    extra_features: [Missing teeth]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
   occupation: Hideworker

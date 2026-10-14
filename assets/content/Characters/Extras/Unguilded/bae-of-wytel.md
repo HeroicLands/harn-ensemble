@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: swarthy
-    complexion: average
-    extra_features: [Dwarfism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Guardsman, Heavy

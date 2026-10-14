@@ -19,7 +19,7 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: fair
-    complexion: attractive
+    complexion: [clear]
     extra_features: [Very long fingers]
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded

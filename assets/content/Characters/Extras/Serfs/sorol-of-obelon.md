@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: swarthy
-    complexion: attractive
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasserfs
   occupation: Farmer

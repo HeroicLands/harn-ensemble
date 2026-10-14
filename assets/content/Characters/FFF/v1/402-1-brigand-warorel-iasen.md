@@ -19,8 +19,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: plain
-    extra_features: [Pox marks]
+    complexion: [pockmarked]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: fffunguilded
   occupation: Brigand

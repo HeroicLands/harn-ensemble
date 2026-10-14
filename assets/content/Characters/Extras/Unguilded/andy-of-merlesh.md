@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: fair
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Animal Trainer

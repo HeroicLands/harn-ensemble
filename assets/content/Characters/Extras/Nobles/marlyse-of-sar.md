@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: medium
-    complexion: plain
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Feudal Knight, Heavy

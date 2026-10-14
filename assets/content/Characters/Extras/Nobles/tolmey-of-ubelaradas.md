@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: medium
-    complexion: plain
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Viking Huscarl, Medium Foot

@@ -19,7 +19,7 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: [Crooked left forearm]
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded

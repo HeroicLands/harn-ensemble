@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: fair
-    complexion: beautiful
-    extra_features: [Lycanthropy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Khuzdul High Guard

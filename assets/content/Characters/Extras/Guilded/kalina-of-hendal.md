@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: dark
-    complexion: beautiful
-    extra_features: ["*Hemophilia"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Mason

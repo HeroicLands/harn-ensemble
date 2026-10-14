@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: silver
     skin_color: fair
-    complexion: attractive
+    complexion: [clear]
     extra_features: [Birthmarks]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy

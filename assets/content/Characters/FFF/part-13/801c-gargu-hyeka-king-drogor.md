@@ -17,9 +17,9 @@ data:
   frame: heavy
   appearance:
     eye_color: black
-    hair_color: brown-black
-    skin_color: pallid
-    complexion: ugly
+    hair_color: "dark_brown"
+    skin_color: pale
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: [agrik, larani]}
   packFolder: fffnonhumans

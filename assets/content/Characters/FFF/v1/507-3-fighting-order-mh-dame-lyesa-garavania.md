@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: medium
-    complexion: attractive
-    extra_features: [Foreign accent]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: fffnobles
   occupation: Knight

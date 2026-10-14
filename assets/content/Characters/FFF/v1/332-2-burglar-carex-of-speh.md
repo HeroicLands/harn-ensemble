@@ -19,7 +19,7 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: dark
-    complexion: handsome
+    complexion: [clear]
     extra_features: [Beard, moustache]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded

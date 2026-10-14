@@ -19,7 +19,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: medium
-    complexion: attractive
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffclergy

@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: ugly
-    extra_features: [Dwarfism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Chandler

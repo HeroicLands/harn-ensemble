@@ -17,10 +17,10 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: brown, thinning
+    hair_color: brown
     skin_color: dark
-    complexion: average
-    extra_features: [Able Seaman's tattoo]
+    complexion: [clear]
+    extra_features: [Able Seaman's tattoo, thinning hair]
   harnworld: {realm: "", ritual: [peoni, eder]}
   packFolder: fffguilded
   occupation: Seaman

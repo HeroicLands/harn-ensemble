@@ -18,8 +18,8 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: pale
-    complexion: ugly
-    extra_features: ["*Leprosy"]
+    complexion: [scabrous]
+    extra_features: []
   harnworld: {realm: "", ritual: [agrik]}
   packFolder: extrasclergy
   occupation: Cleric/Agrik

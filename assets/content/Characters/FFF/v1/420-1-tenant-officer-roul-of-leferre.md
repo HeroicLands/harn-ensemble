@@ -17,10 +17,10 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: blond (balding)
+    hair_color: blonde
     skin_color: fair
-    complexion: attractive
-    extra_features: [Squints]
+    complexion: [clear]
+    extra_features: [balding]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded
   occupation: Reeve

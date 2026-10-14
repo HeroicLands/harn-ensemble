@@ -19,8 +19,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: medium
-    complexion: average
-    extra_features: [Never smiles]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni, agrik]}
   packFolder: fffunguilded
   occupation: Brigand

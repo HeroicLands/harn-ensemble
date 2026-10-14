@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: fair
-    complexion: average
-    extra_features: [One Eye Missing/Blind]
+    complexion: [clear]
+    extra_features: [one eye missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Ratter

@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: red
     skin_color: fair
-    complexion: average
-    extra_features: [Freckles]
+    complexion: [freckled]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
   occupation: Journeyman Ostler

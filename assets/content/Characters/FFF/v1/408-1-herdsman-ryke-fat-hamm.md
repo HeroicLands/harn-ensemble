@@ -19,7 +19,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: medium
-    complexion: plain
+    complexion: [clear]
     extra_features: [Hunchback, Beard, moustache]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffunguilded

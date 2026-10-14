@@ -18,9 +18,9 @@ data:
   appearance:
     eye_color: black
     hair_color: black
-    skin_color: pallid
-    complexion: ugly
-    extra_features: [Stooped posture, drooling, confused look]
+    skin_color: pale
+    complexion: [clear]
+    extra_features: [Stooped posture]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
   occupation: Warrior

@@ -16,10 +16,10 @@ data:
   frame: medium
   appearance:
     eye_color: violet
-    hair_color: strawberry blond
+    hair_color: "strawberry_blond"
     skin_color: pale
-    complexion: average
-    extra_features: [Deformed/Missing Arm]
+    complexion: [clear]
+    extra_features: [one arm deformed]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Sindarin Knight

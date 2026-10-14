@@ -17,10 +17,10 @@ data:
   frame: scant
   appearance:
     eye_color: hazel
-    hair_color: black/grey
+    hair_color: "greying_black"
     skin_color: medium
-    complexion: ugly
-    extra_features: [Foreign accent]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: fffmages
   occupation: Savoryan Shek-Pvar

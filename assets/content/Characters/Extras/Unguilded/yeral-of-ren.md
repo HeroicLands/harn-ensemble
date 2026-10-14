@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: silver
     skin_color: swarthy
-    complexion: ugly
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
   packFolder: extrasunguilded

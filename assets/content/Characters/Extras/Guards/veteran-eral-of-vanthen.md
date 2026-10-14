@@ -18,7 +18,7 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: dark
-    complexion: ugly
+    complexion: [clear]
     extra_features: [Scars]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards

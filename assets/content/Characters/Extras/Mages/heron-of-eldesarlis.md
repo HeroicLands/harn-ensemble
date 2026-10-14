@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: medium
-    complexion: average
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasmages
   occupation: Shek-Pvar/Peleahn*

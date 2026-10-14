@@ -17,9 +17,9 @@ data:
   frame: light
   appearance:
     eye_color: hazel
-    hair_color: dark brown
+    hair_color: "dark_brown"
     skin_color: medium
-    complexion: beautiful
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded

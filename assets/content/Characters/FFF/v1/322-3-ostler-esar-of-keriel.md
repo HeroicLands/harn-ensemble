@@ -19,8 +19,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: dark
-    complexion: plain
-    extra_features: [Ambidextrous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
   occupation: Apprentice Ostler

@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: silver
     skin_color: fair
-    complexion: attractive
-    extra_features: ["*Epilepsy"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles
   occupation: Viking Huscarl, Light Horse

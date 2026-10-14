@@ -18,8 +18,8 @@ data:
     eye_color: blue
     hair_color: brown
     skin_color: pale
-    complexion: attractive
-    extra_features: [Addiction]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [naveh]}
   packFolder: extrasclergy
   occupation: Cleric/Naveh

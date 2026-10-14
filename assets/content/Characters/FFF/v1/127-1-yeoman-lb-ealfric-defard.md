@@ -19,8 +19,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: fair
-    complexion: attractive
-    extra_features: [Scar (right forearm), Moustache]
+    complexion: [clear]
+    extra_features: [scar on right forearm, Moustache]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffmilitary
   occupation: Yeoman Archer

@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: pale
-    complexion: attractive
-    extra_features: [One Eye Missing/Blind]
+    complexion: [clear]
+    extra_features: [one eye missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Gladiator

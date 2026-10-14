@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: medium
-    complexion: attractive
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: ["custom|Tribal"]}
   packFolder: extrasunguilded
   occupation: Shaman

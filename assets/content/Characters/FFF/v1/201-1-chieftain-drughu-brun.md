@@ -19,8 +19,8 @@ data:
     eye_color: black
     hair_color: black
     skin_color: dark
-    complexion: ugly
-    extra_features: [Parasites (Fleas), Several large tattoos]
+    complexion: [clear]
+    extra_features: [Several large tattoos]
   harnworld: {realm: "", ritual: [yavanna]}
   packFolder: fffbarbarians
   occupation: Chieftain

@@ -17,10 +17,10 @@ data:
   frame: heavy
   appearance:
     eye_color: green
-    hair_color: black (greying)
+    hair_color: "greying_black"
     skin_color: fair
-    complexion: plain
-    extra_features: [Parasites (fleas)]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffguilded
   occupation: Miner

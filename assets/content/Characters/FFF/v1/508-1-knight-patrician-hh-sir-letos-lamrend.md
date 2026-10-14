@@ -19,7 +19,7 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: dark
-    complexion: average
+    complexion: [clear]
     extra_features: [Missing a front tooth]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: fffnobles

@@ -18,7 +18,7 @@ data:
     eye_color: grey
     hair_color: black
     skin_color: fair
-    complexion: attractive
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasnobles

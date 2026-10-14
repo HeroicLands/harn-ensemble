@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: fair
-    complexion: attractive
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

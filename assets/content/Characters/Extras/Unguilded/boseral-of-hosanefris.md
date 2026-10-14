@@ -18,8 +18,8 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: dark
-    complexion: average
-    extra_features: [Gigantism]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Feudal Guardsman, Light

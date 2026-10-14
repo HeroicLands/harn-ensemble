@@ -17,9 +17,9 @@ data:
   frame: light
   appearance:
     eye_color: blue
-    hair_color: reddish blond
+    hair_color: "strawberry_blond"
     skin_color: fair
-    complexion: average
+    complexion: [clear]
     extra_features: []
   harnworld: {realm: "", ritual: [sarajin]}
   packFolder: fffguilded

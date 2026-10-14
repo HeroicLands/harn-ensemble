@@ -19,7 +19,7 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: medium
-    complexion: plain
+    complexion: [clear]
     extra_features: [Mild hunchback]
   harnworld: {realm: "", ritual: [peoni]}
   packFolder: fffclergy

@@ -17,10 +17,10 @@ data:
   frame: heavy
   appearance:
     eye_color: blue
-    hair_color: brown & grey
+    hair_color: "greying_brown"
     skin_color: medium
-    complexion: average
-    extra_features: [Ringworm, missing his front teeth, Very violent]
+    complexion: [clear]
+    extra_features: [Ringworm, missing his front teeth]
   harnworld: {realm: "", ritual: []}
   packFolder: fffunguilded
   occupation: Pimp

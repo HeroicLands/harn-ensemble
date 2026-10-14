@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: red
     skin_color: pale
-    complexion: beautiful
-    extra_features: [Ambidexterous]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasunguilded
   occupation: Khuzdul Clansman

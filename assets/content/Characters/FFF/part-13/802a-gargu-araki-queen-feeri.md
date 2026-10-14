@@ -16,10 +16,10 @@ data:
   weight: 110 lbs
   frame: massive
   appearance:
-    eye_color: tawny
-    hair_color: tawny
-    skin_color: pallid
-    complexion: hideous
+    eye_color: amber
+    hair_color: "dark_blonde"
+    skin_color: pale
+    complexion: [clear]
     extra_features: [Obese]
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans

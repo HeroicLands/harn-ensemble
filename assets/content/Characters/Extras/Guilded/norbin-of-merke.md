@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: swarthy
-    complexion: plain
-    extra_features: [Allergy]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Charcoaler

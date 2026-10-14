@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: red
     skin_color: fair
-    complexion: average
-    extra_features: [Monochromasia]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [larani]}
   packFolder: extrasclergy
   occupation: Cleric/Larani

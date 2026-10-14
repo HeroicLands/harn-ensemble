@@ -15,12 +15,7 @@ data:
   height: 4' 4"
   weight: 135 lbs
   frame: heavy
-  appearance:
-    eye_color: black
-    hair_color: black
-    skin_color: ""
-    complexion: ugly
-    extra_features: []
+  appearance: {eye_color: black, hair_color: black, complexion: [], extra_features: []}
   harnworld: {realm: "", ritual: []}
   packFolder: fffnonhumans
   occupation: Warrior

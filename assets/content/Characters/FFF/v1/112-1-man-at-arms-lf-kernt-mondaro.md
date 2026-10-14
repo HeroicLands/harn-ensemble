@@ -19,8 +19,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: medium
-    complexion: average
-    extra_features: [Hay fever, Missing his front tooth]
+    complexion: [clear]
+    extra_features: [Missing his front tooth]
   harnworld: {realm: "", ritual: [larani]}
   packFolder: fffmilitary
   occupation: Man-at-Arms (LF)

@@ -19,7 +19,7 @@ data:
     eye_color: violet
     hair_color: brown
     skin_color: medium
-    complexion: plain
+    complexion: [clear]
     extra_features: [Birthmark]
   harnworld: {realm: "", ritual: [peoni, saveknor]}
   packFolder: fffmages

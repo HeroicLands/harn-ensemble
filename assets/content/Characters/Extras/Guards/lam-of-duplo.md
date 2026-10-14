@@ -18,8 +18,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: dark
-    complexion: attractive
-    extra_features: [One Eye Missing/Blind]
+    complexion: [clear]
+    extra_features: [one eye missing]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguards
   occupation: Feudal Guardsman, Light

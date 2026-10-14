@@ -18,8 +18,8 @@ data:
     eye_color: hazel
     hair_color: red
     skin_color: dark
-    complexion: average
-    extra_features: ["*Parasites"]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Pilot

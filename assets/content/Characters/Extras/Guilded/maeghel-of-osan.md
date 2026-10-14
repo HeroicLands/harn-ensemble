@@ -18,8 +18,8 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: swarthy
-    complexion: beautiful
-    extra_features: [Obesity]
+    complexion: [clear]
+    extra_features: [obese]
   harnworld: {realm: "", ritual: []}
   packFolder: extrasguilded
   occupation: Litigant

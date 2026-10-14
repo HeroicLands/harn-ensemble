@@ -19,8 +19,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: fair
-    complexion: attractive
-    extra_features: [Very well dressed, noticeable accent]
+    complexion: [clear]
+    extra_features: []
   harnworld: {realm: "", ritual: [halea]}
   packFolder: fffguilded
   occupation: Physician

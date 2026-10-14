@@ -18,8 +18,8 @@ data:
     eye_color: grey
     hair_color: silver
     skin_color: fair
-    complexion: attractive
-    extra_features: [One Leg Missing/Deformed]
+    complexion: [clear]
+    extra_features: [one leg missing]
   harnworld: {realm: "", ritual: [ilvir]}
   packFolder: extrasclergy
   occupation: Cleric/Ilvir
