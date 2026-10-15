@@ -8,7 +8,10 @@ data:
   icon: null
   templatePriority: null
   relations: []
-  governance: {ranks: [{level: 1, title: Member, description: An ordinary member.}]}
+  governance:
+    ranks:
+      - {level: 0, title: Cast Out, description: One cast out of the company.}
+      - {level: 1, title: Member, description: An ordinary member.}
 sohl: {}
 ---
 
