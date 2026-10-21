@@ -83,15 +83,6 @@ site:
               url: /
               text: What the module is, and how to install it.
 
-    # `markup.highlight.style` is this repository's own choice — the generator
-    # fixes `markup.goldmark.renderer.unsafe` for every site, but not this key.
-    hugo:
-        markup:
-            highlight:
-                style: monokai
-        params:
-            search: true
-
 packageBuild:
     shippingLicenses:
         - Harn Fanon

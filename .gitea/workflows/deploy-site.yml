@@ -7,9 +7,10 @@
 # stays here is the build: `npm run build:site`, which the shared workflow runs
 # and knows nothing else about.
 #
-# `min-pages` / `max-pages` are REQUIRED in `content` mode — the shared
-# workflow reads `publish.site` from the same config the build reads, and
-# fails the run rather than deploy an ungoverned page count. `min-pages` is a
+# `min-pages` / `max-pages` are what declare that this package publishes
+# content pages: a caller stating neither is held to its homepage alone, and
+# the shared workflow fails the run rather than deploy an ungoverned page
+# count. `min-pages` is a
 # floor set below a complete build's page count, not an assertion about
 # today's count: it catches a collapsed build, not a change in how many notes
 # this package carries. `max-pages` is a ceiling with the same margin the
@@ -38,7 +39,7 @@ permissions:
 
 jobs:
     deploy:
-        uses: HeroicLands/.github/.gitea/workflows/deploy-package-site.yml@83bb0cd0af7db952098ef5fe2e8312e7f41040eb # main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-package-site.yml@3112eb1a40012b0f91a3f5c4aa8c47c43ebad0ef # main
         with:
             # Not derived from the package name: a Pages project's name is its
             # deployment history, so it is stated rather than computed.

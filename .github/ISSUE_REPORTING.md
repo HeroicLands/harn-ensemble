@@ -124,7 +124,7 @@ creates a label here; a gap in the set is raised in `HeroicLands/.github`.
 
 - `area/content` — Hârn Ensemble material: character notes, affiliations, actors, journals, packs, artwork.
 - `area/documentation` — the README, process and authoring guides.
-- `area/site` — the `/harnensemble/` homepage: its content, the Hugo build, the Cloudflare Pages deployment.
+- `area/site` — the `/harnensemble/` homepage: its content, the site build, the Cloudflare Pages deployment.
 - `area/devops` — build, tooling, pack pipeline, release, repository configuration.
 - `flag/security` — touches an attack surface: data integrity, macro or script execution, injection, or anything warranting private disclosure (§7).
 - `flag/tech-debt` — restructuring or cleanup of working content or tooling; refactors.
@@ -369,16 +369,16 @@ The project spans several repositories in the `HeroicLands` organization, and �
 of the process split — **each one tracks its own work.** There is no central
 tracker.
 
-| Repository                        | Tracks                                                                       |
-| --------------------------------- | ---------------------------------------------------------------------------- |
-| `harn-ensemble`                   | **This repository** — the Hârn Ensemble module and its `/harnensemble/` page |
-| `harn-adventures`                 | The Hârn Adventures module — Foundry compendium packs only                   |
-| `HarnMaster-3-FoundryVTT`         | The HârnMaster 3 (`hm3`) Foundry system                                      |
-| `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build  |
-| `sohl-thalorna`                   | The `thalorna` package — original setting content and the `/thalorna` site   |
-| `sohl-kethira-basic`              | The `kethira` package — Foundry compendium packs only                        |
-| `heroiclands-site`                | heroiclands.org — its content, Cloudflare Pages, the CDN                     |
-| `heroiclands-hugo-theme`          | The shared Hugo theme the project's sites render through                     |
+| Repository                        | Tracks                                                                           |
+| --------------------------------- | -------------------------------------------------------------------------------- |
+| `harn-ensemble`                   | **This repository** — the Hârn Ensemble module and its `/harnensemble/` page     |
+| `harn-adventures`                 | The Hârn Adventures module — Foundry compendium packs only                       |
+| `HarnMaster-3-FoundryVTT`         | The HârnMaster 3 (`hm3`) Foundry system                                          |
+| `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build      |
+| `sohl-thalorna`                   | The `thalorna` package — original setting content and the `/thalorna` site       |
+| `sohl-kethira-basic`              | The `kethira` package — Foundry compendium packs only                            |
+| `heroiclands-site`                | heroiclands.org — its content, Cloudflare Pages, the CDN                         |
+| `package-build`                   | The shared build toolchain and the site theme the project's sites render through |
 
 **File the issue where the work will be done.** The rule is delivery, not subject: if
 the fix is an edit to a file in this repository, the issue belongs here, even when the
