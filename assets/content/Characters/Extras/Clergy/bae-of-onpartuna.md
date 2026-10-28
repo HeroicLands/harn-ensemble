@@ -1,6 +1,6 @@
 ---
 shortcode: baeofonpartuna
-name: {full: Bae of Onpartuna, aliases: []}
+name: {full: Bae of Onpartuna}
 type: being
 subType: npc
 tags: []

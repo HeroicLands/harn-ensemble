@@ -1,6 +1,6 @@
 ---
 shortcode: ineofamafa
-name: {full: Ine of Amafa, aliases: []}
+name: {full: Ine of Amafa}
 type: being
 subType: npc
 tags: []

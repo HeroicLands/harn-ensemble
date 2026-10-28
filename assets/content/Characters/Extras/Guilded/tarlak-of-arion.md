@@ -1,6 +1,6 @@
 ---
 shortcode: tarlakofarion
-name: {full: Tarlak of Arion, aliases: []}
+name: {full: Tarlak of Arion}
 type: being
 subType: npc
 tags: []

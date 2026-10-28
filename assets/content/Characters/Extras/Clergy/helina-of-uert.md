@@ -1,6 +1,6 @@
 ---
 shortcode: helinaofuert
-name: {full: Helina of Uert, aliases: []}
+name: {full: Helina of Uert}
 type: being
 subType: npc
 tags: []

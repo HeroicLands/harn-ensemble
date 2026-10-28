@@ -1,6 +1,6 @@
 ---
 shortcode: riathadeherne
-name: {full: Riatha Deherne, aliases: []}
+name: {full: Riatha Deherne}
 type: being
 subType: character
 tags: []

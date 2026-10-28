@@ -1,6 +1,6 @@
 ---
 shortcode: crolofmatlimun
-name: {full: Crol of Matlimun, aliases: []}
+name: {full: Crol of Matlimun}
 type: being
 subType: npc
 tags: []

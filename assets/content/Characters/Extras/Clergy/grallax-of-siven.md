@@ -1,6 +1,6 @@
 ---
 shortcode: grallaxofsiven
-name: {full: Grallax of Siven, aliases: []}
+name: {full: Grallax of Siven}
 type: being
 subType: npc
 tags: []

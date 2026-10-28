@@ -1,6 +1,6 @@
 ---
 shortcode: jarnofkramelvoen
-name: {full: Jarn of Kramelvoen, aliases: []}
+name: {full: Jarn of Kramelvoen}
 type: being
 subType: npc
 tags: []

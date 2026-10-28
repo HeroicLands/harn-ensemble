@@ -1,6 +1,6 @@
 ---
 shortcode: ereneofpodin
-name: {full: Erene of Podin, aliases: []}
+name: {full: Erene of Podin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: korakofkramelvoen
-name: {full: Korak of Kramelvoen, aliases: []}
+name: {full: Korak of Kramelvoen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: sarinaofmerlesque
-name: {full: Sarina of Merlesque, aliases: []}
+name: {full: Sarina of Merlesque}
 type: being
 subType: npc
 tags: []

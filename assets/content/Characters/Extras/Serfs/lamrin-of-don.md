@@ -1,6 +1,6 @@
 ---
 shortcode: lamrinofdon
-name: {full: Lamrin of Don, aliases: []}
+name: {full: Lamrin of Don}
 type: being
 subType: npc
 tags: []

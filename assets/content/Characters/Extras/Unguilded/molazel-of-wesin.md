@@ -1,6 +1,6 @@
 ---
 shortcode: molazelofwesin
-name: {full: Molazel of Wesin, aliases: []}
+name: {full: Molazel of Wesin}
 type: being
 subType: npc
 tags: []

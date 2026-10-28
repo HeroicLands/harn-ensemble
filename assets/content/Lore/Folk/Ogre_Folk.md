@@ -1,6 +1,6 @@
 ---
 shortcode: ogreflk
-name: {full: Ogre Folk, aliases: []}
+name: {full: Ogre Folk}
 type: lore
 subType: folk
 description: "The Ogre Folk"

@@ -1,6 +1,6 @@
 ---
 shortcode: huwofislwyn
-name: {full: Huw of Islwyn, aliases: []}
+name: {full: Huw of Islwyn}
 type: being
 subType: character
 tags: []

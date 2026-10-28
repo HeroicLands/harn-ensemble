@@ -1,6 +1,6 @@
 ---
 shortcode: yeraofparsindalin
-name: {full: Yera of Parsindalin, aliases: []}
+name: {full: Yera of Parsindalin}
 type: being
 subType: npc
 tags: []

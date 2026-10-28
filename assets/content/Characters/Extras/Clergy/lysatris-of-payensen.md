@@ -1,6 +1,6 @@
 ---
 shortcode: lysatrisofpayensen
-name: {full: Lysatris of Payensen, aliases: []}
+name: {full: Lysatris of Payensen}
 type: being
 subType: npc
 tags: []

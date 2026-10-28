@@ -1,6 +1,6 @@
 ---
 shortcode: peserofquardas
-name: {full: Peser of Quardas, aliases: []}
+name: {full: Peser of Quardas}
 type: being
 subType: npc
 tags: []

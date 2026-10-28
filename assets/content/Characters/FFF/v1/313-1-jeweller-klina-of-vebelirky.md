@@ -1,6 +1,6 @@
 ---
 shortcode: klinaofvebelirky
-name: {full: Klina of Vebelirky, aliases: []}
+name: {full: Klina of Vebelirky}
 type: being
 subType: character
 tags: []

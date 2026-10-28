@@ -1,6 +1,6 @@
 ---
 shortcode: satrisoftar
-name: {full: Satris of Tar, aliases: []}
+name: {full: Satris of Tar}
 type: being
 subType: npc
 tags: []

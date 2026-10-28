@@ -1,6 +1,6 @@
 ---
 shortcode: chanisheofquiribe
-name: {full: Chanishe of Quiribe, aliases: []}
+name: {full: Chanishe of Quiribe}
 type: being
 subType: npc
 tags: []

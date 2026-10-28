@@ -1,6 +1,6 @@
 ---
 shortcode: agarchiphenofbain
-name: {full: Agarchiphen of Bain, aliases: []}
+name: {full: Agarchiphen of Bain}
 type: being
 subType: npc
 tags: []

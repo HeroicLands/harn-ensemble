@@ -1,6 +1,6 @@
 ---
 shortcode: cersyneofgorra
-name: {full: Cersyne of Gorra, aliases: []}
+name: {full: Cersyne of Gorra}
 type: being
 subType: npc
 tags: []

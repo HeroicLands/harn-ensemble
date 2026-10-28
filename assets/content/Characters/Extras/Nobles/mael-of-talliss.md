@@ -1,6 +1,6 @@
 ---
 shortcode: maeloftalliss
-name: {full: Mael of Talliss, aliases: []}
+name: {full: Mael of Talliss}
 type: being
 subType: npc
 tags: []

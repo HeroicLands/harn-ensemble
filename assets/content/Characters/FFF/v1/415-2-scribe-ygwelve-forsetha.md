@@ -1,6 +1,6 @@
 ---
 shortcode: ygwelveforsetha
-name: {full: Ygwelve Forsetha, aliases: []}
+name: {full: Ygwelve Forsetha}
 type: being
 subType: character
 tags: []

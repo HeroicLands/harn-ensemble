@@ -1,6 +1,6 @@
 ---
 shortcode: karnoftixenasta
-name: {full: Karn of Tixenasta, aliases: []}
+name: {full: Karn of Tixenasta}
 type: being
 subType: npc
 tags: []

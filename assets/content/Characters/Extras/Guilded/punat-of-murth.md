@@ -1,6 +1,6 @@
 ---
 shortcode: punatofmurth
-name: {full: Punat of Murth, aliases: []}
+name: {full: Punat of Murth}
 type: being
 subType: npc
 tags: []

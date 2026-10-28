@@ -1,6 +1,6 @@
 ---
 shortcode: amdirnoenofamluguruiamdireb
-name: {full: Amdirnoen of Amluguruiamdireb, aliases: []}
+name: {full: Amdirnoen of Amluguruiamdireb}
 type: being
 subType: npc
 tags: []

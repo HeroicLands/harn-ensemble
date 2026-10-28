@@ -1,6 +1,6 @@
 ---
 shortcode: rosakoftabral
-name: {full: Rosak of Tabral, aliases: []}
+name: {full: Rosak of Tabral}
 type: being
 subType: npc
 tags: []

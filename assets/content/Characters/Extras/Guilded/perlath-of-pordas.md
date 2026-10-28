@@ -1,6 +1,6 @@
 ---
 shortcode: perlathofpordas
-name: {full: Perlath of Pordas, aliases: []}
+name: {full: Perlath of Pordas}
 type: being
 subType: npc
 tags: []

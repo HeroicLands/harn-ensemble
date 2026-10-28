@@ -1,6 +1,6 @@
 ---
 shortcode: marcandyofbare
-name: {full: Marcandy of Bare, aliases: []}
+name: {full: Marcandy of Bare}
 type: being
 subType: npc
 tags: []

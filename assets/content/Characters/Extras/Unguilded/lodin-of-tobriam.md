@@ -1,6 +1,6 @@
 ---
 shortcode: lodinoftobriam
-name: {full: Lodin of Tobriam, aliases: []}
+name: {full: Lodin of Tobriam}
 type: being
 subType: npc
 tags: []

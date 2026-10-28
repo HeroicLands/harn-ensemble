@@ -1,6 +1,6 @@
 ---
 shortcode: akeur
-name: {full: Akeur, aliases: []}
+name: {full: Akeur}
 type: being
 subType: character
 tags: []

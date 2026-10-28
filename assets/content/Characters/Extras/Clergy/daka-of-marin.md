@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofmarin
-name: {full: Daka of Marin, aliases: []}
+name: {full: Daka of Marin}
 type: being
 subType: npc
 tags: []

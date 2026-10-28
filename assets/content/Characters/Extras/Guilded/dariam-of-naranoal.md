@@ -1,6 +1,6 @@
 ---
 shortcode: dariamofnaranoal
-name: {full: Dariam of Naranoal, aliases: []}
+name: {full: Dariam of Naranoal}
 type: being
 subType: npc
 tags: []

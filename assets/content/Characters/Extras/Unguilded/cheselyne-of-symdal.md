@@ -1,6 +1,6 @@
 ---
 shortcode: cheselyneofsymdal
-name: {full: Cheselyne of Symdal, aliases: []}
+name: {full: Cheselyne of Symdal}
 type: being
 subType: npc
 tags: []

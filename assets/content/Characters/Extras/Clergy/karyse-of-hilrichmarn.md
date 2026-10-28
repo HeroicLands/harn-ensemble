@@ -1,6 +1,6 @@
 ---
 shortcode: karyseofhilrichmarn
-name: {full: Karyse of Hilrichmarn, aliases: []}
+name: {full: Karyse of Hilrichmarn}
 type: being
 subType: npc
 tags: []

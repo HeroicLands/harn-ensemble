@@ -1,6 +1,6 @@
 ---
 shortcode: murlidonofmarn
-name: {full: Murlidon of Marn, aliases: []}
+name: {full: Murlidon of Marn}
 type: being
 subType: npc
 tags: []

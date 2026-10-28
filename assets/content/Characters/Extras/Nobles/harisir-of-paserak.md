@@ -1,6 +1,6 @@
 ---
 shortcode: harisirofpaserak
-name: {full: Harisir of Paserak, aliases: []}
+name: {full: Harisir of Paserak}
 type: being
 subType: npc
 tags: []

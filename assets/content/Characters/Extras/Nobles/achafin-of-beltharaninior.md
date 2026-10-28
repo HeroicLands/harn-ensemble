@@ -1,6 +1,6 @@
 ---
 shortcode: achafinofbeltharaninior
-name: {full: Achafin of Beltharaninior, aliases: []}
+name: {full: Achafin of Beltharaninior}
 type: being
 subType: npc
 tags: []

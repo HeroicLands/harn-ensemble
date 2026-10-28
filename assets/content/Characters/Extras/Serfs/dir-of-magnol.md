@@ -1,6 +1,6 @@
 ---
 shortcode: dirofmagnol
-name: {full: Dir of Magnol, aliases: []}
+name: {full: Dir of Magnol}
 type: being
 subType: npc
 tags: []

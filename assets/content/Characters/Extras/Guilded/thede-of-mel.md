@@ -1,6 +1,6 @@
 ---
 shortcode: thedeofmel
-name: {full: Thede of Mel, aliases: []}
+name: {full: Thede of Mel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gweniofasain
-name: {full: Gweni of Asain, aliases: []}
+name: {full: Gweni of Asain}
 type: being
 subType: npc
 tags: []

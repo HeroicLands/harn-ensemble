@@ -1,6 +1,6 @@
 ---
 shortcode: calenofesseren
-name: {full: Calen of Esseren, aliases: []}
+name: {full: Calen of Esseren}
 type: being
 subType: npc
 tags: []

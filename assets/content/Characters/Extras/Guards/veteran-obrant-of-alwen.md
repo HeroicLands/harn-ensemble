@@ -1,6 +1,6 @@
 ---
 shortcode: veteranobrantofalwen
-name: {full: Veteran Obrant of Alwen, aliases: []}
+name: {full: Veteran Obrant of Alwen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: erylacobb
-name: {full: Eryla Cobb, aliases: []}
+name: {full: Eryla Cobb}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: uselofonparinarad
-name: {full: Usel of Onparinarad, aliases: []}
+name: {full: Usel of Onparinarad}
 type: being
 subType: npc
 tags: []

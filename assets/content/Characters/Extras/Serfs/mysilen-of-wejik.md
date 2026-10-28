@@ -1,6 +1,6 @@
 ---
 shortcode: mysilenofwejik
-name: {full: Mysilen of Wejik, aliases: []}
+name: {full: Mysilen of Wejik}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: asharlathofeylosan
-name: {full: Asharlath of Eylosan, aliases: []}
+name: {full: Asharlath of Eylosan}
 type: being
 subType: npc
 tags: []

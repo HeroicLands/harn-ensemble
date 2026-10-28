@@ -1,6 +1,6 @@
 ---
 shortcode: uselofarthen
-name: {full: Usel of Arthen, aliases: []}
+name: {full: Usel of Arthen}
 type: being
 subType: npc
 tags: []

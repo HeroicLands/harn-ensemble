@@ -1,6 +1,6 @@
 ---
 shortcode: rayaldcotrael
-name: {full: Rayald Cotrael, aliases: []}
+name: {full: Rayald Cotrael}
 type: being
 subType: character
 tags: []

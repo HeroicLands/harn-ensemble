@@ -1,6 +1,6 @@
 ---
 shortcode: falkisskorson
-name: {full: Falkis Skorson, aliases: []}
+name: {full: Falkis Skorson}
 type: being
 subType: character
 tags: []

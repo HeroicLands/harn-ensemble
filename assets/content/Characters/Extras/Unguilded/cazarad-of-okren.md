@@ -1,6 +1,6 @@
 ---
 shortcode: cazaradofokren
-name: {full: Cazarad of Okren, aliases: []}
+name: {full: Cazarad of Okren}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jithanofkai
-name: {full: Jithan of Kai, aliases: []}
+name: {full: Jithan of Kai}
 type: being
 subType: npc
 tags: []

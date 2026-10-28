@@ -1,6 +1,6 @@
 ---
 shortcode: amlugofamlugnim
-name: {full: Amlug of Amlugnim, aliases: []}
+name: {full: Amlug of Amlugnim}
 type: being
 subType: npc
 tags: []

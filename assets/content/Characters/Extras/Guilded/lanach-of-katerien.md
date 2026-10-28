@@ -1,6 +1,6 @@
 ---
 shortcode: lanachofkaterien
-name: {full: Lanach of Katerien, aliases: []}
+name: {full: Lanach of Katerien}
 type: being
 subType: npc
 tags: []

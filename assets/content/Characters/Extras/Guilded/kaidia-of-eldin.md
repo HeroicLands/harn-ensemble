@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofeldin
-name: {full: Kaidia of Eldin, aliases: []}
+name: {full: Kaidia of Eldin}
 type: being
 subType: npc
 tags: []

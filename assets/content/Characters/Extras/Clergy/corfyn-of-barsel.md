@@ -1,6 +1,6 @@
 ---
 shortcode: corfynofbarsel
-name: {full: Corfyn of Barsel, aliases: []}
+name: {full: Corfyn of Barsel}
 type: being
 subType: npc
 tags: []

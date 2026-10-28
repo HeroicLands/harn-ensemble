@@ -1,6 +1,6 @@
 ---
 shortcode: kuvelofartus
-name: {full: Kuvel of Artus, aliases: []}
+name: {full: Kuvel of Artus}
 type: being
 subType: npc
 tags: []

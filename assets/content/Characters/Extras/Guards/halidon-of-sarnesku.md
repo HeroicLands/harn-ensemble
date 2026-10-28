@@ -1,6 +1,6 @@
 ---
 shortcode: halidonofsarnesku
-name: {full: Halidon of Sarnesku, aliases: []}
+name: {full: Halidon of Sarnesku}
 type: being
 subType: npc
 tags: []

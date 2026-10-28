@@ -1,6 +1,6 @@
 ---
 shortcode: rackneoffartek
-name: {full: Rackne of Fartek, aliases: []}
+name: {full: Rackne of Fartek}
 type: being
 subType: npc
 tags: []

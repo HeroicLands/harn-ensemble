@@ -1,6 +1,6 @@
 ---
 shortcode: perlindeofashele
-name: {full: Perlinde of Ashele, aliases: []}
+name: {full: Perlinde of Ashele}
 type: being
 subType: npc
 tags: []

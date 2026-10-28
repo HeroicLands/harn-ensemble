@@ -1,6 +1,6 @@
 ---
 shortcode: bregofamath
-name: {full: Breg of Amath, aliases: []}
+name: {full: Breg of Amath}
 type: being
 subType: npc
 tags: []

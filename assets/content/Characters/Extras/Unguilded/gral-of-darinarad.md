@@ -1,6 +1,6 @@
 ---
 shortcode: gralofdarinarad
-name: {full: Gral of Darinarad, aliases: []}
+name: {full: Gral of Darinarad}
 type: being
 subType: npc
 tags: []

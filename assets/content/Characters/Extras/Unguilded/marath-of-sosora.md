@@ -1,6 +1,6 @@
 ---
 shortcode: marathofsosora
-name: {full: Marath of Sosora, aliases: []}
+name: {full: Marath of Sosora}
 type: being
 subType: npc
 tags: []

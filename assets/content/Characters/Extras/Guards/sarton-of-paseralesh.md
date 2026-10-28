@@ -1,6 +1,6 @@
 ---
 shortcode: sartonofpaseralesh
-name: {full: Sarton of Paseralesh, aliases: []}
+name: {full: Sarton of Paseralesh}
 type: being
 subType: npc
 tags: []

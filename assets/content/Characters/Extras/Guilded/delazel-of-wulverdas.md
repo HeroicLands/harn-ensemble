@@ -1,6 +1,6 @@
 ---
 shortcode: delazelofwulverdas
-name: {full: Delazel of Wulverdas, aliases: []}
+name: {full: Delazel of Wulverdas}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: evenodelarondashofvalain
-name: {full: Evenodelarondash of Valain, aliases: []}
+name: {full: Evenodelarondash of Valain}
 type: being
 subType: npc
 tags: []

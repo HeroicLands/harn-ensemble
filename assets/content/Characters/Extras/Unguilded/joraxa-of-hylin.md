@@ -1,6 +1,6 @@
 ---
 shortcode: joraxaofhylin
-name: {full: Joraxa of Hylin, aliases: []}
+name: {full: Joraxa of Hylin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: owainofever
-name: {full: Owain of Ever, aliases: []}
+name: {full: Owain of Ever}
 type: being
 subType: npc
 tags: []

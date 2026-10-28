@@ -1,6 +1,6 @@
 ---
 shortcode: lasereryofmarn
-name: {full: Laserery of Marn, aliases: []}
+name: {full: Laserery of Marn}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: melicalofweth
-name: {full: Melical of Weth, aliases: []}
+name: {full: Melical of Weth}
 type: being
 subType: npc
 tags: []

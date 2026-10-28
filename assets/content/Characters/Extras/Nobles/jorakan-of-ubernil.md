@@ -1,6 +1,6 @@
 ---
 shortcode: jorakanofubernil
-name: {full: Jorakan of Ubernil, aliases: []}
+name: {full: Jorakan of Ubernil}
 type: being
 subType: npc
 tags: []

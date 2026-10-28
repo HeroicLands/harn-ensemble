@@ -1,6 +1,6 @@
 ---
 shortcode: arthenofarhaid
-name: {full: Arthen of Arhaid, aliases: []}
+name: {full: Arthen of Arhaid}
 type: being
 subType: npc
 tags: []

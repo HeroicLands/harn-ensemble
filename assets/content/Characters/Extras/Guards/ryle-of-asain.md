@@ -1,6 +1,6 @@
 ---
 shortcode: ryleofasain
-name: {full: Ryle of Asain, aliases: []}
+name: {full: Ryle of Asain}
 type: being
 subType: npc
 tags: []

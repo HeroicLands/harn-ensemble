@@ -1,6 +1,6 @@
 ---
 shortcode: kalwisofmusbern
-name: {full: Kalwis of Musbern, aliases: []}
+name: {full: Kalwis of Musbern}
 type: being
 subType: npc
 tags: []

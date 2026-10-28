@@ -1,6 +1,6 @@
 ---
 shortcode: marcandyoftich
-name: {full: Marcandy of Tich, aliases: []}
+name: {full: Marcandy of Tich}
 type: being
 subType: npc
 tags: []

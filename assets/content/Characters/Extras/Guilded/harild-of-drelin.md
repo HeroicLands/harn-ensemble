@@ -1,6 +1,6 @@
 ---
 shortcode: harildofdrelin
-name: {full: Harild of Drelin, aliases: []}
+name: {full: Harild of Drelin}
 type: being
 subType: npc
 tags: []

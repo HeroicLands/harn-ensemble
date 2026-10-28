@@ -1,6 +1,6 @@
 ---
 shortcode: teldaneofvaradas
-name: {full: Teldane of Varadas, aliases: []}
+name: {full: Teldane of Varadas}
 type: being
 subType: npc
 tags: []

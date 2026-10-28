@@ -1,6 +1,6 @@
 ---
 shortcode: pallisofarmelen
-name: {full: Pallis of Armelen, aliases: []}
+name: {full: Pallis of Armelen}
 type: being
 subType: npc
 tags: []

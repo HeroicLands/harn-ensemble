@@ -1,6 +1,6 @@
 ---
 shortcode: zaneofonparsuel
-name: {full: Zane of Onparsuel, aliases: []}
+name: {full: Zane of Onparsuel}
 type: being
 subType: npc
 tags: []

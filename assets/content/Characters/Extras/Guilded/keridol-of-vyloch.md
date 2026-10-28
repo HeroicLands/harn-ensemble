@@ -1,6 +1,6 @@
 ---
 shortcode: keridolofvyloch
-name: {full: Keridol of Vyloch, aliases: []}
+name: {full: Keridol of Vyloch}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: petryofalloc
-name: {full: Petry of Alloc, aliases: []}
+name: {full: Petry of Alloc}
 type: being
 subType: character
 tags: []

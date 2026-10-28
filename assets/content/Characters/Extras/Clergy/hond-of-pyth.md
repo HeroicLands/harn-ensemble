@@ -1,6 +1,6 @@
 ---
 shortcode: hondofpyth
-name: {full: Hond of Pyth, aliases: []}
+name: {full: Hond of Pyth}
 type: being
 subType: npc
 tags: []

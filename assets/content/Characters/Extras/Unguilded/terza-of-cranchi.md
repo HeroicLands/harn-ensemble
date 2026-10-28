@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofcranchi
-name: {full: Terza of Cranchi, aliases: []}
+name: {full: Terza of Cranchi}
 type: being
 subType: npc
 tags: []

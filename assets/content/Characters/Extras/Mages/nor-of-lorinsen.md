@@ -1,6 +1,6 @@
 ---
 shortcode: noroflorinsen
-name: {full: Nor of Lorinsen, aliases: []}
+name: {full: Nor of Lorinsen}
 type: being
 subType: npc
 tags: []

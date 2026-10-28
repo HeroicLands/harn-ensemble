@@ -1,6 +1,6 @@
 ---
 shortcode: chymelicaloftobrid
-name: {full: Chymelical of Tobrid, aliases: []}
+name: {full: Chymelical of Tobrid}
 type: being
 subType: npc
 tags: []

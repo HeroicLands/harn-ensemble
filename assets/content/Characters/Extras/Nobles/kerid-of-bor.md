@@ -1,6 +1,6 @@
 ---
 shortcode: keridofbor
-name: {full: Kerid of Bor, aliases: []}
+name: {full: Kerid of Bor}
 type: being
 subType: npc
 tags: []

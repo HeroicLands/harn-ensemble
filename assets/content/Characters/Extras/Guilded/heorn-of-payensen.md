@@ -1,6 +1,6 @@
 ---
 shortcode: heornofpayensen
-name: {full: Heorn of Payensen, aliases: []}
+name: {full: Heorn of Payensen}
 type: being
 subType: npc
 tags: []

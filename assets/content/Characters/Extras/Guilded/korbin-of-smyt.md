@@ -1,6 +1,6 @@
 ---
 shortcode: korbinofsmyt
-name: {full: Korbin of Smyt, aliases: []}
+name: {full: Korbin of Smyt}
 type: being
 subType: npc
 tags: []

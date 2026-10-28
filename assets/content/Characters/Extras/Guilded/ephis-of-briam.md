@@ -1,6 +1,6 @@
 ---
 shortcode: ephisofbriam
-name: {full: Ephis of Briam, aliases: []}
+name: {full: Ephis of Briam}
 type: being
 subType: npc
 tags: []

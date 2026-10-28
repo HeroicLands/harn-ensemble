@@ -1,6 +1,6 @@
 ---
 shortcode: veterankarithanofwesin
-name: {full: Veteran Karithan of Wesin, aliases: []}
+name: {full: Veteran Karithan of Wesin}
 type: being
 subType: npc
 tags: []

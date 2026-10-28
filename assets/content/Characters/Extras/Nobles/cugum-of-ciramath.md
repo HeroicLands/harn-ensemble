@@ -1,6 +1,6 @@
 ---
 shortcode: cugumofciramath
-name: {full: Cugum of Ciramath, aliases: []}
+name: {full: Cugum of Ciramath}
 type: being
 subType: npc
 tags: []

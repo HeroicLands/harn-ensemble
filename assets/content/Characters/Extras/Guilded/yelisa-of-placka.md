@@ -1,6 +1,6 @@
 ---
 shortcode: yelisaofplacka
-name: {full: Yelisa of Placka, aliases: []}
+name: {full: Yelisa of Placka}
 type: being
 subType: npc
 tags: []

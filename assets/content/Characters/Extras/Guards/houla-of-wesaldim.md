@@ -1,6 +1,6 @@
 ---
 shortcode: houlaofwesaldim
-name: {full: Houla of Wesaldim, aliases: []}
+name: {full: Houla of Wesaldim}
 type: being
 subType: npc
 tags: []

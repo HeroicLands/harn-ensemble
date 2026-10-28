@@ -1,6 +1,6 @@
 ---
 shortcode: pelimeofonparth
-name: {full: Pelime of Onparth, aliases: []}
+name: {full: Pelime of Onparth}
 type: being
 subType: npc
 tags: []

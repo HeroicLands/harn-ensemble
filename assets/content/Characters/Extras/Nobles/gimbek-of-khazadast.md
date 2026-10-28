@@ -1,6 +1,6 @@
 ---
 shortcode: gimbekofkhazadast
-name: {full: Gimbek of Khazadast, aliases: []}
+name: {full: Gimbek of Khazadast}
 type: being
 subType: npc
 tags: []

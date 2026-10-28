@@ -1,6 +1,6 @@
 ---
 shortcode: meralofdysel
-name: {full: Meral of Dysel, aliases: []}
+name: {full: Meral of Dysel}
 type: being
 subType: npc
 tags: []

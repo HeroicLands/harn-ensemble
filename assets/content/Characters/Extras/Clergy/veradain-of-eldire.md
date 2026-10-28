@@ -1,6 +1,6 @@
 ---
 shortcode: veradainofeldire
-name: {full: Veradain of Eldire, aliases: []}
+name: {full: Veradain of Eldire}
 type: being
 subType: npc
 tags: []

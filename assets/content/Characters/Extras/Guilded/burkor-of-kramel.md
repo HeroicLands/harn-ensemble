@@ -1,6 +1,6 @@
 ---
 shortcode: burkorofkramel
-name: {full: Burkor of Kramel, aliases: []}
+name: {full: Burkor of Kramel}
 type: being
 subType: npc
 tags: []

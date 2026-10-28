@@ -1,6 +1,6 @@
 ---
 shortcode: draminnaradas
-name: {full: Dramin Naradas, aliases: []}
+name: {full: Dramin Naradas}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tamilofkass
-name: {full: Tamil of Kass, aliases: []}
+name: {full: Tamil of Kass}
 type: being
 subType: npc
 tags: []

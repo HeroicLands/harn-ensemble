@@ -1,6 +1,6 @@
 ---
 shortcode: angwenofcelluin
-name: {full: Angwen of Celluin, aliases: []}
+name: {full: Angwen of Celluin}
 type: being
 subType: npc
 tags: []

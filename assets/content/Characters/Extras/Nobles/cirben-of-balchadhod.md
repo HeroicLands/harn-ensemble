@@ -1,6 +1,6 @@
 ---
 shortcode: cirbenofbalchadhod
-name: {full: Cirben of Balchadhod, aliases: []}
+name: {full: Cirben of Balchadhod}
 type: being
 subType: npc
 tags: []

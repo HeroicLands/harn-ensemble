@@ -1,6 +1,6 @@
 ---
 shortcode: andyofkroll
-name: {full: Andy of Kroll, aliases: []}
+name: {full: Andy of Kroll}
 type: being
 subType: npc
 tags: []

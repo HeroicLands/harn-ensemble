@@ -1,6 +1,6 @@
 ---
 shortcode: siregarolandau
-name: {full: Sir Egar Olandau, aliases: []}
+name: {full: Sir Egar Olandau}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: albalnyofloyril
-name: {full: Albalny of Loyril, aliases: []}
+name: {full: Albalny of Loyril}
 type: being
 subType: npc
 tags: []

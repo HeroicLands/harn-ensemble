@@ -1,6 +1,6 @@
 ---
 shortcode: mereryofasain
-name: {full: Merery of Asain, aliases: []}
+name: {full: Merery of Asain}
 type: being
 subType: npc
 tags: []

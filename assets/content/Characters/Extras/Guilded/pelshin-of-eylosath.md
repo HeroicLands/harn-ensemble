@@ -1,6 +1,6 @@
 ---
 shortcode: pelshinofeylosath
-name: {full: Pelshin of Eylosath, aliases: []}
+name: {full: Pelshin of Eylosath}
 type: being
 subType: npc
 tags: []

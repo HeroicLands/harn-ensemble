@@ -1,6 +1,6 @@
 ---
 shortcode: shanseagaravania
-name: {full: Shansea Garavania, aliases: []}
+name: {full: Shansea Garavania}
 type: being
 subType: character
 tags: []

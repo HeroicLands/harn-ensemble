@@ -1,6 +1,6 @@
 ---
 shortcode: arandyoflaplacka
-name: {full: Arandy of Laplacka, aliases: []}
+name: {full: Arandy of Laplacka}
 type: being
 subType: npc
 tags: []

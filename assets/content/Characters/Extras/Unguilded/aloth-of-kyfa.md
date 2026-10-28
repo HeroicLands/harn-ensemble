@@ -1,6 +1,6 @@
 ---
 shortcode: alothofkyfa
-name: {full: Aloth of Kyfa, aliases: []}
+name: {full: Aloth of Kyfa}
 type: being
 subType: npc
 tags: []

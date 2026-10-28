@@ -1,6 +1,6 @@
 ---
 shortcode: halmarofciltex
-name: {full: Halmar of Ciltex, aliases: []}
+name: {full: Halmar of Ciltex}
 type: being
 subType: npc
 tags: []

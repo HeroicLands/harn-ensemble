@@ -1,6 +1,6 @@
 ---
 shortcode: staofkeryn
-name: {full: Sta of Keryn, aliases: []}
+name: {full: Sta of Keryn}
 type: being
 subType: npc
 tags: []

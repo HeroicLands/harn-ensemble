@@ -1,6 +1,6 @@
 ---
 shortcode: fffcrewlorkin
-name: {full: Crew of the Lorkin, aliases: []}
+name: {full: Crew of the Lorkin}
 type: affiliation
 subType: venture
 tags: []

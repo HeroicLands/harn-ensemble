@@ -1,6 +1,6 @@
 ---
 shortcode: parsumenofvylosath
-name: {full: Parsumen of Vylosath, aliases: []}
+name: {full: Parsumen of Vylosath}
 type: being
 subType: npc
 tags: []

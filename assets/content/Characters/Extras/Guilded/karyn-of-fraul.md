@@ -1,6 +1,6 @@
 ---
 shortcode: karynoffraul
-name: {full: Karyn of Fraul, aliases: []}
+name: {full: Karyn of Fraul}
 type: being
 subType: npc
 tags: []

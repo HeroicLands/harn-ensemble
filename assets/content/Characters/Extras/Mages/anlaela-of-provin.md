@@ -1,6 +1,6 @@
 ---
 shortcode: anlaelaofprovin
-name: {full: Anlaela of Provin, aliases: []}
+name: {full: Anlaela of Provin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: cabornagarchalphaluofcidimben
-name: {full: Cabornagarchalphalu of Cidimben, aliases: []}
+name: {full: Cabornagarchalphalu of Cidimben}
 type: being
 subType: npc
 tags: []

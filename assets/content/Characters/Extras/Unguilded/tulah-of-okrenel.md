@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofokrenel
-name: {full: Tulah of Okrenel, aliases: []}
+name: {full: Tulah of Okrenel}
 type: being
 subType: npc
 tags: []

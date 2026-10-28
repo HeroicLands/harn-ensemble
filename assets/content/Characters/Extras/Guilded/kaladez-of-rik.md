@@ -1,6 +1,6 @@
 ---
 shortcode: kaladezofrik
-name: {full: Kaladez of Rik, aliases: []}
+name: {full: Kaladez of Rik}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: amdirofachatheluben
-name: {full: Amdir of Achatheluben, aliases: []}
+name: {full: Amdir of Achatheluben}
 type: being
 subType: npc
 tags: []

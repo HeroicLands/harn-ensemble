@@ -1,6 +1,6 @@
 ---
 shortcode: kalwisofhomslow
-name: {full: Kalwis of Homslow, aliases: []}
+name: {full: Kalwis of Homslow}
 type: being
 subType: npc
 tags: []

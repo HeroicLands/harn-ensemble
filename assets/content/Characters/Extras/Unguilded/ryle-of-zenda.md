@@ -1,6 +1,6 @@
 ---
 shortcode: ryleofzenda
-name: {full: Ryle of Zenda, aliases: []}
+name: {full: Ryle of Zenda}
 type: being
 subType: npc
 tags: []

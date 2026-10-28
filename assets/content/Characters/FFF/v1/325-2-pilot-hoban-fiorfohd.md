@@ -1,6 +1,6 @@
 ---
 shortcode: hobanfiorfohd
-name: {full: Hoban Fiorfohd, aliases: []}
+name: {full: Hoban Fiorfohd}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: bulbadulofermek
-name: {full: Bulbadul of Ermek, aliases: []}
+name: {full: Bulbadul of Ermek}
 type: being
 subType: npc
 tags: []

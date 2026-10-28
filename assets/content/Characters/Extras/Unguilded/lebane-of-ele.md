@@ -1,6 +1,6 @@
 ---
 shortcode: lebaneofele
-name: {full: Lebane of Ele, aliases: []}
+name: {full: Lebane of Ele}
 type: being
 subType: npc
 tags: []

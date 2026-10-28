@@ -1,6 +1,6 @@
 ---
 shortcode: masyneoflebarsina
-name: {full: Masyne of Lebarsina, aliases: []}
+name: {full: Masyne of Lebarsina}
 type: being
 subType: npc
 tags: []

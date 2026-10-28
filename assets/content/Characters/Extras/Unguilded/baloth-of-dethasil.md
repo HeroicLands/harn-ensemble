@@ -1,6 +1,6 @@
 ---
 shortcode: balothofdethasil
-name: {full: Baloth of Dethasil, aliases: []}
+name: {full: Baloth of Dethasil}
 type: being
 subType: npc
 tags: []

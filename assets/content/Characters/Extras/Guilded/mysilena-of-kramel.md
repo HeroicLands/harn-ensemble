@@ -1,6 +1,6 @@
 ---
 shortcode: mysilenaofkramel
-name: {full: Mysilena of Kramel, aliases: []}
+name: {full: Mysilena of Kramel}
 type: being
 subType: npc
 tags: []

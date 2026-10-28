@@ -1,6 +1,6 @@
 ---
 shortcode: thericofpharion
-name: {full: Theric of Pharion, aliases: []}
+name: {full: Theric of Pharion}
 type: being
 subType: npc
 tags: []

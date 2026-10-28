@@ -1,6 +1,6 @@
 ---
 shortcode: shaelisofmatlim
-name: {full: Shaelis of Matlim, aliases: []}
+name: {full: Shaelis of Matlim}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: sartunofnarad
-name: {full: Sartun of Narad, aliases: []}
+name: {full: Sartun of Narad}
 type: being
 subType: npc
 tags: []

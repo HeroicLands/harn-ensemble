@@ -1,6 +1,6 @@
 ---
 shortcode: jorlakofasain
-name: {full: Jorlak of Asain, aliases: []}
+name: {full: Jorlak of Asain}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: lajanaofikswic
-name: {full: Lajana of Ikswic, aliases: []}
+name: {full: Lajana of Ikswic}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: maegheloftarkoff
-name: {full: Maeghel of Tarkoff, aliases: []}
+name: {full: Maeghel of Tarkoff}
 type: being
 subType: npc
 tags: []

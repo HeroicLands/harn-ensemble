@@ -1,6 +1,6 @@
 ---
 shortcode: urlockofirinara
-name: {full: Urlock of Irinara, aliases: []}
+name: {full: Urlock of Irinara}
 type: being
 subType: npc
 tags: []

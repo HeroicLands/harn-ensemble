@@ -1,6 +1,6 @@
 ---
 shortcode: querielasyneoferlym
-name: {full: Querielasyne of Erlym, aliases: []}
+name: {full: Querielasyne of Erlym}
 type: being
 subType: npc
 tags: []

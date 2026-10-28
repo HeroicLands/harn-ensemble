@@ -1,6 +1,6 @@
 ---
 shortcode: andyofuro
-name: {full: Andy of Uro, aliases: []}
+name: {full: Andy of Uro}
 type: being
 subType: npc
 tags: []

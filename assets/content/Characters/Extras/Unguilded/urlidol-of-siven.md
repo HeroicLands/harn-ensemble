@@ -1,6 +1,6 @@
 ---
 shortcode: urlidolofsiven
-name: {full: Urlidol of Siven, aliases: []}
+name: {full: Urlidol of Siven}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gizaofgarin
-name: {full: Giza of Garin, aliases: []}
+name: {full: Giza of Garin}
 type: being
 subType: npc
 tags: []

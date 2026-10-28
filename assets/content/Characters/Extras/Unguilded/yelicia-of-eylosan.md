@@ -1,6 +1,6 @@
 ---
 shortcode: yeliciaofeylosan
-name: {full: Yelicia of Eylosan, aliases: []}
+name: {full: Yelicia of Eylosan}
 type: being
 subType: npc
 tags: []

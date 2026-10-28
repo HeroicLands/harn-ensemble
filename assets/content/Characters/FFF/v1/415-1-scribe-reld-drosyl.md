@@ -1,6 +1,6 @@
 ---
 shortcode: relddrosyl
-name: {full: Reld Drosyl, aliases: []}
+name: {full: Reld Drosyl}
 type: being
 subType: character
 tags: []

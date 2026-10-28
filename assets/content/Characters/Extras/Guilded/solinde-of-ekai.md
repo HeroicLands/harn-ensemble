@@ -1,6 +1,6 @@
 ---
 shortcode: solindeofekai
-name: {full: Solinde of Ekai, aliases: []}
+name: {full: Solinde of Ekai}
 type: being
 subType: npc
 tags: []

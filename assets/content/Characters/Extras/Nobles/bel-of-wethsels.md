@@ -1,6 +1,6 @@
 ---
 shortcode: belofwethsels
-name: {full: Bel of Wethsels, aliases: []}
+name: {full: Bel of Wethsels}
 type: being
 subType: npc
 tags: []

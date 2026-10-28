@@ -1,6 +1,6 @@
 ---
 shortcode: grimhildaforsetha
-name: {full: Grimhilda Forsetha, aliases: []}
+name: {full: Grimhilda Forsetha}
 type: being
 subType: character
 tags: []

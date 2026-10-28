@@ -1,6 +1,6 @@
 ---
 shortcode: adasarofdebern
-name: {full: Adasar of Debern, aliases: []}
+name: {full: Adasar of Debern}
 type: being
 subType: npc
 tags: []

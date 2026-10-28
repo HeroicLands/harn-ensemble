@@ -1,6 +1,6 @@
 ---
 shortcode: pirisoflunen
-name: {full: Piris of Lunen, aliases: []}
+name: {full: Piris of Lunen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: hondashofkalian
-name: {full: Hondash of Kalian, aliases: []}
+name: {full: Hondash of Kalian}
 type: being
 subType: npc
 tags: []

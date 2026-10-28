@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofvaben
-name: {full: Tomus of Vaben, aliases: []}
+name: {full: Tomus of Vaben}
 type: being
 subType: npc
 tags: []

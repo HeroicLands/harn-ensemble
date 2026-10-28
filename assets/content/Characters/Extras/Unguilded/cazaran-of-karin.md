@@ -1,6 +1,6 @@
 ---
 shortcode: cazaranofkarin
-name: {full: Cazaran of Karin, aliases: []}
+name: {full: Cazaran of Karin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: silofbaldim
-name: {full: Sil of Baldim, aliases: []}
+name: {full: Sil of Baldim}
 type: being
 subType: npc
 tags: []

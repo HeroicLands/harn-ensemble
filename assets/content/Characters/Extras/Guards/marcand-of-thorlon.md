@@ -1,6 +1,6 @@
 ---
 shortcode: marcandofthorlon
-name: {full: Marcand of Thorlon, aliases: []}
+name: {full: Marcand of Thorlon}
 type: being
 subType: npc
 tags: []

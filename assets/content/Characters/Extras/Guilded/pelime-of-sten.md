@@ -1,6 +1,6 @@
 ---
 shortcode: pelimeofsten
-name: {full: Pelime of Sten, aliases: []}
+name: {full: Pelime of Sten}
 type: being
 subType: npc
 tags: []

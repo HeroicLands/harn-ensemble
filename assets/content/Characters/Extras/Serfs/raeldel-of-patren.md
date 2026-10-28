@@ -1,6 +1,6 @@
 ---
 shortcode: raeldelofpatren
-name: {full: Raeldel of Patren, aliases: []}
+name: {full: Raeldel of Patren}
 type: being
 subType: npc
 tags: []

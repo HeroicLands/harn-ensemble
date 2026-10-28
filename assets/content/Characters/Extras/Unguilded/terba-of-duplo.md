@@ -1,6 +1,6 @@
 ---
 shortcode: terbaofduplo
-name: {full: Terba of Duplo, aliases: []}
+name: {full: Terba of Duplo}
 type: being
 subType: npc
 tags: []

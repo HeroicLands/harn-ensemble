@@ -1,6 +1,6 @@
 ---
 shortcode: amathlangrispenofcareb
-name: {full: Amathlangrispen of Careb, aliases: []}
+name: {full: Amathlangrispen of Careb}
 type: being
 subType: npc
 tags: []

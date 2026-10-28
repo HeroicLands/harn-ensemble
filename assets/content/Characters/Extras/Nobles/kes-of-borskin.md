@@ -1,6 +1,6 @@
 ---
 shortcode: kesofborskin
-name: {full: Kes of Borskin, aliases: []}
+name: {full: Kes of Borskin}
 type: being
 subType: npc
 tags: []

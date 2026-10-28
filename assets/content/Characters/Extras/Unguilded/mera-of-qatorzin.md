@@ -1,6 +1,6 @@
 ---
 shortcode: meraofqatorzin
-name: {full: Mera of Qatorzin, aliases: []}
+name: {full: Mera of Qatorzin}
 type: being
 subType: npc
 tags: []

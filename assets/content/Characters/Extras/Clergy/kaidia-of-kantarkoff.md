@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofkantarkoff
-name: {full: Kaidia of Kantarkoff, aliases: []}
+name: {full: Kaidia of Kantarkoff}
 type: being
 subType: npc
 tags: []

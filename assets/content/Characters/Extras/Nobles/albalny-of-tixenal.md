@@ -1,6 +1,6 @@
 ---
 shortcode: albalnyoftixenal
-name: {full: Albalny of Tixenal, aliases: []}
+name: {full: Albalny of Tixenal}
 type: being
 subType: npc
 tags: []

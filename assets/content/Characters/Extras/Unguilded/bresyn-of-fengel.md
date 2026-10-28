@@ -1,6 +1,6 @@
 ---
 shortcode: bresynoffengel
-name: {full: Bresyn of Fengel, aliases: []}
+name: {full: Bresyn of Fengel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: chendofchusselsen
-name: {full: Chend of Chusselsen, aliases: []}
+name: {full: Chend of Chusselsen}
 type: being
 subType: npc
 tags: []

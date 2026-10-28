@@ -1,6 +1,6 @@
 ---
 shortcode: clavroofpodin
-name: {full: Clavro of Podin, aliases: []}
+name: {full: Clavro of Podin}
 type: being
 subType: npc
 tags: []

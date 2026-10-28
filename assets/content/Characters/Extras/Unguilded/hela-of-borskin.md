@@ -1,6 +1,6 @@
 ---
 shortcode: helaofborskin
-name: {full: Hela of Borskin, aliases: []}
+name: {full: Hela of Borskin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: aquillinenofdrunadkakar
-name: {full: Aquillinen of Drunadkakar, aliases: []}
+name: {full: Aquillinen of Drunadkakar}
 type: being
 subType: npc
 tags: []

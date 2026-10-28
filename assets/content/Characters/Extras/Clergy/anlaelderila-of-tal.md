@@ -1,6 +1,6 @@
 ---
 shortcode: anlaelderilaoftal
-name: {full: Anlaelderila of Tal, aliases: []}
+name: {full: Anlaelderila of Tal}
 type: being
 subType: npc
 tags: []

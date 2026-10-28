@@ -1,6 +1,6 @@
 ---
 shortcode: sarynofarmel
-name: {full: Saryn of Armel, aliases: []}
+name: {full: Saryn of Armel}
 type: being
 subType: npc
 tags: []

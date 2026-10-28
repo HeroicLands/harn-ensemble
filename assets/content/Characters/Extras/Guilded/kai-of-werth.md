@@ -1,6 +1,6 @@
 ---
 shortcode: kaiofwerth
-name: {full: Kai of Werth, aliases: []}
+name: {full: Kai of Werth}
 type: being
 subType: npc
 tags: []

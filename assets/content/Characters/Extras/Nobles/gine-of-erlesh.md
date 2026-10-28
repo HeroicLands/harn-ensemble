@@ -1,6 +1,6 @@
 ---
 shortcode: gineoferlesh
-name: {full: Gine of Erlesh, aliases: []}
+name: {full: Gine of Erlesh}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: edirofmarby
-name: {full: Edir of Marby, aliases: []}
+name: {full: Edir of Marby}
 type: being
 subType: npc
 tags: []

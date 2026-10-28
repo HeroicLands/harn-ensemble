@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofavorde
-name: {full: Tomus of Avorde, aliases: []}
+name: {full: Tomus of Avorde}
 type: being
 subType: npc
 tags: []

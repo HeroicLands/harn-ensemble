@@ -1,6 +1,6 @@
 ---
 shortcode: marwinofirin
-name: {full: Marwin of Irin, aliases: []}
+name: {full: Marwin of Irin}
 type: being
 subType: npc
 tags: []

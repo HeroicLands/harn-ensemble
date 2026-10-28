@@ -1,6 +1,6 @@
 ---
 shortcode: karynofewenal
-name: {full: Karyn of Ewenal, aliases: []}
+name: {full: Karyn of Ewenal}
 type: being
 subType: npc
 tags: []

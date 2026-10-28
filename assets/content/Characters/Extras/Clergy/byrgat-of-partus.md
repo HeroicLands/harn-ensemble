@@ -1,6 +1,6 @@
 ---
 shortcode: byrgatofpartus
-name: {full: Byrgat of Partus, aliases: []}
+name: {full: Byrgat of Partus}
 type: being
 subType: npc
 tags: []

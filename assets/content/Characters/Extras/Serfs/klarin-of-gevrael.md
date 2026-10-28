@@ -1,6 +1,6 @@
 ---
 shortcode: klarinofgevrael
-name: {full: Klarin of Gevrael, aliases: []}
+name: {full: Klarin of Gevrael}
 type: being
 subType: npc
 tags: []

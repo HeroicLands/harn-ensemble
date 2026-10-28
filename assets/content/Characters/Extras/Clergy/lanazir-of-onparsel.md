@@ -1,6 +1,6 @@
 ---
 shortcode: lanazirofonparsel
-name: {full: Lanazir of Onparsel, aliases: []}
+name: {full: Lanazir of Onparsel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gorsineoftobrid
-name: {full: Gorsine of Tobrid, aliases: []}
+name: {full: Gorsine of Tobrid}
 type: being
 subType: npc
 tags: []

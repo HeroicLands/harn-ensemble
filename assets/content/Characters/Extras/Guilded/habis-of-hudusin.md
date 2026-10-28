@@ -1,6 +1,6 @@
 ---
 shortcode: habisofhudusin
-name: {full: Habis of Hudusin, aliases: []}
+name: {full: Habis of Hudusin}
 type: being
 subType: npc
 tags: []

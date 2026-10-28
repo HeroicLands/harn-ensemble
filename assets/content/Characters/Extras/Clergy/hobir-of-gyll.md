@@ -1,6 +1,6 @@
 ---
 shortcode: hobirofgyll
-name: {full: Hobir of Gyll, aliases: []}
+name: {full: Hobir of Gyll}
 type: being
 subType: npc
 tags: []

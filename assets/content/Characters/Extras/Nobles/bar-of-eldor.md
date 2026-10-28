@@ -1,6 +1,6 @@
 ---
 shortcode: barofeldor
-name: {full: Bar of Eldor, aliases: []}
+name: {full: Bar of Eldor}
 type: being
 subType: npc
 tags: []

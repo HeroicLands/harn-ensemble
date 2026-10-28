@@ -1,6 +1,6 @@
 ---
 shortcode: harlabekofburrak
-name: {full: Harlabek of Burrak, aliases: []}
+name: {full: Harlabek of Burrak}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: aradahofkanthen
-name: {full: Aradah of Kanthen, aliases: []}
+name: {full: Aradah of Kanthen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: geitergautisson
-name: {full: Geiter Gautisson, aliases: []}
+name: {full: Geiter Gautisson}
 type: being
 subType: character
 tags: []

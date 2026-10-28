@@ -1,6 +1,6 @@
 ---
 shortcode: sarynofdon
-name: {full: Saryn of Don, aliases: []}
+name: {full: Saryn of Don}
 type: being
 subType: npc
 tags: []

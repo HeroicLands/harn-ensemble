@@ -1,6 +1,6 @@
 ---
 shortcode: lirofsiven
-name: {full: Lir of Siven, aliases: []}
+name: {full: Lir of Siven}
 type: being
 subType: npc
 tags: []

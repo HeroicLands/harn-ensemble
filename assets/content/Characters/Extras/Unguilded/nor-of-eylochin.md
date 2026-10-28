@@ -1,6 +1,6 @@
 ---
 shortcode: norofeylochin
-name: {full: Nor of Eylochin, aliases: []}
+name: {full: Nor of Eylochin}
 type: being
 subType: npc
 tags: []

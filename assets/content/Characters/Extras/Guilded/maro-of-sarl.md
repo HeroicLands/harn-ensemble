@@ -1,6 +1,6 @@
 ---
 shortcode: maroofsarl
-name: {full: Maro of Sarl, aliases: []}
+name: {full: Maro of Sarl}
 type: being
 subType: npc
 tags: []

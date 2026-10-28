@@ -1,6 +1,6 @@
 ---
 shortcode: jereofbaroos
-name: {full: Jere of Baroos, aliases: []}
+name: {full: Jere of Baroos}
 type: being
 subType: npc
 tags: []

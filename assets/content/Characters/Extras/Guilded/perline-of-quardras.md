@@ -1,6 +1,6 @@
 ---
 shortcode: perlineofquardras
-name: {full: Perline of Quardras, aliases: []}
+name: {full: Perline of Quardras}
 type: being
 subType: npc
 tags: []

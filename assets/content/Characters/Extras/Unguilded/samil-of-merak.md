@@ -1,6 +1,6 @@
 ---
 shortcode: samilofmerak
-name: {full: Samil of Merak, aliases: []}
+name: {full: Samil of Merak}
 type: being
 subType: npc
 tags: []

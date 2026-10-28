@@ -1,6 +1,6 @@
 ---
 shortcode: yebinofmerbenalasane
-name: {full: Yebin of Merbenalasane, aliases: []}
+name: {full: Yebin of Merbenalasane}
 type: being
 subType: npc
 tags: []

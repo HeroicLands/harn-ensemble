@@ -1,6 +1,6 @@
 ---
 shortcode: doraneofveris
-name: {full: Dorane of Veris, aliases: []}
+name: {full: Dorane of Veris}
 type: being
 subType: npc
 tags: []

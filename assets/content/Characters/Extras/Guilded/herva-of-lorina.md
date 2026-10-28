@@ -1,6 +1,6 @@
 ---
 shortcode: hervaoflorina
-name: {full: Herva of Lorina, aliases: []}
+name: {full: Herva of Lorina}
 type: being
 subType: npc
 tags: []

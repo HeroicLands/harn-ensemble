@@ -1,6 +1,6 @@
 ---
 shortcode: angemofceriar
-name: {full: Angem of Ceriar, aliases: []}
+name: {full: Angem of Ceriar}
 type: being
 subType: npc
 tags: []

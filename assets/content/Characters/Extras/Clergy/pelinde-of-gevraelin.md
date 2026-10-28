@@ -1,6 +1,6 @@
 ---
 shortcode: pelindeofgevraelin
-name: {full: Pelinde of Gevraelin, aliases: []}
+name: {full: Pelinde of Gevraelin}
 type: being
 subType: npc
 tags: []

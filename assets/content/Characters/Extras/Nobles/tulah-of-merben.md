@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofmerben
-name: {full: Tulah of Merben, aliases: []}
+name: {full: Tulah of Merben}
 type: being
 subType: npc
 tags: []

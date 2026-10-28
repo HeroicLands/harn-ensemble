@@ -1,6 +1,6 @@
 ---
 shortcode: hermasofesarl
-name: {full: Hermas of Esarl, aliases: []}
+name: {full: Hermas of Esarl}
 type: being
 subType: npc
 tags: []

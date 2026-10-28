@@ -1,6 +1,6 @@
 ---
 shortcode: matildaofverl
-name: {full: Matilda of Verl, aliases: []}
+name: {full: Matilda of Verl}
 type: being
 subType: character
 tags: []

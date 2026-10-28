@@ -1,6 +1,6 @@
 ---
 shortcode: kaldisofpartuna
-name: {full: Kaldis of Partuna, aliases: []}
+name: {full: Kaldis of Partuna}
 type: being
 subType: npc
 tags: []

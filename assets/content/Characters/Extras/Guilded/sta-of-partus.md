@@ -1,6 +1,6 @@
 ---
 shortcode: staofpartus
-name: {full: Sta of Partus, aliases: []}
+name: {full: Sta of Partus}
 type: being
 subType: npc
 tags: []

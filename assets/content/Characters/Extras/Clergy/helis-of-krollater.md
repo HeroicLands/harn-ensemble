@@ -1,6 +1,6 @@
 ---
 shortcode: helisofkrollater
-name: {full: Helis of Krollater, aliases: []}
+name: {full: Helis of Krollater}
 type: being
 subType: npc
 tags: []

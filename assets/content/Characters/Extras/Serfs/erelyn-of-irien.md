@@ -1,6 +1,6 @@
 ---
 shortcode: erelynofirien
-name: {full: Erelyn of Irien, aliases: []}
+name: {full: Erelyn of Irien}
 type: being
 subType: npc
 tags: []

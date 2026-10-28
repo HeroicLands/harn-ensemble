@@ -1,6 +1,6 @@
 ---
 shortcode: solinelaofchorlym
-name: {full: Solinela of Chorlym, aliases: []}
+name: {full: Solinela of Chorlym}
 type: being
 subType: npc
 tags: []

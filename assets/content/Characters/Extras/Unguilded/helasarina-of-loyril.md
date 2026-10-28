@@ -1,6 +1,6 @@
 ---
 shortcode: helasarinaofloyril
-name: {full: Helasarina of Loyril, aliases: []}
+name: {full: Helasarina of Loyril}
 type: being
 subType: npc
 tags: []

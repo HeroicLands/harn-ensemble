@@ -1,6 +1,6 @@
 ---
 shortcode: seginelaofpeden
-name: {full: Seginela of Peden, aliases: []}
+name: {full: Seginela of Peden}
 type: being
 subType: npc
 tags: []

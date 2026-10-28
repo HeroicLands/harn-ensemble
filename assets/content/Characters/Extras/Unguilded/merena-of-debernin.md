@@ -1,6 +1,6 @@
 ---
 shortcode: merenaofdebernin
-name: {full: Merena of Debernin, aliases: []}
+name: {full: Merena of Debernin}
 type: being
 subType: npc
 tags: []

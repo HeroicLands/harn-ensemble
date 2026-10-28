@@ -1,6 +1,6 @@
 ---
 shortcode: kuvelofchariam
-name: {full: Kuvel of Chariam, aliases: []}
+name: {full: Kuvel of Chariam}
 type: being
 subType: npc
 tags: []

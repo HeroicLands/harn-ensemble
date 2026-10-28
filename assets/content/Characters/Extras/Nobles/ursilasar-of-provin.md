@@ -1,6 +1,6 @@
 ---
 shortcode: ursilasarofprovin
-name: {full: Ursilasar of Provin, aliases: []}
+name: {full: Ursilasar of Provin}
 type: being
 subType: npc
 tags: []

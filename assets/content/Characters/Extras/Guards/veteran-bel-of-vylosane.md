@@ -1,6 +1,6 @@
 ---
 shortcode: veteranbelofvylosane
-name: {full: Veteran Bel of Vylosane, aliases: []}
+name: {full: Veteran Bel of Vylosane}
 type: being
 subType: npc
 tags: []

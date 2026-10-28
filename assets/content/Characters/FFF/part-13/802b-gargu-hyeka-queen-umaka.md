@@ -1,6 +1,6 @@
 ---
 shortcode: umaka
-name: {full: Umaka, aliases: []}
+name: {full: Umaka}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: kelenofubernin
-name: {full: Kelen of Ubernin, aliases: []}
+name: {full: Kelen of Ubernin}
 type: being
 subType: npc
 tags: []

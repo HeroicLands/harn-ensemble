@@ -1,6 +1,6 @@
 ---
 shortcode: eradofpord
-name: {full: Erad of Pord, aliases: []}
+name: {full: Erad of Pord}
 type: being
 subType: npc
 tags: []

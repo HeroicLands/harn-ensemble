@@ -1,6 +1,6 @@
 ---
 shortcode: albalnyofren
-name: {full: Albalny of Ren, aliases: []}
+name: {full: Albalny of Ren}
 type: being
 subType: npc
 tags: []

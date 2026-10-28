@@ -1,6 +1,6 @@
 ---
 shortcode: tamisofyurdinerg
-name: {full: Tamis of Yurdinerg, aliases: []}
+name: {full: Tamis of Yurdinerg}
 type: being
 subType: npc
 tags: []

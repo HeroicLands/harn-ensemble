@@ -1,6 +1,6 @@
 ---
 shortcode: erdinofgevrael
-name: {full: Erdin of Gevrael, aliases: []}
+name: {full: Erdin of Gevrael}
 type: being
 subType: npc
 tags: []

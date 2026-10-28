@@ -1,6 +1,6 @@
 ---
 shortcode: captainneridofral
-name: {full: Captain Nerid of Ral, aliases: []}
+name: {full: Captain Nerid of Ral}
 type: being
 subType: npc
 tags: []

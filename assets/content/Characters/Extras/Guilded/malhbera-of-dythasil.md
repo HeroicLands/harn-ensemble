@@ -1,6 +1,6 @@
 ---
 shortcode: malhberaofdythasil
-name: {full: Malhbera of Dythasil, aliases: []}
+name: {full: Malhbera of Dythasil}
 type: being
 subType: npc
 tags: []

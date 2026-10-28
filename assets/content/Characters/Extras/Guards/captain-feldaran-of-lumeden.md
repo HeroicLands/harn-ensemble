@@ -1,6 +1,6 @@
 ---
 shortcode: captainfeldaranoflumeden
-name: {full: Captain Feldaran of Lumeden, aliases: []}
+name: {full: Captain Feldaran of Lumeden}
 type: being
 subType: npc
 tags: []

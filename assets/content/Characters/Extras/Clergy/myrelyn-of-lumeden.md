@@ -1,6 +1,6 @@
 ---
 shortcode: myrelynoflumeden
-name: {full: Myrelyn of Lumeden, aliases: []}
+name: {full: Myrelyn of Lumeden}
 type: being
 subType: npc
 tags: []

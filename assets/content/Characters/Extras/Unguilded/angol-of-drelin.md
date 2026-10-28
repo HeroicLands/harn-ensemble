@@ -1,6 +1,6 @@
 ---
 shortcode: angolofdrelin
-name: {full: Angol of Drelin, aliases: []}
+name: {full: Angol of Drelin}
 type: being
 subType: npc
 tags: []

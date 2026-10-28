@@ -1,6 +1,6 @@
 ---
 shortcode: drighofverdy
-name: {full: Drigh of Verdy, aliases: []}
+name: {full: Drigh of Verdy}
 type: being
 subType: npc
 tags: []

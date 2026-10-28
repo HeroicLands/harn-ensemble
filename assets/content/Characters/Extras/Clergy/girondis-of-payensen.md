@@ -1,6 +1,6 @@
 ---
 shortcode: girondisofpayensen
-name: {full: Girondis of Payensen, aliases: []}
+name: {full: Girondis of Payensen}
 type: being
 subType: npc
 tags: []

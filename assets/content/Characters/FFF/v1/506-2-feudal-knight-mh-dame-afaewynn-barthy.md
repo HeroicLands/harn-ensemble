@@ -1,6 +1,6 @@
 ---
 shortcode: dameafaewynnbarthy
-name: {full: Dame Afaewynn Barthy, aliases: []}
+name: {full: Dame Afaewynn Barthy}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: boraneofvylosath
-name: {full: Borane of Vylosath, aliases: []}
+name: {full: Borane of Vylosath}
 type: being
 subType: npc
 tags: []

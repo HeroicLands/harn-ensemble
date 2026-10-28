@@ -1,6 +1,6 @@
 ---
 shortcode: jesanofpuckill
-name: {full: Jesan of Puckill, aliases: []}
+name: {full: Jesan of Puckill}
 type: being
 subType: npc
 tags: []

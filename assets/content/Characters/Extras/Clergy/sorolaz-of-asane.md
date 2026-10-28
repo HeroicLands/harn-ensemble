@@ -1,6 +1,6 @@
 ---
 shortcode: sorolazofasane
-name: {full: Sorolaz of Asane, aliases: []}
+name: {full: Sorolaz of Asane}
 type: being
 subType: npc
 tags: []

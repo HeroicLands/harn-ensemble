@@ -1,6 +1,6 @@
 ---
 shortcode: jithaiofwulverik
-name: {full: Jithai of Wulverik, aliases: []}
+name: {full: Jithai of Wulverik}
 type: being
 subType: npc
 tags: []

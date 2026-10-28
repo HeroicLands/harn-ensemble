@@ -1,6 +1,6 @@
 ---
 shortcode: kesynofsosora
-name: {full: Kesyn of Sosora, aliases: []}
+name: {full: Kesyn of Sosora}
 type: being
 subType: npc
 tags: []

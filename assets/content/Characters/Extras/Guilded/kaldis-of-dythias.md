@@ -1,6 +1,6 @@
 ---
 shortcode: kaldisofdythias
-name: {full: Kaldis of Dythias, aliases: []}
+name: {full: Kaldis of Dythias}
 type: being
 subType: npc
 tags: []

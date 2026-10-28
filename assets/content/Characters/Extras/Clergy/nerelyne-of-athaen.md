@@ -1,6 +1,6 @@
 ---
 shortcode: nerelyneofathaen
-name: {full: Nerelyne of Athaen, aliases: []}
+name: {full: Nerelyne of Athaen}
 type: being
 subType: npc
 tags: []

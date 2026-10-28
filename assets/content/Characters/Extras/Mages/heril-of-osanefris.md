@@ -1,6 +1,6 @@
 ---
 shortcode: herilofosanefris
-name: {full: Heril of Osanefris, aliases: []}
+name: {full: Heril of Osanefris}
 type: being
 subType: npc
 tags: []

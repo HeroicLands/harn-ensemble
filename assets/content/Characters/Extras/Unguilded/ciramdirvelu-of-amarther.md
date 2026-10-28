@@ -1,6 +1,6 @@
 ---
 shortcode: ciramdirveluofamarther
-name: {full: Ciramdirvelu of Amarther, aliases: []}
+name: {full: Ciramdirvelu of Amarther}
 type: being
 subType: npc
 tags: []

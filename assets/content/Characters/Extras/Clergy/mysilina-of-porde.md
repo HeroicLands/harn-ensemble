@@ -1,6 +1,6 @@
 ---
 shortcode: mysilinaofporde
-name: {full: Mysilina of Porde, aliases: []}
+name: {full: Mysilina of Porde}
 type: being
 subType: npc
 tags: []

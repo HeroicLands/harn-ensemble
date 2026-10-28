@@ -1,6 +1,6 @@
 ---
 shortcode: poldoelofpuck
-name: {full: Poldoel of Puck, aliases: []}
+name: {full: Poldoel of Puck}
 type: being
 subType: npc
 tags: []

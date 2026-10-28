@@ -1,6 +1,6 @@
 ---
 shortcode: parsumeofmagarak
-name: {full: Parsume of Magarak, aliases: []}
+name: {full: Parsume of Magarak}
 type: being
 subType: npc
 tags: []

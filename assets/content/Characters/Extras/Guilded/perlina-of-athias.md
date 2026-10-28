@@ -1,6 +1,6 @@
 ---
 shortcode: perlinaofathias
-name: {full: Perlina of Athias, aliases: []}
+name: {full: Perlina of Athias}
 type: being
 subType: npc
 tags: []

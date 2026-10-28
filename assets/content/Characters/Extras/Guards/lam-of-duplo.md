@@ -1,6 +1,6 @@
 ---
 shortcode: lamofduplo
-name: {full: Lam of Duplo, aliases: []}
+name: {full: Lam of Duplo}
 type: being
 subType: npc
 tags: []

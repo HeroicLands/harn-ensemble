@@ -1,6 +1,6 @@
 ---
 shortcode: gorsineofhomerros
-name: {full: Gorsine of Homerros, aliases: []}
+name: {full: Gorsine of Homerros}
 type: being
 subType: npc
 tags: []

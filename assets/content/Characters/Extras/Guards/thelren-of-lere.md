@@ -1,6 +1,6 @@
 ---
 shortcode: thelrenoflere
-name: {full: Thelren of Lere, aliases: []}
+name: {full: Thelren of Lere}
 type: being
 subType: npc
 tags: []

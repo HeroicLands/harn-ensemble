@@ -1,6 +1,6 @@
 ---
 shortcode: haralynofkolmzak
-name: {full: Haralyn of Kolmzak, aliases: []}
+name: {full: Haralyn of Kolmzak}
 type: being
 subType: npc
 tags: []

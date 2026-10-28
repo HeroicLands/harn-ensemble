@@ -1,6 +1,6 @@
 ---
 shortcode: heraofuerth
-name: {full: Hera of Uerth, aliases: []}
+name: {full: Hera of Uerth}
 type: being
 subType: npc
 tags: []

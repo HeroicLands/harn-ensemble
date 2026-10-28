@@ -1,6 +1,6 @@
 ---
 shortcode: kittiarawampusha
-name: {full: Kit'tiara Wampusha, aliases: []}
+name: {full: Kit'tiara Wampusha}
 type: being
 subType: character
 tags: []

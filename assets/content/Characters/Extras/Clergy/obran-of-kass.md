@@ -1,6 +1,6 @@
 ---
 shortcode: obranofkass
-name: {full: Obran of Kass, aliases: []}
+name: {full: Obran of Kass}
 type: being
 subType: npc
 tags: []

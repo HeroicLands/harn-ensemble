@@ -1,6 +1,6 @@
 ---
 shortcode: jeronofaeb
-name: {full: Jeron of Aeb, aliases: []}
+name: {full: Jeron of Aeb}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: artonoflebare
-name: {full: Arton of Lebare, aliases: []}
+name: {full: Arton of Lebare}
 type: being
 subType: npc
 tags: []

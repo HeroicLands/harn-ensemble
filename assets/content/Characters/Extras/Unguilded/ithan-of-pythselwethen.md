@@ -1,6 +1,6 @@
 ---
 shortcode: ithanofpythselwethen
-name: {full: Ithan of Pythselwethen, aliases: []}
+name: {full: Ithan of Pythselwethen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: silenofmerkenos
-name: {full: Silen of Merkenos, aliases: []}
+name: {full: Silen of Merkenos}
 type: being
 subType: npc
 tags: []

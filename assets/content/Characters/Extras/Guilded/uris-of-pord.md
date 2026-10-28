@@ -1,6 +1,6 @@
 ---
 shortcode: urisofpord
-name: {full: Uris of Pord, aliases: []}
+name: {full: Uris of Pord}
 type: being
 subType: npc
 tags: []

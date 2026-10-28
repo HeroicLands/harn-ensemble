@@ -1,6 +1,6 @@
 ---
 shortcode: arkaelofjorwynn
-name: {full: Arkael of Jorwynn, aliases: []}
+name: {full: Arkael of Jorwynn}
 type: being
 subType: npc
 tags: []

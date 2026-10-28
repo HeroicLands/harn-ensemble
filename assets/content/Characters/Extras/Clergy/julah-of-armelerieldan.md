@@ -1,6 +1,6 @@
 ---
 shortcode: julahofarmelerieldan
-name: {full: Julah of Armelerieldan, aliases: []}
+name: {full: Julah of Armelerieldan}
 type: being
 subType: npc
 tags: []

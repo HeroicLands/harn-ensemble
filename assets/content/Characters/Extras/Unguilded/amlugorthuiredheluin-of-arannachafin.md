@@ -1,6 +1,6 @@
 ---
 shortcode: amlugorthuiredheluinofarannachafin
-name: {full: Amlugorthuiredheluin of Arannachafin, aliases: []}
+name: {full: Amlugorthuiredheluin of Arannachafin}
 type: being
 subType: npc
 tags: []

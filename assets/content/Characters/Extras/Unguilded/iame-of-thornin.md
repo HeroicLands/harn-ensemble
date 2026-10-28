@@ -1,6 +1,6 @@
 ---
 shortcode: iameofthornin
-name: {full: Iame of Thornin, aliases: []}
+name: {full: Iame of Thornin}
 type: being
 subType: npc
 tags: []

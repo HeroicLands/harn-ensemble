@@ -1,6 +1,6 @@
 ---
 shortcode: parmenofhipaeus
-name: {full: Parmen of Hipaeus, aliases: []}
+name: {full: Parmen of Hipaeus}
 type: being
 subType: npc
 tags: []

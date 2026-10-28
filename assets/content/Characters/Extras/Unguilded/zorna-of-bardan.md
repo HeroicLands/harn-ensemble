@@ -1,6 +1,6 @@
 ---
 shortcode: zornaofbardan
-name: {full: Zorna of Bardan, aliases: []}
+name: {full: Zorna of Bardan}
 type: being
 subType: npc
 tags: []

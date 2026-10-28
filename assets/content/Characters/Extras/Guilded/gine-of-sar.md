@@ -1,6 +1,6 @@
 ---
 shortcode: gineofsar
-name: {full: Gine of Sar, aliases: []}
+name: {full: Gine of Sar}
 type: being
 subType: npc
 tags: []

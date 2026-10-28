@@ -1,6 +1,6 @@
 ---
 shortcode: doraneofardrass
-name: {full: Dorane of Ardrass, aliases: []}
+name: {full: Dorane of Ardrass}
 type: being
 subType: npc
 tags: []

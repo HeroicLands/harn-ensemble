@@ -1,6 +1,6 @@
 ---
 shortcode: holikofaethys
-name: {full: Holik of Aethys, aliases: []}
+name: {full: Holik of Aethys}
 type: being
 subType: npc
 tags: []

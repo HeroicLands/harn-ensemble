@@ -1,6 +1,6 @@
 ---
 shortcode: nawehsofduplo
-name: {full: Nawehs of Duplo, aliases: []}
+name: {full: Nawehs of Duplo}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: heronofeldesarlis
-name: {full: Heron of Eldesarlis, aliases: []}
+name: {full: Heron of Eldesarlis}
 type: being
 subType: npc
 tags: []

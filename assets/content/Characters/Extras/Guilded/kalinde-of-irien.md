@@ -1,6 +1,6 @@
 ---
 shortcode: kalindeofirien
-name: {full: Kalinde of Irien, aliases: []}
+name: {full: Kalinde of Irien}
 type: being
 subType: npc
 tags: []

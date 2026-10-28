@@ -1,6 +1,6 @@
 ---
 shortcode: tamilofsosora
-name: {full: Tamil of Sosora, aliases: []}
+name: {full: Tamil of Sosora}
 type: being
 subType: npc
 tags: []

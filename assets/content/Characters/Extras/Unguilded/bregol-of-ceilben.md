@@ -1,6 +1,6 @@
 ---
 shortcode: bregolofceilben
-name: {full: Bregol of Ceilben, aliases: []}
+name: {full: Bregol of Ceilben}
 type: being
 subType: npc
 tags: []

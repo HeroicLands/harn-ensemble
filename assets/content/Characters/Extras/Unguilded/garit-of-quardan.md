@@ -1,6 +1,6 @@
 ---
 shortcode: garitofquardan
-name: {full: Garit of Quardan, aliases: []}
+name: {full: Garit of Quardan}
 type: being
 subType: npc
 tags: []

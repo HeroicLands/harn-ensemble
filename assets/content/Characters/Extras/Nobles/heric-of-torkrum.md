@@ -1,6 +1,6 @@
 ---
 shortcode: hericoftorkrum
-name: {full: Heric of Torkrum, aliases: []}
+name: {full: Heric of Torkrum}
 type: being
 subType: npc
 tags: []

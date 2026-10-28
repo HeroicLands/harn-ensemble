@@ -1,6 +1,6 @@
 ---
 shortcode: obrayzeloflund
-name: {full: Obrayzel of Lund, aliases: []}
+name: {full: Obrayzel of Lund}
 type: being
 subType: npc
 tags: []

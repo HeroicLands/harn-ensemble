@@ -1,6 +1,6 @@
 ---
 shortcode: karyseofver
-name: {full: Karyse of Ver, aliases: []}
+name: {full: Karyse of Ver}
 type: being
 subType: npc
 tags: []

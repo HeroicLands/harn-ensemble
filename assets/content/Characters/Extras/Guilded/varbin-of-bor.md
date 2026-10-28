@@ -1,6 +1,6 @@
 ---
 shortcode: varbinofbor
-name: {full: Varbin of Bor, aliases: []}
+name: {full: Varbin of Bor}
 type: being
 subType: npc
 tags: []

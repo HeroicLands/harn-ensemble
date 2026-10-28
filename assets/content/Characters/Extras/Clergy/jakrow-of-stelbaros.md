@@ -1,6 +1,6 @@
 ---
 shortcode: jakrowofstelbaros
-name: {full: Jakrow of Stelbaros, aliases: []}
+name: {full: Jakrow of Stelbaros}
 type: being
 subType: npc
 tags: []

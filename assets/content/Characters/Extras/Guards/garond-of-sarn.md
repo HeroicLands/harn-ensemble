@@ -1,6 +1,6 @@
 ---
 shortcode: garondofsarn
-name: {full: Garond of Sarn, aliases: []}
+name: {full: Garond of Sarn}
 type: being
 subType: npc
 tags: []

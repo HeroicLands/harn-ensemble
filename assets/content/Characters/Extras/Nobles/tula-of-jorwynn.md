@@ -1,6 +1,6 @@
 ---
 shortcode: tulaofjorwynn
-name: {full: Tula of Jorwynn, aliases: []}
+name: {full: Tula of Jorwynn}
 type: being
 subType: npc
 tags: []

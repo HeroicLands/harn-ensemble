@@ -1,6 +1,6 @@
 ---
 shortcode: tarckofyisgaradas
-name: {full: Tarck of Yisgaradas, aliases: []}
+name: {full: Tarck of Yisgaradas}
 type: being
 subType: npc
 tags: []

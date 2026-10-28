@@ -1,6 +1,6 @@
 ---
 shortcode: frydaofdon
-name: {full: Fryda of Don, aliases: []}
+name: {full: Fryda of Don}
 type: being
 subType: npc
 tags: []

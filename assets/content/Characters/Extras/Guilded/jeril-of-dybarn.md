@@ -1,6 +1,6 @@
 ---
 shortcode: jerilofdybarn
-name: {full: Jeril of Dybarn, aliases: []}
+name: {full: Jeril of Dybarn}
 type: being
 subType: npc
 tags: []

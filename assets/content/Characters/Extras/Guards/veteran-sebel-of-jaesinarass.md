@@ -1,6 +1,6 @@
 ---
 shortcode: veteransebelofjaesinarass
-name: {full: Veteran Sebel of Jaesinarass, aliases: []}
+name: {full: Veteran Sebel of Jaesinarass}
 type: being
 subType: npc
 tags: []

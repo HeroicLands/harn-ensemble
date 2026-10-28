@@ -1,6 +1,6 @@
 ---
 shortcode: hennigarashaofelwethen
-name: {full: Hennigarasha of Elwethen, aliases: []}
+name: {full: Hennigarasha of Elwethen}
 type: being
 subType: npc
 tags: []

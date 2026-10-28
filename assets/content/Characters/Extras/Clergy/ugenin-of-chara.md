@@ -1,6 +1,6 @@
 ---
 shortcode: ugeninofchara
-name: {full: Ugenin of Chara, aliases: []}
+name: {full: Ugenin of Chara}
 type: being
 subType: npc
 tags: []

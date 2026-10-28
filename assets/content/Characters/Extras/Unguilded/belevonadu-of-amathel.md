@@ -1,6 +1,6 @@
 ---
 shortcode: belevonaduofamathel
-name: {full: Belevonadu of Amathel, aliases: []}
+name: {full: Belevonadu of Amathel}
 type: being
 subType: npc
 tags: []

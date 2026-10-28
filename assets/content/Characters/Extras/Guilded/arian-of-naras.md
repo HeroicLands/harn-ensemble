@@ -1,6 +1,6 @@
 ---
 shortcode: arianofnaras
-name: {full: Arian of Naras, aliases: []}
+name: {full: Arian of Naras}
 type: being
 subType: npc
 tags: []

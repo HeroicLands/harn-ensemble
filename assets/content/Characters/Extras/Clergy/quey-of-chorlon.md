@@ -1,6 +1,6 @@
 ---
 shortcode: queyofchorlon
-name: {full: Quey of Chorlon, aliases: []}
+name: {full: Quey of Chorlon}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: hadahofhosanerikaren
-name: {full: Hadah of Hosanerikaren, aliases: []}
+name: {full: Hadah of Hosanerikaren}
 type: being
 subType: npc
 tags: []

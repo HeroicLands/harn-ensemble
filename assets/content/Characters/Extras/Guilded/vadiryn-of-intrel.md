@@ -1,6 +1,6 @@
 ---
 shortcode: vadirynofintrel
-name: {full: Vadiryn of Intrel, aliases: []}
+name: {full: Vadiryn of Intrel}
 type: being
 subType: npc
 tags: []

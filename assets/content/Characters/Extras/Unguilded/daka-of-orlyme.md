@@ -1,6 +1,6 @@
 ---
 shortcode: dakaoforlyme
-name: {full: Daka of Orlyme, aliases: []}
+name: {full: Daka of Orlyme}
 type: being
 subType: npc
 tags: []

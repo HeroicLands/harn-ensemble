@@ -1,6 +1,6 @@
 ---
 shortcode: poldoelofhomeleris
-name: {full: Poldoel of Homeleris, aliases: []}
+name: {full: Poldoel of Homeleris}
 type: being
 subType: npc
 tags: []

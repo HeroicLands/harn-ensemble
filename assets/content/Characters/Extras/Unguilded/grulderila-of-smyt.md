@@ -1,6 +1,6 @@
 ---
 shortcode: grulderilaofsmyt
-name: {full: Grulderila of Smyt, aliases: []}
+name: {full: Grulderila of Smyt}
 type: being
 subType: npc
 tags: []

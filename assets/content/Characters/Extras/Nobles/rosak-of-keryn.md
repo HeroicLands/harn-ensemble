@@ -1,6 +1,6 @@
 ---
 shortcode: rosakofkeryn
-name: {full: Rosak of Keryn, aliases: []}
+name: {full: Rosak of Keryn}
 type: being
 subType: npc
 tags: []

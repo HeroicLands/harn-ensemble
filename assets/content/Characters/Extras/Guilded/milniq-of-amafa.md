@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofamafa
-name: {full: Milniq of Amafa, aliases: []}
+name: {full: Milniq of Amafa}
 type: being
 subType: npc
 tags: []

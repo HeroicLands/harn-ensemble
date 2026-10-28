@@ -1,6 +1,6 @@
 ---
 shortcode: fffchybisans
-name: {full: The Chybisans, aliases: []}
+name: {full: The Chybisans}
 type: affiliation
 subType: venture
 tags: []

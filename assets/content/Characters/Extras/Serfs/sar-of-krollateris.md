@@ -1,6 +1,6 @@
 ---
 shortcode: sarofkrollateris
-name: {full: Sar of Krollateris, aliases: []}
+name: {full: Sar of Krollateris}
 type: being
 subType: npc
 tags: []

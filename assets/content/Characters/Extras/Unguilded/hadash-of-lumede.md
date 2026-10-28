@@ -1,6 +1,6 @@
 ---
 shortcode: hadashoflumede
-name: {full: Hadash of Lumede, aliases: []}
+name: {full: Hadash of Lumede}
 type: being
 subType: npc
 tags: []

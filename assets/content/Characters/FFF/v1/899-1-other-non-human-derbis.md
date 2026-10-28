@@ -1,6 +1,6 @@
 ---
 shortcode: derbis
-name: {full: Derbis, aliases: []}
+name: {full: Derbis}
 type: being
 subType: character
 tags: []

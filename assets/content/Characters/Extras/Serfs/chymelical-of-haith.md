@@ -1,6 +1,6 @@
 ---
 shortcode: chymelicalofhaith
-name: {full: Chymelical of Haith, aliases: []}
+name: {full: Chymelical of Haith}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: lasyneofguinasta
-name: {full: Lasyne of Guinasta, aliases: []}
+name: {full: Lasyne of Guinasta}
 type: being
 subType: npc
 tags: []

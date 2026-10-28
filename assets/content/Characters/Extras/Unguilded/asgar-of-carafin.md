@@ -1,6 +1,6 @@
 ---
 shortcode: asgarofcarafin
-name: {full: Asgar of Carafin, aliases: []}
+name: {full: Asgar of Carafin}
 type: being
 subType: npc
 tags: []

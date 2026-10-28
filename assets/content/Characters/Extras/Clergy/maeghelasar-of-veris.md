@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelasarofveris
-name: {full: Maeghelasar of Veris, aliases: []}
+name: {full: Maeghelasar of Veris}
 type: being
 subType: npc
 tags: []

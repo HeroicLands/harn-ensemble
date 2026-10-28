@@ -1,6 +1,6 @@
 ---
 shortcode: amdirviluiofacharod
-name: {full: Amdirvilui of Acharod, aliases: []}
+name: {full: Amdirvilui of Acharod}
 type: being
 subType: npc
 tags: []

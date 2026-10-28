@@ -1,6 +1,6 @@
 ---
 shortcode: labinofarani
-name: {full: Labin of Arani, aliases: []}
+name: {full: Labin of Arani}
 type: being
 subType: npc
 tags: []

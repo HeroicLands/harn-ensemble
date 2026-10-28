@@ -1,6 +1,6 @@
 ---
 shortcode: lavrooforostal
-name: {full: Lavro of Orostal, aliases: []}
+name: {full: Lavro of Orostal}
 type: being
 subType: character
 tags: []

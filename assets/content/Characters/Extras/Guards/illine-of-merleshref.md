@@ -1,6 +1,6 @@
 ---
 shortcode: illineofmerleshref
-name: {full: Illine of Merleshref, aliases: []}
+name: {full: Illine of Merleshref}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: drounofintrel
-name: {full: Droun of Intrel, aliases: []}
+name: {full: Droun of Intrel}
 type: being
 subType: character
 tags: []

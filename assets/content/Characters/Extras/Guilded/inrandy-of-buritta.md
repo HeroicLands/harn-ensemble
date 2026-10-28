@@ -1,6 +1,6 @@
 ---
 shortcode: inrandyofburitta
-name: {full: Inrandy of Buritta, aliases: []}
+name: {full: Inrandy of Buritta}
 type: being
 subType: npc
 tags: []

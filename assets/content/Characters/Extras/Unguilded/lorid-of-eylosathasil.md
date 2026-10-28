@@ -1,6 +1,6 @@
 ---
 shortcode: loridofeylosathasil
-name: {full: Lorid of Eylosathasil, aliases: []}
+name: {full: Lorid of Eylosathasil}
 type: being
 subType: npc
 tags: []

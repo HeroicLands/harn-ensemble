@@ -1,6 +1,6 @@
 ---
 shortcode: raldilofever
-name: {full: Raldil of Ever, aliases: []}
+name: {full: Raldil of Ever}
 type: being
 subType: npc
 tags: []

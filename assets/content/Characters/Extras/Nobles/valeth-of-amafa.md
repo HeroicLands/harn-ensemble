@@ -1,6 +1,6 @@
 ---
 shortcode: valethofamafa
-name: {full: Valeth of Amafa, aliases: []}
+name: {full: Valeth of Amafa}
 type: being
 subType: npc
 tags: []

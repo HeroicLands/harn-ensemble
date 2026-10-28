@@ -1,6 +1,6 @@
 ---
 shortcode: rackneofarthalesh
-name: {full: Rackne of Arthalesh, aliases: []}
+name: {full: Rackne of Arthalesh}
 type: being
 subType: npc
 tags: []

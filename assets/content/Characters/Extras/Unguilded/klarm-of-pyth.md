@@ -1,6 +1,6 @@
 ---
 shortcode: klarmofpyth
-name: {full: Klarm of Pyth, aliases: []}
+name: {full: Klarm of Pyth}
 type: being
 subType: npc
 tags: []

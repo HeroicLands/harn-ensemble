@@ -1,6 +1,6 @@
 ---
 shortcode: lusilinelaofjorwynn
-name: {full: Lusilinela of Jorwynn, aliases: []}
+name: {full: Lusilinela of Jorwynn}
 type: being
 subType: npc
 tags: []

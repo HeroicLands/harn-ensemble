@@ -1,6 +1,6 @@
 ---
 shortcode: urikofchuzyn
-name: {full: Urik of Chuzyn, aliases: []}
+name: {full: Urik of Chuzyn}
 type: being
 subType: npc
 tags: []

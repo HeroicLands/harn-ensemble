@@ -1,6 +1,6 @@
 ---
 shortcode: kertheralofsarn
-name: {full: Kertheral of Sarn, aliases: []}
+name: {full: Kertheral of Sarn}
 type: being
 subType: npc
 tags: []

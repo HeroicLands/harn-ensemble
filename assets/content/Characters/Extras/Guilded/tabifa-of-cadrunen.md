@@ -1,6 +1,6 @@
 ---
 shortcode: tabifaofcadrunen
-name: {full: Tabifa of Cadrunen, aliases: []}
+name: {full: Tabifa of Cadrunen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: masyneofstokos
-name: {full: Masyne of Stokos, aliases: []}
+name: {full: Masyne of Stokos}
 type: being
 subType: npc
 tags: []

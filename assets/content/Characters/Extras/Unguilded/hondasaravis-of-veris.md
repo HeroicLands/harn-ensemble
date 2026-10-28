@@ -1,6 +1,6 @@
 ---
 shortcode: hondasaravisofveris
-name: {full: Hondasaravis of Veris, aliases: []}
+name: {full: Hondasaravis of Veris}
 type: being
 subType: npc
 tags: []

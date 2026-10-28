@@ -1,6 +1,6 @@
 ---
 shortcode: zornaofcheleshref
-name: {full: Zorna of Cheleshref, aliases: []}
+name: {full: Zorna of Cheleshref}
 type: being
 subType: npc
 tags: []

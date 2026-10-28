@@ -1,6 +1,6 @@
 ---
 shortcode: merenaofpariborin
-name: {full: Merena of Pariborin, aliases: []}
+name: {full: Merena of Pariborin}
 type: being
 subType: npc
 tags: []

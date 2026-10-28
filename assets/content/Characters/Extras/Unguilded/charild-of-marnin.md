@@ -1,6 +1,6 @@
 ---
 shortcode: charildofmarnin
-name: {full: Charild of Marnin, aliases: []}
+name: {full: Charild of Marnin}
 type: being
 subType: npc
 tags: []

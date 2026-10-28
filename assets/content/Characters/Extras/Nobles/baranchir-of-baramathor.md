@@ -1,6 +1,6 @@
 ---
 shortcode: baranchirofbaramathor
-name: {full: Baranchir of Baramathor, aliases: []}
+name: {full: Baranchir of Baramathor}
 type: being
 subType: npc
 tags: []

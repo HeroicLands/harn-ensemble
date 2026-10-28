@@ -1,6 +1,6 @@
 ---
 shortcode: belsonofkhurud
-name: {full: Belson of Khurud, aliases: []}
+name: {full: Belson of Khurud}
 type: being
 subType: npc
 tags: []

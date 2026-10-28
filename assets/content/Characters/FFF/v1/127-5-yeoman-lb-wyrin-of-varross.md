@@ -1,6 +1,6 @@
 ---
 shortcode: wyrinofvarross
-name: {full: Wyrin of Varross, aliases: []}
+name: {full: Wyrin of Varross}
 type: being
 subType: character
 tags: []

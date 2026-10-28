@@ -1,6 +1,6 @@
 ---
 shortcode: punatofetanefris
-name: {full: Punat of Etanefris, aliases: []}
+name: {full: Punat of Etanefris}
 type: being
 subType: npc
 tags: []

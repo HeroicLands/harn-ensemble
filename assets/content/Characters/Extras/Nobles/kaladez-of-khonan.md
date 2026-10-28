@@ -1,6 +1,6 @@
 ---
 shortcode: kaladezofkhonan
-name: {full: Kaladez of Khonan, aliases: []}
+name: {full: Kaladez of Khonan}
 type: being
 subType: npc
 tags: []

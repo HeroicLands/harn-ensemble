@@ -1,6 +1,6 @@
 ---
 shortcode: veteransabinofubern
-name: {full: Veteran Sabin of Ubern, aliases: []}
+name: {full: Veteran Sabin of Ubern}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: melsonofdon
-name: {full: Melson of Don, aliases: []}
+name: {full: Melson of Don}
 type: being
 subType: npc
 tags: []

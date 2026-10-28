@@ -1,6 +1,6 @@
 ---
 shortcode: evenodelofhen
-name: {full: Evenodel of Hen, aliases: []}
+name: {full: Evenodel of Hen}
 type: being
 subType: npc
 tags: []

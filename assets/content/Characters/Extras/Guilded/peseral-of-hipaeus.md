@@ -1,6 +1,6 @@
 ---
 shortcode: peseralofhipaeus
-name: {full: Peseral of Hipaeus, aliases: []}
+name: {full: Peseral of Hipaeus}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: andofgwyffidd
-name: {full: And of Gwyffidd, aliases: []}
+name: {full: And of Gwyffidd}
 type: being
 subType: npc
 tags: []

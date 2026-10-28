@@ -1,6 +1,6 @@
 ---
 shortcode: gyandofpenda
-name: {full: Gyand of Penda, aliases: []}
+name: {full: Gyand of Penda}
 type: being
 subType: npc
 tags: []

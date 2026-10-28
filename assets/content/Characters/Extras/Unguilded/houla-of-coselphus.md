@@ -1,6 +1,6 @@
 ---
 shortcode: houlaofcoselphus
-name: {full: Houla of Coselphus, aliases: []}
+name: {full: Houla of Coselphus}
 type: being
 subType: npc
 tags: []

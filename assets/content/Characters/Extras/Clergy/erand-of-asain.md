@@ -1,6 +1,6 @@
 ---
 shortcode: erandofasain
-name: {full: Erand of Asain, aliases: []}
+name: {full: Erand of Asain}
 type: being
 subType: npc
 tags: []

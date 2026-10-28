@@ -1,6 +1,6 @@
 ---
 shortcode: kresofaenere
-name: {full: Kres of Aenere, aliases: []}
+name: {full: Kres of Aenere}
 type: being
 subType: character
 tags: []

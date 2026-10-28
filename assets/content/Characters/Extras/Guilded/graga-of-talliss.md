@@ -1,6 +1,6 @@
 ---
 shortcode: gragaoftalliss
-name: {full: Graga of Talliss, aliases: []}
+name: {full: Graga of Talliss}
 type: being
 subType: npc
 tags: []

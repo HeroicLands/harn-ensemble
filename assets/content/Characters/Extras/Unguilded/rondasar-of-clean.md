@@ -1,6 +1,6 @@
 ---
 shortcode: rondasarofclean
-name: {full: Rondasar of Clean, aliases: []}
+name: {full: Rondasar of Clean}
 type: being
 subType: npc
 tags: []

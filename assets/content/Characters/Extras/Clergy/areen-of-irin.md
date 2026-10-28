@@ -1,6 +1,6 @@
 ---
 shortcode: areenofirin
-name: {full: Areen of Irin, aliases: []}
+name: {full: Areen of Irin}
 type: being
 subType: npc
 tags: []

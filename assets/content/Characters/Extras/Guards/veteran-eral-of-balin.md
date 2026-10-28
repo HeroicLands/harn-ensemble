@@ -1,6 +1,6 @@
 ---
 shortcode: veteraneralofbalin
-name: {full: Veteran Eral of Balin, aliases: []}
+name: {full: Veteran Eral of Balin}
 type: being
 subType: npc
 tags: []

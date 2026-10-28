@@ -1,6 +1,6 @@
 ---
 shortcode: yebinoftobir
-name: {full: Yebin of Tobir, aliases: []}
+name: {full: Yebin of Tobir}
 type: being
 subType: npc
 tags: []

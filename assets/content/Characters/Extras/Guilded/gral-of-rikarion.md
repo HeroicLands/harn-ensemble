@@ -1,6 +1,6 @@
 ---
 shortcode: gralofrikarion
-name: {full: Gral of Rikarion, aliases: []}
+name: {full: Gral of Rikarion}
 type: being
 subType: npc
 tags: []

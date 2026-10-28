@@ -1,6 +1,6 @@
 ---
 shortcode: veterannorbinofmarbenalin
-name: {full: Veteran Norbin of Marbenalin, aliases: []}
+name: {full: Veteran Norbin of Marbenalin}
 type: being
 subType: npc
 tags: []

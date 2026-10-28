@@ -1,6 +1,6 @@
 ---
 shortcode: pelinaofparthes
-name: {full: Pelina of Parthes, aliases: []}
+name: {full: Pelina of Parthes}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gweniofkeryn
-name: {full: Gweni of Keryn, aliases: []}
+name: {full: Gweni of Keryn}
 type: being
 subType: npc
 tags: []

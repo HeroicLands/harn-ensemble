@@ -1,6 +1,6 @@
 ---
 shortcode: ronofprovin
-name: {full: Ron of Provin, aliases: []}
+name: {full: Ron of Provin}
 type: being
 subType: npc
 tags: []

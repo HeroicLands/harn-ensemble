@@ -1,6 +1,6 @@
 ---
 shortcode: gerrickasarn
-name: {full: Gerrick Asarn, aliases: []}
+name: {full: Gerrick Asarn}
 type: being
 subType: character
 tags: []

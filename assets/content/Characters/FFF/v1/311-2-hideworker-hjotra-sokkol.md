@@ -1,6 +1,6 @@
 ---
 shortcode: hjotrasokkol
-name: {full: Hjotra Sokkol, aliases: []}
+name: {full: Hjotra Sokkol}
 type: being
 subType: character
 tags: []

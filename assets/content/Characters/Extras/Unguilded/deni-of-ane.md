@@ -1,6 +1,6 @@
 ---
 shortcode: deniofane
-name: {full: Deni of Ane, aliases: []}
+name: {full: Deni of Ane}
 type: being
 subType: npc
 tags: []

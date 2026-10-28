@@ -1,6 +1,6 @@
 ---
 shortcode: denylofmelemas
-name: {full: Denyl of Melemas, aliases: []}
+name: {full: Denyl of Melemas}
 type: being
 subType: npc
 tags: []

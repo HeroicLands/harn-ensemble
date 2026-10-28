@@ -1,6 +1,6 @@
 ---
 shortcode: zorofkansen
-name: {full: Zor of Kansen, aliases: []}
+name: {full: Zor of Kansen}
 type: being
 subType: npc
 tags: []

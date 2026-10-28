@@ -1,6 +1,6 @@
 ---
 shortcode: commandereradofparthen
-name: {full: Commander Erad of Parthen, aliases: []}
+name: {full: Commander Erad of Parthen}
 type: being
 subType: npc
 tags: []

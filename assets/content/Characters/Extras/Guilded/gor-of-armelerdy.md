@@ -1,6 +1,6 @@
 ---
 shortcode: gorofarmelerdy
-name: {full: Gor of Armelerdy, aliases: []}
+name: {full: Gor of Armelerdy}
 type: being
 subType: npc
 tags: []

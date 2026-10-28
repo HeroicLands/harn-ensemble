@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelofpenda
-name: {full: Maeghel of Penda, aliases: []}
+name: {full: Maeghel of Penda}
 type: being
 subType: npc
 tags: []

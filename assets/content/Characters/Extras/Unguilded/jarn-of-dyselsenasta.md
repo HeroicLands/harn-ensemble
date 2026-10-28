@@ -1,6 +1,6 @@
 ---
 shortcode: jarnofdyselsenasta
-name: {full: Jarn of Dyselsenasta, aliases: []}
+name: {full: Jarn of Dyselsenasta}
 type: being
 subType: npc
 tags: []

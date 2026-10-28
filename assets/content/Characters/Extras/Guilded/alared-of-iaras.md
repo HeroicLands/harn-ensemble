@@ -1,6 +1,6 @@
 ---
 shortcode: alaredofiaras
-name: {full: Alared of Iaras, aliases: []}
+name: {full: Alared of Iaras}
 type: being
 subType: npc
 tags: []

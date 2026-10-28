@@ -1,6 +1,6 @@
 ---
 shortcode: perlinaofdurnwak
-name: {full: Perlina of Durnwak, aliases: []}
+name: {full: Perlina of Durnwak}
 type: being
 subType: npc
 tags: []

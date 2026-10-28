@@ -1,6 +1,6 @@
 ---
 shortcode: kalinelaofalwenda
-name: {full: Kalinela of Alwenda, aliases: []}
+name: {full: Kalinela of Alwenda}
 type: being
 subType: npc
 tags: []

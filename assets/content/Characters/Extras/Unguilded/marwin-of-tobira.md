@@ -1,6 +1,6 @@
 ---
 shortcode: marwinoftobira
-name: {full: Marwin of Tobira, aliases: []}
+name: {full: Marwin of Tobira}
 type: being
 subType: npc
 tags: []

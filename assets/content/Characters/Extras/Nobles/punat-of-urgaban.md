@@ -1,6 +1,6 @@
 ---
 shortcode: punatofurgaban
-name: {full: Punat of Urgaban, aliases: []}
+name: {full: Punat of Urgaban}
 type: being
 subType: npc
 tags: []

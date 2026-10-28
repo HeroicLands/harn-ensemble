@@ -1,6 +1,6 @@
 ---
 shortcode: karyseofalwen
-name: {full: Karyse of Alwen, aliases: []}
+name: {full: Karyse of Alwen}
 type: being
 subType: npc
 tags: []

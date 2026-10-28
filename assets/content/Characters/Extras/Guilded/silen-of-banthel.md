@@ -1,6 +1,6 @@
 ---
 shortcode: silenofbanthel
-name: {full: Silen of Banthel, aliases: []}
+name: {full: Silen of Banthel}
 type: being
 subType: npc
 tags: []

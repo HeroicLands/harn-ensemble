@@ -1,6 +1,6 @@
 ---
 shortcode: bresynofdyselwenastallim
-name: {full: Bresyn of Dyselwenastallim, aliases: []}
+name: {full: Bresyn of Dyselwenastallim}
 type: being
 subType: npc
 tags: []

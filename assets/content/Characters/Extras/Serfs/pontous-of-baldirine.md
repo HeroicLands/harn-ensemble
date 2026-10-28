@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofbaldirine
-name: {full: Pontous of Baldirine, aliases: []}
+name: {full: Pontous of Baldirine}
 type: being
 subType: npc
 tags: []

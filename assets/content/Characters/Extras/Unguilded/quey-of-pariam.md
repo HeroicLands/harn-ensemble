@@ -1,6 +1,6 @@
 ---
 shortcode: queyofpariam
-name: {full: Quey of Pariam, aliases: []}
+name: {full: Quey of Pariam}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: queofzenda
-name: {full: Que of Zenda, aliases: []}
+name: {full: Que of Zenda}
 type: being
 subType: npc
 tags: []

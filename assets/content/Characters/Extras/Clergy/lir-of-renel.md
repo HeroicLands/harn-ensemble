@@ -1,6 +1,6 @@
 ---
 shortcode: lirofrenel
-name: {full: Lir of Renel, aliases: []}
+name: {full: Lir of Renel}
 type: being
 subType: npc
 tags: []

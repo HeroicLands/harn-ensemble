@@ -1,6 +1,6 @@
 ---
 shortcode: yamapelofreimek
-name: {full: Yamapel of Reimek, aliases: []}
+name: {full: Yamapel of Reimek}
 type: being
 subType: npc
 tags: []

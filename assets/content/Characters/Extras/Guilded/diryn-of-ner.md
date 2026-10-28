@@ -1,6 +1,6 @@
 ---
 shortcode: dirynofner
-name: {full: Diryn of Ner, aliases: []}
+name: {full: Diryn of Ner}
 type: being
 subType: npc
 tags: []

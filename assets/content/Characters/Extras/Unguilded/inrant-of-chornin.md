@@ -1,6 +1,6 @@
 ---
 shortcode: inrantofchornin
-name: {full: Inrant of Chornin, aliases: []}
+name: {full: Inrant of Chornin}
 type: being
 subType: npc
 tags: []

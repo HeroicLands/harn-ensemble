@@ -1,6 +1,6 @@
 ---
 shortcode: murlidonofbelaranchi
-name: {full: Murlidon of Belaranchi, aliases: []}
+name: {full: Murlidon of Belaranchi}
 type: being
 subType: npc
 tags: []

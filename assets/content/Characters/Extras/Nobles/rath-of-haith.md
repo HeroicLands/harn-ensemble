@@ -1,6 +1,6 @@
 ---
 shortcode: rathofhaith
-name: {full: Rath of Haith, aliases: []}
+name: {full: Rath of Haith}
 type: being
 subType: npc
 tags: []

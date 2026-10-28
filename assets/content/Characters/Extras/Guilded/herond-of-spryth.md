@@ -1,6 +1,6 @@
 ---
 shortcode: herondofspryth
-name: {full: Herond of Spryth, aliases: []}
+name: {full: Herond of Spryth}
 type: being
 subType: npc
 tags: []

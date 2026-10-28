@@ -1,6 +1,6 @@
 ---
 shortcode: mysilofvaroos
-name: {full: Mysil of Varoos, aliases: []}
+name: {full: Mysil of Varoos}
 type: being
 subType: npc
 tags: []

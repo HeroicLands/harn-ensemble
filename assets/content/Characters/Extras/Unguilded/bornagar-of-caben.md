@@ -1,6 +1,6 @@
 ---
 shortcode: bornagarofcaben
-name: {full: Bornagar of Caben, aliases: []}
+name: {full: Bornagar of Caben}
 type: being
 subType: npc
 tags: []

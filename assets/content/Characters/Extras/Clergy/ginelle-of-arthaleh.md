@@ -1,6 +1,6 @@
 ---
 shortcode: ginelleofarthaleh
-name: {full: Ginelle of Arthaleh, aliases: []}
+name: {full: Ginelle of Arthaleh}
 type: being
 subType: npc
 tags: []

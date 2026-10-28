@@ -1,6 +1,6 @@
 ---
 shortcode: veteranseperlinoffraul
-name: {full: Veteran Seperlin of Fraul, aliases: []}
+name: {full: Veteran Seperlin of Fraul}
 type: being
 subType: npc
 tags: []

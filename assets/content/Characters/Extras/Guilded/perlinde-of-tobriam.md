@@ -1,6 +1,6 @@
 ---
 shortcode: perlindeoftobriam
-name: {full: Perlinde of Tobriam, aliases: []}
+name: {full: Perlinde of Tobriam}
 type: being
 subType: npc
 tags: []

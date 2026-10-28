@@ -1,6 +1,6 @@
 ---
 shortcode: marakofmykanthelkuz
-name: {full: Marak of Mykanthelkuz, aliases: []}
+name: {full: Marak of Mykanthelkuz}
 type: being
 subType: npc
 tags: []

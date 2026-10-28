@@ -1,6 +1,6 @@
 ---
 shortcode: drusaxofway
-name: {full: Drusax of Way, aliases: []}
+name: {full: Drusax of Way}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: harlabalofharlabal
-name: {full: Harlabal of Harlabal, aliases: []}
+name: {full: Harlabal of Harlabal}
 type: being
 subType: npc
 tags: []

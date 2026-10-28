@@ -1,6 +1,6 @@
 ---
 shortcode: arthelofballiar
-name: {full: Arthel of Balliar, aliases: []}
+name: {full: Arthel of Balliar}
 type: being
 subType: npc
 tags: []

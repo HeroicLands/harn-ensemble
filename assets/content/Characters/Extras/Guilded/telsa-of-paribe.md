@@ -1,6 +1,6 @@
 ---
 shortcode: telsaofparibe
-name: {full: Telsa of Paribe, aliases: []}
+name: {full: Telsa of Paribe}
 type: being
 subType: npc
 tags: []

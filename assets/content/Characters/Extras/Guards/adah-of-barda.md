@@ -1,6 +1,6 @@
 ---
 shortcode: adahofbarda
-name: {full: Adah of Barda, aliases: []}
+name: {full: Adah of Barda}
 type: being
 subType: npc
 tags: []

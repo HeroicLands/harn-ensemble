@@ -1,6 +1,6 @@
 ---
 shortcode: aquillionofardine
-name: {full: Aquillion of Ardine, aliases: []}
+name: {full: Aquillion of Ardine}
 type: being
 subType: npc
 tags: []

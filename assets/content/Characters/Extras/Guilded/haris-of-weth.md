@@ -1,6 +1,6 @@
 ---
 shortcode: harisofweth
-name: {full: Haris of Weth, aliases: []}
+name: {full: Haris of Weth}
 type: being
 subType: npc
 tags: []

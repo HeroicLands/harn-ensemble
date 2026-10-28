@@ -1,6 +1,6 @@
 ---
 shortcode: kerthervaofbaldis
-name: {full: Kertherva of Baldis, aliases: []}
+name: {full: Kertherva of Baldis}
 type: being
 subType: npc
 tags: []

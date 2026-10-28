@@ -1,6 +1,6 @@
 ---
 shortcode: quelicofyorlym
-name: {full: Quelic of Yorlym, aliases: []}
+name: {full: Quelic of Yorlym}
 type: being
 subType: npc
 tags: []

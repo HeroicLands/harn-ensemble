@@ -1,6 +1,6 @@
 ---
 shortcode: solinaofquardas
-name: {full: Solina of Quardas, aliases: []}
+name: {full: Solina of Quardas}
 type: being
 subType: npc
 tags: []

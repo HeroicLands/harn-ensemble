@@ -1,6 +1,6 @@
 ---
 shortcode: heridofcosels
-name: {full: Herid of Cosels, aliases: []}
+name: {full: Herid of Cosels}
 type: being
 subType: npc
 tags: []

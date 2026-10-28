@@ -1,6 +1,6 @@
 ---
 shortcode: pagurisofspehmonk
-name: {full: Paguris of Speh (Monk), aliases: []}
+name: {full: Paguris of Speh (Monk)}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: brasofharass
-name: {full: Bras of Harass, aliases: []}
+name: {full: Bras of Harass}
 type: being
 subType: npc
 tags: []

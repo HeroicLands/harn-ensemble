@@ -1,6 +1,6 @@
 ---
 shortcode: zoefiorfohd
-name: {full: Zoe Fiorfohd, aliases: []}
+name: {full: Zoe Fiorfohd}
 type: being
 subType: character
 tags: []

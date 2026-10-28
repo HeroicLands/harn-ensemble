@@ -1,6 +1,6 @@
 ---
 shortcode: marofgorra
-name: {full: Mar of Gorra, aliases: []}
+name: {full: Mar of Gorra}
 type: being
 subType: npc
 tags: []

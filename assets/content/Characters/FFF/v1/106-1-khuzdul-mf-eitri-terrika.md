@@ -1,6 +1,6 @@
 ---
 shortcode: eitriterrika
-name: {full: Eitri Terrika, aliases: []}
+name: {full: Eitri Terrika}
 type: being
 subType: character
 tags: []

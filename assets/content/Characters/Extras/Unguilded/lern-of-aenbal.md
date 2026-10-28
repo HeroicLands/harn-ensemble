@@ -1,6 +1,6 @@
 ---
 shortcode: lernofaenbal
-name: {full: Lern of Aenbal, aliases: []}
+name: {full: Lern of Aenbal}
 type: being
 subType: npc
 tags: []

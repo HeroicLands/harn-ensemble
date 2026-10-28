@@ -1,6 +1,6 @@
 ---
 shortcode: yelimeofner
-name: {full: Yelime of Ner, aliases: []}
+name: {full: Yelime of Ner}
 type: being
 subType: npc
 tags: []

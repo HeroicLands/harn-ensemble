@@ -1,6 +1,6 @@
 ---
 shortcode: gathricofdeschu
-name: {full: Gathric of Deschu, aliases: []}
+name: {full: Gathric of Deschu}
 type: being
 subType: character
 tags: []

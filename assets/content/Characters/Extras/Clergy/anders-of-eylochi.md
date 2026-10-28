@@ -1,6 +1,6 @@
 ---
 shortcode: andersofeylochi
-name: {full: Anders of Eylochi, aliases: []}
+name: {full: Anders of Eylochi}
 type: being
 subType: npc
 tags: []

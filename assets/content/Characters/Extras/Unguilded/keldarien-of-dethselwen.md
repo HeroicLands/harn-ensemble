@@ -1,6 +1,6 @@
 ---
 shortcode: keldarienofdethselwen
-name: {full: Keldarien of Dethselwen, aliases: []}
+name: {full: Keldarien of Dethselwen}
 type: being
 subType: npc
 tags: []

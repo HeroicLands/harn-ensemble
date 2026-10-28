@@ -1,6 +1,6 @@
 ---
 shortcode: ondarnkhorild
-name: {full: Ondarn Khorild, aliases: []}
+name: {full: Ondarn Khorild}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: pallisofharael
-name: {full: Pallis of Harael, aliases: []}
+name: {full: Pallis of Harael}
 type: being
 subType: npc
 tags: []

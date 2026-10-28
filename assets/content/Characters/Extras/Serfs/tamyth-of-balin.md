@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofbalin
-name: {full: Tamyth of Balin, aliases: []}
+name: {full: Tamyth of Balin}
 type: being
 subType: npc
 tags: []

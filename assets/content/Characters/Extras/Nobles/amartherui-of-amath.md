@@ -1,6 +1,6 @@
 ---
 shortcode: amartheruiofamath
-name: {full: Amartherui of Amath, aliases: []}
+name: {full: Amartherui of Amath}
 type: being
 subType: npc
 tags: []

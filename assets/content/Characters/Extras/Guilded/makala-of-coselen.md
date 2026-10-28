@@ -1,6 +1,6 @@
 ---
 shortcode: makalaofcoselen
-name: {full: Makala of Coselen, aliases: []}
+name: {full: Makala of Coselen}
 type: being
 subType: npc
 tags: []

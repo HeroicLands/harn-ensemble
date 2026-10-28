@@ -1,6 +1,6 @@
 ---
 shortcode: labinofpthenda
-name: {full: Labin of Pthenda, aliases: []}
+name: {full: Labin of Pthenda}
 type: being
 subType: npc
 tags: []

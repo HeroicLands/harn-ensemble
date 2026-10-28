@@ -1,6 +1,6 @@
 ---
 shortcode: gillisthoff
-name: {full: Gillis of Thoff, aliases: []}
+name: {full: Gillis of Thoff}
 type: being
 subType: npc
 tags: []

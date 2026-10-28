@@ -1,6 +1,6 @@
 ---
 shortcode: edlinofhonnusk
-name: {full: Edlin of Honnusk, aliases: []}
+name: {full: Edlin of Honnusk}
 type: being
 subType: character
 tags: []

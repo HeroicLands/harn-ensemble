@@ -1,6 +1,6 @@
 ---
 shortcode: lasakoferlym
-name: {full: Lasak of Erlym, aliases: []}
+name: {full: Lasak of Erlym}
 type: being
 subType: npc
 tags: []

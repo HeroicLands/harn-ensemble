@@ -1,6 +1,6 @@
 ---
 shortcode: sweyofbaelams
-name: {full: Swey of Baelams, aliases: []}
+name: {full: Swey of Baelams}
 type: being
 subType: character
 tags: []

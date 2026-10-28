@@ -1,6 +1,6 @@
 ---
 shortcode: eraofparselrin
-name: {full: Era of Parselrin, aliases: []}
+name: {full: Era of Parselrin}
 type: being
 subType: npc
 tags: []

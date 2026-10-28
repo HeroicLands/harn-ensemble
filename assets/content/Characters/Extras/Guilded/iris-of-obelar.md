@@ -1,6 +1,6 @@
 ---
 shortcode: irisofobelar
-name: {full: Iris of Obelar, aliases: []}
+name: {full: Iris of Obelar}
 type: being
 subType: npc
 tags: []

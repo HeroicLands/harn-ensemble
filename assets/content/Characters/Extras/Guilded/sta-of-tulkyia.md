@@ -1,6 +1,6 @@
 ---
 shortcode: staoftulkyia
-name: {full: Sta of Tulkyia, aliases: []}
+name: {full: Sta of Tulkyia}
 type: being
 subType: npc
 tags: []

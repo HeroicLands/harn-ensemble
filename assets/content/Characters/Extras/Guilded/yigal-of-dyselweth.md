@@ -1,6 +1,6 @@
 ---
 shortcode: yigalofdyselweth
-name: {full: Yigal of Dyselweth, aliases: []}
+name: {full: Yigal of Dyselweth}
 type: being
 subType: npc
 tags: []

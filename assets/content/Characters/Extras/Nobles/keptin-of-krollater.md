@@ -1,6 +1,6 @@
 ---
 shortcode: keptinofkrollater
-name: {full: Keptin of Krollater, aliases: []}
+name: {full: Keptin of Krollater}
 type: being
 subType: npc
 tags: []

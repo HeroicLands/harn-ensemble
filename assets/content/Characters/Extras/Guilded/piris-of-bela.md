@@ -1,6 +1,6 @@
 ---
 shortcode: pirisofbela
-name: {full: Piris of Bela, aliases: []}
+name: {full: Piris of Bela}
 type: being
 subType: npc
 tags: []

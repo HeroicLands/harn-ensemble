@@ -1,6 +1,6 @@
 ---
 shortcode: thecofkolmzak
-name: {full: Thec of Kolmzak, aliases: []}
+name: {full: Thec of Kolmzak}
 type: being
 subType: npc
 tags: []

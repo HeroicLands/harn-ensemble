@@ -1,6 +1,6 @@
 ---
 shortcode: serelynoffulkyia
-name: {full: Serelyn of Fulkyia, aliases: []}
+name: {full: Serelyn of Fulkyia}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: adabdanofbrassereg
-name: {full: Adabdan of Brassereg, aliases: []}
+name: {full: Adabdan of Brassereg}
 type: being
 subType: npc
 tags: []

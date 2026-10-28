@@ -1,6 +1,6 @@
 ---
 shortcode: baroffraul
-name: {full: Bar of Fraul, aliases: []}
+name: {full: Bar of Fraul}
 type: being
 subType: npc
 tags: []

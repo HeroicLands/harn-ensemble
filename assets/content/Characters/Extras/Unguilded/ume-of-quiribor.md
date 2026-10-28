@@ -1,6 +1,6 @@
 ---
 shortcode: umeofquiribor
-name: {full: Ume of Quiribor, aliases: []}
+name: {full: Ume of Quiribor}
 type: being
 subType: npc
 tags: []

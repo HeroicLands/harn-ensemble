@@ -1,6 +1,6 @@
 ---
 shortcode: mereryofkrolad
-name: {full: Merery of Krolad, aliases: []}
+name: {full: Merery of Krolad}
 type: being
 subType: npc
 tags: []

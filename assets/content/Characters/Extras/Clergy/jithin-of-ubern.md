@@ -1,6 +1,6 @@
 ---
 shortcode: jithinofubern
-name: {full: Jithin of Ubern, aliases: []}
+name: {full: Jithin of Ubern}
 type: being
 subType: npc
 tags: []

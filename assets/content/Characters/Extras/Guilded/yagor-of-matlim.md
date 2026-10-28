@@ -1,6 +1,6 @@
 ---
 shortcode: yagorofmatlim
-name: {full: Yagor of Matlim, aliases: []}
+name: {full: Yagor of Matlim}
 type: being
 subType: npc
 tags: []

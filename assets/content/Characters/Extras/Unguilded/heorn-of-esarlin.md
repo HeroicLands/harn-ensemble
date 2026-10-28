@@ -1,6 +1,6 @@
 ---
 shortcode: heornofesarlin
-name: {full: Heorn of Esarlin, aliases: []}
+name: {full: Heorn of Esarlin}
 type: being
 subType: npc
 tags: []

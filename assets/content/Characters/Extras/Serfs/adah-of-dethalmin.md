@@ -1,6 +1,6 @@
 ---
 shortcode: adahofdethalmin
-name: {full: Adah of Dethalmin, aliases: []}
+name: {full: Adah of Dethalmin}
 type: being
 subType: npc
 tags: []

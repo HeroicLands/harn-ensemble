@@ -1,6 +1,6 @@
 ---
 shortcode: jehanofmikelfot
-name: {full: Jehan of Mikelfot, aliases: []}
+name: {full: Jehan of Mikelfot}
 type: being
 subType: character
 tags: []

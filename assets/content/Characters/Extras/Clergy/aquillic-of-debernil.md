@@ -1,6 +1,6 @@
 ---
 shortcode: aquillicofdebernil
-name: {full: Aquillic of Debernil, aliases: []}
+name: {full: Aquillic of Debernil}
 type: being
 subType: npc
 tags: []

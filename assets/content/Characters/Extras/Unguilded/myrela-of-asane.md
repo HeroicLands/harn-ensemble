@@ -1,6 +1,6 @@
 ---
 shortcode: myrelaofasane
-name: {full: Myrela of Asane, aliases: []}
+name: {full: Myrela of Asane}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gruldelofintrelin
-name: {full: Gruldel of Intrelin, aliases: []}
+name: {full: Gruldel of Intrelin}
 type: being
 subType: npc
 tags: []

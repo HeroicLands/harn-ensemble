@@ -1,6 +1,6 @@
 ---
 shortcode: merwasofchornic
-name: {full: Merwas of Chornic, aliases: []}
+name: {full: Merwas of Chornic}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gweleofkapireth
-name: {full: Gwele of Kapireth, aliases: []}
+name: {full: Gwele of Kapireth}
 type: being
 subType: npc
 tags: []

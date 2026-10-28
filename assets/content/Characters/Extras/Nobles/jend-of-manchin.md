@@ -1,6 +1,6 @@
 ---
 shortcode: jendofmanchin
-name: {full: Jend of Manchin, aliases: []}
+name: {full: Jend of Manchin}
 type: being
 subType: npc
 tags: []

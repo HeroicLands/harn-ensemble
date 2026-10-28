@@ -1,6 +1,6 @@
 ---
 shortcode: thainofmerlesh
-name: {full: Thain of Merlesh, aliases: []}
+name: {full: Thain of Merlesh}
 type: being
 subType: npc
 tags: []

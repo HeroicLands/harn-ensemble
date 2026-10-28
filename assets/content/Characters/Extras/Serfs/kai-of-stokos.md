@@ -1,6 +1,6 @@
 ---
 shortcode: kaiofstokos
-name: {full: Kai of Stokos, aliases: []}
+name: {full: Kai of Stokos}
 type: being
 subType: npc
 tags: []

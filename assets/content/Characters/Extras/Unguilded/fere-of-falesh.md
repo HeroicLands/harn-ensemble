@@ -1,6 +1,6 @@
 ---
 shortcode: fereoffalesh
-name: {full: Fere of Falesh, aliases: []}
+name: {full: Fere of Falesh}
 type: being
 subType: npc
 tags: []

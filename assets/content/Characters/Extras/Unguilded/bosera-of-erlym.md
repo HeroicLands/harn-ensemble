@@ -1,6 +1,6 @@
 ---
 shortcode: boseraoferlym
-name: {full: Bosera of Erlym, aliases: []}
+name: {full: Bosera of Erlym}
 type: being
 subType: npc
 tags: []

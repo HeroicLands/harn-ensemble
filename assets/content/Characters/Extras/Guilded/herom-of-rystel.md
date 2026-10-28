@@ -1,6 +1,6 @@
 ---
 shortcode: heromofrystel
-name: {full: Herom of Rystel, aliases: []}
+name: {full: Herom of Rystel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: bascalryke
-name: {full: Bascal Ryke, aliases: []}
+name: {full: Bascal Ryke}
 type: being
 subType: character
 tags: []

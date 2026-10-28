@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofhylin
-name: {full: Terza of Hylin, aliases: []}
+name: {full: Terza of Hylin}
 type: being
 subType: npc
 tags: []

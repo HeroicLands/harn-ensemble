@@ -1,6 +1,6 @@
 ---
 shortcode: carexofspeh
-name: {full: Carex of Speh, aliases: []}
+name: {full: Carex of Speh}
 type: being
 subType: character
 tags: []

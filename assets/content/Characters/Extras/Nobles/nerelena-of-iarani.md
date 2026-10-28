@@ -1,6 +1,6 @@
 ---
 shortcode: nerelenaofiarani
-name: {full: Nerelena of Iarani, aliases: []}
+name: {full: Nerelena of Iarani}
 type: being
 subType: npc
 tags: []

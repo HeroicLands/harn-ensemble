@@ -1,6 +1,6 @@
 ---
 shortcode: queofaeb
-name: {full: Que of Aeb, aliases: []}
+name: {full: Que of Aeb}
 type: being
 subType: npc
 tags: []

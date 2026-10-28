@@ -1,6 +1,6 @@
 ---
 shortcode: cidinnamarthofbreigancheth
-name: {full: Cidinnamarth of Breigancheth, aliases: []}
+name: {full: Cidinnamarth of Breigancheth}
 type: being
 subType: npc
 tags: []

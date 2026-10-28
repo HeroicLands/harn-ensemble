@@ -1,6 +1,6 @@
 ---
 shortcode: charoforlon
-name: {full: Char of Orlon, aliases: []}
+name: {full: Char of Orlon}
 type: being
 subType: npc
 tags: []

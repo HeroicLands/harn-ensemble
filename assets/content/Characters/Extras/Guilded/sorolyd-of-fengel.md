@@ -1,6 +1,6 @@
 ---
 shortcode: sorolydoffengel
-name: {full: Sorolyd of Fengel, aliases: []}
+name: {full: Sorolyd of Fengel}
 type: being
 subType: npc
 tags: []

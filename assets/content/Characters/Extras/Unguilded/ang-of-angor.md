@@ -1,6 +1,6 @@
 ---
 shortcode: angofangor
-name: {full: Ang of Angor, aliases: []}
+name: {full: Ang of Angor}
 type: being
 subType: npc
 tags: []

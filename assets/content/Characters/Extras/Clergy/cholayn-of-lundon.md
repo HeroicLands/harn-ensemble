@@ -1,6 +1,6 @@
 ---
 shortcode: cholaynoflundon
-name: {full: Cholayn of Lundon, aliases: []}
+name: {full: Cholayn of Lundon}
 type: being
 subType: npc
 tags: []

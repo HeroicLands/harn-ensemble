@@ -1,6 +1,6 @@
 ---
 shortcode: cholaynofvaro
-name: {full: Cholayn of Varo, aliases: []}
+name: {full: Cholayn of Varo}
 type: being
 subType: npc
 tags: []

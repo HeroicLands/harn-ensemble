@@ -1,6 +1,6 @@
 ---
 shortcode: merrimamgrimwul
-name: {full: Merrimam Grimwul, aliases: []}
+name: {full: Merrimam Grimwul}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: ewenienofwulveriel
-name: {full: Ewenien of Wulveriel, aliases: []}
+name: {full: Ewenien of Wulveriel}
 type: being
 subType: npc
 tags: []

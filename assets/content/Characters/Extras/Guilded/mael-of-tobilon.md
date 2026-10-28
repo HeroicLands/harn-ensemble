@@ -1,6 +1,6 @@
 ---
 shortcode: maeloftobilon
-name: {full: Mael of Tobilon, aliases: []}
+name: {full: Mael of Tobilon}
 type: being
 subType: npc
 tags: []

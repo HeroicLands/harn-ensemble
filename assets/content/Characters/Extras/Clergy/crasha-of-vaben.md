@@ -1,6 +1,6 @@
 ---
 shortcode: crashaofvaben
-name: {full: Crasha of Vaben, aliases: []}
+name: {full: Crasha of Vaben}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: totesofwythin
-name: {full: Totes of Wythin, aliases: []}
+name: {full: Totes of Wythin}
 type: being
 subType: npc
 tags: []

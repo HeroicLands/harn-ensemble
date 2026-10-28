@@ -1,6 +1,6 @@
 ---
 shortcode: lysatrisofquiriel
-name: {full: Lysatris of Quiriel, aliases: []}
+name: {full: Lysatris of Quiriel}
 type: being
 subType: npc
 tags: []

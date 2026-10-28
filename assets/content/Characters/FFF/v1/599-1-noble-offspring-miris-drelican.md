@@ -1,6 +1,6 @@
 ---
 shortcode: mirisdrelican
-name: {full: Miris Drelican, aliases: []}
+name: {full: Miris Drelican}
 type: being
 subType: character
 tags: []

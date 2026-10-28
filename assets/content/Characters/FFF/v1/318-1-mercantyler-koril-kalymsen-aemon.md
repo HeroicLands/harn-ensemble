@@ -1,6 +1,6 @@
 ---
 shortcode: korilkalymsenaemon
-name: {full: Koril Kalymsen Aemon, aliases: []}
+name: {full: Koril Kalymsen Aemon}
 type: being
 subType: character
 tags: []

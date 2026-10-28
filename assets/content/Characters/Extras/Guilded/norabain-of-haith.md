@@ -1,6 +1,6 @@
 ---
 shortcode: norabainofhaith
-name: {full: Norabain of Haith, aliases: []}
+name: {full: Norabain of Haith}
 type: being
 subType: npc
 tags: []

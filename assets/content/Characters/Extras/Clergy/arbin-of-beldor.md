@@ -1,6 +1,6 @@
 ---
 shortcode: arbinofbeldor
-name: {full: Arbin of Beldor, aliases: []}
+name: {full: Arbin of Beldor}
 type: being
 subType: npc
 tags: []

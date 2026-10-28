@@ -1,6 +1,6 @@
 ---
 shortcode: sirletoslamrend
-name: {full: Sir Letos Lamrend, aliases: []}
+name: {full: Sir Letos Lamrend}
 type: being
 subType: character
 tags: []

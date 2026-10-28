@@ -1,6 +1,6 @@
 ---
 shortcode: brun
-name: {full: Brun, aliases: []}
+name: {full: Brun}
 type: being
 subType: character
 tags: []

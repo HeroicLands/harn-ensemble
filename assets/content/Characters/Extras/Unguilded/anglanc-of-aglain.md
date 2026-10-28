@@ -1,6 +1,6 @@
 ---
 shortcode: anglancofaglain
-name: {full: Anglanc of Aglain, aliases: []}
+name: {full: Anglanc of Aglain}
 type: being
 subType: npc
 tags: []

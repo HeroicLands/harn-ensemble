@@ -1,6 +1,6 @@
 ---
 shortcode: caroofwethys
-name: {full: Caro of Wethys, aliases: []}
+name: {full: Caro of Wethys}
 type: being
 subType: npc
 tags: []

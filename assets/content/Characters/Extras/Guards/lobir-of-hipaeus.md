@@ -1,6 +1,6 @@
 ---
 shortcode: lobirofhipaeus
-name: {full: Lobir of Hipaeus, aliases: []}
+name: {full: Lobir of Hipaeus}
 type: being
 subType: npc
 tags: []

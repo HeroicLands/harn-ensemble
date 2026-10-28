@@ -1,6 +1,6 @@
 ---
 shortcode: koridoloflumede
-name: {full: Koridol of Lumede, aliases: []}
+name: {full: Koridol of Lumede}
 type: being
 subType: npc
 tags: []

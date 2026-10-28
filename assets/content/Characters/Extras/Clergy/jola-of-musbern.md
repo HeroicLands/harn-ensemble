@@ -1,6 +1,6 @@
 ---
 shortcode: jolaofmusbern
-name: {full: Jola of Musbern, aliases: []}
+name: {full: Jola of Musbern}
 type: being
 subType: npc
 tags: []

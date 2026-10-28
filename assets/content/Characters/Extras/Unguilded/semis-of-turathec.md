@@ -1,6 +1,6 @@
 ---
 shortcode: semisofturathec
-name: {full: Semis of Turathec, aliases: []}
+name: {full: Semis of Turathec}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: vanachofashel
-name: {full: Vanach of Ashel, aliases: []}
+name: {full: Vanach of Ashel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: bryleoflaplaemen
-name: {full: Bryle of Laplaemen, aliases: []}
+name: {full: Bryle of Laplaemen}
 type: being
 subType: npc
 tags: []

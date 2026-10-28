@@ -1,6 +1,6 @@
 ---
 shortcode: veteranuselofesaldiriborinsen
-name: {full: Veteran Usel of Esaldiriborinsen, aliases: []}
+name: {full: Veteran Usel of Esaldiriborinsen}
 type: being
 subType: npc
 tags: []

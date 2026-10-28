@@ -1,6 +1,6 @@
 ---
 shortcode: shaeldaofmance
-name: {full: Shaelda of Mance, aliases: []}
+name: {full: Shaelda of Mance}
 type: being
 subType: npc
 tags: []

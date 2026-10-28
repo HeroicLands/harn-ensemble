@@ -1,6 +1,6 @@
 ---
 shortcode: zuiquerielaofsel
-name: {full: Zuiqueriela of Sel, aliases: []}
+name: {full: Zuiqueriela of Sel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofjorwynn
-name: {full: Milniq of Jorwynn, aliases: []}
+name: {full: Milniq of Jorwynn}
 type: being
 subType: npc
 tags: []

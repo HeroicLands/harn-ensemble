@@ -1,6 +1,6 @@
 ---
 shortcode: charigalofrythin
-name: {full: Charigal of Rythin, aliases: []}
+name: {full: Charigal of Rythin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranthelrenoferlesh
-name: {full: Veteran Thelren of Erlesh, aliases: []}
+name: {full: Veteran Thelren of Erlesh}
 type: being
 subType: npc
 tags: []

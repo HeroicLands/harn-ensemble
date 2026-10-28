@@ -1,6 +1,6 @@
 ---
 shortcode: veteranpoldoelofkapireth
-name: {full: Veteran Poldoel of Kapireth, aliases: []}
+name: {full: Veteran Poldoel of Kapireth}
 type: being
 subType: npc
 tags: []

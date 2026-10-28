@@ -1,6 +1,6 @@
 ---
 shortcode: rybinofaradas
-name: {full: Rybin of Aradas, aliases: []}
+name: {full: Rybin of Aradas}
 type: being
 subType: npc
 tags: []

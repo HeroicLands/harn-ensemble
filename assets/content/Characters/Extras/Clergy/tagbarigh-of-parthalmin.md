@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarighofparthalmin
-name: {full: Tagbarigh of Parthalmin, aliases: []}
+name: {full: Tagbarigh of Parthalmin}
 type: being
 subType: npc
 tags: []

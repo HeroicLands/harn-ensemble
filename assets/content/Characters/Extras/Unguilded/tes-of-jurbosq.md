@@ -1,6 +1,6 @@
 ---
 shortcode: tesofjurbosq
-name: {full: Tes of Jurbosq, aliases: []}
+name: {full: Tes of Jurbosq}
 type: being
 subType: npc
 tags: []

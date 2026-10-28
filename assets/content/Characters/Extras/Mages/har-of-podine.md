@@ -1,6 +1,6 @@
 ---
 shortcode: harofpodine
-name: {full: Har of Podine, aliases: []}
+name: {full: Har of Podine}
 type: being
 subType: npc
 tags: []

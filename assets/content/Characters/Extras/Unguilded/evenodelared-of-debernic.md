@@ -1,6 +1,6 @@
 ---
 shortcode: evenodelaredofdebernic
-name: {full: Evenodelared of Debernic, aliases: []}
+name: {full: Evenodelared of Debernic}
 type: being
 subType: npc
 tags: []

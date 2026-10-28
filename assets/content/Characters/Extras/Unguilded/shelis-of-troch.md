@@ -1,6 +1,6 @@
 ---
 shortcode: shelisoftroch
-name: {full: Shelis of Troch, aliases: []}
+name: {full: Shelis of Troch}
 type: being
 subType: npc
 tags: []

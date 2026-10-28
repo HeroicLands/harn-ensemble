@@ -1,6 +1,6 @@
 ---
 shortcode: geldanofkalin
-name: {full: Geldan of Kalin, aliases: []}
+name: {full: Geldan of Kalin}
 type: being
 subType: npc
 tags: []

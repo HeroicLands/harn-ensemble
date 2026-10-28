@@ -1,6 +1,6 @@
 ---
 shortcode: elanofhilrine
-name: {full: Elan of Hilrine, aliases: []}
+name: {full: Elan of Hilrine}
 type: being
 subType: npc
 tags: []

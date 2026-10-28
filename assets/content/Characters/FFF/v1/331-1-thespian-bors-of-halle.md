@@ -1,6 +1,6 @@
 ---
 shortcode: borsofhalle
-name: {full: Bors of Halle, aliases: []}
+name: {full: Bors of Halle}
 type: being
 subType: character
 tags: []

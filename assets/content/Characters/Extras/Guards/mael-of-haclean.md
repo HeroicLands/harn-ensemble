@@ -1,6 +1,6 @@
 ---
 shortcode: maelofhaclean
-name: {full: Mael of Haclean, aliases: []}
+name: {full: Mael of Haclean}
 type: being
 subType: npc
 tags: []

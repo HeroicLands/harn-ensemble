@@ -1,6 +1,6 @@
 ---
 shortcode: pelisofnar
-name: {full: Pelis of Nar, aliases: []}
+name: {full: Pelis of Nar}
 type: being
 subType: npc
 tags: []

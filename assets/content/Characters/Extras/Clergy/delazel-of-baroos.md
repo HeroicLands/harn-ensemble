@@ -1,6 +1,6 @@
 ---
 shortcode: delazelofbaroos
-name: {full: Delazel of Baroos, aliases: []}
+name: {full: Delazel of Baroos}
 type: being
 subType: npc
 tags: []

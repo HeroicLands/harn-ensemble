@@ -1,6 +1,6 @@
 ---
 shortcode: haradahofborskin
-name: {full: Haradah of Borskin, aliases: []}
+name: {full: Haradah of Borskin}
 type: being
 subType: npc
 tags: []

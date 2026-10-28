@@ -1,6 +1,6 @@
 ---
 shortcode: romontofaddy
-name: {full: Romont of Addy, aliases: []}
+name: {full: Romont of Addy}
 type: being
 subType: character
 tags: []

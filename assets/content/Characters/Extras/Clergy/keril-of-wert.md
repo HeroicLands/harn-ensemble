@@ -1,6 +1,6 @@
 ---
 shortcode: kerilofwert
-name: {full: Keril of Wert, aliases: []}
+name: {full: Keril of Wert}
 type: being
 subType: npc
 tags: []

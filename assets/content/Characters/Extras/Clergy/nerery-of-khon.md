@@ -1,6 +1,6 @@
 ---
 shortcode: nereryofkhon
-name: {full: Nerery of Khon, aliases: []}
+name: {full: Nerery of Khon}
 type: being
 subType: npc
 tags: []

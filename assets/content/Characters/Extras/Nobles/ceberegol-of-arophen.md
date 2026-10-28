@@ -1,6 +1,6 @@
 ---
 shortcode: ceberegolofarophen
-name: {full: Ceberegol of Arophen, aliases: []}
+name: {full: Ceberegol of Arophen}
 type: being
 subType: npc
 tags: []

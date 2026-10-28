@@ -1,6 +1,6 @@
 ---
 shortcode: lysatofmykanthes
-name: {full: Lysat of Mykanthes, aliases: []}
+name: {full: Lysat of Mykanthes}
 type: being
 subType: npc
 tags: []

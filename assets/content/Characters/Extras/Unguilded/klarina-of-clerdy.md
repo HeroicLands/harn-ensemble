@@ -1,6 +1,6 @@
 ---
 shortcode: klarinaofclerdy
-name: {full: Klarina of Clerdy, aliases: []}
+name: {full: Klarina of Clerdy}
 type: being
 subType: npc
 tags: []

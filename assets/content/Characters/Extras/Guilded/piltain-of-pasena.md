@@ -1,6 +1,6 @@
 ---
 shortcode: piltainofpasena
-name: {full: Piltain of Pasena, aliases: []}
+name: {full: Piltain of Pasena}
 type: being
 subType: npc
 tags: []

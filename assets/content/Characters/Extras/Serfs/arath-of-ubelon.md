@@ -1,6 +1,6 @@
 ---
 shortcode: arathofubelon
-name: {full: Arath of Ubelon, aliases: []}
+name: {full: Arath of Ubelon}
 type: being
 subType: npc
 tags: []

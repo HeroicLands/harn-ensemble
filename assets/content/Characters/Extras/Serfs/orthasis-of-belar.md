@@ -1,6 +1,6 @@
 ---
 shortcode: orthasisofbelar
-name: {full: Orthasis of Belar, aliases: []}
+name: {full: Orthasis of Belar}
 type: being
 subType: npc
 tags: []

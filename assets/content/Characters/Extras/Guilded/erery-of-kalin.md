@@ -1,6 +1,6 @@
 ---
 shortcode: ereryofkalin
-name: {full: Erery of Kalin, aliases: []}
+name: {full: Erery of Kalin}
 type: being
 subType: npc
 tags: []

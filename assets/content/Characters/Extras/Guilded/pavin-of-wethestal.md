@@ -1,6 +1,6 @@
 ---
 shortcode: pavinofwethestal
-name: {full: Pavin of Wethestal, aliases: []}
+name: {full: Pavin of Wethestal}
 type: being
 subType: npc
 tags: []

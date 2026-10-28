@@ -1,6 +1,6 @@
 ---
 shortcode: molanasofloyril
-name: {full: Molanas of Loyril, aliases: []}
+name: {full: Molanas of Loyril}
 type: being
 subType: npc
 tags: []

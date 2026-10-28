@@ -1,6 +1,6 @@
 ---
 shortcode: alothofseth
-name: {full: Aloth of Seth, aliases: []}
+name: {full: Aloth of Seth}
 type: being
 subType: npc
 tags: []

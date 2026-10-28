@@ -1,6 +1,6 @@
 ---
 shortcode: sorolofobelon
-name: {full: Sorol of Obelon, aliases: []}
+name: {full: Sorol of Obelon}
 type: being
 subType: npc
 tags: []

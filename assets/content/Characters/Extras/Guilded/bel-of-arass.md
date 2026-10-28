@@ -1,6 +1,6 @@
 ---
 shortcode: belofarass
-name: {full: Bel of Arass, aliases: []}
+name: {full: Bel of Arass}
 type: being
 subType: npc
 tags: []

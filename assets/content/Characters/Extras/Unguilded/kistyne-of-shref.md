@@ -1,6 +1,6 @@
 ---
 shortcode: kistyneofshref
-name: {full: Kistyne of Shref, aliases: []}
+name: {full: Kistyne of Shref}
 type: being
 subType: npc
 tags: []

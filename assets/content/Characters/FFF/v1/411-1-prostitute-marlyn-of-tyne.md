@@ -1,6 +1,6 @@
 ---
 shortcode: marlynoftyne
-name: {full: Marlyn of Tyne, aliases: []}
+name: {full: Marlyn of Tyne}
 type: being
 subType: character
 tags: []

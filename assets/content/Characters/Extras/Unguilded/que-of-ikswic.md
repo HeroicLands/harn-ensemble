@@ -1,6 +1,6 @@
 ---
 shortcode: queofikswic
-name: {full: Que of Ikswic, aliases: []}
+name: {full: Que of Ikswic}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: chimaofibin
-name: {full: Chima of Ibin, aliases: []}
+name: {full: Chima of Ibin}
 type: being
 subType: npc
 tags: []

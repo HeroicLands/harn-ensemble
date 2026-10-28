@@ -1,6 +1,6 @@
 ---
 shortcode: targatofkrollateriel
-name: {full: Targat of Krollateriel, aliases: []}
+name: {full: Targat of Krollateriel}
 type: being
 subType: npc
 tags: []

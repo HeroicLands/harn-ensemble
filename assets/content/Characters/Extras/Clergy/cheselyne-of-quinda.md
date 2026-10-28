@@ -1,6 +1,6 @@
 ---
 shortcode: cheselyneofquinda
-name: {full: Cheselyne of Quinda, aliases: []}
+name: {full: Cheselyne of Quinda}
 type: being
 subType: npc
 tags: []

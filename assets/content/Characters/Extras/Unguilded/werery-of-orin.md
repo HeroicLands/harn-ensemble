@@ -1,6 +1,6 @@
 ---
 shortcode: wereryoforin
-name: {full: Werery of Orin, aliases: []}
+name: {full: Werery of Orin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: pinka
-name: {full: Pinka, aliases: []}
+name: {full: Pinka}
 type: being
 subType: character
 tags: []

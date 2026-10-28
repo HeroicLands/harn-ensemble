@@ -1,6 +1,6 @@
 ---
 shortcode: keldurofkald
-name: {full: Keldur of Kald, aliases: []}
+name: {full: Keldur of Kald}
 type: being
 subType: npc
 tags: []

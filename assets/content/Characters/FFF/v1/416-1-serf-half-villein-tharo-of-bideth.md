@@ -1,6 +1,6 @@
 ---
 shortcode: tharoofbideth
-name: {full: Tharo of Bideth, aliases: []}
+name: {full: Tharo of Bideth}
 type: being
 subType: character
 tags: []

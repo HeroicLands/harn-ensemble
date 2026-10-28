@@ -1,6 +1,6 @@
 ---
 shortcode: larmofdomerak
-name: {full: Larm of Domerak, aliases: []}
+name: {full: Larm of Domerak}
 type: being
 subType: npc
 tags: []

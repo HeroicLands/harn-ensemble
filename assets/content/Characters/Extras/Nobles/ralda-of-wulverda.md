@@ -1,6 +1,6 @@
 ---
 shortcode: raldaofwulverda
-name: {full: Ralda of Wulverda, aliases: []}
+name: {full: Ralda of Wulverda}
 type: being
 subType: npc
 tags: []

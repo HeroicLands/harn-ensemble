@@ -1,6 +1,6 @@
 ---
 shortcode: ralofbaldir
-name: {full: Ral of Baldir, aliases: []}
+name: {full: Ral of Baldir}
 type: being
 subType: npc
 tags: []

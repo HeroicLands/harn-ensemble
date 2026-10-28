@@ -1,6 +1,6 @@
 ---
 shortcode: sarinofgevraen
-name: {full: Sarin of Gevraen, aliases: []}
+name: {full: Sarin of Gevraen}
 type: being
 subType: npc
 tags: []

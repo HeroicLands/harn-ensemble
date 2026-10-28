@@ -1,6 +1,6 @@
 ---
 shortcode: lasynofael
-name: {full: Lasyn of Ael, aliases: []}
+name: {full: Lasyn of Ael}
 type: being
 subType: npc
 tags: []

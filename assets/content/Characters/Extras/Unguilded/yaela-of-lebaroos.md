@@ -1,6 +1,6 @@
 ---
 shortcode: yaelaoflebaroos
-name: {full: Yaela of Lebaroos, aliases: []}
+name: {full: Yaela of Lebaroos}
 type: being
 subType: npc
 tags: []

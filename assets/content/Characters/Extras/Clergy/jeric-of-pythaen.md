@@ -1,6 +1,6 @@
 ---
 shortcode: jericofpythaen
-name: {full: Jeric of Pythaen, aliases: []}
+name: {full: Jeric of Pythaen}
 type: being
 subType: npc
 tags: []

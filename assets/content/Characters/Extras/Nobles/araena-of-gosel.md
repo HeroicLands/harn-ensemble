@@ -1,6 +1,6 @@
 ---
 shortcode: araenaofgosel
-name: {full: Araena of Gosel, aliases: []}
+name: {full: Araena of Gosel}
 type: being
 subType: npc
 tags: []

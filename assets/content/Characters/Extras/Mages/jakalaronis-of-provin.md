@@ -1,6 +1,6 @@
 ---
 shortcode: jakalaronisofprovin
-name: {full: Jakalaronis of Provin, aliases: []}
+name: {full: Jakalaronis of Provin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: urildofbaets
-name: {full: Urild of Baets, aliases: []}
+name: {full: Urild of Baets}
 type: being
 subType: npc
 tags: []

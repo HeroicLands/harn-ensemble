@@ -1,6 +1,6 @@
 ---
 shortcode: melicofwethalmin
-name: {full: Melic of Wethalmin, aliases: []}
+name: {full: Melic of Wethalmin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: baranofcellenamluger
-name: {full: Baran of Cellenamluger, aliases: []}
+name: {full: Baran of Cellenamluger}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jartonofewendal
-name: {full: Jarton of Ewendal, aliases: []}
+name: {full: Jarton of Ewendal}
 type: being
 subType: npc
 tags: []

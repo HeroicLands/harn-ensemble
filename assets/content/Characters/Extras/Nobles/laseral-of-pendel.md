@@ -1,6 +1,6 @@
 ---
 shortcode: laseralofpendel
-name: {full: Laseral of Pendel, aliases: []}
+name: {full: Laseral of Pendel}
 type: being
 subType: npc
 tags: []

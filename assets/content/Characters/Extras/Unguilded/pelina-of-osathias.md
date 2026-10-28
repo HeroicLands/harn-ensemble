@@ -1,6 +1,6 @@
 ---
 shortcode: pelinaofosathias
-name: {full: Pelina of Osathias, aliases: []}
+name: {full: Pelina of Osathias}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: yelimeofcadrune
-name: {full: Yelime of Cadrune, aliases: []}
+name: {full: Yelime of Cadrune}
 type: being
 subType: npc
 tags: []

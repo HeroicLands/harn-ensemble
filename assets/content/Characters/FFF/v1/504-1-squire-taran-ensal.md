@@ -1,6 +1,6 @@
 ---
 shortcode: taranensal
-name: {full: Taran Ensal, aliases: []}
+name: {full: Taran Ensal}
 type: being
 subType: character
 tags: []

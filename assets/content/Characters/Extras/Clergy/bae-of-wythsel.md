@@ -1,6 +1,6 @@
 ---
 shortcode: baeofwythsel
-name: {full: Bae of Wythsel, aliases: []}
+name: {full: Bae of Wythsel}
 type: being
 subType: npc
 tags: []

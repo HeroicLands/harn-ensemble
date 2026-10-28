@@ -1,6 +1,6 @@
 ---
 shortcode: terbaoftallis
-name: {full: Terba of Tallis, aliases: []}
+name: {full: Terba of Tallis}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: fetch
-name: {full: '"Fetch"', aliases: []}
+name: {full: '"Fetch"'}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arienofarda
-name: {full: Arien of Arda, aliases: []}
+name: {full: Arien of Arda}
 type: being
 subType: npc
 tags: []

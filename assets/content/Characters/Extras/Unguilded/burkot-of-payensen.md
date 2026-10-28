@@ -1,6 +1,6 @@
 ---
 shortcode: burkotofpayensen
-name: {full: Burkot of Payensen, aliases: []}
+name: {full: Burkot of Payensen}
 type: being
 subType: npc
 tags: []

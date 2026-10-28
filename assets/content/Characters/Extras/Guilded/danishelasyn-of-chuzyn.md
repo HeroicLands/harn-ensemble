@@ -1,6 +1,6 @@
 ---
 shortcode: danishelasynofchuzyn
-name: {full: Danishelasyn of Chuzyn, aliases: []}
+name: {full: Danishelasyn of Chuzyn}
 type: being
 subType: npc
 tags: []

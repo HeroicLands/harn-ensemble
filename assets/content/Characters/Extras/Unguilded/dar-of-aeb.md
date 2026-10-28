@@ -1,6 +1,6 @@
 ---
 shortcode: darofaeb
-name: {full: Dar of Aeb, aliases: []}
+name: {full: Dar of Aeb}
 type: being
 subType: npc
 tags: []

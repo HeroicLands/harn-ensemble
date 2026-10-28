@@ -1,6 +1,6 @@
 ---
 shortcode: sorolanazirofsideth
-name: {full: Sorolanazir of Sideth, aliases: []}
+name: {full: Sorolanazir of Sideth}
 type: being
 subType: npc
 tags: []

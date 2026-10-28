@@ -1,6 +1,6 @@
 ---
 shortcode: amarthorofbronadui
-name: {full: Amarthor of Bronadui, aliases: []}
+name: {full: Amarthor of Bronadui}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: heornofordan
-name: {full: Heorn of Ordan, aliases: []}
+name: {full: Heorn of Ordan}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: angernofangoeol
-name: {full: Angern of Angoeol, aliases: []}
+name: {full: Angern of Angoeol}
 type: being
 subType: npc
 tags: []

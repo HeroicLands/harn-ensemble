@@ -1,6 +1,6 @@
 ---
 shortcode: hadashofwythaen
-name: {full: Hadash of Wythaen, aliases: []}
+name: {full: Hadash of Wythaen}
 type: being
 subType: npc
 tags: []

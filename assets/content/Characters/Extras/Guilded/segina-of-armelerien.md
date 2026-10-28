@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofarmelerien
-name: {full: Segina of Armelerien, aliases: []}
+name: {full: Segina of Armelerien}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arbinofharlabek
-name: {full: Arbin of Harlabek, aliases: []}
+name: {full: Arbin of Harlabek}
 type: being
 subType: npc
 tags: []

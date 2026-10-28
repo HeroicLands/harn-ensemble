@@ -1,6 +1,6 @@
 ---
 shortcode: roulofleferre
-name: {full: Roul of Leferre, aliases: []}
+name: {full: Roul of Leferre}
 type: being
 subType: character
 tags: []

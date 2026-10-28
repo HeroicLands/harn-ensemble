@@ -1,6 +1,6 @@
 ---
 shortcode: saroftobilon
-name: {full: Sar of Tobilon, aliases: []}
+name: {full: Sar of Tobilon}
 type: being
 subType: npc
 tags: []

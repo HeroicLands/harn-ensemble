@@ -1,6 +1,6 @@
 ---
 shortcode: sareyofsideth
-name: {full: Sarey of Sideth, aliases: []}
+name: {full: Sarey of Sideth}
 type: being
 subType: character
 tags: []

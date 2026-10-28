@@ -1,6 +1,6 @@
 ---
 shortcode: kyresaldinofstiem
-name: {full: Kyresaldin of Stiem, aliases: []}
+name: {full: Kyresaldin of Stiem}
 type: being
 subType: npc
 tags: []

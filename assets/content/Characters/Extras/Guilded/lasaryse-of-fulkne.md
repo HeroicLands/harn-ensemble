@@ -1,6 +1,6 @@
 ---
 shortcode: lasaryseoffulkne
-name: {full: Lasaryse of Fulkne, aliases: []}
+name: {full: Lasaryse of Fulkne}
 type: being
 subType: npc
 tags: []

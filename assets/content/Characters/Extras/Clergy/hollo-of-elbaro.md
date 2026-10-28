@@ -1,6 +1,6 @@
 ---
 shortcode: holloofelbaro
-name: {full: Hollo of Elbaro, aliases: []}
+name: {full: Hollo of Elbaro}
 type: being
 subType: npc
 tags: []

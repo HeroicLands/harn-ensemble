@@ -1,6 +1,6 @@
 ---
 shortcode: burkotofkotrel
-name: {full: Burkot of Kotrel, aliases: []}
+name: {full: Burkot of Kotrel}
 type: being
 subType: npc
 tags: []

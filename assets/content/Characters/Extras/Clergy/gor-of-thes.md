@@ -1,6 +1,6 @@
 ---
 shortcode: gorofthes
-name: {full: Gor of Thes, aliases: []}
+name: {full: Gor of Thes}
 type: being
 subType: npc
 tags: []

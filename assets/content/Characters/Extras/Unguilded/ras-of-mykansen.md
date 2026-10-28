@@ -1,6 +1,6 @@
 ---
 shortcode: rasofmykansen
-name: {full: Ras of Mykansen, aliases: []}
+name: {full: Ras of Mykansen}
 type: being
 subType: npc
 tags: []

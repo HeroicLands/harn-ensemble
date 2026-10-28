@@ -1,6 +1,6 @@
 ---
 shortcode: silofrathaen
-name: {full: Sil of Rathaen, aliases: []}
+name: {full: Sil of Rathaen}
 type: being
 subType: npc
 tags: []

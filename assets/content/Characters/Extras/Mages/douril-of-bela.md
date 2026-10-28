@@ -1,6 +1,6 @@
 ---
 shortcode: dourilofbela
-name: {full: Douril of Bela, aliases: []}
+name: {full: Douril of Bela}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: aldofren
-name: {full: Ald of Ren, aliases: []}
+name: {full: Ald of Ren}
 type: being
 subType: npc
 tags: []

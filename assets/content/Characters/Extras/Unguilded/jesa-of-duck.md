@@ -1,6 +1,6 @@
 ---
 shortcode: jesaofduck
-name: {full: Jesa of Duck, aliases: []}
+name: {full: Jesa of Duck}
 type: being
 subType: npc
 tags: []

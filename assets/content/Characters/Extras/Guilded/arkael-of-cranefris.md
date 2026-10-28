@@ -1,6 +1,6 @@
 ---
 shortcode: arkaelofcranefris
-name: {full: Arkael of Cranefris, aliases: []}
+name: {full: Arkael of Cranefris}
 type: being
 subType: npc
 tags: []

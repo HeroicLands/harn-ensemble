@@ -1,6 +1,6 @@
 ---
 shortcode: geldaofmerros
-name: {full: Gelda of Merros, aliases: []}
+name: {full: Gelda of Merros}
 type: being
 subType: npc
 tags: []

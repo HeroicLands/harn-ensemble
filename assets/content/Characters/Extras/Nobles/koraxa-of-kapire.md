@@ -1,6 +1,6 @@
 ---
 shortcode: koraxaofkapire
-name: {full: Koraxa of Kapire, aliases: []}
+name: {full: Koraxa of Kapire}
 type: being
 subType: npc
 tags: []

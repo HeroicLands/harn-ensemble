@@ -1,6 +1,6 @@
 ---
 shortcode: terbaoforta
-name: {full: Terba of Orta, aliases: []}
+name: {full: Terba of Orta}
 type: being
 subType: npc
 tags: []

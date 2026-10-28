@@ -1,6 +1,6 @@
 ---
 shortcode: makalareenofchardan
-name: {full: Makalareen of Chardan, aliases: []}
+name: {full: Makalareen of Chardan}
 type: being
 subType: npc
 tags: []

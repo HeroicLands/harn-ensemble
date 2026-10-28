@@ -1,6 +1,6 @@
 ---
 shortcode: teldurofwythias
-name: {full: Teldur of Wythias, aliases: []}
+name: {full: Teldur of Wythias}
 type: being
 subType: npc
 tags: []

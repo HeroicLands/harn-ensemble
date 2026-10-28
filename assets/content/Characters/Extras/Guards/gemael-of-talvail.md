@@ -1,6 +1,6 @@
 ---
 shortcode: gemaeloftalvail
-name: {full: Gemael of Talvail, aliases: []}
+name: {full: Gemael of Talvail}
 type: being
 subType: npc
 tags: []

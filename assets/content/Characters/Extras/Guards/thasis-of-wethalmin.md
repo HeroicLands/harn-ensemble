@@ -1,6 +1,6 @@
 ---
 shortcode: thasisofwethalmin
-name: {full: Thasis of Wethalmin, aliases: []}
+name: {full: Thasis of Wethalmin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: beregofamathor
-name: {full: Bereg of Amathor, aliases: []}
+name: {full: Bereg of Amathor}
 type: being
 subType: npc
 tags: []

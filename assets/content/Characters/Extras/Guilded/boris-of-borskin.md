@@ -1,6 +1,6 @@
 ---
 shortcode: borisofborskin
-name: {full: Boris of Borskin, aliases: []}
+name: {full: Boris of Borskin}
 type: being
 subType: npc
 tags: []

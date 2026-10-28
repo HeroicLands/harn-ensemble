@@ -1,6 +1,6 @@
 ---
 shortcode: merbesaldaradofvabetts
-name: {full: Merbesaldarad of Vabetts, aliases: []}
+name: {full: Merbesaldarad of Vabetts}
 type: being
 subType: npc
 tags: []

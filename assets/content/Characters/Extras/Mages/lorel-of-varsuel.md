@@ -1,6 +1,6 @@
 ---
 shortcode: lorelofvarsuel
-name: {full: Lorel of Varsuel, aliases: []}
+name: {full: Lorel of Varsuel}
 type: being
 subType: npc
 tags: []

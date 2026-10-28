@@ -1,6 +1,6 @@
 ---
 shortcode: cellenofarnagarananc
-name: {full: Cellen of Arnagarananc, aliases: []}
+name: {full: Cellen of Arnagarananc}
 type: being
 subType: npc
 tags: []

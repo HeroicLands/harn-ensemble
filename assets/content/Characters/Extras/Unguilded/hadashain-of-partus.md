@@ -1,6 +1,6 @@
 ---
 shortcode: hadashainofpartus
-name: {full: Hadashain of Partus, aliases: []}
+name: {full: Hadashain of Partus}
 type: being
 subType: npc
 tags: []

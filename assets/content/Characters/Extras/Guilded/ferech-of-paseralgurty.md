@@ -1,6 +1,6 @@
 ---
 shortcode: ferechofpaseralgurty
-name: {full: Ferech of Paseralgurty, aliases: []}
+name: {full: Ferech of Paseralgurty}
 type: being
 subType: npc
 tags: []

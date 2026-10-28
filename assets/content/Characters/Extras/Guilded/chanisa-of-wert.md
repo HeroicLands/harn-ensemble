@@ -1,6 +1,6 @@
 ---
 shortcode: chanisaofwert
-name: {full: Chanisa of Wert, aliases: []}
+name: {full: Chanisa of Wert}
 type: being
 subType: npc
 tags: []

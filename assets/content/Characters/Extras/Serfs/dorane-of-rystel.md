@@ -1,6 +1,6 @@
 ---
 shortcode: doraneofrystel
-name: {full: Dorane of Rystel, aliases: []}
+name: {full: Dorane of Rystel}
 type: being
 subType: npc
 tags: []

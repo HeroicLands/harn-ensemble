@@ -1,6 +1,6 @@
 ---
 shortcode: alothofobyne
-name: {full: Aloth of Obyne, aliases: []}
+name: {full: Aloth of Obyne}
 type: being
 subType: npc
 tags: []

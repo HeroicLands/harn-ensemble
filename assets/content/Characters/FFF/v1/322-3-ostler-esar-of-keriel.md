@@ -1,6 +1,6 @@
 ---
 shortcode: esarofkeriel
-name: {full: Esar of Keriel, aliases: []}
+name: {full: Esar of Keriel}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranaradofvalasain
-name: {full: Veteran Arad of Valasain, aliases: []}
+name: {full: Veteran Arad of Valasain}
 type: being
 subType: npc
 tags: []

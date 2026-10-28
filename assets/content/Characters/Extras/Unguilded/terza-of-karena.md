@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofkarena
-name: {full: Terza of Karena, aliases: []}
+name: {full: Terza of Karena}
 type: being
 subType: npc
 tags: []

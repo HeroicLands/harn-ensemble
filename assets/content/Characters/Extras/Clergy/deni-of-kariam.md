@@ -1,6 +1,6 @@
 ---
 shortcode: deniofkariam
-name: {full: Deni of Kariam, aliases: []}
+name: {full: Deni of Kariam}
 type: being
 subType: npc
 tags: []

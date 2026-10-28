@@ -1,6 +1,6 @@
 ---
 shortcode: krakofardras
-name: {full: Krak of Ardras, aliases: []}
+name: {full: Krak of Ardras}
 type: being
 subType: npc
 tags: []

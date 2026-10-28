@@ -1,6 +1,6 @@
 ---
 shortcode: tamythoflaplaemen
-name: {full: Tamyth of Laplaemen, aliases: []}
+name: {full: Tamyth of Laplaemen}
 type: being
 subType: npc
 tags: []

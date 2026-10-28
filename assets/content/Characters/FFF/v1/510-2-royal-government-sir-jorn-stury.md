@@ -1,6 +1,6 @@
 ---
 shortcode: sirjornstury
-name: {full: Sir Jorn Stury, aliases: []}
+name: {full: Sir Jorn Stury}
 type: being
 subType: character
 tags: []

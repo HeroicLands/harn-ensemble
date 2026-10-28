@@ -1,6 +1,6 @@
 ---
 shortcode: wereryofcoselen
-name: {full: Werery of Coselen, aliases: []}
+name: {full: Werery of Coselen}
 type: being
 subType: npc
 tags: []

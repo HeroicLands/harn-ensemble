@@ -1,6 +1,6 @@
 ---
 shortcode: irisofvaradas
-name: {full: Iris of Varadas, aliases: []}
+name: {full: Iris of Varadas}
 type: being
 subType: npc
 tags: []

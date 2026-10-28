@@ -1,6 +1,6 @@
 ---
 shortcode: angolofburitta
-name: {full: Angol of Buritta, aliases: []}
+name: {full: Angol of Buritta}
 type: being
 subType: npc
 tags: []

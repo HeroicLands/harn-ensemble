@@ -1,6 +1,6 @@
 ---
 shortcode: orliroffulkne
-name: {full: Orlir of Fulkne, aliases: []}
+name: {full: Orlir of Fulkne}
 type: being
 subType: character
 tags: []

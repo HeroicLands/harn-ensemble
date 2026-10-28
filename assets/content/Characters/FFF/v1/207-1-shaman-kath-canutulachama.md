@@ -1,6 +1,6 @@
 ---
 shortcode: canutulachama
-name: {full: Canutulachama, aliases: []}
+name: {full: Canutulachama}
 type: being
 subType: character
 tags: []

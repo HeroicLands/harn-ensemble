@@ -1,6 +1,6 @@
 ---
 shortcode: uvieneofardine
-name: {full: Uviene of Ardine, aliases: []}
+name: {full: Uviene of Ardine}
 type: being
 subType: npc
 tags: []

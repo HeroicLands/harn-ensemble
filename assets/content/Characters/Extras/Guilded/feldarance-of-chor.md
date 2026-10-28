@@ -1,6 +1,6 @@
 ---
 shortcode: feldaranceofchor
-name: {full: Feldarance of Chor, aliases: []}
+name: {full: Feldarance of Chor}
 type: being
 subType: npc
 tags: []

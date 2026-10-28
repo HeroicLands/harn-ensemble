@@ -1,6 +1,6 @@
 ---
 shortcode: holloofsarlis
-name: {full: Hollo of Sarlis, aliases: []}
+name: {full: Hollo of Sarlis}
 type: being
 subType: npc
 tags: []

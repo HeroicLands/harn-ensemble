@@ -1,6 +1,6 @@
 ---
 shortcode: liriameofmerak
-name: {full: Liriame of Merak, aliases: []}
+name: {full: Liriame of Merak}
 type: being
 subType: npc
 tags: []

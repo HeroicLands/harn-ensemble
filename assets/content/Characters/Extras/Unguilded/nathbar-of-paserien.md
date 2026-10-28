@@ -1,6 +1,6 @@
 ---
 shortcode: nathbarofpaserien
-name: {full: Nathbar of Paserien, aliases: []}
+name: {full: Nathbar of Paserien}
 type: being
 subType: npc
 tags: []

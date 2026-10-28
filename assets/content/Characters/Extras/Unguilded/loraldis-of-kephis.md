@@ -1,6 +1,6 @@
 ---
 shortcode: loraldisofkephis
-name: {full: Loraldis of Kephis, aliases: []}
+name: {full: Loraldis of Kephis}
 type: being
 subType: npc
 tags: []

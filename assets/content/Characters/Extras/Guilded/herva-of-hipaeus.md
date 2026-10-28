@@ -1,6 +1,6 @@
 ---
 shortcode: hervaofhipaeus
-name: {full: Herva of Hipaeus, aliases: []}
+name: {full: Herva of Hipaeus}
 type: being
 subType: npc
 tags: []

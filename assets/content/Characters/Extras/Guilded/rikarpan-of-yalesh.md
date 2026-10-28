@@ -1,6 +1,6 @@
 ---
 shortcode: rikarpanofyalesh
-name: {full: Rikarpan of Yalesh, aliases: []}
+name: {full: Rikarpan of Yalesh}
 type: being
 subType: npc
 tags: []

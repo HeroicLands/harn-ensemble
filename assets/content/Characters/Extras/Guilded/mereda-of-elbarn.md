@@ -1,6 +1,6 @@
 ---
 shortcode: meredaofelbarn
-name: {full: Mereda of Elbarn, aliases: []}
+name: {full: Mereda of Elbarn}
 type: being
 subType: npc
 tags: []

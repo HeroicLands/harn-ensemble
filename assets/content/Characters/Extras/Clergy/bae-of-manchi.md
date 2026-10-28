@@ -1,6 +1,6 @@
 ---
 shortcode: baeofmanchi
-name: {full: Bae of Manchi, aliases: []}
+name: {full: Bae of Manchi}
 type: being
 subType: npc
 tags: []

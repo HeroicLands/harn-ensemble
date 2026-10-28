@@ -1,6 +1,6 @@
 ---
 shortcode: kolynofguinarass
-name: {full: Kolyn of Guinarass, aliases: []}
+name: {full: Kolyn of Guinarass}
 type: being
 subType: npc
 tags: []

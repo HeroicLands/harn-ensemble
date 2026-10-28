@@ -1,6 +1,6 @@
 ---
 shortcode: trunethasisofdarin
-name: {full: Trunethasis of Darin, aliases: []}
+name: {full: Trunethasis of Darin}
 type: being
 subType: npc
 tags: []

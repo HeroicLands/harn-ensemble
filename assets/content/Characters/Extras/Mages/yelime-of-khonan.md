@@ -1,6 +1,6 @@
 ---
 shortcode: yelimeofkhonan
-name: {full: Yelime of Khonan, aliases: []}
+name: {full: Yelime of Khonan}
 type: being
 subType: npc
 tags: []

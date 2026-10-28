@@ -1,6 +1,6 @@
 ---
 shortcode: orthiasofbellyr
-name: {full: Orthias of Bellyr, aliases: []}
+name: {full: Orthias of Bellyr}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: piltainofekai
-name: {full: Piltain of Ekai, aliases: []}
+name: {full: Piltain of Ekai}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: harilofstuk
-name: {full: Haril of Stuk, aliases: []}
+name: {full: Haril of Stuk}
 type: being
 subType: npc
 tags: []

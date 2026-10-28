@@ -1,6 +1,6 @@
 ---
 shortcode: veteranuthelrenofane
-name: {full: Veteran Uthelren of Ane, aliases: []}
+name: {full: Veteran Uthelren of Ane}
 type: being
 subType: npc
 tags: []

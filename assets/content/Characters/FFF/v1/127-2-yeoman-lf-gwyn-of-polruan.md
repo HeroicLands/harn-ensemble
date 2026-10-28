@@ -1,6 +1,6 @@
 ---
 shortcode: gwynofpolruan
-name: {full: Gwyn of Polruan, aliases: []}
+name: {full: Gwyn of Polruan}
 type: being
 subType: character
 tags: []

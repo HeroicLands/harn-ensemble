@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofmurty
-name: {full: Kaidia of Murty, aliases: []}
+name: {full: Kaidia of Murty}
 type: being
 subType: npc
 tags: []

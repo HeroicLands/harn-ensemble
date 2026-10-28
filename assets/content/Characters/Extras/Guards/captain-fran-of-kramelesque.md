@@ -1,6 +1,6 @@
 ---
 shortcode: captainfranofkramelesque
-name: {full: Captain Fran of Kramelesque, aliases: []}
+name: {full: Captain Fran of Kramelesque}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: elrosofmerin
-name: {full: Elros of Merin, aliases: []}
+name: {full: Elros of Merin}
 type: being
 subType: character
 tags: []

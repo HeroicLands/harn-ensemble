@@ -1,6 +1,6 @@
 ---
 shortcode: danishemlenofkotren
-name: {full: Danishemlen of Kotren, aliases: []}
+name: {full: Danishemlen of Kotren}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tamilofdethasil
-name: {full: Tamil of Dethasil, aliases: []}
+name: {full: Tamil of Dethasil}
 type: being
 subType: npc
 tags: []

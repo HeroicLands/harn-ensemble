@@ -1,6 +1,6 @@
 ---
 shortcode: herilofgarin
-name: {full: Heril of Garin, aliases: []}
+name: {full: Heril of Garin}
 type: being
 subType: npc
 tags: []

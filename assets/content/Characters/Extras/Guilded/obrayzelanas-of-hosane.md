@@ -1,6 +1,6 @@
 ---
 shortcode: obrayzelanasofhosane
-name: {full: Obrayzelanas of Hosane, aliases: []}
+name: {full: Obrayzelanas of Hosane}
 type: being
 subType: npc
 tags: []

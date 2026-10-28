@@ -1,6 +1,6 @@
 ---
 shortcode: veteransemisofhubela
-name: {full: Veteran Semis of Hubela, aliases: []}
+name: {full: Veteran Semis of Hubela}
 type: being
 subType: npc
 tags: []

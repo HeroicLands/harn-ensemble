@@ -1,6 +1,6 @@
 ---
 shortcode: yeraofubellyr
-name: {full: Yera of Ubellyr, aliases: []}
+name: {full: Yera of Ubellyr}
 type: being
 subType: npc
 tags: []

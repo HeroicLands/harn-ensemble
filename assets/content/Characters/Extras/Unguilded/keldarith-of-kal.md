@@ -1,6 +1,6 @@
 ---
 shortcode: keldarithofkal
-name: {full: Keldarith of Kal, aliases: []}
+name: {full: Keldarith of Kal}
 type: being
 subType: npc
 tags: []

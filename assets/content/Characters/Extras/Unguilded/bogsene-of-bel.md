@@ -1,6 +1,6 @@
 ---
 shortcode: bogseneofbel
-name: {full: Bogsene of Bel, aliases: []}
+name: {full: Bogsene of Bel}
 type: being
 subType: npc
 tags: []

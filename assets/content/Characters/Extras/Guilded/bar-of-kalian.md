@@ -1,6 +1,6 @@
 ---
 shortcode: barofkalian
-name: {full: Bar of Kalian, aliases: []}
+name: {full: Bar of Kalian}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: margum
-name: {full: Margum, aliases: []}
+name: {full: Margum}
 type: being
 subType: character
 tags: []

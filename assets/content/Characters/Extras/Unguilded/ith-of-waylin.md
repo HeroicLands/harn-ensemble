@@ -1,6 +1,6 @@
 ---
 shortcode: ithofwaylin
-name: {full: Ith of Waylin, aliases: []}
+name: {full: Ith of Waylin}
 type: being
 subType: npc
 tags: []

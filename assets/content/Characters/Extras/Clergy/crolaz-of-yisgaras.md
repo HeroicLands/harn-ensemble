@@ -1,6 +1,6 @@
 ---
 shortcode: crolazofyisgaras
-name: {full: Crolaz of Yisgaras, aliases: []}
+name: {full: Crolaz of Yisgaras}
 type: being
 subType: npc
 tags: []

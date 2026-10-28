@@ -1,6 +1,6 @@
 ---
 shortcode: malhberanceofbaeth
-name: {full: Malhberance of Baeth, aliases: []}
+name: {full: Malhberance of Baeth}
 type: being
 subType: npc
 tags: []

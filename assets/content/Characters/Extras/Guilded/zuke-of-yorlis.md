@@ -1,6 +1,6 @@
 ---
 shortcode: zukeofyorlis
-name: {full: Zuke of Yorlis, aliases: []}
+name: {full: Zuke of Yorlis}
 type: being
 subType: npc
 tags: []

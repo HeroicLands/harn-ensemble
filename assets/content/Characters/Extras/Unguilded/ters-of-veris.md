@@ -1,6 +1,6 @@
 ---
 shortcode: tersofveris
-name: {full: Ters of Veris, aliases: []}
+name: {full: Ters of Veris}
 type: being
 subType: npc
 tags: []

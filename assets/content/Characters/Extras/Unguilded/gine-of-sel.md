@@ -1,6 +1,6 @@
 ---
 shortcode: gineofsel
-name: {full: Gine of Sel, aliases: []}
+name: {full: Gine of Sel}
 type: being
 subType: npc
 tags: []

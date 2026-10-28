@@ -1,6 +1,6 @@
 ---
 shortcode: semisoftal
-name: {full: Semis of Tal, aliases: []}
+name: {full: Semis of Tal}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranobrayzelanofiesh
-name: {full: Veteran Obrayzelan of Iesh, aliases: []}
+name: {full: Veteran Obrayzelan of Iesh}
 type: being
 subType: npc
 tags: []

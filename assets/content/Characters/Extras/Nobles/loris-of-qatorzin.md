@@ -1,6 +1,6 @@
 ---
 shortcode: lorisofqatorzin
-name: {full: Loris of Qatorzin, aliases: []}
+name: {full: Loris of Qatorzin}
 type: being
 subType: npc
 tags: []

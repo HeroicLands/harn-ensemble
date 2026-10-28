@@ -1,6 +1,6 @@
 ---
 shortcode: lusilofdysel
-name: {full: Lusil of Dysel, aliases: []}
+name: {full: Lusil of Dysel}
 type: being
 subType: npc
 tags: []

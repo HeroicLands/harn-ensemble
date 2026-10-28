@@ -1,6 +1,6 @@
 ---
 shortcode: wyteoffyrwey
-name: {full: Wyte of Fyrwey, aliases: []}
+name: {full: Wyte of Fyrwey}
 type: being
 subType: character
 tags: []

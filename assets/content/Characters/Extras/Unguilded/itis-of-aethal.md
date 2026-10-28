@@ -1,6 +1,6 @@
 ---
 shortcode: itisofaethal
-name: {full: Itis of Aethal, aliases: []}
+name: {full: Itis of Aethal}
 type: being
 subType: npc
 tags: []

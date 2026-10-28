@@ -1,6 +1,6 @@
 ---
 shortcode: telsaofibin
-name: {full: Telsa of Ibin, aliases: []}
+name: {full: Telsa of Ibin}
 type: being
 subType: npc
 tags: []

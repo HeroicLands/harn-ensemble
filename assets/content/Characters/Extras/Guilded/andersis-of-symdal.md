@@ -1,6 +1,6 @@
 ---
 shortcode: andersisofsymdal
-name: {full: Andersis of Symdal, aliases: []}
+name: {full: Andersis of Symdal}
 type: being
 subType: npc
 tags: []

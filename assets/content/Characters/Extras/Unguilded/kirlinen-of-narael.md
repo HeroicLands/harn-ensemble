@@ -1,6 +1,6 @@
 ---
 shortcode: kirlinenofnarael
-name: {full: Kirlinen of Narael, aliases: []}
+name: {full: Kirlinen of Narael}
 type: being
 subType: npc
 tags: []

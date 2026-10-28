@@ -1,6 +1,6 @@
 ---
 shortcode: myrelynoferlesque
-name: {full: Myrelyn of Erlesque, aliases: []}
+name: {full: Myrelyn of Erlesque}
 type: being
 subType: npc
 tags: []

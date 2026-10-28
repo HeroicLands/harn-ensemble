@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofelemas
-name: {full: Tamyth of Elemas, aliases: []}
+name: {full: Tamyth of Elemas}
 type: being
 subType: npc
 tags: []

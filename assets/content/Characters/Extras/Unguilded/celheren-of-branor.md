@@ -1,6 +1,6 @@
 ---
 shortcode: celherenofbranor
-name: {full: Celheren of Branor, aliases: []}
+name: {full: Celheren of Branor}
 type: being
 subType: npc
 tags: []

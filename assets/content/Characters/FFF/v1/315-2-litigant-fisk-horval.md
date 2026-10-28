@@ -1,6 +1,6 @@
 ---
 shortcode: fiskhorval
-name: {full: Fisk Horval, aliases: []}
+name: {full: Fisk Horval}
 type: being
 subType: character
 tags: []

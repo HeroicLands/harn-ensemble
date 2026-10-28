@@ -1,6 +1,6 @@
 ---
 shortcode: kodaroforlis
-name: {full: Kodar of Orlis, aliases: []}
+name: {full: Kodar of Orlis}
 type: being
 subType: npc
 tags: []

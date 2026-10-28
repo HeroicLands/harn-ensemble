@@ -1,6 +1,6 @@
 ---
 shortcode: kelenofartuna
-name: {full: Kelen of Artuna, aliases: []}
+name: {full: Kelen of Artuna}
 type: being
 subType: npc
 tags: []

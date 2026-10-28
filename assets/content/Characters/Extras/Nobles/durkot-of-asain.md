@@ -1,6 +1,6 @@
 ---
 shortcode: durkotofasain
-name: {full: Durkot of Asain, aliases: []}
+name: {full: Durkot of Asain}
 type: being
 subType: npc
 tags: []

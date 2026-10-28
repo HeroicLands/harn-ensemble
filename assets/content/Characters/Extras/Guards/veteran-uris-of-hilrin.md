@@ -1,6 +1,6 @@
 ---
 shortcode: veteranurisofhilrin
-name: {full: Veteran Uris of Hilrin, aliases: []}
+name: {full: Veteran Uris of Hilrin}
 type: being
 subType: npc
 tags: []

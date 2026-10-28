@@ -1,6 +1,6 @@
 ---
 shortcode: clanofabira
-name: {full: Clan of Abira, aliases: []}
+name: {full: Clan of Abira}
 type: being
 subType: npc
 tags: []

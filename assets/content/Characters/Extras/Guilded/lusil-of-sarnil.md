@@ -1,6 +1,6 @@
 ---
 shortcode: lusilofsarnil
-name: {full: Lusil of Sarnil, aliases: []}
+name: {full: Lusil of Sarnil}
 type: being
 subType: npc
 tags: []

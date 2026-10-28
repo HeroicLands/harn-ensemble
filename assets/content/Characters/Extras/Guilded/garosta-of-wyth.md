@@ -1,6 +1,6 @@
 ---
 shortcode: garostaofwyth
-name: {full: Garosta of Wyth, aliases: []}
+name: {full: Garosta of Wyth}
 type: being
 subType: npc
 tags: []

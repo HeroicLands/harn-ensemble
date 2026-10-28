@@ -1,6 +1,6 @@
 ---
 shortcode: arvaofsymdalir
-name: {full: Arva of Symdalir, aliases: []}
+name: {full: Arva of Symdalir}
 type: being
 subType: npc
 tags: []

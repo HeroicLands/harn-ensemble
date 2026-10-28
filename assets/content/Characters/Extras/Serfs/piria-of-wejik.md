@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofwejik
-name: {full: Piria of Wejik, aliases: []}
+name: {full: Piria of Wejik}
 type: being
 subType: npc
 tags: []

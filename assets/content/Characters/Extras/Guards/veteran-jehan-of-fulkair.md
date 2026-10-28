@@ -1,6 +1,6 @@
 ---
 shortcode: veteranjehanoffulkair
-name: {full: Veteran Jehan of Fulkair, aliases: []}
+name: {full: Veteran Jehan of Fulkair}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: piltainofchus
-name: {full: Piltain of Chus, aliases: []}
+name: {full: Piltain of Chus}
 type: being
 subType: npc
 tags: []

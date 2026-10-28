@@ -1,6 +1,6 @@
 ---
 shortcode: shaelderienofbellis
-name: {full: Shaelderien of Bellis, aliases: []}
+name: {full: Shaelderien of Bellis}
 type: being
 subType: npc
 tags: []

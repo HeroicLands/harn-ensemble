@@ -1,6 +1,6 @@
 ---
 shortcode: hericofeylosath
-name: {full: Heric of Eylosath, aliases: []}
+name: {full: Heric of Eylosath}
 type: being
 subType: npc
 tags: []

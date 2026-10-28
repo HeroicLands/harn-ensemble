@@ -1,6 +1,6 @@
 ---
 shortcode: larmofbaethasil
-name: {full: Larm of Baethasil, aliases: []}
+name: {full: Larm of Baethasil}
 type: being
 subType: npc
 tags: []

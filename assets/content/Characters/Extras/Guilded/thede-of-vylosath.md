@@ -1,6 +1,6 @@
 ---
 shortcode: thedeofvylosath
-name: {full: Thede of Vylosath, aliases: []}
+name: {full: Thede of Vylosath}
 type: being
 subType: npc
 tags: []

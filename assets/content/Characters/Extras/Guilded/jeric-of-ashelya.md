@@ -1,6 +1,6 @@
 ---
 shortcode: jericofashelya
-name: {full: Jeric of Ashelya, aliases: []}
+name: {full: Jeric of Ashelya}
 type: being
 subType: npc
 tags: []

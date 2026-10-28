@@ -1,6 +1,6 @@
 ---
 shortcode: pelsinoforta
-name: {full: Pelsin of Orta, aliases: []}
+name: {full: Pelsin of Orta}
 type: being
 subType: npc
 tags: []

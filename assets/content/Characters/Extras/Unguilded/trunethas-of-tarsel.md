@@ -1,6 +1,6 @@
 ---
 shortcode: trunethasoftarsel
-name: {full: Trunethas of Tarsel, aliases: []}
+name: {full: Trunethas of Tarsel}
 type: being
 subType: npc
 tags: []

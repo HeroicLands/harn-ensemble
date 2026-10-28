@@ -1,6 +1,6 @@
 ---
 shortcode: chaklynofloyril
-name: {full: Chaklyn of Loyril, aliases: []}
+name: {full: Chaklyn of Loyril}
 type: being
 subType: npc
 tags: []

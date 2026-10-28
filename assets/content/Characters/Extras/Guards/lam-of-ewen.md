@@ -1,6 +1,6 @@
 ---
 shortcode: lamofewen
-name: {full: Lam of Ewen, aliases: []}
+name: {full: Lam of Ewen}
 type: being
 subType: npc
 tags: []

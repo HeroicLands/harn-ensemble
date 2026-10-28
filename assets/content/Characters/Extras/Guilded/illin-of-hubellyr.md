@@ -1,6 +1,6 @@
 ---
 shortcode: illinofhubellyr
-name: {full: Illin of Hubellyr, aliases: []}
+name: {full: Illin of Hubellyr}
 type: being
 subType: npc
 tags: []

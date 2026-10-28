@@ -1,6 +1,6 @@
 ---
 shortcode: karienoftal
-name: {full: Karien of Tal, aliases: []}
+name: {full: Karien of Tal}
 type: being
 subType: npc
 tags: []

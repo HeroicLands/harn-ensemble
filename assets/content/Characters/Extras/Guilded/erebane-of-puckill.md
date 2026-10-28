@@ -1,6 +1,6 @@
 ---
 shortcode: erebaneofpuckill
-name: {full: Erebane of Puckill, aliases: []}
+name: {full: Erebane of Puckill}
 type: being
 subType: npc
 tags: []

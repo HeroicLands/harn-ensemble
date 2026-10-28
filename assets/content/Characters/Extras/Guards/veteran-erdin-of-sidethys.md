@@ -1,6 +1,6 @@
 ---
 shortcode: veteranerdinofsidethys
-name: {full: Veteran Erdin of Sidethys, aliases: []}
+name: {full: Veteran Erdin of Sidethys}
 type: being
 subType: npc
 tags: []

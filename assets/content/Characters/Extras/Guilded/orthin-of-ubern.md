@@ -1,6 +1,6 @@
 ---
 shortcode: orthinofubern
-name: {full: Orthin of Ubern, aliases: []}
+name: {full: Orthin of Ubern}
 type: being
 subType: npc
 tags: []

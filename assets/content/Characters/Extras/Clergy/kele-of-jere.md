@@ -1,6 +1,6 @@
 ---
 shortcode: keleofjere
-name: {full: Kele of Jere, aliases: []}
+name: {full: Kele of Jere}
 type: being
 subType: npc
 tags: []

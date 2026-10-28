@@ -1,6 +1,6 @@
 ---
 shortcode: yigaloforta
-name: {full: Yigal of Orta, aliases: []}
+name: {full: Yigal of Orta}
 type: being
 subType: npc
 tags: []

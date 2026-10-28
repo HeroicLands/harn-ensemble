@@ -1,6 +1,6 @@
 ---
 shortcode: lasereleofhardras
-name: {full: Laserele of Hardras, aliases: []}
+name: {full: Laserele of Hardras}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: quertenaofveriel
-name: {full: Quertena of Veriel, aliases: []}
+name: {full: Quertena of Veriel}
 type: being
 subType: npc
 tags: []

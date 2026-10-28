@@ -1,6 +1,6 @@
 ---
 shortcode: rondofkeryn
-name: {full: Rond of Keryn, aliases: []}
+name: {full: Rond of Keryn}
 type: being
 subType: npc
 tags: []

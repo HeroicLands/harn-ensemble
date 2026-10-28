@@ -1,6 +1,6 @@
 ---
 shortcode: agaruofagarwenedrilph
-name: {full: Agaru of Agarwenedrilph, aliases: []}
+name: {full: Agaru of Agarwenedrilph}
 type: being
 subType: npc
 tags: []

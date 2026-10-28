@@ -1,6 +1,6 @@
 ---
 shortcode: dirofchuzyn
-name: {full: Dir of Chuzyn, aliases: []}
+name: {full: Dir of Chuzyn}
 type: being
 subType: npc
 tags: []

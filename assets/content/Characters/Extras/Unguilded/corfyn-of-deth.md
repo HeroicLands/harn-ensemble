@@ -1,6 +1,6 @@
 ---
 shortcode: corfynofdeth
-name: {full: Corfyn of Deth, aliases: []}
+name: {full: Corfyn of Deth}
 type: being
 subType: npc
 tags: []

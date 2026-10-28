@@ -1,6 +1,6 @@
 ---
 shortcode: lasarinaofjorwynn
-name: {full: Lasarina of Jorwynn, aliases: []}
+name: {full: Lasarina of Jorwynn}
 type: being
 subType: npc
 tags: []

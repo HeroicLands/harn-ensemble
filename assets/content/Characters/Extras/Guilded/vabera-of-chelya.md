@@ -1,6 +1,6 @@
 ---
 shortcode: vaberaofchelya
-name: {full: Vabera of Chelya, aliases: []}
+name: {full: Vabera of Chelya}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofslarance
-name: {full: Milniq of Slarance, aliases: []}
+name: {full: Milniq of Slarance}
 type: being
 subType: npc
 tags: []

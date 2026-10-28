@@ -1,6 +1,6 @@
 ---
 shortcode: crasoferlesh
-name: {full: Cras of Erlesh, aliases: []}
+name: {full: Cras of Erlesh}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arantofparin
-name: {full: Arant of Parin, aliases: []}
+name: {full: Arant of Parin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: andyofmerlesh
-name: {full: Andy of Merlesh, aliases: []}
+name: {full: Andy of Merlesh}
 type: being
 subType: npc
 tags: []

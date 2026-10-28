@@ -1,6 +1,6 @@
 ---
 shortcode: borka
-name: {full: Borka, aliases: []}
+name: {full: Borka}
 type: being
 subType: character
 tags: []

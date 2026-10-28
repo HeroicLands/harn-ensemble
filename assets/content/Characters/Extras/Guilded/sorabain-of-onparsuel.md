@@ -1,6 +1,6 @@
 ---
 shortcode: sorabainofonparsuel
-name: {full: Sorabain of Onparsuel, aliases: []}
+name: {full: Sorabain of Onparsuel}
 type: being
 subType: npc
 tags: []

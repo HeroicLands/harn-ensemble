@@ -1,6 +1,6 @@
 ---
 shortcode: harianofardras
-name: {full: Harian of Ardras, aliases: []}
+name: {full: Harian of Ardras}
 type: being
 subType: npc
 tags: []

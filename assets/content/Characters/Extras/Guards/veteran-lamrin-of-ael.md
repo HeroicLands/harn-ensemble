@@ -1,6 +1,6 @@
 ---
 shortcode: veteranlamrinofael
-name: {full: Veteran Lamrin of Ael, aliases: []}
+name: {full: Veteran Lamrin of Ael}
 type: being
 subType: npc
 tags: []

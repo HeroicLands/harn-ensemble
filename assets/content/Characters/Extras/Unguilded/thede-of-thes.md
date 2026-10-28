@@ -1,6 +1,6 @@
 ---
 shortcode: thedeofthes
-name: {full: Thede of Thes, aliases: []}
+name: {full: Thede of Thes}
 type: being
 subType: npc
 tags: []

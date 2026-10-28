@@ -1,6 +1,6 @@
 ---
 shortcode: amruphenofcalen
-name: {full: Amruphen of Calen, aliases: []}
+name: {full: Amruphen of Calen}
 type: being
 subType: npc
 tags: []

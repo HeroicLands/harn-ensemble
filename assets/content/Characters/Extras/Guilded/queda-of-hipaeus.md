@@ -1,6 +1,6 @@
 ---
 shortcode: quedaofhipaeus
-name: {full: Queda of Hipaeus, aliases: []}
+name: {full: Queda of Hipaeus}
 type: being
 subType: npc
 tags: []

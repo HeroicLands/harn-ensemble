@@ -1,6 +1,6 @@
 ---
 shortcode: mereryofartus
-name: {full: Merery of Artus, aliases: []}
+name: {full: Merery of Artus}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tabifaofsaldir
-name: {full: Tabifa of Saldir, aliases: []}
+name: {full: Tabifa of Saldir}
 type: being
 subType: npc
 tags: []

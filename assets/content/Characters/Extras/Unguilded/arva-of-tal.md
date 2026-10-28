@@ -1,6 +1,6 @@
 ---
 shortcode: arvaoftal
-name: {full: Arva of Tal, aliases: []}
+name: {full: Arva of Tal}
 type: being
 subType: npc
 tags: []

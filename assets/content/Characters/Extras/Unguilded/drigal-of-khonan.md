@@ -1,6 +1,6 @@
 ---
 shortcode: drigalofkhonan
-name: {full: Drigal of Khonan, aliases: []}
+name: {full: Drigal of Khonan}
 type: being
 subType: npc
 tags: []

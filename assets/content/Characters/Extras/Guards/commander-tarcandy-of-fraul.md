@@ -1,6 +1,6 @@
 ---
 shortcode: commandertarcandyoffraul
-name: {full: Commander Tarcandy of Fraul, aliases: []}
+name: {full: Commander Tarcandy of Fraul}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: aeraofcrani
-name: {full: Aera of Crani, aliases: []}
+name: {full: Aera of Crani}
 type: being
 subType: npc
 tags: []

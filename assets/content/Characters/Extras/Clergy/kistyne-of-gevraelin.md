@@ -1,6 +1,6 @@
 ---
 shortcode: kistyneofgevraelin
-name: {full: Kistyne of Gevraelin, aliases: []}
+name: {full: Kistyne of Gevraelin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: geacelsinofmusbers
-name: {full: Geacelsin of Musbers, aliases: []}
+name: {full: Geacelsin of Musbers}
 type: being
 subType: npc
 tags: []

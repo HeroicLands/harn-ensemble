@@ -1,6 +1,6 @@
 ---
 shortcode: kirlinofiaradas
-name: {full: Kirlin of Iaradas, aliases: []}
+name: {full: Kirlin of Iaradas}
 type: being
 subType: npc
 tags: []

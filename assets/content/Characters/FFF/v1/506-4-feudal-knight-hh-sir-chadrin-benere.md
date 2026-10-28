@@ -1,6 +1,6 @@
 ---
 shortcode: sirchadrinbenere
-name: {full: Sir Chadrin Benere, aliases: []}
+name: {full: Sir Chadrin Benere}
 type: being
 subType: character
 tags: []

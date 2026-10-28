@@ -1,6 +1,6 @@
 ---
 shortcode: heromofiesh
-name: {full: Herom of Iesh, aliases: []}
+name: {full: Herom of Iesh}
 type: being
 subType: npc
 tags: []

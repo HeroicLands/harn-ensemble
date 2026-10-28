@@ -1,6 +1,6 @@
 ---
 shortcode: lysatofthoff
-name: {full: Lysat of Thoff, aliases: []}
+name: {full: Lysat of Thoff}
 type: being
 subType: npc
 tags: []

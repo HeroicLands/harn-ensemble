@@ -1,6 +1,6 @@
 ---
 shortcode: genorofobyne
-name: {full: Genor of Obyne, aliases: []}
+name: {full: Genor of Obyne}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: seginaoftalvail
-name: {full: Segina of Talvail, aliases: []}
+name: {full: Segina of Talvail}
 type: being
 subType: npc
 tags: []

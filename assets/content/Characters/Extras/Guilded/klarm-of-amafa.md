@@ -1,6 +1,6 @@
 ---
 shortcode: klarmofamafa
-name: {full: Klarm of Amafa, aliases: []}
+name: {full: Klarm of Amafa}
 type: being
 subType: npc
 tags: []

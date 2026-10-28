@@ -1,6 +1,6 @@
 ---
 shortcode: carebofbeinai
-name: {full: Careb of Beinai, aliases: []}
+name: {full: Careb of Beinai}
 type: being
 subType: npc
 tags: []

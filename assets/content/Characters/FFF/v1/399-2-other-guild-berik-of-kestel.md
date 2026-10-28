@@ -1,6 +1,6 @@
 ---
 shortcode: berikofkestel
-name: {full: Berik of Kestel, aliases: []}
+name: {full: Berik of Kestel}
 type: being
 subType: character
 tags: []

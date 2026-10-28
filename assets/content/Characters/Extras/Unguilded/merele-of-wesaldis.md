@@ -1,6 +1,6 @@
 ---
 shortcode: mereleofwesaldis
-name: {full: Merele of Wesaldis, aliases: []}
+name: {full: Merele of Wesaldis}
 type: being
 subType: npc
 tags: []

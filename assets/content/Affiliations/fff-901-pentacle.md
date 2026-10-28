@@ -1,6 +1,6 @@
 ---
 shortcode: fffpentacle
-name: {full: The Pentacle, aliases: []}
+name: {full: The Pentacle}
 type: affiliation
 subType: venture
 tags: []

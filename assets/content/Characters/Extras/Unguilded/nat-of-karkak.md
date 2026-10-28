@@ -1,6 +1,6 @@
 ---
 shortcode: natofkarkak
-name: {full: Nat of Karkak, aliases: []}
+name: {full: Nat of Karkak}
 type: being
 subType: npc
 tags: []

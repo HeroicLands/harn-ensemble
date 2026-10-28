@@ -1,6 +1,6 @@
 ---
 shortcode: martunofubela
-name: {full: Martun of Ubela, aliases: []}
+name: {full: Martun of Ubela}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: molanasofiesh
-name: {full: Molanas of Iesh, aliases: []}
+name: {full: Molanas of Iesh}
 type: being
 subType: npc
 tags: []

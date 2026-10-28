@@ -1,6 +1,6 @@
 ---
 shortcode: zuiquerenaofaikarin
-name: {full: Zuiquerena of Aikarin, aliases: []}
+name: {full: Zuiquerena of Aikarin}
 type: being
 subType: npc
 tags: []

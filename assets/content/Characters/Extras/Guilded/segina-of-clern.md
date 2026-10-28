@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofclern
-name: {full: Segina of Clern, aliases: []}
+name: {full: Segina of Clern}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: rackneofquinar
-name: {full: Rackne of Quinar, aliases: []}
+name: {full: Rackne of Quinar}
 type: being
 subType: npc
 tags: []

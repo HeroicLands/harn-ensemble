@@ -1,6 +1,6 @@
 ---
 shortcode: ronofgyll
-name: {full: Ron of Gyll, aliases: []}
+name: {full: Ron of Gyll}
 type: being
 subType: npc
 tags: []

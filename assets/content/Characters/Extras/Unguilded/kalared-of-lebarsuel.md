@@ -1,6 +1,6 @@
 ---
 shortcode: kalaredoflebarsuel
-name: {full: Kalared of Lebarsuel, aliases: []}
+name: {full: Kalared of Lebarsuel}
 type: being
 subType: npc
 tags: []

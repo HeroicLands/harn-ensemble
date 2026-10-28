@@ -1,6 +1,6 @@
 ---
 shortcode: gironoftabralen
-name: {full: Giron of Tabralen, aliases: []}
+name: {full: Giron of Tabralen}
 type: being
 subType: npc
 tags: []

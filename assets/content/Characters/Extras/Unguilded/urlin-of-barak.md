@@ -1,6 +1,6 @@
 ---
 shortcode: urlinofbarak
-name: {full: Urlin of Barak, aliases: []}
+name: {full: Urlin of Barak}
 type: being
 subType: npc
 tags: []

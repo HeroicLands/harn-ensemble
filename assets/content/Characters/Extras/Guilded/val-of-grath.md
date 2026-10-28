@@ -1,6 +1,6 @@
 ---
 shortcode: valofgrath
-name: {full: Val of Grath, aliases: []}
+name: {full: Val of Grath}
 type: being
 subType: npc
 tags: []

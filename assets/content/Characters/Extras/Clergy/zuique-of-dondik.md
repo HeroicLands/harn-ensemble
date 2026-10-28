@@ -1,6 +1,6 @@
 ---
 shortcode: zuiqueofdondik
-name: {full: Zuique of Dondik, aliases: []}
+name: {full: Zuique of Dondik}
 type: being
 subType: npc
 tags: []

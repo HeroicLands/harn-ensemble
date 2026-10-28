@@ -1,6 +1,6 @@
 ---
 shortcode: aramiaofmykansen
-name: {full: Aramia of Mykansen, aliases: []}
+name: {full: Aramia of Mykansen}
 type: being
 subType: npc
 tags: []

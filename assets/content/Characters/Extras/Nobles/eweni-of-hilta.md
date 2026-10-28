@@ -1,6 +1,6 @@
 ---
 shortcode: eweniofhilta
-name: {full: Eweni of Hilta, aliases: []}
+name: {full: Eweni of Hilta}
 type: being
 subType: npc
 tags: []

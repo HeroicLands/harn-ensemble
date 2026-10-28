@@ -1,6 +1,6 @@
 ---
 shortcode: silasartonofjaesinda
-name: {full: Silasarton of Jaesinda, aliases: []}
+name: {full: Silasarton of Jaesinda}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: makanofbetts
-name: {full: Makan of Betts, aliases: []}
+name: {full: Makan of Betts}
 type: being
 subType: npc
 tags: []

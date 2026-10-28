@@ -1,6 +1,6 @@
 ---
 shortcode: varbrinofasarnil
-name: {full: Varbrin of Asarnil, aliases: []}
+name: {full: Varbrin of Asarnil}
 type: being
 subType: npc
 tags: []

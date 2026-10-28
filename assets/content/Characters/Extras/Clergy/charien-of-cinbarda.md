@@ -1,6 +1,6 @@
 ---
 shortcode: charienofcinbarda
-name: {full: Charien of Cinbarda, aliases: []}
+name: {full: Charien of Cinbarda}
 type: being
 subType: npc
 tags: []

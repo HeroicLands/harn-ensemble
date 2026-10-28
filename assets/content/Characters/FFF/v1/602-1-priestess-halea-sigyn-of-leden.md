@@ -1,6 +1,6 @@
 ---
 shortcode: sigynofleden
-name: {full: Sigyn of Leden, aliases: []}
+name: {full: Sigyn of Leden}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: hennigalofcharcaras
-name: {full: Hennigal of Charcaras, aliases: []}
+name: {full: Hennigal of Charcaras}
 type: being
 subType: npc
 tags: []

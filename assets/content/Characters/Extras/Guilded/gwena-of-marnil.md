@@ -1,6 +1,6 @@
 ---
 shortcode: gwenaofmarnil
-name: {full: Gwena of Marnil, aliases: []}
+name: {full: Gwena of Marnil}
 type: being
 subType: npc
 tags: []

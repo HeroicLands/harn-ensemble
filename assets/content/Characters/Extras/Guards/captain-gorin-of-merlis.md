@@ -1,6 +1,6 @@
 ---
 shortcode: captaingorinofmerlis
-name: {full: Captain Gorin of Merlis, aliases: []}
+name: {full: Captain Gorin of Merlis}
 type: being
 subType: npc
 tags: []

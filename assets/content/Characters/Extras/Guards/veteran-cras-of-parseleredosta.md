@@ -1,6 +1,6 @@
 ---
 shortcode: veterancrasofparseleredosta
-name: {full: Veteran Cras of Parseleredosta, aliases: []}
+name: {full: Veteran Cras of Parseleredosta}
 type: being
 subType: npc
 tags: []

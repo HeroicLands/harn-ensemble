@@ -1,6 +1,6 @@
 ---
 shortcode: eraloffulkne
-name: {full: Eral of Fulkne, aliases: []}
+name: {full: Eral of Fulkne}
 type: being
 subType: npc
 tags: []

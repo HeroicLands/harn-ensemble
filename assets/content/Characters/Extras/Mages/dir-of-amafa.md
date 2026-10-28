@@ -1,6 +1,6 @@
 ---
 shortcode: dirofamafa
-name: {full: Dir of Amafa, aliases: []}
+name: {full: Dir of Amafa}
 type: being
 subType: npc
 tags: []

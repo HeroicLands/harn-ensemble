@@ -1,6 +1,6 @@
 ---
 shortcode: girondofelwenalasaka
-name: {full: Girond of Elwenalasaka, aliases: []}
+name: {full: Girond of Elwenalasaka}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: brashainofekair
-name: {full: Brashain of Ekair, aliases: []}
+name: {full: Brashain of Ekair}
 type: being
 subType: npc
 tags: []

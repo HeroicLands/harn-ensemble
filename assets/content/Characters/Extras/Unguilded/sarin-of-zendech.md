@@ -1,6 +1,6 @@
 ---
 shortcode: sarinofzendech
-name: {full: Sarin of Zendech, aliases: []}
+name: {full: Sarin of Zendech}
 type: being
 subType: npc
 tags: []

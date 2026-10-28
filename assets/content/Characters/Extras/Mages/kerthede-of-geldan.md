@@ -1,6 +1,6 @@
 ---
 shortcode: kerthedeofgeldan
-name: {full: Kerthede of Geldan, aliases: []}
+name: {full: Kerthede of Geldan}
 type: being
 subType: npc
 tags: []

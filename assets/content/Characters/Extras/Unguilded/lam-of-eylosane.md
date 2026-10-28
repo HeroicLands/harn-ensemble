@@ -1,6 +1,6 @@
 ---
 shortcode: lamofeylosane
-name: {full: Lam of Eylosane, aliases: []}
+name: {full: Lam of Eylosane}
 type: being
 subType: npc
 tags: []

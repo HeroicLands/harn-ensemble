@@ -1,6 +1,6 @@
 ---
 shortcode: captainjerebalofaeb
-name: {full: Captain Jerebal of Aeb, aliases: []}
+name: {full: Captain Jerebal of Aeb}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: lirofsaldir
-name: {full: Lir of Saldir, aliases: []}
+name: {full: Lir of Saldir}
 type: being
 subType: npc
 tags: []

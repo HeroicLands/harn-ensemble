@@ -1,6 +1,6 @@
 ---
 shortcode: durkaofobel
-name: {full: Durka of Obel, aliases: []}
+name: {full: Durka of Obel}
 type: being
 subType: npc
 tags: []

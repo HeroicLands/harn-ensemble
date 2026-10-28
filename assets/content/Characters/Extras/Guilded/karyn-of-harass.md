@@ -1,6 +1,6 @@
 ---
 shortcode: karynofharass
-name: {full: Karyn of Harass, aliases: []}
+name: {full: Karyn of Harass}
 type: being
 subType: npc
 tags: []

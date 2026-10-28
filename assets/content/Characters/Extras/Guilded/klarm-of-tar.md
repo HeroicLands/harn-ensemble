@@ -1,6 +1,6 @@
 ---
 shortcode: klarmoftar
-name: {full: Klarm of Tar, aliases: []}
+name: {full: Klarm of Tar}
 type: being
 subType: npc
 tags: []

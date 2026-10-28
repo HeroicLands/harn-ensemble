@@ -1,6 +1,6 @@
 ---
 shortcode: gorsinelleofplaemen
-name: {full: Gorsinelle of Plaemen, aliases: []}
+name: {full: Gorsinelle of Plaemen}
 type: being
 subType: npc
 tags: []

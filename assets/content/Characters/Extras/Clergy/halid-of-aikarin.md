@@ -1,6 +1,6 @@
 ---
 shortcode: halidofaikarin
-name: {full: Halid of Aikarin, aliases: []}
+name: {full: Halid of Aikarin}
 type: being
 subType: npc
 tags: []

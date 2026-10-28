@@ -1,6 +1,6 @@
 ---
 shortcode: punatgenofdon
-name: {full: Punatgen of Don, aliases: []}
+name: {full: Punatgen of Don}
 type: being
 subType: npc
 tags: []

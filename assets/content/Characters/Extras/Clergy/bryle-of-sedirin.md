@@ -1,6 +1,6 @@
 ---
 shortcode: bryleofsedirin
-name: {full: Bryle of Sedirin, aliases: []}
+name: {full: Bryle of Sedirin}
 type: being
 subType: npc
 tags: []

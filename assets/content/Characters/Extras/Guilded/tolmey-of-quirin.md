@@ -1,6 +1,6 @@
 ---
 shortcode: tolmeyofquirin
-name: {full: Tolmey of Quirin, aliases: []}
+name: {full: Tolmey of Quirin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: sheofpayensen
-name: {full: She of Payensen, aliases: []}
+name: {full: She of Payensen}
 type: being
 subType: npc
 tags: []

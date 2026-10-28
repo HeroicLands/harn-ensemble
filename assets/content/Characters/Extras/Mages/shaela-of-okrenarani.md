@@ -1,6 +1,6 @@
 ---
 shortcode: shaelaofokrenarani
-name: {full: Shaela of Okrenarani, aliases: []}
+name: {full: Shaela of Okrenarani}
 type: being
 subType: npc
 tags: []

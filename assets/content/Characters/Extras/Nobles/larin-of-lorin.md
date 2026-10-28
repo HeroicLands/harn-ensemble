@@ -1,6 +1,6 @@
 ---
 shortcode: larinoflorin
-name: {full: Larin of Lorin, aliases: []}
+name: {full: Larin of Lorin}
 type: being
 subType: npc
 tags: []

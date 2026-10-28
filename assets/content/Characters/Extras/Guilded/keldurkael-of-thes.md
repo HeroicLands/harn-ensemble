@@ -1,6 +1,6 @@
 ---
 shortcode: keldurkaelofthes
-name: {full: Keldurkael of Thes, aliases: []}
+name: {full: Keldurkael of Thes}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: heraofirin
-name: {full: Hera of Irin, aliases: []}
+name: {full: Hera of Irin}
 type: being
 subType: npc
 tags: []

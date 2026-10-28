@@ -1,6 +1,6 @@
 ---
 shortcode: filtheflutist
-name: {full: Fil the Flutist, aliases: []}
+name: {full: Fil the Flutist}
 type: being
 subType: character
 tags: []

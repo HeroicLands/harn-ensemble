@@ -1,6 +1,6 @@
 ---
 shortcode: lajanaofdyreborskin
-name: {full: Lajana of Dyreborskin, aliases: []}
+name: {full: Lajana of Dyreborskin}
 type: being
 subType: npc
 tags: []

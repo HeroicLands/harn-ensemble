@@ -1,6 +1,6 @@
 ---
 shortcode: gruldelofkar
-name: {full: Gruldel of Kar, aliases: []}
+name: {full: Gruldel of Kar}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: dourilofpasenal
-name: {full: Douril of Pasenal, aliases: []}
+name: {full: Douril of Pasenal}
 type: being
 subType: npc
 tags: []

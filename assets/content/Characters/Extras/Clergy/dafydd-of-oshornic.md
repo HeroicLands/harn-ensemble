@@ -1,6 +1,6 @@
 ---
 shortcode: dafyddofoshornic
-name: {full: Dafydd of Oshornic, aliases: []}
+name: {full: Dafydd of Oshornic}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: serenelleofgevrael
-name: {full: Serenelle of Gevrael, aliases: []}
+name: {full: Serenelle of Gevrael}
 type: being
 subType: npc
 tags: []

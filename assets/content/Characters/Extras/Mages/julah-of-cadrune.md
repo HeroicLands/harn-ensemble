@@ -1,6 +1,6 @@
 ---
 shortcode: julahofcadrune
-name: {full: Julah of Cadrune, aliases: []}
+name: {full: Julah of Cadrune}
 type: being
 subType: npc
 tags: []

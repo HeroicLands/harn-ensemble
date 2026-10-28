@@ -1,6 +1,6 @@
 ---
 shortcode: braspenofamlugior
-name: {full: Braspen of Amlugior, aliases: []}
+name: {full: Braspen of Amlugior}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: erelaofsethade
-name: {full: Erela of Sethade, aliases: []}
+name: {full: Erela of Sethade}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: semisofokren
-name: {full: Semis of Okren, aliases: []}
+name: {full: Semis of Okren}
 type: being
 subType: npc
 tags: []

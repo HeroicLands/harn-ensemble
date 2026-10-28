@@ -1,6 +1,6 @@
 ---
 shortcode: rylweofokren
-name: {full: Rylwe of Okren, aliases: []}
+name: {full: Rylwe of Okren}
 type: being
 subType: npc
 tags: []

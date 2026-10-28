@@ -1,6 +1,6 @@
 ---
 shortcode: grulderienelleofrikarbena
-name: {full: Grulderienelle of Rikarbena, aliases: []}
+name: {full: Grulderienelle of Rikarbena}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: masyneofwenal
-name: {full: Masyne of Wenal, aliases: []}
+name: {full: Masyne of Wenal}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: kistyneofwethen
-name: {full: Kistyne of Wethen, aliases: []}
+name: {full: Kistyne of Wethen}
 type: being
 subType: npc
 tags: []

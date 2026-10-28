@@ -1,6 +1,6 @@
 ---
 shortcode: sheofpord
-name: {full: She of Pord, aliases: []}
+name: {full: She of Pord}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gwenioferlesh
-name: {full: Gweni of Erlesh, aliases: []}
+name: {full: Gweni of Erlesh}
 type: being
 subType: npc
 tags: []

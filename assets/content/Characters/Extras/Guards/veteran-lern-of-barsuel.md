@@ -1,6 +1,6 @@
 ---
 shortcode: veteranlernofbarsuel
-name: {full: Veteran Lern of Barsuel, aliases: []}
+name: {full: Veteran Lern of Barsuel}
 type: being
 subType: npc
 tags: []

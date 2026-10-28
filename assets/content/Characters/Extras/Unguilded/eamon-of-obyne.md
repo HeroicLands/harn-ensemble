@@ -1,6 +1,6 @@
 ---
 shortcode: eamonofobyne
-name: {full: Eamon of Obyne, aliases: []}
+name: {full: Eamon of Obyne}
 type: being
 subType: npc
 tags: []

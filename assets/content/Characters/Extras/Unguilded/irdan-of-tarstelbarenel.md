@@ -1,6 +1,6 @@
 ---
 shortcode: irdanoftarstelbarenel
-name: {full: Irdan of Tarstelbarenel, aliases: []}
+name: {full: Irdan of Tarstelbarenel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: melinofiaras
-name: {full: Melin of Iaras, aliases: []}
+name: {full: Melin of Iaras}
 type: being
 subType: npc
 tags: []

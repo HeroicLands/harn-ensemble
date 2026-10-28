@@ -1,6 +1,6 @@
 ---
 shortcode: hobiroferrum
-name: {full: Hobir of Errum, aliases: []}
+name: {full: Hobir of Errum}
 type: being
 subType: npc
 tags: []

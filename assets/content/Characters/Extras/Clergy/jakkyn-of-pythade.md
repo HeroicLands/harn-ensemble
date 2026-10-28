@@ -1,6 +1,6 @@
 ---
 shortcode: jakkynofpythade
-name: {full: Jakkyn of Pythade, aliases: []}
+name: {full: Jakkyn of Pythade}
 type: being
 subType: npc
 tags: []

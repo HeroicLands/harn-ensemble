@@ -1,6 +1,6 @@
 ---
 shortcode: garilofintrenalir
-name: {full: Garil of Intrenalir, aliases: []}
+name: {full: Garil of Intrenalir}
 type: being
 subType: npc
 tags: []

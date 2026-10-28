@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofparsel
-name: {full: Segina of Parsel, aliases: []}
+name: {full: Segina of Parsel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranurlinofhylin
-name: {full: Veteran Urlin of Hylin, aliases: []}
+name: {full: Veteran Urlin of Hylin}
 type: being
 subType: npc
 tags: []

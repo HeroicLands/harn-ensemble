@@ -1,6 +1,6 @@
 ---
 shortcode: irdanekofgyll
-name: {full: Irdanek of Gyll, aliases: []}
+name: {full: Irdanek of Gyll}
 type: being
 subType: npc
 tags: []

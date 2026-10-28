@@ -1,6 +1,6 @@
 ---
 shortcode: bresynofibine
-name: {full: Bresyn of Ibine, aliases: []}
+name: {full: Bresyn of Ibine}
 type: being
 subType: npc
 tags: []

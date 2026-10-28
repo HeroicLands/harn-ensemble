@@ -1,6 +1,6 @@
 ---
 shortcode: saryseofavordas
-name: {full: Saryse of Avordas, aliases: []}
+name: {full: Saryse of Avordas}
 type: being
 subType: npc
 tags: []

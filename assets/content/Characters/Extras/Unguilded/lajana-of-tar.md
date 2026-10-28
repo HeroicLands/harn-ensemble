@@ -1,6 +1,6 @@
 ---
 shortcode: lajanaoftar
-name: {full: Lajana of Tar, aliases: []}
+name: {full: Lajana of Tar}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: boranaoferlim
-name: {full: Borana of Erlim, aliases: []}
+name: {full: Borana of Erlim}
 type: being
 subType: npc
 tags: []

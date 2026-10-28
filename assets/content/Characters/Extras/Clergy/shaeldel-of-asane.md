@@ -1,6 +1,6 @@
 ---
 shortcode: shaeldelofasane
-name: {full: Shaeldel of Asane, aliases: []}
+name: {full: Shaeldel of Asane}
 type: being
 subType: npc
 tags: []

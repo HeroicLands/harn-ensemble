@@ -1,6 +1,6 @@
 ---
 shortcode: cazaradofasaka
-name: {full: Cazarad of Asaka, aliases: []}
+name: {full: Cazarad of Asaka}
 type: being
 subType: npc
 tags: []

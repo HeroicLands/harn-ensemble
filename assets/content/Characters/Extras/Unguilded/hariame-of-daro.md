@@ -1,6 +1,6 @@
 ---
 shortcode: hariameofdaro
-name: {full: Hariame of Daro, aliases: []}
+name: {full: Hariame of Daro}
 type: being
 subType: npc
 tags: []

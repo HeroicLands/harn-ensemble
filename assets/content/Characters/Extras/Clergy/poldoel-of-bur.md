@@ -1,6 +1,6 @@
 ---
 shortcode: poldoelofbur
-name: {full: Poldoel of Bur, aliases: []}
+name: {full: Poldoel of Bur}
 type: being
 subType: npc
 tags: []

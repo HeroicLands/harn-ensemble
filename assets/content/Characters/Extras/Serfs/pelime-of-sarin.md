@@ -1,6 +1,6 @@
 ---
 shortcode: pelimeofsarin
-name: {full: Pelime of Sarin, aliases: []}
+name: {full: Pelime of Sarin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: albalnyofyisgaradas
-name: {full: Albalny of Yisgaradas, aliases: []}
+name: {full: Albalny of Yisgaradas}
 type: being
 subType: npc
 tags: []

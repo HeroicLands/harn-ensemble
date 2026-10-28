@@ -1,6 +1,6 @@
 ---
 shortcode: sheloftobira
-name: {full: Shel of Tobira, aliases: []}
+name: {full: Shel of Tobira}
 type: being
 subType: npc
 tags: []

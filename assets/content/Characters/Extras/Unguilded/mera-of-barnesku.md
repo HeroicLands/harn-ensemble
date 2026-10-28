@@ -1,6 +1,6 @@
 ---
 shortcode: meraofbarnesku
-name: {full: Mera of Barnesku, aliases: []}
+name: {full: Mera of Barnesku}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: loridofashelya
-name: {full: Lorid of Ashelya, aliases: []}
+name: {full: Lorid of Ashelya}
 type: being
 subType: npc
 tags: []

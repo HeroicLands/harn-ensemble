@@ -1,6 +1,6 @@
 ---
 shortcode: ylina
-name: {full: Ylina, aliases: []}
+name: {full: Ylina}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: dickonofarmele
-name: {full: Dickon of Armele, aliases: []}
+name: {full: Dickon of Armele}
 type: being
 subType: npc
 tags: []

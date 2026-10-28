@@ -1,6 +1,6 @@
 ---
 shortcode: jolaynofmund
-name: {full: Jolayn of Mund, aliases: []}
+name: {full: Jolayn of Mund}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: edirynofuerthen
-name: {full: Ediryn of Uerthen, aliases: []}
+name: {full: Ediryn of Uerthen}
 type: being
 subType: npc
 tags: []

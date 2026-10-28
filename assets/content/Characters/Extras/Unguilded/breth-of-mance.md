@@ -1,6 +1,6 @@
 ---
 shortcode: brethofmance
-name: {full: Breth of Mance, aliases: []}
+name: {full: Breth of Mance}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: myaofrisalsin
-name: {full: Mya of Risalsin, aliases: []}
+name: {full: Mya of Risalsin}
 type: being
 subType: character
 tags: []

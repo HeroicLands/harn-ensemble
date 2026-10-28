@@ -1,6 +1,6 @@
 ---
 shortcode: zuiqueofwethale
-name: {full: Zuique of Wethale, aliases: []}
+name: {full: Zuique of Wethale}
 type: being
 subType: npc
 tags: []

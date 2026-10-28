@@ -1,6 +1,6 @@
 ---
 shortcode: staofquardan
-name: {full: Sta of Quardan, aliases: []}
+name: {full: Sta of Quardan}
 type: being
 subType: npc
 tags: []

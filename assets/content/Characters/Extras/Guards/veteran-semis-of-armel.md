@@ -1,6 +1,6 @@
 ---
 shortcode: veteransemisofarmel
-name: {full: Veteran Semis of Armel, aliases: []}
+name: {full: Veteran Semis of Armel}
 type: being
 subType: npc
 tags: []

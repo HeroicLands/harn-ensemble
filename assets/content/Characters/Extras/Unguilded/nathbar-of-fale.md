@@ -1,6 +1,6 @@
 ---
 shortcode: nathbaroffale
-name: {full: Nathbar of Fale, aliases: []}
+name: {full: Nathbar of Fale}
 type: being
 subType: npc
 tags: []

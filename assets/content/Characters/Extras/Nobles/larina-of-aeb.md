@@ -1,6 +1,6 @@
 ---
 shortcode: larinaofaeb
-name: {full: Larina of Aeb, aliases: []}
+name: {full: Larina of Aeb}
 type: being
 subType: npc
 tags: []

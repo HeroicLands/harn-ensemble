@@ -1,6 +1,6 @@
 ---
 shortcode: harquedaofkalddan
-name: {full: Harqueda of Kalddan, aliases: []}
+name: {full: Harqueda of Kalddan}
 type: being
 subType: npc
 tags: []

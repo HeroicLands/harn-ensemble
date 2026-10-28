@@ -1,6 +1,6 @@
 ---
 shortcode: karnofaweil
-name: {full: Karn of Aweil, aliases: []}
+name: {full: Karn of Aweil}
 type: being
 subType: npc
 tags: []

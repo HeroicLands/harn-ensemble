@@ -1,6 +1,6 @@
 ---
 shortcode: klarinofalwendech
-name: {full: Klarin of Alwendech, aliases: []}
+name: {full: Klarin of Alwendech}
 type: being
 subType: npc
 tags: []

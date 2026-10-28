@@ -1,6 +1,6 @@
 ---
 shortcode: hadahofslarad
-name: {full: Hadah of Slarad, aliases: []}
+name: {full: Hadah of Slarad}
 type: being
 subType: npc
 tags: []

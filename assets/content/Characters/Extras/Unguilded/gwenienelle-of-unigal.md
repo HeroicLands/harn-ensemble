@@ -1,6 +1,6 @@
 ---
 shortcode: gwenienelleofunigal
-name: {full: Gwenienelle of Unigal, aliases: []}
+name: {full: Gwenienelle of Unigal}
 type: being
 subType: npc
 tags: []

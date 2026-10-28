@@ -1,6 +1,6 @@
 ---
 shortcode: kalinelleofsediel
-name: {full: Kalinelle of Sediel, aliases: []}
+name: {full: Kalinelle of Sediel}
 type: being
 subType: npc
 tags: []

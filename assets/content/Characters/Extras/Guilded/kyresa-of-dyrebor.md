@@ -1,6 +1,6 @@
 ---
 shortcode: kyresaofdyrebor
-name: {full: Kyresa of Dyrebor, aliases: []}
+name: {full: Kyresa of Dyrebor}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: quertewnofhilta
-name: {full: Quertewn of Hilta, aliases: []}
+name: {full: Quertewn of Hilta}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: kodarighoftonara
-name: {full: Kodarigh of Tonara, aliases: []}
+name: {full: Kodarigh of Tonara}
 type: being
 subType: npc
 tags: []

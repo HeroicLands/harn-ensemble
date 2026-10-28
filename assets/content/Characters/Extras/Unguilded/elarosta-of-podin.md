@@ -1,6 +1,6 @@
 ---
 shortcode: elarostaofpodin
-name: {full: Elarosta of Podin, aliases: []}
+name: {full: Elarosta of Podin}
 type: being
 subType: npc
 tags: []

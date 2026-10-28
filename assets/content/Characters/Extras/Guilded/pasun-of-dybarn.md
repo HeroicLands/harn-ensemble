@@ -1,6 +1,6 @@
 ---
 shortcode: pasunofdybarn
-name: {full: Pasun of Dybarn, aliases: []}
+name: {full: Pasun of Dybarn}
 type: being
 subType: npc
 tags: []

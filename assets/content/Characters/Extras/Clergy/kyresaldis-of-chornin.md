@@ -1,6 +1,6 @@
 ---
 shortcode: kyresaldisofchornin
-name: {full: Kyresaldis of Chornin, aliases: []}
+name: {full: Kyresaldis of Chornin}
 type: being
 subType: npc
 tags: []

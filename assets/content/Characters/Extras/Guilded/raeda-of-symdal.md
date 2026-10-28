@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofsymdal
-name: {full: Raeda of Symdal, aliases: []}
+name: {full: Raeda of Symdal}
 type: being
 subType: npc
 tags: []

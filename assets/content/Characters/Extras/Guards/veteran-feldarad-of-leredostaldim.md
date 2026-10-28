@@ -1,6 +1,6 @@
 ---
 shortcode: veteranfeldaradofleredostaldim
-name: {full: Veteran Feldarad of Leredostaldim, aliases: []}
+name: {full: Veteran Feldarad of Leredostaldim}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: hobirofverien
-name: {full: Hobir of Verien, aliases: []}
+name: {full: Hobir of Verien}
 type: being
 subType: npc
 tags: []

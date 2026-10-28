@@ -1,6 +1,6 @@
 ---
 shortcode: rokkiofjere
-name: {full: Rokki of Jere, aliases: []}
+name: {full: Rokki of Jere}
 type: being
 subType: npc
 tags: []

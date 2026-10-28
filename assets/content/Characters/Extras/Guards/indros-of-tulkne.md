@@ -1,6 +1,6 @@
 ---
 shortcode: indrosoftulkne
-name: {full: Indros of Tulkne, aliases: []}
+name: {full: Indros of Tulkne}
 type: being
 subType: npc
 tags: []

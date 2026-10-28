@@ -1,6 +1,6 @@
 ---
 shortcode: helisaoflorieldesaan
-name: {full: Helisa of Lorieldesaan, aliases: []}
+name: {full: Helisa of Lorieldesaan}
 type: being
 subType: npc
 tags: []

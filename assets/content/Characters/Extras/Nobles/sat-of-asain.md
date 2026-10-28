@@ -1,6 +1,6 @@
 ---
 shortcode: satofasain
-name: {full: Sat of Asain, aliases: []}
+name: {full: Sat of Asain}
 type: being
 subType: npc
 tags: []

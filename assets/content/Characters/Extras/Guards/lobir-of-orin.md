@@ -1,6 +1,6 @@
 ---
 shortcode: lobiroforin
-name: {full: Lobir of Orin, aliases: []}
+name: {full: Lobir of Orin}
 type: being
 subType: npc
 tags: []

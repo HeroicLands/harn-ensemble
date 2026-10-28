@@ -1,6 +1,6 @@
 ---
 shortcode: utheromofwesaldire
-name: {full: Utherom of Wesaldire, aliases: []}
+name: {full: Utherom of Wesaldire}
 type: being
 subType: npc
 tags: []

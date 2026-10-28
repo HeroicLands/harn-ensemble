@@ -1,6 +1,6 @@
 ---
 shortcode: veteranquedaofasane
-name: {full: Veteran Queda of Asane, aliases: []}
+name: {full: Veteran Queda of Asane}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tabeas
-name: {full: Tabeas, aliases: []}
+name: {full: Tabeas}
 type: being
 subType: character
 tags: []

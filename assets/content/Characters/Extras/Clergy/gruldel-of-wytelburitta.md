@@ -1,6 +1,6 @@
 ---
 shortcode: gruldelofwytelburitta
-name: {full: Gruldel of Wytelburitta, aliases: []}
+name: {full: Gruldel of Wytelburitta}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tarkaofjurbosq
-name: {full: Tarka of Jurbosq, aliases: []}
+name: {full: Tarka of Jurbosq}
 type: being
 subType: npc
 tags: []

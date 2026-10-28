@@ -1,6 +1,6 @@
 ---
 shortcode: kesofpthelya
-name: {full: Kes of Pthelya, aliases: []}
+name: {full: Kes of Pthelya}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: brethasofpythsel
-name: {full: Brethas of Pythsel, aliases: []}
+name: {full: Brethas of Pythsel}
 type: being
 subType: npc
 tags: []

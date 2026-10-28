@@ -1,6 +1,6 @@
 ---
 shortcode: andofyalesh
-name: {full: And of Yalesh, aliases: []}
+name: {full: And of Yalesh}
 type: being
 subType: npc
 tags: []

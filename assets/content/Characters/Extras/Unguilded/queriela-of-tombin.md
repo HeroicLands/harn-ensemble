@@ -1,6 +1,6 @@
 ---
 shortcode: querielaoftombin
-name: {full: Queriela of Tombin, aliases: []}
+name: {full: Queriela of Tombin}
 type: being
 subType: npc
 tags: []

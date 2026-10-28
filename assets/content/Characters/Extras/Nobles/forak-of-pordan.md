@@ -1,6 +1,6 @@
 ---
 shortcode: forakofpordan
-name: {full: Forak of Pordan, aliases: []}
+name: {full: Forak of Pordan}
 type: being
 subType: npc
 tags: []

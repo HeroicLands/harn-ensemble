@@ -1,6 +1,6 @@
 ---
 shortcode: illicofkrollater
-name: {full: Illic of Krollater, aliases: []}
+name: {full: Illic of Krollater}
 type: being
 subType: npc
 tags: []

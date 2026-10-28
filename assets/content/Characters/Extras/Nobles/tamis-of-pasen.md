@@ -1,6 +1,6 @@
 ---
 shortcode: tamisofpasen
-name: {full: Tamis of Pasen, aliases: []}
+name: {full: Tamis of Pasen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: forabainofasaka
-name: {full: Forabain of Asaka, aliases: []}
+name: {full: Forabain of Asaka}
 type: being
 subType: npc
 tags: []

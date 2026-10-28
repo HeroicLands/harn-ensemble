@@ -1,6 +1,6 @@
 ---
 shortcode: jakkynofobelar
-name: {full: Jakkyn of Obelar, aliases: []}
+name: {full: Jakkyn of Obelar}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: norbinofmerke
-name: {full: Norbin of Merke, aliases: []}
+name: {full: Norbin of Merke}
 type: being
 subType: npc
 tags: []

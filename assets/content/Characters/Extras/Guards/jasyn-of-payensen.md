@@ -1,6 +1,6 @@
 ---
 shortcode: jasynofpayensen
-name: {full: Jasyn of Payensen, aliases: []}
+name: {full: Jasyn of Payensen}
 type: being
 subType: npc
 tags: []

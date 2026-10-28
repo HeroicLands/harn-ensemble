@@ -1,6 +1,6 @@
 ---
 shortcode: herildoffraul
-name: {full: Herild of Fraul, aliases: []}
+name: {full: Herild of Fraul}
 type: being
 subType: npc
 tags: []

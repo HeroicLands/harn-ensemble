@@ -1,6 +1,6 @@
 ---
 shortcode: bran
-name: {full: Bran, aliases: []}
+name: {full: Bran}
 type: being
 subType: character
 tags: []

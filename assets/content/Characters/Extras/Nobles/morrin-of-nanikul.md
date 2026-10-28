@@ -1,6 +1,6 @@
 ---
 shortcode: morrinofnanikul
-name: {full: Morrin of Nanikul, aliases: []}
+name: {full: Morrin of Nanikul}
 type: being
 subType: npc
 tags: []

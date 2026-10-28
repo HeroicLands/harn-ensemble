@@ -1,6 +1,6 @@
 ---
 shortcode: orinofbantarsuel
-name: {full: Orin of Bantarsuel, aliases: []}
+name: {full: Orin of Bantarsuel}
 type: being
 subType: npc
 tags: []

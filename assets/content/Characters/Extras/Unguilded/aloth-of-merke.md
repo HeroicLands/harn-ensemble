@@ -1,6 +1,6 @@
 ---
 shortcode: alothofmerke
-name: {full: Aloth of Merke, aliases: []}
+name: {full: Aloth of Merke}
 type: being
 subType: npc
 tags: []

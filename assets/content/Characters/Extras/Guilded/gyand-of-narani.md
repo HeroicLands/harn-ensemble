@@ -1,6 +1,6 @@
 ---
 shortcode: gyandofnarani
-name: {full: Gyand of Narani, aliases: []}
+name: {full: Gyand of Narani}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofelen
-name: {full: Tulah of Elen, aliases: []}
+name: {full: Tulah of Elen}
 type: being
 subType: npc
 tags: []

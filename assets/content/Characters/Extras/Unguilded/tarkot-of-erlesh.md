@@ -1,6 +1,6 @@
 ---
 shortcode: tarkotoferlesh
-name: {full: Tarkot of Erlesh, aliases: []}
+name: {full: Tarkot of Erlesh}
 type: being
 subType: npc
 tags: []

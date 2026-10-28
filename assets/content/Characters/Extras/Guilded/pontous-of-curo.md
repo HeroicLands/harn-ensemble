@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofcuro
-name: {full: Pontous of Curo, aliases: []}
+name: {full: Pontous of Curo}
 type: being
 subType: npc
 tags: []

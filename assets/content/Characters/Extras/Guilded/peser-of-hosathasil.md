@@ -1,6 +1,6 @@
 ---
 shortcode: peserofhosathasil
-name: {full: Peser of Hosathasil, aliases: []}
+name: {full: Peser of Hosathasil}
 type: being
 subType: npc
 tags: []

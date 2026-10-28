@@ -1,6 +1,6 @@
 ---
 shortcode: perlaofeverda
-name: {full: Perla of Everda, aliases: []}
+name: {full: Perla of Everda}
 type: being
 subType: npc
 tags: []

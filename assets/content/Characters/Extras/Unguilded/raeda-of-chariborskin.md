@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofchariborskin
-name: {full: Raeda of Chariborskin, aliases: []}
+name: {full: Raeda of Chariborskin}
 type: being
 subType: npc
 tags: []

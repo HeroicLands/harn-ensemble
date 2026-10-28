@@ -1,6 +1,6 @@
 ---
 shortcode: kolydofthornic
-name: {full: Kolyd of Thornic, aliases: []}
+name: {full: Kolyd of Thornic}
 type: being
 subType: npc
 tags: []

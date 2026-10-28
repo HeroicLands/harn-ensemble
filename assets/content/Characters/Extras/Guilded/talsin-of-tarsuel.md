@@ -1,6 +1,6 @@
 ---
 shortcode: talsinoftarsuel
-name: {full: Talsin of Tarsuel, aliases: []}
+name: {full: Talsin of Tarsuel}
 type: being
 subType: npc
 tags: []

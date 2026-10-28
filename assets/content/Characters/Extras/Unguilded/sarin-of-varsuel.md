@@ -1,6 +1,6 @@
 ---
 shortcode: sarinofvarsuel
-name: {full: Sarin of Varsuel, aliases: []}
+name: {full: Sarin of Varsuel}
 type: being
 subType: npc
 tags: []

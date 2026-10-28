@@ -1,6 +1,6 @@
 ---
 shortcode: teldarakanofonpartus
-name: {full: Teldarakan of Onpartus, aliases: []}
+name: {full: Teldarakan of Onpartus}
 type: being
 subType: npc
 tags: []

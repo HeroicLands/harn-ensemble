@@ -1,6 +1,6 @@
 ---
 shortcode: veteranmoskiloftrochin
-name: {full: Veteran Moskil of Trochin, aliases: []}
+name: {full: Veteran Moskil of Trochin}
 type: being
 subType: npc
 tags: []

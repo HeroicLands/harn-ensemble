@@ -1,6 +1,6 @@
 ---
 shortcode: sarinaoftabralgurth
-name: {full: Sarina of Tabralgurth, aliases: []}
+name: {full: Sarina of Tabralgurth}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: perlinaofarion
-name: {full: Perlina of Arion, aliases: []}
+name: {full: Perlina of Arion}
 type: being
 subType: npc
 tags: []

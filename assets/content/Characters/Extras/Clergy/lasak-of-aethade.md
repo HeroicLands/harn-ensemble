@@ -1,6 +1,6 @@
 ---
 shortcode: lasakofaethade
-name: {full: Lasak of Aethade, aliases: []}
+name: {full: Lasak of Aethade}
 type: being
 subType: npc
 tags: []

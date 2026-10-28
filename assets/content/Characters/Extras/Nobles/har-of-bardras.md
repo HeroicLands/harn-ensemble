@@ -1,6 +1,6 @@
 ---
 shortcode: harofbardras
-name: {full: Har of Bardras, aliases: []}
+name: {full: Har of Bardras}
 type: being
 subType: npc
 tags: []

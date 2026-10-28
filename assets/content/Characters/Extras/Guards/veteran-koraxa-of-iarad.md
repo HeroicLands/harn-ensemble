@@ -1,6 +1,6 @@
 ---
 shortcode: veterankoraxaofiarad
-name: {full: Veteran Koraxa of Iarad, aliases: []}
+name: {full: Veteran Koraxa of Iarad}
 type: being
 subType: npc
 tags: []

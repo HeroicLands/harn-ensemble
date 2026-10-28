@@ -1,6 +1,6 @@
 ---
 shortcode: donkey
-name: {full: Donkey, aliases: []}
+name: {full: Donkey}
 type: being
 subType: character
 tags: []

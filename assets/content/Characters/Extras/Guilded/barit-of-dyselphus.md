@@ -1,6 +1,6 @@
 ---
 shortcode: baritofdyselphus
-name: {full: Barit of Dyselphus, aliases: []}
+name: {full: Barit of Dyselphus}
 type: being
 subType: npc
 tags: []

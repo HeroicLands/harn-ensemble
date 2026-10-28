@@ -1,6 +1,6 @@
 ---
 shortcode: lirianofagarin
-name: {full: Lirian of Agarin, aliases: []}
+name: {full: Lirian of Agarin}
 type: being
 subType: npc
 tags: []

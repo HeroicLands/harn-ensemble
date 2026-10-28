@@ -1,6 +1,6 @@
 ---
 shortcode: sereleofmel
-name: {full: Serele of Mel, aliases: []}
+name: {full: Serele of Mel}
 type: being
 subType: npc
 tags: []

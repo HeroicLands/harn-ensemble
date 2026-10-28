@@ -1,6 +1,6 @@
 ---
 shortcode: thokrapalofaethaldron
-name: {full: Thokrapal of Aethaldron, aliases: []}
+name: {full: Thokrapal of Aethaldron}
 type: being
 subType: npc
 tags: []

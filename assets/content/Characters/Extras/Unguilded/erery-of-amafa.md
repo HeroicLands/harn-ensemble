@@ -1,6 +1,6 @@
 ---
 shortcode: ereryofamafa
-name: {full: Erery of Amafa, aliases: []}
+name: {full: Erery of Amafa}
 type: being
 subType: npc
 tags: []

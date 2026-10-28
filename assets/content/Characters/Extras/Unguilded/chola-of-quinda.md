@@ -1,6 +1,6 @@
 ---
 shortcode: cholaofquinda
-name: {full: Chola of Quinda, aliases: []}
+name: {full: Chola of Quinda}
 type: being
 subType: npc
 tags: []

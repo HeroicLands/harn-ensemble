@@ -1,6 +1,6 @@
 ---
 shortcode: kalarostaofcybellyr
-name: {full: Kalarosta of Cybellyr, aliases: []}
+name: {full: Kalarosta of Cybellyr}
 type: being
 subType: npc
 tags: []

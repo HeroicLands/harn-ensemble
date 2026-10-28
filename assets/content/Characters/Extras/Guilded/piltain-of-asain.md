@@ -1,6 +1,6 @@
 ---
 shortcode: piltainofasain
-name: {full: Piltain of Asain, aliases: []}
+name: {full: Piltain of Asain}
 type: being
 subType: npc
 tags: []

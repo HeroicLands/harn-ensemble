@@ -1,6 +1,6 @@
 ---
 shortcode: jerondasharlofeylosath
-name: {full: Jerondasharl of Eylosath, aliases: []}
+name: {full: Jerondasharl of Eylosath}
 type: being
 subType: npc
 tags: []

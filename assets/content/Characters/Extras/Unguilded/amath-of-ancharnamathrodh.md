@@ -1,6 +1,6 @@
 ---
 shortcode: amathofancharnamathrodh
-name: {full: Amath of Ancharnamathrodh, aliases: []}
+name: {full: Amath of Ancharnamathrodh}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: hadyntrildsen
-name: {full: Hadyn Trildsen, aliases: []}
+name: {full: Hadyn Trildsen}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: ardenylofvantarkoff
-name: {full: Ardenyl of Vantarkoff, aliases: []}
+name: {full: Ardenyl of Vantarkoff}
 type: being
 subType: npc
 tags: []

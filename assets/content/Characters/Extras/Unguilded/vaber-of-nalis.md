@@ -1,6 +1,6 @@
 ---
 shortcode: vaberofnalis
-name: {full: Vaber of Nalis, aliases: []}
+name: {full: Vaber of Nalis}
 type: being
 subType: npc
 tags: []

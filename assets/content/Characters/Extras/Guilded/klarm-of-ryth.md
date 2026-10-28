@@ -1,6 +1,6 @@
 ---
 shortcode: klarmofryth
-name: {full: Klarm of Ryth, aliases: []}
+name: {full: Klarm of Ryth}
 type: being
 subType: npc
 tags: []

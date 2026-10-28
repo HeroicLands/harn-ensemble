@@ -1,6 +1,6 @@
 ---
 shortcode: yaelaofhomslow
-name: {full: Yaela of Homslow, aliases: []}
+name: {full: Yaela of Homslow}
 type: being
 subType: npc
 tags: []

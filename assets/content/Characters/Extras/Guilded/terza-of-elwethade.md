@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofelwethade
-name: {full: Terza of Elwethade, aliases: []}
+name: {full: Terza of Elwethade}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: orthiasofparsin
-name: {full: Orthias of Parsin, aliases: []}
+name: {full: Orthias of Parsin}
 type: being
 subType: npc
 tags: []

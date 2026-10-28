@@ -1,6 +1,6 @@
 ---
 shortcode: evenodelareenofjurbosq
-name: {full: Evenodelareen of Jurbosq, aliases: []}
+name: {full: Evenodelareen of Jurbosq}
 type: being
 subType: npc
 tags: []

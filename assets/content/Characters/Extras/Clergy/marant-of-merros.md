@@ -1,6 +1,6 @@
 ---
 shortcode: marantofmerros
-name: {full: Marant of Merros, aliases: []}
+name: {full: Marant of Merros}
 type: being
 subType: npc
 tags: []

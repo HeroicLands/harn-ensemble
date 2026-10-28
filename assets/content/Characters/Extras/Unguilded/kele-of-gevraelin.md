@@ -1,6 +1,6 @@
 ---
 shortcode: keleofgevraelin
-name: {full: Kele of Gevraelin, aliases: []}
+name: {full: Kele of Gevraelin}
 type: being
 subType: npc
 tags: []

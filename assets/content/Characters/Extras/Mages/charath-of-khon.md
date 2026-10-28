@@ -1,6 +1,6 @@
 ---
 shortcode: charathofkhon
-name: {full: Charath of Khon, aliases: []}
+name: {full: Charath of Khon}
 type: being
 subType: npc
 tags: []

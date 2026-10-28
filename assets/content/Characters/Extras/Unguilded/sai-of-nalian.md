@@ -1,6 +1,6 @@
 ---
 shortcode: saiofnalian
-name: {full: Sai of Nalian, aliases: []}
+name: {full: Sai of Nalian}
 type: being
 subType: npc
 tags: []

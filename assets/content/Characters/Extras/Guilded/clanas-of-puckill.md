@@ -1,6 +1,6 @@
 ---
 shortcode: clanasofpuckill
-name: {full: Clanas of Puckill, aliases: []}
+name: {full: Clanas of Puckill}
 type: being
 subType: npc
 tags: []

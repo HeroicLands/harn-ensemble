@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofesarn
-name: {full: Raeda of Esarn, aliases: []}
+name: {full: Raeda of Esarn}
 type: being
 subType: npc
 tags: []

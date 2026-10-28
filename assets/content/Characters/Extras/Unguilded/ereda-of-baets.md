@@ -1,6 +1,6 @@
 ---
 shortcode: eredaofbaets
-name: {full: Ereda of Baets, aliases: []}
+name: {full: Ereda of Baets}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: captainjellinofsunis
-name: {full: Captain Jellin of Sunis, aliases: []}
+name: {full: Captain Jellin of Sunis}
 type: being
 subType: npc
 tags: []

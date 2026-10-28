@@ -1,6 +1,6 @@
 ---
 shortcode: artanarnalas
-name: {full: Artanar Nalas, aliases: []}
+name: {full: Artanar Nalas}
 type: being
 subType: character
 tags: []

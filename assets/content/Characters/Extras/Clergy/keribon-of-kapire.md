@@ -1,6 +1,6 @@
 ---
 shortcode: keribonofkapire
-name: {full: Keribon of Kapire, aliases: []}
+name: {full: Keribon of Kapire}
 type: being
 subType: npc
 tags: []

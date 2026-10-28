@@ -1,6 +1,6 @@
 ---
 shortcode: kistyneofelesh
-name: {full: Kistyne of Elesh, aliases: []}
+name: {full: Kistyne of Elesh}
 type: being
 subType: npc
 tags: []

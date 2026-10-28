@@ -1,6 +1,6 @@
 ---
 shortcode: solineofdethaen
-name: {full: Soline of Dethaen, aliases: []}
+name: {full: Soline of Dethaen}
 type: being
 subType: npc
 tags: []

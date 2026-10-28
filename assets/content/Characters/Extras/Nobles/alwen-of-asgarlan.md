@@ -1,6 +1,6 @@
 ---
 shortcode: alwenofasgarlan
-name: {full: Alwen of Asgarlan, aliases: []}
+name: {full: Alwen of Asgarlan}
 type: being
 subType: npc
 tags: []

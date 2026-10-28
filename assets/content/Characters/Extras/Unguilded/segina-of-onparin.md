@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofonparin
-name: {full: Segina of Onparin, aliases: []}
+name: {full: Segina of Onparin}
 type: being
 subType: npc
 tags: []

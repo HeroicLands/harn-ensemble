@@ -1,6 +1,6 @@
 ---
 shortcode: querilaoftobilon
-name: {full: Querila of Tobilon, aliases: []}
+name: {full: Querila of Tobilon}
 type: being
 subType: npc
 tags: []

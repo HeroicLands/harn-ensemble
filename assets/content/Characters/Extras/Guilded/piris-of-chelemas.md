@@ -1,6 +1,6 @@
 ---
 shortcode: pirisofchelemas
-name: {full: Piris of Chelemas, aliases: []}
+name: {full: Piris of Chelemas}
 type: being
 subType: npc
 tags: []

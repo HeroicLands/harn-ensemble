@@ -1,6 +1,6 @@
 ---
 shortcode: hemisofaets
-name: {full: Hemis of Aets, aliases: []}
+name: {full: Hemis of Aets}
 type: being
 subType: npc
 tags: []

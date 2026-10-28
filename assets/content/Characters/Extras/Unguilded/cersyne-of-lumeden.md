@@ -1,6 +1,6 @@
 ---
 shortcode: cersyneoflumeden
-name: {full: Cersyne of Lumeden, aliases: []}
+name: {full: Cersyne of Lumeden}
 type: being
 subType: npc
 tags: []

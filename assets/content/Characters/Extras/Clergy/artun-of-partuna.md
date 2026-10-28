@@ -1,6 +1,6 @@
 ---
 shortcode: artunofpartuna
-name: {full: Artun of Partuna, aliases: []}
+name: {full: Artun of Partuna}
 type: being
 subType: npc
 tags: []

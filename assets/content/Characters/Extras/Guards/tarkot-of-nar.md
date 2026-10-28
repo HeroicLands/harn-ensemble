@@ -1,6 +1,6 @@
 ---
 shortcode: tarkotofnar
-name: {full: Tarkot of Nar, aliases: []}
+name: {full: Tarkot of Nar}
 type: being
 subType: npc
 tags: []

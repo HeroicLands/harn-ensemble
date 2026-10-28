@@ -1,6 +1,6 @@
 ---
 shortcode: brasofqatorzin
-name: {full: Bras of Qatorzin, aliases: []}
+name: {full: Bras of Qatorzin}
 type: being
 subType: npc
 tags: []

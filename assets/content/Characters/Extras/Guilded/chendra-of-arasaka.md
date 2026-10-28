@@ -1,6 +1,6 @@
 ---
 shortcode: chendraofarasaka
-name: {full: Chendra of Arasaka, aliases: []}
+name: {full: Chendra of Arasaka}
 type: being
 subType: npc
 tags: []

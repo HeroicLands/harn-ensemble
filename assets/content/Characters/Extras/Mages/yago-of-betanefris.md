@@ -1,6 +1,6 @@
 ---
 shortcode: yagoofbetanefris
-name: {full: Yago of Betanefris, aliases: []}
+name: {full: Yago of Betanefris}
 type: being
 subType: npc
 tags: []

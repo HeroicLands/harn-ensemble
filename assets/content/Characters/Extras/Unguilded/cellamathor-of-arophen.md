@@ -1,6 +1,6 @@
 ---
 shortcode: cellamathorofarophen
-name: {full: Cellamathor of Arophen, aliases: []}
+name: {full: Cellamathor of Arophen}
 type: being
 subType: npc
 tags: []

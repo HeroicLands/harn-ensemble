@@ -1,6 +1,6 @@
 ---
 shortcode: amdirvelchanofalphadassen
-name: {full: Amdirvelchan of Alphadassen, aliases: []}
+name: {full: Amdirvelchan of Alphadassen}
 type: being
 subType: npc
 tags: []

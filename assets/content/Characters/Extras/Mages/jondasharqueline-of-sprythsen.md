@@ -1,6 +1,6 @@
 ---
 shortcode: jondasharquelineofsprythsen
-name: {full: Jondasharqueline of Sprythsen, aliases: []}
+name: {full: Jondasharqueline of Sprythsen}
 type: being
 subType: npc
 tags: []

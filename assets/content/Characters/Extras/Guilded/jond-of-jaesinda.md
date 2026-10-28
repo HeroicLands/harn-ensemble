@@ -1,6 +1,6 @@
 ---
 shortcode: jondofjaesinda
-name: {full: Jond of Jaesinda, aliases: []}
+name: {full: Jond of Jaesinda}
 type: being
 subType: npc
 tags: []

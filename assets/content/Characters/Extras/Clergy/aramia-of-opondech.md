@@ -1,6 +1,6 @@
 ---
 shortcode: aramiaofopondech
-name: {full: Aramia of Opondech, aliases: []}
+name: {full: Aramia of Opondech}
 type: being
 subType: npc
 tags: []

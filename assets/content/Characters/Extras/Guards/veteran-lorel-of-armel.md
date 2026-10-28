@@ -1,6 +1,6 @@
 ---
 shortcode: veteranlorelofarmel
-name: {full: Veteran Lorel of Armel, aliases: []}
+name: {full: Veteran Lorel of Armel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gaetaneofrystelburitta
-name: {full: Gaetane of Rystelburitta, aliases: []}
+name: {full: Gaetane of Rystelburitta}
 type: being
 subType: npc
 tags: []

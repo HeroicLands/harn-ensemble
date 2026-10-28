@@ -1,6 +1,6 @@
 ---
 shortcode: tulaofsethaleh
-name: {full: Tula of Sethaleh, aliases: []}
+name: {full: Tula of Sethaleh}
 type: being
 subType: npc
 tags: []

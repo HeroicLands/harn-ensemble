@@ -1,6 +1,6 @@
 ---
 shortcode: pelisofjeredostaldin
-name: {full: Pelis of Jeredostaldin, aliases: []}
+name: {full: Pelis of Jeredostaldin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: geacelshinofkar
-name: {full: Geacelshin of Kar, aliases: []}
+name: {full: Geacelshin of Kar}
 type: being
 subType: npc
 tags: []

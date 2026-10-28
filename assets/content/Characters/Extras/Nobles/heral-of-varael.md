@@ -1,6 +1,6 @@
 ---
 shortcode: heralofvarael
-name: {full: Heral of Varael, aliases: []}
+name: {full: Heral of Varael}
 type: being
 subType: npc
 tags: []

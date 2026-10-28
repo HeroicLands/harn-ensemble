@@ -1,6 +1,6 @@
 ---
 shortcode: albinofrihale
-name: {full: Albin of Rihale, aliases: []}
+name: {full: Albin of Rihale}
 type: being
 subType: character
 tags: []

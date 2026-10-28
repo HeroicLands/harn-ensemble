@@ -1,6 +1,6 @@
 ---
 shortcode: tamiseneofkyfa
-name: {full: Tamisene of Kyfa, aliases: []}
+name: {full: Tamisene of Kyfa}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelaofarda
-name: {full: Maeghela of Arda, aliases: []}
+name: {full: Maeghela of Arda}
 type: being
 subType: npc
 tags: []

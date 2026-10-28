@@ -1,6 +1,6 @@
 ---
 shortcode: cheselyneofhosane
-name: {full: Cheselyne of Hosane, aliases: []}
+name: {full: Cheselyne of Hosane}
 type: being
 subType: npc
 tags: []

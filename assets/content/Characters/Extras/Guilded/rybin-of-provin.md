@@ -1,6 +1,6 @@
 ---
 shortcode: rybinofprovin
-name: {full: Rybin of Provin, aliases: []}
+name: {full: Rybin of Provin}
 type: being
 subType: npc
 tags: []

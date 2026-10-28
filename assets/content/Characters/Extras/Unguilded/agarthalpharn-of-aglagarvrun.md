@@ -1,6 +1,6 @@
 ---
 shortcode: agarthalpharnofaglagarvrun
-name: {full: Agarthalpharn of Aglagarvrun, aliases: []}
+name: {full: Agarthalpharn of Aglagarvrun}
 type: being
 subType: npc
 tags: []

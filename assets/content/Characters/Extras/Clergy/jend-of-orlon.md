@@ -1,6 +1,6 @@
 ---
 shortcode: jendoforlon
-name: {full: Jend of Orlon, aliases: []}
+name: {full: Jend of Orlon}
 type: being
 subType: npc
 tags: []

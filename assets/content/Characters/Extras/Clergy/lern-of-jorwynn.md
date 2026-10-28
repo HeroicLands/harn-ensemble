@@ -1,6 +1,6 @@
 ---
 shortcode: lernofjorwynn
-name: {full: Lern of Jorwynn, aliases: []}
+name: {full: Lern of Jorwynn}
 type: being
 subType: npc
 tags: []

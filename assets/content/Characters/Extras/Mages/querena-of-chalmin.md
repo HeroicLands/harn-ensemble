@@ -1,6 +1,6 @@
 ---
 shortcode: querenaofchalmin
-name: {full: Querena of Chalmin, aliases: []}
+name: {full: Querena of Chalmin}
 type: being
 subType: npc
 tags: []

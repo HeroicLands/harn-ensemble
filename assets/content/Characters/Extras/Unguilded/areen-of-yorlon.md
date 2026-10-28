@@ -1,6 +1,6 @@
 ---
 shortcode: areenofyorlon
-name: {full: Areen of Yorlon, aliases: []}
+name: {full: Areen of Yorlon}
 type: being
 subType: npc
 tags: []

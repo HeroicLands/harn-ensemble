@@ -1,6 +1,6 @@
 ---
 shortcode: sirrollarddaudrieu
-name: {full: Sir Rollard d'Audrieu, aliases: []}
+name: {full: Sir Rollard d'Audrieu}
 type: being
 subType: character
 tags: []

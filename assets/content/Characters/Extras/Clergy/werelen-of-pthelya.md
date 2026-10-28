@@ -1,6 +1,6 @@
 ---
 shortcode: werelenofpthelya
-name: {full: Werelen of Pthelya, aliases: []}
+name: {full: Werelen of Pthelya}
 type: being
 subType: npc
 tags: []

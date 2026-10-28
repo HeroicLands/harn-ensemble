@@ -1,6 +1,6 @@
 ---
 shortcode: kistyneofhudusin
-name: {full: Kistyne of Hudusin, aliases: []}
+name: {full: Kistyne of Hudusin}
 type: being
 subType: npc
 tags: []

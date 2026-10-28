@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelaseraofcadrune
-name: {full: Maeghelasera of Cadrune, aliases: []}
+name: {full: Maeghelasera of Cadrune}
 type: being
 subType: npc
 tags: []

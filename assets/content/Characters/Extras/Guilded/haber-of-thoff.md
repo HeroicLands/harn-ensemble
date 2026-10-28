@@ -1,6 +1,6 @@
 ---
 shortcode: haberofthoff
-name: {full: Haber of Thoff, aliases: []}
+name: {full: Haber of Thoff}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: pallisaofkyfa
-name: {full: Pallisa of Kyfa, aliases: []}
+name: {full: Pallisa of Kyfa}
 type: being
 subType: npc
 tags: []

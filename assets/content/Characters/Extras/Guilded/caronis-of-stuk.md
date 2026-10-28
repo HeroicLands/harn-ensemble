@@ -1,6 +1,6 @@
 ---
 shortcode: caronisofstuk
-name: {full: Caronis of Stuk, aliases: []}
+name: {full: Caronis of Stuk}
 type: being
 subType: npc
 tags: []

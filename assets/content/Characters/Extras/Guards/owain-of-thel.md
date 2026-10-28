@@ -1,6 +1,6 @@
 ---
 shortcode: owainofthel
-name: {full: Owain of Thel, aliases: []}
+name: {full: Owain of Thel}
 type: being
 subType: npc
 tags: []

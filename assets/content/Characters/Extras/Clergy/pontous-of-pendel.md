@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofpendel
-name: {full: Pontous of Pendel, aliases: []}
+name: {full: Pontous of Pendel}
 type: being
 subType: npc
 tags: []

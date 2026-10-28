@@ -1,6 +1,6 @@
 ---
 shortcode: amathanofamlug
-name: {full: Amathan of Amlug, aliases: []}
+name: {full: Amathan of Amlug}
 type: being
 subType: npc
 tags: []

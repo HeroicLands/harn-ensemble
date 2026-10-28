@@ -1,6 +1,6 @@
 ---
 shortcode: garalofoeif
-name: {full: Garal of Oeif, aliases: []}
+name: {full: Garal of Oeif}
 type: being
 subType: npc
 tags: []

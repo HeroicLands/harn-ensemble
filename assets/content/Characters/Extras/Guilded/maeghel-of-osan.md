@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelofosan
-name: {full: Maeghel of Osan, aliases: []}
+name: {full: Maeghel of Osan}
 type: being
 subType: npc
 tags: []

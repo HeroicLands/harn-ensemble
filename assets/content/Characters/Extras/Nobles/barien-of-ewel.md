@@ -1,6 +1,6 @@
 ---
 shortcode: barienofewel
-name: {full: Barien of Ewel, aliases: []}
+name: {full: Barien of Ewel}
 type: being
 subType: npc
 tags: []

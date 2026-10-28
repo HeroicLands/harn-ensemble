@@ -1,6 +1,6 @@
 ---
 shortcode: adasarathoferlym
-name: {full: Adasarath of Erlym, aliases: []}
+name: {full: Adasarath of Erlym}
 type: being
 subType: npc
 tags: []

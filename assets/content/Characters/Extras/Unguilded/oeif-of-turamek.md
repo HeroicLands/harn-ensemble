@@ -1,6 +1,6 @@
 ---
 shortcode: oeifofturamek
-name: {full: Oeif of Turamek, aliases: []}
+name: {full: Oeif of Turamek}
 type: being
 subType: npc
 tags: []

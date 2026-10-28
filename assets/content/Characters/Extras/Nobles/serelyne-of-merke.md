@@ -1,6 +1,6 @@
 ---
 shortcode: serelyneofmerke
-name: {full: Serelyne of Merke, aliases: []}
+name: {full: Serelyne of Merke}
 type: being
 subType: npc
 tags: []

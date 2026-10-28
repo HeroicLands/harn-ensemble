@@ -1,6 +1,6 @@
 ---
 shortcode: sheofasan
-name: {full: She of Asan, aliases: []}
+name: {full: She of Asan}
 type: being
 subType: npc
 tags: []

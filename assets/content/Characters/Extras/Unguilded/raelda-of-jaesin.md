@@ -1,6 +1,6 @@
 ---
 shortcode: raeldaofjaesin
-name: {full: Raelda of Jaesin, aliases: []}
+name: {full: Raelda of Jaesin}
 type: being
 subType: npc
 tags: []

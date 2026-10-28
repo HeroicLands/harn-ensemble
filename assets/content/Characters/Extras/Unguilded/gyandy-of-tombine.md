@@ -1,6 +1,6 @@
 ---
 shortcode: gyandyoftombine
-name: {full: Gyandy of Tombine, aliases: []}
+name: {full: Gyandy of Tombine}
 type: being
 subType: npc
 tags: []

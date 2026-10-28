@@ -1,6 +1,6 @@
 ---
 shortcode: burkotofaets
-name: {full: Burkot of Aets, aliases: []}
+name: {full: Burkot of Aets}
 type: being
 subType: npc
 tags: []

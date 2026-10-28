@@ -1,6 +1,6 @@
 ---
 shortcode: harabithasisofopondel
-name: {full: Harabithasis of Opondel, aliases: []}
+name: {full: Harabithasis of Opondel}
 type: being
 subType: npc
 tags: []

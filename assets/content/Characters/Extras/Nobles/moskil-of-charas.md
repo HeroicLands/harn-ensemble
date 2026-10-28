@@ -1,6 +1,6 @@
 ---
 shortcode: moskilofcharas
-name: {full: Moskil of Charas, aliases: []}
+name: {full: Moskil of Charas}
 type: being
 subType: npc
 tags: []

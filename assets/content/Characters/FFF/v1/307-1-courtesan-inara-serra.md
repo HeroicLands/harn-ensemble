@@ -1,6 +1,6 @@
 ---
 shortcode: inaraserra
-name: {full: Inara Serra, aliases: []}
+name: {full: Inara Serra}
 type: being
 subType: character
 tags: []

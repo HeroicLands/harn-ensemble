@@ -1,6 +1,6 @@
 ---
 shortcode: jeronisofagarak
-name: {full: Jeronis of Agarak, aliases: []}
+name: {full: Jeronis of Agarak}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jarlofkeryn
-name: {full: Jarl of Keryn, aliases: []}
+name: {full: Jarl of Keryn}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arbrinofcoselway
-name: {full: Arbrin of Coselway, aliases: []}
+name: {full: Arbrin of Coselway}
 type: being
 subType: npc
 tags: []

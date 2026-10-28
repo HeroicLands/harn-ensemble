@@ -1,6 +1,6 @@
 ---
 shortcode: garofarmel
-name: {full: Gar of Armel, aliases: []}
+name: {full: Gar of Armel}
 type: being
 subType: npc
 tags: []

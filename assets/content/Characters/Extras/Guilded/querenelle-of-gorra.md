@@ -1,6 +1,6 @@
 ---
 shortcode: querenelleofgorra
-name: {full: Querenelle of Gorra, aliases: []}
+name: {full: Querenelle of Gorra}
 type: being
 subType: npc
 tags: []

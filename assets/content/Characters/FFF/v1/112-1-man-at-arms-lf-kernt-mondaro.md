@@ -1,6 +1,6 @@
 ---
 shortcode: kerntmondaro
-name: {full: Kernt Mondaro, aliases: []}
+name: {full: Kernt Mondaro}
 type: being
 subType: character
 tags: []

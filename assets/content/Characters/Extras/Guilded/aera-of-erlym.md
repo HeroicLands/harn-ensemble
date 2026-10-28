@@ -1,6 +1,6 @@
 ---
 shortcode: aeraoferlym
-name: {full: Aera of Erlym, aliases: []}
+name: {full: Aera of Erlym}
 type: being
 subType: npc
 tags: []

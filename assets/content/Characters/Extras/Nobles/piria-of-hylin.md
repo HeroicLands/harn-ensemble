@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofhylin
-name: {full: Piria of Hylin, aliases: []}
+name: {full: Piria of Hylin}
 type: being
 subType: npc
 tags: []

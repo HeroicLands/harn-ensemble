@@ -1,6 +1,6 @@
 ---
 shortcode: jaslynofsin
-name: {full: Jaslyn of Sin, aliases: []}
+name: {full: Jaslyn of Sin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: boraneofquarliss
-name: {full: Borane of Quarliss, aliases: []}
+name: {full: Borane of Quarliss}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: barofcharin
-name: {full: Bar of Charin, aliases: []}
+name: {full: Bar of Charin}
 type: being
 subType: npc
 tags: []

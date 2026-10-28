@@ -1,6 +1,6 @@
 ---
 shortcode: illionofmanchi
-name: {full: Illion of Manchi, aliases: []}
+name: {full: Illion of Manchi}
 type: being
 subType: npc
 tags: []

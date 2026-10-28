@@ -1,6 +1,6 @@
 ---
 shortcode: yvalethasisofren
-name: {full: Yvalethasis of Ren, aliases: []}
+name: {full: Yvalethasis of Ren}
 type: being
 subType: npc
 tags: []

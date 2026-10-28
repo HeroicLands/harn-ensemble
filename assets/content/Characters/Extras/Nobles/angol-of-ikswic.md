@@ -1,6 +1,6 @@
 ---
 shortcode: angolofikswic
-name: {full: Angol of Ikswic, aliases: []}
+name: {full: Angol of Ikswic}
 type: being
 subType: npc
 tags: []

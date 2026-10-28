@@ -1,6 +1,6 @@
 ---
 shortcode: pavinofkrollater
-name: {full: Pavin of Krollater, aliases: []}
+name: {full: Pavin of Krollater}
 type: being
 subType: npc
 tags: []

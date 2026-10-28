@@ -1,6 +1,6 @@
 ---
 shortcode: bashofhendal
-name: {full: Bash of Hendal, aliases: []}
+name: {full: Bash of Hendal}
 type: being
 subType: npc
 tags: []

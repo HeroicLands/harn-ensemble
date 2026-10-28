@@ -1,6 +1,6 @@
 ---
 shortcode: shemlenaofarine
-name: {full: Shemlena of Arine, aliases: []}
+name: {full: Shemlena of Arine}
 type: being
 subType: npc
 tags: []

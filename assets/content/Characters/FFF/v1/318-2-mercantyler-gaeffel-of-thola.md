@@ -1,6 +1,6 @@
 ---
 shortcode: gaeffelofthola
-name: {full: Gaeffel of Thola, aliases: []}
+name: {full: Gaeffel of Thola}
 type: being
 subType: character
 tags: []

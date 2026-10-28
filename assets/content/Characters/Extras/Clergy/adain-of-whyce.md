@@ -1,6 +1,6 @@
 ---
 shortcode: adainofwhyce
-name: {full: Adain of Whyce, aliases: []}
+name: {full: Adain of Whyce}
 type: being
 subType: npc
 tags: []

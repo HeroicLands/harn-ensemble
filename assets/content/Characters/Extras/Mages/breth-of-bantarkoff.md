@@ -1,6 +1,6 @@
 ---
 shortcode: brethofbantarkoff
-name: {full: Breth of Bantarkoff, aliases: []}
+name: {full: Breth of Bantarkoff}
 type: being
 subType: npc
 tags: []

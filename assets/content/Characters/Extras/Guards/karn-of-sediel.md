@@ -1,6 +1,6 @@
 ---
 shortcode: karnofsediel
-name: {full: Karn of Sediel, aliases: []}
+name: {full: Karn of Sediel}
 type: being
 subType: npc
 tags: []

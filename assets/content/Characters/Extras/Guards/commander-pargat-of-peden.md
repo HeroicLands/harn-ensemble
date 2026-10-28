@@ -1,6 +1,6 @@
 ---
 shortcode: commanderpargatofpeden
-name: {full: Commander Pargat of Peden, aliases: []}
+name: {full: Commander Pargat of Peden}
 type: being
 subType: npc
 tags: []

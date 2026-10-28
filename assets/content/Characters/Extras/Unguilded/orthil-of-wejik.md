@@ -1,6 +1,6 @@
 ---
 shortcode: orthilofwejik
-name: {full: Orthil of Wejik, aliases: []}
+name: {full: Orthil of Wejik}
 type: being
 subType: npc
 tags: []

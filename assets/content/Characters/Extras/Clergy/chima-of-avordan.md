@@ -1,6 +1,6 @@
 ---
 shortcode: chimaofavordan
-name: {full: Chima of Avordan, aliases: []}
+name: {full: Chima of Avordan}
 type: being
 subType: npc
 tags: []

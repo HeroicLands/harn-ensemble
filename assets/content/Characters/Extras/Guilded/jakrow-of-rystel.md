@@ -1,6 +1,6 @@
 ---
 shortcode: jakrowofrystel
-name: {full: Jakrow of Rystel, aliases: []}
+name: {full: Jakrow of Rystel}
 type: being
 subType: npc
 tags: []

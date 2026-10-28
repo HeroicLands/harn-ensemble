@@ -1,6 +1,6 @@
 ---
 shortcode: telsaoftulkai
-name: {full: Telsa of Tulkai, aliases: []}
+name: {full: Telsa of Tulkai}
 type: being
 subType: npc
 tags: []

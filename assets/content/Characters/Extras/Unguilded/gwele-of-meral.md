@@ -1,6 +1,6 @@
 ---
 shortcode: gweleofmeral
-name: {full: Gwele of Meral, aliases: []}
+name: {full: Gwele of Meral}
 type: being
 subType: npc
 tags: []

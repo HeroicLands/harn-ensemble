@@ -1,6 +1,6 @@
 ---
 shortcode: aquillinofrenal
-name: {full: Aquillin of Renal, aliases: []}
+name: {full: Aquillin of Renal}
 type: being
 subType: npc
 tags: []

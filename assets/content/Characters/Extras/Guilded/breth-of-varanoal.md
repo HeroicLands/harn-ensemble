@@ -1,6 +1,6 @@
 ---
 shortcode: brethofvaranoal
-name: {full: Breth of Varanoal, aliases: []}
+name: {full: Breth of Varanoal}
 type: being
 subType: npc
 tags: []

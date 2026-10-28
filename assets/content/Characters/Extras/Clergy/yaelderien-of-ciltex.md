@@ -1,6 +1,6 @@
 ---
 shortcode: yaelderienofciltex
-name: {full: Yaelderien of Ciltex, aliases: []}
+name: {full: Yaelderien of Ciltex}
 type: being
 subType: npc
 tags: []

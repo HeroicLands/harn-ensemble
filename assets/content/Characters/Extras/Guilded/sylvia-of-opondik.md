@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaofopondik
-name: {full: Sylvia of Opondik, aliases: []}
+name: {full: Sylvia of Opondik}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: ursisofhylin
-name: {full: Ursis of Hylin, aliases: []}
+name: {full: Ursis of Hylin}
 type: being
 subType: npc
 tags: []

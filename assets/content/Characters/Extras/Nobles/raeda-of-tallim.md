@@ -1,6 +1,6 @@
 ---
 shortcode: raedaoftallim
-name: {full: Raeda of Tallim, aliases: []}
+name: {full: Raeda of Tallim}
 type: being
 subType: npc
 tags: []

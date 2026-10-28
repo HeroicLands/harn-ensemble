@@ -1,6 +1,6 @@
 ---
 shortcode: rolofathalmin
-name: {full: Rol of Athalmin, aliases: []}
+name: {full: Rol of Athalmin}
 type: being
 subType: npc
 tags: []

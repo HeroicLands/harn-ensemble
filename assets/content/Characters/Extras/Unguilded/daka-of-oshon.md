@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofoshon
-name: {full: Daka of Oshon, aliases: []}
+name: {full: Daka of Oshon}
 type: being
 subType: npc
 tags: []

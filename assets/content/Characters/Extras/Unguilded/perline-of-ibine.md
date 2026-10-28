@@ -1,6 +1,6 @@
 ---
 shortcode: perlineofibine
-name: {full: Perline of Ibine, aliases: []}
+name: {full: Perline of Ibine}
 type: being
 subType: npc
 tags: []

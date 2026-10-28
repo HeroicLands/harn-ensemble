@@ -1,6 +1,6 @@
 ---
 shortcode: shemlenofobelarani
-name: {full: Shemlen of Obelarani, aliases: []}
+name: {full: Shemlen of Obelarani}
 type: being
 subType: npc
 tags: []

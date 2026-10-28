@@ -1,6 +1,6 @@
 ---
 shortcode: chaklyneoflebarsin
-name: {full: Chaklyne of Lebarsin, aliases: []}
+name: {full: Chaklyne of Lebarsin}
 type: being
 subType: npc
 tags: []

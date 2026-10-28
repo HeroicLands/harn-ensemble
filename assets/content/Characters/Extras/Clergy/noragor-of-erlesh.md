@@ -1,6 +1,6 @@
 ---
 shortcode: noragoroferlesh
-name: {full: Noragor of Erlesh, aliases: []}
+name: {full: Noragor of Erlesh}
 type: being
 subType: npc
 tags: []

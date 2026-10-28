@@ -1,6 +1,6 @@
 ---
 shortcode: zaneofloyril
-name: {full: Zane of Loyril, aliases: []}
+name: {full: Zane of Loyril}
 type: being
 subType: npc
 tags: []

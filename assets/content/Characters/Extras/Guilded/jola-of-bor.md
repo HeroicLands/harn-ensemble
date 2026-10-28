@@ -1,6 +1,6 @@
 ---
 shortcode: jolaofbor
-name: {full: Jola of Bor, aliases: []}
+name: {full: Jola of Bor}
 type: being
 subType: npc
 tags: []

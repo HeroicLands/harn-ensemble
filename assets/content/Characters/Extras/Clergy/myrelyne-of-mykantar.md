@@ -1,6 +1,6 @@
 ---
 shortcode: myrelyneofmykantar
-name: {full: Myrelyne of Mykantar, aliases: []}
+name: {full: Myrelyne of Mykantar}
 type: being
 subType: npc
 tags: []

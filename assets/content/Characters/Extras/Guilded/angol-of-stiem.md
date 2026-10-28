@@ -1,6 +1,6 @@
 ---
 shortcode: angolofstiem
-name: {full: Angol of Stiem, aliases: []}
+name: {full: Angol of Stiem}
 type: being
 subType: npc
 tags: []

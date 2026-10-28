@@ -1,6 +1,6 @@
 ---
 shortcode: barakofquardrass
-name: {full: Barak of Quardrass, aliases: []}
+name: {full: Barak of Quardrass}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: melinofhardas
-name: {full: Melin of Hardas, aliases: []}
+name: {full: Melin of Hardas}
 type: being
 subType: npc
 tags: []

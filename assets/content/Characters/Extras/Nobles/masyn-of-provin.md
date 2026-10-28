@@ -1,6 +1,6 @@
 ---
 shortcode: masynofprovin
-name: {full: Masyn of Provin, aliases: []}
+name: {full: Masyn of Provin}
 type: being
 subType: npc
 tags: []

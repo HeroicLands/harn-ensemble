@@ -1,6 +1,6 @@
 ---
 shortcode: kerthedeofasain
-name: {full: Kerthede of Asain, aliases: []}
+name: {full: Kerthede of Asain}
 type: being
 subType: npc
 tags: []

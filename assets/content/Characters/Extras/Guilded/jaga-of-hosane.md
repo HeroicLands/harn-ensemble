@@ -1,6 +1,6 @@
 ---
 shortcode: jagaofhosane
-name: {full: Jaga of Hosane, aliases: []}
+name: {full: Jaga of Hosane}
 type: being
 subType: npc
 tags: []

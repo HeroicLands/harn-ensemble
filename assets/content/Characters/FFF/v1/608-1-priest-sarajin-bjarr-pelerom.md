@@ -1,6 +1,6 @@
 ---
 shortcode: bjarrpelerom
-name: {full: Bjarr Pelerom, aliases: []}
+name: {full: Bjarr Pelerom}
 type: being
 subType: character
 tags: []

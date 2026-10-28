@@ -1,6 +1,6 @@
 ---
 shortcode: tabifaofparion
-name: {full: Tabifa of Parion, aliases: []}
+name: {full: Tabifa of Parion}
 type: being
 subType: npc
 tags: []

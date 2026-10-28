@@ -1,6 +1,6 @@
 ---
 shortcode: jagaofnalir
-name: {full: Jaga of Nalir, aliases: []}
+name: {full: Jaga of Nalir}
 type: being
 subType: npc
 tags: []

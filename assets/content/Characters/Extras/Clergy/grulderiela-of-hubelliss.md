@@ -1,6 +1,6 @@
 ---
 shortcode: grulderielaofhubelliss
-name: {full: Grulderiela of Hubelliss, aliases: []}
+name: {full: Grulderiela of Hubelliss}
 type: being
 subType: npc
 tags: []

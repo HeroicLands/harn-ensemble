@@ -1,6 +1,6 @@
 ---
 shortcode: arbinofsediel
-name: {full: Arbin of Sediel, aliases: []}
+name: {full: Arbin of Sediel}
 type: being
 subType: npc
 tags: []

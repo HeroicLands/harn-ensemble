@@ -1,6 +1,6 @@
 ---
 shortcode: areenofserien
-name: {full: Areen of Serien, aliases: []}
+name: {full: Areen of Serien}
 type: being
 subType: npc
 tags: []

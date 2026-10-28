@@ -1,6 +1,6 @@
 ---
 shortcode: myrelyneofloyril
-name: {full: Myrelyne of Loyril, aliases: []}
+name: {full: Myrelyne of Loyril}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: zabianofharanchin
-name: {full: Zabian of Haranchin, aliases: []}
+name: {full: Zabian of Haranchin}
 type: being
 subType: npc
 tags: []

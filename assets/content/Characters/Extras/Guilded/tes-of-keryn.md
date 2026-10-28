@@ -1,6 +1,6 @@
 ---
 shortcode: tesofkeryn
-name: {full: Tes of Keryn, aliases: []}
+name: {full: Tes of Keryn}
 type: being
 subType: npc
 tags: []

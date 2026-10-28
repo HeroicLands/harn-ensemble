@@ -1,6 +1,6 @@
 ---
 shortcode: khuzdulflk
-name: {full: Khuzdul Folk, aliases: []}
+name: {full: Khuzdul Folk}
 type: lore
 subType: folk
 description: "The Khuzdul Folk"

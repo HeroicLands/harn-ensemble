@@ -1,6 +1,6 @@
 ---
 shortcode: gineofosathade
-name: {full: Gine of Osathade, aliases: []}
+name: {full: Gine of Osathade}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: seperlidofbarsuel
-name: {full: Seperlid of Barsuel, aliases: []}
+name: {full: Seperlid of Barsuel}
 type: being
 subType: npc
 tags: []

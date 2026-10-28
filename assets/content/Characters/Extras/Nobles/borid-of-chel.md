@@ -1,6 +1,6 @@
 ---
 shortcode: boridofchel
-name: {full: Borid of Chel, aliases: []}
+name: {full: Borid of Chel}
 type: being
 subType: npc
 tags: []

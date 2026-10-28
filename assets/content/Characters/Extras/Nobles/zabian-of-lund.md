@@ -1,6 +1,6 @@
 ---
 shortcode: zabianoflund
-name: {full: Zabian of Lund, aliases: []}
+name: {full: Zabian of Lund}
 type: being
 subType: npc
 tags: []

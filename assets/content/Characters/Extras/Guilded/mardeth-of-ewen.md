@@ -1,6 +1,6 @@
 ---
 shortcode: mardethofewen
-name: {full: Mardeth of Ewen, aliases: []}
+name: {full: Mardeth of Ewen}
 type: being
 subType: npc
 tags: []

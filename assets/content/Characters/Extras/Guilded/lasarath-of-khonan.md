@@ -1,6 +1,6 @@
 ---
 shortcode: lasarathofkhonan
-name: {full: Lasarath of Khonan, aliases: []}
+name: {full: Lasarath of Khonan}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gyandersofasarin
-name: {full: Gyanders of Asarin, aliases: []}
+name: {full: Gyanders of Asarin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofmanchin
-name: {full: Daka of Manchin, aliases: []}
+name: {full: Daka of Manchin}
 type: being
 subType: npc
 tags: []

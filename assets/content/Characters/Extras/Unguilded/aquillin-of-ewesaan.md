@@ -1,6 +1,6 @@
 ---
 shortcode: aquillinofewesaan
-name: {full: Aquillin of Ewesaan, aliases: []}
+name: {full: Aquillin of Ewesaan}
 type: being
 subType: npc
 tags: []

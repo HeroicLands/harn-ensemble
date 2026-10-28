@@ -1,6 +1,6 @@
 ---
 shortcode: garooforta
-name: {full: Garo of Orta, aliases: []}
+name: {full: Garo of Orta}
 type: being
 subType: npc
 tags: []

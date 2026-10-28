@@ -1,6 +1,6 @@
 ---
 shortcode: merelyneofobeldim
-name: {full: Merelyne of Obeldim, aliases: []}
+name: {full: Merelyne of Obeldim}
 type: being
 subType: npc
 tags: []

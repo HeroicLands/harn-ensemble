@@ -1,6 +1,6 @@
 ---
 shortcode: iamofunigal
-name: {full: Iam of Unigal, aliases: []}
+name: {full: Iam of Unigal}
 type: being
 subType: npc
 tags: []

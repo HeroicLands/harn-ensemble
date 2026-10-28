@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofseral
-name: {full: Tomus of Seral, aliases: []}
+name: {full: Tomus of Seral}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: ginaofmund
-name: {full: Gina of Mund, aliases: []}
+name: {full: Gina of Mund}
 type: being
 subType: npc
 tags: []

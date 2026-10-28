@@ -1,6 +1,6 @@
 ---
 shortcode: josrathofbanthelya
-name: {full: Josrath of Banthelya, aliases: []}
+name: {full: Josrath of Banthelya}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: brethofsediel
-name: {full: Breth of Sediel, aliases: []}
+name: {full: Breth of Sediel}
 type: being
 subType: npc
 tags: []

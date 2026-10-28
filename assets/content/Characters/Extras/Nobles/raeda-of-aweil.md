@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofaweil
-name: {full: Raeda of Aweil, aliases: []}
+name: {full: Raeda of Aweil}
 type: being
 subType: npc
 tags: []

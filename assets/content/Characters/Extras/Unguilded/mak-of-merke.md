@@ -1,6 +1,6 @@
 ---
 shortcode: makofmerke
-name: {full: Mak of Merke, aliases: []}
+name: {full: Mak of Merke}
 type: being
 subType: npc
 tags: []

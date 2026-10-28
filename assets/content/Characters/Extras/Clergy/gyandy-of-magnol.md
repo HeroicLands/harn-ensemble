@@ -1,6 +1,6 @@
 ---
 shortcode: gyandyofmagnol
-name: {full: Gyandy of Magnol, aliases: []}
+name: {full: Gyandy of Magnol}
 type: being
 subType: npc
 tags: []

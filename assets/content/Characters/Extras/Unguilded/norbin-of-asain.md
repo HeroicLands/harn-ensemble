@@ -1,6 +1,6 @@
 ---
 shortcode: norbinofasain
-name: {full: Norbin of Asain, aliases: []}
+name: {full: Norbin of Asain}
 type: being
 subType: npc
 tags: []

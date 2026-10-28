@@ -1,6 +1,6 @@
 ---
 shortcode: brancofamdiror
-name: {full: Branc of Amdiror, aliases: []}
+name: {full: Branc of Amdiror}
 type: being
 subType: npc
 tags: []

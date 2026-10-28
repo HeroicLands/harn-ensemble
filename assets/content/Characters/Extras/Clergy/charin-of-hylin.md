@@ -1,6 +1,6 @@
 ---
 shortcode: charinofhylin
-name: {full: Charin of Hylin, aliases: []}
+name: {full: Charin of Hylin}
 type: being
 subType: npc
 tags: []

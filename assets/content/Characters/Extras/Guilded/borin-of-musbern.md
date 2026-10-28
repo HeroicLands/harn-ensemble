@@ -1,6 +1,6 @@
 ---
 shortcode: borinofmusbern
-name: {full: Borin of Musbern, aliases: []}
+name: {full: Borin of Musbern}
 type: being
 subType: npc
 tags: []

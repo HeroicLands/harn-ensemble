@@ -1,6 +1,6 @@
 ---
 shortcode: vanasofdebern
-name: {full: Vanas of Debern, aliases: []}
+name: {full: Vanas of Debern}
 type: being
 subType: npc
 tags: []

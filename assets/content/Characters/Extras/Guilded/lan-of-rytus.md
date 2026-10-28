@@ -1,6 +1,6 @@
 ---
 shortcode: lanofrytus
-name: {full: Lan of Rytus, aliases: []}
+name: {full: Lan of Rytus}
 type: being
 subType: npc
 tags: []

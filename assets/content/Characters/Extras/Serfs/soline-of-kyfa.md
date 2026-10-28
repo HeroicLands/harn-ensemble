@@ -1,6 +1,6 @@
 ---
 shortcode: solineofkyfa
-name: {full: Soline of Kyfa, aliases: []}
+name: {full: Soline of Kyfa}
 type: being
 subType: npc
 tags: []

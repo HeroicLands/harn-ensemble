@@ -1,6 +1,6 @@
 ---
 shortcode: hadainofkar
-name: {full: Hadain of Kar, aliases: []}
+name: {full: Hadain of Kar}
 type: being
 subType: npc
 tags: []

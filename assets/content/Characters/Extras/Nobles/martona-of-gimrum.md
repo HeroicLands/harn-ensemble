@@ -1,6 +1,6 @@
 ---
 shortcode: martonaofgimrum
-name: {full: Martona of Gimrum, aliases: []}
+name: {full: Martona of Gimrum}
 type: being
 subType: npc
 tags: []

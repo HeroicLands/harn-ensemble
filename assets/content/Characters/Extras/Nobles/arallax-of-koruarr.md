@@ -1,6 +1,6 @@
 ---
 shortcode: arallaxofkoruarr
-name: {full: Arallax of Koruarr, aliases: []}
+name: {full: Arallax of Koruarr}
 type: being
 subType: npc
 tags: []

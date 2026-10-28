@@ -1,6 +1,6 @@
 ---
 shortcode: kelenofwythselrin
-name: {full: Kelen of Wythselrin, aliases: []}
+name: {full: Kelen of Wythselrin}
 type: being
 subType: npc
 tags: []

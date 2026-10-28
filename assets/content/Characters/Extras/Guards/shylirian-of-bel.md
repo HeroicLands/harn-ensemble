@@ -1,6 +1,6 @@
 ---
 shortcode: shylirianofbel
-name: {full: Shylirian of Bel, aliases: []}
+name: {full: Shylirian of Bel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: ephisofsediel
-name: {full: Ephis of Sediel, aliases: []}
+name: {full: Ephis of Sediel}
 type: being
 subType: npc
 tags: []

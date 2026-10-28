@@ -1,6 +1,6 @@
 ---
 shortcode: geldisofrikar
-name: {full: Geldis of Rikar, aliases: []}
+name: {full: Geldis of Rikar}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: hobirofesaan
-name: {full: Hobir of Esaan, aliases: []}
+name: {full: Hobir of Esaan}
 type: being
 subType: npc
 tags: []

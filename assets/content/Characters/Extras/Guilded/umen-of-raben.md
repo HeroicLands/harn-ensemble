@@ -1,6 +1,6 @@
 ---
 shortcode: umenofraben
-name: {full: Umen of Raben, aliases: []}
+name: {full: Umen of Raben}
 type: being
 subType: npc
 tags: []

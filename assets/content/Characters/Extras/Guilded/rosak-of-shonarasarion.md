@@ -1,6 +1,6 @@
 ---
 shortcode: rosakofshonarasarion
-name: {full: Rosak of Shonarasarion, aliases: []}
+name: {full: Rosak of Shonarasarion}
 type: being
 subType: npc
 tags: []

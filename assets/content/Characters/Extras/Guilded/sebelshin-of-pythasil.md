@@ -1,6 +1,6 @@
 ---
 shortcode: sebelshinofpythasil
-name: {full: Sebelshin of Pythasil, aliases: []}
+name: {full: Sebelshin of Pythasil}
 type: being
 subType: npc
 tags: []

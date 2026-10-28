@@ -1,6 +1,6 @@
 ---
 shortcode: malhberofpenda
-name: {full: Malhber of Penda, aliases: []}
+name: {full: Malhber of Penda}
 type: being
 subType: npc
 tags: []

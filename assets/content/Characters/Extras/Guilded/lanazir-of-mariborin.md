@@ -1,6 +1,6 @@
 ---
 shortcode: lanazirofmariborin
-name: {full: Lanazir of Mariborin, aliases: []}
+name: {full: Lanazir of Mariborin}
 type: being
 subType: npc
 tags: []

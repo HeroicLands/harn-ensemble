@@ -1,6 +1,6 @@
 ---
 shortcode: quereleofgel
-name: {full: Querele of Gel, aliases: []}
+name: {full: Querele of Gel}
 type: being
 subType: npc
 tags: []

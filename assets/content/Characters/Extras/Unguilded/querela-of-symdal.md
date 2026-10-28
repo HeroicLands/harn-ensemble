@@ -1,6 +1,6 @@
 ---
 shortcode: querelaofsymdal
-name: {full: Querela of Symdal, aliases: []}
+name: {full: Querela of Symdal}
 type: being
 subType: npc
 tags: []

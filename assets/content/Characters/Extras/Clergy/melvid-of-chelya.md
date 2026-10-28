@@ -1,6 +1,6 @@
 ---
 shortcode: melvidofchelya
-name: {full: Melvid of Chelya, aliases: []}
+name: {full: Melvid of Chelya}
 type: being
 subType: npc
 tags: []

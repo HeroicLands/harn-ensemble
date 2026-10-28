@@ -1,6 +1,6 @@
 ---
 shortcode: fffandelent
-name: {full: Andel & Entourage, aliases: []}
+name: {full: Andel & Entourage}
 type: affiliation
 subType: venture
 tags: []

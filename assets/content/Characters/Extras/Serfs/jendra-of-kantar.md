@@ -1,6 +1,6 @@
 ---
 shortcode: jendraofkantar
-name: {full: Jendra of Kantar, aliases: []}
+name: {full: Jendra of Kantar}
 type: being
 subType: npc
 tags: []

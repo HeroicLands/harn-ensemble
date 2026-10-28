@@ -1,6 +1,6 @@
 ---
 shortcode: feeri
-name: {full: Feeri, aliases: []}
+name: {full: Feeri}
 type: being
 subType: character
 tags: []

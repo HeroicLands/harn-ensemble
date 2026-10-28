@@ -1,6 +1,6 @@
 ---
 shortcode: yaeldelofasain
-name: {full: Yaeldel of Asain, aliases: []}
+name: {full: Yaeldel of Asain}
 type: being
 subType: npc
 tags: []

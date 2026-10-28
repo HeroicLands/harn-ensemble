@@ -1,6 +1,6 @@
 ---
 shortcode: terbaofath
-name: {full: Terba of Ath, aliases: []}
+name: {full: Terba of Ath}
 type: being
 subType: npc
 tags: []

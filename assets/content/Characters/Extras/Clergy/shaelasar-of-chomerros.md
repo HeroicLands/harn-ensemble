@@ -1,6 +1,6 @@
 ---
 shortcode: shaelasarofchomerros
-name: {full: Shaelasar of Chomerros, aliases: []}
+name: {full: Shaelasar of Chomerros}
 type: being
 subType: npc
 tags: []

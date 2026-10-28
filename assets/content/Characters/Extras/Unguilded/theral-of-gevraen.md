@@ -1,6 +1,6 @@
 ---
 shortcode: theralofgevraen
-name: {full: Theral of Gevraen, aliases: []}
+name: {full: Theral of Gevraen}
 type: being
 subType: npc
 tags: []

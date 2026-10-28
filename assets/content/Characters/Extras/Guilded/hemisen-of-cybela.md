@@ -1,6 +1,6 @@
 ---
 shortcode: hemisenofcybela
-name: {full: Hemisen of Cybela, aliases: []}
+name: {full: Hemisen of Cybela}
 type: being
 subType: npc
 tags: []

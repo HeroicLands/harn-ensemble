@@ -1,6 +1,6 @@
 ---
 shortcode: aerallaxofopondel
-name: {full: Aerallax of Opondel, aliases: []}
+name: {full: Aerallax of Opondel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: semisofdebern
-name: {full: Semis of Debern, aliases: []}
+name: {full: Semis of Debern}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: moskilofparion
-name: {full: Moskil of Parion, aliases: []}
+name: {full: Moskil of Parion}
 type: being
 subType: npc
 tags: []

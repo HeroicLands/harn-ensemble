@@ -1,6 +1,6 @@
 ---
 shortcode: urbainofbellyr
-name: {full: Urbain of Bellyr, aliases: []}
+name: {full: Urbain of Bellyr}
 type: being
 subType: npc
 tags: []

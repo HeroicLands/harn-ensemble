@@ -1,6 +1,6 @@
 ---
 shortcode: amlugofamdir
-name: {full: Amlug of Amdir, aliases: []}
+name: {full: Amlug of Amdir}
 type: being
 subType: npc
 tags: []

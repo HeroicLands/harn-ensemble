@@ -1,6 +1,6 @@
 ---
 shortcode: veteranhadahofuro
-name: {full: Veteran Hadah of Uro, aliases: []}
+name: {full: Veteran Hadah of Uro}
 type: being
 subType: npc
 tags: []

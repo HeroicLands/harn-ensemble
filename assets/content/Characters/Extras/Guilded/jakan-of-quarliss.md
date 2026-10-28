@@ -1,6 +1,6 @@
 ---
 shortcode: jakanofquarliss
-name: {full: Jakan of Quarliss, aliases: []}
+name: {full: Jakan of Quarliss}
 type: being
 subType: npc
 tags: []

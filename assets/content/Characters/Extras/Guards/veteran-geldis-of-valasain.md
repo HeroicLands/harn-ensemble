@@ -1,6 +1,6 @@
 ---
 shortcode: veterangeldisofvalasain
-name: {full: Veteran Geldis of Valasain, aliases: []}
+name: {full: Veteran Geldis of Valasain}
 type: being
 subType: npc
 tags: []

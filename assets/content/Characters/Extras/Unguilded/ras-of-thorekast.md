@@ -1,6 +1,6 @@
 ---
 shortcode: rasofthorekast
-name: {full: Ras of Thorekast, aliases: []}
+name: {full: Ras of Thorekast}
 type: being
 subType: npc
 tags: []

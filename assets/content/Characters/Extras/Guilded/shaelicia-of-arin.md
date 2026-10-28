@@ -1,6 +1,6 @@
 ---
 shortcode: shaeliciaofarin
-name: {full: Shaelicia of Arin, aliases: []}
+name: {full: Shaelicia of Arin}
 type: being
 subType: npc
 tags: []

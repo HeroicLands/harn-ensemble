@@ -1,6 +1,6 @@
 ---
 shortcode: urbainoffartek
-name: {full: Urbain of Fartek, aliases: []}
+name: {full: Urbain of Fartek}
 type: being
 subType: npc
 tags: []

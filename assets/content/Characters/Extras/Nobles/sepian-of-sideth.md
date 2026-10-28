@@ -1,6 +1,6 @@
 ---
 shortcode: sepianofsideth
-name: {full: Sepian of Sideth, aliases: []}
+name: {full: Sepian of Sideth}
 type: being
 subType: npc
 tags: []

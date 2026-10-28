@@ -1,6 +1,6 @@
 ---
 shortcode: elderielaofele
-name: {full: Elderiela of Ele, aliases: []}
+name: {full: Elderiela of Ele}
 type: being
 subType: npc
 tags: []

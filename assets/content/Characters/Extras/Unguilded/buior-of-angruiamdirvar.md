@@ -1,6 +1,6 @@
 ---
 shortcode: buiorofangruiamdirvar
-name: {full: Buior of Angruiamdirvar, aliases: []}
+name: {full: Buior of Angruiamdirvar}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arbrinofeveriel
-name: {full: Arbrin of Everiel, aliases: []}
+name: {full: Arbrin of Everiel}
 type: being
 subType: npc
 tags: []

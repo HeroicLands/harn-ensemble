@@ -1,6 +1,6 @@
 ---
 shortcode: rathofmadib
-name: {full: Rath of Madib, aliases: []}
+name: {full: Rath of Madib}
 type: being
 subType: npc
 tags: []

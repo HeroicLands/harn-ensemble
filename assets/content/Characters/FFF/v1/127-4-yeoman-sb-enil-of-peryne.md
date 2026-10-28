@@ -1,6 +1,6 @@
 ---
 shortcode: enilofperyne
-name: {full: Enil of Peryne, aliases: []}
+name: {full: Enil of Peryne}
 type: being
 subType: character
 tags: []

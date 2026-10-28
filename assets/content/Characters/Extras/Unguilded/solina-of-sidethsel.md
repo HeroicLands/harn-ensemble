@@ -1,6 +1,6 @@
 ---
 shortcode: solinaofsidethsel
-name: {full: Solina of Sidethsel, aliases: []}
+name: {full: Solina of Sidethsel}
 type: being
 subType: npc
 tags: []

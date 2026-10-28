@@ -1,6 +1,6 @@
 ---
 shortcode: uvienelleofhen
-name: {full: Uvienelle of Hen, aliases: []}
+name: {full: Uvienelle of Hen}
 type: being
 subType: npc
 tags: []

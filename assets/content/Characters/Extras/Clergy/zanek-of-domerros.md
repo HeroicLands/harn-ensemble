@@ -1,6 +1,6 @@
 ---
 shortcode: zanekofdomerros
-name: {full: Zanek of Domerros, aliases: []}
+name: {full: Zanek of Domerros}
 type: being
 subType: npc
 tags: []

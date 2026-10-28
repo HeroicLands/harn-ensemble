@@ -1,6 +1,6 @@
 ---
 shortcode: bregofeithagarrui
-name: {full: Breg of Eithagarrui, aliases: []}
+name: {full: Breg of Eithagarrui}
 type: being
 subType: npc
 tags: []

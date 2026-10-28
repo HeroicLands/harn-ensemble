@@ -1,6 +1,6 @@
 ---
 shortcode: werelyneofstiem
-name: {full: Werelyne of Stiem, aliases: []}
+name: {full: Werelyne of Stiem}
 type: being
 subType: npc
 tags: []

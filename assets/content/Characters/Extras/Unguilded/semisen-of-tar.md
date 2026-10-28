@@ -1,6 +1,6 @@
 ---
 shortcode: semisenoftar
-name: {full: Semisen of Tar, aliases: []}
+name: {full: Semisen of Tar}
 type: being
 subType: npc
 tags: []

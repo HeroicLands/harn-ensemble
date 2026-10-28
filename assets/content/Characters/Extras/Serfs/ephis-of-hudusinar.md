@@ -1,6 +1,6 @@
 ---
 shortcode: ephisofhudusinar
-name: {full: Ephis of Hudusinar, aliases: []}
+name: {full: Ephis of Hudusinar}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jaslynofdurnwak
-name: {full: Jaslyn of Durnwak, aliases: []}
+name: {full: Jaslyn of Durnwak}
 type: being
 subType: npc
 tags: []

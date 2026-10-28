@@ -1,6 +1,6 @@
 ---
 shortcode: rasoflaplaemen
-name: {full: Ras of Laplaemen, aliases: []}
+name: {full: Ras of Laplaemen}
 type: being
 subType: npc
 tags: []

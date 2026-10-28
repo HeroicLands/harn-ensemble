@@ -1,6 +1,6 @@
 ---
 shortcode: loragoofcharad
-name: {full: Lorago of Charad, aliases: []}
+name: {full: Lorago of Charad}
 type: being
 subType: npc
 tags: []

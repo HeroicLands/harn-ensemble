@@ -1,6 +1,6 @@
 ---
 shortcode: perlaofmarnesku
-name: {full: Perla of Marnesku, aliases: []}
+name: {full: Perla of Marnesku}
 type: being
 subType: npc
 tags: []

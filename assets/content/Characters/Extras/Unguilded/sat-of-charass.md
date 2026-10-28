@@ -1,6 +1,6 @@
 ---
 shortcode: satofcharass
-name: {full: Sat of Charass, aliases: []}
+name: {full: Sat of Charass}
 type: being
 subType: npc
 tags: []

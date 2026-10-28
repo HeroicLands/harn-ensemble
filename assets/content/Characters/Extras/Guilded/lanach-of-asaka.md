@@ -1,6 +1,6 @@
 ---
 shortcode: lanachofasaka
-name: {full: Lanach of Asaka, aliases: []}
+name: {full: Lanach of Asaka}
 type: being
 subType: npc
 tags: []

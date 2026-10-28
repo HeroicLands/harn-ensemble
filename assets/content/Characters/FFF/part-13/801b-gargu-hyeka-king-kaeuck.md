@@ -1,6 +1,6 @@
 ---
 shortcode: kaeuck
-name: {full: Kaeuck, aliases: []}
+name: {full: Kaeuck}
 type: being
 subType: character
 tags: []

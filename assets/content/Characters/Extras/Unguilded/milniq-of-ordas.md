@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofordas
-name: {full: Milniq of Ordas, aliases: []}
+name: {full: Milniq of Ordas}
 type: being
 subType: npc
 tags: []

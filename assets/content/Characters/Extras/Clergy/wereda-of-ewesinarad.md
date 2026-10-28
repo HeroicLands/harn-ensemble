@@ -1,6 +1,6 @@
 ---
 shortcode: weredaofewesinarad
-name: {full: Wereda of Ewesinarad, aliases: []}
+name: {full: Wereda of Ewesinarad}
 type: being
 subType: npc
 tags: []

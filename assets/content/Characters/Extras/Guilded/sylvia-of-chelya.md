@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaofchelya
-name: {full: Sylvia of Chelya, aliases: []}
+name: {full: Sylvia of Chelya}
 type: being
 subType: npc
 tags: []

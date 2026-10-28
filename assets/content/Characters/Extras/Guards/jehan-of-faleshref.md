@@ -1,6 +1,6 @@
 ---
 shortcode: jehanoffaleshref
-name: {full: Jehan of Faleshref, aliases: []}
+name: {full: Jehan of Faleshref}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: kistyneofnarasane
-name: {full: Kistyne of Narasane, aliases: []}
+name: {full: Kistyne of Narasane}
 type: being
 subType: npc
 tags: []

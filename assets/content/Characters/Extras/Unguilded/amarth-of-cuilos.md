@@ -1,6 +1,6 @@
 ---
 shortcode: amarthofcuilos
-name: {full: Amarth of Cuilos, aliases: []}
+name: {full: Amarth of Cuilos}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jellicoftobira
-name: {full: Jellic of Tobira, aliases: []}
+name: {full: Jellic of Tobira}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: earnyofsmesel
-name: {full: Earny of Smesel, aliases: []}
+name: {full: Earny of Smesel}
 type: being
 subType: character
 tags: []

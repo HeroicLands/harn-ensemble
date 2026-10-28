@@ -1,6 +1,6 @@
 ---
 shortcode: dirofvantarstelbardin
-name: {full: Dir of Vantarstelbardin, aliases: []}
+name: {full: Dir of Vantarstelbardin}
 type: being
 subType: npc
 tags: []

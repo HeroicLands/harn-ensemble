@@ -1,6 +1,6 @@
 ---
 shortcode: ronisoffaleh
-name: {full: Ronis of Faleh, aliases: []}
+name: {full: Ronis of Faleh}
 type: being
 subType: npc
 tags: []

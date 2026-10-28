@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarofhilrichmarion
-name: {full: Tagbar of Hilrichmarion, aliases: []}
+name: {full: Tagbar of Hilrichmarion}
 type: being
 subType: npc
 tags: []

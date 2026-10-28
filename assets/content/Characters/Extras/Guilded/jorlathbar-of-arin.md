@@ -1,6 +1,6 @@
 ---
 shortcode: jorlathbarofarin
-name: {full: Jorlathbar of Arin, aliases: []}
+name: {full: Jorlathbar of Arin}
 type: being
 subType: npc
 tags: []

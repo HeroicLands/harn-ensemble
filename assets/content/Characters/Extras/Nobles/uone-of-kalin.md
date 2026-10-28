@@ -1,6 +1,6 @@
 ---
 shortcode: uoneofkalin
-name: {full: Uone of Kalin, aliases: []}
+name: {full: Uone of Kalin}
 type: being
 subType: npc
 tags: []

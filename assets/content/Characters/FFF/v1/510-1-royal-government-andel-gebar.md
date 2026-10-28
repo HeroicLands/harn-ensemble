@@ -1,6 +1,6 @@
 ---
 shortcode: andelgebar
-name: {full: Andel Gebar, aliases: []}
+name: {full: Andel Gebar}
 type: being
 subType: character
 tags: []

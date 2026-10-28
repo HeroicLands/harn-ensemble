@@ -1,6 +1,6 @@
 ---
 shortcode: clanasofbela
-name: {full: Clanas of Bela, aliases: []}
+name: {full: Clanas of Bela}
 type: being
 subType: npc
 tags: []

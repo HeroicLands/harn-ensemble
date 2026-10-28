@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofyaleh
-name: {full: Terza of Yaleh, aliases: []}
+name: {full: Terza of Yaleh}
 type: being
 subType: npc
 tags: []

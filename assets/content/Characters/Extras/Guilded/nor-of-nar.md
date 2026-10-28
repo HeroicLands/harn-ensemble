@@ -1,6 +1,6 @@
 ---
 shortcode: norofnar
-name: {full: Nor of Nar, aliases: []}
+name: {full: Nor of Nar}
 type: being
 subType: npc
 tags: []

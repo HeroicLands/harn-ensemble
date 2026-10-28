@@ -1,6 +1,6 @@
 ---
 shortcode: sarofquiribor
-name: {full: Sar of Quiribor, aliases: []}
+name: {full: Sar of Quiribor}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: ketrasofael
-name: {full: Ketras of Ael, aliases: []}
+name: {full: Ketras of Ael}
 type: being
 subType: npc
 tags: []

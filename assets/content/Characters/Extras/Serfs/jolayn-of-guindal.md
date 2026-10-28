@@ -1,6 +1,6 @@
 ---
 shortcode: jolaynofguindal
-name: {full: Jolayn of Guindal, aliases: []}
+name: {full: Jolayn of Guindal}
 type: being
 subType: npc
 tags: []

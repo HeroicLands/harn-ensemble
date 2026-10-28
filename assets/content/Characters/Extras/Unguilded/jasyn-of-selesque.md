@@ -1,6 +1,6 @@
 ---
 shortcode: jasynofselesque
-name: {full: Jasyn of Selesque, aliases: []}
+name: {full: Jasyn of Selesque}
 type: being
 subType: npc
 tags: []

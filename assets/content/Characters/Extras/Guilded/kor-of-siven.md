@@ -1,6 +1,6 @@
 ---
 shortcode: korofsiven
-name: {full: Kor of Siven, aliases: []}
+name: {full: Kor of Siven}
 type: being
 subType: npc
 tags: []

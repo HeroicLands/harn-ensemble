@@ -1,6 +1,6 @@
 ---
 shortcode: jendofkapirethan
-name: {full: Jend of Kapirethan, aliases: []}
+name: {full: Jend of Kapirethan}
 type: being
 subType: npc
 tags: []

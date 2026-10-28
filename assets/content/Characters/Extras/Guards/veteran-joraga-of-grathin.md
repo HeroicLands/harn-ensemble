@@ -1,6 +1,6 @@
 ---
 shortcode: veteranjoragaofgrathin
-name: {full: Veteran Joraga of Grathin, aliases: []}
+name: {full: Veteran Joraga of Grathin}
 type: being
 subType: npc
 tags: []

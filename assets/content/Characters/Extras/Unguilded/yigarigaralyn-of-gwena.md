@@ -1,6 +1,6 @@
 ---
 shortcode: yigarigaralynofgwena
-name: {full: Yigarigaralyn of Gwena, aliases: []}
+name: {full: Yigarigaralyn of Gwena}
 type: being
 subType: npc
 tags: []

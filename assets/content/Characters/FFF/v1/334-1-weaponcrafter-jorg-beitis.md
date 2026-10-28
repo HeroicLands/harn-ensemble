@@ -1,6 +1,6 @@
 ---
 shortcode: jorgbeitis
-name: {full: Jorg Beitis, aliases: []}
+name: {full: Jorg Beitis}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: veterankorbinofwulverdy
-name: {full: Veteran Korbin of Wulverdy, aliases: []}
+name: {full: Veteran Korbin of Wulverdy}
 type: being
 subType: npc
 tags: []

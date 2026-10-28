@@ -1,6 +1,6 @@
 ---
 shortcode: shotroofgwen
-name: {full: Shotro of Gwen, aliases: []}
+name: {full: Shotro of Gwen}
 type: being
 subType: npc
 tags: []

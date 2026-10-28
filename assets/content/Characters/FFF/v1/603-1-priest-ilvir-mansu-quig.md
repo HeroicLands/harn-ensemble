@@ -1,6 +1,6 @@
 ---
 shortcode: mansuquig
-name: {full: Mansu Quig, aliases: []}
+name: {full: Mansu Quig}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: albalnyofibin
-name: {full: Albalny of Ibin, aliases: []}
+name: {full: Albalny of Ibin}
 type: being
 subType: npc
 tags: []

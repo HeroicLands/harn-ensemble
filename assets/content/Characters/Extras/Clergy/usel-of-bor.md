@@ -1,6 +1,6 @@
 ---
 shortcode: uselofbor
-name: {full: Usel of Bor, aliases: []}
+name: {full: Usel of Bor}
 type: being
 subType: npc
 tags: []

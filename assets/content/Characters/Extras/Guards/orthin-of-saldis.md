@@ -1,6 +1,6 @@
 ---
 shortcode: orthinofsaldis
-name: {full: Orthin of Saldis, aliases: []}
+name: {full: Orthin of Saldis}
 type: being
 subType: npc
 tags: []

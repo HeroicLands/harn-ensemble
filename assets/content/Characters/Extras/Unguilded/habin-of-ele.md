@@ -1,6 +1,6 @@
 ---
 shortcode: habinofele
-name: {full: Habin of Ele, aliases: []}
+name: {full: Habin of Ele}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: julaofborskin
-name: {full: Jula of Borskin, aliases: []}
+name: {full: Jula of Borskin}
 type: being
 subType: npc
 tags: []

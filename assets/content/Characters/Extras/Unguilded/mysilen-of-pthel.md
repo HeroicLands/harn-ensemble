@@ -1,6 +1,6 @@
 ---
 shortcode: mysilenofpthel
-name: {full: Mysilen of Pthel, aliases: []}
+name: {full: Mysilen of Pthel}
 type: being
 subType: npc
 tags: []

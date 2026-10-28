@@ -1,6 +1,6 @@
 ---
 shortcode: rashaofcoselrin
-name: {full: Rasha of Coselrin, aliases: []}
+name: {full: Rasha of Coselrin}
 type: being
 subType: npc
 tags: []

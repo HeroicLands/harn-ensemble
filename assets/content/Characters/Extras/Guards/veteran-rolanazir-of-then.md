@@ -1,6 +1,6 @@
 ---
 shortcode: veteranrolanazirofthen
-name: {full: Veteran Rolanazir of Then, aliases: []}
+name: {full: Veteran Rolanazir of Then}
 type: being
 subType: npc
 tags: []

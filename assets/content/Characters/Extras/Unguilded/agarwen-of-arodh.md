@@ -1,6 +1,6 @@
 ---
 shortcode: agarwenofarodh
-name: {full: Agarwen of Arodh, aliases: []}
+name: {full: Agarwen of Arodh}
 type: being
 subType: npc
 tags: []

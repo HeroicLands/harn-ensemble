@@ -1,6 +1,6 @@
 ---
 shortcode: boraneofavordan
-name: {full: Borane of Avordan, aliases: []}
+name: {full: Borane of Avordan}
 type: being
 subType: npc
 tags: []

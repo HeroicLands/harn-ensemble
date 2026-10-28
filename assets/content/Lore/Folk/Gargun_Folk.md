@@ -1,6 +1,6 @@
 ---
 shortcode: gargunflk
-name: {full: Gargun Folk, aliases: []}
+name: {full: Gargun Folk}
 type: lore
 subType: folk
 description: "The Gargun Folk"

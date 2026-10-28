@@ -1,6 +1,6 @@
 ---
 shortcode: boranaofdysel
-name: {full: Borana of Dysel, aliases: []}
+name: {full: Borana of Dysel}
 type: being
 subType: npc
 tags: []

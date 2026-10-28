@@ -1,6 +1,6 @@
 ---
 shortcode: totesoflund
-name: {full: Totes of Lund, aliases: []}
+name: {full: Totes of Lund}
 type: being
 subType: npc
 tags: []

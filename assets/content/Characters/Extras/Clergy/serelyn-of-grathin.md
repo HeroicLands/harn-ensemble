@@ -1,6 +1,6 @@
 ---
 shortcode: serelynofgrathin
-name: {full: Serelyn of Grathin, aliases: []}
+name: {full: Serelyn of Grathin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofintrelin
-name: {full: Daka of Intrelin, aliases: []}
+name: {full: Daka of Intrelin}
 type: being
 subType: npc
 tags: []

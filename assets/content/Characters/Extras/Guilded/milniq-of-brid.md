@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofbrid
-name: {full: Milniq of Brid, aliases: []}
+name: {full: Milniq of Brid}
 type: being
 subType: npc
 tags: []

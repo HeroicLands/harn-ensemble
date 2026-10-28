@@ -1,6 +1,6 @@
 ---
 shortcode: cunanchanofanc
-name: {full: Cunanchan of Anc, aliases: []}
+name: {full: Cunanchan of Anc}
 type: being
 subType: npc
 tags: []

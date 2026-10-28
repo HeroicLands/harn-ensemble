@@ -1,6 +1,6 @@
 ---
 shortcode: theikakofagamapel
-name: {full: Theikak of Agamapel, aliases: []}
+name: {full: Theikak of Agamapel}
 type: being
 subType: npc
 tags: []

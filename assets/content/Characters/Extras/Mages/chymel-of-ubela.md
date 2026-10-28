@@ -1,6 +1,6 @@
 ---
 shortcode: chymelofubela
-name: {full: Chymel of Ubela, aliases: []}
+name: {full: Chymel of Ubela}
 type: being
 subType: npc
 tags: []

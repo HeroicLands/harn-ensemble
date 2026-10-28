@@ -1,6 +1,6 @@
 ---
 shortcode: labianoflundondel
-name: {full: Labian of Lundondel, aliases: []}
+name: {full: Labian of Lundondel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: yagoofkair
-name: {full: Yago of Kair, aliases: []}
+name: {full: Yago of Kair}
 type: being
 subType: npc
 tags: []

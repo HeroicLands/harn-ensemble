@@ -1,6 +1,6 @@
 ---
 shortcode: samilofsindan
-name: {full: Samil of Sindan, aliases: []}
+name: {full: Samil of Sindan}
 type: being
 subType: npc
 tags: []

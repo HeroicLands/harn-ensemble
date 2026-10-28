@@ -1,6 +1,6 @@
 ---
 shortcode: larinofkass
-name: {full: Larin of Kass, aliases: []}
+name: {full: Larin of Kass}
 type: being
 subType: npc
 tags: []

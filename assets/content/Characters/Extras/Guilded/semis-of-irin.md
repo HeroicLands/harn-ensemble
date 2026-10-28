@@ -1,6 +1,6 @@
 ---
 shortcode: semisofirin
-name: {full: Semis of Irin, aliases: []}
+name: {full: Semis of Irin}
 type: being
 subType: npc
 tags: []

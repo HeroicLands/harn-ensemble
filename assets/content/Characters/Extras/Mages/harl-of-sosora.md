@@ -1,6 +1,6 @@
 ---
 shortcode: harlofsosora
-name: {full: Harl of Sosora, aliases: []}
+name: {full: Harl of Sosora}
 type: being
 subType: npc
 tags: []

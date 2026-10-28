@@ -1,6 +1,6 @@
 ---
 shortcode: makofburralode
-name: {full: Mak of Burralode, aliases: []}
+name: {full: Mak of Burralode}
 type: being
 subType: npc
 tags: []

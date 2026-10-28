@@ -1,6 +1,6 @@
 ---
 shortcode: gemaelofstelesh
-name: {full: Gemael of Stelesh, aliases: []}
+name: {full: Gemael of Stelesh}
 type: being
 subType: npc
 tags: []

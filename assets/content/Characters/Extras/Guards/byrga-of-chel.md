@@ -1,6 +1,6 @@
 ---
 shortcode: byrgaofchel
-name: {full: Byrga of Chel, aliases: []}
+name: {full: Byrga of Chel}
 type: being
 subType: npc
 tags: []

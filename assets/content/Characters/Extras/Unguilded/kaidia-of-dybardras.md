@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofdybardras
-name: {full: Kaidia of Dybardras, aliases: []}
+name: {full: Kaidia of Dybardras}
 type: being
 subType: npc
 tags: []

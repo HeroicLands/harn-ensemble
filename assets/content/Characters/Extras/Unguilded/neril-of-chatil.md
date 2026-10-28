@@ -1,6 +1,6 @@
 ---
 shortcode: nerilofchatil
-name: {full: Neril of Chatil, aliases: []}
+name: {full: Neril of Chatil}
 type: being
 subType: npc
 tags: []

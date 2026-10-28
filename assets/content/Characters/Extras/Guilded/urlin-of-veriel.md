@@ -1,6 +1,6 @@
 ---
 shortcode: urlinofveriel
-name: {full: Urlin of Veriel, aliases: []}
+name: {full: Urlin of Veriel}
 type: being
 subType: npc
 tags: []

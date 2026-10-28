@@ -1,6 +1,6 @@
 ---
 shortcode: gineoftrollaterikarby
-name: {full: Gine of Trollaterikarby, aliases: []}
+name: {full: Gine of Trollaterikarby}
 type: being
 subType: npc
 tags: []

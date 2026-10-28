@@ -1,6 +1,6 @@
 ---
 shortcode: salaredofena
-name: {full: Salared of Ena, aliases: []}
+name: {full: Salared of Ena}
 type: being
 subType: npc
 tags: []

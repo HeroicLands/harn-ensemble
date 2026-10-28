@@ -1,6 +1,6 @@
 ---
 shortcode: sebelsonofhiltex
-name: {full: Sebelson of Hiltex, aliases: []}
+name: {full: Sebelson of Hiltex}
 type: being
 subType: npc
 tags: []

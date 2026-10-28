@@ -1,6 +1,6 @@
 ---
 shortcode: clavroofrabeta
-name: {full: Clavro of Rabeta, aliases: []}
+name: {full: Clavro of Rabeta}
 type: being
 subType: npc
 tags: []

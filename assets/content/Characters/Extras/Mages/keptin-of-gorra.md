@@ -1,6 +1,6 @@
 ---
 shortcode: keptinofgorra
-name: {full: Keptin of Gorra, aliases: []}
+name: {full: Keptin of Gorra}
 type: being
 subType: npc
 tags: []

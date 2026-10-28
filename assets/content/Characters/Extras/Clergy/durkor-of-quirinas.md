@@ -1,6 +1,6 @@
 ---
 shortcode: durkorofquirinas
-name: {full: Durkor of Quirinas, aliases: []}
+name: {full: Durkor of Quirinas}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: artonaofdebern
-name: {full: Artona of Debern, aliases: []}
+name: {full: Artona of Debern}
 type: being
 subType: npc
 tags: []

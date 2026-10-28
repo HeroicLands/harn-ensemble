@@ -1,6 +1,6 @@
 ---
 shortcode: neridolofkai
-name: {full: Neridol of Kai, aliases: []}
+name: {full: Neridol of Kai}
 type: being
 subType: npc
 tags: []

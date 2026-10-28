@@ -1,6 +1,6 @@
 ---
 shortcode: garofsin
-name: {full: Gar of Sin, aliases: []}
+name: {full: Gar of Sin}
 type: being
 subType: npc
 tags: []

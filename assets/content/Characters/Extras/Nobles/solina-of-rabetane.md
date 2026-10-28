@@ -1,6 +1,6 @@
 ---
 shortcode: solinaofrabetane
-name: {full: Solina of Rabetane, aliases: []}
+name: {full: Solina of Rabetane}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: captainfeldurofane
-name: {full: Captain Feldur of Ane, aliases: []}
+name: {full: Captain Feldur of Ane}
 type: being
 subType: npc
 tags: []

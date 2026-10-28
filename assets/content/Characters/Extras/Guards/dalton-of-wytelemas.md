@@ -1,6 +1,6 @@
 ---
 shortcode: daltonofwytelemas
-name: {full: Dalton of Wytelemas, aliases: []}
+name: {full: Dalton of Wytelemas}
 type: being
 subType: npc
 tags: []

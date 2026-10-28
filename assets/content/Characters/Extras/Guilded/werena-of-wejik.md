@@ -1,6 +1,6 @@
 ---
 shortcode: werenaofwejik
-name: {full: Werena of Wejik, aliases: []}
+name: {full: Werena of Wejik}
 type: being
 subType: npc
 tags: []

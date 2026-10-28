@@ -1,6 +1,6 @@
 ---
 shortcode: raselofbela
-name: {full: Rasel of Bela, aliases: []}
+name: {full: Rasel of Bela}
 type: being
 subType: npc
 tags: []

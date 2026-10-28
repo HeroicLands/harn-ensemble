@@ -1,6 +1,6 @@
 ---
 shortcode: narikofkoruarr
-name: {full: Narik of Koruarr, aliases: []}
+name: {full: Narik of Koruarr}
 type: being
 subType: npc
 tags: []

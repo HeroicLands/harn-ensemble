@@ -1,6 +1,6 @@
 ---
 shortcode: petinmuldabel
-name: {full: Petin Muldabel, aliases: []}
+name: {full: Petin Muldabel}
 type: being
 subType: character
 tags: []

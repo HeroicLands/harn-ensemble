@@ -1,6 +1,6 @@
 ---
 shortcode: garostaofobyne
-name: {full: Garosta of Obyne, aliases: []}
+name: {full: Garosta of Obyne}
 type: being
 subType: npc
 tags: []

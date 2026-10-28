@@ -1,6 +1,6 @@
 ---
 shortcode: frandofmerke
-name: {full: Frand of Merke, aliases: []}
+name: {full: Frand of Merke}
 type: being
 subType: npc
 tags: []

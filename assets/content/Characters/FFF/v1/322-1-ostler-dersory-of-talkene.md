@@ -1,6 +1,6 @@
 ---
 shortcode: dersoryoftalkene
-name: {full: Dersory of Talkene, aliases: []}
+name: {full: Dersory of Talkene}
 type: being
 subType: character
 tags: []

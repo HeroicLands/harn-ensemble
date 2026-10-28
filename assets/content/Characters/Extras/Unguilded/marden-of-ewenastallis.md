@@ -1,6 +1,6 @@
 ---
 shortcode: mardenofewenastallis
-name: {full: Marden of Ewenastallis, aliases: []}
+name: {full: Marden of Ewenastallis}
 type: being
 subType: npc
 tags: []

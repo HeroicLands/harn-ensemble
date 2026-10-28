@@ -1,6 +1,6 @@
 ---
 shortcode: derrialcyeen
-name: {full: Derrial Cyeen, aliases: []}
+name: {full: Derrial Cyeen}
 type: being
 subType: character
 tags: []

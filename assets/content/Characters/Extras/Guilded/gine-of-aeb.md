@@ -1,6 +1,6 @@
 ---
 shortcode: gineofaeb
-name: {full: Gine of Aeb, aliases: []}
+name: {full: Gine of Aeb}
 type: being
 subType: npc
 tags: []

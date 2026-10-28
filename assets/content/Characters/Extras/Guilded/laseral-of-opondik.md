@@ -1,6 +1,6 @@
 ---
 shortcode: laseralofopondik
-name: {full: Laseral of Opondik, aliases: []}
+name: {full: Laseral of Opondik}
 type: being
 subType: npc
 tags: []

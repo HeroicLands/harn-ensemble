@@ -1,6 +1,6 @@
 ---
 shortcode: silofeveriel
-name: {full: Sil of Everiel, aliases: []}
+name: {full: Sil of Everiel}
 type: being
 subType: npc
 tags: []

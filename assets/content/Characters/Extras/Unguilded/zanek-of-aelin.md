@@ -1,6 +1,6 @@
 ---
 shortcode: zanekofaelin
-name: {full: Zanek of Aelin, aliases: []}
+name: {full: Zanek of Aelin}
 type: being
 subType: npc
 tags: []

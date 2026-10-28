@@ -1,6 +1,6 @@
 ---
 shortcode: karynoftrollateris
-name: {full: Karyn of Trollateris, aliases: []}
+name: {full: Karyn of Trollateris}
 type: being
 subType: npc
 tags: []

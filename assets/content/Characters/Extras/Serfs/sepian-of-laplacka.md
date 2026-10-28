@@ -1,6 +1,6 @@
 ---
 shortcode: sepianoflaplacka
-name: {full: Sepian of Laplacka, aliases: []}
+name: {full: Sepian of Laplacka}
 type: being
 subType: npc
 tags: []

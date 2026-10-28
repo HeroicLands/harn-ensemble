@@ -1,6 +1,6 @@
 ---
 shortcode: aralofkyfa
-name: {full: Aral of Kyfa, aliases: []}
+name: {full: Aral of Kyfa}
 type: being
 subType: npc
 tags: []

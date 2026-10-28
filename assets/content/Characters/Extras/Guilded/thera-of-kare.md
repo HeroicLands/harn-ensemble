@@ -1,6 +1,6 @@
 ---
 shortcode: theraofkare
-name: {full: Thera of Kare, aliases: []}
+name: {full: Thera of Kare}
 type: being
 subType: npc
 tags: []

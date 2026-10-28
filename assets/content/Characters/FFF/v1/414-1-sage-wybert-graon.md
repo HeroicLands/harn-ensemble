@@ -1,6 +1,6 @@
 ---
 shortcode: wybertgraon
-name: {full: Wybert Graon, aliases: []}
+name: {full: Wybert Graon}
 type: being
 subType: character
 tags: []

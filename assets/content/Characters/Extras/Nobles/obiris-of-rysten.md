@@ -1,6 +1,6 @@
 ---
 shortcode: obirisofrysten
-name: {full: Obiris of Rysten, aliases: []}
+name: {full: Obiris of Rysten}
 type: being
 subType: npc
 tags: []

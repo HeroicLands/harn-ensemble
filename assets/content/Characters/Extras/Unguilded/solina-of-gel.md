@@ -1,6 +1,6 @@
 ---
 shortcode: solinaofgel
-name: {full: Solina of Gel, aliases: []}
+name: {full: Solina of Gel}
 type: being
 subType: npc
 tags: []

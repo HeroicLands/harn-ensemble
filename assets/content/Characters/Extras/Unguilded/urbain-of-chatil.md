@@ -1,6 +1,6 @@
 ---
 shortcode: urbainofchatil
-name: {full: Urbain of Chatil, aliases: []}
+name: {full: Urbain of Chatil}
 type: being
 subType: npc
 tags: []

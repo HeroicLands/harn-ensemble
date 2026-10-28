@@ -1,6 +1,6 @@
 ---
 shortcode: mamachanti
-name: {full: Mama Chanti, aliases: []}
+name: {full: Mama Chanti}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: terlinofmel
-name: {full: Terlin of Mel, aliases: []}
+name: {full: Terlin of Mel}
 type: being
 subType: npc
 tags: []

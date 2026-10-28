@@ -1,6 +1,6 @@
 ---
 shortcode: jithofikswic
-name: {full: Jith of Ikswic, aliases: []}
+name: {full: Jith of Ikswic}
 type: being
 subType: npc
 tags: []

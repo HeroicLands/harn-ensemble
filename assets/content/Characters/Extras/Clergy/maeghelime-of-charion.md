@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelimeofcharion
-name: {full: Maeghelime of Charion, aliases: []}
+name: {full: Maeghelime of Charion}
 type: being
 subType: npc
 tags: []

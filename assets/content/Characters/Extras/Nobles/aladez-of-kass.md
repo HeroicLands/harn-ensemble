@@ -1,6 +1,6 @@
 ---
 shortcode: aladezofkass
-name: {full: Aladez of Kass, aliases: []}
+name: {full: Aladez of Kass}
 type: being
 subType: npc
 tags: []

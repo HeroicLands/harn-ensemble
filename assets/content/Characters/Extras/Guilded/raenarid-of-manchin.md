@@ -1,6 +1,6 @@
 ---
 shortcode: raenaridofmanchin
-name: {full: Raenarid of Manchin, aliases: []}
+name: {full: Raenarid of Manchin}
 type: being
 subType: npc
 tags: []

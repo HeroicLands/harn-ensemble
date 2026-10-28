@@ -1,6 +1,6 @@
 ---
 shortcode: cheselynofathan
-name: {full: Cheselyn of Athan, aliases: []}
+name: {full: Cheselyn of Athan}
 type: being
 subType: npc
 tags: []

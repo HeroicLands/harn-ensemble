@@ -1,6 +1,6 @@
 ---
 shortcode: kesyneofvylosathan
-name: {full: Kesyne of Vylosathan, aliases: []}
+name: {full: Kesyne of Vylosathan}
 type: being
 subType: npc
 tags: []

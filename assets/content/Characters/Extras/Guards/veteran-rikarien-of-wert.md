@@ -1,6 +1,6 @@
 ---
 shortcode: veteranrikarienofwert
-name: {full: Veteran Rikarien of Wert, aliases: []}
+name: {full: Veteran Rikarien of Wert}
 type: being
 subType: npc
 tags: []

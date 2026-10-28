@@ -1,6 +1,6 @@
 ---
 shortcode: dagwynofkhael
-name: {full: Dagwyn of Khael, aliases: []}
+name: {full: Dagwyn of Khael}
 type: being
 subType: character
 tags: []

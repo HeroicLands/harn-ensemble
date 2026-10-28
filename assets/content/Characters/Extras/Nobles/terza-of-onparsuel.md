@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofonparsuel
-name: {full: Terza of Onparsuel, aliases: []}
+name: {full: Terza of Onparsuel}
 type: being
 subType: npc
 tags: []

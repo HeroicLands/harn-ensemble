@@ -1,6 +1,6 @@
 ---
 shortcode: yeralofren
-name: {full: Yeral of Ren, aliases: []}
+name: {full: Yeral of Ren}
 type: being
 subType: npc
 tags: []

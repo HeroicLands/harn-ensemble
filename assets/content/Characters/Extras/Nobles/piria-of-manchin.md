@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofmanchin
-name: {full: Piria of Manchin, aliases: []}
+name: {full: Piria of Manchin}
 type: being
 subType: npc
 tags: []

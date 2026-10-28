@@ -1,6 +1,6 @@
 ---
 shortcode: chimaofael
-name: {full: Chima of Ael, aliases: []}
+name: {full: Chima of Ael}
 type: being
 subType: npc
 tags: []

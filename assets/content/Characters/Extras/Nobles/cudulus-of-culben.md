@@ -1,6 +1,6 @@
 ---
 shortcode: cudulusofculben
-name: {full: Cudulus of Culben, aliases: []}
+name: {full: Cudulus of Culben}
 type: being
 subType: npc
 tags: []

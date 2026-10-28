@@ -1,6 +1,6 @@
 ---
 shortcode: ferechofwulverikar
-name: {full: Ferech of Wulverikar, aliases: []}
+name: {full: Ferech of Wulverikar}
 type: being
 subType: npc
 tags: []

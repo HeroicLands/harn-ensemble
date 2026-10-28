@@ -1,6 +1,6 @@
 ---
 shortcode: barofclern
-name: {full: Bar of Clern, aliases: []}
+name: {full: Bar of Clern}
 type: being
 subType: npc
 tags: []

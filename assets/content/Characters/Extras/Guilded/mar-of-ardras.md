@@ -1,6 +1,6 @@
 ---
 shortcode: marofardras
-name: {full: Mar of Ardras, aliases: []}
+name: {full: Mar of Ardras}
 type: being
 subType: npc
 tags: []

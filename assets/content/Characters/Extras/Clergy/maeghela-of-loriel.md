@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelaofloriel
-name: {full: Maeghela of Loriel, aliases: []}
+name: {full: Maeghela of Loriel}
 type: being
 subType: npc
 tags: []

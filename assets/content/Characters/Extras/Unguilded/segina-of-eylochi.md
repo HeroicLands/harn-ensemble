@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofeylochi
-name: {full: Segina of Eylochi, aliases: []}
+name: {full: Segina of Eylochi}
 type: being
 subType: npc
 tags: []

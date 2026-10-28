@@ -1,6 +1,6 @@
 ---
 shortcode: dickonofashel
-name: {full: Dickon of Ashel, aliases: []}
+name: {full: Dickon of Ashel}
 type: being
 subType: npc
 tags: []

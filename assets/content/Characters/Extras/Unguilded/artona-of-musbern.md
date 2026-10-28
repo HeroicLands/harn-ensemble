@@ -1,6 +1,6 @@
 ---
 shortcode: artonaofmusbern
-name: {full: Artona of Musbern, aliases: []}
+name: {full: Artona of Musbern}
 type: being
 subType: npc
 tags: []

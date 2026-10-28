@@ -1,6 +1,6 @@
 ---
 shortcode: vadulfofgesper
-name: {full: Vadulf of Gesper, aliases: []}
+name: {full: Vadulf of Gesper}
 type: being
 subType: character
 tags: []

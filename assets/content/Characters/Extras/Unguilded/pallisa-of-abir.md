@@ -1,6 +1,6 @@
 ---
 shortcode: pallisaofabir
-name: {full: Pallisa of Abir, aliases: []}
+name: {full: Pallisa of Abir}
 type: being
 subType: npc
 tags: []

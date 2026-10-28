@@ -1,6 +1,6 @@
 ---
 shortcode: liriamofsar
-name: {full: Liriam of Sar, aliases: []}
+name: {full: Liriam of Sar}
 type: being
 subType: npc
 tags: []

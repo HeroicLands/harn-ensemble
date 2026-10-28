@@ -1,6 +1,6 @@
 ---
 shortcode: makalwisofcinbaren
-name: {full: Makalwis of Cinbaren, aliases: []}
+name: {full: Makalwis of Cinbaren}
 type: being
 subType: npc
 tags: []

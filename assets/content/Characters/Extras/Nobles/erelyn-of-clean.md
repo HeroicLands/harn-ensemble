@@ -1,6 +1,6 @@
 ---
 shortcode: erelynofclean
-name: {full: Erelyn of Clean, aliases: []}
+name: {full: Erelyn of Clean}
 type: being
 subType: npc
 tags: []

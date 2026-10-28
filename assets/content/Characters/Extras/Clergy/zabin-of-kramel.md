@@ -1,6 +1,6 @@
 ---
 shortcode: zabinofkramel
-name: {full: Zabin of Kramel, aliases: []}
+name: {full: Zabin of Kramel}
 type: being
 subType: npc
 tags: []

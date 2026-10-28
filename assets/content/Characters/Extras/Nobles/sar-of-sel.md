@@ -1,6 +1,6 @@
 ---
 shortcode: sarofsel
-name: {full: Sar of Sel, aliases: []}
+name: {full: Sar of Sel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: drigalofhudusin
-name: {full: Drigal of Hudusin, aliases: []}
+name: {full: Drigal of Hudusin}
 type: being
 subType: npc
 tags: []

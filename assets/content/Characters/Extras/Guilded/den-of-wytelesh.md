@@ -1,6 +1,6 @@
 ---
 shortcode: denofwytelesh
-name: {full: Den of Wytelesh, aliases: []}
+name: {full: Den of Wytelesh}
 type: being
 subType: npc
 tags: []

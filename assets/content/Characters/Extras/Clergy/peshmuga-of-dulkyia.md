@@ -1,6 +1,6 @@
 ---
 shortcode: peshmugaofdulkyia
-name: {full: Peshmuga of Dulkyia, aliases: []}
+name: {full: Peshmuga of Dulkyia}
 type: being
 subType: npc
 tags: []

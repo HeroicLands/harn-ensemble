@@ -1,6 +1,6 @@
 ---
 shortcode: chendofamafa
-name: {full: Chend of Amafa, aliases: []}
+name: {full: Chend of Amafa}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jarlamofgamalkalddan
-name: {full: Jarlam of Gamalkalddan, aliases: []}
+name: {full: Jarlam of Gamalkalddan}
 type: being
 subType: npc
 tags: []

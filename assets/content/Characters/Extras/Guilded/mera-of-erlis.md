@@ -1,6 +1,6 @@
 ---
 shortcode: meraoferlis
-name: {full: Mera of Erlis, aliases: []}
+name: {full: Mera of Erlis}
 type: being
 subType: npc
 tags: []

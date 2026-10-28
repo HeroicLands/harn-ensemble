@@ -1,6 +1,6 @@
 ---
 shortcode: kirlinofrenel
-name: {full: Kirlin of Renel, aliases: []}
+name: {full: Kirlin of Renel}
 type: being
 subType: npc
 tags: []

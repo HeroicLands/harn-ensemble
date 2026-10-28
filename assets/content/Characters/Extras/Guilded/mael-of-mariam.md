@@ -1,6 +1,6 @@
 ---
 shortcode: maelofmariam
-name: {full: Mael of Mariam, aliases: []}
+name: {full: Mael of Mariam}
 type: being
 subType: npc
 tags: []

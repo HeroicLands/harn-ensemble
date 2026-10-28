@@ -1,6 +1,6 @@
 ---
 shortcode: jorakofosath
-name: {full: Jorak of Osath, aliases: []}
+name: {full: Jorak of Osath}
 type: being
 subType: npc
 tags: []

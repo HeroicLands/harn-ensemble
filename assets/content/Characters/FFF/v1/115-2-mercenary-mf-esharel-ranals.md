@@ -1,6 +1,6 @@
 ---
 shortcode: esharelranals
-name: {full: Esharel Ranals, aliases: []}
+name: {full: Esharel Ranals}
 type: being
 subType: character
 tags: []

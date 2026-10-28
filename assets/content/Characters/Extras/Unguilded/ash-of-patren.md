@@ -1,6 +1,6 @@
 ---
 shortcode: ashofpatren
-name: {full: Ash of Patren, aliases: []}
+name: {full: Ash of Patren}
 type: being
 subType: npc
 tags: []

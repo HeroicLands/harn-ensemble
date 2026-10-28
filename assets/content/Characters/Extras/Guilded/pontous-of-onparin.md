@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofonparin
-name: {full: Pontous of Onparin, aliases: []}
+name: {full: Pontous of Onparin}
 type: being
 subType: npc
 tags: []

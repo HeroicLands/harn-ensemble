@@ -1,6 +1,6 @@
 ---
 shortcode: sarofpyth
-name: {full: Sar of Pyth, aliases: []}
+name: {full: Sar of Pyth}
 type: being
 subType: npc
 tags: []

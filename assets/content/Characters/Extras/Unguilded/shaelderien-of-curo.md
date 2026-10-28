@@ -1,6 +1,6 @@
 ---
 shortcode: shaelderienofcuro
-name: {full: Shaelderien of Curo, aliases: []}
+name: {full: Shaelderien of Curo}
 type: being
 subType: npc
 tags: []

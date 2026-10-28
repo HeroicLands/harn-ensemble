@@ -1,6 +1,6 @@
 ---
 shortcode: eamonofgwyffidd
-name: {full: Eamon of Gwyffidd, aliases: []}
+name: {full: Eamon of Gwyffidd}
 type: being
 subType: npc
 tags: []

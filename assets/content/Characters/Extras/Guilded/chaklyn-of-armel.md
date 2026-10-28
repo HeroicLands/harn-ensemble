@@ -1,6 +1,6 @@
 ---
 shortcode: chaklynofarmel
-name: {full: Chaklyn of Armel, aliases: []}
+name: {full: Chaklyn of Armel}
 type: being
 subType: npc
 tags: []

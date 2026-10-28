@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofaethesta
-name: {full: Tomus of Aethesta, aliases: []}
+name: {full: Tomus of Aethesta}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arainofunigal
-name: {full: Arain of Unigal, aliases: []}
+name: {full: Arain of Unigal}
 type: being
 subType: npc
 tags: []

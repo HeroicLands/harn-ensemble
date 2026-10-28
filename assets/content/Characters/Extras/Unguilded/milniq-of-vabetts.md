@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofvabetts
-name: {full: Milniq of Vabetts, aliases: []}
+name: {full: Milniq of Vabetts}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arnofcadwar
-name: {full: Arn of Cadwar, aliases: []}
+name: {full: Arn of Cadwar}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: zuldagmekofagarin
-name: {full: Zuldagmek of Agarin, aliases: []}
+name: {full: Zuldagmek of Agarin}
 type: being
 subType: npc
 tags: []

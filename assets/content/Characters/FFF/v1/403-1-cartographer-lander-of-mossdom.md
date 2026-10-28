@@ -1,6 +1,6 @@
 ---
 shortcode: landerofmossdom
-name: {full: Lander of Mossdom, aliases: []}
+name: {full: Lander of Mossdom}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: yagoofwulver
-name: {full: Yago of Wulver, aliases: []}
+name: {full: Yago of Wulver}
 type: being
 subType: npc
 tags: []

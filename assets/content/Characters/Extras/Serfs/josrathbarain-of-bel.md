@@ -1,6 +1,6 @@
 ---
 shortcode: josrathbarainofbel
-name: {full: Josrathbarain of Bel, aliases: []}
+name: {full: Josrathbarain of Bel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: karikofmykanthes
-name: {full: Karik of Mykanthes, aliases: []}
+name: {full: Karik of Mykanthes}
 type: being
 subType: npc
 tags: []

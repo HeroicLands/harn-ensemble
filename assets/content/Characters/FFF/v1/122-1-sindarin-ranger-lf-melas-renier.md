@@ -1,6 +1,6 @@
 ---
 shortcode: melasrenier
-name: {full: Melas Renier, aliases: []}
+name: {full: Melas Renier}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: cholaofdebernin
-name: {full: Chola of Debernin, aliases: []}
+name: {full: Chola of Debernin}
 type: being
 subType: npc
 tags: []

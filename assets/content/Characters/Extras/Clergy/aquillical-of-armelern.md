@@ -1,6 +1,6 @@
 ---
 shortcode: aquillicalofarmelern
-name: {full: Aquillical of Armelern, aliases: []}
+name: {full: Aquillical of Armelern}
 type: being
 subType: npc
 tags: []

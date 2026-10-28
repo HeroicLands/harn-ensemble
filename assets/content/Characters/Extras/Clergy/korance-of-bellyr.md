@@ -1,6 +1,6 @@
 ---
 shortcode: koranceofbellyr
-name: {full: Korance of Bellyr, aliases: []}
+name: {full: Korance of Bellyr}
 type: being
 subType: npc
 tags: []

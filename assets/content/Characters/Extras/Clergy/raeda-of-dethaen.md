@@ -1,6 +1,6 @@
 ---
 shortcode: raedaofdethaen
-name: {full: Raeda of Dethaen, aliases: []}
+name: {full: Raeda of Dethaen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jasynofvabeta
-name: {full: Jasyn of Vabeta, aliases: []}
+name: {full: Jasyn of Vabeta}
 type: being
 subType: npc
 tags: []

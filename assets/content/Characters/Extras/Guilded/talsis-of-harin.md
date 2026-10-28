@@ -1,6 +1,6 @@
 ---
 shortcode: talsisofharin
-name: {full: Talsis of Harin, aliases: []}
+name: {full: Talsis of Harin}
 type: being
 subType: npc
 tags: []

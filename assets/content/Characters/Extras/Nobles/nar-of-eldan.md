@@ -1,6 +1,6 @@
 ---
 shortcode: narofeldan
-name: {full: Nar of Eldan, aliases: []}
+name: {full: Nar of Eldan}
 type: being
 subType: npc
 tags: []

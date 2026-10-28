@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelofcilta
-name: {full: Maeghel of Cilta, aliases: []}
+name: {full: Maeghel of Cilta}
 type: being
 subType: npc
 tags: []

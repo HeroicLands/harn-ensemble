@@ -1,6 +1,6 @@
 ---
 shortcode: satrisofplaemen
-name: {full: Satris of Plaemen, aliases: []}
+name: {full: Satris of Plaemen}
 type: being
 subType: npc
 tags: []

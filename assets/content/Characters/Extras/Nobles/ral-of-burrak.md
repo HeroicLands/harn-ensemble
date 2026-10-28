@@ -1,6 +1,6 @@
 ---
 shortcode: ralofburrak
-name: {full: Ral of Burrak, aliases: []}
+name: {full: Ral of Burrak}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: raenaofsethen
-name: {full: Raena of Sethen, aliases: []}
+name: {full: Raena of Sethen}
 type: being
 subType: npc
 tags: []

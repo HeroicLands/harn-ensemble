@@ -1,6 +1,6 @@
 ---
 shortcode: ealfricdefard
-name: {full: Ealfric Defard, aliases: []}
+name: {full: Ealfric Defard}
 type: being
 subType: character
 tags: []

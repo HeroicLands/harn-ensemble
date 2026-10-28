@@ -1,6 +1,6 @@
 ---
 shortcode: brasofarin
-name: {full: Bras of Arin, aliases: []}
+name: {full: Bras of Arin}
 type: being
 subType: npc
 tags: []

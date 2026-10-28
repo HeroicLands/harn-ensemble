@@ -1,6 +1,6 @@
 ---
 shortcode: cidinofamath
-name: {full: Cidin of Amath, aliases: []}
+name: {full: Cidin of Amath}
 type: being
 subType: npc
 tags: []

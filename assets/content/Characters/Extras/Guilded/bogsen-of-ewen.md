@@ -1,6 +1,6 @@
 ---
 shortcode: bogsenofewen
-name: {full: Bogsen of Ewen, aliases: []}
+name: {full: Bogsen of Ewen}
 type: being
 subType: npc
 tags: []

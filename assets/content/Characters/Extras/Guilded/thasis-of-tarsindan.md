@@ -1,6 +1,6 @@
 ---
 shortcode: thasisoftarsindan
-name: {full: Thasis of Tarsindan, aliases: []}
+name: {full: Thasis of Tarsindan}
 type: being
 subType: npc
 tags: []

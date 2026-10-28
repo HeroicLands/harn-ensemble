@@ -1,6 +1,6 @@
 ---
 shortcode: krikofdarin
-name: {full: Krik of Darin, aliases: []}
+name: {full: Krik of Darin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: merenelleofdurnwak
-name: {full: Merenelle of Durnwak, aliases: []}
+name: {full: Merenelle of Durnwak}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: boseroftulkai
-name: {full: Boser of Tulkai, aliases: []}
+name: {full: Boser of Tulkai}
 type: being
 subType: npc
 tags: []

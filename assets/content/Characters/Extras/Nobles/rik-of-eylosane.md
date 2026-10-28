@@ -1,6 +1,6 @@
 ---
 shortcode: rikofeylosane
-name: {full: Rik of Eylosane, aliases: []}
+name: {full: Rik of Eylosane}
 type: being
 subType: npc
 tags: []

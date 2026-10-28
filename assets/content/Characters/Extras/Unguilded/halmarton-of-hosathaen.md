@@ -1,6 +1,6 @@
 ---
 shortcode: halmartonofhosathaen
-name: {full: Halmarton of Hosathaen, aliases: []}
+name: {full: Halmarton of Hosathaen}
 type: being
 subType: npc
 tags: []

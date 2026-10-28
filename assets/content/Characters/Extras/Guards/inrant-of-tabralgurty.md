@@ -1,6 +1,6 @@
 ---
 shortcode: inrantoftabralgurty
-name: {full: Inrant of Tabralgurty, aliases: []}
+name: {full: Inrant of Tabralgurty}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: pirisofeldesaldir
-name: {full: Piris of Eldesaldir, aliases: []}
+name: {full: Piris of Eldesaldir}
 type: being
 subType: npc
 tags: []

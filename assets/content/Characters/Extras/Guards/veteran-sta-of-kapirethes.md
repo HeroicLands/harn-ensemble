@@ -1,6 +1,6 @@
 ---
 shortcode: veteranstaofkapirethes
-name: {full: Veteran Sta of Kapirethes, aliases: []}
+name: {full: Veteran Sta of Kapirethes}
 type: being
 subType: npc
 tags: []

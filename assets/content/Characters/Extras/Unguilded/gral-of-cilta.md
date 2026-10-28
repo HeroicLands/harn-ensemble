@@ -1,6 +1,6 @@
 ---
 shortcode: gralofcilta
-name: {full: Gral of Cilta, aliases: []}
+name: {full: Gral of Cilta}
 type: being
 subType: npc
 tags: []

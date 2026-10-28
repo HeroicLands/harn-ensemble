@@ -1,6 +1,6 @@
 ---
 shortcode: hennigarofchelsenal
-name: {full: Hennigar of Chelsenal, aliases: []}
+name: {full: Hennigar of Chelsenal}
 type: being
 subType: npc
 tags: []

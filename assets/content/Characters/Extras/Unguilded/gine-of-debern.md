@@ -1,6 +1,6 @@
 ---
 shortcode: gineofdebern
-name: {full: Gine of Debern, aliases: []}
+name: {full: Gine of Debern}
 type: being
 subType: npc
 tags: []

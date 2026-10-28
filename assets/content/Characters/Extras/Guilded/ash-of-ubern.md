@@ -1,6 +1,6 @@
 ---
 shortcode: ashofubern
-name: {full: Ash of Ubern, aliases: []}
+name: {full: Ash of Ubern}
 type: being
 subType: npc
 tags: []

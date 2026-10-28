@@ -1,6 +1,6 @@
 ---
 shortcode: nathofoshor
-name: {full: Nath of Oshor, aliases: []}
+name: {full: Nath of Oshor}
 type: being
 subType: npc
 tags: []

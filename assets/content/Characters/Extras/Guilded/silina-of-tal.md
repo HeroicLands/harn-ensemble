@@ -1,6 +1,6 @@
 ---
 shortcode: silinaoftal
-name: {full: Silina of Tal, aliases: []}
+name: {full: Silina of Tal}
 type: being
 subType: npc
 tags: []

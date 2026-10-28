@@ -1,6 +1,6 @@
 ---
 shortcode: mabresen
-name: {full: Mabresen, aliases: []}
+name: {full: Mabresen}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gaetaneofhiltex
-name: {full: Gaetane of Hiltex, aliases: []}
+name: {full: Gaetane of Hiltex}
 type: being
 subType: npc
 tags: []

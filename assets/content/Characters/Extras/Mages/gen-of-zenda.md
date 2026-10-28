@@ -1,6 +1,6 @@
 ---
 shortcode: genofzenda
-name: {full: Gen of Zenda, aliases: []}
+name: {full: Gen of Zenda}
 type: being
 subType: npc
 tags: []

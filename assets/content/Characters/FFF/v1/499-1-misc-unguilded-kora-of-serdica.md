@@ -1,6 +1,6 @@
 ---
 shortcode: koraofserdica
-name: {full: Kora of Serdica, aliases: []}
+name: {full: Kora of Serdica}
 type: being
 subType: character
 tags: []

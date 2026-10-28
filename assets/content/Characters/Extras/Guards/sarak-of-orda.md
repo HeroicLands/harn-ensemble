@@ -1,6 +1,6 @@
 ---
 shortcode: sarakoforda
-name: {full: Sarak of Orda, aliases: []}
+name: {full: Sarak of Orda}
 type: being
 subType: npc
 tags: []

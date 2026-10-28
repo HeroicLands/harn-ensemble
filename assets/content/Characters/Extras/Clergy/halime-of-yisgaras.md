@@ -1,6 +1,6 @@
 ---
 shortcode: halimeofyisgaras
-name: {full: Halime of Yisgaras, aliases: []}
+name: {full: Halime of Yisgaras}
 type: being
 subType: npc
 tags: []

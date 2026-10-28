@@ -1,6 +1,6 @@
 ---
 shortcode: forenaofthoff
-name: {full: Forena of Thoff, aliases: []}
+name: {full: Forena of Thoff}
 type: being
 subType: npc
 tags: []

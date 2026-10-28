@@ -1,6 +1,6 @@
 ---
 shortcode: narienofasarnesku
-name: {full: Narien of Asarnesku, aliases: []}
+name: {full: Narien of Asarnesku}
 type: being
 subType: npc
 tags: []

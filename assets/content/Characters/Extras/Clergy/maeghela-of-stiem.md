@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelaofstiem
-name: {full: Maeghela of Stiem, aliases: []}
+name: {full: Maeghela of Stiem}
 type: being
 subType: npc
 tags: []

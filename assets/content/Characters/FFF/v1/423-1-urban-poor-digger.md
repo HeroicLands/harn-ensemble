@@ -1,6 +1,6 @@
 ---
 shortcode: digger
-name: {full: Digger, aliases: []}
+name: {full: Digger}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tarckofpthelya
-name: {full: Tarck of Pthelya, aliases: []}
+name: {full: Tarck of Pthelya}
 type: being
 subType: npc
 tags: []

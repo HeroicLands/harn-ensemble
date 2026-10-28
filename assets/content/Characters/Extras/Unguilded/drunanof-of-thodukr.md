@@ -1,6 +1,6 @@
 ---
 shortcode: drunanofofthodukr
-name: {full: Drunanof of Thodukr, aliases: []}
+name: {full: Drunanof of Thodukr}
 type: being
 subType: npc
 tags: []

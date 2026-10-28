@@ -1,6 +1,6 @@
 ---
 shortcode: grallaxofcadrune
-name: {full: Grallax of Cadrune, aliases: []}
+name: {full: Grallax of Cadrune}
 type: being
 subType: npc
 tags: []

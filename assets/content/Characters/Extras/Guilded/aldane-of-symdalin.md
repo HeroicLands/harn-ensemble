@@ -1,6 +1,6 @@
 ---
 shortcode: aldaneofsymdalin
-name: {full: Aldane of Symdalin, aliases: []}
+name: {full: Aldane of Symdalin}
 type: being
 subType: npc
 tags: []

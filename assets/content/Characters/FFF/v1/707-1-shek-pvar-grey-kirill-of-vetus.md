@@ -1,6 +1,6 @@
 ---
 shortcode: kirillofvetus
-name: {full: Kirill of Vetus, aliases: []}
+name: {full: Kirill of Vetus}
 type: being
 subType: character
 tags: []

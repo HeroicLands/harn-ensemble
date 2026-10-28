@@ -1,6 +1,6 @@
 ---
 shortcode: arbrinofhudusinar
-name: {full: Arbrin of Hudusinar, aliases: []}
+name: {full: Arbrin of Hudusinar}
 type: being
 subType: npc
 tags: []

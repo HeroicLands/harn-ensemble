@@ -1,6 +1,6 @@
 ---
 shortcode: gravithofdray
-name: {full: Gravith of Dray, aliases: []}
+name: {full: Gravith of Dray}
 type: being
 subType: character
 tags: []

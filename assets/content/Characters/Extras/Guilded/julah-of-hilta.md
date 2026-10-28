@@ -1,6 +1,6 @@
 ---
 shortcode: julahofhilta
-name: {full: Julah of Hilta, aliases: []}
+name: {full: Julah of Hilta}
 type: being
 subType: npc
 tags: []

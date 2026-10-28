@@ -1,6 +1,6 @@
 ---
 shortcode: kuvelofewel
-name: {full: Kuvel of Ewel, aliases: []}
+name: {full: Kuvel of Ewel}
 type: being
 subType: npc
 tags: []

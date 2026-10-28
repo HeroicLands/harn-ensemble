@@ -1,6 +1,6 @@
 ---
 shortcode: inalofeverikarby
-name: {full: Inal of Everikarby, aliases: []}
+name: {full: Inal of Everikarby}
 type: being
 subType: npc
 tags: []

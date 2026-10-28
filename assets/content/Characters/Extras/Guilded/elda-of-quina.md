@@ -1,6 +1,6 @@
 ---
 shortcode: eldaofquina
-name: {full: Elda of Quina, aliases: []}
+name: {full: Elda of Quina}
 type: being
 subType: npc
 tags: []

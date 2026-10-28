@@ -1,6 +1,6 @@
 ---
 shortcode: hondofane
-name: {full: Hond of Ane, aliases: []}
+name: {full: Hond of Ane}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: obrantofmerke
-name: {full: Obrant of Merke, aliases: []}
+name: {full: Obrant of Merke}
 type: being
 subType: npc
 tags: []

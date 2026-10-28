@@ -1,6 +1,6 @@
 ---
 shortcode: habinoftabralgurty
-name: {full: Habin of Tabralgurty, aliases: []}
+name: {full: Habin of Tabralgurty}
 type: being
 subType: npc
 tags: []

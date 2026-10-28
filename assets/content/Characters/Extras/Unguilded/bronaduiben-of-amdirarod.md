@@ -1,6 +1,6 @@
 ---
 shortcode: bronaduibenofamdirarod
-name: {full: Bronaduiben of Amdirarod, aliases: []}
+name: {full: Bronaduiben of Amdirarod}
 type: being
 subType: npc
 tags: []

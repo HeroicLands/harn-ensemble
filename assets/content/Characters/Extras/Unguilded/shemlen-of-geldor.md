@@ -1,6 +1,6 @@
 ---
 shortcode: shemlenofgeldor
-name: {full: Shemlen of Geldor, aliases: []}
+name: {full: Shemlen of Geldor}
 type: being
 subType: npc
 tags: []

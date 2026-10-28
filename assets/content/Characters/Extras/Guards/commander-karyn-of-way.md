@@ -1,6 +1,6 @@
 ---
 shortcode: commanderkarynofway
-name: {full: Commander Karyn of Way, aliases: []}
+name: {full: Commander Karyn of Way}
 type: being
 subType: npc
 tags: []

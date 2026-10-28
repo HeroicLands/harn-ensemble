@@ -1,6 +1,6 @@
 ---
 shortcode: norbinofbardrass
-name: {full: Norbin of Bardrass, aliases: []}
+name: {full: Norbin of Bardrass}
 type: being
 subType: npc
 tags: []

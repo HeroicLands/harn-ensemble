@@ -1,6 +1,6 @@
 ---
 shortcode: sheoftobilon
-name: {full: She of Tobilon, aliases: []}
+name: {full: She of Tobilon}
 type: being
 subType: npc
 tags: []

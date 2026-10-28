@@ -1,6 +1,6 @@
 ---
 shortcode: lavroofsedir
-name: {full: Lavro of Sedir, aliases: []}
+name: {full: Lavro of Sedir}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gyandyofhylin
-name: {full: Gyandy of Hylin, aliases: []}
+name: {full: Gyandy of Hylin}
 type: being
 subType: npc
 tags: []

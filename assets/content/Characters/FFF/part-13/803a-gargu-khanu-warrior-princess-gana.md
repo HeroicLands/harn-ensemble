@@ -1,6 +1,6 @@
 ---
 shortcode: gana
-name: {full: Gana, aliases: []}
+name: {full: Gana}
 type: being
 subType: character
 tags: []

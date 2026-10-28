@@ -1,6 +1,6 @@
 ---
 shortcode: worinofkesten
-name: {full: Worin of Kesten, aliases: []}
+name: {full: Worin of Kesten}
 type: being
 subType: character
 tags: []

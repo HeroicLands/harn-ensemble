@@ -1,6 +1,6 @@
 ---
 shortcode: jartonaofwesar
-name: {full: Jartona of Wesar, aliases: []}
+name: {full: Jartona of Wesar}
 type: being
 subType: npc
 tags: []

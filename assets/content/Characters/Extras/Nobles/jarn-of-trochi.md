@@ -1,6 +1,6 @@
 ---
 shortcode: jarnoftrochi
-name: {full: Jarn of Trochi, aliases: []}
+name: {full: Jarn of Trochi}
 type: being
 subType: npc
 tags: []

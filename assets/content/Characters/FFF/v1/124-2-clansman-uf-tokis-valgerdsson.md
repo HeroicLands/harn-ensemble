@@ -1,6 +1,6 @@
 ---
 shortcode: tokisvalgerdsson
-name: {full: Tokis Valgerdsson, aliases: []}
+name: {full: Tokis Valgerdsson}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: piltainofroll
-name: {full: Piltain of Roll, aliases: []}
+name: {full: Piltain of Roll}
 type: being
 subType: npc
 tags: []

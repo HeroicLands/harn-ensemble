@@ -1,6 +1,6 @@
 ---
 shortcode: pelynofvalas
-name: {full: Pelyn of Valas, aliases: []}
+name: {full: Pelyn of Valas}
 type: being
 subType: character
 tags: []

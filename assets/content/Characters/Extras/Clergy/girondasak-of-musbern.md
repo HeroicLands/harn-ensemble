@@ -1,6 +1,6 @@
 ---
 shortcode: girondasakofmusbern
-name: {full: Girondasak of Musbern, aliases: []}
+name: {full: Girondasak of Musbern}
 type: being
 subType: npc
 tags: []

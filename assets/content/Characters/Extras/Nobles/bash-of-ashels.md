@@ -1,6 +1,6 @@
 ---
 shortcode: bashofashels
-name: {full: Bash of Ashels, aliases: []}
+name: {full: Bash of Ashels}
 type: being
 subType: npc
 tags: []

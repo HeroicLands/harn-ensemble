@@ -1,6 +1,6 @@
 ---
 shortcode: obiriaoflorin
-name: {full: Obiria of Lorin, aliases: []}
+name: {full: Obiria of Lorin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: lusilofobyne
-name: {full: Lusil of Obyne, aliases: []}
+name: {full: Lusil of Obyne}
 type: being
 subType: npc
 tags: []

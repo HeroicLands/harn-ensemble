@@ -1,6 +1,6 @@
 ---
 shortcode: dickonoftixena
-name: {full: Dickon of Tixena, aliases: []}
+name: {full: Dickon of Tixena}
 type: being
 subType: npc
 tags: []

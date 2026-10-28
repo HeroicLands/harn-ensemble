@@ -1,6 +1,6 @@
 ---
 shortcode: belofhilrich
-name: {full: Bel of Hilrich, aliases: []}
+name: {full: Bel of Hilrich}
 type: being
 subType: npc
 tags: []

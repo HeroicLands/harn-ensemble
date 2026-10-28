@@ -1,6 +1,6 @@
 ---
 shortcode: brethofmerlesh
-name: {full: Breth of Merlesh, aliases: []}
+name: {full: Breth of Merlesh}
 type: being
 subType: npc
 tags: []

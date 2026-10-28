@@ -1,6 +1,6 @@
 ---
 shortcode: kistyneofpenda
-name: {full: Kistyne of Penda, aliases: []}
+name: {full: Kistyne of Penda}
 type: being
 subType: npc
 tags: []

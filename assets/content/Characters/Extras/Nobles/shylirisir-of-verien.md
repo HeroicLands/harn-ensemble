@@ -1,6 +1,6 @@
 ---
 shortcode: shylirisirofverien
-name: {full: Shylirisir of Verien, aliases: []}
+name: {full: Shylirisir of Verien}
 type: being
 subType: npc
 tags: []

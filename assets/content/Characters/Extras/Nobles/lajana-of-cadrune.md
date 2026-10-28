@@ -1,6 +1,6 @@
 ---
 shortcode: lajanaofcadrune
-name: {full: Lajana of Cadrune, aliases: []}
+name: {full: Lajana of Cadrune}
 type: being
 subType: npc
 tags: []

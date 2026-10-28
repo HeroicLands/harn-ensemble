@@ -1,6 +1,6 @@
 ---
 shortcode: nerelenofvabenar
-name: {full: Nerelen of Vabenar, aliases: []}
+name: {full: Nerelen of Vabenar}
 type: being
 subType: npc
 tags: []

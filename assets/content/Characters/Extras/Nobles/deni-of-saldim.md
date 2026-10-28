@@ -1,6 +1,6 @@
 ---
 shortcode: deniofsaldim
-name: {full: Deni of Saldim, aliases: []}
+name: {full: Deni of Saldim}
 type: being
 subType: npc
 tags: []

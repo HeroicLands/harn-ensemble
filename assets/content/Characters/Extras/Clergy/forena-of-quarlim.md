@@ -1,6 +1,6 @@
 ---
 shortcode: forenaofquarlim
-name: {full: Forena of Quarlim, aliases: []}
+name: {full: Forena of Quarlim}
 type: being
 subType: npc
 tags: []

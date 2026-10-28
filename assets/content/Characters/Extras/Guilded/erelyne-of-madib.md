@@ -1,6 +1,6 @@
 ---
 shortcode: erelyneofmadib
-name: {full: Erelyne of Madib, aliases: []}
+name: {full: Erelyne of Madib}
 type: being
 subType: npc
 tags: []

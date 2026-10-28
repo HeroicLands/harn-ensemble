@@ -1,6 +1,6 @@
 ---
 shortcode: darofkarion
-name: {full: Dar of Karion, aliases: []}
+name: {full: Dar of Karion}
 type: being
 subType: npc
 tags: []

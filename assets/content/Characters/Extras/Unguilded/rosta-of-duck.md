@@ -1,6 +1,6 @@
 ---
 shortcode: rostaofduck
-name: {full: Rosta of Duck, aliases: []}
+name: {full: Rosta of Duck}
 type: being
 subType: npc
 tags: []

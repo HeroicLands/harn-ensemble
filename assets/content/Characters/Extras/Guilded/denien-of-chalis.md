@@ -1,6 +1,6 @@
 ---
 shortcode: denienofchalis
-name: {full: Denien of Chalis, aliases: []}
+name: {full: Denien of Chalis}
 type: being
 subType: npc
 tags: []

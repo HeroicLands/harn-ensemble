@@ -1,6 +1,6 @@
 ---
 shortcode: arkorbinofweth
-name: {full: Arkorbin of Weth, aliases: []}
+name: {full: Arkorbin of Weth}
 type: being
 subType: npc
 tags: []

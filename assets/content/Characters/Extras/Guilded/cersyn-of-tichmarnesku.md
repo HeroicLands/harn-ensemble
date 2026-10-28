@@ -1,6 +1,6 @@
 ---
 shortcode: cersynoftichmarnesku
-name: {full: Cersyn of Tichmarnesku, aliases: []}
+name: {full: Cersyn of Tichmarnesku}
 type: being
 subType: npc
 tags: []

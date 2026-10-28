@@ -1,6 +1,6 @@
 ---
 shortcode: queofbrid
-name: {full: Que of Brid, aliases: []}
+name: {full: Que of Brid}
 type: being
 subType: npc
 tags: []

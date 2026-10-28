@@ -1,6 +1,6 @@
 ---
 shortcode: tolmeyofubelaradas
-name: {full: Tolmey of Ubelaradas, aliases: []}
+name: {full: Tolmey of Ubelaradas}
 type: being
 subType: npc
 tags: []

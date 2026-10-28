@@ -1,6 +1,6 @@
 ---
 shortcode: uvienofarass
-name: {full: Uvien of Arass, aliases: []}
+name: {full: Uvien of Arass}
 type: being
 subType: npc
 tags: []

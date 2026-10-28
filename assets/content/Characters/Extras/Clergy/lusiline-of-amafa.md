@@ -1,6 +1,6 @@
 ---
 shortcode: lusilineofamafa
-name: {full: Lusiline of Amafa, aliases: []}
+name: {full: Lusiline of Amafa}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: boseralofhosanefris
-name: {full: Boseral of Hosanefris, aliases: []}
+name: {full: Boseral of Hosanefris}
 type: being
 subType: npc
 tags: []

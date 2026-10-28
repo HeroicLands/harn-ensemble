@@ -1,6 +1,6 @@
 ---
 shortcode: kezelofelwethasil
-name: {full: Kezel of Elwethasil, aliases: []}
+name: {full: Kezel of Elwethasil}
 type: being
 subType: npc
 tags: []

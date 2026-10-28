@@ -1,6 +1,6 @@
 ---
 shortcode: lernoftabral
-name: {full: Lern of Tabral, aliases: []}
+name: {full: Lern of Tabral}
 type: being
 subType: npc
 tags: []

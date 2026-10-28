@@ -1,6 +1,6 @@
 ---
 shortcode: yebinofquarlim
-name: {full: Yebin of Quarlim, aliases: []}
+name: {full: Yebin of Quarlim}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: urbainofmorrin
-name: {full: Urbain of Morrin, aliases: []}
+name: {full: Urbain of Morrin}
 type: being
 subType: npc
 tags: []

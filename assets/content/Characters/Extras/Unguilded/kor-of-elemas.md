@@ -1,6 +1,6 @@
 ---
 shortcode: korofelemas
-name: {full: Kor of Elemas, aliases: []}
+name: {full: Kor of Elemas}
 type: being
 subType: npc
 tags: []

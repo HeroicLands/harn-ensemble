@@ -1,6 +1,6 @@
 ---
 shortcode: umeofgyll
-name: {full: Ume of Gyll, aliases: []}
+name: {full: Ume of Gyll}
 type: being
 subType: npc
 tags: []

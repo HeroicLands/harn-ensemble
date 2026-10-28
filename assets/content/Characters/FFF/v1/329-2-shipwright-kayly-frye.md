@@ -1,6 +1,6 @@
 ---
 shortcode: kaylyfrye
-name: {full: Kayly Frye, aliases: []}
+name: {full: Kayly Frye}
 type: being
 subType: character
 tags: []

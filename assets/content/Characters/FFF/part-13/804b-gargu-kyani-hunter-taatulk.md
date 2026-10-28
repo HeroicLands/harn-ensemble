@@ -1,6 +1,6 @@
 ---
 shortcode: taatulk
-name: {full: Taatulk, aliases: []}
+name: {full: Taatulk}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: genofcosele
-name: {full: Gen of Cosele, aliases: []}
+name: {full: Gen of Cosele}
 type: being
 subType: npc
 tags: []

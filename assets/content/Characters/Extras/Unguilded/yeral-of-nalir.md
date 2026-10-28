@@ -1,6 +1,6 @@
 ---
 shortcode: yeralofnalir
-name: {full: Yeral of Nalir, aliases: []}
+name: {full: Yeral of Nalir}
 type: being
 subType: npc
 tags: []

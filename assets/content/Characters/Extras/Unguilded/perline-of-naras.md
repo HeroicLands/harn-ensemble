@@ -1,6 +1,6 @@
 ---
 shortcode: perlineofnaras
-name: {full: Perline of Naras, aliases: []}
+name: {full: Perline of Naras}
 type: being
 subType: npc
 tags: []

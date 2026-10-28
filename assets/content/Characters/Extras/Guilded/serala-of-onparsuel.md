@@ -1,6 +1,6 @@
 ---
 shortcode: seralaofonparsuel
-name: {full: Serala of Onparsuel, aliases: []}
+name: {full: Serala of Onparsuel}
 type: being
 subType: npc
 tags: []

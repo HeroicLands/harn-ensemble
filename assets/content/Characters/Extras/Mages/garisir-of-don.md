@@ -1,6 +1,6 @@
 ---
 shortcode: garisirofdon
-name: {full: Garisir of Don, aliases: []}
+name: {full: Garisir of Don}
 type: being
 subType: npc
 tags: []

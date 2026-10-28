@@ -1,6 +1,6 @@
 ---
 shortcode: solineofpatrel
-name: {full: Soline of Patrel, aliases: []}
+name: {full: Soline of Patrel}
 type: being
 subType: npc
 tags: []

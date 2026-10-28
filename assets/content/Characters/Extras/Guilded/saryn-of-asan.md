@@ -1,6 +1,6 @@
 ---
 shortcode: sarynofasan
-name: {full: Saryn of Asan, aliases: []}
+name: {full: Saryn of Asan}
 type: being
 subType: npc
 tags: []

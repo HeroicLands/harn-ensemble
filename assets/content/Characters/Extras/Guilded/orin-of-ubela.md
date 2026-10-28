@@ -1,6 +1,6 @@
 ---
 shortcode: orinofubela
-name: {full: Orin of Ubela, aliases: []}
+name: {full: Orin of Ubela}
 type: being
 subType: npc
 tags: []

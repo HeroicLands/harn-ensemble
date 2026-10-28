@@ -1,6 +1,6 @@
 ---
 shortcode: urilofkuldukr
-name: {full: Uril of Kuldukr, aliases: []}
+name: {full: Uril of Kuldukr}
 type: being
 subType: npc
 tags: []

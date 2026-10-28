@@ -1,6 +1,6 @@
 ---
 shortcode: indrostargaofdythan
-name: {full: Indrostarga of Dythan, aliases: []}
+name: {full: Indrostarga of Dythan}
 type: being
 subType: npc
 tags: []

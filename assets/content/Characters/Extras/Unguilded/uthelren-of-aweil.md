@@ -1,6 +1,6 @@
 ---
 shortcode: uthelrenofaweil
-name: {full: Uthelren of Aweil, aliases: []}
+name: {full: Uthelren of Aweil}
 type: being
 subType: npc
 tags: []

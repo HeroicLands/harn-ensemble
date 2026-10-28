@@ -1,6 +1,6 @@
 ---
 shortcode: ardethaiofmerlesque
-name: {full: Ardethai of Merlesque, aliases: []}
+name: {full: Ardethai of Merlesque}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: veteranburkorbinofkalin
-name: {full: Veteran Burkorbin of Kalin, aliases: []}
+name: {full: Veteran Burkorbin of Kalin}
 type: being
 subType: npc
 tags: []

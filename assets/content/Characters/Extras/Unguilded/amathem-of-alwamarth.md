@@ -1,6 +1,6 @@
 ---
 shortcode: amathemofalwamarth
-name: {full: Amathem of Alwamarth, aliases: []}
+name: {full: Amathem of Alwamarth}
 type: being
 subType: npc
 tags: []

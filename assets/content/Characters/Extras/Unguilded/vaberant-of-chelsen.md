@@ -1,6 +1,6 @@
 ---
 shortcode: vaberantofchelsen
-name: {full: Vaberant of Chelsen, aliases: []}
+name: {full: Vaberant of Chelsen}
 type: being
 subType: npc
 tags: []

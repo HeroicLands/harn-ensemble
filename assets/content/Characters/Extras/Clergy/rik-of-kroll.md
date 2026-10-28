@@ -1,6 +1,6 @@
 ---
 shortcode: rikofkroll
-name: {full: Rik of Kroll, aliases: []}
+name: {full: Rik of Kroll}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: murlockofkarenel
-name: {full: Murlock of Karenel, aliases: []}
+name: {full: Murlock of Karenel}
 type: being
 subType: npc
 tags: []

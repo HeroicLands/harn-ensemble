@@ -1,6 +1,6 @@
 ---
 shortcode: brantofonparin
-name: {full: Brant of Onparin, aliases: []}
+name: {full: Brant of Onparin}
 type: being
 subType: npc
 tags: []

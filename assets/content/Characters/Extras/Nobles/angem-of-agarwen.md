@@ -1,6 +1,6 @@
 ---
 shortcode: angemofagarwen
-name: {full: Angem of Agarwen, aliases: []}
+name: {full: Angem of Agarwen}
 type: being
 subType: npc
 tags: []

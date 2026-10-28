@@ -1,6 +1,6 @@
 ---
 shortcode: tobaswickofsharvan
-name: {full: 'Tobas "Wick" of Sharvan', aliases: [Wick]}
+name: {full: 'Tobas "Wick" of Sharvan', en: [Wick]}
 type: being
 subType: character
 tags: []

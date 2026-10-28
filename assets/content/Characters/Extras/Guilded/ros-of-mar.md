@@ -1,6 +1,6 @@
 ---
 shortcode: rosofmar
-name: {full: Ros of Mar, aliases: []}
+name: {full: Ros of Mar}
 type: being
 subType: npc
 tags: []

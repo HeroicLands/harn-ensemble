@@ -1,6 +1,6 @@
 ---
 shortcode: segineofpuckill
-name: {full: Segine of Puckill, aliases: []}
+name: {full: Segine of Puckill}
 type: being
 subType: npc
 tags: []

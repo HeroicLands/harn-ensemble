@@ -1,6 +1,6 @@
 ---
 shortcode: gilesofgilam
-name: {full: Giles of Gilam, aliases: []}
+name: {full: Giles of Gilam}
 type: being
 subType: character
 tags: []

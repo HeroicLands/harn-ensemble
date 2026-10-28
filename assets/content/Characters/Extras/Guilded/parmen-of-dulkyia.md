@@ -1,6 +1,6 @@
 ---
 shortcode: parmenofdulkyia
-name: {full: Parmen of Dulkyia, aliases: []}
+name: {full: Parmen of Dulkyia}
 type: being
 subType: npc
 tags: []

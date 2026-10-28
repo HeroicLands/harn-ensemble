@@ -1,6 +1,6 @@
 ---
 shortcode: arwalinofrogila
-name: {full: Arwalin of Rogila, aliases: []}
+name: {full: Arwalin of Rogila}
 type: being
 subType: character
 tags: []

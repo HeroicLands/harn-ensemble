@@ -1,6 +1,6 @@
 ---
 shortcode: uvieneofsin
-name: {full: Uviene of Sin, aliases: []}
+name: {full: Uviene of Sin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: rasofintrenalasarl
-name: {full: Ras of Intrenalasarl, aliases: []}
+name: {full: Ras of Intrenalasarl}
 type: being
 subType: npc
 tags: []

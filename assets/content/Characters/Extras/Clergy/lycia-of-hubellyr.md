@@ -1,6 +1,6 @@
 ---
 shortcode: lyciaofhubellyr
-name: {full: Lycia of Hubellyr, aliases: []}
+name: {full: Lycia of Hubellyr}
 type: being
 subType: npc
 tags: []

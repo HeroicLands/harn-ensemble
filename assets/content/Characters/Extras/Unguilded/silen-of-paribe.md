@@ -1,6 +1,6 @@
 ---
 shortcode: silenofparibe
-name: {full: Silen of Paribe, aliases: []}
+name: {full: Silen of Paribe}
 type: being
 subType: npc
 tags: []

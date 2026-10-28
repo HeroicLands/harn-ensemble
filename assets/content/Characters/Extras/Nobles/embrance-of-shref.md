@@ -1,6 +1,6 @@
 ---
 shortcode: embranceofshref
-name: {full: Embrance of Shref, aliases: []}
+name: {full: Embrance of Shref}
 type: being
 subType: npc
 tags: []

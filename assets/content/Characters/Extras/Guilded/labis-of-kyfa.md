@@ -1,6 +1,6 @@
 ---
 shortcode: labisofkyfa
-name: {full: Labis of Kyfa, aliases: []}
+name: {full: Labis of Kyfa}
 type: being
 subType: npc
 tags: []

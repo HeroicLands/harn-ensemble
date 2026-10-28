@@ -1,6 +1,6 @@
 ---
 shortcode: helofardras
-name: {full: Hel of Ardras, aliases: []}
+name: {full: Hel of Ardras}
 type: being
 subType: npc
 tags: []

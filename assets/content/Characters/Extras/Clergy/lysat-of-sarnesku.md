@@ -1,6 +1,6 @@
 ---
 shortcode: lysatofsarnesku
-name: {full: Lysat of Sarnesku, aliases: []}
+name: {full: Lysat of Sarnesku}
 type: being
 subType: npc
 tags: []

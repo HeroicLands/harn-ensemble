@@ -1,6 +1,6 @@
 ---
 shortcode: lusilofbalin
-name: {full: Lusil of Balin, aliases: []}
+name: {full: Lusil of Balin}
 type: being
 subType: npc
 tags: []

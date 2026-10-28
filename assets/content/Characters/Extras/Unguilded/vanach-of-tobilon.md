@@ -1,6 +1,6 @@
 ---
 shortcode: vanachoftobilon
-name: {full: Vanach of Tobilon, aliases: []}
+name: {full: Vanach of Tobilon}
 type: being
 subType: npc
 tags: []

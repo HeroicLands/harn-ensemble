@@ -1,6 +1,6 @@
 ---
 shortcode: lavroofubelon
-name: {full: Lavro of Ubelon, aliases: []}
+name: {full: Lavro of Ubelon}
 type: being
 subType: npc
 tags: []

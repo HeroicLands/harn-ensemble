@@ -1,6 +1,6 @@
 ---
 shortcode: masyneofcharaen
-name: {full: Masyne of Charaen, aliases: []}
+name: {full: Masyne of Charaen}
 type: being
 subType: npc
 tags: []

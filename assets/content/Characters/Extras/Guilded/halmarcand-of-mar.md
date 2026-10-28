@@ -1,6 +1,6 @@
 ---
 shortcode: halmarcandofmar
-name: {full: Halmarcand of Mar, aliases: []}
+name: {full: Halmarcand of Mar}
 type: being
 subType: npc
 tags: []

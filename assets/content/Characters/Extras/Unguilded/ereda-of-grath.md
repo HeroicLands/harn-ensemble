@@ -1,6 +1,6 @@
 ---
 shortcode: eredaofgrath
-name: {full: Ereda of Grath, aliases: []}
+name: {full: Ereda of Grath}
 type: being
 subType: npc
 tags: []

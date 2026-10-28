@@ -1,6 +1,6 @@
 ---
 shortcode: pontousoftichmar
-name: {full: Pontous of Tichmar, aliases: []}
+name: {full: Pontous of Tichmar}
 type: being
 subType: npc
 tags: []

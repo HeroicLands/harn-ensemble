@@ -1,6 +1,6 @@
 ---
 shortcode: valofcuro
-name: {full: Val of Curo, aliases: []}
+name: {full: Val of Curo}
 type: being
 subType: npc
 tags: []

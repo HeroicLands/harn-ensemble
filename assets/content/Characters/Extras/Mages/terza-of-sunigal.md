@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofsunigal
-name: {full: Terza of Sunigal, aliases: []}
+name: {full: Terza of Sunigal}
 type: being
 subType: npc
 tags: []

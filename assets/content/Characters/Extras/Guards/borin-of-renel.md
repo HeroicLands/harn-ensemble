@@ -1,6 +1,6 @@
 ---
 shortcode: borinofrenel
-name: {full: Borin of Renel, aliases: []}
+name: {full: Borin of Renel}
 type: being
 subType: npc
 tags: []

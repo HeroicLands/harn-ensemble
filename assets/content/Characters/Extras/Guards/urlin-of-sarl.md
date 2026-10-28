@@ -1,6 +1,6 @@
 ---
 shortcode: urlinofsarl
-name: {full: Urlin of Sarl, aliases: []}
+name: {full: Urlin of Sarl}
 type: being
 subType: npc
 tags: []

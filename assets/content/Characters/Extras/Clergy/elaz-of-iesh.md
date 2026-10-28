@@ -1,6 +1,6 @@
 ---
 shortcode: elazofiesh
-name: {full: Elaz of Iesh, aliases: []}
+name: {full: Elaz of Iesh}
 type: being
 subType: npc
 tags: []

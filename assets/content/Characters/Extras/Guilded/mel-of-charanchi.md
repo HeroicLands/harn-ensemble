@@ -1,6 +1,6 @@
 ---
 shortcode: melofcharanchi
-name: {full: Mel of Charanchi, aliases: []}
+name: {full: Mel of Charanchi}
 type: being
 subType: npc
 tags: []

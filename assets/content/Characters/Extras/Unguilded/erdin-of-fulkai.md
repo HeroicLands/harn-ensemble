@@ -1,6 +1,6 @@
 ---
 shortcode: erdinoffulkai
-name: {full: Erdin of Fulkai, aliases: []}
+name: {full: Erdin of Fulkai}
 type: being
 subType: npc
 tags: []

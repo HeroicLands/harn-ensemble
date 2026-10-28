@@ -1,6 +1,6 @@
 ---
 shortcode: aramiaofgoselemas
-name: {full: Aramia of Goselemas, aliases: []}
+name: {full: Aramia of Goselemas}
 type: being
 subType: npc
 tags: []

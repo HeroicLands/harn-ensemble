@@ -1,6 +1,6 @@
 ---
 shortcode: masynofetane
-name: {full: Masyn of Etane, aliases: []}
+name: {full: Masyn of Etane}
 type: being
 subType: npc
 tags: []

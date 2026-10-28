@@ -1,6 +1,6 @@
 ---
 shortcode: terbaofshref
-name: {full: Terba of Shref, aliases: []}
+name: {full: Terba of Shref}
 type: being
 subType: npc
 tags: []

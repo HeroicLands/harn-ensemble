@@ -1,6 +1,6 @@
 ---
 shortcode: karpanofath
-name: {full: Karpan of Ath, aliases: []}
+name: {full: Karpan of Ath}
 type: being
 subType: npc
 tags: []

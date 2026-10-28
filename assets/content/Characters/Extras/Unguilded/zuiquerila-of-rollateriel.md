@@ -1,6 +1,6 @@
 ---
 shortcode: zuiquerilaofrollateriel
-name: {full: Zuiquerila of Rollateriel, aliases: []}
+name: {full: Zuiquerila of Rollateriel}
 type: being
 subType: npc
 tags: []

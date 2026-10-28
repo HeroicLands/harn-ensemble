@@ -1,6 +1,6 @@
 ---
 shortcode: pirisofyorlis
-name: {full: Piris of Yorlis, aliases: []}
+name: {full: Piris of Yorlis}
 type: being
 subType: npc
 tags: []

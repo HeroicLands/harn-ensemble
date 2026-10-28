@@ -1,6 +1,6 @@
 ---
 shortcode: silofduckill
-name: {full: Sil of Duckill, aliases: []}
+name: {full: Sil of Duckill}
 type: being
 subType: npc
 tags: []

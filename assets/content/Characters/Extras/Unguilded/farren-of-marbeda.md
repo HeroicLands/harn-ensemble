@@ -1,6 +1,6 @@
 ---
 shortcode: farrenofmarbeda
-name: {full: Farren of Marbeda, aliases: []}
+name: {full: Farren of Marbeda}
 type: being
 subType: npc
 tags: []

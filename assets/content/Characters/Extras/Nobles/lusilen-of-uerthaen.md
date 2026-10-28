@@ -1,6 +1,6 @@
 ---
 shortcode: lusilenofuerthaen
-name: {full: Lusilen of Uerthaen, aliases: []}
+name: {full: Lusilen of Uerthaen}
 type: being
 subType: npc
 tags: []

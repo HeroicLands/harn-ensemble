@@ -1,6 +1,6 @@
 ---
 shortcode: amartheriphenofeith
-name: {full: Amartheriphen of Eith, aliases: []}
+name: {full: Amartheriphen of Eith}
 type: being
 subType: npc
 tags: []

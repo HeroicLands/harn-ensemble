@@ -1,6 +1,6 @@
 ---
 shortcode: shotroofdebern
-name: {full: Shotro of Debern, aliases: []}
+name: {full: Shotro of Debern}
 type: being
 subType: npc
 tags: []

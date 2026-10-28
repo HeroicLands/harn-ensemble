@@ -1,6 +1,6 @@
 ---
 shortcode: aramiaofever
-name: {full: Aramia of Ever, aliases: []}
+name: {full: Aramia of Ever}
 type: being
 subType: npc
 tags: []

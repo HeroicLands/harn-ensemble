@@ -1,6 +1,6 @@
 ---
 shortcode: haraenarofqatorzin
-name: {full: Haraenar of Qatorzin, aliases: []}
+name: {full: Haraenar of Qatorzin}
 type: being
 subType: npc
 tags: []

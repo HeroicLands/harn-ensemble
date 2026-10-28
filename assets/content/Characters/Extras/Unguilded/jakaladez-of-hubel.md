@@ -1,6 +1,6 @@
 ---
 shortcode: jakaladezofhubel
-name: {full: Jakaladez of Hubel, aliases: []}
+name: {full: Jakaladez of Hubel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: valoftar
-name: {full: Val of Tar, aliases: []}
+name: {full: Val of Tar}
 type: being
 subType: npc
 tags: []

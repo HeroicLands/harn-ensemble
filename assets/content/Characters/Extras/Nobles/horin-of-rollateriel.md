@@ -1,6 +1,6 @@
 ---
 shortcode: horinofrollateriel
-name: {full: Horin of Rollateriel, aliases: []}
+name: {full: Horin of Rollateriel}
 type: being
 subType: npc
 tags: []

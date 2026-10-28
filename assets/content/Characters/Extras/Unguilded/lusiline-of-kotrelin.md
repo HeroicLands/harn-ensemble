@@ -1,6 +1,6 @@
 ---
 shortcode: lusilineofkotrelin
-name: {full: Lusiline of Kotrelin, aliases: []}
+name: {full: Lusiline of Kotrelin}
 type: being
 subType: npc
 tags: []

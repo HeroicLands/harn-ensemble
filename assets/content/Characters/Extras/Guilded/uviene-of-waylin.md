@@ -1,6 +1,6 @@
 ---
 shortcode: uvieneofwaylin
-name: {full: Uviene of Waylin, aliases: []}
+name: {full: Uviene of Waylin}
 type: being
 subType: npc
 tags: []

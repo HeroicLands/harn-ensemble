@@ -1,6 +1,6 @@
 ---
 shortcode: saryseofaras
-name: {full: Saryse of Aras, aliases: []}
+name: {full: Saryse of Aras}
 type: being
 subType: npc
 tags: []

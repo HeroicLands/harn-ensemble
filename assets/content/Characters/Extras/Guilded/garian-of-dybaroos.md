@@ -1,6 +1,6 @@
 ---
 shortcode: garianofdybaroos
-name: {full: Garian of Dybaroos, aliases: []}
+name: {full: Garian of Dybaroos}
 type: being
 subType: npc
 tags: []

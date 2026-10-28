@@ -1,6 +1,6 @@
 ---
 shortcode: gaetaneofguinda
-name: {full: Gaetane of Guinda, aliases: []}
+name: {full: Gaetane of Guinda}
 type: being
 subType: npc
 tags: []

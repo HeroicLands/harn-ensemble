@@ -1,6 +1,6 @@
 ---
 shortcode: alaofpthendana
-name: {full: Ala of Pthendana, aliases: []}
+name: {full: Ala of Pthendana}
 type: being
 subType: npc
 tags: []

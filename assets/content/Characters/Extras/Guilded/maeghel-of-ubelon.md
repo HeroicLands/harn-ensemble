@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelofubelon
-name: {full: Maeghel of Ubelon, aliases: []}
+name: {full: Maeghel of Ubelon}
 type: being
 subType: npc
 tags: []

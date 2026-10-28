@@ -1,6 +1,6 @@
 ---
 shortcode: odellofrisene
-name: {full: Odell of Risene, aliases: []}
+name: {full: Odell of Risene}
 type: being
 subType: character
 tags: []

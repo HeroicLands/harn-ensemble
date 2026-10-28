@@ -1,6 +1,6 @@
 ---
 shortcode: ferebalorelofgwen
-name: {full: Ferebalorel of Gwen, aliases: []}
+name: {full: Ferebalorel of Gwen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: boranaofnemirin
-name: {full: Borana of Nemirin, aliases: []}
+name: {full: Borana of Nemirin}
 type: being
 subType: npc
 tags: []

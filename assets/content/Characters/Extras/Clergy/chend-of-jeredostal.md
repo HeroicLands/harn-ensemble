@@ -1,6 +1,6 @@
 ---
 shortcode: chendofjeredostal
-name: {full: Chend of Jeredostal, aliases: []}
+name: {full: Chend of Jeredostal}
 type: being
 subType: npc
 tags: []

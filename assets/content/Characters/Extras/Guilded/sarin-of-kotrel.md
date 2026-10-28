@@ -1,6 +1,6 @@
 ---
 shortcode: sarinofkotrel
-name: {full: Sarin of Kotrel, aliases: []}
+name: {full: Sarin of Kotrel}
 type: being
 subType: npc
 tags: []

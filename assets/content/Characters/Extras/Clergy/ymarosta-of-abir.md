@@ -1,6 +1,6 @@
 ---
 shortcode: ymarostaofabir
-name: {full: Ymarosta of Abir, aliases: []}
+name: {full: Ymarosta of Abir}
 type: being
 subType: npc
 tags: []

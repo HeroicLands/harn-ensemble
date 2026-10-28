@@ -1,6 +1,6 @@
 ---
 shortcode: julaoffengeldesaan
-name: {full: Jula of Fengeldesaan, aliases: []}
+name: {full: Jula of Fengeldesaan}
 type: being
 subType: npc
 tags: []

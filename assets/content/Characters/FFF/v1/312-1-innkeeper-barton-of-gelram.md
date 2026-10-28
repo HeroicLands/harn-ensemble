@@ -1,6 +1,6 @@
 ---
 shortcode: bartonofgelram
-name: {full: Barton of Gelram, aliases: []}
+name: {full: Barton of Gelram}
 type: being
 subType: character
 tags: []

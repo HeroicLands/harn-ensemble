@@ -1,6 +1,6 @@
 ---
 shortcode: silasmarchant
-name: {full: Silas Marchant, aliases: []}
+name: {full: Silas Marchant}
 type: being
 subType: character
 tags: []

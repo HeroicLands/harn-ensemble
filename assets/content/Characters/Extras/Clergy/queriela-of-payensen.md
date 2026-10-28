@@ -1,6 +1,6 @@
 ---
 shortcode: querielaofpayensen
-name: {full: Queriela of Payensen, aliases: []}
+name: {full: Queriela of Payensen}
 type: being
 subType: npc
 tags: []

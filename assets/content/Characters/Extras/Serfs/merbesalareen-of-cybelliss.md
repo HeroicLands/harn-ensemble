@@ -1,6 +1,6 @@
 ---
 shortcode: merbesalareenofcybelliss
-name: {full: Merbesalareen of Cybelliss, aliases: []}
+name: {full: Merbesalareen of Cybelliss}
 type: being
 subType: npc
 tags: []

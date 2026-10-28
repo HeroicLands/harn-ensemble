@@ -1,6 +1,6 @@
 ---
 shortcode: nerenelleoforde
-name: {full: Nerenelle of Orde, aliases: []}
+name: {full: Nerenelle of Orde}
 type: being
 subType: npc
 tags: []

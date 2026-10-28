@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofdulkai
-name: {full: Milniq of Dulkai, aliases: []}
+name: {full: Milniq of Dulkai}
 type: being
 subType: npc
 tags: []

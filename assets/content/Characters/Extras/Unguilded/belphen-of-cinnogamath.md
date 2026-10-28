@@ -1,6 +1,6 @@
 ---
 shortcode: belphenofcinnogamath
-name: {full: Belphen of Cinnogamath, aliases: []}
+name: {full: Belphen of Cinnogamath}
 type: being
 subType: npc
 tags: []

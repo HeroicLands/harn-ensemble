@@ -1,6 +1,6 @@
 ---
 shortcode: erechofikswic
-name: {full: Erech of Ikswic, aliases: []}
+name: {full: Erech of Ikswic}
 type: being
 subType: npc
 tags: []

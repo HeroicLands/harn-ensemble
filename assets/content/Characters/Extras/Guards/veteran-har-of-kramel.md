@@ -1,6 +1,6 @@
 ---
 shortcode: veteranharofkramel
-name: {full: Veteran Har of Kramel, aliases: []}
+name: {full: Veteran Har of Kramel}
 type: being
 subType: npc
 tags: []

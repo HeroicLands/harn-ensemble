@@ -1,6 +1,6 @@
 ---
 shortcode: brynn
-name: {full: Brynn, aliases: []}
+name: {full: Brynn}
 type: being
 subType: character
 tags: []

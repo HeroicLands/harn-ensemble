@@ -1,6 +1,6 @@
 ---
 shortcode: veteranmaelofasar
-name: {full: Veteran Mael of Asar, aliases: []}
+name: {full: Veteran Mael of Asar}
 type: being
 subType: npc
 tags: []

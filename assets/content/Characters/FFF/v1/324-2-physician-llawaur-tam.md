@@ -1,6 +1,6 @@
 ---
 shortcode: llawaurtam
-name: {full: Llawaur Tam, aliases: []}
+name: {full: Llawaur Tam}
 type: being
 subType: character
 tags: []

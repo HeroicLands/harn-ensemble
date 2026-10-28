@@ -1,6 +1,6 @@
 ---
 shortcode: nathofrysten
-name: {full: Nath of Rysten, aliases: []}
+name: {full: Nath of Rysten}
 type: being
 subType: npc
 tags: []

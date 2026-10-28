@@ -1,6 +1,6 @@
 ---
 shortcode: fffagntscrwn
-name: {full: Agents of the Crown, aliases: []}
+name: {full: Agents of the Crown}
 type: affiliation
 subType: venture
 tags: []

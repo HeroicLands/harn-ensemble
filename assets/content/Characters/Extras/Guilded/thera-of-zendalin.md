@@ -1,6 +1,6 @@
 ---
 shortcode: theraofzendalin
-name: {full: Thera of Zendalin, aliases: []}
+name: {full: Thera of Zendalin}
 type: being
 subType: npc
 tags: []

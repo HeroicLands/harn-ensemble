@@ -1,6 +1,6 @@
 ---
 shortcode: mereleofcybel
-name: {full: Merele of Cybel, aliases: []}
+name: {full: Merele of Cybel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: dickonofkephis
-name: {full: Dickon of Kephis, aliases: []}
+name: {full: Dickon of Kephis}
 type: being
 subType: npc
 tags: []

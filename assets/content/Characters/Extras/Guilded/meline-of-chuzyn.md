@@ -1,6 +1,6 @@
 ---
 shortcode: melineofchuzyn
-name: {full: Meline of Chuzyn, aliases: []}
+name: {full: Meline of Chuzyn}
 type: being
 subType: npc
 tags: []

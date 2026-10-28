@@ -1,6 +1,6 @@
 ---
 shortcode: perlineofkai
-name: {full: Perline of Kai, aliases: []}
+name: {full: Perline of Kai}
 type: being
 subType: npc
 tags: []

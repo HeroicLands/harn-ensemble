@@ -1,6 +1,6 @@
 ---
 shortcode: alarondisofdarin
-name: {full: Alarondis of Darin, aliases: []}
+name: {full: Alarondis of Darin}
 type: being
 subType: npc
 tags: []

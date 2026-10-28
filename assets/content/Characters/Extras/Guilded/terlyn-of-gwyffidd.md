@@ -1,6 +1,6 @@
 ---
 shortcode: terlynofgwyffidd
-name: {full: Terlyn of Gwyffidd, aliases: []}
+name: {full: Terlyn of Gwyffidd}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: sarynofdrelin
-name: {full: Saryn of Drelin, aliases: []}
+name: {full: Saryn of Drelin}
 type: being
 subType: npc
 tags: []

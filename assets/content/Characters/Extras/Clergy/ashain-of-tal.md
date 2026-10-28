@@ -1,6 +1,6 @@
 ---
 shortcode: ashainoftal
-name: {full: Ashain of Tal, aliases: []}
+name: {full: Ashain of Tal}
 type: being
 subType: npc
 tags: []

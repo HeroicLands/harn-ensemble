@@ -1,6 +1,6 @@
 ---
 shortcode: ewenaofmarn
-name: {full: Ewena of Marn, aliases: []}
+name: {full: Ewena of Marn}
 type: being
 subType: npc
 tags: []

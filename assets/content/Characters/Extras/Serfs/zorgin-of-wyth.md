@@ -1,6 +1,6 @@
 ---
 shortcode: zorginofwyth
-name: {full: Zorgin of Wyth, aliases: []}
+name: {full: Zorgin of Wyth}
 type: being
 subType: npc
 tags: []

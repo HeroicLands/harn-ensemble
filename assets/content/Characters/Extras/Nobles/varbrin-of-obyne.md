@@ -1,6 +1,6 @@
 ---
 shortcode: varbrinofobyne
-name: {full: Varbrin of Obyne, aliases: []}
+name: {full: Varbrin of Obyne}
 type: being
 subType: npc
 tags: []

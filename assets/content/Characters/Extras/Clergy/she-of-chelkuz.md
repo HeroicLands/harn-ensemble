@@ -1,6 +1,6 @@
 ---
 shortcode: sheofchelkuz
-name: {full: She of Chelkuz, aliases: []}
+name: {full: She of Chelkuz}
 type: being
 subType: npc
 tags: []

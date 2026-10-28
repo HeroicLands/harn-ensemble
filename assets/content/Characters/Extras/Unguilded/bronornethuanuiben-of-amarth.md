@@ -1,6 +1,6 @@
 ---
 shortcode: bronornethuanuibenofamarth
-name: {full: Bronornethuanuiben of Amarth, aliases: []}
+name: {full: Bronornethuanuiben of Amarth}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: merwasofpaseris
-name: {full: Merwas of Paseris, aliases: []}
+name: {full: Merwas of Paseris}
 type: being
 subType: npc
 tags: []

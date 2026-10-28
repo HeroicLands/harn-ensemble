@@ -1,6 +1,6 @@
 ---
 shortcode: uoneoftarkoff
-name: {full: Uone of Tarkoff, aliases: []}
+name: {full: Uone of Tarkoff}
 type: being
 subType: npc
 tags: []

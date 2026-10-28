@@ -1,6 +1,6 @@
 ---
 shortcode: amathaniarofamarthassemben
-name: {full: Amathaniar of Amarthassemben, aliases: []}
+name: {full: Amathaniar of Amarthassemben}
 type: being
 subType: npc
 tags: []

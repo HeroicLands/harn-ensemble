@@ -1,6 +1,6 @@
 ---
 shortcode: pargatofgwen
-name: {full: Pargat of Gwen, aliases: []}
+name: {full: Pargat of Gwen}
 type: being
 subType: npc
 tags: []

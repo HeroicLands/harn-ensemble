@@ -1,6 +1,6 @@
 ---
 shortcode: veteranrostaofdybarn
-name: {full: Veteran Rosta of Dybarn, aliases: []}
+name: {full: Veteran Rosta of Dybarn}
 type: being
 subType: npc
 tags: []

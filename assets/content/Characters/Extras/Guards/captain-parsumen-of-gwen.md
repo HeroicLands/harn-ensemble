@@ -1,6 +1,6 @@
 ---
 shortcode: captainparsumenofgwen
-name: {full: Captain Parsumen of Gwen, aliases: []}
+name: {full: Captain Parsumen of Gwen}
 type: being
 subType: npc
 tags: []

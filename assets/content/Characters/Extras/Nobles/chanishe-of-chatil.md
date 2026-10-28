@@ -1,6 +1,6 @@
 ---
 shortcode: chanisheofchatil
-name: {full: Chanishe of Chatil, aliases: []}
+name: {full: Chanishe of Chatil}
 type: being
 subType: npc
 tags: []

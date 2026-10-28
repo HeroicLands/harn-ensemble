@@ -1,6 +1,6 @@
 ---
 shortcode: nerelasarinaoflune
-name: {full: Nerelasarina of Lune, aliases: []}
+name: {full: Nerelasarina of Lune}
 type: being
 subType: npc
 tags: []

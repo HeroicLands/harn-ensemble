@@ -1,6 +1,6 @@
 ---
 shortcode: koraloflunen
-name: {full: Koral of Lunen, aliases: []}
+name: {full: Koral of Lunen}
 type: being
 subType: npc
 tags: []

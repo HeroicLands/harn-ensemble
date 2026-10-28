@@ -1,6 +1,6 @@
 ---
 shortcode: jakkynofthelya
-name: {full: Jakkyn of Thelya, aliases: []}
+name: {full: Jakkyn of Thelya}
 type: being
 subType: npc
 tags: []

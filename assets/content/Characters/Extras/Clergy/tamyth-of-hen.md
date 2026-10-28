@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofhen
-name: {full: Tamyth of Hen, aliases: []}
+name: {full: Tamyth of Hen}
 type: being
 subType: npc
 tags: []

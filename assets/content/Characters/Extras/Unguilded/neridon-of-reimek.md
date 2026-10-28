@@ -1,6 +1,6 @@
 ---
 shortcode: neridonofreimek
-name: {full: Neridon of Reimek, aliases: []}
+name: {full: Neridon of Reimek}
 type: being
 subType: npc
 tags: []

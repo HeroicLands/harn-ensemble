@@ -1,6 +1,6 @@
 ---
 shortcode: crolazelofdulkne
-name: {full: Crolazel of Dulkne, aliases: []}
+name: {full: Crolazel of Dulkne}
 type: being
 subType: npc
 tags: []

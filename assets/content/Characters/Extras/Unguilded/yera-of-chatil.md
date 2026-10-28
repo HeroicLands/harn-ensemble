@@ -1,6 +1,6 @@
 ---
 shortcode: yeraofchatil
-name: {full: Yera of Chatil, aliases: []}
+name: {full: Yera of Chatil}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gwelenofubernic
-name: {full: Gwelen of Ubernic, aliases: []}
+name: {full: Gwelen of Ubernic}
 type: being
 subType: npc
 tags: []

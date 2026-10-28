@@ -1,6 +1,6 @@
 ---
 shortcode: telsaofanerien
-name: {full: Telsa of Anerien, aliases: []}
+name: {full: Telsa of Anerien}
 type: being
 subType: npc
 tags: []

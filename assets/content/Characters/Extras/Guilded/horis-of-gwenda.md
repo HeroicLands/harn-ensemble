@@ -1,6 +1,6 @@
 ---
 shortcode: horisofgwenda
-name: {full: Horis of Gwenda, aliases: []}
+name: {full: Horis of Gwenda}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: parmenoftich
-name: {full: Parmen of Tich, aliases: []}
+name: {full: Parmen of Tich}
 type: being
 subType: npc
 tags: []

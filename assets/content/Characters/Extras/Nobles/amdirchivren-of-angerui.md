@@ -1,6 +1,6 @@
 ---
 shortcode: amdirchivrenofangerui
-name: {full: Amdirchivren of Angerui, aliases: []}
+name: {full: Amdirchivren of Angerui}
 type: being
 subType: npc
 tags: []

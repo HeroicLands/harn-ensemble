@@ -1,6 +1,6 @@
 ---
 shortcode: keldanofokren
-name: {full: Keldan of Okren, aliases: []}
+name: {full: Keldan of Okren}
 type: being
 subType: npc
 tags: []

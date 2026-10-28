@@ -1,6 +1,6 @@
 ---
 shortcode: borinofthelsen
-name: {full: Borin of Thelsen, aliases: []}
+name: {full: Borin of Thelsen}
 type: being
 subType: npc
 tags: []

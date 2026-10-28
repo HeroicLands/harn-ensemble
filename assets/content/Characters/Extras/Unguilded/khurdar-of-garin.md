@@ -1,6 +1,6 @@
 ---
 shortcode: khurdarofgarin
-name: {full: Khurdar of Garin, aliases: []}
+name: {full: Khurdar of Garin}
 type: being
 subType: npc
 tags: []

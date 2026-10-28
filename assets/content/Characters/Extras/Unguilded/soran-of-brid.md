@@ -1,6 +1,6 @@
 ---
 shortcode: soranofbrid
-name: {full: Soran of Brid, aliases: []}
+name: {full: Soran of Brid}
 type: being
 subType: npc
 tags: []

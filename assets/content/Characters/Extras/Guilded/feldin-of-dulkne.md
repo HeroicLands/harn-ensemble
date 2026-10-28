@@ -1,6 +1,6 @@
 ---
 shortcode: feldinofdulkne
-name: {full: Feldin of Dulkne, aliases: []}
+name: {full: Feldin of Dulkne}
 type: being
 subType: npc
 tags: []

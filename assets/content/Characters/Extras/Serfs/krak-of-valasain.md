@@ -1,6 +1,6 @@
 ---
 shortcode: krakofvalasain
-name: {full: Krak of Valasain, aliases: []}
+name: {full: Krak of Valasain}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arkotoflundondech
-name: {full: Arkot of Lundondech, aliases: []}
+name: {full: Arkot of Lundondech}
 type: being
 subType: npc
 tags: []

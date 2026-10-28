@@ -1,6 +1,6 @@
 ---
 shortcode: yagorofgrath
-name: {full: Yagor of Grath, aliases: []}
+name: {full: Yagor of Grath}
 type: being
 subType: npc
 tags: []

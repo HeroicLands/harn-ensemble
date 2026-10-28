@@ -1,6 +1,6 @@
 ---
 shortcode: forenelleofkephis
-name: {full: Forenelle of Kephis, aliases: []}
+name: {full: Forenelle of Kephis}
 type: being
 subType: npc
 tags: []

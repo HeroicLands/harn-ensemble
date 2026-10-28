@@ -1,6 +1,6 @@
 ---
 shortcode: danishemlenaofkramel
-name: {full: Danishemlena of Kramel, aliases: []}
+name: {full: Danishemlena of Kramel}
 type: being
 subType: npc
 tags: []

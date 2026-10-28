@@ -1,6 +1,6 @@
 ---
 shortcode: urikarnofpenda
-name: {full: Urikarn of Penda, aliases: []}
+name: {full: Urikarn of Penda}
 type: being
 subType: npc
 tags: []

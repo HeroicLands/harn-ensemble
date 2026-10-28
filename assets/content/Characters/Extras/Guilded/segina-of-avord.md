@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofavord
-name: {full: Segina of Avord, aliases: []}
+name: {full: Segina of Avord}
 type: being
 subType: npc
 tags: []

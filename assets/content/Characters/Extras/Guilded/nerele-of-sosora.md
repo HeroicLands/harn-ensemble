@@ -1,6 +1,6 @@
 ---
 shortcode: nereleofsosora
-name: {full: Nerele of Sosora, aliases: []}
+name: {full: Nerele of Sosora}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: belofquiriel
-name: {full: Bel of Quiriel, aliases: []}
+name: {full: Bel of Quiriel}
 type: being
 subType: npc
 tags: []

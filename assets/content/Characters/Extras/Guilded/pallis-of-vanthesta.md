@@ -1,6 +1,6 @@
 ---
 shortcode: pallisofvanthesta
-name: {full: Pallis of Vanthesta, aliases: []}
+name: {full: Pallis of Vanthesta}
 type: being
 subType: npc
 tags: []

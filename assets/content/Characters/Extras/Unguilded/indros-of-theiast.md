@@ -1,6 +1,6 @@
 ---
 shortcode: indrosoftheiast
-name: {full: Indros of Theiast, aliases: []}
+name: {full: Indros of Theiast}
 type: being
 subType: npc
 tags: []

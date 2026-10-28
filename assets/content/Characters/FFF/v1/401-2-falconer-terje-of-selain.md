@@ -1,6 +1,6 @@
 ---
 shortcode: terjeofselain
-name: {full: Terje of Selain, aliases: []}
+name: {full: Terje of Selain}
 type: being
 subType: character
 tags: []

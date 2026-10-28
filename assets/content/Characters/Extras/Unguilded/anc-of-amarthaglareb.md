@@ -1,6 +1,6 @@
 ---
 shortcode: ancofamarthaglareb
-name: {full: Anc of Amarthaglareb, aliases: []}
+name: {full: Anc of Amarthaglareb}
 type: being
 subType: npc
 tags: []

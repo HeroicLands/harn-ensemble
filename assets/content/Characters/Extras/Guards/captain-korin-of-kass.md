@@ -1,6 +1,6 @@
 ---
 shortcode: captainkorinofkass
-name: {full: Captain Korin of Kass, aliases: []}
+name: {full: Captain Korin of Kass}
 type: being
 subType: npc
 tags: []

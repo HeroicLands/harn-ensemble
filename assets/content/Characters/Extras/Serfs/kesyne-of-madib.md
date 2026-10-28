@@ -1,6 +1,6 @@
 ---
 shortcode: kesyneofmadib
-name: {full: Kesyne of Madib, aliases: []}
+name: {full: Kesyne of Madib}
 type: being
 subType: npc
 tags: []

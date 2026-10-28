@@ -1,6 +1,6 @@
 ---
 shortcode: inenofdariam
-name: {full: Inen of Dariam, aliases: []}
+name: {full: Inen of Dariam}
 type: being
 subType: npc
 tags: []

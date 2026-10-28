@@ -1,6 +1,6 @@
 ---
 shortcode: chanishelofikswic
-name: {full: Chanishel of Ikswic, aliases: []}
+name: {full: Chanishel of Ikswic}
 type: being
 subType: npc
 tags: []

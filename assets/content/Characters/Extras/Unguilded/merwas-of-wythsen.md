@@ -1,6 +1,6 @@
 ---
 shortcode: merwasofwythsen
-name: {full: Merwas of Wythsen, aliases: []}
+name: {full: Merwas of Wythsen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: sartusofane
-name: {full: Sartus of Ane, aliases: []}
+name: {full: Sartus of Ane}
 type: being
 subType: npc
 tags: []

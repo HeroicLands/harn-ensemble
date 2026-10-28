@@ -1,6 +1,6 @@
 ---
 shortcode: veteraninrantofirien
-name: {full: Veteran Inrant of Irien, aliases: []}
+name: {full: Veteran Inrant of Irien}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: morginofuro
-name: {full: Morgin of Uro, aliases: []}
+name: {full: Morgin of Uro}
 type: being
 subType: npc
 tags: []

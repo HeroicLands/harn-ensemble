@@ -1,6 +1,6 @@
 ---
 shortcode: haffythofmeral
-name: {full: Haffyth of Meral, aliases: []}
+name: {full: Haffyth of Meral}
 type: being
 subType: npc
 tags: []

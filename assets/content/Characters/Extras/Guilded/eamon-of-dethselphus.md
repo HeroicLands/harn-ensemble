@@ -1,6 +1,6 @@
 ---
 shortcode: eamonofdethselphus
-name: {full: Eamon of Dethselphus, aliases: []}
+name: {full: Eamon of Dethselphus}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: dirofjorwynn
-name: {full: Dir of Jorwynn, aliases: []}
+name: {full: Dir of Jorwynn}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: haridonofcuro
-name: {full: Haridon of Curo, aliases: []}
+name: {full: Haridon of Curo}
 type: being
 subType: npc
 tags: []

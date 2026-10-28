@@ -1,6 +1,6 @@
 ---
 shortcode: amarthofamath
-name: {full: Amarth of Amath, aliases: []}
+name: {full: Amarth of Amath}
 type: being
 subType: npc
 tags: []

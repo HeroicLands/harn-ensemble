@@ -1,6 +1,6 @@
 ---
 shortcode: sheofonparin
-name: {full: She of Onparin, aliases: []}
+name: {full: She of Onparin}
 type: being
 subType: npc
 tags: []

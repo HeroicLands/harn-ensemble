@@ -1,6 +1,6 @@
 ---
 shortcode: terbaofpayensenal
-name: {full: Terba of Payensenal, aliases: []}
+name: {full: Terba of Payensenal}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: zirshathglarzul
-name: {full: Zirshath Glarzul, aliases: []}
+name: {full: Zirshath Glarzul}
 type: being
 subType: character
 tags: []

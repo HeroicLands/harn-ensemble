@@ -1,6 +1,6 @@
 ---
 shortcode: itisofhaclern
-name: {full: Itis of Haclern, aliases: []}
+name: {full: Itis of Haclern}
 type: being
 subType: npc
 tags: []

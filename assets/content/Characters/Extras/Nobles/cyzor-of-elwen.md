@@ -1,6 +1,6 @@
 ---
 shortcode: cyzorofelwen
-name: {full: Cyzor of Elwen, aliases: []}
+name: {full: Cyzor of Elwen}
 type: being
 subType: npc
 tags: []

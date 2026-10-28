@@ -1,6 +1,6 @@
 ---
 shortcode: sirmorhgancade
-name: {full: Sir Morhgan Cade, aliases: []}
+name: {full: Sir Morhgan Cade}
 type: being
 subType: character
 tags: []

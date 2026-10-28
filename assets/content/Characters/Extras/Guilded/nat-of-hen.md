@@ -1,6 +1,6 @@
 ---
 shortcode: natofhen
-name: {full: Nat of Hen, aliases: []}
+name: {full: Nat of Hen}
 type: being
 subType: npc
 tags: []

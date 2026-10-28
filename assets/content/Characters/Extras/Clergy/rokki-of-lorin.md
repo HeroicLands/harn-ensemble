@@ -1,6 +1,6 @@
 ---
 shortcode: rokkioflorin
-name: {full: Rokki of Lorin, aliases: []}
+name: {full: Rokki of Lorin}
 type: being
 subType: npc
 tags: []

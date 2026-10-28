@@ -1,6 +1,6 @@
 ---
 shortcode: marofbanth
-name: {full: Mar of Banth, aliases: []}
+name: {full: Mar of Banth}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: avaphenofamathedhereniar
-name: {full: Avaphen of Amathedhereniar, aliases: []}
+name: {full: Avaphen of Amathedhereniar}
 type: being
 subType: npc
 tags: []

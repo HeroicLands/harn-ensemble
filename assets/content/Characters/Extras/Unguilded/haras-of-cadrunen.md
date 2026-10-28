@@ -1,6 +1,6 @@
 ---
 shortcode: harasofcadrunen
-name: {full: Haras of Cadrunen, aliases: []}
+name: {full: Haras of Cadrunen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: cyzorofbor
-name: {full: Cyzor of Bor, aliases: []}
+name: {full: Cyzor of Bor}
 type: being
 subType: npc
 tags: []

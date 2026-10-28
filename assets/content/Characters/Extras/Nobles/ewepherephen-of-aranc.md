@@ -1,6 +1,6 @@
 ---
 shortcode: ewepherephenofaranc
-name: {full: Ewepherephen of Aranc, aliases: []}
+name: {full: Ewepherephen of Aranc}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arabithofaikare
-name: {full: Arabith of Aikare, aliases: []}
+name: {full: Arabith of Aikare}
 type: being
 subType: npc
 tags: []

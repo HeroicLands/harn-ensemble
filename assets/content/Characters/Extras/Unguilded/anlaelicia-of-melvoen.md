@@ -1,6 +1,6 @@
 ---
 shortcode: anlaeliciaofmelvoen
-name: {full: Anlaelicia of Melvoen, aliases: []}
+name: {full: Anlaelicia of Melvoen}
 type: being
 subType: npc
 tags: []

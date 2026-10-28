@@ -1,6 +1,6 @@
 ---
 shortcode: marlyseofkyfa
-name: {full: Marlyse of Kyfa, aliases: []}
+name: {full: Marlyse of Kyfa}
 type: being
 subType: npc
 tags: []

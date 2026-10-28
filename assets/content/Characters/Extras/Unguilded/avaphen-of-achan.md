@@ -1,6 +1,6 @@
 ---
 shortcode: avaphenofachan
-name: {full: Avaphen of Achan, aliases: []}
+name: {full: Avaphen of Achan}
 type: being
 subType: npc
 tags: []

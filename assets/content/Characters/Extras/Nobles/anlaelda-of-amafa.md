@@ -1,6 +1,6 @@
 ---
 shortcode: anlaeldaofamafa
-name: {full: Anlaelda of Amafa, aliases: []}
+name: {full: Anlaelda of Amafa}
 type: being
 subType: npc
 tags: []

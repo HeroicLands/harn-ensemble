@@ -1,6 +1,6 @@
 ---
 shortcode: karyseofasarlis
-name: {full: Karyse of Asarlis, aliases: []}
+name: {full: Karyse of Asarlis}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: pavisofael
-name: {full: Pavis of Ael, aliases: []}
+name: {full: Pavis of Ael}
 type: being
 subType: npc
 tags: []

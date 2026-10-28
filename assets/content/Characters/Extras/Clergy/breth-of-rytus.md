@@ -1,6 +1,6 @@
 ---
 shortcode: brethofrytus
-name: {full: Breth of Rytus, aliases: []}
+name: {full: Breth of Rytus}
 type: being
 subType: npc
 tags: []

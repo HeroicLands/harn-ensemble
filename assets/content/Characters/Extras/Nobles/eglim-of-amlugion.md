@@ -1,6 +1,6 @@
 ---
 shortcode: eglimofamlugion
-name: {full: Eglim of Amlugion, aliases: []}
+name: {full: Eglim of Amlugion}
 type: being
 subType: npc
 tags: []

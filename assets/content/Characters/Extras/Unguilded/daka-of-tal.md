@@ -1,6 +1,6 @@
 ---
 shortcode: dakaoftal
-name: {full: Daka of Tal, aliases: []}
+name: {full: Daka of Tal}
 type: being
 subType: npc
 tags: []

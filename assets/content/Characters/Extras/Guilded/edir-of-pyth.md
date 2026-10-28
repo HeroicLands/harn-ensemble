@@ -1,6 +1,6 @@
 ---
 shortcode: edirofpyth
-name: {full: Edir of Pyth, aliases: []}
+name: {full: Edir of Pyth}
 type: being
 subType: npc
 tags: []

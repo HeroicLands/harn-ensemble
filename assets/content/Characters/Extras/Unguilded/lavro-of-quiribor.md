@@ -1,6 +1,6 @@
 ---
 shortcode: lavroofquiribor
-name: {full: Lavro of Quiribor, aliases: []}
+name: {full: Lavro of Quiribor}
 type: being
 subType: npc
 tags: []

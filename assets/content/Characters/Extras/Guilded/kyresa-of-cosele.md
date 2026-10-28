@@ -1,6 +1,6 @@
 ---
 shortcode: kyresaofcosele
-name: {full: Kyresa of Cosele, aliases: []}
+name: {full: Kyresa of Cosele}
 type: being
 subType: npc
 tags: []

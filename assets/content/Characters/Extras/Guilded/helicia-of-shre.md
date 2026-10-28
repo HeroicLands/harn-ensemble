@@ -1,6 +1,6 @@
 ---
 shortcode: heliciaofshre
-name: {full: Helicia of Shre, aliases: []}
+name: {full: Helicia of Shre}
 type: being
 subType: npc
 tags: []

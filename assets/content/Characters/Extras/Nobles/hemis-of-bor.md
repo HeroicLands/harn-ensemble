@@ -1,6 +1,6 @@
 ---
 shortcode: hemisofbor
-name: {full: Hemis of Bor, aliases: []}
+name: {full: Hemis of Bor}
 type: being
 subType: npc
 tags: []

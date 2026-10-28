@@ -1,6 +1,6 @@
 ---
 shortcode: aeradasakofdon
-name: {full: Aeradasak of Don, aliases: []}
+name: {full: Aeradasak of Don}
 type: being
 subType: npc
 tags: []

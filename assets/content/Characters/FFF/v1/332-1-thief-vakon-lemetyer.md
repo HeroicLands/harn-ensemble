@@ -1,6 +1,6 @@
 ---
 shortcode: vakonlemetyer
-name: {full: Vakon Lemetyer, aliases: []}
+name: {full: Vakon Lemetyer}
 type: being
 subType: character
 tags: []

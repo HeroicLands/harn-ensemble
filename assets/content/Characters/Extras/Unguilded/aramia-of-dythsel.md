@@ -1,6 +1,6 @@
 ---
 shortcode: aramiaofdythsel
-name: {full: Aramia of Dythsel, aliases: []}
+name: {full: Aramia of Dythsel}
 type: being
 subType: npc
 tags: []

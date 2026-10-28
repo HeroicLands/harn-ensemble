@@ -1,6 +1,6 @@
 ---
 shortcode: orenofkestel
-name: {full: Oren of Kestel, aliases: []}
+name: {full: Oren of Kestel}
 type: being
 subType: character
 tags: []

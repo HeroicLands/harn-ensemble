@@ -1,6 +1,6 @@
 ---
 shortcode: jolaofwulverdan
-name: {full: Jola of Wulverdan, aliases: []}
+name: {full: Jola of Wulverdan}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarofasain
-name: {full: Tagbar of Asain, aliases: []}
+name: {full: Tagbar of Asain}
 type: being
 subType: npc
 tags: []

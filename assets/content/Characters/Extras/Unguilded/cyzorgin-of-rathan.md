@@ -1,6 +1,6 @@
 ---
 shortcode: cyzorginofrathan
-name: {full: Cyzorgin of Rathan, aliases: []}
+name: {full: Cyzorgin of Rathan}
 type: being
 subType: npc
 tags: []

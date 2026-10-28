@@ -1,6 +1,6 @@
 ---
 shortcode: aramathlainofcidinnog
-name: {full: Aramathlain of Cidinnog, aliases: []}
+name: {full: Aramathlain of Cidinnog}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jendraofpharadas
-name: {full: Jendra of Pharadas, aliases: []}
+name: {full: Jendra of Pharadas}
 type: being
 subType: npc
 tags: []

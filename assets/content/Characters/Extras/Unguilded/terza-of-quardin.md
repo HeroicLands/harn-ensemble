@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofquardin
-name: {full: Terza of Quardin, aliases: []}
+name: {full: Terza of Quardin}
 type: being
 subType: npc
 tags: []

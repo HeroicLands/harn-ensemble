@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofquinarass
-name: {full: Tamyth of Quinarass, aliases: []}
+name: {full: Tamyth of Quinarass}
 type: being
 subType: npc
 tags: []

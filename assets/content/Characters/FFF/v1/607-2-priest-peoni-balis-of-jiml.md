@@ -1,6 +1,6 @@
 ---
 shortcode: balisofjiml
-name: {full: Balis of Jiml, aliases: []}
+name: {full: Balis of Jiml}
 type: being
 subType: character
 tags: []

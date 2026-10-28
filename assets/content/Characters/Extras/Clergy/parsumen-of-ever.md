@@ -1,6 +1,6 @@
 ---
 shortcode: parsumenofever
-name: {full: Parsumen of Ever, aliases: []}
+name: {full: Parsumen of Ever}
 type: being
 subType: npc
 tags: []

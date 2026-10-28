@@ -1,6 +1,6 @@
 ---
 shortcode: lasynofgwen
-name: {full: Lasyn of Gwen, aliases: []}
+name: {full: Lasyn of Gwen}
 type: being
 subType: npc
 tags: []

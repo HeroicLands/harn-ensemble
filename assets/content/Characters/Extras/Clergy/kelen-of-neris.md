@@ -1,6 +1,6 @@
 ---
 shortcode: kelenofneris
-name: {full: Kelen of Neris, aliases: []}
+name: {full: Kelen of Neris}
 type: being
 subType: npc
 tags: []

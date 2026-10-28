@@ -1,6 +1,6 @@
 ---
 shortcode: mysilineofmelvoen
-name: {full: Mysiline of Melvoen, aliases: []}
+name: {full: Mysiline of Melvoen}
 type: being
 subType: npc
 tags: []

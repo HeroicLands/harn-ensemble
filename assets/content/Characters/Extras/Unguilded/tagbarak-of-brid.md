@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarakofbrid
-name: {full: Tagbarak of Brid, aliases: []}
+name: {full: Tagbarak of Brid}
 type: being
 subType: npc
 tags: []

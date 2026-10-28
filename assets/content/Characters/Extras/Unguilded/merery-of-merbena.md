@@ -1,6 +1,6 @@
 ---
 shortcode: mereryofmerbena
-name: {full: Merery of Merbena, aliases: []}
+name: {full: Merery of Merbena}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: starcandyofane
-name: {full: Starcandy of Ane, aliases: []}
+name: {full: Starcandy of Ane}
 type: being
 subType: npc
 tags: []

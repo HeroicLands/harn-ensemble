@@ -1,6 +1,6 @@
 ---
 shortcode: cannamlugofadestel
-name: {full: Cannamlug of Adestel, aliases: []}
+name: {full: Cannamlug of Adestel}
 type: being
 subType: npc
 tags: []

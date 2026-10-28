@@ -1,6 +1,6 @@
 ---
 shortcode: baeofkephis
-name: {full: Bae of Kephis, aliases: []}
+name: {full: Bae of Kephis}
 type: being
 subType: npc
 tags: []

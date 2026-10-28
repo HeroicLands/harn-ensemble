@@ -1,6 +1,6 @@
 ---
 shortcode: captainshotroofguinda
-name: {full: Captain Shotro of Guinda, aliases: []}
+name: {full: Captain Shotro of Guinda}
 type: being
 subType: npc
 tags: []

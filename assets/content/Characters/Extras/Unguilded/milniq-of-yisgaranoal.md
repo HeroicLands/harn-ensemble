@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofyisgaranoal
-name: {full: Milniq of Yisgaranoal, aliases: []}
+name: {full: Milniq of Yisgaranoal}
 type: being
 subType: npc
 tags: []

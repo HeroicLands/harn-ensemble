@@ -1,6 +1,6 @@
 ---
 shortcode: myreleofopondik
-name: {full: Myrele of Opondik, aliases: []}
+name: {full: Myrele of Opondik}
 type: being
 subType: npc
 tags: []

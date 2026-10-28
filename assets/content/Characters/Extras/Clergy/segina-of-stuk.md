@@ -1,6 +1,6 @@
 ---
 shortcode: seginaofstuk
-name: {full: Segina of Stuk, aliases: []}
+name: {full: Segina of Stuk}
 type: being
 subType: npc
 tags: []

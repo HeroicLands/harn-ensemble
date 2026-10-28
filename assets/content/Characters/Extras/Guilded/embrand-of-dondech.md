@@ -1,6 +1,6 @@
 ---
 shortcode: embrandofdondech
-name: {full: Embrand of Dondech, aliases: []}
+name: {full: Embrand of Dondech}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: kerthedeofdethels
-name: {full: Kerthede of Dethels, aliases: []}
+name: {full: Kerthede of Dethels}
 type: being
 subType: npc
 tags: []

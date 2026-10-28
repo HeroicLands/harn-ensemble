@@ -1,6 +1,6 @@
 ---
 shortcode: uldisharand
-name: {full: Uldis Harand, aliases: []}
+name: {full: Uldis Harand}
 type: being
 subType: character
 tags: []

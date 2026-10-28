@@ -1,6 +1,6 @@
 ---
 shortcode: bryleofrystelburitta
-name: {full: Bryle of Rystelburitta, aliases: []}
+name: {full: Bryle of Rystelburitta}
 type: being
 subType: npc
 tags: []

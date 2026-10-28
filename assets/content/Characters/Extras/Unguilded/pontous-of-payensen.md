@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofpayensen
-name: {full: Pontous of Payensen, aliases: []}
+name: {full: Pontous of Payensen}
 type: being
 subType: npc
 tags: []

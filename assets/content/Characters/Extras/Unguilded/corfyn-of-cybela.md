@@ -1,6 +1,6 @@
 ---
 shortcode: corfynofcybela
-name: {full: Corfyn of Cybela, aliases: []}
+name: {full: Corfyn of Cybela}
 type: being
 subType: npc
 tags: []

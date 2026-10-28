@@ -1,6 +1,6 @@
 ---
 shortcode: masynofbrid
-name: {full: Masyn of Brid, aliases: []}
+name: {full: Masyn of Brid}
 type: being
 subType: npc
 tags: []

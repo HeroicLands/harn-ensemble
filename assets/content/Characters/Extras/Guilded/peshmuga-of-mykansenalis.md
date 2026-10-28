@@ -1,6 +1,6 @@
 ---
 shortcode: peshmugaofmykansenalis
-name: {full: Peshmuga of Mykansenalis, aliases: []}
+name: {full: Peshmuga of Mykansenalis}
 type: being
 subType: npc
 tags: []

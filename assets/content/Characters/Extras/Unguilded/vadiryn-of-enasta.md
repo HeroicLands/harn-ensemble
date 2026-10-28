@@ -1,6 +1,6 @@
 ---
 shortcode: vadirynofenasta
-name: {full: Vadiryn of Enasta, aliases: []}
+name: {full: Vadiryn of Enasta}
 type: being
 subType: npc
 tags: []

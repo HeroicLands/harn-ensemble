@@ -1,6 +1,6 @@
 ---
 shortcode: jerildofelemas
-name: {full: Jerild of Elemas, aliases: []}
+name: {full: Jerild of Elemas}
 type: being
 subType: npc
 tags: []

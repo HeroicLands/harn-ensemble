@@ -1,6 +1,6 @@
 ---
 shortcode: arthalofceriar
-name: {full: Arthal of Ceriar, aliases: []}
+name: {full: Arthal of Ceriar}
 type: being
 subType: npc
 tags: []

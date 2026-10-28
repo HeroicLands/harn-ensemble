@@ -1,6 +1,6 @@
 ---
 shortcode: drusaxofaweil
-name: {full: Drusax of Aweil, aliases: []}
+name: {full: Drusax of Aweil}
 type: being
 subType: npc
 tags: []

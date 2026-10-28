@@ -1,6 +1,6 @@
 ---
 shortcode: natgeninofewen
-name: {full: Natgenin of Ewen, aliases: []}
+name: {full: Natgenin of Ewen}
 type: being
 subType: npc
 tags: []

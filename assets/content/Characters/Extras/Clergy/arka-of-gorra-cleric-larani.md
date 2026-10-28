@@ -1,6 +1,6 @@
 ---
 shortcode: arkaofgorra
-name: {full: Arka of Gorra, aliases: []}
+name: {full: Arka of Gorra}
 type: being
 subType: npc
 tags: []

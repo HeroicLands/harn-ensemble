@@ -1,6 +1,6 @@
 ---
 shortcode: kesyneoftal
-name: {full: Kesyne of Tal, aliases: []}
+name: {full: Kesyne of Tal}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: otto
-name: {full: Otto, aliases: []}
+name: {full: Otto}
 type: being
 subType: character
 tags: []

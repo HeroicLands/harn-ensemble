@@ -1,6 +1,6 @@
 ---
 shortcode: urlockofrik
-name: {full: Urlock of Rik, aliases: []}
+name: {full: Urlock of Rik}
 type: being
 subType: npc
 tags: []

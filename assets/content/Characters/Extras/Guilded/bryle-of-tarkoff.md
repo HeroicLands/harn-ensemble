@@ -1,6 +1,6 @@
 ---
 shortcode: bryleoftarkoff
-name: {full: Bryle of Tarkoff, aliases: []}
+name: {full: Bryle of Tarkoff}
 type: being
 subType: npc
 tags: []

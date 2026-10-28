@@ -1,6 +1,6 @@
 ---
 shortcode: ginaoftroch
-name: {full: Gina of Troch, aliases: []}
+name: {full: Gina of Troch}
 type: being
 subType: npc
 tags: []

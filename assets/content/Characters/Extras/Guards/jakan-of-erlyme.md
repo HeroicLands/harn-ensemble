@@ -1,6 +1,6 @@
 ---
 shortcode: jakanoferlyme
-name: {full: Jakan of Erlyme, aliases: []}
+name: {full: Jakan of Erlyme}
 type: being
 subType: npc
 tags: []

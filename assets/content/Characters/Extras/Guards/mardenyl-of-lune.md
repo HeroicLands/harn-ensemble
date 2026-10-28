@@ -1,6 +1,6 @@
 ---
 shortcode: mardenyloflune
-name: {full: Mardenyl of Lune, aliases: []}
+name: {full: Mardenyl of Lune}
 type: being
 subType: npc
 tags: []

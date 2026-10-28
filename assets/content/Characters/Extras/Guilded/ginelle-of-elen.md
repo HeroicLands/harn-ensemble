@@ -1,6 +1,6 @@
 ---
 shortcode: ginelleofelen
-name: {full: Ginelle of Elen, aliases: []}
+name: {full: Ginelle of Elen}
 type: being
 subType: npc
 tags: []

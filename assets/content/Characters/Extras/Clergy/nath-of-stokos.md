@@ -1,6 +1,6 @@
 ---
 shortcode: nathofstokos
-name: {full: Nath of Stokos, aliases: []}
+name: {full: Nath of Stokos}
 type: being
 subType: npc
 tags: []

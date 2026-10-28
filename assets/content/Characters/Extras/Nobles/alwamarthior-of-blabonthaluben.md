@@ -1,6 +1,6 @@
 ---
 shortcode: alwamarthiorofblabonthaluben
-name: {full: Alwamarthior of Blabonthaluben, aliases: []}
+name: {full: Alwamarthior of Blabonthaluben}
 type: being
 subType: npc
 tags: []

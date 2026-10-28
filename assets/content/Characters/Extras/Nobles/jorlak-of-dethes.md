@@ -1,6 +1,6 @@
 ---
 shortcode: jorlakofdethes
-name: {full: Jorlak of Dethes, aliases: []}
+name: {full: Jorlak of Dethes}
 type: being
 subType: npc
 tags: []

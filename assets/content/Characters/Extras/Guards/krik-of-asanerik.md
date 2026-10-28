@@ -1,6 +1,6 @@
 ---
 shortcode: krikofasanerik
-name: {full: Krik of Asanerik, aliases: []}
+name: {full: Krik of Asanerik}
 type: being
 subType: npc
 tags: []

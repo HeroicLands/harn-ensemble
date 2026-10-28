@@ -1,6 +1,6 @@
 ---
 shortcode: tersisofharass
-name: {full: Tersis of Harass, aliases: []}
+name: {full: Tersis of Harass}
 type: being
 subType: npc
 tags: []

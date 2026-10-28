@@ -1,6 +1,6 @@
 ---
 shortcode: jellinoflebaroos
-name: {full: Jellin of Lebaroos, aliases: []}
+name: {full: Jellin of Lebaroos}
 type: being
 subType: npc
 tags: []

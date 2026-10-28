@@ -1,6 +1,6 @@
 ---
 shortcode: pallisofmarn
-name: {full: Pallis of Marn, aliases: []}
+name: {full: Pallis of Marn}
 type: being
 subType: npc
 tags: []

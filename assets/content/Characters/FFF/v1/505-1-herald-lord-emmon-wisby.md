@@ -1,6 +1,6 @@
 ---
 shortcode: lordemmonwisby
-name: {full: Lord Emmon Wisby, aliases: []}
+name: {full: Lord Emmon Wisby}
 type: being
 subType: character
 tags: []

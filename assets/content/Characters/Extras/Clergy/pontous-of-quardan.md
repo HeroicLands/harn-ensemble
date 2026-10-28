@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofquardan
-name: {full: Pontous of Quardan, aliases: []}
+name: {full: Pontous of Quardan}
 type: being
 subType: npc
 tags: []

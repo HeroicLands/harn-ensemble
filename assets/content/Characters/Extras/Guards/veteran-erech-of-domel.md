@@ -1,6 +1,6 @@
 ---
 shortcode: veteranerechofdomel
-name: {full: Veteran Erech of Domel, aliases: []}
+name: {full: Veteran Erech of Domel}
 type: being
 subType: npc
 tags: []

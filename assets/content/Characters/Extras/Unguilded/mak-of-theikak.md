@@ -1,6 +1,6 @@
 ---
 shortcode: makoftheikak
-name: {full: Mak of Theikak, aliases: []}
+name: {full: Mak of Theikak}
 type: being
 subType: npc
 tags: []

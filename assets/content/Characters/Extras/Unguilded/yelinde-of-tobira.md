@@ -1,6 +1,6 @@
 ---
 shortcode: yelindeoftobira
-name: {full: Yelinde of Tobira, aliases: []}
+name: {full: Yelinde of Tobira}
 type: being
 subType: npc
 tags: []

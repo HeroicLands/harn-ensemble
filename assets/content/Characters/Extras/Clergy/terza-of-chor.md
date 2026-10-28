@@ -1,6 +1,6 @@
 ---
 shortcode: terzaofchor
-name: {full: Terza of Chor, aliases: []}
+name: {full: Terza of Chor}
 type: being
 subType: npc
 tags: []

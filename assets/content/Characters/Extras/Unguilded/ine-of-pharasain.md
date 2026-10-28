@@ -1,6 +1,6 @@
 ---
 shortcode: ineofpharasain
-name: {full: Ine of Pharasain, aliases: []}
+name: {full: Ine of Pharasain}
 type: being
 subType: npc
 tags: []

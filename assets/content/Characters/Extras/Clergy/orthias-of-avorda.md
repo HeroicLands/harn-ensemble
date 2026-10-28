@@ -1,6 +1,6 @@
 ---
 shortcode: orthiasofavorda
-name: {full: Orthias of Avorda, aliases: []}
+name: {full: Orthias of Avorda}
 type: being
 subType: npc
 tags: []

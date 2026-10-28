@@ -1,6 +1,6 @@
 ---
 shortcode: peserofshorlon
-name: {full: Peser of Shorlon, aliases: []}
+name: {full: Peser of Shorlon}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: cholaynofwythsena
-name: {full: Cholayn of Wythsena, aliases: []}
+name: {full: Cholayn of Wythsena}
 type: being
 subType: npc
 tags: []

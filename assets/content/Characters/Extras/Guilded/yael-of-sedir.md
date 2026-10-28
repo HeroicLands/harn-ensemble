@@ -1,6 +1,6 @@
 ---
 shortcode: yaelofsedir
-name: {full: Yael of Sedir, aliases: []}
+name: {full: Yael of Sedir}
 type: being
 subType: npc
 tags: []

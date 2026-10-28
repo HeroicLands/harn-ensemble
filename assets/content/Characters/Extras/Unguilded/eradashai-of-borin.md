@@ -1,6 +1,6 @@
 ---
 shortcode: eradashaiofborin
-name: {full: Eradashai of Borin, aliases: []}
+name: {full: Eradashai of Borin}
 type: being
 subType: npc
 tags: []

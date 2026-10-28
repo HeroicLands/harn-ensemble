@@ -1,6 +1,6 @@
 ---
 shortcode: ashainofsethsenas
-name: {full: Ashain of Sethsenas, aliases: []}
+name: {full: Ashain of Sethsenas}
 type: being
 subType: npc
 tags: []

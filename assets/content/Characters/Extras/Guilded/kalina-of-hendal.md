@@ -1,6 +1,6 @@
 ---
 shortcode: kalinaofhendal
-name: {full: Kalina of Hendal, aliases: []}
+name: {full: Kalina of Hendal}
 type: being
 subType: npc
 tags: []

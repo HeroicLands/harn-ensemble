@@ -1,6 +1,6 @@
 ---
 shortcode: werelenoftobilon
-name: {full: Werelen of Tobilon, aliases: []}
+name: {full: Werelen of Tobilon}
 type: being
 subType: npc
 tags: []

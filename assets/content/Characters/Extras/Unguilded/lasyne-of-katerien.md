@@ -1,6 +1,6 @@
 ---
 shortcode: lasyneofkaterien
-name: {full: Lasyne of Katerien, aliases: []}
+name: {full: Lasyne of Katerien}
 type: being
 subType: npc
 tags: []

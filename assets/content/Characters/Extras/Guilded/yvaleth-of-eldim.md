@@ -1,6 +1,6 @@
 ---
 shortcode: yvalethofeldim
-name: {full: Yvaleth of Eldim, aliases: []}
+name: {full: Yvaleth of Eldim}
 type: being
 subType: npc
 tags: []

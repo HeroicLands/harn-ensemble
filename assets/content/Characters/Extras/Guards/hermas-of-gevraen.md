@@ -1,6 +1,6 @@
 ---
 shortcode: hermasofgevraen
-name: {full: Hermas of Gevraen, aliases: []}
+name: {full: Hermas of Gevraen}
 type: being
 subType: npc
 tags: []

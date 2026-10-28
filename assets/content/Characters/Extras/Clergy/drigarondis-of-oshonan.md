@@ -1,6 +1,6 @@
 ---
 shortcode: drigarondisofoshonan
-name: {full: Drigarondis of Oshonan, aliases: []}
+name: {full: Drigarondis of Oshonan}
 type: being
 subType: npc
 tags: []

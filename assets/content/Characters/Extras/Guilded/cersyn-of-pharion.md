@@ -1,6 +1,6 @@
 ---
 shortcode: cersynofpharion
-name: {full: Cersyn of Pharion, aliases: []}
+name: {full: Cersyn of Pharion}
 type: being
 subType: npc
 tags: []

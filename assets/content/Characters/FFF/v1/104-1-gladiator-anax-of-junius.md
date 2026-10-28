@@ -1,6 +1,6 @@
 ---
 shortcode: anaxofjunius
-name: {full: Anax of Junius, aliases: []}
+name: {full: Anax of Junius}
 type: being
 subType: character
 tags: []

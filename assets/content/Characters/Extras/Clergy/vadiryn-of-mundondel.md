@@ -1,6 +1,6 @@
 ---
 shortcode: vadirynofmundondel
-name: {full: Vadiryn of Mundondel, aliases: []}
+name: {full: Vadiryn of Mundondel}
 type: being
 subType: npc
 tags: []

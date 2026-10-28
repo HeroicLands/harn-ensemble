@@ -1,6 +1,6 @@
 ---
 shortcode: indrosofmusbern
-name: {full: Indros of Musbern, aliases: []}
+name: {full: Indros of Musbern}
 type: being
 subType: npc
 tags: []

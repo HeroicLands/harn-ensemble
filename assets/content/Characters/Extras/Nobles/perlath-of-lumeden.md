@@ -1,6 +1,6 @@
 ---
 shortcode: perlathoflumeden
-name: {full: Perlath of Lumeden, aliases: []}
+name: {full: Perlath of Lumeden}
 type: being
 subType: npc
 tags: []

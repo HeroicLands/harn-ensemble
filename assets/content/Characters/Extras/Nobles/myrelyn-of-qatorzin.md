@@ -1,6 +1,6 @@
 ---
 shortcode: myrelynofqatorzin
-name: {full: Myrelyn of Qatorzin, aliases: []}
+name: {full: Myrelyn of Qatorzin}
 type: being
 subType: npc
 tags: []

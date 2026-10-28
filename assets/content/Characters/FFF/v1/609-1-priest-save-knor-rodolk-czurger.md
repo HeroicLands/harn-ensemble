@@ -1,6 +1,6 @@
 ---
 shortcode: rodolkczurger
-name: {full: Rodolk Czurger, aliases: []}
+name: {full: Rodolk Czurger}
 type: being
 subType: character
 tags: []

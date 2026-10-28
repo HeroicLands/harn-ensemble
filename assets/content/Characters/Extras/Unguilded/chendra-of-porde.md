@@ -1,6 +1,6 @@
 ---
 shortcode: chendraofporde
-name: {full: Chendra of Porde, aliases: []}
+name: {full: Chendra of Porde}
 type: being
 subType: npc
 tags: []

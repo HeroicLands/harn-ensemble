@@ -1,6 +1,6 @@
 ---
 shortcode: thanofquirien
-name: {full: Than of Quirien, aliases: []}
+name: {full: Than of Quirien}
 type: being
 subType: npc
 tags: []

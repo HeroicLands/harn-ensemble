@@ -1,6 +1,6 @@
 ---
 shortcode: veteranmarcandoftarsuel
-name: {full: Veteran Marcand of Tarsuel, aliases: []}
+name: {full: Veteran Marcand of Tarsuel}
 type: being
 subType: npc
 tags: []

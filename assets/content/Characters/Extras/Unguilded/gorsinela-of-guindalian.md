@@ -1,6 +1,6 @@
 ---
 shortcode: gorsinelaofguindalian
-name: {full: Gorsinela of Guindalian, aliases: []}
+name: {full: Gorsinela of Guindalian}
 type: being
 subType: npc
 tags: []

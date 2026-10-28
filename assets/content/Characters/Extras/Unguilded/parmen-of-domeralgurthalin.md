@@ -1,6 +1,6 @@
 ---
 shortcode: parmenofdomeralgurthalin
-name: {full: Parmen of Domeralgurthalin, aliases: []}
+name: {full: Parmen of Domeralgurthalin}
 type: being
 subType: npc
 tags: []

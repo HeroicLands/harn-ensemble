@@ -1,6 +1,6 @@
 ---
 shortcode: barrisofgorn
-name: {full: Barris of Gorn, aliases: []}
+name: {full: Barris of Gorn}
 type: being
 subType: character
 tags: []

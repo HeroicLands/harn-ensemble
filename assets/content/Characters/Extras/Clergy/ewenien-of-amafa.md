@@ -1,6 +1,6 @@
 ---
 shortcode: ewenienofamafa
-name: {full: Ewenien of Amafa, aliases: []}
+name: {full: Ewenien of Amafa}
 type: being
 subType: npc
 tags: []

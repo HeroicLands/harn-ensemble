@@ -1,6 +1,6 @@
 ---
 shortcode: lamnarofkapire
-name: {full: Lamnar of Kapire, aliases: []}
+name: {full: Lamnar of Kapire}
 type: being
 subType: npc
 tags: []

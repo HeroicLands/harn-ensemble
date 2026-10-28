@@ -1,6 +1,6 @@
 ---
 shortcode: veteranharathoftroll
-name: {full: Veteran Harath of Troll, aliases: []}
+name: {full: Veteran Harath of Troll}
 type: being
 subType: npc
 tags: []

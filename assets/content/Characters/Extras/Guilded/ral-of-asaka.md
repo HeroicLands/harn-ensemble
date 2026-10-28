@@ -1,6 +1,6 @@
 ---
 shortcode: ralofasaka
-name: {full: Ral of Asaka, aliases: []}
+name: {full: Ral of Asaka}
 type: being
 subType: npc
 tags: []

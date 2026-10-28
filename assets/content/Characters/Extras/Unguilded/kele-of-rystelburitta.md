@@ -1,6 +1,6 @@
 ---
 shortcode: keleofrystelburitta
-name: {full: Kele of Rystelburitta, aliases: []}
+name: {full: Kele of Rystelburitta}
 type: being
 subType: npc
 tags: []

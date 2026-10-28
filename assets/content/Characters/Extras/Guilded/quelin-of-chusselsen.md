@@ -1,6 +1,6 @@
 ---
 shortcode: quelinofchusselsen
-name: {full: Quelin of Chusselsen, aliases: []}
+name: {full: Quelin of Chusselsen}
 type: being
 subType: npc
 tags: []

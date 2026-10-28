@@ -1,6 +1,6 @@
 ---
 shortcode: tagbarofyale
-name: {full: Tagbar of Yale, aliases: []}
+name: {full: Tagbar of Yale}
 type: being
 subType: npc
 tags: []

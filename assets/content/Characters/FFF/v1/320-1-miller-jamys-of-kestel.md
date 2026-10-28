@@ -1,6 +1,6 @@
 ---
 shortcode: jamysofkestel
-name: {full: Jamys of Kestel, aliases: []}
+name: {full: Jamys of Kestel}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jeribonofmatlim
-name: {full: Jeribon of Matlim, aliases: []}
+name: {full: Jeribon of Matlim}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arbrinofplacka
-name: {full: Arbrin of Placka, aliases: []}
+name: {full: Arbrin of Placka}
 type: being
 subType: npc
 tags: []

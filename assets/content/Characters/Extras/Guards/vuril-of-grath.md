@@ -1,6 +1,6 @@
 ---
 shortcode: vurilofgrath
-name: {full: Vuril of Grath, aliases: []}
+name: {full: Vuril of Grath}
 type: being
 subType: npc
 tags: []

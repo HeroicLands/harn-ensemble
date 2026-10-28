@@ -1,6 +1,6 @@
 ---
 shortcode: eradahofsel
-name: {full: Eradah of Sel, aliases: []}
+name: {full: Eradah of Sel}
 type: being
 subType: npc
 tags: []

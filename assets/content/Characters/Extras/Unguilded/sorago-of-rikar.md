@@ -1,6 +1,6 @@
 ---
 shortcode: soragoofrikar
-name: {full: Sorago of Rikar, aliases: []}
+name: {full: Sorago of Rikar}
 type: being
 subType: npc
 tags: []

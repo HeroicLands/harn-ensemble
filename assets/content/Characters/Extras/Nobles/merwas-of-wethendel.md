@@ -1,6 +1,6 @@
 ---
 shortcode: merwasofwethendel
-name: {full: Merwas of Wethendel, aliases: []}
+name: {full: Merwas of Wethendel}
 type: being
 subType: npc
 tags: []

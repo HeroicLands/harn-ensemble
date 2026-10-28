@@ -1,6 +1,6 @@
 ---
 shortcode: ithofintrenel
-name: {full: Ith of Intrenel, aliases: []}
+name: {full: Ith of Intrenel}
 type: being
 subType: npc
 tags: []

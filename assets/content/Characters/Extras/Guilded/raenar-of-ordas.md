@@ -1,6 +1,6 @@
 ---
 shortcode: raenarofordas
-name: {full: Raenar of Ordas, aliases: []}
+name: {full: Raenar of Ordas}
 type: being
 subType: npc
 tags: []

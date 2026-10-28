@@ -1,6 +1,6 @@
 ---
 shortcode: brethofweth
-name: {full: Breth of Weth, aliases: []}
+name: {full: Breth of Weth}
 type: being
 subType: npc
 tags: []

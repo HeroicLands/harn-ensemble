@@ -1,6 +1,6 @@
 ---
 shortcode: klarinaofparsuel
-name: {full: Klarina of Parsuel, aliases: []}
+name: {full: Klarina of Parsuel}
 type: being
 subType: npc
 tags: []

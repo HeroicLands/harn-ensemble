@@ -1,6 +1,6 @@
 ---
 shortcode: embrantofyale
-name: {full: Embrant of Yale, aliases: []}
+name: {full: Embrant of Yale}
 type: being
 subType: npc
 tags: []

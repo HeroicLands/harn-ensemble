@@ -1,6 +1,6 @@
 ---
 shortcode: obirisofsel
-name: {full: Obiris of Sel, aliases: []}
+name: {full: Obiris of Sel}
 type: being
 subType: npc
 tags: []

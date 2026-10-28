@@ -1,6 +1,6 @@
 ---
 shortcode: lusilinaofdurnwak
-name: {full: Lusilina of Durnwak, aliases: []}
+name: {full: Lusilina of Durnwak}
 type: being
 subType: npc
 tags: []

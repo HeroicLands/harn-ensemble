@@ -1,6 +1,6 @@
 ---
 shortcode: tagbaroftombine
-name: {full: Tagbar of Tombine, aliases: []}
+name: {full: Tagbar of Tombine}
 type: being
 subType: npc
 tags: []

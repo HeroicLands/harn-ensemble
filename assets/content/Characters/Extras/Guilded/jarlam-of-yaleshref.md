@@ -1,6 +1,6 @@
 ---
 shortcode: jarlamofyaleshref
-name: {full: Jarlam of Yaleshref, aliases: []}
+name: {full: Jarlam of Yaleshref}
 type: being
 subType: npc
 tags: []

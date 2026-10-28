@@ -1,6 +1,6 @@
 ---
 shortcode: lirofaeb
-name: {full: Lir of Aeb, aliases: []}
+name: {full: Lir of Aeb}
 type: being
 subType: npc
 tags: []

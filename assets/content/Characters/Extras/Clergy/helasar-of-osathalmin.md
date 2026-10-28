@@ -1,6 +1,6 @@
 ---
 shortcode: helasarofosathalmin
-name: {full: Helasar of Osathalmin, aliases: []}
+name: {full: Helasar of Osathalmin}
 type: being
 subType: npc
 tags: []

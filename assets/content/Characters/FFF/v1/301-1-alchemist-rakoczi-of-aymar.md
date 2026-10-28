@@ -1,6 +1,6 @@
 ---
 shortcode: rakocziofaymar
-name: {full: Rakoczi of Aymar, aliases: []}
+name: {full: Rakoczi of Aymar}
 type: being
 subType: character
 tags: []

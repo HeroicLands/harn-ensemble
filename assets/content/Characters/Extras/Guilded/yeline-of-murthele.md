@@ -1,6 +1,6 @@
 ---
 shortcode: yelineofmurthele
-name: {full: Yeline of Murthele, aliases: []}
+name: {full: Yeline of Murthele}
 type: being
 subType: npc
 tags: []

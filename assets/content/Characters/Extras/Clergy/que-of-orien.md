@@ -1,6 +1,6 @@
 ---
 shortcode: queoforien
-name: {full: Que of Orien, aliases: []}
+name: {full: Que of Orien}
 type: being
 subType: npc
 tags: []

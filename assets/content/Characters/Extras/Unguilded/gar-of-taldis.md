@@ -1,6 +1,6 @@
 ---
 shortcode: garoftaldis
-name: {full: Gar of Taldis, aliases: []}
+name: {full: Gar of Taldis}
 type: being
 subType: npc
 tags: []

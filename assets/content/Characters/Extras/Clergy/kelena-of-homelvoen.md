@@ -1,6 +1,6 @@
 ---
 shortcode: kelenaofhomelvoen
-name: {full: Kelena of Homelvoen, aliases: []}
+name: {full: Kelena of Homelvoen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: geacelsisofduplo
-name: {full: Geacelsis of Duplo, aliases: []}
+name: {full: Geacelsis of Duplo}
 type: being
 subType: npc
 tags: []

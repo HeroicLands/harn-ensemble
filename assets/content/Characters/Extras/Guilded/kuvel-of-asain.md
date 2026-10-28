@@ -1,6 +1,6 @@
 ---
 shortcode: kuvelofasain
-name: {full: Kuvel of Asain, aliases: []}
+name: {full: Kuvel of Asain}
 type: being
 subType: npc
 tags: []

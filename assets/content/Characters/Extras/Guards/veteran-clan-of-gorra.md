@@ -1,6 +1,6 @@
 ---
 shortcode: veteranclanofgorra
-name: {full: Veteran Clan of Gorra, aliases: []}
+name: {full: Veteran Clan of Gorra}
 type: being
 subType: npc
 tags: []

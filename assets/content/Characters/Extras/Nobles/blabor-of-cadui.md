@@ -1,6 +1,6 @@
 ---
 shortcode: blaborofcadui
-name: {full: Blabor of Cadui, aliases: []}
+name: {full: Blabor of Cadui}
 type: being
 subType: npc
 tags: []

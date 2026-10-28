@@ -1,6 +1,6 @@
 ---
 shortcode: kalwisoforta
-name: {full: Kalwis of Orta, aliases: []}
+name: {full: Kalwis of Orta}
 type: being
 subType: npc
 tags: []

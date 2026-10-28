@@ -1,6 +1,6 @@
 ---
 shortcode: kalasofaralsar
-name: {full: Kalas of Aralsar, aliases: []}
+name: {full: Kalas of Aralsar}
 type: being
 subType: character
 tags: []

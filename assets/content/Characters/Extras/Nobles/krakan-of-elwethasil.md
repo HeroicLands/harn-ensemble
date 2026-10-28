@@ -1,6 +1,6 @@
 ---
 shortcode: krakanofelwethasil
-name: {full: Krakan of Elwethasil, aliases: []}
+name: {full: Krakan of Elwethasil}
 type: being
 subType: npc
 tags: []

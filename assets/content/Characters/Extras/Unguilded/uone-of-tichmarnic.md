@@ -1,6 +1,6 @@
 ---
 shortcode: uoneoftichmarnic
-name: {full: Uone of Tichmarnic, aliases: []}
+name: {full: Uone of Tichmarnic}
 type: being
 subType: npc
 tags: []

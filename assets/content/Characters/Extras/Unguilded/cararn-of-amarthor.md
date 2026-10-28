@@ -1,6 +1,6 @@
 ---
 shortcode: cararnofamarthor
-name: {full: Cararn of Amarthor, aliases: []}
+name: {full: Cararn of Amarthor}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: uoneofrytus
-name: {full: Uone of Rytus, aliases: []}
+name: {full: Uone of Rytus}
 type: being
 subType: npc
 tags: []

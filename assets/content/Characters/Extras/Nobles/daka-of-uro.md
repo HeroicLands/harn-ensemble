@@ -1,6 +1,6 @@
 ---
 shortcode: dakaofuro
-name: {full: Daka of Uro, aliases: []}
+name: {full: Daka of Uro}
 type: being
 subType: npc
 tags: []

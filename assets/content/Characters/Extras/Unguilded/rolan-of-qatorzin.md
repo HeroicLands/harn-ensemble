@@ -1,6 +1,6 @@
 ---
 shortcode: rolanofqatorzin
-name: {full: Rolan of Qatorzin, aliases: []}
+name: {full: Rolan of Qatorzin}
 type: being
 subType: npc
 tags: []

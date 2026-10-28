@@ -1,6 +1,6 @@
 ---
 shortcode: lorantoforiel
-name: {full: Lorant of Oriel, aliases: []}
+name: {full: Lorant of Oriel}
 type: being
 subType: npc
 tags: []

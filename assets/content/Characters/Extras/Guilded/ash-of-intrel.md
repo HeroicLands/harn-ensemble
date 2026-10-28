@@ -1,6 +1,6 @@
 ---
 shortcode: ashofintrel
-name: {full: Ash of Intrel, aliases: []}
+name: {full: Ash of Intrel}
 type: being
 subType: npc
 tags: []

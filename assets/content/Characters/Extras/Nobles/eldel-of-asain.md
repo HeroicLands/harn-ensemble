@@ -1,6 +1,6 @@
 ---
 shortcode: eldelofasain
-name: {full: Eldel of Asain, aliases: []}
+name: {full: Eldel of Asain}
 type: being
 subType: npc
 tags: []

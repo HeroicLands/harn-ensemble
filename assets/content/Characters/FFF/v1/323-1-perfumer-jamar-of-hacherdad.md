@@ -1,6 +1,6 @@
 ---
 shortcode: jamarofhacherdad
-name: {full: Jamar of Hacherdad, aliases: []}
+name: {full: Jamar of Hacherdad}
 type: being
 subType: character
 tags: []

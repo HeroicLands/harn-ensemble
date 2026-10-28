@@ -1,6 +1,6 @@
 ---
 shortcode: veteranterlyneofbaroos
-name: {full: Veteran Terlyne of Baroos, aliases: []}
+name: {full: Veteran Terlyne of Baroos}
 type: being
 subType: npc
 tags: []

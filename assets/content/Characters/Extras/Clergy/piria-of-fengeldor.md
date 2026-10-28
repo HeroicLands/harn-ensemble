@@ -1,6 +1,6 @@
 ---
 shortcode: piriaoffengeldor
-name: {full: Piria of Fengeldor, aliases: []}
+name: {full: Piria of Fengeldor}
 type: being
 subType: npc
 tags: []

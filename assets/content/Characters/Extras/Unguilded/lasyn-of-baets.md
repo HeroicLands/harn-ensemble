@@ -1,6 +1,6 @@
 ---
 shortcode: lasynofbaets
-name: {full: Lasyn of Baets, aliases: []}
+name: {full: Lasyn of Baets}
 type: being
 subType: npc
 tags: []

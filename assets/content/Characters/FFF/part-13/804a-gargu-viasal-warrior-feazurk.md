@@ -1,6 +1,6 @@
 ---
 shortcode: feazurk
-name: {full: Feazurk, aliases: []}
+name: {full: Feazurk}
 type: being
 subType: character
 tags: []

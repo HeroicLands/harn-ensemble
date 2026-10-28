@@ -1,6 +1,6 @@
 ---
 shortcode: orthilofbarn
-name: {full: Orthil of Barn, aliases: []}
+name: {full: Orthil of Barn}
 type: being
 subType: npc
 tags: []

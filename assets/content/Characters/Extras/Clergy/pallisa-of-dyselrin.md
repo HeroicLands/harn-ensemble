@@ -1,6 +1,6 @@
 ---
 shortcode: pallisaofdyselrin
-name: {full: Pallisa of Dyselrin, aliases: []}
+name: {full: Pallisa of Dyselrin}
 type: being
 subType: npc
 tags: []

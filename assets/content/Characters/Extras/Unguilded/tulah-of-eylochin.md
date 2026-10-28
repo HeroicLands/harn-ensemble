@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofeylochin
-name: {full: Tulah of Eylochin, aliases: []}
+name: {full: Tulah of Eylochin}
 type: being
 subType: npc
 tags: []

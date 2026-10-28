@@ -1,6 +1,6 @@
 ---
 shortcode: bresynofpendal
-name: {full: Bresyn of Pendal, aliases: []}
+name: {full: Bresyn of Pendal}
 type: being
 subType: npc
 tags: []

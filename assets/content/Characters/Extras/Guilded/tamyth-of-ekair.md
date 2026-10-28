@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofekair
-name: {full: Tamyth of Ekair, aliases: []}
+name: {full: Tamyth of Ekair}
 type: being
 subType: npc
 tags: []

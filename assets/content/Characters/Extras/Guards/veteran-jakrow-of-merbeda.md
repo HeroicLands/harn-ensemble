@@ -1,6 +1,6 @@
 ---
 shortcode: veteranjakrowofmerbeda
-name: {full: Veteran Jakrow of Merbeda, aliases: []}
+name: {full: Veteran Jakrow of Merbeda}
 type: being
 subType: npc
 tags: []

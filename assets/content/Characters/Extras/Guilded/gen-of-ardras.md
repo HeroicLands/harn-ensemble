@@ -1,6 +1,6 @@
 ---
 shortcode: genofardras
-name: {full: Gen of Ardras, aliases: []}
+name: {full: Gen of Ardras}
 type: being
 subType: npc
 tags: []

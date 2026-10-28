@@ -1,6 +1,6 @@
 ---
 shortcode: heralaofdrel
-name: {full: Herala of Drel, aliases: []}
+name: {full: Herala of Drel}
 type: being
 subType: npc
 tags: []

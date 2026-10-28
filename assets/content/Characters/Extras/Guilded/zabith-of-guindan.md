@@ -1,6 +1,6 @@
 ---
 shortcode: zabithofguindan
-name: {full: Zabith of Guindan, aliases: []}
+name: {full: Zabith of Guindan}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: soragaofshre
-name: {full: Soraga of Shre, aliases: []}
+name: {full: Soraga of Shre}
 type: being
 subType: npc
 tags: []

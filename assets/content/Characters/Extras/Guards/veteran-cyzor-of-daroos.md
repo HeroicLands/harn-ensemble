@@ -1,6 +1,6 @@
 ---
 shortcode: veterancyzorofdaroos
-name: {full: Veteran Cyzor of Daroos, aliases: []}
+name: {full: Veteran Cyzor of Daroos}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: garinertus
-name: {full: Garin Ertus, aliases: []}
+name: {full: Garin Ertus}
 type: being
 subType: character
 tags: []

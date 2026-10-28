@@ -1,6 +1,6 @@
 ---
 shortcode: seralofmadib
-name: {full: Seral of Madib, aliases: []}
+name: {full: Seral of Madib}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: lysatrisofkapire
-name: {full: Lysatris of Kapire, aliases: []}
+name: {full: Lysatris of Kapire}
 type: being
 subType: npc
 tags: []

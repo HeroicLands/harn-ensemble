@@ -1,6 +1,6 @@
 ---
 shortcode: thelrenofesaldim
-name: {full: Thelren of Esaldim, aliases: []}
+name: {full: Thelren of Esaldim}
 type: being
 subType: npc
 tags: []

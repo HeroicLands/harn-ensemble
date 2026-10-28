@@ -1,6 +1,6 @@
 ---
 shortcode: ithofaeb
-name: {full: Ith of Aeb, aliases: []}
+name: {full: Ith of Aeb}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofnemirine
-name: {full: Pontous of Nemirine, aliases: []}
+name: {full: Pontous of Nemirine}
 type: being
 subType: npc
 tags: []

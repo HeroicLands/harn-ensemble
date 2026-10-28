@@ -1,6 +1,6 @@
 ---
 shortcode: mereneofekail
-name: {full: Merene of Ekail, aliases: []}
+name: {full: Merene of Ekail}
 type: being
 subType: npc
 tags: []

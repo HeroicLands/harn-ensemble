@@ -1,6 +1,6 @@
 ---
 shortcode: bresyneofduckill
-name: {full: Bresyne of Duckill, aliases: []}
+name: {full: Bresyne of Duckill}
 type: being
 subType: npc
 tags: []

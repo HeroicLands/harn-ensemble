@@ -1,6 +1,6 @@
 ---
 shortcode: tarlenofbelarass
-name: {full: Tarlen of Belarass, aliases: []}
+name: {full: Tarlen of Belarass}
 type: being
 subType: npc
 tags: []

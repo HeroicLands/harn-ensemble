@@ -1,6 +1,6 @@
 ---
 shortcode: waroreliasen
-name: {full: Warorel Iasen, aliases: []}
+name: {full: Warorel Iasen}
 type: being
 subType: character
 tags: []

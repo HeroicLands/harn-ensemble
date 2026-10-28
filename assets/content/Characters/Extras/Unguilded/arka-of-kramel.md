@@ -1,6 +1,6 @@
 ---
 shortcode: arkaofkramel
-name: {full: Arka of Kramel, aliases: []}
+name: {full: Arka of Kramel}
 type: being
 subType: npc
 tags: []

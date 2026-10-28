@@ -1,6 +1,6 @@
 ---
 shortcode: tamythofoshornic
-name: {full: Tamyth of Oshornic, aliases: []}
+name: {full: Tamyth of Oshornic}
 type: being
 subType: npc
 tags: []

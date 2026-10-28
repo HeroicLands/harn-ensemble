@@ -1,6 +1,6 @@
 ---
 shortcode: onfroiofmetical
-name: {full: Onfroi of Metical, aliases: []}
+name: {full: Onfroi of Metical}
 type: being
 subType: character
 tags: []

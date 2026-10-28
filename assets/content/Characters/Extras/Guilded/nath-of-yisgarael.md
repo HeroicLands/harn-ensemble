@@ -1,6 +1,6 @@
 ---
 shortcode: nathofyisgarael
-name: {full: Nath of Yisgarael, aliases: []}
+name: {full: Nath of Yisgarael}
 type: being
 subType: npc
 tags: []

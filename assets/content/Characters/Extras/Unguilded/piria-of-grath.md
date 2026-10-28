@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofgrath
-name: {full: Piria of Grath, aliases: []}
+name: {full: Piria of Grath}
 type: being
 subType: npc
 tags: []

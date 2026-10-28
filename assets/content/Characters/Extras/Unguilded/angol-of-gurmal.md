@@ -1,6 +1,6 @@
 ---
 shortcode: angolofgurmal
-name: {full: Angol of Gurmal, aliases: []}
+name: {full: Angol of Gurmal}
 type: being
 subType: npc
 tags: []

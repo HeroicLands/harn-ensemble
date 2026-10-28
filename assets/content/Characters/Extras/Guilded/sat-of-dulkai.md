@@ -1,6 +1,6 @@
 ---
 shortcode: satofdulkai
-name: {full: Sat of Dulkai, aliases: []}
+name: {full: Sat of Dulkai}
 type: being
 subType: npc
 tags: []

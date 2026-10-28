@@ -1,6 +1,6 @@
 ---
 shortcode: helaoffengeldan
-name: {full: Hela of Fengeldan, aliases: []}
+name: {full: Hela of Fengeldan}
 type: being
 subType: npc
 tags: []

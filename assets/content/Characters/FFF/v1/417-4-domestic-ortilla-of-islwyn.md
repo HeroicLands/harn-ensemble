@@ -1,6 +1,6 @@
 ---
 shortcode: ortillaofislwyn
-name: {full: Ortilla of Islwyn, aliases: []}
+name: {full: Ortilla of Islwyn}
 type: being
 subType: character
 tags: []

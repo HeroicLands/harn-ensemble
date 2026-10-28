@@ -1,6 +1,6 @@
 ---
 shortcode: amdirnurofamath
-name: {full: Amdirnur of Amath, aliases: []}
+name: {full: Amdirnur of Amath}
 type: being
 subType: npc
 tags: []

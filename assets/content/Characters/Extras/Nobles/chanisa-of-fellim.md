@@ -1,6 +1,6 @@
 ---
 shortcode: chanisaoffellim
-name: {full: Chanisa of Fellim, aliases: []}
+name: {full: Chanisa of Fellim}
 type: being
 subType: npc
 tags: []

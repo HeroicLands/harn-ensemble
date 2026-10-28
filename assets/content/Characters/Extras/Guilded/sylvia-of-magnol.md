@@ -1,6 +1,6 @@
 ---
 shortcode: sylviaofmagnol
-name: {full: Sylvia of Magnol, aliases: []}
+name: {full: Sylvia of Magnol}
 type: being
 subType: npc
 tags: []

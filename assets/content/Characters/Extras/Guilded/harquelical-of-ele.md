@@ -1,6 +1,6 @@
 ---
 shortcode: harquelicalofele
-name: {full: Harquelical of Ele, aliases: []}
+name: {full: Harquelical of Ele}
 type: being
 subType: npc
 tags: []

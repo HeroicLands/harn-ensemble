@@ -1,6 +1,6 @@
 ---
 shortcode: heribonofkoruarr
-name: {full: Heribon of Koruarr, aliases: []}
+name: {full: Heribon of Koruarr}
 type: being
 subType: npc
 tags: []

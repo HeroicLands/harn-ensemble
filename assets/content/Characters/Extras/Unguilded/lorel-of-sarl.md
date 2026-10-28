@@ -1,6 +1,6 @@
 ---
 shortcode: lorelofsarl
-name: {full: Lorel of Sarl, aliases: []}
+name: {full: Lorel of Sarl}
 type: being
 subType: npc
 tags: []

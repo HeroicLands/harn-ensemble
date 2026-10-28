@@ -1,6 +1,6 @@
 ---
 shortcode: lusilenaofdyselphus
-name: {full: Lusilena of Dyselphus, aliases: []}
+name: {full: Lusilena of Dyselphus}
 type: being
 subType: npc
 tags: []

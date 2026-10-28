@@ -1,6 +1,6 @@
 ---
 shortcode: caranofangrustui
-name: {full: Caran of Angrustui, aliases: []}
+name: {full: Caran of Angrustui}
 type: being
 subType: npc
 tags: []

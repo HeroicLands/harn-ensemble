@@ -1,6 +1,6 @@
 ---
 shortcode: amarithesson
-name: {full: Amari of Thesson, aliases: []}
+name: {full: Amari of Thesson}
 type: being
 subType: npc
 tags: []

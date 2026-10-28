@@ -1,6 +1,6 @@
 ---
 shortcode: aeraofarmelvoen
-name: {full: Aera of Armelvoen, aliases: []}
+name: {full: Aera of Armelvoen}
 type: being
 subType: npc
 tags: []

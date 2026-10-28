@@ -1,6 +1,6 @@
 ---
 shortcode: thervaoffellyr
-name: {full: Therva of Fellyr, aliases: []}
+name: {full: Therva of Fellyr}
 type: being
 subType: npc
 tags: []

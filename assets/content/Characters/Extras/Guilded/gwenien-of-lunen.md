@@ -1,6 +1,6 @@
 ---
 shortcode: gwenienoflunen
-name: {full: Gwenien of Lunen, aliases: []}
+name: {full: Gwenien of Lunen}
 type: being
 subType: npc
 tags: []

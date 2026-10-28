@@ -1,6 +1,6 @@
 ---
 shortcode: ermekofermek
-name: {full: Ermek of Ermek, aliases: []}
+name: {full: Ermek of Ermek}
 type: being
 subType: npc
 tags: []

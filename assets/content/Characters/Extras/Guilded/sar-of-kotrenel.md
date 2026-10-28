@@ -1,6 +1,6 @@
 ---
 shortcode: sarofkotrenel
-name: {full: Sar of Kotrenel, aliases: []}
+name: {full: Sar of Kotrenel}
 type: being
 subType: npc
 tags: []

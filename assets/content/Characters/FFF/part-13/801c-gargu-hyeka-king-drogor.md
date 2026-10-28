@@ -1,6 +1,6 @@
 ---
 shortcode: drogor
-name: {full: Drogor, aliases: []}
+name: {full: Drogor}
 type: being
 subType: character
 tags: []

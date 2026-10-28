@@ -1,6 +1,6 @@
 ---
 shortcode: kerthervaofelbardin
-name: {full: Kertherva of Elbardin, aliases: []}
+name: {full: Kertherva of Elbardin}
 type: being
 subType: npc
 tags: []

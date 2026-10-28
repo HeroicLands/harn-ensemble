@@ -1,6 +1,6 @@
 ---
 shortcode: obrayzelofdebern
-name: {full: Obrayzel of Debern, aliases: []}
+name: {full: Obrayzel of Debern}
 type: being
 subType: npc
 tags: []

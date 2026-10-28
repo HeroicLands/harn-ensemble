@@ -1,6 +1,6 @@
 ---
 shortcode: captaincharallaxoflundondel
-name: {full: Captain Charallax of Lundondel, aliases: []}
+name: {full: Captain Charallax of Lundondel}
 type: being
 subType: npc
 tags: []

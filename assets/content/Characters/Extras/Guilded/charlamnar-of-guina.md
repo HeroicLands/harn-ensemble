@@ -1,6 +1,6 @@
 ---
 shortcode: charlamnarofguina
-name: {full: Charlamnar of Guina, aliases: []}
+name: {full: Charlamnar of Guina}
 type: being
 subType: npc
 tags: []

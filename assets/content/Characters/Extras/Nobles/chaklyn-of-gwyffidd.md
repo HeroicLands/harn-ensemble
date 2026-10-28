@@ -1,6 +1,6 @@
 ---
 shortcode: chaklynofgwyffidd
-name: {full: Chaklyn of Gwyffidd, aliases: []}
+name: {full: Chaklyn of Gwyffidd}
 type: being
 subType: npc
 tags: []

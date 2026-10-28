@@ -1,6 +1,6 @@
 ---
 shortcode: dickonofdurnwak
-name: {full: Dickon of Durnwak, aliases: []}
+name: {full: Dickon of Durnwak}
 type: being
 subType: npc
 tags: []

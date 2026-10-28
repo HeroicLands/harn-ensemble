@@ -1,6 +1,6 @@
 ---
 shortcode: veteraneralofvanthen
-name: {full: Veteran Eral of Vanthen, aliases: []}
+name: {full: Veteran Eral of Vanthen}
 type: being
 subType: npc
 tags: []

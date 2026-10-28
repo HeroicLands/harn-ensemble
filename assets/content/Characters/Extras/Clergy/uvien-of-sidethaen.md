@@ -1,6 +1,6 @@
 ---
 shortcode: uvienofsidethaen
-name: {full: Uvien of Sidethaen, aliases: []}
+name: {full: Uvien of Sidethaen}
 type: being
 subType: npc
 tags: []

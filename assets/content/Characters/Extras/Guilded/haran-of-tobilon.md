@@ -1,6 +1,6 @@
 ---
 shortcode: haranoftobilon
-name: {full: Haran of Tobilon, aliases: []}
+name: {full: Haran of Tobilon}
 type: being
 subType: npc
 tags: []

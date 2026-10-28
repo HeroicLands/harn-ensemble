@@ -1,6 +1,6 @@
 ---
 shortcode: lodinofstuk
-name: {full: Lodin of Stuk, aliases: []}
+name: {full: Lodin of Stuk}
 type: being
 subType: npc
 tags: []

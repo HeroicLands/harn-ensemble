@@ -1,6 +1,6 @@
 ---
 shortcode: belsinofkai
-name: {full: Belsin of Kai, aliases: []}
+name: {full: Belsin of Kai}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: cyzorginofkramele
-name: {full: Cyzorgin of Kramele, aliases: []}
+name: {full: Cyzorgin of Kramele}
 type: being
 subType: npc
 tags: []

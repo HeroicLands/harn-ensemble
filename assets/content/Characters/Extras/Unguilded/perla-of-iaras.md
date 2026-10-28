@@ -1,6 +1,6 @@
 ---
 shortcode: perlaofiaras
-name: {full: Perla of Iaras, aliases: []}
+name: {full: Perla of Iaras}
 type: being
 subType: npc
 tags: []

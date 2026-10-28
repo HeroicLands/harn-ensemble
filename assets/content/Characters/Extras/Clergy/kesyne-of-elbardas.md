@@ -1,6 +1,6 @@
 ---
 shortcode: kesyneofelbardas
-name: {full: Kesyne of Elbardas, aliases: []}
+name: {full: Kesyne of Elbardas}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: jakkynofdybarsin
-name: {full: Jakkyn of Dybarsin, aliases: []}
+name: {full: Jakkyn of Dybarsin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: laserenaofgel
-name: {full: Laserena of Gel, aliases: []}
+name: {full: Laserena of Gel}
 type: being
 subType: npc
 tags: []

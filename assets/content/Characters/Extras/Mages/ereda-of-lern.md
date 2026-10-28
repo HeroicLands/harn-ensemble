@@ -1,6 +1,6 @@
 ---
 shortcode: eredaoflern
-name: {full: Ereda of Lern, aliases: []}
+name: {full: Ereda of Lern}
 type: being
 subType: npc
 tags: []

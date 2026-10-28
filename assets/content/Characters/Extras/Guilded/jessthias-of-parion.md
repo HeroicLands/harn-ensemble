@@ -1,6 +1,6 @@
 ---
 shortcode: jessthiasofparion
-name: {full: Jessthias of Parion, aliases: []}
+name: {full: Jessthias of Parion}
 type: being
 subType: npc
 tags: []

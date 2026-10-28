@@ -1,6 +1,6 @@
 ---
 shortcode: rokkiofsunigal
-name: {full: Rokki of Sunigal, aliases: []}
+name: {full: Rokki of Sunigal}
 type: being
 subType: npc
 tags: []

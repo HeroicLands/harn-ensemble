@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelimeofclean
-name: {full: Maeghelime of Clean, aliases: []}
+name: {full: Maeghelime of Clean}
 type: being
 subType: npc
 tags: []

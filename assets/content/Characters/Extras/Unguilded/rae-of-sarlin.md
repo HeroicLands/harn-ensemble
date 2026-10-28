@@ -1,6 +1,6 @@
 ---
 shortcode: raeofsarlin
-name: {full: Rae of Sarlin, aliases: []}
+name: {full: Rae of Sarlin}
 type: being
 subType: npc
 tags: []

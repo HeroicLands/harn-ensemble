@@ -1,6 +1,6 @@
 ---
 shortcode: jondofmerke
-name: {full: Jond of Merke, aliases: []}
+name: {full: Jond of Merke}
 type: being
 subType: npc
 tags: []

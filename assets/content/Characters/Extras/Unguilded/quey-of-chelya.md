@@ -1,6 +1,6 @@
 ---
 shortcode: queyofchelya
-name: {full: Quey of Chelya, aliases: []}
+name: {full: Quey of Chelya}
 type: being
 subType: npc
 tags: []

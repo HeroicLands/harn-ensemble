@@ -1,6 +1,6 @@
 ---
 shortcode: agarofcaramdirphen
-name: {full: Agar of Caramdirphen, aliases: []}
+name: {full: Agar of Caramdirphen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: tulahofath
-name: {full: Tulah of Ath, aliases: []}
+name: {full: Tulah of Ath}
 type: being
 subType: npc
 tags: []

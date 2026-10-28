@@ -1,6 +1,6 @@
 ---
 shortcode: uvieneofmerlesh
-name: {full: Uviene of Merlesh, aliases: []}
+name: {full: Uviene of Merlesh}
 type: being
 subType: npc
 tags: []

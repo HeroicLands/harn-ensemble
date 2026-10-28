@@ -1,6 +1,6 @@
 ---
 shortcode: ugenofmar
-name: {full: Ugen of Mar, aliases: []}
+name: {full: Ugen of Mar}
 type: being
 subType: npc
 tags: []

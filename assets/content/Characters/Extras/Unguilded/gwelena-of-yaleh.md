@@ -1,6 +1,6 @@
 ---
 shortcode: gwelenaofyaleh
-name: {full: Gwelena of Yaleh, aliases: []}
+name: {full: Gwelena of Yaleh}
 type: being
 subType: npc
 tags: []

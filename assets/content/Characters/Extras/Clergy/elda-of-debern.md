@@ -1,6 +1,6 @@
 ---
 shortcode: eldaofdebern
-name: {full: Elda of Debern, aliases: []}
+name: {full: Elda of Debern}
 type: being
 subType: npc
 tags: []

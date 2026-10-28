@@ -1,6 +1,6 @@
 ---
 shortcode: jolaofewena
-name: {full: Jola of Ewena, aliases: []}
+name: {full: Jola of Ewena}
 type: being
 subType: npc
 tags: []

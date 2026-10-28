@@ -1,6 +1,6 @@
 ---
 shortcode: brylweofduplo
-name: {full: Brylwe of Duplo, aliases: []}
+name: {full: Brylwe of Duplo}
 type: being
 subType: npc
 tags: []

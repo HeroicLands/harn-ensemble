@@ -1,6 +1,6 @@
 ---
 shortcode: damelyesagaravania
-name: {full: Dame Lyesa Garavania, aliases: []}
+name: {full: Dame Lyesa Garavania}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: wereryofmykansen
-name: {full: Werery of Mykansen, aliases: []}
+name: {full: Werery of Mykansen}
 type: being
 subType: npc
 tags: []

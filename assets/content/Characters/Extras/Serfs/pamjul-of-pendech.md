@@ -1,6 +1,6 @@
 ---
 shortcode: pamjulofpendech
-name: {full: Pamjul of Pendech, aliases: []}
+name: {full: Pamjul of Pendech}
 type: being
 subType: npc
 tags: []

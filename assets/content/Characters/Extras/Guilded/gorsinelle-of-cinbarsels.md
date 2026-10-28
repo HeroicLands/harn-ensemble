@@ -1,6 +1,6 @@
 ---
 shortcode: gorsinelleofcinbarsels
-name: {full: Gorsinelle of Cinbarsels, aliases: []}
+name: {full: Gorsinelle of Cinbarsels}
 type: being
 subType: npc
 tags: []

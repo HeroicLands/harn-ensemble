@@ -1,6 +1,6 @@
 ---
 shortcode: tolmeyofonparsin
-name: {full: Tolmey of Onparsin, aliases: []}
+name: {full: Tolmey of Onparsin}
 type: being
 subType: npc
 tags: []

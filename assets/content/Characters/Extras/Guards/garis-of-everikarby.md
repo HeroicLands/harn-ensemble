@@ -1,6 +1,6 @@
 ---
 shortcode: garisofeverikarby
-name: {full: Garis of Everikarby, aliases: []}
+name: {full: Garis of Everikarby}
 type: being
 subType: npc
 tags: []

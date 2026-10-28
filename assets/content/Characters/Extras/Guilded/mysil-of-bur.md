@@ -1,6 +1,6 @@
 ---
 shortcode: mysilofbur
-name: {full: Mysil of Bur, aliases: []}
+name: {full: Mysil of Bur}
 type: being
 subType: npc
 tags: []

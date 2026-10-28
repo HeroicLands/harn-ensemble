@@ -1,6 +1,6 @@
 ---
 shortcode: obrantofsarn
-name: {full: Obrant of Sarn, aliases: []}
+name: {full: Obrant of Sarn}
 type: being
 subType: npc
 tags: []

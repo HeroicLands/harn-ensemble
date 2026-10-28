@@ -1,6 +1,6 @@
 ---
 shortcode: pallisofiribor
-name: {full: Pallis of Iribor, aliases: []}
+name: {full: Pallis of Iribor}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gorsineofrenel
-name: {full: Gorsine of Renel, aliases: []}
+name: {full: Gorsine of Renel}
 type: being
 subType: npc
 tags: []

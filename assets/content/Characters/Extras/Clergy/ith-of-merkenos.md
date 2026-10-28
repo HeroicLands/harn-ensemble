@@ -1,6 +1,6 @@
 ---
 shortcode: ithofmerkenos
-name: {full: Ith of Merkenos, aliases: []}
+name: {full: Ith of Merkenos}
 type: being
 subType: npc
 tags: []

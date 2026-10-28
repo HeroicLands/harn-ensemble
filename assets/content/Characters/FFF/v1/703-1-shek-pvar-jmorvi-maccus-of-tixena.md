@@ -1,6 +1,6 @@
 ---
 shortcode: maccusoftixena
-name: {full: Maccus of Tixena, aliases: []}
+name: {full: Maccus of Tixena}
 type: being
 subType: character
 tags: []

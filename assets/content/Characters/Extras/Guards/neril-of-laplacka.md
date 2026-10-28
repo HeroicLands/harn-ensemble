@@ -1,6 +1,6 @@
 ---
 shortcode: neriloflaplacka
-name: {full: Neril of Laplacka, aliases: []}
+name: {full: Neril of Laplacka}
 type: being
 subType: npc
 tags: []

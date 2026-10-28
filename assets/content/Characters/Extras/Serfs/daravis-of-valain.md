@@ -1,6 +1,6 @@
 ---
 shortcode: daravisofvalain
-name: {full: Daravis of Valain, aliases: []}
+name: {full: Daravis of Valain}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: saiofclean
-name: {full: Sai of Clean, aliases: []}
+name: {full: Sai of Clean}
 type: being
 subType: npc
 tags: []

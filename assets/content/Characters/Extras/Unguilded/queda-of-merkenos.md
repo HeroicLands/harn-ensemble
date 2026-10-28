@@ -1,6 +1,6 @@
 ---
 shortcode: quedaofmerkenos
-name: {full: Queda of Merkenos, aliases: []}
+name: {full: Queda of Merkenos}
 type: being
 subType: npc
 tags: []

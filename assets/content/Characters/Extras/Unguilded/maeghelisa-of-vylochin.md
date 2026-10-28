@@ -1,6 +1,6 @@
 ---
 shortcode: maeghelisaofvylochin
-name: {full: Maeghelisa of Vylochin, aliases: []}
+name: {full: Maeghelisa of Vylochin}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: mugapsawei
-name: {full: Muga Psawei, aliases: []}
+name: {full: Muga Psawei}
 type: being
 subType: character
 tags: []

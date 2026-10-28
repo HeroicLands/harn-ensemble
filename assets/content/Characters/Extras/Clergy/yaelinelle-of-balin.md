@@ -1,6 +1,6 @@
 ---
 shortcode: yaelinelleofbalin
-name: {full: Yaelinelle of Balin, aliases: []}
+name: {full: Yaelinelle of Balin}
 type: being
 subType: npc
 tags: []

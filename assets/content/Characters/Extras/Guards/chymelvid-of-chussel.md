@@ -1,6 +1,6 @@
 ---
 shortcode: chymelvidofchussel
-name: {full: Chymelvid of Chussel, aliases: []}
+name: {full: Chymelvid of Chussel}
 type: being
 subType: npc
 tags: []

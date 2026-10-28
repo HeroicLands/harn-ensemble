@@ -1,6 +1,6 @@
 ---
 shortcode: martewnoftrollaterikarbeda
-name: {full: Martewn of Trollaterikarbeda, aliases: []}
+name: {full: Martewn of Trollaterikarbeda}
 type: being
 subType: npc
 tags: []

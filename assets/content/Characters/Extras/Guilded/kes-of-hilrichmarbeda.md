@@ -1,6 +1,6 @@
 ---
 shortcode: kesofhilrichmarbeda
-name: {full: Kes of Hilrichmarbeda, aliases: []}
+name: {full: Kes of Hilrichmarbeda}
 type: being
 subType: npc
 tags: []

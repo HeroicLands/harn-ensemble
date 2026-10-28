@@ -1,6 +1,6 @@
 ---
 shortcode: aldaofmadib
-name: {full: Alda of Madib, aliases: []}
+name: {full: Alda of Madib}
 type: being
 subType: npc
 tags: []

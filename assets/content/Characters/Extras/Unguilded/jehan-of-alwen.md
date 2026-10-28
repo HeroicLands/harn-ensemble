@@ -1,6 +1,6 @@
 ---
 shortcode: jehanofalwen
-name: {full: Jehan of Alwen, aliases: []}
+name: {full: Jehan of Alwen}
 type: being
 subType: npc
 tags: []

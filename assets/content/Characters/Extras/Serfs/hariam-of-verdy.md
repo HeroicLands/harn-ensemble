@@ -1,6 +1,6 @@
 ---
 shortcode: hariamofverdy
-name: {full: Hariam of Verdy, aliases: []}
+name: {full: Hariam of Verdy}
 type: being
 subType: npc
 tags: []

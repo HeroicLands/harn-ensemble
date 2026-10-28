@@ -1,6 +1,6 @@
 ---
 shortcode: jellionofever
-name: {full: Jellion of Ever, aliases: []}
+name: {full: Jellion of Ever}
 type: being
 subType: npc
 tags: []

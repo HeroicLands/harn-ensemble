@@ -1,6 +1,6 @@
 ---
 shortcode: tomusofvaro
-name: {full: Tomus of Varo, aliases: []}
+name: {full: Tomus of Varo}
 type: being
 subType: npc
 tags: []

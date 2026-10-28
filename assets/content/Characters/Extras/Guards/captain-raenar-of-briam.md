@@ -1,6 +1,6 @@
 ---
 shortcode: captainraenarofbriam
-name: {full: Captain Raenar of Briam, aliases: []}
+name: {full: Captain Raenar of Briam}
 type: being
 subType: npc
 tags: []

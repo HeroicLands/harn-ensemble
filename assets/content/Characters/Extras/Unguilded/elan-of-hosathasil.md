@@ -1,6 +1,6 @@
 ---
 shortcode: elanofhosathasil
-name: {full: Elan of Hosathasil, aliases: []}
+name: {full: Elan of Hosathasil}
 type: being
 subType: npc
 tags: []

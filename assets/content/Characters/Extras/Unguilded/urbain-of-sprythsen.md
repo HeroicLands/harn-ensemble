@@ -1,6 +1,6 @@
 ---
 shortcode: urbainofsprythsen
-name: {full: Urbain of Sprythsen, aliases: []}
+name: {full: Urbain of Sprythsen}
 type: being
 subType: npc
 tags: []

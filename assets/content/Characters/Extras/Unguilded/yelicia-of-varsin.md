@@ -1,6 +1,6 @@
 ---
 shortcode: yeliciaofvarsin
-name: {full: Yelicia of Varsin, aliases: []}
+name: {full: Yelicia of Varsin}
 type: being
 subType: npc
 tags: []

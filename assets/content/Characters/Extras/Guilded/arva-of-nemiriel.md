@@ -1,6 +1,6 @@
 ---
 shortcode: arvaofnemiriel
-name: {full: Arva of Nemiriel, aliases: []}
+name: {full: Arva of Nemiriel}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: shaeldaofjorwynn
-name: {full: Shaelda of Jorwynn, aliases: []}
+name: {full: Shaelda of Jorwynn}
 type: being
 subType: npc
 tags: []

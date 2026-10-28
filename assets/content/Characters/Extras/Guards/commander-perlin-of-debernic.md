@@ -1,6 +1,6 @@
 ---
 shortcode: commanderperlinofdebernic
-name: {full: Commander Perlin of Debernic, aliases: []}
+name: {full: Commander Perlin of Debernic}
 type: being
 subType: npc
 tags: []

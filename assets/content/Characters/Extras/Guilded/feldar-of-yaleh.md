@@ -1,6 +1,6 @@
 ---
 shortcode: feldarofyaleh
-name: {full: Feldar of Yaleh, aliases: []}
+name: {full: Feldar of Yaleh}
 type: being
 subType: npc
 tags: []

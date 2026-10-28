@@ -1,6 +1,6 @@
 ---
 shortcode: semisofhiltex
-name: {full: Semis of Hiltex, aliases: []}
+name: {full: Semis of Hiltex}
 type: being
 subType: npc
 tags: []

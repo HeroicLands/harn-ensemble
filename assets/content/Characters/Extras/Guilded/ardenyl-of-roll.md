@@ -1,6 +1,6 @@
 ---
 shortcode: ardenylofroll
-name: {full: Ardenyl of Roll, aliases: []}
+name: {full: Ardenyl of Roll}
 type: being
 subType: npc
 tags: []

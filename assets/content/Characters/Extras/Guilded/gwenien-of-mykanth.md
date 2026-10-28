@@ -1,6 +1,6 @@
 ---
 shortcode: gwenienofmykanth
-name: {full: Gwenien of Mykanth, aliases: []}
+name: {full: Gwenien of Mykanth}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: seelieofkestel
-name: {full: Seelie of Kestel, aliases: []}
+name: {full: Seelie of Kestel}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: elderienofsiven
-name: {full: Elderien of Siven, aliases: []}
+name: {full: Elderien of Siven}
 type: being
 subType: npc
 tags: []

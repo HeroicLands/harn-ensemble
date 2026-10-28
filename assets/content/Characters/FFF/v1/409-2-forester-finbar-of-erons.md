@@ -1,6 +1,6 @@
 ---
 shortcode: finbaroferons
-name: {full: Finbar of Erons, aliases: []}
+name: {full: Finbar of Erons}
 type: being
 subType: character
 tags: []

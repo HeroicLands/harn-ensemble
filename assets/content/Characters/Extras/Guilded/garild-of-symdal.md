@@ -1,6 +1,6 @@
 ---
 shortcode: garildofsymdal
-name: {full: Garild of Symdal, aliases: []}
+name: {full: Garild of Symdal}
 type: being
 subType: npc
 tags: []

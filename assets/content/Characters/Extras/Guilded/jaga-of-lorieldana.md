@@ -1,6 +1,6 @@
 ---
 shortcode: jagaoflorieldana
-name: {full: Jaga of Lorieldana, aliases: []}
+name: {full: Jaga of Lorieldana}
 type: being
 subType: npc
 tags: []

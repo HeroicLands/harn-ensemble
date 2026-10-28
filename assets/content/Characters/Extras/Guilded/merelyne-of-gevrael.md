@@ -1,6 +1,6 @@
 ---
 shortcode: merelyneofgevrael
-name: {full: Merelyne of Gevrael, aliases: []}
+name: {full: Merelyne of Gevrael}
 type: being
 subType: npc
 tags: []

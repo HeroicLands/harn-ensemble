@@ -1,6 +1,6 @@
 ---
 shortcode: keridofchomelvoen
-name: {full: Kerid of Chomelvoen, aliases: []}
+name: {full: Kerid of Chomelvoen}
 type: being
 subType: npc
 tags: []

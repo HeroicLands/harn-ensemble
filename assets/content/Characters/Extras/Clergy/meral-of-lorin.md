@@ -1,6 +1,6 @@
 ---
 shortcode: meraloflorin
-name: {full: Meral of Lorin, aliases: []}
+name: {full: Meral of Lorin}
 type: being
 subType: npc
 tags: []

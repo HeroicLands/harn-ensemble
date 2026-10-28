@@ -1,6 +1,6 @@
 ---
 shortcode: veteranchaklynofmatlimundon
-name: {full: Veteran Chaklyn of Matlimundon, aliases: []}
+name: {full: Veteran Chaklyn of Matlimundon}
 type: being
 subType: npc
 tags: []

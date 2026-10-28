@@ -1,6 +1,6 @@
 ---
 shortcode: dafydstahlman
-name: {full: Dafyd Stahlman, aliases: []}
+name: {full: Dafyd Stahlman}
 type: being
 subType: character
 tags: []

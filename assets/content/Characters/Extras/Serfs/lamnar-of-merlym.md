@@ -1,6 +1,6 @@
 ---
 shortcode: lamnarofmerlym
-name: {full: Lamnar of Merlym, aliases: []}
+name: {full: Lamnar of Merlym}
 type: being
 subType: npc
 tags: []

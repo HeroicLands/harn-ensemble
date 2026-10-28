@@ -1,6 +1,6 @@
 ---
 shortcode: kibatam
-name: {full: Kiba Tam, aliases: []}
+name: {full: Kiba Tam}
 type: being
 subType: character
 tags: []

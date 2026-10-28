@@ -1,6 +1,6 @@
 ---
 shortcode: kerilaofnarass
-name: {full: Kerila of Narass, aliases: []}
+name: {full: Kerila of Narass}
 type: being
 subType: npc
 tags: []

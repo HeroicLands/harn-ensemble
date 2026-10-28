@@ -1,6 +1,6 @@
 ---
 shortcode: daltonofsidethaen
-name: {full: Dalton of Sidethaen, aliases: []}
+name: {full: Dalton of Sidethaen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: wereleofquirin
-name: {full: Werele of Quirin, aliases: []}
+name: {full: Werele of Quirin}
 type: being
 subType: npc
 tags: []

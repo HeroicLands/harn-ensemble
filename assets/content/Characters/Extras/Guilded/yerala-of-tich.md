@@ -1,6 +1,6 @@
 ---
 shortcode: yeralaoftich
-name: {full: Yerala of Tich, aliases: []}
+name: {full: Yerala of Tich}
 type: being
 subType: npc
 tags: []

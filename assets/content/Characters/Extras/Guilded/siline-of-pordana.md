@@ -1,6 +1,6 @@
 ---
 shortcode: silineofpordana
-name: {full: Siline of Pordana, aliases: []}
+name: {full: Siline of Pordana}
 type: being
 subType: npc
 tags: []

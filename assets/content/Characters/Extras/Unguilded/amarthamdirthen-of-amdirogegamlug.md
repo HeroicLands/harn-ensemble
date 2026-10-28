@@ -1,6 +1,6 @@
 ---
 shortcode: amarthamdirthenofamdirogegamlug
-name: {full: Amarthamdirthen of Amdirogegamlug, aliases: []}
+name: {full: Amarthamdirthen of Amdirogegamlug}
 type: being
 subType: npc
 tags: []

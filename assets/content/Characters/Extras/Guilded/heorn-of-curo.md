@@ -1,6 +1,6 @@
 ---
 shortcode: heornofcuro
-name: {full: Heorn of Curo, aliases: []}
+name: {full: Heorn of Curo}
 type: being
 subType: npc
 tags: []

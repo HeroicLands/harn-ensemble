@@ -1,6 +1,6 @@
 ---
 shortcode: klarmofewel
-name: {full: Klarm of Ewel, aliases: []}
+name: {full: Klarm of Ewel}
 type: being
 subType: npc
 tags: []

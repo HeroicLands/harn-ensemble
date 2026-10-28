@@ -1,6 +1,6 @@
 ---
 shortcode: amdirofastor
-name: {full: Amdir of Astor, aliases: []}
+name: {full: Amdir of Astor}
 type: being
 subType: npc
 tags: []

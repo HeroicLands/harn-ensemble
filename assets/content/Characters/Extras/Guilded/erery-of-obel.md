@@ -1,6 +1,6 @@
 ---
 shortcode: ereryofobel
-name: {full: Erery of Obel, aliases: []}
+name: {full: Erery of Obel}
 type: being
 subType: npc
 tags: []

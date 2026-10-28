@@ -1,6 +1,6 @@
 ---
 shortcode: captainarbinofuert
-name: {full: Captain Arbin of Uert, aliases: []}
+name: {full: Captain Arbin of Uert}
 type: being
 subType: npc
 tags: []

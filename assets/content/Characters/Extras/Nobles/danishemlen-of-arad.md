@@ -1,6 +1,6 @@
 ---
 shortcode: danishemlenofarad
-name: {full: Danishemlen of Arad, aliases: []}
+name: {full: Danishemlen of Arad}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: sorolofbela
-name: {full: Sorol of Bela, aliases: []}
+name: {full: Sorol of Bela}
 type: being
 subType: npc
 tags: []

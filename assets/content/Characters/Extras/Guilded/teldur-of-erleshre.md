@@ -1,6 +1,6 @@
 ---
 shortcode: telduroferleshre
-name: {full: Teldur of Erleshre, aliases: []}
+name: {full: Teldur of Erleshre}
 type: being
 subType: npc
 tags: []

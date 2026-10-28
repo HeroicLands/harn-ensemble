@@ -1,6 +1,6 @@
 ---
 shortcode: lodinofelere
-name: {full: Lodin of Elere, aliases: []}
+name: {full: Lodin of Elere}
 type: being
 subType: npc
 tags: []

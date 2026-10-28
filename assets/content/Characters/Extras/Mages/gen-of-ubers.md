@@ -1,6 +1,6 @@
 ---
 shortcode: genofubers
-name: {full: Gen of Ubers, aliases: []}
+name: {full: Gen of Ubers}
 type: being
 subType: npc
 tags: []

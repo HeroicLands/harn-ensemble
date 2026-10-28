@@ -1,6 +1,6 @@
 ---
 shortcode: sepianofarad
-name: {full: Sepian of Arad, aliases: []}
+name: {full: Sepian of Arad}
 type: being
 subType: npc
 tags: []

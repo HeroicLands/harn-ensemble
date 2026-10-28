@@ -1,6 +1,6 @@
 ---
 shortcode: geacelsonofgrathias
-name: {full: Geacelson of Grathias, aliases: []}
+name: {full: Geacelson of Grathias}
 type: being
 subType: npc
 tags: []

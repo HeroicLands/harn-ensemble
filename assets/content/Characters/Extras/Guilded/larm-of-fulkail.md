@@ -1,6 +1,6 @@
 ---
 shortcode: larmoffulkail
-name: {full: Larm of Fulkail, aliases: []}
+name: {full: Larm of Fulkail}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: arilofcinbarn
-name: {full: Aril of Cinbarn, aliases: []}
+name: {full: Aril of Cinbarn}
 type: being
 subType: npc
 tags: []

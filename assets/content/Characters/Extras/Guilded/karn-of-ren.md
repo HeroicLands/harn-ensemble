@@ -1,6 +1,6 @@
 ---
 shortcode: karnofren
-name: {full: Karn of Ren, aliases: []}
+name: {full: Karn of Ren}
 type: being
 subType: npc
 tags: []

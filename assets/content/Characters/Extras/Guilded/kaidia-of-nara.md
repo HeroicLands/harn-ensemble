@@ -1,6 +1,6 @@
 ---
 shortcode: kaidiaofnara
-name: {full: Kaidia of Nara, aliases: []}
+name: {full: Kaidia of Nara}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: grulderielaofamafa
-name: {full: Grulderiela of Amafa, aliases: []}
+name: {full: Grulderiela of Amafa}
 type: being
 subType: npc
 tags: []

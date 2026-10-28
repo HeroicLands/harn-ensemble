@@ -1,6 +1,6 @@
 ---
 shortcode: saiofvaros
-name: {full: Sai of Varos, aliases: []}
+name: {full: Sai of Varos}
 type: being
 subType: npc
 tags: []

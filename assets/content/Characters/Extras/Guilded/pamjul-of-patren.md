@@ -1,6 +1,6 @@
 ---
 shortcode: pamjulofpatren
-name: {full: Pamjul of Patren, aliases: []}
+name: {full: Pamjul of Patren}
 type: being
 subType: npc
 tags: []

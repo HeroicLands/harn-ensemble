@@ -1,6 +1,6 @@
 ---
 shortcode: feldisofbela
-name: {full: Feldis of Bela, aliases: []}
+name: {full: Feldis of Bela}
 type: being
 subType: npc
 tags: []

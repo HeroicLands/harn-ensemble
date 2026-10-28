@@ -1,6 +1,6 @@
 ---
 shortcode: arkaelofmagamapel
-name: {full: Arkael of Magamapel, aliases: []}
+name: {full: Arkael of Magamapel}
 type: being
 subType: npc
 tags: []

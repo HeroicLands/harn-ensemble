@@ -1,6 +1,6 @@
 ---
 shortcode: milniqofewen
-name: {full: Milniq of Ewen, aliases: []}
+name: {full: Milniq of Ewen}
 type: being
 subType: npc
 tags: []

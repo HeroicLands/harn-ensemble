@@ -1,6 +1,6 @@
 ---
 shortcode: yelineoflund
-name: {full: Yeline of Lund, aliases: []}
+name: {full: Yeline of Lund}
 type: being
 subType: npc
 tags: []

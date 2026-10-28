@@ -1,6 +1,6 @@
 ---
 shortcode: cheselynofanefris
-name: {full: Cheselyn of Anefris, aliases: []}
+name: {full: Cheselyn of Anefris}
 type: being
 subType: npc
 tags: []

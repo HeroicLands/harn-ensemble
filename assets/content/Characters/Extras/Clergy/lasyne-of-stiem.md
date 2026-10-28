@@ -1,6 +1,6 @@
 ---
 shortcode: lasyneofstiem
-name: {full: Lasyne of Stiem, aliases: []}
+name: {full: Lasyne of Stiem}
 type: being
 subType: npc
 tags: []

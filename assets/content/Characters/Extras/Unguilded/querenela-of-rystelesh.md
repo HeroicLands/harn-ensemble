@@ -1,6 +1,6 @@
 ---
 shortcode: querenelaofrystelesh
-name: {full: Querenela of Rystelesh, aliases: []}
+name: {full: Querenela of Rystelesh}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: gordyofflaren
-name: {full: Gordy of Flaren, aliases: []}
+name: {full: Gordy of Flaren}
 type: being
 subType: character
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: talsisofagadast
-name: {full: Talsis of Agadast, aliases: []}
+name: {full: Talsis of Agadast}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: lyciaofever
-name: {full: Lycia of Ever, aliases: []}
+name: {full: Lycia of Ever}
 type: being
 subType: npc
 tags: []

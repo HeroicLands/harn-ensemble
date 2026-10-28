@@ -1,6 +1,6 @@
 ---
 shortcode: genofgimbek
-name: {full: Gen of Gimbek, aliases: []}
+name: {full: Gen of Gimbek}
 type: being
 subType: npc
 tags: []

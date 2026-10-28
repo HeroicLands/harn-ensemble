@@ -1,6 +1,6 @@
 ---
 shortcode: parmenofbetane
-name: {full: Parmen of Betane, aliases: []}
+name: {full: Parmen of Betane}
 type: being
 subType: npc
 tags: []

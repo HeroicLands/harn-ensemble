@@ -1,6 +1,6 @@
 ---
 shortcode: piriaofdebern
-name: {full: Piria of Debern, aliases: []}
+name: {full: Piria of Debern}
 type: being
 subType: npc
 tags: []

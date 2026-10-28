@@ -1,6 +1,6 @@
 ---
 shortcode: ardethofquardan
-name: {full: Ardeth of Quardan, aliases: []}
+name: {full: Ardeth of Quardan}
 type: being
 subType: npc
 tags: []

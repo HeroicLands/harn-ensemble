@@ -1,6 +1,6 @@
 ---
 shortcode: perithelame
-name: {full: Peri the Lame, aliases: []}
+name: {full: Peri the Lame}
 type: being
 subType: character
 tags: []

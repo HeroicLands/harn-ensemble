@@ -1,6 +1,6 @@
 ---
 shortcode: marekofkail
-name: {full: Marek of Kail, aliases: []}
+name: {full: Marek of Kail}
 type: being
 subType: character
 tags: []

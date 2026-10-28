@@ -1,6 +1,6 @@
 ---
 shortcode: gavinofwem
-name: {full: Gavin of Wem, aliases: []}
+name: {full: Gavin of Wem}
 type: being
 subType: character
 tags: []

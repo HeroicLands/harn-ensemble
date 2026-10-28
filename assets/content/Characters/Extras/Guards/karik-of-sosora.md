@@ -1,6 +1,6 @@
 ---
 shortcode: karikofsosora
-name: {full: Karik of Sosora, aliases: []}
+name: {full: Karik of Sosora}
 type: being
 subType: npc
 tags: []

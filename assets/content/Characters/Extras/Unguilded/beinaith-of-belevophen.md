@@ -1,6 +1,6 @@
 ---
 shortcode: beinaithofbelevophen
-name: {full: Beinaith of Belevophen, aliases: []}
+name: {full: Beinaith of Belevophen}
 type: being
 subType: npc
 tags: []

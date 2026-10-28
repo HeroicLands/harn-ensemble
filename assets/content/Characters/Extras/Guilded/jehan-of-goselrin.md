@@ -1,6 +1,6 @@
 ---
 shortcode: jehanofgoselrin
-name: {full: Jehan of Goselrin, aliases: []}
+name: {full: Jehan of Goselrin}
 type: being
 subType: npc
 tags: []

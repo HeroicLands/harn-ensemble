@@ -1,6 +1,6 @@
 ---
 shortcode: balofubelaranoal
-name: {full: Bal of Ubelaranoal, aliases: []}
+name: {full: Bal of Ubelaranoal}
 type: being
 subType: npc
 tags: []

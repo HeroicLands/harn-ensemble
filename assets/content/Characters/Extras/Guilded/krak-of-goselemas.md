@@ -1,6 +1,6 @@
 ---
 shortcode: krakofgoselemas
-name: {full: Krak of Goselemas, aliases: []}
+name: {full: Krak of Goselemas}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: iameofvanth
-name: {full: Iame of Vanth, aliases: []}
+name: {full: Iame of Vanth}
 type: being
 subType: npc
 tags: []

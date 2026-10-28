@@ -1,6 +1,6 @@
 ---
 shortcode: amdirofbelt
-name: {full: Amdir of Belt, aliases: []}
+name: {full: Amdir of Belt}
 type: being
 subType: npc
 tags: []

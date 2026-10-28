@@ -1,6 +1,6 @@
 ---
 shortcode: arkotofquirinsen
-name: {full: Arkot of Quirinsen, aliases: []}
+name: {full: Arkot of Quirinsen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: celegofannamath
-name: {full: Celeg of Annamath, aliases: []}
+name: {full: Celeg of Annamath}
 type: being
 subType: npc
 tags: []

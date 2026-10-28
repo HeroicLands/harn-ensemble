@@ -1,6 +1,6 @@
 ---
 shortcode: jorantofcrane
-name: {full: Jorant of Crane, aliases: []}
+name: {full: Jorant of Crane}
 type: being
 subType: npc
 tags: []

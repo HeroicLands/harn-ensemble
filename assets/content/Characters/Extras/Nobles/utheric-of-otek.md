@@ -1,6 +1,6 @@
 ---
 shortcode: uthericofotek
-name: {full: Utheric of Otek, aliases: []}
+name: {full: Utheric of Otek}
 type: being
 subType: npc
 tags: []

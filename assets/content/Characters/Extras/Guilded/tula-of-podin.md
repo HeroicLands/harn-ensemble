@@ -1,6 +1,6 @@
 ---
 shortcode: tulaofpodin
-name: {full: Tula of Podin, aliases: []}
+name: {full: Tula of Podin}
 type: being
 subType: npc
 tags: []

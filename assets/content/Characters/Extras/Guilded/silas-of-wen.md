@@ -1,6 +1,6 @@
 ---
 shortcode: silasofwen
-name: {full: Silas of Wen, aliases: []}
+name: {full: Silas of Wen}
 type: being
 subType: npc
 tags: []

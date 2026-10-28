@@ -1,6 +1,6 @@
 ---
 shortcode: sarinofonpariam
-name: {full: Sarin of Onpariam, aliases: []}
+name: {full: Sarin of Onpariam}
 type: being
 subType: npc
 tags: []

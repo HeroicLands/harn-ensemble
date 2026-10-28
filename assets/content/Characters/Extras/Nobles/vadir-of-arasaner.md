@@ -1,6 +1,6 @@
 ---
 shortcode: vadirofarasaner
-name: {full: Vadir of Arasaner, aliases: []}
+name: {full: Vadir of Arasaner}
 type: being
 subType: npc
 tags: []

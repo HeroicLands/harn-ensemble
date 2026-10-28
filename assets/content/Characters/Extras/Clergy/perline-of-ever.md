@@ -1,6 +1,6 @@
 ---
 shortcode: perlineofever
-name: {full: Perline of Ever, aliases: []}
+name: {full: Perline of Ever}
 type: being
 subType: npc
 tags: []

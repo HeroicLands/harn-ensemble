@@ -1,6 +1,6 @@
 ---
 shortcode: pontousofsosora
-name: {full: Pontous of Sosora, aliases: []}
+name: {full: Pontous of Sosora}
 type: being
 subType: npc
 tags: []

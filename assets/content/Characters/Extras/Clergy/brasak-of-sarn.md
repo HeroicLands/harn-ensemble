@@ -1,6 +1,6 @@
 ---
 shortcode: brasakofsarn
-name: {full: Brasak of Sarn, aliases: []}
+name: {full: Brasak of Sarn}
 type: being
 subType: npc
 tags: []

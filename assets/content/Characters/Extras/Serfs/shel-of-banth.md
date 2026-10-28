@@ -1,6 +1,6 @@
 ---
 shortcode: shelofbanth
-name: {full: Shel of Banth, aliases: []}
+name: {full: Shel of Banth}
 type: being
 subType: npc
 tags: []

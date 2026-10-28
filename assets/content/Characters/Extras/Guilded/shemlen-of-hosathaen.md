@@ -1,6 +1,6 @@
 ---
 shortcode: shemlenofhosathaen
-name: {full: Shemlen of Hosathaen, aliases: []}
+name: {full: Shemlen of Hosathaen}
 type: being
 subType: npc
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: hervaofgwen
-name: {full: Herva of Gwen, aliases: []}
+name: {full: Herva of Gwen}
 type: being
 subType: npc
 tags: []
