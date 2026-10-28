@@ -1,5 +1,16 @@
 # harn-ensemble
 
+## 0.0.2
+
+**Compendiums**
+
+- Hair, eye and skin colors on every character sheet now use the standard color words, and a character's skin condition (clear, pockmarked, scabrous, freckled) shows as a condition rather than the comeliness word.
+- A character's extra features list only plain physical marks; illnesses, habits and gear stay in the character's notes.
+
+**Website**
+
+- The website has a Credits page naming the authors, editors, artists and art sponsors behind the characters.
+
 ## 0.0.1
 
 ### Patch Changes
