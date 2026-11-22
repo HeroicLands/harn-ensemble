@@ -4,5 +4,5 @@
 
 **Compendiums**
 
-- Hair, eye and skin colors on every character sheet now use the standard color words, and a character's skin condition (clear, pockmarked, scabrous, freckled) shows as a condition rather than the comeliness word.
+- Character sheets use standard hair, eye and skin colors and describe skin condition in physical terms such as clear, pockmarked, scabrous or freckled.
 - A character's extra features list only plain physical marks; illnesses, habits and gear stay in the character's notes.
